@@ -256,12 +256,12 @@ Runtime phải có `APP_ENV=production`, `PROCEDURE_DATA_MODE=disabled`, `RAG_MO
 
 - D-012 không thay thế D-006. Cả hai đã được peer xác nhận; billing/credit, IAM, local/container smoke và candidate smoke vẫn là gate chặn provisioning hoặc traffic.
 - Build từ `backend/`, container chạy non-root và lắng nghe `PORT`; local lint/test/container smoke là gate.
-- Deploy revision candidate `--no-traffic`, smoke `/health`, `/openapi.json`, `/docs` và fail-closed contract trước khi chuyển 100% traffic.
+- Với service đã có stable revision, deploy candidate `--no-traffic`, smoke `/health`, `/openapi.json`, `/docs` và fail-closed contract trước khi chuyển 100% traffic. Cloud Run không hỗ trợ `--no-traffic` khi tạo service đầu tiên: bootstrap revision phải private/authenticated-only, smoke bằng identity token, rồi mới mở public access.
 - Ghi image digest, revision, URL, timestamp, smoke result và rollback revision vào handoff; tạo budget alert 10/25/50/80/100% của 1,000,000 VND sau billing review.
 
 ### Rollback / fallback
 
-Nếu candidate smoke hoặc 5xx lỗi, không chuyển traffic; deploy sau rollback traffic về revision stable trước. Nếu deploy đầu tiên lỗi, không mở traffic và dùng backend local làm fallback. Nếu billing/credit, IAM hoặc smoke không đạt, dừng ở artifact/runbook local.
+Nếu candidate smoke hoặc 5xx lỗi, không chuyển traffic; deploy sau rollback traffic về revision stable trước. Nếu bootstrap smoke lần đầu lỗi, không mở public access và dùng backend local làm fallback. Nếu billing/credit, IAM hoặc smoke không đạt, dừng ở artifact/runbook local.
 
 ---
 

@@ -156,7 +156,7 @@ gcloud artifacts repositories add-iam-policy-binding $Repository `
 
 Không tạo Secret Manager, Cloud SQL, application Cloud Storage, Vertex AI, vector DB, VPC connector hay NAT. `gcloud builds submit` có thể dùng vùng staging/log do Cloud Build quản lý; build context đó chỉ được chứa `backend/` đã qua ignore rules và không phải storage runtime của ứng dụng. Không gán role vào `$RuntimeServiceAccount`; gán `iam.serviceAccountUser` cho deployer theo thời gian cần thiết để attach nó.
 
-## 4. Build image immutable và deploy candidate không traffic
+## 4. Build image immutable và deploy candidate
 
 ```powershell
 $CommitSha = (git rev-parse --verify HEAD).Trim()
@@ -186,9 +186,31 @@ gcloud run deploy $Service `
   --set-env-vars '^@^APP_ENV=production@PROCEDURE_DATA_MODE=disabled@RAG_MODE=disabled@LLM_MODE=disabled@RATE_LIMIT_ENABLED=true@RATE_LIMIT_REQUESTS=60@RATE_LIMIT_WINDOW_SECONDS=60@CORS_ALLOWED_ORIGINS='
 ```
 
-`--no-traffic` bảo vệ stable revision. Lưu `$ImageDigest`, revision candidate và timestamp vào Context Pack/handoff; không ghi token hoặc raw request body.
+Lệnh trên áp dụng khi service đã có stable revision. `--no-traffic` bảo vệ stable revision. Lưu `$ImageDigest`, revision candidate và timestamp vào Context Pack/handoff; không ghi token hoặc raw request body.
 
-Ngay sau deploy, xác minh mapping tag/traffic thay vì giả định deploy đầu tiên đã có stable traffic. Với service mới, chỉ tiếp tục khi output cho thấy revision candidate có tag `candidate` và không nhận traffic production; với service đã có revision stable, candidate phải có `percent: 0`:
+### Bootstrap service đầu tiên
+
+Cloud Run không hỗ trợ `--no-traffic` khi tạo service đầu tiên. Để không mở public API trước application smoke, tạo revision đầu tiên ở chế độ private/authenticated-only; chỉ mở `allUsers` sau khi smoke qua. Thay block deploy ở trên bằng:
+
+```powershell
+gcloud run deploy $Service `
+  --project $ProjectId `
+  --region $Region `
+  --image $ImageDigest `
+  --service-account "$RuntimeServiceAccount@$ProjectId.iam.gserviceaccount.com" `
+  --no-allow-unauthenticated `
+  --tag candidate `
+  --port 8080 `
+  --cpu 1 `
+  --memory 512Mi `
+  --cpu-throttling `
+  --min-instances 0 `
+  --max-instances 1 `
+  --timeout 20s `
+  --set-env-vars '^@^APP_ENV=production@PROCEDURE_DATA_MODE=disabled@RAG_MODE=disabled@LLM_MODE=disabled@RATE_LIMIT_ENABLED=true@RATE_LIMIT_REQUESTS=60@RATE_LIMIT_WINDOW_SECONDS=60@CORS_ALLOWED_ORIGINS='
+```
+
+Ngay sau deploy, xác minh mapping tag/traffic thay vì giả định deploy đầu tiên đã có stable traffic. Với service mới, candidate nhận traffic nhưng service vẫn private; với service đã có revision stable, candidate phải có `percent: 0`:
 
 ```powershell
 gcloud run services describe $Service --project $ProjectId --region $Region --format='yaml(status.latestReadyRevisionName,status.traffic)'
@@ -198,9 +220,9 @@ $CandidateUrl = 'https://<candidate-tag-url>'
 if ($CandidateRevision -eq '<candidate-revision-name>' -or $CandidateUrl -eq 'https://<candidate-tag-url>') { throw 'capture candidate revision and tagged URL before smoke' }
 ```
 
-## 5. Candidate smoke, traffic và rollback
+## 5. Candidate smoke, traffic, public access và rollback
 
-Với URL candidate public đã capture ở bước 4:
+Với service đã có stable revision, dùng URL candidate public đã capture ở bước 4:
 
 ```powershell
 Invoke-WebRequest "$CandidateUrl/health" -UseBasicParsing
@@ -208,18 +230,37 @@ Invoke-WebRequest "$CandidateUrl/openapi.json" -UseBasicParsing
 Invoke-WebRequest "$CandidateUrl/docs" -UseBasicParsing
 ```
 
-Chạy lại toàn bộ smoke production-disabled ở bước 1 với `$CandidateUrl`. Chỉ sau khi pass, chuyển 100% traffic:
+Với bootstrap service đầu tiên private, lấy ID token cho service URL rồi chạy đúng các smoke production-disabled ở bước 1 với header sau; không log token:
+
+```powershell
+$ServiceUrl = (gcloud run services describe $Service --project $ProjectId --region $Region --format='value(status.url)').Trim()
+$IdentityToken = (gcloud auth print-identity-token --audiences=$ServiceUrl).Trim()
+$AuthHeaders = @{ Authorization = "Bearer $IdentityToken" }
+Invoke-WebRequest "$ServiceUrl/health" -Headers $AuthHeaders -UseBasicParsing
+Invoke-WebRequest "$ServiceUrl/openapi.json" -Headers $AuthHeaders -UseBasicParsing
+Invoke-WebRequest "$ServiceUrl/docs" -Headers $AuthHeaders -UseBasicParsing
+```
+
+Chỉ sau smoke bootstrap pass, mở public demo access:
+
+```powershell
+gcloud run services add-iam-policy-binding $Service --project $ProjectId --region $Region `
+  --member='allUsers' --role='roles/run.invoker'
+gcloud run services describe $Service --project $ProjectId --region $Region --format='value(status.url)'
+```
+
+Với deploy sau khi service đã có stable revision, chuyển 100% traffic sau candidate smoke:
 
 ```powershell
 gcloud run services update-traffic $Service --project $ProjectId --region $Region --to-revisions "$CandidateRevision=100"
 gcloud run services describe $Service --project $ProjectId --region $Region --format='value(status.url)'
 ```
 
-Nếu smoke candidate/5xx fail, không chuyển traffic. Với deploy sau đó, rollback là chuyển traffic về revision stable trước:
+Nếu smoke candidate/5xx fail, không chuyển traffic hoặc không mở public access. Với deploy sau đó, rollback là chuyển traffic về revision stable trước:
 
 ```powershell
 gcloud run revisions list --service $Service --project $ProjectId --region $Region
 gcloud run services update-traffic $Service --project $ProjectId --region $Region --to-revisions '<previous-stable-revision>=100'
 ```
 
-Lần deploy đầu thất bại không có rollback revision: giữ backend local làm fallback và ghi failure evidence. Public access ở đây chỉ là demo API theo lựa chọn đã chốt, không phải integration production với Cổng DVCQG. Xem [Cloud Run public access](https://docs.cloud.google.com/run/docs/authenticating/public).
+Lần deploy đầu thất bại không có rollback revision: giữ service private hoặc xóa service theo owner quyết định, dùng backend local làm fallback và ghi failure evidence. Public access ở đây chỉ là demo API theo lựa chọn đã chốt, không phải integration production với Cổng DVCQG. Xem [Cloud Run public access](https://docs.cloud.google.com/run/docs/authenticating/public).
