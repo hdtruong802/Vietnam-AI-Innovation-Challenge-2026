@@ -1,8 +1,28 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FFFFFF;
+  --foreground: #0F172A;
+
+  --color-primary-raw: #0F172A;
+  --color-neutral-bg-raw: #F8FAFC;
+  --color-accent-raw: #2563EB;
+  --color-accent-hover-raw: #1D4ED8;
+
+  --color-warning-raw: #D97706;
+  --color-warning-bg-raw: #FFFBEB;
+  --color-warning-border-raw: #FDE68A;
+
+  --color-error-raw: #DC2626;
+  --color-error-bg-raw: #FEF2F2;
+  --color-error-border-raw: #FEE2E2;
+
+  --color-success-raw: #16A34A;
+  --color-success-bg-raw: #F0FDF4;
+  --color-success-border-raw: #DCFCE7;
+
+  --color-border-slate-raw: #E2E8F0;
+  --color-card-bg-raw: #FFFFFF;
 }
 
 @theme inline {
@@ -10,12 +30,48 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  --color-primary: var(--color-primary-raw);
+  --color-neutral-bg: var(--color-neutral-bg-raw);
+  --color-accent: var(--color-accent-raw);
+  --color-accent-hover: var(--color-accent-hover-raw);
+  --color-warning: var(--color-warning-raw);
+  --color-warning-bg: var(--color-warning-bg-raw);
+  --color-warning-border: var(--color-warning-border-raw);
+  --color-error: var(--color-error-raw);
+  --color-error-bg: var(--color-error-bg-raw);
+  --color-error-border: var(--color-error-border-raw);
+  --color-success: var(--color-success-raw);
+  --color-success-bg: var(--color-success-bg-raw);
+  --color-success-border: var(--color-success-border-raw);
+  --color-border-slate: var(--color-border-slate-raw);
+  --color-card-bg: var(--color-card-bg-raw);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #090D16;
+    --foreground: #F8FAFC;
+
+    --color-primary-raw: #F8FAFC;
+    --color-neutral-bg-raw: #0F172A;
+    --color-accent-raw: #3B82F6;
+    --color-accent-hover-raw: #60A5FA;
+
+    --color-warning-raw: #F59E0B;
+    --color-warning-bg-raw: #321F0A;
+    --color-warning-border-raw: #78350F;
+
+    --color-error-raw: #EF4444;
+    --color-error-bg-raw: #3B0808;
+    --color-error-border-raw: #7F1D1D;
+
+    --color-success-raw: #22C55E;
+    --color-success-bg-raw: #022C22;
+    --color-success-border-raw: #064E3B;
+
+    --color-border-slate-raw: #1E293B;
+    --color-card-bg-raw: #0D1527;
   }
 }
 

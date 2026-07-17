@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState, useEffect, useRef } from "react";
+import ChecklistSidebar from "./components/ChecklistSidebar";
 
 // Simple client-side UUID generator
 const generateUUID = () => {
@@ -81,6 +82,7 @@ export default function Home() {
   const [activeLeftTab, setActiveLeftTab] = useState<"chat" | "checklist">("chat");
   const [activeMobileTab, setActiveMobileTab] = useState<"chat" | "form">("chat");
   const [backendHealth, setBackendHealth] = useState<"online" | "offline" | "checking">("checking");
+  const [activeField, setActiveField] = useState<string | null>(null);
 
   const chatEndRef = useRef<HTMLDivElement>(null);
 
@@ -257,15 +259,15 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col h-screen bg-[#F8FAFC] text-[#0F172A] font-sans antialiased">
+    <div className="flex flex-col h-screen bg-neutral-bg text-primary font-sans antialiased pl-[env(safe-area-inset-left)] pr-[env(safe-area-inset-right)] pb-[env(safe-area-inset-bottom)]">
       {/* 1. Navbar */}
-      <header className="flex items-center justify-between px-6 py-4 bg-white border-b border-[#E2E8F0] shadow-sm shrink-0">
+      <header className="flex items-center justify-between px-6 pr-[max(1.5rem,env(safe-area-inset-right))] pl-[max(1.5rem,env(safe-area-inset-left))] py-4 bg-card-bg border-b border-border-slate shadow-sm shrink-0">
         <div className="flex items-center gap-3">
-          <div className="flex items-center justify-center w-8 h-8 rounded-md bg-[#2563EB] text-white font-bold text-sm">
+          <div className="flex items-center justify-center w-8 h-8 rounded-md bg-accent text-white font-bold text-sm">
             VN
           </div>
           <div>
-            <h1 className="text-base font-semibold leading-tight tracking-tight text-[#0F172A]">
+            <h1 className="text-base font-semibold leading-tight tracking-tight text-primary">
               VNGov Copilot
             </h1>
             <p className="text-xs text-zinc-500 font-medium">Trợ lý tiền kiểm hồ sơ hành chính</p>
@@ -280,10 +282,10 @@ export default function Home() {
             <span
               className={`w-2 h-2 rounded-full ${
                 backendHealth === "online"
-                  ? "bg-[#16A34A] animate-pulse"
+                  ? "bg-success animate-pulse"
                   : backendHealth === "offline"
-                  ? "bg-[#DC2626]"
-                  : "bg-amber-500"
+                  ? "bg-error"
+                  : "bg-warning"
               }`}
             />
             <span className="text-xs font-medium text-zinc-600">
@@ -298,12 +300,12 @@ export default function Home() {
       </header>
 
       {/* Mobile view Tabs Switcher */}
-      <div className="flex md:hidden border-b border-[#E2E8F0] bg-white shrink-0">
+      <div className="flex md:hidden border-b border-border-slate bg-card-bg shrink-0">
         <button
           onClick={() => setActiveMobileTab("chat")}
           className={`flex-1 py-3 text-sm font-semibold border-b-2 transition-all ${
             activeMobileTab === "chat"
-              ? "border-[#2563EB] text-[#2563EB]"
+              ? "border-accent text-accent"
               : "border-transparent text-zinc-500"
           }`}
         >
@@ -313,7 +315,7 @@ export default function Home() {
           onClick={() => setActiveMobileTab("form")}
           className={`flex-1 py-3 text-sm font-semibold border-b-2 transition-all ${
             activeMobileTab === "form"
-              ? "border-[#2563EB] text-[#2563EB]"
+              ? "border-accent text-accent"
               : "border-transparent text-zinc-500"
           }`}
         >
@@ -327,15 +329,15 @@ export default function Home() {
         <aside
           className={`${
             activeMobileTab === "chat" ? "flex" : "hidden"
-          } md:flex flex-col w-full md:w-[40%] bg-white border-r border-[#E2E8F0] overflow-hidden`}
+          } md:flex flex-col w-full md:w-[40%] bg-card-bg border-r border-border-slate overflow-hidden`}
         >
           {/* Tabs for Chat vs Checklist */}
-          <div className="flex border-b border-[#E2E8F0] bg-zinc-50 shrink-0">
+          <div className="flex border-b border-border-slate bg-neutral-bg shrink-0">
             <button
               onClick={() => setActiveLeftTab("chat")}
               className={`flex-1 py-3 text-xs uppercase tracking-wider font-bold border-b-2 transition-all ${
                 activeLeftTab === "chat"
-                  ? "border-[#0F172A] text-[#0F172A] bg-white"
+                  ? "border-primary text-primary bg-card-bg"
                   : "border-transparent text-zinc-500 hover:text-zinc-800"
               }`}
             >
@@ -348,7 +350,7 @@ export default function Home() {
                 !checklist
                   ? "opacity-40 cursor-not-allowed text-zinc-400"
                   : activeLeftTab === "checklist"
-                  ? "border-[#0F172A] text-[#0F172A] bg-white"
+                  ? "border-primary text-primary bg-card-bg"
                   : "border-transparent text-zinc-500 hover:text-zinc-800"
               }`}
             >
@@ -357,7 +359,7 @@ export default function Home() {
           </div>
 
           {/* Tab Content 1: Chat Stream */}
-          <div className={`${activeLeftTab === "chat" ? "flex" : "hidden"} flex-col flex-1 overflow-hidden bg-white`}>
+          <div className={`${activeLeftTab === "chat" ? "flex" : "hidden"} flex-col flex-1 overflow-hidden bg-card-bg`}>
             {/* Chat Messages */}
             <div className="flex-1 overflow-y-auto p-4 space-y-4">
               {messages.map((msg, index) => (
@@ -412,19 +414,19 @@ export default function Home() {
                   <div className="space-y-2">
                     <button
                       onClick={() => handleSelectProcedure("dang-ky-khai-sinh")}
-                      className="w-full text-left px-4 py-3 bg-[#F8FAFC] border border-[#E2E8F0] hover:border-[#2563EB] hover:bg-[#F1F5F9] rounded-lg transition-all text-xs font-semibold text-[#0F172A]"
+                      className="w-full text-left px-4 py-3.5 bg-neutral-bg border border-border-slate hover:border-accent hover:bg-zinc-100 rounded-lg transition-all text-xs font-semibold text-primary min-h-[44px]"
                     >
                       👶 Đăng ký khai sinh
                     </button>
                     <button
                       onClick={() => handleSelectProcedure("dang-ky-thuong-tru")}
-                      className="w-full text-left px-4 py-3 bg-[#F8FAFC] border border-[#E2E8F0] hover:border-[#2563EB] hover:bg-[#F1F5F9] rounded-lg transition-all text-xs font-semibold text-[#0F172A]"
+                      className="w-full text-left px-4 py-3.5 bg-neutral-bg border border-border-slate hover:border-accent hover:bg-zinc-100 rounded-lg transition-all text-xs font-semibold text-primary min-h-[44px]"
                     >
                       🏠 Đăng ký thường trú
                     </button>
                     <button
                       onClick={() => handleSelectProcedure("dang-ky-ho-kinh-doanh")}
-                      className="w-full text-left px-4 py-3 bg-[#F8FAFC] border border-[#E2E8F0] hover:border-[#2563EB] hover:bg-[#F1F5F9] rounded-lg transition-all text-xs font-semibold text-[#0F172A]"
+                      className="w-full text-left px-4 py-3.5 bg-neutral-bg border border-border-slate hover:border-accent hover:bg-zinc-100 rounded-lg transition-all text-xs font-semibold text-primary min-h-[44px]"
                     >
                       💼 Đăng ký thành lập hộ kinh doanh
                     </button>
@@ -435,14 +437,14 @@ export default function Home() {
             </div>
 
             {/* Chat Input */}
-            <form onSubmit={handleSendMessage} className="p-3 bg-zinc-50 border-t border-[#E2E8F0] flex gap-2 shrink-0">
+            <form onSubmit={handleSendMessage} className="p-3 bg-neutral-bg border-t border-border-slate flex gap-2 shrink-0">
               <input
                 type="text"
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
                 disabled={isLoading}
                 placeholder="Nhập câu hỏi của bạn tại đây..."
-                className="flex-1 px-4 py-2 border border-[#E2E8F0] bg-white rounded-md text-sm focus:outline-none focus:border-[#2563EB]"
+                className="flex-1 px-4 py-2 border border-border-slate bg-card-bg rounded-md text-sm focus:outline-none focus:border-accent"
               />
               <button
                 type="submit"
@@ -455,69 +457,8 @@ export default function Home() {
           </div>
 
           {/* Tab Content 2: Checklist display */}
-          <div className={`${activeLeftTab === "checklist" ? "flex" : "hidden"} flex-col flex-1 overflow-y-auto p-4 space-y-6 bg-white`}>
-            {checklist && (
-              <>
-                <div>
-                  <h2 className="text-sm font-bold text-zinc-500 uppercase tracking-wider mb-2">Thành phần hồ sơ</h2>
-                  <div className="space-y-3">
-                    {/* Required */}
-                    <div>
-                      <span className="text-xs font-bold text-[#DC2626] block mb-1">Giấy tờ Bắt buộc (Tối thiểu):</span>
-                      <div className="space-y-2">
-                        {checklist.required_documents.map((doc) => (
-                          <div key={doc.id} className="p-3 bg-[#FFF5F5] border border-red-100 rounded-lg text-xs">
-                            <h3 className="font-bold text-[#991B1B]">{doc.title}</h3>
-                            <p className="text-zinc-600 mt-1">{doc.description}</p>
-                            {doc.citations.map((cite, i) => (
-                              <span key={i} className="block mt-2 font-semibold text-zinc-500">
-                                Luật trích dẫn: <a href={cite.url} target="_blank" rel="noreferrer" className="underline hover:text-[#2563EB]">{cite.title}</a>
-                              </span>
-                            ))}
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-
-                    {/* Optional */}
-                    {checklist.optional_documents.length > 0 && (
-                      <div className="pt-2">
-                        <span className="text-xs font-bold text-[#D97706] block mb-1">Giấy tờ tùy chọn (Theo trường hợp cụ thể):</span>
-                        <div className="space-y-2">
-                          {checklist.optional_documents.map((doc) => (
-                            <div key={doc.id} className="p-3 bg-amber-50/50 border border-amber-100 rounded-lg text-xs">
-                              <h3 className="font-bold text-[#92400E]">{doc.title}</h3>
-                              <p className="text-zinc-600 mt-1">{doc.description}</p>
-                              {doc.citations.map((cite, i) => (
-                                <span key={i} className="block mt-2 font-semibold text-zinc-500">
-                                  Luật trích dẫn: <a href={cite.url} target="_blank" rel="noreferrer" className="underline hover:text-[#2563EB]">{cite.title}</a>
-                                </span>
-                              ))}
-                            </div>
-                          ))}
-                        </div>
-                      </div>
-                    )}
-                  </div>
-                </div>
-
-                <div>
-                  <h2 className="text-sm font-bold text-zinc-500 uppercase tracking-wider mb-2">Trình tự giải quyết</h2>
-                  <div className="space-y-3">
-                    {checklist.steps.map((step) => (
-                      <div key={step.step_number} className="p-3 bg-[#F8FAFC] border border-[#E2E8F0] rounded-lg text-xs">
-                        <h3 className="font-bold text-[#0F172A]">Bước {step.step_number}: {step.title}</h3>
-                        <p className="text-zinc-600 mt-1">{step.description}</p>
-                        <div className="flex gap-4 mt-2 pt-2 border-t border-zinc-200/50 text-[10px] font-bold text-zinc-500">
-                          <span>⏱ Hạn giải quyết: {step.processing_time}</span>
-                          <span>💰 Lệ phí: {step.fees}</span>
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              </>
-            )}
+          <div className={`${activeLeftTab === "checklist" ? "flex" : "hidden"} flex-col flex-1 overflow-y-auto bg-white`}>
+            <ChecklistSidebar checklist={checklist} activeField={activeField} />
           </div>
         </aside>
 
@@ -530,10 +471,10 @@ export default function Home() {
           {checklist ? (
             <div className="max-w-xl mx-auto w-full space-y-6">
               {/* Form Sheet container */}
-              <div className="bg-white border border-[#E2E8F0] rounded-lg p-6 shadow-sm">
-                <div className="border-b border-[#E2E8F0] pb-4 mb-6">
-                  <span className="text-[10px] font-bold text-[#2563EB] tracking-wider uppercase block">TỜ KHAI ĐIỆN TỬ SƠ BỘ</span>
-                  <h2 className="text-lg font-bold text-[#0F172A]">{checklist.procedure_name}</h2>
+              <div className="bg-white border border-border-slate rounded-lg p-6 shadow-sm">
+                <div className="border-b border-border-slate pb-4 mb-6">
+                  <span className="text-[10px] font-bold text-accent tracking-wider uppercase block">TỜ KHAI ĐIỆN TỬ SƠ BỘ</span>
+                  <h2 className="text-lg font-bold text-primary">{checklist.procedure_name}</h2>
                   <p className="text-xs text-zinc-500 mt-1">Vui lòng hoàn thành các trường dưới đây để trợ lý tiền kiểm tra.</p>
                 </div>
 
@@ -546,19 +487,28 @@ export default function Home() {
 
                       return (
                         <div key={key} className="flex flex-col">
-                          <label className="text-xs font-bold text-[#0F172A] mb-1.5">
-                            {prop.title} {isRequired && <span className="text-[#DC2626]">*</span>}
+                          <label
+                            htmlFor={`input-${key}`}
+                            className="text-xs font-bold text-primary mb-1.5"
+                          >
+                            {prop.title} {isRequired && <span className="text-error">*</span>}
                           </label>
                           <input
+                            id={`input-${key}`}
                             type={prop.format === "date" ? "date" : "text"}
                             value={formData[key] || ""}
                             onChange={(e) => handleInputChange(key, e.target.value)}
-                            className={`px-3 py-2 border rounded-md text-sm transition-all focus:outline-none focus:border-[#2563EB] ${
-                              hasError ? "border-[#DC2626] bg-red-50/20" : "border-[#E2E8F0] bg-white"
+                            onFocus={() => setActiveField(key)}
+                            onBlur={() => setActiveField(null)}
+                            aria-required={isRequired ? "true" : "false"}
+                            aria-invalid={hasError ? "true" : "false"}
+                            aria-describedby={hasError ? `error-${key}` : undefined}
+                            className={`px-3 py-2 border rounded-md text-sm transition-all focus:outline-none focus:border-accent ${
+                              hasError ? "border-error bg-error-bg/10" : "border-border-slate bg-white"
                             }`}
                           />
                           {hasError && (
-                            <span className="text-[11px] font-semibold text-[#DC2626] mt-1">
+                            <span id={`error-${key}`} className="text-[11px] font-semibold text-error mt-1">
                               ⚠️ {errorMsg}
                             </span>
                           )}
@@ -567,11 +517,11 @@ export default function Home() {
                     })}
                 </div>
 
-                <div className="mt-8 pt-6 border-t border-[#E2E8F0] flex gap-3">
+                <div className="mt-8 pt-6 border-t border-border-slate flex gap-3">
                   <button
                     onClick={handlePreCheck}
                     disabled={isValidating}
-                    className="flex-1 py-2.5 bg-[#2563EB] text-white text-sm font-semibold rounded-md hover:bg-[#1D4ED8] transition-all disabled:opacity-50 flex items-center justify-center gap-2"
+                    className="flex-1 py-2.5 bg-accent text-white text-sm font-semibold rounded-md hover:bg-accent-hover transition-all disabled:opacity-50 flex items-center justify-center gap-2 min-h-[44px]"
                   >
                     {isValidating ? "Đang xử lý..." : "🔍 Bắt đầu tiền kiểm hồ sơ"}
                   </button>
@@ -582,11 +532,11 @@ export default function Home() {
               {validationResponse && (
                 <div className={`border rounded-lg p-5 shadow-sm ${
                   validationResponse.is_valid
-                    ? "bg-[#F0FDF4] border-[#DCFCE7]"
-                    : "bg-[#FEF2F2] border-[#FEE2E2]"
+                    ? "bg-success-bg border-success-border"
+                    : "bg-error-bg border-error-border"
                 }`}>
                   <h3 className={`text-sm font-bold flex items-center gap-2 ${
-                    validationResponse.is_valid ? "text-[#16A34A]" : "text-[#DC2626]"
+                    validationResponse.is_valid ? "text-success" : "text-error"
                   }`}>
                     {validationResponse.is_valid ? "✅ HỒ SƠ ĐỦ ĐIỀU KIỆN SƠ BỘ" : "⚠️ PHÁT HIỆN LỖI KÊ KHAI HỒ SƠ"}
                   </h3>
@@ -604,14 +554,14 @@ export default function Home() {
                         {validationResponse.findings.map((finding, idx) => (
                           <div key={idx} className={`p-3 rounded-lg text-xs leading-relaxed ${
                             finding.level === "error"
-                              ? "bg-white border border-red-200 text-[#991B1B]"
+                              ? "bg-white border border-error-border text-error"
                               : finding.level === "warning"
-                              ? "bg-white border border-amber-200 text-[#92400E]"
+                              ? "bg-white border border-warning-border text-warning"
                               : "bg-white border border-zinc-200 text-zinc-700"
                           }`}>
                             <div className="font-bold flex items-center gap-1.5">
                               <span className={`w-2 h-2 rounded-full ${
-                                finding.level === "error" ? "bg-[#DC2626]" : "bg-[#D97706]"
+                                finding.level === "error" ? "bg-error" : "bg-warning"
                               }`} />
                               {finding.level === "error" ? "Sai sót bắt buộc sửa" : "Cảnh báo cần lưu ý"}
                             </div>
@@ -630,9 +580,9 @@ export default function Home() {
               )}
             </div>
           ) : (
-            <div className="flex-1 flex flex-col items-center justify-center text-center p-6 bg-white border border-[#E2E8F0] rounded-lg">
+            <div className="flex-1 flex flex-col items-center justify-center text-center p-6 bg-white border border-border-slate rounded-lg">
               <span className="text-4xl">📋</span>
-              <h2 className="text-base font-bold text-[#0F172A] mt-4">Chưa có tờ khai nào được chọn</h2>
+              <h2 className="text-base font-bold text-primary mt-4">Chưa có tờ khai nào được chọn</h2>
               <p className="text-xs text-zinc-500 mt-2 max-w-xs">
                 Vui lòng nhấn chọn các nút thủ tục gợi ý nhanh trong khung chat, hoặc trò chuyện với trợ lý để bắt đầu lập hồ sơ.
               </p>
