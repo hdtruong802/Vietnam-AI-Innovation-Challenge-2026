@@ -1,23 +1,29 @@
+from __future__ import annotations
+
+from typing import Any
+
 from pydantic import BaseModel, Field
-from typing import List, Dict, Any, Optional
+
+from app.models.common import FindingSeverity, PrecheckVerdict, RegulatoryResponse
 
 
 class ValidationRequest(BaseModel):
-    procedure_id: str = Field(..., description="Procedure ID")
-    form_data: Dict[str, Any] = Field(..., description="Form fields content")
+    procedure_id: str = Field(min_length=1, max_length=120)
+    procedure_version: str | None = Field(default=None, max_length=120)
+    form_data: dict[str, Any] = Field(default_factory=dict)
 
 
 class Finding(BaseModel):
-    field: Optional[str] = None
-    severity: str = Field(..., description="error (red) | warning (yellow) | info (blue)")
-    message: str
-    fix_suggestion: Optional[str] = None
-    rule_id: str
-    source_ref: Optional[str] = None
+    field_id: str | None = Field(default=None, max_length=120)
+    severity: FindingSeverity
+    rule_id: str = Field(min_length=1, max_length=120)
+    message: str = Field(min_length=1, max_length=500)
+    fix_hint: str | None = Field(default=None, max_length=500)
+    source_ref_ids: list[str] = Field(default_factory=list)
 
 
-class ValidationResponse(BaseModel):
+class ValidationResponse(RegulatoryResponse):
     procedure_id: str
-    is_valid: bool
-    findings: List[Finding]
-    summary_message: str
+    verdict: PrecheckVerdict | None = None
+    findings: list[Finding] = Field(default_factory=list)
+    summary_message: str = Field(min_length=1, max_length=1_000)

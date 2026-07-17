@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "record_type": "commit_evidence",
+  "ai_log_id": "log-b8d6a631b142478db3b16d83",
+  "created_at": "2026-07-17T18:16:52.565341Z",
+  "member_id": "hdtruong802",
+  "branch": "feature/local-20260718-backend-api-foundation",
+  "parent_commit": "f4827ae79eafb9d0dd5a1cff67b44f69a8398894",
+  "task_records": [
+    "local-20260718-backend-api-foundation"
+  ],
+  "prompt_ids": [
+    "prompt-8828fd3b2520728d57d78a94",
+    "prompt-dfe76c5009853cde5023ef3b"
+  ],
+  "tools": [
+    "codex"
+  ],
+  "capture_status": "manual",
+  "warnings": [],
+  "operation": "commit",
+  "replaces_ai_log": null
+}
