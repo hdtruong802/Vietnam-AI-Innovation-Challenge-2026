@@ -1,10 +1,18 @@
-from fastapi import APIRouter
-from app.config import APP_ENV
-import time
+from fastapi import APIRouter, Depends
 
-router = APIRouter()
+from app.dependencies import AppContainer, get_container
+from app.models.health import HealthResponse
+
+router = APIRouter(tags=["health"])
 
 
-@router.get("/health")
-def health_check():
-    return {"status": "ok", "timestamp": int(time.time()), "environment": APP_ENV}
+@router.get("/health", response_model=HealthResponse)
+async def health_check(container: AppContainer = Depends(get_container)) -> HealthResponse:
+    capabilities = container.capabilities
+    status = "degraded" if capabilities["procedure_data"] == "disabled" else "ok"
+    return HealthResponse(
+        status=status,
+        version=container.settings.app_version,
+        environment=container.settings.app_env,
+        capabilities=capabilities,
+    )

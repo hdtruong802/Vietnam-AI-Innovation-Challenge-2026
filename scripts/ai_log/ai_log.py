@@ -1023,22 +1023,13 @@ def find_commit_record(root: Path, log_id: str) -> Path | None:
 
 
 def prepare_commit_message(root: Path, message_path: Path, source: str | None, source_sha: str | None) -> int:
-    pending = create_pending(root, stage=True)
+    # `pre-commit` has already created and staged the immutable evidence. Git may
+    # hold the index lock while this hook runs, so invoking `git add` here can
+    # abort an otherwise valid commit on Windows and other platforms.
+    pending = load_json(pending_path(root))
+    if not isinstance(pending, dict) or pending.get("parent_commit") != current_head(root):
+        raise AiLogError("AI Log pre-commit evidence is missing; commit without bypassing pre-commit.")
     message = message_path.read_text(encoding="utf-8")
-    existing = parse_trailers(message)
-    operation = "commit"
-    replaces: str | None = None
-    if source == "merge":
-        operation = "merge"
-    elif message.lstrip().lower().startswith("revert "):
-        operation = "revert"
-    elif source == "commit":
-        operation = "amend"
-        replaces = existing.get("AI-Log")
-        if source_sha:
-            old_message = run_git(root, ["show", "-s", "--format=%B", source_sha], check=False)
-            replaces = parse_trailers(old_message).get("AI-Log") or replaces
-    pending = update_pending_operation(root, operation, replaces)
     record = load_json(root / str(pending["commit_record_path"]), {})
     filtered_lines = [line for line in message.rstrip().splitlines() if not re.match(r"^AI-(?:Log|Tools|Capture):", line)]
     while filtered_lines and not filtered_lines[-1].strip():

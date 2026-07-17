@@ -1,37 +1,23 @@
+from __future__ import annotations
+
+from typing import Any
+
 from pydantic import BaseModel, Field
-from typing import List, Dict, Any
-from app.models.common import Citation
+
+from app.models.common import RegulatoryResponse
+from app.models.procedure import ChecklistItem, ProcedureStep
 
 
 class ChecklistRequest(BaseModel):
-    procedure_id: str = Field(..., description="Procedure ID")
-    clarification_answers: Dict[str, Any] = Field(
-        default_factory=dict, description="Answers to clarifying questions"
-    )
+    clarification_answers: dict[str, Any] = Field(default_factory=dict)
+    procedure_version: str | None = Field(default=None, max_length=120)
 
 
-class ChecklistItem(BaseModel):
-    id: str
-    title: str
-    required: bool
-    description: str
-    citations: List[Citation]
-
-
-class Step(BaseModel):
-    step_number: int
-    title: str
-    description: str
-    processing_time: str
-    fees: str
-
-
-class ChecklistResponse(BaseModel):
+class ChecklistResponse(RegulatoryResponse):
     procedure_id: str
     procedure_name: str
-    required_documents: List[ChecklistItem]
-    optional_documents: List[ChecklistItem]
-    steps: List[Step]
-    form_schema: Dict[str, Any] = Field(..., description="JSON Schema for the dynamic form")
-    effective_date: str
-    sources: List[Citation]
+    required_documents: list[ChecklistItem] = Field(default_factory=list)
+    optional_documents: list[ChecklistItem] = Field(default_factory=list)
+    steps: list[ProcedureStep] = Field(default_factory=list)
+    form_schema: dict[str, Any] = Field(default_factory=dict)
+    message_plain: str = Field(min_length=1, max_length=1_000)
