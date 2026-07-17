@@ -1,10 +1,15 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, Depends
+
+from app.dependencies import get_copilot_service
 from app.models.validation import ValidationRequest, ValidationResponse
-from app.services.validation_service import ValidationService
+from app.services.copilot_service import CopilotService
 
-router = APIRouter(prefix="/v1")
+router = APIRouter(prefix="/v1/applications", tags=["validation"])
 
 
-@router.post("/applications/validate", response_model=ValidationResponse)
-def validate_application(request: ValidationRequest):
-    return ValidationService.validate(request.procedure_id, request.form_data)
+@router.post("/validate", response_model=ValidationResponse)
+async def validate_application(
+    request: ValidationRequest,
+    service: CopilotService = Depends(get_copilot_service),
+) -> ValidationResponse:
+    return await service.validate(request)

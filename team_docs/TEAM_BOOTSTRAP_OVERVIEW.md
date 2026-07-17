@@ -198,8 +198,8 @@ node scripts/design/impeccable-audit.mjs --task local-20260717-ui-review --url h
 | Hạng mục | Trạng thái hiện tại | Điều kiện để bắt đầu |
 | --- | --- | --- |
 | Đề bài và ba MVP hiện hành | Đã chốt trong D-007 | Đổi scope cần Task Record/Decision mới. |
-| Web-first delivery | D-008 đã chốt; D-005 có scaffold frontend/backend | Cần product flow, static-host widget embed và API evidence; portal thật cần sandbox/authorization. |
-| Stack/API/deploy topology | D-005 `Accepted` cho scaffold; D-006 `Proposed` cho RAG/trust/widget/deploy | Peer review capability theo Task Record; provider/model vẫn `TBD`. |
+| Web-first delivery | D-008 đã chốt; frontend là scaffold, backend có API foundation sáu endpoint | Cần product flow, static-host widget embed và API evidence; portal thật cần sandbox/authorization. |
+| Stack/API/deploy topology | D-005 `Accepted` cho scaffold/API foundation; D-006 `Proposed` cho RAG/trust/widget/deploy | Dev fixture backend luôn fail-closed; peer review capability theo Task Record; provider/model vẫn `TBD`. |
 | Application CI/CD | D-010 `Proposed`: application checks theo changed scope và provider-neutral release artifact | Peer review D-010, xác minh workflow xanh; không coi artifact là deploy. |
 | Hosting, secrets, deploy/CD | Chưa provision | Accept D-006/follow-up, chọn provider, có environment, smoke check, rollback và demo fallback. |
 | Demo runbook | Đã có narrative/evidence draft; chưa rehearsal | Có public app, synthetic demo data và fallback đã kiểm chứng. |
@@ -227,7 +227,7 @@ Không dùng bootstrap như bằng chứng rằng ứng dụng, deploy, data/mod
 ## Chưa có chủ đích
 
 - Đề bài và ba MVP đã chốt; model/provider và chi tiết procedure-pack đã review vẫn `TBD`.
-- Next.js/FastAPI đã có scaffold theo D-005; RAG/vector store, model/provider, widget hoàn chỉnh và hosting/deploy vẫn là proposal D-006, chưa provision.
+- Next.js vẫn là scaffold; FastAPI có API foundation sáu endpoint, typed trust/error metadata, rule engine và dev fixture fail-closed theo D-005. RAG/vector store, model/provider, widget hoàn chỉnh và hosting/deploy vẫn là proposal D-006, chưa provision.
 - Live CI/CD hosting, environment, secret thật và deploy thật chưa được tạo. D-010 chỉ thêm fast checks và artifact/promotion provider-neutral.
 - GitHub workflow file đã có trên `main`; run status, labels, branch protection và required checks chưa được xác minh.
 

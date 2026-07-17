@@ -23,10 +23,10 @@ Tài liệu này phân biệt **baseline có trong repo** với **target archite
 | Vùng | Bằng chứng source hiện có | Giới hạn hiện tại |
 | --- | --- | --- |
 | `frontend/` | Một ứng dụng Next.js khởi tạo, có scripts `dev`, `build`, `start`, `lint`. | Chưa phải UI Procedure Copilot, chưa có chat/form/checklist/widget. |
-| `backend/` | FastAPI app, CORS middleware, health và các routes procedure/intake/checklist/validate. | Logic hiện tại là scaffold/demo seed; chưa có data release, RAG, external LLM hoặc trust-policy hoàn chỉnh. |
-| API scaffold | `GET /health`, `GET /v1/procedures`, `POST /v1/intake/turn`, `POST /v1/procedures/{id}/checklist`, `POST /v1/applications/validate`. | Contract/versioning, citations/freshness enforcement, auth/rate limit và OpenAPI acceptance vẫn phải review. |
+| `backend/` | FastAPI API foundation, CORS allowlist, request ID/error envelope, health, deterministic rule engine và adapter ports. | Không có approved data release, RAG/vector runtime, external LLM, account storage hoặc deploy. |
+| API foundation | `GET /health`, `GET /v1/procedures`, `POST /v1/procedures/recommend`, `POST /v1/intake/turn`, `POST /v1/procedures/{id}/checklist`, `POST /v1/applications/validate`. | Dev fixture chỉ cho integration và luôn `official_review_required`; contract vẫn cần peer review trước khi consumer phụ thuộc sâu. |
 
-Các seed/citation/rule trong scaffold không tự chứng minh tính chính xác pháp lý. Chỉ Procedure Pack đã qua source governance, K1 và release mới có thể cấp `verified_guidance`.
+Dev fixture, seed, citation và rule trong API foundation không tự chứng minh tính chính xác pháp lý. Chỉ Procedure Pack đã qua source governance, K1 và release mới có thể cấp `verified_guidance`.
 
 ## 2. Kiến trúc mục tiêu theo D-006
 
@@ -119,12 +119,12 @@ Public contract hướng tới sáu endpoints:
 
 | Endpoint | Mục đích | Trạng thái |
 | --- | --- | --- |
-| `POST /v1/intake/turn` | Hội thoại, clarification và form state. | Scaffold route có; contract target cần review. |
-| `POST /v1/procedures/recommend` | Nhận diện procedure. | Đề xuất D-006; chưa có route riêng. |
-| `POST /v1/procedures/{id}/checklist` | Checklist theo answers. | Scaffold route có; personalisation/evidence cần review. |
-| `POST /v1/applications/validate` | Pre-check deterministic. | Scaffold route có; rule/source coverage cần review. |
-| `GET /v1/procedures` | Pack/version đang dùng. | Scaffold route có; release metadata cần review. |
-| `GET /health` | Smoke check runtime. | Có trong scaffold. |
+| `POST /v1/intake/turn` | Một lượt hội thoại, clarification và proposed `SessionContext`. | Có API foundation; không nhận/lưu full transcript. |
+| `POST /v1/procedures/recommend` | Nhận diện procedure. | Có API foundation; adapter thật do data/AI lane bàn giao. |
+| `POST /v1/procedures/{id}/checklist` | Checklist theo answers. | Có API foundation; fixture không phải evidence nghiệp vụ. |
+| `POST /v1/applications/validate` | Pre-check deterministic. | Có generic rule engine; rule thật cần pack approved. |
+| `GET /v1/procedures` | Pack/version đang dùng. | Có API foundation; release metadata thật cần data lane. |
+| `GET /health` | Liveness và capability state. | Có API foundation; public smoke chưa tồn tại. |
 
 Mọi response quy phạm mục tiêu phải có `procedure_version`, `source_refs`, `last_verified_at` và đúng một trust state: `verified_guidance`, `need_more_information` hoặc `official_review_required`.
 

@@ -282,6 +282,22 @@ class TemporaryAiLogRepository(unittest.TestCase):
         self.assertEqual(self.git("rev-parse", "HEAD"), index["entries"][0]["commit"])
         self.assertEqual("codex", index["entries"][0]["tool"])
 
+    def test_prepare_commit_message_reuses_staged_evidence_without_restaging(self) -> None:
+        events = [
+            {"type": "session_meta", "payload": {"id": "session-prepare", "cwd": str(self.root)}},
+            {"type": "event_msg", "payload": {"type": "user_message", "message": "Commit the backend task"}},
+        ]
+        self.setup_and_bind(events)
+        ai_log.create_pending(self.root, stage=True)
+        message = self.root / "COMMIT_MESSAGE"
+        message.write_text("feat: guarded commit\n", encoding="utf-8")
+
+        with mock.patch.object(ai_log, "stage_paths") as stage_paths:
+            self.assertEqual(0, ai_log.prepare_commit_message(self.root, message, None, None))
+
+        stage_paths.assert_not_called()
+        self.assertEqual(0, ai_log.validate_commit_message(self.root, message))
+
     def test_missing_workspace_creates_warning_without_committing_prompt(self) -> None:
         events = [
             {"type": "event_msg", "payload": {"type": "user_message", "message": "prompt without workspace"}}
