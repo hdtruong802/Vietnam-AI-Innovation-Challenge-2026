@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "repository": "KaitoKidKao/VIETNAM_AI_INNOVATION_CHALLENGE_2026",
+  "ci": {
+    "checkName": "repository-guard"
+  },
+  "labels": [
+    { "name": "type:feature", "color": "1D76DB", "description": "Tính năng hoặc năng lực mới" },
+    { "name": "type:bug", "color": "D73A4A", "description": "Hành vi sai hoặc hồi quy" },
+    { "name": "type:task", "color": "0E8A16", "description": "Công việc kỹ thuật, nghiên cứu hoặc vận hành" },
+    { "name": "type:docs", "color": "0075CA", "description": "Thay đổi tài liệu" },
+    { "name": "priority:p0", "color": "B60205", "description": "Chặn nộp bài, demo hoặc an toàn dữ liệu" },
+    { "name": "priority:p1", "color": "D93F0B", "description": "Ảnh hưởng lớn tới mục tiêu hackathon" },
+    { "name": "priority:p2", "color": "FBCA04", "description": "Quan trọng nhưng chưa chặn mốc hiện tại" },
+    { "name": "area:ui", "color": "C5DEF5", "description": "Giao diện và trải nghiệm người dùng" },
+    { "name": "area:api", "color": "BFDADC", "description": "API, server và logic ứng dụng" },
+    { "name": "area:ai", "color": "D4C5F9", "description": "Model, prompt, đánh giá hoặc inference" },
+    { "name": "area:data", "color": "F9D0C4", "description": "Dữ liệu, schema, pipeline hoặc chất lượng dữ liệu" },
+    { "name": "area:infra", "color": "FEF2C0", "description": "Deploy, cấu hình, bảo mật hoặc tooling" },
+    { "name": "area:docs", "color": "D4C5F9", "description": "Context, runbook, quyết định hoặc tài liệu" },
+    { "name": "status:ready", "color": "0E8A16", "description": "Đã đủ thông tin để bắt đầu" },
+    { "name": "status:in-progress", "color": "FBCA04", "description": "Owner tạm thời đang thực hiện" },
+    { "name": "status:blocked", "color": "B60205", "description": "Bị chặn bởi phụ thuộc hoặc quyết định bên ngoài" },
+    { "name": "risk:isolated", "color": "C2E0C6", "description": "Không thay đổi shared contract" },
+    { "name": "risk:shared", "color": "5319E7", "description": "Ảnh hưởng contract, deploy hoặc demo chung" }
+  ],
+  "branchProtection": {
+    "main": {
+      "requiredApprovingReviewCount": 1,
+      "requireLastPushApproval": true
+    },
+    "dev": {
+      "requiredApprovingReviewCount": 0,
+      "requireLastPushApproval": false
+    }
+  }
+}

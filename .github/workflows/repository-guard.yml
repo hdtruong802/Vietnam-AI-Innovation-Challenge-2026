@@ -1,0 +1,42 @@
+name: Repository guard
+
+on:
+  pull_request:
+    branches: [dev, main]
+  push:
+    branches: [dev, main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: repository-guard-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  repository-guard:
+    name: repository-guard
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22.16.0'
+
+      - name: Test repository guard
+        run: python -m unittest discover -s tests/ci -p "test_*.py"
+
+      - name: Test design audit wrapper
+        run: node --test tests/design/*.mjs
+
+      - name: Validate repository bootstrap
+        run: python scripts/ci/validate_repo.py

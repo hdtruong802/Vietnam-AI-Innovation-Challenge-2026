@@ -1,0 +1,65 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Dependencies and package-manager caches
+node_modules/
+.pnp/
+.pnp.js
+
+# JavaScript/TypeScript build output and coverage
+dist/
+build/
+.next/
+.nuxt/
+.svelte-kit/
+coverage/
+
+# Python environments, bytecode and test caches
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+ENV/
+
+# Local ML experiment output and large generated model artifacts
+wandb/
+mlruns/
+artifacts/
+*.ckpt
+*.onnx
+*.pt
+*.pth
+*.safetensors
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Editor and operating-system files
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.DS_Store
+Thumbs.db
+
+# Impeccable local state and machine-only audit output.
+# Keep .impeccable/config.json tracked for peer-approved shared waivers.
+.impeccable/config.local.json
+.impeccable/audits/
+.impeccable/screenshots/
+.impeccable/cache/
+.impeccable/live/
+.impeccable/*.png
+
+# Local-only material for internal team presentation and notes.
+.temp_docs/

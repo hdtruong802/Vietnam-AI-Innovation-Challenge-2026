@@ -1,0 +1,24 @@
+# Normalize repository text files across Windows, macOS and Linux.
+* text=auto eol=lf
+
+# Keep scripts usable on their native shells.
+*.sh text eol=lf
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Treat binary assets and model outputs as binary; do not attempt line diffs.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.ckpt binary
+*.onnx binary
+*.pt binary
+*.pth binary
+*.safetensors binary

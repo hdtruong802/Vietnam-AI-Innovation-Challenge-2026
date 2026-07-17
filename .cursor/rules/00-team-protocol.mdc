@@ -1,0 +1,15 @@
+---
+description: Quy tắc portable cho team đa-agent, local-first và peer-equal.
+alwaysApply: true
+---
+
+# Team protocol
+
+Đọc `AGENTS.md` và `docs/ai/TEAM_PROTOCOL.md` trước khi sửa. Dùng cùng Task Record, Context Pack, playbook và handoff như Codex, Claude và Antigravity.
+
+- Áp dụng Prompt Intake Gate trong `AGENTS.md` trước mọi task thực chất.
+- Bắt đầu ở `explore`; chỉ một implementer được ghi source trong scope/worktree của một Task Record.
+- Với task code/API/data/config/demo hoặc `risk:shared`, dùng `.agents/context-packs/TEMPLATE.md` và chỉ đưa vào context các file/line cần thiết.
+- Dùng branch/worktree riêng; không copy `.env`, token, ignored data hoặc thay đổi chưa commit của peer.
+- Giữ adapter này mỏng: không tạo Cursor-specific workflow, MCP config hay quyền cao hơn peer khác.
+- Không push, merge, thay đổi remote/GitHub settings hoặc mở rộng shared contract khi chưa có yêu cầu và xác nhận theo protocol.
