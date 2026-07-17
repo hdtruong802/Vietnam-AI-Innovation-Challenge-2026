@@ -1,6 +1,6 @@
 # Chunking Contract — Phase 0 Proposal
 
-> Trạng thái: Proposed
+> Trạng thái: Accepted
 >
 > Task Record: `local-20260718-chunking-phase-0`
 >
@@ -8,7 +8,7 @@
 >
 > Source freeze: 17/07/2026
 
-Tài liệu này khóa đề xuất logical contract cho ingestion và structure-aware chunking. Nó chưa cấp quyền thay runtime schema, dependency, database, public API hoặc xử lý toàn bộ corpus. Chỉ sau khi D-009 được peer chấp nhận mới được tạo task implement Phase 1.
+Tài liệu này khóa logical contract cho ingestion và structure-aware chunking. D-009 đã được peer chấp nhận để triển khai fixture/annotation Phase 1; nó chưa cấp quyền thay runtime schema, dependency, database, public API hoặc xử lý toàn bộ corpus.
 
 ## 1. Mục tiêu và non-goals
 
@@ -174,4 +174,4 @@ Các mục cố ý deferred:
 
 Raw documents không bị sửa. Parsed sections, chunks, manifests và index đều là artifacts có version, có thể bỏ và build lại từ approved source snapshot. Nếu structure-aware chunking không vượt baseline trên golden set, fallback là structured procedure lookup + keyword trên section đã approved; không fallback sang whole-corpus LLM context.
 
-D-009 chỉ được đổi sang `Accepted` khi peer data/grounding và peer backend xác nhận contract, giải quyết numbering D-006 đến D-008, và ghi rõ task implement tiếp theo. Trong sáu giờ cuối của scope freeze cần hai peer xác nhận theo protocol.
+D-009 đã được peer xác nhận ngày 18/07/2026 để triển khai Phase 1. D-006 đến D-008 được giữ reserved theo các tham chiếu trong proposal/PRD và không được tái sử dụng; việc bổ sung nội dung lịch sử của các Decision đó là task tài liệu riêng. Mọi thay đổi runtime schema, dependency, index/database hoặc full-corpus processing vẫn cần Decision/task mới.
