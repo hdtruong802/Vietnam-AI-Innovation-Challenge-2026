@@ -24,9 +24,11 @@ Decision Log lưu các quyết định liên lane hoặc khó đảo ngược: s
 | D-008 | Accepted | Web-first delivery và portal integration pathway | `local-20260717-web-first-portal-scope` | 2026-07-17 |
 | D-009 | Accepted | AI Log prompt-only, provider-neutral và liên kết theo commit | `local-20260717-ai-log` | 2026-07-17 |
 | D-010 | Proposed | Fast merge gate và release artifact provider-neutral | `local-20260718-ci-cd-optimization` | 2026-07-18 |
+| D-011 | Proposed | RAG in-process (không pgvector), LLM Gateway OpenAI-compatible với offline fallback, PII Guard regex in-memory, tích hợp vào CopilotService/ports adapter | `local-20260718-rag-llm-guardrail` | 2026-07-18 |
 | D-012 | Accepted | Cloud Run backend demo foundation, production-disabled | `local-20260718-gcp-backend-deploy` | 2026-07-18 |
 | D-013 | Accepted | Prototype read models cho sáu route base và hai route RAG additive | `local-20260718-prototype-api-contract` | 2026-07-18 |
-| D-011 | Proposed | RAG in-process (không pgvector), LLM Gateway OpenAI-compatible với offline fallback, PII Guard regex in-memory, tích hợp vào CopilotService/ports adapter | `local-20260718-rag-llm-guardrail` | 2026-07-18 |
+| D-014 | Accepted | Structure-aware chunking contract cho ba procedure pack MVP | `local-20260718-chunking-phase-0`, `local-20260718-chunking-phase-1` | 2026-07-18 |
+| D-015 | Accepted | Ngoại lệ bảng màu đỏ-vàng cho landing page marketing, tách biệt VNGov Copilot Navy & Orange | `local-20260718-landing-page-red-gold` | 2026-07-18 |
 
 ---
 
@@ -271,6 +273,54 @@ Nếu retrieval lexical không đủ chất lượng cho demo, đặt lại `pro
 
 ---
 
+## D-014 — Structure-aware chunking contract cho ba procedure pack MVP
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** Codex theo Task Record hiện tại
+- **Phạm vi:** data | shared logical schema | RAG
+- **Task Record:** `local-20260718-chunking-phase-0`
+- **Publish (tùy chọn):** chưa publish
+- **Peer xác nhận:** Người dùng/repository peer xác nhận ngày 2026-07-18 để triển khai Phase 1 trực tiếp trên `cao`
+
+### Bối cảnh
+
+Corpus local có 5.652 file TXT nhưng raw document không tự động là nguồn đã duyệt. Mẫu phân tầng cho thấy tài liệu có cấu trúc field/bullet và nhiều dòng dài, nên fixed-size character chunking có nguy cơ cắt giữa trường, claim và căn cứ pháp lý. Proposal yêu cầu approved-only RAG, metadata hiệu lực, K1/K2 review và fail-closed; runtime hiện chưa có ingestion/chunking contract chung.
+
+Proposal đang tham chiếu D-006 đến D-008 nhưng các entry đó chưa có trong Decision Log hiện tại tại thời điểm đề xuất; các entry đó nay đã được publish (xem trên). Việc phục hồi nội dung lịch sử của các Decision này là task tài liệu riêng, không chặn fixture-only Phase 1.
+
+### Lựa chọn đã cân nhắc
+
+1. Whole-document retrieval — ít preprocessing nhưng context lớn, khó filter claim/citation và dễ trộn phiên bản.
+2. Fixed token windows với overlap — đơn giản nhưng cắt structure và nhân bản claim/citation không kiểm soát.
+3. Structure-aware parsing rồi áp token budget — cần parser/fixtures nhưng giữ provenance, hierarchy và legal basis để review/test.
+
+### Quyết định
+
+Chọn phương án 3 theo contract tại `docs/ai/CHUNKING_CONTRACT.md`:
+
+- Chỉ allowlist nguồn cho ba procedure pack MVP; không index toàn corpus.
+- Dùng lifecycle `staging -> parsed -> needs_review -> approved`, có `rejected` và `stale`; chỉ `approved` được retrieval.
+- Logical contract gồm `SourceDocument`, `ParsedSection`, `EvidenceChunk` và `ChunkBuildReport`.
+- Chunk target 250–350 tokens, hard maximum 450 tokens đã gồm prefix; không overlap theo phần trăm.
+- `TokenCounter` provider-neutral và tokenizer ID là một phần build identity.
+- Baseline là structured filter + keyword; vector/pgvector chỉ qua Decision riêng nếu golden set chứng minh cần thiết.
+- Không thay public API, dependency, database hoặc runtime schema trong Decision proposal này.
+
+### Hệ quả và kiểm chứng
+
+- Phase 1 phải tạo fixtures có section boundaries và parser deterministic trước khi build chunk.
+- Chỉ source/chunk có provenance, hiệu lực và review state hợp lệ mới được phát hành.
+- Chunk build phải reproducible; đổi source, parser, chunker hoặc tokenizer buộc version/rebuild.
+- Gate đánh giá gồm section-boundary F1 >= 95%, hard-cap pass 100%, citation coverage 100%, stale/future leakage 0 và Retrieval Recall@5 >= 95%.
+- Acceptance hiện chỉ cấp quyền triển khai fixtures, annotations và validator/test Phase 1; chưa cấp quyền thay runtime schema/dependency/index.
+
+### Rollback / fallback
+
+Không sửa raw corpus. Mọi parsed/chunk/index artifact có thể bỏ và build lại từ approved source snapshot. Nếu structure-aware retrieval không vượt baseline trên golden set, fallback về structured procedure lookup + keyword trên approved sections, không đưa whole corpus vào LLM.
+
+---
+
 ## D-013 — Prototype read models và RAG routes additive
 
 - **Trạng thái:** Accepted
@@ -299,6 +349,43 @@ Không thêm route, auth, upload/OCR, support ticket, portal integration, databa
 ### Rollback / fallback
 
 Các trường response mới là optional/additive nên FE có thể bỏ qua. Nếu adapter/pack không sẵn sàng, response dùng `official_review_required` hoặc `need_more_information`, không fallback sang fact fixture.
+
+---
+
+## D-015 — Ngoại lệ bảng màu đỏ-vàng cho landing page marketing
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** Claude theo yêu cầu người dùng
+- **Phạm vi:** UI/design
+- **Task Record:** `local-20260718-landing-page-red-gold`
+- **Peer xác nhận:** Người dùng xác nhận trực tiếp trong phiên làm việc ngày 2026-07-18
+
+### Bối cảnh
+
+Trang chủ marketing (`frontend/src/app/page.tsx`, khối `view === "landing"`) cần khớp bố cục và màu sắc với ảnh tham chiếu thật `Cổng dịch vụ công Quốc gia.png` (đỏ-vàng, trống đồng vàng kim, hoa sen hồng). `docs/DESIGN.md` hiện quy định hệ màu VNGov Navy & Orange, tối giản, không màu mè — dùng cho giao diện Trợ lý AI Copilot (`view === "copilot"`). Hai yêu cầu xung đột nhau nếu áp dụng cùng một bảng màu cho cả hai view.
+
+### Lựa chọn đã cân nhắc
+
+1. Giữ nguyên Navy & Orange cho cả landing page — không khớp ảnh mẫu người dùng cung cấp.
+2. Đổi toàn bộ `docs/DESIGN.md` sang đỏ-vàng — ảnh hưởng cả giao diện Copilot app, không cần thiết và rủi ro cao hơn.
+3. Thêm token màu riêng (`--color-gov-red`, `--color-gov-gold`, `--color-gov-cream`) chỉ dùng trong các component `frontend/src/app/components/landing/*`, giữ nguyên token Navy/Orange cho Copilot view.
+
+### Quyết định
+
+Chọn phương án 3. Landing page (Header, Hero, 6 dịch vụ, Dịch vụ nổi bật + Cập nhật, Lợi ích, Footer) dùng token `gov-red`/`gov-gold`/`gov-cream` mới trong `frontend/src/app/globals.css` và ảnh thật có sẵn trong `frontend/src/image/` (quốc huy, logo, nền trống đồng/hoa sen). Giao diện Copilot (`view === "copilot"`) không đổi, vẫn theo `docs/DESIGN.md` Navy & Orange.
+
+Bổ sung ngày 2026-07-18: thêm scoped token `--portal-page`/`--portal-surface`/`--portal-border`/`--portal-text`/`--portal-muted`/`--portal-red`/`--portal-red-dark`/`--portal-orange`/`--portal-gold` dưới class `.portal-home` (không sửa `:root`/`@theme`), và một `.portal-container` utility dùng chung cho mọi section của landing page, để khớp sát hơn ảnh tham chiếu gốc mà không đổi token Copilot.
+
+### Hệ quả và kiểm chứng
+
+- `docs/DESIGN.md` không cần cập nhật vì phạm vi ngoại lệ chỉ giới hạn ở landing page, không phải toàn bộ design system.
+- `npm run typecheck`, `npm run build` đã chạy sau các đợt chỉnh sửa; không có lỗi mới phát sinh từ thay đổi này (một lint warning tiền tồn tại trong `layout.tsx`, ngoài phạm vi).
+- Đã xác minh bằng `next dev` rằng landing page compile và render đúng nội dung, kể cả sau đợt refine footer/hero/benefits ngày 2026-07-18.
+
+### Rollback / fallback
+
+Xoá token `gov-*`/`portal-*` khỏi `globals.css` và revert các component trong `frontend/src/app/components/landing/` về bản Navy & Orange trước đó nếu cần đồng bộ lại với `docs/DESIGN.md`.
 
 ---
 
