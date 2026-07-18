@@ -1,17 +1,5 @@
 """Hybrid retrieval: keyword TF-IDF cosine + dense Vietnamese embeddings.
 
-<<<<<<< HEAD
-Mac dinh (`rag_semantic_mode="lexical"`) khong dung numpy/scikit-learn/vector
-DB (Neon/pgvector van la `Proposed`/`TBD` theo D-005/D-006) de tranh
-dependency native nang, dung pure-Python term-frequency cosine similarity.
-Khi bat `rag_semantic_mode="hybrid"` (D-013), score lexical duoc blend them
-voi semantic similarity tu `vector_index.SemanticIndex` (embedding tieng
-Viet + FAISS, chay in-process, khong ket noi service ngoai) — neu semantic
-layer khong san sang (thieu dependency/model) thi tu dong fail-closed ve
-dung lexical score nhu truoc, hanh vi khong doi. Chi truy hoi tren cac
-chunk da duoc allowlist trong source_store.PROCEDURE_ALLOWLIST — khong co
-PII, chat memory hay case memory nao trong index nay.
-=======
 Retrieval mode (RAG_RETRIEVAL_MODE env / config):
   "keyword"  — BM25-style TF-IDF cosine (default fallback, no deps).
   "semantic" — chi dense embedding (yeu cau sentence-transformers hoac API key).
@@ -27,7 +15,6 @@ Dense embedding duoc cung cap boi app.services.rag.embedding:
 
 Chi truy hoi tren cac chunk duoc allowlist trong source_store.PROCEDURE_ALLOWLIST
 — khong co PII, chat memory hay case memory nao trong index nay.
->>>>>>> dev
 """
 
 from __future__ import annotations
@@ -59,7 +46,6 @@ from app.services.rag.source_store import (
     load_candidate_records,
     strip_diacritics,
 )
-from app.services.rag.vector_index import SemanticIndex
 
 _TOKEN_RE = re.compile(r"[a-zA-Z0-9]+")
 _STOPWORDS = {
@@ -199,17 +185,10 @@ class RetrievalService:
 
     @staticmethod
     def clear_cache() -> None:
-<<<<<<< HEAD
-        """Chi dung trong test: xoa cache khi doi RAG_SOURCE_DIR."""
-        _build_index.cache_clear()
-        load_approved_records.cache_clear()
-        SemanticIndex.clear_cache()
-=======
         """Chi dung trong test: xoa cache khi doi RAG_SOURCE_DIR hoac settings."""
         _build_keyword_index.cache_clear()
         load_candidate_records.cache_clear()
         clear_embedding_cache()
->>>>>>> dev
 
     @staticmethod
     def known_procedure_ids() -> List[str]:
@@ -217,30 +196,6 @@ class RetrievalService:
 
     @staticmethod
     def recommend_procedure(query_text: str, top_k: int = 3) -> List[ProcedureCandidate]:
-<<<<<<< HEAD
-        query_vector = _term_vector(_tokenize(query_text))
-        index = _build_index()
-        semantic_available = SemanticIndex.is_available()
-        best_per_procedure: Dict[str, float] = {}
-
-        for procedure_id, scored_chunks in index.items():
-            semantic_scores = (
-                SemanticIndex.score_chunks(query_text, [s.chunk for s in scored_chunks])
-                if semantic_available
-                else {}
-            )
-            best_score = 0.0
-            for scored in scored_chunks:
-                lexical_score = _cosine_similarity(query_vector, scored.vector)
-                score = (
-                    _blend(lexical_score, semantic_scores[scored.chunk.chunk_id])
-                    if scored.chunk.chunk_id in semantic_scores
-                    else lexical_score
-                )
-                if score > best_score:
-                    best_score = score
-            best_per_procedure[procedure_id] = best_score
-=======
         settings = get_settings()
         alpha = settings.rag_semantic_weight
 
@@ -258,7 +213,6 @@ class RetrievalService:
                 if score > best:
                     best = score
             best_per_procedure[procedure_id] = best
->>>>>>> dev
 
         ranked = sorted(best_per_procedure.items(), key=lambda kv: kv[1], reverse=True)
         return [
@@ -294,30 +248,6 @@ class RetrievalService:
                 conflict=False,
             )
 
-<<<<<<< HEAD
-        candidate_procedures = [query.procedure_id] if query.procedure_id else list(index.keys())
-        query_vector = _term_vector(_tokenize(query.text)) if query.text else Counter()
-        semantic_available = bool(query.text) and SemanticIndex.is_available()
-
-        scored: List[tuple] = []
-        for procedure_id in candidate_procedures:
-            procedure_chunks = index.get(procedure_id, [])
-            semantic_scores = (
-                SemanticIndex.score_chunks(query.text, [s.chunk for s in procedure_chunks])
-                if semantic_available
-                else {}
-            )
-            for scored_chunk in procedure_chunks:
-                lexical_score = (
-                    _cosine_similarity(query_vector, scored_chunk.vector) if query_vector else 1.0
-                )
-                score = (
-                    _blend(lexical_score, semantic_scores[scored_chunk.chunk.chunk_id])
-                    if scored_chunk.chunk.chunk_id in semantic_scores
-                    else lexical_score
-                )
-                scored.append((score, scored_chunk.chunk))
-=======
         candidate_procedures = (
             [query.procedure_id] if query.procedure_id else list(keyword_index.keys())
         )
@@ -335,7 +265,6 @@ class RetrievalService:
                 else:
                     score = 1.0
                 scored.append((score, sc.chunk))
->>>>>>> dev
 
         scored.sort(key=lambda pair: pair[0], reverse=True)
         top_k = query.top_k or settings.rag_top_k

@@ -34,7 +34,7 @@
   --color-hero-start-raw: #FFF7ED; /* Soft warm peach-cream start */
   --color-hero-end-raw: #F8FAFC; /* Flows into background */
 
-  /* Cổng DVCQG landing page theme (D-012): scoped to the public marketing
+  /* Cổng DVCQG landing page theme (D-015): scoped to the public marketing
      landing page only, kept separate from the VNGov Copilot Navy & Orange
      tokens above which still drive the app/copilot view. */
   --color-gov-red-raw: #A6231C; /* Deep vermillion, matches reference footer/CTA */
@@ -72,7 +72,7 @@
   --color-hero-start: var(--color-hero-start-raw);
   --color-hero-end: var(--color-hero-end-raw);
 
-  /* Cổng DVCQG landing page bindings (D-012) */
+  /* Cổng DVCQG landing page bindings (D-015) */
   --color-gov-red: var(--color-gov-red-raw);
   --color-gov-red-hover: var(--color-gov-red-hover-raw);
   --color-gov-gold: var(--color-gov-gold-raw);

@@ -26,9 +26,12 @@ Decision Log lưu các quyết định liên lane hoặc khó đảo ngược: s
 | D-010 | Proposed | Fast merge gate và release artifact provider-neutral | `local-20260718-ci-cd-optimization` | 2026-07-18 |
 | D-011 | Proposed | RAG in-process (không pgvector), LLM Gateway OpenAI-compatible với offline fallback, PII Guard regex in-memory, tích hợp vào CopilotService/ports adapter | `local-20260718-rag-llm-guardrail` | 2026-07-18 |
 | D-012 | Accepted | Cloud Run backend demo foundation, production-disabled | `local-20260718-gcp-backend-deploy` | 2026-07-18 |
-| D-013 | Accepted | Prototype read models cho sáu route base và hai route RAG additive | `local-20260718-prototype-api-contract` | 2026-07-18 |
-| D-014 | Accepted | Structure-aware chunking contract cho ba procedure pack MVP | `local-20260718-chunking-phase-0`, `local-20260718-chunking-phase-1` | 2026-07-18 |
+| D-013 | Accepted | Production hardening local, fail closed trước K1 | `local-20260718-production-hardening-p0` | 2026-07-18 |
+| D-014 | Accepted | Synthetic approved family release cho demo local | `local-20260718-demo-family-release` | 2026-07-18 |
 | D-015 | Accepted | Ngoại lệ bảng màu đỏ-vàng cho landing page marketing, tách biệt VNGov Copilot Navy & Orange | `local-20260718-landing-page-red-gold` | 2026-07-18 |
+| D-016 | Accepted | Tích hợp direct web-to-API, giữ production fail-closed trước K1 | `local-20260718-main-ci-api-integration` | 2026-07-18 |
+| D-017 | Accepted | Structure-aware chunking contract cho ba procedure pack MVP | `local-20260718-chunking-phase-0`, `local-20260718-chunking-phase-1` | 2026-07-18 |
+| D-018 | Accepted | Prototype read models cho sáu route base và hai route RAG additive | `local-20260718-prototype-api-contract` | 2026-07-18 |
 
 ---
 
@@ -273,6 +276,44 @@ Nếu retrieval lexical không đủ chất lượng cho demo, đặt lại `pro
 
 ---
 
+## D-012 — Cloud Run backend demo foundation, production-disabled
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** User-requested deployment task
+- **Phạm vi:** deploy / security / demo
+- **Task Record:** `local-20260718-gcp-backend-deploy`
+- **Peer xác nhận:** `hdtruong802` (user), 2026-07-18
+
+### Bối cảnh
+
+Backend FastAPI theo D-005 cần một pathway public demo độc lập với frontend. D-006 đã chấp thuận target architecture, nhưng data/RAG/LLM chưa được triển khai. Deploy khi fixture còn chạy hoặc không có rollback sẽ tạo rủi ro hướng dẫn sai và chi phí không kiểm soát.
+
+### Lựa chọn đã cân nhắc
+
+1. Chờ toàn bộ product stack/deploy topology: ít rủi ro, nhưng chưa có đường chuẩn bị backend demo độc lập.
+2. Deploy mọi capability ngay: nhanh hơn bề ngoài nhưng vi phạm fail-closed và mở rộng sang data/AI/storage.
+3. Chuẩn bị Cloud Run backend-only, production-disabled: container/API có public demo pathway nhưng không có procedure data, RAG, LLM, database hoặc secret.
+
+### Quyết định
+
+Chấp thuận lựa chọn 3. Dùng Cloud Run `asia-southeast1` với Artifact Registry Docker repository `vngov-backend` cùng region, service `vngov-api`, image tag full commit SHA immutable và deploy bằng digest. Runtime là 1 vCPU/512 MiB, request-based, `min-instances=0`, `max-instances=1`, timeout 20 giây, public demo access và user-managed service account `vngov-api-runtime` không có role/secret.
+
+Runtime phải có `APP_ENV=production`, `PROCEDURE_DATA_MODE=disabled`, `RAG_MODE=disabled`, `LLM_MODE=disabled`, CORS rỗng và rate limit 60 request/60 giây. `/health` phải `degraded`; không route nào được trả fixture, procedure guidance đã xác minh hoặc raw PII. Không tạo Secret Manager, Cloud SQL, Cloud Storage, Vertex AI, vector DB, VPC connector, NAT hay CD workflow trong scope này.
+
+### Hệ quả và kiểm chứng
+
+- D-012 không thay thế D-006. Cả hai đã được peer xác nhận; billing/credit, IAM, local/container smoke và candidate smoke vẫn là gate chặn provisioning hoặc traffic.
+- Build từ `backend/`, container chạy non-root và lắng nghe `PORT`; local lint/test/container smoke là gate.
+- Với service đã có stable revision, deploy candidate `--no-traffic`, smoke `/health`, `/openapi.json`, `/docs` và fail-closed contract trước khi chuyển 100% traffic. Cloud Run không hỗ trợ `--no-traffic` khi tạo service đầu tiên: bootstrap revision phải private/authenticated-only, smoke bằng identity token, rồi mới mở public access.
+- Ghi image digest, revision, URL, timestamp, smoke result và rollback revision vào handoff; tạo budget alert 10/25/50/80/100% của 1,000,000 VND sau billing review.
+
+### Rollback / fallback
+
+Nếu candidate smoke hoặc 5xx lỗi, không chuyển traffic; deploy sau rollback traffic về revision stable trước. Nếu bootstrap smoke lần đầu lỗi, không mở public access và dùng backend local làm fallback. Nếu billing/credit, IAM hoặc smoke không đạt, dừng ở artifact/runbook local.
+
+---
+
 ## D-013 — Production hardening local, fail closed trước K1
 
 - **Trạng thái:** Accepted
@@ -349,7 +390,7 @@ Không có migration, cloud state, secret hoặc API contract cần thu hồi.
 
 ---
 
-## Mẫu quyết định mới
+## D-017 — Structure-aware chunking contract cho ba procedure pack MVP
 
 - **Trạng thái:** Accepted
 - **Ngày:** 2026-07-18
@@ -397,7 +438,7 @@ Không sửa raw corpus. Mọi parsed/chunk/index artifact có thể bỏ và bu
 
 ---
 
-## D-013 — Prototype read models và RAG routes additive
+## D-018 — Prototype read models và RAG routes additive
 
 - **Trạng thái:** Accepted
 - **Ngày:** 2026-07-18

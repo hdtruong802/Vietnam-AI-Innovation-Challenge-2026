@@ -81,7 +81,7 @@ def build_chunks(procedure_id: str, records: List[SourceRecord]) -> List[Evidenc
                     source_title=f"{record.name} — {source_title}",
                     source_ref=source_ref,
                     source_url=source_url,
-                    last_verified_at=freeze_date,
+                    last_verified_at=None,
                 )
             )
 
@@ -110,7 +110,7 @@ def build_chunks(procedure_id: str, records: List[SourceRecord]) -> List[Evidenc
                     source_title=f"{record.name} — {source_title}",
                     source_ref=source_ref,
                     source_url=source_url,
-                    last_verified_at=freeze_date,
+                    last_verified_at=None,
                 )
             )
 
@@ -137,7 +137,7 @@ def build_chunks(procedure_id: str, records: List[SourceRecord]) -> List[Evidenc
                     source_title=f"{record.name} — {source_title}",
                     source_ref=source_ref,
                     source_url=source_url,
-                    last_verified_at=freeze_date,
+                    last_verified_at=None,
                 )
             )
 

@@ -30,7 +30,7 @@
 
 `POST /v1/applications/validate` nhận `procedure_id`, optional `procedure_version` và `form_data`. `verdict` chỉ là `pass_preliminary`, `needs_fix` hoặc `null` khi `trust_state=official_review_required`.
 
-## Prototype flow read models (D-013)
+## Prototype flow read models (D-018)
 
 Frontend dùng sáu route guided-intake/pre-check và hai route RAG additive. Các route RAG chỉ trả evidence hoặc diễn giải grounded có citation; chúng không thay deterministic validation, trust state hay official review.
 
