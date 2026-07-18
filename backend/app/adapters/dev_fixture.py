@@ -17,6 +17,8 @@ from app.models.procedure import (
     ValidationRuleType,
 )
 from app.ports import RetrievalEvidence, RetrievalQuery
+from app.services.guardrail.audit import RedactedAudit
+from app.services.guardrail.pii_guard import PIIGuard
 
 FIXTURE_SOURCE = Citation(
     ref_id="fixture-not-legal",
@@ -185,12 +187,26 @@ class DisabledRetrievalProvider:
 
 
 class InMemoryAuditSink:
-    """Receives metadata only; it intentionally does not persist request payloads."""
+    """Receives metadata only; it intentionally does not persist request payloads.
+
+    Defense-in-depth: mọi giá trị string vẫn được đưa qua PIIGuard.redact_free_text
+    trước khi log (xem app/services/guardrail/audit.py) dù caller hiện tại chỉ
+    truyền metadata an toàn (trust_state, procedure_id, finding_count...).
+    """
 
     async def emit(self, event: str, fields: dict[str, str | int | float | bool | None]) -> None:
-        _ = (event, fields)
+        redacted_fields = {
+            key: (PIIGuard.redact_free_text(value) if isinstance(value, str) else value)
+            for key, value in fields.items()
+        }
+        RedactedAudit.log_event(event, redacted_fields)
 
 
 class DisabledLLMProvider:
     async def is_available(self) -> bool:
         return False
+
+    async def explain_findings(
+        self, session_id: str, form_data: dict, findings: list
+    ) -> dict[str, str]:
+        return {}

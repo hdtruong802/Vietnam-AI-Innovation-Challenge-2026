@@ -1,3 +1,4 @@
+from app.config import Settings
 from app.services.llm.gateway import LLMGateway
 from app.services.llm.schemas import ClarificationOutput, ExplanationOutput
 from app.services.rag.schemas import EvidenceChunk
@@ -16,18 +17,19 @@ def _sample_chunk():
     )
 
 
+def _offline(monkeypatch) -> None:
+    monkeypatch.setattr("app.services.llm.gateway.get_settings", lambda: Settings(ai_api_key=""))
+    LLMGateway.reset()
+
+
 def test_gateway_is_offline_without_api_key(monkeypatch):
-    monkeypatch.setattr("app.config.AI_API_KEY", "", raising=False)
-    LLMGateway._client_initialized = False
-    LLMGateway._client = None
+    _offline(monkeypatch)
 
     assert LLMGateway.is_online() is False
 
 
 def test_fallback_clarification_asks_for_procedure_when_no_evidence(monkeypatch):
-    monkeypatch.setattr("app.config.AI_API_KEY", "", raising=False)
-    LLMGateway._client_initialized = False
-    LLMGateway._client = None
+    _offline(monkeypatch)
 
     result = LLMGateway.generate_clarification(
         user_message="tôi cần giúp đỡ",
@@ -41,9 +43,7 @@ def test_fallback_clarification_asks_for_procedure_when_no_evidence(monkeypatch)
 
 
 def test_fallback_clarification_asks_pending_question(monkeypatch):
-    monkeypatch.setattr("app.config.AI_API_KEY", "", raising=False)
-    LLMGateway._client_initialized = False
-    LLMGateway._client = None
+    _offline(monkeypatch)
 
     result = LLMGateway.generate_clarification(
         user_message="tôi muốn khai sinh cho con",
@@ -56,9 +56,7 @@ def test_fallback_clarification_asks_pending_question(monkeypatch):
 
 
 def test_fallback_clarification_grounded_message(monkeypatch):
-    monkeypatch.setattr("app.config.AI_API_KEY", "", raising=False)
-    LLMGateway._client_initialized = False
-    LLMGateway._client = None
+    _offline(monkeypatch)
 
     result = LLMGateway.generate_clarification(
         user_message="tôi muốn khai sinh cho con",
@@ -71,9 +69,7 @@ def test_fallback_clarification_grounded_message(monkeypatch):
 
 
 def test_fallback_explanation_never_changes_severity_field(monkeypatch):
-    monkeypatch.setattr("app.config.AI_API_KEY", "", raising=False)
-    LLMGateway._client_initialized = False
-    LLMGateway._client = None
+    _offline(monkeypatch)
 
     result = LLMGateway.explain_finding(
         field_label="ho_ten_tre",

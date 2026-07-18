@@ -16,7 +16,9 @@ class EvidenceChunk(BaseModel):
     chunk_id: str
     procedure_id: str
     procedure_name: str
-    section: str = Field(..., description="Ten section nguon: steps | documents | legal_basis | eligibility | ...")
+    section: str = Field(
+        ..., description="Ten section nguon: steps | documents | legal_basis | eligibility | ..."
+    )
     text: str
     source_title: str
     source_ref: str = Field(..., description="Ma quyet dinh / van ban phap ly lam citation")

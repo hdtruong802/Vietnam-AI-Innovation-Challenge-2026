@@ -1,13 +1,14 @@
 import pytest
 
-import app.config as config
+from app.config import get_settings
 from app.services.rag.retrieval import RetrievalService
 from app.services.rag.schemas import RetrievalQuery
 from app.services.rag.source_store import load_approved_records
 
 
 def _has_source_data() -> bool:
-    return config.RAG_SOURCE_DIR.exists() and any(config.RAG_SOURCE_DIR.glob("*.txt"))
+    source_path = get_settings().rag_source_path
+    return source_path.exists() and any(source_path.glob("*.txt"))
 
 
 requires_source_data = pytest.mark.skipif(
@@ -49,7 +50,9 @@ def test_recommend_procedure_top1(query_text, expected_procedure_id):
 @requires_source_data
 def test_retrieve_returns_grounded_evidence_with_citations():
     evidence = RetrievalService.retrieve(
-        RetrievalQuery(text="giấy chứng sinh thủ tục đăng ký khai sinh", procedure_id="dang-ky-khai-sinh")
+        RetrievalQuery(
+            text="giấy chứng sinh thủ tục đăng ký khai sinh", procedure_id="dang-ky-khai-sinh"
+        )
     )
 
     assert evidence.procedure_id == "dang-ky-khai-sinh"
@@ -61,19 +64,23 @@ def test_retrieve_returns_grounded_evidence_with_citations():
 
 @requires_source_data
 def test_retrieve_unknown_procedure_is_not_grounded():
-    evidence = RetrievalService.retrieve(RetrievalQuery(text="bất kỳ", procedure_id="khong-ton-tai"))
+    evidence = RetrievalService.retrieve(
+        RetrievalQuery(text="bất kỳ", procedure_id="khong-ton-tai")
+    )
 
     assert evidence.is_grounded is False
     assert evidence.chunks == []
 
 
-def test_retrieve_with_missing_source_dir_fails_closed(tmp_path):
+def test_retrieve_with_missing_source_dir_fails_closed(tmp_path, monkeypatch):
     RetrievalService.clear_cache()
     empty_dir = tmp_path / "empty"
     empty_dir.mkdir()
 
-    original_dir = config.RAG_SOURCE_DIR
-    config.RAG_SOURCE_DIR = empty_dir
+    monkeypatch.setattr(
+        "app.services.rag.source_store.get_settings",
+        lambda: get_settings().model_copy(update={"rag_source_dir": str(empty_dir)}),
+    )
     try:
         evidence = RetrievalService.retrieve(
             RetrievalQuery(text="khai sinh", procedure_id="dang-ky-khai-sinh")
@@ -81,5 +88,4 @@ def test_retrieve_with_missing_source_dir_fails_closed(tmp_path):
         assert evidence.is_grounded is False
         assert evidence.chunks == []
     finally:
-        config.RAG_SOURCE_DIR = original_dir
         RetrievalService.clear_cache()

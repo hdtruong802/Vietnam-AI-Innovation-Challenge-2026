@@ -13,11 +13,16 @@ import math
 import re
 from collections import Counter
 from functools import lru_cache
-from typing import Dict, List, Optional
+from typing import Dict, List
 
-from app.config import RAG_MIN_CONFIDENCE, RAG_TOP_K
+from app.config import get_settings
 from app.services.rag.chunking import build_chunks
-from app.services.rag.schemas import EvidenceChunk, ProcedureCandidate, RetrievalEvidence, RetrievalQuery
+from app.services.rag.schemas import (
+    EvidenceChunk,
+    ProcedureCandidate,
+    RetrievalEvidence,
+    RetrievalQuery,
+)
 from app.services.rag.source_store import (
     PROCEDURE_DISPLAY_NAME,
     load_approved_records,
@@ -26,9 +31,37 @@ from app.services.rag.source_store import (
 
 _TOKEN_RE = re.compile(r"[a-zA-Z0-9]+")
 _STOPWORDS = {
-    "toi", "ban", "la", "va", "cua", "cho", "the", "nay", "o", "co", "khong",
-    "muon", "can", "de", "voi", "tai", "mot", "nhung", "duoc", "phai", "khi",
-    "tu", "ve", "hay", "nhu", "da", "se", "cac", "trong", "theo", "nguoi",
+    "toi",
+    "ban",
+    "la",
+    "va",
+    "cua",
+    "cho",
+    "the",
+    "nay",
+    "o",
+    "co",
+    "khong",
+    "muon",
+    "can",
+    "de",
+    "voi",
+    "tai",
+    "mot",
+    "nhung",
+    "duoc",
+    "phai",
+    "khi",
+    "tu",
+    "ve",
+    "hay",
+    "nhu",
+    "da",
+    "se",
+    "cac",
+    "trong",
+    "theo",
+    "nguoi",
 }
 
 
@@ -61,7 +94,9 @@ class _ScoredChunk:
 
     def __init__(self, chunk: EvidenceChunk):
         self.chunk = chunk
-        self.vector = _term_vector(_tokenize(f"{chunk.procedure_name} {chunk.section} {chunk.text}"))
+        self.vector = _term_vector(
+            _tokenize(f"{chunk.procedure_name} {chunk.section} {chunk.text}")
+        )
 
 
 @lru_cache(maxsize=1)
@@ -135,11 +170,13 @@ class RetrievalService:
         scored: List[tuple] = []
         for procedure_id in candidate_procedures:
             for scored_chunk in index.get(procedure_id, []):
-                score = _cosine_similarity(query_vector, scored_chunk.vector) if query_vector else 1.0
+                score = (
+                    _cosine_similarity(query_vector, scored_chunk.vector) if query_vector else 1.0
+                )
                 scored.append((score, scored_chunk.chunk))
 
         scored.sort(key=lambda pair: pair[0], reverse=True)
-        top_k = query.top_k or RAG_TOP_K
+        top_k = query.top_k or get_settings().rag_top_k
         top = scored[:top_k]
 
         resolved_procedure_id = query.procedure_id
@@ -158,11 +195,13 @@ class RetrievalService:
             }
 
         confidence = top[0][0] if top else 0.0
-        is_grounded = bool(chunks) and confidence >= RAG_MIN_CONFIDENCE
+        is_grounded = bool(chunks) and confidence >= get_settings().rag_min_confidence
 
         return RetrievalEvidence(
             procedure_id=resolved_procedure_id,
-            procedure_name=PROCEDURE_DISPLAY_NAME.get(resolved_procedure_id) if resolved_procedure_id else None,
+            procedure_name=(
+                PROCEDURE_DISPLAY_NAME.get(resolved_procedure_id) if resolved_procedure_id else None
+            ),
             chunks=chunks,
             citations=list(seen_citations.values()),
             confidence=round(confidence, 4),

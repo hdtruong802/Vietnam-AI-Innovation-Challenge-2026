@@ -1,10 +1,11 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Protocol
+from typing import Any, Protocol, Sequence
 
 from app.models.common import SessionContext
 from app.models.procedure import ProcedureCandidate, ProcedurePack, ProcedureSummary
+from app.models.validation import Finding
 
 
 @dataclass(frozen=True)
@@ -39,6 +40,17 @@ class RetrievalProvider(Protocol):
 
 class LLMProvider(Protocol):
     async def is_available(self) -> bool: ...
+
+    async def explain_findings(
+        self, session_id: str, form_data: dict[str, Any], findings: Sequence[Finding]
+    ) -> dict[str, str]:
+        """Trả về rule_id -> câu diễn giải thân thiện, không đổi finding/verdict.
+
+        Caller phải truyền `form_data` chưa tokenize; adapter chịu trách
+        nhiệm tokenize PII trước khi rời trusted boundary (PII Guard) và
+        không được trả về evidence/finding mới ngoài rule_id đã có.
+        """
+        ...
 
 
 class AuditSink(Protocol):

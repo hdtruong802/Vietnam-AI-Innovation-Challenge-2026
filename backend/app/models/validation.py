@@ -27,3 +27,10 @@ class ValidationResponse(RegulatoryResponse):
     verdict: PrecheckVerdict | None = None
     findings: list[Finding] = Field(default_factory=list)
     summary_message: str = Field(min_length=1, max_length=1_000)
+    explanations: dict[str, str] = Field(
+        default_factory=dict,
+        description=(
+            "rule_id -> câu diễn giải thân thiện từ LLM Gateway (best-effort, "
+            "chỉ diễn giải finding đã có, không thay đổi verdict/finding gốc)."
+        ),
+    )

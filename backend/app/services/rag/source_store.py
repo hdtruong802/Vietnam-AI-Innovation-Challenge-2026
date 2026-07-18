@@ -18,7 +18,7 @@ from functools import lru_cache
 from pathlib import Path
 from typing import Dict, List, Optional
 
-import app.config as app_config
+from app.config import get_settings
 
 _TOP_LEVEL_FIELDS = [
     "Mã thủ tục",
@@ -178,7 +178,7 @@ def load_approved_records(source_dir: Optional[str] = None) -> Dict[str, List[So
     tap tin tinh, khong doi trong luc server chay.
     """
 
-    base_dir = Path(source_dir) if source_dir else app_config.RAG_SOURCE_DIR
+    base_dir = Path(source_dir) if source_dir else get_settings().rag_source_path
     name_to_procedure: Dict[str, str] = {}
     for procedure_id, names in PROCEDURE_ALLOWLIST.items():
         for allowed_name in names:
@@ -202,4 +202,4 @@ def load_approved_records(source_dir: Optional[str] = None) -> Dict[str, List[So
 
 
 def get_source_freeze_date() -> str:
-    return app_config.RAG_SOURCE_FREEZE_DATE
+    return get_settings().rag_source_freeze_date

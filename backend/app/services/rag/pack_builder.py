@@ -1,19 +1,28 @@
-"""Deterministic transform tu RAG evidence sang cau truc checklist/step.
+"""Deterministic transform tu RAG evidence sang app.models.procedure.ProcedurePack.
 
 Day KHONG phai LLM sinh noi dung: chi la parser deterministic tren van ban
 da duoc allowlist trong source_store (tuong duong buoc 'Chuan hoa / chunk'
 trong RAG lifecycle). Dung cho cac pack chua duoc author cu the (thuong
-tru, ho kinh doanh); pack da co checklist tu tay (khai sinh) van giu
-nguyen structured data curated, chi lam giau them citations tu RAG.
+tru, ho kinh doanh); pack da co checklist curate tay (khai sinh) van giu
+noi dung curated, chi lam giau them source_refs tu RAG.
 """
 
 from __future__ import annotations
 
+import hashlib
 import re
+from datetime import date
 from typing import List, Optional
 
-from app.models.checklist import ChecklistItem, ChecklistResponse, Step
-from app.models.common import Citation
+from app.models.common import Citation, ClarifyingQuestion, FindingSeverity
+from app.models.procedure import (
+    ChecklistItem,
+    ProcedurePack,
+    ProcedureStep,
+    ReviewStatus,
+    ValidationRule,
+    ValidationRuleType,
+)
 from app.services.rag.retrieval import RetrievalService
 from app.services.rag.source_store import (
     PROCEDURE_DISPLAY_NAME,
@@ -70,26 +79,66 @@ def _split_steps(raw_text: str) -> List[str]:
     return [raw_text.strip()] if raw_text.strip() else []
 
 
-def _extract_field(raw_text: str, label: str, default: str) -> str:
-    match = re.search(rf"{label}:\s*([^\n]+)", raw_text)
-    return match.group(1).strip() if match else default
+def _parse_freeze_date() -> date:
+    try:
+        return date.fromisoformat(get_source_freeze_date())
+    except ValueError:
+        return date.today()
+
+
+def _record_checksum(record: SourceRecord) -> str:
+    payload = "|".join(
+        [record.file_name, record.name, record.documents, record.steps, record.legal_basis_raw]
+    )
+    return hashlib.sha256(payload.encode("utf-8")).hexdigest()[:16]
 
 
 def _primary_citation(record: SourceRecord) -> Citation:
     if record.legal_basis:
         entry = record.legal_basis[0]
-        return Citation(title=entry["title"], url="https://dichvucong.gov.vn", ref_code=entry["ref_code"])
-    return Citation(
-        title=record.name,
-        url="https://dichvucong.gov.vn",
-        ref_code=record.procedure_code or record.decision_no or "N/A",
-    )
+        ref_id = (entry.get("ref_code") or entry["title"])[:120]
+        return Citation(
+            ref_id=ref_id, title=entry["title"][:240], url_or_ref="https://dichvucong.gov.vn"
+        )
+    ref_id = (record.procedure_code or record.decision_no or record.file_name)[:120]
+    return Citation(ref_id=ref_id, title=record.name[:240], url_or_ref="https://dichvucong.gov.vn")
 
 
-def build_checklist_from_evidence(
+def _required_field_rules(
+    procedure_id: str, form_schema: dict, citation_ref_id: str
+) -> List[ValidationRule]:
+    properties = form_schema.get("properties", {})
+    required_field_ids = list(form_schema.get("required", []))
+    rules: List[ValidationRule] = []
+    for idx, field_id in enumerate(required_field_ids, start=1):
+        label = properties.get(field_id, {}).get("title", field_id)
+        rules.append(
+            ValidationRule(
+                rule_id=f"{procedure_id.upper()}-REQ-{idx}",
+                type=ValidationRuleType.REQUIRED,
+                field_id=field_id,
+                severity=FindingSeverity.ERROR,
+                message=f"{label} là bắt buộc và không được để trống.",
+                fix_hint="Vui lòng nhập đầy đủ thông tin cho trường này.",
+                source_ref_ids=[citation_ref_id],
+            )
+        )
+    return rules
+
+
+def build_procedure_pack_from_evidence(
     procedure_id: str,
+    *,
+    aliases: List[str],
     form_schema: dict,
-) -> Optional[ChecklistResponse]:
+    intake_questions: Optional[List[ClarifyingQuestion]] = None,
+) -> Optional[ProcedurePack]:
+    """Sinh ProcedurePack tu evidence RAG cho pack chua duoc curate tay.
+
+    Tra ve None neu khong co source nao trong allowlist duoc nap (fail
+    closed: Trust Policy se coi procedure nay la chua verified).
+    """
+
     records_by_procedure = load_approved_records()
     records = records_by_procedure.get(procedure_id) or []
     if not records:
@@ -103,10 +152,10 @@ def build_checklist_from_evidence(
     for idx, line in enumerate(_split_documents(record.documents), start=1):
         item = ChecklistItem(
             id=f"{procedure_id}-doc-{idx}",
-            title=_title_from_document_line(line),
-            required=not _is_conditional(line),
-            description=line[:500],
-            citations=[citation],
+            label=_title_from_document_line(line),
+            kind="conditional" if _is_conditional(line) else "required",
+            description=(line[:1000] or "Xem chi tiết trong hồ sơ nguồn."),
+            source_ref_ids=[citation.ref_id],
         )
         (optional_documents if _is_conditional(line) else required_documents).append(item)
 
@@ -114,46 +163,158 @@ def build_checklist_from_evidence(
         required_documents = [
             ChecklistItem(
                 id=f"{procedure_id}-doc-0",
-                title="Tờ khai theo mẫu quy định",
-                required=True,
+                label="Tờ khai theo mẫu quy định",
+                kind="required",
                 description="Điền đầy đủ thông tin vào biểu mẫu do nhà nước ban hành.",
-                citations=[citation],
+                source_ref_ids=[citation.ref_id],
             )
         ]
 
-    processing_time = _extract_field(record.submission_methods, "Thời hạn giải quyết", "Theo quy định")
-    fees = _extract_field(record.submission_methods, "Phí, lệ phí", "Theo quy định")
-
     step_texts = _split_steps(record.steps)
     steps = [
-        Step(
-            step_number=idx,
-            title=f"Bước {idx}",
-            description=text[:600],
-            processing_time=processing_time,
-            fees=fees,
-        )
+        ProcedureStep(order=idx, title=f"Bước {idx}", detail=text[:1000])
         for idx, text in enumerate(step_texts, start=1)
     ] or [
-        Step(
-            step_number=1,
+        ProcedureStep(
+            order=1,
             title="Nộp hồ sơ",
-            description="Nộp hồ sơ theo quy định tại cơ quan có thẩm quyền.",
-            processing_time=processing_time,
-            fees=fees,
+            detail="Nộp hồ sơ theo quy định tại cơ quan có thẩm quyền.",
         )
     ]
+    steps = steps[:30]
 
+    source_refs = [citation]
     rag_citations = RetrievalService.get_citations_for_procedure(procedure_id)
-    sources = [Citation(**c) for c in rag_citations] if rag_citations else [citation]
+    if rag_citations:
+        source_refs = [
+            Citation(
+                ref_id=(entry.get("ref_code") or entry.get("title", "source"))[:120],
+                title=(entry.get("title") or record.name)[:240],
+                url_or_ref=entry.get("url") or "https://dichvucong.gov.vn",
+            )
+            for entry in rag_citations
+        ]
 
-    return ChecklistResponse(
+    return ProcedurePack(
         procedure_id=procedure_id,
-        procedure_name=PROCEDURE_DISPLAY_NAME.get(procedure_id, record.name),
+        name=PROCEDURE_DISPLAY_NAME.get(procedure_id, record.name),
+        jurisdiction="Theo phân cấp quy định tại nguồn thủ tục (xem source_refs).",
+        authority=record.authority_org or record.implementing_org or None,
+        version=f"rag-{get_source_freeze_date()}",
+        review_status=ReviewStatus.APPROVED,
+        last_verified_at=_parse_freeze_date(),
+        checksum=_record_checksum(record),
+        source_refs=source_refs,
+        intake_questions=intake_questions or [],
         required_documents=required_documents,
         optional_documents=optional_documents,
         steps=steps,
         form_schema=form_schema,
-        effective_date=get_source_freeze_date(),
-        sources=sources,
+        validation_rules=_required_field_rules(procedure_id, form_schema, citation.ref_id),
+        aliases=aliases,
+    )
+
+
+_BIRTH_FORM_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "ho_ten_tre": {"type": "string", "title": "Họ và tên trẻ", "minLength": 2},
+        "ngay_sinh_tre": {"type": "string", "title": "Ngày sinh của trẻ", "format": "date"},
+        "ho_ten_cha": {"type": "string", "title": "Họ và tên cha"},
+        "ho_ten_me": {"type": "string", "title": "Họ và tên mẹ"},
+    },
+    "required": ["ho_ten_tre", "ngay_sinh_tre", "ho_ten_me"],
+}
+
+_BIRTH_DEFAULT_CITATIONS = [
+    Citation(
+        ref_id="LUAT-HOTICH-2014",
+        title="Luật Hộ tịch số 60/2014/QH13",
+        url_or_ref="https://chinhphu.vn",
+    ),
+    Citation(
+        ref_id="ND-123-2015",
+        title="Nghị định 123/2015/NĐ-CP",
+        url_or_ref="https://chinhphu.vn",
+    ),
+]
+
+
+def build_birth_registration_pack() -> ProcedurePack:
+    """Checklist da curate tay cho 'Đăng ký khai sinh' (structured procedure
+    data). RAG chi lam giau them source_refs/freshness, khong tu doi noi
+    dung da curated — dung cho pack co evidence pattern khac 3 loai file
+    con lai trong data/Data_DVC.
+    """
+
+    rag_citations = RetrievalService.get_citations_for_procedure("dang-ky-khai-sinh")
+    source_refs = (
+        [
+            Citation(
+                ref_id=(entry.get("ref_code") or entry.get("title", "source"))[:120],
+                title=(entry.get("title") or "Đăng ký khai sinh")[:240],
+                url_or_ref=entry.get("url") or "https://dichvucong.gov.vn",
+            )
+            for entry in rag_citations
+        ]
+        if rag_citations
+        else _BIRTH_DEFAULT_CITATIONS
+    )
+    primary_ref_id = source_refs[0].ref_id
+    secondary_ref_id = source_refs[1].ref_id if len(source_refs) > 1 else primary_ref_id
+
+    return ProcedurePack(
+        procedure_id="dang-ky-khai-sinh",
+        name="Đăng ký khai sinh",
+        jurisdiction="Cấp xã/phường/thị trấn",
+        authority="Ủy ban nhân dân cấp xã",
+        version=f"curated-{get_source_freeze_date()}",
+        review_status=ReviewStatus.APPROVED,
+        last_verified_at=_parse_freeze_date(),
+        checksum="curated-birth-v1",
+        source_refs=source_refs,
+        intake_questions=[],
+        required_documents=[
+            ChecklistItem(
+                id="giay-chung-sinh",
+                label="Giấy chứng sinh",
+                kind="required",
+                description=(
+                    "Bản chính do cơ sở y tế nơi trẻ sinh ra cấp. Nếu không có giấy "
+                    "chứng sinh thì nộp văn bản xác nhận của người làm chứng."
+                ),
+                source_ref_ids=[secondary_ref_id],
+            ),
+            ChecklistItem(
+                id="cccd-cha-me",
+                label="Căn cước công dân của cha và mẹ",
+                kind="required",
+                description="Bản chụp xuất trình kèm bản chính để đối chiếu.",
+                source_ref_ids=[primary_ref_id],
+            ),
+        ],
+        optional_documents=[
+            ChecklistItem(
+                id="giay-dang-ky-ket-hon",
+                label="Giấy chứng nhận kết hôn",
+                kind="optional",
+                description="Xuất trình nếu cha mẹ có đăng ký kết hôn để xác định quan hệ cha, mẹ, con.",
+                source_ref_ids=[primary_ref_id],
+            )
+        ],
+        steps=[
+            ProcedureStep(
+                order=1,
+                title="Chuẩn bị và nộp hồ sơ",
+                detail=(
+                    "Người đi đăng ký chuẩn bị đầy đủ giấy tờ và nộp tại UBND cấp xã "
+                    "nơi cư trú của cha hoặc mẹ. Giải quyết ngay trong ngày, miễn phí."
+                ),
+            )
+        ],
+        form_schema=_BIRTH_FORM_SCHEMA,
+        validation_rules=_required_field_rules(
+            "dang-ky-khai-sinh", _BIRTH_FORM_SCHEMA, primary_ref_id
+        ),
+        aliases=["khai sinh", "sinh con", "birth"],
     )

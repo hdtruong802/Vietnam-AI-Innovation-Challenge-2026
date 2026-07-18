@@ -6,7 +6,7 @@ buoc, gateway se fallback deterministic thay vi hien mot cau tra loi
 khong co cau truc.
 """
 
-from typing import List, Optional
+from typing import Optional
 
 from pydantic import BaseModel, Field
 
@@ -14,7 +14,9 @@ from pydantic import BaseModel, Field
 class ClarificationOutput(BaseModel):
     """Output cho luong Guided Intake (capability 1)."""
 
-    intent_summary: str = Field(..., description="Tom tat nhu cau nguoi dung bang ngon ngu don gian")
+    intent_summary: str = Field(
+        ..., description="Tom tat nhu cau nguoi dung bang ngon ngu don gian"
+    )
     needs_clarification: bool = False
     clarifying_question: Optional[str] = None
     reply_message: str = Field(..., description="Cau tra loi hien thi cho nguoi dung")

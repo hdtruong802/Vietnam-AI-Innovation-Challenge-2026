@@ -19,7 +19,7 @@ import time
 from dataclasses import dataclass, field
 from typing import Any, Dict, Tuple
 
-from app.config import PII_TOKEN_TTL_SECONDS
+from app.config import get_settings
 
 _FIELD_TYPE_PATTERNS = [
     (re.compile(r"(ho_?ten|ten_)", re.IGNORECASE), "NAME"),
@@ -68,7 +68,7 @@ class PIIGuard:
         if session is None:
             session = _SessionTokenMap()
             cls._sessions[session_id] = session
-        session.expires_at = time.monotonic() + PII_TOKEN_TTL_SECONDS
+        session.expires_at = time.monotonic() + get_settings().pii_token_ttl_seconds
         return session
 
     @classmethod
@@ -83,7 +83,7 @@ class PIIGuard:
         # Salt ngan tu session_id de token khong the vo tinh trung giua hai
         # session khac nhau (tranh detokenize sai session neu code goi nham).
         salt = hashlib.sha256(session_id.encode("utf-8")).hexdigest()[:6]
-        prefix = f"{{{{PII_"
+        prefix = "{{PII_"
 
         for key, value in data.items():
             type_name = _field_type(key)
@@ -91,7 +91,9 @@ class PIIGuard:
                 tokenized[key] = value
                 continue
             count += 1
-            token_index = sum(1 for t in session.tokens if t.startswith(f"{prefix}{type_name}_{salt}_")) + 1
+            token_index = (
+                sum(1 for t in session.tokens if t.startswith(f"{prefix}{type_name}_{salt}_")) + 1
+            )
             token = f"{{{{PII_{type_name}_{salt}_{token_index}}}}}"
             session.tokens[token] = value
             tokenized[key] = token

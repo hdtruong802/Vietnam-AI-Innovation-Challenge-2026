@@ -33,7 +33,9 @@ def build_clarification_user_payload(
     )
 
 
-def build_explanation_user_payload(field_label: str, rule_message: str, tokenized_context: str) -> str:
+def build_explanation_user_payload(
+    field_label: str, rule_message: str, tokenized_context: str
+) -> str:
     return (
         f"TRUONG: {field_label}\n"
         f"FINDING TU RULE ENGINE (khong duoc doi): {rule_message}\n"
