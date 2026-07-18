@@ -25,6 +25,7 @@ Decision Log lưu các quyết định liên lane hoặc khó đảo ngược: s
 | D-009 | Accepted | AI Log prompt-only, provider-neutral và liên kết theo commit | `local-20260717-ai-log` | 2026-07-17 |
 | D-010 | Proposed | Fast merge gate và release artifact provider-neutral | `local-20260718-ci-cd-optimization` | 2026-07-18 |
 | D-011 | Accepted | Structure-aware chunking contract cho ba procedure pack MVP | `local-20260718-chunking-phase-0`, `local-20260718-chunking-phase-1` | 2026-07-18 |
+| D-012 | Accepted | Ngoại lệ bảng màu đỏ-vàng cho landing page marketing, tách biệt VNGov Copilot Navy & Orange | `local-20260718-landing-page-red-gold` | 2026-07-18 |
 
 ---
 
@@ -272,6 +273,41 @@ Chọn phương án 3 theo contract tại `docs/ai/CHUNKING_CONTRACT.md`:
 ### Rollback / fallback
 
 Không sửa raw corpus. Mọi parsed/chunk/index artifact có thể bỏ và build lại từ approved source snapshot. Nếu structure-aware retrieval không vượt baseline trên golden set, fallback về structured procedure lookup + keyword trên approved sections, không đưa whole corpus vào LLM.
+
+---
+
+## D-012 — Ngoại lệ bảng màu đỏ-vàng cho landing page marketing
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** Claude theo yêu cầu người dùng
+- **Phạm vi:** UI/design
+- **Task Record:** `local-20260718-landing-page-red-gold`
+- **Peer xác nhận:** Người dùng xác nhận trực tiếp trong phiên làm việc ngày 2026-07-18
+
+### Bối cảnh
+
+Trang chủ marketing (`frontend/src/app/page.tsx`, khối `view === "landing"`) cần khớp bố cục và màu sắc với ảnh tham chiếu thật `Cổng dịch vụ công Quốc gia.png` (đỏ-vàng, trống đồng vàng kim, hoa sen hồng). `docs/DESIGN.md` hiện quy định hệ màu VNGov Navy & Orange, tối giản, không màu mè — dùng cho giao diện Trợ lý AI Copilot (`view === "copilot"`). Hai yêu cầu xung đột nhau nếu áp dụng cùng một bảng màu cho cả hai view.
+
+### Lựa chọn đã cân nhắc
+
+1. Giữ nguyên Navy & Orange cho cả landing page — không khớp ảnh mẫu người dùng cung cấp.
+2. Đổi toàn bộ `docs/DESIGN.md` sang đỏ-vàng — ảnh hưởng cả giao diện Copilot app, không cần thiết và rủi ro cao hơn.
+3. Thêm token màu riêng (`--color-gov-red`, `--color-gov-gold`, `--color-gov-cream`) chỉ dùng trong các component `frontend/src/app/components/landing/*`, giữ nguyên token Navy/Orange cho Copilot view.
+
+### Quyết định
+
+Chọn phương án 3. Landing page (Header, Hero, 6 dịch vụ, Dịch vụ nổi bật + Cập nhật, Lợi ích, Footer) dùng token `gov-red`/`gov-gold`/`gov-cream` mới trong `frontend/src/app/globals.css` và ảnh thật có sẵn trong `frontend/src/image/` (quốc huy, logo, nền trống đồng/hoa sen). Giao diện Copilot (`view === "copilot"`, `ChecklistSidebar.tsx`) không đổi, vẫn theo `docs/DESIGN.md` Navy & Orange.
+
+### Hệ quả và kiểm chứng
+
+- `docs/DESIGN.md` không cần cập nhật vì phạm vi ngoại lệ chỉ giới hạn ở landing page, không phải toàn bộ design system.
+- `npm run typecheck` và `npm run lint` đã chạy sau khi tách component; không có lỗi mới phát sinh từ thay đổi này (lint warnings còn lại thuộc code Copilot cũ, ngoài phạm vi).
+- Đã xác minh bằng `next dev` rằng landing page compile và render đúng nội dung.
+
+### Rollback / fallback
+
+Xoá token `gov-*` khỏi `globals.css` và revert các component trong `frontend/src/app/components/landing/` về bản Navy & Orange trước đó nếu cần đồng bộ lại với `docs/DESIGN.md`.
 
 ---
 
