@@ -22,9 +22,9 @@ export default function ServiceQuickGrid({ onGoCopilot, onComingSoon }: ServiceQ
           <button
             key={label}
             onClick={onClick}
-            className="flex flex-col items-center justify-center p-3 rounded-xl hover:bg-gov-cream hover-lift transition-all group"
+            className="flex flex-col items-center justify-center p-3 rounded-xl hover:bg-gov-cream transition-all group focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gov-red/40"
           >
-            <div className="w-12 h-12 rounded-full bg-gov-cream text-gov-red flex items-center justify-center mb-3 shadow-inner group-hover:scale-110 transition-transform">
+            <div className="w-[52px] h-[52px] rounded-full bg-[#fff2dc] text-gov-red flex items-center justify-center mb-3 shadow-inner group-hover:scale-110 transition-transform">
               <Icon className="w-6 h-6" />
             </div>
             <span className="text-[11px] font-bold text-foreground/80 leading-snug">{label}</span>

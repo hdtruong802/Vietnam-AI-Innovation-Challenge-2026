@@ -43,11 +43,6 @@ export default function CopilotPreviewClient({ fixtureKey }: CopilotPreviewClien
         fixtureState={getFixtureState(fixtureKey)}
         avatarDisabled
         onGoLanding={() => router.push("/")}
-        onOpenComingSoon={() => {
-          /* no-op: no coming-soon modal host on this route; the avatar
-           * button itself is disabled (see avatarDisabled) so this should
-           * be unreachable. */
-        }}
       />
     </>
   );

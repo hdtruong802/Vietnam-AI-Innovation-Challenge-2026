@@ -77,7 +77,8 @@ function sampleIntakeResponse(overrides: Partial<IntakeResponse> = {}): IntakeRe
       procedure_version: "v1",
       clarification_answers: {},
       pending_question_ids: ["q1", "q2"],
-      review_state: null,
+      acknowledged_review_gates: [],
+      reviewed_document_ids: [],
     },
     ...overrides,
   };
