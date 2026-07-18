@@ -1,6 +1,8 @@
 from typing import Dict, Any, List, Optional
 from app.models.checklist import ChecklistResponse, ChecklistItem, Step
 from app.models.common import Citation
+from app.services.rag.pack_builder import build_checklist_from_evidence
+from app.services.rag.retrieval import RetrievalService
 
 PROCEDURES_DB = {
     "dang-ky-khai-sinh": {
@@ -46,12 +48,21 @@ class ProcedureService:
 
     @staticmethod
     def get_checklist(procedure_id: str) -> ChecklistResponse:
-        citations = [
+        # RAG cung cap citations that tu data/Data_DVC (nguon dichvucong.gov.vn)
+        # thay cho danh sach tinh; fallback ve default neu chua nap duoc source.
+        rag_citations = RetrievalService.get_citations_for_procedure(procedure_id)
+        default_citations = [
             Citation(title="Luật Hộ tịch số 60/2014/QH13", url="https://chinhphu.vn", ref_code="LUAT-HOTICH-2014"),
-            Citation(title="Nghị định 123/2015/NĐ-CP", url="https://chinhphu.vn", ref_code="ND-123-2015")
+            Citation(title="Nghị định 123/2015/NĐ-CP", url="https://chinhphu.vn", ref_code="ND-123-2015"),
         ]
+        citations = [Citation(**c) for c in rag_citations] if rag_citations else default_citations
+
+        def cite(idx: int) -> Citation:
+            return citations[idx] if idx < len(citations) else citations[0]
 
         if procedure_id == "dang-ky-khai-sinh":
+            # Checklist da duoc curate (structured procedure data); RAG chi
+            # dong vai tro lam giau citation/freshness, khong tu doi noi dung.
             return ChecklistResponse(
                 procedure_id=procedure_id,
                 procedure_name=PROCEDURES_DB[procedure_id]["name"],
@@ -61,14 +72,14 @@ class ProcedureService:
                         title="Giấy chứng sinh",
                         required=True,
                         description="Bản chính do cơ sở y tế nơi trẻ sinh ra cấp. Nếu không có giấy chứng sinh thì nộp văn bản xác nhận của người làm chứng.",
-                        citations=[citations[1]]
+                        citations=[cite(1)]
                     ),
                     ChecklistItem(
                         id="cccd-cha-me",
                         title="Căn cước công dân của cha và mẹ",
                         required=True,
                         description="Bản chụp xuất trình kèm bản chính để đối chiếu.",
-                        citations=[citations[0]]
+                        citations=[cite(0)]
                     )
                 ],
                 optional_documents=[
@@ -77,7 +88,7 @@ class ProcedureService:
                         title="Giấy chứng nhận kết hôn",
                         required=False,
                         description="Xuất trình nếu cha mẹ có đăng ký kết hôn để xác định quan hệ cha, mẹ, con.",
-                        citations=[citations[0]]
+                        citations=[cite(0)]
                     )
                 ],
                 steps=[
@@ -103,6 +114,22 @@ class ProcedureService:
                 sources=citations
             )
 
+        generic_form_schema = {
+            "type": "object",
+            "properties": {
+                "ho_ten_nguoi_khai": {"type": "string", "title": "Họ và tên người khai", "minLength": 2},
+                "so_dien_thoai": {"type": "string", "title": "Số điện thoại"}
+            },
+            "required": ["ho_ten_nguoi_khai"]
+        }
+
+        # Cho 2 pack chua duoc curate tay, dung parser deterministic tren RAG
+        # evidence (data/Data_DVC) de sinh checklist/steps that thay placeholder
+        # chung; neu source chua nap duoc thi fallback ve template toi gian.
+        rag_built = build_checklist_from_evidence(procedure_id, generic_form_schema)
+        if rag_built is not None:
+            return rag_built
+
         return ChecklistResponse(
             procedure_id=procedure_id,
             procedure_name=PROCEDURES_DB[procedure_id]["name"],
@@ -112,7 +139,7 @@ class ProcedureService:
                     title="Tờ khai theo mẫu quy định",
                     required=True,
                     description="Điền đầy đủ thông tin vào biểu mẫu do nhà nước ban hành.",
-                    citations=[citations[0]]
+                    citations=[cite(0)]
                 )
             ],
             optional_documents=[],
@@ -125,14 +152,7 @@ class ProcedureService:
                     fees="Tùy trường hợp"
                 )
             ],
-            form_schema={
-                "type": "object",
-                "properties": {
-                    "ho_ten_nguoi_khai": {"type": "string", "title": "Họ và tên người khai", "minLength": 2},
-                    "so_dien_thoai": {"type": "string", "title": "Số điện thoại"}
-                },
-                "required": ["ho_ten_nguoi_khai"]
-            },
+            form_schema=generic_form_schema,
             effective_date="2024-01-01",
             sources=citations
         )

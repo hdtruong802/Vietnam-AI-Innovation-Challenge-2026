@@ -86,6 +86,7 @@ cd frontend && npm run dev
 
 # Check / test
 python scripts/ci/validate_repo.py
+cd backend && pytest
 ```
 
 ## Interface ownership tạm thời

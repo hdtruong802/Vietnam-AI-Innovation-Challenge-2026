@@ -19,6 +19,7 @@ Decision Log lưu các quyết định liên lane hoặc khó đảo ngược: s
 | D-003 | Accepted | Impeccable CLI advisory portable, không native skill/hook | `local-20260717-impeccable-cli` | 2026-07-17 |
 | D-004 | Accepted | Prompt Intake Gate dùng chung trước task thực chất | `local-20260717-prompt-intake-gate` | 2026-07-17 |
 | D-005 | Accepted | Scaffold khung dự án FastAPI (Backend) và Next.js (Frontend) | `local-20260717-scaffold-vaic` | 2026-07-17 |
+| D-006 | Proposed | RAG in-process (không pgvector), LLM Gateway OpenAI-compatible với offline fallback, PII Guard regex in-memory | `local-20260718-rag-llm-guardrail` | 2026-07-18 |
 
 
 ---
@@ -186,6 +187,47 @@ Chọn phương án 2. Khởi tạo FastAPI trong thư mục `backend/` và Next
 
 ### Rollback / fallback
 Nếu một trong hai phần không hoạt động hoặc không deploy được, team sẽ hạ cấp xuống chạy standalone hoặc fallback mock API trực tiếp tại FE.
+
+---
+
+## D-006 — RAG in-process, LLM Gateway OpenAI-compatible, PII Guard regex in-memory
+
+- **Trạng thái:** Proposed
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** Cursor theo yêu cầu người dùng hiện tại
+- **Phạm vi:** API | dependency | data | process
+- **Task Record:** `local-20260718-rag-llm-guardrail`
+- **Publish (tùy chọn):** chưa publish
+- **Peer xác nhận:** Chưa có peer khác online tại thời điểm thực hiện (roster `TEAM.md` còn `TBD`); cần một peer xác nhận trước khi coi là `Accepted`, đặc biệt nếu bước vào 6 giờ cuối.
+
+### Bối cảnh
+
+`docs/proposal.md` mục 5 đề xuất kiến trúc RAG/Knowledge, LLM Gateway provider-neutral và PII Guard, nhưng đánh dấu framework/model provider/database là `TBD`. `PROJECT_CONTEXT.md` đã chốt `AI/model/provider: Provider-neutral adapter` và `Data/storage: Neon Postgres (pgvector)` ở trạng thái `Proposed` (chưa `Accepted`, chưa provision). Cần triển khai đủ 3 năng lực để demo end-to-end trong thời gian hackathon còn lại mà không chờ hạ tầng Neon/pgvector hoặc secret model provider thật.
+
+### Lựa chọn đã cân nhắc
+
+1. Chờ Neon/pgvector + provider thật được provision trước khi code — an toàn về kiến trúc dài hạn nhưng rủi ro P0 "demo không ổn định" nếu hackathon hết giờ trước khi có infra.
+2. Dùng thư viện vector/ML nặng (`numpy`/`scikit-learn`/`sentence-transformers`) cho retrieval — chất lượng ngữ nghĩa tốt hơn nhưng vi phạm rủi ro P0 đã ghi trong `PROJECT_CONTEXT.md` ("không phụ thuộc thư viện native nặng") và tăng thời gian cài đặt/build trên máy giám khảo.
+3. RAG in-process bằng pure-Python lexical/TF-IDF hybrid trên `data/Data_DVC` (dataset thật từ nguồn thủ tục hành chính), LLM Gateway dùng client `openai` (đã có trong `requirements.txt`) trỏ `AI_BASE_URL` để provider-neutral, có fallback deterministic khi thiếu `AI_API_KEY`; PII Guard bằng regex + dict in-memory theo session, không dùng KMS/Vault.
+
+### Quyết định
+
+Chọn phương án 3. Cụ thể:
+
+- **RAG:** Structured store nạp `data/Data_DVC/*.txt`, lọc theo 3 procedure MVP bằng khớp `Tên thủ tục`/từ khóa; retrieval hybrid = keyword filter + lexical term-overlap scoring (không numpy/sklearn); trả về evidence kèm `source_ref`, `last_verified_at` (ngày source freeze), `confidence`; dưới ngưỡng confidence hoặc ngoài 3 pack => `official_review_required`. Không index PII, session hay case memory.
+- **LLM:** `LLMGateway` dùng `openai` SDK, cấu hình qua `AI_PROVIDER/AI_MODEL/AI_API_KEY/AI_BASE_URL` (đã có trong `.env.example`); system prompt ép model chỉ dùng evidence được cung cấp, chỉ trả JSON structured (intent/clarification/explanation), không tự quyết định checklist/finding. Khi thiếu `AI_API_KEY`, gateway dùng fallback templating deterministic (không gọi model, không bịa nội dung quy phạm) để demo vẫn chạy được offline.
+- **Guardrail:** `PIIGuard` regex nhận diện họ tên/số CCCD/SĐT/địa chỉ chi tiết, tokenize trước khi đưa vào LLM, map token chỉ lưu in-memory theo `session_id` với TTL phiên, không log/DB/vector; `TrustPolicy` gộp kết quả RAG + rule findings để chọn 1 trong 3 trust state và enforce citation bắt buộc cho hướng dẫn quy phạm.
+- Không đổi public REST schema hiện có (`ARCHITECTURE.md`); không thêm cột DB hay service ngoài.
+
+### Hệ quả và kiểm chứng
+
+- Chạy được hoàn toàn local, không cần Neon/pgvector hay API key thật; khi có provider thật chỉ cần set env, không đổi code.
+- Cần `pytest backend/tests` cho PII Guard tokenize/detokenize, retrieval trên 3 pack, và trust policy fail-closed.
+- Khi Neon/pgvector hoặc provider thật được Decision riêng chấp thuận, migration retrieval sang pgvector là thay `RetrievalService` backend, không đổi contract `RetrievalEvidence`.
+
+### Rollback / fallback
+
+Nếu retrieval lexical không đủ chất lượng cho demo, giữ fallback checklist tĩnh hiện có trong `procedure_service.py` cho 3 pack đã hardcode và chỉ dùng RAG cho citation bổ sung. Nếu LLM provider lỗi/timeout, gateway trả fallback deterministic và Trust Policy chuyển `official_review_required` thay vì chặn toàn bộ luồng.
 
 ---
 
