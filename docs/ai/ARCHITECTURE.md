@@ -1,6 +1,6 @@
 # Kiến trúc — AI Procedure Copilot
 
-> Trạng thái: **hybrid** — scaffold frontend/backend được chấp thuận theo D-005; kiến trúc trust, RAG, data release, widget và deploy trong D-006 vẫn `Proposed`.
+> Trạng thái: **hybrid** — scaffold frontend/backend theo D-005 và target trust/RAG/data release/widget/deploy theo D-006 đã được chấp thuận. Capability runtime chỉ được coi là có khi có evidence triển khai riêng.
 >
 > Cập nhật gần nhất: 2026-07-17
 >
@@ -23,7 +23,7 @@ Tài liệu này phân biệt **baseline có trong repo** với **target archite
 | Vùng | Bằng chứng source hiện có | Giới hạn hiện tại |
 | --- | --- | --- |
 | `frontend/` | Một ứng dụng Next.js khởi tạo, có scripts `dev`, `build`, `start`, `lint`. | Chưa phải UI Procedure Copilot, chưa có chat/form/checklist/widget. |
-| `backend/` | FastAPI API foundation, CORS allowlist, request ID/error envelope, health, deterministic rule engine và adapter ports. | Không có approved data release, RAG/vector runtime, external LLM, account storage hoặc deploy. |
+| `backend/` | FastAPI API foundation, CORS allowlist, request ID/error envelope, health, deterministic rule engine và adapter ports. | Không có approved data release, RAG/vector runtime, external LLM, account storage; Cloud Run backend-only vẫn chờ candidate smoke theo D-012. |
 | API foundation | `GET /health`, `GET /v1/procedures`, `POST /v1/procedures/recommend`, `POST /v1/intake/turn`, `POST /v1/procedures/{id}/checklist`, `POST /v1/applications/validate`. | Dev fixture chỉ cho integration và luôn `official_review_required`; contract vẫn cần peer review trước khi consumer phụ thuộc sâu. |
 
 Dev fixture, seed, citation và rule trong API foundation không tự chứng minh tính chính xác pháp lý. Chỉ Procedure Pack đã qua source governance, K1 và release mới có thể cấp `verified_guidance`.
@@ -160,4 +160,4 @@ Widget có thể dùng script tag/iframe; host, CSP/CORS allowlist, origin/versi
 | Application lint/test/build | Theo manifest và Task Record. | Chưa có evidence chung cho toàn bộ ứng dụng. |
 | Deploy/smoke | Public URL + health/key flow. | Chưa provision. |
 
-Mọi thay đổi shared API/schema/provider/deploy cần Task Record, Context Pack, Decision/peer confirmation theo risk. D-006 chỉ chuyển trạng thái sau khi target contract, evidence runtime và rollback/fallback được peer review.
+Mọi thay đổi shared API/schema/provider/deploy cần Task Record, Context Pack, Decision/peer confirmation theo risk. D-006 đã chấp thuận target contract; evidence runtime và rollback/fallback vẫn cần được peer review cho từng capability.

@@ -19,11 +19,12 @@ Decision Log lưu các quyết định liên lane hoặc khó đảo ngược: s
 | D-003 | Accepted | Impeccable CLI advisory portable, không native skill/hook | `local-20260717-impeccable-cli` | 2026-07-17 |
 | D-004 | Accepted | Prompt Intake Gate trước task thực chất | `local-20260717-prompt-intake-gate` | 2026-07-17 |
 | D-005 | Accepted | Scaffold FastAPI backend và Next.js frontend | `local-20260717-scaffold-vaic` | 2026-07-17 |
-| D-006 | Proposed | Trust/RAG architecture, data governance, API maturity và deploy topology | `local-20260717-challenge-proposal` | 2026-07-17 |
+| D-006 | Accepted | Trust/RAG architecture, data governance, API maturity và deploy topology | `local-20260717-challenge-proposal` | 2026-07-17 |
 | D-007 | Accepted | Ba procedure pack MVP, pack thứ ba là thành lập hộ kinh doanh | `local-20260717-change-third-mvp` | 2026-07-17 |
 | D-008 | Accepted | Web-first delivery và portal integration pathway | `local-20260717-web-first-portal-scope` | 2026-07-17 |
 | D-009 | Accepted | AI Log prompt-only, provider-neutral và liên kết theo commit | `local-20260717-ai-log` | 2026-07-17 |
 | D-010 | Proposed | Fast merge gate và release artifact provider-neutral | `local-20260718-ci-cd-optimization` | 2026-07-18 |
+| D-012 | Accepted | Cloud Run backend demo foundation, production-disabled | `local-20260718-gcp-backend-deploy` | 2026-07-18 |
 
 ---
 
@@ -115,24 +116,24 @@ Nếu một khung không chạy được, dùng standalone UI hoặc mock API ch
 
 ## D-006 — Trust/RAG architecture, data governance, API maturity và deploy topology
 
-- **Trạng thái:** Proposed
+- **Trạng thái:** Accepted
 - **Ngày:** 2026-07-17
 - **Người đề xuất:** Task `local-20260717-challenge-proposal`
 - **Phạm vi:** API / data / deploy / demo
 - **Task Record:** `local-20260717-challenge-proposal`
-- **Peer xác nhận:** `TBD`; hai peer trong scope freeze.
+- **Peer xác nhận:** `hdtruong802` (user), 2026-07-18. Nếu task diễn ra trong scope freeze, vẫn cần peer thứ hai theo `TEAM_PROTOCOL.md`.
 
 ### Bối cảnh
 
 Ba capability của đề bài cần giao tiếp tự nhiên nhưng phải tạo kết quả kiểm chứng được. D-005 đã tạo code baseline, nhưng không giải quyết nguồn pháp lý, data release, grounding, PII boundary, external model, observability, widget/portal contract hay deploy.
 
-### Quyết định đề xuất
+### Quyết định đã chấp thuận
 
-Đề xuất kiến trúc web-first gồm standalone UI + iframe/widget, trust/orchestration backend, approved structured procedure packs, hybrid keyword/vector retrieval, deterministic rules và provider-neutral LLM adapter. Procedure Pack cần source/effective date/review/checksum; mọi response quy phạm cần `procedure_version`, `source_refs`, `last_verified_at` và một trust state: `verified_guidance`, `need_more_information`, `official_review_required`.
+Chấp thuận kiến trúc web-first gồm standalone UI + iframe/widget, trust/orchestration backend, approved structured procedure packs, hybrid keyword/vector retrieval, deterministic rules và provider-neutral LLM adapter. Procedure Pack cần source/effective date/review/checksum; mọi response quy phạm cần `procedure_version`, `source_refs`, `last_verified_at` và một trust state: `verified_guidance`, `need_more_information`, `official_review_required`.
 
 LLM chỉ hỏi làm rõ/diễn đạt/giải thích evidence đã có. Nó không quyết định hồ sơ hợp lệ, không tạo giấy tờ/rule ngoài pack approved và không nhận raw direct identifiers. PII Guard phải minimize/tokenize trước model call; token map session-only, không vào disk, log, vector index hay `CaseSnapshot`. Deterministic Rule Engine là nguồn duy nhất tạo field/cross-field findings.
 
-Curated acquisition, checksum, K1 approval, release/rollback và K2 re-review là gate trước runtime knowledge. D-006 đề xuất, nhưng chưa chọn/chưa provision, storage/vector database, model provider, hosting hoặc CD cụ thể.
+Curated acquisition, checksum, K1 approval, release/rollback và K2 re-review là gate trước runtime knowledge. D-006 chấp thuận kiến trúc mục tiêu và các gate; nó **không** tự chọn hoặc provision storage/vector database, model provider, hosting hay CD cụ thể.
 
 ### Hệ quả và kiểm chứng
 
@@ -223,6 +224,48 @@ Repository guard trước đây chạy full bootstrap scan và Git range scan tr
 ### Rollback / fallback
 
 Revert workflow, guard helper và release-manifest changes để quay về repository guard cũ. Không có external deploy state để thu hồi.
+
+---
+
+## D-012 — Cloud Run backend demo foundation, production-disabled
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** User-requested deployment task
+- **Phạm vi:** deploy / security / demo
+- **Task Record:** `local-20260718-gcp-backend-deploy`
+- **Peer xác nhận:** `hdtruong802` (user), 2026-07-18
+
+### Bối cảnh
+
+Backend FastAPI theo D-005 cần một pathway public demo độc lập với frontend. D-006 đã chấp thuận target architecture, nhưng data/RAG/LLM chưa được triển khai. Deploy khi fixture còn chạy hoặc không có rollback sẽ tạo rủi ro hướng dẫn sai và chi phí không kiểm soát.
+
+### Lựa chọn đã cân nhắc
+
+1. Chờ toàn bộ product stack/deploy topology: ít rủi ro, nhưng chưa có đường chuẩn bị backend demo độc lập.
+2. Deploy mọi capability ngay: nhanh hơn bề ngoài nhưng vi phạm fail-closed và mở rộng sang data/AI/storage.
+3. Chuẩn bị Cloud Run backend-only, production-disabled: container/API có public demo pathway nhưng không có procedure data, RAG, LLM, database hoặc secret.
+
+### Quyết định
+
+Chấp thuận lựa chọn 3. Dùng Cloud Run `asia-southeast1` với Artifact Registry Docker repository `vngov-backend` cùng region, service `vngov-api`, image tag full commit SHA immutable và deploy bằng digest. Runtime là 1 vCPU/512 MiB, request-based, `min-instances=0`, `max-instances=1`, timeout 20 giây, public demo access và user-managed service account `vngov-api-runtime` không có role/secret.
+
+Runtime phải có `APP_ENV=production`, `PROCEDURE_DATA_MODE=disabled`, `RAG_MODE=disabled`, `LLM_MODE=disabled`, CORS rỗng và rate limit 60 request/60 giây. `/health` phải `degraded`; không route nào được trả fixture, procedure guidance đã xác minh hoặc raw PII. Không tạo Secret Manager, Cloud SQL, Cloud Storage, Vertex AI, vector DB, VPC connector, NAT hay CD workflow trong scope này.
+
+### Hệ quả và kiểm chứng
+
+- D-012 không thay thế D-006. Cả hai đã được peer xác nhận; billing/credit, IAM, local/container smoke và candidate smoke vẫn là gate chặn provisioning hoặc traffic.
+- Build từ `backend/`, container chạy non-root và lắng nghe `PORT`; local lint/test/container smoke là gate.
+- Với service đã có stable revision, deploy candidate `--no-traffic`, smoke `/health`, `/openapi.json`, `/docs` và fail-closed contract trước khi chuyển 100% traffic. Cloud Run không hỗ trợ `--no-traffic` khi tạo service đầu tiên: sau local/container guard, bootstrap production-disabled dùng direct public smoke ngay sau deploy; không có procedure data, RAG, LLM, database hoặc secret để lộ.
+- Ghi image digest, revision, URL, timestamp, smoke result và rollback revision vào handoff; tạo budget alert 10/25/50/80/100% của 1,000,000 VND sau billing review.
+
+### Rollback / fallback
+
+Nếu candidate smoke hoặc 5xx lỗi, không chuyển traffic; deploy sau rollback traffic về revision stable trước. Nếu bootstrap smoke lần đầu lỗi, gỡ public Invoker hoặc xóa service theo owner quyết định và dùng backend local làm fallback. Nếu billing/credit, IAM hoặc smoke không đạt, dừng ở artifact/runbook local.
+
+### Live deployment evidence
+
+Ngày 2026-07-18, Cloud Build `8ef35d72-ee00-4b7b-8f21-d8791d7b4bba` build image backend source commit `b49ca1d31dc5c773a934d003353bc58a72355c08` thành digest `sha256:83d9170307385b8bf34247b2d5484c47aa8bf69e666a7661acba68a08ddf74b8`. Revision `vngov-api-00001-def` đang public tại `https://vngov-api-j53prjslqa-as.a.run.app`; public smoke pass với runtime production-disabled, six-route OpenAPI, fail-closed contract và rate-limit reset. Không có database, Secret Manager, Cloud Storage application, VPC/NAT, RAG, LLM hay procedure data runtime được tạo/bật trong D-012.
 
 ---
 

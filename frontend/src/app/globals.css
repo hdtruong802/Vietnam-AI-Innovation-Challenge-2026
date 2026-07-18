@@ -1,8 +1,34 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #F8FAFC; /* Clean off-white background */
+  --foreground: #333333; /* Dark slate-gray text */
+
+  --color-primary-raw: #0D1B3D; /* Corporate Deep Navy */
+  --color-neutral-bg-raw: #F1F5F9; /* Neutral slate tint */
+  --color-accent-raw: #F97316; /* Brand Orange */
+  --color-accent-hover-raw: #EA580C; /* Accent hover orange */
+
+  --color-warning-raw: #F59E0B;
+  --color-warning-bg-raw: #FFFBEB;
+  --color-warning-border-raw: #FDE68A;
+
+  --color-error-raw: #EF4444;
+  --color-error-bg-raw: #FEF2F2;
+  --color-error-border-raw: #FEE2E2;
+
+  --color-success-raw: #10B981;
+  --color-success-bg-raw: #ECFDF5;
+  --color-success-border-raw: #D1FAE5;
+
+  --color-border-slate-raw: #E2E8F0; /* Soft slate border */
+  --color-card-bg-raw: #FFFFFF; /* Pure white surface */
+
+  /* VNGov Brand theme styles */
+  --color-brand-red-raw: #F97316; /* Primary Orange Accent */
+  --color-brand-red-hover-raw: #EA580C;
+  --color-hero-start-raw: #FFF7ED; /* Soft warm peach-cream start */
+  --color-hero-end-raw: #F8FAFC; /* Flows into background */
 }
 
 @theme inline {
@@ -10,17 +36,66 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-serif: var(--font-lora);
+
+  --color-primary: var(--color-primary-raw);
+  --color-neutral-bg: var(--color-neutral-bg-raw);
+  --color-accent: var(--color-accent-raw);
+  --color-accent-hover: var(--color-accent-hover-raw);
+  --color-warning: var(--color-warning-raw);
+  --color-warning-bg: var(--color-warning-bg-raw);
+  --color-warning-border: var(--color-warning-border-raw);
+  --color-error: var(--color-error-raw);
+  --color-error-bg: var(--color-error-bg-raw);
+  --color-error-border: var(--color-error-border-raw);
+  --color-success: var(--color-success-raw);
+  --color-success-bg: var(--color-success-bg-raw);
+  --color-success-border: var(--color-success-border-raw);
+  --color-border-slate: var(--color-border-slate-raw);
+  --color-card-bg: var(--color-card-bg-raw);
+
+  /* VNGov Brand theme bindings */
+  --color-brand-red: var(--color-brand-red-raw);
+  --color-brand-red-hover: var(--color-brand-red-hover-raw);
+  --color-hero-start: var(--color-hero-start-raw);
+  --color-hero-end: var(--color-hero-end-raw);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #0A0F1D; /* Deep dark navy */
+    --foreground: #F8FAFC;
+
+    --color-primary-raw: #F8FAFC;
+    --color-neutral-bg-raw: #1E293B;
+    --color-accent-raw: #F97316;
+    --color-accent-hover-raw: #EA580C;
+
+    --color-warning-raw: #F59E0B;
+    --color-warning-bg-raw: #241A10;
+    --color-warning-border-raw: #453215;
+
+    --color-error-raw: #EF4444;
+    --color-error-bg-raw: #2D1414;
+    --color-error-border-raw: #4C1D1D;
+
+    --color-success-raw: #10B981;
+    --color-success-bg-raw: #0D2D20;
+    --color-success-border-raw: #0A4730;
+
+    --color-border-slate-raw: #1E293B;
+    --color-card-bg-raw: #111827;
+
+    /* Dark Mode brand adjustments */
+    --color-brand-red-raw: #F97316;
+    --color-brand-red-hover-raw: #EA580C;
+    --color-hero-start-raw: #1F1410;
+    --color-hero-end-raw: #0A0F1D;
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
 }

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "record_type": "commit_evidence",
+  "ai_log_id": "log-120748f2fc394362b05479b9",
+  "created_at": "2026-07-17T20:03:43.294472Z",
+  "member_id": "hdtruong802",
+  "branch": "chore/local-20260718-gcp-backend-deploy",
+  "parent_commit": "b49ca1d31dc5c773a934d003353bc58a72355c08",
+  "task_records": [
+    "local-20260718-gcp-backend-deploy"
+  ],
+  "prompt_ids": [],
+  "tools": [],
+  "capture_status": "warning",
+  "warnings": [
+    "manual_prompt_required"
+  ],
+  "operation": "commit",
+  "replaces_ai_log": null
+}

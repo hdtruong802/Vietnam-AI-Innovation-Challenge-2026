@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "task_id": "local-20260718-chunking-phase-1",
+  "source_freeze": "2026-07-17",
+  "annotation_status": "needs_review",
+  "selection": {
+    "method": "bounded_stratified_keyword_seed",
+    "scanned_documents": 1500,
+    "corpus_documents": 5652,
+    "target_per_procedure": 10,
+    "raw_content_committed": false
+  },
+  "procedure_ids": [
+    "birth_registration",
+    "residence_registration",
+    "household_business_registration"
+  ],
+  "taxonomy": [
+    "overview",
+    "authority",
+    "eligibility",
+    "documents",
+    "steps",
+    "processing_time",
+    "fees",
+    "forms",
+    "legal_basis",
+    "effective_date",
+    "exceptions",
+    "other"
+  ]
+}

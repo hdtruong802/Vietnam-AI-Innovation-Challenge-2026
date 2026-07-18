@@ -70,3 +70,15 @@ Việc tiếp theo hoặc handoff cho peer:
 ```
 
 Chi tiết về conflict, review, publish và scope freeze nằm trong [`docs/ai/TEAM_PROTOCOL.md`](docs/ai/TEAM_PROTOCOL.md).
+
+## Design Context
+
+Để duy trì tính đồng bộ của giao diện AI Copilot, mọi thay đổi UI/UX phải tuân thủ:
+- **Register & Platform:** `product` (thiết kế thực dụng phục vụ tác vụ hành chính, không màu mè bóng bẩy) trên nền tảng `web` (Next.js App Router).
+- **Tài liệu nguồn:** Đọc chi tiết tại [docs/PRODUCT.md](docs/PRODUCT.md) và [docs/DESIGN.md](docs/DESIGN.md).
+- **3 Nguyên lý cốt lõi:**
+  1. **Clarity over Cleverness:** Sự rõ ràng của thông tin hành chính quan trọng hơn các hiệu ứng thiết kế thông minh hay màu mè.
+  2. **Explain with Citations:** Mọi yêu cầu hành chính đều phải giải thích lý do và có trích dẫn nguồn luật đi kèm.
+  3. **Fail Closed, Escape Early:** Khi thông tin ngoài phạm vi hoặc mâu thuẫn pháp lý, chỉ dẫn người dân đến kênh hỗ trợ chính thức thay vì tự suy đoán.
+- **Quy tắc cấm kỵ (Absolute Bans):** Không sử dụng đổ bóng lớn dạng ghost-card, không dùng góc bo card quá lớn (>16px), không dùng chữ gradient hay glassmorphism làm mặc định.
+

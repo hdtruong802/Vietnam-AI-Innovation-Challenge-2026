@@ -1,10 +1,10 @@
 # Project Context — AI Procedure Copilot
 
-> Trạng thái: ba MVP đã chốt; D-005 scaffold được chấp thuận; năng lực trust/RAG/deploy trong D-006 vẫn `Proposed`.
+> Trạng thái: ba MVP đã chốt; D-005 scaffold và D-006 target architecture được chấp thuận. Runtime trust/RAG/deploy chỉ được coi là có khi có evidence riêng.
 >
-> Cập nhật gần nhất: 2026-07-17
+> Cập nhật gần nhất: 2026-07-18
 >
-> Decision liên quan: D-005, D-006, D-007, D-008, D-009 và D-010
+> Decision liên quan: D-005, D-006, D-007, D-008, D-009, D-010 và D-012
 
 Tài liệu này là context sản phẩm tối thiểu cho mọi thành viên và coding agent. Nó phân biệt rõ phần đã có trong source với kiến trúc mục tiêu chưa được xác nhận bằng implementation/evidence.
 
@@ -59,7 +59,7 @@ Kết quả quy phạm chỉ có ba trust state:
 ### Thành phần đã có và chưa có
 
 - D-005 đã chấp thuận scaffold `frontend/` và `backend/`. Backend hiện có API foundation gồm health, list/recommend/intake/checklist/validate, typed trust/error contract, deterministic rule engine và dev fixture fail-closed; frontend vẫn là khung giao diện khởi tạo. Đây chưa phải bằng chứng rằng Procedure Pack thật, widget, RAG, external AI hay deploy đã hoàn thành.
-- D-006 vẫn đề xuất RAG/knowledge release, provider-neutral LLM, approved data adapter, PII boundary hoàn chỉnh, widget contract và topology deploy. Backend chỉ tạo port/fallback để các capability này tích hợp sau Task Record, peer review và evidence riêng.
+- D-006 chấp thuận target RAG/knowledge release, provider-neutral LLM, approved data adapter, PII boundary, widget contract và topology deploy. Backend chỉ tạo port/fallback; từng capability chỉ được tích hợp sau Task Record và evidence riêng. D-012 đã có API Cloud Run backend-only production-disabled tại [`vngov-api`](https://vngov-api-j53prjslqa-as.a.run.app); data/RAG/LLM vẫn disabled và CORS chưa có frontend origin.
 
 ### Tiêu chí thành công đề xuất
 
@@ -92,10 +92,10 @@ Kết quả quy phạm chỉ có ba trust state:
 | Hạng mục | Trạng thái hiện tại | Decision |
 | --- | --- | --- |
 | Frontend web | Next.js scaffold trong `frontend/`; UI product/widget chưa hoàn tất | D-005 Accepted; D-008 Accepted |
-| Backend/API | FastAPI integration foundation trong `backend/`; sáu routes, typed trust/error metadata, deterministic rules và dev fixture có sẵn; external data/RAG/LLM adapter chưa có | D-005 Accepted; D-006 Proposed |
-| AI/model/provider | Provider-neutral adapter và provider cụ thể `TBD` | D-006 Proposed |
-| Data/RAG | Curated procedure packs, structured/vector retrieval và release governance chưa có evidence runtime | D-006 Proposed |
-| Deploy/demo runtime | Chưa provision URL, hosting, secret hoặc CD | D-006 Proposed |
+| Backend/API | FastAPI integration foundation trong `backend/`; sáu routes, typed trust/error metadata, deterministic rules và dev fixture có sẵn; external data/RAG/LLM adapter chưa có | D-005 Accepted; D-006 Accepted |
+| AI/model/provider | Provider-neutral adapter và provider cụ thể `TBD` | D-006 Accepted; runtime chưa triển khai |
+| Data/RAG | Curated procedure packs, structured/vector retrieval và release governance chưa có evidence runtime | D-006 Accepted; runtime chưa triển khai |
+| Deploy/demo runtime | Cloud Run backend-only production-disabled public API; public smoke pass, không có frontend URL/secret/CD | D-012 Accepted; frontend CORS/integration là task follow-up |
 | Application checks | Lệnh bootstrap có sẵn; lint/test/build ứng dụng cần được xác minh theo Task Record | D-005 / task follow-up |
 
 ## Lệnh chuẩn

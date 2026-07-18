@@ -192,6 +192,62 @@ def test_production_rejects_dev_fixture() -> None:
         create_app(Settings(app_env="production", procedure_data_mode="fixture"))
 
 
+def test_production_disabled_is_degraded_and_never_exposes_fixture_data() -> None:
+    settings = Settings(
+        app_env="production",
+        procedure_data_mode="disabled",
+        rag_mode="disabled",
+        llm_mode="disabled",
+        cors_allowed_origins="",
+        rate_limit_enabled=True,
+    )
+    production_client = TestClient(create_app(settings=settings))
+
+    health = production_client.get("/health")
+    catalog = production_client.get("/v1/procedures")
+    recommendation = production_client.post(
+        "/v1/procedures/recommend", json={"need_text": "Tôi muốn đăng ký khai sinh"}
+    )
+    intake = production_client.post(
+        "/v1/intake/turn",
+        json={"session_id": "production-disabled-test", "message": "Tôi muốn đăng ký khai sinh"},
+    )
+    checklist = production_client.post(
+        "/v1/procedures/dang-ky-khai-sinh/checklist",
+        json={"clarification_answers": {}},
+    )
+    validation = production_client.post(
+        "/v1/applications/validate",
+        json={"procedure_id": "dang-ky-khai-sinh", "form_data": {}},
+    )
+
+    assert health.status_code == 200
+    assert health.json()["status"] == "degraded"
+    assert health.json()["environment"] == "production"
+    assert health.json()["capabilities"] == {
+        "procedure_data": "disabled",
+        "rag": "disabled",
+        "llm": "disabled",
+    }
+    assert catalog.status_code == 200
+    assert len(catalog.json()) == 3
+    assert all(item["review_status"] == "unavailable" for item in catalog.json())
+    assert all(item["fixture_mode"] is False for item in catalog.json())
+    assert recommendation.json()["candidates"] == []
+    assert recommendation.json()["trust_state"] == "need_more_information"
+    assert intake.json()["trust_state"] == "need_more_information"
+    assert intake.json()["fixture_mode"] is False
+    assert intake.json()["detected_procedure_id"] is None
+    assert intake.json()["procedure"] is None
+    assert intake.json()["clarifying_questions"] == []
+    assert checklist.json()["trust_state"] == "official_review_required"
+    assert checklist.json()["fixture_mode"] is False
+    assert checklist.json()["required_documents"] == []
+    assert checklist.json()["steps"] == []
+    assert validation.json()["trust_state"] == "official_review_required"
+    assert validation.json()["verdict"] is None
+
+
 def test_request_limit_and_rate_limit_have_safe_errors(client: TestClient) -> None:
     too_large = client.post("/v1/procedures/recommend", json={"need_text": "a" * 70_000})
     assert too_large.status_code == 422

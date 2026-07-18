@@ -1,0 +1,24 @@
+# Local environments and secrets
+.env
+.env.*
+.venv/
+venv/
+
+# Test, cache and generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+tests/
+*.log
+
+# Source files not needed by the runtime image
+.git/
+.gcloudignore
+.dockerignore
+Dockerfile
+.flake8
+pyproject.toml
+requirements.txt
+main.py
