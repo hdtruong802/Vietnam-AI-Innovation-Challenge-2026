@@ -1,0 +1,83 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009696
+Số quyết định: 936/QĐ-BTC
+Tên thủ tục: Đăng ký phát hành cổ phiếu để hoán đổi theo hợp đồng hợp nhất, sáp nhập
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+    + Bước 1: Tổ chức phát hành nộp hồ sơ đăng ký phát hành cổ phiếu để hoán đổi theo hợp đồng hợp nhất sáp nhập cho Ủy ban Chứng khoán Nhà nước (UBCKNN).
+    + Bước 2: UBCKNN tiếp nhận, xem xét hồ sơ.
+    + Bước 3: Sau khi nhận đầy đủ hồ sơ hợp lệ, UBCKNN cấp Giấy chứng nhận đăng ký phát hành cổ phiếu để hoán đổi theo hợp đồng hợp nhất, sáp nhập. Trường hợp từ chối, UBCKNN phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 10000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022: + Dưới 50 tỷ: 10 triệu đồng/ Giấy chứng nhận) | 20000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022: + Từ 50 tỷ đến dưới 150 tỷ: 20 triệu đồng/ Giấy chứng nhận) | 35000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022 + Từ 150 tỷ đến dưới 250 tỷ: 35 triệu đồng/ Giấy chứng nhận) | 50000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022 + Từ 250 tỷ trở lên: 50 triệu đồng/ Giấy chứng nhận) | 5000000 VNĐ ( * Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày  01/7/2025 đến hết ngày 31/12/2026): + Dưới 50 tỷ: 05 triệu đồng/ Giấy chứng nhận) | 10000000 VNĐ ( * Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày  01/7/2025 đến hết ngày 31/12/2026): Từ 50 tỷ đến dưới 150 tỷ: 10 triệu đồng/ Giấy chứng nhận) | 17500000 VNĐ ( * Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày  01/7/2025 đến hết ngày 31/12/2026): Từ 50 tỷ đến dưới 150 tỷ: + Từ 150 tỷ đến dưới 250 tỷ: 17,5 triệu đồng/ Giấy chứng nhận) | 25000000 VNĐ ( * Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày  01/7/2025 đến hết ngày 31/12/2026): Từ 50 tỷ đến dưới 150 tỷ: + Từ 250 tỷ trở lên: 25 triệu đồng/ Giấy chứng nhận)
+    Mô tả: Đối với Hồ sơ đăng ký phát hành cổ phiếu để hoán đổi theo hợp đồng hợp nhất, sáp nhập: Trong vòng 30 (ba mươi) ngày kể từ ngày nhận hồ sơ đầy đủ và hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 10000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022: + Dưới 50 tỷ: 10 triệu đồng/ Giấy chứng nhận) | 20000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022: + Từ 50 tỷ đến dưới 150 tỷ: 20 triệu đồng/ Giấy chứng nhận) | 35000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022 + Từ 150 tỷ đến dưới 250 tỷ: 35 triệu đồng/ Giấy chứng nhận) | 50000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022 + Từ 250 tỷ trở lên: 50 triệu đồng/ Giấy chứng nhận) | 5000000 VNĐ ( * Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày  01/7/2025 đến hết ngày 31/12/2026): + Dưới 50 tỷ: 05 triệu đồng/ Giấy chứng nhận) | 10000000 VNĐ ( * Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày  01/7/2025 đến hết ngày 31/12/2026): Từ 50 tỷ đến dưới 150 tỷ: 10 triệu đồng/ Giấy chứng nhận) | 17500000 VNĐ ( * Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày  01/7/2025 đến hết ngày 31/12/2026): Từ 50 tỷ đến dưới 150 tỷ: + Từ 150 tỷ đến dưới 250 tỷ: 17,5 triệu đồng/ Giấy chứng nhận) | 25000000 VNĐ ( * Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày  01/7/2025 đến hết ngày 31/12/2026): Từ 50 tỷ đến dưới 150 tỷ: + Từ 250 tỷ trở lên: 25 triệu đồng/ Giấy chứng nhận)
+    Mô tả: Đối với Hồ sơ đăng ký phát hành cổ phiếu để hoán đổi theo hợp đồng hợp nhất, sáp nhập: Trong vòng 30 (ba mươi) ngày kể từ ngày nhận hồ sơ đầy đủ và hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 10000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022: + Dưới 50 tỷ: 10 triệu đồng/ Giấy chứng nhận) | 20000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022: + Từ 50 tỷ đến dưới 150 tỷ: 20 triệu đồng/ Giấy chứng nhận) | 35000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022 + Từ 150 tỷ đến dưới 250 tỷ: 35 triệu đồng/ Giấy chứng nhận) | 50000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022 + Từ 250 tỷ trở lên: 50 triệu đồng/ Giấy chứng nhận) | 5000000 VNĐ ( * Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày  01/7/2025 đến hết ngày 31/12/2026): + Dưới 50 tỷ: 05 triệu đồng/ Giấy chứng nhận) | 10000000 VNĐ ( * Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày  01/7/2025 đến hết ngày 31/12/2026): Từ 50 tỷ đến dưới 150 tỷ: 10 triệu đồng/ Giấy chứng nhận) | 17500000 VNĐ ( * Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày  01/7/2025 đến hết ngày 31/12/2026): Từ 50 tỷ đến dưới 150 tỷ: + Từ 150 tỷ đến dưới 250 tỷ: 17,5 triệu đồng/ Giấy chứng nhận) | 25000000 VNĐ ( * Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày  01/7/2025 đến hết ngày 31/12/2026): Từ 50 tỷ đến dưới 150 tỷ: + Từ 250 tỷ trở lên: 25 triệu đồng/ Giấy chứng nhận)
+    Mô tả: Đối với Hồ sơ đăng ký phát hành cổ phiếu để hoán đổi theo hợp đồng hợp nhất, sáp nhập: Trong vòng 30 (ba mươi) ngày kể từ ngày nhận hồ sơ đầy đủ và hợp lệ.
+
+Thành phần hồ sơ:
+    - + Quyết định của Đại hội đồng cổ đông hoặc Hội đồng thành viên hoặc chủ sở hữu công ty của các công ty tham gia hợp nhất, sáp nhập thông qua phương án hợp nhất, sáp nhập; phương án phát hành cổ phiếu để hoán đổi và phương án hoạt động kinh doanh sau hợp nhất, sáp nhập; thông qua việc niêm yết hoặc đăng ký giao dịch trên hệ thống giao dịch chứng khoán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hợp đồng tư vấn hồ sơ đăng ký phát hành cổ phiếu với công ty chứng khoán, ngoại trừ trường hợp tổ chức phát hành là công ty chứng khoán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hợp đồng hợp nhất, sáp nhập.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản cam kết của Hội đồng quản trị hoặc Chủ tịch Hội đồng thành viên hoặc Chủ tịch công ty các công ty bị hợp nhất, Hội đồng quản trị công ty nhận sáp nhập về việc triển khai niêm yết hoặc đăng ký giao dịch cổ phiếu trên hệ thống giao dịch chứng khoán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy đăng ký phát hành theo Mẫu số 13, Mẫu số 14 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản cam kết của các bên tham gia hợp nhất, sáp nhập về việc đáp ứng quy định tại điểm e khoản 1 Điều 15 Luật Chứng khoán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Quyết định của Hội đồng thành viên hoặc chủ sở hữu công ty hoặc Đại hội đồng cổ đông hoặc Hội đồng quản trị (trong trường hợp được Đại hội đồng cổ đông ủy quyền) của các công ty tham gia hợp nhất, sáp nhập thông qua phương án đảm bảo việc phát hành cổ phiếu đáp ứng quy định về tỷ lệ sở hữu nước ngoài.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Quyết định của Hội đồng quản trị hoặc Hội đồng thành viên hoặc chủ sở hữu các công ty tham gia hợp nhất, sáp nhập thông qua hồ sơ đăng ký phát hành. Đối với việc phát hành cổ phiếu của tổ chức tín dụng, hồ sơ phải có văn bản chấp thuận của Ngân hàng Nhà nước Việt Nam về đề nghị tăng vốn điều lệ theo quy định của pháp luật về các tổ chức tín dụng. Đối với việc phát hành cổ phiếu của tổ chức kinh doanh bảo hiểm, hồ sơ phải có văn bản chấp thuận của Bộ Tài chính về việc tăng vốn điều lệ theo quy định của pháp luật về kinh doanh bảo hiểm.; + Trường hợp khai thác được thông tin trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp: Tổ chức, cá nhân, doanh nghiệp không phải nộp Bản sao Giấy chứng nhận đăng ký doanh nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản cáo bạch theo quy định tại Điều 19 Luật Chứng khoán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Dự thảo Điều lệ công ty hợp nhất, công ty nhận sáp nhập.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo tài chính năm gần nhất được kiểm toán bởi tổ chức kiểm toán được chấp thuận, báo cáo tài chính quý theo quy định tại khoản 5 Điều 20 Luật Chứng khoán của các công ty tham gia hợp nhất, sáp nhập.; + Trường hợp khai thác được thông tin trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp: Tổ chức, cá nhân, doanh nghiệp không phải nộp Bản sao Giấy chứng nhận đăng ký doanh nghiệp;   + Các trường hợp phát hành cổ phiếu để hoán đổi theo hợp đồng hợp nhất, sáp nhập phải đăng ký phát hành với Ủy ban Chứng khoán Nhà nước bao gồm: •	Phát hành cổ phiếu để hoán đổi cổ phần, phần vốn góp theo hợp đồng hợp nhất giữa công ty đại chúng và các công ty bị hợp nhất khác; •	Công ty đại chúng phát hành cổ phiếu để hoán đổi toàn bộ cổ phiếu đang lưu hành của công ty cổ phần, toàn bộ phần vốn góp của công ty trách nhiệm hữu hạn theo hợp đồng sáp nhập
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công văn từ chối nếu Hồ sơ không đáp ứng điều kiện hoặc không bổ sung đầy đủ, hợp lệ theo quy định, Giấy chứng nhận đăng ký phát hành cổ phiếu để hoán đổi cổ phiếu theo hợp đồng hợp nhất sáp nhập
+Căn cứ pháp lý:
+  * Nghị định sửa đổi, bổ sung một số điều của Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chứng khoán (245/2025/NĐ-CP)
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí trong lĩnh vực chứng khoán (25/2022/TT-BTC)
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 118/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn một số nội dung về chào bán, phát hành chứng khoán, chào mua công khai, mua lại cổ phiếu, đăng ký công ty đại chúng và hủy tư cách công ty đại chúng (115/2025/TT-BTC)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Thông tư 118/2020/TT-BTC (118/2020/TT-BTC)
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+  * Luật sửa đổi, bổ sung một số điều của Luật Doanh nghiệp 2020 (76/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: + Có phương án hợp nhất, sáp nhập; phương án phát hành cổ phiếu để hoán đổi và phương án hoạt động kinh doanh sau hợp nhất, sáp nhập được Đại hội đồng cổ đông hoặc Hội đồng thành viên hoặc chủ sở hữu công ty của các công ty tham gia hợp nhất, sáp nhập thông qua theo quy định. Phiếu biểu quyết của cổ đông, thành viên có lợi ích liên quan được tính là phiếu hợp lệ;
++ Có hợp đồng hợp nhất, sáp nhập được ký giữa các bên tham gia hợp nhất, sáp nhập theo quy định của Luật Doanh nghiệp hoặc pháp luật chuyên ngành kèm theo dự thảo Điều lệ công ty hợp nhất, công ty nhận sáp nhập;
++ Có báo cáo tài chính năm gần nhất của các công ty tham gia hợp nhất, sáp nhập được kiểm toán bởi tổ chức kiểm toán được chấp thuận;
++ Việc phát hành cổ phiếu để hoán đổi phải đáp ứng quy định về tỷ lệ sở hữu nước ngoài theo quy định của pháp luật;
++ Tổ chức phát hành không thuộc trường hợp đang bị truy cứu trách nhiệm hình sự hoặc đã bị kết án về một trong các tội xâm phạm trật tự quản lý kinh tế mà chưa được xóa án tích;
++ Có công ty chứng khoán tư vấn hồ sơ đăng ký chào bán cổ phiếu ra công chúng, trừ trường hợp tổ chức phát hành là công ty chứng khoán;
++ Có cam kết và phải thực hiện niêm yết hoặc đăng ký giao dịch cổ phiếu trên hệ thống giao dịch chứng khoán sau khi kết thúc đợt chào bán.
+Từ khóa: Không có thông tin
+Mô tả: + Có phương án hợp nhất, sáp nhập; phương án phát hành cổ phiếu để hoán đổi và phương án hoạt động kinh doanh sau hợp nhất, sáp nhập được Đại hội đồng cổ đông hoặc Hội đồng thành viên hoặc chủ sở hữu công ty của các công ty tham gia hợp nhất, sáp nhập thông qua theo quy định. Phiếu biểu quyết của cổ đông, thành viên có lợi ích liên quan được tính là phiếu hợp lệ;
++ Có hợp đồng hợp nhất, sáp nhập được ký giữa các bên tham gia hợp nhất, sáp nhập theo quy định của Luật Doanh nghiệp hoặc pháp luật chuyên ngành kèm theo dự thảo Điều lệ công ty hợp nhất, công ty nhận sáp nhập;
++ Có báo cáo tài chính năm gần nhất của các công ty tham gia hợp nhất, sáp nhập được kiểm toán bởi tổ chức kiểm toán được chấp thuận;
++ Việc phát hành cổ phiếu để hoán đổi phải đáp ứng quy định về tỷ lệ sở hữu nước ngoài theo quy định của pháp luật;
++ Tổ chức phát hành không thuộc trường hợp đang bị truy cứu trách nhiệm hình sự hoặc đã bị kết án về một trong các tội xâm phạm trật tự quản lý kinh tế mà chưa được xóa án tích;
++ Có công ty chứng khoán tư vấn hồ sơ đăng ký chào bán cổ phiếu ra công chúng, trừ trường hợp tổ chức phát hành là công ty chứng khoán;
++ Có cam kết và phải thực hiện niêm yết hoặc đăng ký giao dịch cổ phiếu trên hệ thống giao dịch chứng khoán sau khi kết thúc đợt chào bán.

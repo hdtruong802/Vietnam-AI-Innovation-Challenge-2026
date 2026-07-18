@@ -7,9 +7,11 @@ router = APIRouter(tags=["health"])
 
 
 @router.get("/health", response_model=HealthResponse)
-async def health_check(container: AppContainer = Depends(get_container)) -> HealthResponse:
+async def health_check(
+    container: AppContainer = Depends(get_container),
+) -> HealthResponse:
     capabilities = container.capabilities
-    status = "degraded" if capabilities["procedure_data"] == "disabled" else "ok"
+    status = "ok" if container.is_ready else "degraded"
     return HealthResponse(
         status=status,
         version=container.settings.app_version,

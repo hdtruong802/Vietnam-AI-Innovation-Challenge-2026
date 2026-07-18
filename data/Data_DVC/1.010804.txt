@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010804
+Số quyết định: 556/QĐ-BNV
+Tên thủ tục: Giải quyết chế độ ưu đãi đối với trường hợp tặng hoặc truy tặng danh hiệu vinh dự nhà nước “Bà mẹ Việt Nam anh hùng"
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    Bước 1: Cá nhân lập bản khai theo Mẫu số 03 Phụ lục I Nghị định số 131/2021/NĐ-CP kèm bản sao được chứng thực từ quyết định tặng hoặc truy tặng danh hiệu vinh dự nhà nước “Bà mẹ Việt Nam anh hùng” hoặc bản sao được chứng thực từ Bằng “Bà mẹ Việt Nam anh hùng” gửi trên Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công.
+    Bước 2: Ủy ban nhân dân cấp xã nơi thường trú trong thời gian 05 ngày làm việc kể từ ngày nhận được bản khai của cá nhân có trách nhiệm xác nhận bản khai và lập danh sách kèm theo các giấy tờ nêu trên gửi Sở Nội vụ.
+    Bước 3: Sở Nội vụ trong thời gian 05 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm ban hành quyết định trợ cấp, phụ cấp theo Mẫu số 57 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. 10 ngày làm việc kể từ ngày nhận đủ giấy tờ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. 10 ngày làm việc kể từ ngày nhận đủ giấy tờ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. 10 ngày làm việc kể từ ngày nhận đủ giấy tờ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+
+Thành phần hồ sơ:
+    - Trường hợp bà mẹ Việt Nam anh hùng còn sống: Bản sao được chứng thực từ quyết định tặng danh hiệu vinh dự nhà nước “Bà mẹ Việt Nam anh hùng” hoặc bản sao được chứng thực từ Bằng “Bà mẹ Việt Nam anh hùng”.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp bà mẹ Việt Nam anh hùng được tặng danh hiệu nhưng chết mà chưa được hưởng chế độ ưu đãi: Bản sao được chứng thực từ quyết định tặng danh hiệu vinh dự nhà nước “Bà mẹ Việt Nam anh hùng” hoặc bản sao được chứng thực từ Bằng “Bà mẹ Việt Nam anh hùng” và giấy báo tử hoặc trích lục khai tử
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp bà mẹ Việt Nam anh hùng được truy tặng: Bản sao được chứng thực từ quyết định truy tặng danh hiệu vinh dự nhà nước “Bà mẹ Việt Nam anh hùng”.,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản khai Mẫu số 03 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Nội vụ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về việc trợ cấp, phụ cấp ưu đãi Bà mẹ Việt Nam anh hùng
+Căn cứ pháp lý:
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Nội vụ (129/2025/NĐ-CP)
+  * QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THI HÀNH PHÁP LỆNH ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Nghị định số 131/2021/NĐ-CP)
+  * ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Pháp lệnh số: 02/2020/UBTVQH14)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

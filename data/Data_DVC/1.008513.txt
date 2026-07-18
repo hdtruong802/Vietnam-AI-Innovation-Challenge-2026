@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008513
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Gia hạn nộp hồ sơ khai thuế
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1. Người nộp thuế không có khả năng nộp hồ sơ khai thuế đúng hạn do thiên tai, thảm họa, dịch bệnh, hỏa hoạn, tai nạn bất ngờ phải gửi đến cơ quan thuế văn bản đề nghị gia hạn nộp hồ sơ khai thuế trước khi hết thời hạn nộp hồ sơ khai thuế, trong đó nêu rõ lý do đề nghị gia hạn có xác nhận của Ủy ban nhân dân cấp xã hoặc Công an xã, phường, thị trấn nơi phát sinh trường hợp được gia hạn theo quy định tại Điều 46 Luật Quản lý thuế năm 2019.
+    ++ Trường hợp NNT nộp hồ sơ qua giao dịch điện tử: NNT truy cập vào Cổng Dịch vụ công Quốc gia/Hệ thống thông tin giải quyết thủ tục hành chính để lập hồ sơ điện tử, ký điện tử và gửi đến cơ quan thuế.
+    ++ Trường hợp NNT nộp hồ sơ trực tiếp/qua bưu chính: NNT lập hồ sơ giấy, ký và gửi đến cơ quan thuế qua Trung tâm Phục vụ hành chính công cấp tỉnh/Trung tâm Phục vụ hành chính công cấp xã hoặc qua đường bưu chính.
+    + Bước 2. Cơ quan thuế tiếp nhận:
+    ++ Trường hợp hồ sơ được nộp qua giao dịch điện tử thì việc tiếp nhận và kiểm tra, chấp nhận hồ sơ thực hiện như sau:
+    +++ Tiếp nhận hồ sơ: Cổng Dịch vụ công Quốc gia/Hệ thống thông tin giải quyết thủ tục hành chính gửi thông báo cho NNT về việc tiếp nhận hồ sơ của NNT hoặc thông báo lý do không tiếp nhận hồ sơ của NNT chậm nhất 15 phút kể từ khi nhận được hồ sơ điện tử của NNT.
+    +++ Kiểm tra, chấp nhận hồ sơ: Cơ quan thuế kiểm tra hồ sơ và gửi thông báo cho NNT về việc chấp nhận hoặc không chấp nhận hồ sơ của NNT qua Cổng Dịch vụ công Quốc gia/Hệ thống thông tin giải quyết thủ tục hành chính chậm nhất 01 ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận hồ sơ điện tử của NNT.
+    ++ Trường hợp hồ sơ được nộp trực tiếp/qua bưu chính: cơ quan thuế thực hiện tiếp nhận, đóng dấu tiếp nhận hồ sơ của NNT (nếu hồ sơ đã đầy đủ, đúng quy định) hoặc hướng dẫn NNT hoàn thiện hồ sơ (nếu hồ sơ không đầy đủ, không đúng quy định).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị gia hạn nộp hồ sơ khai thuế theo quy định tại khoản 3 Điều 46 Luật Quản lý thuế năm 2019
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Cán bộ, công chức, viên chức, Hợp tác xã, Tổ chức nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Thuế cơ sở, Thuế tỉnh, thành phố, Cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản trả lời của cơ quan thuế gửi cho người nộp thuế về việc chấp nhận hay không chấp nhận việc gia hạn nộp hồ sơ khai thuế
+Căn cứ pháp lý:
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

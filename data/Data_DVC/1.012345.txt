@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012345
+Số quyết định: 220/QĐ-BTC
+Tên thủ tục: Bổ nhiệm, thay đổi Chủ tịch Hội đồng quản trị (Chủ tịch Hội đồng thành viên), Tổng giám đốc (Giám đốc), Chuyên gia tính toán của doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam, doanh nghiệp môi giới bảo hiểm
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo hiểm
+Trình tự thực hiện:
+    + Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam, doanh nghiệp môi giới bảo hiểm nộp hồ sơ đề nghị bổ nhiệm, thay đổi Chủ tịch Hội đồng quản trị (Chủ tịch Hội đồng thành viên), Tổng Giám đốc (Giám đốc), Chuyên gia tính toán (thủ tục bổ nhiệm, thay đổi chuyên gia tính toán không áp dụng đối với doanh nghiệp môi giới bảo hiểm).
+    + Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tài chính có văn bản chấp thuận. Trong trường hợp từ chối chấp thuận, Bộ Tài chính có văn bản giải thích rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đối với doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài: Phiếu lý lịch tư pháp theo mẫu hoặc giấy tờ tương đương của người nước ngoài do pháp luật nước ngoài quy định đáp ứng quy định tại điểm đ khoản 2 Điều 15 Nghị định 46/2023/NĐ-CP; bản sao thẻ căn cước công dân hoặc giấy chứng minh nhân dân hoặc hộ chiếu; sơ yếu lý lịch đáp ứng quy định tại , Bản sao công chứng văn bản chứng minh kinh nghiệm làm việc, thời gian giữ vị trí người quản lý, người kiểm soát, bản sao có công chứng văn bằng, chứng chỉ chứng minh trình độ và năng lực chuyên môn của người dự kiến được bổ nhiệm hoặc thay đổi. Trường hợp các tài liệu bằng tiếng nước ngoài thì phải có bản dịch công chứng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị bổ nhiệm, thay đổi theo mẫu quy định tại Phụ lục III ban hành kèm theo Nghị định 46/2023/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng lao động dự kiến giữa doanh nghiệp môi giới bảo hiểm với người dự kiến được bổ nhiệm là Tổng giám đốc (Giám đốc) (chỉ áp dụng với doanh nghiệp môi giới bảo hiểm).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ đề nghị bổ nhiệm, thay đổi Chủ tịch Hội đồng quản trị (Chủ tịch Hội đồng thành viên), Tổng giám đốc (Giám đốc) của doanh nghiệp môi giới bảo hiểm phải đáp ứng quy định tại các điểm a, b, d, h khoản 2, khoản 3 và khoản 4 Điều 15 Nghị định 46/2023/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản của cấp có thẩm quyền theo quy định tại Điều lệ công ty (đối với doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, doanh nghiệp môi giới bảo hiểm) hoặc Quy chế tổ chức và hoạt động (đối với chi nhánh nước ngoài tại Việt Nam)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản cam kết của người dự kiến được bổ nhiệm hoặc thay đổi sẽ làm việc cho doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam, doanh nghiệp môi giới bảo hiểm và cư trú tại Việt Nam sau khi được Bộ Tài chính chấp thuận.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Ghi chú: Khi các loại giấy tờ về lai lịch, nhân dạng của công dân Việt Nam thuộc thành phần hồ sơ quy định tại Nghị định này đã được tích hợp trong Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước công dân thì Bộ Tài chính có trách nhiệm khai thác và sử dụng thông tin trong Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước công dân trên cơ sở trao đổi, cung cấp thông tin giữa các cơ quan quản lý nhà nước.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Đối với doanh nghiệp môi giới bảo hiểm: Phiếu lý lịch tư pháp theo mẫu hoặc giấy tờ tương đương của người nước ngoài do pháp luật nước ngoài quy định đáp ứng quy định tại điểm đ khoản 2 Điều 15 Nghị định 46/2023/NĐ-CP; Bản sao thẻ căn cước công dân hoặc giấy chứng minh nhân dân hoặc hộ chiếu hoặc chứng thực cá nhân hợp pháp khác; sơ yếu lý lịch đáp ứng quy định tại điểm e khoản 2 Điều 15 Nghị định 46/2023/NĐ-CP; bản sao văn bằng, chứng chỉ, tài liệu chứng minh trình độ, kinh nghiệm và năng lực chuyên môn của người dự kiến được bổ nhiệm hoặc thay đổi Chủ tịch Hội đồng quản trị (Chủ tịch Hội đồng thành viên), Tổng giám đốc (Giám đốc)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Bộ Tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận hoặc từ chối chấp thuận của Bộ Tài chính trong lĩnh vực kinh doanh bảo hiểm
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

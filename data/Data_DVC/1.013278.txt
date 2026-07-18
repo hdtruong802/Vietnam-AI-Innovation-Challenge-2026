@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013278
+Số quyết định: 2994/QĐ-BQP
+Tên thủ tục: Thủ tục đóng sân bay chuyên dùng trên mặt đất, mặt nước
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý vùng trời
+Trình tự thực hiện:
+    Bước 1: Chủ sở hữu sân bay chuyên dùng trên mặt đất, mặt nước gửi 01 bộ hồ sơ theo quy định tại khoản 1 Điều này gửi đến Cục Tác chiến, Bộ Tổng Tham mưu bằng hình thức trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến qua Cổng Dịch vụ công quốc gia hoặc Hệ thống thông tin giải quyết thủ tục hành chính Bộ Quốc phòng.
+    Trường hợp nộp hồ sơ trực tuyến thì gửi bản điện tử hoặc bản sao điện tử các thành phần hồ sơ quy định tại khoản 1 Điều này.
+    Trường hợp, hồ sơ không hợp lệ, trong thời hạn năm (05) ngày làm việc kể từ ngày nhận được hồ sơ, Cục Tác chiến, Bộ Tổng Tham mưu có văn bản điện tử yêu cầu chủ sở hữu sân bay hoàn thiện hồ sơ theo quy định.
+    Bước 2: Trong thời hạn bảy (07) ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ, Bộ Tổng Tham mưu ra quyết định đóng sân bay chuyên dùng trên mặt đất, mặt nước sau khi có văn bản thống nhất của Bộ Xây dựng và gửi văn bản điện tử đến chủ sở hữu sân bay, các cơ quan, tổ chức, cá nhân liên quan.
+    Trường hợp tổ chức, cá nhân đề nghị nhận kết quả qua thư điện tử thì gửi qua thư điện tử cho tổ chức, cá nhân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị mở sân bay chuyên dùng trên mặt đất, mặt nước theo Mẫu số 01 Phụ lục ban hành Kèm theo Nghị định số 101/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Tác chiến/Bộ Tổng Tham mưu
+Cơ quan có thẩm quyền: Bộ Tổng Tham mưu
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận hoặc không chấp thuận.
+Căn cứ pháp lý:
+  * Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15 (47/2024/QH15)
+  * Luật số 62/2020/QH14 của Quốc hội: Luật sửa đổi, bổ sung một số điều của Luật Xây dựng (62/2020/QH14)
+  * Nghị định số 42/2016/NĐ-CP (42/2016/NĐ-CP)
+  * Nghị định số 101/2025/NĐ-CP của Chính phủ: Sửa đổi, bổ sung một số điều của Nghị định số 32/2016/NĐ-CP ngày 06 tháng 5 năm 2016 của Chính phủ quy định về quản lý độ cao chướng ngại vật hàng không và các trận địa quản lý, bảo vệ vùng trời tại Việt Nam và Nghị định số 42/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ quy định điều kiện, trình tự, thủ tục mở, đóng sân bay chuyên dùng (Nghị định số 101/2025/NĐ-CP)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Luật Đất đai ngày 18/01/2024; (31/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

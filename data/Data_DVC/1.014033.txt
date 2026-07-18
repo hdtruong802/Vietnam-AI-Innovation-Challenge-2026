@@ -1,0 +1,33 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014033
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Thủ tục hoàn thuế của hộ, cá nhân có hoạt động kinh doanh trên nền tảng thương mại điện tử
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    Trường hợp hộ, cá nhân đã được tổ chức quản lý nền tảng thương mại điện tử thực hiện khấu trừ và nộp thuế thay số thuế giá trị gia tăng và thu nhập cá nhân đối với các giao dịch phát sinh trong năm nhưng có mức doanh thu năm của toàn bộ hoạt động kinh doanh thuộc đối tượng không chịu thuế giá trị gia tăng, thuế thu nhập cá nhân thì thực hiện thủ tục hoàn thuế theo quy định của pháp luật quản lý thuế đối với số thuế nộp thừa sau khi tổ chức quản lý nền tảng thương mại điện tử đã hoàn thành nghĩa vụ kê khai, nộp thuế thay số thuế đã khấu trừ của hộ, cá nhân có hoạt động kinh doanh trên các nền tảng thương mại điện tử của năm tính thuế.
+    Trường hợp hộ, cá nhân đã nộp thuế giá trị gia tăng, thuế thu nhập cá nhân đối với các giao dịch phát sinh trong năm theo quy định tại Điều 8, Điều 9 Nghị định này nhưng có mức doanh thu năm của toàn bộ hoạt động kinh doanh thuộc đối tượng không chịu thuế giá trị gia tăng, thuế thu nhập cá nhân thì thực hiện thủ tục hoàn thuế theo quy định của pháp luật quản lý thuế đối với số thuế nộp thừa.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị hoàn thuế của hộ, cá nhân có hoạt động kinh doanh trên nền tảng thương mại điện tử theo mẫu số 03/CNKD-TMĐT
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Thuế cơ sở, Thuế tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cổng thông tin điện tử của Cục Thuế gửi phản hồi tự động về việc tiếp nhận và xử lý hồ sơ hoàn thuế theo quy định
+Căn cứ pháp lý:
+  * Quy định quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử, nền tảng số của hộ, cá nhân (Nghị định số 117/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007901
+Số quyết định: 1767/QĐ-BTC
+Tên thủ tục: Thủ tục chấm dứt đại lý hoàn thuế đối với Ngân hàng thương mại
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Bước 1: Trường hợp ngân hàng thương mại đã được Cục Hải quan có văn bản thông báo là đại lý hoàn thuế, nếu có nhu cầu chấm dứt việc làm đại lý hoàn thuế thì chậm nhất là 60 (sáu mươi) ngày trước ngày chấm dứt việc làm đại lý hoàn thuế, Ngân hàng thương mại gửi Cục Hải quan công văn thông báo đề nghị chấm dứt việc làm đại lý hoàn thuế.
+    - Bước 2: Trong vòng 10 (mười) ngày làm việc kể từ ngày nhận được công văn của ngân hàng thương mại, Cục Hải quan ban hành văn bản thông báo về việc chấm dứt việc làm đại lý hoàn thuế cho ngân hàng thương mại, đồng thời gửi cơ quan thuế, Ngân hàng Nhà nước và các đơn vị có liên quan;
+    Trường hợp ngân hàng thương mại vi phạm các quy định về việc hoàn thuế giá trị gia tăng tại Thông tư này, Cục Hải quan xem xét, quyết định chấm dứt việc làm đại lý hoàn thuế. Cục Hải quan ban hành văn bản yêu cầu chấm dứt việc làm đại lý hoàn thuế cho ngân hàng thương mại, đồng thời gửi cơ quan thuế, Ngân hàng Nhà nước và các đơn vị có liên quan
+    - Bước 3: Ngân hàng thương mại tháo bỏ Biển thông báo là ngân hàng đại lý hoàn thuế giá trị gia tăng cho người nước ngoài tại quầy làm thủ tục hoàn thuế khi chấm dứt việc làm đại lý hoàn thuế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Công văn thông báo đề nghị chấm dứt việc làm đại lý hoàn thuế
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo về việc chấm dứt việc làm đại lý hoàn thuế cho ngân hàng thương mại, đồng thời gửi cơ quan thuế, Ngân hàng Nhà nước và các đơn vị có liên quan.
+Căn cứ pháp lý:
+  * Luật Thuế giá tri gia tăng năm 2024 (48/2024/QH15)
+  * QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP ĐỂ TỔ CHỨC, HƯỚNG DẪN THI HÀNH LUẬT QUẢN LÝ THUẾ (252/2026/NĐ-CP)
+  * Luật số 108/2025/QH15 của Quốc hội: Luật Quản lý thuế (108/2025/QH15)
+  * Nghị định số 181/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thuế giá trị gia tăng (181/2025/NĐ-CP)
+  * Quy định về hoàn thuế giá trị gia tăng đối với hàng hóa của người nước ngoài, người Việt Nam định cư ở nước ngoài mua tại Việt Nam mang theo khi xuất cảnh. (84/2026/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

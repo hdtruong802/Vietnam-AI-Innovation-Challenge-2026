@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115019
+Số quyết định: 1915/QĐ-UBND
+Tên thủ tục: Cấp phép thi công nút giao
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Cơ quan, tổ chức, cá nhân (chủ đầu tư dự án hoặc chủ sử dụng nút giao) có nhu cầu cấp phép thi công nút giao đấu nối vào hệ thống đường địa phương gửi hồ sơ đến các cơ quan như sau để được giải quyết:
+    - Sở Xây dựng thực hiện Cấp phép thi công nút giao vào đường tỉnh và các tuyến, đoạn tuyến đường được cấp có thẩm quyền giao quản lý.
+    - Ủy ban nhân dân cấp xã qua Bộ phận Tiếp nhận và Trả kết quả cấp xã để thực hiện Cấp phép thi công nút giao vào đường xã và các tuyến, đoạn tuyến đường được cấp có thẩm quyền giao quản lý.
+    b) Giải quyết TTHC:
+    - Trường hợp nộp hồ sơ trực tiếp: nếu hồ sơ đầy đủ thì lập phiếu tiếp nhận và hẹn trả kết quả; nếu hồ sơ không đầy đủ thì lập phiếu hướng dẫn bổ sung đầy đủ một lần theo quy định.
+    - Trường hợp nhận hồ sơ trực tuyến, qua hệ thống bưu chính hoặc hình thức phù hợp khác: nếu hồ sơ chưa rõ ràng, chưa đầy đủ theo quy định thì chậm nhất sau 03 ngày làm việc phải có văn bản yêu cầu cơ quan, tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ; nếu đủ điều kiện theo quy định thì có văn bản cấp phép thi công nút giao. Trường hợp không đủ điều kiện cấp phép thi công, thì chậm nhất sau 05 ngày làm việc phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3.5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 3,5 ngày làm việc (cắt giảm 1,5/5 ngày làm việc tỷ lệ 30%) kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3.5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 3,5 ngày làm việc (cắt giảm 1,5/5 ngày làm việc tỷ lệ 30%) kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3.5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 3,5 ngày làm việc (cắt giảm 1,5/5 ngày làm việc tỷ lệ 30%) kể từ ngày nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+  Không có thông tin thành phần hồ sơ.
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thi công theo mẫu số 04 (bản giấy, bản điện tử, tích hợp trên VneID).
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

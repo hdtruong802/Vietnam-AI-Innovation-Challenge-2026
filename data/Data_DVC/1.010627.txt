@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010627
+Số quyết định: 1082/QĐ-BGDĐT
+Tên thủ tục: Chuyển ngành, nghề học, chuyển trường, chuyển nước đến học
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giáo dục, đào tạo với nước ngoài
+Trình tự thực hiện:
+    Du học sinh nộp 01 bộ hồ sơ quy định qua đường bưu điện hoặc trực tiếp hoặc trực tuyến cho cơ quan cử đi học
+    Trong thời hạn 05 ngày làm việc, nếu hồ sơ xin chuyển ngành, nghề học, chuyển trường, chuyển nước đến học không hợp lệ, cơ quan cử đi học thông báo cho du học sinh để bổ sung và hoàn thiện theo quy định
+    Trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan cử đi học ra quyết định cho phép du học sinh chuyển ngành, nghề học, chuyển trường, chuyển nước đến học. Cơ quan cử đi học gửi Quyết định này cho du học sinh và cơ quan quản lý trực tiếp của du học sinh (đối với trường hợp có cơ quan công tác); trường hợp không đồng ý phải có văn bản thông báo cho du học sinh và cơ quan quản lý trực tiếp của du học sinh (đối với trường hợp có cơ quan công tác) nêu rõ lý do.
+    Du học sinh đi học theo học bổng do phía nước ngoài đài thọ nếu chuyển ngành, nghề học, chuyển trường thì thực hiện thủ tục theo quy trình trên và theo quy định của phía nước ngoài đài thọ học bổng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Ý kiến đồng ý bằng văn bản của cơ quan quản lý trực tiếp du học sinh về việc chuyển ngành, nghề học, chuyển trường, chuyển nước đến học (đối với trường hợp có cơ quan công tác)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao văn bản đồng ý của cơ sở giáo dục nước ngoài cả nơi chuyển đi và chuyển đến về việc du học sinh chuyển ngành, nghề học, chuyển trường, chuyển nước đến học
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị chuyển ngành, nghề học, chuyển trường, chuyển nước đến học (theo mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 86/2021/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Cục Hợp tác quốc tế - Bộ giáo dục đào tạo
+Cơ quan có thẩm quyền: Bộ trưởng Bộ Giáo dục và Đào tạo
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định đồng ý cho chuyển ngành, nghề học, chuyển trường, chuyển nước đến học (Quyết định của Bộ trưởng Bộ Giáo dục và Đào tạo.  Hoặc Quyết định của Thủ trưởng cơ quan, đơn vị thuộc, trực thuộc (trong trường hợp được Bộ Giáo dục và Đào tạo giao nhiệm vụ hoặc phân cấp).)
+Căn cứ pháp lý:
+  * Nghị định 86/2021/NĐ-CP (86/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

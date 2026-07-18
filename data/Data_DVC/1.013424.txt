@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013424
+Số quyết định: 885/QĐ-BCA-C06
+Tên thủ tục: Cấp Giấy phép vận chuyển vật liệu nổ quân dụng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo
+Trình tự thực hiện:
+    - Bước 1: Cơ quan, tổ chức, doanh nghiệp chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: Cơ quan, tổ chức, doanh nghiệp nộp hồ sơ tại Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an hoặc Phòng Cảnh sát quản lý hành chính về trật tự xã hội, Công an cấp tỉnh.
+    - Bước 3: Khi tiếp nhận hồ sơ, cơ quan có thẩm quyền kiểm tra tính pháp lý, nội dung hồ sơ:
+    + Trường hợp hồ sơ đạt yêu cầu: Cán bộ tiếp nhận hồ sơ phải thông báo bằng văn bản thời gian trả kết quả cho cơ quan, tổ chức, doanh nghiệp đề nghị biết và nhập vào hệ thống phần mềm quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo.
+    + Trường hợp hồ sơ thiếu thủ tục: Cán bộ tiếp nhận hồ sơ phải trả hồ sơ hoặc thông báo bằng văn bản cho cơ quan, tổ chức, doanh nghiệp đề nghị để bổ sung, hoàn thiện hồ sơ.
+    + Hồ sơ không đạt yêu cầu: Cán bộ tiếp nhận hồ sơ không tiếp nhận và thông báo trả lời trực tiếp hoặc bằng văn bản, nêu rõ lý do không tiếp nhận cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    - Bước 4: Căn cứ theo ngày hẹn trên phiếu tiếp nhận hồ sơ và hẹn trả kết quả để nhận giấy phép vận chuyển vật liệu nổ quân dụng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (- Dưới 5 tấn: 50.000 đồng/giấy; - Từ 5 tấn đến 15 tấn: 100.000 đồng/giấy; - Trên 15 tấn: 150.000 đồng/giấy.)
+    Mô tả: Nộp hồ sơ trực tiếp tại Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an hoặc Phòng Cảnh sát quản lý hành chính về trật tự xã hội, Công an cấp tỉnh. . Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan Công an có thẩm quyền cấp giấy phép vận chuyển; trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.
+
+Thành phần hồ sơ:
+  [ Theo quy định tại Điều 33 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 ngày 29/6/2024), cụ thể: ]
+    - Văn bản đề nghị, trong đó ghi rõ tên, địa chỉ cơ quan, tổ chức, doanh nghiệp; lý do; khối lượng vật liệu nổ quân dụng cần vận chuyển; họ tên, số định danh cá nhân hoặc số hộ chiếu của người đến liên hệ, người điều khiển phương tiện và người áp tải; phương tiện vận chuyển, biển kiểm soát; thời gian vận chuyển, nơi đi, nơi đến, tuyến đường vận chuyển.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Công an tỉnh, Cục cảnh sát quản lý hành chính về trật tự, xã hội
+Cơ quan có thẩm quyền: Công an tỉnh, Cục cảnh sát quản lý hành chính về trật tự, xã hội
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép vận chuyển vật liệu nổ quân dụng
+Căn cứ pháp lý:
+  * Thông tư quy định về biểu mẫu và trình tự cấp giấy phép, thông báo đăng ký khai báo, chứng nhận, chứng chỉ về vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ; thông báo xác nhận khai báo vũ khí thô sơ (77/2024/TT-BCA)
+  * Thông tư 23/2019/TT-BTC (23/2019/TT-BTC)
+  * Thông tư quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (75/2024/TT-BCA)
+  * Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (42/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Việc vận chuyển vật liệu nổ quân dụng phải đảm bảo các điều kiện quy định tại khoản 1 Điều 33 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 ngày 29/6/2024); cụ thể:
+“1. Việc vận chuyển vật liệu nổ quân dụng thực hiện theo quy định sau đây:
+a) Phải có giấy phép hoặc mệnh lệnh vận chuyển vật liệu nổ quân dụng của cơ quan, người có thẩm quyền;
+b) Bảo đảm bí mật, an toàn; 
+c) Sử dụng phương tiện chuyên dùng bảo đảm điều kiện vận chuyển vật liệu nổ quân dụng và bảo đảm an toàn, phòng cháy và chữa cháy, bảo vệ môi trường;
+d) Không được chở vật liệu nổ quân dụng và người trên cùng một phương tiện, trừ người điều khiển phương tiện, người áp tải;
+đ) Không dừng, đỗ phương tiện vận chuyển vật liệu nổ quân dụng ở nơi đông người, khu vực dân cư, cửa hàng xăng dầu, nơi có công trình quan trọng về quốc phòng, an ninh, kinh tế, văn hóa, ngoại giao. Trường hợp cần nghỉ qua đêm hoặc do sự cố mà không đủ lực lượng bảo vệ thì người điều khiển phương tiện, người áp tải phải thông báo ngay cho cơ quan quân sự hoặc cơ quan Công an nơi gần nhất để phối hợp bảo vệ khi cần thiết.”.
+Từ khóa: Không có thông tin
+Mô tả: Việc vận chuyển vật liệu nổ quân dụng phải đảm bảo các điều kiện quy định tại khoản 1 Điều 33 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 ngày 29/6/2024); cụ thể:
+“1. Việc vận chuyển vật liệu nổ quân dụng thực hiện theo quy định sau đây:
+a) Phải có giấy phép hoặc mệnh lệnh vận chuyển vật liệu nổ quân dụng của cơ quan, người có thẩm quyền;
+b) Bảo đảm bí mật, an toàn; 
+c) Sử dụng phương tiện chuyên dùng bảo đảm điều kiện vận chuyển vật liệu nổ quân dụng và bảo đảm an toàn, phòng cháy và chữa cháy, bảo vệ môi trường;
+d) Không được chở vật liệu nổ quân dụng và người trên cùng một phương tiện, trừ người điều khiển phương tiện, người áp tải;
+đ) Không dừng, đỗ phương tiện vận chuyển vật liệu nổ quân dụng ở nơi đông người, khu vực dân cư, cửa hàng xăng dầu, nơi có công trình quan trọng về quốc phòng, an ninh, kinh tế, văn hóa, ngoại giao. Trường hợp cần nghỉ qua đêm hoặc do sự cố mà không đủ lực lượng bảo vệ thì người điều khiển phương tiện, người áp tải phải thông báo ngay cho cơ quan quân sự hoặc cơ quan Công an nơi gần nhất để phối hợp bảo vệ khi cần thiết.”.

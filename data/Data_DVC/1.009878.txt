@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009878
+Số quyết định: 3169/QĐ-BTC
+Tên thủ tục: Chuyển quyền sở hữu chứng khoán ngoài hệ thống giao dịch chứng khoán đối với trường hợp phải có ý kiến chấp thuận của Ủy ban Chứng khoán Nhà nước
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+    + Bước 1: Tổ chức, cá nhân nộp hồ sơ đề nghị chuyển quyền sở hữu chứng khoán ngoài hệ thống giao dịch chứng khoán;
+    + Bước 2: Ủy ban Chứng khoán Nhà nước (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, Ủy ban Chứng khoán Nhà nước hướng dẫn bổ sung danh mục hồ sơ theo quy định.
+    + Bước 3: Ủy ban Chứng khoán Nhà nước tiếp nhận và kiểm tra hồ sơ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 07 ngày làm việc, Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu tổ chức, cá nhân sửa đổi, bổ sung.
+    + Bước 4: Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, tài liệu hợp lệ, Ủy ban Chứng khoán Nhà nước trả lời bằng văn bản về việc chấp thuận hoặc từ chối chuyển quyền sở hữu chứng khoán.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Hợp đồng giao dịch hoặc giấy tờ thỏa thuận giữa các bên;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Giấy chứng nhận đăng ký mã số giao dịch chứng khoán của nhà đầu tư nước ngoài do Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam cấp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Quyết định của Đại hội đồng cổ đông công ty đại chúng, Ban đại diện quỹ đóng thông qua việc không phải thực hiện thủ tục chào mua công khai theo quy định tại các điểm a, b khoản 2 Điều 35 Luật Chứng khoán.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Công văn nêu ý kiến của tổ chức phát hành chứng khoán được chuyển quyền sở hữu về việc chuyển quyền sở hữu chứng khoán giữa các nhà đầu tư nêu trong hồ sơ;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Văn bản của cơ quan quản lý chuyên ngành có ý kiến về việc chuyển quyền sở hữu chứng khoán của tổ chức phát hành, công ty đại chúng hoạt động trong lĩnh vực mà pháp luật chuyên ngành quy định phải có ý kiến,
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Văn bản xác nhận của thành viên lưu ký (trường hợp chứng khoán đã lưu ký) hoặc tổ chức phát hành, công ty đại chúng (trường hợp chứng khoán chưa lưu ký) về số lượng chứng khoán chuyển quyền sở hữu mà các bên chuyển quyền sở hữu hiện đang sở hữu.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Giấy ủy quyền hoặc tài liệu chứng minh thẩm quyền ký kết hợp đồng giao dịch;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Quyết định của Đại hội đồng cổ đông hoặc Hội đồng quản trị hoặc Hội đồng thành viên hoặc Chủ sở hữu doanh nghiệp của các bên chuyển quyền sở hữu (đối với tổ chức trong nước) thông qua việc chuyển quyền sở hữu chứng khoán theo quy định của Luật Doanh nghiệp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Giấy phép thành lập và hoạt động hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc các giấy tờ tương đương của các bên chuyển quyền sở hữu là tổ chức;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Công văn đề nghị chuyển quyền sở hữu chứng khoán ngoài hệ thống giao dịch chứng khoán;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản của các bên chuyển quyền sở hữu làm rõ các nội dung liên quan đến việc công bố thông tin, chào mua công khai, thanh toán không dùng tiền mặt, nguồn vốn đảm bảo thanh toán và các nội dung khác theo yêu cầu của UBCKNN
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Văn bản từ chối (nêu rõ lý do)., Công văn chấp thuận về việc chuyển quyền sở hữu chứng khoán ngoài hệ thống giao dịch chứng khoán
+Căn cứ pháp lý:
+  * Luật 54/2019/QH14 (54/2019/QH14)
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 119/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính quy định hoạt động đăng ký, lưu ký, bù trừ và thanh toán giao dịch chứng khoán và Thông tư số 58/2021/TT-BTC ngày 12 tháng 7 năm 2021 của Bộ trưởng Bộ Tài chính hướng dẫn một số điều của Nghị định số 158/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ về chứng khoán phái sinh và thị trường chứng khoán phái sinh (14/2025/TT-BTC)
+  * Thông tư 119/2020/TT-BTC (119/2020/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

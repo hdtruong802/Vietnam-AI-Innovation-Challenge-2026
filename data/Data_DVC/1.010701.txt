@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010701
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Thông báo sử dụng dịch vụ của Đại lý thuế/Thông báo tạm dừng, chấm dứt sử dụng dịch vụ của Đại lý thuế
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1: Người nộp thuế thực hiện
+    Chậm nhất 05 ngày làm việc trước khi đại lý thuế thực hiện lần đầu các công việc dịch vụ làm thủ tục về thuế nêu trong hợp đồng hoặc chậm nhất 05 ngày làm việc kể từ khi tạm dừng, chấm dứt dịch vụ theo hợp đồng đã ký với đại lý thuế, người nộp thuế (NNT) phải gửi thông báo cho Cục thuế/ Chi cục Thuế quản lý trực tiếp.
+    + Bước 2: Cục thuế/Chi cục Thuế quản lý trực tiếp NNT tiếp nhận hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Thông báo về việc thực hiện hợp đồng dịch vụ với đại lý thuế theo Mẫu 2.10 tại Phụ lục ban hành kèm theo Thông tư số 10/2021/TT-BTC ngày 26/01/2021 của Bộ Tài chính hướng dẫn quản lý hành nghề dịch vụ làm thủ tục về thuế.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Số lượng hồ sơ: 01 (bộ)
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Người nước ngoài
+Cơ quan thực hiện: Thuế tỉnh, thành phố, Cục Thuế - Bộ tài chính, Thuế cơ sở
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+  * Thông tư 10/2021/TT-BTC (10/2021/TT-BTC)
+  * Luật Quản lý thuế (38/2019/QH14)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

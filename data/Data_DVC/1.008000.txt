@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008000
+Số quyết định: 2571/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hóa nhập khẩu thương nhân mua gom của cư dân biên giới
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Thủ tục hải quan đối với hàng hóa nhập khẩu thương nhân mua gom của cư dân biên giới
+    - Bước 1: Người khai hải quan thực hiện việc khai hải quan, gửi đến cơ quan Hải quan. Cơ quan hải quan phản hồi việc tiếp nhận hoặc yêu cầu khai bổ sung, bổ sung hồ sơ…(nếu có) để người khai hải quan thực hiện các yêu cầu đó và nộp thuế, phí, lệ phí theo quy định.
+    - Bước 2: Trong trường hợp cơ quan hải quan có yêu cầu kiểm tra hồ sơ giấy, kiểm tra thực tế hàng hóa thì người khai hải quan xuất trình hồ sơ hải quan trong, xuất trình hàng hoá để cơ quan hải quan tiến hành kiểm tra.
+    - Bước 3: Sau khi cơ quan hải quan thực hiện việc thông quan hàng hoá, tờ khai hàng hóa nhập khẩu được xác nhận thông quan trên hệ thống (trường hợp khai điện tử) hoặc được công chức hải quan ký tên, đóng dấu xác nhận thông quan trên tờ khai hải quan giấy.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 ngày
+    Phí, lệ phí: 20000 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Thủ tục hải quan đối với hàng hóa nhập khẩu thương nhân mua gom của cư dân biên giới ]
+    - + Chứng từ chứng nhận xuất xứ hàng hóa (Giấy chứng nhận xuất xứ hàng hóa hoặc Chứng từ tự chứng nhận xuất xứ): 01 bản chính hoặc chứng từ dưới dạng dữ liệu điện tử.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính bảng kê lâm sản theo Mẫu số 01 kèm theo Thông tư số 27/2018/TT-BNNPTNT ngày 16/11/2018
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Tờ khai trị giá: Người khai hải quan khai tờ khai trị giá theo mẫu, gửi đến Hệ thống dưới dạng dữ liệu điện tử hoặc nộp cho cơ quan hải quan 02 bản chính (đối với trường hợp khai trên tờ khai hải quan giấy). Các trường hợp phải khai tờ khai trị giá và mẫu tờ khai trị giá thực hiện theo Thông tư của Bộ Tài chính quy định về việc xác định trị giá hải quan đối với hàng hóa xuất khẩu, nhập khẩu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Tờ khai hàng hóa nhập khẩu theo các chỉ tiêu thông tin tại Phụ lục II ban hành kèm theo Thông tư số 38/2015/TT-BTC. Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 2 Điều 25 Nghị định số 08/2015/NĐ-CP, người khai hải quan khai và nộp 02 bản chính tờ khai hàng hóa nhập khẩu theo mẫu HQ/2015/NK Phụ lục IV ban hành kèm theo Thông tư số 38/2015/TT-BTC;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Tờ khai hàng hóa xuất khẩu theo các chỉ tiêu thông tin tại Phụ lục II ban hành kèm theo Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính.  Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 2 Điều 25 Nghị định số 08/2015/NĐ-CP ngày 21/1/2015 của Chính phủ, người khai hải quan khai và nộp 02 bản chính tờ khai hàng hóa nhập khẩu theo mẫu HQ/2015/NK Phụ lục IV ban hành kèm theo Thông tư số 38/2015/TT-BTC;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - BẢNG KÊ MUA GOM HÀNG NHẬP KHẨU CƯ DÂN BIÊN GIỚI
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 5) Giấy phép nhập khẩu đối với hàng hóa phải có giấy phép nhập khẩu theo quy định của pháp luật: nộp 01 bản chính nếu nhập khẩu một lần hoặc bản sao khi nhập khẩu nhiều lần và phải xuất trình bản chính để đối chiếu, lập phiếu theo dõi trừ lùi;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - TỜ KHAI HÀNG NHẬP KHẨU CƯ DÂN BIÊN GIỚI
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đối với các mặt hàng chuyên dụng, đơn vị bán hàng phải cung cấp 01 bản gốc: giấy chứng nhận kiểm tra chuyên ngành do cơ quan nhà nước có thẩm quyền cấp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Tờ khai thông quan hàng hóa nhập khẩu
+Căn cứ pháp lý:
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Nghị định 59/2018/NĐ-CP (59/2018/NĐ-CP)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Thông tư (80)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

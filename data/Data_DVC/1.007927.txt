@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007927
+Số quyết định: 278/QĐ-BNNMT
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trồng trọt và Bảo vệ thực vật
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân nộp 01 bộ hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón đến cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính (nơi tổ chức, cá nhân đặt nhà máy sản xuất) bằng hình thức trực tiếp hoặc môi trường mạng hoặc qua dịch vụ bưu chính.
+    Bước 2: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp; trả lời bằng văn bản tính đầy đủ của hồ sơ trong 01 ngày làm việc đối với trường hợp nộp hồ sơ qua môi trường mạng hoặc qua dịch vụ bưu chính.
+    Bước 3: Trong thời hạn 17 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính tổ chức thẩm định, tổ chức kiểm tra thực tế điều kiện sản xuất phân bón, việc thực hiện nghĩa vụ của tổ chức, cá nhân sản xuất phân bón theo quy định tại điểm i khoản 2 Điều 50 Luật Trồng trọt (có thể thành lập đoàn kiểm tra và biên bản kiểm tra điều kiện sản xuất phân bón theo Mẫu số 27 Phụ lục I ban hành kèm Nghị định số 33/2026/NĐ-CP) và trình Chủ tịch Ủy ban nhân dân cấp tỉnh.
+    Bước 4: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ trình của cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón theo Mẫu số 28 Phụ lục I ban hành kèm theo Nghị định số 33/2026/NĐ-CP; trường hợp không cấp, trả lời bằng văn bản và nêu rõ lý do.
+    Bước 5: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính đăng tải Giấy chứng nhận đủ điều kiện sản xuất phân bón trên Cổng thông tin điện tử của cơ quan ngay sau khi cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (- Phí thẩm định cấp giấy chứng nhận đủ điều kiện sản xuất phân bón (trừ cơ sở chỉ hoạt động đóng gói phân bón): 6.000.000 đồng/01 cơ sở/lần. - Phí thẩm định cấp giấy chứng nhận đủ điều kiện sản xuất phân bón đối với cơ sở chỉ hoạt động đóng gói phân bón: 3.000.000 đồng/01 cơ sở/lần.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (- Phí thẩm định cấp giấy chứng nhận đủ điều kiện sản xuất phân bón (trừ cơ sở chỉ hoạt động đóng gói phân bón): 6.000.000 đồng/01 cơ sở/lần. - Phí thẩm định cấp giấy chứng nhận đủ điều kiện sản xuất phân bón đối với cơ sở chỉ hoạt động đóng gói phân bón: 3.000.000 đồng/01 cơ sở/lần.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (- Phí thẩm định cấp giấy chứng nhận đủ điều kiện sản xuất phân bón (trừ cơ sở chỉ hoạt động đóng gói phân bón): 6.000.000 đồng/01 cơ sở/lần. - Phí thẩm định cấp giấy chứng nhận đủ điều kiện sản xuất phân bón đối với cơ sở chỉ hoạt động đóng gói phân bón: 3.000.000 đồng/01 cơ sở/lần.)
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón theo Mẫu số 25 Phụ lục I ban hành kèm theo Nghị định số 33/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản thuyết minh về điều kiện sản xuất phân bón theo Mẫu số 26 Phụ lục I ban hành kèm theo Nghị định số 33/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao Bằng tốt nghiệp đại học trở lên của người trực tiếp điều hành sản xuất quy định tại điểm e khoản 2 Điều 41 Luật Trồng trọt
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện sản xuất phân bón (theo Mẫu số 28 Phụ lục I ban hành kèm theo Nghị định số 33/2026/NĐ-CP)
+Căn cứ pháp lý:
+  * Luật Trồng trọt (Luật số 31/2018/QH14)
+  * sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực trồng trọt và bảo vệ thực vật (Nghị định số 33/2026/NĐ-CP)
+  * Luật sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường (Luật số 146/2025/QH15)
+  * quy định chi tiết một số điều của Luật Bảo vệ và kiểm dịch thực vật, Luật Trồng trọt và sửa đổi, bổ sung một số điều của các thông tư trong lĩnh vực trồng trọt và bảo vệ thực vật (số 07/2026/TT-BNNMT)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 207/2016/TT-BTC ngày 09 tháng 11 năm 2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực trồng trọt và giống cây lâm nghiệp (Thông tư 14/2018/TT-BTC)
+  * Nghị định quy định về quản lý phân bón. (Nghị định 84/2019/NĐ-CP..)
+
+Yêu cầu, điều kiện thực hiện: Điều kiện cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón bao gồm:
+- Có địa điểm sản xuất, diện tích nhà xưởng phù hợp với quy mô sản xuất: Khu sản xuất có tường, trần, vách ngăn, cửa bảo đảm yêu cầu về kiểm soát chất lượng.
+- Có dây chuyền, máy móc, thiết bị phù hợp với quy trình sản xuất từng loại, dạng phân bón: Dây chuyền, máy móc, thiết bị sản xuất phân bón phải phù hợp với quy trình sản xuât từng loại phân bón, dạng phân bón quy định tại Phụ lục II ban hành kèm theo Nghị định số 84/2019/NĐ-CP.
+- Có khu vực chứa nguyên liệu và khu vực thành phẩm riêng biệt;
+- Người trực tiếp điều hành sản xuất phải có trình độ từ đại học trở lên thuộc một trong các chuyên ngành về trồng trọt, bảo vệ thực vật, nông hóa thổ nhưỡng, khoa học đất, nông học, hóa học, sinh học.
+Từ khóa: Không có thông tin
+Mô tả: Điều kiện cấp Giấy chứng nhận đủ điều kiện sản xuất phân bón bao gồm:
+- Có địa điểm sản xuất, diện tích nhà xưởng phù hợp với quy mô sản xuất: Khu sản xuất có tường, trần, vách ngăn, cửa bảo đảm yêu cầu về kiểm soát chất lượng.
+- Có dây chuyền, máy móc, thiết bị phù hợp với quy trình sản xuất từng loại, dạng phân bón: Dây chuyền, máy móc, thiết bị sản xuất phân bón phải phù hợp với quy trình sản xuât từng loại phân bón, dạng phân bón quy định tại Phụ lục II ban hành kèm theo Nghị định số 84/2019/NĐ-CP.
+- Có khu vực chứa nguyên liệu và khu vực thành phẩm riêng biệt;
+- Người trực tiếp điều hành sản xuất phải có trình độ từ đại học trở lên thuộc một trong các chuyên ngành về trồng trọt, bảo vệ thực vật, nông hóa thổ nhưỡng, khoa học đất, nông học, hóa học, sinh học.

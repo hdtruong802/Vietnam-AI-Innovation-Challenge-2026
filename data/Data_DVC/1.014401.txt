@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014401
+Số quyết định: 2865/QĐ-BCT
+Tên thủ tục: Sửa đổi, bổ sung Giấy phép xuất khẩu, tạm nhập tái xuất, chuyển khẩu, trung chuyển, quá cảnh hàng hóa lưỡng dụng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    Bước 1: Thương nhân gửi 1 bộ hồ sơ gồm văn bản đề nghị sửa đổi, bổ sung Giấy phép kèm theo các tài liệu chứng minh có liên quan đến cơ quan cấp phép.
+    Bước 2: Trường hợp hồ sơ chưa đầy đủ, đúng quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan cấp phép thông báo bằng văn bản (hoặc trực tuyến) cho thương nhân để bổ sung, hoàn thiện.
+    Bước 3: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định, cơ quan cấp phép xem xét sửa đổi, bổ sung Giấy phép cho thương nhân hoặc có văn bản thông báo từ chối sửa đổi, bổ sung, nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Văn bản đề nghị sửa đổi, bổ sung Giấy phép.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Các tài liệu chứng minh có liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép được sửa đổi, bổ sung hoặc văn bản thông báo từ chối sửa đổi, bổ sung, nêu rõ lý do
+Căn cứ pháp lý:
+  * Nghị định số 259/2025/NĐ-CP ngày 10 tháng 10 năm 2025 của Chính phủ của Chính phủ về kiểm soát thương mại chiến lược. (259/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Thương nhân đã được cấp Giấy phép xuất khẩu, tạm nhập tái xuất, chuyển khẩu, trung chuyển, quá cảnh hàng hóa lưỡng dụng.
+- Giấy phép đã được cấp có nội dung cần sửa đổi, bổ sung.
+Từ khóa: Không có thông tin
+Mô tả: - Thương nhân đã được cấp Giấy phép xuất khẩu, tạm nhập tái xuất, chuyển khẩu, trung chuyển, quá cảnh hàng hóa lưỡng dụng.
+- Giấy phép đã được cấp có nội dung cần sửa đổi, bổ sung.

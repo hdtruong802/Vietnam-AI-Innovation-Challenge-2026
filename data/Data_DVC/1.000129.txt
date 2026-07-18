@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000129
+Số quyết định: 4091/QĐ-NHNN
+Tên thủ tục: Thủ tục đăng ký khoản cho vay ra nước ngoài của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    - Bước 1: Bên cho vay gửi 01 bộ hồ sơ đăng ký khoản cho vay ra nước ngoài theo quy định đến Ngân hàng Nhà nước trong thời hạn: (i) 30 ngày kể từ ngày ký thỏa thuận cho vay, thỏa thuận gia hạn khoản cho vay đối với khoản cho vay ra nước ngoài quy định tại khoản 1 Điều 14 Thông tư số 79/2025/TT-NHNN; (ii)  30 ngày kể từ thời điểm 90 ngày quá hạn thanh toán đối với trường hợp quy định tại khoản 2 Điều 14 Thông tư số 79/2025/TT-NHNN
+    Ngân hàng Nhà nước thông báo về việc tiếp nhận chính thức hoặc yêu cầu chỉnh sửa, bổ sung hồ sơ để tiếp nhận cho tổ chức, cá nhân không muộn hơn 03 ngày làm việc kể từ khi tiếp nhận hồ sơ.
+    - Bước 2: Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Ngân hàng Nhà nước có văn bản xác nhận hoặc từ chối xác nhận đăng ký khoản cho vay ra nước ngoài (có nêu rõ lý do).
+    Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu nhà đầu tư chỉnh sửa, bổ sung hồ sơ.
+    Sau 60 ngày kể từ ngày yêu cầu, nếu Bên cho vay không hoàn thành việc hoàn thiện hồ sơ, Ngân hàng Nhà nước thực hiện đóng hồ sơ đề nghị xác nhận đăng ký khoản cho vay ra nước ngoài.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Báo cáo việc đáp ứng các quy định của pháp luật về hoạt động cho vay của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đối với khách hàng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản ủy quyền (nếu có) của các thành viên hợp vốn cho một bên cho vay thực hiện thủ tục đăng ký khoản cho vay ra nước ngoài (áp dụng đối với khoản cho vay ra nước ngoài hợp vốn)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu về bên vay nước ngoài bao gồm: a) Quyết định thành lập hoặc Giấy chứng nhận đăng ký đầu tư của bên vay nước ngoài hoặc tài liệu khác có giá trị tương đương theo quy định của nước sở tại chứng minh bên vay nước ngoài thuộc đối tượng quy định tại điểm a, điểm b khoản 1 Điều 10 Thông tư số 79/2025/TT-NHNN; b) Thoả thuận quan hệ đại lý thanh, quyết toán với bên cho vay của bên vay nước ngoài quy định tại điểm c khoản 1 Điều 10 Thông tư số 79/2025/TT-NHNN;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo về khoản cho vay ra nước ngoài gồm các nội dung chủ yếu sau: bên vay nước ngoài; mục đích sử dụng vốn vay của bên vay nước ngoài; sự phù hợp về trị giá khoản cho vay với quy mô của phương án sử dụng vốn vay; nguồn vốn ngoại tệ cho vay (áp dụng đối với khoản cho vay bằng ngoại tệ); các biện pháp phòng ngừa rủi ro liên quan; đánh giá tính khả thi của khoản cho vay; khả năng thu hồi vốn; tình hình giải ngân, thu hồi nợ (áp dụng đối với khoản cho vay quy định tại khoản 2 Điều 14 của Thông tư số 79/2025/TT-NHNN).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thỏa thuận cho vay, thỏa thuận gia hạn khoản cho vay ra nước ngoài đã ký (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đăng ký khoản cho vay ra nước ngoài (theo Phụ lục số I ban hành kèm theo Thông tư số 79/2025/TT-NHNN).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước 49 Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận/từ chối xác nhận đăng ký khoản cho vay ra nước ngoài, Công văn từ chối xác nhận đăng ký khoản cho vay ra nước ngoài
+Căn cứ pháp lý:
+  * Thông tư hướng dẫn về quản lý ngoại hối đối với việc cho vay ra nước ngoài và thu hồi nợ nước ngoài của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài (Thông tư số 79/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

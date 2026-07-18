@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115488
+Số quyết định: 1768/QĐ-BTC
+Tên thủ tục: Thủ tục khoanh tiền thuế nợ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Trình tự thực hiện
+    a) Đối với các trường hợp được khoanh tiền thuế nợ theo quy định tại khoản 1 Điều 20 Luật số 108/2025/QH15 và khoản 1 Điều 34 Nghị định số 252/2026/NĐ-CP, khi có đầy đủ hồ sơ thì Thủ trưởng cơ quan hải quan ban hành quyết định khoanh tiền thuế nợ theo Mẫu số 41 tại Phụ lục I Thông tư số 86/2026/TT-BTC đối với số tiền thuế nợ, thời gian khoanh tiền thuế nợ thực hiện theo quy định tại khoản 3 Điều 34 Nghị định số 252/2026/NĐ-CP;
+    b) Trường hợp người nộp thuế đã được cơ quan hải quan ban hành quyết định khoanh tiền thuế nợ mà Tòa án hủy quyết định tuyên bố một người là đã chết, mất năng lực hành vi dân sự hoặc người nộp thuế tiếp tục hoạt động kinh doanh thì cơ quan hải quan ban hành quyết định chấm dứt hiệu lực của quyết định khoanh tiền thuế nợ theo Mẫu số 42 tại Phụ lục I Thông tư số 86/2026/TT-BTC. Tiền chậm nộp được tính kể từ ngày hết thời hạn nộp tiền thuế, khoản thu khác đến thời điểm nộp tiền thuế, khoản thu khác vào ngân sách;
+    c) Trường hợp người nộp thuế đã được cơ quan hải quan ban hành quyết định khoanh tiền thuế nợ, khi thuộc trường hợp xóa nợ theo quy định tại Điều 21 Luật số 108/2025/QH15 thì cơ quan hải quan ban hành quyết định chấm dứt hiệu lực của quyết định khoanh tiền thuế nợ theo Mẫu số 42 tại Phụ lục I Thông tư số 86/2026/TT-BTC và thực hiện xóa nợ theo quy định.
+    Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan có chức năng xử lý, tiếp nhận, phản hồi, ký số ban hành quyết định khoanh tiền thuế nợ, quyết định chấm dứt hiệu lực của quyết định khoanh tiền thuế nợ thì cơ quan hải quan thực hiện xử lý trên Hệ thống xử lý dữ liệu điện tử hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: a) Thời gian khoanh tiền thuế nợ đối với trường hợp quy định tại điểm a, b, d và đ khoản 1 Điều 20 Luật Quản lý thuế được tính từ ngày cơ quan quản lý thuế ban hành quyết định khoanh tiền thuế nợ đến ngày cơ quan quản lý thuế ban hành quyết định chấm dứt hiệu lực của quyết định khoanh tiền thuế nợ; b) Thời gian khoanh tiền thuế nợ đối với trường hợp quy định tại điểm c khoản 1 Điều 20 Luật Quản lý thuế được tính từ ngày Tòa án có thẩm quyền thông báo thụ lý đơn yêu cầu áp dụng thủ tục phục hồi, thụ lý đơn yêu cầu áp dụng thủ tục phá sản đến ngày cơ quan quản lý thuế ban hành quyết định chấm dứt hiệu lực của quyết định khoanh tiền thuế nợ OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: + Thông qua Hệ thống xử lý dữ liệu điện tử hải quan:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: a) Thời gian khoanh tiền thuế nợ đối với trường hợp quy định tại điểm a, b, d và đ khoản 1 Điều 20 Luật Quản lý thuế được tính từ ngày cơ quan quản lý thuế ban hành quyết định khoanh tiền thuế nợ đến ngày cơ quan quản lý thuế ban hành quyết định chấm dứt hiệu lực của quyết định khoanh tiền thuế nợ; b) Thời gian khoanh tiền thuế nợ đối với trường hợp quy định tại điểm c khoản 1 Điều 20 Luật Quản lý thuế được tính từ ngày Tòa án có thẩm quyền thông báo thụ lý đơn yêu cầu áp dụng thủ tục phục hồi, thụ lý đơn yêu cầu áp dụng thủ tục phá sản đến ngày cơ quan quản lý thuế ban hành quyết định chấm dứt hiệu lực của quyết định khoanh tiền thuế nợ OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tiếp tại cơ quan hải quan;
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: a) Thời gian khoanh tiền thuế nợ đối với trường hợp quy định tại điểm a, b, d và đ khoản 1 Điều 20 Luật Quản lý thuế được tính từ ngày cơ quan quản lý thuế ban hành quyết định khoanh tiền thuế nợ đến ngày cơ quan quản lý thuế ban hành quyết định chấm dứt hiệu lực của quyết định khoanh tiền thuế nợ; b) Thời gian khoanh tiền thuế nợ đối với trường hợp quy định tại điểm c khoản 1 Điều 20 Luật Quản lý thuế được tính từ ngày Tòa án có thẩm quyền thông báo thụ lý đơn yêu cầu áp dụng thủ tục phục hồi, thụ lý đơn yêu cầu áp dụng thủ tục phá sản đến ngày cơ quan quản lý thuế ban hành quyết định chấm dứt hiệu lực của quyết định khoanh tiền thuế nợ OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: + Bưu chính.
+
+Thành phần hồ sơ:
+  [ a) Đối với người nộp thuế quy định tại điểm a khoản 1 Điều 20 Luật số 108/2025/QH15 là người đã chết, người bị Tòa án tuyên bố là đã chết, mất tích hoặc mất năng lực hành vi dân sự: ]
+    - Giấy chứng tử hoặc giấy báo tử hoặc các giấy tờ thay cho giấy báo tử theo quy định của pháp luật về hộ tịch, hoặc quyết định của tòa án tuyên bố một người là đã chết, mất năng lực hành vi dân sự;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b) Đối với người nộp thuế quy định tại điểm b khoản 1 Điều 20 Luật số 108/2025/QH15 là người có quyết định giải thể gửi cơ quan đăng ký kinh doanh để làm thủ tục giải thể, cơ quan đăng ký kinh doanh đã thông báo người nộp thuế đang làm thủ tục giải thể trên hệ thống thông tin quốc gia về đăng ký kinh doanh nhưng người nộp thuế chưa hoàn thành thủ tục giải thể: ]
+    - Quyết định giải thể của người nộp thuế hoặc thông tin thông báo về người nộp thuế đang làm thủ tục giải thể trên hệ thống thông tin quốc gia về đăng ký kinh doanh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ c) Đối với người nộp thuế quy định tại điểm c khoản 1 Điều 20 Luật số 108/2025/QH15 là người đã được Tòa án thông báo thụ lý đơn yêu cầu áp dụng thủ tục phá sản hoặc được khoanh tiền thuế nợ theo văn bản đề nghị của Tòa án theo quy định của pháp luật về phục hồi, phá sản: ]
+    - Thông báo của Tòa án có thẩm quyền về việc thụ lý đơn yêu cầu mở thủ tục phá sản hoặc được khoanh tiền thuế nợ theo văn bản đề nghị của Tòa án theo quy định của pháp luật về phục hồi, phá sản;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ d) Đối với người nộp thuế quy định tại điểm d khoản 1 Điều 20 Luật số 108/2025/QH15 là người không còn hoạt động tại địa chỉ đã đăng ký kinh doanh với cơ quan đăng ký kinh doanh, cơ quan quản lý thuế: ]
+    - Văn bản xác nhận của Ủy ban nhân dân cấp xã về việc người nộp thuế không còn hoạt động tại địa chỉ đã đăng ký kinh doanh với cơ quan đăng ký kinh doanh, cơ quan quản lý thuế;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ đ) Đối với người nộp thuế quy định tại điểm đ khoản 1 Điều 20 Luật số 108/2025/QH15 là người đã bị cơ quan có thẩm quyền thu hồi giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký hợp tác xã, giấy chứng nhận đăng ký tổ hợp tác, giấy chứng nhận đăng ký hộ kinh doanh, giấy phép thành lập và hoạt động, giấy phép hành nghề, giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, giấy chứng nhận đăng ký địa điểm kinh doanh, đăng ký hoặc giấy phép hoạt động kinh doanh nền tảng thương mại điện tử: ]
+    - Văn bản của cơ quan có thẩm quyền thu hồi giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký hợp tác xã, giấy chứng nhận đăng ký tổ hợp tác, giấy chứng nhận đăng ký hộ kinh doanh, giấy phép thành lập và hoạt động, giấy phép hành nghề, giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, giấy chứng nhận đăng ký địa điểm kinh doanh, đăng ký hoặc giấy phép hoạt động kinh doanh nền tảng thương mại điện tử.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định khoanh tiền thuế nợ, Quyết định chấm dứt hiệu lực của quyết định khoanh tiền thuế nợ
+Căn cứ pháp lý:
+  * Quy định về quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu. (86/2026/TT-BTC)
+  * Luật số 108/2025/QH15 của Quốc hội: Luật Quản lý thuế (108/2025/QH15)
+  * QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP ĐỂ TỔ CHỨC, HƯỚNG DẪN THI HÀNH LUẬT QUẢN LÝ THUẾ (252/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Các trường hợp khoanh tiền thuế nợ theo quy định tại khoản 1 Điều 20 Luật số 108/2025/QH15 và khoản 1 Điều 34 Nghị định số 252/2026/NĐ-CP.
+Từ khóa: Không có thông tin
+Mô tả: Các trường hợp khoanh tiền thuế nợ theo quy định tại khoản 1 Điều 20 Luật số 108/2025/QH15 và khoản 1 Điều 34 Nghị định số 252/2026/NĐ-CP.

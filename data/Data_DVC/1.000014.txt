@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000014
+Số quyết định: 2628/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với xăng dầu, hóa chất, khí chuyển tiêu thụ nội địa
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp gửi hồ sơ cho Chi cục Hải quan nơi làm thủ tục tạm nhập hoặc tại Chi cục Hải quan ngoài cửa khẩu nơi chứa lượng xăng dầu, hóa chất, khí xin chuyển tiêu thụ nội địa.
+    Bước 2: Kiểm tra hồ sơ (trường hợp có nghi vấn với chứng từ bản chụp, Chi cục Hải quan yêu cầu doanh nghiệp xuất trình bản chính để kiểm tra, đối chiếu); thực hiện điều chỉnh tiền thuế của tờ khai hải quan cũ tương ứng với số hàng hóa chuyển tiêu thụ nội địa đã được kê khai trên tờ khai hải quan mới theo quy định.
+    Bước 3: Doanh nghiệp thực hiện thanh khoản tờ khai tạm nhập chuyển tiêu thụ nội địa theo quy định, nộp các loại thuế theo quy định đối với lượng xăng dầu, hóa chất, khí tạm nhập chuyển tiêu thụ nội địa.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20 VNĐ (20.000 vnđ /tờ khai)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20 VNĐ (20.000 vnđ /tờ khai)
+
+Thành phần hồ sơ:
+    - Trường hợp xăng dầu, hóa chất, khí chuyển tiêu thụ nội địa được lấy tại các kho chứa nội địa khác của Thương nhân (khác với kho chứa khi làm thủ tục tạm nhập), Thương nhân nộp bổ sung 01 bản chụp Thông báo kết quả kiểm tra nhà nước về chất lượng và Thông báo kết quả giám định về lượng tại kho chứa nội địa đó.  Lượng xăng dầu, hóa chất, khí chuyển tiêu thụ nội địa căn cứ trên lượng xăng dầu, hóa chất, khí khi tạm nhập (có Chứng thư giám định lượng) và kết quả trừ lùi, thanh khoản của các tờ khai tái xuất xăng dầu, hóa chất, khí đã hoàn thành thủ tục hải quan theo quy định của tờ khai đó
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Đơn đề nghị được chuyển tiêu thụ nội địa xăng dầu, hóa chất, khí của Thương nhân:
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tờ khai hải quan nhập khẩu: 02 bản chính. Tại ô chứng từ đi kèm trên tờ khai hàng hóa nhập khẩu, Thương nhân ghi rõ lượng xăng dầu, hóa chất, khí chuyển tiêu thụ nội địa của tờ khai tạm nhập số …;
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - - Giấy đăng ký kiểm tra nhà nước về chất lượng xăng dầu, hóa chất, khí (đối với trường hợp khi tạm nhập chưa thực hiện kiểm tra Nhà nước về chất lượng) hoặc Thông báo kết quả kiểm tra nhà nước về chất lượng xăng dầu, hóa chất, khí khi làm thủ tục tạm nhập: 01 bản chụp có đóng dấu xác nhận của Thương nhân.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Tờ khai hải quan tạm nhập của lô hàng: 01 bản chụp có đóng dấu xác nhận của Thương nhân;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đối với trường hợp xăng dầu, hóa chất, khí thuộc Danh mục hàng hóa nhập khẩu phải kiểm tra nhà nước về chất lượng thì phải nộp Thông báo kết quả kiểm tra nhà nước về chất lượng khi làm thủ tục tạm nhập hoặc Thông báo kết quả kiểm tra nhà nước về chất lượng khi làm thủ tục chuyển tiêu thụ nội địa (đối với trường hợp khi tạm nhập chưa thực hiện kiểm tra về chất lượng): 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Không có thông tin
+Căn cứ pháp lý:
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Thông tư 172/2010/TT-BTC (172/2010/TT-BTC)
+  * Quy định thủ tục hải quan đối với xăng dầu, hóa chất, khí xuất khẩu, nhập khẩu, tạm nhập tái xuất, chuyển khẩu, quá cảnh; nguyên liệu nhập khẩu để sản xuất và pha chế hoặc gia công xuất khẩu xăng, dầu, khí; dầu thô xuất khẩu, nhập khẩu; hàng hóa xuất khẩu, nhập khẩu phục vụ hoạt động dầu khí (69/2016/TT-BTC)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

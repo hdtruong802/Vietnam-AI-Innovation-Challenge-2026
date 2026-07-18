@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115459
+Số quyết định: 1868/QĐ-UBND
+Tên thủ tục: Thu hồi Giấy chứng nhận đã cấp không đúng quy định của pháp luật đất đai do người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện và cấp lại Giấy chứng nhận sau khi thu hồi
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đất đai
+Trình tự thực hiện:
+  * Bước 1: Nộp hồ sơ
+    Người yêu cầu đăng ký nộp hồ sơ đến một trong các cơ quan sau trên địa bàn tỉnh: Trung tâm Phục vụ hành chính công hoặc Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai.
+  * Bước 2: Cơ quan tiếp nhận hồ sơ thực hiện:
+    - Kiểm tra tính đầy đủ của thành phần hồ sơ và cấp Giấy tiếp nhận hồ sơ và hẹn trả kết quả.
+    Trường hợp chưa đầy đủ thành phần hồ sơ thì trả hồ sơ kèm Phiếu yêu cầu bổ sung, hoàn thiện hồ sơ để người yêu cầu đăng ký hoàn thiện, bổ sung theo quy định.
+    Chuyển hồ sơ đến Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai đối với trường hợp thu hồi Giấy chứng nhận đã cấp khi thực hiện thủ tục đăng ký biến động đất đai, tài sản gắn liền với đất.
+  * Bước 3:
+    Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai kiểm tra, xem xét, quyết định thu hồi Giấy chứng nhận đã cấp không đúng quy định của pháp luật đất đai (trừ trường hợp người được cấp Giấy chứng nhận đã thực hiện thủ tục chuyển quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất theo quy định của pháp luật), đối với trường hợp giấy chứng nhận cấp lần đầu không đúng quy định pháp luật nhưng đã được cấp đổi Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai thực hiện thu hồi sau khi có ý kiến bằng văn bản của cơ quan quản lý đất đai, UBND cấp xã về việc giấy chứng nhận cấp lần đầu không đúng quy định pháp luật, chuyển hồ sơ đến Cơ quan quản lý đất đai, UBND cấp xã để thực hiện cấp giấy chứng nhận lần đầu cho người sử dụng đất theo quy định pháp luật.
+  * Bước 4: Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai thực hiện:
+    - Kiểm tra hồ sơ đã cấp Giấy chứng nhận để xác định lại thông tin quy định tại điểm d khoản 2 Điều 152 của Luật Đất đai theo đúng quy định của pháp luật đất đai tại thời điểm cấp Giấy chứng nhận.
+    - Cấp Giấy chứng nhận; chỉnh lý hồ sơ địa chính, cơ sở dữ liệu đất đai; trao Giấy chứng nhận hoặc chuyển cơ quan tiếp nhận hồ sơ để trao cho người được cấp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+    Mô tả: Thời gian thu hồi Giấy chứng nhận đã cấp không quá 20 ngày làm việc.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+    Mô tả: Thời gian thu hồi Giấy chứng nhận đã cấp không quá 20 ngày làm việc.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+    Mô tả: Thời gian thu hồi Giấy chứng nhận đã cấp không quá 20 ngày làm việc.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+    Mô tả: Thời gian thực hiện việc cấp Giấy chứng nhận sau thu hồi:  
+- Trường hợp thu hồi Giấy chứng nhận đã cấp do đăng ký biến động thời gian thực hiện cấp lại Giấy chứng nhận không quá 8 ngày làm việc.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+    Mô tả: Thời gian thực hiện việc cấp Giấy chứng nhận sau thu hồi:  
+- Trường hợp thu hồi Giấy chứng nhận đã cấp do đăng ký biến động thời gian thực hiện cấp lại Giấy chứng nhận không quá 8 ngày làm việc.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+    Mô tả: Thời gian thực hiện việc cấp Giấy chứng nhận sau thu hồi:  
+- Trường hợp thu hồi Giấy chứng nhận đã cấp do đăng ký biến động thời gian thực hiện cấp lại Giấy chứng nhận không quá 8 ngày làm việc.
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị hỗ trợ (Mẫu 1).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Văn phòng đăng ký đất đai Bắc Ninh
+Cơ quan có thẩm quyền: Văn phòng đăng ký đất đai Bắc Ninh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Cơ quan chuyên môn về Nông nghiệp và Môi trường thuộc UBND cấp xã, Cơ quan thuế
+Kết quả thực hiện: Giấy chứng nhận
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: không
+Từ khóa: Không có thông tin
+Mô tả: không

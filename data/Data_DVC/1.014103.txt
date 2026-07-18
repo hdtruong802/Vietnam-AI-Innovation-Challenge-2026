@@ -1,0 +1,38 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014103
+Số quyết định: 2268/QĐ-UBND
+Tên thủ tục: Xác nhận đối tượng hộ thoát nghèo để miễn, giảm học phí cho học sinh
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giảm nghèo
+Trình tự thực hiện:
+    Bước 1: Cá nhân hoàn thiện hồ sơ theo hướng dẫn.
+    Bước 2: Bộ phận Trung tâm phục vụ hành chính công cấp xã kiểm tra tính hợp lệ đầy đủ của hồ sơ; chuyển cho công chức chuyên môn.
+    Bước 3: Công chức chuyên môn xử lý hồ sơ, trình lãnh đạo ký xác nhận, chuyển kết quả Trung tâm phục vụ hành chính công cấp xã để trao cho cá nhân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong ngày làm việc
+
+Thành phần hồ sơ:
+    - Đơn đề nghị miễn giảm học phí và Giấy xác nhận hộ thoát nghèo trong vòng 02  năm kể từ thời điểm thoát nghèo theo chuẩn thành phố
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy xác nhận hộ thoát nghèo trong vòng 02 năm kể từ thời điểm thoát nghèo theo chuẩn thành phố.
+Căn cứ pháp lý:
+  * Hướng dẫn phương pháp rà soát, phân loại hộ nghèo, hộ cận nghèo; xác định thu nhập của hộ làm nông nghiệp, lâm nghiệp, ngư nghiệp, diêm nghiệp có mức sống trung bình giai đoạn 2022-2025 và mẫu biểu báo cáo (Thông tư 07/2021/TT-BLĐTBXH)
+  * Thông tư số 13/2025/TT-BNNMT ngày 19/6/2025 của Bộ Nông nghiệp và Môi trường Quy định phân định thẩm quyền quản lý nhà nước trong lĩnh vực kinh tế hợp tác và phát triển nông thôn và lĩnh vực giảm nghèo (13/2025/TT-BNNMT)
+  * 75/2021/NQ-HĐND-Quy định về chính sách hỗ trợ hộ nghèo, hộ cận nghèo, hộ thoát nghèo trên địa bàn thành phố Đà Nẵng (75/2021/NQ-HĐND)
+  * quy định quy trình rà soát hộ nghèo, hộ cận nghèo hằng năm và quy trình xác định hộ làm nông nghiệp, lâm nghiệp, ngư nghiệp và diêm nghiệp có mức sống trung bình giai đoạn 2022-2025 (Quyết định số 24/2021/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Hộ nghèo, miễn giảm học phí
+Mô tả: Không có

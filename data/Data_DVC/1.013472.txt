@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013472
+Số quyết định: 1521/QĐ-UBND.
+Tên thủ tục: Cấp phép thi công nút giao đấu nối với đường địa phương đang khai thác
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    Bước 1: Tiếp nhận hồ sơ (0,5 Ngày làm việc)
+    a) Nộp hồ sơ:
+    Chủ đầu tư dự án xây dựng nút giao đấu nối vào đường địa phương đang khai thác gửi 01 bộ hồ sơ đề nghị chấp thuận thiết kế nút giao đấu nối theo quy định tại khoản 2 Điều 10 Quyết định số 30/2025/QĐ-UBND;
+    Nộp hồ sơ tại bộ phận tiếp nhận và trả kết quả nơi có thẩm quyền quyết định chấp thuận thiết kế nút giao đấu nối với đường địa phương đang khai thác (cấp tỉnh tại Trung tâm Phục vụ hành chính công tỉnh, cấp xã tại Trung tâm Phục vụ hành chính công xã).
+    b) Kiểm tra tính đầy đủ của hồ sơ theo quy định:
+    - Đối với hồ sơ được nhận theo cách thức được quy định tại khoản 1 và khoản 2 Điều 15 Nghị định 118/2025/NĐ-CP (trực tiếp tại Bộ phận Một cửa; Thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật) thực hiện tiếp nhận theo quy định tại khoản 1 Điều 17 Nghị định 118/2025/NĐ-CP.
+    - Đối với hồ sơ nộp trực tuyến tại Cổng Dịch vụ công quốc gia thực hiện theo quy định tại khoản 2 Điều 17 Nghị định 118/2025/NĐ-CP;
+    - Chuyển hồ hồ sơ đến cơ quan có thẩm quyền giải quyết theo quy định tại Điều 18 Nghị định 118/2025/NĐ-CP;
+    Bước 2: Thẩm định, chấp thuận:
+    * Phân công xử lý hồ sơ (01 Ngày làm việc)
+    Trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Xây dựng, UBND cấp xã phân công cán bộ xử lý hồ sơ:
+    * Thẩm định, chấp thuận (05 Ngày làm việc)
+    Sau khi được phân công xử lý hồ sơ, cán bộ xử lý hồ sơ tiến hành xem xét hồ sơ, nếu đủ điều kiện thì có văn bản chấp thuận thiết kế nút giao đấu nối với đường địa phương đang khai thác theo quy định tại mẫu số 02 Phụ lục I ban hành kèm theo Quyết định này, trường hợp không chấp thuận thì phải có văn bản trả lời và nêu rõ lý do.
+    Bước 3: Số hóa kết quả giải quyết TTHC, đính kèm kết quả chuyển về Bộ phận một cửa.
+    Bước 4: Trả kết quả (0,5 ngày làm việc)
+    Trong thời hạn 0,5 ngày làm việc, Sở Xây dựng, UBND cấp xã trả kết quả cho chủ đầu tư dự án xây dựng nút giao đấu nối vào đường địa phương đang khai thác.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: + Trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn)
++ Trực tiếp hoặc qua dịch vụ bưu chính công ích đến:
+- Trung tâm Phục vụ hành chính công tỉnh Bắc Ninh; địa chỉ Tầng 1 và tầng 2 (giữa 2 toà nhà A, B) Khu liên cơ quan, Quảng trường 3/2, phường Bắc Giang, tỉnh Bắc Ninh.
+- Hoặc Trung tâm Phục vụ hành chính công cấp xã.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: + Trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn)
++ Trực tiếp hoặc qua dịch vụ bưu chính công ích đến:
+- Trung tâm Phục vụ hành chính công tỉnh Bắc Ninh; địa chỉ Tầng 1 và tầng 2 (giữa 2 toà nhà A, B) Khu liên cơ quan, Quảng trường 3/2, phường Bắc Giang, tỉnh Bắc Ninh.
+- Hoặc Trung tâm Phục vụ hành chính công cấp xã.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: + Trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn)
++ Trực tiếp hoặc qua dịch vụ bưu chính công ích đến:
+- Trung tâm Phục vụ hành chính công tỉnh Bắc Ninh; địa chỉ Tầng 1 và tầng 2 (giữa 2 toà nhà A, B) Khu liên cơ quan, Quảng trường 3/2, phường Bắc Giang, tỉnh Bắc Ninh.
+- Hoặc Trung tâm Phục vụ hành chính công cấp xã.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp giấy phép thi công nút giao đấu nối
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu giấy phép thi công
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Sở Xây Dựng tỉnh Bắc Ninh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công tỉnh Bắc Ninh
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thi công
+Căn cứ pháp lý:
+  * Quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ. (165/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Thời hạn có hiệu lực của giấy phép thi công nút giao đấu nối vào đường địa phương đang khai thác:
+a) Đối với nút giao đấu nối thuộc dự án đầu tư công, đầu tư theo phương thức đối tác công tư, hiệu lực của giấy phép thi công nút giao đấu nối bằng tiến độ thực hiện dự án.
+b) Đối với các trường hợp không thuộc quy định tại điểm a khoản này, thời hạn có hiệu lực của giấy phép thi công nút giao đấu nối không quá 24 tháng kể từ ngày được cấp phép thi công nút giao đấu nối vào đường địa phương đang khai thác.
+c) Hết thời hạn có hiệu lực của giấy phép thi công mà chưa hoàn thành thi công nút giao đấu nối vào đường địa phương đang khai thác thì phải thực hiện lại từ đầu thủ tục cấp phép.
+Từ khóa: Không có thông tin
+Mô tả: Thời hạn có hiệu lực của giấy phép thi công nút giao đấu nối vào đường địa phương đang khai thác:
+a) Đối với nút giao đấu nối thuộc dự án đầu tư công, đầu tư theo phương thức đối tác công tư, hiệu lực của giấy phép thi công nút giao đấu nối bằng tiến độ thực hiện dự án.
+b) Đối với các trường hợp không thuộc quy định tại điểm a khoản này, thời hạn có hiệu lực của giấy phép thi công nút giao đấu nối không quá 24 tháng kể từ ngày được cấp phép thi công nút giao đấu nối vào đường địa phương đang khai thác.
+c) Hết thời hạn có hiệu lực của giấy phép thi công mà chưa hoàn thành thi công nút giao đấu nối vào đường địa phương đang khai thác thì phải thực hiện lại từ đầu thủ tục cấp phép.

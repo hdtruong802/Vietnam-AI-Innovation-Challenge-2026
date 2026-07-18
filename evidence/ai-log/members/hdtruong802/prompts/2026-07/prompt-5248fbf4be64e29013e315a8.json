@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "record_type": "prompt_event",
+  "prompt_id": "prompt-5248fbf4be64e29013e315a8",
+  "occurred_at": "2026-07-18T06:46:51.461667Z",
+  "captured_at": "2026-07-18T06:46:51.462775Z",
+  "member_id": "hdtruong802",
+  "tool": "codex",
+  "event": "UserPrompt",
+  "prompt": "2",
+  "prompt_preview": "2",
+  "model": null,
+  "task_record": "local-20260718-backend-ci-merge",
+  "branch": "fix/local-20260718-backend-ci-merge",
+  "workspace_fingerprint": "29aa416e0bb250a6b4670ada7dbae02bdeb972e36fb01db0ae28310d10af8a5d",
+  "source": {
+    "session_hash": "6979be778fb5c5436a074e482b9c14ad7713dd4753a908559b38b29b0f36b567",
+    "adapter": "manual",
+    "adapter_version": "1"
+  },
+  "sanitization": {
+    "redacted": false,
+    "categories": []
+  },
+  "capture_warnings": []
+}

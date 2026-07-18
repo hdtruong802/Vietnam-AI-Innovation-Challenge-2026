@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014158
+Số quyết định: 709/QĐ-BXD
+Tên thủ tục: Thủ tục phê duyệt, chấp thuận quy hoạch, điều chỉnh quy hoạch đô thị và nông thôn do nhà đầu tư đã được lựa chọn để thực hiện dự án đầu tư tổ chức lập
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quy hoạch đô thị và nông thôn
+Trình tự thực hiện:
+  * a)	Đối với quy hoạch, điều chỉnh quy hoạch đô thị và nông thôn
+    -	Nhà đầu tư nộp hồ sơ quy hoạch hoặc hồ sơ điều chỉnh quy hoạch đã được thẩm định đến cấp phê duyệt quy hoạch.
+    -	Cấp phê duyệt căn cứ Tờ trình, hồ sơ quy hoạch hoặc hồ sơ điều chỉnh quy hoạch và báo cáo thẩm định để xem xét, phê duyệt quy hoạch hoặc phê duyệt điều chỉnh quy hoạch đô thị và nông thôn.
+    -	Thuyết minh và bản vẽ trong hồ sơ quy hoạch hoặc hồ sơ điều chỉnh quy hoạch đô thị và nông thôn sau khi được phê duyệt được cơ quan thẩm định kiểm tra, đóng dấu xác nhận.
+  * b)	Đối với quy hoạch tổng mặt bằng (quy hoạch chi tiết được lập theo quy trình rút gọn):
+    -	Nhà đầu tư gửi văn bản kèm theo hồ sơ quy hoạch tổng mặt bằng đến cấp phê duyệt quy hoạch chi tiết hoặc cơ quan được phân cấp, ủy quyền để đề nghị chấp thuận;
+    -	Trước khi gửi hồ sơ đề nghị chấp thuận quy hoạch tổng mặt bằng, nhà đầu tư phải thực hiện việc lấy ý kiến cộng đồng dân cư có liên quan (nếu có) về nội dung quy hoạch;
+    -	Cấp phê duyệt quy hoạch chi tiết hoặc cơ quan được phân cấp, ủy quyền xem xét, ban hành văn bản chấp thuận quy hoạch tổng mặt bằng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+
+Thành phần hồ sơ:
+  [ a)	Đối với quy hoạch, điều chỉnh quy hoạch đô thị và nông thôn: ]
+    - + Tờ trình đề nghị phê duyệt quy hoạch hoặc điều chỉnh quy hoạch đô thị và nông thôn;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hồ sơ bản giấy: Thuyết minh; Dự thảo Quyết định của cấp có thẩm quyền phê duyệt quy hoạch; Các văn bản, tài liệu liên quan; Bản vẽ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo thẩm định quy hoạch hoặc điều chỉnh quy hoạch đô thị và nông thôn của cơ quan thẩm định.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hồ sơ điện tử: Cơ sở dữ liệu số cơ bản là các tệp tin (file) bản vẽ và văn bản được in ấn thành một phần của hồ sơ quy hoạch bản giấy; Cơ sở dữ liệu số pháp lý bao gồm các tệp tin (file) được số hóa, quét (scan) từ hồ sơ bằng bản giấy hoặc chứng thực điện tử; Cơ sở dữ liệu số địa lý (GIS) quy hoạch đô thị và nông thôn bao gồm các tệp tin (file) được chuyển đổi thành dữ liệu địa lý từ cơ sở dữ liệu gốc.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b)	Đối với quy hoạch tổng mặt bằng (quy hoạch chi tiết được lập theo quy trình rút gọn): ]
+    - + Hồ sơ bản giấy: Thuyết minh; Các văn bản, tài liệu liên quan; Bản vẽ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản của nhà đầu tư gửi cấp phê duyệt quy hoạch chi tiết hoặc cơ quan được phân cấp, ủy quyền để đề nghị chấp thuận.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hồ sơ điện tử: Cơ sở dữ liệu số cơ bản là các tệp tin (file) bản vẽ và văn bản được in ấn thành một phần của hồ sơ quy hoạch tổng mặt bằng bản giấy; Cơ sở dữ liệu số pháp lý bao gồm các tệp tin (file) được số hóa, quét (scan) từ hồ sơ bằng bản giấy hoặc chứng thực điện tử; Cơ sở dữ liệu số địa lý (GIS) quy hoạch đô thị và nông thôn bao gồm các tệp tin (file) được chuyển đổi thành dữ liệu địa lý từ cơ sở dữ liệu gốc.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt quy hoạch, điều chỉnh quy hoạch; Văn bản chấp thuận quy hoạch tổng mặt bằng.
+Căn cứ pháp lý:
+  * QUY ĐỊNH VỀ PHÂN ĐỊNH THẨM QUYỀN CỦA CHÍNH QUYỀN ĐỊA PHƯƠNG 02 CẤP, PHÂN QUYỀN, PHÂN CẤP TRONG LĨNH VỰC QUY HOẠCH ĐÔ THỊ VÀ NÔNG THÔN (145/2025/NĐ-CP)
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 16/2025/TT-BXD ngày 30/6/2025 của Bộ trưởng Bộ Xây dựng quy định chi tiết một số điều của Luật Quy hoạch đô thị và nông thôn (43/2025/TT-BXD)
+  * Quy định chi tiết một số điều của Luật Quy hoạch đô thị và nông thôn. (178/2025/NĐ-CP)
+  * Luật Tổ chức chính quyền địa phương (72/2025/QH15)
+  * Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15 (47/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

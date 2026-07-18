@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000212
+Số quyết định: 2349/QĐ-NHNN
+Tên thủ tục: Thủ tục đề nghị chấp thuận thời hạn cụ thể của trái phiếu đặc biệt do Công ty Quản lý tài sản phát hành trên 5 năm
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    Bước 1: Tổ chức tín dụng Việt Nam đang thực hiện phương án cơ cấu lại theo đề án, phương án đã được cấp có thẩm quyền phê duyệt hoặc gặp khó khăn về tài chính, khi bán nợ xấu cho Công ty Quản lý tài sản lập hồ sơ theo quy định gửi Ngân hàng Nhà nước.
+    Bước 2: Trong thời hạn 15 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ của tổ chức tín dụng Việt Nam, Ngân hàng Nhà nước xem xét, có văn bản gửi tổ chức tín dụng Việt Nam, Công ty quản lý tài sản về thời hạn cụ thể trái phiếu đặc biệt trên cơ sở đề nghị của tổ chức tín dụng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - (iii) Kế hoạch trích lập dự phòng đối với trái phiếu đặc biệt theo thời hạn đề xuất phù hợp với kế hoạch kinh doanh của tổ chức tín dụng Việt Nam.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (ii) Số nợ xấu đã bán và dự kiến bán cho Công ty Quản lý tài sản, dự phòng rủi ro đã trích lập đối với trái phiếu đặc biệt và dự phòng rủi ro dự kiến sẽ trích lập đối với trái phiếu đặc biệt và dự phòng rủi ro dự kiến sẽ trích lập đối với trái phiếu đặc biệt tương ứng số nợ xấu dự kiến bán;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo giải trình của tổ chức tín dụng Việt Nam về thời hạn trái phiếu đặc biệt bao gồm các nội dung sau:
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (vi) Nội dung khác theo yêu cầu của Ngân hàng Nhà nước.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản đề nghị thời hạn cụ thể trái phiếu đặc biệt khi bán nợ xấu cho Công ty Quản lý tài sản;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (iv) Lý do, sự cần thiết đề xuất thời hạn cụ thể trái phiếu đặc biệt;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Thực trạng tài chính, hoạt động và các giới hạn, tỷ lệ an toàn hoạt động của tổ chức tín dụng Việt Nam;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (v) Tác động của việc bán nợ xấu cho Công ty quản lý tài sản nhận trái phiếu đặc biệt đến chi phí dự phòng rủi ro, tình hình tài chính, các tỷ lệ, giới hạn an toàn hoạt động của tổ chức tín dụng Việt Nam trong trường hợp áp dụng thời hạn là 05 năm của trái phiếu đặc biệt và trường hợp áp dụng thời hạn cụ thể của trái phiếu đặc biệt theo đề nghị;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước, 49 Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản của Ngân hàng Nhà nước Việt Nam về thời hạn cụ thể trái phiếu đặc biệt trên cơ sở đề nghị của tổ chức tín dụng
+Căn cứ pháp lý:
+  * Nghị định 34/2015/NĐ-CP (34/2015/NĐ-CP)
+  * Nghị định 53/2013/NĐ-CP (53/2013/NĐ-CP)
+  * Thông tư sửa đổi, bổ sung một số Điều của Thông tư số 19/2013/TT-NHNN ngày 06 tháng 9 năm 2013 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về việc mua, bán và xử lý nợ xấu của Công ty Quản lý tài sản của các tổ chức tín dụng Việt Nam (03/2024/TT-NHNN)
+  * Thông tư 19/2013/TT-NHNN (19/2013/TT-NHNN)
+  * Thông tư 14/2015/TT-NHNN (14/2015/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Tổ chức tín dụng Việt Nam đang thực hiện phương án cơ cấu lại theo đề án, phương án đã được cấp có thẩm quyền phê duyệt hoặc gặp khó khăn về tài chính.
+Từ khóa: Không có thông tin
+Mô tả: Tổ chức tín dụng Việt Nam đang thực hiện phương án cơ cấu lại theo đề án, phương án đã được cấp có thẩm quyền phê duyệt hoặc gặp khó khăn về tài chính.

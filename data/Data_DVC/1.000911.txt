@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000911
+Số quyết định: 1781/QĐ-BCT
+Tên thủ tục: Cấp sửa đổi, bổ sung Giấy phép chế biến nguyên liệu thuốc lá
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công nghiệp tiêu dùng
+Trình tự thực hiện:
+    Trường hợp có thay đổi các nội dung của giấy phép chế biến nguyên liệu thuốc lá, tổ chức, cá nhân phải lập 01 bộ hồ sơ gửi về cơ quan cấp phép.
+    - Trình tự, thủ tục cấp bổ sung, sửa đổi giấy phép:
+    + Tổ chức, cá nhân kinh doanh thuốc lá nộp 01 bộ hồ sơ xin đề nghị sửa đổi, bổ sung giấy phép chế biến nguyên liệu thuốc lá cho cơ quan nhà nước có thẩm quyền;
+    + Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền xem xét và cấp sửa đổi, bổ sung giấy phép chế biến nguyên liệu thuốc lá. Trường hợp tổ chức, cá nhân không đáp ứng được điều kiện theo quy định cơ quan có thẩm quyền cấp phép sẽ có văn bản trả lời từ chối cấp phép và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Trường hợp có thay đổi các nội dung của Giấy phép chế biến nguyên liệu thuốc lá, Doanh nghiệp nộp 01 bộ hồ sơ đề nghị cấp, bao gồm: ]
+    - -  Bản sao Giấy phép chế biến nguyên liệu thuốc lá đã được cấp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - -  Các tài liệu chứng minh nhu cầu sửa đổi, bổ sung.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - -  Văn bản đề nghị sửa đổi, bổ sung;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cấp sửa đổi, bổ sung Giấy phép chế biến nguyên liệu thuốc lá
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương (38/2025/TT-BCT)
+  * Quy định chi tiết một số điều của các Nghị định liên quan đến kinh doanh thuốc lá (57/2018/TT-BCT)
+  * Sửa đổi một số Nghị định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Công Thương (08/2018/NĐ-CP)
+  * sửa đổi, bổ sung một số điều của Nghị định số 67/2013/NĐ-CP ngày 27 tháng 6 năm 2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tác hại của thuốc lá về kinh doanh thuốc lá (106/2017/NĐ-CP)
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tác hại của thuốc lá về kinh doanh thuốc lá (67/2013/NĐ-CP)
+  * Sửa đổi, bổ sung một số điều của các Nghị định liên quan đến điều kiện đầu tư kinh doanh thuộc lĩnh vực quản lý nhà nước của Bộ Công Thương (17/2020/NĐ-CP)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 57/2018/TT-BCT ngày 26 tháng 12 năm 2018 của Bộ trưởng Bộ Công Thương quy định chi tiết một số điều của các Nghị định liên quan đến kinh doanh thuốc lá (28/2019/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

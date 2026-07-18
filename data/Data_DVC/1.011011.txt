@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011011
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Đề nghị áp dụng Thủ tục thỏa thuận song phương theo Hiệp định tránh đánh thuế hai lần
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    Bước 1: Người nộp thuế là đối tượng cư trú của Việt Nam đề nghị áp dụng thủ tục thỏa thuận song phương với cơ quan thuế Việt Nam khi nhận thấy việc giải quyết của cơ quan thuế nước ngoài đã hoặc sẽ làm cho người nộp thuế phải nộp thuế không đúng với quy định của Hiệp định thuế. Người nộp thuế là đối tượng cư trú của nước ngoài đề nghị áp dụng thủ tục thỏa thuận song phương với cơ quan thuế nước ngoài nơi người nộp thuế là đối tượng cư trú. Hướng dẫn này không bao gồm thủ tục thỏa thuận song phương đối với Thỏa thuận trước về phương pháp xác định giá tính thuế (APA). Người nộp thuế đề nghị áp dụng thủ tục thỏa thuận song phương trong thời hạn được quy định tại Điều Thủ tục thỏa thuận song phương của từng Hiệp định thuế. Người nộp thuế gửi hồ sơ đề nghị áp dụng thủ tục thỏa thuận song phương đến Cục Thuế
+    Bước 2. Cơ quan thuế tiếp nhận:
+    ++ Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc hồ sơ được gửi qua đường bưu chính: cơ quan thuế thực hiện tiếp nhận và giải quyết hồ sơ và trả kết quả theo quy định.
+    ++ Trường hợp hồ sơ được nộp đến cơ quan thuế thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - ++ Bản sao văn bản đề nghị áp dụng thủ tục thỏa thuận song phương và các tài liệu kèm theo trong trường hợp người đề nghị đã hoặc sẽ nộp đề nghị áp dụng thủ tục thỏa thuận song phương cho cơ quan thuế nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - ++ Văn bản đề nghị áp dụng thủ tục thỏa thuận song phương theo Mẫu số 01/DTA-MAP ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ++ Bản sao văn bản đề nghị khiếu nại và tài liệu kèm theo trong trường hợp người đề nghị đã hoặc sẽ nộp văn bản khiếu nại theo cơ chế giải quyết khiếu nại khác trong và ngoài Việt Nam và kết quả giải quyết khiếu nại (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - ++ Báo cáo tài chính và tờ khai thuế liên quan đến đề nghị áp dụng thủ tục thỏa thuận song phương
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ++ Tài liệu liên quan đến thông báo xác định nghĩa vụ thuế của cơ quan thuế nước ngoài
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ++ Hồ sơ xác định giá giao dịch liên kết của người nộp thuế của kỳ tính thuế đề nghị áp dụng thủ tục thỏa thuận song phương (đối với thủ tục thỏa thuận song phương về xác định giá chuyển nhượng);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ++ Tài liệu chứng minh việc nộp thuế trong trường hợp người đề nghị đã nộp số thuế liên quan đến đề nghị áp dụng thủ tục thỏa thuận song phương;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - ++ Thông tin, tài liệu, hợp đồng, mô tả chi tiết thực tế về giao dịch, hoạt động liên quan đến việc xác định nghĩa vụ thuế và cơ sở lập luận của người đề nghị áp dụng MAP về điều khoản Hiệp định thuế mà cơ quan thuế nước ngoài áp dụng chưa phù hợp với quy định của Hiệp định thuế, phân tích của người đề nghị liên quan đến việc xác định nghĩa vụ thuế
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cục Thuế tiếp nhận đề nghị áp dụng thủ tục thỏa thuận song phương của người nộp thuế là đối tượng cư trú của Việt Nam và thực hiện thủ tục thỏa thuận song phương với cơ quan thuế nước ngoài theo quy định của Hiệp định thuế
+Căn cứ pháp lý:
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009538
+Số quyết định: 1082/QĐ-BTC
+Tên thủ tục: Tạm ngừng hoạt động công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+  * Nộp hồ sơ
+    Bước 1: Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam gửi hồ sơ đề nghị chấp thuận tạm ngừng hoạt động đến Ủy ban Chứng khoán Nhà nước.
+    Bước 2: Ủy ban Chứng khoán Nhà nước (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, Ủy ban Chứng khoán Nhà nước hướng dẫn bổ sung hồ sơ theo quy định.
+    Bước 3: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban Chứng khoán Nhà nước xem xét tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ cần sửa đổi, bổ sung, Ủy ban Chứng khoán Nhà nước có văn bản gửi công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    Bước 4: Trong thời hạn 60 ngày kể từ ngày Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam hoàn thiện hồ sơ và gửi đến Ủy ban Chứng khoán Nhà nước.
+    Bước 5: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, Ủy ban Chứng khoán Nhà nước ra quyết định chấp thuận tạm ngừng hoạt động cho trụ sở chính, chi nhánh, phòng giao dịch của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ
+
+Thành phần hồ sơ:
+    - Quyết định của cấp có thẩm quyền về việc tạm ngừng hoạt động
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phương án xử lý các hợp đồng đã ký với khách hàng còn hiệu lực, biên bản thanh lý các hợp đồng còn hiệu lực ký với các khách hàng ủy thác hoặc các tài liệu hợp lệ xác nhận công ty quản lý quỹ đã hoàn thành việc bàn giao quyền, trách nhiệm quản lý tài sản ủy thác cho công ty quản lý quỹ thay thế
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ...Tài liệu được lập bằng tiếng nước ngoài phải được gửi kèm bản dịch chứng thực sang tiếng Việt bởi cơ quan có thẩm quyền; những tài liệu do cơ quan có thẩm quyền nước ngoài cấp hoặc xác nhận, phải được hợp pháp hóa lãnh sự trong thời hạn 06 tháng tính đến ngày cơ quan tiếp nhận hồ sơ, tài liệu báo cáo nhận được tài liệu.; Thành phần hồ sơ trong thủ tục hành chính này được miễn trừ trong trường hợp tài liệu đó đã được gửi tới Ủy ban Chứng khoán Nhà nước theo quy định về báo cáo và công bố thông tin.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Giấy đề nghị. ; Thành phần hồ sơ trong thủ tục hành chính này được miễn trừ trong trường hợp tài liệu đó đã được gửi tới Ủy ban Chứng khoán Nhà nước theo quy định về báo cáo và công bố thông tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Văn bản từ chối (nêu rõ lý do)., Quyết định chấp thuận tạm ngừng hoạt động cho trụ sở chính, chi nhánh, phòng giao dịch của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam
+Căn cứ pháp lý:
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+
+Yêu cầu, điều kiện thực hiện: 1)Việc tạm ngừng hoạt động của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam không được ảnh hưởng đến quyền lợi khách hàng (nếu có).
+2) Thời gian tạm ngừng hoạt động tại trụ sở chính, chi nhánh, phòng giao dịch công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam không quá 90 ngày.
+3) Có phương án tạm ngừng hoạt động, phương án xử lý các hợp đồng đã ký với khách hàng còn hiệu lực đã được cấp có thẩm quyền thông qua.
+Từ khóa: Không có thông tin
+Mô tả: 1)Việc tạm ngừng hoạt động của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam không được ảnh hưởng đến quyền lợi khách hàng (nếu có).
+2) Thời gian tạm ngừng hoạt động tại trụ sở chính, chi nhánh, phòng giao dịch công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam không quá 90 ngày.
+3) Có phương án tạm ngừng hoạt động, phương án xử lý các hợp đồng đã ký với khách hàng còn hiệu lực đã được cấp có thẩm quyền thông qua.

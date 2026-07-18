@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014768
+Số quyết định: 76/QĐ-NHNN
+Tên thủ tục: Thủ tục cấp đổi Giấy phép đối với tổ chức tài chính vi mô
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Tổ chức tài chính vi mô có nhu cầu cấp đổi Giấy phép lập hồ sơ theo quy định gửi Ngân hàng Nhà nước;
+    + Bước 2: Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ của tổ chức tài chính vi mô, Ngân hàng Nhà nước thực hiện việc cấp đổi Giấy phép (bao gồm cả bổ sung nội dung hoạt động đồng thời với cấp đổi Giấy phép) theo đề nghị cho tổ chức tài chính vi mô. Trường hợp từ chối, Ngân hàng Nhà nước trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 100000 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 100000 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 100000 VNĐ ()
+
+Thành phần hồ sơ:
+    - 2. Hồ sơ đề nghị thay đổi nội dung hoạt động (trường hợp tổ chức tài chính vi mô đề nghị bổ sung nội dung hoạt động đồng thời với cấp đổi Giấy phép):
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 1. Đơn đề nghị cấp đổi Giấy phép theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Thông tư số 54/2025/TT-NHNN.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Nghị quyết, quyết định của Hội đồng thành viên thông qua việc thay đổi nội dung hoạt động;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (ii) Phương án triển khai nội dung hoạt động đề nghị bổ sung, trong đó tối thiểu bao gồm các nội dung: Mô tả nội dung hoạt động thay đổi, quy trình thực hiện, phân tích hiệu quả và biện pháp phòng ngừa, kiểm soát rủi ro, kế hoạch kinh doanh, kế hoạch triển khai thực hiện;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (iii) Dự thảo quy định nội bộ về quy trình triển khai nghiệp vụ đảm bảo quản lý và kiểm soát rủi ro phát sinh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép cấp đổi thành lập và hoạt động tổ chức tài chính vi mô, Văn bản từ chối cấp đổi Giấy phép đối với tổ chức tài chính vi mô
+Căn cứ pháp lý:
+  * Thông tư quy định về hồ sơ, trình tự cấp Giấy phép, tổ chức và hoạt động của  tổ chức tài chính vi mô (Thông tư số 54/2025/TT-NHNN)
+  * Quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép thành lập và hoạt động của tổ chức tín dụng; giấy phép thành lập chi nhánh ngân hàng nước ngoài, văn phòng đại diện của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng; giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán cho các tổ chức không phải là ngân hàng (150/2016/TT-BTC)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: + Ngân hàng Nhà nước không thực hiện cấp đổi đối với các nội dung hoạt động mà tổ chức tài chính vi mô không được phép thực hiện theo quy định của pháp luật tại thời điểm cấp đổi.
++ Ngân hàng Nhà nước điều chỉnh tên nội dung hoạt động được phép thực hiện phù hợp với quy định của Luật Các tổ chức tín dụng. 
++ Trường hợp tổ chức tài chính vi mô đề nghị bổ sung nội dung hoạt động vào Giấy phép đồng thời với cấp đổi Giấy phép, Ngân hàng Nhà nước sẽ xem xét cấp đổi Giấy phép trong đó bao gồm nội dung bổ sung theo đề nghị trên cơ sở tổ chức tài chính vi mô đáp ứng đầy đủ hồ sơ theo quy định tại khoản 2 Điều 10 Thông tư số 54/2025/TT-NHNN và hồ sơ đề nghị thay đổi nội dung hoạt động theo quy định của Thống đốc Ngân hàng Nhà nước về những thay đổi phải được Ngân hàng Nhà nước chấp thuận của tổ chức tài chính vi mô.
+Từ khóa: Không có thông tin
+Mô tả: + Ngân hàng Nhà nước không thực hiện cấp đổi đối với các nội dung hoạt động mà tổ chức tài chính vi mô không được phép thực hiện theo quy định của pháp luật tại thời điểm cấp đổi.
++ Ngân hàng Nhà nước điều chỉnh tên nội dung hoạt động được phép thực hiện phù hợp với quy định của Luật Các tổ chức tín dụng. 
++ Trường hợp tổ chức tài chính vi mô đề nghị bổ sung nội dung hoạt động vào Giấy phép đồng thời với cấp đổi Giấy phép, Ngân hàng Nhà nước sẽ xem xét cấp đổi Giấy phép trong đó bao gồm nội dung bổ sung theo đề nghị trên cơ sở tổ chức tài chính vi mô đáp ứng đầy đủ hồ sơ theo quy định tại khoản 2 Điều 10 Thông tư số 54/2025/TT-NHNN và hồ sơ đề nghị thay đổi nội dung hoạt động theo quy định của Thống đốc Ngân hàng Nhà nước về những thay đổi phải được Ngân hàng Nhà nước chấp thuận của tổ chức tài chính vi mô.

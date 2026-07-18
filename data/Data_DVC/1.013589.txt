@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013589
+Số quyết định: 1909/QĐ-BQP
+Tên thủ tục: Thủ tục sửa đổi, bổ sung hồ sơ biên phòng cửa khẩu biên giới đất liền
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý biên giới
+Trình tự thực hiện:
+    Bước 1: Người làm thủ tục khai báo sửa đổi, bổ sung sau khi phát hiện sai sót hoặc cập nhật được thông tin cần khai báo bổ sung trong hồ sơ điện tử hoặc Biên phòng cửa khẩu yêu cầu khai báo sửa đổi, bổ sung sau khi phát hiện khai báo thủ tục biên phòng điện tử của người làm thủ tục không đầy đủ, không chính xác.
+    Bước 2: Chậm nhất 01 giờ kể từ khi nhận được yêu cầu sửa đổi, bổ sung của Biên phòng cửa khẩu biên giới đất liền hoặc ngay sau khi phát hiện sai sót hoặc cập nhật được thông tin cần khai báo bổ sung trong hồ sơ điện tử, người làm thủ tục phải khai báo Bản khai sửa đổi, bổ sung và gửi cho Biên phòng cửa khẩu biên giới đất liền qua Cổng thông tin thủ tục biên phòng điện tử.
+    Bước 3: Chậm nhất 01 giờ kể từ khi tiếp nhận Bản khai sửa đổi, bổ sung của người làm thủ tục, Biên phòng cửa khẩu biên giới đất liền gửi Xác nhận hoàn thành khai báo sửa đổi, bổ sung cho người làm thủ tục qua Cổng thông tin thủ tục biên phòng điện tử.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản khai sửa đổi, bổ sung nội dung khai báo thủ tục biên phòng điện tử
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Yêu cầu sửa đổi, bổ sung nội dung khai báo thủ tục biên phòng điện tử
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Đội Thủ tục thuộc Biên phòng cửa khẩu biên giới đất liền
+Cơ quan có thẩm quyền: Đội Thủ tục thuộc Biên phòng cửa khẩu biên giới đất liền
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bản điện tử xác nhận hoàn thành khai báo thủ tục biên phòng điện tử đối với hồ sơ điện tử sửa đổi, bổ sung
+Căn cứ pháp lý:
+  * Quyết định số 31/2025/QĐ-TTg của Thủ tướng Chính phủ: Sửa đổi, bổ sung một số điều các Quyết định của Thủ tướng Chính phủ về thực hiện thủ tục biên phòng điện tử tại các cửa khẩu do Bộ Quốc phòng quản lý (31/2025/QĐ-TTg)
+  * Quyết định 15/2019/QĐ-TTg - Về việc thực hiện thủ tục biên phòng điện tử tại các cửa khẩu do Bộ Quốc phòng quản lý (15/2019/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

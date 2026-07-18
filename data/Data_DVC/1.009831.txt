@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009831
+Số quyết định: 862/QĐ-BTP
+Tên thủ tục: Cấp lại thẻ giám định viên tư pháp cấp Trung ương
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giám định tư pháp
+Trình tự thực hiện:
+    Bộ trưởng Bộ Công an, Bộ trưởng Bộ Quốc phòng xem xét, đề nghị Bộ trưởng Bộ Y tế cấp lại thẻ giám định viên pháp y thuộc thẩm quyền quản lý.
+    Bộ trưởng Bộ Quốc phòng, Viện trưởng Viện kiểm sát nhân dân tối cao xem xét, đề nghị Bộ trưởng Bộ Công an cấp lại thẻ giám định viên kỹ thuật hình sự thuộc thẩm quyền quản lý.
+    Bộ trưởng, Thủ trưởng cơ quan ngang bộ cấp lại thẻ giám định viên tư pháp hoạt động tại các cơ quan ở trung ương ở lĩnh vực thuộc thẩm quyền quản lý theo đề nghị của Thủ trưởng đơn vị thuộc bộ, cơ quan ngang bộ được giao quản lý hoạt động giám định tư pháp.
+    Trong thời hạn 10 ngày làm việc, kể từ ngày tiếp nhận hồ sơ đề nghị cấp lại thẻ giám định viên tư pháp, Thủ trưởng đơn vị thuộc bộ, cơ quan ngang bộ được phân công làm đầu mối quản lý chung công tác giám định tư pháp trình Bộ trưởng, Thủ trưởng cơ quan ngang bộ quyết định cấp lại thẻ giám định viên tư pháp.
+    Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đề nghị cấp lại thẻ giám định viên tư pháp, Bộ trưởng, Thủ trưởng cơ quan ngang bộ quyết định cấp lại thẻ giám định viên tư pháp; trường hợp từ chối thì phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị cấp lại thẻ giám định viên tư pháp. Trường hợp thẻ bị mất hoặc có thay đổi nội dung ghi trên thẻ thì đơn đề nghị cấp lại thẻ giám định viên tư pháp phải có xác nhận của cơ quan, đơn vị chủ quản.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Thẻ giám định viên tư pháp đang sử dụng trong trường hợp có sự thay đổi thông tin đã được ghi trên thẻ; thẻ giám định viên tư pháp trong trường hợp thẻ cũ bị hỏng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ảnh màu chân dung cỡ 2cm x 3cm (chụp trong thời gian 6 tháng gần nhất) của người đề nghị cấp lại thẻ giám định viên tư pháp.
+      Số lượng: Bản chính: 2, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thẻ giám định viên tư pháp
+Căn cứ pháp lý:
+  * Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp năm 2020 (56/2020/QH14)
+  * Nghị định số 157/2020/NĐ-CP ngày 31/12/2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 85/2013/NĐ-CP ngày 29/7/2013 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Giám định tư pháp (157/2020/NĐ-CP)
+  * Thông tư sửa đổi một số thủ tục hành chính quy định tại các thông tư trong lĩnh vực bổ trợ tư pháp (30/2025/TT-BTP)
+  * Luật Giám định tư pháp năm 2012 (13/2012/QH13)
+  * Nghị định số 85/2013/NĐ-CP ngày 29/7/2013 của Chính phủ quy định chi tiết và biện pháp thi hành Luật giám định tư pháp (Nghị định số 85/2013/NĐ-CP)
+  * Thông tư số 11/2020/TT- BTP ngày 31/12/2020 của Bộ trưởng Bộ Tư pháp quy định về mẫu thẻ, trình tự, thủ tục cấp mới, cấp lại thẻ giám định viên tư pháp (11/2020/TT-BTP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

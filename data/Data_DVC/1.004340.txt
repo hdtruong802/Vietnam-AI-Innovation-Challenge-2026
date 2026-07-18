@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004340
+Số quyết định: 1198/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục đăng ký hoạt động xuất bản xuất bản phẩm điện tử
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+    - Nhà xuất bản phải có đề án hoạt động xuất bản/phát hành xuất bản phẩm điện tử gửi Cục Xuất bản, In và Phát hành;
+    - Trong thời hạn 15 ngày, kể từ ngày nhận được đề án, Cục Xuất bản, In và Phát hành xem xét, có ý kiến thẩm định đề án bằng văn bản. Trường hợp đề án không đúng mẫu hoặc không đủ thông tin theo mẫu quy định thì phải trả lại để nhà xuất bản, tổ chức, cá nhân bổ sung hoàn thiện;
+    - Trong thời hạn 60 ngày, kể từ ngày nhận được văn bản đồng ý của Cục Xuất bản, In và Phát hành, nhà xuất bản phải triển khai thực hiện đề án theo ý kiến thẩm định của Cục Xuất bản, In và Phát hành và có hồ sơ đăng ký hoạt động xuất bản xuất bản phẩm điện tử gửi Cục Xuất bản, In và Phát hành;
+    - Trong thời hạn 11 ngày làm việc, kể từ ngày nhận được hồ sơ đăng ký hoạt động xuất bản xuất bản phẩm điện tử, Cục Xuất bản, In và Phát hành có trách nhiệm kiểm tra việc triển khai đề án và có văn bản xác nhận đăng ký hoạt động xuất bản xuất bản phẩm điện tử; trường hợp không xác nhận đăng ký phải có thông báo bằng văn bản và nêu rõ lý do.
+    - Nhà xuất bản chỉ được hoạt động xuất bản xuất bản phẩm điện tử sau khi có văn bản xác nhận đăng ký của Cục Xuất bản, In và Phát hành.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không có)
+
+Thành phần hồ sơ:
+    - (1) Đơn đăng ký hoạt động xuất bản xuất bản phẩm điện tử (Mẫu  số 43 Phụ lục kèm theo Thông tư số 23/2023/TT-BTTTT)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Công dân Việt Nam
+Cơ quan thực hiện: Cục Xuất bản, In và Phát hành
+Cơ quan có thẩm quyền: Cục Xuất bản, In và Phát hành
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy xác nhận đăng ký hoạt động xuất bản xuất bản phẩm điện tử
+Căn cứ pháp lý:
+  * Sửa đổi một số Nghị định liên quan đến điều kiện đầu tư kinh doanh và thủ tục hành chính trong lĩnh vực thông tin và truyền thông (150/2018/NĐ-CP)
+  * Luật 19/2012/QH13 (19/2012/QH13)
+  * Nghị quyết của Chính phủ quy định cắt giảm, đơn giản hóa thủ tục hành chính, quy định liên quan đến hoạt động sản xuất, kinh doanh (66.16/2026/NQ-CP)
+  * Nghị quyết số 66.18/2026/NQ-CP của Chính phủ: Phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (66.18/2026/NQ-CP)
+  * Thông tư 01/2020/TT-BTTTT (01/2020/TT-BTTTT)
+  * 23/2023/TT-BTTTT (23/2023/TT-BTTTT)
+  * Nghị định 195/2013/NĐ-CP (195/2013/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: (1) Điều kiện về thiết bị, công nghệ để xuất bản, phát hành xuất bản phẩm điện tử:
+- Có máy chủ đặt tại Việt Nam;
+- Có đường truyền kết nối Internet được đăng ký hợp pháp để xuất bản, phát hành xuất bản phẩm điện tử trên mạng Internet;
+- Có giải pháp kỹ thuật để kiểm soát việc xuất bản, phát hành xuất bản phẩm điện tử, bao gồm việc phát hành, loại bỏ hoặc khôi phục để phát hành;
+- Có hệ thống lưu trữ đảm bảo các yêu cầu kỹ thuật để lưu trữ các xuất bản phẩm điện tử đã xuất bản, phát hành; xuất bản phẩm điện tử được lưu trữ phải bảo đảm yêu cầu về tính xác thực, toàn vẹn, an toàn thông tin, có khả năng truy cập ngay từ khi được tạo lập;
+(2) Tiêu chuẩn về nhân lực kỹ thuật để điều hành, quản lý quá trình xuất bản, phát hành xuất bản phẩm điện tử:
+- Được đào tạo về công nghệ thông tin;
+(3) Biện pháp kỹ thuật để điều hành, quản lý quá trình xuất bản, phát hành xuất bản phẩm điện tử :
+- Có giải pháp kỹ thuật chống xâm nhập trái phép qua hệ thống mạng Internet;
+- Có quy trình nghiệp vụ xử lý sự cố về an toàn, an ninh thông tin;
+- Có quy trình nghiệp vụ để xác định việc can thiệp làm thay đổi nội dung xuất bản phẩm điện tử;
+- Có giải pháp kỹ thuật theo quy định về kiểm soát bản quyền số đối với nhà cung cấp nội dung, các kênh phân phối nội dung, cụ thể như sau:
++ Có thiết bị, phần mềm kỹ thuật chống can thiệp, thay đổi và sao chép trái phép một phần hoặc toàn bộ nội dung xuất bản phẩm điện tử;
++ Có biện pháp kỹ thuật xác thực tính hợp pháp của người sử dụng khi truy cập và sử dụng xuất bản phẩm điện tử và phải bảo đảm tính riêng tư, an toàn và bảo vệ thông tin cá nhân;
+(4) Tên miền Internet Việt Nam để thực hiện xuất bản điện tử, phát hành xuất bản phẩm điện tử trên Internet phải là tên miền ".vn"
+Từ khóa: Không có thông tin
+Mô tả: (1) Điều kiện về thiết bị, công nghệ để xuất bản, phát hành xuất bản phẩm điện tử:
+- Có máy chủ đặt tại Việt Nam;
+- Có đường truyền kết nối Internet được đăng ký hợp pháp để xuất bản, phát hành xuất bản phẩm điện tử trên mạng Internet;
+- Có giải pháp kỹ thuật để kiểm soát việc xuất bản, phát hành xuất bản phẩm điện tử, bao gồm việc phát hành, loại bỏ hoặc khôi phục để phát hành;
+- Có hệ thống lưu trữ đảm bảo các yêu cầu kỹ thuật để lưu trữ các xuất bản phẩm điện tử đã xuất bản, phát hành; xuất bản phẩm điện tử được lưu trữ phải bảo đảm yêu cầu về tính xác thực, toàn vẹn, an toàn thông tin, có khả năng truy cập ngay từ khi được tạo lập;
+(2) Tiêu chuẩn về nhân lực kỹ thuật để điều hành, quản lý quá trình xuất bản, phát hành xuất bản phẩm điện tử:
+- Được đào tạo về công nghệ thông tin;
+(3) Biện pháp kỹ thuật để điều hành, quản lý quá trình xuất bản, phát hành xuất bản phẩm điện tử :
+- Có giải pháp kỹ thuật chống xâm nhập trái phép qua hệ thống mạng Internet;
+- Có quy trình nghiệp vụ xử lý sự cố về an toàn, an ninh thông tin;
+- Có quy trình nghiệp vụ để xác định việc can thiệp làm thay đổi nội dung xuất bản phẩm điện tử;
+- Có giải pháp kỹ thuật theo quy định về kiểm soát bản quyền số đối với nhà cung cấp nội dung, các kênh phân phối nội dung, cụ thể như sau:
++ Có thiết bị, phần mềm kỹ thuật chống can thiệp, thay đổi và sao chép trái phép một phần hoặc toàn bộ nội dung xuất bản phẩm điện tử;
++ Có biện pháp kỹ thuật xác thực tính hợp pháp của người sử dụng khi truy cập và sử dụng xuất bản phẩm điện tử và phải bảo đảm tính riêng tư, an toàn và bảo vệ thông tin cá nhân;
+(4) Tên miền Internet Việt Nam để thực hiện xuất bản điện tử, phát hành xuất bản phẩm điện tử trên Internet phải là tên miền ".vn"

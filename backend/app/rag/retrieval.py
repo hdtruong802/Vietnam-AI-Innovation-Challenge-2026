@@ -89,7 +89,15 @@ class ApprovedSourceRegistry:
 
     def __init__(self, chunks: Iterable[EvidenceChunk]) -> None:
         self._chunks = tuple(chunks)
-        self._approved = tuple(chunk for chunk in self._chunks if chunk.review_status == "approved")
+        self._approved = tuple(
+            chunk
+            for chunk in self._chunks
+            if (
+                chunk.review_status == "approved"
+                and bool(chunk.source_refs)
+                and chunk.jurisdiction != "unknown"
+            )
+        )
 
     @property
     def selected_count(self) -> int:

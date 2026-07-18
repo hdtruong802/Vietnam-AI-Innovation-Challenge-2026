@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011033
+Số quyết định: 1649/QĐ-BNNMT
+Tên thủ tục: Cấp giấy phép nhập khẩu sản phẩm xử lý chất thải chăn nuôi có chứa chất mới để khảo nghiệm, nghiên cứu khoa học, trưng bày tại hội chợ, triển lãm, làm mẫu phân tích tại phòng thử nghiệm hoặc sản xuất, gia công nhằm mục đích xuất khẩu
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chăn nuôi
+Trình tự thực hiện:
+    Trình tự thực hiện:
+    - Bước 1: Tổ chức, cá nhân gửi 01 bộ hồ sơ đến cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thủ tục hành chính.
+    + Trường hợp nộp hồ sơ trực tiếp: Tại thời điểm tiếp nhận hồ sơ, cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thủ tục hành chính kiểm tra thành phần hồ sơ và tiếp nhận hồ sơ đầy đủ thành phần; trường hợp hồ sơ chưa đầy đủ thành phần thì trả lại tổ chức, cá nhân để bổ sung, hoàn thiện hồ sơ.
+    + Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thủ tục hành chính xem xét tính đầy đủ; trường hợp hồ sơ chưa đầy đủ theo quy định thì cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thủ tục hành chính thông báo cho tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ.
+    - Bước 2: Thẩm định nội dung hồ sơ:
+    Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thủ tục hành chính cấp Giấy phép nhập khẩu sản phẩm xử lý chất thải chăn nuôi theo Mẫu số 15.MTCN Phụ lục I ban hành kèm theo Nghị định số 32/2026/NĐ-CP; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Kiểm tra tính đầy đủ của hồ sơ:
++ Trường hợp nộp hồ sơ trực tiếp: Tại thời điểm tiếp nhận hồ sơ.
++ Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn 01 ngày làm việc.
+- Thẩm định nội dung hồ sơ: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Kiểm tra tính đầy đủ của hồ sơ:
++ Trường hợp nộp hồ sơ trực tiếp: Tại thời điểm tiếp nhận hồ sơ.
++ Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn 01 ngày làm việc.
+- Thẩm định nội dung hồ sơ: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Kiểm tra tính đầy đủ của hồ sơ:
++ Trường hợp nộp hồ sơ trực tiếp: Tại thời điểm tiếp nhận hồ sơ.
++ Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua môi trường mạng: Trong thời hạn 01 ngày làm việc.
+- Thẩm định nội dung hồ sơ: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị nhập khẩu theo Mẫu số 13.MTCN Phụ lục I ban hành kèm theo Nghị định số 32/2026/NĐ-CP ngày 21/01/2026 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực chăn nuôi và thú y.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Đề cương nghiên cứu hoặc đề cương khảo nghiệm (theo Mẫu số 14.MTCN Phụ lục I ban hành kèm theo Nghị định số 32/2026/NĐ-CP ngày 21/01/2026 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực chăn nuôi và thú y) đối với trường hợp nhập khẩu để nghiên cứu, khảo nghiệm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng sản xuất, gia công sản phẩm xử lý chất thải chăn nuôi nhằm mục đích xuất khẩu phù hợp với quy định của pháp luật Việt Nam về nhập khẩu hàng hóa để sản xuất, gia công nhằm mục đích xuất khẩu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản thỏa thuận dịch vụ phân tích giữa một bên là phòng thử nghiệm hoặc doanh nghiệp trong nước với một bên là phòng thử nghiệm hoặc doanh nghiệp hoặc cơ quan quản lý về sản phẩm xử lý chất thải chăn nuôi của nước xuất khẩu, trong đó có nội dung cam kết mẫu sản phẩm nhập khẩu không dùng cho hoạt động thương mại đối với trường hợp nhập khẩu để làm mẫu phân tích tại phòng thử nghiệm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản chứng minh về việc tổ chức, tham gia hội chợ, triển lãm đối với trường hợp nhập khẩu để giới thiệu, trưng bày tại hội chợ, triển lãm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép nhập khẩu sản phẩm xử lý chất thải chăn nuôi (theo Mẫu số 15.MTCN Phụ lục I ban hành kèm theo Nghị định số 32/2026/NĐ-CP ngày 21/01/2026 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực chăn nuôi và thú y).
+Căn cứ pháp lý:
+  * Nghị định sửa đổi, bổ sung một số điều của Nghị định số 13/2020/NĐ-CP ngày 21 tháng 01 năm 2020 của Chính phủ hướng dẫn chi tiết Luật Chăn nuôi (46/2022/NĐ-CP)
+  * Nghị định số 32/2026/NĐ-CP ngày 21 tháng 01 năm 2026 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực chăn nuôi và thú y. (số 32/2026/NĐ-CP)
+  * Nghị định của Chính phủ hướng dẫn chi tiết Luật Chăn nuôi. (13/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

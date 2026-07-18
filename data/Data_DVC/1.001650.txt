@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001650
+Số quyết định: 1230/QĐ-NHNN
+Tên thủ tục: Thủ tục tự nguyện chấm dứt hoạt động, giải thể chi nhánh của tổ chức tín dụng phi ngân hàng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    Bước 1: Tổ chức tín dụng phi ngân hàng lập 01 bộ hồ sơ theo quy định đề nghị chấp thuận chấm dứt hoạt động, giải thể chi nhánh theo quy định gửi Ngân hàng Nhà nước chi nhánh nơi đặt trụ sở chi nhánh;
+    Bước 2: Trong thời hạn 11 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ đề nghị chấp thuận chấm dứt hoạt động, giải thể chi nhánh của tổ chức tín dụng phi ngân hàng, Ngân hàng Nhà nước chi nhánh có văn bản chấp thuận hoặc không chấp thuận đề nghị của tổ chức tín dụng phi ngân hàng; trường hợp không chấp thuận, văn bản phải nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Văn bản của tổ chức tín dụng phi ngân hàng đề nghị chấm dứt hoạt động, giải thể chi nhánh, trong đó nêu rõ: lý do chấm dứt hoạt động, giải thể; tên, địa chỉ của chi nhánh chấm dứt hoạt động, giải thể và cam kết giải quyết các tài sản, quyền, nghĩa vụ và các lợi ích liên quan của chi nhánh chấm dứt hoạt động, giải thể;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Phương án giải quyết các tài sản, quyền, nghĩa vụ và các lợi ích liên quan của chi nhánh chấm dứt hoạt động, giải thể.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Nghị quyết của Hội đồng quản trị hoặc Hội đồng thành viên của tổ chức tín dụng phi ngân hàng về việc chấm dứt hoạt động, giải thể chi nhánh hoặc văn bản của cấp có thẩm quyền khác theo quy định tại Điều lệ của tổ chức tín dụng phi ngân hàng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận chấm dứt hoạt động, giải thể chi nhánh của tổ chức tín dụng phi ngân hàng, Văn bản không chấp thuận việc tổ chức tín dụng phi ngân hàng chấm dứt hoạt động, giải thể chi nhánh
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của một số Thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh,  đơn giản hóa thủ tục hành chính (Thông tư số 69/2025/TT-NHNN)
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư quy định về hồ sơ, thủ tục chấp thuận những thay đổi và mạng lưới hoạt động của tổ chức tín dụng phi ngân hàng (Thông tư số 30/2024/TT-NHNN)
+  * Quy định về mạng lưới hoạt động của tổ chức tín dụng phi ngân hàng (53/2018/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Thông tư số 13/2026/TT-NHNN của Thống đốc Ngân hàng Nhà nước sửa đổi, bổ sung một số điều của Thông tư số 53/2018/TT-NHNN quy định về mạng lưới hoạt động của tổ chức tín dụng phi ngân hàng. (Thông tư số 13/2026/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

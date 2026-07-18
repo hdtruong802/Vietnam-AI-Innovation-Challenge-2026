@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010818
+Số quyết định: 556/QĐ-BNV
+Tên thủ tục: Công nhận và giải quyết chế độ người hoạt động cách mạng, kháng chiến, bảo vệ tổ quốc, làm nghĩa vụ quốc tế bị địch bắt tù, đày
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    Bước 1: Cá nhân lập bản khai theo Mẫu số 10 Phụ lục I Nghị định số 131/2021/NĐ-CP kèm một trong các giấy tờ quy định tại Điều 60 Nghị định số 131/2021/NĐ-CP gửi đến Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. Trường hợp chết mà chưa được hưởng chế độ ưu đãi thì kèm theo giấy báo tử hoặc trích lục khai tử.
+    Bước 2: Ủy ban nhân dân cấp xã trong thời gian 05 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm kiểm tra, xác nhận bản khai và lập danh sách những trường hợp đủ điều kiện kèm giấy tờ theo quy định tại khoản 1 Điều 62 Nghị định số 131/2021/NĐ-CP gửi Sở Nội vụ.
+    Bước 3: Sở Nội vụ trong thời gian 07 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm kiểm tra, ban hành quyết định công nhận và trợ cấp ưu đãi theo Mẫu số 66 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. 12 ngày làm việc kể từ ngày nhận đủ hồ sơ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. 12 ngày làm việc kể từ ngày nhận đủ hồ sơ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. 12 ngày làm việc kể từ ngày nhận đủ hồ sơ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+
+Thành phần hồ sơ:
+    - - Giấy báo tử hoặc trích lục khai tử (đối với trường hợp chết mà chưa được hưởng chế độ ưu đãi).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Một trong các giấy tờ chứng minh có tham gia cách mạng, kháng chiến bảo vệ Tổ quốc, làm nghĩa vụ quốc tế và thời gian, địa điểm bị tù, đày như sau:         + Bản sao được chứng thực từ một trong các giấy tờ do cơ quan có thẩm quyền ban hành, xác nhận từ ngày 31/12/1994 trở về trước: lý lịch cán bộ, lý lịch đảng viên, lý lịch quân nhân, lý lịch công an; hồ sơ khen thưởng tổng kết thành tích tham gia kháng chiến; các giấy tờ, tài liệu khác.         + Bản sao được chứng thực từ hồ sơ hưởng chế độ Bảo hiểm xã hội.         + Bản trích lục hồ sơ liệt sĩ.          + Giấy xác nhận của cơ quan, đơn vị có thẩm quyền thuộc Bộ Quốc phòng, Bộ Công an về thời gian tù và nơi bị tù.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Bản khai theo Mẫu số 10 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Nội vụ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về việc trợ cấp ưu đãi người hoạt động cách mạng, kháng chiến, bảo vệ tổ quốc và làm nghĩa vụ quốc tế bị địch bắt tù, đày
+Căn cứ pháp lý:
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Nội vụ (129/2025/NĐ-CP)
+  * QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THI HÀNH PHÁP LỆNH ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Nghị định số 131/2021/NĐ-CP)
+  * ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Pháp lệnh số: 02/2020/UBTVQH14)
+
+Yêu cầu, điều kiện thực hiện: Địa điểm bị tù, đày để xem xét công nhận người hoạt động cách mạng, kháng chiến, bảo vệ tổ quốc, làm nghĩa vụ quốc tế bị địch bắt tù, đày được quy định tại Danh mục nhà tù và những nơi được coi là nhà tù do Bộ Lao động - Thương binh và Xã hội (nay là Bộ Nội vụ) ban hành.
+Từ khóa: Không có thông tin
+Mô tả: Địa điểm bị tù, đày để xem xét công nhận người hoạt động cách mạng, kháng chiến, bảo vệ tổ quốc, làm nghĩa vụ quốc tế bị địch bắt tù, đày được quy định tại Danh mục nhà tù và những nơi được coi là nhà tù do Bộ Lao động - Thương binh và Xã hội (nay là Bộ Nội vụ) ban hành.

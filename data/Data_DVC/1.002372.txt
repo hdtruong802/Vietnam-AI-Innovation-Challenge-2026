@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002372
+Số quyết định: 461/QĐ-BXD
+Tên thủ tục: Xác nhận việc trình kháng nghị hàng hải
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    - Thuyền trưởng lập hồ sơ đề nghị xác nhận việc trình kháng nghị đến cơ quan có thẩm quyền xác nhận việc trình kháng nghị hàng hải.
+    - Cơ quan có thẩm quyền bao gồm:
+    + Cơ quan nhà nước có thẩm quyền xác nhận việc trình kháng nghị hàng hải tại Việt Nam là Cảng vụ hàng hải/Cảng vụ đường thủy nội địa hoặc Đại diện Cảng vụ hàng hải/Cảng vụ đường thủy nội địa hoặc Ủy ban nhân dân cấp xã nơi gần nhất.
+    + Cơ quan nhà nước có thẩm quyền xác nhận việc trình kháng nghị hàng hải ở nước ngoài là cơ quan đại diện của Việt Nam nơi gần nhất hoặc cơ quan, tổ chức có thẩm quyền của quốc gia nơi tàu thuyền hoạt động
+    b) Giải quyết TTHC:
+    - Cơ quan có thẩm quyền tiếp nhận hồ sơ, kiểm tra sự phù hợp của hồ sơ. Trường hợp hồ sơ chưa phù hợp, chậm nhất 30 phút, kể từ khi nhận được hồ sơ, cơ quan có thẩm quyền hướng dẫn thuyền trưởng hoàn thiện hồ sơ theo quy định. Trường hợp không chấp thuận phải trả lời cho người làm thủ tục và nêu rõ lý do.
+    - Trong thời hạn không quá 01 giờ đối với Cảng vụ hàng hải/Cảng vụ đường thủy nội địa, Đại diện Cảng vụ hàng hải/Cảng vụ đường thủy nội địa và 03 giờ đối với các cơ quan có thẩm quyền khác, kể từ khi đã nhận đủ các giấy tờ hợp lệ, cơ quan có thẩm quyền xác nhận việc trình kháng nghị hàng hải.
+    - Cơ quan xác nhận việc trình kháng nghị hàng hải tiến hành lưu hồ sơ và gửi trả cho thuyền trưởng các bản kháng nghị hàng hải còn lại đã được xác nhận.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 HOUR
+    Phí, lệ phí: 0 VNĐ (Phí xác nhận kháng nghị hàng hải đối với tàu thuyền hoạt động hàng hải nội địa)
+
+Thành phần hồ sơ:
+  [ Các giấy tờ phải nộp đối với phương tiện thủy nội địa (trừ phương tiện thủy nội địa mang cấp VR-SB), tàu cá,( Các giấy tờ này phải có chữ ký của thuyền trưởng và đóng dấu của tàu thuyền (nếu có); đối với bản kháng nghị hàng hải, ngoài chữ ký của thuyền trưởng và đóng dấu của tàu thuyền (nếu có con dấu) còn phải có chữ ký của máy trưởng, một sĩ quan hoặc một thủy thủ với tư cách là những người làm chứng)  bao gồm: ]
+    - Kháng nghị hàng hải (02 bản)
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Bản sao Tự họa có mô tả sơ đồ vị trí xảy ra tai nạn, sự cố và đính kèm hình ảnh (01 bản, nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản trích sao các loại Nhật ký của tàu thuyền có liên quan đến vụ việc (01 bản, nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ Các giấy tờ phải nộp đối với tàu biển, tàu công vụ, giàn di động, tàu ngầm, tàu lặn, thủy phi cơ và phương tiện thủy nội địa mang cấp VR-SB, bao gồm: ]
+    - Bản trích sao các loại Nhật ký của tàu thuyền có liên quan đến vụ việc (01 bản)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản trích sao hải đồ liên quan đến vụ việc (trừ trường hợp tai nạn, sự cố xảy ra khi tàu thuyền đang neo đậu tại cảng biển) (01 bản)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Kháng nghị hàng hải (02 bản)
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Các giấy tờ phải xuất trình: Đối với tàu biển, tàu công vụ, giàn di động, tàu ngầm, tàu lặn, thủy phi cơ và phương tiện thủy nội địa mang cấp VR-SB phải xuất trình ]
+    - các loại Nhật ký liên quan đến vụ việc (bản chính)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Cảng vụ hàng hải, Cảng vụ đường thủy nội địa, Hải quan cửa khẩu
+Cơ quan có thẩm quyền: Cảng vụ hàng hải, Cảng vụ đường thủy nội địa
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận việc trình kháng nghị hàng hải
+Căn cứ pháp lý:
+  * Quy định về phí, lệ phí hàng hải và biểu mức thu phí, lệ phí hàng hải (261/2016/TT-BTC)
+  * Quy định về trình tự, thủ tục xác nhận việc trình kháng nghị hàng hải (30/2016/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

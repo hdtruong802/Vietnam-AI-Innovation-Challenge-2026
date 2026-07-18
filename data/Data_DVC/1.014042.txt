@@ -1,0 +1,100 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014042
+Số quyết định: 2298/QĐ-UBND
+Tên thủ tục: Cấp Giấy phép thi công lắp đặt công trình
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân hoàn thiện hồ sơ của thủ tục này và nộp hồ sơ trực tiếp tại Trung tâm phục vụ hành chính công thành phố Đà Nẵng hoặc nộp hồ sơ trực tuyến tại địa chỉ https://dichvucong.gov.vn.
+    Bước 2: Sở Xây dựng tiếp nhận hồ sơ, kiểm tra tính hợp lệ và đầy đủ của các loại giấy tờ trong hồ sơ; yêu cầu bổ sung, hoàn thiện nếu hồ sơ chưa đầy đủ, chưa hợp lệ.
+    Bước 3: Sở Xây dựng thẩm định hồ sơ:
+    a) Trường hợp hồ sơ đạt yêu cầu thì tiến hành giải quyết.
+    b) Trường hợp xét thấy hồ sơ không đạt yêu cầu thì có phiếu hướng dẫn yêu cầu bổ sung.
+    Bước 4: Trả kết quả cho tổ chức, công dân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp cấp mới: 05 ngày làm việc.  Riêng đối với trường hợp công trình cấp điện qua lưới trung áp theo Quyết định 4007/QĐ-UBND ngày 09/9/2019 của Chủ tịch UBND thành phố Đà Nẵng là 04 ngày làm việc.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp công trình cấp điện qua lưới trung áp theo Quyết định 4007/QĐ-UBND ngày 09/9/2019 của Chủ tịch UBND thành phố Đà Nẵng là 04 ngày làm việc.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp gia hạn giấy phép: 03 ngày làm việc.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp cấp mới: 05 ngày làm việc
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp công trình cấp điện qua lưới trung áp theo Quyết định 4007/QĐ-UBND ngày 09/9/2019 của Chủ tịch UBND thành phố Đà Nẵng là 04 ngày làm việc. 
+- Hồ sơ được nộp trực tiếp tại Bộ phận tiếp nhận và trả kết quả Sở Xây dựng thành phố Đà Nẵng hoặc nộp hồ sơ trực tuyến tại địa chỉ https://dichvucong.gov.vn.
+- Hồ sơ được trả kết quả trực tiếp tại Bộ phận tiếp nhận và trả kết quả Sở Xây dựng thành phố Đà Nẵng hoặc qua dịch vụ bưu chính công ích.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp gia hạn giấy phép: 03 ngày làm việc. 
+- Hồ sơ được nộp trực tiếp tại Bộ phận tiếp nhận và trả kết quả Sở Xây dựng thành phố Đà Nẵng hoặc nộp hồ sơ trực tuyến tại địa chỉ https://dichvucong.gov.vn.
+- Hồ sơ được trả kết quả trực tiếp tại Bộ phận tiếp nhận và trả kết quả Sở Xây dựng thành phố Đà Nẵng hoặc qua dịch vụ bưu chính công ích.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp cấp mới: 05 ngày làm việc
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp công trình cấp điện qua lưới trung áp theo Quyết định 4007/QĐ-UBND ngày 09/9/2019 của Chủ tịch UBND thành phố Đà Nẵng là 04 ngày làm việc.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp gia hạn giấy phép: 03 ngày làm việc. 
+- Hồ sơ được nộp trực tiếp tại Bộ phận tiếp nhận và trả kết quả Sở Xây dựng thành phố Đà Nẵng hoặc nộp hồ sơ trực tuyến tại địa chỉ https://dichvucong.gov.vn.
+- Hồ sơ được trả kết quả trực tiếp tại Bộ phận tiếp nhận và trả kết quả Sở Xây dựng thành phố Đà Nẵng hoặc qua dịch vụ bưu chính công ích.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị theo mẫu hoặc Văn bản đề nghị có nội dung đầy đủ các thông tin theo mẫu Phụ lục
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản cam kết về việc tháo dỡ, di chuyển hoặc cải tạo công trình đã lắp đặt trả lại mặt bằng để Nhà nước xây dựng công trình công cộng hoặc nâng cấp mở rộng nền mặt đường; không được yêu cầu bồi thường và phải chịu hoàn toàn trách nhiệm kinh phí liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản chấp thuận thi công công trình thiết yếu của cơ quan quản lý đường bộ có thẩm quyền (đối với thi công lắp đặt công trình thiết yếu)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ thiết kế kỹ thuật và thiết kế tổ chức thi công hoặc hồ sơ thiết kế kỹ thuật thi công được cấp có thẩm quyền phê duyệt.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4. Biện pháp đảm bảo an toàn công trình giao thông đường bộ và các công trình hạ tầng kỹ thuật khác hiện có trên đường bộ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biện pháp bảo đảm an toàn giao thông trong suốt thời gian thi công có xác nhận của Ban Quản lý dự án (trường hợp các công trình đơn giản, không có thiết kế tổ chức thi công).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo đánh giá tác động môi trường do Sở Tài nguyên và Môi trường Đà Nẵng thẩm định (đối với công trình quy định lập báo cáo đánh giá tác động môi trường) hoặc Biện pháp đảm bảo vệ sinh môi trường (đối với công trình không quy định lập báo cáo đánh giá tác động môi trường)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ thiết kế - dự toán hoàn trả nguyên trạng mặt bằng do cơ quan cấp phép thẩm định và phê duyệt đối với các công trình có chiều dài mặt bằng hoàn trả lớn hơn 10,5m.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng xây lắp (Nếu chủ đầu tư là pháp nhân có chức năng thi công và tự thi công thì không cần thủ tục này).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Nộp tiền đặt cọc bằng 100% kinh phí hoàn trả mặt bằng nguyên trạng theo đơn giá dự toán được cấp có thẩm quyền phê duyệt tại cơ quan cấp giấy phép thi công; khoản tiền này được hoàn trả lại sau khi đơn vị đã thi công hoàn thành công trình, nộp hồ sơ hoàn công cho cơ quan cấp phép và tự tổ chức hoàn trả sau 7 ngày kể từ khi thi công lắp đặt cấu kiện công trình dưới mặt đường, trong phần đất bảo vệ, bảo trì đường bộ và hành lang an toàn đường bộ hoàn thành. Nếu sau thời gian 7 ngày, đơn vị được cấp giấy phép thi công chưa hoàn trả nguyên trạng mặt bằng hoặc đã hoàn trả nhưng không đảm bảo theo yêu cầu thì cơ quan cấp giấy phép thi công được quyền sử dụng tiền đặt cọc trên để chỉ định đơn vị thi công hoàn trả mặt bằng theo nguyên trạng ban đầu và không chi trả lại cho đơn vị được cấp giấy phép.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Riêng trường hợp các tuyến đường đang triển khai thi công để cải tạo, nâng cấp, sửa chữa hoặc đã hoàn thành nhưng chưa bàn giao các tổ chức, cá nhân có nhu cầu thi công phải bổ sung thêm văn bản thống nhất của chủ đầu tư quản lý dự án cải tạo, nâng cấp, sửa chữa tuyến đường đó.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm phục vụ hành chính công thành phố Đà Nẵng
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thi công công trình
+Căn cứ pháp lý:
+  * sửa đổi, bổ sung một số điều của Quy định thi công trên đường bộ đang khai thác thuộc địa bàn thành phố Đà Nẵng ban hành kèm theo Quyết định số 05/2013/QĐ-UBND của UBND thành phố Đà Nẵng. (06/2023/QĐ-UBND)
+  * Quyết định số 05/2013/QĐ-UBND ngày 25/01/2013 của UBND thành phố Đà Nẵng về việc Ban hành Quy định thi công trên đường bộ đang khai thác thuộc địa bàn thành phố Đà Nẵng (05/2013/QĐ-UBND)
+  * Giao thông đường bộ (Số: 23/2008/QH12)
+  * ban hành Quy định về cơ chế một cửa liên thông giữa các cơ quan nhà nước và Công ty TNHH một thành viên Điện lực Đà Nẵng trong giải quyết thủ tục cấp điện qua lưới trung áp trên địa bàn thành phố Đà Nẵng. (4007/QĐ-UBND)
+  * Quy chế quản lý hoạt động khuyến công địa phương trên địa bàn tỉnh Lạng Sơn. (18/2015/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: Nộp tiền đặt cọc bằng 100% kinh phí hoàn trả mặt bằng nguyên trạng theo đơn giá dự toán được cấp có thẩm quyền phê duyệt tại cơ quan cấp giấy phép thi công.
+Từ khóa: thi công, công trình
+Mô tả: Nộp tiền đặt cọc bằng 100% kinh phí hoàn trả mặt bằng nguyên trạng theo đơn giá dự toán được cấp có thẩm quyền phê duyệt tại cơ quan cấp giấy phép thi công.

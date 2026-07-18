@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013301
+Số quyết định: 2618/QĐ-UBND
+Tên thủ tục: Xác nhận hoạt động khởi nghiệp đổi mới sáng tạo, hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    1. Tổ chức, doanh nghiệp nộp hồ sơ về Sở Khoa học và Công nghệ.
+    2. Sau khi tiếp nhận hồ sơ đầy đủ, hợp lệ, Sở Khoa học và Công nghệ thành lập Hội đồng thẩm định để thẩm định hồ sơ đề nghị xác định. Trong thời hạn 15 (mười lăm) ngày làm việc kể từ ngày tiếp nhận hồ sơ, Sở Khoa học và Công nghệ thành lập Hội đồng thẩm định để tiến hành thẩm định hồ sơ. Hoạt động của Hội đồng thẩm định hồ sơ theo quy định tại Điều 19 Nghị quyết số 24/2026/NQ-HĐND.
+    - Trường hợp hồ sơ đáp ứng điều kiện, trong thời hạn 06 (sáu) ngày làm việc kể từ ngày họp Hội đồng, Sở Khoa học và Công nghệ có văn bản xác nhận hoạt động khởi nghiệp đổi mới sáng tạo, hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo;
+    - Trường hợp hồ sơ không đáp ứng điều kiện, trong thời hạn 06 (sáu) ngày làm việc kể từ ngày họp Hội đồng, Sở Khoa học và Công nghệ có văn bản trả lời, nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 21 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 21 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 21 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị xác nhận hoạt động khởi nghiệp đổi mới sáng tạo, hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao giấy chứng nhận đăng ký doanh nghiệp. Sở Khoa học và Công nghệ khai thác thông tin đã có trên cơ sở dữ liệu quốc gia về doanh nghiệp. Trường hợp không khai thác được thông tin hoặc thông tin không đầy đủ, chính xác thì Sở Khoa học và Công nghệ yêu cầu tổ chức, doanh nghiệp cung cấp thành phần hồ sơ để giải quyết
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thuyết minh hoạt động của tổ chức, doanh nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các tài liệu chứng minh (đối với doanh nghiệp khởi nghiệp sáng tạo, nếu có): Bản sao chứng thực Văn bằng bảo hộ quyền sở hữu trí tuệ; bản sao chứng thực Quyết định công nhận kết quả nghiên cứu khoa học, phát triển công nghệ; bản sao chứng thực các tài liệu khác chứng nhận dự án đổi mới sản phẩm, dịch vụ, công nghệ, mô hình kinh doanh mới; bản sao chứng thực chứng nhận đạt giải thưởng tại các cuộc thi khởi nghiệp đổi mới sáng tạo và các giải thưởng về khoa học và công nghệ theo quy định của pháp luật về giải thưởng khoa học và công nghệ; các tài liệu chứng minh khác (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Khoa học và Công nghệ TP.Đà Nẵng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công thành phố/ Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận hoạt động khởi nghiệp đổi mới sáng tạo, hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo hoặc văn bản thông báo kết quả thẩm định của Sở Khoa học và Công nghệ
+Căn cứ pháp lý:
+  * Quy định các lĩnh vực ưu tiên; tiêu chí, điều kiện, trình tự, thủ tục, nội dung hoạt động khởi nghiệp đổi mới sáng tạo, hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo, hoạt động trong lĩnh vực thiết kế, sản xuất, đóng gói, kiểm thử vi mạch bán dẫn, trí tuệ nhân tạo được miễn thuế trên địa bàn thành phố Đà Nẵng (24/2026/NQ-HĐND (thành phố Đà Nẵng))
+
+Yêu cầu, điều kiện thực hiện: 1. Doanh nghiệp được xác định có hoạt động khởi nghiệp đổi mới sáng tạo khi đáp ứng các tiêu chí, điều kiện sau:
+a) Doanh nghiệp đăng ký thành lập theo Luật Doanh nghiệp và có trụ sở chính trên địa bàn thành phố. Tại thời điểm nộp hồ sơ xác định hoạt động khởi nghiệp đổi mới sáng tạo, doanh nghiệp có thời gian hoạt động không quá 05 năm kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp lần đầu.
+b) Có hoạt động khởi nghiệp đổi mới sáng tạo được quy định tại Điều 4 Nghị quyết này và thuộc lĩnh vực ưu tiên quy định tại Điều 3 Nghị quyết; hoặc được cấp Giấy công nhận doanh nghiệp khởi nghiệp sáng tạo theo quy định tại Nghị định số 268/2025/NĐ-CP ngày 14/10/2025 của Chính phủ Quy định chi tiết và hướng dẫn một số điều của Luật Khoa học, công nghệ và đổi mới sáng tạo về đổi mới sáng tạo; khuyến khích hoạt động khoa học, công nghệ và đổi mới sáng tạo trong doanh nghiệp; công nhận trung tâm đổi mới sáng tạo, hỗ trợ khởi nghiệp sáng tạo; công nhận cá nhân, doanh nghiệp khởi nghiệp sáng tạo; hạ tầng mạng lưới và hệ sinh thái khởi nghiệp sáng tạo.
+2. Tổ chức hỗ trợ được xác định có hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo khi đáp ứng các tiêu chí, điều kiện sau:
+a) Đăng ký thành lập và hoạt động theo quy định của pháp luật, có trụ sở chính trên địa bàn thành phố.
+b) Có hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo được quy định tại Điều 5 Nghị quyết.
+Từ khóa: khởi nghiệp, đổi mới sáng tạo
+Mô tả: 1. Doanh nghiệp được xác định có hoạt động khởi nghiệp đổi mới sáng tạo khi đáp ứng các tiêu chí, điều kiện sau:
+a) Doanh nghiệp đăng ký thành lập theo Luật Doanh nghiệp và có trụ sở chính trên địa bàn thành phố. Tại thời điểm nộp hồ sơ xác định hoạt động khởi nghiệp đổi mới sáng tạo, doanh nghiệp có thời gian hoạt động không quá 05 năm kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp lần đầu.
+b) Có hoạt động khởi nghiệp đổi mới sáng tạo được quy định tại Điều 4 Nghị quyết này và thuộc lĩnh vực ưu tiên quy định tại Điều 3 Nghị quyết; hoặc được cấp Giấy công nhận doanh nghiệp khởi nghiệp sáng tạo theo quy định tại Nghị định số 268/2025/NĐ-CP ngày 14/10/2025 của Chính phủ Quy định chi tiết và hướng dẫn một số điều của Luật Khoa học, công nghệ và đổi mới sáng tạo về đổi mới sáng tạo; khuyến khích hoạt động khoa học, công nghệ và đổi mới sáng tạo trong doanh nghiệp; công nhận trung tâm đổi mới sáng tạo, hỗ trợ khởi nghiệp sáng tạo; công nhận cá nhân, doanh nghiệp khởi nghiệp sáng tạo; hạ tầng mạng lưới và hệ sinh thái khởi nghiệp sáng tạo.
+2. Tổ chức hỗ trợ được xác định có hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo khi đáp ứng các tiêu chí, điều kiện sau:
+a) Đăng ký thành lập và hoạt động theo quy định của pháp luật, có trụ sở chính trên địa bàn thành phố.
+b) Có hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo được quy định tại Điều 5 Nghị quyết.

@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009125
+Số quyết định: 1080/QĐ-BTC
+Tên thủ tục: Thủ tục công nhận kho bảo thuế
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp chuẩn bị một bộ hồ sơ công nhận qua đường bưu điện hoặc gửi trực tiếp hoặc qua hệ thống xử lý dữ liệu điện tử của cơ quan hải quan đến Tổng cục Hải quan:
+    + Chuẩn bị một bộ hồ sơ theo quy định tại Điều 17 Nghị định số 68/2016/NĐ-CP ngày 01/07/2016 của Chính phủ.
+    + Gửi đến Tổng cục Hải quan qua đường bưu điện hoặc gửi trực tiếp hoặc qua hệ thống xử lý dữ liệu điện tử của cơ quan hải quan.
+    + Sửa đổi, bổ sung, hoàn thiện hồ sơ: Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng 05 ngày làm việc kể từ ngày nhận hồ sơ của doanh nghiệp, Tổng cục Hải quan có văn bản thông báo và yêu cầu doanh nghiệp bổ sung hồ sơ. Quá 30 ngày làm việc kể từ ngày gửi thông báo nhưng doanh nghiệp không có phản hồi bằng văn bản, Tổng cục Hải quan có quyền hủy hồ sơ.
+    Bước 2: Cơ quan hải quan thực hiện kiểm tra hồ sơ hải quan, kiểm tra kho bảo thuế:
+    + Tiếp nhận và kiểm tra hồ sơ đề nghị công nhận kho bảo thuế, hồ sơ sửa đổi, bổ sung (nếu có).
+    + Kiểm tra thực tế kho bảo thuế
+    + Có văn bản thông báo cho doanh nghiệp khi hồ sơ hoặc thực tế kho bảo thuế không đáp ứng yêu cầu.
+    + Cấp giấy công nhận kho bảo thuế trong trường hợp đáp ứng các yêu cầu theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Văn bản đề nghị công nhận kho bảo thuế theo mẫu số 01 phụ lục ban hành kèm theo Nghị định số 67/2020/NĐ-CP ngày 15/06/2020:
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Sơ đồ thiết kế khu vực kho bảo thuế:
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền: Cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận hoạt động kho bảo thuế
+Căn cứ pháp lý:
+  * Nghị định 67/2020/NĐ-CP (67/2020/NĐ-CP)
+  * Nghị định 68/2016/NĐ-CP (68/2016/NĐ-CP)
+  * Luật sửa đổi, bổ sung Điều 6 và Phụ lục 4 về Danh mục ngành, nghề đầu tư kinh doanh có điều kiện của Luật đầu tư (03/2016/QH14)
+  * Luật đầu tư (67/2014/QH13)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

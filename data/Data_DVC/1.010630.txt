@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010630
+Số quyết định: 2806/QĐ-UBND
+Tên thủ tục: Cho phép đón tiếp đoàn vào
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động của các tổ chức hợp tác, nghiên cứu song phương
+Trình tự thực hiện:
+    Gửi nộp hồ sơ
+    Các cơ quan, tổ chức, cá nhân trong nước và nước ngoài nộp hồ sơ tại Trung tâm Phục vụ hành chính công tỉnh
+    Sở Ngoại vụ tiếp nhận hồ sơ của cơ quan, tổ chức, cá nhân trong nước và nước ngoài.
+    Trường hợp hồ sơ thuộc thẩm quyền giải quyết của Sở Ngoại vụ: Sở Ngoại vụ thẩm định và trả kết quả cho cơ quan, đơn vị: 07 ngày làm việc.
+    Trường hợp hồ sơ thuộc thẩm quyền giải quyết của cơ quan có thẩm quyền cấp trên (Tỉnh ủy; HĐND tỉnh; UBND tỉnh): Sở Ngoại vụ thẩm định, trình các cơ quan có thẩm quyền cấp trên xém xét, quyết định: 05  ngày làm việc.
+    Cơ quan có thẩm quyền xem xét, quyết định và trả kết quả cho Sở Ngoại vụ tại Trung tâm Phục vụ hành chính công tỉnh). Trường hợp thủ tục hành chính không được giải quyết phải có văn bản trả lời, nêu rõ lý do: 20 ngày làm việc.
+    Sau khi nhận được kết quả giải quyết hồ sơ TTHC của  cơ quan có thẩm quyền; Sở Ngoại vụ trả kết quả cho khách hàng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trường hợp hồ sơ thuộc thẩm quyền giải quyết của cấp trên: 25 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ hợp lệ (trừ trường hợp đặc biệt).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trường hợp hồ sơ thuộc thẩm quyền giải quyết của Sở Ngoại vụ: 07 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trường hợp hồ sơ thuộc thẩm quyền giải quyết của cấp trên: 25 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ hợp lệ (trừ trường hợp đặc biệt)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trường hợp hồ sơ thuộc thẩm quyền giải quyết của Sở Ngoại vụ: 07 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ hợp lệ
+
+Thành phần hồ sơ:
+  [ Gửi nộp hồ sơ ]
+    - Tờ trình/công văn, Văn bản của Bộ, ngành Trung ương, các cơ quan, tổ chức nước ngoài đăng ký, xin phép đến thăm, làm việc tại tỉnh (kèm theo kế hoạch, lịch trình hoạt động, photo hộ chiếu của người nước ngoài)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Dự thảo nội dung làm việc, biên bản dự kiến ký kết
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp hồ sơ thuộc thẩm quyền giải quyết của cơ quan có thẩm quyền cấp trên (Tỉnh ủy; HĐND tỉnh; UBND tỉnh): Sở Ngoại vụ thẩm định, trình các cơ quan có thẩm quyền cấp trên xém xét, quyết định ]
+    - Tờ trình/công văn, kế hoạch
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ đã tiếp nhận của khách hành tại Trung tâm Phục vụ hành chính công
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Ngoại vụ tỉnh Tuyên Quang
+Cơ quan có thẩm quyền: UBND tỉnh Tuyên Quang
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cho phép hoặc văn bản không cho phép tổ chức đón tiếp đoàn vào
+Căn cứ pháp lý:
+  * Hướng dẫnviệc cấp, gia hạn, sửa đổi, bổ sung hộ chiếu ngoại giao, hộ chiếu công vụ ở trong nước và ở nước ngoài theo Nghị định số 136/2007/NĐ-CP ngày 17/8/2007 của Chính phủ về xuất cảnh, nhập cảnh của công dân Việt Nam (02/2008/TT-BNG)
+  * Nghị định Sửa đổi, bổ sung một số điều của Nghị định số 136/2007/NĐ-CP ngày 17 tháng 8 năm 2007 về xuất cảnh, nhập cảnh của công dân Việt Nam (Nghị định 94/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Công văn, tờ trình, đề án hoặc Kế mời, đón tiếp và làm việc vơi đoàn khách nước ngoài cần nêu rõ: Tên tổ chức, cá nhân nước ngoài; danh sách đoàn (nếu là tổ chức), quốc tịch, chức vụ, nơi công tác, số hộ chiếu (kèm theo bản phô tô hộ chiếu); địa điểm làm việc; Nội dung làm việc, chương trình làm việc; thời gian đến và kết thúc.
+Từ khóa: Không có thông tin
+Mô tả: Công văn, tờ trình, đề án hoặc Kế mời, đón tiếp và làm việc vơi đoàn khách nước ngoài cần nêu rõ: Tên tổ chức, cá nhân nước ngoài; danh sách đoàn (nếu là tổ chức), quốc tịch, chức vụ, nơi công tác, số hộ chiếu (kèm theo bản phô tô hộ chiếu); địa điểm làm việc; Nội dung làm việc, chương trình làm việc; thời gian đến và kết thúc.

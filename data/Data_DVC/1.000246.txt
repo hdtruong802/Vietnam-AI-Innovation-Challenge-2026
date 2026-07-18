@@ -1,0 +1,98 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000246
+Số quyết định: 1234/QĐ-BXD
+Tên thủ tục: Cấp giấy phép, năng định nhân viên bảo đảm hoạt động bay
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC
+    Người đề nghị cấp giấy phép nhân viên bảo đảm hoạt động bay gửi 01 bộ hồ sơ trực tiếp hoặc qua hệ thống bưu chính hoặc bằng các hình thức phù hợp khác đến Cục Hàng không Việt Nam và phải chịu trách nhiệm về tính chính xác, trung thực của thông tin trong hồ sơ.
+  * b) Giải quyết TTHC
+    Trong thời hạn 11 ngày kể từ ngày nhận đủ hồ sơ, Cục Hàng không Việt Nam thẩm định hồ sơ, tổ chức sát hạch và cấp giấy phép, năng định cho nhân viên bảo đảm hoạt động bay; trường hợp không cấp giấy phép, năng định phải gửi văn bản trả lời tổ chức đề nghị và nêu rõ lý do.
+    Trường hợp hồ sơ chưa đầy đủ, trong thời gian 05 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Hàng không Việt Nam hướng dẫn tổ chức đề nghị hoàn thiện hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 11 ngày
+    Phí, lệ phí: 250000 VNĐ (Thực hành	250.000đ/lần(Miễn kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư 40/2026/TT-BTC))
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 11 ngày
+    Phí, lệ phí: 250000 VNĐ (Thực hành	250.000đ/lần(Miễn kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư 40/2026/TT-BTC))
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 11 ngày
+    Phí, lệ phí: 600000 VNĐ (Lý thuyết	600.000đ/lần(Miễn kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư 40/2026/TT-BTC))
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp giấy phép nhân viên của tổ chức cung cấp dịch vụ bảo đảm hoạt động bay (kèm theo danh sách) và đơn đề nghị cấp giấy phép nhân viên.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Bản sao có chứng thực hoặc bản sao kèm theo bản gốc văn bằng, chứng chỉ đào tạo phù hợp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản gốc giấy chứng nhận sức khỏe còn hiệu lực do cơ sở y tế giám định sức khỏe đủ điều kiện theo quy định cấp (áp dụng đối với kiểm soát viên không lưu, nhân viên thực hiện nhiệm vụ bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức bay).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao kết quả huấn luyện theo quy định.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - 02 ảnh cỡ 3x4 cm được chụp trong khoảng thời gian 06 tháng trước khi nộp hồ sơ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Mẫu Giấy phép nhân viên bảo đảm hoạt động bay
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư để cắt giảm, đơn giản hóa thủ tục hành chính trong lĩnh vực đăng kiểm đường bộ, hàng không dân dụng và thanh tra thuộc phạm vi quản lý của Bộ Xây dựng (71/2025/TT-BXD)
+  * Sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực hàng không dân dụng (28/2023/TT-BGTVT)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Thông tư 32/2021/TT-BGTVT (32/2021/TT-BGTVT)
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không (193/2016/TT-BTC)
+  * Quy định về quản lý và bảo đảm hoạt động bay (19/2017/TT-BGTVT)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Quy định chi tiết về quản lý hoạt động bay (125/2015/NĐ-CP)
+  * Thông tư 09/2020/TT-BGTVT (09/2020/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: 10.1. Đáp ứng các quy định cụ thể
+- Là công dân Việt Nam đủ 21 tuổi trở lên, không có tiền án hoặc đang chấp hành
+bản án hình sự hoặc đang bị truy cứu trách nhiệm hình sự;
+- Có chứng chỉ chuyên môn về chuyên ngành bảo đảm hoạt động bay phù hợp do tổ
+chức đào tạo, huấn luyện nghiệp vụ nhân viên bảo đảm hoạt động bay đủ điều kiện theo
+quy định cấp.
+- Có chứng nhận trình độ tiếng Anh nhân viên hàng không do cơ sở đánh giá trình
+độ tiếng Anh nhân viên hàng không đủ điều kiện cấp theo quy định;
+- Có thời gian huấn luyện và thực tập tối thiểu theo quy định;
+- Có giấy chứng nhận đủ điều kiện sức khỏe mức 3 của cơ sở y tế đủ điều kiện theo
+quy định cấp áp dụng đối với kiểm soát viên không lưu;
+- Kiểm soát viên không lưu và nhân viên vận hành hệ thống liên lạc vô tuyến hàng
+không phải tham dự và đạt kết quả kiểm tra để cấp giấy phép, năng định.
+10.2. Quy định về trình độ tiếng Anh đối với nhân viên bảo đảm hoạt động bay:- Kiểm soát viên không lưu, Nhân viên vận hành hệ thống liên lạc vô tuyến hàng
+không phải có trình độ tiếng Anh mức 4;
+- Giấy chứng nhận trình độ tiếng Anh nhân viên bảo đảm hoạt động bay có hiệu lực
+03 năm đối với mức 3 và mức 4, 06 năm đối với mức 5 và không xác định thời hạn hiệu
+lực đối với mức 6.
+10.3. Thời gian đào tạo, huấn luyện đối với nhân viên bảo đảm hoạt động bay theo
+quy định hiện hành của Bộ Xây dựng về đào tạo, huấn luyện và sát hạch nhân viên hàng
+không.
+Từ khóa: Không có thông tin
+Mô tả: 10.1. Đáp ứng các quy định cụ thể
+- Là công dân Việt Nam đủ 21 tuổi trở lên, không có tiền án hoặc đang chấp hành
+bản án hình sự hoặc đang bị truy cứu trách nhiệm hình sự;
+- Có chứng chỉ chuyên môn về chuyên ngành bảo đảm hoạt động bay phù hợp do tổ
+chức đào tạo, huấn luyện nghiệp vụ nhân viên bảo đảm hoạt động bay đủ điều kiện theo
+quy định cấp.
+- Có chứng nhận trình độ tiếng Anh nhân viên hàng không do cơ sở đánh giá trình
+độ tiếng Anh nhân viên hàng không đủ điều kiện cấp theo quy định;
+- Có thời gian huấn luyện và thực tập tối thiểu theo quy định;
+- Có giấy chứng nhận đủ điều kiện sức khỏe mức 3 của cơ sở y tế đủ điều kiện theo
+quy định cấp áp dụng đối với kiểm soát viên không lưu;
+- Kiểm soát viên không lưu và nhân viên vận hành hệ thống liên lạc vô tuyến hàng
+không phải tham dự và đạt kết quả kiểm tra để cấp giấy phép, năng định.
+10.2. Quy định về trình độ tiếng Anh đối với nhân viên bảo đảm hoạt động bay:- Kiểm soát viên không lưu, Nhân viên vận hành hệ thống liên lạc vô tuyến hàng
+không phải có trình độ tiếng Anh mức 4;
+- Giấy chứng nhận trình độ tiếng Anh nhân viên bảo đảm hoạt động bay có hiệu lực
+03 năm đối với mức 3 và mức 4, 06 năm đối với mức 5 và không xác định thời hạn hiệu
+lực đối với mức 6.
+10.3. Thời gian đào tạo, huấn luyện đối với nhân viên bảo đảm hoạt động bay theo
+quy định hiện hành của Bộ Xây dựng về đào tạo, huấn luyện và sát hạch nhân viên hàng
+không.

@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001928
+Số quyết định: 517/QĐ-BTP
+Tên thủ tục: Công nhận đào tạo nghề luật sư ở nước ngoài
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Luật sư
+Trình tự thực hiện:
+    Giấy chứng nhận hoàn thành chương trình đào tạo nghề luật sư ở nước ngoài được công nhận trong các trường hợp sau đây:
+    - Giấy chứng nhận hoàn thành chương trình đào tạo nghề luật sư ở nước ngoài được cấp bởi cơ sở đào tạo nước ngoài thuộc phạm vi áp dụng của Hiệp định, thoả thuận về tương đương văn bằng hoặc công nhận lẫn nhau về văn bằng hoặc Điều ước quốc tế có liên quan đến văn bằng mà nước Cộng hòa xã hội chủ nghĩa Việt Nam đã ký kết;
+    - Giấy chứng nhận hoàn thành chương trình đào tạo nghề luật sư ở nước ngoài được cấp bởi cơ sở đào tạo mà các chương trình đào tạo đã được cơ quan kiểm định chất lượng của nước đó công nhận hoặc cơ quan có thẩm quyền của nước đó cho phép thành lập và được phép cấp văn bằng, chứng chỉ hoặc giấy tờ chứng nhận tốt nghiệp đào tạo nghề luật sư ở nước ngoài.
+    Người đã hoàn thành chương trình đào tạo nghề luật sư ở nước ngoài muốn được công nhận ở Việt Nam lập 01 bộ hồ sơ, gửi trực tiếp hoặc qua dịch vụ bưu chính đến Sở Tư pháp nơi thường trú hoặc trực tuyến trên Cổng dịch vụ công quốc gia.
+    Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp kiểm tra và trình Chủ tịch Ủy ban nhân dân cấp tỉnh.
+    Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Chủ tịch Ủy ban nhân dân cấp tỉnh ra quyết định công nhận đào tạo nghề luật sư ở nước ngoài; trường hợp từ chối phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị công nhận đào tạo nghề luật sư ở nước ngoài
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hoặc bản sao điện tử Giấy chứng nhận hoàn thành chương trình đào tạo nghề luật sư ở nước ngoài; giấy tờ chứng minh thuộc một trong các trường hợp: + Giấy chứng nhận hoàn thành chương trình đào tạo nghề luật sư ở nước ngoài được cấp bởi cơ sở đào tạo nước ngoài thuộc phạm vi áp dụng của Hiệp định, thoả thuận về tương đương văn bằng hoặc công nhận lẫn nhau về văn bằng hoặc Điều ước quốc tế có liên quan đến văn bằng mà nước Cộng hòa xã hội chủ nghĩa Việt Nam đã ký kết; + Giấy chứng nhận hoàn thành chương trình đào tạo nghề luật sư ở nước ngoài được cấp bởi cơ sở đào tạo mà các chương trình đào tạo đã được cơ quan kiểm định chất lượng của nước đó công nhận hoặc cơ quan có thẩm quyền của nước đó cho phép thành lập và được phép cấp văn bằng, chứng chỉ hoặc giấy tờ chứng nhận tốt nghiệp đào tạo nghề luật sư ở nước ngoài. Giấy tờ quy định tại điểm b khoản này phải được hợp pháp hóa lãnh sự theo quy định của pháp luật và được dịch ra tiếng Việt; bản dịch tiếng Việt được chứng thực theo quy định của pháp luật Việt Nam
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam
+Cơ quan thực hiện: Chủ tịch ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận Giấy chứng nhận tốt nghiệp đào tạo nghề luật sư ở nước ngoài
+Căn cứ pháp lý:
+  * Nghị định số 121/2025/NĐ-CP ngày 11/6/2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (121/2025/NĐ-CP)
+  * Thông tư sửa đổi một số thủ tục hành chính quy định tại các thông tư trong lĩnh vực bổ trợ tư pháp (30/2025/TT-BTP)
+  * Thông tư số 08/2025/TT-BTP ngày 12/6/2025 của Bộ trưởng Bộ Tư pháp quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp và phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (08/2025/TT-BTP)
+  * Nghị định sửa đổi, bổ sung một số nghị định để cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh  thuộc phạm vi quản lý của Bộ Tư pháp (18/2026/NĐ-CP)
+  * Luật 65/2006/QH11 (65/2006/QH11)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

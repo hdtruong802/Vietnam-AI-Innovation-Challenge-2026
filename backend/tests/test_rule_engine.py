@@ -41,4 +41,7 @@ def test_rule_engine_runs_date_and_conditional_rules_without_eval() -> None:
         },
     )
 
-    assert {finding.rule_id for finding in findings} == {"TEST-DATE", "TEST-CONDITIONAL"}
+    assert {finding.rule_id for finding in findings} == {
+        "TEST-DATE",
+        "TEST-CONDITIONAL",
+    }

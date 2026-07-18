@@ -1,0 +1,102 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000987
+Số quyết định: 1345/QĐ-BNNMT
+Tên thủ tục: Cấp giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn (cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Khí tượng, thủy văn
+Trình tự thực hiện:
+    - Bước 1. Nộp hồ sơ:
+    Tổ chức, cá nhân đề nghị cấp, gia hạn, sửa đổi, bổ sung giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn nộp 01 bộ hồ sơ trực tiếp tại bất kỳ Trung tâm Phục vụ hành chính công hoặc thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ hoặc qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật hoặc trực tuyến thông qua Cổng Dịch vụ công quốc gia tại địa chỉ http://dichvucong.gov.vn hoặc Ứng dụng định danh quốc gia (VNeID) hoặc phương thức tiếp nhận khác theo quy định của pháp luật tại thời điểm nộp hồ sơ.
+    - Bước 2. Kiểm tra hồ sơ:
+    Trong thời hạn 01 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan cấp giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn có trách nhiệm xem xét, kiểm tra, khẳng định tính hợp lệ của hồ sơ đã nhận; trường hợp hồ sơ không hợp lệ, cơ quan cấp giấy phép thông báo cho tổ chức, cá nhân xin phép để hoàn thiện hồ sơ theo quy định.
+    - Bước 3. Thẩm định và cấp phép:
+    Kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định, cơ quan thẩm định hồ sơ có trách nhiệm xem xét, tổ chức thẩm định, trình Chủ tịch Ủy ban nhân dân cấp tỉnh theo thẩm quyền cấp, gia hạn, sửa đổi, bổ sung giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn cho tổ chức và cá nhân có đủ điều kiện trong thời hạn tối đa 12 ngày làm việc.
+    Trường hợp không đủ điều kiện cấp, gia hạn, sửa đổi, bổ sung giấy phép, cơ quan cấp giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn trả lời bằng văn bản cho tổ chức, cá nhân biết lý do.
+    - Bước 4: Trả kết quả:
+    Giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn đã được cơ quan có thẩm quyền cấp giấy phép phê duyệt được giao trực tiếp cho tổ chức, cá nhân tại Trung tâm Phục vụ hành chính công nơi đã tiếp nhận hồ sơ ban đầu hoặc thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ hoặc qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật hoặc phương thức nhận kết quả khác theo quy định của pháp luật tại thời điểm cấp sau thời hạn quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Tổ chức, cá nhân đề nghị cấp, gia hạn, sửa đổi, bổ sung giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn nộp 01 bộ hồ sơ trực tiếp tại bất kỳ Trung tâm Phục vụ hành chính công hoặc thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ hoặc qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật hoặc trực tuyến thông qua Cổng Dịch vụ công quốc gia tại địa chỉ http://dichvucong.gov.vn hoặc Ứng dụng định danh quốc gia (VNeID) hoặc phương thức tiếp nhận khác theo quy định của pháp luật tại thời điểm nộp hồ sơ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Tổ chức, cá nhân đề nghị cấp, gia hạn, sửa đổi, bổ sung giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn nộp 01 bộ hồ sơ trực tiếp tại bất kỳ Trung tâm Phục vụ hành chính công hoặc thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ hoặc qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật hoặc trực tuyến thông qua Cổng Dịch vụ công quốc gia tại địa chỉ http://dichvucong.gov.vn hoặc Ứng dụng định danh quốc gia (VNeID) hoặc phương thức tiếp nhận khác theo quy định của pháp luật tại thời điểm nộp hồ sơ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Tổ chức, cá nhân đề nghị cấp, gia hạn, sửa đổi, bổ sung giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn nộp 01 bộ hồ sơ trực tiếp tại bất kỳ Trung tâm Phục vụ hành chính công hoặc thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ hoặc qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật hoặc trực tuyến thông qua Cổng Dịch vụ công quốc gia tại địa chỉ http://dichvucong.gov.vn hoặc Ứng dụng định danh quốc gia (VNeID) hoặc phương thức tiếp nhận khác theo quy định của pháp luật tại thời điểm nộp hồ sơ.
+
+Thành phần hồ sơ:
+  [ Hồ sơ cấp giấy phép hoạt động dự báo, cảnh báo đối với cá nhân: ]
+    - Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử có chứng thực từ bản chính: Văn bằng, chứng chỉ và hợp đồng lao động của đội ngũ nhân viên.  Trường hợp văn bằng, chứng chỉ nêu tại điểm này đã được lưu trữ tại cơ sở dữ liệu giáo dục và đào tạo được kết nối, chia sẻ hoặc đã được tích hợp trên Ứng dụng định danh quốc gia (VNeID) thì không cần nộp các bản sao văn bằng, chứng chỉ quy định tại điểm này.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản khai kinh nghiệm công tác, có xác nhận của cơ quan, tổ chức quản lý nhân sự nơi đã từng làm việc
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị cấp giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn theo Mẫu số 09 Phụ lục kèm theo Nghị định số 113/2026/NĐ-CP ngày 01/4/2026 của Chính phủ..
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai cơ sở vật chất, kỹ thuật; thông tin, dữ liệu phục vụ dự báo, cảnh báo theo Mẫu số 11 Phụ lục kèm theo Nghị định số 113/2026/NĐ-CP ngày 01 tháng 4 năm 2026 của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hồ sơ cấp giấy phép hoạt động dự báo, cảnh báo đối với tổ chức: ]
+    - Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử có chứng thực từ bản chính: Văn bằng, chứng chỉ và hợp đồng lao động của đội ngũ nhân viên.  Trường hợp văn bằng, chứng chỉ nêu tại điểm này đã được lưu trữ tại cơ sở dữ liệu giáo dục và đào tạo được kết nối, chia sẻ hoặc đã được tích hợp trên Ứng dụng định danh quốc gia (VNeID) thì không cần nộp các bản sao văn bằng, chứng chỉ quy định tại điểm này.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Đơn đề nghị cấp giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn theo Mẫu số 09 Phụ lục kèm theo Nghị định số 113/2026/NĐ-CP ngày 01 tháng 4 năm 2026 của Chính phủ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 01 bản sao có chứng thực hoặc 01 bản sao kèm bản chính để đối chiếu hoặc 01 bản sao điện tử có chứng thực từ bản chính: Quyết định thành lập tổ chức (không áp dụng đối với các công ty, doanh nghiệp, tổ chức kinh doanh đã được cấp Giấy chứng nhận hoạt động kinh doanh trên Cơ sở dữ liệu quốc gia về đăng ký kinh doanh).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản khai cơ sở vật chất, kỹ thuật; thông tin, dữ liệu phục vụ dự báo, cảnh báo theo Mẫu số 11 Phụ lục kèm theo Nghị định số 113/2026/NĐ-CP ngày 01 tháng 4 năm 2026
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai kinh nghiệm công tác của nhân viên tham gia dự báo, cảnh báo, có xác nhận của cơ quan, tổ chức quản lý nhân sự nơi đã từng làm việc
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Cơ quan chuyên môn về nông nghiệp và môi trường thuộc Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương
+Địa chỉ tiếp nhận HS: Bất kỳ Trung tâm Phục vụ hành chính công hoặc thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ hoặc qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật hoặc trực tuyến thông qua Cổng Dịch vụ công quốc gia tại địa chỉ http://dichvucong.gov.vn hoặc Ứng dụng định danh quốc gia (VNeID) hoặc phương thức tiếp nhận khác theo quy định của pháp luật tại thời điểm nộp hồ sơ.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép hoạt động dự báo, cảnh báo khí tượng thủy văn hoặc văn bản từ chối cấp phép hoạt động dự báo, cảnh báo khí tượng thủy văn cho tổ chức, cá nhân.
+Căn cứ pháp lý:
+  * NGHỊ ĐỊNH  SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 38/2016/NĐ-CP NGÀY 15 THÁNG 5 NĂM 2016 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT KHÍ TƯỢNG THỦY VĂN (48/2020/NĐ-CP)
+  * Nghị định số 22/2023/NĐ-CP ngày 12 tháng 5 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến hoạt động kinh doanh trong lĩnh vực tài nguyên và môi trường (22/2023/NĐ-CP)
+  * Luật 90/2015/QH13 (90/2015/QH13)
+  * Nghị định 38/2016/NĐ-CP (38/2016/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: (1) Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của tổ chức:
+- Có tư cách pháp nhân theo quy định của pháp luật về dân sự. 
+- Có cơ sở vật chất, kỹ thuật thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp theo quy định của pháp luật, bảo đảm đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo. 
+- Có đội ngũ nhân lực tối thiểu 01 người, tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn.
+(2) Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của cá nhân:
+- Có cơ sở vật chất, kỹ thuật thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp theo quy định của pháp luật, bảo đảm đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo. 
+- Tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn.
+(3) Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của tổ chức, cá nhân nước ngoài tại Việt Nam:
+- Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của tổ chức nước ngoài tại Việt Nam:
++ Có tư cách pháp nhân theo quy định của pháp luật về dân sự.
++ Có cơ sở vật chất, kỹ thuật thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp theo quy định của pháp luật, bảo đảm đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo. 
++ Có đội ngũ nhân lực tối thiểu 01 người tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn. 
++ Được phép hoạt động, cư trú hợp pháp tại Việt Nam. 
+- Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của cá nhân nước ngoài tại Việt Nam: 
++ Có cơ sở vật chất, kỹ thuật thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp theo quy định của pháp luật, bảo đảm đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo. 
++ Tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn. 
++ Được phép hoạt động, cư trú hợp pháp tại Việt Nam.
+Từ khóa: Không có thông tin
+Mô tả: (1) Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của tổ chức:
+- Có tư cách pháp nhân theo quy định của pháp luật về dân sự. 
+- Có cơ sở vật chất, kỹ thuật thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp theo quy định của pháp luật, bảo đảm đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo. 
+- Có đội ngũ nhân lực tối thiểu 01 người, tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn.
+(2) Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của cá nhân:
+- Có cơ sở vật chất, kỹ thuật thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp theo quy định của pháp luật, bảo đảm đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo. 
+- Tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn.
+(3) Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của tổ chức, cá nhân nước ngoài tại Việt Nam:
+- Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của tổ chức nước ngoài tại Việt Nam:
++ Có tư cách pháp nhân theo quy định của pháp luật về dân sự.
++ Có cơ sở vật chất, kỹ thuật thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp theo quy định của pháp luật, bảo đảm đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo. 
++ Có đội ngũ nhân lực tối thiểu 01 người tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn. 
++ Được phép hoạt động, cư trú hợp pháp tại Việt Nam. 
+- Điều kiện hoạt động dự báo, cảnh báo khí tượng thủy văn của cá nhân nước ngoài tại Việt Nam: 
++ Có cơ sở vật chất, kỹ thuật thuộc quyền sở hữu hoặc quyền sử dụng hợp pháp theo quy định của pháp luật, bảo đảm đáp ứng yêu cầu dự báo, cảnh báo khí tượng thủy văn gồm: trang thiết bị, hệ thống tính toán, thu nhận, xử lý thông tin, dữ liệu khí tượng thủy văn; thông tin, dữ liệu phục vụ dự báo, cảnh báo. 
++ Tốt nghiệp đại học trở lên chuyên ngành khí tượng thủy văn và có ít nhất 03 năm kinh nghiệm hoạt động dự báo, cảnh báo khí tượng thủy văn. 
++ Được phép hoạt động, cư trú hợp pháp tại Việt Nam.

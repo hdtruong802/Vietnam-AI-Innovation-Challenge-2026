@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014523
+Số quyết định: 4063/QĐ-BKHCN
+Tên thủ tục: Thủ tục xét tài trợ, đặt hàng nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    - Tổ chức đề xuất đăng ký xét tài trợ, đặt hàng thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo nộp hồ sơ theo quy định đến cơ quan quản lý nhiệm vụ;
+    - Trường hợp hồ sơ không hợp lệ, cơ quan quản lý nhiệm vụ thông báo cho tổ chức đề xuất trong thời hạn 10 ngày kể từ ngày hết hạn nộp hồ sơ theo Thông báo;
+    - Việc xét tài trợ, đặt hàng được thông qua hội đồng xét tài trợ, đặt hàng (sau đây gọi tắt là hội đồng) và/hoặc ý kiến của các chuyên gia phản biện;
+    - Trên cơ sở biên bản họp hội đồng, trong thời gian tối đa 03 ngày làm việc kể từ ngày có biên bản họp, cơ quan quản lý nhiệm vụ thông báo kết quả cho tổ chức đề xuất;
+    - Tổ chức đề xuất xem xét tiếp thu ý kiến đóng góp của hội đồng, bổ sung dự toán kinh phí chi tiết thực hiện nhiệm vụ và gửi về cơ quan quản lý nhiệm vụ trong vòng 15 ngày kể từ thời điểm nhận được thông báo;
+    - Cơ quan quản lý nhiệm vụ chịu trách nhiệm tổ chức thẩm định kinh phí nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo thông qua Tổ thẩm định;
+    - Trong thời gian tối đa 03 ngày làm việc kể từ ngày có biên bản thẩm định kinh phí, cơ quan quản lý nhiệm vụ thông báo kết quả cho tổ chức đề xuất.
+    - Tổ chức đề xuất có trách nhiệm hoàn thiện dự toán kinh phí và gửi về cơ quan quản lý nhiệm vụ trong vòng 07 ngày làm việc kể từ thời điểm nhận thông báo;
+    - Cơ quan quản lý nhiệm vụ xem xét, quyết định phê duyệt tổ chức chủ trì tối đa là 110 ngày kể từ ngày hết hạn nộp hồ sơ đề xuất nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 110 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 110 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 110 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Hoàn thiện sau họp Hội đồng: ]
+    - Báo cáo giải trình, tiếp thu ý kiến của Hội đồng
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Dự toán kinh phí chi tiết (không quá 05 trang)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Thuyết minh nhiệm vụ đã được chỉnh sửa
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ Hoàn thiện sau thẩm định kinh phí ]
+    - Dự toán kinh phí thực hiện nhiệm vụ đã hoàn thiện
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Báo cáo giải trình, tiếp thu ý kiến của Tổ thẩm định kinh phí
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ Nộp đăng ký ban đầu: ]
+    - Đơn đăng ký chủ trì thực hiện nhiệm vụ:
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Tài liệu chứng minh tư cách pháp lý của tổ chức chủ trì.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Văn bản cam kết phối hợp/đồng tài trợ thực hiện nhiệm vụ
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Các tài liệu khác... (tùy thuộc loại hình nhiệm vụ)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Thuyết minh nhiệm vụ hoặc chuỗi nhiệm vụ
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt tổ chức chủ trì, kinh phí, phương thức khoán chi và thời gian thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo
+Căn cứ pháp lý:
+  * Luật số 93/2025/QH15 của Quốc hội: Luật Khoa học, công nghệ và đổi mới sáng tạo (93/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

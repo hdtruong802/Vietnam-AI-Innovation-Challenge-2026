@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011665
+Số quyết định: 964/QĐ-BTC
+Tên thủ tục: Thủ tục xét hoàn thuế xe ô tô chuyên dùng được sản xuất, lắp ráp từ xe ô tô sát xi
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Sau khi xe ô tô chuyên dùng được Bộ Công an cho phép đăng ký lưu hành (có giấy phép đăng ký lưu hành), doanh nghiệp gửi hồ sơ đến Cục Hải quan địa phương nơi doanh nghiệp làm thủ tục nhập khẩu hồ sơ để làm thủ tục xét hoàn thuế nhập khẩu.
+    - Cơ quan hải quan căn cứ hồ sơ doanh nghiệp gửi, xác định nếu tổng số tiền thuế nhập khẩu phải nộp cho bộ linh kiện hoặc xe ô tô sát xi cao hơn số tiền thuế nhập khẩu phải nộp tính theo mặt hàng xe ô tô đó ở dạng nguyên chiếc thì hoàn lại một phần số thuế nhập khẩu đã nộp theo cách tính như sau:
+    Số thuế nhập khẩu được hoàn	=	Số thuế nhập khẩu đã nộp cho toàn bộ linh kiện/xe ô tô sát xi đã đóng thành xe ô tô nguyên chiếc, tính theo mức thuế suất thuế nhập khẩu ưu đãi của từng linh kiện quy định tại Mục I Phụ lục II Biểu thuế nhập khẩu tại thời điểm tính thuế	-	Số thuế nhập khẩu phải nộp cho toàn bộ linh kiện/xe ô tô sát xi đã đóng thành xe ô tô nguyên chiếc, tính theo mức thuế suất thuế nhập khẩu ưu đãi của xe ô tô nguyên chiếc tại thời điểm tính thuế nhập khẩu ưu đãi linh kiện/xe ô tô sát xi
+    Trong đó:
+    - Trị giá tính thuế nhập khẩu trong cách tính trên được thực hiện thống nhất theo trị giá tính thuế nhập khẩu áp dụng đối với Tờ khai hàng hoá nhập khẩu linh kiện/xe ô tô sát xi.
+    - Trường hợp tổng số tiền thuế nhập khẩu phải nộp cho toàn bộ linh kiện hoặc xe ô tô sát xi thấp hơn số tiền thuế nhập khẩu phải nộp tính theo mặt hàng xe ô tô đó ở dạng nguyên chiếc thì doanh nghiệp không phải nộp thêm số thuế chênh lệch này.
+    Thủ tục, trình tự hoàn thuế thực hiện theo quy định tại pháp luật quản lý thuế và hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Công văn yêu cầu hoàn thuế: 01 bản chính, trong đó nêu rõ: + Tên doanh nghiệp, mã số doanh nghiệp; + Số tờ khai hàng hóa nhập khẩu đề nghị hoàn thuế; tên hàng, số thứ tự dòng hàng, số lượng hàng hóa trên tờ khai hải quan (đối với trường hợp đề nghị hoàn thuế một phần của tờ khai hải quan); số lượng xe ô tô chuyên dùng đã sản xuất, lắp ráp; Số hợp đồng có liên quan đến hàng hóa nhập khẩu đề nghị hoàn thuế; + Số tiền thuế nhập khẩu đã nộp; số tiền thuế yêu cầu hoàn trả.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Công văn yêu cầu hoàn thuế: 01 bản chính, trong đó nêu rõ: + Tên doanh nghiệp, mã số doanh nghiệp; + Số tờ khai hàng hóa nhập khẩu đề nghị hoàn thuế; tên hàng, số thứ tự dòng hàng, số lượng hàng hóa trên tờ khai hải quan (đối với trường hợp đề nghị hoàn thuế một phần của tờ khai hải quan); số lượng xe ô tô chuyên dùng đã sản xuất, lắp ráp; Số hợp đồng có liên quan đến hàng hóa nhập khẩu đề nghị hoàn thuế; + Số tiền thuế nhập khẩu đã nộp; số tiền thuế yêu cầu hoàn trả.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy chứng nhận chất lượng xe ô tô chuyên dùng do Cục Đăng kiểm Việt Nam cấp: 01 bản chụp
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Giấy phép lưu hành xe do Bộ Công an cấp: 01 bản chụp. Trường hợp khai hải quan trên tờ khai hải quan giấy, nộp thêm 01 bản chính tờ khai hải quan nhập khẩu đã được thông quan theo quy định pháp luật quản lý thuế và hải quan.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Giấy chứng nhận chất lượng xe ô tô chuyên dùng do Cục Đăng kiểm Việt Nam cấp: 01 bản chụp
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Giấy phép lưu hành xe do Bộ Công an cấp: 01 bản chụp. Trường hợp khai hải quan trên tờ khai hải quan giấy, nộp thêm 01 bản chính tờ khai hải quan nhập khẩu đã được thông quan theo quy định pháp luật quản lý thuế và hải quan.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Cục Hải quan
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cơ quan hải quan thực hiện xét hoàn thuế cho doanh nghiệp
+Căn cứ pháp lý:
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Thuế xuất khẩu, thuế nhập khẩu (107/2016/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

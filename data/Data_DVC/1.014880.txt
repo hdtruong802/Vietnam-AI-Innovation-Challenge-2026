@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014880
+Số quyết định: 1263/QĐ-BKHCN
+Tên thủ tục: Thủ tục điều chỉnh nội dung quyết định chứng nhận chuẩn đo lường dùng trực tiếp để kiểm định phương tiện đo nhóm 2
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+    Bước 1: Khi có nhu cầu điều chỉnh nội dung của quyết định chứng nhận chuẩn đo lường đã được cấp, tổ chức đề nghị lập 01 bộ hồ sơ đề nghị điều chỉnh và gửi đến cơ quan được giao tiếp nhận hồ sơ tại tỉnh, thành phố nơi tổ chức đặt địa chỉ trụ sở chính.
+    Bước 2: Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, cấp quyết định chứng nhận chuẩn đo lường dùng trực tiếp để kiểm định phương tiện đo nhóm 2.
+    - Trường hợp hồ sơ hợp lệ, trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, cấp quyết định chứng nhận chuẩn đo lường dùng trực tiếp để kiểm định phương tiện đo nhóm 2.
+    - Trường hợp hồ sơ không hợp lệ, trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Chủ tịch Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản cho tổ chức đề nghị về lý do từ chối giải quyết hồ sơ hoặc những nội dung cần hoàn thiện.
+    - Nếu tổ chức đề nghị không hoàn thiện hồ sơ theo quy định trong thời hạn 90 ngày kể từ ngày ban hành văn bản thông báo những nội dung cần hoàn thiện, Chủ tịch Ủy ban nhân dân cấp tỉnh thực hiện kết thúc việc giải quyết hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản sao có đóng dấu sao y của tổ chức hoặc bản sao điện tử các tài liệu, giấy tờ có liên quan đến nội dung điều chỉnh (đối với trường hợp điều chỉnh thông tin của tổ chức sau khi hợp nhất, sáp nhập, đổi tên, chia, tách, chuyển đổi hình thức, thay đổi địa chỉ…).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Công văn đề nghị có nêu rõ nội dung điều chỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao (có xác nhận sao y bản chính của tổ chức đề nghị) hoặc bản sao điện tử giấy chứng nhận hiệu chuẩn của chuẩn công tác hoặc giấy chứng nhận kết quả thử nghiệm hoặc so sánh (Certificate of analysis) của chất chuẩn đáp ứng quy định tại Điều 9 Thông tư số 54/2025/TT-BKHCN và ảnh chụp của chuẩn đo lường đáp ứng quy định tại khoản 3 Điều 11 Thông tư số 54/2025/TT-BKHCN (đối với trường hợp điều chỉnh thông tin của chuẩn đo lường hoặc bổ sung lĩnh vực kiểm định)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Cơ quan khác
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định chứng nhận chuẩn đo lường dùng trực tiếp để kiểm định phương tiện đo nhóm 2 (theo Mẫu số 09 tại Phụ lục ban hành kèm theo Thông tư số 54/2025/TT-BKHCN)
+Căn cứ pháp lý:
+  * Luật Đo lường (04/2011/QH13)
+  * Luật Tổ chức chính quyền địa phương (72/2025/QH15)
+  * Nghị định sửa đổi, bổ sung một số điều của Nghị định số 105/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện hoạt động của tổ chức kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường được sửa đổi, bổ sung bởi Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 của Chính phủ và Nghị định số 133/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ (Nghị định số 36/2026/NĐ-CP)
+  * Thông tư quy định về hoạt động kiểm định, tiêu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường (Thông tư số 54/2025/TT-BKHCN)
+  * Luật Tổ chức Chính phủ 2025 (63/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

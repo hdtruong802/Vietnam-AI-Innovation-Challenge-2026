@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014993
+Số quyết định: 13
+Tên thủ tục: Thủ tục cấp lại Giấy chứng nhận đủ điều kiện hoạt động dịch vụ giám định công nghệ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    1. Việc cấp lại Giấy chứng nhận đủ điều kiện hoạt động dịch vụ giám định công nghệ áp dụng đối với tổ chức đã được cấp Giấy chứng nhận đủ điều kiện hoạt động giám định công nghệ bị mất hoặc thay đổi tên, địa chỉ của tổ chức;
+    2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ của tổ chức đề nghị cấp lại Giấy chứng nhận đủ điều kiện hoạt động dịch vụ giám định công nghệ theo quy định, Ủy ban nhân dân cấp tỉnh cấp lại Giấy chứng nhận; trường hợp không đáp ứng yêu cầu thì thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp trực tiếp tại Trung tâm Phục vụ hành chính công cấp tỉnh (Ủy ban nhân dân cấp tỉnh).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp trực tuyến tại Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc ứng dụng định danh quốc gia
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp qua dịch vụ bưu chính tới Trung tâm Phục vụ hành chính công cấp tỉnh (Ủy ban nhân dân cấp tỉnh).
+
+Thành phần hồ sơ:
+    - Đơn đăng ký cấp lại Giấy chứng nhận đủ điều kiện hoạt động dịch vụ giám định công nghệ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện hoạt động dịch vụ giám định công nghệ
+Căn cứ pháp lý:
+  * Thông tư số 09/2026/TT-BKHCN ngày 31 tháng 3 năm 2026 của Bộ trưởng Bộ Khoa học và Công nghệ quy định biểu mẫu phục vụ thẩm định công nghệ, đăng ký, cấp phép chuyển giao công nghệ, chứng nhận đủ điều kiện hoạt động dịch vụ đánh giá, giám định công nghệ và báo cáo tình hình thực hiện (09/2026/TT-BKHCN)
+  * Nghị định số 101/2026/NĐ-CP ngày 31 tháng 3 năm 2026 của Chính phủ quy định chi tiết một số điều và biện pháp để hướng dẫn thi hành Luật Chuyển giao công nghệ (101/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

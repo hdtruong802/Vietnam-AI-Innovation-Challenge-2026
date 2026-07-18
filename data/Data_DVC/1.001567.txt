@@ -1,0 +1,40 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001567
+Số quyết định: SỐ 64/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận và sửa đổi, bổ sung Giấy phép của ngân hàng thương mại trách nhiệm hữu hạn trong trường hợp tăng vốn điều lệ từ quỹ dự trữ bổ sung vốn điều lệ, lợi nhuận lũy kế chưa phân phối và các quỹ khác theo quy định của pháp luật
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    - Bước 1: Ngân hàng thương mại lập 01 bộ hồ sơ theo quy định gửi Ngân hàng Nhà nước.
+    - Bước 2: Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu ngân hàng thương mại bổ sung, hoàn thiện hồ sơ.
+    - Bước 3: Trong thời hạn 25 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước xem xét, có quyết định sửa đổi Giấy phép; trường hợp không chấp thuận, Ngân hàng Nhà nước có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Nghị quyết, quyết định của Hội đồng thành viên đối với ngân hàng thương mại trách nhiệm hữu hạn hai thành viên trở lên, Quyết định của chủ sở hữu đối với ngân hàng thương mại trách nhiệm hữu hạn một thành viên thông qua việc tăng mức vốn điều lệ của ngân hàng thương mại hoặc Quyết định của cấp có thẩm quyền thông qua việc đầu tư bổ sung vốn điều lệ của ngân hàng thương mại do Nhà nước nắm giữ 100% vốn điều lệ, trong đó tối thiểu phải có các nội dung sau: (i) Tổng mức vốn điều lệ dự kiến tăng thêm;  (ii) Các đợt dự kiến tăng mức vốn điều lệ;  (iii) Nguồn sử dụng để tăng vốn điều lệ; (iv) Thời gian dự kiến hoàn thành việc tăng vốn điều lệ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản đề nghị, trong đó tối thiểu bao gồm các nội dung sau: (i) Sự cần thiết của việc tăng mức vốn điều lệ; (ii) Mức vốn điều lệ hiện tại và mức vốn điều lệ dự kiến tăng; (iii) Thông tin về quỹ dự trữ bổ sung vốn điều lệ, lợi nhuận lũy kế chưa phân phối và các quỹ khác được xác định theo báo cáo tài chính riêng lẻ của năm liền kề năm đề nghị tăng vốn đã được kiểm toán bởi tổ chức kiểm toán độc lập theo quy định của pháp luật; thông tin về số tiền từ quỹ dự trữ bổ sung vốn điều lệ, lợi nhuận lũy kế chưa phân phối và các quỹ khác được sử dụng để tăng vốn điều lệ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định sửa đổi mức vốn điều lệ tại Giấy phép của ngân hàng thương mại trách nhiệm hữu hạn, Văn bản không chấp thuận tăng  mức vốn điều lệ tại Giấy phép
+Căn cứ pháp lý:
+  * 50/2025/TT-NHNN (số 50/2025/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

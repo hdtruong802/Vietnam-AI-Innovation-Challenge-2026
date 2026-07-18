@@ -1,0 +1,38 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013139
+Số quyết định: 6375/QĐ-BQP
+Tên thủ tục: Thủ tục đăng ký miễn nghĩa vụ quân sự thời chiến
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Nghĩa vụ quân sự
+Trình tự thực hiện:
+    Trong thời hạn 05 ngày, kể từ ngày công dân đã đăng ký nghĩa vụ quân sự nhận được quyết định bổ nhiệm hoặc được biên chế vào chức danh thuộc diện miễn gọi nhập ngũ trong thời chiến, thì cơ quan, tổ chức nơi công dân công tác thông báo hoặc cử đại diện mang quyết định bổ nhiệm hoặc giấy xác nhận chức danh thuộc diện miễn gọi nhập ngũ trong thời chiến đến Ban Chỉ huy quân sự cấp xã để làm thủ tục đưa ra khỏi danh sách đăng ký nghĩa vụ quân sự.
+    Công dân đã được đưa ra khỏi danh sách đăng ký nghĩa vụ quân sự nếu không còn giữ chức vụ hoặc chức danh thuộc diện miễn gọi nhập ngũ trong thời chiến thì cơ quan, tổ chức nơi công dân công tác thông báo hoặc cử đại diện đến Ban Chỉ huy quân sự cấp xã để đăng ký nghĩa vụ quân sự lại.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản chụp hoặc bản điện tử quyết định bổ nhiệm chức vụ hoặc giấy xác nhận của người đứng đầu cơ quan, tổ chức đối với chức danh công tác thuộc diện miễn gọi nhập ngũ trong thời chiến.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Ban chỉ huy quân sự cấp Xã
+Cơ quan có thẩm quyền: Ban chỉ huy quân sự cấp Xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Đăng ký miễn gọi nhập ngũ trong thời chiến cho công dân
+Căn cứ pháp lý:
+  * Nghĩa vụ quân sự (78/2015/QH13)
+  * Nghị định số 220/2025/NĐ-CP ngày 07 tháng 8 năm 2025 của  Chính phủ sửa đổi, bổ sung một số điều của một số Nghị định trong lĩnh vực  quốc phòng, quân sự khi tổ chức chính quyền địa phương hai cấp (220/2025/NĐ-CP)
+  * Nghị định 13/2016/NĐ-CP (13/2016/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

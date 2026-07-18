@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013781
+Số quyết định: 2069/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục chấp thuận thay đổi nội dung ghi trong giấy phép hoạt động báo chí đối với cơ quan báo chí của địa phương
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Báo chí
+Trình tự thực hiện:
+    - Giấy phép hoạt động báo chí gồm: (1) giấy phép hoạt động báo in, (2) giấy phép hoạt động tạp chí in, (3) giấy phép hoạt động báo điện tử, (4) giấy phép hoạt động tạp chí điện tử, (5) giấy phép xuất bản thêm ấn phẩm báo chí, (6) giấy phép hoạt động báo in và báo điện tử, (7) giấy phép hoạt động tạp chí in và tạp chí điện tử.
+    - Khi thay đổi các nội dung ghi trong Giấy phép hoạt động báo chí theo quy định tại khoản 3 Điều 20 Luật Báo chí (hình thức trình bày, vị trí của tên gọi cơ quan báo chí, chuyên trang; kỳ hạn xuất bản, số trang, khuôn khổ; những nội dung thay đổi không quy định tại Khoản 1 và Khoản 2 Điều 20 Luật Báo chí), cơ quan chủ quản báo chí lập 01 bộ hồ sơ đề nghị chấp thuận việc thay đổi gửi đến cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh.
+    - Trường hợp hồ sơ không đúng theo quy định, trong 02 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh có văn bản thông báo yêu cầu hoàn thiện hồ sơ.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận hồ sơ đúng theo quy định, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh có trách nhiệm xem xét, trình Ủy ban nhân dân cấp tỉnh chấp thuận bằng văn bản; trường hợp không chấp thuận phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Đối với thay đổi nội dung ghi trong giấy phép hoạt động báo in, giấy phép hoạt động tạp chí in, thay đổi nội dung loại hình báo in, tạp chí in trong giấy phép thực hiện hai loại hình báo chí. Hồ sơ gồm có: ]
+    - + Mẫu trình bày tên gọi ấn phẩm báo chí dự kiến thay đổi có xác nhận của cơ quan chủ quản báo chí (đối với trường hợp thay đổi hình thức trình bày, vị trí của tên gọi ấn phẩm báo chí).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản đề nghị của cơ quan chủ quản báo chí
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với thay đổi nội dung ghi trong giấy phép hoạt động báo điện tử, giấy phép hoạt động tạp chí điện tử, thay đổi nội dung loại hình báo điện tử, tạp chí điện tử trong giấy phép thực hiện hai loại hình báo chí. Hồ sơ gồm có: ]
+    - + Mẫu trình bày giao diện trang chủ của báo điện tử, tạp chí điện tử, chuyên trang dự kiến thay đổi có xác nhận của cơ quan chủ quản báo chí (đối với trường hợp thay đổi giao diện trang chủ của báo điện tử, tạp chí điện tử, chuyên trang).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Mẫu trình bày tên gọi cơ quan báo chí, tên gọi chuyên trang dự kiến thay đổi có xác nhận của cơ quan chủ quản báo chí (đối với trường hợp thay đổi hình thức trình bày, vị trí tên gọi cơ quan báo chí, tên gọi chuyên trang);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch tỉnh Tây Ninh, Sở Văn hóa và Thể thao Thành phố Hà Nội
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận thay đổi nội dung ghi trong giấy phép hoạt động báo chí đối với cơ quan báo chí của địa phương
+Căn cứ pháp lý:
+  * Thông tư 41/2020/TT-BTTTT (41/2020/TT-BTTTT)
+  * Luật báo chí (103/2016/QH13)
+  * Nghị định quy định về phân quyền, phân cấp trong lĩnh vực văn hóa, thể thao và du lịch (138/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

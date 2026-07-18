@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007854
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục xuất khẩu nguyên liệu, vật tư đặt gia công ở nước ngoài
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Người khai hải quan thực hiện việc khai báo hải quan và xuất trình hồ sơ hải quan (trong trường hợp phải kiểm tra hồ sơ), xuất trình thực tế hàng hoá (trong trường hợp phải kiểm tra thực tế hàng hoá) cho cơ quan hải quan.
+    Bước 2: Cơ quan hải quan thực hiện việc thông quan hàng hoá cho người khai hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20 VNĐ (20.000Đ/tờ khai)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20 VNĐ (20.000Đ/tờ khai)
+
+Thành phần hồ sơ:
+  [ Ngoài các chứng từ nêu trên, tùy từng trường hợp, người khai hải quan phải nộp thêm chứng từ: ]
+    - Văn bản thông báo về việc hàng hóa xuất khẩu là tài nguyên, khoáng sản, sản phẩm có tổng trị giá tài nguyên, khoáng sản cộng với chi phí năng lượng chiếm dưới 51% giá thành sản phẩm: 01 bản chính. Người khai hải quan chỉ phải nộp văn bản thông báo tại thời điểm thực hiện thủ tục hải quan xuất khẩu lô hàng đầu tiên. Đối với các lô hàng xuất khẩu tiếp theo, người khai hải quan khai cụ thể số, ngày văn bản thông báo tại tiêu chí “Phần ghi chú” theo định dạng như sau: “TNKSD51: số văn bản, ngày văn bản” trên các tờ khai hải quan xuất khẩu cùng mặt hàng.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Giấy phép xuất khẩu hoặc văn bản cho phép xuất khẩu của cơ quan có thẩm quyền theo pháp luật về quản lý ngoại thương đối với hàng hóa xuất khẩu thuộc diện quản lý theo giấy phép:  + Nếu xuất khẩu một lần: 01 bản chính;  Nếu xuất khẩu nhiều lần: 01 bản chính khi xuất khẩu lần đầu.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Bảng kê lâm sản đối với gỗ nguyên liệu xuất khẩu theo quy định của Bộ Nông nghiệp và Phát triển nông thôn: 01 bản chính;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Hóa đơn thương mại hoặc chứng từ có giá trị tương đương trong trường hợp người mua phải thanh toán cho người bán: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Hợp đồng ủy thác: 01 bản chụp đối với trường hợp ủy thác xuất khẩu hàng hóa thuộc diện phải có giấy phép xuất khẩu, giấy chứng nhận kiểm tra chuyên ngành hoặc phải có chứng từ chứng minh tổ chức, cá nhân đủ điều kiện xuất khẩu hàng hóa theo quy định của pháp luật về đầu tư mà người nhận ủy thác sử dụng giấy phép hoặc chứng từ xác nhận của người giao ủy thác;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 2 Điều 25 Nghị định số 08/2015/NĐ-CP được sửa đổi, bổ sung tại khoản 12 Điều 1 Nghị định số 59/2018/NĐ-CP ngày 20 tháng 4 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 08/2015/NĐ-CP, người khai hải quan khai và nộp 02 bản chính tờ khai hải quan theo mẫu HQ/2015/XK Phụ lục IV ban hành kèm Thông tư 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Giấy thông báo miễn kiểm tra hoặc giấy thông báo kết quả kiểm tra chuyên ngành hoặc chứng từ khác theo quy định của pháp luật về quản lý, kiểm tra chuyên ngành (sau đây gọi tắt là Giấy chứng nhận kiểm tra chuyên ngành): 01 bản chính
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Chứng từ chứng minh tổ chức, cá nhân đủ điều kiện xuất khẩu hàng hóa theo quy định của pháp luật về đầu tư: nộp 01 bản chụp khi làm thủ tục xuất khẩu lô hàng đầu tiên;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Tờ khai hải quan theo các chỉ tiêu thông tin quy định tại mẫu số 02 Phụ lục II ban hành kèm Thông tư 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính (đã sửa đổi, bổ sung tại Phụ lục I ban hành kèm Thông tư 39/2018/TT-BTC ngày 20/42018).
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông quan hàng hóa xuất khẩu
+Căn cứ pháp lý:
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Về giao dịch điện tử trong hoạt động tài chính (27/2007/NĐ-CP)
+  * Thông tư số 39/2018/TT-BTC ngày 20/4/2018 của Bộ Tài chính sửa đổi, bổ sung một số điều tại Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu. (39/2018/TT-BTC)
+  * Thông tư số 274/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí hải quan và lệ phí hàng hóa, phương tiện quá cảnh. (274/2016/TT-BTC)
+  * Nghị định 156/2016/NĐ-CP (156/2016/NĐ-CP)
+  * Luật 51/2005/QH11 (51/2005/QH11)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

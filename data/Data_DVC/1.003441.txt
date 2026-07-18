@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003441
+Số quyết định: 775/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp lại Giấy chứng nhận đủ điều kiện kinh doanh hoạt động thể thao trong trường hợp thay đổi nội dung ghi trong giấy chứng nhận
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thể dục thể thao
+Trình tự thực hiện:
+    - Doanh nghiệp gửi hồ sơ qua bưu chính hoặc trên môi trường điện tử hoặc nộp trực tiếp đến Cơ quan chuyên môn về thể dục, thể thao thuộc Ủy ban nhân dân cấp tỉnh nơi đăng ký địa điểm kinh doanh hoạt động thể thao hoặc nơi doanh nghiệp có trụ sở chính trường hợp doanh nghiệp có nhiều địa điểm kinh doanh hoạt động thể thao.
+    - Cơ quan chuyên môn về thể dục, thể thao thuộc Ủy ban nhân dân cấp tỉnh (sau đây gọi là cơ quan cấp Giấy chứng nhận) cấp cho doanh nghiệp giấy tiếp nhận hồ sơ.
+    - Trường hợp hồ sơ cần sửa đổi, bổ sung, cơ quan cấp Giấy chứng nhận đủ điều kiện thông báo trực tiếp hoặc bằng văn bản những nội dung cần sửa đổi, bổ sung đến doanh nghiệp trong thời hạn ba (03) ngày làm việc, kể từ ngày nhận hồ sơ. Trong thời hạn năm (05) ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan cấp Giấy chứng nhận đủ điều kiện thẩm định hồ sơ, cấp lại Giấy chứng nhận đủ điều kiện. Trường hợp từ chối, phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Do Hội đồng nhân dân cấp tỉnh, thành phố trực thuộc trung ương quy định. )
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Do Hội đồng nhân dân cấp tỉnh, thành phố trực thuộc trung ương quy định. )
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Do Hội đồng nhân dân cấp tỉnh, thành phố trực thuộc trung ương quy định. )
+
+Thành phần hồ sơ:
+    - Đơn đề nghị  Cấp lại  giấy chứng nhận đủ điều kiện kinh doanh hoạt động thể thao (theo mẫu số 03 Phụ lục III Nghị định số 31/2024/NĐ-CP ngày 15/3/2024)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh sự thay đổi nội dung của Giấy chứng nhận đủ điều kiện.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng nhận đủ điều kiện đã được cấp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Công dân Việt Nam
+Cơ quan thực hiện: Cơ quan chuyên môn về thể dục, thể thao thuộc Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện kinh doanh hoạt động thể thao (mẫu số 01 Phụ lục III Nghị định số 31/2024/NĐ-CP ngày 15/3/2024)
+Căn cứ pháp lý:
+  * SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT THỂ DỤC, THỂ THAO (26/2018/QH14)
+  * Sửa đổi, bổ sung một số điều của Nghị định số 01/2012/NĐ-CP, Nghị định số 61/2016/NĐ-CP và Nghị định số 36/2019/NĐ-CP (31/2024/NĐ-CP)
+  * Nghị định 36/2019/NĐ-CP (36/2019/NĐ-CP)
+  * Phí và lệ phí (97/2015/QH13)
+  * Luật 77/2006/QH11 (77/2006/QH11)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

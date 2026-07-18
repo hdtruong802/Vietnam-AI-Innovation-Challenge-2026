@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013836
+Số quyết định: 160/QĐ-BTP
+Tên thủ tục: Thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công chứng
+Trình tự thực hiện:
+    - Văn phòng công chứng thuộc trường hợp quy định tại khoản 1 Điều 26 của Luật Công chứng lập 01 bộ hồ sơ theo quy định, nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử về Sở Tư pháp nơi đăng ký hoạt động.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp ghi nhận nội dung thay đổi vào giấy đăng ký hoạt động của Văn phòng công chứng; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ ()
+    Mô tả: - Đối với trường hợp thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng do Văn phòng công chứng thay đổi tên, địa chỉ trụ sở, Trưởng Văn phòng công chứng thì được Sở Tư pháp cấp lại giấy đăng ký hoạt động, mức phí: 500.000đ;
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ ()
+    Mô tả: - Đối với trường hợp thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng do Văn phòng công chứng thay đổi tên, địa chỉ trụ sở, Trưởng Văn phòng công chứng thì được Sở Tư pháp cấp lại giấy đăng ký hoạt động, mức phí: 500.000đ;
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ ()
+    Mô tả: - Đối với trường hợp thay đổi nội dung đăng ký hoạt động của Văn phòng công chứng do Văn phòng công chứng thay đổi tên, địa chỉ trụ sở, Trưởng Văn phòng công chứng thì được Sở Tư pháp cấp lại giấy đăng ký hoạt động, mức phí: 500.000đ;
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Đối với trường hợp thay đổi nội dung đăng ký hoạt động khác thì Sở Tư pháp ghi nhận nội dung thay đổi vào giấy đăng ký hoạt động của Văn phòng công chứng, mức phí: 0đ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Đối với trường hợp thay đổi nội dung đăng ký hoạt động khác thì Sở Tư pháp ghi nhận nội dung thay đổi vào giấy đăng ký hoạt động của Văn phòng công chứng, mức phí: 0đ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Đối với trường hợp thay đổi nội dung đăng ký hoạt động khác thì Sở Tư pháp ghi nhận nội dung thay đổi vào giấy đăng ký hoạt động của Văn phòng công chứng, mức phí: 0đ.
+
+Thành phần hồ sơ:
+    - Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử giấy tờ chứng minh nội dung đề nghị thay đổi; trường hợp bổ sung công chứng viên hợp danh thì phải có giấy tờ chứng minh đã nộp đủ số vốn góp theo thoả thuận và 02 ảnh 2cm x 3 cm của công chứng viên được bổ sung
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị thay đổi nội dung đăng ký hoạt động theo mẫu do Bộ trưởng Bộ Tư pháp quy định
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Tư pháp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy đăng ký hoạt động Văn phòng công chứng được cấp lại hoặc được ghi nhận nội dung thay đổi
+Căn cứ pháp lý:
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý, sử dụng phí công chứng; phí chứng thực bản sao từ bản chính, chứng thực chữ ký trong giấy tờ, văn bản; phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng; phí thẩm định điều kiện hoạt động Văn phòng công chứng; lệ phí cấp thẻ công chứng viên (257/2016/TT-BTC)
+  * Thông tư 05/2025/TT-BTP hướng dẫn Luật Công chứng do Bộ trưởng Bộ Tư pháp ban hành (05/2025/TT-BTP)
+  * Nghị định số 104/2025/NĐ-CP ngày 15/5/2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Công chứng (104/2025/NĐ-CP)
+  * Luật Công chứng năm 2024 (46/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không.
+Từ khóa: Không có thông tin
+Mô tả: Không.

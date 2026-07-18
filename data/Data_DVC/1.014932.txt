@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014932
+Số quyết định: 217/QĐ-BNV
+Tên thủ tục: THỦ TỤC CÔNG NHẬN ĐIỀU LỆ (SỬA ĐỔI, BỔ SUNG) QUỸ; ĐỔI TÊN QUỸ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý nhà nước về hội, quỹ
+Trình tự thực hiện:
+    - Bước 1: Trong quá trình hoạt, quỹ thấy cần thiết (hoặc theo yêu cầu của cơ quan nhà nước có thẩm quyền) sửa đổi, bổ sung điều lệ quỹ, đổi tên quỹ, Hội đồng quản lý quỹ gửi hồ sơ đến Bộ Nội vụ đề nghị công nhận điều lệ (sửa đổi, bổ sung) quỹ; đổi tên quỹ.
+    - Bước 2: Cán bộ tiếp nhận hồ sơ xem xét hồ sơ và đề nghị bổ sung trong trường hợp hồ sơ chưa đầy đủ và hợp pháp. Trường hợp từ chối tiếp nhận, giải quyết hồ sơ phải nêu rõ lý do.
+    - Bước 3: Vụ Tổ chức phi chính phủ nghiên cứu, thẩm định hồ sơ, thực hiện quy trình lấy ý kiến các cơ quan có liên quan; tổng hợp các ý kiến góp ý đề nghị bổ sung thêm hồ sơ theo ý kiến góp ý (nếu có).
+    - Bước 4: Bộ Nội vụ quyết định công nhận điều lệ (sửa đổi, bổ sung) quỹ; đổi tên quỹ. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Bộ Nội vụ hoặc qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến. - 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ và ý kiến của các cơ quan liên quan về việc công nhận điều lệ (sửa đổi, bổ sung) quỹ;
+- 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ về việc đổi tên quỹ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Bộ Nội vụ hoặc qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến. - 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ và ý kiến của các cơ quan liên quan về việc công nhận điều lệ (sửa đổi, bổ sung) quỹ;
+- 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ về việc đổi tên quỹ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Bộ Nội vụ hoặc qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến. - 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ và ý kiến của các cơ quan liên quan về việc công nhận điều lệ (sửa đổi, bổ sung) quỹ;
+- 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ về việc đổi tên quỹ.
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị công nhận điều lệ (sửa đổi, bổ sung) quỹ và đổi tên (nếu có) (theo mẫu);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Nghị quyết của Hội đồng quản lý quỹ nêu rõ lý do về việc sửa đổi, bổ sung điều lệ quỹ và đổi tên quỹ (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Dự thảo điều lệ sửa đổi, bổ sung (theo mẫu).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Ý kiến đồng ý bằng văn bản của sáng lập viên hoặc người đại diện hợp pháp của sáng lập viên (nếu có) đối với trường hợp đổi tên quỹ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận điều lệ (sửa đổi, bổ sung) quỹ, Quyết định đổi tên và công nhận điều lệ quỹ
+Căn cứ pháp lý:
+  * Nghị định Về tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện (03/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Đổi tên quỹ thì tên mới của quỹ phải đáp ứng các điều kiện sau:
+- Quỹ phải có tên bằng tiếng Việt và có thể được dịch ra tiếng nước ngoài theo quy định của pháp luật và phù hợp với tôn chỉ, mục đích, phạm vi, lĩnh vực hoạt động chính của quỹ;
+- Không trùng lặp hoặc gây nhầm lẫn với tên của quỹ khác đã được đăng ký hợp pháp trước đó;
+- Không vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc;
+- Không gắn với tên riêng của anh hùng dân tộc, danh nhân văn hóa, lãnh đạo và nguyên lãnh đạo Đảng, Nhà nước, các chức sắc tổ chức tôn giáo, tín ngưỡng, các sáng lập viên thành lập quỹ, thành viên Hội đồng quản lý quỹ và người thân thích của sáng lập viên, thành viên Hội đồng quản lý quỹ.
+- Không gây hiểu nhầm, dẫn đến mâu thuẫn, nguy cơ xung đột quan điểm, lợi ích giữa các tín ngưỡng, tổ chức tôn giáo, cộng đồng các dân tộc tại Việt Nam; không trái với quy định tại các điều ước quốc tế mà Việt Nam tham gia hoặc là thành viên; không ảnh hưởng đến lợi ích quốc gia của Việt Nam.
+Từ khóa: Không có thông tin
+Mô tả: Đổi tên quỹ thì tên mới của quỹ phải đáp ứng các điều kiện sau:
+- Quỹ phải có tên bằng tiếng Việt và có thể được dịch ra tiếng nước ngoài theo quy định của pháp luật và phù hợp với tôn chỉ, mục đích, phạm vi, lĩnh vực hoạt động chính của quỹ;
+- Không trùng lặp hoặc gây nhầm lẫn với tên của quỹ khác đã được đăng ký hợp pháp trước đó;
+- Không vi phạm truyền thống lịch sử, văn hóa, đạo đức và thuần phong mỹ tục của dân tộc;
+- Không gắn với tên riêng của anh hùng dân tộc, danh nhân văn hóa, lãnh đạo và nguyên lãnh đạo Đảng, Nhà nước, các chức sắc tổ chức tôn giáo, tín ngưỡng, các sáng lập viên thành lập quỹ, thành viên Hội đồng quản lý quỹ và người thân thích của sáng lập viên, thành viên Hội đồng quản lý quỹ.
+- Không gây hiểu nhầm, dẫn đến mâu thuẫn, nguy cơ xung đột quan điểm, lợi ích giữa các tín ngưỡng, tổ chức tôn giáo, cộng đồng các dân tộc tại Việt Nam; không trái với quy định tại các điều ước quốc tế mà Việt Nam tham gia hoặc là thành viên; không ảnh hưởng đến lợi ích quốc gia của Việt Nam.

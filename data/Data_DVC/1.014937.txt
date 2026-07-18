@@ -1,0 +1,85 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014937
+Số quyết định: 217/QĐ-BNV
+Tên thủ tục: THỦ TỤC CÔNG NHẬN QUỸ ĐỦ ĐIỀU KIỆN HOẠT ĐỘNG VÀ CÔNG NHẬN HỘI ĐỒNG QUẢN LÝ QUỸ; CÔNG NHẬN HỘI ĐỒNG QUẢN LÝ QUỸ KHI THAY ĐỔI, BỔ SUNG THÀNH VIÊN HOẶC HẾT NHIỆM KỲ (Cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý nhà nước về hội, quỹ
+Trình tự thực hiện:
+    - Bước 1: Sau khi được cấp giấy phép thành lập và công nhận điều lệ hoặc trong quá trình hoạt động nếu có sự thay đổi, bổ sung thành viên, hết nhiệm kỳ Hội đồng quản lý quỹ, quỹ gửi hồ sơ đến Ủy ban nhân dân cấp tỉnh đề nghị công nhận quỹ đủ điều kiện hoạt động (đối với quỹ mới được cấp giấy phép thành lập) và công nhận Hội đồng quản lý quỹ.
+    - Bước 2: Cán bộ tiếp nhận hồ sơ xem xét hồ sơ và đề nghị bổ sung trong trường hợp hồ sơ chưa đầy đủ và hợp pháp. Trường hợp từ chối tiếp nhận, giải quyết hồ sơ phải nêu rõ lý do.
+    - Bước 3: Cán bộ nghiên cứu, thẩm định hồ sơ, thực hiện quy trình lấy ý kiến các cơ quan có liên quan; tổng hợp các ý kiến góp ý đề nghị bổ sung thêm hồ sơ theo ý kiến góp ý (nếu có).
+    - Bước 4: Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định công nhận quỹ đủ điều kiện hoạt động và công nhận Hội đồng quản lý quỹ; công nhận Hội đồng quản lý quỹ khi thay đổi, bổ sung thành viên hoặc hết nhiệm kỳ. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh hoặc qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến. 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ về việc công nhận quỹ đủ điều kiện hoạt động và công nhận Hội đồng quản lý quỹ; Công nhận Hội đồng quản lý quỹ khi thay đổi, bổ sung thành viên hoặc hết nhiệm kỳ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh hoặc qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến. 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ về việc công nhận quỹ đủ điều kiện hoạt động và công nhận Hội đồng quản lý quỹ; Công nhận Hội đồng quản lý quỹ khi thay đổi, bổ sung thành viên hoặc hết nhiệm kỳ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh hoặc qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến. 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ về việc công nhận quỹ đủ điều kiện hoạt động và công nhận Hội đồng quản lý quỹ; Công nhận Hội đồng quản lý quỹ khi thay đổi, bổ sung thành viên hoặc hết nhiệm kỳ.
+
+Thành phần hồ sơ:
+  [ * Hồ sơ đề nghị công nhận quỹ đủ điều kiện hoạt động và công nhận Hội đồng quản lý quỹ: ]
+    - - Tài liệu chứng minh việc hoàn tất các thủ tục công bố về việc thành lập quỹ và chuyển tiền vào tài khoản quỹ, chuyển quyền sở hữu tài sản đóng góp thành lập quỹ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Danh sách, địa chỉ, số điện thoại liên hệ, sơ yếu lý lịch cá nhân (theo mẫu kèm theo Nghị định 03/2026/NĐ-CP) không quá 06 tháng tính đến ngày nộp hồ sơ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp cán bộ, công chức, viên chức tham gia Hội đồng quản lý quỹ, người đã nghỉ hưu được cấp có thẩm quyền theo quy định về phân cấp quản lý cán bộ đồng ý giới thiệu bầu Chủ tịch Hội đồng quản lý quỹ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp thành viên Hội đồng quản lý quỹ là người nước ngoài, sơ yếu lý lịch cá nhân (hoặc văn bản có nội dung tương tự) có xác nhận của cơ quan có thẩm quyền của nước người đó mang quốc tịch, đã được dịch thuật và hợp pháp hóa lãnh sự.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản liên quan đến việc bầu thành viên và các chức danh Hội đồng quản lý quỹ
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Hồ sơ đề nghị công nhận Hội đồng quản lý quỹ khi thay đổi, bổ sung thành viên hoặc hết nhiệm kỳ: ]
+    - - Văn bản nêu rõ lý do thay đổi, bổ sung thành viên Hội đồng quản lý quỹ hoặc công nhận Hội đồng quản lý quỹ nhiệm kỳ tiếp theo;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Danh sách, địa chỉ, số điện thoại liên hệ, sơ yếu lý lịch cá nhân (theo mẫu kèm theo Nghị định 03/2026/NĐ-CP) không quá 06 tháng tính đến ngày nộp hồ sơ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp cán bộ, công chức, viên chức tham gia Hội đồng quản lý quỹ, người đã nghỉ hưu được cấp có thẩm quyền theo quy định về phân cấp quản lý cán bộ đồng ý giới thiệu bầu Chủ tịch Hội đồng quản lý quỹ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp thành viên Hội đồng quản lý quỹ là người nước ngoài, sơ yếu lý lịch cá nhân (hoặc văn bản có nội dung tương tự) có xác nhận của cơ quan có thẩm quyền của nước người đó mang quốc tịch, đã được dịch thuật và hợp pháp hóa lãnh sự.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản bầu thành viên Hội đồng quản lý quỹ; văn bản bầu chức danh Chủ tịch, Phó Chủ tịch Hội đồng quản lý quỹ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp công nhận Hội đồng quản lý quỹ nhiệm kỳ tiếp theo: ]
+    - + Văn bản của Ban sáng lập quỹ đề cử Hội đồng quản lý quỹ, trường hợp sáng lập viên không đề cử thì có văn bản của Hội đồng quản lý quỹ nhiệm kỳ trước bầu ra Hội đồng quản lý quỹ nhiệm kỳ tiếp theo;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo tổng kết nhiệm kỳ tổ chức, hoạt động của quỹ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo về tình hình quản lý, sử dụng tài sản, tài chính của quỹ trong nhiệm kỳ và báo cáo kiểm toán (nếu có) về tình hình quản lý, sử dụng tài sản, tài chính của quỹ trong nhiệm kỳ theo quy định pháp luật.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận quỹ đủ điều kiện hoạt động và công nhận Hội đồng quản lý quỹ., Quyết định công nhận Hội đồng quản lý quỹ khi thay đổi, bổ sung thành viên hoặc hết nhiệm kỳ.
+Căn cứ pháp lý:
+  * Nghị định Về tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện (03/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: a) Quỹ được hoạt động khi đủ các điều kiện sau:
+- Có giấy phép thành lập và công nhận điều lệ do Ủy ban nhân dân cấp tỉnh cấp;
+- Đã công bố về việc thành lập quỹ;
+- Có văn bản xác nhận của ngân hàng nơi quỹ đăng ký mở tài khoản về số tiền mà từng sáng lập viên cam kết đóng góp để thành lập quỹ đã có đủ trong tài khoản của quỹ. Đối với tài sản khác, đã thực hiện việc chuyển quyền sở hữu tài sản theo quy định;
+- Quyết định của Chủ tịch Ủy ban nhân dân cấp tỉnh công nhận quỹ đủ điều kiện hoạt động và công nhận Hội đồng quản lý quỹ.
+b) Quỹ được công nhận Hội đồng quản lý quỹ:
+- Hội đồng quản lý quỹ là cơ quan quản lý của quỹ, nhân danh quỹ để quyết định, thực hiện các quyền và nghĩa vụ của quỹ; các thành viên phải có năng lực hành vi dân sự đầy đủ và không có án tích. Hội đồng quản lý quỹ có tối thiểu 03 thành viên gồm: Chủ tịch, các Phó Chủ tịch và các thành viên không phải là người thân thích với nhau, trong đó có tối thiểu 51% số lượng thành viên là công dân Việt Nam. Nhiệm kỳ Hội đồng quản lý quỹ do điều lệ quỹ định nhưng không quá 05 năm, tính từ ngày có quyết định công nhận của Chủ tịch Ủy ban nhân dân cấp tỉnh;
+- Trường hợp Hội đồng quản lý quỹ hết nhiệm kỳ, Hội đồng quản lý quỹ nhiệm kỳ tiếp theo sẽ do Ban sáng lập đề cử. Trường hợp không có đề cử của ban sáng lập, Hội đồng quản lý quỹ nhiệm kỳ trước bầu ra Hội đồng quản lý quỹ nhiệm kỳ tiếp theo. Chậm nhất 45 ngày làm việc trước ngày hết nhiệm kỳ, quỹ phải hoàn thành hồ sơ, thủ tục công nhận hội đồng quản lý hợp lệ gửi Ủy ban nhân dân cấp tỉnh công nhận. Hội đồng quản lý quỹ nhiệm kỳ trước điều hành hoạt động của quỹ cho đến khi có quyết định công nhận hội đồng quản lý nhiệm kỳ tiếp theo.
+Từ khóa: Không có thông tin
+Mô tả: a) Quỹ được hoạt động khi đủ các điều kiện sau:
+- Có giấy phép thành lập và công nhận điều lệ do Ủy ban nhân dân cấp tỉnh cấp;
+- Đã công bố về việc thành lập quỹ;
+- Có văn bản xác nhận của ngân hàng nơi quỹ đăng ký mở tài khoản về số tiền mà từng sáng lập viên cam kết đóng góp để thành lập quỹ đã có đủ trong tài khoản của quỹ. Đối với tài sản khác, đã thực hiện việc chuyển quyền sở hữu tài sản theo quy định;
+- Quyết định của Chủ tịch Ủy ban nhân dân cấp tỉnh công nhận quỹ đủ điều kiện hoạt động và công nhận Hội đồng quản lý quỹ.
+b) Quỹ được công nhận Hội đồng quản lý quỹ:
+- Hội đồng quản lý quỹ là cơ quan quản lý của quỹ, nhân danh quỹ để quyết định, thực hiện các quyền và nghĩa vụ của quỹ; các thành viên phải có năng lực hành vi dân sự đầy đủ và không có án tích. Hội đồng quản lý quỹ có tối thiểu 03 thành viên gồm: Chủ tịch, các Phó Chủ tịch và các thành viên không phải là người thân thích với nhau, trong đó có tối thiểu 51% số lượng thành viên là công dân Việt Nam. Nhiệm kỳ Hội đồng quản lý quỹ do điều lệ quỹ định nhưng không quá 05 năm, tính từ ngày có quyết định công nhận của Chủ tịch Ủy ban nhân dân cấp tỉnh;
+- Trường hợp Hội đồng quản lý quỹ hết nhiệm kỳ, Hội đồng quản lý quỹ nhiệm kỳ tiếp theo sẽ do Ban sáng lập đề cử. Trường hợp không có đề cử của ban sáng lập, Hội đồng quản lý quỹ nhiệm kỳ trước bầu ra Hội đồng quản lý quỹ nhiệm kỳ tiếp theo. Chậm nhất 45 ngày làm việc trước ngày hết nhiệm kỳ, quỹ phải hoàn thành hồ sơ, thủ tục công nhận hội đồng quản lý hợp lệ gửi Ủy ban nhân dân cấp tỉnh công nhận. Hội đồng quản lý quỹ nhiệm kỳ trước điều hành hoạt động của quỹ cho đến khi có quyết định công nhận hội đồng quản lý nhiệm kỳ tiếp theo.

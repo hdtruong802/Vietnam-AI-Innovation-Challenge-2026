@@ -1,0 +1,103 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014481
+Số quyết định: 2874/QĐ-UBND
+Tên thủ tục: Hỗ trợ bố trí dân cư tập trung, xen ghép (Đối với bố trí dân cư từ địa bàn xã/phường này sang địa bàn xã/phường khác)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Kinh tế hợp tác và Phát triển nông thôn
+Trình tự thực hiện:
+  * Tiếp nhận hồ sơ
+    Bước 1
+    Bước 2: Xử lý hồ sơ
+    2.1 Chuyển hồ sơ về cho Chi cục
+    Phát triển nông thôn và Quản lý
+    chất lượng thuộc Sở Nông
+    nghiệp và Môi trường xử lý
+    2.2 Duyệt hồ sơ và chuyển cho
+    chuyên viên xử lý
+    2.3 Kiểm tra hồ sơ:
+    - Trường hợp hồ sơ đủ điều
+    kiện: Tham mưu Sở Nông
+    nghiệp và Môi trường thành lập
+    Đoàn nghiệm thu, tổ chức
+    nghiệm thu kết quả thực hiện;
+    - Trường hợp hồ sơ không đủ
+    điều kiện: tham mưu Sở Nông
+    nghiệp và Môi trường ban hành
+    thông báo hồ sơ không đủ điều
+    kiện giải quyết (có nêu rõ lý
+    do); chuyển Trung tâm Phục vụ
+    hành chính công tỉnh trả kết
+    quả theo B3
+    2.4 Sau khi có Văn bản cử thành
+    viên tham gia Đoàn nghiệm thu
+    của các cơ quan liên quan:
+    Tham mưu Sở ban hành Quyết định thành lập Đoàn nghiệm
+    thu
+    2.5 Chuẩn bị hồ sơ, tài liệu liên
+    quan; tổ chức nghiệm thu kết
+    quả thực hiện
+    2.6 Căn cứ kết quả nghiệm thu, Dự
+    thảo thông báo kết quả nghiệm
+    thu trình lãnh đạo Chi cục xem
+    xét, ký nháy. Trường hợp hồ sơ
+    không đạt phải nêu rõ lý do.
+    2.7 Lãnh đạo Chi cục xem xét, ký
+    nháy Văn bản tại 2.6
+    Bước 3: Trả kết quả
+    3.1 Xem xét, ký duyệt văn bản tại
+    B8 đồng thời kết thúc xử lý trên
+    Hệ thống thông tin giải quyết
+    TTHC của tỉnh.
+    3.2 Trả kết quả cho UBND cấp xã
+    nơi đến
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Tiếp nhận và xử lý
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Tiếp nhận và xử lý
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Tiếp nhận và xử lý
+
+Thành phần hồ sơ:
+    - Tờ trình của UBND cấp xã nơi đến dự kiến triển khai dự án, phương án
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản kiểm tra địa bàn vùng dự án, phương án bố trí ổn định dân cư theo mẫu BM.NQ-PTNT.H.07.01
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Sổ theo dõi hồ sơ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản nghiệm thu số hộ gia đình, cá nhân được bố trí ổn định dân cư theo mẫu  BM.NQ-PTNT.H.07.03
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản giao, nhận số hộ gia đình, cá nhân được bố trí ổn định ổn định dân cư theo mẫu  BM.NQ-PTNT.H.07.02
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tiếp nhận hồ sơ và hẹn trả kết quả
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phiếu yêu cầu bổ sung hoàn thiện hồ sơ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phiếu từ chối tiếp nhận giải quyết hồ sơ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phiếu xin lỗi và hẹn lại ngày trả kết quả
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phiếu kiểm soát quá trình giải quyết hồ sơ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Sở Nông nghiệp và Môi trường - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền: Sở Nông nghiệp và Môi trường - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo không đủ điều kiện chấp thuận nghiệm thu đưa công trình vào sử dụng hoặc Văn bản thông báo kết quả nghiệm thu đưa công trình vào sử dụng
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

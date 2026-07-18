@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000344
+Số quyết định: 123/QĐ-CHHĐTVN
+Tên thủ tục: Phê duyệt phương án vận tải hàng hóa siêu trường hoặc hàng hóa siêu trọng trên đường thủy nội địa
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC
+    Tổ chức, cá nhân nộp hồ sơ đề nghị phê duyệt phương án vận tải hàng hóa siêu trường hoặc hàng hóa siêu trọng trên đường thủy nội địa đến cơ quan có thẩm quyền, cụ thể đến:
+    + Cục Hàng hải và Đường thủy Việt Nam hoặc Chi Cục hàng hải/Chi cục Đường thủy nội địa (đối với phương tiện thủy nội địa rời cảng thủy nội địa và hành trình trên tuyến đường thủy liên tỉnh và rời bến cảng biển);
+    + Sở Xây dựng, Sở Giao thông công chánh TP Hồ Chí Minh (đối với phương tiện thủy nội địa rời cảng thủy nội địa và hành trình trên tuyến đường thủy nội địa nội tỉnh).
+  * b) Giải quyết TTHC
+    Cơ quan có thẩm quyền phê duyệt tiếp nhận, kiểm tra hồ sơ và xử lý như sau:
+    - Trường hợp hồ sơ nộp trực tiếp, nếu hồ sơ đầy đủ thì cấp giấy biên nhận hồ sơ và hẹn trả kết quả theo thời hạn quy định; nếu hồ sơ không đầy đủ theo quy định thì trả lại ngay và hướng dẫn tổ chức, cá nhân hoàn thiện lại hồ sơ;
+    - Trường hợp hồ sơ nhận qua hệ thống bưu chính hoặc hình thức phù hợp khác, nếu hồ sơ không đầy đủ theo quy định, trong thời gian 01 ngày làm việc, kể từ ngày nhận được hồ sơ, Cơ quan có thẩm quyền phê duyệt có văn bản gửi tổ chức, cá nhân yêu cầu bổ sung, hoàn thiện lại hồ sơ;
+    - Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được đầy đủ hồ sơ theo quy định, Cơ quan có thẩm quyền phê duyệt có trách nhiệm tổ chức kiểm tra, phê duyệt phương án vận tải hàng hóa siêu trường, hàng hóa siêu trọng theo mẫu và gửi cho tổ chức, cá nhân để thực hiện. Trường hợp không phê duyệt phương án phải có văn bản trả lời nêu rõ lý do. Tổ chức, cá nhân không phải nộp phí hoặc lệ phí đối với việc phê duyệt phương án vận tải.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Phương án vận tải hàng hóa siêu trường hoặc hàng hóa siêu trọng theo các nội dung theo mẫu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị phê duyệt phương án vận tải hàng hóa siêu trường hoặc hàng hóa siêu trọng trên đường thủy nội địa theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Cục Hàng hải và Đường thủy Việt Nam, Sở Giao thông công chánh - TP.HCM, Chi cục đường thủy nội địa, Sở Xây dựng, Chi cục Hàng hải
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt phương án vận tải hàng hóa siêu trường hoặc hàng hóa siêu trọng trên đường thủy nội địa
+Căn cứ pháp lý:
+  * sửa đổi, bổ sung một số Điều của Luật 23/2004/QH11 2004 (48/2014/QH13)
+  * Giao thông đường thủy nội địa (23/2004/QH11)
+  * Nghị định 24/2015/NĐ-CP (24/2015/NĐ-CP)
+  * Quy định điều kiện kinh doanh vận tải đường thủy nội địa (110/2014/NĐ-CP)
+  * Quy định về vận tải hàng hóa trên đường thủy nội địa (61/2015/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

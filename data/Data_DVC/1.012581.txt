@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012581
+Số quyết định: 79/QĐ-BDTTG
+Tên thủ tục: Thủ tục đăng ký sửa đổi hiến chương của tổ chức tôn giáo có địa bàn hoạt động ở nhiều tỉnh (Cấp Trung ương)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tín ngưỡng, tôn giáo
+Trình tự thực hiện:
+    Bước 1: Tổ chức tôn giáo có địa bàn hoạt động ở nhiều tỉnh khi sửa đổi hiến chương gửi văn bản đăng ký đến Bộ phận Một cửa. của Bộ Dân tộc và Tôn giáo
+    - Bước 2: Bộ phận Một cửa xem xét văn bản đăng ký, trường hợp hồ sơ hợp lệ thì số hóa, xuất phiếu hẹn trả kết quả và chuyển Ban Tôn giáo Chính phủ tham mưu xử lý; trường hợp văn bản chưa đầy đủ, hợp lệ, Bộ phận Một cửa hướng dẫn trực tiếp hoặc thông báo qua thư điện tử, tin nhắn điện thoại hoặc văn bản cho tổ chức tôn giáo để bổ sung, hoàn thiện văn bản. Trường hợp từ chối tiếp nhận, giải quyết văn bản đăng ký phải nêu rõ lý do. Thời gian hoàn thiện văn bản đăng ký không tính vào thời hạn giải quyết.
+    - Bước 3:
+    + Ban Tôn giáo Chính phủ thẩm định hồ sơ, lấy ý kiến các cơ quan liên quan (nếu cần), trình kết quả thẩm định và đề xuất Lãnh đạo Bộ Dân tộc và Tôn giáo giải quyết TTHC.
+    + Lãnh đạo Bộ Dân tộc và Tôn giáo căn cứ Tờ trình của Ban Tôn giáo Chính phủ chấp thuận hoặc không chấp thuận hiến chương sửa đổi và gửi kết quả giải quyết về Bộ phận Tiếp nhận và trả kết quả của Ban Tôn giáo Chính phủ để trả cho tổ chức. Trường hợp không chấp thuận phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tuyến tại Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp qua dịch vụ bưu chính công ích; qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc ủy quyền theo quy định của pháp luật. Ngày tiếp nhận văn bản đăng ký được tính theo ngày ghi trên dấu công văn đến.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Đại diện tổ chức tôn giáo, tổ chức tôn giáo trực thuộc trực tiếp thực hiện hoặc ủy quyền cho người khác thực hiện nộp hồ sơ trực tiếp tại Bộ phận Một cửa của Bộ Dân tộc và Tôn giáo.
+
+Thành phần hồ sơ:
+    - + Hiến chương sửa đổi.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản đăng ký (theo mẫu);;.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Dân tộc và Tôn giáo, Ban Tôn giáo Chính phủ - Bộ Dân tộc và Tôn giáo
+Cơ quan có thẩm quyền: Bộ Dân tộc và Tôn giáo
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa, Bộ Dân tộc và Tôn giáo, số 349 Đội Cấn, phường NGọc Hà, TP Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản trả lời cho tổ chức tôn giáo  đăng ký sửa đổi hiến chương.
+Căn cứ pháp lý:
+  * Tín ngưỡng, tôn giáo (02/2016/QH14)
+  * Nghị định số 95/2023/NĐ-CP ngày 29/12/2023 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật tín ngưỡng, tôn giáo. (95/2023/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

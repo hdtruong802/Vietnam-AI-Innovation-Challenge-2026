@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013381
+Số quyết định: 2527/QĐ-BKHCN
+Tên thủ tục: Sửa đổi, bổ sung giấy phép thử nghiệm mạng và dịch vụ viễn thông
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    1. Trong thời hạn hiệu lực của giấy phép, doanh nghiệp được cấp phép gửi 01 bộ hồ sơ đề nghị sửa đổi, bổ sung giấy phép tới Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đặt trụ sở chính khi có thay đổi về tên tổ chức được cấp phép, cấu hình mạng, quy mô thử nghiệm, phạm vi hoạt động của mạng, loại hình dịch vụ cung cấp, đối tượng được cung cấp dịch vụ thử nghiệm.
+    Đối với trường hợp thay đổi địa chỉ trụ sở chính, doanh nghiệp được cấp phép không phải làm thủ tục sửa đổi, bổ sung giấy phép nhưng phải thông báo cho cơ quan cấp phép trong thời hạn 30 ngày kể từ ngày chính thức thay đổi.
+    2. Ủy ban nhân dân cấp tỉnh xét tính hợp lệ của hồ sơ trong 05 ngày làm việc kể từ ngày nhận được hồ sơ. Trường hợp hồ sơ không hợp lệ, trong 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản cho doanh nghiệp.
+    3. Trường hợp hồ sơ hợp lệ, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh xét sửa đổi, bổ sung giấy phép thử nghiệm mạng và dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền. Cơ quan cấp giấy phép có trách nhiệm gửi một bản sao cho Bộ Công an và Bộ Khoa học và Công nghệ (Cục Viễn thông) để thực hiện công tác quản lý nhà nước và phối hợp kiểm soát, bảo đảm an ninh thông tin.
+    4. Trường hợp từ chối cấp sửa đổi, bổ sung, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị cấp sửa đổi, bổ sung biết.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính)
+    Mô tả: - Ủy ban nhân dân cấp tỉnh xét tính hợp lệ của hồ sơ trong 05 ngày làm việc kể từ ngày nhận được hồ sơ. Trường hợp hồ sơ không hợp lệ, trong 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản cho doanh nghiệp.
+- Trường hợp hồ sơ hợp lệ, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh xét sửa đổi, bổ sung giấy phép thử nghiệm mạng và dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền.
+- Trường hợp từ chối cấp sửa đổi, bổ sung, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị cấp sửa đổi, bổ sung biết.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ Tài chính)
+    Mô tả: - Ủy ban nhân dân cấp tỉnh xét tính hợp lệ của hồ sơ trong 05 ngày làm việc kể từ ngày nhận được hồ sơ. Trường hợp hồ sơ không hợp lệ, trong 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản cho doanh nghiệp.
+- Trường hợp hồ sơ hợp lệ, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh xét sửa đổi, bổ sung giấy phép thử nghiệm mạng và dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền.
+- Trường hợp từ chối cấp sửa đổi, bổ sung, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị cấp sửa đổi, bổ sung biết.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính)
+    Mô tả: - Ủy ban nhân dân cấp tỉnh xét tính hợp lệ của hồ sơ trong 05 ngày làm việc kể từ ngày nhận được hồ sơ. Trường hợp hồ sơ không hợp lệ, trong 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản cho doanh nghiệp.
+- Trường hợp hồ sơ hợp lệ, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh xét sửa đổi, bổ sung giấy phép thử nghiệm mạng và dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền.
+- Trường hợp từ chối cấp sửa đổi, bổ sung, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị cấp sửa đổi, bổ sung biết.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị sửa đổi, bổ sung giấy phép thử nghiệm mạng và dịch vụ viễn thông
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Các tài liệu khác có liên quan đến việc sửa đổi, bổ sung nội dung giấy phép (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thử nghiệm mạng và dịch vụ viễn thông
+Căn cứ pháp lý:
+  * Quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng phí quyền hoạt động viễn thông, lệ phí cấp giấy phép kinh doanh dịch vụ viễn thông và giấy phép nghiệp vụ viễn thông (52/2025/TT-BTC)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29/4/2026 của Chính phủ ban hành Nghị quyết phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Viễn thông (163/2024/NĐ-CP)
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+
+Yêu cầu, điều kiện thực hiện: 1. Dịch vụ được đề nghị thử nghiệm là dịch vụ viễn thông chưa được quy định trong giấy phép viễn thông đã được cấp hoặc dịch vụ viễn thông có sử dụng tài nguyên viễn thông ngoài phạm vi tài nguyên viễn thông đã được phân bổ;
+2. Phạm vi và quy mô thử nghiệm được giới hạn để đánh giá công nghệ, thị trường trước khi kinh doanh chính thức;
+3. Phương án thử nghiệm phù hợp với quy định của pháp luật về kết nối, giá dịch vụ, tiêu chuẩn, quy chuẩn kỹ thuật viễn thông.
+Từ khóa: Không có thông tin
+Mô tả: 1. Dịch vụ được đề nghị thử nghiệm là dịch vụ viễn thông chưa được quy định trong giấy phép viễn thông đã được cấp hoặc dịch vụ viễn thông có sử dụng tài nguyên viễn thông ngoài phạm vi tài nguyên viễn thông đã được phân bổ;
+2. Phạm vi và quy mô thử nghiệm được giới hạn để đánh giá công nghệ, thị trường trước khi kinh doanh chính thức;
+3. Phương án thử nghiệm phù hợp với quy định của pháp luật về kết nối, giá dịch vụ, tiêu chuẩn, quy chuẩn kỹ thuật viễn thông.

@@ -64,8 +64,9 @@ def test_health_reports_fixture_capability(client: TestClient) -> None:
     response = client.get("/health")
 
     assert response.status_code == 200
-    assert response.json()["status"] == "ok"
+    assert response.json()["status"] == "degraded"
     assert response.json()["capabilities"]["procedure_data"] == "fixture"
+    assert response.json()["capabilities"]["procedure_guidance"] == "fixture"
 
 
 def test_procedures_list_only_the_three_mvp_ids(client: TestClient) -> None:
@@ -87,7 +88,10 @@ def test_recommend_and_intake_support_accented_vietnamese(client: TestClient) ->
     )
     intake = client.post(
         "/v1/intake/turn",
-        json={"session_id": "synthetic-session", "message": "Tôi muốn đăng ký thường trú"},
+        json={
+            "session_id": "synthetic-session",
+            "message": "Tôi muốn đăng ký thường trú",
+        },
     )
 
     assert recommend.status_code == 200
@@ -95,7 +99,10 @@ def test_recommend_and_intake_support_accented_vietnamese(client: TestClient) ->
     assert recommend.json()["trust_state"] == "official_review_required"
     assert intake.status_code == 200
     assert intake.json()["detected_procedure_id"] == "dang-ky-thuong-tru"
-    assert intake.json()["proposed_session_context"]["procedure_id"] == "dang-ky-thuong-tru"
+    assert (
+        intake.json()["proposed_session_context"]["procedure_id"]
+        == "dang-ky-thuong-tru"
+    )
 
 
 def test_fixture_checklist_and_precheck_fail_closed(client: TestClient) -> None:
@@ -111,12 +118,16 @@ def test_fixture_checklist_and_precheck_fail_closed(client: TestClient) -> None:
     assert checklist.status_code == 200
     assert checklist.json()["fixture_mode"] is True
     assert checklist.json()["trust_state"] == "official_review_required"
+    assert checklist.json()["procedure_card"] is None
+    assert checklist.json()["form_schema"] == {}
     assert validation.status_code == 200
     assert validation.json()["verdict"] is None
     assert validation.json()["trust_state"] == "official_review_required"
 
 
-def test_unknown_procedure_and_invalid_body_use_safe_error_envelope(client: TestClient) -> None:
+def test_unknown_procedure_and_invalid_body_use_safe_error_envelope(
+    client: TestClient,
+) -> None:
     unknown = client.post(
         "/v1/applications/validate",
         json={"procedure_id": "unknown", "form_data": {}},
@@ -174,16 +185,19 @@ def test_approved_adapter_enables_deterministic_precheck() -> None:
     assert valid.json()["findings"] == []
 
 
-def test_openapi_exposes_exactly_six_public_routes(client: TestClient) -> None:
+def test_openapi_exposes_current_public_routes(client: TestClient) -> None:
     paths = client.get("/openapi.json").json()["paths"]
 
     assert set(paths) == {
+        "/",
         "/health",
+        "/v1/applications/validate",
+        "/v1/intake/turn",
         "/v1/procedures",
         "/v1/procedures/{procedure_id}/checklist",
         "/v1/procedures/recommend",
-        "/v1/intake/turn",
-        "/v1/applications/validate",
+        "/v1/rag/answer",
+        "/v1/rag/search",
     }
 
 
@@ -210,7 +224,10 @@ def test_production_disabled_is_degraded_and_never_exposes_fixture_data() -> Non
     )
     intake = production_client.post(
         "/v1/intake/turn",
-        json={"session_id": "production-disabled-test", "message": "Tôi muốn đăng ký khai sinh"},
+        json={
+            "session_id": "production-disabled-test",
+            "message": "Tôi muốn đăng ký khai sinh",
+        },
     )
     checklist = production_client.post(
         "/v1/procedures/dang-ky-khai-sinh/checklist",
@@ -226,8 +243,12 @@ def test_production_disabled_is_degraded_and_never_exposes_fixture_data() -> Non
     assert health.json()["environment"] == "production"
     assert health.json()["capabilities"] == {
         "procedure_data": "disabled",
+        "procedure_guidance": "unavailable",
         "rag": "disabled",
+        "rag_ready": "false",
         "llm": "disabled",
+        "llm_ready": "false",
+        "legacy_rag": "disabled",
     }
     assert catalog.status_code == 200
     assert len(catalog.json()) == 3
@@ -240,16 +261,23 @@ def test_production_disabled_is_degraded_and_never_exposes_fixture_data() -> Non
     assert intake.json()["detected_procedure_id"] is None
     assert intake.json()["procedure"] is None
     assert intake.json()["clarifying_questions"] == []
+    assert intake.json()["journey"] is None
+    assert intake.json()["procedure_card"] is None
     assert checklist.json()["trust_state"] == "official_review_required"
     assert checklist.json()["fixture_mode"] is False
     assert checklist.json()["required_documents"] == []
     assert checklist.json()["steps"] == []
+    assert checklist.json()["journey"] is None
+    assert checklist.json()["procedure_card"] is None
     assert validation.json()["trust_state"] == "official_review_required"
     assert validation.json()["verdict"] is None
+    assert validation.json()["journey"] is None
 
 
 def test_request_limit_and_rate_limit_have_safe_errors(client: TestClient) -> None:
-    too_large = client.post("/v1/procedures/recommend", json={"need_text": "a" * 70_000})
+    too_large = client.post(
+        "/v1/procedures/recommend", json={"need_text": "a" * 70_000}
+    )
     assert too_large.status_code == 422
     assert too_large.json()["error"]["code"] == "request_too_large"
 
@@ -260,8 +288,12 @@ def test_request_limit_and_rate_limit_have_safe_errors(client: TestClient) -> No
         rate_limit_requests=1,
     )
     limited_client = TestClient(create_app(settings=settings))
-    first = limited_client.post("/v1/procedures/recommend", json={"need_text": "khai sinh"})
-    second = limited_client.post("/v1/procedures/recommend", json={"need_text": "khai sinh"})
+    first = limited_client.post(
+        "/v1/procedures/recommend", json={"need_text": "khai sinh"}
+    )
+    second = limited_client.post(
+        "/v1/procedures/recommend", json={"need_text": "khai sinh"}
+    )
 
     assert first.status_code == 200
     assert second.status_code == 429

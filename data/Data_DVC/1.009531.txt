@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009531
+Số quyết định: 1082/QĐ-BTC
+Tên thủ tục: Rút nghiệp vụ, đóng cửa chi nhánh, phòng giao dịch, văn phòng đại diện trong nước của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+  * Nộp hồ sơ
+    Bước 1: Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán gửi hồ sơ đề nghị chấp thuận rút nghiệp vụ, đóng cửa chi nhánh, phòng giao dịch, văn phòng đại diện trong nước đến Ủy ban Chứng khoán Nhà nước.
+    Bước 2: Ủy ban Chứng khoán Nhà nước (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, Ủy ban Chứng khoán Nhà nước hướng dẫn bổ sung hồ sơ theo quy định.
+    Bước 3: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban Chứng khoán Nhà nước xem xét tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ cần sửa đổi, bổ sung, Ủy ban Chứng khoán Nhà nước có văn bản gửi công ty chứng khoán nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    Bước 4: Trong thời hạn 60 ngày kể từ ngày Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty chứng khoán hoàn thiện hồ sơ và gửi đến Ủy ban Chứng khoán Nhà nước.
+    Bước 5: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, Ủy ban Chứng khoán Nhà nước sửa đổi quyết định thành lập chi nhánh đối với trường hợp rút nghiệp vụ/ chấp thuận đối với trường hợp đóng cửa chi nhánh, phòng giao dịch, văn phòng đại diện trong nước của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+    Bước 6: Trong thời hạn 15 ngày kể từ ngày hoàn tất việc đóng cửa, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán phải báo cáo kết quả thực hiện đóng cửa và gửi bản gốc quyết định chấp thuận thành lập chi nhánh, phòng giao dịch, văn phòng đại diện.
+    Bước 7: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được báo cáo, Ủy ban Chứng khoán Nhà nước ra quyết định thu hồi quyết định thành lập chi nhánh, phòng giao dịch, văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022: 01 triệu đồng/lần cấp.) | 500000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026): 500.000 đồng/lần cấp.)
+    Mô tả: + Sửa đổi quyết định thành lập chi nhánh/Chấp thuận đóng cửa chi nhánh, phòng giao dịch, văn phòng đại diện trong nước của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán: 07 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị đầy đủ và hợp lệ.
++ Thu hồi quyết định thành lập chi nhánh, phòng giao dịch, văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán: 05 ngày làm việc kể từ ngày nhận được báo cáo kết quả thực hiện đóng cửa.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022: 01 triệu đồng/lần cấp.) | 500000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026): 500.000 đồng/lần cấp.)
+    Mô tả: + Sửa đổi quyết định thành lập chi nhánh/Chấp thuận đóng cửa chi nhánh, phòng giao dịch, văn phòng đại diện trong nước của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán: 07 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị đầy đủ và hợp lệ.
++ Thu hồi quyết định thành lập chi nhánh, phòng giao dịch, văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán: 05 ngày làm việc kể từ ngày nhận được báo cáo kết quả thực hiện đóng cửa.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022: 01 triệu đồng/lần cấp.) | 500000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026): 500.000 đồng/lần cấp.)
+    Mô tả: + Sửa đổi quyết định thành lập chi nhánh/Chấp thuận đóng cửa chi nhánh, phòng giao dịch, văn phòng đại diện trong nước của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán: 07 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị đầy đủ và hợp lệ.
++ Thu hồi quyết định thành lập chi nhánh, phòng giao dịch, văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán: 05 ngày làm việc kể từ ngày nhận được báo cáo kết quả thực hiện đóng cửa.
+
+Thành phần hồ sơ:
+    - Đối với bước 6: Báo cáo kết quả thực hiện đóng cửa, bản gốc quyết định chấp thuận thành lập chi nhánh, phòng giao dịch, văn phòng đại diện.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phương án xử lý các hợp đồng đã ký với khách hàng còn hiệu lực; trong đó nêu rõ việc công bố thông tin, thông báo cho khách hàng về việc rút bớt nghiệp vụ, đóng cửa chi nhánh, phòng giao dịch trong nước và thời hạn tất toán tài khoản khách hàng tối thiểu 15 ngày.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quyết định của Hội đồng quản trị, Hội đồng thành viên hoặc chủ sở hữu công ty thông qua việc rút bớt nghiệp vụ, đóng cửa chi nhánh, phòng giao dịch, văn phòng đại diện.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy đề nghị;   Thành phần hồ sơ trong thủ tục hành chính này được miễn trừ trong trường hợp tài liệu đó đã được gửi tới Ủy ban Chứng khoán Nhà nước theo quy định về báo cáo và công bố thông tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Văn bản từ chối (nêu rõ lý do)., Quyết định sửa đổi Quyết định chấp thuận thành lập chi nhánh (đối với trường hợp rút nghiệp vụ)/Văn bản chấp thuận đóng cửa chi nhánh, phòng giao dịch, văn phòng đại diện trong nước của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, Quyết định thu hồi quyết định thành lập chi nhánh, phòng giao dịch, văn phòng đại diện trong nước của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán.
+Căn cứ pháp lý:
+  * Thông tư số 25/2022/TT-BTC ngày 28/4/2022 (25)
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

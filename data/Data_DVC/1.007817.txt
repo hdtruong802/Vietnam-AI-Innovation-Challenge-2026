@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007817
+Số quyết định: 984/QĐ-BTC
+Tên thủ tục: Thủ tục cấp giấy tạm nhập khẩu xe ô tô, xe gắn máy của đối tượng được hưởng quyền ưu đãi, miễn trừ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Đối tượng được hưởng quyền ưu đãi miễn trừ chuẩn bị hồ sơ (thành phần, số lượng hồ sơ quy định tại mục (-) thứ 3 dưới đây).
+    Bước 2: Cơ quan Hải quan tiếp nhận hồ sơ và kiểm tra hồ sơ (thành phần, số lượng hồ sơ quy định tại mục (-) thứ 3 dưới đây).
+    Bước 3: Cơ quan Hải quan cấp giấy tạm nhập xe theo Phụ lục II ban hành kèm Thông tư số 27/2021/TT-BTC ngày 19/4/2021 của Bộ trưởng Bộ Tài chính giao cho chủ xe 02 bản, chuyển Tổng cục Hải quan 01 bản và lưu giữ 01 bản.
+    Bước 4: Cơ quan Hải quan cập nhật thông tin giấy tạm nhập lên hệ thống và lưu trữ hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Trường hợp đối tượng được hưởng quyền ưu đãi miễn trừ ủy thác cho tổ chức, cá nhân khác tại Việt Nam mua xe ô tô, xe gắn máy từ nước ngoài thì ngoài các chứng từ quy định tại điểm đ khoản này thì phải nộp 01 bản chụp hợp đồng ủy thác từ bản chính và xuất trình bản chính để đối chiếu;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Trường hợp nhận biếu, tặng xe ô tô của đối tượng được hưởng quyền ưu đãi miễn trừ khác: 01 bản chụp từ bản chính chứng từ biếu, tặng và xuất trình bản chính để đối chiếu; trường hợp nhận biếu, tặng từ nước ngoài: 01 bản dịch tiếng Việt có chứng thực từ bản chính chứng từ biếu tặng từ phía nước ngoài;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - đ.1) Giấy đăng ký lưu hành hoặc giấy hủy đăng ký lưu hành xe ô tô hoặc giấy chứng nhận xuất khẩu hoặc giấy chứng nhận sở hữu xe ô tô do cơ quan có thẩm quyền của nước chuyển đi cấp hoặc các giấy tờ có giá trị pháp lý tương đương: 01 bản dịch tiếng Việt có chứng thực từ bản chính đối với trường hợp tạm nhập khẩu xe ô tô là tài sản di chuyển;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - đ.2) Chứng từ thanh toán tiền mua xe ô tô, xe gắn máy qua ngân hàng (01 bản chụp có xác nhận của ngân hàng) hoặc hợp đồng mua bán hoặc hóa đơn thương mại (01 bản chụp từ bản chính và xuất trình bản chính để đối chiếu) đối với trường hợp tạm nhập khẩu xe ô tô, xe gắn máy từ nước ngoài hoặc nhận chuyển nhượng xe ô tô của đối tượng được hưởng quyền ưu đãi, miễn trừ khác
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - d) Sổ định mức miễn thuế do Cục Lễ tân Nhà nước - Bộ Ngoại giao hoặc cơ quan được Bộ Ngoại giao ủy quyền cấp: 01 bản chụp từ bản chính và xuất trình bản chính để đối chiếu, trừ trường hợp Sổ định mức miễn thuế đã được cập nhật vào cổng thông tin một cửa quốc gia và trường hợp tạm nhập khẩu vượt định lượng theo quyết định của Thủ tướng Chính phủ;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - đ) Giấy tờ chứng minh quyền sở hữu xe ô tô, xe gắn máy Vận tải đơn hoặc các chứng từ vận tải khác có giá trị tương đương thể hiện người nhận hàng trên các chứng từ này là người đề nghị cấp giấy tạm nhập khẩu xe ô tô, xe gắn máy hoặc tổ chức, cá nhân được người đề nghị cấp giấy tạm nhập xe ô tô, xe gắn máy ủy thác tạm nhập khẩu: 01 bản chính và 01 bản chụp của hãng vận chuyển (trừ trường hợp tạm nhập khẩu xe ô tô, xe gắn máy qua cửa khẩu đường bộ hoặc người đề nghị cấp giấy tạm nhập khẩu nhận chuyển nhượng, cho, biếu, tặng xe ô tô của đối tượng được hưởng quyền ưu đãi, miễn trừ khác) và một trong các giấy tờ sau:
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - b) Chứng minh thư do Bộ Ngoại giao cấp (đối với đối tượng được hưởng quyền ưu đãi, miễn trừ là cá nhân): 01 bản chụp từ bản chính và xuất trình bản chính để đối chiếu;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - c) Giấy xác nhận của cơ quan nơi đối tượng công tác tại Việt Nam về việc di chuyển tài sản hoặc thuyên chuyển nơi công tác từ nước khác đến Việt Nam (đối với đối tượng được hưởng quyền ưu đãi, miễn trừ là cá nhân): 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ.4) Giấy tờ khác chứng minh quyền sở hữu xe ô tô, xe gắn máy phù hợp pháp luật Việt Nam hoặc giấy tờ chứng minh quyền sở hữu xe ô tô, xe gắn máy phù hợp pháp luật quốc gia của người đang chứng minh quyền sở hữu: 01 bản chụp (đối với giấy tờ chứng minh quyền sở hữu xe ô tô, xe gắn máy của Việt Nam) hoặc 01 bản dịch tiếng Việt có chứng thực từ bản chính đối với giấy tờ chứng minh quyền sở hữu xe ô tô, xe gắn máy của nước ngoài hoặc được Đại sứ quán nước đó xác nhận.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - đ.3) Giấy tờ điều chuyển xe ô tô, xe gắn máy: 01 bản dịch tiếng Việt có chứng thực từ bản chính đối với trường hợp đối tượng được hưởng quyền ưu đãi, miễn trừ là cơ quan, tổ chức nhận điều chuyển xe từ nước ngoài;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - a) Văn bản đề nghị tạm nhập khẩu xe ô tô, xe gắn máy theo Phụ lục I ban hành kèm theo Thông tư số 27/2021/TT-BTC ngày 19/4/2021 của Bộ trưởng Bộ Tài chính: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy tạm nhập xe
+Căn cứ pháp lý:
+  * Thông tư số 19/2014/TT-BTC ngày 11/02/2014 của Bộ Tài chính quy định thủ tục tạm nhập khẩu, tái xuất khẩu, tiêu hủy, chuyển nhượng  xe ô tô, xe hai bánh gắn máy của đối tượng được hưởng quyền ưu đãi, miễn trừ tại Việt Nam (19/2014/TT-BTC)
+  * Quyết định 601/QĐ-BTC (601/QĐ-BTC)
+  * Quyết định 10/2018/QĐ-TTg (10/2018/QĐ-TTg)
+  * Nghị định 73/NĐ-CP ngày 30/7/1994 của Chính phủ quy định chi tiết việc thực hiện Pháp lệnh về việc ưu đãi và miễn trừ dành cho các cơ quan đại diện ngoại giao, cơ quan Lãnh sự và đại diện tổ chức quốc tế Việt Nam. (73-CP)
+  * Quyết định số 53/2013/QĐ-TTg  ngày 13  tháng 09  năm 2013 của Thủ tướng Chính phủ về việc tạm nhập khẩu, tái xuất khẩu, tiêu hủy, chuyển nhượng đối với xe ô tô, xe hai bánh gắn máy của đối tượng được hưởng quyền ưu đãi miễn trừ tại Việt Nam (53/2013/QĐ-TTg)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Thông tư 93/2018/TT-BTC (93/2018/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

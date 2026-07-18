@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001806
+Số quyết định: 970/QĐ-BYT
+Tên thủ tục: Quyết định công nhận cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo trợ xã hội
+Trình tự thực hiện:
+    Bước 1:Cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật lập 01 bộ hồ sơ theo quy định, gửi (trực tiếp hoặc qua đường bưu điện) đến Sở Y tế, nơi Cơ sở có trụ sở chính.
+    Bước 2: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Sở Y tế có trách nhiệm thẩm định và quyết định công nhận cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật hoặc có văn bản thông báo lý do không đủ điều kiện để công nhận cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ trực tiếp hoặc qua đường bưu điện
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ trực tiếp hoặc qua đường bưu điện
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị của cơ sở sản xuất, kinh doanh trong đó nêu rõ tổng số lao động hiện có, số lao động là người khuyết tật; + Bản sao quyết định thành lập hoặc bản sao giấy phép hoạt động của cơ sở
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách lao động là người khuyết tật và bản sao giấy xác nhận khuyết tật của những người khuyết tật có trong danh sách
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Bản sao hợp đồng lao động hoặc quyết định tuyển dụng của lao động là người khuyết tật đang làm việc
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận cơ sở sản xuất, kinh doanh sử dụng từ 30% tổng số lao động trở lên là người khuyết tật không xác định thời hạn (BYT)
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư liên quan đến thủ tục hành chính thuộc phạm vi chức năng quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội (18/2018/TT-BLĐTBXH)
+  * Nghị định số 42/2025/NĐ-CP của Chính phủ: Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (42/2025/NĐ-CP)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Luật 51/2010/QH12 - Người khuyết tật (51/2010/QH12)
+  * 28/2012/NĐ-CP - Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Người khuyết tật (28/2012/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có yêu cầu, điều kiện
+Từ khóa: Không có thông tin
+Mô tả: Không có yêu cầu, điều kiện

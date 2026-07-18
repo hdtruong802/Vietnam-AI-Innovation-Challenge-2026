@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000279
+Số quyết định: 2257/QĐ-BXD
+Tên thủ tục: Cấp Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải đối với hoa tiêu hàng hải chuyển vùng hoạt động; hoa tiêu hàng hải dẫn tàu trên tuyến mới trong vùng hoạt động hoa tiêu hàng hải
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    Tổ chức, cá nhân nộp 01 (một) bộ hồ sơ trực tiếp tại Cục Hàng hải và Đường thủy Việt Nam hoặc gửi qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến.
+  * b) Giải quyết TTHC:
+    -	Cục Hàng hải và Đường thủy Việt Nam nhận hồ sơ, kiểm tra thành phần, số lượng hồ sơ theo quy định, vào sổ và hẹn trả kết quả đúng quy định:
+    + Trường hợp nộp trực tiếp, nếu hồ sơ không đầy đủ theo quy định thì trả lại hồ sơ và hướng dẫn cho tổ chức, cá nhân hoàn thiện lại hồ sơ theo quy định;
+    + Trường hợp nhận hồ sơ qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến, nếu hồ sơ không đầy đủ theo quy định thì Cục Hàng hải và Đường thủy Việt Nam thông báo bằng văn bản chậm nhất 02 (hai) ngày làm việc, kể từ ngày nhận được hồ sơ.
+    - Chậm nhất 02 (hai) ngày làm việc, kể từ ngày nhận hồ sơ đầy đủ theo quy định, Cục Hàng hải và Đường thủy Việt Nam có văn bản gửi cảng vụ yêu cầu xác nhận số lượt dẫn tàu an toàn. Chậm nhất 03 (ba) ngày làm việc, kể từ ngày nhận được văn bản của Cục Hàng hải và Đường thủy Việt Nam, cảng vụ có văn bản xác nhận gửi Cục Hàng hải và Đường thủy Việt Nam.
+    - Chậm nhất 02 (hai) ngày làm việc, kể từ ngày nhận được xác nhận của cảng vụ, Cục Hàng hải và Đường thủy Việt Nam cấp GCNVHĐHTHH. Trường hợp không đủ điều kiện cấp GCNVHĐHTHH theo quy định, Cục Hàng hải và Đường thủy Việt Nam phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 150000 VNĐ (150.000 đồng/giấy)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 150000 VNĐ (150.000 đồng/giấy)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 150000 VNĐ (150.000 đồng/giấy)
+
+Thành phần hồ sơ:
+    - - Bản chính hoặc biểu mẫu điện tử ký số công văn của tổ chức hoa tiêu hàng hải theo mẫu quy định
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - 02 ảnh màu đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu chính, 01 tệp (file) ảnh đối với trường hợp nộp hồ sơ qua hệ thống dịch vụ công trực tuyến cỡ 3cm x 4cm, nền trắng, chụp trong vòng 06 tháng gần nhất;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Hàng hải và Đường thủy Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng hải và Đường thủy Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận vùng hoạt động hoa tiêu hàng hải
+Căn cứ pháp lý:
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong hoạt động chuyên ngành hàng hải (189/2016/TT-BTC)
+  * quy định về tiêu chuẩn đào tạo hoa tiêu hàng hải; cấp, thu hồi chứng chỉ chuyên môn hoa tiêu hàng hải và giấy chứng nhận vùng hoạt động hoa tiêu hàng hải (31/2025/TT-BXD)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

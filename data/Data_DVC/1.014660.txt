@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014660
+Số quyết định: 2607/QĐ-BKHCN
+Tên thủ tục: Thanh lý nguồn phóng xạ đã qua sử dụng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+    - Tổ chức, cá nhân có nguồn phóng xạ đã qua sử dụng có tổng hoạt độ nhỏ hơn hoặc bằng mức thanh lý quy định tại Phụ lục XII của Nghị định số 332/2025/NĐ-CP có nhu cầu thanh lý nộp 01 bộ hồ sơ đến UBND cấp tỉnh qua Trung tâm Phục vụ hành chính công cấp tỉnh.
+    - Trường hợp nộp hồ sơ trực tiếp Trung tâm Phục vụ hành chính công cấp tỉnh phải kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thu phí, lệ phí (nếu có) đối với hồ sơ hợp lệ.
+    - Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc trực tuyến, Trung tâm Phục vụ hành chính công cấp tỉnh trong thời hạn 03 ngày làm việc phải kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản mức phí, lệ phí (nếu có) đối với hồ sơ hợp lệ (trường hợp tổ chức, cá nhân nộp nhiều hồ sơ cùng thời điểm, cơ quan tiếp nhận hồ sơ phát hành 01 bản thông báo mức phí, lệ phí cho tất cả hồ sơ) hoặc thông báo bằng văn bản yêu cầu sửa đổi, bổ sung hồ sơ nếu hồ sơ chưa đầy đủ, hợp lệ hoặc thông báo trực tuyến trên Cổng dịch vụ công quốc gia.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ và phí, lệ phí (nếu có), UBND cấp tỉnh tổ chức thẩm định hồ sơ (biên bản thẩm định theo Mẫu 06 Phụ lục X) và trả lời bằng văn bản xác nhận hoặc từ chối.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Chưa có quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Chưa có quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Chưa có quy định
+
+Thành phần hồ sơ:
+    - 4. Bản sao chứng chỉ của nguồn phóng xạ đề nghị thanh lý hoặc bản sao phiếu đánh giá hoạt độ phóng xạ đối với các nguồn phóng xạ đã qua sử dụng đề nghị thanh lý, được cấp bởi Tổ chức đã được Cục An toàn bức xạ và hạt nhân thuộc Bộ Khoa học và Công nghệ cấp phép hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử về đánh giá hoạt độ phóng xạ.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 2.  Danh mục nguồn phóng xạ đã qua sử dụng đề nghị thanh lý;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3. Bản sao tài liệu trình bày phương thức thanh lý nguồn phóng xạ đã qua sử dụng;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 1. Văn bản đề nghị thanh lý nguồn phóng xạ đã qua sử dụng theo Mẫu số 12 Phụ lục VIII ban hành kèm theo Nghị định số 332/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài cư trú tại Việt Nam, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công cấp tỉnh
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận hoặc từ chối
+Căn cứ pháp lý:
+  * Nghị quyết số 20/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Trang chủ Nghị định số 332/2025/NĐ-CP của Chính phủ (332/2025/NĐ-CP)
+  * Luật Năng lượng nguyên tử số 94/2025/QH15 ngày 27 tháng 6 năm 2025. (94/2025/QH15 ngày 27/6/2025)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Thanh lý nguồn phóng xạ đã qua sử dụng
+Mô tả: Không có thông tin

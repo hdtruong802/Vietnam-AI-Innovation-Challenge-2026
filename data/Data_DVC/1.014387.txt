@@ -1,0 +1,92 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014387
+Số quyết định: 2498/QĐ-BKHCN
+Tên thủ tục: Thay đổi, bổ sung, cấp lại giấy chứng nhận đăng ký tổ chức khoa học và công nghệ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    - Tổ chức khoa học và công nghệ nộp 01 bộ hồ sơ thay đổi, bổ sung hoặc cấp lại giấy chứng nhận đăng ký tổ chức khoa học và công nghệ đến Cục Thông tin, Thống kê thông qua hệ thống dịch vụ công trực tuyến, nộp trực tiếp hoặc gửi qua đường bưu điện;
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan có thẩm quyền kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo yêu cầu sửa đổi, bổ sung nếu hồ sơ chưa hợp lệ;
+    - Trong thời hạn 06 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan có thẩm quyền xem xét, cấp giấy chứng nhận đăng ký tổ chức khoa học và công nghệ đã được thay đổi, bổ sung hoặc cấp lại. Trường hợp từ chối cấp, phải có văn bản thông báo nêu rõ lý do gửi cho tổ chức, cá nhân có liên quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp qua hệ thống dịch vụ công trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp qua dịch vụ bưu chính
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Bộ phận Tiếp nhận và Trả kết quả Bộ Khoa học và Công nghệ
+(Địa chỉ: Tòa nhà Cục Đổi mới sáng tạo, số 113 Trần Duy Hưng, Phường Yên Hòa, thành phố Hà Nội)
+
+Thành phần hồ sơ:
+    - Thay đổi tên cơ quan quyết định thành lập, cơ quan quản lý trực tiếp của tổ chức: Quyết định đổi tên cơ quan quyết định thành lập, cơ quan quản lý trực tiếp hoặc thay đổi cơ quan quản lý trực tiếp của tổ chức khoa học và công nghệ
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Thay đổi người đứng đầu tổ chức:  + Quyết định bổ nhiệm người đứng đầu của cơ quan, tổ chức có thẩm quyền.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Thay đổi, bổ sung lĩnh vực hoạt động của tổ chức:  + Quyết định của cấp có thẩm quyền về việc thay đổi, bổ sung lĩnh vực hoạt động của tổ chức khoa học và công nghệ;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Thay đổi tên của tổ chức:  Quyết định của cấp có thẩm quyền về việc đổi tên của tổ chức khoa học và công nghệ
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Lý lịch khoa học của người đứng đầu tổ chức khoa học và công nghệ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thay đổi về trụ sở chính của tổ chức:  - Hồ sơ chứng minh trụ sở chính phải có một trong các giấy tờ sau: Giấy tờ chứng minh quyền sở hữu nhà, quyền sử dụng đất của tổ chức khoa học và công nghệ đối với địa điểm nơi đặt trụ sở chính, hoặc hợp đồng thuê, mượn địa điểm làm trụ sở chính, kèm theo giấy tờ chứng minh quyền sở hữu nhà, quyền sử dụng đất của bên cho thuê hoặc cho mượn hoặc giấy tờ chứng minh quyền được phép cho thuê, cho mượn của bên cho thuê, cho mượn.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bảng kê khai cơ sở vật chất - kỹ thuật
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị thay đổi, bổ sung, cấp lại giấy chứng nhận đăng ký tổ chức khoa học và công nghệ theo Mẫu số 05 tại Phụ lục I ban hành kèm theo Nghị định số 262/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bảng danh sách nhân lực
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Thông tin, Thống kê
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký tổ chức khoa học và công nghệ
+Căn cứ pháp lý:
+  * Luật số 93/2025/QH15 của Quốc hội: Luật Khoa học, công nghệ và đổi mới sáng tạo (93/2025/QH15)
+  * Nghị định số 262/2025/NĐ-CP ngày 14 tháng 10 năm 2025 của Chính phủ Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Khoa học, công nghệ và đổi mới sáng tạo về thông tin, thống kê, đánh giá, chuyển đổi số và các vấn đề chung (262/2025/NĐ-CP)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: 1. Điều lệ tổ chức và hoạt động
+a) Có điều lệ tổ chức và hoạt động quy định rõ: tên gọi, mục tiêu, chức năng, nhiệm vụ, lĩnh vực hoạt động, cơ cấu tổ chức, quyền và nghĩa vụ của tổ chức, phương thức quản lý và điều hành, điều kiện chia, tách, sáp nhập, giải thể và các nội dung khác theo quy định của pháp luật;
+b) Tên tổ chức khoa học và công nghệ bao gồm tên đầy đủ, tên giao dịch quốc tế và tên viết tắt (nếu có), được viết bằng các chữ cái trong Bảng chữ cái tiếng Việt; có thể kèm theo các chữ cái F, J, Z, W, chữ số và ký hiệu, bảo đảm dễ đọc, dễ phát âm. 
+Tên tổ chức khoa học và công nghệ bằng tiếng nước ngoài là tên được dịch từ tên tiếng Việt sang một trong những tiếng nước ngoài hệ chữ La-tinh. Khi dịch sang tiếng nước ngoài, tên riêng của tổ chức khoa học và công nghệ có thể giữ nguyên hoặc dịch theo nghĩa tương ứng sang tiếng nước ngoài.
+Tên tổ chức không được trùng hoặc gây nhầm lẫn với tên của tổ chức khác đang hoạt động hợp pháp tại Việt Nam; không được sử dụng từ ngữ, ký hiệu vi phạm truyền thống lịch sử, văn hóa, đạo đức, thuần phong mỹ tục của dân tộc hoặc vi phạm quyền sở hữu trí tuệ;
+c) Có trụ sở chính tại Việt Nam với địa chỉ rõ ràng theo địa danh hành chính, có số điện thoại, địa chỉ thư điện tử liên lạc chính thức;
+d) Người đại diện theo pháp luật là người đứng đầu tổ chức, được quy định rõ trong điều lệ hoặc quyết định thành lập của cơ quan có thẩm quyền;
+đ) Lĩnh vực hoạt động được xác định theo mã cấp 2 của Bảng phân loại lĩnh vực khoa học và công nghệ;
+e) Quy định cụ thể cơ cấu tổ chức, nhiệm vụ và quyền hạn của các chức danh lãnh đạo và bộ máy điều hành;
+g) Điều kiện, trình tự, thủ tục sáp nhập, chia, tách, giải thể (nếu có).
+2. Nhân lực khoa học và công nghệ
+a) Có ít nhất 05 người có trình độ đại học trở lên làm việc toàn thời gian (đối với tổ chức khoa học và công nghệ công lập thực hiện theo quy định của Chính phủ về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập); trong đó tối thiểu 30% có trình độ chuyên môn phù hợp với từng lĩnh vực đăng ký hoạt động;
+b) Đối với tổ chức nghiên cứu khoa học hoặc nghiên cứu khoa học và phát triển công nghệ phải có ít nhất 01 tiến sĩ có chuyên môn phù hợp, làm việc toàn thời gian trong mỗi lĩnh vực đăng ký; 
+c) Người đứng đầu tổ chức phải có trình độ đại học trở lên, có năng lực chuyên môn và kinh nghiệm quản lý phù hợp; đối với tổ chức khoa học và công nghệ công lập được thành lập dưới hình thức viện, người đứng đầu phải có trình độ tiến sĩ.
+3. Cơ sở vật chất - kỹ thuật
+Có quyền sở hữu hoặc quyền sử dụng hợp pháp trụ sở, nhà xưởng, phòng thí nghiệm, thiết bị, tài sản trí tuệ và các phương tiện kỹ thuật khác đáp ứng yêu cầu thực hiện chức năng, nhiệm vụ của tổ chức khoa học và công nghệ.
+Từ khóa: Không có thông tin
+Mô tả: 1. Điều lệ tổ chức và hoạt động
+a) Có điều lệ tổ chức và hoạt động quy định rõ: tên gọi, mục tiêu, chức năng, nhiệm vụ, lĩnh vực hoạt động, cơ cấu tổ chức, quyền và nghĩa vụ của tổ chức, phương thức quản lý và điều hành, điều kiện chia, tách, sáp nhập, giải thể và các nội dung khác theo quy định của pháp luật;
+b) Tên tổ chức khoa học và công nghệ bao gồm tên đầy đủ, tên giao dịch quốc tế và tên viết tắt (nếu có), được viết bằng các chữ cái trong Bảng chữ cái tiếng Việt; có thể kèm theo các chữ cái F, J, Z, W, chữ số và ký hiệu, bảo đảm dễ đọc, dễ phát âm. 
+Tên tổ chức khoa học và công nghệ bằng tiếng nước ngoài là tên được dịch từ tên tiếng Việt sang một trong những tiếng nước ngoài hệ chữ La-tinh. Khi dịch sang tiếng nước ngoài, tên riêng của tổ chức khoa học và công nghệ có thể giữ nguyên hoặc dịch theo nghĩa tương ứng sang tiếng nước ngoài.
+Tên tổ chức không được trùng hoặc gây nhầm lẫn với tên của tổ chức khác đang hoạt động hợp pháp tại Việt Nam; không được sử dụng từ ngữ, ký hiệu vi phạm truyền thống lịch sử, văn hóa, đạo đức, thuần phong mỹ tục của dân tộc hoặc vi phạm quyền sở hữu trí tuệ;
+c) Có trụ sở chính tại Việt Nam với địa chỉ rõ ràng theo địa danh hành chính, có số điện thoại, địa chỉ thư điện tử liên lạc chính thức;
+d) Người đại diện theo pháp luật là người đứng đầu tổ chức, được quy định rõ trong điều lệ hoặc quyết định thành lập của cơ quan có thẩm quyền;
+đ) Lĩnh vực hoạt động được xác định theo mã cấp 2 của Bảng phân loại lĩnh vực khoa học và công nghệ;
+e) Quy định cụ thể cơ cấu tổ chức, nhiệm vụ và quyền hạn của các chức danh lãnh đạo và bộ máy điều hành;
+g) Điều kiện, trình tự, thủ tục sáp nhập, chia, tách, giải thể (nếu có).
+2. Nhân lực khoa học và công nghệ
+a) Có ít nhất 05 người có trình độ đại học trở lên làm việc toàn thời gian (đối với tổ chức khoa học và công nghệ công lập thực hiện theo quy định của Chính phủ về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập); trong đó tối thiểu 30% có trình độ chuyên môn phù hợp với từng lĩnh vực đăng ký hoạt động;
+b) Đối với tổ chức nghiên cứu khoa học hoặc nghiên cứu khoa học và phát triển công nghệ phải có ít nhất 01 tiến sĩ có chuyên môn phù hợp, làm việc toàn thời gian trong mỗi lĩnh vực đăng ký; 
+c) Người đứng đầu tổ chức phải có trình độ đại học trở lên, có năng lực chuyên môn và kinh nghiệm quản lý phù hợp; đối với tổ chức khoa học và công nghệ công lập được thành lập dưới hình thức viện, người đứng đầu phải có trình độ tiến sĩ.
+3. Cơ sở vật chất - kỹ thuật
+Có quyền sở hữu hoặc quyền sử dụng hợp pháp trụ sở, nhà xưởng, phòng thí nghiệm, thiết bị, tài sản trí tuệ và các phương tiện kỹ thuật khác đáp ứng yêu cầu thực hiện chức năng, nhiệm vụ của tổ chức khoa học và công nghệ.

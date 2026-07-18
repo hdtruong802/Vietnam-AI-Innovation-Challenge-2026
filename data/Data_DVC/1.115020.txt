@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115020
+Số quyết định: 1915/QĐ-UBND
+Tên thủ tục: Chấp thuận thiết kế nút giao
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Cơ quan, tổ chức, cá nhân có nhu cầu chấp thuận thiết kế nút giao đấu nối vào hệ thống đường địa phương gửi hồ sơ đến các cơ quan như sau để được giải quyết:
+    - Sở Xây dựng qua Trung tâm Phục vụ hành chính công tỉnh để thực hiện chấp thuận thiết kế nút giao đấu nối vào đường tỉnh và các tuyến, đoạn tuyến đường được cấp có thẩm quyền giao quản lý.
+    - Ủy ban nhân dân cấp xã qua Trung tâm Phục vụ hành chính công cấp xã để thực hiện chấp thuận thiết kế nút giao đấu nối vào đường xã và các tuyến, đoạn tuyến đường được cấp có thẩm quyền giao quản lý.
+    b) Giải quyết TTHC:
+    Trong thời hạn 3,5 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền tiến hành xem xét hồ sơ, nếu đủ điều kiện thì cấp giấy phép thi công nút giao đấu nối, trường hợp không chấp thuận thì phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Đồng)
+    Mô tả: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Đồng)
+    Mô tả: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Đồng)
+    Mô tả: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị chấp thuận thiết kế nút giao theo mẫu số 01 (bản chính hoặc biểu mẫu điện tử).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Hồ sơ thiết kế nút giao đấu nối vào đường địa phương đang khai thác (bản chính, bản sao có chứng thực, bản sao điện tử được cấp từ sổ gốc, bản sao điện tử được chứng thực từ bản chính, bản sao kèm theo bản chính để đối chiếu), bao gồm: thuyết minh thiết kế, bản vẽ thiết kế nút giao đấu nối và bản vẽ hoàn trả kết cấu hạ tầng đường địa phương; văn bản hoặc quyết định chấp thuận vị trí đấu nối vào đường địa phương đang khai thác; trừ vị trí đấu nối không phải chấp thuận theo quy định tại Nghị định số 165/2024/NĐ-CP ngày 26/12/2024 của Chính phủ quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Một trong các văn bản sau để xác định chủ đầu tư đấu nối: Văn bản giao làm chủ đầu tư nút giao đấu nối, hoặc quyết định chủ trương đầu tư hoặc quyết định duyệt dự án đầu tư đường nhánh đấu nối vào đường địa phương đang khai thác (bản chính, bản sao có chứng thực, bản sao điện tử được cấp từ sổ gốc, bản sao điện tử được chứng thực từ bản chính, bản sao kèm theo bản chính để đối chiếu).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công tỉnh Cà Mau (Địa chỉ: Tầng 1, tầng 2, Tòa nhà Viettel, số 298, đường Trần Hưng Đạo, phường Tân Thành, tỉnh Cà Mau); Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận thiết kế nút giao theo mẫu số 02 (bản giấy, bản điện tử, tích hợp trên VneID)
+Căn cứ pháp lý:
+  * Luật đường bộ năm 2024 (Luật đường bộ năm 2024)
+  * Quyết định của UBND tỉnh Cà Mau (93/2026/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: Trung tâm Phục vụ hành chính công tỉnh Cà Mau (Địa chỉ: Tầng 1, tầng 2, Tòa nhà Viettel, số 298, đường Trần Hưng Đạo, phường Tân Thành, tỉnh Cà Mau); Trung tâm Phục vụ hành chính công cấp xã
+Từ khóa: Không có thông tin
+Mô tả: Trung tâm Phục vụ hành chính công tỉnh Cà Mau (Địa chỉ: Tầng 1, tầng 2, Tòa nhà Viettel, số 298, đường Trần Hưng Đạo, phường Tân Thành, tỉnh Cà Mau); Trung tâm Phục vụ hành chính công cấp xã

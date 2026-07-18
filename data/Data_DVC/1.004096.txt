@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004096
+Số quyết định: 375/QĐ-BNNMT
+Tên thủ tục: Gia hạn Giấy phép tiếp cận nguồn gen
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo tồn thiên nhiên và Đa dạng sinh học
+Trình tự thực hiện:
+    Bước 1: Trong thời hạn 30 ngày làm việc trước khi Giấy phép tiếp cận nguồn gen hết hiệu lực, tổ chức, cá nhân nộp 01 bộ hồ sơ đến Cơ quan chuyên môn được Ủy ban nhân dân cấp tỉnh phân công bằng một trong các hình thức trực tiếp hoặc thông qua dịch vụ bưu chính hoặc nộp trực tuyến tại Cổng Dịch vụ công quốc gia.
+    Bước 2: Cơ quan chuyên môn được Ủy ban nhân dân cấp tỉnh phân công có trách nhiệm tiếp nhận ngay hồ sơ khi đảm bảo tính đầy đủ đối với trường hợp nộp trực tiếp; kiểm tra và tiếp nhận hồ sơ khi đảm bảo tính đầy đủ trong 01 ngày làm việc đối với trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia, trường hợp hồ sơ không hợp lệ thì trả lời bằng văn bản và nêu rõ lý do.
+    Bước 3: Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan chuyên môn được Ủy ban nhân dân cấp tỉnh phân công tổ chức thẩm định và trình Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định.
+    Bước 4: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ trình, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định gia hạn Giấy phép tiếp cận nguồn gen theo hình thức bản giấy hoặc bản điện tử theo quy định tại Mẫu số 09 Phụ lục IV ban hành kèm theo Nghị định số 43/2026/NĐ-CP; trường hợp từ chối gia hạn, trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Báo cáo tình hình thực hiện tiếp cận nguồn gen đã được cấp Giấy phép tiếp cận nguồn gen
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản của bên cung cấp chấp thuận về việc tiếp tục thực hiện các hoạt động tiếp cận nguồn gen giữa hai bên
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản dịch sang tiếng Việt của các loại giấy tờ, văn bản có tiếng nước ngoài (nếu có).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị gia hạn Giấy phép tiếp cận nguồn gen
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Sở Nông nghiệp và Môi trường Thành phố Hà Nội
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Cơ quan chuyên môn được Ủy ban nhân dân cấp tỉnh phân công bằng một trong các hình thức trực tiếp hoặc thông qua dịch vụ bưu chính hoặc nộp trực tuyến tại Cổng Dịch vụ công quốc gia
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định gia hạn Giấy phép tiếp cận nguồn gen
+Căn cứ pháp lý:
+  * Về quản lý tiếp cận nguồn gen và chia sẻ lợi ích từ việc sử dụng nguồn gen (59/2017/NĐ-CP)
+  * Luật sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường (Luật số 146/2025/QH15)
+  * Luật đa dạng sinh học (20/2008/QH12)
+  * Nghị định sửa đổi, bổ sung một số điều của các nghị định trong lĩnh vực bảo tồn thiên nhiên và đa dạng sinh học (43/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

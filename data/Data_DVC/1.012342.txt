@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012342
+Số quyết định: 217/QĐ-BTC
+Tên thủ tục: Đề nghị giải thể của tổ chức bảo hiểm tương hỗ cung cấp bảo hiểm vi mô
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo hiểm
+Trình tự thực hiện:
+    + Tổ chức tương hỗ cung cấp bảo hiểm vi mô tự nguyện giải thể phải gửi đến Bộ Tài chính bộ hồ sơ đề nghị giải thể;
+    + Trong thời hạn 14 ngày kể từ ngày nhận được đầy đủ hồ sơ đề nghị giải thể của tổ chức tương hỗ cung cấp bảo hiểm vi mô, Bộ Tài chính ra văn bản chấp thuận về nguyên tắc việc giải thể của tổ chức tương hỗ cung cấp bảo hiểm vi mô.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - d) Phương án xử lý, phân chia tài sản từ hoạt động bảo hiểm vi mô cho các thành viên tham gia bảo hiểm vi mô.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Đơn đề nghị giải thể tổ chức tương hỗ cung cấp bảo hiểm vi mô;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Phương án hoàn thành các nghĩa vụ với các thành viên tham gia bảo hiểm vi mô, nhà nước, người lao động và các tổ chức, cá nhân có liên quan khác;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Biên bản họp, Nghị quyết của Đại hội thành viên (đối với trường hợp thành viên sáng lập là cá nhân) hoặc văn bản của cấp có thẩm quyền theo Điều lệ của Tổ chức đại diện thành viên (đối với trường hợp thành viên sáng lập là tổ chức đại diện thành viên) về việc giải thể, phương án giải thể;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Bộ Tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo lý do từ chối của Bộ Tài chính, Văn bản chấp thuận về nguyên tắc việc giải thể của tổ chức tương hỗ cung cấp bảo hiểm vi mô
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

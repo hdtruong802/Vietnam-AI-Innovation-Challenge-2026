@@ -1,0 +1,80 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012288
+Số quyết định: 159/QĐ-BYT
+Tên thủ tục: Phê duyệt kết quả nghiên cứu thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đào tạo và Nghiên cứu khoa học
+Trình tự thực hiện:
+    Bước 1:
+    Cơ sở nhận thử nghiệm lâm sàng gửi trực tiếp, trực tuyến hoặc qua đường bưu chính 01 bộ hồ sơ đề nghị phê duyệt kết quả thử nghiệm lâm sàng bằng tiếng Việt đến Bộ Y tế
+    Bước 2:
+    Bộ Y tế kiểm tra tính hợp lệ của hồ sơ trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ. Trường hợp hồ sơ hợp lệ, trong thời hạn 02 ngày làm việc Bộ Y tế chuyển hồ sơ đến Hội đồng đạo đức quốc gia để thẩm định. Trường hợp hồ sơ không hợp lệ, trong thời hạn 02 ngày làm việc Bộ Y tế phải có văn bản thông báo, hướng dẫn cụ thể cho cơ sở bổ sung hồ sơ.
+    Cơ sở nhận thử nghiệm lâm sàng có trách nhiệm hoàn thiện hồ sơ trong thời hạn tối đa 60 ngày kể từ ngày nhận được văn bản thông báo. Quá thời hạn này, thủ tục phê duyệt kết quả thử nghiệm lâm sàng phải thực hiện lại từ đầu
+    Bước 3:
+    Hội đồng đạo đức quốc gia thực hiện việc thẩm định, đánh giá về khía cạnh đạo đức trong nghiên cứu.
+    Bước 4:
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được giấy chứng nhận chấp thuận kết quả thử nghiệm lâm sàng của Hội đồng đạo đức quốc gia và hồ sơ kèm theo, Bộ Y tế quyết định phê duyệt kết quả thử nghiệm lâm sàng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 40 ngày kể từ ngày nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 40 ngày kể từ ngày nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 40 ngày kể từ ngày nhận đủ hồ sơ hợp lệ
+
+Thành phần hồ sơ:
+    - 4. Biên bản thẩm định kết quả nghiên cứu thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới của hội đồng đạo đức trong nghiên cứu y sinh học cấp cơ sở.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 5. Báo cáo kết quả nghiên cứu thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới theo Mẫu 09 Phụ lục VI ban hành kèm theo Nghị định số 96/2023/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2. Bản sao đề cương nghiên cứu đã được phê duyệt.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 6. Quy trình kỹ thuật của kỹ thuật mới, phương pháp mới theo quy định tại điểm a khoản 1 Điều 97 Nghị định số 96/2023/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3. Bản sao Quyết định phê duyệt đề cương nghiên cứu đã được phê duyệt.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 1. Văn bản đề nghị phê duyệt kết quả nghiên cứu thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới theo Mẫu 08 Phụ lục VI ban hành kèm theo Nghị định số 96/2023/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã, Doanh nghiệp, Tổ chức nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cục Khoa học Công nghệ và Đào tạo - Bộ Y tế
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt
+Căn cứ pháp lý:
+  * Luật Khám, chữa bệnh 15/2023/QH15 (09/1/2023) (15/2023/QH15)
+  * Nghị định số 96/2023/NĐ-CP ngày 30 tháng 12 năm 2023 của Chính phủ quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh. (96/2023/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Yêu cầu, Điều kiện thực hiện thủ tục hành chính (nếu có): 
+Điều 100. Yêu cầu đối với kỹ thuật mới, phương pháp mới 
+Yêu cầu đối với kỹ thuật mới, phương pháp mới phải thử nghiệm lâm sàng:
+1. Đã được nghiên cứu ở giai đoạn tiền lâm sàng, có các tài liệu chứng minh tính an toàn để có thể thử nghiệm các giai đoạn tiếp theo.
+2. Có kết quả nghiên cứu thử nghiệm lâm sàng các giai đoạn trước giai đoạn đề nghị thử nghiệm nếu đề nghị thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới ở giai đoạn tiếp theo.
+Điều 101. Yêu cầu đối với cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới
+1. Đáp ứng yêu cầu về thực hành tốt thử kỹ thuật mới, phương pháp mới theo quy định của Bộ trưởng Bộ Y tế.
+2. Cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới là cơ sở khám bệnh, chữa bệnh có phạm vi hoạt động chuyên môn phù hợp với kỹ thuật mới, phương pháp mới được thử nghiệm lâm sàng.
+Yêu cầu đối với hồ sơ:
+a) Hồ sơ thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới phải được viết bằng tiếng Việt. Trường hợp không thể hiện bằng tiếng Việt thì phải có thêm bản dịch công chứng của tài liệu đó ra tiếng Việt;
+b) Đối với các giấy tờ do cơ quan quản lý nước ngoài cấp phải được hợp pháp hóa lãnh sự theo quy định của pháp luật về hợp pháp hóa lãnh sự, trừ trường hợp được miễn theo quy định của pháp luật.
+Từ khóa: Không có thông tin
+Mô tả: Yêu cầu, Điều kiện thực hiện thủ tục hành chính (nếu có): 
+Điều 100. Yêu cầu đối với kỹ thuật mới, phương pháp mới 
+Yêu cầu đối với kỹ thuật mới, phương pháp mới phải thử nghiệm lâm sàng:
+1. Đã được nghiên cứu ở giai đoạn tiền lâm sàng, có các tài liệu chứng minh tính an toàn để có thể thử nghiệm các giai đoạn tiếp theo.
+2. Có kết quả nghiên cứu thử nghiệm lâm sàng các giai đoạn trước giai đoạn đề nghị thử nghiệm nếu đề nghị thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới ở giai đoạn tiếp theo.
+Điều 101. Yêu cầu đối với cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới
+1. Đáp ứng yêu cầu về thực hành tốt thử kỹ thuật mới, phương pháp mới theo quy định của Bộ trưởng Bộ Y tế.
+2. Cơ sở nhận thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới là cơ sở khám bệnh, chữa bệnh có phạm vi hoạt động chuyên môn phù hợp với kỹ thuật mới, phương pháp mới được thử nghiệm lâm sàng.
+Yêu cầu đối với hồ sơ:
+a) Hồ sơ thử nghiệm lâm sàng kỹ thuật mới, phương pháp mới phải được viết bằng tiếng Việt. Trường hợp không thể hiện bằng tiếng Việt thì phải có thêm bản dịch công chứng của tài liệu đó ra tiếng Việt;
+b) Đối với các giấy tờ do cơ quan quản lý nước ngoài cấp phải được hợp pháp hóa lãnh sự theo quy định của pháp luật về hợp pháp hóa lãnh sự, trừ trường hợp được miễn theo quy định của pháp luật.

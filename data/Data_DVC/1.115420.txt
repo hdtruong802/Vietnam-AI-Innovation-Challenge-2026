@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115420
+Số quyết định: 1617/QĐ-BCT
+Tên thủ tục: Cấp phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thương mại điện tử
+Trình tự thực hiện:
+    1. Việc nộp và nhận kết quả hồ sơ cấp phép, sửa đổi, bổ sung giấy phép, thu hồi giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại được thực hiện trực tuyến tại Cổng dịch vụ công quốc gia.
+    2. Tổ chức cung cấp dịch vụ có trách nhiệm theo dõi địa chỉ thư điện tử và tài khoản đã đăng ký với Cổng dịch vụ công quốc gia để cập nhật trạng thái hồ sơ và sửa đổi, bổ sung thông tin theo yêu cầu.
+    3. Quy trình cấp phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại theo 02 bước sau đây:
+    Bước 1. Đăng nhập Cổng dịch vụ công quốc gia, thực hiện khai báo thông tin theo mẫu và đính kèm hồ sơ theo quy định.
+    Bước 2. Trong thời hạn 30 ngày kể từ khi nộp hồ sơ đầy đủ, hợp lệ, tổ chức nhận thông tin phản hồi về một trong các nội dung sau đây:
+    - Hồ sơ đủ điều kiện cấp giấy phép, cơ quan có thẩm quyền cấp Giấy phép theo Mẫu số 07 tại Phụ lục II của Nghị định số 248/2026/NĐ-CP. Thông tin tổ chức  được công khai tại Hệ thống quản lý hoạt động thương mại điện tử đã kết nối với Cổng dịch vụ công quốc gia. Các tổ chức nhận được biểu tượng xác nhận điện tử đã cấp phép để gắn trên nền tảng số đó. Khi chọn biểu tượng này, người sử dụng được dẫn về thông tin công bố tại Hệ thống quản lý hoạt động thương mại điện tử.
+    - Yêu cầu làm rõ thông tin hồ sơ cấp phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại. Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại thực hiện lại Bước 1.
+    - Từ chối hồ sơ đề nghị cấp phép và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - a) Tờ khai thông tin theo Mẫu số 03 tại Phụ lục II của Nghị định số 248/2026/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Bản chụp giấy phép, giấy chứng nhận, chứng chỉ, văn bản xác nhận, chấp thuận của cơ quan có thẩm quyền hoặc các văn bản tương tự khác chứng minh đáp ứng các điều kiện kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp các giấy tờ, tài liệu nêu trên đã có dữ liệu điện tử bảo đảm giá trị pháp lý và có thể khai thác thông qua kết nối, chia sẻ giữa Hệ thống thông tin giải quyết thủ tục hành chính với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, hệ thống thông tin dùng chung, Cổng dịch vụ công quốc gia thì không phải cung cấp lại;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Đề án cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại theo nội dung quy định tại Điều 44 của Nghị định số 248/2026/NĐ-CP; Mẫu Đề án theo Mẫu số 06 tại Phụ lục II của Nghị định số 248/2026/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người nước ngoài, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại theo Mẫu số 07 tại Phụ lục II của Nghị định số 248/2026/NĐ-CP. - Thông tin tổ chức cung cấp dịch vụ được công khai tại Hệ thống quản lý hoạt động thương mại điện tử đã kết nối với Cổng dịch vụ công quốc gia. Các tổ chức nhận được biểu tượng xác nhận điện tử đã cấp phép để gắn trên nền tảng số đó. Khi chọn biểu tượng này, người sử dụng được dẫn về thông tin công bố tại Hệ thống quản lý hoạt động thương mại điện tử.
+Căn cứ pháp lý:
+  * Nghị định số 248/2026/NĐ-CP ngày 30 tháng 6 năm 2026 của Chính phủ quy định chi tiết một số điều của Luật Thương mại điện tử. (248/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Tổ chức được cấp giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại khi đáp ứng điều kiện sau:
+- Có Giấy phép kinh doanh dịch vụ tin cậy có loại dịch vụ được phép kinh doanh là cung cấp dịch vụ chứng thực thông điệp dữ liệu theo pháp luật về giao dịch điện tử;
+- Có Đề án cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại theo quy định tại Điều 44 của Nghị định số 248/2026/NĐ-CP.
+Từ khóa: Không có thông tin
+Mô tả: Tổ chức được cấp giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại khi đáp ứng điều kiện sau:
+- Có Giấy phép kinh doanh dịch vụ tin cậy có loại dịch vụ được phép kinh doanh là cung cấp dịch vụ chứng thực thông điệp dữ liệu theo pháp luật về giao dịch điện tử;
+- Có Đề án cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại theo quy định tại Điều 44 của Nghị định số 248/2026/NĐ-CP.

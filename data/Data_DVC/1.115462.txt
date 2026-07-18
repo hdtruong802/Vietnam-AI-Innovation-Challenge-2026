@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115462
+Số quyết định: 1868/QĐ-UBND
+Tên thủ tục: Xác nhận tiếp tục sử dụng đất nông nghiệp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đất đai
+Trình tự thực hiện:
+  * Bước 1: Người sử dụng đất nông nghiệp nộp hồ sơ tại Trung tâm Phục vụ hành chính công hoặc Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai.
+    Trường hợp Trung tâm Phục vụ hành chính công tiếp nhận hồ sơ thì chuyển hồ sơ đến Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai.
+  * Bước 2: Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai có trách nhiệm:
+    - Kiểm tra hồ sơ.
+    - Xác nhận thời hạn được tiếp tục sử dụng đất vào Giấy chứng nhận đã cấp hoặc cấp mới Giấy chứng nhận nếu người sử dụng đất có nhu cầu.
+    - Cập nhật, chỉnh lý cơ sở dữ liệu đất đai, hồ sơ địa chính.
+    - Trao Giấy chứng nhận hoặc gửi cơ quan tiếp nhận hồ sơ để trao cho người được cấp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: : Không quá 07 ngày làm việc. Đối với các xã miền núi, biên giới; đảo; vùng có điều kiện kinh tế - xã hội khó khăn; vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện được tăng thêm không quá 10 ngày.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: : Không quá 07 ngày làm việc. Đối với các xã miền núi, biên giới; đảo; vùng có điều kiện kinh tế - xã hội khó khăn; vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện được tăng thêm không quá 10 ngày.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: : Không quá 07 ngày làm việc. Đối với các xã miền núi, biên giới; đảo; vùng có điều kiện kinh tế - xã hội khó khăn; vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện được tăng thêm không quá 10 ngày.
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị hỗ trợ (Mẫu 1).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Văn phòng đăng ký đất đai Bắc Ninh
+Cơ quan có thẩm quyền: Văn phòng đăng ký đất đai Bắc Ninh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Người sử dụng đất nông nghiệp đã được cấp Giấy chứng nhận nhưng hết thời hạn trên Giấy chứng nhận đã cấp.
+Từ khóa: Không có thông tin
+Mô tả: Người sử dụng đất nông nghiệp đã được cấp Giấy chứng nhận nhưng hết thời hạn trên Giấy chứng nhận đã cấp.

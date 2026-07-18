@@ -1,0 +1,85 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002472
+Số quyết định: 461/QĐ-BXD
+Tên thủ tục: Cấp Giấy chứng nhận khả năng chuyên môn thủy thủ trực ca, thợ máy trực ca, thợ kỹ thuật điện; Giấy chứng nhận khả năng chuyên môn cho thuyền viên Việt Nam đã có Giấy chứng nhận khả năng chuyên môn do cơ quan có thẩm quyền nước ngoài cấp
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Tổ chức quản lý thuyền viên, cá nhân nộp trực tiếp hoặc gửi qua đường bưu chính hoặc qua hệ thống dịch vụ công trực tuyến 01 bộ hồ sơ đề nghị cấp GCNKNCM thủy thủ trực ca, thợ máy trực ca, thợ kỹ thuật điện, GCNKNCM cho thuyền viên Việt Nam đã có GCNKNCM do cơ quan có thẩm quyền nước ngoài cấp đến Cục Hàng hải và Đường thủy Việt Nam.
+    b) Giải quyết TTHC:
+    - Cục Hàng hải và Đường thủy Việt Nam tiếp nhận hồ sơ, kiểm tra thành phần, số lượng hồ sơ theo quy định, vào sổ và hẹn trả kết quả đúng thời hạn quy định.
+    - Trường hợp nộp trực tiếp, nếu hồ sơ không đầy đủ theo quy định thì trả lại hồ sơ và hướng dẫn ngay cho tổ chức, cá nhân hoàn thiện lại hồ sơ theo quy định;
+    - Trường hợp nhận hồ sơ qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến, nếu hồ sơ không đầy đủ theo quy định thì Cục Hàng hải và Đường thủy Việt Nam thông báo bằng văn bản chậm nhất 02 ngày làm việc, kể từ ngày nhận được hồ sơ;
+    - Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định, Cục Hàng hải và Đường thủy Việt Nam cấp GCNKNCM theo mẫu quy định tại Phụ lục I của Thông tư 20/2023/TT-BGTVT, trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ ()
+
+Thành phần hồ sơ:
+  [ - Thành phần hồ sơ đề nghị cấp GCNKNCM thủy thủ trực ca AB; thợ máy trực ca AB gồm: ]
+    - +  02 ảnh màu đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện, 01 tệp (file) ảnh đối với trường hợp nộp hồ sơ trên môi trường điện tử cỡ 3cm x 4cm, nền trắng, chụp trong vòng 06 tháng gần nhất;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được chứng thực từ bản chính Sổ thuyền viên, Hộ chiếu (đối với trường hợp thuyền viên làm việc trên tàu biển treo cờ quốc tịch nước ngoài).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Bản sao có chứng thực hoặc bản sao được cấp từ sổ gốc hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được cấp từ sổ gốc hoặc bản sao điện tử được chứng thực từ bản chính: Bằng tốt nghiệp hoặc Giấy chứng nhận tốt nghiệp hoặc Quyết định tốt nghiệp hoặc Giấy chứng nhận hoàn thành học phần lý thuyết của chương trình đào tạo sỹ quan hàng hải hoặc Giấy chứng nhận đã hoàn thành đủ các phần đào tạo thủy thủ trực ca OS hoặc Giấy chứng nhận đã hoàn thành đủ các phần đào tạo thợ máy trực ca Oiler hoặc Giấy chứng nhận đã hoàn thành đủ các phần đào tạo thợ kỹ thuật điện; Giấy chứng nhận học bồi dưỡng, nâng cao (nếu có); Giấy chứng nhận huấn luyện nghiệp vụ cơ bản. Đối với Bằng tốt nghiệp được cấp bởi cơ sở giáo dục nước ngoài thì nộp thêm bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được chứng thực từ bản chính Giấy công nhận văn bằng theo quy định của Bộ Giáo dục và Đào tạo;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Đơn đề nghị của thuyền viên theo mẫu hoặc văn bản đề nghị của tổ chức quản lý thuyền viên theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản gốc hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính Giấy chứng nhận sức khỏe theo quy định của Bộ Y tế;
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ - Thành phần hồ sơ đề nghị cấp GCNKNCM thủy thủ trực ca AB; thợ máy trực ca AB khi đã có GCNKNCM thủy thủ trực ca OS, thợ máy trực ca Oiler gồm: ]
+    - + Bản gốc hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính Giấy chứng nhận sức khỏe theo quy định của Bộ Y tế;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + 02 ảnh màu đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện, 01 tệp (file) ảnh đối với trường hợp nộp hồ sơ trên môi trường điện tử cỡ 3cm x 4cm, nền trắng, chụp trong vòng 06 tháng gần nhất;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Đơn đề nghị của thuyền viên theo mẫu hoặc văn bản đề nghị của tổ chức quản lý thuyền viên theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được chứng thực từ bản chính Sổ thuyền viên, Hộ chiếu (đối với trường hợp thuyền viên làm việc trên tàu biển treo cờ quốc tịch nước ngoài).
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ - Thành phần hồ sơ đề nghị cấp Giấy CNKNCM cho thuyền viên Việt Nam đã có GCNKNCM do cơ quan có thẩm quyền nước ngoài cấp gồm: ]
+    - + Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được chứng thực từ bản chính GCNKNCM do cơ quan có thẩm quyền của quốc gia, vùng lãnh thổ đã được Việt Nam thỏa thuận về việc công nhận Chứng chỉ chuyên môn cấp và Sổ thuyền viên.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + 02 ảnh màu đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện, 01 tệp (file) ảnh đối với trường hợp nộp hồ sơ trên môi trường điện tử cỡ 3cm x 4cm, nền trắng, chụp trong vòng 06 tháng gần nhất;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Bản gốc hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính Giấy chứng nhận sức khỏe theo quy định của Bộ Y tế;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Đơn đề nghị của thuyền viên theo mẫu hoặc văn bản đề nghị của tổ chức quản lý thuyền viên theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản sao có chứng thực hoặc bản sao được cấp từ sổ gốc hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được cấp từ sổ gốc hoặc bản sao điện tử được chứng thực từ bản chính: Bằng tốt nghiệp hoặc Giấy chứng nhận tốt nghiệp hoặc Quyết định tốt nghiệp hoặc Giấy chứng nhận hoàn thành học phần lý thuyết của chương trình đào tạo sỹ quan hàng hải hoặc Giấy chứng nhận đã hoàn thành đủ các phần đào tạo thủy thủ trực ca OS hoặc Giấy chứng nhận đã hoàn thành đủ các phần đào tạo thợ máy trực ca Oiler hoặc Giấy chứng nhận đã hoàn thành đủ các phần đào tạo thợ kỹ thuật điện; Giấy chứng nhận học bồi dưỡng, nâng cao (nếu có); Giấy chứng nhận huấn luyện nghiệp vụ cơ bản. Đối với Bằng tốt nghiệp được cấp bởi cơ sở giáo dục nước ngoài thì nộp thêm bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được chứng thực từ bản chính Giấy công nhận văn bằng theo quy định của Bộ Giáo dục và Đào tạo;
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ - Thành phần hồ sơ đề nghị cấp thủy thủ trực ca OS, thợ máy trực ca Oiler, thợ kỹ thuật điện gồm: ]
+    - + Bản sao có chứng thực hoặc bản sao được cấp từ sổ gốc hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được cấp từ sổ gốc hoặc bản sao điện tử được chứng thực từ bản chính: Bằng tốt nghiệp hoặc Giấy chứng nhận tốt nghiệp hoặc Quyết định tốt nghiệp hoặc Giấy chứng nhận hoàn thành học phần lý thuyết của chương trình đào tạo sỹ quan hàng hải hoặc Giấy chứng nhận đã hoàn thành đủ các phần đào tạo thủy thủ trực ca OS hoặc Giấy chứng nhận đã hoàn thành đủ các phần đào tạo thợ máy trực ca Oiler hoặc Giấy chứng nhận đã hoàn thành đủ các phần đào tạo thợ kỹ thuật điện; Giấy chứng nhận học bồi dưỡng, nâng cao (nếu có); Giấy chứng nhận huấn luyện nghiệp vụ cơ bản. Đối với Bằng tốt nghiệp được cấp bởi cơ sở giáo dục nước ngoài thì nộp thêm bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được chứng thực từ bản chính Giấy công nhận văn bằng theo quy định của Bộ Giáo dục và Đào tạo;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + 02 ảnh màu đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện, 01 tệp (file) ảnh đối với trường hợp nộp hồ sơ trên môi trường điện tử cỡ 3cm x 4cm, nền trắng, chụp trong vòng 06 tháng gần nhất;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Bản gốc hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính Giấy chứng nhận sức khỏe theo quy định của Bộ Y tế;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Đơn đề nghị của thuyền viên theo mẫu hoặc văn bản đề nghị của tổ chức quản lý thuyền viên theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được chứng thực từ bản chính Sổ thuyền viên (đối với trường hợp học bồi dưỡng, nâng cao hoặc chỉ có trình độ sơ cấp nghề).
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Hàng hải và Đường thủy Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng hải và Đường thủy Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận khả năng chuyên môn
+Căn cứ pháp lý:
+  * Thông tư quy định về tiêu chuẩn chuyên môn, chứng chỉ chuyên môn, đào tạo, huấn luyện thuyền viên và định biên an toàn tối thiểu của tàu biển Việt Nam (20/2023/TT-BGTVT)
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong hoạt động chuyên ngành hàng hải (189/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

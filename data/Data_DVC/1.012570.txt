@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012570
+Số quyết định: 79/QĐ-BDTTG
+Tên thủ tục: Thủ tục đề nghị công nhận tổ chức tôn giáo có địa bàn hoạt động ở nhiều tỉnh (Cấp trung ương)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tín ngưỡng, tôn giáo
+Trình tự thực hiện:
+    - Bước 1: Tổ chức tôn giáo đề nghị cấp đăng ký pháp nhân phi thương mại cho tổ chức tôn giáo trực thuộc có địa bàn hoạt động ở nhiều tỉnh có trách nhiệm gửi hồ sơ đề nghị đến Bộ phận Một cửa.
+    - Bước 2: Bộ phận Một cửa xem xét hồ sơ đề nghị, nếu hồ sơ đầy đủ, thực hiện số hóa, xuất phiếu hẹn trả kết quả và chuyển Ban Tôn giáo Chính phủ tham mưu xử lý; trường hợp hồ sơ chưa đầy đủ, hợp lệ, Bộ phận Một cửa hướng dẫn trực tiếp hoặc thông báo qua thư điện tử, tin nhắn điện thoại hoặc văn bản để tổ chức bổ sung, hoàn thiện hồ sơ. Trường hợp từ chối tiếp nhận, giải quyết hồ sơ phải nêu rõ lý do. Thời gian hoàn thiện hồ sơ không tính vào thời hạn giải quyết.
+    - Bước 3:
+    + Ban Tôn giáo Chính phủ thẩm định hồ sơ, lấy ý kiến các cơ quan liên quan (nếu cần), trình kết quả thẩm định và đề xuất Lãnh đạo Bộ Dân tộc và Tôn giáo giải quyết TTHC.
+    + Lãnh đạo Bộ Dân tộc và Tôn giáo căn cứ Tờ trình của Ban Tôn giáo Chính phủ cấp hoặc không cấp đăng ký pháp nhân phi thương mại cho tổ chức tôn giáo trực thuộc có địa bàn hoạt động ở nhiều tỉnh và gửi kết quả giải quyết về Bộ phận Tiếp nhận và trả kết quả của Ban Tôn giáo Chính phủ để trả cho tổ chức. Trường hợp không cấp đăng ký phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tuyến Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ qua dịch vụ bưu chính công ích; qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc ủy quyền theo quy định của pháp luật. Ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Đại diện tổ chức tôn giáo trực tiếp thực hiện hoặc ủy quyền cho người khác thực hiện nộp hồ sơ trực tiếp tại Bộ phận Một cửa, của Bộ Dân tộc và Tôn giáo.
+
+Thành phần hồ sơ:
+    - + Văn bản tóm tắt quá trình hoạt động của tổ chức từ khi được cấp chứng nhận đăng ký hoạt động tôn giáo;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản tóm tắt giáo lý, giáo luật, lễ nghi;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách, sơ yếu lý lịch, bản tóm tắt quá trình hoạt động tôn giáo của người đại diện và những người dự kiến lãnh đạo tổ chức;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy tờ chứng minh có địa điểm hợp pháp để đặt trụ sở.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản kê khai tài sản hợp pháp của tổ chức;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề nghị công nhận tổ chức tôn giáo (Mẫu B9 Phụ lục ban hành kèm theo Nghị định số 95/2023/NĐ-CP ngày 29/12/2023 của Chính phủ, được sửa đổi bổ sung tại Phụ lục II Nghị định số 124/2025/NĐ-CP ngày 11/6/2025 của Chính phủ).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hiến chương của tổ chức;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Dân tộc và Tôn giáo, Ban Tôn giáo Chính phủ - Bộ Dân tộc và Tôn giáo
+Cơ quan có thẩm quyền: Bộ Dân tộc và Tôn giáo
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản trả lời không chấp thuận về việc công nhận tổ chức tôn giáo, Hiến chương của tổ chức đã được phê duyệt, Quyết định công nhận tổ chức tôn giáo
+Căn cứ pháp lý:
+  * Nghị định số 124/2025/NĐ-CP (124/2025/NĐ-CP)
+  * Tín ngưỡng, tôn giáo (02/2016/QH14)
+  * Nghị định số 95/2023/NĐ-CP ngày 29/12/2023 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật tín ngưỡng, tôn giáo. (95/2023/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Hoạt động ổn định, liên tục từ đủ 05 năm trở lên kể từ ngày được cấp chứng nhận đăng ký hoạt động tôn giáo.
+- Có hiến chương theo quy định tại Điều 23 của Luật tín ngưỡng, tôn giáo.
+(Hiến chương của tổ chức tôn giáo có những nội dung cơ bản sau đây: Tên của tổ chức; Tôn chỉ, mục đích, nguyên tắc hoạt động; Địa bàn hoạt động, trụ sở chính; Tài chính, tài sản; Người đại diện theo pháp luật, mẫu con dấu; Chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc; Nhiệm vụ, quyền hạn của ban lãnh đạo tổ chức tôn giáo, tổ chức tôn giáo trực thuộc; Điều kiện, tiêu chuẩn, thẩm quyền, cách thức phong phẩm, bổ nhiệm, bầu cử, suy cử, thuyên chuyển, cách chức, bãi nhiệm chức sắc, chức việc, nhà tu hành; Điều kiện, thẩm quyền, cách thức giải thể tổ chức tôn giáo; thành lập, chia, tách, sáp nhập, hợp nhất, giải thể tổ chức tôn giáo trực thuộc; Việc tổ chức hội nghị, đại hội; thể thức thông qua quyết định, sửa đổi, bổ sung hiến chương; nguyên tắc, phương thức giải quyết tranh chấp nội bộ của tổ chức; Quan hệ giữa tổ chức tôn giáo với tổ chức tôn giáo trực thuộc, giữa tổ chức tôn giáo với tổ chức, cá nhân khác có liên quan).
+- Người đại diện, người lãnh đạo tổ chức là công dân Việt Nam thường trú tại Việt Nam, có năng lực hành vi dân sự đầy đủ; không trong thời gian bị áp dụng biện pháp xử lý hành chính trong lĩnh vực tín ngưỡng, tôn giáo; không có án tích hoặc không phải là người đang bị buộc tội theo quy định của pháp luật về tố tụng hình sự.
+- Có cơ cấu tổ chức theo hiến chương.
+- Có tài sản độc lập với cá nhân, tổ chức khác và tự chịu trách nhiệm bằng tài sản của mình.
+- Nhân danh tổ chức tham gia quan hệ pháp luật một cách độc lập.
+Từ khóa: Không có thông tin
+Mô tả: - Hoạt động ổn định, liên tục từ đủ 05 năm trở lên kể từ ngày được cấp chứng nhận đăng ký hoạt động tôn giáo.
+- Có hiến chương theo quy định tại Điều 23 của Luật tín ngưỡng, tôn giáo.
+(Hiến chương của tổ chức tôn giáo có những nội dung cơ bản sau đây: Tên của tổ chức; Tôn chỉ, mục đích, nguyên tắc hoạt động; Địa bàn hoạt động, trụ sở chính; Tài chính, tài sản; Người đại diện theo pháp luật, mẫu con dấu; Chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của tổ chức tôn giáo, tổ chức tôn giáo trực thuộc; Nhiệm vụ, quyền hạn của ban lãnh đạo tổ chức tôn giáo, tổ chức tôn giáo trực thuộc; Điều kiện, tiêu chuẩn, thẩm quyền, cách thức phong phẩm, bổ nhiệm, bầu cử, suy cử, thuyên chuyển, cách chức, bãi nhiệm chức sắc, chức việc, nhà tu hành; Điều kiện, thẩm quyền, cách thức giải thể tổ chức tôn giáo; thành lập, chia, tách, sáp nhập, hợp nhất, giải thể tổ chức tôn giáo trực thuộc; Việc tổ chức hội nghị, đại hội; thể thức thông qua quyết định, sửa đổi, bổ sung hiến chương; nguyên tắc, phương thức giải quyết tranh chấp nội bộ của tổ chức; Quan hệ giữa tổ chức tôn giáo với tổ chức tôn giáo trực thuộc, giữa tổ chức tôn giáo với tổ chức, cá nhân khác có liên quan).
+- Người đại diện, người lãnh đạo tổ chức là công dân Việt Nam thường trú tại Việt Nam, có năng lực hành vi dân sự đầy đủ; không trong thời gian bị áp dụng biện pháp xử lý hành chính trong lĩnh vực tín ngưỡng, tôn giáo; không có án tích hoặc không phải là người đang bị buộc tội theo quy định của pháp luật về tố tụng hình sự.
+- Có cơ cấu tổ chức theo hiến chương.
+- Có tài sản độc lập với cá nhân, tổ chức khác và tự chịu trách nhiệm bằng tài sản của mình.
+- Nhân danh tổ chức tham gia quan hệ pháp luật một cách độc lập.

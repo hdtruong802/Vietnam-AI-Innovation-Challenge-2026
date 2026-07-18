@@ -11,6 +11,7 @@ from app.models.common import Citation, ClarifyingQuestion, FindingSeverity
 
 class ReviewStatus(str, Enum):
     APPROVED = "approved"
+    NEEDS_REVIEW = "needs_review"
     FIXTURE = "fixture"
     UNAVAILABLE = "unavailable"
     CONFLICT = "conflict"
@@ -53,6 +54,29 @@ class ProcedureStep(BaseModel):
     detail: str = Field(min_length=1, max_length=1_000)
 
 
+class JourneyStageDefinition(BaseModel):
+    id: str = Field(min_length=1, max_length=120)
+    title: str = Field(min_length=1, max_length=160)
+    description: str = Field(min_length=1, max_length=500)
+    question_ids: list[str] = Field(default_factory=list, max_length=20)
+    requires_document_review: bool = False
+
+
+class FormSection(BaseModel):
+    id: str = Field(min_length=1, max_length=120)
+    title: str = Field(min_length=1, max_length=160)
+    description: str | None = Field(default=None, max_length=500)
+    field_ids: list[str] = Field(default_factory=list, max_length=40)
+
+
+class ProcedureCard(BaseModel):
+    procedure_id: str
+    name: str
+    authority: str | None = Field(default=None, max_length=300)
+    processing_time: str | None = Field(default=None, max_length=300)
+    fee: str | None = Field(default=None, max_length=300)
+
+
 class ProcedurePack(BaseModel):
     procedure_id: str = Field(min_length=1, max_length=120)
     name: str = Field(min_length=1, max_length=300)
@@ -70,6 +94,10 @@ class ProcedurePack(BaseModel):
     optional_documents: list[ChecklistItem] = Field(default_factory=list)
     steps: list[ProcedureStep] = Field(default_factory=list)
     form_schema: dict[str, Any] = Field(default_factory=dict)
+    form_sections: list[FormSection] = Field(default_factory=list, max_length=20)
+    journey_stages: list[JourneyStageDefinition] = Field(default_factory=list, max_length=5)
+    processing_time: str | None = Field(default=None, max_length=300)
+    fee: str | None = Field(default=None, max_length=300)
     validation_rules: list[ValidationRule] = Field(default_factory=list)
     aliases: list[str] = Field(default_factory=list)
 

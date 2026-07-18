@@ -1,0 +1,83 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014168
+Số quyết định: 863/QĐ-BNV
+Tên thủ tục: HƯỞNG CHẾ ĐỘ THAI SẢN ĐỐI VỚI LAO ĐỘNG NAM KHI VỢ SINH CON, NGƯỜI CHỒNG CỦA LAO ĐỘNG NỮ NHỜ MANG THAI HỘ, NGƯỜI CHỒNG CỦA LAO ĐỘNG NỮ MANG THAI HỘ KHI VỢ SINH CON
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo hiểm xã hội
+Trình tự thực hiện:
+    Bước 1:
+    Người lao động có trách nhiệm nộp hồ sơ cho người sử dụng lao động. Thời hạn nộp hồ sơ chậm nhất là 45 ngày kể từ ngày hết thời gian nghỉ việc hưởng chế độ thai sản.
+    Bước 2:
+    Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ từ người lao động, người sử dụng lao động có trách nhiệm lập danh sách người lao động nghỉ việc hưởng chế độ thai sản kèm theo hồ sơ nộp cho cơ quan bảo hiểm xã hội.
+    Bước 3
+    Cơ quan bảo hiểm xã hội có trách nhiệm giải quyết trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ từ người sử dụng lao động.
+    Trường hợp không giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ từ người sử dụng lao động.
+Trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ từ người sử dụng lao động.
+Trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ từ người sử dụng lao động.
+Trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính
+
+Thành phần hồ sơ:
+  [ - Đối với lao động nam khi vợ sinh con ]
+    - + Trường hợp con chết sau khi sinh mà chưa được cấp giấy chứng sinh thì hồ sơ là bản chính hoặc bản sao bản tóm tắt hồ sơ bệnh án hoặc giấy ra viện của người mẹ có thể hiện thông tin về con chết;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Trường hợp giấy chứng sinh không thể hiện thông tin về việc sinh con phải phẫu thuật hoặc sinh con dưới 32 tuần tuổi thì cần thêm bản chính hoặc bản sao văn bản của cơ sở khám bệnh, chữa bệnh thể hiện thông tin về việc sinh con phải phẫu thuật hoặc sinh con dưới 32 tuần tuổi;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - +  Bản sao giấy khai sinh hoặc trích lục khai sinh hoặc bản sao giấy chứng sinh của con;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Danh sách người lao động nghỉ việc hưởng chế độ thai sản do người sử dụng lao động lập.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Đối với người chồng của lao động nữ mang thai hộ khi vợ sinh con: ]
+    - + Bản sao bản thỏa thuận về mang thai hộ vì mục đích nhân đạo theo quy định tại Điều 96 của Luật Hôn nhân và gia đình ;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Danh sách người lao động nghỉ việc hưởng chế độ thai sản do người sử dụng lao động lập
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Bản sao giấy chứng sinh hoặc trích lục khai sinh hoặc bản sao giấy khai sinh  ;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Trường hợp giấy chứng sinh không thể hiện thông tin về việc sinh con phải phẫu thuật hoặc sinh con dưới 32 tuần tuổi thì cần thêm bản chính hoặc bản sao văn bản của cơ sở khám bệnh, chữa bệnh thể hiện thông tin về việc sinh con phải phẫu thuật hoặc sinh con dưới 32 tuần tuổi;
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ - Đối với người chồng của lao động nữ nhờ mang thai hộ: ]
+    - + Trường hợp con chết sau khi sinh mà chưa được cấp giấy chứng sinh thì hồ sơ là bản sao bản tóm tắt hồ sơ bệnh án hoặc bản chính hoặc bản sao giấy ra viện của người mang thai hộ có thể hiện thông tin về con chết hoặc văn bản khác của cơ sở khám bệnh, chữa bệnh có thể hiện thông tin về con chết sau khi sinh;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Bản sao giấy khai sinh hoặc trích lục khai sinh hoặc bản sao giấy chứng sinh của con ;
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ Trường hợp các giấy tờ nêu trên hoặc các giấy tờ có nội dung tương tự do cơ quan, tổ chức, cá nhân có thẩm quyền của nước ngoài cấp thì phải đáp ứng được các yêu cầu: ]
+    - +  Có bản dịch tiếng Việt được công chứng hoặc chứng thực theo quy định của pháp luật về công chứng, chứng thực;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Được hợp pháp hóa lãnh sự, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác  .
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Bảo hiểm xã hội tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Danh sách giải quyết hưởng chế độ thai sản cho người lao động
+Căn cứ pháp lý:
+  * Luật Bảo hiểm xã hội (41/2024/QH15)
+  * Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc (158/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Lao động nam đang đóng bảo hiểm xã hội bắt buộc có vợ sinh con
+-Trường hợp lao động nữ sinh con nhưng không đủ điều kiện về việc đóng bảo hiểm xã hội theo quy định mà người chồng có thời gian đóng bảo hiểm xã hội bắt buộc từ đủ 06 tháng trở lên trong thời gian 12 tháng liền kề trước khi sinh con thì người chồng được trợ cấp một lần.
+- Trường hợp người mang thai hộ, người mẹ nhờ mang thai hộ không tham gia bảo hiểm xã hội bắt buộc hoặc không đủ điều kiện thì người chồng của người mẹ nhờ mang thai hộ đã đóng bảo hiểm xã hội bắt buộc từ đủ 06 tháng trở lên trong thời gian 12 tháng tính đến thời điểm nhận con được trợ cấp một lần.
+- Trường hợp người mang thai hộ, người mẹ nhờ mang thai hộ và người chồng của người mẹ nhờ mang thai hộ không tham gia bảo hiểm xã hội bắt buộc hoặc không đủ điều kiện thì người chồng của người mang thai hộ đã đóng bảo hiểm xã hội bắt buộc từ đủ 06 tháng trở lên trong thời gian 12 tháng tính đến thời điểm người mang thai hộ sinh con được trợ cấp một lần.
+Từ khóa: Không có thông tin
+Mô tả: - Lao động nam đang đóng bảo hiểm xã hội bắt buộc có vợ sinh con
+-Trường hợp lao động nữ sinh con nhưng không đủ điều kiện về việc đóng bảo hiểm xã hội theo quy định mà người chồng có thời gian đóng bảo hiểm xã hội bắt buộc từ đủ 06 tháng trở lên trong thời gian 12 tháng liền kề trước khi sinh con thì người chồng được trợ cấp một lần.
+- Trường hợp người mang thai hộ, người mẹ nhờ mang thai hộ không tham gia bảo hiểm xã hội bắt buộc hoặc không đủ điều kiện thì người chồng của người mẹ nhờ mang thai hộ đã đóng bảo hiểm xã hội bắt buộc từ đủ 06 tháng trở lên trong thời gian 12 tháng tính đến thời điểm nhận con được trợ cấp một lần.
+- Trường hợp người mang thai hộ, người mẹ nhờ mang thai hộ và người chồng của người mẹ nhờ mang thai hộ không tham gia bảo hiểm xã hội bắt buộc hoặc không đủ điều kiện thì người chồng của người mang thai hộ đã đóng bảo hiểm xã hội bắt buộc từ đủ 06 tháng trở lên trong thời gian 12 tháng tính đến thời điểm người mang thai hộ sinh con được trợ cấp một lần.

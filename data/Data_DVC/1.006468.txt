@@ -1,0 +1,84 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.006468
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hoá kinh doanh tạm nhập-tái xuất
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    + Bước 1: Người khai hải quan đăng ký, khai báo tờ khai hải quan nhập khẩu (tạm nhập) và xuất trình hồ sơ hải quan, thực tế hàng hoá (khi có yêu cầu) cho cơ quan hải quan.
+    + Bước 2: Cơ quan hải quan thực hiện việc kiểm tra hồ sơ, kiểm tra thực tế hàng hoá (nếu có) và thực hiện thông quan hàng hoá.
+    + Bước 3: Người khai hải quan đăng ký, khai báo tờ khai hải quan xuất khẩu (tái xuất) và xuất trình hồ sơ hải quan, thực tế hàng hoá (khi có yêu cầu) cho cơ quan hải quan.
+    + Bước 4: Cơ quan hải quan thực hiện việc kiểm tra hồ sơ, kiểm tra thực tế hàng hoá (nếu có) và thực hiện thông quan hàng hoá.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 20000 VNĐ ()
+
+Thành phần hồ sơ:
+  [ I. Hồ sơ hải quan tạm nhập: ]
+    - Trường hợp theo thoả thuận về áp dụng thuế suất ưu đãi đặc biệt với Việt Nam hoặc theo các Điều ước quốc tế mà Việt Nam ký kết hoặc tham gia có quy định về việc nộp Giấy chứng nhận xuất xứ hàng hóa nhập khẩu là chứng từ điện tử hoặc Chứng từ tự chứng nhận xuất xứ hàng hóa của người sản xuất/người xuất khẩu/người nhập khẩu thì cơ quan hải quan chấp nhận các chứng từ này.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - đ) Giấy thông báo miễn kiểm tra hoặc Giấy thông báo kết quả kiểm tra của cơ quan kiểm tra chuyên ngành theo quy định của pháp luật: 01 bản chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - i.1) Giấy chứng nhận mã số kinh doanh tạm nhập tái xuất do Bộ Công Thương cấp: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - i.2) Giấy phép tạm nhập, tái xuất do Bộ Công Thương cấp đối với mặt hàng theo quy định phải được Bộ Công Thương cấp phép: 01 bản chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Giấy phép nhập khẩu đối với hàng hóa phải có giấy phép nhập khẩu; Giấy phép nhập khẩu theo hạn ngạch thuế quan: 01 bản chính nếu nhập khẩu một lần hoặc 01 bản chụp kèm theo Phiếu theo dõi trừ lùi nếu nhập khẩu nhiều lần;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - a) Tờ khai hàng hóa nhập khẩu theo các chỉ tiêu thông tin tại Phụ lục II ban hành kèm Thông tư số 38/2015/TT-BTC.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - i) Đối với hàng hóa thuộc loại hình kinh doanh tạm nhập-tái xuất có điều kiện theo quy định của Chính phủ:
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - g) Chứng từ chứng nhận xuất xứ hàng hóa (Giấy chứng nhận xuất xứ hàng hóa hoặc Chứng từ tự chứng nhận xuất xứ): 01 bản chính hoặc chứng từ dưới dạng dữ liệu điện tử trong các trường hợp sau: g.1) Hàng hoá có xuất xứ từ nước hoặc nhóm nước có thoả thuận về áp dụng thuế suất ưu đãi đặc biệt với Việt Nam theo quy định của pháp luật Việt Nam và theo các Điều ước quốc tế mà Việt Nam ký kết hoặc tham gia, nếu người nhập khẩu muốn được hưởng các chế độ ưu đãi đó; g.2) Hàng hoá thuộc diện do Việt Nam hoặc các tổ chức quốc tế thông báo đang ở trong thời điểm có nguy cơ gây hại đến an toàn xã hội, sức khoẻ của cộng đồng hoặc vệ sinh môi trường cần được kiểm soát; g.3) Hàng hoá nhập khẩu từ các nước thuộc diện Việt Nam thông báo đang ở trong thời điểm áp dụng thuế chống bán phá giá, thuế chống trợ cấp, thuế chống phân biệt đối xử, thuế tự vệ, thuế suất áp dụng theo hạn ngạch thuế quan; g.4) Hàng hoá nhập khẩu phải tuân thủ các chế độ quản lý nhập khẩu theo quy định của pháp luật Việt Nam hoặc các Điều ước quốc tế mà Việt Nam là thành viên.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Tờ khai trị giá: Người khai hải quan khai tờ khai trị giá theo mẫu, gửi đến Hệ thống dưới dạng dữ liệu điện tử hoặc nộp cho cơ quan hải quan 02 bản chính (đối với trường hợp khai trên tờ khai hải quan giấy). Các trường hợp phải khai tờ khai trị giá và mẫu tờ khai trị giá thực hiện theo Thông tư của Bộ Tài chính quy định về việc xác định trị giá hải quan đối với hàng hóa xuất khẩu, nhập khẩu;
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - c) Vận tải đơn hoặc các chứng từ vận tải khác có giá trị tương đương đối với trường hợp hàng hóa vận chuyển bằng đường biển, đường hàng không, đường sắt, vận tải đa phương thức theo quy định của pháp luật (trừ hàng hoá nhập khẩu qua cửa khẩu biên giới đường bộ, hàng hoá mua bán giữa khu phi thuế quan và nội địa, hàng hóa nhập khẩu do người nhập cảnh mang theo đường hành lý): 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - b) Hóa đơn thương mại trong trường hợp người mua phải thanh toán cho người bán: 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - h) Hợp đồng mua bán hàng hoá nhập khẩu: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Trường hợp chủ hàng mua hàng từ người bán tại Việt Nam nhưng được người bán chỉ định nhận hàng từ nước ngoài thì cơ quan hải quan chấp nhận hóa đơn do người bán tại Việt Nam phát hành cho chủ hàng. Người khai hải quan không phải nộp hóa đơn thương mại trong các trường hợp sau: b.1) Người khai hải quan là doanh nghiệp ưu tiên; b.2) Hàng hóa nhập khẩu để thực hiện hợp đồng gia công cho thương nhân nước ngoài, người khai hải quan khai giá tạm tính tại ô “Trị giá hải quan” trên tờ khai hải quan; b.3) Hàng hóa nhập khẩu không có hóa đơn và người mua không phải thanh toán cho người bán, người khai hải quan khai trị giá hải quan theo hướng dẫn của Bộ Tài chính về xác định trị giá hải quan.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Đối với chứng từ quy định tại điểm d, điểm đ nêu trên nếu áp dụng cơ chế một cửa quốc gia, cơ quan quản lý nhà nước chuyên ngành gửi giấy phép nhập khẩu, văn bản thông báo kết quả kiểm tra, miễn kiểm tra chuyên ngành dưới dạng điện tử thông qua Cổng thông tin một cửa quốc gia, người khai hải quan không phải nộp khi làm thủ tục hải quan;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Đối với hàng hóa nhập khẩu phục vụ cho hoạt động thăm dò, khai thác dầu khí được vận chuyển trên các tàu dịch vụ (không phải là tàu thương mại) thì nộp bản khai hàng hoá (cargo manifest) thay cho vận tải đơn;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 2 Điều 25 Nghị định số 08/2015/NĐ-CP, người khai hải quan khai và nộp 02 bản chính tờ khai hàng hóa nhập khẩu theo mẫu HQ/2015/NK Phụ lục IV ban hành kèm Thông tư số 38/2015/TT-BTC;
+      Số lượng: Bản chính: 2, Bản sao: 0
+  [ II. Hồ sơ hải quan tái xuất: ]
+    - b) Giấy phép xuất khẩu đối với hàng hóa phải có giấy phép xuất khẩu: 01 bản chính nếu xuất khẩu một lần hoặc 01 bản chụp kèm theo Phiếu theo dõi trừ lùi nếu xuất khẩu nhiều lần;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Đối với chứng từ quy định tại điểm b, điểm c khoản này, nếu áp dụng cơ chế một cửa quốc gia, cơ quan quản lý nhà nước chuyên ngành gửi giấy phép xuất khẩu, văn bản thông báo kết quả kiểm tra, miễn kiểm tra chuyên ngành dưới dạng điện tử thông qua Cổng thông tin một cửa quốc gia, người khai hải quan không phải nộp khi làm thủ tục hải quan.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - a) Tờ khai hàng hóa xuất khẩu theo các chỉ tiêu thông tin tại Phụ lục II ban hành kèm Thông tư số 38/2015/TT-BTC.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 2 Điều 25 Nghị định số 08/2015/NĐ-CP, người khai hải quan khai và nộp 02 bản chính tờ khai hàng hóa xuất khẩu theo mẫu HQ/2015/XK Phụ lục IV ban hành kèm Thông tư 38/2015/TT-BTC;
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - c) Giấy thông báo miễn kiểm tra hoặc giấy thông báo kết quả kiểm tra của cơ quan kiểm tra chuyên ngành theo quy định của pháp luật: 01 bản chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận thông quan
+Căn cứ pháp lý:
+  * Thông tư 172/2010/TT-BTC (172/2010/TT-BTC)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Về giao dịch điện tử trong hoạt động tài chính (27/2007/NĐ-CP)
+  * Nghị định số 187/2013/NĐ-CP (187/2013/NĐ-CP)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Luật 51/2005/QH11 (51/2005/QH11)
+  * Thông tư số 05/2014/TT-BCT (05/2014/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

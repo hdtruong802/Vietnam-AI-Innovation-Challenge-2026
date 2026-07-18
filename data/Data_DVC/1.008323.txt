@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008323
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Khai thuế bảo vệ môi trường
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1: người nộp thuế chuẩn bị số liệu, lập tờ khai và gửi đến cơ quan thuế chậm nhất vào ngày 20 của tháng sau tháng phát sinh, cụ thể như sau:
+    ++ Người nộp thuế nộp hồ sơ khai thuế bảo vệ môi trường tại nơi sản xuất hàng hoá chịu thuế bảo vệ môi trường, nơi sản xuất, kinh doanh than, trừ thuế bảo vệ môi trường của hoạt động kinh doanh xăng dầu (quy định tại điểm a khoản 4 Điều 11 Nghị định số 126/2020/NĐ-CP), thuế bảo vệ môi trường của than khai thác và tiêu thụ nội địa (quy định tại điểm b khoản 4 Điều 11 Nghị định số 126/2020/NĐ-CP).
+    ++ Đối với hoạt động kinh doanh xăng dầu:
+    +++ Thương nhân đầu mối trực tiếp nhập khẩu, sản xuất, pha chế xăng dầu nộp hồ sơ khai thuế đến cơ quan thuế quản lý trực tiếp đối với lượng xăng dầu do các thương nhân đầu mối trực tiếp xuất, bán bao gồm xuất để tiêu dùng nội bộ, xuất để trao đổi sản phẩm hàng hoá khác, xuất trả hàng nhập khẩu ủy thác, bán cho tổ chức, cá nhân khác không phải là các đơn vị phụ thuộc, công ty con theo quy định tại Luật Doanh nghiệp của thương nhân đầu mối; trừ lượng xăng dầu xuất bán và nhập khẩu ủy thác cho thương nhân đầu mối khác.
+    +++Các công ty con theo quy định tại Luật Doanh nghiệp của thương nhân đầu mối hoặc các đơn vị phụ thuộc của các công ty con, các đơn vị phụ thuộc của thương nhân đầu mối nộp hồ sơ khai thuế đến cơ quan thuế quản lý trực tiếp đối với lượng xăng dầu xuất, bán cho tổ chức, cá nhân khác không phải là công ty con theo quy định tại Luật Doanh nghiệp của thương nhân đầu mối và đơn vị phụ thuộc của công ty con.
+    +++ Thương nhân đầu mối hoặc công ty con theo quy định tại Luật Doanh nghiệp của thương nhân đầu mối có đơn vị phụ thuộc kinh doanh tại địa phương khác tỉnh, thành phố trực thuộc trung ương với nơi thương nhân đầu mối, công ty con của thương nhân đầu mối đóng trụ sở mà đơn vị phụ thuộc không hạch toán kế toán để khai riêng được thuế bảo vệ môi trường thì thương nhân đầu mối, công ty con của thương nhân đầu mối thực hiện khai thuế bảo vệ môi trường đến cơ quan thuế quản lý trực tiếp; tính thuế, phân bổ nghĩa vụ thuế phải nộp cho từng địa phương nơi có đơn vị phụ thuộc đóng trụ sở theo quy định của Bộ trưởng Bộ Tài chính.
+    ++ Đối với than khai thác và tiêu thụ nội địa:
+    Doanh nghiệp có hoạt động khai thác và tiêu thụ than nội địa thông qua hình thức quản lý và giao cho các công ty con hoặc đơn vị phụ thuộc khai thác, chế biến và tiêu thụ thì đơn vị thực hiện nhiệm vụ tiêu thụ than thực hiện khai thuế cho toàn bộ số thuế bảo vệ môi trường phát sinh đối với than khai thác thuộc diện chịu thuế và nộp hồ sơ khai thuế đến cơ quan thuế quản lý trực tiếp kèm theo Bảng xác định số thuế phải nộp cho từng địa phương nơi có công ty khai thác than đóng trụ sở theo quy định của Bộ trưởng Bộ Tài chính.
+    + Bước 2: Cơ quan thuế tiếp nhận:
+    ++ Cơ quan quản lý thuế tiếp nhận hồ sơ khai thuế, thông báo về việc tiếp nhận hồ sơ khai thuế; trường hợp hồ sơ không hợp pháp, không đầy đủ, không đúng mẫu quy định thì thông báo cho người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ.
+    ++Trường hợp tiếp nhận hồ sơ qua Cổng thông tin điện tử của Cục Thuế, cơ quan thuế thực hiện tiếp nhận, kiểm tra, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế:
+    +++ Cổng thông tin điện tử của Cục Thuế gửi thông báo tiếp nhận việc NNT đã nộp hồ sơ hoặc thông báo lý do không tiếp nhận hồ sơ cho NNT qua Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ  (Cổng thông tin điện tử của Cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền hoặc tổ chức cung cấp dịch vụ T-VAN) chậm nhất 15 phút kể từ khi nhận được hồ sơ khai thuế điện tử của người nộp thuế
+    +++ Cơ quan thuế thực hiện kiểm tra, giải quyết hồ sơ khai thuế của NNT theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành, gửi thông báo chấp nhận/không chấp nhận hồ sơ đến Cổng thông tin điện tử mà NNT lựa chọn lập và gửi hồ sơ  chậm nhất 01 ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận nộp hồ sơ khai thuế điện tử.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - ++ Phụ lục bảng xác định số thuế bảo vệ môi trường phải nộp cho các địa phương nơi được hưởng nguồn thu đối với than mẫu số 01-1/TBVMT theo Phụ lục 1 Danh mục hồ sơ khai thuế ban hành kèm theo Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư  số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (trường hợp người nộp thuế thực hiện phân bổ thuế BVMT phải nộp của mặt hàng xăng dầu cho từng địa phương nơi có đơn vị phụ thuộc đóng trụ sở theo quy định);
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - ++ Phụ lục bảng phân bổ số thuế bảo vệ môi trường phải nộp cho các địa phương nơi được hưởng nguồn thu đối với xăng dầu mẫu số 01-2/TBVMT theo Phụ lục 1 Danh mục hồ sơ khai thuế ban hành kèm theo Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư  số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (trường hợp người nộp thuế xác định số thuế phải nộp cho từng địa phương nơi có công ty khai thác than đóng trụ sở theo quy định).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - ++ Tờ khai thuế BVMT mẫu số 01/TBVMT theo Phụ lục 1 Danh mục hồ sơ khai thuế ban hành kèm theo Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư  số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Thuế cơ sở, Thuế tỉnh, thành phố, Chi cục Thuế doanh nghiệp lớn - Cục Thuế
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Nghị định số 122/2025/NĐ-CP của Chính phủ: Quy định về phân quyền, phân cấp trong lĩnh vực quản lý thuế (122/2025/NĐ-CP)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+  * Thông tư số 40/2025/TT-BTC Sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý thuế để phân định thẩm quyền của chính quyền địa phương theo mô hình tổ chức chính quyền địa phương 02 cấp (40/2025/TT-BTC)
+  * Nghị định số 125/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tài chính (125/2025/NĐ-CP)
+  * Nghị định số 91/2022/NĐ-CP sửa đổi bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (91/2022/NĐ-CP)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Nghị định (67/2011/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

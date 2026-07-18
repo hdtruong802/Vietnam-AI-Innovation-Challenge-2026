@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.005458
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục huỷ tờ khai hải quan
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    a) Trách nhiệm người khai hải quan:
+    Khi đề nghị hủy tờ khai hải quan, người khai hải quan khai thông tin đề nghị huỷ tờ khai hải quan theo mẫu số 06 Phụ lục II ban hành kèm Thông tư này và nộp các chứng từ chứng minh việc hủy tờ khai (nếu có) thông qua Hệ thống xử lý dữ liệu điện tử hải quan hoặc nộp 02 bản chính văn bản đề nghị hủy tờ khai hải quan theo mẫu số 04/HTK/GSQL Phụ lục V ban hành kèm Thông tư này trong trường hợp khai tờ khai hải quan giấy cho cơ quan hải quan nơi đăng ký tờ khai.
+    Trường hợp hàng hóa xuất khẩu đã đưa vào khu vực giám sát hải quan nhưng thực tế không xuất khẩu, nếu hủy tờ khai để đưa trở lại nội địa, người khai hải quan phải cam kết trong văn bản đề nghị về việc chưa thực hiện việc hoàn thuế, không thu thuế cho lô hàng thuộc tờ khai hàng hóa xuất khẩu tại cơ quan thuế nội địa hoặc tại cơ quan hải quan và chịu trách nhiệm về nội dung đã khai báo. Nếu cơ quan hải quan hoặc cơ quan thuế kiểm tra phát hiện người khai hải quan đã hoàn thuế thì người khai hải quan bị xử lý theo quy định của pháp luật.
+    b) Trách nhiệm của cơ quan hải quan nơi đăng ký tờ khai:
+    b.1) Trường hợp hủy tờ khai hải quan quy định tại điểm a khoản 1 Điều này:
+    b.1.1) Chậm nhất 01 ngày làm việc kể từ ngày tờ khai hải quan không có giá trị làm thủ tục hải quan, hải quan nơi đăng ký tờ khai hải quan kiểm tra, xác minh thông tin hàng hóa nhập khẩu đã đến cửa khẩu nhập hoặc hàng hóa xuất khẩu đã đưa vào khu vực giám sát hải quan trên Hệ thống xử lý dữ liệu điện tử hải quan hoặc thực hiện việc xác minh tại Hải quan quản lý địa điểm lưu giữ hàng hóa tại cửa khẩu trong trường hợp Hệ thống xử lý dữ liệu điện tử hải quan chưa kết nối trao đổi thông tin giám sát hàng hóa;
+    b.1.2) Trường hợp kết quả kiểm tra, xác minh là phù hợp, thực hiện việc hủy tờ khai hải quan và thông báo thông tin hủy tờ khai hải quan cho người khai hải quan trên Hệ thống.
+    b.2) Trường hợp hủy tờ khai hải quan quy định tại điểm b khoản 1 Điều này: Trong thời hạn 08 (tám) giờ làm việc kể từ khi nhận đề nghị hủy tờ khai hải quan của người khai hải quan, công chức hải quan kiểm tra lý do, điều kiện và thông tin tờ khai hải quan đề nghị hủy trên Hệ thống, đề xuất Lãnh đạo phê duyệt, thực hiện việc hủy tờ khai hải quan và phản hồi kết quả cho người khai hải quan trên Hệ thống;
+    b.3) Thực hiện xử lý tiền thuế đã nộp (nếu có) theo quy định tại Điều 131 Thông tư này;
+    b.4) Trường hợp hủy tờ khai hải quan đối với hàng hóa xuất khẩu, nhập khẩu phải quản lý, theo dõi trừ lùi có ảnh hưởng đến thông tin quản lý, theo dõi trừ lùi trên Hệ thống thì sau khi hủy tờ khai hải quan, cơ quan hải quan có trách nhiệm cập nhật thông tin vào Hệ thống;
+    b.5) Thông báo cho Chi cục Thuế tỉnh, thành phố nơi doanh nghiệp đăng ký kinh doanh đối với hàng hóa xuất khẩu có nguồn gốc từ trong nước theo mẫu số 01/TB-XNKTC/GSQL Phụ lục V ban hành kèm Thông tư này hoặc thông báo cho Hải quan nơi đăng ký tờ khai hải quan nhập khẩu đối với hàng hóa xuất khẩu có nguồn gốc nhập khẩu (nếu hải quan nơi đăng ký tờ khai hải quan xuất khẩu khác hải quan nơi đăng ký tờ khai hải quan nhập khẩu) để theo dõi, không xử lý hoàn thuế, khấu trừ thuế, không thu thuế đối với hàng hóa thuộc tờ khai hải quan xuất khẩu đã huỷ;
+    b.6) Trường hợp cơ quan hải quan có thông tin vi phạm pháp luật liên quan đến lô hàng thì tờ khai chỉ được hủy sau khi đã thực hiện các biện pháp nghiệp vụ và xác định lô hàng không vi phạm pháp luật hoặc đã hoàn thành việc xử lý vi phạm theo quy định của pháp luật;
+    b.7) Đối với tờ khai hải quan giấy, ngoài thực hiện các nội dung tương ứng tại điểm b.1, điểm b.2, điểm b.3, điểm b.4, điểm b.5, điểm b.6 khoản này, công chức hải quan nơi đăng ký tờ khai gạch chéo bằng bút mực, ký tên, đóng dấu công chức lên tờ khai hải quan được huỷ; lưu tờ khai hải quan được huỷ theo thứ tự số đăng ký tờ khai hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Mẫu số 04/HTK/GSQL – Đơn đề nghị huỷ tờ khai (phụ lục V ban hành kèm theo Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ trưởng Bộ Tài chính được sửa đổi, bổ sung tại Phụ lục II Thông tư số 39/2018/TT-BTC ngày 20/4/2018 của Bộ trưởng Bộ Tài chính)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo hủy tờ khai
+Căn cứ pháp lý:
+  * Thông tư số 39/2018/TT-BTC ngày 20/4/2018 của Bộ Tài chính sửa đổi, bổ sung một số điều tại Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu. (39/2018/TT-BTC)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Về giao dịch điện tử trong hoạt động tài chính (27/2007/NĐ-CP)
+  * Nghị định 59/2018/NĐ-CP (59/2018/NĐ-CP)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

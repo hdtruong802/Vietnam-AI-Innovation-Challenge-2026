@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013849
+Số quyết định: 1859/QĐ-BTP
+Tên thủ tục: Chuyển đổi Văn phòng công chứng theo loại hình doanh nghiệp tư nhân thành Văn phòng công chứng theo loại hình công ty hợp danh
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công chứng
+Trình tự thực hiện:
+    - Công chứng viên là Trưởng Văn phòng công chứng được chuyển đổi lập 01 bộ hồ sơ theo quy định, nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử về Sở Tư pháp nơi Văn phòng công chứng được chuyển đổi đăng ký hoạt động.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp xem xét, đề nghị Ủy ban nhân cấp tỉnh cho phép chuyển đổi Văn phòng công chứng; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Sở Tư pháp và hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép chuyển đổi Văn phòng công chứng; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Dự thảo Điều lệ của Văn phòng công chứng chuyển đổi;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị chuyển đổi Văn phòng công chứng, trong đó nêu rõ việc đáp ứng các điều kiện chuyển đổi quy định tại khoản 3 Điều 17 Nghị định số 104/2025/NĐ-CP ngày 15/5/2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Công chứng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản cam kết, thỏa thuận theo quy định tại khoản 3 Điều 17 Nghị định số 104/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử Quyết định bổ nhiệm của các công chứng viên hợp danh dự kiến của Văn phòng công chứng chuyển đổi; giấy tờ chứng minh đã hành nghề công chứng từ đủ 02 năm trở lên đối với công chứng viên dự kiến làm Trưởng Văn phòng công chứng chuyển đổi;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Tư pháp
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cho phép chuyển đổi Văn phòng công chứng
+Căn cứ pháp lý:
+  * Nghị định số 104/2025/NĐ-CP ngày 15/5/2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Công chứng (104/2025/NĐ-CP)
+  * Luật Công chứng năm 2024 (46/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: - Văn phòng công chứng được chuyển đổi không thuộc trường hợp tạm ngừng hoạt động hoặc bị thu hồi quyết định cho phép thành lập, thu hồi giấy đăng ký hoạt động tại thời điểm đề nghị chuyển đổi;
+- Trưởng Văn phòng công chứng được chuyển đổi cam kết bằng văn bản về việc chịu trách nhiệm cá nhân bằng toàn bộ tài sản của mình đối với các khoản nợ và nghĩa vụ tài sản khác chưa thanh toán và cam kết thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác khi đến hạn, trừ trường hợp các thành viên hợp danh dự kiến của Văn phòng công chứng chuyển đổi có thỏa thuận khác;
+- Các thành viên hợp danh dự kiến của Văn phòng công chứng chuyển đổi có thỏa thuận bằng văn bản về việc tiếp tục thực hiện các yêu cầu công chứng đang được giải quyết; các giao dịch khác đang thực hiện hoặc chưa chấm dứt, hủy bỏ; tiếp nhận và sử dụng người lao động hiện có của Văn phòng công chứng được chuyển đổi;
+- Văn phòng công chứng chuyển đổi có địa chỉ trụ sở trong cùng địa bàn cấp xã với Văn phòng công chứng được chuyển đổi.
+Từ khóa: Không có thông tin
+Mô tả: - Văn phòng công chứng được chuyển đổi không thuộc trường hợp tạm ngừng hoạt động hoặc bị thu hồi quyết định cho phép thành lập, thu hồi giấy đăng ký hoạt động tại thời điểm đề nghị chuyển đổi;
+- Trưởng Văn phòng công chứng được chuyển đổi cam kết bằng văn bản về việc chịu trách nhiệm cá nhân bằng toàn bộ tài sản của mình đối với các khoản nợ và nghĩa vụ tài sản khác chưa thanh toán và cam kết thanh toán đủ các khoản nợ và nghĩa vụ tài sản khác khi đến hạn, trừ trường hợp các thành viên hợp danh dự kiến của Văn phòng công chứng chuyển đổi có thỏa thuận khác;
+- Các thành viên hợp danh dự kiến của Văn phòng công chứng chuyển đổi có thỏa thuận bằng văn bản về việc tiếp tục thực hiện các yêu cầu công chứng đang được giải quyết; các giao dịch khác đang thực hiện hoặc chưa chấm dứt, hủy bỏ; tiếp nhận và sử dụng người lao động hiện có của Văn phòng công chứng được chuyển đổi;
+- Văn phòng công chứng chuyển đổi có địa chỉ trụ sở trong cùng địa bàn cấp xã với Văn phòng công chứng được chuyển đổi.

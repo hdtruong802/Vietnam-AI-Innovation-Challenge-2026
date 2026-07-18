@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000358
+Số quyết định: 1781/QĐ-BCT
+Tên thủ tục: Gia hạn Giấy phép thành lập Chi nhánh của thương nhân nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thương mại quốc tế
+Trình tự thực hiện:
+    - Hồ sơ gia hạn Giấy phép thành lập Chi nhánh phải được nộp trong thời hạn ít nhất 30 ngày trước khi Giấy phép hết hạn.
+    - Thương nhân nước ngoài nộp hồ sơ trực tiếp hoặc qua đường bưu điện hoặc trực tuyến (nếu đủ điều kiện áp dụng) đến Ủy ban nhân dân cấp tỉnh.
+    - Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh kiểm tra và yêu cầu bổ sung nếu hồ sơ chưa đầy đủ, hợp lệ. Việc yêu cầu bổ sung hồ sơ được thực hiện tối đa một lần trong suốt quá trình giải quyết hồ sơ.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh gia hạn Giấy phép thành lập Chi nhánh. Trường hợp không gia hạn phải có văn bản nêu rõ lý do.
+    - Trường hợp việc gia hạn Giấy phép thành lập Chi nhánh chưa được quy định tại văn bản quy phạm pháp luật chuyên ngành, Ủy ban nhân dân cấp tỉnh gửi văn bản lấy ý kiến của Bộ quản lý chuyên ngành trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản của Ủy ban nhân dân cấp tỉnh, Bộ quản lý chuyên ngành có văn bản nêu rõ ý kiến đồng ý hoặc không đồng ý gia hạn Giấy phép thành lập Chi nhánh. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến của Bộ quản lý chuyên ngành, Ủy ban nhân dân cấp tỉnh gia hạn hoặc không gia hạn Giấy phép thành lập Chi nhánh cho thương nhân nước ngoài. Trường hợp không gia hạn phải có văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị gia hạn Giấy phép thành lập Chi nhánh theo mẫu của Bộ Công Thương do đại diện có thẩm quyền của thương nhân nước ngoài ký
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao báo cáo tài chính có kiểm toán hoặc văn bản xác nhận tình hình thực hiện nghĩa vụ thuế hoặc tài chính trong năm tài chính gần nhất hoặc giấy tờ có giá trị tương đương do cơ quan, tổ chức có thẩm quyền nơi thương nhân nước ngoài thành lập cấp hoặc xác nhận, chứng minh sự tồn tại và hoạt động của thương nhân nước ngoài trong năm tài chính gần nhất (phải dịch ra tiếng Việt và chứng thực theo quy định pháp luật Việt Nam)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao Giấy phép thành lập Chi nhánh đã được cấp
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao Giấy đăng ký kinh doanh hoặc giấy tờ có giá trị tương đương của thương nhân nước ngoài (Bản sao Giấy đăng ký kinh doanh hoặc giấy tờ có giá trị tương đương của thương nhân nước ngoài phải dịch ra tiếng Việt và được cơ quan đại diện ngoại giao, cơ quan lãnh sự của Việt Nam ở nước ngoài chứng nhận hoặc hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam)
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Người nước ngoài
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: GIA HẠN GIẤY PHÉP THÀNH LẬP CHI NHÁNH CỦA THƯƠNG NHÂN NƯỚC NGOÀI TẠI VIỆT NAM
+Căn cứ pháp lý:
+  * Nghị định số 146/2025/NĐ-CP (nghị định 146/2025)
+  * Thông tư số 11/2016/TT-BCT (11/2016/TT-BCT)
+  * Nghị định số 07/2016/NĐ-CP (07/2016/NĐ-CP)
+  * Thông tư số 11/2016/TT-BCT (11/2016/TT-BCT)
+  * Nghị định số 07/2016/NĐ-CP (07/2016/NĐ-CP)
+  * Sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương (38/2025/TT-BCT)
+  * Thông tư số 11/2016/TT-BCT (11/2016/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

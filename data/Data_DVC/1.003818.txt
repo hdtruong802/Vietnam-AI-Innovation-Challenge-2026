@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003818
+Số quyết định: 1613/QĐ-BGTVT
+Tên thủ tục: Thủ tục Gia hạn Giấy chứng nhận phê chuẩn Tổ chức bảo dưỡng tàu bay (AMO)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * Nộp hồ sơ TTHC:
+    AMO nộp 01 bộ hồ sơ đề nghị trực tiếp hoặc qua đường bưu chính hoặc qua hệ thống dịch vụ công trực tuyến tới Cục Hàng không Việt Nam.
+  * Giải quyết TTHC:
+    Cục Hàng không Việt Nam xem xét quyết định gia hạn Giấy chứng nhận trong thời hạn 20 ngày, kể từ ngày nhận được đơn đề nghị hoặc thông báo từ chối cấp bằng văn bản, có nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 15000000 VNĐ (đồng (Miễn phí từ ngày 07/4/2026 đến 30/6/2026 theo quy định tại Thông tư 40/2026/TT-BTC)
+    Mô tả: 20 ngày, kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 15000000 VNĐ (đồng Miễn phí từ ngày 07/4/2026 đến 30/6/2026 theo quy định tại Thông tư 40/2026/TT-BTC)
+    Mô tả: 20 ngày, kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 15000000 VNĐ (đồng Miễn phí từ ngày 07/4/2026 đến 30/6/2026 theo quy định tại Thông tư 40/2026/TT-BTC)
+    Mô tả: 20 ngày, kể từ ngày nhận được hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Bản sao hoặc biểu mẫu điện tử đơn đề nghị gia hạn Giấy chứng nhận phê chuẩn AMO theo mẫu quy định tại Phụ lục 1 Điều 5.033
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao hoặc bản sao điện tử báo cáo liệt kê các công việc bảo dưỡng đã thực hiện cho tàu bay quốc tịch Việt Nam;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao hoặc bản sao điện tử Giấy chứng nhận Tổ chức bảo dưỡng, tài liệu phạm vi hoạt động và tài liệu giải trình năng lực.”;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao hoặc bản sao điện tử của tài liệu giải trình tổ chức bảo dưỡng;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận phê chuẩn Tổ chức bảo dưỡng tàu bay (AMO)
+Căn cứ pháp lý:
+  * Thông tư 21/2017/TT-BGTVT sửa đổi Thông tư 01/2011/TT-BGTVT về Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay và Thông tư 03/2016/TT-BGTVT sửa đổi Thông tư 01/2011/TT-BGTVT do Bộ trưởng Bộ Giao thông vận tải ban hành (Thông tư 21/2017/TT-BGTVT)
+  * Thông tư 11/2022/TT-BGTVT (11/2022/TT-BGTVT)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Sửa đổi, bổ sung một số điều của Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay ban hành kèm theo Thông tư số 01/2011/TT-BGTVT ngày 27/01/2011 của Bộ trưởng Bộ GTVT và các Thông tư sửa đổi, bổ sung Thông tư số 01/2011/TT-BGTVT ngày 27/01/2011 của Bộ trưởng Bộ GTVT (Thông tư 09/2023/TT-BGTVT)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 01/2011/TT-BGTVT ngày 27 tháng 01 năm 2011 của Bộ trưởng Bộ Giao thông vận tải ban hành Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay (03/2016/TT-BGTVT)
+  * Thông tư sửa đổi, bổ sung một số điều của Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay (56/2018/TT-BGTVT)
+  * Ban hành Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay (01/2011/TT-BGTVT)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: AMO phải đề nghị gia hạn Giấy chứng nhận phê chuẩn 30 ngày trước ngày hết hạn của Giấy chứng nhận phê chuẩn.
+Từ khóa: Không có thông tin
+Mô tả: AMO phải đề nghị gia hạn Giấy chứng nhận phê chuẩn 30 ngày trước ngày hết hạn của Giấy chứng nhận phê chuẩn.

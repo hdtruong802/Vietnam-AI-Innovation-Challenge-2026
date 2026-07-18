@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013647
+Số quyết định: 6229/QĐ-BQP
+Tên thủ tục: Trình tự, thủ tục giải thể trung tâm giáo dục quốc phòng và an ninh
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giáo dục quốc phòng và an ninh
+Trình tự thực hiện:
+    - Bước 1:
+    Trường hợp 1:  Các nhà trường Quân đội khi giải thể trung tâm giáo dục quốc phòng và an ninh gửi hồ sơ đề nghị giải thể trung tâm về Cục Dân quân tự vệ/Bộ Tổng Tham mưu (Cơ quan Thường trực Hội đồng Giáo dục quốc phòng và an ninh Trung ương).
+    Trường hợp 2: Các trường cao đẳng, cơ sở giáo dục đại học khi giải thể trung tâm giáo dục quốc phòng và an ninh gửi hồ sơ đề nghị giải thể trung tâm về Vụ Giáo dục quốc phòng và an ninh/Bộ Giáo dục và Đào tạo.
+    Bước 2: Trong thời hạn 30 ngày làm việc, kể từ khi nhận được đầy đủ hồ sơ đề nghị thẩm định giải thể trung tâm, cơ quan chủ trì thẩm định phối hợp với Bộ Quốc phòng, các bộ, ngành, địa phương liên quan được quy hoạch trung tâm tiến hành thẩm định hồ sơ đề nghị giải thể trung tâm và có văn bản thông báo kết quả thẩm định gửi cơ quan, tổ chức đề nghị thẩm định.
+    Bước 3: Trong thời hạn 25 ngày làm việc, kể từ ngày thông báo kết quả thẩm định đủ điều kiện giải thể trung tâm, cấp có thẩm quyền ban hành quyết định giải thể trung tâm.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 55 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 55 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Đề án giải thể trung tâm, gồm: Sự cần thiết và cơ sở pháp lý của việc giải thể; phương án xử lý về tổ chức bộ máy, nhân sự, tài chính, tài sản, đất đai và các vấn đề khác có liên quan; các văn bản của cơ quan, tổ chức có thẩm quyền xác nhận về tài chính, tài sản, đất đai, các khoản vay, nợ phải trả và các vấn đề khác liên quan (nếu có); quy trách nhiệm của người đứng đầu trung tâm và các cá nhân có liên quan đối với việc thực hiện phương án giải thể trung tâm và thời hạn xử lý;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Tờ trình giải thể trung tâm do cơ quan, tổ chức đề nghị giải thể trung tâm xây dựng, trình cơ quan hoặc người có thẩm quyền quyết định giải thể, nội dung gồm: Sự cần thiết; cơ sở pháp lý; quá trình xây dựng đề án; nội dung chính của đề án; những vấn đề còn có ý kiến khác nhau và những vấn đề liên quan, do người đứng đầu cơ quan, tổ chức đề nghị giải thể ký, đóng dấu của cơ quan, tổ chức trình cơ quan hoặc người có thẩm quyền quyết định giải thể;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Các văn bản của cơ quan, tổ chức có thẩm quyền xác nhận việc hoàn thành nghĩa vụ về tài chính, tài sản, đất đai, các khoản vay, nợ phải trả và các vấn đề khác liên quan (nếu có).
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Dự thảo văn bản của cơ quan hoặc người có thẩm quyền quyết định giải thể trung tâm;
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Dân quân tự vệ thuộc Bộ Tổng Tham mưu, Vụ Giáo dục Quốc phòng và An ninh - Bộ giáo dục đào tạo
+Cơ quan có thẩm quyền: Bộ Giáo dục và Đào tạo, Bộ Quốc phòng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định giải thể trung tâm giáo dục quốc phòng và an ninh.
+Căn cứ pháp lý:
+  * Số 10/2025/QĐ-TTg (Số 10/2025/QĐ-TTg)
+  * Luật số số 30/2013/QH13 (30/2013/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

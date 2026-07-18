@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012341
+Số quyết định: 217/QĐ-BTC
+Tên thủ tục: Đề nghị sửa đổi, bổ sung Giấy phép thành lập và hoạt động của tổ chức tương hỗ cung cấp bảo hiểm vi mô
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo hiểm
+Trình tự thực hiện:
+  * Đề nghị sửa đổi, bổ sung Giấy phép thành lập và hoạt động trong trường hợp thay đổi tên, địa điểm đặt trụ sở chính
+    + Tổ chức tương hỗ cung cấp bảo hiểm vi mô phải đề nghị Bộ Tài chính sửa đổi, bổ sung Giấy phép thành lập và hoạt động trong các trường hợp thay đổi tên, địa điểm đặt trụ sở chính;
+    +Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tài chính cấp Giấy phép điều chỉnh. Trường hợp từ chối chấp thuận, Bộ Tài chính có văn bản giải thích rõ lý do.
+  * Đề nghị sửa đổi, bổ sung Giấy phép thành lập và hoạt động trong trường hợp thay đổi nội dung, phạm vi và thời hạn hoạt động
+    + Tổ chức tương hỗ cung cấp bảo hiểm vi mô phải đề nghị Bộ Tài chính sửa đổi, bổ sung Giấy phép thành lập và hoạt động trong các trường hợp thay đổi nội dung, phạm vi và thời hạn hoạt động;
+    + Trong thời hạn 14 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tài chính cấp Giấy phép điều chỉnh. Trường hợp từ chối chấp thuận, Bộ Tài chính có văn bản giải thích rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Đề nghị sửa đổi, bổ sung Giấy phép thành lập và hoạt động trong trường hợp thay đổi nội dung, phạm vi và thời hạn hoạt động ]
+    - a) Văn bản đề nghị thay đổi nội dung, phạm vi và thời hạn hoạt động theo Mẫu số 04 quy định tại Phụ lục ban hành kèm theo Nghị định số 21/2023/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Văn bản của cấp có thẩm quyền theo quy định tại Điều lệ của tổ chức tương hỗ cung cấp bảo hiểm vi mô về việc thay đổi nội dung, phạm vi và thời hạn hoạt động;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Các tài liệu chứng minh: tổ chức tương hỗ cung cấp bảo hiểm vi mô thực hiện ký quỹ đầy đủ theo quy định tại Điều 37 Nghị định số 21/2023/NĐ-CP; trích lập đầy đủ dự phòng nghiệp vụ theo quy định tại Điều 38 Nghị định này; có kết quả hoạt động dương tại thời điểm lập báo cáo tài chính đã được kiểm toán của năm liền kề trước năm nộp hồ sơ (đối với trường hợp mở rộng nội dung, phạm vi hoạt động); bảo đảm hoàn thành các trách nhiệm đối với thành viên tham gia bảo hiểm vi mô (đối với trường hợp thu hẹp nội dung, phạm vi hoặc thay đổi thời hạn hoạt động).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đề nghị sửa đổi, bổ sung Giấy phép thành lập và hoạt động trong trường hợp thay đổi tên, địa điểm đặt trụ sở chính ]
+    - a) Văn bản đề nghị thay đổi  tên, địa điểm đặt trụ sở chính theo Mẫu số 04 quy định tại Phụ lục ban hành kèm theo Nghị định số 21/2023/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Tài liệu chứng minh về quyền sử dụng địa điểm đặt trụ sở chính (đối với việc thay đổi địa điểm đặt trụ sở chính).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Văn bản của cấp có thẩm quyền theo quy định tại Điều lệ của tổ chức tương hỗ cung cấp bảo hiểm vi mô về việc thay đổi tên, địa điểm đặt trụ sở chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Bộ Tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo lý do từ chối của Bộ Tài chính, Giấy phép điều chỉnh của tổ chức tương hỗ cung cấp bảo hiểm vi mô
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

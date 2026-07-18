@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000390
+Số quyết định: 516/QĐ-BTP
+Tên thủ tục: Cấp lại thẻ tư vấn viên pháp luật
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tư vấn pháp luật
+Trình tự thực hiện:
+    - Trong trường hợp Thẻ tư vấn viên pháp luật bị mất hoặc bị hư hỏng không thể tiếp tục sử dụng được tư vấn viên pháp luật nộp cho Trung tâm tư vấn pháp luật hoặc Chi nhánh nơi mình làm việc 01 bộ hồ sơ đề nghị cấp lại Thẻ tư vấn viên pháp luật.
+    - Trung tâm tư vấn pháp luật, Chi nhánh có trách nhiệm gửi hồ sơ đề nghị cấp lại Thẻ tư vấn viên pháp luật cho Sở Tư pháp.
+    - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có trách nhiệm cấp lại Thẻ tư vấn viên pháp luật cho người có yêu cầu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Thẻ tư vấn viên pháp luật cũ (trong trường hợp Thẻ bị hư hỏng)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hai ảnh chân dung cỡ 2 cm x 3 cm
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Giấy đề nghị cấp Thẻ tư vấn viên pháp luật, trong đó có xác nhận của Trung tâm tư vấn pháp luật hoặc Chi nhánh về tình trạng của Thẻ tư vấn viên pháp luật
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Tư pháp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thẻ tư vấn viên pháp luật
+Căn cứ pháp lý:
+  * Thông tư sửa đổi một số thủ tục hành chính quy định tại các thông tư trong lĩnh vực bổ trợ tư pháp (30/2025/TT-BTP)
+  * Thông tư 01/2010/TT-BTP (01/2010/TT-BTP)
+
+Yêu cầu, điều kiện thực hiện: không
+Từ khóa: Không có thông tin
+Mô tả: không

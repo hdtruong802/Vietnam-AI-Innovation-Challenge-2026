@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014751
+Số quyết định: 107/QĐ-BNV
+Tên thủ tục: Tiếp tục hưởng trợ cấp thất nghiệp (Cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Việc làm
+Trình tự thực hiện:
+    Trong thời hạn 02 ngày làm việc kể từ ngày người lao động tiếp tục thực hiện thông báo về việc tìm kiếm việc làm hằng tháng theo quy định đối với người lao động bị tạm dừng hưởng trợ cấp thất nghiệp nếu vẫn còn thời gian hưởng trợ cấp thất nghiệp theo quyết định của Giám đốc Sở Nội vụ thì tổ chức dịch vụ việc làm công trình Giám đốc Sở Nội vụ quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp cho người lao động.
+    Giám đốc Sở Nội vụ ban hành Quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp.
+    Quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp được tổ chức dịch vụ việc làm công gửi: 01 bản đến Bảo hiểm xã hội  cơ sở để thực hiện tiếp tục chi trả trợ cấp thất nghiệp cho người lao động; 01 bản đến người lao động. Trường hợp người lao động nộp trực tuyến thì Quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp gửi trực tuyến.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 02 ngày làm việc kể từ ngày người lao động tiếp tục thực hiện thông báo về việc tìm kiếm việc làm hằng tháng theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 02 ngày làm việc kể từ ngày người lao động tiếp tục thực hiện thông báo về việc tìm kiếm việc làm hằng tháng theo quy định.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 02 ngày làm việc kể từ ngày người lao động tiếp tục thực hiện thông báo về việc tìm kiếm việc làm hằng tháng theo quy định.
+
+Thành phần hồ sơ:
+    - Giấy tờ chứng minh về việc thông báo tìm kiếm việc làm hằng tháng theo quy định của người lao động đang hưởng trợ cấp thất nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Trung tâm Dịch vụ việc làm
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp.
+Căn cứ pháp lý:
+  * Quy định chi tiết một số điều của Luật Việc làm về bảo hiểm thất nghiệp (Nghị định số 374/2025/NĐ-CP)
+  * Luật Việc làm (74/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Người lao động đang hưởng trợ cấp thất nghiệp thông báo về việc tìm kiếm việc làm hằng tháng theo quy định.
+Từ khóa: Không có thông tin
+Mô tả: Người lao động đang hưởng trợ cấp thất nghiệp thông báo về việc tìm kiếm việc làm hằng tháng theo quy định.

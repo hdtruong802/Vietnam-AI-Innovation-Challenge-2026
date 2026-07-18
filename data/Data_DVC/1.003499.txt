@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003499
+Số quyết định: 99/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận hoạt động ngoại hối cơ bản trên thị trường trong nước, hoạt động ngoại hối cơ bản trên thị trường quốc tế
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài có nhu cầu thực hiện hoạt động ngoại hối cơ bản trên thị trường trong nước và hoạt động ngoại hối cơ bản trên thị trường quốc tế nộp hồ sơ cho Ngân hàng Nhà nước Việt Nam.
+    Thời hạn kiểm tra tính đầy đủ, chính xác của hồ sơ là 3 ngày làm việc kể từ khi Hệ thống thông tin giải quyết thủ tục hành chính Ngân hàng Nhà nước hoặc Bộ phận Một cửa Ngân hàng Nhà nước nhận hồ sơ.
+    + Bước 2: Trong thời hạn 30 ngày kể từ ngày tiếp nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước xem xét, chấp thuận hoạt động ngoại hối cơ bản trên thị trường trong nước, hoạt động ngoại hối cơ bản trên thị trường quốc tế. Trường hợp từ chối, Ngân hàng Nhà nước có văn bản thông báo nêu rõ lý do.
+    Trường hợp hồ sơ chưa đầy đủ, trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức tín dụng, chi nhánh ngân hàng nước ngoài bổ sung hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - (v) Bản sao báo cáo tài chính được kiểm toán 01 năm liền kề năm đề nghị chấp thuận hoạt động ngoại hối (đối với công ty tài chính tổng hợp, công ty tài chính bao thanh toán, công ty tài chính tín dụng tiêu dùng).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (iii) Báo cáo mô tả hệ thống công nghệ thông tin, các giải pháp kỹ thuật áp dụng và quy trình xử lý các hoạt động ngoại hối trong hệ thống công nghệ thông tin theo các nội dung quy định tại Phụ lục 3 thuộc Phụ lục IV ban hành kèm theo Thông tư số 75/2025/TT-NHNN ngày 31/12/2025.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Đơn đề nghị chấp thuận theo mẫu tại Phụ lục 1 thuộc Phụ lục IV ban hành kèm theo Thông tư số 75/2025/TT-NHNN ngày 31/12/2025;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Trường hợp đề nghị chấp thuận hoạt động ngoại hối cơ bản trên thị trường trong nước
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - (ii) Quy định nội bộ về quản lý rủi ro liên quan đến hoạt động ngoại hối, trong đó tối thiểu bao gồm các nội dung: nhận dạng các loại rủi ro, phương án quản lý các rủi ro này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Trường hợp đề nghị chấp thuận hoạt động ngoại hối cơ bản trên thị trường quốc tế
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - (ii) Quy định nội bộ về quản lý rủi ro liên quan đến hoạt động ngoại hối, trong đó tối thiểu bao gồm các nội dung: nhận dạng các loại rủi ro, phương án quản lý các rủi ro này;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (iv) Quy định nội bộ về tiêu chuẩn lựa chọn tổ chức đối tác, hạn mức giao dịch đối với các đối tác, trong đó phải bao gồm quy định về rà soát, đánh giá lại đối tác theo định kỳ và khi có sự kiện đột xuất ảnh hưởng tới xếp hạng tín dụng của các đối tác.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Đơn đề nghị theo mẫu tại Phụ lục 1 thuộc Phụ lục IV ban hành kèm theo Thông tư số 75/2025/TT-NHNN ngày 31/12/2025;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực, Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam 49 Lý Thái Tổ, Hoàn Kiếm, Hà Nội/Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thành lập và hoạt động hoặc Quyết định sửa đổi, bổ sung Giấy phép trong đó có nội dung kinh doanh, cung ứng dịch vụ ngoại hối trên thị trường trong nước trong phạm vi do Ngân hàng Nhà nước quy định., Văn bản từ chối chấp thuận hoạt động ngoại hối cơ bản trên thị trường trong nước, hoạt động ngoại hối cơ bản trên thị trường quốc tế
+Căn cứ pháp lý:
+  * Luật Luật Ngân hàng Nhà nước (Luật số 46/2010/QH12)
+  * Thông tư sửa đổi, bổ sung một số quy định tại các văn bản quy phạm pháp luật trong lĩnh vực quản lý hoạt động cung ứng dịch vụ và sử dụng ngoại hối để thực thi phương án cắt giảm, đơn giản hóa thủ tục hành chính (Thông tư số 75/2025/TT-NHNN)
+  * Pháp lệnh 06/2013/UBTVQH13 (06/2013/UBTVQH13)
+  * Các tổ chức tín dụng (47/2010/QH12)
+  * Thông tư 21/2014/TT-NHNN (21/2014/TT-NHNN)
+  * Pháp lệnh 28/2005/PL-UBTVQH11 (28/2005/PL-UBTVQH11)
+  * Thông tư 28/2016/TT-NHNN (28/2016/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: + Yêu cầu, điều kiện chung
+(i) Có hệ thống công nghệ thông tin đảm bảo đáp ứng các yêu cầu về quản trị điều hành, quản lý rủi ro, an toàn, bảo mật đối với hoạt động ngoại hối như: Hệ thống máy móc, thiết bị phục vụ cho hoạt động ngoại hối, các thiết bị lưu trữ thông tin, dữ liệu; phương án dự phòng thảm họa; các phần mềm hỗ trợ việc thực hiện các nghiệp vụ liên quan đến ngoại hối. 
+(ii) Có quy định nội bộ về quản lý rủi ro liên quan đến các hoạt động ngoại hối đề nghị thực hiện.
++ Yêu cầu bổ sung đối với đề nghị chấp thuận hoạt động ngoại hối cơ bản trên thị trường quốc tế
+(i) Có quy định nội bộ về tiêu chuẩn lựa chọn tổ chức đối tác và xác định hạn mức giao dịch đối với đối tác nước ngoài; trong đó đối tác nước ngoài mà tổ chức tín dụng được phép có giao dịch tiền gửi (không phải tiền gửi thanh toán) phải là các tổ chức tài chính nước ngoài có hệ số xếp hạng tín nhiệm từ mức Baa3/P-3 theo đánh giá xếp hạng của Moody’s Investor Service trở lên hoặc từ mức BBB-/A-3 theo đánh giá xếp hạng của Standard & Poor’s trở lên hoặc từ mức BBB-/F3 theo đánh giá xếp hạng của Fitch Ratings trở lên.
+Điều kiện này không áp dụng đối với trường hợp ngân hàng thương mại gửi tiền (không phải tiền gửi thanh toán) tại chi nhánh, công ty con của ngân hàng thương mại đó ở nước ngoài. Tổng số dư tiền gửi của ngân hàng thương mại tại tất cả các chi nhánh, công ty con của ngân hàng thương mại đó ở nước ngoài không vượt quá 10% vốn điều lệ của ngân hàng thương mại đó.
+(ii) Hoạt động kinh doanh của công ty tài chính có lãi trong 01 năm liền kề năm nộp hồ sơ đề nghị chấp thuận hoạt động ngoại hối theo báo cáo tài chính được kiểm toán (đối với công ty tài chính tổng hợp, công ty tài chính bao thanh toán, công ty tài chính tín dụng tiêu dùng).
+Từ khóa: Không có thông tin
+Mô tả: + Yêu cầu, điều kiện chung
+(i) Có hệ thống công nghệ thông tin đảm bảo đáp ứng các yêu cầu về quản trị điều hành, quản lý rủi ro, an toàn, bảo mật đối với hoạt động ngoại hối như: Hệ thống máy móc, thiết bị phục vụ cho hoạt động ngoại hối, các thiết bị lưu trữ thông tin, dữ liệu; phương án dự phòng thảm họa; các phần mềm hỗ trợ việc thực hiện các nghiệp vụ liên quan đến ngoại hối. 
+(ii) Có quy định nội bộ về quản lý rủi ro liên quan đến các hoạt động ngoại hối đề nghị thực hiện.
++ Yêu cầu bổ sung đối với đề nghị chấp thuận hoạt động ngoại hối cơ bản trên thị trường quốc tế
+(i) Có quy định nội bộ về tiêu chuẩn lựa chọn tổ chức đối tác và xác định hạn mức giao dịch đối với đối tác nước ngoài; trong đó đối tác nước ngoài mà tổ chức tín dụng được phép có giao dịch tiền gửi (không phải tiền gửi thanh toán) phải là các tổ chức tài chính nước ngoài có hệ số xếp hạng tín nhiệm từ mức Baa3/P-3 theo đánh giá xếp hạng của Moody’s Investor Service trở lên hoặc từ mức BBB-/A-3 theo đánh giá xếp hạng của Standard & Poor’s trở lên hoặc từ mức BBB-/F3 theo đánh giá xếp hạng của Fitch Ratings trở lên.
+Điều kiện này không áp dụng đối với trường hợp ngân hàng thương mại gửi tiền (không phải tiền gửi thanh toán) tại chi nhánh, công ty con của ngân hàng thương mại đó ở nước ngoài. Tổng số dư tiền gửi của ngân hàng thương mại tại tất cả các chi nhánh, công ty con của ngân hàng thương mại đó ở nước ngoài không vượt quá 10% vốn điều lệ của ngân hàng thương mại đó.
+(ii) Hoạt động kinh doanh của công ty tài chính có lãi trong 01 năm liền kề năm nộp hồ sơ đề nghị chấp thuận hoạt động ngoại hối theo báo cáo tài chính được kiểm toán (đối với công ty tài chính tổng hợp, công ty tài chính bao thanh toán, công ty tài chính tín dụng tiêu dùng).

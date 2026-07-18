@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001084
+Số quyết định: 461/QĐ-BXD
+Tên thủ tục: Thẩm định, phê duyệt đánh giá an ninh cảng biển
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC
+    Doanh nghiệp cảng biển nộp hồ sơ đề nghị thẩm định, phê duyệt Đánh giá an ninh cảng biển đến Cảng vụ hàng hải/Cảng vụ đường thủy nội địa khu vực quản lý.
+  * b) Giải quyết TTHC
+    Cảng vụ hàng hải/Cảng vụ đường thủy nội địa tiếp nhận và xem xét hồ sơ; nếu hồ sơ chưa đầy đủ thì hướng dẫn cho Doanh nghiệp cảng biển bổ sung hoàn chỉnh, nếu đầy đủ thì thông báo về thời gian đánh giá tại cảng biển.
+    Cảng vụ hàng hải/Cảng vụ đường thủy nội địa tiến hành thẩm định đánh giá an ninh cảng biển tại cảng biển.
+    Sau khi hoàn thành thẩm định, nếu Đánh giá an ninh cảng biển đáp ứng yêu cầu của Bộ luật ISPS thì Giám đốc Cảng vụ hàng hải/Cảng vụ đường thủy nội địa cấp Giấy chứng nhận Thẩm định - Phê duyệt.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 15000000 VNĐ (Phí Thẩm định, phê duyệt đánh giá an ninh cảng biển lần đầu hoặc định kỳ 5 năm	15.000.0000 đồng/lần)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 15000000 VNĐ (Phí Thẩm định, phê duyệt đánh giá an ninh cảng biển lần đầu hoặc định kỳ 5 năm	15.000.0000 đồng/lần)
+
+Thành phần hồ sơ:
+    - Công văn đề nghị phê duyệt Đánh giá an ninh cảng biển do Giám đốc doanh nghiệp cảng ký theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 01 bản Đánh giá an ninh cảng biển có xác nhận của giám đốc Doanh nghiệp cảng biển ở trang cuối (đối với cảng liên doanh với nước ngoài hoặc người khai thác cảng là pháp nhân, thể nhân nước ngoài thì Đánh giá an ninh cảng biển phải được dịch sang tiếng Anh);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Công dân Việt Nam, Tổ chức nước ngoài, Người nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Cảng vụ hàng hải, Cảng vụ đường thủy nội địa
+Cơ quan có thẩm quyền: Cảng vụ hàng hải, Cảng vụ đường thủy nội địa
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận thẩm định, phê duyệt đánh giá an ninh cảng biển
+Căn cứ pháp lý:
+  * Hàng hải Việt Nam (40/2005/QH11)
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định, phê duyệt đánh giá an ninh cảng biển, kế hoạch an ninh cảng biển và cấp lý lịch liên tục của tàu biển. (192/2016/TT-BTC)
+  * Áp dụng sửa đổi, bổ sung năm 2002 của Công ước quốc tế về an toàn sinh mạng con người trên biển năm 1974 ban hành kèm theo Bộ luật Quốc tế về an ninh tàu biển và cảng biển (27/2011/TT-BGTVT)
+  * sửa đổi Thông tư 27/2011/TT-BGTVT quy định về áp dụng sửa đổi, bổ sung năm 2002 của Công ước quốc tế về an toàn sinh mạng con người trên biển năm 1974 kèm theo Bộ luật quốc tế về an ninh tàu biển và cảng biển (03/2024/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

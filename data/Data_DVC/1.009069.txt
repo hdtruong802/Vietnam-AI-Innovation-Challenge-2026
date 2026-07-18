@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009069
+Số quyết định: 1450/QĐ-BTC
+Tên thủ tục: Thủ tục đối với hàng hóa tiêu hủy, hàng mẫu, hàng thử, túi, bao bì nhập khẩu để đựng hàng miễn thuế
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Thủ tục đối với hàng hóa bị đổ vỡ, hư hỏng, mất phẩm chất, kém chất lượng, hết hạn sử dụng
+    Bước 1: Doanh nghiệp có văn bản thông báo cụ thể về kế hoạch tiêu hủy cho Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế
+    Bước 2: Doanh nghiệp lập biên bản về tình trạng hàng hóa để tiêu hủy và tổ chức tiêu hủy theo quy định.
+    Bước 3: Trên cơ sở nội dung biên bản và thực tế kiểm tra hàng hóa, công chức hải quan quản lý cửa hàng miễn thuế kí tên, đóng dấu công chức xác nhận đối với hàng hóa đổ vỡ, hư hỏng, mất phẩm chất, kém chất lượng.
+  * Thủ tục đối với hàng mẫu, hàng dùng thử, túi, bao bì nhập khẩu để đựng hàng miễn thuế (không bao gồm hàng tặng kèm sản phẩm)
+    Bước 1: Khi xuất hàng mẫu, hàng thử, túi, bao bì nhập khẩu lên cửa hàng miễn thuế, doanh nghiệp lập bảng kê theo Mẫu số 12/BKHMT ban hành kèm theo Phụ lục II Nghị định 100/2020/NĐ-CP ngày 28/8/2020 gửi đến hệ thống xử lý dữ liệu điện tử và nhận phản hồi từ hệ thống xử lý dữ liệu điện tử
+    Bước 2: Định kỳ hàng tháng (trong 07 ngày làm việc đầu tiên của tháng), tổng hợp số liệu hàng mẫu, hàng thử, túi, bao bì nhập khẩu đã sử dụng, còn tồn của tháng trước gửi đến hệ thống xử lý dữ liệu điện tử.
+    Bước 3:
+    - Trường hợp số liệu báo cáo của doanh nghiệp không có nghi ngờ, trong vòng 03 ngày làm việc kể từ khi nhận được báo cáo, cơ quan hải quan xác nhận trên hệ thống xử lý dữ liệu điện tử về số liệu báo cáo.
+    - Trường hợp cơ quan hải quan nghi ngờ về số liệu doanh nghiệp báo cáo, trong vòng 07 ngày làm việc kể từ khi nhận được báo cáo, cơ quan hải quan thực hiện kiểm tra các hồ sơ liên quan. Trong trường hợp cần thiết, cơ quan hải quan kiểm tra thực tế lượng hàng tồn của cửa hàng miễn thuế, kho chứa hàng miễn thuế theo quyết định của Cục trưởng Cục Hải quan. Cục trưởng Cục Hải quan giao Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế tổ chức thực hiện kiểm tra chậm nhất trong vòng 10 ngày làm việc kể từ ngày ký quyết định.
+    Đối với trường hợp phức tạp, Cục trưởng Cục Hải quan ban hành quyết định gia hạn thời hạn kiểm tra nhưng không quá 05 ngày làm việc.
+    Nội dung kiểm tra và kết quả kiểm tra được ghi nhận bằng biên bản kiểm tra theo Mẫu số 13/BBKT ban hành kèm theo Phụ lục II Nghị định 100/2020/NĐ-CP ngày 28/8/2020. Cơ quan hải quan thực hiện xác nhận trên hệ thống xử lý dữ liệu điện tử về số liệu của doanh nghiệp theo kết luận kiểm tra.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Biên bản về tình trạng hàng hóa để tiêu hủy
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bảng kê hàng mẫu, hàng thử, túi, bao bì nhập khẩu theo Mẫu số 12/BKHMT quy định tại Phụ lục II Nghị định 100/2020/NĐ-CP ngày 28/8/2020
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản thông báo về kế hoạch tiêu hủy
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Phản hồi từ hệ thống xử lý dữ liệu điện tử, xác nhận của cơ quan hải quan trên hệ thống xử lý dữ liệu điện tử về số liệu báo cáo, Xác nhận của công chức hải quan trên biên bản về tình trạng hàng hóa để tiêu hủy
+Căn cứ pháp lý:
+  * Về kinh doanh hàng miễn thuế (100/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

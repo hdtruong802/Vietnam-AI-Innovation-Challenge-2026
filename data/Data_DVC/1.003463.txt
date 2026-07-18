@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003463
+Số quyết định: 1279/QĐ-NHNN
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký thay đổi đại lý đổi ngoại tệ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Tổ chức kinh tế có nhu cầu thực hiện hoạt động thay đổi đại lý đổi ngoại tệ lập 01 bộ hồ sơ theo quy định gửi Ngân hàng Nhà nước chi nhánh Khu vực trên địa bàn nơi tổ chức kinh tế đặt đại lý đổi ngoại tệ.
+    Thời hạn kiểm tra tính đầy đủ, chính xác của hồ sơ là 3 ngày làm việc kể từ khi Hệ thống thông tin giải quyết thủ tục hành chính Ngân hàng Nhà nước hoặc Bộ phận Một cửa Ngân hàng Nhà nước chi nhánh khu vực nhận hồ sơ.
+    + Bước 2: Trong thời hạn 20 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước chi nhánh Khu vực trên địa bàn xem xét, cấp Giấy chứng nhận đăng ký thay đổi đại lý đổi ngoại tệ (theo mẫu tại Phụ lục 6 thuộc Phụ lục II ban hành kèm theo Thông tư số 75/2025/TT-NHNN ngày 31/12/2025). Trường hợp từ chối, Ngân hàng Nhà nước chi nhánh Khu vực trên địa bàn có văn bản từ chối cấp Giấy chứng nhận và nêu rõ lý do.
+    Trường hợp hồ sơ chưa đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Ngân hàng Nhà nước chi nhánh Khu vực trên địa bàn có văn bản yêu cầu tổ chức bổ sung hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Các giấy tờ cần thiết có liên quan đến việc thay đổi quy định tại khoản 1 Điều 6a Quy chế đại lý đổi ngoại tệ ban hành kèm theo Quyết định số 21/2008/QĐ-NHNN (đã được sửa đổi, bổ sung);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo về việc tổ chức kinh tế trang bị đầy đủ bảng thông báo tỷ giá công khai, bảng hiệu ghi tên tổ chức tín dụng ủy quyền và tên đại lý đổi ngoại tệ tại nơi giao dịch (trong trường hợp thay đổi địa điểm đặt đại lý đổi ngoại tệ).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Đơn đăng ký thay đổi đại lý đổi ngoại tệ (theo mẫu tại Phụ lục 5 thuộc Phụ lục II ban hành kèm theo Thông tư số 75/2025/TT-NHNN ngày 31/12/2025);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản từ chối cấp Giấy chứng nhận đăng ký thay đổi đại lý đổi ngoại tệ, Giấy chứng nhận đăng ký thay đổi đại lý đổi ngoại tệ
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số quy định tại các văn bản quy phạm pháp luật trong lĩnh vực quản lý hoạt động cung ứng dịch vụ và sử dụng ngoại hối để thực thi phương án cắt giảm, đơn giản hóa thủ tục hành chính (Thông tư số 75/2025/TT-NHNN)
+  * Thông tư số 23/2026/TT-NHNN của Thống đốc Ngân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số điều của các văn bản quy phạm pháp luật về quản lý ngoại hối liên quan đến hoạt động cung ứng dịch vụ ngoại hối của các tổ chức không phải là tổ chức tín dụng (Thông tư số 23/2026/TT-NHNN)
+  * Quyết định 21/2008/QĐ-NHNN (21/2008/QĐ-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

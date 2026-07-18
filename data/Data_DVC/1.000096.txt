@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000096
+Số quyết định: 2628/QĐ-BTC
+Tên thủ tục: Thủ tục đối với hàng hóa xuất khẩu có giá trị dưới năm triệu đồng Việt Nam và không có thuế xuất khẩu, trừ hàng hóa phải có giấy phép xuất khẩu hoặc thuộc đối tượng phải kiểm tra chuyên ngành gửi qua dịch vụ chuyển phát nhanh quốc tế
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp kinh doanh dịch vụ chuyển phát nhanh quốc tế chuẩn bị hồ sơ dưới dạng Tờ khai tài liệu chứng từ.
+    Bước 2: Chi cục Hải quan tiếp nhận Tờ khai tài liệu chứng từ theo bản giấy hoặc định dạng điện tử nếu đã nối mạng với cơ quan Hải quan và kiểm tra hồ sơ; đối chiếu các nội dung kê khai.
+    Bước 3: Xác nhận thông quan và lưu giữ hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tờ khai hàng hóa xuất khẩu trị giá thấp: 01 bản chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hóa đơn thương mại (nếu có): 01 bản chụp
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông quan hàng hóa nhập khẩu, xuất khẩu
+Căn cứ pháp lý:
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Nghị định số 187/2013/NĐ-CP (187/2013/NĐ-CP)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Thông tư 191/2015/TT-BTC (191/2015/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

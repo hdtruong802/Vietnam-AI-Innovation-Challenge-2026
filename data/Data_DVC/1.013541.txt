@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013541
+Số quyết định: Quyết định số 485/QĐ-BQP
+Tên thủ tục: Thủ tục cấp lại Giấy phép sử dụng vật liệu nổ công nghiệp do bị mất hoặc cấp đổi do bị hư hỏng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý hoạt động vật liệu nổ công nghiệp, tiền chất thuốc nổ BQP
+Trình tự thực hiện:
+    Tổ chức, doanh nghiệp nộp hồ sơ cho Bộ Tham mưu/Tổng cục Công nghiệp quốc phòng (Km6+500, Đại lộ Thăng Long, phường Xuân Phương, thành phố Hà Nội)
+    Bộ Tham mưu/Tổng cục Công nghiệp quốc phòng thẩm định, cấp Giấy phép sử dụng vật liệu nổ công nghiệp cho tổ chức, doanh nghiệp hoặc có văn bản trả lời trong trường hợp không cấp
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Thẩm định cấp phép sử dụng vật liệu nổ công nghiệp phục vụ  nghiên cứu, kiểm định, thử nghiệm)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Thẩm định cấp phép sử dụng vật liệu nổ công nghiệp phục vụ  nghiên cứu, kiểm định, thử nghiệm)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Thẩm định cấp phép sử dụng vật liệu nổ công nghiệp phục vụ tìm kiếm, thăm dò, khai thác trên đất liền)
+
+Thành phần hồ sơ:
+    - 2. Bản sao giấy tờ chứng minh đã nộp phí thẩm định cấp phép theo quy định đối với trường hợp nộp hồ sơ trực tiếp
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 1. Giấy đề nghị cấp lại hoặc cấp đổi giấy phép sử dụng vật liệu nổ công nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Bộ Tham mưu/Tổng cục Công nghiệp quốc phòng
+Cơ quan có thẩm quyền: Bộ Tham mưu/Tổng cục Công nghiệp quốc phòng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép sử dụng vật liệu nổ công nghiệp hoặc văn bản trả lời đối với trường hợp không cấp
+Căn cứ pháp lý:
+  * Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (42/2024/QH15)
+  * Thông tư số 09/2026/TT-BQP của Bộ Quốc phòng: Sửa đổi, bổ sung một số điều của Thông tư số 98/2024/TT-BQP ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Quốc phòng quy định về quản lý hoạt động vật liệu nổ công nghiệp, tiền chất thuốc nổ thuộc thẩm quyền quản lý của Bộ Quốc phòng (09/2026/TT-BQP)
+  * Thông tư số 98/2024/TT-BQP của Bộ Quốc phòng: Quy định về quản lý hoạt động vật liệu nổ công nghiệp, tiền chất thuốc nổ thuộc thẩm quyền quản lý của Bộ Quốc phòng (98/2024/TT-BQP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

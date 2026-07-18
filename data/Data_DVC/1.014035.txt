@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014035
+Số quyết định: 2353/QĐ-BTC
+Tên thủ tục: Dừng thực hiện thủ tục đăng ký hộ kinh doanh
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động doanh nghiệp (hộ kinh doanh)
+Trình tự thực hiện:
+  * * Trường hợp đăng ký trực tiếp hoặc qua dịch vụ bưu chính:
+    - Hộ kinh doanh có thể dừng thực hiện thủ tục đăng ký hộ kinh doanh khi hồ sơ đăng ký hộ kinh doanh chưa được chấp thuận trên Hệ thống thông tin về đăng ký hộ kinh doanh. Trong trường hợp này, chủ hộ kinh doanh gửi văn bản đề nghị dừng thực hiện thủ tục đăng ký hộ kinh doanh đến Cơ quan đăng ký kinh doanh cấp xã nơi hộ kinh doanh đăng ký trụ sở hoặc Cơ quan đăng ký kinh doanh cấp xã bất kỳ trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi hộ kinh doanh đăng ký trụ sở.
+    - Cơ quan đăng ký kinh doanh cấp xã xem xét, ra thông báo về việc dừng thực hiện thủ tục đăng ký hộ kinh doanh và hủy hồ sơ đăng ký hộ kinh doanh theo quy trình trên Hệ thống thông tin về đăng ký hộ kinh doanh trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị. Trường hợp từ chối dừng thực hiện thủ tục đăng ký hộ kinh doanh, Cơ quan đăng ký kinh doanh cấp xã ra thông báo bằng văn bản và nêu rõ lý do từ chối.
+  * * Trường hợp đăng ký qua mạng thông tin điện tử:
+    - Người nộp hồ sơ sử dụng tài khoản định danh điện tử để đăng nhập vào Hệ thống thông tin về đăng ký hộ kinh doanh.
+    - Người nộp hồ sơ kê khai thông tin, tải văn bản điện tử, ký số hồ sơ đăng ký hộ kinh doanh qua mạng thông tin điện tử và thanh toán lệ phí theo quy trình trên Hệ thống thông tin về đăng ký hộ kinh doanh.
+    - Sau khi hoàn thành việc gửi hồ sơ đăng ký hộ kinh doanh, người nộp hồ sơ sẽ nhận được giấy tiếp nhận hồ sơ và hẹn trả kết quả hồ sơ đăng ký hộ kinh doanh qua mạng thông tin điện tử.
+    - Các thông tin đăng ký hộ kinh doanh trên Hệ thống thông tin về đăng ký hộ kinh doanh được truyền sang Hệ thống ứng dụng đăng ký thuế để phối hợp, trao đổi thông tin giữa Cơ quan đăng ký kinh doanh cấp xã và Cơ quan thuế
+    - Trường hợp hồ sơ đủ điều kiện cấp đăng ký hộ kinh doanh, Cơ quan đăng ký kinh doanh cấp xã thực hiện cấp đăng ký hộ kinh doanh và thông báo cho hộ kinh doanh về việc cấp đăng ký hộ kinh doanh. Trường hợp hồ sơ chưa đủ điều kiện cấp đăng ký hộ kinh doanh, Cơ quan đăng ký kinh doanh cấp xã gửi thông báo qua mạng thông tin điện tử cho hộ kinh doanh để yêu cầu sửa đổi, bổ sung hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Mức lệ phí (nếu có) theo quy định của Hội đồng nhân dân cấp tỉnh.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Mức lệ phí (nếu có) theo quy định của Hội đồng nhân dân cấp tỉnh)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Mức lệ phí (nếu có) theo quy định của Hội đồng nhân dân cấp tỉnh.)
+
+Thành phần hồ sơ:
+  [ -  Trường hợp ủy quyền thực hiện thủ tục thì hồ sơ phải kèm theo một trong những giấy tờ sau: ]
+    - (iv) Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký hộ kinh doanh thì việc ủy quyền thực hiện theo quy định tại mục (ii).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (v) Người ủy quyền và người được ủy quyền thực hiện thủ tục đăng ký hộ kinh doanh chịu trách nhiệm trước pháp luật về tính hợp pháp, trung thực và chính xác của việc ủy quyền. Người uỷ quyền và người được ủy quyền phải thực hiện xác thực điện tử để được cấp đăng ký hộ kinh doanh. Trường hợp việc xác thực điện tử bị gián đoạn thì người ủy quyền thực hiện việc xác thực điện tử sau khi được cấp đăng ký hộ kinh doanh. Trường hợp người ủy quyền không xác nhận hoặc xác nhận không ủy quyền thực hiện thủ tục đăng ký hộ kinh doanh thì Cơ quan đăng ký kinh doanh cấp xã yêu cầu hộ kinh doanh báo cáo theo quy định tại khoản 6 Điều 22 Nghị định số 168/2025/NĐ-CP.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (ii) Trường hợp ủy quyền cho tổ chức thực hiện thủ tục đăng ký hộ kinh doanh, kèm theo hồ sơ đăng ký hộ kinh doanh phải có bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký hộ kinh doanh, giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký hộ kinh doanh.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Trường hợp chưa có tài khoản định danh điện tử để thực hiện xác thực điện tử thì hồ sơ đăng ký hộ kinh doanh phải kèm theo bản sao thẻ Căn cước hoặc thẻ Căn cước công dân còn hiệu lực của người uỷ quyền.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (i) Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký hộ kinh doanh, kèm theo hồ sơ đăng ký hộ kinh doanh phải có văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký hộ kinh doanh. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (iii) Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký hộ kinh doanh thì khi thực hiện thủ tục đăng ký hộ kinh doanh, nhân viên bưu chính phải nộp bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và chủ hộ kinh doanh.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Giấy đề nghị dừng thực hiện thủ tục đăng ký hộ kinh doanh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản của Cơ quan đăng ký kinh doanh cấp xã thông báo lý do từ chối, Thông báo về việc dừng thực hiện thủ tục đăng ký hộ kinh doanh và hủy hồ sơ đăng ký hộ kinh doanh theo quy trình trên Hệ thống thông tin về đăng ký hộ kinh doanh
+Căn cứ pháp lý:
+  * Luật Doanh nghiệp (59/2020/QH14)
+  * Thông tư số 68/2025/TT-BTC của Bộ Tài chính: Ban hành biểu mẫu sử dụng trong đăng ký doanh nghiệp, đăng ký hộ kinh doanh (68/2025/TT-BTC)
+  * Nghị định số 168/2025/NĐ-CP ngày 30 tháng 6 năm 2025 của Chính phủ về đăng ký doanh nghiệp (168/2025/NĐ-CP)
+  * Luật sửa đổi, bổ sung một số điều của Luật Doanh nghiệp 2020 (76/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

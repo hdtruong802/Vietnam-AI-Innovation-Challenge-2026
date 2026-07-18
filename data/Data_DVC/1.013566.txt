@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013566
+Số quyết định: 1909/QĐ-BQP
+Tên thủ tục: Thủ tục biên phòng đối với tàu thuyền Việt Nam, tàu thuyền nước ngoài, thuyền viên, hành khách đi trên tàu thuyền Việt Nam, tàu thuyền nước ngoài nhập cảnh tại cửa khẩu cảng
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý biên giới
+Trình tự thực hiện:
+  * Trực tuyến
+    - Bước 1: Chậm nhất 04 giờ trước khi tàu thuyền dự kiến đến cảng, người làm thủ tục phải khai báo thông tin liên quan đến tàu thuyền, thuyền viên, hành khách nhập cảnh tại cửa khẩu cảng theo mẫu biểu quy định trên Cổng thông tin một cửa quốc gia hoặc trên Cổng thông tin thủ tục biên phòng điện tử cảng biển (trường hợp Cổng thông tin một cửa quốc gia có sự cố);
+    - Bước 2: Biên phòng cửa khẩu cảng tiếp nhận khai báo của người làm thủ tục từ Cổng thông tin một cửa quốc gia chuyển đến Cổng thông tin thủ tục biên phòng điện tử hoặc trên Cổng thông tin thủ tục biên phòng điện tử cảng biển (trường hợp Cổng thông tin một cửa quốc gia có sự cố);
+    - Bước 3: Biên phòng cửa khẩu cảng thực hiện kiểm tra, xử lý thông tin khai báo, thực hiện thủ tục biên phòng điện tử và gửi xác nhận hoàn thành thủ tục biên phòng điện tử hoặc thông báo từ chối thực hiện thủ tục biên phòng điện tử cho người làm thủ tục thông qua Cổng thông tin một cửa quốc gia hoặc Cổng thông tin thủ tục biên phòng điện tử cảng biển (trường hợp Cổng thông tin một cửa quốc gia có sự cố);
+    - Bước 4: Chậm nhất 10 giờ sau khi tàu thuyền neo đậu an toàn tại cảng, người làm thủ tục phải xuất trình các loại giấy tờ tùy thân của thuyền viên, hành khách cho Biên phòng cửa khẩu cảng.
+  * Trực tiếp
+    - Bước 1: Chậm nhất 02 giờ, kể từ khi tàu thuyền đến, neo đậu tại cầu cảng; chậm nhất 04 giờ, sau khi tàu thuyền đến, neo đậu tại các vị trí khác trong vùng nước cảng, người làm thủ tục phải nộp và xuất trình cho Biên phòng cửa khẩu cảng các loại giấy tờ đối với tàu thuyền nhập cảnh theo quy định;
+    - Bước 2: Biên phòng cửa khẩu cảng kiểm tra tính hợp pháp, hợp lệ của các giấy tờ mà người làm thủ tục nộp và xuất trình; hoàn thành thủ tục nhập cảnh cho tàu thuyền, thuyền viên, hành khách (nếu có).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Người làm thủ tục gửi hồ sơ và nhận kết quả qua Cổng thông tin một cửa quốc gia hoặc Cổng thông tin thủ tục biên phòng điện tử tại địa chỉ http://thutucbienphong.gov.vn (trong trường hợp Cổng thông tin một cử quốc gia có sự cố).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Người làm thủ tục nộp, xuất trình các loại giấy tờ tại trụ sở Cảng vụ hàng hải, Cảng vụ đường thủy nội địa hoặc văn phòng đại diện Cảng vụ hàng hải, Cảng vụ đường thủy nội địa;
+- Người làm thủ tục nộp, xuất trình các loại giấy tờ theo quy định tại tàu trong các trường hợp:
++ Theo quy định của pháp luật về quản lý hoạt động hàng hải;
++ Có người trốn trên tàu;
++ Tàu thuyền có dấu hiệu rõ ràng vi phạm pháp luật về an ninh, trật tự;
++ Có căn cứ xác định việc khai báo không đầy đủ, không chính xác về thuyền viên, hành khách;
++ Có căn cứ xác định thuyền viên, hành khách sử dụng hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế giả mạo để nhập cảnh.
+
+Thành phần hồ sơ:
+  [ Thành phần hồ sơ khai báo trên Cổng Thông tin một cửa quốc gia hoặc Cổng Thông tin thủ tục biên phòng điện tử cảng biển ]
+    - + Danh sách hành khách (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Danh sách thuyền viên;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai chung
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản khai người trốn trên tàu (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản khai vũ khí và vật liệu nổ (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Thành phần hồ sơ phải xuất trình ]
+    - Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế của thuyền viên và hành khách hoặc sổ thuyền viên đối với thuyền viên nước ngoài thuộc trường hợp quy định tại khoản 3 Điều 13 Nghị định số 77/2017/NĐ-CP ngày 03/7/2017 của Chính phủ quy định về quản lý, bảo vệ an ninh, trật tự tại cửa khẩu cảng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Đội Thủ tục Biên phòng cửa khẩu cảng
+Cơ quan có thẩm quyền: Biên phòng cửa khẩu cảng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bản điện tử xác nhận hoàn thành thủ tục biên phòng điện tử cảng biển hoặc từ chối thực hiện thủ tục biên phòng điện tử cảng biển của Biên phòng cửa khẩu cảng gửi người làm thủ tục
+Căn cứ pháp lý:
+  * Quy định về quản lý, bảo an ninh, trật tự tại cửa khẩu cảng (77/2017/NĐ-CP)
+  * Quyết định số 31/2025/QĐ-TTg của Thủ tướng Chính phủ: Sửa đổi, bổ sung một số điều các Quyết định của Thủ tướng Chính phủ về thực hiện thủ tục biên phòng điện tử tại các cửa khẩu do Bộ Quốc phòng quản lý (31/2025/QĐ-TTg)
+  * Nghị định quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải (58/2017/NĐ-CP)
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực hàng hải (34/2025/NĐ-CP)
+  * Về thực hiện thủ tục biên phòng điện tử cảng biển (10/2016/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

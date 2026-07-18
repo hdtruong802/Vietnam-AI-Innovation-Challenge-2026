@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011174
+Số quyết định: 3277/QĐ-UBND
+Tên thủ tục: Hỗ trợ các phương tiện vận tải biển quốc tế bằng container qua Cảng Nghi Sơn, tỉnh Thanh Hóa
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    - Hãng tàu mở tuyến vận chuyển container đi quốc tế qua Cảng Nghi Sơn đủ điều kiện được thụ hưởng chính sách nộp 01 bộ hồ sơ trực tiếp (hoặc qua đường bưu điện hoặc qua Hệ thống Dịch vụ công trực tuyến) đến Bộ phận Tiếp nhận và Trả kết quả của Ban Quản lý Khu kinh tế Nghi Sơn và các Khu công nghiệp. Trường hợp hồ sơ gửi qua đường bưu điện thời gian được tính từ ngày đến trên phong bì.
+    - Trong thời hạn tối đa 07 ngày làm việc, kể từ ngày nhận được đủ hồ sơ hợp lệ, Ban Quản lý Khu kinh tế Nghi Sơn và các Khu công nghiệp thực hiện thẩm định hồ sơ đề nghị hỗ trợ. Trong quá trình thẩm định, Ban Quản lý Khu kinh tế Nghi Sơn và các Khu công nghiệp có trách nhiệm lấy ý kiến xác nhận của cơ quan Hải quan về số chuyến tàu qua Cảng Nghi Sơn của hãng tàu đề nghị hỗ trợ. Trên cơ sở kết quả thẩm định, nếu đủ điều kiện hỗ trợ, Trưởng Ban Quản lý Khu kinh tế Nghi Sơn và các Khu công nghiệp ban hành quyết định hỗ trợ.
+    Trường hợp không đủ điều kiện hỗ trợ, Ban Quản lý Khu kinh tế Nghi Sơn và các Khu công nghiệp thông báo cho hãng tàu biết và nêu rõ lý do.
+    - Phương thức nhận hỗ trợ: Hãng tàu nhận kinh phí hỗ trợ qua tài khoản ngân hàng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Địa chỉ trực tuyến: https://dichvucong.thanhhoa.gov.vn (toàn trình).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - - Văn bản đề nghị hỗ trợ của hãng tàu đã vận chuyển hàng hóa bằng container thông qua Cảng Nghi Sơn, tỉnh Thanh Hóa (Mẫu số 1);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bảng kê số lượng chuyến tàu đã thực hiện xếp hoặc dỡ hàng hóa qua Cảng Nghi Sơn có xác nhận của doanh nghiệp khai thác Cảng (Mẫu số 2).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Người nước ngoài
+Cơ quan thực hiện: Ban QL KKT Nghi sơn và các Khu công nghiệp
+Cơ quan có thẩm quyền: Ban QL KKT Nghi sơn và các Khu công nghiệp
+Địa chỉ tiếp nhận HS: - Bộ phận Tiếp nhận và Trả kết quả của Ban Quản lý Khu kinh tế Nghi Sơn và các Khu công nghiệp tỉnh Thanh Hóa (Tổ dân phố Giảng Tín, phường Nghi Sơn, tỉnh Thanh Hóa); Địa chỉ trực tuyến: https://dichvucong.gov.vn (toàn trình); Trung tâm Phục vụ hành chính công các cấp
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hỗ trợ
+Căn cứ pháp lý:
+  * Nghị quyết về việc ban hành Chính sách hỗ trợ các phương tiện vận tải biển quốc tế và nội địa; hỗ trợ doanh nghiệp vận chuyển hàng hóa bằng container qua Cảng Nghi Sơn, tỉnh Thanh Hóa (248/2022/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Các hãng tàu mở tuyến vận chuyển container đi quốc tế qua Cảng Nghi Sơn, có đủ các điều kiện sau:
+- Hãng tàu biển được cấp phép hoạt động kinh doanh vận chuyển container theo quy định.
+- Các hãng tàu biển vận chuyển container phải dỡ hàng hoặc xếp hàng tại Cảng Nghi Sơn.
+Từ khóa: Không có thông tin
+Mô tả: Các hãng tàu mở tuyến vận chuyển container đi quốc tế qua Cảng Nghi Sơn, có đủ các điều kiện sau:
+- Hãng tàu biển được cấp phép hoạt động kinh doanh vận chuyển container theo quy định.
+- Các hãng tàu biển vận chuyển container phải dỡ hàng hoặc xếp hàng tại Cảng Nghi Sơn.

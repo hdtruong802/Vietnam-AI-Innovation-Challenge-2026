@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014842
+Số quyết định: 223/QĐ-BTC
+Tên thủ tục: Thủ tục chấp thuận ngân hàng thương mại làm ngân hàng thanh toán
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: sàn giao dịch các-bon trong nước
+Trình tự thực hiện:
+    + Bước 1: Ngân hàng thương mại nộp hồ sơ đến Ủy ban Chứng khoán Nhà nước.
+    + Bước 2: Ủy ban Chứng khoán Nhà nước (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, Ủy ban Chứng khoán Nhà nước hướng dẫn bổ sung hồ sơ theo quy định.
+    Nếu ngân hàng thương mại nộp hồ sơ qua Cổng Dịch vụ công quốc gia (Cổng DVCQG) thì Cổng DVCQG thông báo cho ngân hàng thương mại về tình trạng hồ sơ được tiếp nhận/không tiếp nhận qua tin nhắn tự động đến tài khoản của ngân hàng thương mại hoặc qua tin nhắn SMS gửi qua số điện thoại đăng ký.
+    + Bước 3: Ủy ban Chứng khoán Nhà nước tiếp nhận và kiểm tra hồ sơ. Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ chưa hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu ngân hàng thương mại sửa đổi, bổ sung hồ sơ.
+    + Bước 4: Trong thời hạn 15 ngày kể khi nhận được hồ sơ hợp lệ, Ủy ban Chứng khoán Nhà nước trả lời bằng văn bản về việc chấp thuận đăng ký làm ngân hàng thanh toán; trường hợp từ chối, Ủy ban Chứng khoán Nhà nước trả lời bằng văn bản và nêu rõ lý do.
+    Nếu ngân hàng thương mại nộp hồ sơ qua Cổng DVCQG thì Cổng DVCQG thông báo trả kết quả qua tài khoản của doanh nghiệp trên Cổng DVCQG.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ (Không có)
+
+Thành phần hồ sơ:
+    - + Giấy đăng ký làm ngân hàng thanh toán theo mẫu ban hành kèm theo Nghị định số 29/2026/NĐ-CP (có đính kèm theo Quyết định này). Giấy đăng ký làm ngân hàng thanh toán được thay thế bằng dữ liệu điện tử khi thực hiện dịch vụ công trực tuyến.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Ý kiến bằng văn bản của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam về việc ngân hàng thương mại đáp ứng được yêu cầu quy định tại điểm d, điểm e khoản 2 Điều 26 Nghị định số 29/2026/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản cung cấp thông tin về ngân hàng, trong đó nêu rõ khả năng, kèm theo hồ sơ chứng minh đáp ứng các yêu cầu theo quy định tại khoản 2 Điều 26 Nghị định số 29/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận đăng ký làm ngân hàng thanh toán hoặc Văn bản từ chối và nêu rõ lý do
+Căn cứ pháp lý:
+  * Nghị định số 29/2026/NĐ-CP của Chính phủ: Sàn giao dịch các-bon trong nước (29/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

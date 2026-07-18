@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007751
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan hàng hóa là tài sản di chuyển
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    + Bước 1: Người khai hải quan nộp, xuất trình các giấy tờ liên quan đến hàng hóa là tài sản di chuyển (tuy từng đối tượng mà hồ sơ nộp, xuất trình như quy định dưới dây)
+    + Bước 2: Cơ quan hải quan tiếp nhận hồ sơ; kiểm tra hồ sơ, kiểm tra thực tế (nếu có), tính và thu thuế (nếu có); xác nhận thông quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20 VNĐ (20.000 vnđ/tờ khai)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20 VNĐ (20.000 vnđ/tờ khai)
+
+Thành phần hồ sơ:
+  [ 1. Người nước ngoài đưa tài sản di chuyển vào Việt Nam, khi làm thủ tục hải quan phải nộp: ]
+    - a) Tờ khai hải quan: 02 bản chính;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - b) Văn bản xác nhận đến công tác, làm việc tại Việt Nam của cơ quan, tổ chức nơi người nước ngoài làm việc hoặc giấy phép làm việc tại Việt Nam do cơ quan có thẩm quyền cấp: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - c) Chứng từ vận tải trong trường hợp tài sản vận chuyển bằng đường biển, đường hàng không, đường sắt: 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 0
+  [ 2. Người nước ngoài chuyển tài sản di chuyển ra khỏi Việt Nam, khi làm thủ tục hải quan phải nộp: ]
+    - a) Tờ khai hải quan: 02 bản chính;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - c) Tờ khai hải quan nhập khẩu có xác nhận của cơ quan hải quan đối với tài sản di chuyển là xe ô tô, xe gắn máy hoặc chứng từ thay đổi mục đích sử dụng và chứng từ nộp thuế đối vớihàng hóa thuộc diện phải nộp thuế: 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - b) Văn bản chứng minh hết thời gian làm việc: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 0
+  [ 3. Tổ chức, công dân Việt Nam đưa tài sản di chuyển về nước, khi làm thủ tục hải quan phải nộp: ]
+    - a) Tờ khai hải quan: 02 bản chính;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - b) Văn bản chứng minh việc hết thời hạn kinh doanh, làm việc ở nước ngoài hoặc trở về Việt Nam cư trú: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - c) Chứng từ vận tải trong trường hợp tài sản vận chuyển bằng đường biển, đường hàng không, đường sắt: 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 0
+  [ 4. Tổ chức, công dân Việt Nam đưa tài sản di chuyển ra nước ngoài, khi làm thủ tục hải quan phải nộp: ]
+    - b) Văn bản chứng minh công tác, làm việc hoặc cưtrú tại nước ngoài: 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - a) Tờ khai hải quan: 02 bản chính;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - 5. Thủ tướng Chính phủ ban hành danh mục hàng hóa là tài sản di chuyển thuộc danh mục hàng hóa cấm nhập khẩu, hàng hóa thuộc danh mục hạn chế nhập khẩu, nhập khẩu có điều kiện được mang vào Việt Nam tùy từng thời kỳ và định mức hàng hóa là tài sản di chuyển miễn thuế.
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông quan hàng hóa nhập khẩu, xuất khẩu, Xác nhận thông quan trên hệ thống
+Căn cứ pháp lý:
+  * Luật 78/2006/QH11 (78/2006/QH11)
+  * Nghị định số 187/2013/NĐ-CP (187/2013/NĐ-CP)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Nghị định 87/2010/NĐ-CP (87/2010/NĐ-CP)
+  * Thuế xuất khẩu, thuế nhập khẩu (45/2005/QH11)
+  * Luật (81/2006/QH11)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115487
+Số quyết định: 1768/QĐ-BTC
+Tên thủ tục: Thủ tục miễn tiền chậm nộp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Trình tự thực hiện
+    - Bước 1: Người nộp thuế khai chỉ tiêu thông tin đề nghị miễn tiền chậm nộp theo Mẫu số 5 tại Phụ lục II Thông tư số 86/2026/TT-BTC ngày 30/06/2026 của Bộ Tài chính kèm theo bản chụp các chứng từ, tài liệu liên quan được ký số cho cơ quan hải quan nơi phát sinh khoản phải nộp ngân sách nhà nước.
+    Trường hợp Hệ thống gặp sự cố người nộp thuế gửi 01 bản chính công văn đề nghị miễn tiền chậm nộp đối với các trường hợp miễn tiền chậm nộp theo Mẫu số 12 tại Phụ lục I Thông tư số 86/2026/TT-BTC và bản giấy các chứng từ, tài liệu có liên quan đến cơ quan hải quan nơi phát sinh khoản phải nộp ngân sách nhà nước.
+    - Bước 2: Xử lý hồ sơ
+    + Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, cơ quan hải quan phản hồi cho người nộp thuế về việc giải trình, bổ sung hồ sơ theo Mẫu số 7 tại Phụ lục II Thông tư số 86/2026/TT-BTC qua Hệ thống xử lý dữ liệu điện tử hoặc bản giấy theo Mẫu số 06 tại Phụ lục I Thông tư số 86/2026/TT-BTC đối với trường hợp hồ sơ chưa đầy đủ theo quy định;
+    + Trong thời hạn 05 ngày làm việc kể từ ngày người nộp thuế nhận được thông báo của cơ quan hải quan mà người nộp thuế không giải trình, bổ sung hồ sơ miễn tiền chậm nộp thì cơ quan hải quan thông báo cho người nộp thuế về việc chưa đủ cơ sở xem xét, xử lý hồ sơ miễn tiền chậm nộp. Thời hạn người nộp thuế bổ sung, giải trình hồ sơ không tính vào thời hạn xử lý hồ sơ;
+    + Trong thời hạn 07 ngày làm việc kể từ ngày tiếp nhận đầy đủ hồ sơ, cơ quan hải quan kiểm tra hồ sơ. Trường hợp thuộc đối tượng miễn tiền chậm nộp, cơ quan hải quan ban hành quyết định miễn tiền chậm nộp theo Mẫu số 13 tại Phụ lục I Thông tư số 86/2026/TT-BTC. Trường hợp không thuộc đối tượng miễn tiền chậm nộp, cơ quan hải quan thông báo cho người nộp thuế biết lý do không miễn tiền chậm nộp theo Mẫu số 02 tại Phụ lục I Thông tư số 86/2026/TT-BTC.
+    Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan có chức năng xử lý, tiếp nhận, phản hồi, thông báo hoặc quyết định miễn tiền chậm nộp thì cơ quan hải quan thực hiện xử lý trên Hệ thống xử lý dữ liệu điện tử hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Thông qua Hệ thống xử lý dữ liệu điện tử hải quan
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tiếp tại cơ quan hải quan
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Bưu chính
+
+Thành phần hồ sơ:
+  [ Hồ sơ miễn tiền chậm nộp đối với trường hợp do thiên tai, thảm họa, dịch bệnh, hoả hoạn, tai nạn bất ngờ gồm ]
+    - - Văn bản đề nghị của người nộp thuế theo Mẫu số 5 tại Phụ lục II Thông tư số 86/2026/TT-BTC gửi qua Hệ thống xử lý dữ liệu điện tử hoặc bản giấy theo Mẫu số 12 tại Phụ lục I Thông tư số 86/2026/TT-BTC;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Biên bản hoặc văn bản xác nhận nguyên nhân thiệt hại của một trong các cơ quan chức năng tại địa bàn nơi phát sinh thiệt hại: cơ quan công an có thẩm quyền; Ủy ban nhân dân cấp xã; Ban quản lý khu công nghiệp; Ban quản lý khu chế xuất; Ban quản lý khu kinh tế; Ban quản lý cửa khẩu; Cảng vụ hàng hải; Cảng vụ hàng không nơi xảy ra sự kiện bất khả kháng về thiên tai, thảm họa, dịch bệnh, hỏa hoạn, tai nạn bất ngờ gây thiệt hại cho hàng hóa nhập khẩu: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Các chứng từ liên quan đến việc bồi thường, bảo hiểm (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b) Hồ sơ miễn tiền chậm nộp đối với trường hợp bất khả kháng khác theo quy định tại khoản 1 Điều 3 Nghị định số 252/2026/NĐ-CP gồm: ]
+    - - Văn bản đề nghị của người nộp thuế theo Mẫu số 5 tại Phụ lục II Thông tư số 86/2026/TT-BTC gửi qua Hệ thống xử lý dữ liệu điện tử hải quan hoặc bản giấy theo Mẫu số 12 tại Phụ lục I Thông tư số 86/2026/TT-BTC;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản xác định giá trị thiệt hại vật chất của cơ quan tài chính hoặc cơ quan giám định độc lập xác định mức độ, giá trị thiệt hại đối với trường hợp do chiến tranh, bạo loạn, đình công mà người nộp thuế phải ngừng, nghỉ sản xuất, kinh doanh: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tài liệu chứng minh người nộp thuế không có khả năng nộp ngân sách nhà nước đối với trường hợp người nộp thuế gặp rủi ro không thuộc nguyên nhân, trách nhiệm chủ quan của người nộp thuế: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Các chứng từ liên quan đến việc bồi thường, bảo hiểm (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Quyết định miễn tiền chậm nộp theo Mẫu số 13 tại Phụ lục I Thông tư số 86/2026/TT-BTC., - Thông báo cho người nộp thuế biết lý do không miễn tiền chậm nộp theo Mẫu số 02 tại Phụ lục I Thông tư số 86/2026/TT-BTC
+Căn cứ pháp lý:
+  * QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP ĐỂ TỔ CHỨC, HƯỚNG DẪN THI HÀNH LUẬT QUẢN LÝ THUẾ (252/2026/NĐ-CP)
+  * Luật số 108/2025/QH15 của Quốc hội: Luật Quản lý thuế (108/2025/QH15)
+  * Quy định về quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu. (86/2026/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Đối tượng thực hiện thủ tục hành chính thuộc trường hợp gặp thiên tai, thảm họa, dịch bệnh, hỏa hoạn, tai nạn bất ngờ quy định tại khoản 21 Điều 4 Luật số 108/2025/QH15 hoặc trường hợp bất khả kháng khác theo quy định tại khoản 1 Điều 3 Nghị định số 252/2026/NĐ-CP.
+Từ khóa: Không có thông tin
+Mô tả: Đối tượng thực hiện thủ tục hành chính thuộc trường hợp gặp thiên tai, thảm họa, dịch bệnh, hỏa hoạn, tai nạn bất ngờ quy định tại khoản 21 Điều 4 Luật số 108/2025/QH15 hoặc trường hợp bất khả kháng khác theo quy định tại khoản 1 Điều 3 Nghị định số 252/2026/NĐ-CP.

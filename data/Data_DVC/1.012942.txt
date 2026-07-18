@@ -1,0 +1,93 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012942
+Số quyết định: 780/QĐ-BNV
+Tên thủ tục: THỦ TỤC BÁO CÁO TỔ CHỨC ĐẠI HỘI THÀNH LẬP, ĐẠI HỘI NHIỆM KỲ, ĐẠI HỘI BẤT THƯỜNG CỦA HỘI (CẤP TỈNH)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý nhà nước về hội, quỹ
+Trình tự thực hiện:
+    - Bước 1: Ban chấp hành hội (đại hội nhiệm kỳ, đại hội bất thường) hoặc Ban vận động thành lập hội (đại hội thành lập) gửi hồ sơ báo cáo về việc tổ chức đại hội nhiệm kỳ, đại hội bất thường, đại hội thành lập đến Ủy ban nhân dân cấp tỉnh (Sở Nội vụ) và Sở quản lý ngành, lĩnh vực chính mà hội hoạt động.
+    - Bước 2: Cán bộ tiếp nhận hồ sơ xem xét hồ sơ và đề nghị bổ sung trong trường hợp hồ sơ chưa đầy đủ và hợp pháp. Trường hợp từ chối tiếp nhận, giải quyết hồ sơ phải nêu rõ lý do.
+    - Bước 3: kể từ ngày nhận hồ sơ đầy đủ và hợp pháp, Sở Nội vụ nghiên cứu, thẩm định hồ sơ và thực hiện quy trình lấy ý kiến các cơ quan có liên quan, tổng hợp các ý kiến góp ý, đề nghị bổ sung hồ sơ (nếu có).
+    - Bước 4: Chủ tịch Ủy ban nhân dân cấp tỉnh có ý kiến bằng văn bản về việc tổ chức đại hội.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: * Đối với đại hội nhiệm kỳ, đại hội bất thường Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh (Sở Nội vụ); qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: * Đối với đại hội nhiệm kỳ, đại hội bất thường Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh (Sở Nội vụ); qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: * Đối với đại hội nhiệm kỳ, đại hội bất thường Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh (Sở Nội vụ); qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: * Đối với đại hội thành lập Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh (Sở Nội vụ); qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: * Đối với đại hội thành lập Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh (Sở Nội vụ); qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: * Đối với đại hội thành lập Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh (Sở Nội vụ); qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến.
+
+Thành phần hồ sơ:
+  [ * Trường hợp 1: Hồ sơ báo cáo tổ chức đại hội thành lập: ]
+    - - Dự kiến thời gian, địa điểm tổ chức đại hội, số lượng đại biểu mời, đại biểu chính thức tham dự đại hội, dự kiến chương trình đại hội (bản gốc).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản báo cáo tổ chức đại hội thành lập của Ban Vận động thành lập hội (bản gốc);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đề án nhân sự (bản gốc), trong đó nêu rõ tiêu chuẩn, cơ cấu, số lượng, dự kiến danh sách thành viên ban chấp hành, ban thường vụ, ban kiểm tra, các chức danh chủ tịch, phó chủ tịch hội và chức danh khác (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Ý kiến đồng ý của cơ quan có thẩm quyền theo quy định về phân cấp quản lý cán bộ đối với nhân sự là cán bộ, công chức, viên chức dự kiến tham gia ban chấp hành, ban thường vụ hoặc giữ các chức danh chủ tịch, phó chủ tịch hội (bản chính); Trường hợp dự kiến chủ tịch hội không phải là trưởng ban vận động thành lập hội thì phải bổ sung sơ yếu lý lịch cá nhân và phiếu lý lịch tư pháp số 1 (bản chính) không quá 06 tháng tính đến ngày nộp hồ sơ; nếu chủ tịch hội dự kiến nêu trên là cán bộ, công chức, viên chức hoặc là cán bộ, công chức, viên chức đã nghỉ hưu được cơ quan có thẩm quyền đồng ý bằng văn bản theo quy định về phân cấp quản lý cán bộ thì không phải nộp phiếu lý lịch tư pháp số 1
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Trường hợp 2: Hồ sơ báo cáo tổ chức đại hội nhiệm kỳ ]
+    - - Dự thảo báo cáo tổng kết công tác nhiệm kỳ và phương hướng hoạt động nhiệm kỳ tới của hội. Báo cáo kiểm điểm của Ban chấp hành, ban kiểm tra và báo cáo tài chính của hội;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản báo cáo tổ chức đại hội nhiệm kỳ của hội; nếu trong đại hội nhiệm kỳ có nội dung về đổi tên hội thì kèm theo đơn đề nghị đổi tên hội, trong đó nêu rõ lý do, sự cần thiết phải đổi tên hội;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Các hội dung khác thuộc thẩm quyền của đại hội theo quy định của điều lệ hội và quy định của pháp luật (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Dự kiến thời gian, địa điểm tổ chức đại hội, số lượng đại biểu mời, đại biểu chính thức tham dự đại hội, dự kiến chương trình đại hội;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Ý kiến đồng ý của cơ quan có thẩm quyền theo quy định về phân cấp quản lý cán bộ đối với nhân sự là cán bộ, công chức, viên chức dự kiến tham gia ban chấp hành, ban thường vụ hoặc giữ các chức danh chủ tịch, phó chủ tịch hội
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Sơ yếu lý lịch cá nhân và phiếu lý lịch tư pháp số 1 không quá 06 tháng tính đến ngày nộp hồ sơ của nhân sự dự kiến là chủ tịch hội; nếu nhân sự dự kiến chủ tịch hội là cán bộ, công chức, viên chức hoặc là cán bộ, công chức, viên chức đã nghỉ hưu được cơ quan có thẩm quyền đồng ý bằng văn bản theo quy định về phân cấp quản lý cán bộ hoặc đang là chủ tịch hội nhiệm kỳ hiện tại của hội thì không phải nộp phiếu lý lịch tư pháp số 1
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đề án nhân sự, trong đó nêu rõ tiêu chuẩn, cơ cấu, số lượng, dự kiến danh sách thành viên ban chấp hành, ban thường vụ, ban kiểm tra, các chức danh chủ tịch, phó chủ tịch hội và chức danh khác (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo số lượng hội viên, trong đó nêu rõ số hội viên chính thức của hội;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Nghị quyết của ban chấp hành hội về việc tổ chức đại hội nhiệm kỳ và việc đổi tên hội (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Dự thảo điều lệ sửa đổi, bổ sung (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Trường hợp 3: Hồ sơ báo cáo đại hội bất thường ]
+    - - Văn bản báo cáo tổ chức đại hội bất thường của hội; Nếu trong đại hội bất thường có nội dung về đổi tên hội thì kèm theo đơn đề nghị đổi tên hội, trong đó nêu rõ lý do, sự cần thiết phải đổi tên hội
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Dự thảo những nội dung thảo luận và quyết định tại đại hội;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Nghị quyết của Ban chấp hành hội về việc tổ chức đại hội bất thường trong đó nêu rõ nội dung thảo luận và quyết định tại đại hội;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Dự kiến thời gian, địa điểm tổ chức đại hội, số lượng đại biểu mời, đại biểu chính thức tham dự đại hội, dự kiến chương trình đại hội..
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Hợp tác xã
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công văn cho phép hội tổ chức đại hội nhiệm kỳ, đại hội bất thường
+Căn cứ pháp lý:
+  * Nghị định số 126/2024/NĐ-CP của Chính phủ: Quy định về tổ chức, hoạt động và quản lý hội (126/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Hội tổ chức đại hội nhiệm kỳ, đại hội bất thường sau khi có ý kiến bằng văn bản của cơ quan nhà nước có thẩm quyền.
+Từ khóa: Không có thông tin
+Mô tả: Hội tổ chức đại hội nhiệm kỳ, đại hội bất thường sau khi có ý kiến bằng văn bản của cơ quan nhà nước có thẩm quyền.

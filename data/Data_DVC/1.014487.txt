@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014487
+Số quyết định: 2046/QĐ-UBND
+Tên thủ tục: Thủ tục Cấp đổi hiện vật khen thưởng của thành phố
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thi đua - khen thưởng
+Trình tự thực hiện:
+    Bước 1: Tập thể có công văn, cá nhân, hộ gia đình có đơn đề nghị cấp đổi hiện vật khen thưởng kèm theo hiện vật khen thưởng hư hỏng gửi cấp đã trình khen thưởng.
+    Bước 2: Trong thời hạn 01 ngày làm việc kể từ ngày nhận đủ hồ sơ, cấp đã trình khen thưởng đối chiếu với hồ sơ lưu, xác nhận và gửi hồ sơ đề nghị cấp đổi hiện vật khen thưởng đến Sở Nội vụ.
+    Bước 3: Trong thời hạn 04 ngày làm việc kể từ ngày nhận đủ hồ sơ, Sở Nội vụ thẩm định hồ sơ, lấy ý kiến các cơ quan liên quan theo quy định, trình Chủ tịch Ủy ban nhân dân thành phố đề nghị cấp đổi hiện vật khen thưởng và thu hồi hiện vật khen thưởng hư hỏng.
+    Bước 4: Trong thời hạn 02 ngày làm việc kể từ ngày nhận được Tờ trình của Sở Nội vụ, Chủ tịch Ủy ban nhân dân thành phố xem xét, quyết định cấp đổi hiện vật khen thưởng và thu hồi hiện vật khen thưởng hư hỏng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Cách thức: Nộp trực tiếp hoặc trực tuyến hoặc qua dịch vụ bưu chính công ích.
+- Địa điểm: Trung tâm Phục vụ hành chính công cấp xã hoặc Trung tâm Phục vụ hành chính công thành phố hoặc nộp trực tuyến trên Cổng Dịch vụ công quốc gia.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Cách thức: Nộp trực tiếp hoặc trực tuyến hoặc qua dịch vụ bưu chính công ích.
+- Địa điểm: Trung tâm Phục vụ hành chính công cấp xã hoặc Trung tâm Phục vụ hành chính công thành phố hoặc nộp trực tuyến trên Cổng Dịch vụ công quốc gia.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Cách thức: Nộp trực tiếp hoặc trực tuyến hoặc qua dịch vụ bưu chính công ích.
+- Địa điểm: Trung tâm Phục vụ hành chính công cấp xã hoặc Trung tâm Phục vụ hành chính công thành phố hoặc nộp trực tuyến trên Cổng Dịch vụ công quốc gia.
+
+Thành phần hồ sơ:
+    - Công văn đề nghị cấp đổi của tập thể hoặc đơn đề nghị cấp đổi của cá nhân, hộ gia đình khi có hiện vật khen thưởng bị hư hỏng không còn giá trị sử dụng hoặc hư hỏng vì lý do khách quan như thiên tai, lũ lụt, hỏa hoạn kèm theo hiện vật khen thưởng đề nghị cấp đổi
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Công văn của cấp đã trình khen thưởng đề nghị cấp đổi hiện vật khen thưởng kèm theo danh sách tập thể, cá nhân, hộ gia đình đề nghị cấp đổi hiện vật khen thưởng
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Nội vụ - Thành phố Huế
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công cấp xã hoặc Trung tâm Phục vụ hành chính công thành phố hoặc nộp trực tuyến trên Cổng Dịch vụ công quốc gia
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cấp đổi hiện vật khen thưởng và thu hồi hiện vật khen thưởng hư hỏng, kèm hiện vật cấp đổi
+Căn cứ pháp lý:
+  * Quyết định số 126/2025/QĐ-UBND ngày 25 tháng 11 năm 2025 của UBND thành phố ban hành Quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng áp dụng trên địa bàn thành phố Huế (126/2025/QĐ-UBND)
+  * Quy định về phân cấp, phân quyền trong lĩnh vực thi đua, khen thưởng; quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi đua, khen thưởng (152/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Hiện vật khen thưởng bị hư hỏng không còn giá trị sử dụng hoặc hư hỏng vì lý do khách quan như thiên tai, lũ lụt, hỏa hoạn.
+- Không cấp đổi hiện vật khen thưởng đối với trường hợp người ký tên tại hiện vật đề nghị cấp đổi không còn giữ chức vụ Chủ tịch Ủy ban nhân dân thành phố hoặc mẫu dấu của Ủy ban nhân dân thành phố tại hiện vật khác với mẫu dấu của Ủy ban nhân dân thành phố tại thời điểm đề nghị cấp đổi.
+Từ khóa: Không có thông tin
+Mô tả: - Hiện vật khen thưởng bị hư hỏng không còn giá trị sử dụng hoặc hư hỏng vì lý do khách quan như thiên tai, lũ lụt, hỏa hoạn.
+- Không cấp đổi hiện vật khen thưởng đối với trường hợp người ký tên tại hiện vật đề nghị cấp đổi không còn giữ chức vụ Chủ tịch Ủy ban nhân dân thành phố hoặc mẫu dấu của Ủy ban nhân dân thành phố tại hiện vật khác với mẫu dấu của Ủy ban nhân dân thành phố tại thời điểm đề nghị cấp đổi.

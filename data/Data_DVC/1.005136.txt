@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.005136
+Số quyết định: 3713/QD-BTP
+Tên thủ tục: Cấp Giấy xác nhận có quốc tịch Việt Nam ở trong nước
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quốc tịch
+Trình tự thực hiện:
+    - Người có yêu cầu cấp Giấy xác nhận có quốc tịch Việt Nam cư trú ở trong nước nộp hồ sơ tại Sở Tư pháp nơi cư trú tại thời điểm nộp hồ sơ, không ủy quyền cho người khác nộp hồ sơ.
+    - Đối với các giấy tờ chứng minh nhân thân, chứng minh quốc tịch Việt Nàm là Giấy khai sinh hoặc Trích lục khai sinh, Chứng minh nhân dân hoặc Căn cước công dân hoặc Thẻ Căn cước, người yêu cầu có thể cung cấp thông tin về giấy tờ (số, ngày cấp, nơi cấp) để cơ quan thụ lý hồ sơ khai thác, sử dụng thông tin trong Cơ sở dữ liệu hộ tịch điện tử, Cơ sở dữ liệu quốc gia về dân cư thay cho giấy tờ phải nộp.
+    - Người thụ lý hồ sơ có trách nhiệm kiểm tra tính hợp lệ của giấy tờ trong hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa chính xác theo quy định thì phải hướng dẫn ngay người yêu cầu bổ sung, hoàn thiện hồ sơ và nêu rõ lý do trong Phiếu yêu cầu bổ sung, hoàn thiện hồ sơ; trường hợp hồ sơ đầy đủ, chính xác theo quy định thì tiếp nhận hồ sơ và ghi vào Sổ cấp Giấy xác nhận có quốc tịch Việt Nam.
+    - Đối với giấy tờ cho phép thay thế bằng việc sử dụng dữ liệu, cơ quan thụ lý hồ sơ có trách nhiệm khai thác trong Cơ sở dữ liệu hộ tịch điện tử, Cơ sở dữ liệu quốc gia về dân cư trên cơ sở thông tin do người dân cung cấp.
+    Trường hợp không khai thác được hoặc thông tin khai thác được không đầy đủ, không chính xác thì thực hiện như sau:
+    + Trường hợp người yêu cầu nộp hồ sơ trực tuyến trên Cổng Dịch vụ công quốc gia, không muộn hơn 08 giờ làm việc kể từ khi Hệ thống thông tin giải quyết thủ tục hành chính tiếp nhận hồ sơ, cơ quan thụ lý có thông báo cho người xin cấp Giấy xác nhận có quốc tịch Việt Nam để bổ sung, hoàn thiện hồ sơ. Việc thông báo được thực hiện bằng một hoặc nhiều phương thức: gửi đến tài khoản cá nhân trên Cổng Dịch vụ công quốc gia; gửi tin nhắn hoặc liên hệ qua số điện thoại, hộp thư điện tử do người yêu cầu cung cấp.
+    + Trường hợp người yêu cầu nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính, không quá 01 ngày làm việc kể từ khi nhận được hồ sơ, cơ quan thụ lý có văn bản gửi cho người người xin xin cấp Giấy xác nhận có quốc tịch Việt Nam để bổ sung, hoàn thiện hồ sơ.
+    - Đối với trường hợp có giấy tờ chứng minh quốc tịch Việt Nam, trình tự kiểm tra, xác minh, tra cứu quốc tịch Việt Nam được thực hiện như sau:
+    + Trong thời hạn 05 ngày làm việc, kể từ ngày thụ lý hồ sơ, Sở Tư pháp kiểm tra hồ sơ, trực tiếp tra cứu hoặc có văn bản đề nghị Bộ Tư pháp tra cứu thông tin về thôi quốc tịch, tước quốc tịch, hủy bỏ Quyết định cho nhập quốc tịch Việt Nam, Quyết định cho trở lại quốc tịch Việt Nam;
+    + Trong thời hạn 10 ngày làm việc Bộ Tư pháp tiến hành tra cứu và có văn bản trả lời Sở Tư pháp. Nếu có nghi ngờ về tính xác thực của giấy tờ chứng minh quốc tịch Việt Nam thì Sở Tư pháp yêu cầu cơ quan đã cấp giấy tờ đó xác minh;
+    + Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Sở Tư pháp, cơ quan đã cấp giấy tờ đó tiến hành xác minh và có văn bản trả lời Sở Tư pháp.
+    + Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được kết quả tra cứu, xác minh theo quy định tại khoản 2 Điều 30 Nghị định số 191/2025/NĐ-CP, nếu có đủ căn cứ để xác định quốc tịch Việt Nam và người đó không có tên trong danh sách được thôi quốc tịch, bị tước quốc tịch, bị hủy bỏ Quyết định cho nhập quốc tịch Việt Nam, Quyết định cho trở lại quốc tịch Việt Nam, cơ quan thụ lý hồ sơ ghi vào Sổ cấp Giấy xác nhận có quốc tịch Việt Nam; người đứng đầu cơ quan ký và cấp Giấy xác nhận có quốc tịch Việt Nam theo mẫu quy định cho người yêu cầu. xác nhận có quốc tịch Việt Nam theo mẫu quy định cho người yêu cầu.
+    Nếu không có cơ sở để cấp Giấy xác nhận có quốc tịch Việt Nam, Sở Tư pháp trả lời bằng văn bản cho người yêu cầu biết.
+    - Đối với trường hợp không có giấy tờ chứng minh quốc tịch Việt Nam, nhưng có giấy tờ làm cơ sở để xác định có quốc tịch Việt Nam theo quy định tại điểm c khoản 1 Điều 30 Nghị định số 191/2025/NĐ-CP được thực hiện như sau:
+    + Trong thời hạn 05 ngày làm việc, kể từ ngày thụ lý hồ sơ, Sở Tư pháp chủ động tra cứu hoặc đề nghị Bộ Tư pháp tra cứu thông tin về thôi quốc tịch, tước quốc tịch, hủy bỏ Quyết định cho nhập quốc tịch Việt Nam, Quyết định cho trở lại quốc tịch Việt Nam,
+    + Trong thời hạn 10 ngày làm việc Bộ Tư pháp tiến hành tra cứu và có văn bản trả lời Sở Tư pháp. Đồng thời, Sở Tư pháp có văn bản đề nghị cơ quan Công an cấp tỉnh xác minh về nhân thân của người có yêu cầu. Trong thời hạn 45 ngày, kể từ ngày nhận được văn bản đề nghị của Sở Tư pháp, cơ quan Công an cấp tỉnh có trách nhiệm xác minh và trả lời kết quả bằng văn bản cho Sở Tư pháp; trường hợp phức tạp thì có thể kéo dài thêm nhưng không quá 60 ngày.
+    + Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được kết quả tra cứu, xác minh, nếu có đủ căn cứ để xác định quốc tịch Việt Nam và người đó không có tên trong danh sách được thôi quốc tịch, bị tước quốc tịch, bị hủy bỏ quyết định cho nhập quốc tịch Việt Nam, Sở Tư pháp ghi vào Sổ cấp Giấy xác nhận có quốc tịch Việt Nam; người đứng đầu cơ quan ký và cấp Giấy xác nhận có quốc tịch Việt Nam theo mẫu quy định cho người yêu cầu.
+    Nếu không có cơ sở để cấp Giấy xác nhận có quốc tịch Việt Nam, Sở Tư pháp trả lời bằng văn bản cho người yêu cầu biết.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 100 VNĐ (Miễn phí đối với: người di cư từ Lào được phép cư trú xin xác nhận có quốc tịch Việt Nam theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; kiều bào Việt Nam tại các nước láng giềng có chung đường biên giới đất liền với Việt Nam, có hoàn cảnh kinh tế khó khăn, có xác nhận của Ủy ban nhân dân cấp xã.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 100 VNĐ (Miễn phí đối với: người di cư từ Lào được phép cư trú xin xác nhận có quốc tịch Việt Nam theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; kiều bào Việt Nam tại các nước láng giềng có chung đường biên giới đất liền với Việt Nam, có hoàn cảnh kinh tế khó khăn, có xác nhận của Ủy ban nhân dân cấp xã.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 100 VNĐ (Miễn phí đối với: người di cư từ Lào được phép cư trú xin xác nhận có quốc tịch Việt Nam theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; kiều bào Việt Nam tại các nước láng giềng có chung đường biên giới đất liền với Việt Nam, có hoàn cảnh kinh tế khó khăn, có xác nhận của Ủy ban nhân dân cấp xã.)
+
+Thành phần hồ sơ:
+  [ - Trường hợp không có giấy tờ chứng minh quốc tịch Việt Nam: ]
+    - Bản khai lý lịch.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai đề nghị cấp Giấy xác nhận có quốc tịch Việt kèm 02 ảnh 4x6 chụp chưa quá 6 tháng .
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Một trong các giấy tờ để làm cơ sở xác minh quốc tịch Việt Nam bao gồm: Giấy tờ về quốc tịch, hộ tịch, hộ khẩu, căn cước hoặc giấy tờ khác do cơ quan có thẩm quyền của Việt Nam cấp cho công dân Việt Nam qua các thời kỳ, trong đó có ghi quốc tịch Việt Nam hoặc thông tin liên quan đến quốc tịch, công dân Việt Nam; Giấy tờ về quốc tịch, hộ tịch, hộ khẩu, căn cước hoặc giấy tờ khác do chế độ cũ ở miền Nam Việt Nam hoặc giấy tờ do chính quyền cũ ở miền Bắc Việt Nam cấp, trong đó có ghi quốc tịch Việt Nam hoặc thông tin liên quan đến quốc tịch, công dân Việt Nam.
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ - Trường hợp có giấy tờ chứng minh quốc tịch Việt Nam: ]
+    - Tờ khai đề nghị cấp Giấy xác nhận có quốc tịch Việt kèm 02 ảnh 4x6 chụp chưa quá 6 tháng .
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao giấy tờ chứng minh nhân thân của người đó như thẻ Căn cước công dân, thẻ căn cước, căn cước điện tử, giấy tờ cư trú, thẻ tạm trú, giấy thông hành, giấy tờ có giá trị đi lại quốc tế hoặc giấy tờ xác nhận về nhân thân có dán ảnh do cơ quan có thẩm quyền cấp; Việc nộp Căn cước công dân hoặc Thẻ Căn cước chỉ thực hiện trong trường hợp cơ quan tiếp nhận không thể khai thác được thông tin trong Cơ sở dữ liệu quốc gia về dân cư hoặc thông tin khai thác được không đầy đủ, không chính xác.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao giấy tờ có giá trị chứng minh quốc tịch Việt Nam theo quy định tại Điều 11 Luật Quốc tịch Việt Nam (Giấy khai sinh; trường hợp Giấy khai sinh không thể hiện rõ quốc tịch Việt Nam thì phải kèm theo giấy tờ chứng minh quốc tịch Việt Nam của cha mẹ; Giấy chứng minh nhân dân; thẻ Căn cước công dân; thẻ căn cước; căn cước điện tử; Hộ chiếu Việt Nam; Quyết định cho nhập quốc tịch Việt Nam, Quyết định cho trở lại quốc tịch Việt Nam, Quyết định công nhận việc nuôi con nuôi đối với trẻ em là người nước ngoài, Quyết định cho người nước ngoài nhận trẻ em Việt Nam làm con nuôi) và Điều 7 Nghị định số 91/2025/NĐ-CP (Giấy xác nhận có quốc tịch Việt Nam được cấp theo quy định tại Điều 30 Nghị định này; Trích lục ghi vào Sổ hộ tịch việc khai sinh đã được đăng ký tại cơ quan có thẩm quyền của nước ngoài được cấp theo quy định của pháp luật) hoặc giấy tờ tương tự do chính quyền cũ trước đây cấp, kể cả Giấy khai sinh trong đó không có mục quốc tịch hoặc mục quốc tịch bỏ trống nhưng trên đó ghi họ tên Việt Nam của người yêu cầu và cha, mẹ của người đó, trong trường hợp cơ quan tiếp nhận không thể khai thác được thông tin chứng minh quốc tịch Việt Nam của người yêu cầu cấp Giấy xác nhận có quốc tịch Việt Nam trong Cơ sở dữ liệu hộ tịch điện tử, Cơ sở dữ liệu quốc gia về dân cư.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Sở Tư pháp
+Cơ quan có thẩm quyền: Sở Tư pháp
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy xác nhận có quốc tịch Việt Nam
+Căn cứ pháp lý:
+  * Thông tư số 12/2025/TT-BTP của Bộ Tư pháp: Ban hành, hướng dẫn sử dụng, quản lý mẫu sổ quốc tịch và mẫu giấy tờ về quốc tịch (12/2025/TT-BTP)
+  * Luật sửa đổi, bổ sung một số điều của Luật Quốc tịch Việt Nam (79/2025/QH15)
+  * LUẬT QUỐC TỊCH VIỆT NAM (24/2008/QH12)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Nghị định số 191/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Quốc tịch Việt Nam. (191/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

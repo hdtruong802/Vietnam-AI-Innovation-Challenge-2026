@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014692
+Số quyết định: 2506/QĐ-BQP
+Tên thủ tục: Thủ tục chấp thuận điều kiện nhập khẩu, tạm nhập tái xuất, tạm xuất tái nhập tàu bay không người lái và phương tiện bay khác; động cơ tàu bay, cánh quạt tàu bay và trang bị, thiết bị của tàu bay không người lái và phương tiện bay khác
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý vùng trời
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân có hoạt động nhập khẩu, xuất khẩu, tạm nhập tái xuất, tạm xuất tái nhập gửi 01 bộ hồ sơ quy định tại Điều 7 Nghị định số 288/2025/NĐ-CP ngày 05/11/2025 của Chính phủ đến Ủy ban nhân dân cấp tỉnh theo hình thức trực tuyến, qua dịch vụ bưu chính hoặc trực tiếp.
+    Bước 2: Trong thời hạn 03 ngày làm việc, kể từ khi nhận đủ hồ sơ, Ủy ban nhân dân cấp tỉnh có văn bản kèm theo hồ sơ của tổ chức, cá nhân gửi Bộ Quốc phòng, Bộ Công an.
+    Bước 3: Trong thời hạn 05 ngày làm việc, kể từ khi nhận được văn bản của Ủy ban nhân dân cấp tỉnh; Bộ Quốc phòng, Bộ Công an có văn bản trả lời gửi Ủy ban nhân dân cấp tỉnh; trong thời hạn 03 ngày làm việc, Ủy ban nhân dân cấp tỉnh căn cứ ý kiến của Bộ Quốc phòng, Bộ Công an quyết định việc cấp phép theo quy định và gửi thông tin về việc cấp phép cho Bộ Quốc phòng, Bộ Công an và cập nhật giấy phép trên Cổng Dịch vụ công quốc gia; trường hợp không cấp phép, Ủy ban nhân dân cấp tỉnh trả lời bằng văn bản và nêu rõ lý do.
+    Bước 4: Trường hợp hồ sơ không hợp lệ, trong thời hạn 03 ngày làm việc, Ủy ban nhân dân cấp tỉnh yêu cầu tổ chức, cá nhân hoàn thiện hồ sơ; thời gian hoàn thiện hồ sơ không tính vào thời hạn giải quyết.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp phép của tổ chức, cá nhân: 01 bản chính theo Mẫu số 01 hoặc Mẫu số 01a tại Phụ lục ban hành kèm theo Nghị định số 288/2025/NĐ-CP ngày 05/11/2025 của Chính phủ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hình ảnh tổng quan và ảnh ký hiệu, số xuất xưởng (nếu có) của tàu bay không người lái và phương tiện bay khác (khổ A4).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bảng thông số kỹ thuật của tàu bay không người lái và phương tiện bay khác do nhà sản xuất cung cấp 01 bản sao hợp lệ.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Danh mục các trang bị, thiết bị riêng lẻ cấu thành tàu bay không người lái và phương tiện bay khác.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ hoặc tài liệu về tiêu chuẩn, quy chuẩn kỹ thuật của tàu bay không người lái và phương tiện bay khác, trừ trường hợp tạm xuất tái nhập.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp nhập khẩu theo hình thức ủy thác phải có văn bản, thỏa thuận giữa bên ủy thác và nhận ủy thác; bên ủy thác nhập khẩu phải đáp ứng quy định tại khoản 2 Điều 5 Nghị định số 288/2025/NĐ-CP ngày 05/11/2025 của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp các tổ chức, cá nhân, người nước ngoài đã tích hợp các thông tin và các cơ quan quản lý nhà nước hoàn thành việc kết nối, chia sẻ thông tin trên môi trường điện tử thì không cần các thành phần hồ sơ quy định tại khoản 2 Điều 7 Nghị định số 288/2025/NĐ-CP ngày 05/11/2025 của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Cơ quan phân cấp, ủy quyền của UBND cấp tỉnh
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận hoặc không chấp thuận.
+Căn cứ pháp lý:
+  * NGHỊ ĐİNH Quy định về quản lý tàu bay không người lái và phương tiện bay khác (288/2025/NĐ-CP)
+  * Luật Phòng không nhân dân (49/2024/QH15)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+  * Thông tư quy định nội dung, chương trình cơ bản đào tạo về kiến thức hàng không, thực hành điều khiển tàu bay không người lái và phương tiện bay khác; phân cấp giải quyết thủ tục hành chính và thực hiện một số nội dung trong lĩnh vực quản lý tàu bay không người lái và phương tiện bay khác. (146/2025/TT-BQP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

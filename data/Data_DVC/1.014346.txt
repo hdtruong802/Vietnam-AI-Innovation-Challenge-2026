@@ -1,0 +1,99 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014346
+Số quyết định: 279/QĐ-BNNMT
+Tên thủ tục: Giao nộp, thu nhận thông tin, dữ liệu địa chất, khoáng sản (cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Địa chất và khoáng sản
+Trình tự thực hiện:
+  * Trường hợp giao nộp báo cáo, dữ liệu địa chất, khoáng sản
+    a) Bước 1. Nộp hồ sơ (tổ chức, cá nhân)
+    Tổ chức, cá nhân thực hiện điều tra cơ bản địa chất, điều tra địa chất về khoáng sản, thăm dò khoáng sản nộp báo cáo kết quả điều tra cơ bản địa chất, điều tra địa chất về khoáng sản, thăm dò khoáng sản lựa chọn nộp hồ sơ thông qua một trong các hình thức sau:
+    - Trực tiếp hoặc thông qua đường bưu điện về cơ quan tiếp nhận hồ sơ giải quyết thủ tục hành chính do Chủ tịch Ủy ban nhân dân cấp tỉnh phân công (sau đây viết tắt là cơ quan tiếp nhận hồ sơ).
+    - Trực tuyến thông qua Cổng Dịch vụ công Quốc gia (địa chỉ http://dichvucong.gov.vn).
+    b) Bước 2. Tiếp nhận, xử lý và trả kết quả
+    Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ giao nộp hợp lệ, Sở Nông nghiệp và Môi trường phải rà soát, đối chiếu tính phù hợp giữa bản giấy và bản điện tử; xác nhận hồ sơ theo danh mục sản phẩm của đề án, dự án, nhiệm vụ đã được nghiệm thu, phê duyệt.
+    - Trường hợp kết quả rà soát, đối chiếu hồ sơ giao nộp có đầy đủ thành phần theo danh mục quy định nêu trên, Sở Nông nghiệp và Môi trường cấp giấy xác nhận nộp lưu trữ địa chất.
+    - Trường hợp kết quả rà soát cho thấy hồ sơ không đầy đủ thành phần theo danh mục được phê duyệt hoặc không phù hợp giữa bản giấy và bản điện tử C Sở Nông nghiệp và Môi trường gửi thông báo cho tổ chức, cá nhân giao nộp.
+  * Trường hợp giao nộp mẫu vật địa chất, khoáng sản, mẫu vật bảo tàng
+    a) Bước 1. Nộp hồ sơ (tổ chức, cá nhân)
+    Tổ chức, cá nhân thực hiện điều tra cơ bản địa chất, điều tra địa chất về khoáng sản, thăm dò khoáng sản nộp mẫu vật địa chất, khoáng sản lựa chọn nộp hồ sơ thông qua một trong các hình thức sau:
+    - Giao nộp mẫu vật trực tiếp hoặc qua đường bưu điện về đơn vị lưu giữ mẫu vật của địa phương đã được cơ quan có thẩm quyền phê duyệt.
+    - Giao nộp trực tuyến bản điện tử chứa thông tin, hình ảnh, tài liệu về mẫu vật qua Cổng Dịch vụ công quốc gia (địa chỉ http://dichvucong.gov.vn).
+    b) Bước 2. Tiếp nhận, xử lý và trả kết quả
+    Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ mẫu vật hợp lệ, đơn vị lưu giữ mẫu vật của địa phương có trách nhiệm tiếp nhận, rà soát, kiểm tra mẫu vật địa chất, khoáng sản, bảo đảm số lượng, quy cách, chất lượng theo danh mục đã được phê duyệt.
+    - Trường hợp mẫu vật địa chất, mẫu vật bảo tàng giao nộp đạt yêu cầu theo quy định, đơn vị lưu giữ mẫu vật của địa phương cấp Giấy xác nhận nộp mẫu vật địa chất, khoáng sản, mẫu vật bảo tàng.
+    - Trường hợp mẫu vật địa chất, mẫu vật bảo tàng giao nộp không đạt yêu cầu theo quy định tại Điều 9, Điều 11 Thông tư số 34/2025/TT-BNNMT ngày 02/7/2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường, đơn vị lưu giữ mẫu vật của địa phương gửi thông báo cho tổ chức, cá nhân giao nộp mẫu vật.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: (1) Trường hợp giao nộp báo cáo, dữ liệu địa chất, khoáng sản:
+* Cách thực hiện: Nộp hồ sơ về Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Nông nghiệp và Môi trường, địa chỉ tại số 10 Tôn Thất Thuyết, phường Cầu Giấy, thành phố Hà Nội hoặc về về Trung tâm Thông tin, Lưu trữ và Bảo tàng địa chất, địa chỉ tại số 06 Phạm Ngũ Lão, phường Cửa Nam, thành phố Hà Nội (trong trường hợp giao nộp mẫu vật).
+* Thời hạn giải quyết: 10 ngày làm việc, kể từ ngày nhận được hồ sơ giao nộp hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: (1) Trường hợp giao nộp báo cáo, dữ liệu địa chất, khoáng sản:
+* Cách thực hiện: Nộp hồ sơ về Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Nông nghiệp và Môi trường, địa chỉ tại số 10 Tôn Thất Thuyết, phường Cầu Giấy, thành phố Hà Nội hoặc về về Trung tâm Thông tin, Lưu trữ và Bảo tàng địa chất, địa chỉ tại số 06 Phạm Ngũ Lão, phường Cửa Nam, thành phố Hà Nội (trong trường hợp giao nộp mẫu vật).
+* Thời hạn giải quyết: 10 ngày làm việc, kể từ ngày nhận được hồ sơ giao nộp hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: (1) Trường hợp giao nộp báo cáo, dữ liệu địa chất, khoáng sản:
+* Cách thực hiện: Nộp hồ sơ thông qua Cổng Dịch vụ công quốc gia (địa chỉ http://dichvucong.gov.vn) hoặc Hệ thống thông tin giải quyết thủ tục hành chính của Bộ Nông nghiệp và Môi trường (địa chỉ http://dichvucong.mae.gov.vn).
+* Thời hạn giải quyết: 10 ngày làm việc, kể từ ngày nhận được hồ sơ giao nộp hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: (2) Trường hợp giao nộp mẫu vật địa chất, khoáng sản, mẫu vật bảo tàng: 
+* Cách thực hiện: Nộp hồ sơ về Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Nông nghiệp và Môi trường, địa chỉ tại số 10 Tôn Thất Thuyết, phường Cầu Giấy, thành phố Hà Nội hoặc về về Trung tâm Thông tin, Lưu trữ và Bảo tàng địa chất, địa chỉ tại số 06 Phạm Ngũ Lão, phường Cửa Nam, thành phố Hà Nội (trong trường hợp giao nộp mẫu vật).
+* Thời hạn giải quyết: 05 ngày làm việc, kể từ ngày nhận đủ mẫu vật hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: (2) Trường hợp giao nộp mẫu vật địa chất, khoáng sản, mẫu vật bảo tàng: 
+* Cách thực hiện: Nộp hồ sơ về Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Nông nghiệp và Môi trường, địa chỉ tại số 10 Tôn Thất Thuyết, phường Cầu Giấy, thành phố Hà Nội hoặc về về Trung tâm Thông tin, Lưu trữ và Bảo tàng địa chất, địa chỉ tại số 06 Phạm Ngũ Lão, phường Cửa Nam, thành phố Hà Nội (trong trường hợp giao nộp mẫu vật).
+* Thời hạn giải quyết: 05 ngày làm việc, kể từ ngày nhận đủ mẫu vật hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: (2) Trường hợp giao nộp mẫu vật địa chất, khoáng sản, mẫu vật bảo tàng: 
+* Cách thực hiện: Nộp hồ sơ thông qua Cổng Dịch vụ công quốc gia (địa chỉ http://dichvucong.gov.vn) hoặc Hệ thống thông tin giải quyết thủ tục hành chính của Bộ Nông nghiệp và Môi trường (địa chỉ http://dichvucong.mae.gov.vn).
+* Thời hạn giải quyết: 05 ngày làm việc, kể từ ngày nhận đủ mẫu vật hợp lệ.
+
+Thành phần hồ sơ:
+  [ Trường hợp giao nộp báo cáo, dữ liệu địa chất, khoáng sản: ]
+    - Văn bản đề nghị giao nộp của tổ chức, cá nhân
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu nguyên thủy thu thập trong quá trình thực hiện đề án, dự án, nhiệm vụ điều tra cơ bản địa chất, điều tra địa chất về khoáng sản, đề án thăm dò khoáng sản, bao gồm các tài liệu thu thập, số liệu khảo sát, bản đồ gốc và các hồ sơ liên quan
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo kết quả điều tra cơ bản địa chất, điều tra địa chất về khoáng sản, báo cáo kết quả thăm dò khoáng sản
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp giao nộp mẫu vật địa chất, khoáng sản, mẫu vật bảo tàng thông qua hình thức trực tiếp hoặc qua đường bưu điện ]
+    - Văn bản đề nghị giao nộp của tổ chức, cá nhân
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu vật địa chất, khoáng sản và hai (02) bộ phiếu ghi mẫu vật địa chất, khoáng sản
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ rường hợp giao nộp mẫu vật địa chất, khoáng sản, mẫu vật bảo tàng thông qua hình thức trực tuyến ]
+    - Thông tin, hình ảnh, tài liệu về mẫu vật địa chất, khoáng sản
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị giao nộp của tổ chức, cá nhân
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Đảng viên
+Cơ quan thực hiện: Sở Nông nghiệp và Môi trường Thành phố Hà Nội
+Cơ quan có thẩm quyền: Sở Nông nghiệp và Môi trường Thành phố Hà Nội
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Kết quả rà soát dữ liệu địa chất, khoáng sản, Giấy xác nhận giao nộp dữ liệu địa chất, khoáng sản, Giấy xác nhận giao nộp mẫu vật, Kết quả kiểm tra mẫu vật địa chất khoáng sản, mẫu vật bảo tàng
+Căn cứ pháp lý:
+  * 193/2025/NĐ-CP (193/2025/NĐ-CP)
+  * Luật Địa chất và Khoáng sản (54/2024/QH15)
+  * Thông tư 87/2025/TT-BNNMT quy định trình tự, thủ tục giao nộp, thu nhận, cung cấp thông tin, dữ liệu địa chất, khoáng sản do Bộ trưởng Bộ Nông nghiệp và Môi trường ban hành (87/2025/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Tổ chức, cá nhân có trách nhiệm giao nộp trong thời hạn không quá 60 ngày kể từ khi hoàn thành nhiệm vụ, dự án hoặc đề án theo quy định tại điểm b khoản 2 Điều 119 Nghị định số 193/2025/NĐ-CP ngày 02/7/2025 của Chính phủ.
+Từ khóa: Không có thông tin
+Mô tả: Tổ chức, cá nhân có trách nhiệm giao nộp trong thời hạn không quá 60 ngày kể từ khi hoàn thành nhiệm vụ, dự án hoặc đề án theo quy định tại điểm b khoản 2 Điều 119 Nghị định số 193/2025/NĐ-CP ngày 02/7/2025 của Chính phủ.

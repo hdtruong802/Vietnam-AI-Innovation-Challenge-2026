@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115232
+Số quyết định: 3116/QĐ-BCA-C06.
+Tên thủ tục: Đăng ký lại mẫu con dấu
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đăng ký, quản lý con dấu
+Trình tự thực hiện:
+    - Bước 1: Cơ quan, tổ chức có nhu cầu đăng ký lại mẫu con dấu do con dấu bị biến dạng, mòn, hỏng hoặc thay đổi chất liệu hoặc có sự thay đổi về tổ chức, đổi tên hoặc bị mất con dấu nộp hồ sơ về Công an cấp xã.
+    - Bước 2: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ
+    + Nếu hồ sơ hợp lệ và đủ thành phần thì tiếp nhận hồ sơ và gửi Giấy biên nhận hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) cho người được cơ quan, tổ chức cử liên hệ nộp hồ sơ.
+    + Nếu hồ sơ chưa đầy đủ thành phần hoặc không hợp lệ thì hướng dẫn và gửi Phiếu hướng dẫn hoàn thiện hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) cho người được cơ quan, tổ chức cử liên hệ nộp hồ sơ.
+    + Nếu hồ sơ không đủ điều kiện theo quy định tại Điều 5 Nghị định số 99/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về quản lý và sử dụng con dấu thì không tiếp nhận hồ sơ, thông báo lý do từ chối và gửi Thông báo về việc từ chối giải quyết hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) cho người được cơ quan, tổ chức cử liên hệ nộp hồ sơ.
+    - Bước 3: Căn cứ ngày hẹn trả kết quả trên Giấy biên nhận hồ sơ, Công an cấp xã trả kết quả trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Nộp hồ sơ trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).
+- Nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Nộp hồ sơ trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).
+- Nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Nộp hồ sơ trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).
+- Nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+
+Thành phần hồ sơ:
+    - a) Đối với cơ quan, tổ chức có con dấu bị biến dạng, mòn, hỏng hoặc thay đổi chất liệu: Văn bản đề nghị đăng ký mẫu con dấu của cơ quan, tổ chức, chức danh nhà nước.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã, Tổ chức nước ngoài, Công dân Việt Nam, Người nước ngoài, Doanh nghiệp
+Cơ quan thực hiện: Công an cấp Xã
+Cơ quan có thẩm quyền: Công an cấp Xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Con dấu và Giấy chứng nhận đăng ký mẫu con dấu
+Căn cứ pháp lý:
+  * Nghị định 56/2023/NĐ-CP (56/2023/NĐ-CP)
+  * Thông tư 15/2022/TT-BCA (15/2022/TT-BCA)
+  * Nghị định 99/2016/NĐ-CP (99/2016/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

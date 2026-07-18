@@ -1,0 +1,85 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010806
+Số quyết định: 556/QĐ-BNV
+Tên thủ tục: Công nhận thương binh, người hưởng chính sách như thương binh
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    Bước 1: Cơ quan, đơn vị trực tiếp quản lý người bị thương có trách nhiệm xác lập, hoàn thiện các giấy tờ theo quy định tại Điều 37 Nghị định số 131/2021/NĐ-CP gửi cơ quan có thẩm quyền cấp giấy chứng nhận bị thương theo quy định tại các khoản 3, 4 Điều 36 Nghị định số 131/2021/NĐ-CP và khoản 2 Điều 12 Nghị định số 129/2025/NĐ-CP.
+    Bước 2: Cơ quan có thẩm quyền cấp giấy chứng nhận bị thương trong thời gian 20 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm kiểm tra, cấp giấy chứng nhận bị thương theo Mẫu số 35 Phụ lục I Nghị định số 131/2021/NĐ-CP và chuyển hồ sơ đến Sở Nội vụ nơi người bị thương thường trú.
+    Bước 3: Sở Nội vụ trong thời gian 07 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ, có trách nhiệm kiểm tra hồ sơ và cấp giấy giới thiệu đối với trường hợp đủ điều kiện theo Mẫu số 38 Phụ lục I Nghị định số 131/2021/NĐ-CP kèm theo bản sao giấy chứng nhận bị thương gửi đến Hội đồng giám định y khoa cấp tỉnh để xác định tỷ lệ tổn thương cơ thể do thương tật.
+    Bước 4: Hội đồng giám định y khoa cấp tỉnh trong thời gian 40 ngày kể từ ngày nhận đủ giấy tờ, có trách nhiệm tổ chức khám giám định thương tật, gửi biên bản giám định y khoa theo Mẫu số 78 Phụ lục I Nghị định số 131/2021/NĐ-CP đến Sở Nội vụ.
+    Bước 5: Sở Nội vụ trong thời gian 05 ngày làm việc kể từ ngày tiếp nhận biên bản giám định y khoa có trách nhiệm:
+    Ban hành quyết định cấp giấy chứng nhận người hưởng chính sách như thương binh và trợ cấp, phụ cấp ưu đãi theo Mẫu số 59 Phụ lục I Nghị định số 131/2021/NĐ-CP đồng thời thực hiện việc cấp giấy chứng nhận theo Mẫu số 102 Phụ lục I Nghị định số 131/2021/NĐ-CP đối với trường hợp có tỷ lệ tổn thương cơ thể từ 21% trở lên hoặc ban hành quyết định trợ cấp thương tật một lần theo Mẫu số 61 Phụ lục I Nghị định số 131/2021/NĐ-CP đối với trường hợp có tỷ lệ tổn thương cơ thể từ 5% đến 20%. Thương binh có tỷ lệ tổn thương cơ thể từ 81% trở lên có vết thương đặc biệt nặng là: cụt hoặc liệt hoàn toàn hai chi trở lên; mù hoàn toàn hai mắt; tâm thần nặng dẫn đến không tự lực được trong sinh hoạt thì được hưởng phụ cấp đặc biệt hằng tháng theo quy định tại điểm d khoản 1 Điều 24 Pháp lệnh ưu đãi người có công với cách mạng. Đồng thời cấp giấy chứng nhận thương binh, người hưởng chính sách như thương binh theo Mẫu số 102 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 72 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Qua dịch vụ bưu chính công ích hoặc trực tiếp hoặc trực tuyến. 72 ngày làm việc kể từ ngày nhận đủ giấy tờ, hồ sơ.
+(Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 72 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Qua dịch vụ bưu chính công ích hoặc trực tiếp hoặc trực tuyến. 72 ngày làm việc kể từ ngày nhận đủ giấy tờ, hồ sơ.
+(Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 72 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Qua dịch vụ bưu chính công ích hoặc trực tiếp hoặc trực tuyến. 72 ngày làm việc kể từ ngày nhận đủ giấy tờ, hồ sơ.
+(Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+
+Thành phần hồ sơ:
+    - - Trường hợp bị thương quy định tại điểm đ, e, g, i, k khoản 1 Điều 23 Pháp lệnh thì phải có các giấy tờ theo quy định tương ứng tại các khoản 2, 3, 4, 6, 7 Điều 17 Nghị định số 131/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản tóm tắt bệnh án điều trị vết thương của bệnh viện tuyến huyện hoặc trung tâm y tế huyện hoặc tương đương trở lên (bao gồm cả bệnh viện quân đội, công an).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Trường hợp bị thương quy định tại điểm h khoản 1 Điều 23 Pháp lệnh phải có quyết định phân công nhiệm vụ của cơ quan có thẩm quyền, biên bản xảy ra sự việc kèm theo bản sao được chứng thực từ một trong các giấy tờ có ghi nhận thời gian làm nhiệm vụ quốc phòng, an ninh ở địa bàn đặc biệt khó khăn như sau: lý lịch cán bộ; lý lịch quân nhân; lý lịch đảng viên; hồ sơ bảo hiểm xã hội.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Trường hợp bị thương trong kháng chiến chống Pháp, kháng chiến chống Mỹ, chiến tranh biên giới phía Bắc, biên giới Tây Nam và làm nghĩa vụ quốc tế tại Lào và Campuchia, truy quét Ful rô quy định tại một trong các khoản a, b, c, d, đ Điều 23 Pháp lệnh thì thực hiện theo hướng dẫn tại Mục 12 Chương II Nghị định số 131/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Trường hợp bị thương quy định tại điểm a khoản 1 Điều 23 Pháp lệnh phải có giấy xác nhận trường hợp bị thương do các cơ quan, đơn vị đã được quy định tại khoản 1 Điều 17 Nghị định số 131/2021/NĐ-CP cấp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Nội vụ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Quyết định về việc cấp giấy chứng nhận người hưởng chính sách như thương binh và trợ cấp, phụ cấp ưu đãi. - Giấy chứng nhận người hưởng chính sách như thương binh
+Căn cứ pháp lý:
+  * QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THI HÀNH PHÁP LỆNH ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Nghị định số 131/2021/NĐ-CP)
+  * ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Pháp lệnh số: 02/2020/UBTVQH14)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+
+Yêu cầu, điều kiện thực hiện: k1. Trực tiếp phục vụ chiến đấu quy định tại điểm a khoản 1 Điều 23 Pháp lệnh được xác định là thực hiện các nhiệm vụ trong lúc trận đánh đang diễn ra hoặc trong khi địch đang bắn phá: cứu thương, tải thương, tải đạn, đảm bảo thông tin liên lạc, bảo vệ hàng hóa và các trường hợp đảm bảo chiến đấu.
+k2. Địa bàn địch chiếm đóng, địa bàn có chiến sự, địa bàn tiếp giáp vùng địch chiếm đóng quy định tại điểm b khoản 1 Điều 23 Pháp lệnh được xác định theo quy định tại Phụ lục III Nghị định số 131/2021/NĐ-CP.
+k3. Trực tiếp làm nhiệm vụ huấn luyện chiến đấu, diễn tập hoặc làm nhiệm vụ quốc phòng, an ninh có tính chất nguy hiểm quy định tại điểm g khoản 1 Điều 23 Pháp lệnh được xác định như sau:
+- Nhiệm vụ huấn luyện chiến đấu, diễn tập có tính chất nguy hiểm trong các trường hợp sau: bắn đạn thật, sử dụng thuốc nổ; chữa cháy; chống khủng bố, bạo loạn; giải thoát con tin; cứu hộ, cứu nạn, ứng cứu thảm họa thiên tai; trong huấn luyện chiến đấu, diễn tập của lực lượng: không quân, hải quân, kiểm ngư, cảnh sát biển, đặc công, trinh sát đặc nhiệm, cảnh sát cơ động, đặc nhiệm.
+- Làm nhiệm vụ quốc phòng, an ninh có tính chất nguy hiểm khi: chữa cháy; chống khủng bố, bạo loạn; giải thoát con tin; cứu hộ, cứu nạn, ứng cứu thảm họa thiên tai; thực hiện nhiệm vụ của kiểm ngư, cảnh sát biển; tìm kiếm, quy tập hài cốt liệt sĩ; rà phá, xử lý, tiêu hủy bom mìn, vật liệu nổ; nghiên cứu, chế tạo, sản xuất, thử nghiệm, bảo quản, vận chuyển thuốc phóng, thuốc nổ, vũ khí, đạn dược; xây dựng công trình ngầm quốc phòng, an ninh.
+k4. Địa bàn biên giới, trên biển, hải đảo có điều kiện đặc biệt khó khăn theo quy định tại điểm h khoản 1 Điều 23 Pháp lệnh Ưu đãi người có công với cách mạng (sau đây gọi là địa bàn đặc biệt khó khăn) là địa bàn có điều kiện tự nhiên hiểm trở, khắc nghiệt, khó khăn để xảy ra tai nạn, bao gồm các địa bàn theo Phụ lục IV Nghị định số 131/2021/NĐ-CP.
+k5. Trực tiếp làm nhiệm vụ đấu tranh chống tội phạm quy định tại điểm I khoản 1 Điều 23 Pháp lệnh là trực tiếp thực thi nhiệm vụ theo yêu cầu của cơ quan có thẩm quyền giao nhằm điều tra, phát hiện, ngăn chặn, bắt giữ đối tượng phạm tội hoặc ngăn chặn hành vi nguy hiểm cho xã hội thuộc các tội được quy định trong Bộ luật Hình sự.
+k6. Xem xét công nhận thương binh theo quy định tại điểm k khoản 1 Điều 23 Pháp lệnh bao gồm các yếu tố sau:
+- Nhận thức được đầy đủ sự nguy hiểm và tính cấp bách của sự việc.
+- Chủ động thực hiện hành vi đặc biệt dũng cảm, chấp nhận hy sinh bản thân.
+- Bảo vệ lợi ích quan trọng của Nhà nước, tính mạng và lợi ích hợp pháp của Nhân dân hoặc để ngăn chặn, bắt giữ người có hành vi phạm tội đặc biệt nghiêm trọng.
+- Là tấm gương có ý nghĩa tôn vinh, giáo dục, lan tỏa rộng rãi trong xã hội, được tặng thưởng Huân chương và được cơ quan quản lý nhà nước về người có công tổ chức phát động học tập tấm gương trong phạm vi cả nước.
+k7. Các trường hợp khác thực hiện theo quy định tại các điểm c, d, đ, e khoản 1 Điều 23 Pháp lệnh Ưu đãi người có công với cách mạng.
+Từ khóa: Không có thông tin
+Mô tả: k1. Trực tiếp phục vụ chiến đấu quy định tại điểm a khoản 1 Điều 23 Pháp lệnh được xác định là thực hiện các nhiệm vụ trong lúc trận đánh đang diễn ra hoặc trong khi địch đang bắn phá: cứu thương, tải thương, tải đạn, đảm bảo thông tin liên lạc, bảo vệ hàng hóa và các trường hợp đảm bảo chiến đấu.
+k2. Địa bàn địch chiếm đóng, địa bàn có chiến sự, địa bàn tiếp giáp vùng địch chiếm đóng quy định tại điểm b khoản 1 Điều 23 Pháp lệnh được xác định theo quy định tại Phụ lục III Nghị định số 131/2021/NĐ-CP.
+k3. Trực tiếp làm nhiệm vụ huấn luyện chiến đấu, diễn tập hoặc làm nhiệm vụ quốc phòng, an ninh có tính chất nguy hiểm quy định tại điểm g khoản 1 Điều 23 Pháp lệnh được xác định như sau:
+- Nhiệm vụ huấn luyện chiến đấu, diễn tập có tính chất nguy hiểm trong các trường hợp sau: bắn đạn thật, sử dụng thuốc nổ; chữa cháy; chống khủng bố, bạo loạn; giải thoát con tin; cứu hộ, cứu nạn, ứng cứu thảm họa thiên tai; trong huấn luyện chiến đấu, diễn tập của lực lượng: không quân, hải quân, kiểm ngư, cảnh sát biển, đặc công, trinh sát đặc nhiệm, cảnh sát cơ động, đặc nhiệm.
+- Làm nhiệm vụ quốc phòng, an ninh có tính chất nguy hiểm khi: chữa cháy; chống khủng bố, bạo loạn; giải thoát con tin; cứu hộ, cứu nạn, ứng cứu thảm họa thiên tai; thực hiện nhiệm vụ của kiểm ngư, cảnh sát biển; tìm kiếm, quy tập hài cốt liệt sĩ; rà phá, xử lý, tiêu hủy bom mìn, vật liệu nổ; nghiên cứu, chế tạo, sản xuất, thử nghiệm, bảo quản, vận chuyển thuốc phóng, thuốc nổ, vũ khí, đạn dược; xây dựng công trình ngầm quốc phòng, an ninh.
+k4. Địa bàn biên giới, trên biển, hải đảo có điều kiện đặc biệt khó khăn theo quy định tại điểm h khoản 1 Điều 23 Pháp lệnh Ưu đãi người có công với cách mạng (sau đây gọi là địa bàn đặc biệt khó khăn) là địa bàn có điều kiện tự nhiên hiểm trở, khắc nghiệt, khó khăn để xảy ra tai nạn, bao gồm các địa bàn theo Phụ lục IV Nghị định số 131/2021/NĐ-CP.
+k5. Trực tiếp làm nhiệm vụ đấu tranh chống tội phạm quy định tại điểm I khoản 1 Điều 23 Pháp lệnh là trực tiếp thực thi nhiệm vụ theo yêu cầu của cơ quan có thẩm quyền giao nhằm điều tra, phát hiện, ngăn chặn, bắt giữ đối tượng phạm tội hoặc ngăn chặn hành vi nguy hiểm cho xã hội thuộc các tội được quy định trong Bộ luật Hình sự.
+k6. Xem xét công nhận thương binh theo quy định tại điểm k khoản 1 Điều 23 Pháp lệnh bao gồm các yếu tố sau:
+- Nhận thức được đầy đủ sự nguy hiểm và tính cấp bách của sự việc.
+- Chủ động thực hiện hành vi đặc biệt dũng cảm, chấp nhận hy sinh bản thân.
+- Bảo vệ lợi ích quan trọng của Nhà nước, tính mạng và lợi ích hợp pháp của Nhân dân hoặc để ngăn chặn, bắt giữ người có hành vi phạm tội đặc biệt nghiêm trọng.
+- Là tấm gương có ý nghĩa tôn vinh, giáo dục, lan tỏa rộng rãi trong xã hội, được tặng thưởng Huân chương và được cơ quan quản lý nhà nước về người có công tổ chức phát động học tập tấm gương trong phạm vi cả nước.
+k7. Các trường hợp khác thực hiện theo quy định tại các điểm c, d, đ, e khoản 1 Điều 23 Pháp lệnh Ưu đãi người có công với cách mạng.

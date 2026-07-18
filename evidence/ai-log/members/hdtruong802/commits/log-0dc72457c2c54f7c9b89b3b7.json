@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "record_type": "commit_evidence",
+  "ai_log_id": "log-0dc72457c2c54f7c9b89b3b7",
+  "created_at": "2026-07-18T06:31:58.330397Z",
+  "member_id": "hdtruong802",
+  "branch": "feature/local-20260718-prototype-api-contract",
+  "parent_commit": "c5718f4a462246e8ca5d648f70c6c7917298690e",
+  "task_records": [
+    "local-20260718-prototype-api-contract"
+  ],
+  "prompt_ids": [
+    "prompt-be0ba0acf03a434ad718172e",
+    "prompt-da6ee4addc7c3358dfbc7d0e"
+  ],
+  "tools": [
+    "codex"
+  ],
+  "capture_status": "manual",
+  "warnings": [],
+  "operation": "commit",
+  "replaces_ai_log": null
+}

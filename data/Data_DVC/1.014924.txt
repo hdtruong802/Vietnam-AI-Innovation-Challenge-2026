@@ -1,0 +1,90 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014924
+Số quyết định: 698/QĐ-UBND
+Tên thủ tục: Hỗ trợ đối với sản xuất sản phẩm, cung cấp dịch vụ công nghệ số
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    1. Tiếp nhận và kiểm tra hồ sơ:
+    a) Tổ chức, doanh nghiệp nộp 01 bộ hồ sơ qua Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh hoặc nộp trực tiếp tại Bộ phận một cửa của Sở Khoa học và Công nghệ tại Trung tâm Phục vụ hành chính công tỉnh hoặc qua dịch vụ bưu chính. Thành phần, số lượng hồ sơ theo quy định tại Điều 7 Quy định này.
+    b) Nội dung thực hiện: Tiếp nhận hồ sơ đề nghị hỗ trợ của tổ chức, doanh nghiệp. Trong thời hạn 01 ngày kể từ ngày tiếp nhận hồ sơ, Sở Khoa học và Công nghệ kiểm tra tính hợp lệ, đầy đủ của hồ sơ. Trường hợp hồ sơ chưa hợp lệ, Sở Khoa học và Công nghệ thông báo bằng văn bản để nhà đầu tư bổ sung, hoàn thiện.
+    c) Thời gian thực hiện: 02 ngày, kể từ ngày tiếp nhận hồ sơ
+    2. Thành lập Hội đồng thẩm định
+    a) Cơ quan thực hiện: Sở Khoa học và Công nghệ.
+    b) Nội dung thực hiện: Lập Tờ trình đề nghị Chủ tịch Ủy ban nhân dân tỉnh quyết định thành lập Hội đồng thẩm định; Chủ tịch Ủy ban nhân dân tỉnh ban hành Quyết định thành lập Hội đồng; thành phần Hội đồng: Đại diện Sở Khoa học và Công nghệ (Chủ tịch Hội đồng), Sở Tài chính (Phó Chủ tịch Hội đồng), các chuyên gia kỹ thuật và đơn vị có liên quan.
+    c) Thời gian thực hiện: 07 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.
+    3. Tổ chức thẩm định hồ sơ
+    a) Cơ quan tổ chức: Hội đồng thẩm định.
+    b) Nội dung thực hiện: Nghiên cứu hồ sơ, đánh giá các tiêu chí theo quy định; họp thẩm định và kết luận dự án đủ/không đủ điều kiện hỗ trợ; lập biên bản và gửi kết quả về Sở Khoa học và Công nghệ.
+    c) Thời gian thực hiện: 08 ngày, kể từ khi Hội đồng được thành lập.
+    4. Tổng hợp và trình Ủy ban nhân dân tỉnh
+    a) Cơ quan thực hiện: Sở Khoa học và Công nghệ.
+    b) Nội dung thực hiện: Tổng hợp kết quả thẩm định; lập báo cáo, đề xuất Ủy ban nhân dân tỉnh xem xét hỗ trợ cho dự án.
+    c) Thời gian thực hiện: 03 ngày, kể từ ngày nhận được biên bản và kết quả thẩm định của Hội đồng thẩm định.
+    5. Ủy ban nhân dân tỉnh xem xét, quyết định
+    a) Cơ quan thực hiện: Ủy ban nhân dân tỉnh. b) Nội dung thực hiện: Xem xét đề xuất hỗ trợ từ Sở Khoa học và Công nghệ.
+    c) Thời gian thực hiện: 05 ngày, kể từ khi nhận đề xuất của Sở Khoa học và Công nghệ.
+    6. Thông báo kết quả và triển khai hỗ trợ
+    a) Cơ quan thực hiện: Sở Khoa học và Công nghệ.
+    b) Nội dung: Thông báo chính thức cho tổ chức, doanh nghiệp về kết quả hỗ trợ.
+    c) Thời gian thực hiện: 03 ngày, kể từ ngày nhận được Quyết định của Ủy ban nhân dân tỉnh.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 28 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 28 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 28 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị xác nhận dự án thuộc đối tượng hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu, hồ sơ, chứng từ chứng minh tổ chức, doanh nghiệp đáp ứng tiêu chí và điều kiện hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Sở Khoa học và Công nghệ - tỉnh An Giang
+Cơ quan có thẩm quyền: UBND tỉnh An Giang
+Địa chỉ tiếp nhận HS: Trung tâm phục vụ hành chính công tỉnh An Giang. Địa chỉ: 05 Mậu Thân, phường Rạch Giá, tỉnh An Giang
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: QUYẾT ĐỊNH PHÊ DUYỆT KINH PHÍ HỖ TRỢ DỰ ÁN KHỞI NGHIỆP SÁNG TẠO TRONG CÔNG NGHIỆP CÔNG NGHỆ SỐ
+Căn cứ pháp lý:
+  * LUẬT CÔNG NGHIỆP CÔNG NGHỆ SỐ (71/2025/QH15)
+  * NGHỊ QUYẾT Quy định mức thu, chế độ thu, nộp và quản lý Lệ phí đăng ký kinh doanh trên địa bàn tỉnh Tuyên Quang (19/2025/NQ-HĐND)
+  * Luật Đầu tư công số 58/2024/QH15 ngày 29/11/2024. (58/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: 1. Dự án sản xuất sản phẩm công nghệ số trọng điểm đáp ứng các điều kiện sau: a) Có tổng vốn đầu tư của dự án từ 90 tỷ đồng trở lên. 
+b) Sản phẩm của dự án phải thuộc danh mục sản phẩm công nghệ số trọng điểm do Bộ trưởng Bộ Khoa học và Công nghệ ban hành. 
+c) Dự án đáp ứng các yêu cầu của pháp luật chuyên ngành về bảo vệ dữ liệu, trí tuệ nhân tạo, bảo vệ dữ liệu cá nhân và các quy định pháp luật có liên quan. d) Dự án có biên bản ghi nhớ hợp tác với tỉnh, trong đó phải có chương trình hợp tác đào tạo, bồi dưỡng hoặc nâng cao kỹ năng số cho tối thiểu 30 lao động là người địa phương trong thời gian 03 năm đầu kể từ khi dự án đi vào vận hành. 
+2. Dự án nghiên cứu và phát triển, thiết kế, sản xuất, đóng gói, kiểm thử sản phẩm chip bán dẫn đáp ứng các điều kiện sau: 
+a) Có tổng vốn đầu tư của dự án từ 90 tỷ đồng trở lên.
+b) Dự án có tài liệu minh chứng nhân sự tham gia hoạt động trong lĩnh vực thiết kế, sản xuất, đóng gói, kiểm thử tại doanh nghiệp. 
+c) Có Kế hoạch phát triển nguồn nhân lực chi tiết, trong đó xác định rõ số lượng kỹ sư, chuyên gia, lao động kỹ thuật cao sẽ được tuyển dụng và đào tạo; có thỏa thuận hợp tác chính thức với ít nhất một trường đại học hoặc cơ sở giáo dục nghề nghiệp trên địa bàn tỉnh để triển khai các chương trình đào tạo, thực tập. 
+d) Sản phẩm của dự án phải thuộc danh mục sản phẩm công nghệ số trọng điểm hoặc Danh mục nguyên liệu, vật liệu, thiết bị, máy móc, công cụ cho công nghiệp bán dẫn được khuyến khích đầu tư phát triển do Bộ trưởng Bộ Khoa học và Công nghệ ban hành. 
+e) Dự án đáp ứng các yêu cầu của pháp luật chuyên ngành về bảo vệ dữ liệu, trí tuệ nhân tạo, bảo vệ dữ liệu cá nhân và các quy định pháp luật có liên quan. 
+3. Dự án xây dựng trung tâm dữ liệu trí tuệ nhân tạo đáp ứng các điều kiện sau:  
+a) Có tổng vốn đầu tư của dự án từ 90 tỷ đồng trở lên. 
+b) Dự án đáp ứng các yêu cầu của pháp luật chuyên ngành về bảo vệ dữ liệu, trí tuệ nhân tạo, bảo vệ dữ liệu cá nhân và các quy định pháp luật có liên quan. 
+c) Đạt tiêu chuẩn quốc tế tối thiểu TIER III về hạ tầng và có cam kết về chỉ số hiệu quả sử dụng năng lượng ở mức tiên tiến.
+Từ khóa: Không có thông tin
+Mô tả: 1. Dự án sản xuất sản phẩm công nghệ số trọng điểm đáp ứng các điều kiện sau: a) Có tổng vốn đầu tư của dự án từ 90 tỷ đồng trở lên. 
+b) Sản phẩm của dự án phải thuộc danh mục sản phẩm công nghệ số trọng điểm do Bộ trưởng Bộ Khoa học và Công nghệ ban hành. 
+c) Dự án đáp ứng các yêu cầu của pháp luật chuyên ngành về bảo vệ dữ liệu, trí tuệ nhân tạo, bảo vệ dữ liệu cá nhân và các quy định pháp luật có liên quan. d) Dự án có biên bản ghi nhớ hợp tác với tỉnh, trong đó phải có chương trình hợp tác đào tạo, bồi dưỡng hoặc nâng cao kỹ năng số cho tối thiểu 30 lao động là người địa phương trong thời gian 03 năm đầu kể từ khi dự án đi vào vận hành. 
+2. Dự án nghiên cứu và phát triển, thiết kế, sản xuất, đóng gói, kiểm thử sản phẩm chip bán dẫn đáp ứng các điều kiện sau: 
+a) Có tổng vốn đầu tư của dự án từ 90 tỷ đồng trở lên.
+b) Dự án có tài liệu minh chứng nhân sự tham gia hoạt động trong lĩnh vực thiết kế, sản xuất, đóng gói, kiểm thử tại doanh nghiệp. 
+c) Có Kế hoạch phát triển nguồn nhân lực chi tiết, trong đó xác định rõ số lượng kỹ sư, chuyên gia, lao động kỹ thuật cao sẽ được tuyển dụng và đào tạo; có thỏa thuận hợp tác chính thức với ít nhất một trường đại học hoặc cơ sở giáo dục nghề nghiệp trên địa bàn tỉnh để triển khai các chương trình đào tạo, thực tập. 
+d) Sản phẩm của dự án phải thuộc danh mục sản phẩm công nghệ số trọng điểm hoặc Danh mục nguyên liệu, vật liệu, thiết bị, máy móc, công cụ cho công nghiệp bán dẫn được khuyến khích đầu tư phát triển do Bộ trưởng Bộ Khoa học và Công nghệ ban hành. 
+e) Dự án đáp ứng các yêu cầu của pháp luật chuyên ngành về bảo vệ dữ liệu, trí tuệ nhân tạo, bảo vệ dữ liệu cá nhân và các quy định pháp luật có liên quan. 
+3. Dự án xây dựng trung tâm dữ liệu trí tuệ nhân tạo đáp ứng các điều kiện sau:  
+a) Có tổng vốn đầu tư của dự án từ 90 tỷ đồng trở lên. 
+b) Dự án đáp ứng các yêu cầu của pháp luật chuyên ngành về bảo vệ dữ liệu, trí tuệ nhân tạo, bảo vệ dữ liệu cá nhân và các quy định pháp luật có liên quan. 
+c) Đạt tiêu chuẩn quốc tế tối thiểu TIER III về hạ tầng và có cam kết về chỉ số hiệu quả sử dụng năng lượng ở mức tiên tiến.

@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007839
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hoá kinh doanh theo phương thức chuyển khẩu
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Hàng hoá kinh doanh chuyển khẩu được vận chuyển từ nước xuất khẩu đến nước nhập khẩu, có đưa vào khu vực kho bãi thuộc các cảng biển Việt Nam (không đưa vào kho ngoại quan, không đưa vào khu vực trung chuyển hàng hoá), thủ tục kiểm tra, giám sát hải quan thực hiện như sau:
+    - Bước 1: Nộp cho Chi cục Hải quan nơi có hàng hóa nhập khẩu chuyển khẩu 01 bộ hồ sơ.
+    - Bước 2: Chi cục Hải quan cửa khẩu thực hiện:
+    + Tiếp nhận, kiểm tra bộ hồ sơ lô hàng nhập khẩu chuyển khẩu;
+    + Xác nhận nhập khẩu và ký tên, đóng dấu công chức trên công văn đề nghị của doanh nghiệp;
+    + Giám sát và theo dõi lô hàng chuyển khẩu cho đến khi xuất ra khỏi Việt Nam;
+    + Sau khi hàng hóa xếp lên phương tiện, công chức hải quan giám sát tại cửa khẩu xác nhận hàng đã qua khu vực giám sát trên văn bản đề nghị chuyển khẩu hàng hóa;
+    + Trường hợp hàng hóa chuyển khẩu xuất qua cửa khẩu khác với cửa khẩu nhập nhưng cùng trong hệ thống khu vực cảng biển thuộc địa bàn giám sát của Cục Hải quan thì sau khi hàng hóa đưa vào khu vực giám sát hải quan tại cửa khẩu xuất, công chức hải quan giám sát xác nhận hàng đã qua khu vực giám sát trên văn bản đề nghị chuyển khẩu hàng hóa; việc giám sát hàng hóa đưa ra, đưa vào khu vực giám sát hải quan tại cửa khẩu thực hiện theo quy định tại Điều 52 Thông tư này;
+    + Trong quá trình kiểm tra, giám sát nếu phát hiện lô hàng chuyển khẩu có dấu hiệu vi phạm thì Chi cục trưởng Chi cục Hải quan cửa khẩu quyết định kiểm tra thực tế và xử lý theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20 VNĐ (20.000 đồng)
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị chuyển khẩu hàng hóa theo mẫu số 22/CKHH/GSQL Phụ lục V ban hành kèm Thông tư 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Vận tải đơn hàng nhập khẩu: 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận thông quan
+Căn cứ pháp lý:
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Thông tư 172/2010/TT-BTC (172/2010/TT-BTC)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

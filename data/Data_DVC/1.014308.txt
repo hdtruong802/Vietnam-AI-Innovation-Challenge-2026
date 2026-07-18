@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014308
+Số quyết định: 2864/QĐ-BTC
+Tên thủ tục: Thủ tục kết nối kỹ thuật giữa Cổng thanh toán điện tử hải quan và hệ thống trao đổi thông tin của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    + Cục Hải quan thực hiện công khai tiêu chuẩn kỹ thuật trên Trang thông tin điện tử (www.customs.gov.vn), khung thoả thuận phối hợp thu ngân sách nhà nước; Cổng thanh toán điện tử hải quan và có trách nhiệm cập nhật nếu có thay đổi.
+    + Ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán đáp ứng các tiêu chuẩn kỹ thuật theo công khai của Cục Hải quan gửi đề nghị kết nối đến Cục Hải quan.
+    ++ Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đề nghị kết nối của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán, Cục Hải quan thực hiện kiểm tra các tài liệu và có thông báo gửi cho ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán về việc đảm bảo, hoặc chưa đảm bảo các điều kiện về kết nối với Cổng thanh toán điện tử hải quan, hoặc yêu cầu bổ sung thông tin theo mẫu số 02/TBKN-TTĐT ban hành kèm theo Thông tư số 51/2025/TT-BTC ngày 24/6/2025;
+    ++ Trường hợp đáp ứng các điều kiện về kết nối, kể từ ngày Cục Hải quan thông báo về việc đảm bảo kết nối, ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán thực hiện các thủ tục kết nối kỹ thuật với Cổng thanh toán điện tử hải quan;
+    ++ Sau khi đã kết nối kỹ thuật thành công, Cục Hải quan thực hiện kiểm tra thực tế việc đáp ứng tiêu chuẩn kỹ thuật kết nối tại ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán và ký Biên bản kiểm tra. Nếu Biên bản kiểm tra có kết quả là đáp ứng tiêu chuẩn kết nối thì Cục Hải quan ký văn bản thỏa thuận với ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán. Nếu Biên bản kiểm tra có kết quả là không đáp ứng các tiêu chuẩn kết nối thì Cục Hải quan có văn bản thông báo từ chối ký thỏa thuận và nêu rõ lý do.
+    Trong thời hạn 05 ngày làm việc kể từ ngày ký Biên bản kiểm tra với kết quả là đạt, Cục Hải quan và ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán thống nhất nội dung, thời gian ký thỏa thuận;
+    ++ Chậm nhất 10 ngày làm việc sau khi ký thỏa thuận, Cục Hải quan có Thông báo công khai bổ sung danh sách ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán tham gia kết nối với Cổng thanh toán điện tử hải quan (sau đây gọi chung là tổ chức đã tham gia kết nối) trên Trang thông tin điện tử (www.customs.gov.vn); Cổng thanh toán điện tử hải quan.
+    + Đề nghị kết nối với Cổng thanh toán điện tử hải quan bao gồm:
+    ++ Văn bản đề nghị kết nối với Cổng thanh toán điện tử hải quan (theo mẫu số 01/KNNT-TTĐT ban hành kèm theo Thông tư số 51/2025/TT-BTC ngày 24/6/2025);
+    ++ Tài liệu chứng minh về việc đáp ứng các tiêu chuẩn kỹ thuật theo công khai của Cục Hải quan.
+    + Tiếp nhận, xử lý văn bản đề nghị kết nối với Cổng thanh toán điện tử hải quan
+    ++ Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đề nghị kết nối của ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán, Cục Hải quan thực hiện kiểm tra các tài liệu và có thông báo gửi cho ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán về việc đảm bảo, hoặc chưa đảm bảo các điều kiện về kết nối với Cổng thanh toán điện tử hải quan, hoặc yêu cầu bổ sung thông tin theo mẫu số 02/TBKN-TTĐT ban hành kèm theo Thông tư số 51/2025/TT-BTC ngày 24/6/2025;
+    ++ Trường hợp đáp ứng các điều kiện về kết nối, kể từ ngày Cục Hải quan thông báo về việc đảm bảo kết nối, ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán thực hiện các thủ tục kết nối kỹ thuật với Cổng thanh toán điện tử hải quan;
+    ++ Sau khi đã kết nối kỹ thuật thành công, Cục Hải quan thực hiện kiểm tra thực tế việc đáp ứng tiêu chuẩn kỹ thuật kết nối tại ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán và ký Biên bản kiểm tra. Nếu Biên bản kiểm tra có kết quả là đáp ứng tiêu chuẩn kết nối thì Cục Hải quan ký văn bản thỏa thuận với ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán. Nếu Biên bản kiểm tra có kết quả là không đáp ứng các tiêu chuẩn kết nối thì Cục Hải quan có văn bản thông báo từ chối ký thỏa thuận và nêu rõ lý do.
+    Trong thời hạn 05 ngày làm việc kể từ ngày ký Biên bản kiểm tra với kết quả là đạt, Cục Hải quan và ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán thống nhất nội dung, thời gian ký thỏa thuận;
+    ++ Chậm nhất 10 ngày làm việc sau khi ký thỏa thuận, Cục Hải quan có Thông báo công khai bổ sung danh sách ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán tham gia kết nối với Cổng thanh toán điện tử hải quan (sau đây gọi chung là tổ chức đã tham gia kết nối) trên Trang thông tin điện tử (www.customs.gov.vn); Cổng thanh toán điện tử hải quan.
+    + Thay đổi, bổ sung thông tin đã ký thỏa thuận
+    ++ Trong quá trình trao đổi, cung cấp thông tin, tổ chức đã tham gia kết nối với Cổng thanh toán điện tử hải quan có thay đổi, bổ sung thông tin đã ký thỏa thuận thì trong thời hạn 10 ngày làm việc kể từ ngày phát sinh thay đổi tổ chức đã tham gia kết nối phải gửi văn bản theo mẫu số 01/KNNT-TTĐT ban hành kèm theo Thông tư số 51/2025/TT-BTC ngày 24/6/2025 kèm theo các tài liệu liên quan đến nội dung thay đổi đến Cục Hải quan;
+    ++ Trường hợp các thay đổi liên quan đến văn bản thỏa thuận đã ký thì hai bên phải ký phụ lục văn bản thỏa thuận bổ sung;
+    ++ Trường hợp các thay đổi liên quan đến tiêu chuẩn kỹ thuật ảnh hưởng đến việc kết nối thì Cục Hải quan có thể kiểm tra lại thực tế tại ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán về các tiêu chuẩn kết nối trước khi ký phụ lục văn bản thỏa thuận bổ sung;
+    ++ Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đầy đủ thông tin bổ sung và kèm theo (nếu có) hoặc ký biên bản kiểm tra với kết quả đạt, Cục Hải quan và tổ chức đã tham gia kết nối thống nhất nội dung, thời gian ký thỏa thuận bổ sung.
+    + Ngừng kết nối với Cổng thanh toán điện tử hải quan
+    ++ Trường hợp tổ chức đã tham gia kết nối với Cổng thanh toán điện tử hải quan tạm ngừng/ngừng cung cấp dịch vụ liên quan đến thu, nộp thuế thì:
+    Tổ chức đã tham gia kết nối phải gửi thông báo cho người nộp thuế có liên quan và Cục Hải quan bằng văn bản trước thời hạn tạm ngừng/ngừng cung cấp dịch vụ 30 ngày (trường hợp tạm ngừng phải ghi rõ thời điểm tạm ngừng và thời điểm dự kiến bắt đầu trở lại hoạt động). Trường hợp ngừng cung cấp dịch vụ thì hai bên ký biên bản chấm dứt thỏa thuận trong vòng 10 ngày làm việc kể từ ngày Cục Hải quan nhận được thông báo ngừng cung cấp dịch vụ của tổ chức đã tham gia kết nối.
+    Ngay sau khi nhận được thông báo tạm ngừng/ngừng cung cấp dịch vụ của tổ chức đã tham gia kết nối, Cục Hải quan thực hiện tạm ngừng/ngừng kết nối và thông báo công khai trên Trang thông tin điện tử (www.customs.gov.vn); Cổng thanh toán điện tử hải quan;
+    ++ Cục Hải quan chủ động tạm ngừng/chấm dứt kết nối giữa Cổng thanh toán điện tử hải quan và hệ thống trao đổi thông tin của tổ chức đã tham gia kết nối trong các trường hợp sau:
+    +++ Trường hợp tổ chức đã tham gia kết nối bị giải thể; bị thu hồi giấy chứng nhận đăng ký doanh nghiệp hoặc giấy phép thành lập hoặc giấy phép khác liên quan đến hoạt động của tổ chức; bị tuyên bố phá sản theo quy định của pháp luật thì kể từ thời điểm ban hành thông báo của cơ quan có thẩm quyền, Cục Hải quan chấm dứt kết nối giữa Cổng thanh toán điện tử hải quan và hệ thống trao đổi thông tin của tổ chức đã tham gia kết nối;
+    +++ Trường hợp qua kiểm tra Cục Hải quan phát hiện tổ chức đã tham gia kết nối không đáp ứng các tiêu chuẩn kỹ thuật theo công khai của Cục Hải quan; hoặc vi phạm các quy định về kết nối; hoặc vi phạm các quy định tại Quy chế trao đổi, cung cấp thông tin phục vụ thu ngân sách nhà nước của Cục Hải quan; hoặc vi phạm các quy định của pháp luật về giao dịch điện tử.
+    Căn cứ vào mức độ vi phạm qua kiểm tra, Cục Hải quan có quyền tạm ngừng có thời hạn/chấm dứt kết nối giữa Cổng thanh toán điện tử hải quan và hệ thống trao đổi thông tin của tổ chức đã tham gia kết nối;
+    +++ Khi chủ động tạm ngừng/chấm dứt kết nối, Cục Hải quan có văn bản gửi cho tổ chức đã tham gia kết nối được biết và thực hiện ngừng kết nối với hệ thống trao đổi thông tin của tổ chức, đồng thời công bố công khai trên Trang thông tin điện tử (www.customs.gov.vn) và Cổng thanh toán điện tử hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Văn bản đề nghị kết nối với Cổng thanh toán điện tử hải quan (theo mẫu số 01/KNNT-TTĐT ban hành kèm theo Thông tư số 51/2025/TT-BTC ngày 24/6/2025)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Tài liệu chứng minh về việc đáp ứng các tiêu chuẩn kỹ thuật theo công khai của Cục Hải quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực, Kho bạc nhà nước các cấp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận/chấp thuận Cục Hải quan có Thông báo công khai bổ sung danh sách ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán tham gia kết nối với Cổng thanh toán điện tử hải quan trên Trang thông tin điện tử; Cổng thanh toán điện tử hải quan
+Căn cứ pháp lý:
+  * Thông tư 51/2025/TT-BTC ngày 24/6/2025 quy định thủ tục về giao dịch điện tử trong lĩnh vực thuế đối với hàng hóa xuất khẩu, nhập khẩu, quá cảnh và phương tiện vận tải xuất cảnh, nhập cảnh, quá cảnh. (51/2025/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

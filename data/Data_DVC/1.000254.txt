@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000254
+Số quyết định: 1234/QĐ-BXD
+Tên thủ tục: Thủ tục cấp lại Giấy phép khai thác cho cơ sở cung cấp dịch vụ bảo đảm hoạt động bay (ANS)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC
+    Tổ chức đề nghị cấp lại giấy phép khai thác cho cơ sở ANS gửi 01 bộ hồ sơ trực tiếp hoặc qua hệ thống bưu chính hoặc bằng các hình thức phù hợp khác đến Cục Hàng không Việt Nam và phải chịu trách nhiệm về tính chính xác, trung thực của thông tin trong hồ sơ.
+  * b) Giải quyết TTHC
+    - Đối với trường hợp cấp lại do giấy phép bị mất hoặc bị hỏng và thay đổi tên doanh nghiệp, địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ bảo đảm hoạt động bay; thay đổi tên cơ sở, địa chỉ của cơ sở ANS: trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam xem xét, quyết định cấp lại giấy phép; trường hợp không cấp giấy phép phải gửi văn bản trả lời cho tổ chức đề nghị biết và nêu rõ lý do.
+    - Đối với trường hợp cấp lại do thay đổi mục đích, phạm vi, phương thức cung cấp dịch vụ, chế độ hoạt động của cơ sở ANS và phục hồi và đáp ứng đầy đủ điều kiện theo quy định của giấy phép khai thác cơ sở ANS (áp dụng trong trường hợp giấy phép khai thác bị thu hồi): trong thời hạn 06 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam thẩm định, kiểm tra thực tế; yêu cầu tổ chức đề nghị cấp giấy phép giải trình bổ sung các nội dung liên quan và cấp lại giấy phép khai thác cơ sở ANS; trường hợp không cấp giấy phép phải gửi văn bản trả lời cho tổ chức đề nghị biết và nêu rõ lý do.
+    Trường hợp hồ sơ chưa đầy đủ, trong thời gian 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Hàng không Việt Nam hướng dẫn tổ chức đề nghị hoàn thiện hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 5000000 VNĐ ((Miễn kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư 40/2026/TT-BTC))
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 5000000 VNĐ ((Miễn kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư 40/2026/TT-BTC))
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 10000000 VNĐ ((Miễn kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư 40/2026/TT-BTC))
+
+Thành phần hồ sơ:
+    - - Bản sao tài liệu liên quan đến nội dung: 	+ Thay đổi tên doanh nghiệp, địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ bảo đảm hoạt động bay; thay đổi tên cơ sở, địa chỉ của cơ sở ANS; 	+ Thay đổi mục đích, phạm vi, phương thức cung cấp dịch vụ, chế độ hoạt động của cơ sở ANS; 	+ Phục hồi và đáp ứng đầy đủ điều kiện theo quy định của giấy phép khai thác cơ sở ANS (áp dụng trong trường hợp giấy phép khai thác bị thu hồi).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Đơn đề nghị cấp lại giấy phép khai thác cơ sở ANS theo mẫu số 2 quy định tại Phụ lục VIII ban hành kèm theo Thông tư số 19/2017/TT-BGTVT
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: giấy phép khai thác cơ sở cung cấp dịch vụ (ANS)
+Căn cứ pháp lý:
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không (193/2016/TT-BTC)
+  * Quy định chi tiết về quản lý hoạt động bay (125/2015/NĐ-CP)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Quy định về quản lý và bảo đảm hoạt động bay (19/2017/TT-BGTVT)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư để cắt giảm, đơn giản hóa thủ tục hành chính trong lĩnh vực đăng kiểm đường bộ, hàng không dân dụng và thanh tra thuộc phạm vi quản lý của Bộ Xây dựng (71/2025/TT-BXD)
+  * Thông tư 32/2021/TT-BGTVT (32/2021/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Giấy phép khai thác cơ sở ANS được cấp lại trong các trường hợp sau:
+- Giấy phép bị mất hoặc bị hỏng;
+- Thay đổi tên doanh nghiệp, địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ bảo đảm hoạt động bay; thay đổi tên cơ sở, địa chỉ của cơ sở ANS;
+- Thay đổi mục đích, phạm vi, phương thức cung cấp dịch vụ, chế độ hoạt động của cơ sở ANS;
+- Phục hồi và đáp ứng đầy đủ điều kiện theo quy định của giấy phép khai thác cơ sở ANS (áp dụng trong trường hợp giấy phép khai thác bị thu hồi).
+Từ khóa: Không có thông tin
+Mô tả: Giấy phép khai thác cơ sở ANS được cấp lại trong các trường hợp sau:
+- Giấy phép bị mất hoặc bị hỏng;
+- Thay đổi tên doanh nghiệp, địa chỉ trụ sở chính của doanh nghiệp cung cấp dịch vụ bảo đảm hoạt động bay; thay đổi tên cơ sở, địa chỉ của cơ sở ANS;
+- Thay đổi mục đích, phạm vi, phương thức cung cấp dịch vụ, chế độ hoạt động của cơ sở ANS;
+- Phục hồi và đáp ứng đầy đủ điều kiện theo quy định của giấy phép khai thác cơ sở ANS (áp dụng trong trường hợp giấy phép khai thác bị thu hồi).

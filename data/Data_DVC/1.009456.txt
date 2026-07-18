@@ -1,0 +1,83 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009456
+Số quyết định: 123/QĐ-CHHĐTVN
+Tên thủ tục: Công bố hoạt động  cảng thủy nội địa
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    Trước khi đưa công trình cảng thủy nội địa vào khai thác, chủ cảng nộp hồ đến cơ quan có thẩm quyền như sau:
+    - Bộ Xây dựng: công bố hoạt động cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài;
+    - Cục Hàng hải và Đường thủy Việt Nam: công bố hoạt động cảng thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia, cảng thủy nội địa có vùng nước, vùng đất vừa trên đường thủy nội địa quốc gia vừa trên đường thủy nội địa địa phương, cảng thủy nội địa trong vùng nước cảng biển nối với đường thủy nội địa quốc gia, trừ trường hợp thuộc thẩm quyền của Bộ Xây dựng và các trường hợp khác do Bộ Xây dựng quyết định;
+    - Sở Xây dựng: công bố hoạt động cảng thủy nội địa trên đường thủy nội địa địa phương, đường thủy nội địa chuyên dùng nối với đường thủy nội địa địa phương, cảng thủy nội địa trong vùng nước cảng biển nối với đường thủy nội địa địa phương trừ trường hợp, thuộc thẩm quyền của Bộ Xây dựng và các trường hợp khác do Bộ Xây dựng quyết định.
+  * b) Giải quyết TTHC:
+    - Cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài:
+    + Trong thời hạn 05 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải và Đường thủy Việt Nam, Sở Xây dựng thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Bộ Xây dựng;
+    + Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ và báo cáo thẩm định, Bộ Xây dựng ban hành quyết định công bố hoạt động cảng thủy nội địa;
+    - Cảng thủy nội địa không tiếp nhận phương tiện thủy nước ngoài: Trong thời hạn 04 ngày, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải và Đường thủy Việt Nam hoặc Sở Xây dựng TP Hồ Chí Minh ban hành quyết định công bố hoạt động cảng thủy nội địa.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ (Phí Thẩm tra, thẩm định công bố cảng thủy nội địa: 100.000 đồng/lần.)
+    Mô tả: - Đối với cảng thủy nội địa không tiếp nhận phương tiện thủy nước ngoài: Trong thời hạn 04 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải và Đường thủy Việt Nam hoặc Sở Xây dựng Thành phố Hồ Chí Minh ban hành quyết định công bố hoạt động cảng thủy nội địa.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ (Phí Thẩm tra, thẩm định công bố cảng thủy nội địa: 100.000 đồng/lần.)
+    Mô tả: - Đối với cảng thủy nội địa không tiếp nhận phương tiện thủy nước ngoài: Trong thời hạn 04 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải và Đường thủy Việt Nam hoặc Sở Xây dựng Thành phố Hồ Chí Minh ban hành quyết định công bố hoạt động cảng thủy nội địa.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ (Phí Thẩm tra, thẩm định công bố cảng thủy nội địa: 100.000 đồng/lần.)
+    Mô tả: - Đối với cảng thủy nội địa không tiếp nhận phương tiện thủy nước ngoài: Trong thời hạn 04 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng hải và Đường thủy Việt Nam hoặc Sở Xây dựng Thành phố Hồ Chí Minh ban hành quyết định công bố hoạt động cảng thủy nội địa.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ (Phí Thẩm tra, thẩm định công bố cảng thủy nội địa: 100.000 đồng/lần.)
+    Mô tả: Đối với cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài (05 ngày làm việc Cục, Sở thẩm định hồ sơ; 05 ngày làm việc kể từ ngày nhận đủ hồ sơ và báo cáo thẩm định, Bộ ban hành quyết định công bố).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ (Phí Thẩm tra, thẩm định công bố cảng thủy nội địa: 100.000 đồng/lần.)
+    Mô tả: Đối với cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài (05 ngày làm việc Cục, Sở thẩm định hồ sơ; 05 ngày làm việc kể từ ngày nhận đủ hồ sơ và báo cáo thẩm định, Bộ ban hành quyết định công bố).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ (Phí Thẩm tra, thẩm định công bố cảng thủy nội địa: 100.000 đồng/lần.)
+    Mô tả: Đối với cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài (05 ngày làm việc Cục, Sở thẩm định hồ sơ; 05 ngày làm việc kể từ ngày nhận đủ hồ sơ và báo cáo thẩm định, Bộ ban hành quyết định công bố).
+
+Thành phần hồ sơ:
+    - - Bản sao có chứng thực hoặc bản sao và xuất trình bản chính để đối chiếu giấy tờ về sử dụng đất để xây dựng cảng thủy nội địa do cơ quan có thẩm quyền cấp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao quyết định công bố mở luồng chuyên dùng của cơ quan có thẩm quyền (nếu có) đối với trường hợp cảng thủy nội địa có luồng chuyên dùng.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Biên bản nghiệm thu hoàn thành công trình xây dựng đưa vào sử dụng; bản vẽ hoàn công mặt bằng, mặt chiếu đứng và mặt cắt ngang công trình cảng thủy nội địa;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị công bố hoạt động cảng thủy nội địa theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Biên bản nghiệm thu kết quả rà tìm vật chướng ngại trong vùng nước cảng; biên bản xác nhận thiết lập báo hiệu tại cảng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài (đối với cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Văn bản nghiệm thu về phòng cháy và chữa cháy của cơ quan có thẩm quyền theo quy định;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao quyết định phê duyệt dự án hoặc thiết kế kỹ thuật công trình cảng thủy nội địa;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của pông-tông, phao neo thuộc đối tượng phải đăng kiểm (nếu sử dụng pông-tông làm cầu cảng);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao có chứng thực hoặc bản sao và xuất trình bản chính để đối chiếu văn bản phê duyệt dự án đầu tư xây dựng cảng thủy nội địa của cơ quan có thẩm quyền;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Sở Xây dựng, Cục Hàng hải và Đường thủy Việt Nam, Sở Giao thông công chánh - TP.HCM, Bộ Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công bố (công bố lại) hoạt động cảng thủy nội địa
+Căn cứ pháp lý:
+  * Quy định về quản lý hoạt động đường thủy nội địa (08/2021/NĐ-CP)
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực đường thủy nội địa và đường sắt (198/2016/TT-BTC)
+  * Sửa đổi, bổ sung một số điều của Nghị định số 08/2021/NĐ-CP ngày 28 tháng 01 năm 2021 của Chính phủ quy định về quản lý hoạt động đường thủy nội địa (06/2024/NĐ-CP)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

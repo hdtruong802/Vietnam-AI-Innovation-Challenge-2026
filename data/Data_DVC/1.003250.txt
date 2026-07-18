@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003250
+Số quyết định: 1106/QĐ-NHNN
+Tên thủ tục: Thủ tục sửa đổi, bổ sung Giấy phép của tổ chức tín dụng phi ngân hàng trách nhiệm hữu hạn đối với nội dung tăng vốn điều lệ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Tổ chức tín dụng phi ngân hàng lập hồ sơ gửi Ngân hàng Nhà nước;
+    + Bước 2: Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức tín dụng phi ngân hàng bổ sung hồ sơ;
+    + Bước 3: Trong thời hạn 17 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước có quyết định sửa đổi, bổ sung Giấy phép; trường hợp không sửa đổi, bổ sung Giấy phép, Ngân hàng Nhà nước có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 17 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 17 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - đ) Đối với trường hợp tăng vốn điều lệ do thành viên góp vốn mới góp vốn, ngoài các hồ sơ quy định tại các điểm a, b, c, d (i), d(ii) nêu trên, tổ chức tín dụng phi ngân hàng bổ sung hồ sơ thành viên góp vốn mới của tổ chức tín dụng phi ngân hàng như hồ sơ đối với thành viên sáng lập thành lập tổ chức tín dụng phi ngân hàng theo quy định của pháp luật có liên quan;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Văn bản đề nghị chấp thuận tăng vốn điều lệ và sửa đổi, bổ sung Giấy phép đối với việc tăng vốn điều lệ của tổ chức tín dụng phi ngân hàng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Đối với trường hợp tăng vốn điều lệ từ lợi nhuận chưa phân phối và các quỹ khác theo quy định của pháp luật, ngoài các hồ sơ quy định tại các điểm a, b, c nêu trên, tổ chức tín dụng phi ngân hàng bổ sung thông tin về quỹ dự trữ bổ sung vốn điều lệ, lợi nhuận chưa phân phối và các quỹ khác được xác định theo kết quả kiểm toán của kiểm toán độc lập; thông tin về số tiền từ quỹ dự trữ bổ sung vốn điều lệ, lợi nhuận chưa phân phối và các quỹ khác được sử dụng để tăng vốn điều lệ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Đối với trường hợp tăng vốn điều lệ do chủ sở hữu, thành viên góp vốn cấp, góp thêm, ngoài các hồ sơ quy định tại điểm a, b, c nêu trên, tổ chức tín dụng phi ngân hàng bổ sung các hồ sơ sau đây: (i) Cam kết sử dụng nguồn tiền hợp pháp của chủ sở hữu, thành viên góp vốn để cấp, góp thêm; (ii) Văn bản của một ngân hàng thương mại Việt Nam, chi nhánh ngân hàng nước ngoài xác nhận số tiền góp vốn của chủ sở hữu, thành viên góp vốn cấp thêm hoặc từ vốn góp của thành viên góp vốn mới; (iii) Báo cáo tài chính của chủ sở hữu, thành viên góp vốn cấp, góp thêm năm liền kề trước năm đề nghị tăng vốn điều lệ đã được kiểm toán bởi tổ chức kiểm toán độc lập theo quy định của pháp luật (trừ trường hợp chủ sở hữu, thành viên góp vốn là tổ chức tín dụng Việt Nam hoặc doanh nghiệp đã niêm yết trên thị trường chứng khoán Việt Nam). Trường hợp tại thời điểm nộp hồ sơ đề nghị chưa có báo cáo tài chính được kiểm toán thì nộp báo cáo tài chính chưa được kiểm toán và phải nộp báo cáo tài chính được kiểm toán ngay sau khi tổ chức kiểm toán phát hành báo cáo kiểm toán và phải chịu trách nhiệm về nội dung báo cáo tài chính đã nộp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Văn bản giải trình của tổ chức tín dụng phi ngân hàng có xác nhận của tổ chức kiểm toán về ảnh hưởng của ý kiến ngoại trừ đến điều kiện tăng vốn (trong trường hợp tại báo cáo tài chính đã kiểm toán của tổ chức tín dụng phi ngân hàng có ý kiến ngoại trừ);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Văn bản của cấp có thẩm quyền quyết định thông qua phương án tăng vốn điều lệ của tổ chức tín dụng phi ngân hàng, trong đó tối thiểu bao gồm các nội dung sau đây:  (i) Lý do và sự cần thiết tăng vốn điều lệ; (ii) Mức vốn điều lệ hiện tại, mức vốn điều lệ dự kiến tăng thêm; (iii) Các đợt dự kiến tăng vốn điều lệ trong năm, nguồn sử dụng để tăng vốn điều lệ; (iv) Thời gian dự kiến hoàn thành việc tăng vốn điều lệ; (v) Dự kiến bảng cân đối kế toán, báo cáo kết quả kinh doanh trong 03 năm liền kề sau khi tăng vốn điều lệ; dự kiến kế hoạch sử dụng vốn điều lệ tăng thêm trong hoạt động kinh doanh; (vi) Khả năng quản trị, điều hành và kiểm soát rủi ro đối với quy mô vốn điều lệ mới;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: văn bản từ chối, Quyết định sửa đổi, bổ sung Giấy phép đối với nội dung tăng vốn điều lệ của tổ chức tín dụng phi ngân hàng trách nhiệm hữu hạn
+Căn cứ pháp lý:
+  * phân cấp thực hiện thủ tục hành chính trong lĩnh vực thông tin tín dụng và sủa đổi, bổ sung một số điều của các Thông tư liên quan đến cắt giảm, đơn giản hóa, phân cấp thực hiện thủ tục hành chính trong lĩnh vực thành lập và hoạt động ngân hàng (11/2026/TT-NHNN)
+  * Thông tư quy định về hồ sơ, thủ tục chấp thuận những thay đổi của tổ chức tín dụng phi ngân hàng (49/2025/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

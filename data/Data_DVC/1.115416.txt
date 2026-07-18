@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115416
+Số quyết định: 1617/QĐ-BCT
+Tên thủ tục: Rút tiền ký quỹ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thương mại điện tử
+Trình tự thực hiện:
+    1. Trường hợp rút tiền ký quỹ quy định tại khoản 1 Điều 37 của Nghị định số 248/2026/NĐ-CP, chủ quản nền tảng gửi hồ sơ đề nghị rút tiền ký quỹ tới Bộ Công Thương khi có xác nhận đã ký quỹ đủ số tiền tại một ngân hàng thương mại hoặc chi nhánh ngân hàng nước ngoài khác tại Việt Nam.
+    2. Trường hợp rút tiền ký quỹ quy định tại khoản 2 Điều 37 của Nghị định số 248/2026/NĐ-CP, chủ quản nền tảng gửi hồ sơ đề nghị rút tiền ký quỹ tới Bộ Công Thương sau khi bị từ chối hồ sơ đăng ký.
+    3. Trường hợp rút tiền ký quỹ quy định tại khoản 3 Điều 37 của Nghị định số 248/2026/NĐ-CP, sau thời hạn 90 ngày kể từ ngày Bộ Công Thương công khai xác nhận chấm dứt hoạt động của nền tảng trên Hệ thống quản lý hoạt động thương mại điện tử mà không nhận được thông báo của cơ quan có thẩm quyền về việc nền tảng chưa hoàn thành nghĩa vụ theo quy định tại khoản 4 Điều 36 của Nghị định số 248/2026/NĐ-CP, chủ quản nền tảng gửi hồ sơ đề nghị rút tiền ký quỹ tới Bộ Công Thương.
+    Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị rút tiền ký quỹ đầy đủ, hợp lệ, Bộ Công Thương ban hành văn bản chấp thuận cho chủ quản nền tảng rút tiền ký quỹ.
+    4. Trường hợp rút tiền ký quỹ quy định tại khoản 3 Điều 37 của Nghị định số 248/2026/NĐ-CP, sau thời hạn 90 ngày kể từ ngày Bộ Công Thương công khai xác nhận chấm dứt hoạt động của nền tảng trên Hệ thống quản lý hoạt động thương mại điện tử mà nhận được thông báo của cơ quan có thẩm quyền về việc nền tảng chưa hoàn thành nghĩa vụ theo quy định tại khoản 4 Điều 36 của Nghị định số 248/2026/NĐ-CP, Bộ Công Thương xem xét xử lý khoản tiền đã ký quỹ theo quy định tại Điều 39 của Nghị định số 248/2026/NĐ-CP và thông báo đến chủ quản nền tảng đó.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - a) Giấy đề nghị rút tiền ký quỹ theo Mẫu số 04 tại Phụ lục II của Nghị định số 248/2026/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Văn bản xác nhận ký quỹ tại ngân hàng thương mại tại Việt Nam hoặc chi nhánh ngân hàng nước ngoài tại Việt Nam nơi chủ quản nền tảng thực hiện ký quỹ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Tài liệu chứng minh đã hoàn thành việc bồi thường thiệt hại cho người tiêu dùng và thực hiện nghĩa vụ tài chính với Nhà nước (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận cho chủ quản nền tảng rút tiền ký quỹ.
+Căn cứ pháp lý:
+  * Nghị định số 248/2026/NĐ-CP ngày 30 tháng 6 năm 2026 của Chính phủ quy định chi tiết một số điều của Luật Thương mại điện tử. (248/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Chủ quản nền tảng thương mại điện tử tích hợp nước ngoài, nền tảng thương mại điện tử trung gian nước ngoài có chức năng đặt hàng trực tuyến, mạng xã hội hoạt động thương mại điện tử nước ngoài có chức năng đặt hàng trực tuyến có hoạt động thương mại điện tử tại Việt Nam theo quy định tại khoản 5 Điều 27 của Luật Thương mại điện tử được rút tiền ký quỹ khi có xác nhận của Bộ Công Thương về một trong các trường hợp sau đây:
+1. Chủ quản nền tảng đã thực hiện ký quỹ một khoản tiền ít nhất 20 tỷ đồng tại một ngân hàng thương mại tại Việt Nam hoặc chi nhánh ngân hàng nước ngoài tại Việt Nam khác; 
+2. Chủ quản nền tảng bị từ chối hồ sơ đăng ký nền tảng thương mại điện tử;
+3. Chủ quản nền tảng đã chấm dứt đăng ký và đã hoàn thành đầy đủ các nghĩa vụ quy định tại khoản 4 Điều 36 của Nghị định số 248/2026/NĐ-CP.
+Từ khóa: Không có thông tin
+Mô tả: Chủ quản nền tảng thương mại điện tử tích hợp nước ngoài, nền tảng thương mại điện tử trung gian nước ngoài có chức năng đặt hàng trực tuyến, mạng xã hội hoạt động thương mại điện tử nước ngoài có chức năng đặt hàng trực tuyến có hoạt động thương mại điện tử tại Việt Nam theo quy định tại khoản 5 Điều 27 của Luật Thương mại điện tử được rút tiền ký quỹ khi có xác nhận của Bộ Công Thương về một trong các trường hợp sau đây:
+1. Chủ quản nền tảng đã thực hiện ký quỹ một khoản tiền ít nhất 20 tỷ đồng tại một ngân hàng thương mại tại Việt Nam hoặc chi nhánh ngân hàng nước ngoài tại Việt Nam khác; 
+2. Chủ quản nền tảng bị từ chối hồ sơ đăng ký nền tảng thương mại điện tử;
+3. Chủ quản nền tảng đã chấm dứt đăng ký và đã hoàn thành đầy đủ các nghĩa vụ quy định tại khoản 4 Điều 36 của Nghị định số 248/2026/NĐ-CP.

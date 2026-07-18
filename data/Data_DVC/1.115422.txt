@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115422
+Số quyết định: 1617/QĐ-BCT
+Tên thủ tục: Thu hồi giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thương mại điện tử
+Trình tự thực hiện:
+    1. Việc nộp và nhận kết quả hồ sơ cấp phép, sửa đổi, bổ sung giấy phép, thu hồi giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại được thực hiện trực tuyến tại Cổng dịch vụ công quốc gia.
+    2. Tổ chức cung cấp dịch vụ có trách nhiệm theo dõi địa chỉ thư điện tử và tài khoản đã đăng ký với Cổng dịch vụ công quốc gia để cập nhật trạng thái hồ sơ và sửa đổi, bổ sung thông tin theo yêu cầu.
+    3. Quy trình đề nghị thu hồi giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại thực hiện theo quy trình 02 bước sau đây:
+    Bước 1: Đăng nhập Cổng dịch vụ công quốc gia, thực hiện đề nghị thu hồi giấy phép đã cấp theo mẫu và đính kèm tài liệu (nếu có) theo quy định.
+    Bước 2. Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, cơ quan có thẩm quyền cấp phép ban hành văn bản thu hồi giấy phép kinh doanh dịch vụ hoạt động chứng thực hợp đồng điện tử trong thương mại. Thông tin tổ chức bị thu hồi giấy phép được công khai tại Hệ thống quản lý hoạt động thương mại điện tử đã kết nối với Cổng dịch vụ công quốc gia.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - a) Tờ khai thông tin theo Mẫu số 03 tại Phụ lục II của Nghị định số 248/2026/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Tài liệu (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Văn bản thu hồi giấy phép kinh doanh dịch vụ hoạt động chứng thực hợp đồng điện tử trong thương mại. - Thông tin tổ chức cung cấp dịch vụ bị thu hồi giấy phép được công khai tại Hệ thống quản lý hoạt động thương mại điện tử đã kết nối với Cổng dịch vụ công quốc gia.
+Căn cứ pháp lý:
+  * Nghị định số 248/2026/NĐ-CP ngày 30 tháng 6 năm 2026 của Chính phủ quy định chi tiết một số điều của Luật Thương mại điện tử. (248/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Thu hồi giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại trong các trường hợp sau đây:
+a) Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại dừng cung cấp dịch vụ và có hồ sơ đề nghị thu hồi giấy phép kinh doanh cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại từ tổ chức cung cấp dịch vụ chứng thực trong thương mại theo quy định tại khoản 4 Điều này; 
+b) Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại có thực hiện hành vi vi phạm pháp luật mà phải chấm dứt hoạt động theo quy định của pháp luật về xử lý vi phạm hành chính.
+Từ khóa: Không có thông tin
+Mô tả: Thu hồi giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại trong các trường hợp sau đây:
+a) Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại dừng cung cấp dịch vụ và có hồ sơ đề nghị thu hồi giấy phép kinh doanh cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại từ tổ chức cung cấp dịch vụ chứng thực trong thương mại theo quy định tại khoản 4 Điều này; 
+b) Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại có thực hiện hành vi vi phạm pháp luật mà phải chấm dứt hoạt động theo quy định của pháp luật về xử lý vi phạm hành chính.

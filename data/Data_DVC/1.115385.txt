@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115385
+Số quyết định: 893/QĐ-TTPVHCC
+Tên thủ tục: Cấp phép hoạt động giáo dục đại học theo Luật Thủ đô
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giáo dục đại học
+Trình tự thực hiện:
+    -	Trường đại học gửi 01 bộ hồ sơ theo quy định qua Cổng Dịch vụ công quốc gia hoặc bưu chính hoặc trực tiếp đến Trung tâm phục vụ hành chính công thành phố Hà Nội;
+    -	Trong thời hạn 07 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, nếu hồ sơ không hợp lệ, Sở Giáo dục và Đào tạo có trách nhiệm thông báo bằng văn bản để trường đại học hoàn thiện hồ sơ;
+    -	Đối với hồ sơ hợp lệ, trong thời hạn 20 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Sở Giáo dục và Đào tạo tổ chức thẩm định thực tế các điều kiện cấp phép hoạt động giáo dục đại học.
+    Trong thời hạn 08 ngày làm việc, kể từ ngày có báo cáo thẩm định, nếu đủ điều kiện theo quy định, Sở Giáo dục và Đào tạo trình Chủ tịch Ủy ban nhân dân Thành phố quyết định việc cấp phép hoạt động giáo dục đại học cho trường đại học theo Mẫu số 07 Phụ lục I Nghị quyết; nếu chưa đủ điều kiện thì thông báo bằng văn bản cho trường đại học và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 28 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 28 ngày làm việc ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 28 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 28 ngày làm việc ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 28 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 28 ngày làm việc ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp phép hoạt động giáo dục đại học theo Mẫu số 05 Phụ lục I Nghị quyết số 15/2026/NQ-HĐND, trong đó xác định rõ phạm vi đề nghị cấp phép theo trình độ, ngành, lĩnh vực đào tạo, trụ sở chính, địa điểm đào tạo; thuyết minh các điều kiện bảo đảm chất lượng đào tạo.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Minh chứng chứng minh (Đối với các điều kiện đảm bảo theo quy định mà thông tin, dữ liệu chưa có trong cơ sở dữ liệu của cơ quan nhà nước hoặc chưa được kết nối, chia sẻ theo quy định của pháp luật.)
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Chủ tịch ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Chi nhánh Trung tâm phục vụ hành chính công Thành phố.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cấp phép hoạt động giáo dục đại học.
+Căn cứ pháp lý:
+  * Luật Thủ đô (02/2026/QH16)
+  * Về việc quy định trình tự, thủ tục thành lập, sáp nhập, chia, tách, giải thể, đổi tên, cấp phép hoạt động trong lĩnh vực giáo dục đại học, giáo dục nghề nghiệp trên địa bàn thành phố Hà Nội (thực hiện điểm a, b khoản 3 Điều 16 Luật Thủ đô) (15/2026/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Theo quy định của pháp luật về giáo dục đại học.
+Từ khóa: Không có thông tin
+Mô tả: Theo quy định của pháp luật về giáo dục đại học.

@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007631
+Số quyết định: 1435/QĐ-BTC
+Tên thủ tục: Thủ tục Đăng ký cấp Giấy chứng nhận đăng ký hành nghề kiểm toán (điều chỉnh)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Kế toán, kiểm toán
+Trình tự thực hiện:
+    - Bước 1: Nộp hồ sơ
+    - Bước 2: Thẩm định hồ sơ: Bộ Tài chính (Vụ CĐKT&KT) tiếp nhận hồ sơ và thẩm định hồ sơ.
+    - Bước 3: Nộp lệ phí.
+    - Bước 4: Cấp giấy chứng nhận đối người đủ điều kiện.
+    - Bước 5: Công khai danh sách trên trang điện tử của Bộ Tài chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 1200000 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 1200000 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 1200000 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Hồ sơ đề nghị điều chỉnh Giấy chứng nhận đăng ký hành nghề kiểm toán bao gồm: ]
+    - b) 02 ảnh màu 3x4cm được chụp trên nền trắng trong thời hạn không quá sáu (06) tháng tính đến ngày nộp hồ sơ đăng ký hành nghề kiểm toán.
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - 2/ Số lượng hồ sơ: 01 (bộ)
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - g) Bản thông tin cá nhân theo mẫu quy định tại Phụ lục số 05/ĐKHN ban hành kèm theo Thông tư 202/2012/TT-BTC nếu có thay đổi so với lần đăng ký hành nghề gần nhất.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Bản sao Giấy phép lao động tại Việt Nam của kiểm toán viên là người nước ngoài trừ trường hợp pháp luật lao động Việt Nam quy định không cần phải có giấy phép lao động.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - c) Bản sao hợp đồng lao động làm toàn bộ thời gian tại doanh nghiệp kiểm toán.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - h) Giấy chứng nhận đăng ký hành nghề kiểm toán cũ trừ trường hợp đã nộp lại Giấy chứng nhận đăng ký hành nghề khi hết hiệu lực hoặc không còn giá trị theo quy định tại khoản 4 Điều 14 Thông tư 202/2012/TT-BTC.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Đơn đề nghị điều chỉnh Giấy chứng nhận đăng ký hành nghề kiểm toán theo mẫu quy định tại Phụ lục số 03/ĐKHN ban hành kèm theo Thông tư 202/2012/TT-BTC.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Bản sao Quyết định thôi việc hoặc Quyết định chấm dứt hợp đồng lao động tại nơi làm việc trước doanh nghiệp kiểm toán.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký hành nghề kiểm toán
+Căn cứ pháp lý:
+  * Luật kiểm toán độc lập số 67/2011/QH12 (67/2011/QH12)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

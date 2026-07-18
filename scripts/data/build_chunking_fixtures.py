@@ -129,7 +129,7 @@ def main(argv: list[str] | None = None) -> int:
         f"p95_tokens={report['token_percentiles']['p95']} "
         f"max_tokens={report['token_percentiles']['p100']} "
         f"tokenizer={report['tokenizer_id']} "
-        f"review_status=needs_review"
+        f"approved={report['approved']} quarantined={report['quarantined']}"
     )
     return 0
 

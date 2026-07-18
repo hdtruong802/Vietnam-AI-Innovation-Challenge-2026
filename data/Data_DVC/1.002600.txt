@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002600
+Số quyết định: 2393/QĐ-BYT
+Tên thủ tục: Cấp số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm sản xuất trong nước
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Mỹ phẩm
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân chịu trách nhiệm đưa sản phẩm mỹ phẩm ra thị trường nộp hồ sơ công bố sản phẩm mỹ phẩm tại cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh nơi đặt nhà máy sản xuất (Sản phẩm mỹ phẩm được sản xuất, đóng gói từ bán thành phẩm nhập khẩu được coi như sản phẩm sản xuất trong nước) hoặc các cơ quan quy định tại điểm c khoản 1 Điều 7 Thông tư số 06/2011/TT-BYT (gọi tắt là cơ quan quản lý nhà nước có thẩm quyền0
+    Bước 2: Giải quyết hồ sơ công bố sản phẩm mỹ phẩm
+    a) Trong vòng 03 ngày làm việc kể từ ngày nhận được hồ sơ công bố hợp lệ và lệ phí công bố theo quy định, cơ quan quản lý nhà nước có thẩm quyền có trách nhiệm ban hành số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm.
+    b) Trường hợp hồ sơ công bố chưa đáp ứng theo quy định của Thông tư này thì trong vòng 05 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản cho tổ chức, cá nhân công bố biết các nội dung chưa đáp ứng để sửa đổi, bổ sung hồ sơ (nêu cụ thể các nội dung chưa đáp ứng).
+    Trong vòng 05 ngày làm việc kể từ ngày nhận được hồ sơ bổ sung đáp ứng theo quy định của Thông tư này, cơ quan quản lý nhà nước có thẩm quyền có trách nhiệm ban hành số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm.
+    Trường hợp hồ sơ sửa đổi, bổ sung không đáp ứng theo quy định của Thông tư này thì trong vòng 05 ngày làm việc kể từ ngày nhận được hồ sơ bổ sung, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản không cấp số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm cho sản phẩm này.
+    Hồ sơ bổ sung của đơn vị gồm:
+    - Văn bản giải trình về việc sửa đổi, bổ sung của tổ chức, cá nhân đứng tên công bố;
+    - Phiếu công bố sản phẩm mỹ phẩm kèm theo tài liệu khác được sửa đổi, bổ sung.
+    c) Trong thời gian 03 tháng kể từ ngày ban hành văn bản thông báo theo quy định tại điểm b khoản này, nếu cơ quan quản lý nhà nước có thẩm quyền không nhận được hồ sơ bổ sung của tổ chức, cá nhân đứng tên công bố thì hồ sơ công bố không còn giá trị. Trong trường hợp này, nếu tổ chức, cá nhân muốn tiếp tục công bố thì phải nộp hồ sơ mới và nộp lệ phí mới theo quy định
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ ()
+    Mô tả: 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ; 05 ngày làm việc đối với trường hợp hồ sơ phải bổ sung.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ ()
+    Mô tả: 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ; 05 ngày làm việc đối với trường hợp hồ sơ phải bổ sung.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ ()
+    Mô tả: 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ; 05 ngày làm việc đối với trường hợp hồ sơ phải bổ sung.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ ()
+    Mô tả: 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ; 05 ngày làm việc đối với trường hợp hồ sơ phải bổ sung.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ ()
+    Mô tả: 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ; 05 ngày làm việc đối với trường hợp hồ sơ phải bổ sung.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ ()
+    Mô tả: 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ; 05 ngày làm việc đối với trường hợp hồ sơ phải bổ sung.
+
+Thành phần hồ sơ:
+  [ Thành phần hồ sơ bao gồm ]
+    - - Phiếu công bố sản phẩm mỹ phẩm;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Giấy  ủy  quyền  của nhà sản xuất hoặc chủ sở hữu sản phẩm ủy quyền cho tổ chức, cá nhân chịu trách nhiệm đưa sản phẩm ra thị trường được phân phối sản phẩm mỹ phẩm tại Việt Nam;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - 1. Trường hợp miễn CFS bao gồm: - Sản phẩm mỹ phẩm được sản xuất tại nước thành viên Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương mà việc tham gia Hiệp định này đã được cơ quan có thẩm quyền của nước đó phê chuẩn và có hiệu lực (sau đây viết tắt là nước thành viên CPTPP);  - Sản phẩm mỹ phẩm được lưu hành và xuất khẩu từ nước thành viên CPTPP: Doanh nghiệp chịu trách nhiệm đưa sản phẩm ra thị trường phải nộp tài liệu chứng minh sản phẩm được lưu hành tại nước thành viên CPTPP do cơ quan có thẩm quyền nước thành viên CPTPP cấp (giấy phép lưu hành sản phẩm mỹ phẩm hoặc phiếu công bố sản phẩm mỹ phẩm đã được cấp số tiếp nhận hoặc văn bản pháp lý khác có chứng nhận sản phẩm được lưu hành tại nước thành viên CPTPP) được hợp pháp hoá lãnh sự theo quy định của pháp luật, trừ trường hợp giấy tờ pháp lý thuộc một trong các trường hợp sau đây:  + Được miễn hợp pháp hóa lãnh sự theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam (sau đây viết tắt là Việt Nam) là thành viên hoặc theo nguyên tắc có đi có lại giữa Việt Nam và quốc gia cấp;  + Được cơ quan ngoại giao nước ngoài hoặc cơ quan quản lý nhà nước về mỹ phẩm có thẩm quyền hoặc cơ quan cấp giấy tờ pháp lý của nước thành viên CPTPP gửi văn bản hoặc thư điện tử đến Cục Quản lý Dược xác nhận giấy tờ pháp lý;  + Doanh nghiệp chịu trách nhiệm đưa sản phẩm ra thị trường gửi kết quả tự tra cứu giấy tờ pháp lý từ trang thông tin điện tử (website tiếng Anh) của cơ quan cấp giấy tờ pháp lý của nước thành viên CPTPP có đóng dấu xác nhận của doanh nghiệp kèm theo văn bản cung cấp thông tin về đường dẫn tra cứu đến Cục Quản lý Dược. Doanh nghiệp phải chịu trách nhiệm trước pháp luật về tính hợp pháp, tính chính xác của các giấy tờ, thông tin này và kết quả tự tra cứu của doanh nghiệp;  - Sản phẩm mỹ phẩm đã được cấp số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm tại nước thuộc Hiệp hội các quốc gia Đông Nam Á (ASEAN): Doanh nghiệp chịu trách nhiệm đưa sản phẩm ra thị trường phải nộp Phiếu công bố sản phẩm mỹ phẩm đã được cấp số tiếp nhận tại nước thuộc ASEAN được hợp pháp hoá lãnh sự theo quy định của pháp luật, trừ trường hợp Phiếu công bố sản phẩm mỹ phẩm thuộc một trong các trường hợp sau đây:  + Được miễn hợp pháp hoá lãnh sự theo điều ước quốc tế mà Việt Nam là thành viên hoặc theo nguyên tắc có đi có lại giữa Việt Nam và quốc gia cấp; + Được cơ quan ngoại giao nước ngoài hoặc cơ quan quản lý nhà nước về mỹ phẩm có thẩm quyền hoặc cơ quan cấp Phiếu công bố sản phẩm mỹ phẩm của nước thành viên ASEAN gửi văn bản hoặc thư điện tử đến Cục Quản lý Dược xác nhận Phiếu công bố sản phẩm mỹ phẩm;  + Doanh nghiệp chịu trách nhiệm đưa sản phẩm ra thị trường gửi kết quả tự tra cứu Phiếu công bố sản phẩm mỹ phẩm từ website tiếng Anh của cơ quan quản lý có thẩm quyền của nước thành viên ASEAN cấp số Phiếu tiếp nhận công bố sản phẩm mỹ phẩm có đóng dấu xác nhận của doanh nghiệp kèm theo văn bản cung cấp thông tin về đường dẫn tra cứu đến Cục Quản lý Dược. Doanh nghiệp phải chịu trách nhiệm trước pháp luật về tính hợp pháp, tính chính xác của các giấy tờ, thông tin này và kết quả tự tra cứu của doanh nghiệp;  2. Ngoài các trường hợp miễn CFS nêu trên, hồ sơ công bố sản phẩm mỹ phẩm nhập khẩu phải có CFS đáp ứng các yêu cầu sau đây:  - CFS do cơ quan có thẩm quyền của nước sản xuất hoặc nước xuất khẩu mỹ phẩm vào Việt Nam cấp còn thời hạn hiệu lực (bản chính hoặc bản sao chứng thực). Trường hợp CFS không nêu thời hạn thì phải là bản được cấp trong vòng 24 tháng kể từ ngày cấp;  - CFS phải được hợp pháp hoá lãnh sự theo quy định của pháp luật, trừ trường hợp CFS đáp ứng một trong các quy định sau đây:  + Được miễn hợp pháp hóa lãnh sự theo điều ước quốc tế mà Việt Nam là thành viên hoặc theo nguyên tắc có đi có lại giữa Việt Nam và quốc gia cấp; + Có văn bản hoặc thư điện tử do cơ quan có thẩm quyền cấp CFS hoặc cơ quan ngoại giao nước ngoài gửi đến Cục Quản lý Dược có nội dung xác nhận thông tin của CFS;  - CFS phải có tối thiểu các thông tin quy định tại Điều 36 Luật quản lý ngoại thương và khoản 3 Điều 10 Nghị định số 69/2018/NĐ-CP ngày 15 tháng 5 năm 2018 của Chính phủ quy định chi tiết một số điều của Luật quản lý ngoại thương.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Giấy chứng nhận lưu hành tự do (CFS) đối với sản phẩm mỹ phẩm nhập khẩu được quy định như sau:
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Số tiếp nhận Phiếu công bố sản phẩm mỹ phẩm
+Căn cứ pháp lý:
+  * Thông tư 29/2020/TT-BYT (29/2020/TT-BYT)
+  * Thông tư 277/2016/TT-BTC Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong lĩnh vực dược, mỹ phẩm (277/2016/TT-BTC)
+  * Nghị định 93/2016/NĐ-CP- Quy định về điều kiện sản xuất mỹ phẩm (93/2016/NĐ-CP)
+  * 41/2023/TT-BTC (41/2023/TT-BTC)
+  * NGHỊ ĐỊNH 155/2018/NĐ-CP SỬA ĐỔI QUY ĐỊNH LIÊN QUAN ĐẾN ĐIỀU KIỆN KINH DOANH THUỘC BỘ Y TẾ (155/2018/NĐ-CP)
+  * Thông tư 06/2011/TT-BYT Quy định về quản lý mỹ phẩm (06/2011/TT-BYT)
+  * Thông tư số 34/2025/TT-BYT (34/2025/TT-BYT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

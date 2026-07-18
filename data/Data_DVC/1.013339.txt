@@ -1,0 +1,87 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013339
+Số quyết định: 312/QĐ-UBND
+Tên thủ tục: Hỗ trợ kinh phí chấm dứt sản xuất, chuyển đổi nghề nghiệp tại các cơ sở sản xuất gây ô nhiễm môi trường nghiêm trọng
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hỗ trợ doanh nghiệp nhỏ và vừa
+Trình tự thực hiện:
+    Bước 1:  Tiếp nhận hồ sơ (0,5 Ngày làm việc)
+    Cơ sở lập hồ sơ đề nghị hỗ trợ theo quy định tại Điều 5 Nghị quyết nộp hồ sơ tại về Chi nhánh Trung tâm Phục vụ Hành chính công huyện.
+    Cán bộ được giao phụ trách tiếp nhận hồ sơ kiểm tra tính đầy đủ của hồ sơ:
+    a) Trường hợp hồ sơ chưa đầy đủ thì cán bộ tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung đầy đủ theo quy định;
+    b) Trường hợp hồ sơ đã đầy đủ, trong thời hạn 0,5 ngày làm việc cán bộ tiếp nhận hồ sơ chuyển hồ sơ cho cơ quan chuyên môn giải quyết.
+    Bước 2: Thẩm định, phê duyệt:
+    *Phân công, xử lý hồ sơ (2 Ngày làm việc)
+    Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ UBND cấp huyện kiểm tra hồ sơ:
+    a) Trường hợp hồ sơ chưa hợp lệ: UBND cấp huyện có trách nhiệm trả lời tổ chức, cá nhân bằng văn bản và hướng dẫn chỉnh sửa, hoàn thiện hồ sơ (qua  Chi nhánh Trung tâm Phục vụ Hành chính công huyện). Thời hạn không quá 3 ngày làm việc, kể từ ngày nhận hồ sơ.
+    b) Trường hợp hồ sơ hợp lệ: UBND cấp huyện có văn bản gửi lấy ý kiến các cơ quan có liên quan;
+    *Thẩm định, phê duyệt (17 Ngày làm việc)
+    Ngay sau khi tiếp nhận hồ sơ hợp lệ,  Ủy ban nhân dân  cấp huyện xin ý kiến của các cơ quan có liên quan:
+    Các các cơ quan có liên quan có ý kiến bằng văn bản cho Ủy ban nhân dân cấp huyện trong thời gian 07 ngày làm việc tính từ ngày Ủy ban nhân dân cấp huyện có văn bản.
+    Trong thời gian 05 ngày làm việc tiếp theo, Ủy ban nhân dân cấp huyện xem xét ý kiến của các cơ quan có liên quan, thẩm định hồ sơ, tổ chức họp (nếu thấy cần thiết).
+    c) Căn cứ Hồ sơ hỗ trợ,  Ủy ban nhân dân cấp huyện Quyết định hỗ trợ kinh phí cho các cơ sở hoặc trường hợp không đủ điều kiện phải có văn bản trả lời. Thời gian giải quyết: 05 ngày làm việc.
+    Bước 3:  Trả kết quả  (0,5 ngày làm việc)
+    Trong thời hạn 0,5 ngày làm việc Ủy ban nhân cấp huyện trả kết quả cho tổ chức, cá nhân đề nghị hỗ trợ.
+    * Chi trả hỗ trợ (05 ngày làm việc)
+    Ủy ban nhân dân cấp huyện chủ trì, phối hợp với Kho bạc Nhà nước chịu trách nhiệm chi trả cho các cơ sở theo quyết định phê duyệt hỗ trợ kinh phí; quyết toán số kinh phí chi trả theo Luật ngân sách và quy định hiện hành; Trường hợp không đủ điều kiện: có trách nhiệm trả lời tổ chức, cá nhân bằng văn bản Trong thời hạn 05 ngày làm việc.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 20 ngày làm việc ban hành Quyết định hỗ trợ; 05 ngày làm việc thực hiện chi trả
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 20 ngày làm việc ban hành Quyết định hỗ trợ; 05 ngày làm việc thực hiện chi trả. Nộp hồ sơ trực tuyến toàn trình tại địa chỉ https://dvc.bacninh.gov.vn/.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 20 ngày làm việc ban hành Quyết định hỗ trợ; 05 ngày làm việc thực hiện chi trả
+
+Thành phần hồ sơ:
+  [ 1. Hồ sơ đề nghị hỗ trợ tự nguyện chấm dứt hoạt động, bao gồm: ]
+    - a) Văn bản đề nghị hỗ trợ kinh phí (theo Phụ lục 01 ban hành kèm theo).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - b) Giấy xác nhận của địa phương đối với các hộ kinh doanh, cá thể không có giấy phép đăng ký kinh doanh (bản chính).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - c) Biên bản kiểm tra chấm dứt hoạt động có xác nhận của Ủy ban nhân dân các huyện, thành phố; kèm theo xác nhận đã chấp hành vi phạm hành chính (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ 2. Hồ sơ đề nghị hỗ trợ lãi suất vay vốn: ]
+    - a)  Văn bản đề nghị hỗ trợ lãi suất vay vốn (theo Phụ lục 02 ban hành kèm theo).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - b)  Hợp đồng vay vốn tại các tổ chức tín dụng, Giấy nhận nợ tại các tổ chức tín dụng và chứng từ thanh toán cho tổ chức tín dụng.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - c) Bảng tính toán lãi suất đối với khoản vay để thực hiện dự án đầu tư tại vị trí mới đề nghị được hỗ trợ (bản chính).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - d) Bảng kê trả lãi vay có xác nhận của tổ chức tín dụng (bản chính);
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - đ)  Các giấy tờ có liên quan khác (bản phô tô).
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Chủ tịch UBND cấp xã
+Cơ quan có thẩm quyền: UBND huyện thành phố - thuộc tỉnh Bắc Ninh
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ Hành chính công tỉnh Bắc Ninh - Số 11A, đường Lý Thái Tổ, phường Suối Hoa, TP. Bắc Ninh, tỉnh Bắc Ninh
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hỗ trợ
+Căn cứ pháp lý:
+  * Nghị quyết quy định mức thu, chế độ thu, nộp và quản lý lệ phí hộ tịch trên địa bàn tỉnh Quảng Ngãi (01/2025/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: *Đối với Hỗ trợ các cơ sở chấm dứt hoạt động hoặc di dời:
+- Cơ sở đã chấm dứt hoạt động hoặc di dời và đã chấp hành việc xử lý vi phạm hành chính của cơ quan có thẩm quyền (nếu có);
+- Cơ cở sản xuất trong khu dân cư xã Văn Môn, xã Phú Lâm và phường Phong Khê; tại cụm công nghiệp Mẫn Xá, xã Văn Môn: Đã chấm dứt hoạt động trước ngày 31/12/2024.
+- Cơ sở sản xuất trong các cụm công nghiệp Phong Khê, xã Phú Lâm: Đã chấm dứt hoạt động trước ngày 31/3/2025.
+
+* Đối với Hỗ trợ lãi xuất vay vốn ngân hàng:
+- Cơ sở sản xuất dời ra khỏi tỉnh Bắc Ninh hoặc chuyển đổi nghề nghiệp khác có dự án mới và phải vay vốn ngân hàng; đồng thời đã chấp hành việc xử lý vi phạm hành chính của cơ quan có thẩm quyền (nếu có)
+Từ khóa: Không có thông tin
+Mô tả: *Đối với Hỗ trợ các cơ sở chấm dứt hoạt động hoặc di dời:
+- Cơ sở đã chấm dứt hoạt động hoặc di dời và đã chấp hành việc xử lý vi phạm hành chính của cơ quan có thẩm quyền (nếu có);
+- Cơ cở sản xuất trong khu dân cư xã Văn Môn, xã Phú Lâm và phường Phong Khê; tại cụm công nghiệp Mẫn Xá, xã Văn Môn: Đã chấm dứt hoạt động trước ngày 31/12/2024.
+- Cơ sở sản xuất trong các cụm công nghiệp Phong Khê, xã Phú Lâm: Đã chấm dứt hoạt động trước ngày 31/3/2025.
+
+* Đối với Hỗ trợ lãi xuất vay vốn ngân hàng:
+- Cơ sở sản xuất dời ra khỏi tỉnh Bắc Ninh hoặc chuyển đổi nghề nghiệp khác có dự án mới và phải vay vốn ngân hàng; đồng thời đã chấp hành việc xử lý vi phạm hành chính của cơ quan có thẩm quyền (nếu có)

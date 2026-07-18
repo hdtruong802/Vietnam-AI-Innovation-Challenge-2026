@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013834
+Số quyết định: 1859/QĐ-BTP
+Tên thủ tục: Thành lập Văn phòng công chứng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công chứng
+Trình tự thực hiện:
+    - Công chứng viên đủ điều kiện theo quy định tại Điều 24 của Luật Công chứng lập 01 bộ hồ sơ, nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử về Sở Tư pháp nơi Văn phòng công chứng dự kiến đặt trụ sở.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp có văn bản trình Ủy ban nhân dân cấp tỉnh xem xét, quyết định; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Sở Tư pháp và hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép thành lập Văn phòng công chứng; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.
+    - Trường hợp thông tin trong hồ sơ đề nghị thành lập Văn phòng công chứng chưa đầy đủ, chưa thống nhất, Sở Tư pháp hoặc Ủy ban nhân dân cấp tỉnh yêu cầu người nộp hồ sơ bổ sung, làm rõ. Thời hạn quy định tại khoản này được tính từ ngày Sở Tư pháp hoặc Ủy ban nhân dân cấp tỉnh nhận được kết quả bổ sung, làm rõ thông tin.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị thành lập Văn phòng công chứng (Mẫu 09 ban hành kèm theo Thông tư 05/2025/TT-BTP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử giấy tờ chứng minh đã hành nghề công chứng từ đủ 02 năm trở lên đối với công chứng viên dự kiến làm Trưởng Văn phòng công chứng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề án thành lập Văn phòng công chứng, trong đó nêu rõ sự cần thiết thành lập, dự kiến về tổ chức, tên, nhân sự, địa điểm đặt trụ sở, các điều kiện vật chất và kế hoạch triển khai thực hiện đề án thành lập Văn phòng công chứng; giá trị và tỷ lệ góp vốn, xác định thời hạn góp vốn trước ngày Văn phòng công chứng nộp hồ sơ đăng ký hoạt động đối với Văn phòng công chứng theo loại hình công ty hợp danh; thông tin về vốn đầu tư của Trưởng Văn phòng công chứng đối với Văn phòng công chứng theo loại hình doanh nghiệp tư nhân
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử Quyết định bổ nhiệm của các công chứng viên hợp danh dự kiến và dự thảo Điều lệ Văn phòng công chứng đối với Văn phòng công chứng theo loại hình công ty hợp danh; quyết định bổ nhiệm của công chứng viên dự kiến làm Trưởng Văn phòng công chứng đối với Văn phòng công chứng theo loại hình doanh nghiệp tư nhân
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Tư pháp
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cho phép thành lập văn phòng công chứng
+Căn cứ pháp lý:
+  * Nghị định số 104/2025/NĐ-CP ngày 15/5/2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Công chứng (104/2025/NĐ-CP)
+  * Luật Công chứng năm 2024 (46/2024/QH15)
+  * Thông tư 05/2025/TT-BTP hướng dẫn Luật Công chứng do Bộ trưởng Bộ Tư pháp ban hành (05/2025/TT-BTP)
+
+Yêu cầu, điều kiện thực hiện: Công chứng viên thuộc một trong các trường hợp sau đây không được thành lập, tham gia thành lập Văn phòng công chứng mới:
+- Đang là viên chức của Phòng công chứng;
+- Đang là thành viên hợp danh của 01 Văn phòng công chứng;
+- Đang là Trưởng Văn phòng công chứng của Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân;
+- Chưa hết thời hạn 02 năm theo quy định tại khoản 6 Điều 27, khoản 5 Điều 31 và khoản 4 Điều 34 của Luật Công chứng năm 2024.
+Từ khóa: Không có thông tin
+Mô tả: Công chứng viên thuộc một trong các trường hợp sau đây không được thành lập, tham gia thành lập Văn phòng công chứng mới:
+- Đang là viên chức của Phòng công chứng;
+- Đang là thành viên hợp danh của 01 Văn phòng công chứng;
+- Đang là Trưởng Văn phòng công chứng của Văn phòng công chứng được tổ chức và hoạt động theo loại hình doanh nghiệp tư nhân;
+- Chưa hết thời hạn 02 năm theo quy định tại khoản 6 Điều 27, khoản 5 Điều 31 và khoản 4 Điều 34 của Luật Công chứng năm 2024.

@@ -1,0 +1,107 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115155
+Số quyết định: 1392/QĐ-BTC
+Tên thủ tục: Đề nghị việc chào bán trái phiếu ra thị trường quốc tế của công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+  * Trình tự thực hiện:
+    + Bước 1: Công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán nộp hồ sơ đăng ký chào bán trái phiếu ra thị trường quốc tế của công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán;
+    + Bước 2: Ủy ban Chứng khoán Nhà nước (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ.
+    + Bước 3: Ủy ban Chứng khoán Nhà nước tiếp nhận và kiểm tra hồ sơ. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Ủy ban Chứng khoán Nhà nước thông báo cho doanh nghiệp phát hành về việc nhận được đầy đủ hồ sơ; trường hợp hồ sơ chưa hợp lệ, Ủy ban Chứng khoán Nhà nước thông báo cho doanh nghiệp và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ.
+
+Thành phần hồ sơ:
+  [ 1. Doanh nghiệp phát hành chuẩn bị hồ sơ đề nghị việc đăng ký chào bán trái phiếu không chuyển đổi, không kèm chứng quyền ra thị trường quốc tế theo quy định tại Điều 24 Nghị định này ]
+    - + Phương án phát hành trái phiếu được cấp có thẩm quyền phê duyệt, chấp thuận theo quy định tại khoản 2 Điều 10 Nghị định này và Quyết định phê duyệt, chấp thuận phương án phát hành trái phiếu của cấp có thẩm quyền.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản của Ngân hàng Nhà nước Việt Nam xác nhận hạn mức phát hành nằm trong tổng hạn mức vay thương mại nước ngoài của quốc gia
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản phê duyệt, chấp thuận phương án phát hành trái phiếu của cấp có thẩm quyền đối với doanh nghiệp phát hành thuộc ngành nghề kinh doanh có điều kiện theo quy định của pháp luật chuyên ngành.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo tài chính được lập theo các chuẩn mực quốc tế về kế toán hoặc khuôn khổ lập báo cáo tài chính theo quy định của thị trường mà doanh nghiệp dự kiến phát hành trong trường hợp thị trường phát hành yêu cầu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Tài liệu chứng minh bảo đảm điều kiện về tỷ lệ an toàn tài chính, tỷ lệ bảo đảm an toàn trong hoạt động theo quy định của pháp luật chuyên ngành.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hồ sơ đăng ký chào bán với cơ quan có thẩm quyền tại thị trường phát hành hoặc ý kiến pháp lý của công ty tư vấn luật quốc tế về việc doanh nghiệp không phải đăng ký với cơ quan có thẩm quyền nước sở tại khi phát hành trái phiếu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy đề nghị việc đăng ký chào bán trái phiếu ra thị trường quốc tế theo Mẫu số 02 Phụ lục ban hành kèm theo Nghị định này và Quyết định của Hội đồng quản trị hoặc Hội đồng thành viên hoặc Chủ tịch công ty thông qua hồ sơ trong trường hợp doanh nghiệp phát hành là công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 2. Hồ sơ đề nghị việc đăng ký chào bán trái phiếu chuyển đổi, trái phiếu kèm chứng quyền ra thị trường quốc tế theo quy định tại Điều 26 Nghị định này: ]
+    - + Phương án phát hành trái phiếu được cấp có thẩm quyền phê duyệt, chấp thuận theo quy định tại khoản 2 Điều 10 Nghị định này và Quyết định phê duyệt, chấp thuận phương án phát hành trái phiếu của cấp có thẩm quyền.  Phương án phát hành phải nêu rõ: phương án chuyển đổi trái phiếu (điều kiện, thời hạn, tỷ lệ hoặc phương pháp tính giá chuyển đổi, việc trả nợ trong trường hợp không chuyển đổi trái phiếu, thông qua hoặc ủy quyền cho Hội đồng quản trị thông qua phương án đảm bảo việc phát hành cổ phiếu để chuyển đổi đáp ứng quy định về tỷ lệ sở hữu nước ngoài, các điều khoản khác); phương án thực hiện quyền của chứng quyền (điều kiện, thời hạn, tỷ lệ thực hiện quyền, giá hoặc phương pháp tính giá phát hành, việc trả nợ, thông qua hoặc ủy quyền cho Hội đồng quản trị thông qua phương án đảm bảo việc phát hành cổ phiếu để thực hiện quyền đáp ứng quy định về tỷ lệ sở hữu nước ngoài; các điều khoản khác). Những người có quyền lợi liên quan đến đợt chào bán trái phiếu không được tham gia biểu quyết.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Quyết định của Đại hội đồng cổ đông hoặc Hội đồng quản trị (trong trường hợp được Đại hội đồng cổ đông ủy quyền) thông qua phương án đảm bảo việc phát hành cổ phiếu để chuyển đổi trái phiếu thành cổ phiếu, thực hiện quyền kèm theo chứng quyền phải đáp ứng quy định về tỷ lệ sở hữu nước ngoài.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Cam kết của doanh nghiệp phát hành về việc không vi phạm quy định về sở hữu chéo của Luật Doanh nghiệp số 59/2020/QH14 tại thời điểm chuyển đổi trái phiếu thành cổ phiếu, thời điểm thực hiện quyền của chứng quyền.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy đề nghị việc đăng ký chào bán trái phiếu ra thị trường quốc tế theo Mẫu số 02 Phụ lục ban hành kèm theo Nghị định này và Quyết định của Hội đồng quản trị thông qua hồ sơ trong trường hợp doanh nghiệp phát hành là công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản của Ngân hàng Nhà nước Việt Nam xác nhận hạn mức phát hành nằm trong tổng hạn mức vay thương mại nước ngoài của quốc gia.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản phê duyệt, chấp thuận phương án phát hành trái phiếu của cấp có thẩm quyền đối với doanh nghiệp phát hành thuộc ngành nghề kinh doanh có điều kiện theo quy định của pháp luật chuyên ngành.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo tài chính được lập theo các chuẩn mực quốc tế về kế toán hoặc khuôn khổ lập báo cáo tài chính theo quy định của thị trường mà doanh nghiệp dự kiến phát hành trong trường hợp thị trường phát hành yêu cầu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Tài liệu chứng minh bảo đảm điều kiện về tỷ lệ an toàn tài chính, tỷ lệ bảo đảm an toàn trong hoạt động theo quy định của pháp luật chuyên ngành.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hồ sơ đăng ký chào bán với cơ quan có thẩm quyền tại thị trường phát hành hoặc ý kiến pháp lý của công ty tư vấn luật quốc tế về việc doanh nghiệp không phải đăng ký với cơ quan có thẩm quyền nước sở tại khi phát hành trái phiếu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Số 164 Trần Quang Khải, phường Lý Thái Tổ, quận Hoàn Kiếm, Thành phố Hà Nội.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công văn từ chối, nêu rõ lý do, Công văn thông báo
+Căn cứ pháp lý:
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+  * Nghị định sửa đổi, bổ sung một số điều của Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chứng khoán (245/2025/NĐ-CP)
+  * định về chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ tại thị trường trong nước và chào bán trái phiếu doanh nghiệp ra thị trường quốc tế. (200/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Điều kiện chào bán trái phiếu không chuyển đổi, không kèm chứng quyền ra thị trường quốc tế
++ Doanh nghiệp phát hành là công ty cổ phần hoặc công ty trách nhiệm hữu hạn được thành lập và hoạt động theo pháp luật Việt Nam.
++ Có phương án phát hành trái phiếu được cấp có thẩm quyền phê duyệt, chấp thuận theo quy định tại khoản 2 Điều 10 Nghị định này.
++ Được cơ quan có thẩm quyền phê duyệt, chấp thuận phương án phát hành đối với doanh nghiệp phát hành thuộc ngành nghề kinh doanh có điều kiện theo quy định của pháp luật chuyên ngành.
++ Đáp ứng tỷ lệ an toàn tài chính, tỷ lệ bảo đảm an toàn trong hoạt động theo quy định của pháp luật chuyên ngành.
++ Tuân thủ quy định về quản lý vay, trả nợ nước ngoài của doanh nghiệp không được Chính phủ bảo lãnh và pháp luật về quản lý ngoại hối.
++ Đáp ứng các điều kiện chào bán theo quy định tại thị trường phát hành.
+Điều kiện chào bán trái phiếu chuyển đổi, trái phiếu kèm chứng quyền ra thị trường quốc tế
++ Có phương án phát hành trái phiếu được cấp có thẩm quyền phê duyệt, chấp thuận theo quy định tại khoản 2 Điều 10 Nghị định này.
++ Được cơ quan có thẩm quyền phê duyệt, chấp thuận phương án phát hành đối với doanh nghiệp phát hành thuộc ngành nghề kinh doanh có điều kiện theo quy định của pháp luật chuyên ngành.
++ Đáp ứng tỷ lệ an toàn tài chính, tỷ lệ bảo đảm an toàn trong hoạt động theo quy định của pháp luật chuyên ngành.
++ Tuân thủ quy định về quản lý vay, trả nợ nước ngoài của doanh nghiệp không được Chính phủ bảo lãnh và pháp luật về quản lý ngoại hối.
++ Đáp ứng các điều kiện chào bán theo quy định tại thị trường phát hành.
++ Việc chuyển đổi trái phiếu thành cổ phiếu, thực hiện quyền kèm theo chứng quyền phải đáp ứng quy định về tỷ lệ sở hữu của nhà đầu tư nước ngoài theo quy định của pháp luật.
++ Đợt chào bán trái phiếu chuyển đổi, trái phiếu kèm chứng quyền của công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán phải cách ít nhất 06 tháng kể từ ngày kết thúc đợt chào bán, phát hành riêng lẻ gần nhất, bao gồm: chào bán cổ phiếu riêng lẻ; chào bán trái phiếu chuyển đổi riêng lẻ; chào bán trái phiếu kèm chứng quyền riêng lẻ; chào bán cổ phiếu ưu đãi kèm chứng quyền riêng lẻ; phát hành cổ phiếu để hoán đổi cổ phần cho cổ đông công ty cổ phần chưa đại chúng, hoán đổi phần vốn góp cho thành viên góp vốn của công ty trách nhiệm hữu hạn; phát hành cổ phiếu để hoán đổi cổ phần cho số cổ đông xác định trong công ty đại chúng; phát hành cổ phiếu để hoán đổi nợ
+Từ khóa: Không có thông tin
+Mô tả: Điều kiện chào bán trái phiếu không chuyển đổi, không kèm chứng quyền ra thị trường quốc tế
++ Doanh nghiệp phát hành là công ty cổ phần hoặc công ty trách nhiệm hữu hạn được thành lập và hoạt động theo pháp luật Việt Nam.
++ Có phương án phát hành trái phiếu được cấp có thẩm quyền phê duyệt, chấp thuận theo quy định tại khoản 2 Điều 10 Nghị định này.
++ Được cơ quan có thẩm quyền phê duyệt, chấp thuận phương án phát hành đối với doanh nghiệp phát hành thuộc ngành nghề kinh doanh có điều kiện theo quy định của pháp luật chuyên ngành.
++ Đáp ứng tỷ lệ an toàn tài chính, tỷ lệ bảo đảm an toàn trong hoạt động theo quy định của pháp luật chuyên ngành.
++ Tuân thủ quy định về quản lý vay, trả nợ nước ngoài của doanh nghiệp không được Chính phủ bảo lãnh và pháp luật về quản lý ngoại hối.
++ Đáp ứng các điều kiện chào bán theo quy định tại thị trường phát hành.
+Điều kiện chào bán trái phiếu chuyển đổi, trái phiếu kèm chứng quyền ra thị trường quốc tế
++ Có phương án phát hành trái phiếu được cấp có thẩm quyền phê duyệt, chấp thuận theo quy định tại khoản 2 Điều 10 Nghị định này.
++ Được cơ quan có thẩm quyền phê duyệt, chấp thuận phương án phát hành đối với doanh nghiệp phát hành thuộc ngành nghề kinh doanh có điều kiện theo quy định của pháp luật chuyên ngành.
++ Đáp ứng tỷ lệ an toàn tài chính, tỷ lệ bảo đảm an toàn trong hoạt động theo quy định của pháp luật chuyên ngành.
++ Tuân thủ quy định về quản lý vay, trả nợ nước ngoài của doanh nghiệp không được Chính phủ bảo lãnh và pháp luật về quản lý ngoại hối.
++ Đáp ứng các điều kiện chào bán theo quy định tại thị trường phát hành.
++ Việc chuyển đổi trái phiếu thành cổ phiếu, thực hiện quyền kèm theo chứng quyền phải đáp ứng quy định về tỷ lệ sở hữu của nhà đầu tư nước ngoài theo quy định của pháp luật.
++ Đợt chào bán trái phiếu chuyển đổi, trái phiếu kèm chứng quyền của công ty đại chúng, công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán phải cách ít nhất 06 tháng kể từ ngày kết thúc đợt chào bán, phát hành riêng lẻ gần nhất, bao gồm: chào bán cổ phiếu riêng lẻ; chào bán trái phiếu chuyển đổi riêng lẻ; chào bán trái phiếu kèm chứng quyền riêng lẻ; chào bán cổ phiếu ưu đãi kèm chứng quyền riêng lẻ; phát hành cổ phiếu để hoán đổi cổ phần cho cổ đông công ty cổ phần chưa đại chúng, hoán đổi phần vốn góp cho thành viên góp vốn của công ty trách nhiệm hữu hạn; phát hành cổ phiếu để hoán đổi cổ phần cho số cổ đông xác định trong công ty đại chúng; phát hành cổ phiếu để hoán đổi nợ

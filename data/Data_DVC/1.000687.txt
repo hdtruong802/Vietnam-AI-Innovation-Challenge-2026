@@ -1,0 +1,40 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000687
+Số quyết định: 1728a/QĐ-NHNN
+Tên thủ tục: Chấp thuận gia hạn khoản vay cầm cố giấy tờ có giá tại tổ chức tín dụng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động tiền tệ
+Trình tự thực hiện:
+    - Bước 1:
+    Tổ chức tín dụng có nhu cầu gia hạn khoản vay cầm cố gửi hồ sơ tới Ngân hàng Nhà nước.
+    - Bước 2:
+    Căn cứ vào hồ sơ đề nghị gia hạn khoản vay cầm cố của tổ chức tín dụng, Ngân hàng Nhà nước xem xét gia hạn khoản vay cầm cố.
+    - Bước 3:
+    Trong thời hạn tối đa 02 ngày làm việc kể từ ngày nhận được văn bản đề nghị gia hạn khoản vay cầm cố, Ngân hàng Nhà nước có thông báo bằng văn bản cho tổ chức tín dụng đề nghị gia hạn về việc chấp thuận hoặc không chấp thuận gia hạn khoản vay cầm cố.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị gia hạn khoản vay cầm cố (trong đó giải trình rõ lý do đề nghị gia hạn).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản không chấp thuận gia hạn khoản vay cầm cố, Văn bản chấp thuận gia hạn khoản vay cầm cố
+Căn cứ pháp lý:
+  * Thông tư 17/2011/TT-NHNN (17/2011/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

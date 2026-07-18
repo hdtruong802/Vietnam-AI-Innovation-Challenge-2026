@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008567
+Số quyết định: 1767/QĐ-BTC
+Tên thủ tục: Thủ tục lựa chọn doanh nghiệp đăng ký, điều chỉnh, chấm dứt việc bán hàng hoàn thuế giá trị gia tăng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+  * Trường hợp lựa chọn doanh nghiệp đăng ký, điều chỉnh việc bán hàng hoàn thuế giá trị gia tăng
+    - Bước 1: Doanh nghiệp, chi nhánh của doanh nghiệp gửi hồ sơ đăng ký, điều chỉnh (công văn đăng ký tham gia hoặc công văn điều chỉnh việc bán hàng theo mẫu số 01/HTGTGT Phụ lục I Thông tư số 84/2026/TT-BTC ngày 30/6/2026 của Bộ trưởng Bộ Tài chính và tài liệu kèm theo) đến cơ quan thuế quản lý trực tiếp doanh nghiệp, chi nhánh hoặc qua Hệ thống thông tin giải quyết thủ tục hành chính ngành Thuế.
+    Trường hợp chi nhánh của doanh nghiệp khác tỉnh, thành phố với trụ sở chính đăng ký, điều chỉnh bán hàng hoàn thuế kê khai thuế giá trị gia tăng tại địa bàn khác tỉnh, thành phố nơi có trụ sở chính, thì chi nhánh của doanh nghiệp gửi hồ sơ đăng ký, điều chỉnh đến cơ quan thuế quản lý trực tiếp chi nhánh của doanh nghiệp.
+    Trường hợp chi nhánh của doanh nghiệp hạch toán tập trung tại trụ sở chính và phân bổ số thuế phải nộp cho các tỉnh nơi được hưởng nguồn thu thì doanh nghiệp gửi hồ sơ đăng ký, điều chỉnh đến cơ quan thuế quản lý trực tiếp trụ sở chính.
+    - Bước 2: Cơ quan thuế quản lý trực tiếp doanh nghiệp, chi nhánh của doanh nghiệp tiếp nhận, kiểm tra hồ sơ và xử lý như sau:
+    Trường hợp hồ sơ chưa đầy đủ, trong thời hạn 03 (ba) ngày làm việc, kể từ ngày tiếp nhận hồ sơ có văn bản thông báo cho doanh nghiệp bổ sung hồ sơ;
+    Trường hợp hồ sơ không đáp ứng tiêu chuẩn quy định, trong thời hạn 07 (bảy) ngày làm việc, kể từ ngày nhận đủ hồ sơ có văn bản trả lời cho doanh nghiệp, chi nhánh của doanh nghiệp;
+    Trường hợp hồ sơ đầy đủ, đáp ứng các tiêu chuẩn quy định, trong thời hạn 07 (bảy) ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan thuế quản lý trực tiếp có văn bản công nhận theo Mẫu số 02/HTGTGT Phụ lục I Thông tư số 84/2026/TT-BTC ngày 30/6/2026 của Bộ trưởng Bộ Tài chính và gửi cho doanh nghiệp, chi nhánh của doanh nghiệp đồng thời gửi cho cơ quan thuế có liên quan.
+  * Trường hợp chấm dứt việc bán hàng hoàn thuế giá trị gia tăng
+    - Bước 1: Chậm nhất 30 (ba mươi) ngày trước ngày chấm dứt việc bán hàng hoàn thuế, doanh nghiệp, chi nhánh của doanh nghiệp gửi công văn thông báo chấm dứt việc bán hàng hoàn thuế giá trị gia tăng cho người nước ngoài đến cơ quan thuế đã chấp nhận hồ sơ đăng ký của doanh nghiệp, chi nhánh của doanh nghiệp bằng phương thức điện tử qua Hệ thống thông tin giải quyết thủ tục hành chính ngành Thuế hoặc gửi trực tiếp.
+    - Bước 2: Trong vòng 30 (ba mươi) ngày làm việc kể từ ngày nhận được công văn của doanh nghiệp, chi nhánh của doanh nghiệp cơ quan thuế quản lý trực tiếp kiểm tra, có văn bản gửi doanh nghiệp, chi nhánh của doanh nghiệp cơ quan thuế có liên quan, cơ quan hải quan, ngân hàng thương mại thông báo về việc chấm dứt bán hàng hoàn thuế đối với doanh nghiệp.
+    Trường hợp doanh nghiệp, chi nhánh của doanh nghiệp vi phạm các quy định về việc bán hàng hoàn thuế giá trị gia tăng theo quy định tại khoản 1 Điều 10 Thông tư số 84/2026/TT-BTC ngày 30/6/2026 của Bộ trưởng Bộ Tài chính, cơ quan thuế đã chấp nhận hồ sơ đăng ký của doanh nghiệp, chi nhánh của doanh nghiệp xem xét quyết định chấm dứt việc bán hàng hoàn thuế của doanh nghiệp.
+    - Bước 3: Doanh nghiệp tháo bỏ Biển thông báo doanh nghiệp bán hàng hoàn thuế giá trị gia tăng cho người nước ngoài đã dán tại cửa hàng khi chấm dứt bán hàng hoàn thuế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Qua Hệ thống thông tin giải quyết thủ tục hành chính ngành Thuế
+- Trường hợp lựa chọn doanh nghiệp đăng ký, điều chỉnh việc bán hàng hoàn thuế giá trị gia tăng: 07 (bảy) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+- Trường hợp chấm dứt việc bán hàng hoàn thuế giá trị gia tăng: 30 (ba mươi) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Tại cơ quan thuế quản lý trực tiếp doanh nghiệp, chi nhánh
+- Trường hợp lựa chọn doanh nghiệp đăng ký, điều chỉnh việc bán hàng hoàn thuế giá trị gia tăng: 07 (bảy) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+- Trường hợp chấm dứt việc bán hàng hoàn thuế giá trị gia tăng: 30 (ba mươi) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+  [ Trường hợp chấm dứt việc bán hàng hoàn thuế ]
+    - Công văn thông báo chấm dứt việc bán hàng hoàn thuế giá trị gia tăng cho người nước ngoài
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp điều chỉnh việc bán hàng hoàn thuế ]
+    - Hợp đồng bán hàng đại lý ký giữa doanh nghiệp đăng ký bán hàng với đại lý bán hàng cho doanh nghiệp (đối với trường hợp là đại lý bán hàng cho doanh nghiệp)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Công văn đăng ký tham gia hoặc công văn điều chỉnh việc bán hàng theo mẫu quy định tại mẫu số 01/HTGTGT Phụ lục I Thông tư số 84/2026/TT-BTC ngày 30/6/2026 của Bộ trưởng Bộ Tài chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Cục Thuế - Bộ tài chính, Thuế tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản gửi doanh nghiệp, chi nhánh của doanh nghiệp cơ quan thuế có liên quan, cơ quan hải quan, ngân hàng thương mại thông báo về việc chấm dứt bán hàng hoàn thuế đối với doanh nghiệp., Văn bản không chấp thuận, lý do, Văn bản công nhận theo Mẫu số 02/HTGTGT Phụ lục I Thông tư số 84/2026/TT-BTC ngày 30/6/2026 của Bộ trưởng Bộ Tài chính.
+Căn cứ pháp lý:
+  * Nghị định số 181/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thuế giá trị gia tăng (181/2025/NĐ-CP)
+  * Quy định về hoàn thuế giá trị gia tăng đối với hàng hóa của người nước ngoài, người Việt Nam định cư ở nước ngoài mua tại Việt Nam mang theo khi xuất cảnh. (84/2026/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Khoản 1 Điều 10 Thông tư số 84/2026/TT-BTC ngày 30/6/2026 của Bộ trưởng Bộ Tài chính của Bộ Tài chính 
+Doanh nghiệp bán hàng hoàn thuế giá trị gia tăng có:
+- Được thành lập và hoạt động theo quy định của pháp luật Việt Nam, có đăng ký bán hàng hoàn thuế giá trị gia tăng, kinh doanh các mặt hàng được hoàn thuế theo quy định tại khoản 1 Phụ lục IV ban hành kèm theo Nghị định số 181/2025/NĐ-CP tại một trong các địa điểm sau đây:
++ Trụ sở chính của doanh nghiệp; 
++ Chi nhánh của doanh nghiệp; 
++ Địa điểm đặt đại lý bán hàng cho doanh nghiệp;
++ Địa điểm kinh doanh/ cửa hàng của doanh nghiệp.
+- Thực hiện chế độ kế toán, hoá đơn, chứng từ theo quy định của pháp luật; kê khai, nộp thuế giá trị gia tăng theo phương pháp khấu trừ.
+- Cam kết tham gia vào Hệ thống theo quy định tại Điều 3 Thông tư số 84/2026/TT-BTC ngày 30/6/2026 của Bộ trưởng Bộ Tài chính.
+Từ khóa: Không có thông tin
+Mô tả: Khoản 1 Điều 10 Thông tư số 84/2026/TT-BTC ngày 30/6/2026 của Bộ trưởng Bộ Tài chính của Bộ Tài chính 
+Doanh nghiệp bán hàng hoàn thuế giá trị gia tăng có:
+- Được thành lập và hoạt động theo quy định của pháp luật Việt Nam, có đăng ký bán hàng hoàn thuế giá trị gia tăng, kinh doanh các mặt hàng được hoàn thuế theo quy định tại khoản 1 Phụ lục IV ban hành kèm theo Nghị định số 181/2025/NĐ-CP tại một trong các địa điểm sau đây:
++ Trụ sở chính của doanh nghiệp; 
++ Chi nhánh của doanh nghiệp; 
++ Địa điểm đặt đại lý bán hàng cho doanh nghiệp;
++ Địa điểm kinh doanh/ cửa hàng của doanh nghiệp.
+- Thực hiện chế độ kế toán, hoá đơn, chứng từ theo quy định của pháp luật; kê khai, nộp thuế giá trị gia tăng theo phương pháp khấu trừ.
+- Cam kết tham gia vào Hệ thống theo quy định tại Điều 3 Thông tư số 84/2026/TT-BTC ngày 30/6/2026 của Bộ trưởng Bộ Tài chính.

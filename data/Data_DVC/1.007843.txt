@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007843
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hoá đã xuất khẩu nhưng bị trả lại
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    + Bước 1: Người khai hải quan thực hiện việc mở tờ khai hải quan đối với hàng hoá xuất khẩu nhưng bị trả lại.
+    + Bước 2: Cơ quan hải quan quyết định thông quan cho tờ khai hàng hoá.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20 VNĐ ()
+
+Thành phần hồ sơ:
+    - b) Chứng từ vận tải trong trường hợp hàng hóa vận chuyển bằng đường biển, đường hàng không, đường sắt: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - c) Văn bản của bên nước ngoài thông báo hàng bị trả lại hoặc văn bản của hãng tàu/đại lý hãng tàu thông báo không có người nhận hàng: 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - a) Tờ khai hải quan hàng hóa nhập khẩu;
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thông quan
+Căn cứ pháp lý:
+  * Thông tư 172/2010/TT-BTC (172/2010/TT-BTC)
+  * Về giao dịch điện tử trong hoạt động tài chính (27/2007/NĐ-CP)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Luật 51/2005/QH11 (51/2005/QH11)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

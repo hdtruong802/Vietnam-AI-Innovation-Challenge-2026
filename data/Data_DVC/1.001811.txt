@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001811
+Số quyết định: 987/QĐ-NHNN
+Tên thủ tục: Thủ tục đăng ký giao dịch ngoại hối liên quan đến đầu tư ra nước ngoài trong hoạt động dầu khí
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Nhà đầu tư gửi 01 bộ hồ sơ đăng ký giao dịch ngoại hối đến Ngân hàng Nhà nước Khu vực nơi nhà đầu tư là tổ chức có trụ sở chính trên địa bàn hoặc nhà đầu tư là cá nhân đăng ký thường trú trên địa bàn.
+    + Bước 2: Trường hợp hồ sơ chưa đầy đủ, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước Khu vực có văn bản yêu cầu nhà đầu tư bổ sung hồ sơ.
+    + Bước 3: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ, Ngân hàng Nhà nước Khu vực xác nhận hoặc từ chối xác nhận đăng ký giao dịch ngoại hối liên quan đến đầu tư ra nước ngoài trong hoạt động dầu khí dưới hình thức văn bản điện tử hoặc văn bản giấy gửi nhà đầu tư. Trường hợp từ chối xác nhận đăng ký giao dịch ngoại hối, Ngân hàng Nhà nước Khu vực phải nêu rõ lý do và có văn bản điện tử hoặc văn bản giấy gửi nhà đầu tư.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản giải trình về nhu cầu chuyển vốn đầu tư ra nước ngoài bằng đồng Việt Nam đối với trường hợp chuyển vốn đầu tư ra nước ngoài bằng đồng Việt Nam.;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đăng ký giao dịch ngoại hối theo Mẫu số 01 tại Phụ lục kèm theo Nghị định 132/2024/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính văn bản xác nhận của tổ chức tín dụng được phép về số tiền nhà đầu tư đã chuyển ra nước ngoài trước khi được cấp giấy chứng nhận đăng ký đầu tư ra nước ngoài đối với trường hợp đã chuyển vốn đầu tư ra nước ngoài trước khi được cấp giấy chứng nhận đăng ký đầu tư ra nước ngoài;.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao tiếng nước ngoài, bản dịch tiếng Việt (có xác nhận của nhà đầu tư về tính chính xác của bản sao và bản dịch) văn bản chấp thuận hoặc cấp phép đầu tư do cơ quan có thẩm quyền của nước tiếp nhận đầu tư cấp hoặc tài liệu chứng minh quyền hoạt động đầu tư tại nước tiếp nhận đầu tư phù hợp với quy định của nước tiếp nhận đầu tư;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản chính văn bản xác nhận của tổ chức tín dụng được phép về việc mở tài khoản vốn đầu tư của nhà đầu tư trong đó nêu rõ số tài khoản, loại ngoại tệ;.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận đăng ký giao dịch ngoại hối liên quan đến đầu tư ra nước ngoài trong hoạt động dầu khí, Văn bản từ chối xác nhận đăng ký giao dịch ngoại hối
+Căn cứ pháp lý:
+  * Thông tư hướng dẫn về quản lý ngoại hối đối với đầu tư ra nước ngoài trong hoạt động dầu khí. (40/2025/TT-NHNN)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+  * Nghị định quy định về đầu tư ra nước ngoài trong hoạt động dầu khí. (132/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

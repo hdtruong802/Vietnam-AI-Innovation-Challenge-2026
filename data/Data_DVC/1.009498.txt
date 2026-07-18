@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009498
+Số quyết định: 1082/QĐ-BTC
+Tên thủ tục: Giải thể quỹ thành viên, quỹ đóng, quỹ mở, quỹ đầu tư bất động sản, quỹ hoán đổi danh mục, công ty đầu tư chứng khoán
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+  * Nộp hồ sơ
+    Bước 1: Trong thời hạn 15 ngày kể từ ngày đại hội nhà đầu tư quỹ/Đại hội đồng cổ đông công ty đầu tư chứng khoán thông qua việc giải thể quỹ/phương án giải thể công ty đầu tư chứng khoán, công ty quản lý quỹ đầu tư chứng khoán hoặc ngân hàng lưu ký, ngân hàng giám sát (nếu có) và ban đại diện quỹ của quỹ (trong trường hợp không có công ty quản lý quỹ đầu tư chứng khoán)/Hội đồng quản trị công ty đầu tư chứng khoán gửi hồ sơ đề nghị giải thể đến UBCKNN.
+    Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+    Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp nội dung chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    Bước 4: Trong thời hạn 60 ngày kể từ ngày UBCKNN có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty đầu tư chứng khoán/Hội đồng quản trị công ty đầu tư chứng khoán hoàn thiện hồ sơ và gửi đến UBCKNN.
+    Bước 5: Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, UBCKNN có văn bản chấp thuận việc giải thể quỹ theo phương án giải thể đã được Đại hội nhà đầu tư quỹ thông qua/có thông báo đã nhận được phương án giải thể công ty đầu tư chứng khoán; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+    Bước 6: Trong thời hạn 05 ngày kể từ ngày hoàn tất việc giải thể quỹ/công ty đầu tư chứng khoán, công ty quản lý quỹ đầu tư chứng khoán hoặc ngân hàng lưu ký, ngân hàng giám sát (nếu có) của quỹ hoặc Hội đồng quản trị công ty đầu tư chứng khoán gửi hồ sơ báo cáo kết quả giải thể quỹ/công ty đầu tư chứng khoán đến UBCKNN
+    Bước 7: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+    Bước 8: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp nội dung chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 ngày kể từ ngày nhận được hồ sơ, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    Bước 9: Trong thời hạn 60 ngày kể từ ngày UBCKNN có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty đầu tư chứng khoán/Hội đồng quản trị công ty đầu tư chứng khoán hoàn thiện hồ sơ và gửi đến UBCKNN.
+    Bước 10: Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ báo cáo kết quả giải thể quỹ/công ty đầu tư chứng khoán đầy đủ, hợp lệ, UBCKNN ra quyết định thu hồi Giấy chứng nhận đăng ký lập quỹ/Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ (Không có)
+    Mô tả: + Bước 5: 15 ngày kể từ ngày UBCKNN nhận được hồ sơ đề nghị giải thể đầy đủ, hợp lệ.
++ Bước 10: 15 ngày kể từ ngày UBCKNN nhận được hồ sơ báo cáo kết quả giải thể đầy đủ, hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ (Không có)
+    Mô tả: + Bước 5: 15 ngày kể từ ngày UBCKNN nhận được hồ sơ đề nghị giải thể đầy đủ, hợp lệ.
++ Bước 10: 15 ngày kể từ ngày UBCKNN nhận được hồ sơ báo cáo kết quả giải thể đầy đủ, hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ (Không có)
+    Mô tả: + Bước 5: 15 ngày kể từ ngày UBCKNN nhận được hồ sơ đề nghị giải thể đầy đủ, hợp lệ.
++ Bước 10: 15 ngày kể từ ngày UBCKNN nhận được hồ sơ báo cáo kết quả giải thể đầy đủ, hợp lệ.
+
+Thành phần hồ sơ:
+  [ 1. Hồ sơ đề nghị giải thể quỹ/ công ty đầu tư chứng khoán ]
+    - - Quyết định hủy niêm yết của Sở giao dịch chứng khoán (trong trường hợp quỹ giải thể do bị hủy niêm yết).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản cam kết được ký bởi đại diện theo pháp luật của công ty quản lý quỹ đầu tư chứng khoán (nếu có) và ngân hàng lưu ký, ngân hàng giám sát (nếu có) về việc chịu trách nhiệm hoàn tất các thủ tục thanh lý tài sản để giải thể quỹ/công ty đầu tư chứng khoán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Biên bản họp và nghị quyết của Đại hội nhà đầu tư/Đại hội đồng cổ đông thông qua việc giải thể, phương án giải thể quỹ/công ty đầu tư chứng khoán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Phương án giải thể quỹ đầu tư chứng khoán/công ty đầu tư chứng khoán - Mẫu số 95 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy đề nghị giải thể quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán - Mẫu số 97 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 2. Hồ sơ báo cáo kết quả giải thể quỹ/ công ty đầu tư chứng khoán ]
+    - - Văn bản xác nhận của ngân hàng lưu ký hoặc ngân hàng giám sát và công ty quản lý quỹ đầu tư chứng khoán (nếu có), trong đó nêu rõ chi tiết khoản thanh toán, danh mục tài sản phân phối cho từng nhà đầu tư/cổ đông kèm theo xác nhận của các cổ đông về việc đã nhận đủ tiền, tài sản theo phương án giải thể đã được Đại hội đồng cổ đông thông qua (đối với công ty đầu tư chứng khoán) hoặc xác nhận của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam về việc đã hoàn tất phân bổ, đăng ký chứng khoán cho nhà đầu tư/cổ đông theo yêu cầu của công ty quản lý quỹ đầu tư chứng khoán, ngân hàng lưu ký, ngân hàng giám sát (nếu có) và nhà đầu tư/cổ đông; xác nhận của tổ chức quản lý sổ cổ đông, tổ chức phát hành, doanh nghiệp tiếp nhận vốn đầu tư của quỹ/công ty đầu tư chứng khoán về việc đã hoàn tất chuyển quyền sở hữu cổ phiếu, phần vốn góp cho từng nhà đầu tư/cổ đông công ty đầu tư chứng khoán tham gia vào quỹ/công ty đầu tư chứng khoán theo yêu cầu của công ty quản lý quỹ đầu tư chứng khoán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản gốc Giấy chứng nhận đăng lý lập quỹ/Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo thẩm định kết quả thanh lý tài sản của tổ chức kiểm toán được đại hội nhà đầu tư chỉ định hoặc của ban đại diện quỹ/Hội đồng quản trị công ty đầu tư chứng khoán (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo kết quả giải thể, thanh lý tài sản của quỹ đầu tư, công ty đầu tư chứng khoán - Mẫu số 98 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ. Báo cáo kết quả giải thể công ty đầu tư chứng khoán có xác nhận của công ty quản lý quỹ đầu tư chứng khoán, ngân hàng lưu ký, ngân hàng giám sát (nếu có), tổ chức kiểm toán, Hội đồng quản trị công ty đầu tư chứng khoán về việc thanh lý tài sản của công ty, phân chia tài sản công ty cho các cổ đông theo phương án đã được Đại hội đồng cổ đông thông qua; tổng giá trị tài sản thu được sau khi thanh lý; tổng nợ phải thanh toán, kể cả các nghĩa vụ tài chính đối với nhà nước và phần tài sản còn lại để phân phối cho các cổ đông. Báo cáo phải đính kèm danh sách chủ nợ và số nợ đã thanh toán, kể cả các khoản nợ về thuế;;Thành phần hồ sơ trong thủ tục hành chính này được miễn trừ trong trường hợp tài liệu đó đã được gửi tới Ủy ban Chứng khoán Nhà nước theo quy định về báo cáo và công bố thông tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Văn bản từ chối (nêu rõ lý do)., Văn bản chấp thuận giải thể quỹ/Thông báo đã nhận được phương án giải thể công ty đầu tư chứng khoán, Quyết định thu hồi Giấy chứng nhận đăng ký lập quỹ/Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán
+Căn cứ pháp lý:
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+  * Nghị định sửa đổi, bổ sung một số điều của Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chứng khoán (245/2025/NĐ-CP)
+  * Luật Doanh nghiệp (59/2020/QH14)
+  * nghị quyết của Chính phủ về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng (24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Trong thời hạn 03 tháng trước ngày tiến hành giải thể công ty đầu tư chứng khoán theo quy định tại điểm a và điểm b khoản 1 Điều 104 Luật Chứng khoán hoặc trong thời hạn 30 ngày kể từ ngày công ty đầu tư chứng khoán thuộc trường hợp giải thể theo quy định tại các điểm c, d, đ và e khoản 1 Điều 104 Luật Chứng khoán, Hội đồng quản trị công ty đầu tư chứng khoán phải triệu tập Đại hội đồng cổ đông công ty đầu tư chứng khoán để thông qua phương án giải thể công ty đầu tư chứng khoán.
+Từ khóa: Không có thông tin
+Mô tả: Trong thời hạn 03 tháng trước ngày tiến hành giải thể công ty đầu tư chứng khoán theo quy định tại điểm a và điểm b khoản 1 Điều 104 Luật Chứng khoán hoặc trong thời hạn 30 ngày kể từ ngày công ty đầu tư chứng khoán thuộc trường hợp giải thể theo quy định tại các điểm c, d, đ và e khoản 1 Điều 104 Luật Chứng khoán, Hội đồng quản trị công ty đầu tư chứng khoán phải triệu tập Đại hội đồng cổ đông công ty đầu tư chứng khoán để thông qua phương án giải thể công ty đầu tư chứng khoán.

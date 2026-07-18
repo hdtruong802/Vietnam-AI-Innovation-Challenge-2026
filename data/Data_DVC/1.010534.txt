@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010534
+Số quyết định: 1722/QĐ-UBND
+Tên thủ tục: Trợ cấp tiền tuất, tai nạn (đối với trường hợp tai nạn suy giảm khả năng lao động từ 5% trở lên) cho lực lượng xung kích phòng chống thiên tai cấp xã chưa tham gia bảo hiểm xã hội
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý Đê điều và Phòng, chống thiên tai
+Trình tự thực hiện:
+    Gửi (nộp) hồ sơ TTHC
+    Người tham gia lực lượng xung kích phòng chống thiên tai cấp xã hoặc người đại diện hợp pháp lập 01 bộ hồ sơ gửi Ủy ban nhân dân xã.
+    Cách thức thực hiện: Nộp Trực tiếp hoặc qua dịch vụ Bưu chính công ích (BCCI) hoặc DVC trực tuyến mức độ 4.
+    Bước 1: UBND cấp xã tổng hợp báo cáo Ủy ban nhân dân cấp huyện chậm nhất 10 ngày kể từ ngày nhận được hồ sơ hợp lệ.
+    Đối với các trường hợp không đủ điều kiện, hóa đơn, giấy tờ theo quy định hoặc không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được đơn đề nghị, cấp xã phải có văn bản hướng dẫn gửi người nộp đơn để bổ sung, hoàn thiện.
+    Cách thức thực hiện: Trực tiếp hoặc gửi liên thông qua Hệ thống thông tin một cửa điện tử.
+    Bước 2:  Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ do Chủ tịch Ủy ban nhân dân xã trình, Ủy ban nhân dân cấp huyện lập 01 bộ hồ sơ trình Chủ tịch Ủy ban nhân dân cấp tỉnh.
+    Cách thức thực hiện:  Nộp Trực tiếp hoặc qua dịch vụ Bưu chính công ích (BCCI) hoặc DVC trực tuyến mức độ 4.
+    Bước 3: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ do Chủ tịch Ủy ban nhân dân cấp huyện trình, Chủ tịch Ủy ban nhân dân tỉnh quyết định trợ cấp tai nạn, bị chết cho người tham gia lực lượng xung kích.
+    Cách thức trả kết quả: Trực tiếp hoặc qua dich vụ BCCI hoặc qua địa chỉ thư điện tử khách hàng đã đăng ký.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 10 ngày làm việc, kể từ ngày có quyết định trợ cấp, Ủy ban nhân dân cấp xã có trách nhiệm thực hiện chi trả trợ cấp cho đối tượng được hưởng
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 10 ngày làm việc, kể từ ngày có quyết định trợ cấp, Ủy ban nhân dân cấp xã có trách nhiệm thực hiện chi trả trợ cấp cho đối tượng được hưởng
+
+Thành phần hồ sơ:
+  [ Trường hợp tai nạn suy giảm khả năng lao động từ 5% trở lên ]
+    - Đơn đề nghị trợ cấp tai nạn theo mẫu quy định tại Phụ lục VII ban hành kèm theo Nghị định số 66/2021/NĐ-CP ngày 06/7/2021 của Chính phủ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy ra viện
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trích sao hồ sơ bệnh án hoặc bản sao giấy chứng nhận thương tích do cơ sở y tế nơi đã cấp cứu, điều trị
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản giám định mức suy giảm khả năng lao động của hội đồng giám định y khoa bệnh viện cấp tỉnh và tương đương trở lên
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản điều tra của cơ quan công an (trường hợp bị tai nạn giao thông)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ trình của UBND cấp xã
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ đã tiếp nhận của khách hàng tại Bộ phận tiếp nhận và trả kết quả giải quyết TTHC cấp xã
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp trợ cấp tiền tuất ]
+    - Đơn đề nghị trợ cấp tiền tuất theo mẫu quy định tại Phụ lục VII ban hành kèm theo Nghị định số 66/2021/NĐ-CP ngày 06/7/2021 của Chính phủ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy ra viện hoặc trích sao hồ sơ bệnh án hoặc bản sao giấy chứng tử hoặc trích lục khai tử
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản điều tra của cơ quan công an (trường hợp bị tai nạn giao thông)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ trình của UBND cấp xã
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ đã tiếp nhận của khách hàng tại Bộ phận tiếp nhận và trả kết quả giải quyết TTHC cấp xã
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Danh sách các đối tượng được chi trả kinh phí trợ cấp tai nạn, bị chết cho người tham gia lực lượng xung kích theo đúng Quyết định của UBND cấp tỉnh phê duyệt
+Căn cứ pháp lý:
+  * Nghị định quy định chi tiết thi hành một số điều của Luật Phòng, chống thiên tai và Luật sửa đổi, bổ sung một số điều của Luật Phòng, chống thiên tai và Luật Đê điều. (66/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012843
+Số quyết định: 1768/QĐ-BTC
+Tên thủ tục: Thủ tục xử lý tiền thuế, tiền chậm nộp, tiền phạt nộp thừa
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Trình tự thực hiện
+    - Bước 1 : Người nộp thuế khai chỉ tiêu thông tin hồ sơ đề nghị xử lý tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa gửi đến Hệ thống xử lý dữ liệu điện tử hải quan. Trường hợp chưa khai báo được chỉ tiêu quy định tại điểm này, người nộp thuế nộp bản chụp được ký số các chứng từ, tài liệu liên quan đến chỉ tiêu chưa khai báo được cho cơ quan hải quan qua Hệ thống xử lý dữ liệu điện tử hải quan. Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, người nộp thuế gửi hồ sơ giấy đến cơ quan hải quan.
+    - Bước 2: Trách nhiệm của cơ quan hải quan
+    + Cơ quan hải quan nơi phát sinh tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa tiếp nhận và xử lý hồ sơ thông qua Hệ thống xử lý dữ liệu điện tử hải quan. Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố thì cơ quan hải quan tiếp nhận hồ sơ giấy;
+    + Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ của người nộp thuế, cơ quan hải quan phản hồi cho người nộp thuế về việc không tiếp nhận hồ sơ đối với trường hợp hồ sơ không đúng đối tượng theo Mẫu số 3 tại Phụ lục II Thông tư số 86/2026/TT-BTC hoặc thông báo về việc bổ sung hồ sơ theo Mẫu số 7 tại Phụ lục II Thông tư số 86/2026/TT-BTC. Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố, cơ quan hải quan thông báo cho người nộp thuế theo Mẫu số 05 hoặc Mẫu số 06 tại Phụ lục I Thông tư số 86/2026/TT-BTC.
+    Trong thời hạn 05 ngày làm việc kể từ ngày người nộp thuế nhận được thông báo của cơ quan hải quan, người nộp thuế không giải trình, bổ sung hồ sơ thì cơ quan hải quan thông báo cho người nộp thuế về việc chưa đủ cơ sở xem xét, xử lý hồ sơ theo Mẫu số 02 Phụ lục I hoặc Mẫu số 4 tại Phụ lục II Thông tư số 86/2026/TT-BTC.
+    + Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan hải quan kiểm tra hồ sơ
+    Trường hợp hồ sơ đủ điều kiện, Thủ trưởng cơ quan hải quan nơi phát sinh số tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa ban hành quyết định hoàn tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa qua Hệ thống xử lý dữ liệu điện tử hải quan;
+    Trường hợp hồ sơ chưa đủ điều kiện hoàn tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa, cơ quan hải qua thông báo cho người nộp thuế theo Mẫu số 4 tại Phụ lục II Thông tư số 86/2026/TT-BTC gửi qua Hệ thống xử lý dữ liệu điện tử hải quan.
+    Trường hợp hồ sơ giấy hoặc Hệ thống xử lý dữ liệu điện tử hải quan chưa có chức năng ký số, cơ quan hải quan ban hành quyết định hoàn tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa theo Mẫu số 07 tại Phụ lục I Thông tư số 86/2026/TT-BTC hoặc thông báo hồ sơ chưa đủ điều kiện hoàn tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa theo Mẫu số 02 tại Phụ lục I Thông tư số 86/2026/TT-BTC gửi người nộp thuế.
+    Thời hạn giải quyết hồ sơ xử lý tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa không bao gồm thời gian người nộp thuế giải trình, bổ sung thông tin, tài liệu theo thông báo của cơ quan hải quan.
+    * Trường hợp người nộp thuế có số tiền thuế giá trị gia tăng nộp thừa khi nhập khẩu hàng hóa và đã thực hiện kê khai khấu trừ số tiền thuế nộp thừa với cơ quan thuế, người nộp thuế có trách nhiệm kê khai điều chỉnh số tiền thuế giá trị gia tăng đã được cơ quan hải quan hoàn với cơ quan thuế nơi quản lý người nộp thuế; Cơ quan hải quan ban hành quyết định hoàn thuế giá trị gia tăng nộp thừa, gửi quyết định hoàn thuế cho cơ quan thuế quản lý người nộp thuế để cơ quan thuế làm cơ sở đối chiếu và thu hồi số thuế giá trị gia tăng đã khấu trừ hoặc đã hoàn thuế (nếu có).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+    Mô tả: + Nộp hồ sơ giấy theo quy định của pháp luật về hải quan: Trường hợp nộp hồ sơ giấy, đối với chứng từ phải nộp bản chính theo quy định tại Thông tư số 86/2026/TT-BTC thì người nộp thuế nộp trực tiếp hoặc gửi qua đường bưu chính cho cơ quan hải quan. Các trường hợp không quy định phải nộp bản chính thì người nộp thuế được nộp bản chụp cho cơ quan hải quan.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+    Mô tả: + Nộp hồ sơ điện tử: Người nộp thuế khai đầy đủ, chính xác các thông tin trên tờ khai hải quan và các chứng từ, tài liệu có liên quan làm căn cứ để xác định nghĩa vụ thuế của người nộp thuế với ngân sách nhà nước theo các chỉ tiêu thông tin quy định tại Phụ lục II Thông tư số 86/2026/TT-BTC thông qua Hệ thống xử lý dữ liệu điện tử hải quan. Trường hợp chưa khai báo được chỉ tiêu thông tin quy định tại Phụ lục II Thông tư số 86/2026/TT-BTC trên Hệ thống xử lý dữ liệu điện tử hải quan, người nộp thuế nộp bản chụp có xác nhận bằng chữ ký số các chứng từ, tài liệu thuộc hồ sơ khai thuế cho cơ quan hải quan thông qua Hệ thống xử lý dữ liệu điện tử hải quan.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+    Mô tả: + Nộp hồ sơ giấy theo quy định của pháp luật về hải quan: Trường hợp nộp hồ sơ giấy, đối với chứng từ phải nộp bản chính theo quy định tại Thông tư số 86/2026/TT-BTC thì người nộp thuế nộp trực tiếp hoặc gửi qua đường bưu chính cho cơ quan hải quan. Các trường hợp không quy định phải nộp bản chính thì người nộp thuế được nộp bản chụp cho cơ quan hải quan.
+
+Thành phần hồ sơ:
+    - Công văn đề nghị hoàn trả tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa theo Mẫu số 2 tại Phụ lục II Thông tư số 86/2026/TT-BTC và các chứng từ, tài liệu có liên quan theo quy định.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp Hệ thống gặp sự cố, người nộp thuế nộp công văn đề nghị hoàn trả tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa theo Mẫu số 04 tại Phụ lục I Thông tư số 86/2026/TT-BTC và chứng từ, tài liệu có liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Chi cục Hải quan khu vực, Hải quan ngoài cửa khẩu
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực, Cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hoàn tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa, Thông báo hồ sơ chưa đủ điều kiện hoàn tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa
+Căn cứ pháp lý:
+  * Luật số 108/2025/QH15 của Quốc hội: Luật Quản lý thuế (108/2025/QH15)
+  * Quy định về quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu. (86/2026/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa đối với hàng hóa xuất khẩu, nhập khẩu thực hiện theo quy định tại Điều 15 Luật số 108/2025/QH15. Trong một số trường hợp, việc xử lý tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa được thực hiện như sau:
+a) Thuế xuất khẩu, thuế nhập khẩu, thuế tự vệ, thuế chống bán phá giá, thuế chống trợ cấp, thuế tiêu thụ đặc biệt, thuế bảo vệ môi trường, thuế giá trị gia tăng, khoản thu khác, tiền chậm nộp, tiền phạt nộp nhầm, nộp thừa, cơ quan hải quan hoàn trả cho người nộp thuế theo quy định tại Điều này;
+b) Hàng hóa kinh doanh tạm nhập, tái xuất quy định tại điểm đ khoản 9 Điều 16 Luật số 107/2016/QH13, người nộp thuế đã nộp tiền đặt cọc cho cơ quan hải quan một khoản tiền tương đương tiền thuế nhập khẩu, sau khi hàng hóa tái xuất, số tiền đặt cọc được cơ quan hải quan xử lý tiền thuế nộp thừa theo quy định tại Điều này;
+c) Trường hợp số tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt đã nộp lớn hơn số tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt được xác định theo quyết định giải quyết khiếu nại của cơ quan có thẩm quyền; bản án, quyết định của Tòa án có hiệu lực; quyết định ấn định thuế hoặc quyết định xử phạt của cơ quan hải quan thì số tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa được xử lý theo quy định tại Điều này.
+Từ khóa: Không có thông tin
+Mô tả: Tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa đối với hàng hóa xuất khẩu, nhập khẩu thực hiện theo quy định tại Điều 15 Luật số 108/2025/QH15. Trong một số trường hợp, việc xử lý tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa được thực hiện như sau:
+a) Thuế xuất khẩu, thuế nhập khẩu, thuế tự vệ, thuế chống bán phá giá, thuế chống trợ cấp, thuế tiêu thụ đặc biệt, thuế bảo vệ môi trường, thuế giá trị gia tăng, khoản thu khác, tiền chậm nộp, tiền phạt nộp nhầm, nộp thừa, cơ quan hải quan hoàn trả cho người nộp thuế theo quy định tại Điều này;
+b) Hàng hóa kinh doanh tạm nhập, tái xuất quy định tại điểm đ khoản 9 Điều 16 Luật số 107/2016/QH13, người nộp thuế đã nộp tiền đặt cọc cho cơ quan hải quan một khoản tiền tương đương tiền thuế nhập khẩu, sau khi hàng hóa tái xuất, số tiền đặt cọc được cơ quan hải quan xử lý tiền thuế nộp thừa theo quy định tại Điều này;
+c) Trường hợp số tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt đã nộp lớn hơn số tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt được xác định theo quyết định giải quyết khiếu nại của cơ quan có thẩm quyền; bản án, quyết định của Tòa án có hiệu lực; quyết định ấn định thuế hoặc quyết định xử phạt của cơ quan hải quan thì số tiền thuế, khoản thu khác, tiền chậm nộp, tiền phạt nộp thừa được xử lý theo quy định tại Điều này.

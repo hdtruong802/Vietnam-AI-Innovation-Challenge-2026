@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014176
+Số quyết định: 863/QĐ-BNV
+Tên thủ tục: THAY ĐỔI HÌNH THỨC NHẬN, NƠI NHẬN LƯƠNG HƯU, TRỢ CẤP BẢO HIỂM XÃ HỘI HẰNG THÁNG
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo hiểm xã hội
+Trình tự thực hiện:
+    Bước 1:
+    Người đang hưởng lương hưu, trợ cấp bảo hiểm xã hội hằng tháng có nguyện vọng thay đổi hình thức nhận hoặc thay đổi nơi nhận do chuyển nơi cư trú trong nước thì có văn bản gửi cơ quan bảo hiểm xã hội nơi đang chi trả.
+    Bước 2:
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản, cơ quan bảo hiểm xã hội có trách nhiệm giải quyết.
+    Trường hợp không giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 50 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 50 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 50 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị thay đổi hình thức nhận, nơi nhận lương hưu, trợ cấp bảo hiểm xã hội hằng tháng
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Bảo hiểm xã hội tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo về việc tiếp nhận hồ sơ di chuyển và đăng ký nhận lương hưu hoặc trợ cấp bảo hiểm xã hội hằng tháng
+Căn cứ pháp lý:
+  * Luật Bảo hiểm xã hội (41/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011639
+Số quyết định: 1279/QĐ-NHNN
+Tên thủ tục: Thủ tục cấp lại, điều chỉnh, gia hạn Giấy chứng nhận đăng ký đại lý đổi tiền của nước có chung biên giới
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Tổ chức kinh tế có nhu cầu đề nghị cấp lại, điều chỉnh, gia hạn Giấy chứng nhận lập 01 bộ hồ sơ theo quy định gửi Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới.
+    Thời hạn kiểm tra tính đầy đủ, chính xác của hồ sơ là 03 ngày làm việc kể từ khi Hệ thống thông tin giải quyết thủ tục hành chính Ngân hàng Nhà nước tiếp nhận hồ sơ theo phương thức trực tuyến hoặc kể từ khi Bộ phận Một cửa của Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới tiếp nhận hồ sơ theo phương thức trực tiếp hoặc qua dịch vụ bưu chính.
+    + Bước 2: Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới có văn bản yêu cầu tổ chức kinh tế bổ sung hồ sơ.
+    + Bước 3: Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới xem xét cấp lại Giấy chứng nhận (theo Phụ lục 5 thuộc Phục lục I ban hành kèm theo Thông tư số 23/2026/TT-NHNN) hoặc Giấy chứng nhận điều chỉnh/gia hạn(theo Phụ lục 6 thuộc Phục lục I ban hành kèm theo Thông tư số 23/2026/TT-NHNN)  cho tổ chức kinh tế.
+    Trường hợp từ chối, Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới có văn bản thông báo rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp thủ tục hành chính chưa được cung cấp trực tuyến trên Cổng dịch vụ công quốc gia hoặc hệ thống Cổng dịch vụ công quốc gia gặp sự cố, có lỗi không thể tiếp nhận, trao đổi thông tin điện tử, việc nộp hồ sơ, tiếp nhận, trả kết quả, trao đổi, phản hồi thông tin được thực hiện qua dịch vụ bưu chính hoặc trực tiếp tại Bộ phận Một cửa của Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới.
+
+Thành phần hồ sơ:
+    - * Đối với trường hợp cấp lại Giấy chứng nhận: a) Đơn đề nghị cấp lại Giấy chứng nhận, trong đó trình bày cụ thể lý do đề nghị cấp lại (theo Phụ lục 3 thuộc Phục lục I ban hành kèm theo Thông tư số 23/2026/TT-NHNN); b) Bản sao hợp đồng đại lý đổi tiền của nước có chung biên giới ký với tổ chức tín dụng ủy quyền (đối với trường hợp tổ chức kinh tế sau khi tổ chức lại).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - * Đối với trường hợp điều chỉnh Giấy chứng nhận a) Đơn đề nghị điều chỉnh Giấy chứng nhận, trong đó trình bày cụ thể lý do đề nghị điều chỉnh (theo Phụ lục 4 thuộc Phụ lục I ban hành kèm theo Thông tư số 23/2026/TT-NHNN); b) Bản sao các giấy tờ cần thiết có liên quan đến việc điều chỉnh quy định tại khoản 2 Điều 3b Thông tư số 23/2026/TT-NHNN; c) Báo cáo về việc tổ chức kinh tế trang bị đầy đủ bảng thông báo tỷ giá công khai, bảng hiệu ghi tên tổ chức tín dụng ủy quyền và tên đại lý đổi tiền của nước có chung biên giới tại nơi giao dịch (trong trường hợp thay đổi địa điểm đặt đại lý đổi tiền của nước có chung biên giới).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - * Đối với trường hợp gia hạn Giấy chứng nhận a) Đơn đề nghị gia hạn Giấy chứng nhận (theo Phụ lục 4 thuộc Phục lục I ban hành kèm theo Thông tư số 23/2026/TT-NHNN); b) Bản sao hợp đồng đại lý đổi tiền của nước có chung biên giới ký với tổ chức tín dụng ủy quyền còn hiệu lực; c) Báo cáo đánh giá kết quả thực hiện hoạt động đại lý đổi tiền của nước có chung biên giới theo Giấy chứng nhận được cấp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước chi nhánh tỉnh biên giới
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận điều chỉnh/gia hạn đăng ký đại lý đổi tiền của nước có chung biên giới, Giấy chứng nhận đăng ký đại lý đổi tiền của nước có chung biên giới
+Căn cứ pháp lý:
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Nghị định sửa đổi, bổ sung một số Điều của Nghị định số 89/2016/NĐ-CP ngày 01/7/2016 của Chính phủ quy định điều kiện đối với hoạt động đại lý đổi ngoại tệ, hoạt động cung ứng dịch vụ nhận và chi, trả ngoại tệ của tổ chức kinh tế và Nghị định số 88/2019/NĐ-CP ngày 14/11/2019 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực tiền tệ và ngân hàng. (23/2023/NĐ-CP)
+  * Thông tư quy định về hoạt động đại lý đổi tiền của nước có chung biên giới (Thông tư 04/2023/TT-NHNN)
+  * Thông tư số 23/2026/TT-NHNN của Thống đốc Ngân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số điều của các văn bản quy phạm pháp luật về quản lý ngoại hối liên quan đến hoạt động cung ứng dịch vụ ngoại hối của các tổ chức không phải là tổ chức tín dụng (Thông tư số 23/2026/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

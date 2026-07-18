@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001248
+Số quyết định: 1241/QĐ-BTP
+Tên thủ tục: Cấp lại Giấy đăng ký hoạt động của Trung tâm trọng tài, Chi nhánh Trung tâm trọng tài, Chi nhánh của Tổ chức trọng tài nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trọng tài thương mại
+Trình tự thực hiện:
+    - Trung tâm trọng tài, Chi nhánh Trung tâm trọng tài, Chi nhánh của Tổ chức trọng tài nước ngoài tại Việt Nam mà Giấy đăng ký hoạt động bị mất, rách, nát, cháy hoặc bị tiêu hủy có thể gửi hồ sơ đề nghị cấp lại đến đến cơ quan có thẩm quyền nơi đã cấp Giấy đăng ký hoạt động để được cấp lại.
+    - Sở Tư pháp nơi đã cấp Giấy đăng ký hoạt động xem xét cấp lại trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị cấp lại.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Phí thẩm định)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Phí thẩm định)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Phí thẩm định)
+
+Thành phần hồ sơ:
+    - Giấy  xác nhận về việc bị mất Giấy đăng ký hoạt động của công an cấp xã nơi mất giấy tờ (trong trường hợp bị mất).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị cấp lại Giấy đăng ký hoạt động của Trung tâm trọng tài/Chi nhánh Trung tâm trọng tài/Chi nhánh của Tổ chức trọng tài nước ngoài tại Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Tư pháp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy đăng ký hoạt động của Trung tâm trọng tài, Chi nhánh Trung tâm trọng tài, Chi nhánh của Tổ chức trọng tài nước ngoài tại Việt Nam
+Căn cứ pháp lý:
+  * Thông tư 222/2016/TT-BTC - Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định tiêu chuẩn, điều kiện hành nghề trong lĩnh vực trọng tài thương mại (222/2016/TT-BTC)
+  * Thông tư số 03/2024/TT-BTP ngày 15/5/2024 của Bộ trưởng Bộ Tư pháp sửa đổi, bổ sung 08 thông tư liên quan đến thủ tục hành chính trong lĩnh vực bổ trợ tư pháp. (03/2024/TT-BTP)
+  * Luật 54/2010/QH12 - Trọng tài thương mại (54/2010/QH12)
+  * Nghị định số 121/2025/NĐ-CP ngày 11/6/2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (121/2025/NĐ-CP)
+  * Nghị định 63/2011/NĐ-CP - Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Trọng tài thương mại (63/2011/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

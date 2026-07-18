@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014209
+Số quyết định: 6636/QĐ-BCA-C12
+Tên thủ tục: Khai thác thông tin trong Cơ sở dữ liệu tổng hợp quốc gia
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Dữ liệu
+Trình tự thực hiện:
+    - Bước 1: Cơ quan, tổ chức, cá nhân chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: Cơ quan, tổ chức, cá nhân nộp hồ sơ về Trung tâm dữ liệu quốc gia, Bộ Công an.
+    - Bước 3: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản yêu cầu khai thác thông tin trong Cơ sở dữ liệu tổng hợp quốc gia thì người có thẩm quyền xem xét, quyết định cho phép khai thác thông tin: trường hợp đồng ý cho phép khai thác thông tin thì có văn bản trả lời và cung cấp thông tin cho cơ quan, tổ chức, cá nhân; trường hợp không đồng ý cho phép khai thác thông tin thì phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Phiếu đề nghị khai thác, cung cấp thông tin trong Cơ sở dữ liệu tổng hợp quốc gia
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Bộ Công an
+Cơ quan có thẩm quyền: Trung tâm Dữ liệu quốc gia
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Được cung cấp thông tin trong Cơ sở dữ liệu tổng hợp quốc gia theo Phiếu cung cấp thông tin trong Cơ sở dữ liệu tổng hợp quốc gia
+Căn cứ pháp lý:
+  * Luật dữ liệu (60/2024/QH15)
+  * Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Dữ liệu (165/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

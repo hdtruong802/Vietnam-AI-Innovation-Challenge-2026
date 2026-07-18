@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.015014
+Số quyết định: 2735/QĐ-BKHCN
+Tên thủ tục: Thủ tục công nhận cơ sở đào tạo pháp luật về sở hữu công nghiệp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Sở hữu trí tuệ
+Trình tự thực hiện:
+    Bước 1: Tiếp nhận hồ sơ
+    Cơ sở đào tạo có nhu cầu công nhận đủ điều kiện tổ chức khóa đào tạo pháp luật về sở hữu công nghiệp theo quy định tại khoản 2 Điều 62 của Nghị định số 65/2023/NĐ-CP nộp 01 bộ hồ sơ đến Trung tâm dịch vụ hành chính công cấp tỉnh thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương.
+    Bước 2: Thẩm định hồ sơ
+    - Hồ sơ yêu cầu công nhận cơ sở đào tạo pháp luật về sở hữu công nghiệp được Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương xử lý trong thời hạn 15 ngày làm việc kể từ ngày tiếp nhận theo trình tự sau đây:
+    + Trường hợp hồ sơ hợp lệ, ban hành quyết định công nhận cơ sở đào tạo pháp luật về sở hữu công nghiệp trong 15 ngày làm việc.
+    Ghi nhận thông tin công nhận:
+    Chủ tịch UBND cấp tỉnh gửi quyết định công nhận cơ sở đào tạo pháp luật về sở hữu công nghiệp cho người nộp đơn, đồng thời gửi đến Cục Sở hữu trí tuệ (Bộ Khoa học và Công nghệ) để ghi nhận vào Danh sách cơ sở đủ điều kiện đào tạo pháp luật về sở hữu công nghiệp và công bố trên Cổng thông tin điện tử của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trong thời hạn 07 ngày làm việc kể từ ngày ban hành quyết định.
+    + Trường hợp hồ sơ không hợp lệ, Chủ tịch UBND cấp tỉnh ra thông báo bổ sung, hoàn thiện hồ sơ để người nộp hồ sơ sửa chữa thiếu sót trong thời hạn 01 tháng kể từ ngày ra thông báo.
+    + Trường hợp người nộp hồ sơ không sửa chữa thiếu sót hoặc sửa chữa không đạt yêu cầu, trong thời hạn 15 ngày làm việc kể từ ngày kết thúc thời hạn sửa chữa hồ sơ theo thông báo bổ sung, hoàn thiện hồ sơ, Chủ tịch UBND cấp tỉnh ban hành Quyết định từ chối công nhận cơ sở đào tạo pháp luật về sở hữu công nghiệp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Văn bản yêu cầu công nhận cơ sở đào tạo pháp luật về sở hữu công nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các tài liệu chứng minh tổ chức đáp ứng tiêu chí, điều kiện công nhận là cơ sở đào tạo pháp luật về sở hữu công nghiệp: Điều kiện kiện về cơ sở vật chất, trang thiết bị; Thông tin về viên chức trong biên chế đã tham gia giảng dạy ở trình độ đại học về sở hữu trí tuệ từ 05 năm trở lên; Danh sách thông tin giảng viên tham gia chương trình đào tạo; Bộ tài liệu chuẩn được phê duyệt để sử dụng, phù hợp với các nội dung được quy định trong cấu trúc Chương trình đào tạo pháp luật về sở hữu công nghiệp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa của Bộ Khoa học và Công nghệ
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Cục Sở hữu trí tuệ
+Kết quả thực hiện: Quyết định công nhận cơ sở đào tạo pháp luật về sở hữu công  nghiệp
+Căn cứ pháp lý:
+  * sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ (131/2025/QH15)
+  * 07/2022/QH15 - Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ (07/2022/QH15)
+  * Luật số 93/2025/QH15 của Quốc hội: Luật Khoa học, công nghệ và đổi mới sáng tạo (93/2025/QH15)
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Sở hữu trí tuệ, Nghị định số 65/2023/NĐ-CP ngày 23 tháng 8 năm 2023 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý nhà nước về sở hữu trí tuệ được sửa đổi, bổ sung bởi Nghị định số 15/2026/NĐ-CP ngày 14 tháng 01 năm 2026, Nghị định số 33/2026/NĐ-CP ngày 21 tháng 01 năm 2026 và Nghị định số 100/2026/NĐ-CP ngày 31 tháng 3 năm 2026 (10/2026/TT-BKHCN)
+
+Yêu cầu, điều kiện thực hiện: - Tổ chức có nhu cầu công nhận đủ điều kiện tổ chức khóa đào tạo pháp luật về sở hữu công nghiệp:
+a) Là đơn vị sự nghiệp công lập trực thuộc Bộ Khoa học và Công nghệ hoặc do Bộ Khoa học và Công nghệ thành lập, có chức năng, nhiệm vụ đào tạo, bồi dưỡng chuyên môn, nghiệp vụ về sở hữu trí tuệ hoặc cơ sở giáo dục đại học có đào tạo ngành luật hoặc các trường hợp khác do Bộ trưởng Bộ Khoa học và Công
+nghệ quyết định.
+b) Có cơ sở vật chất, trang thiết bị đáp ứng yêu cầu tổ chức chương trình đào tạo pháp luật về sở hữu công nghiệp do Bộ trưởng Bộ Khoa học và Công nghệ quy định;
+c) Có ít nhất một viên chức thuộc biên chế đã tham gia giảng dạy ở trình độ đại học về sở hữu trí tuệ từ 05 năm trở lên tại thời điểm được công nhận là cơ sở đào tạo đáp ứng tiêu chí, điều kiện tổ chức khóa đào tạo pháp luật về sở hữu công nghiệp.
+Từ khóa: Không có thông tin
+Mô tả: - Tổ chức có nhu cầu công nhận đủ điều kiện tổ chức khóa đào tạo pháp luật về sở hữu công nghiệp:
+a) Là đơn vị sự nghiệp công lập trực thuộc Bộ Khoa học và Công nghệ hoặc do Bộ Khoa học và Công nghệ thành lập, có chức năng, nhiệm vụ đào tạo, bồi dưỡng chuyên môn, nghiệp vụ về sở hữu trí tuệ hoặc cơ sở giáo dục đại học có đào tạo ngành luật hoặc các trường hợp khác do Bộ trưởng Bộ Khoa học và Công
+nghệ quyết định.
+b) Có cơ sở vật chất, trang thiết bị đáp ứng yêu cầu tổ chức chương trình đào tạo pháp luật về sở hữu công nghiệp do Bộ trưởng Bộ Khoa học và Công nghệ quy định;
+c) Có ít nhất một viên chức thuộc biên chế đã tham gia giảng dạy ở trình độ đại học về sở hữu trí tuệ từ 05 năm trở lên tại thời điểm được công nhận là cơ sở đào tạo đáp ứng tiêu chí, điều kiện tổ chức khóa đào tạo pháp luật về sở hữu công nghiệp.

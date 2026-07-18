@@ -1,0 +1,81 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009095
+Số quyết định: 2902/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với tàu hỏa xuất cảnh, nhập cảnh, quá cảnh
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Bước 1: Người khai hải quan nộp các chứng từ thuộc hồ sơ hải quan cho cơ quan hải quan
+    - Bước 2: Cơ quan hải quan tiếp nhận, đối chiếu thông tin; niêm phong hải quan (nếu có); Bàn giao hàng hàng XNK cho Hải quan tại ga đường sắt liên vận quốc tế biên giới/nội địa; Xác nhận lên các chứng từ do người khai hải quan cung cấp hoặc xử lý vi phạm trong trường hợp phát hiện có dấu hiệu vi phạm.
+  * Thời hạn cung cấp hồ sơ hải quan:
+    + Đối với tàu nhập cảnh: Người khai hải quan nộp chứng từ thông qua Hệ thống xử lý dữ liệu điện tử hải quan trước khi tàu đến ga liên vận quốc tế ở biên giới hoặc trước khi tàu đến ga liên vận quốc tế trong nội địa.
+    Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố hoặc chưa đáp ứng thì người khai hải quan nộp cho hải quan ga liên vận quốc tế ở biên giới chứng từ giấy khi tàu đến ga liên vận quốc tế ở biên giới và nộp cho hải quan ga liên vận quốc tế trong nội địa các chứng từ khi tàu đến ga liên vận quốc tế trong nội địa.
+    + Đối với tàu xuất cảnh: Người khai hải quan nộp chứng từ thông qua Hệ thống xử lý dữ liệu điện tử hải quan trước khi tàu rời ga 30 phút đối với tàu khách và 01 giờ đối với tàu hàng
+    Trường hợp Hệ thống xử lý dữ liệu điện tử hải quan gặp sự cố hoặc chưa đáp ứng thì người khai hải quan nộp cho hải quan ga liên vận quốc tế trong nội địa chứng từ giấy trước khi tàu rời ga 30 phút đối với tàu khách và 01 giờ đối với tàu hàng. Nộp, xuất trình cho hải quan ga liên vận quốc tế ở biên giới các chứng từ quy định trước khi tàu rời ga 30 phút đối với tàu khách và 01 giờ đối với tàu hàng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 20000 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 20000 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Tàu nhập cảnh tại ga đường sắt liên vận quốc tế trong nội địa ]
+    - Bản trích lược khai hàng hóa nhập khẩu dỡ xuống từng ga đường sắt liên vận quốc tế theo mẫu do Bộ Tài chính ban hành
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Vận đơn
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Danh sách hành khách đối với tàu khách và hành khách làm thủ tục tại ga đường sắt liên vận quốc tế trong nội địa (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Tàu nhập cảnh tại ga đường sắt liên vận quốc tế ở biên giới ]
+    - Danh sách hành khách đối với tàu khách và hành khách làm thủ tục tại ga đường sắt liên vận quốc tế ở biên giới (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Vận đơn
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy giao tiếp hàng hóa
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bảng kê nhiên liệu, dụng cụ, thực phẩm mang theo của tàu (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản trích lược khai hàng hóa nhập khẩu dỡ xuống từng ga đường sắt liên vận quốc tế theo mẫu do Bộ Tài chính ban hành
+      Số lượng: Bản chính: 2, Bản sao: 0
+  [ Tàu xuất cảnh tại ga liên vận quốc tế trong nội địa ]
+    - Bản trích lược khai hàng hóa tại ga liên vận quốc tế trong nội địa theo mẫu do Bộ Tài chính ban hành
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Vận đơn (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Danh sách hành khách đối với tàu khách và hành khách làm thủ tục hải quan tại ga liên vận quốc tế trong nội địa (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản xác báo thứ tự lập tàu đối với tàu khách làm thủ tục hải quan tại ga liên vận quốc tế trong nội địa
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Tàu xuất cảnh tại ga đường sắt liên vận quốc tế ở biên giới ]
+    - Bản xác báo thứ tự lập tàu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Vận đơn (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Danh sách hành khách đối với tàu khách và hành khách làm thủ tục hải quan tại ga đường sắt liên vận quốc tế ở biên giới (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản trích lược khai hàng hóa tại ga liên vận quốc tế trong nội địa theo mẫu do Bộ Tài chính ban hành; Giấy giao tiếp hàng hóa
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy giao tiếp hàng hóa
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Hải quan cửa khẩu
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận thông quan
+Căn cứ pháp lý:
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí hải quan và lệ phí hàng hóa, phương tiện vận tải quá cảnh (14/2021/TT-BTC)
+  * Nghị định số 167/2025/NĐ-CP ngày 30/6/2025 của Chính phủ (167/2025)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Thông tư 50/2018/TT-BTC (50/2018/TT-BTC)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

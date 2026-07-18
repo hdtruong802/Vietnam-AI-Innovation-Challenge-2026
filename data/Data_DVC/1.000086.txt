@@ -1,0 +1,40 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000086
+Số quyết định: 2628/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hóa lạc tuyến quốc tế (hàng hóa từ nước này lạc tuyến sang nước khác)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp kinh doanh dịch vụ chuyển phát nhanh quốc tế có văn bản đề nghị được chuyển hàng hóa lạc tuyến;
+    Bước 2: Chi cục Hải quan tiếp nhận Tờ khai tài liệu chứng từ theo bản giấy hoặc định dạng điện tử nếu đã nối mạng với cơ quan Hải quan và kiểm tra hồ sơ; đối chiếu các nội dung kê khai.
+    Bước 3: Xác nhận thông quan và lưu giữ hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị được chuyển hàng hóa lạc tuyến đến nước có địa chỉ ghi trên vận tải đơn và danh sách hàng hóa lạc tuyến;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đăng ký tờ khai vận chuyển độc lập đối với hàng hóa lạc tuyến quốc tế theo quy định tại Điều 17 Thông tư số 191/2015/TT-BTC (Tờ khai Phụ lục II ban hành kèm theo Thông tư số 38/2015/TT-BTC
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông quan hàng hóa nhập khẩu, xuất khẩu
+Căn cứ pháp lý:
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Thông tư 191/2015/TT-BTC (191/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Nghị định số 187/2013/NĐ-CP (187/2013/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

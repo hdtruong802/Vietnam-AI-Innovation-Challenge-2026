@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115187
+Số quyết định: 2839/QĐ-BKHCN
+Tên thủ tục: Cấp quyền sử dụng mã số, mã vạch
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân có nhu cầu cấp quyền sử dụng mã số, mã vạch nộp hồ sơ đăng ký theo quy định tại Điều 29 Nghị định số 37/2026/NĐ-CP trực tiếp trên Cổng dịch vụ công quốc gia.
+    Trường hợp Cổng dịch vụ công quốc gia bị lỗi tổ chức, cá nhân nộp trực tiếp hoặc thông qua dịch vụ bưu chính gửi đến Bộ phận một cửa của Bộ Khoa học và Công nghệ (Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia). Trong đó lựa chọn:
+    - Tổ chức thực hiện nộp hồ sơ lựa chọn đăng ký loại tiền tố mã doanh nghiệp: 12 số, 10 số, 9 số, 8 số, 7 số;
+    - Thời hạn hiệu lực của quyền sử dụng mã số, mã vạch; nộp phí cấp mã số, mã vạch theo quy định.
+    Thời hạn hiệu lực của quyền sử dụng mã số, mã vạch được cấp theo đăng ký của tổ chức, cá nhân; trường hợp tổ chức, cá nhân thay đổi về tên, địa chỉ, hiệu lực của quyền sử dụng mã số, mã vạch được giữ nguyên theo lần cấp trước đó.
+    Bước 2: Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia tiếp nhận hồ sơ, xem xét, thẩm định theo quy định:
+    a) Trường hợp hồ sơ đăng ký cấp quyền sử dụng mã số, mã vạch không đầy đủ theo quy định, trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia thông báo cho tổ chức, cá nhân để sửa đổi, bổ sung thông qua Cổng dịch vụ công quốc gia. Trong thời hạn 03 ngày làm việc kể từ ngày có thông báo, tổ chức, cá nhân sửa đổi, bổ sung hồ sơ đã đăng ký.
+    b) Trường hợp hồ sơ đăng ký cấp quyền sử dụng mã số, mã vạch đầy đủ, hợp lệ và tổ chức, cá nhân đóng các khoản phí theo quy định; Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia có trách nhiệm cấp quyền sử dụng mã số, mã vạch bản điện tử trong thời hạn 07 ngày làm việc với các nội dung quy định tại Mẫu số 6 Phụ lục VII Nghị định số 37/2026/NĐ-CP.
+    Bước 3: Trả kết quả trực tuyến.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Mức thu phí cấp và hướng dẫn sử dụng mã số mã vạch sử dụng mã doanh nghiệp GS1 (không phân biệt mã số đăng ký sử dụng)) | 300000 VNĐ (Mức thu phí cấp và hướng dẫn sử dụng mã số mã vạch sử dụng mã số thương phẩm toàn cầu 8 chữ số EAN-8 (GTIN-8)) | 500000 VNĐ (Mức thu phí duy trì sử dụng mã số mã vạch hàng năm (niên phí) sử dụng mã doanh nghiệp GS1 loại 10 số (tương ứng với trường hợp doanh nghiệp được sử dụng 100 số vật phẩm)) | 800000 VNĐ (Mức thu phí duy trì sử dụng mã số mã vạch hàng năm (niên phí) Sử dụng mã doanh nghiệp GS1 loại 9 số (tương ứng với trường hợp doanh nghiệp được sử dụng 1.000 số vật phẩm)) | 1500000 VNĐ (Mức thu phí duy trì sử dụng mã số mã vạch hàng năm (niên phí) sử dụng mã doanh nghiệp GS1 loại 8 số (tương ứng với trường hợp doanh nghiệp được sử dụng 10.000 số vật phẩm)) | 2000000 VNĐ (Mức thu phí duy trì sử dụng mã số mã vạch hàng năm (niên phí) sử dụng mã doanh nghiệp GS1 loại 7 số (tương ứng với trường hợp doanh nghiệp được sử dụng 100.000 số vật phẩm)) | 200000 VNĐ (Sử dụng mã số thương phẩm toàn cầu 8 chữ số EAN-8 (GTIN-8)) | 0 VNĐ (Trường hợp tổ chức, cá nhân nộp hồ sơ cấp Giấy chứng nhận quyền sử dụng mã số mã vạch sau ngày 30 tháng 6 thì chỉ phải nộp 50% (năm mươi phần trăm) mức phí duy trì tương ứng với từng loại mã số mã vạch theo quy định nêu trên)
+    Mô tả: 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ và tổ chức, cá nhân đóng các khoản phí theo quy định
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Mức thu phí cấp và hướng dẫn sử dụng mã số mã vạch sử dụng mã doanh nghiệp GS1 (không phân biệt mã số đăng ký sử dụng)) | 300000 VNĐ (Mức thu phí cấp và hướng dẫn sử dụng mã số mã vạch sử dụng mã số thương phẩm toàn cầu 8 chữ số EAN-8 (GTIN-8)) | 500000 VNĐ (Mức thu phí duy trì sử dụng mã số mã vạch hàng năm (niên phí) sử dụng mã doanh nghiệp GS1 loại 10 số (tương ứng với trường hợp doanh nghiệp được sử dụng 100 số vật phẩm)) | 800000 VNĐ (Mức thu phí duy trì sử dụng mã số mã vạch hàng năm (niên phí) Sử dụng mã doanh nghiệp GS1 loại 9 số (tương ứng với trường hợp doanh nghiệp được sử dụng 1.000 số vật phẩm)) | 1500000 VNĐ (Mức thu phí duy trì sử dụng mã số mã vạch hàng năm (niên phí) sử dụng mã doanh nghiệp GS1 loại 8 số (tương ứng với trường hợp doanh nghiệp được sử dụng 10.000 số vật phẩm)) | 2000000 VNĐ (Mức thu phí duy trì sử dụng mã số mã vạch hàng năm (niên phí) sử dụng mã doanh nghiệp GS1 loại 7 số (tương ứng với trường hợp doanh nghiệp được sử dụng 100.000 số vật phẩm)) | 200000 VNĐ (Sử dụng mã số thương phẩm toàn cầu 8 chữ số EAN-8 (GTIN-8)) | 0 VNĐ (Trường hợp tổ chức, cá nhân nộp hồ sơ cấp Giấy chứng nhận quyền sử dụng mã số mã vạch sau ngày 30 tháng 6 thì chỉ phải nộp 50% (năm mươi phần trăm) mức phí duy trì tương ứng với từng loại mã số mã vạch theo quy định nêu trên)
+    Mô tả: 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ và tổ chức, cá nhân đóng các khoản phí theo quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Mức thu phí cấp và hướng dẫn sử dụng mã số mã vạch sử dụng mã doanh nghiệp GS1 (không phân biệt mã số đăng ký sử dụng)) | 300000 VNĐ (Mức thu phí cấp và hướng dẫn sử dụng mã số mã vạch sử dụng mã số thương phẩm toàn cầu 8 chữ số EAN-8 (GTIN-8)) | 500000 VNĐ (Mức thu phí duy trì sử dụng mã số mã vạch hàng năm (niên phí) sử dụng mã doanh nghiệp GS1 loại 10 số (tương ứng với trường hợp doanh nghiệp được sử dụng 100 số vật phẩm)) | 800000 VNĐ (Mức thu phí duy trì sử dụng mã số mã vạch hàng năm (niên phí) Sử dụng mã doanh nghiệp GS1 loại 9 số (tương ứng với trường hợp doanh nghiệp được sử dụng 1.000 số vật phẩm)) | 1500000 VNĐ (Mức thu phí duy trì sử dụng mã số mã vạch hàng năm (niên phí) sử dụng mã doanh nghiệp GS1 loại 8 số (tương ứng với trường hợp doanh nghiệp được sử dụng 10.000 số vật phẩm)) | 2000000 VNĐ (Mức thu phí duy trì sử dụng mã số mã vạch hàng năm (niên phí) sử dụng mã doanh nghiệp GS1 loại 7 số (tương ứng với trường hợp doanh nghiệp được sử dụng 100.000 số vật phẩm)) | 200000 VNĐ (Sử dụng mã số thương phẩm toàn cầu 8 chữ số EAN-8 (GTIN-8)) | 0 VNĐ (Trường hợp tổ chức, cá nhân nộp hồ sơ cấp Giấy chứng nhận quyền sử dụng mã số mã vạch sau ngày 30 tháng 6 thì chỉ phải nộp 50% (năm mươi phần trăm) mức phí duy trì tương ứng với từng loại mã số mã vạch theo quy định nêu trên)
+    Mô tả: 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ và tổ chức, cá nhân đóng các khoản phí theo quy định
+
+Thành phần hồ sơ:
+    - Biểu mẫu điện tử kê khai thông tin đăng ký với các nội dung quy định tại Mẫu số 5 Phụ lục VII Nghị định số 37/2026/NĐ-CP. Các nội dung trong biểu mẫu điện tử thực hiện theo các thông tin bắt buộc
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Sử dụng tài khoản định danh điện tử VNeID của tổ chức, cá nhân sản xuất, kinh doanh đã được xác thực để thực hiện thủ tục cấp mới quyền sử dụng mã số, mã vạch. Trường hợp trên tài khoản VNeID chưa tích hợp các giấy tờ cần thiết như Quyết định thành lập, Giấy chứng nhận đăng ký doanh nghiệp/hộ kinh doanh, Giấy chứng nhận đăng ký đầu tư hoặc tài liệu tương đương, thì người nộp hồ sơ cần cung cấp bản sao điện tử từ sổ gốc hoặc chứng thực bản sao điện tử từ bản chính của các giấy tờ này
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Trung tâm Mã số, mã vạch quốc gia
+Cơ quan có thẩm quyền: Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cấp quyền sử dụng mã số, mã vạch (Mẫu số 6 Phụ lục VII Nghị định số 37/2026/NĐ-CP)
+Căn cứ pháp lý:
+  * Thông tư số 232/2016/TT-BTC ngày 11 tháng 11 năm 2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí cấp mã số, mã vạch (232/2016/TT-BTC)
+  * Luật sửa đổi, bổ sung một số điều của Luật Chất lượng sản
+phẩm, hàng hoá số 78/2025/QH15 ngày 18 tháng 6 năm 2025; (78/2025/QH15)
+  * Nghị định số 37/2026/NĐ-CP ngày 23/01/2026 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa (37/2026/NĐ-CP)
+  * Luật Chất lượng sản phẩm, hàng hoá (05/2007/QH12)
+
+Yêu cầu, điều kiện thực hiện: Việc cấp quyền sử dụng mã số, mã vạch được thực hiện cho các đối tượng sau:
+a) Tổ chức, cá nhân sản xuất, kinh doanh, dịch vụ chưa đăng ký sử dụng mã số, mã vạch.
+b) Tổ chức, cá nhân sản xuất, kinh doanh, dịch vụ đã được cấp quyền sử dụng mã số, mã vạch có nhu cầu đăng ký cấp trong các trường hợp sau:
+- Đã sử dụng hết quỹ mã số được cấp.
+- Bị thu hồi quyền sử dụng mã số, mã vạch nhưng đã đủ điều kiện cấp theo quy định pháp luật.
+- Quyền sử dụng mã số, mã vạch hết thời hạn hiệu lực.
+- Sáp nhập hoặc liên doanh, liên kết hình thành pháp nhân mới.
+c) Tổ chức, cá nhân sản xuất, kinh doanh, dịch vụ đã được cấp quyền sử dụng mã số, mã vạch và quyền sử dụng mã số, mã vạch còn thời hạn hiệu lực nhưng thay đổi về tên, địa chỉ của tổ chức, cá nhân.
+d) Tổ chức, cá nhân có nhu cầu dùng lại mã số, mã vạch đã bị thu hồi phải nộp đủ phí còn thiếu tính tới thời điểm đăng ký sử dụng lại.
+Từ khóa: Không có thông tin
+Mô tả: Việc cấp quyền sử dụng mã số, mã vạch được thực hiện cho các đối tượng sau:
+a) Tổ chức, cá nhân sản xuất, kinh doanh, dịch vụ chưa đăng ký sử dụng mã số, mã vạch.
+b) Tổ chức, cá nhân sản xuất, kinh doanh, dịch vụ đã được cấp quyền sử dụng mã số, mã vạch có nhu cầu đăng ký cấp trong các trường hợp sau:
+- Đã sử dụng hết quỹ mã số được cấp.
+- Bị thu hồi quyền sử dụng mã số, mã vạch nhưng đã đủ điều kiện cấp theo quy định pháp luật.
+- Quyền sử dụng mã số, mã vạch hết thời hạn hiệu lực.
+- Sáp nhập hoặc liên doanh, liên kết hình thành pháp nhân mới.
+c) Tổ chức, cá nhân sản xuất, kinh doanh, dịch vụ đã được cấp quyền sử dụng mã số, mã vạch và quyền sử dụng mã số, mã vạch còn thời hạn hiệu lực nhưng thay đổi về tên, địa chỉ của tổ chức, cá nhân.
+d) Tổ chức, cá nhân có nhu cầu dùng lại mã số, mã vạch đã bị thu hồi phải nộp đủ phí còn thiếu tính tới thời điểm đăng ký sử dụng lại.

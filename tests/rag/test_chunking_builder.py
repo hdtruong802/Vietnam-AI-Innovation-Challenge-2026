@@ -17,9 +17,7 @@ class ChunkBuilderTests(unittest.TestCase):
     def test_chunks_are_deterministic_and_keep_provenance(self) -> None:
         sections = parse_sections(
             normalize_document(
-                "Ten thu tuc: Demo\n"
-                "Thanh phan ho so: First paper\n"
-                "Le phi: none"
+                "Ten thu tuc: Demo\n" "Thanh phan ho so: First paper\n" "Le phi: none"
             ),
             "source-1",
         )

@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007895
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hóa xuất khẩu, nhập khẩu phục vụ các yêu cầu khẩn cấp; hàng hoá xuất khẩu, nhập khẩu chuyên dùng trực tiếp phục vụ quốc phòng, an ninh
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Bước 1: Người khai hải quan thực hiện khai hải quan đối với tờ khai hải quan chưa hoàn chỉnh hoặc các chứng từ thay thế tờ khai hải quan để làm thủ tục.
+    - Bước 2: Cơ quan Hải quan thông quan trên cơ sở tờ khai hải quan chưa hoàn chỉnh hoặc chứng từ thay thế tờ khai hải quan.
+    - Bước 3: Người khai hải quan nộp tờ khai hoàn chỉnh và các chứng từ liên quan thuộc hồ sơ hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Văn bản xác nhận yêu cầu bảo mật của Bộ trưởng Bộ Công an hoặc Bộ trưởng Bộ Quốc phòng: 01 bản chính (nếu có).
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Vận tải đơn: 01 bản chụp từ bản gốc hoặc bản chính của các bản vận tải đơn có ghi chữ copy;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Hóa đơn thương mại (nếu có): 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Tờ khai hải quan: 02 bản.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Văn bản xác nhận hàng hóa chuyên dùng phục vụ an ninh quốc phòng của Bộ trưởng Bộ Quốc phòng hoặc Bộ trưởng Bộ Công an hoặc văn bản xác nhận hàng hóa phục vụ yêu cầu khẩn cấp của cơ quan nhà nước có thẩm quyền: 01 bản chính;
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận thông quan
+Căn cứ pháp lý:
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014965
+Số quyết định: 813/QĐ-BTP
+Tên thủ tục: Thu hồi chứng chỉ hành nghề Quản tài viên trong trường hợp thôi hành nghề Quản tài viên theo nguyện vọng cá nhân
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản tài viên
+Trình tự thực hiện:
+    Quản tài viên thôi hành nghề theo nguyện vọng cá nhân có đơn đề nghị thu hồi chứng chỉ hành nghề Quản tài viên nộp đến Sở Tư pháp theo quy định.
+    Quản tài viên thôi hành nghề theo nguyện vọng cá nhân có đơn đề nghị thu hồi chứng chỉ hành nghề Quản tài viên theo Mẫu TP-QTV-03 kèm theo Nghị định số 65/2026/NĐ-CP, nộp trực tiếp hoặc qua dịch vụ bưu chính đến Sở Tư pháp nơi Quản tài viên đang hành nghề hoặc Sở Tư pháp nơi hành nghề cuối cùng của Quản tài viên hoặc trực tuyến trên môi trường điện tử theo quy định tại Điều 4 của Nghị định số 65/2026/NĐ-CP.
+    Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đơn đề nghị của Quản tài viên thôi hành nghề theo nguyện vọng cá nhân, Sở Tư pháp xem xét, có văn bản đề nghị Chủ tịch Ủy ban nhân dân cấp tỉnh thu hồi chứng chỉ hành nghề Quản tài viên của người đó; trường hợp từ chối đề nghị phải trả lời bằng văn bản có nêu rõ lý do.
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Sở Tư pháp, Chủ tịch Ủy ban nhân dân cấp tỉnh ra quyết định thu hồi chứng chỉ hành nghề Quản tài viên; trường hợp từ chối thu hồi chứng chỉ hành nghề Quản tài viên phải trả lời bằng văn bản có nêu rõ lý do.
+    Quyết định thu hồi chứng chỉ hành nghề Quản tài viên được gửi cho người bị thu hồi chứng chỉ, Tòa án nhân dân tỉnh, thành phố nơi Quản tài viên đăng ký hành nghề với tư cách cá nhân hoặc nơi doanh nghiệp quản lý, thanh lý tài sản mà người bị thu hồi chứng chỉ hành nghề có trụ sở.
+    Quản tài viên bị thu hồi chứng chỉ hành nghề thì bị xóa tên khỏi danh sách Quản tài viên, doanh nghiệp hành nghề quản lý, thanh lý tài sản. Quản tài viên không được hành nghề kể từ thời điểm quyết định thu hồi chứng chỉ hành nghề Quản tài viên có hiệu lực thi hành.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không quy định)
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không quy định)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không quy định)
+
+Thành phần hồ sơ:
+    - Đơn đề nghị thu hồi chứng chỉ hành nghề Quản tài viên
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Chủ tịch ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thu hồi chứng chỉ hành nghề quản tài viên
+Căn cứ pháp lý:
+  * Luật Phục hồi, phá sản (142/2025/QH15)
+  * Nghị định số 65/2026/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Phục hồi, phá sản về Quản tài viên và hành nghề quản lý, thanh lý tài sản; (65/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không quy định.
+Từ khóa: Không có thông tin
+Mô tả: Không quy định.

@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014715
+Số quyết định: 1040/QĐ-BCT
+Tên thủ tục: Thủ tục Đăng ký hóa chất mới
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hóa chất
+Trình tự thực hiện:
+    a) Thời hạn thẩm định, xác nhận là 50 (năm mươi) ngày làm việc kể từ ngày cơ quan tiếp nhận hồ sơ nhận đủ hồ sơ hợp lệ, không bao gồm thời gian tổ chức, cá nhân phải hoàn chỉnh hồ sơ theo quy định tại khoản 1, khoản 2 Điều 23 Nghị định số 26/2026/NĐ-CP;
+    b) Tổ chức, cá nhân đề nghị đăng ký hóa chất mới lập 01 bộ hồ sơ gửi cơ quan thẩm định qua đường bưu điện hoặc gửi trực tiếp hoặc qua hệ thống dịch vụ công trực tuyến;
+    c) Trường hợp hồ sơ chưa đầy đủ và hợp lệ, trong thời gian 03 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, cơ quan thẩm định thông báo để tổ chức, cá nhân bổ sung, hoàn chỉnh hồ sơ;
+    d) Sau khi nhận đủ hồ sơ hợp lệ, Bộ Công Thương có trách nhiệm tổ chức thẩm định hóa chất mới. Thẩm định hóa chất mới được thực hiện thông qua Hội đồng đánh giá hóa chất mới;
+    đ) Trường hợp Hồ sơ đăng ký hóa chất mới không được thông qua, tổ chức, cá nhân có trách nhiệm lập lại Hồ sơ. Hồ sơ, thủ tục thẩm định thực hiện như đối với tổ chức, cá nhân nộp hồ sơ lần đầu;
+    e) Trường hợp Hội đồng đánh giá hóa chất kiến nghị cấm nhập khẩu, sản xuất hóa chất được đánh giá, Bộ Công Thương có trách nhiệm thông báo đến tổ chức, cá nhân nộp hồ sơ bằng văn bản trong thời gian 07 (bảy) ngày làm việc;
+    g) Trường hợp Hội đồng đánh giá hóa chất kiến nghị Bộ Công Thương cho phép nhập khẩu, sản xuất hóa chất được đánh giá, Bộ Công Thương có trách nhiệm xác nhận đăng ký hóa chất mới trong thời gian 03 (bảy) ngày làm việc kể từ ngày tổ chức, cá nhân hoàn thiện hồ sơ;
+    h) Hội đồng đánh giá hóa chất do Bộ Công Thương thành lập. Hội đồng đánh giá hóa chất gồm đại diện cơ quan thẩm định, cơ quan quản lý chuyên ngành, các chuyên gia trong các lĩnh vực liên quan;
+    i) Thành phần của Hội đồng đánh giá gồm: Chủ tịch Hội đồng, Phó Chủ tịch Hội đồng, Ủy viên thư ký và các Ủy viên. Chủ tịch là chuyên gia có kinh nghiệm, am hiểu sâu về chuyên môn. Tổng số thành viên Hội đồng tối thiểu là 07 người, tối đa là 09 (chín) người;
+    k) Hội đồng có trách nhiệm đánh giá, thẩm định hóa chất và chịu trách nhiệm về kết luận đánh giá hóa chất mới;
+    l) Hội đồng hoạt động theo nguyên tắc thảo luận tập thể giữa các thành viên trong Hội đồng và lập Biên đánh giá hóa chất. Hội đồng chấm dứt hoạt động và tự giải thể sau khi ban hành Kết luận đánh giá hóa chất mới;
+    m) Hội đồng đánh giá chỉ tiến hành họp khi có sự tham gia của ít nhất 2/3 thành viên, trong đó phải có Chủ tịch hoặc Phó Chủ tịch. Chỉ những thành viên Hội đồng tham gia họp mới được tham gia bỏ phiếu đánh giá.
+    n) Bộ Công Thương cho phép nhập khẩu, sản xuất hóa chất được đánh giá trên cơ sở kết quả đồng thuận 100% của các thành viên Hội đồng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 50 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (thực hiện theo quy định)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 50 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (thực hiện theo quy định)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 50 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (thực hiện theo quy định)
+
+Thành phần hồ sơ:
+    - 1. Hồ sơ đăng ký hoá chất mới a) Văn bản đăng ký hóa chất mới; b) Kết quả đánh giá hóa chất mới bao gồm thông tin về tính chất vật lý, hóa học và đặc tính nguy hiểm của hóa chất được cung cấp bởi tổ chức đánh giá hóa chất mới quy định tại Điều 21 của Luật Hóa chất.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2. Trường hợp đăng ký hóa chất mới thuộc các Danh mục đã được Việt Nam công nhận tại khoản 5 Điều 23 Nghị định số 26/2026/NĐ-CP, tổ chức, cá nhân sản xuất, nhập khẩu hóa chất mới gửi hồ sơ đăng ký gồm:  a) Văn bản đăng ký hóa chất mới;  b) Báo cáo tóm tắt đánh giá hóa chất kèm theo mã số CAS hoặc số UN của hóa chất mới ở hai danh mục hóa chất nước ngoài;  c) Hồ sơ chứng minh hóa chất đã được đưa vào lưu thông trên thị trường (báo cáo về khối lượng sản xuất, kinh doanh).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Hóa chất
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: đăng ký hóa chất mới
+Căn cứ pháp lý:
+  * Thông tư số 01/2026/TT-BCT của Bộ trưởng Bộ Công Thương quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất và Nghị định số 26/2026/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa. (01/2026/TT-BCT)
+  * Nghị định số 26/2026/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa; (26/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

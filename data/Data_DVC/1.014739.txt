@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014739
+Số quyết định: 122/QĐ-UBND
+Tên thủ tục: Thủ tục hỗ trợ doanh nghiệp nhỏ và vừa trên địa bàn tỉnh Tuyên Quang giai đoạn 2026-2030
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hỗ trợ doanh nghiệp nhỏ và vừa
+Trình tự thực hiện:
+    - Trong thời hạn 30 ngày, kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp, doanh nghiệp nhỏ và vừa gửi hồ sơ đề xuất nhu cầu hỗ trợ về con dấu và chữ ký số đến Sở Tài chính để được xem xét hỗ trợ theo quy định.
+    - Trong thời hạn 14 ngày làm việc kể từ ngày nhận được hồ sơ đề xuất nhu cầu hỗ trợ của doanh nghiệp nhỏ và vừa, Sở Tài chính xem xét hồ sơ, quyết định và có thông báo (bằng văn bản hoặc trực tuyến) cho doanh nghiệp. Trường hợp doanh nghiệp không đủ điều kiện hỗ trợ, Sở Tài chính có thông báo để doanh nghiệp biết. Trường hợp doanh nghiệp đủ điều kiện hỗ trợ nhưng chưa đầy đủ hồ sơ, Sở Tài chính hướng dẫn doanh nghiệp hoàn thiện hồ sơ. Trường hợp doanh nghiệp đủ điều kiện hỗ trợ và đầy đủ hồ sơ, Sở Tài chính có thông báo về việc hỗ trợ cho doanh nghiệp, trong thông báo thể hiện rõ nội dung, kinh phí ngân sách nhà nước hỗ trợ và kinh phí khác (nếu có).
+    - Đơn vị cung cấp dịch vụ thực hiện bàn giao, nghiệm thu sản phẩm hỗ trợ cho doanh nghiệp được hỗ trợ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trung tâm Phục vụ hành chính công tỉnh/Trung tâm Phục vụ hành chính công cấp xã
+- Theo quy định của pháp luật: Trong thời hạn 14 ngày làm việc, kể từ ngày nhận được hồ sơ đề xuất nhu cầu hỗ trợ hợp lệ.
+- Theo thực tế tại địa phương: Trong thời gian 12 ngày làm việc, kể từ ngày nhận được hồ sơ đề xuất nhu cầu hỗ trợ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cổng Dịch vụ công quốc gia (https://dichvucong.gov.vn)
+- Theo quy định của pháp luật: Trong thời hạn 14 ngày làm việc, kể từ ngày nhận được hồ sơ đề xuất nhu cầu hỗ trợ hợp lệ. 
+- Theo thực tế tại địa phương: Trong thời gian 12 ngày làm việc, kể từ ngày nhận được hồ sơ đề xuất nhu cầu hỗ trợ hợp lệ
+
+Thành phần hồ sơ:
+    - Tờ khai xác định doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa và đề xuất nhu cầu hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Sở Tài chính tỉnh Tuyên Quang
+Cơ quan có thẩm quyền: Sở Tài chính tỉnh Tuyên Quang
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo về việc hỗ trợ cho doanh nghiệp
+Căn cứ pháp lý:
+  * Thông tư số 06/2022/TT-BKHĐT của Bộ Kế hoạch và Đầu tư: Hướng dẫn một số điều của Nghị định số 80/2021/NĐ-CP ngày 26 tháng 8 năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa (06/2022/TT-BKHĐT)
+  * Luật hỗ trợ doanh nghiệp nhỏ và vừa (Luật 04/2017/QH14)
+  * Nghị quyết số 20/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân  dân tỉnh Quy định một số chính sách hỗ trợ doanh nghiệp nhỏ và vừa trên địa bàn  tỉnh Tuyên Quang giai đoạn 2026-2030 (20/2025)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

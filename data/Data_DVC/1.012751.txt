@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012751
+Số quyết định: 2304/QĐ-BNNMT
+Tên thủ tục: Giải quyết tranh chấp đất đai thuộc thẩm quyền của Bộ trưởng Bộ Nông nghiệp và Môi trường
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đất đai
+Trình tự thực hiện:
+  * Trình tự thực hiện
+    Bước 1: Người có đơn yêu cầu giải quyết tranh chấp gửi đơn đến Bộ Nông nghiệp và Môi trường.
+    Bước 2: Bộ trưởng Bộ Nông nghiệp và Môi trường có trách nhiệm:
+    - Trong thời hạn 05 ngày làm việc kể từ ngày thụ lý đơn yêu cầu giải quyết tranh chấp, Bộ trưởng Bộ Nông nghiệp và Môi trường thông báo bằng văn bản cho các bên tranh chấp đất đai và Văn phòng đăng ký đất đai hoặc Chi nhánh Văn phòng đăng ký đất đai, Ủy ban nhân dân cấp xã nơi có đất tranh chấp về việc thụ lý đơn yêu cầu giải quyết tranh chấp đất đai; trường hợp không thụ lý thì phải thông báo bằng văn bản và nêu rõ lý do.
+    - Bộ trưởng Bộ Nông nghiệp và Môi trường giao trách nhiệm cho đơn vị có chức năng tham mưu giải quyết.
+    - Đơn vị có chức năng tham mưu giải quyết thực hiện như sau:
+    Tiến hành thu thập, nghiên cứu hồ sơ; trường hợp cần thiết trình Bộ trưởng Bộ Nông nghiệp và Môi trường quyết định thành lập đoàn công tác để tiến hành thẩm tra, xác minh vụ việc tại địa phương; tổ chức hòa giải giữa các bên tranh chấp; hoàn chỉnh hồ sơ trình Bộ trưởng Bộ Nông nghiệp và Môi trường ban hành quyết định giải quyết tranh chấp đất đai hoặc quyết định công nhận hòa giải thành.
+    Bước 3: Ban hành quyết định giải quyết tranh chấp:
+    Trong thời gian 03 ngày kể từ ngày nhận hồ sơ do đơn vị có chức năng tham mưu giải quyết trình, Bộ trưởng Bộ Nông nghiệp và Môi trường ban hành quyết định giải quyết tranh chấp gửi cho các bên tranh chấp, các tổ chức có quyền và nghĩa vụ liên quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 80 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 80 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 80 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+
+Thành phần hồ sơ:
+  [ Thành phần hồ sơ ]
+    - Biên bản làm việc với các bên tranh chấp, với các tổ chức, cá nhân có liên quan; biên bản kiểm tra hiện trạng đất tranh chấp; biên bản hòa giải trong quá trình giải quyết tranh chấp
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Trích lục bản đồ hoặc bản sao hồ sơ địa chính hoặc bản sao dữ liệu ảnh viễn thám qua các thời kỳ liên quan đến diện tích đất tranh chấp (nếu có), bản sao hồ sơ, tài liệu làm chứng cứ, chứng minh trong quá trình giải quyết tranh chấp đất đai tại địa phương
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Đơn yêu cầu yêu cầu giải quyết tranh chấp đất đai (bản chính);
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Báo cáo đề xuất và dự thảo quyết định giải quyết tranh chấp hoặc dự thảo quyết định công nhận hòa giải thành
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức nước ngoài, Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Bộ Nông nghiệp và Môi trường
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận hòa giải thành hoặc Quyết định giải quyết tranh chấp đất đai
+Căn cứ pháp lý:
+  * Luật Đất đai ngày 18/01/2024; (31/2024/QH15)
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp, phân quyền, phân cấp trong lĩnh vực đất đai (151/2025/NĐ-CP)
+  * Nghị định 102/2024/NĐ-CP ngày 30/7/2024 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đất đai. (102/2024/NĐ-CP)
+  * Thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và cổng Dịch vụ công quốc gia (118/2025/NĐ-C)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007847
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan nhập khẩu kim cương thô
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Bước 1: Doanh nghiệp khai báo hải quan  nhập khẩu lô hàng kim cương thô và gửi cho cơ quan hải quan.
+    - Bước 2: Cơ quan hải quan tiếp nhận bộ hồ sơ và tiến hành các bước công việc khác theo quy trình thủ tục hải quan chung.
+    - Bước 3: Cơ quan Hải quan cấp Giấy xác nhận kim cương thô nhập khẩu trong vòng ba (03) ngày làm việc kể từ ngày hoàn thành thủ tục hải quan nhập khẩu, gửi cho Phòng quản lý xuất nhập khẩu thuộc Bộ Công Thương để thông báo và gửi cho doanh nghiệp để làm các thủ tục tiếp theo tại Phòng này.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Một (01) bản sao Giấy chứng nhận KP ( Kimberley Process) do cơ quan có thẩm quyền của nước xuất khẩu cấp (bản sao này có chữ ký và đóng dấu xác nhận sao y bản chính của người đứng đầu hoặc người được uỷ quyền của thương nhân đồng thời có kèm bản chính để đối chiếu).
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Các giấy tờ khác theo quy định của pháp luật về Hải quan.
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông quan hàng hóa nhập khẩu, xuất khẩu
+Căn cứ pháp lý:
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * THÔNG TƯ LIÊN TỊCH  HƯỚNG DẪN VIỆC CẤP CHỨNG NHẬN VÀ THỦ TỤC NHẬP KHẨU, XUẤT KHẨU KIM CƯƠNG THÔ NHẰM THỰC THI CÁC QUY ĐỊNH CỦA QUY CHẾ CHỨNG NHẬN QUY TRÌNH KIMBERLEY (14/2009/TTLT-BCT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

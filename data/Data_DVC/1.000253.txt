@@ -1,0 +1,39 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000253
+Số quyết định: QĐ/0001-BCA
+Tên thủ tục: Khai báo tạm trú cho người nước ngoài tại Việt Nam bằng Phiếu khai báo tạm trú
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý xuất nhập cảnh
+Trình tự thực hiện:
+    Bước 1: Người khai báo tạm trú tiếp nhận thông tin tạm trú của người nước ngoài.
+    Bước 2: Khai, nộp Phiếu khai báo tạm trú cho trực ban Công an xã, phường, thị trấn hoặc đồn, trạm Công an (sau đây gọi chung là Công an cấp xã) nơi có cơ sở lưu trú (Phiếu khai báo tạm trú có thể gửi trước qua fax hoặc thông báo thông tin qua điện thoại đến Trực ban Công an cấp xã).
+    Cán bộ trực ban Công an cấp xã tiếp nhận hồ sơ kiểm tra tính pháp lý và nội dung hồ sơ:
+    Nếu nội dung Phiếu khai báo tạm trú cho người nước ngoài ghi đầy đủ thì tiếp nhận, thực hiện xác nhận theo quy định;
+    Nếu nội dung Phiếu khai báo tạm trú cho người nước ngoài chưa ghi đầy đủ thì yêu cầu người khai báo tạm trú sửa đổi, bổ sung.
+    Bước 3: Người khai báo tạm trú nhận lại Phiếu khai báo tạm trú đã có xác nhận của Công an cấp xã.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp trực tiếp tại trụ sở Công an cấp xã
+
+Thành phần hồ sơ:
+    - Phiếu khai báo tạm trú cho người nước ngoài (mẫu NA17)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Công an cấp Xã
+Cơ quan có thẩm quyền: Công an cấp Xã
+Địa chỉ tiếp nhận HS: Công an Xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Phiếu khai báo tạm trú được cơ quan Công an xác nhận và các thông tin khai báo tạm trú đã được tiếp nhận ghi vào sổ trực ban của Công an cấp xã.
+Căn cứ pháp lý:
+  * Thông tư quy định cách thức thực hiện khai báo, tiếp nhận thông tin tạm trú của người nước ngoài tại Việt Nam (53/2016/TT-BCA)
+  * Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam (Luật 47/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Thực hiện khai báo ngay khi người nước ngoài đến đăng ký tạm trú.
+Từ khóa: Không có thông tin
+Mô tả: Thực hiện khai báo ngay khi người nước ngoài đến đăng ký tạm trú.

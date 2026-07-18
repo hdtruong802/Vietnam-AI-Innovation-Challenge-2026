@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001440
+Số quyết định: 1225/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp thẻ hướng dẫn viên du lịch tại điểm
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Du lịch
+Trình tự thực hiện:
+    - Sở Du lịch/Sở Văn hóa, Thể thao và Du lịch định kỳ hằng năm công bố kế hoạch tổ chức kiểm tra nghiệp vụ hướng dẫn du lịch tại điểm;
+    - Người đề nghị cấp thẻ hướng dẫn viên du lịch tại điểm nộp 01 bộ hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công.
+    - Sở Du lịch/Sở Văn hóa, Thể thao và Du lịch tổ chức kiểm tra và cấp thẻ hướng dẫn viên du lịch tại điểm đối với người đã đạt yêu cầu kiểm tra nghiệp vụ trong thời hạn 08 ngày làm việc kể từ ngày có kết quả kiểm tra.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 50000 VNĐ (Mức giảm áp dụng theo Thông tư số 64/2025/TT-BTC ngày 30 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính đến hết ngày 31/12/2026)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 50000 VNĐ (Mức giảm áp dụng theo Thông tư số 64/2025/TT-BTC ngày 30 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính đến hết ngày 31/12/2026)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 50000 VNĐ (Mức giảm áp dụng theo Thông tư số 64/2025/TT-BTC ngày 30 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính đến hết ngày 31/12/2026)
+
+Thành phần hồ sơ:
+    - 02 ảnh chân dung màu cỡ 3 cm x 4 cm hoặc bản điện tử ảnh màu (trong trường hợp nộp hồ sơ trực tuyến)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị cấp thẻ hướng dẫn viên du lịch tại điểm (theo Mẫu số 06 ban hành kèm theo Phụ lục I.9 Nghị quyết số 66.18/2026/NQ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thẻ hướng dẫn viên du lịch tại điểm
+Căn cứ pháp lý:
+  * Thông tư số 13/2019/TT-BVHTTDL (13/2019/TT-BVHTTDL)
+  * Thông tư của Bộ trưởng Bộ VHTTDL (04/2024/TT-BVHTTDL)
+  * Luật 09/2017/QH14 (09/2017/QH14)
+  * Nghị quyết số 66.18/2026/NQ-CP của Chính phủ: Phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (66.18/2026/NQ-CP)
+  * Thông tư số 33/2018/TT-BTC (06/2017/TT-BVHTTDL)
+
+Yêu cầu, điều kiện thực hiện: (1) Có quốc tịch Việt Nam, thường trú tại Việt Nam;
+(2) Có năng lực hành vi dân sự đầy đủ;
+(3) Không mắc bệnh truyền nhiễm, không sử dụng chất ma túy; 
+(4) Đạt yêu cầu kiểm tra nghiệp vụ hướng dẫn du lịch tại điểm do Sở Du lịch/Sở Văn hóa, Thể thao và Du lịch.
+Từ khóa: Không có thông tin
+Mô tả: (1) Có quốc tịch Việt Nam, thường trú tại Việt Nam;
+(2) Có năng lực hành vi dân sự đầy đủ;
+(3) Không mắc bệnh truyền nhiễm, không sử dụng chất ma túy; 
+(4) Đạt yêu cầu kiểm tra nghiệp vụ hướng dẫn du lịch tại điểm do Sở Du lịch/Sở Văn hóa, Thể thao và Du lịch.

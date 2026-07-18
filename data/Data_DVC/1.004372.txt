@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004372
+Số quyết định: 2533/QĐ-BXD
+Tên thủ tục: Cấp lại Giấy phép và năng định cho nhân viên sửa chữa chuyên ngành hàng không (ARS)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+    a) Nộp hồ sơ thủ tục hành chính:
+    Người đề nghị phải hoàn thành 01 bộ hồ sơ nộp trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến đến Cục Hàng không Việt Nam và phải chịu trách nhiệm về các thông tin trong hồ sơ.
+    b) Giải quyết thủ tục hành chính:
+    Trong thời hạn 06 ngày, kể từ thời điểm nhận đủ hồ sơ, Cục Hàng không Việt Nam có trách nhiệm thẩm định hồ sơ, tổ chức kiểm tra và thực hiện việc cấp lại, gia hạn năng định phù hợp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 6 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 6 ngày, kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 6 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 6 ngày, kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 6 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 6 ngày, kể từ ngày nhận được hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+  [ Trong trường hợp Giấy phép hết hạn ]
+    - - Bản sao hoặc bản sao điện tử tài liệu duy trì kinh nghiệm với các nội dung áp dụng cho năng định của người đề nghị.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao hoặc biểu mẫu điện tử đơn đề nghị cấp lại theo mẫu.
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ Trong trường hợp Giấy phép mất, rách. ]
+    - - Bản sao hoặc biểu mẫu điện tử đơn đề nghị cấp lại theo mẫu.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Bản sao hoặc bản sao điện tử giấy phép và năng định đã được cấp (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép và năng định nhân viên AMT/ARS
+Căn cứ pháp lý:
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Thông tư 11/2022/TT-BGTVT (11/2022/TT-BGTVT)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 01/2011/TT-BGTVT ngày 27 tháng 01 năm 2011 của Bộ trưởng Bộ Giao thông vận tải ban hành Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay (03/2016/TT-BGTVT)
+  * Thông tư 42/2020/TT-BGTVT (42/2020/TT-BGTVT)
+  * Sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực hàng không dân dụng (28/2023/TT-BGTVT)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư để cắt giảm, đơn giản hóa thủ tục hành chính trong lĩnh vực đăng kiểm đường bộ, hàng không dân dụng và thanh tra thuộc phạm vi quản lý của Bộ Xây dựng (71/2025/TT-BXD)
+  * Ban hành Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay (01/2011/TT-BGTVT)
+  * Thông tư sửa đổi, bổ sung một số điều của Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay (56/2018/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Người làm đơn đề nghị cấp lại giấy phép nhân viên phải nộp hồ sơ tối thiểu 10 ngày trước ngày hết hạn của giấy phép đã được cấp.
+Trường hợp giấy phép bị mất, bị rách, người làm đơn đề nghị cấp lại giấy phép nhân viên trong phải nộp hồ sơ đến Cục Hàng không Việt Nam tối thiểu 7 ngày làm việc.
+Từ khóa: Không có thông tin
+Mô tả: Người làm đơn đề nghị cấp lại giấy phép nhân viên phải nộp hồ sơ tối thiểu 10 ngày trước ngày hết hạn của giấy phép đã được cấp.
+Trường hợp giấy phép bị mất, bị rách, người làm đơn đề nghị cấp lại giấy phép nhân viên trong phải nộp hồ sơ đến Cục Hàng không Việt Nam tối thiểu 7 ngày làm việc.

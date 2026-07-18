@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013274
+Số quyết định: 1139/QĐ-BXD
+Tên thủ tục: Cấp phép sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+  * Nộp TTHC
+    Tổ chức, cá nhân sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác nộp hồ sơ đề nghị đến Bộ phận Một cửa Cơ quan có thẩm quyền hoặc Trung tâm phục vụ hành chính công hoặc trên Cổng dịch vụ công Quốc gia.
+  * Giải quyết TTHC
+    Cơ quan có thẩm quyền giải quyết thủ tục hành chính thực hiện tiếp nhận, kiểm tra hồ sơ và xử lý như sau:
+    - Đối với trường hợp nộp trực tiếp, sau khi kiểm tra thành phần hồ sơ, nếu đúng quy định thì tiếp nhận hồ sơ và viết phiếu hẹn trả kết quả; hướng dẫn tổ chức, cá nhân hoàn thiện hồ sơ đối với trường hợp không đủ thành phần hồ sơ;
+    - Đối với trường hợp nộp gián tiếp, trong ngày tiếp nhận hồ sơ đối với đám tang và trong phạm vi 02 ngày làm việc đối với các trường hợp khác kể từ ngày nhận được hồ sơ, kiểm tra thành phần hồ sơ, nếu không đủ thành phần hồ sơ có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;
+    - Trong thời hạn không quá 01 ngày đối với đám tang, không quá 03 ngày làm việc đối với các trường hợp khác, cơ quan có thẩm quyền giải quyết thủ tục hành chính tiến hành kiểm tra nếu đủ điều kiện quy định thì có văn bản cấp phép sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác theo mẫu. Trường hợp không cấp phép thì phải có văn bản trả lời và nêu rõ lý do;
+    - Trả kết quả cho tổ chức, cá nhân bằng các hình thức: bản điện tử hợp lệ trên VNeID hoặc Cổng dịch vụ công quốc gia. Trường hợp tổ chức, cá nhân có nhu cầu nhận bản giấy thì nhận trực tiếp tại Trung tâm phục vụ hành chính công/Bộ phận một cửa hoặc được gửi qua dịch vụ bưu chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - 01 ngày đối với đám tang
+- 03 ngày làm việc đối với các trường hợp khác kể từ khi tiếp nhận hồ sơ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - 01 ngày đối với đám tang
+- 03 ngày làm việc đối với các trường hợp khác kể từ khi tiếp nhận hồ sơ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - 01 ngày đối với đám tang
+- 03 ngày làm việc đối với các trường hợp khác kể từ khi tiếp nhận hồ sơ
+
+Thành phần hồ sơ:
+    - Phương án sử dụng tạm thời lòng đường vỉa hè vào mục đích khác, phương án tổ chức giao thông (bản chính hoặc bản sao có chứng thực)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Văn bản đề nghị cấp phép sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác theo quy định tại Mẫu số 1 Phụ lục IV Nghị định số 241/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Khu Quản lý đường bộ, Sở Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản cấp phép sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác
+Căn cứ pháp lý:
+  * Quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ. (165/2024/NĐ-CP)
+  * Nghị định số 241/2026/NĐ-CP ngày 26 tháng 6 năm 2026 sửa đổi, bổ sung một số điều của Nghị định số 165/2024/NĐ-CP ngày 26 tháng 12 năm 2024 của Chính phủ quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ (241/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Đáp ứng điều kiện quy định tại khoản 1, khoản 2 Điều 21 Nghị định số 165/2024/NĐ-CP ngày 26/12/2024 của Chính phủ quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ
+Từ khóa: Không có thông tin
+Mô tả: Đáp ứng điều kiện quy định tại khoản 1, khoản 2 Điều 21 Nghị định số 165/2024/NĐ-CP ngày 26/12/2024 của Chính phủ quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ

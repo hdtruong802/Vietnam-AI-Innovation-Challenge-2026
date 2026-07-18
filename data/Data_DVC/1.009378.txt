@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009378
+Số quyết định: 1198/QĐ-BVHTTDL
+Tên thủ tục: Cấp giấy phép sửa đổi, bổ sung những nội dung ghi trong giấy phép hoạt động báo in, giấy phép hoạt động tạp chí in, giấy phép hoạt động báo điện tử, giấy phép hoạt động tạp chí điện tử, giấy phép hoạt động báo in và báo điện tử, giấy phép hoạt động tạp chí in và tạp chí điện tử
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Báo chí
+Trình tự thực hiện:
+  * Cấp giấy phép sửa đổi, bổ sung những nội dung ghi trong giấy phép hoạt động báo in, giấy phép hoạt động tạp chí in, giấy phép hoạt động báo điện tử, giấy phép hoạt động tạp chí điện tử, giấy phép xuất bản thêm ấn phẩm báo chí, giấy phép hoạt động báo in và báo điện tử, giấy phép hoạt động tạp chí in và tạp chí điện tử
+    Khi thay đổi các nội dung theo quy định tại khoản 2 Điều 20 Luật Báo chí (tên gọi cơ quan chủ quản báo chí; tên gọi cơ quan báo chí; tôn chỉ, mục đích; tên gọi ấn phẩm báo chí, chuyên trang của báo điện tử, tạp chí điện tử; tên miền của chuyên trang và báo điện tử, tạp chí điện tử), cơ quan chủ quản báo chí phải lập 01 bộ hồ sơ đề nghị cấp giấy phép sửa đổi, bổ sung gửi đến Bộ Văn hóa, Thể thao và Du lịch (VHTTDL).
+    Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ VHTTDL có trách nhiệm xem xét giải quyết việc cấp giấy phép; trường hợp từ chối cấp phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Cấp giấy phép sửa đổi, bổ sung những nội dung ghi trong giấy phép hoạt động báo in/ giấy phép hoạt động tạp chí in/ giấy phép xuất bản thêm ấn phẩm báo chí/ giấy phép hoạt động báo điện tử/ giấy phép hoạt động tạp chí điện tử/ giấy phép hoạt động báo in và báo điện tử/ giấy phép hoạt động tạp chí in và tạp chí điện tử ]
+    - Mẫu trình bày tên gọi ấn phẩm báo chí có xác nhận của cơ quan chủ quản báo chí đối với trường hợp thay đổi tên gọi ấn phẩm báo chí (Tên gọi tạp chí in thể hiện rõ cụm từ “tạp chí” có cỡ chữ tối thiểu bằng 1/3 cỡ chữ của tên tạp chí in đối với trường hợp thay đổi tên gọi ấn phẩm tạp chí in)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu trình bày tên gọi chuyên trang của báo điện tử, tạp chí điện tử có xác nhận của cơ quan chủ quản báo chí đối với trường hợp thay đổi tên gọi chuyên trang của báo điện tử, tạp chí điện tử (Đáp ứng điều kiện quy định tại điểm đ khoản 1 Điều 10 của Thông tư số 41/2020/TT-BTTTT ngày 24/12/2020 của Bộ trưởng Bộ Thông tin và Truyền thông đối với trường hợp thay đổi tên gọi chuyên trang của báo điện tử; đáp ứng điều kiện quy định tại điểm đ khoản 1 Điều 11 của Thông tư số 41/2020/TT-BTTTT ngày 24/12/2020 của Bộ trưởng Bộ Thông tin và Truyền thông)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị của cơ quan chủ quản báo chí (Đối với trường hợp thay đổi tên miền, trong văn bản đề nghị của cơ quan chủ quản báo chí thể hiện tên miền phù hợp với tên báo điện tử, tạp chí điện tử và việc sở hữu tên miền còn thời gian sử dụng tối thiểu 06 tháng tính từ thời điểm đề nghị)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo đánh giá việc thực hiện tôn chỉ, mục đích theo giấy phép của cơ quan báo chí đối với trường hợp thay đổi tôn chỉ, mục đích
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu trình bày tên gọi cơ quan báo chí có xác nhận của cơ quan chủ quản báo chí đối với trường hợp thay đổi tên gọi cơ quan báo chí (Tên gọi tạp chí in thể hiện rõ cụm từ “tạp chí” có cỡ chữ tối thiểu bằng 1/3 cỡ chữ của tên tạp chí in đối với trường hợp thay đổi tên gọi tạp chí in; tên gọi tạp chí điện tử thể hiện rõ cụm từ “tạp chí” hoặc “tạp chí điện tử” có cỡ chữ tối thiểu bằng 1/2 cỡ chữ của tên tạp chí điện tử đối với trường hợp thay đổi tên gọi tạp chí điện tử)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Báo chí
+Cơ quan có thẩm quyền: Bộ Văn hóa, Thể thao và Du lịch
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép sửa đổi, bổ sung những quy định ghi trong giấy phép hoạt động báo in, tạp chí in, báo điện tử, tạp chí điện tử, xuất bản thêm ấn phẩm báo chí
+Căn cứ pháp lý:
+  * Luật báo chí (103/2016/QH13)
+  * Thông tư 41/2020/TT-BTTTT (41/2020/TT-BTTTT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

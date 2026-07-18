@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000376
+Số quyết định: 1040/QĐ-BCT
+Tên thủ tục: Cấp Giấy phép thành lập Chi nhánh của thương nhân nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thương mại quốc tế
+Trình tự thực hiện:
+    Thương nhân nước ngoài nộp hồ sơ trực tiếp hoặc qua đường bưu điện hoặc trực tuyến (nếu đủ điều kiện áp dụng) đến Cơ quan cấp Giấy phép.
+    Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ, Cơ quan cấp Giấy phép kiểm tra và yêu cầu bổ sung nếu hồ sơ chưa đầy đủ, hợp lệ. Việc yêu cầu bổ sung hồ sơ được thực hiện tối đa một lần trong suốt quá trình giải quyết hồ sơ.
+    Trừ trường hợp quy định tại Khoản 4 Điều 13 Nghị định 07/2016/NĐ-CP, trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan cấp Giấy phép cấp Giấy phép cấp hoặc không cấp Giấy phép thành lập Chi nhánh cho thương nhân nước ngoài. Trường hợp từ chối cấp phép phải có văn bản nêu rõ lý do.
+    Trường hợp quy định tại Khoản 5 Điều 8 Nghị định 07/2016/NĐ-CP và trường hợp việc thành lập Chi nhánh chưa được quy định tại văn bản quy phạm pháp luật chuyên ngành, Cơ quan cấp Giấy phép gửi văn bản lấy ý kiến của Bộ quản lý chuyên ngành trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản của Bộ Công Thương, Bộ quản lý chuyên ngành có văn bản nêu rõ ý kiến đồng ý hoặc không đồng ý cấp phép thành lập Chi nhánh. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản của Bộ quản lý chuyên ngành, Cơ quan cấp Giấy phép cấp hoặc không cấp Giấy phép thành lập Chi nhánh cho thương nhân nước ngoài. Trường hợp không cấp phép phải có văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 07 ngày làm việc (trường hợp không phải xin ý kiến Bộ quản lý chuyên ngành); 13 ngày làm việc (trường hợp phải xin ý kiến Bộ quản lý chuyên ngành).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 07 ngày làm việc (trường hợp không phải xin ý kiến Bộ quản lý chuyên ngành); 13 ngày làm việc (trường hợp phải xin ý kiến Bộ quản lý chuyên ngành).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 07 ngày làm việc (trường hợp không phải xin ý kiến Bộ quản lý chuyên ngành); 13 ngày làm việc (trường hợp phải xin ý kiến Bộ quản lý chuyên ngành).
+
+Thành phần hồ sơ:
+    - -- Đơn đề nghị cấp Giấy phép thành lập Chi nhánh theo mẫu của Bộ Công Thương do đại diện có thẩm quyền của thương nhân nước ngoài ký
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - b) Bản sao Giấy đăng ký kinh doanh hoặc giấy tờ có giá trị tương đương của thương nhân nước ngoài
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - g) Tài liệu về địa điểm dự kiến đặt trụ sở Chi nhánh bao gồm: - Bản sao biên bản ghi nhớ hoặc thỏa thuận thuê địa điểm hoặc bản sao tài liệu chứng minh thương nhân có quyền khai thác, sử dụng địa điểm để đặt trụ sở Chi nhánh; - Bản sao tài liệu về địa điểm dự kiến đặt trụ sở Chi nhánh theo quy định tại Điều 28 Nghị định 07/2016/NĐ-CP và quy định pháp luật có liên quan. Tài liệu quy định tại Điểm b, Điểm c, Điểm d, Điểm đ và Điểm e (đối với trường hợp bản sao hộ chiếu của người đứng đầu Chi nhánh là người nước ngoài) Khoản 1 Điều 12 Nghị định 07/2016/NĐ-CP phải dịch ra tiếng Việt và chứng thực theo quy định của pháp luật Việt Nam. Tài liệu quy định tại Điểm b Khoản 1 Điều 12 Nghị định 07/2016/NĐ-CP phải được cơ quan đại diện ngoại giao, cơ quan lãnh sự của Việt Nam ở nước ngoài chứng nhận hoặc hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Bản sao Điều lệ hoạt động của Chi nhánh
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - d) Bản sao báo cáo tài chính có kiểm toán hoặc văn bản xác nhận tình hình thực hiện nghĩa vụ thuế hoặc tài chính trong năm tài chính gần nhất hoặc giấy tờ có giá trị tương đương do cơ quan, tổ chức có thẩm quyền nơi thương nhân nước ngoài thành lập cấp hoặc xác nhận, chứng minh sự tồn tại và hoạt động của thương nhân nước ngoài trong năm tài chính gần nhất
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Bản sao hộ chiếu hoặc giấy chứng minh nhân dân hoặc thẻ căn cước công dân (nếu là người Việt Nam) hoặc bản sao hộ chiếu (nếu là người nước ngoài) của người đứng đầu Chi nhánh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Văn bản của thương nhân nước ngoài cử/bổ nhiệm người đứng đầu Chi nhánh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu quy định tại Điểm b, Điểm c, Điểm d, Điểm đ và Điểm e (đối với trường hợp bản sao hộ chiếu của người đứng đầu Chi nhánh là người nước ngoài) Khoản 1 Điều 12 Nghị định 07/2016/NĐ-CP phải dịch ra tiếng Việt và chứng thực theo quy định của pháp luật Việt Nam. Tài liệu quy định tại Điểm b Khoản 1 Điều 12 Nghị định 07/2016/NĐ-CP phải được cơ quan đại diện ngoại giao, cơ quan lãnh sự của Việt Nam ở nước ngoài chứng nhận hoặc hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người nước ngoài
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: GIẤY PHÉP THÀNH LẬP CHI NHÁNH CỦA THƯƠNG NHÂN NƯỚC NGOÀI TẠI VIỆT NAM
+Căn cứ pháp lý:
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Nghị định số 146/2025/NĐ-CP (nghị định 146/2025)
+  * Thông tư số 11/2016/TT-BCT (11/2016/TT-BCT)
+  * Sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương (38/2025/TT-BCT)
+  * Nghị định số 07/2016/NĐ-CP (07/2016/NĐ-CP)
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Thương nhân nước ngoài được cấp Giấy phép thành lập Chi nhánh khi đáp ứng các điều kiện sau:
+(i) Thương nhân nước ngoài được thành lập, đăng ký kinh doanh theo quy định của pháp luật quốc gia, vùng lãnh thổ tham gia Điều ước quốc tế mà Việt Nam là thành viên hoặc được pháp luật các quốc gia, vùng lãnh thổ này công nhận;
+(ii) Thương nhân nước ngoài đã hoạt động ít nhất 05 năm, kể từ ngày được thành lập hoặc đăng ký;
+(iii) Trong trường hợp Giấy đăng ký kinh doanh hoặc giấy tờ có giá trị tương đương của thương nhân nước ngoài có quy định thời hạn hoạt động thì thời hạn đó phải còn ít nhất là 01 năm tính từ ngày nộp hồ sơ;
+(iv) Nội dung hoạt động của Chi nhánh phải phù hợp với cam kết mở cửa thị trường của Việt Nam trong các điều ước quốc tế mà Việt Nam là thành viên và phù hợp với ngành nghề kinh doanh của thương nhân nước ngoài;
+(v) Trường hợp nội dung hoạt động của Chi nhánh không phù hợp với cam kết của Việt Nam hoặc thương nhân nước ngoài không thuộc quốc gia, vùng lãnh thổ tham gia điều ước quốc tế mà Việt Nam là thành viên, việc thành lập Chi nhánh phải được sự chấp thuận của Bộ trưởng Bộ quản lý chuyên ngành.
+Từ khóa: Không có thông tin
+Mô tả: Thương nhân nước ngoài được cấp Giấy phép thành lập Chi nhánh khi đáp ứng các điều kiện sau:
+(i) Thương nhân nước ngoài được thành lập, đăng ký kinh doanh theo quy định của pháp luật quốc gia, vùng lãnh thổ tham gia Điều ước quốc tế mà Việt Nam là thành viên hoặc được pháp luật các quốc gia, vùng lãnh thổ này công nhận;
+(ii) Thương nhân nước ngoài đã hoạt động ít nhất 05 năm, kể từ ngày được thành lập hoặc đăng ký;
+(iii) Trong trường hợp Giấy đăng ký kinh doanh hoặc giấy tờ có giá trị tương đương của thương nhân nước ngoài có quy định thời hạn hoạt động thì thời hạn đó phải còn ít nhất là 01 năm tính từ ngày nộp hồ sơ;
+(iv) Nội dung hoạt động của Chi nhánh phải phù hợp với cam kết mở cửa thị trường của Việt Nam trong các điều ước quốc tế mà Việt Nam là thành viên và phù hợp với ngành nghề kinh doanh của thương nhân nước ngoài;
+(v) Trường hợp nội dung hoạt động của Chi nhánh không phù hợp với cam kết của Việt Nam hoặc thương nhân nước ngoài không thuộc quốc gia, vùng lãnh thổ tham gia điều ước quốc tế mà Việt Nam là thành viên, việc thành lập Chi nhánh phải được sự chấp thuận của Bộ trưởng Bộ quản lý chuyên ngành.

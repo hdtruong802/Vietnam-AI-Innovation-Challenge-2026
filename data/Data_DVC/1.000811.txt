@@ -1,0 +1,82 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000811
+Số quyết định: 4977/QĐ-BCA
+Tên thủ tục: Cấp mới thẻ ABTC (thực hiện tại cấp trung ương)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý xuất nhập cảnh
+Trình tự thực hiện:
+    Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+    Bước 2: Nộp hồ sơ
+    * Cơ quan, tổ chức, doanh nghiệp đề nghị cấp mới thẻ ABTC cho doanh nhân đang ở trong nước trực tiếp nộp hồ sơ tại một trong hai trụ sở làm việc của Cục Quản lý xuất nhập cảnh - Bộ Công an:
+    + Số 44-46 đường Trần Phú, quận Ba Đình, thành phố Hà Nội.
+    + Số 333-335-337 đường Nguyễn Trãi, Quận 1, Thành phố Hồ Chí Minh.
+    Hoặc nộp hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.
+    Trường hợp nộp hồ sơ trực tiếp thì cơ quan, tổ chức, doanh nghiệp có thể cử người đi nộp hồ sơ và nhận kết quả thay cho doanh nhân.
+    * Cán bộ quản lý xuất nhập cảnh tiếp nhận hồ sơ, kiểm tra tính pháp lý và nội dung hồ sơ:
+    + Trường hợp hồ sơ hợp lệ thì cấp giấy hẹn trả kết quả hoặc hệ thống của Cổng dịch vụ công thông báo bằng tin nhắn (sms) hoặc thư điện tử (email) về việc tiếp nhận hồ sơ; thu lệ phí theo quy định.
+    + Trường hợp hồ sơ chưa hợp lệ thì cán bộ tiếp nhận hồ sơ hướng dẫn hoàn thiện hồ sơ theo mẫu CV03 hoặc hệ thống của Cổng dịch vụ công thông báo bằng tin nhắn (sms) hoặc thư điện tử (email).
+    * Cơ quan, tổ chức, doanh nghiệp đề nghị cấp mới thẻ ABTC cho doanh nhân có thể đăng ký nhận kết quả trực tiếp hoặc trực tuyến qua Cổng dịch vụ công hoặc qua dịch vụ bưu chính công ích.
+    * Thời gian tiếp nhận hồ sơ: giờ hành chính từ thứ 2 đến sáng thứ 7 hàng tuần (trừ ngày Tết, ngày lễ).
+    Bước 3: Nhận kết quả
+    - Đối với thẻ ABTC cứng: cơ quan, tổ chức, doanh nghiệp đề nghị cấp mới thẻ ABTC cứng cho doanh nhân trực tiếp nhận kết quả tại Cục Quản lý xuất nhập cảnh hoặc đề nghị nhận kết quả qua dịch vụ bưu chính công ích. Trường hợp đề nghị nhận kết quả qua dịch vụ bưu chính thì thực hiện theo hướng dẫn của cơ quan cung cấp dịch vụ bưu chính.
+    - Đối với thẻ ABTC điện tử: doanh nhân nhận thông tin tài khoản đăng nhập thẻ ABTC điện tử trực tiếp tại Cục Quản lý xuất nhập cảnh hoặc trực tuyến qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.
+    - Trường hợp không đồng ý cấp thẻ ABTC thì Cục Quản lý xuất nhập cảnh phải trả lời bằng văn bản hoặc thông báo trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an và nêu rõ lý do.
+    + Thời gian trả kết quả: giờ hành chính từ thứ 2 đến thứ 6 hàng tuần (trừ ngày Tết, ngày lễ).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 21 ngày
+    Phí, lệ phí: 1200000 VNĐ (1.200.000đ/thẻ ABTC.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 21 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 21 ngày
+    Phí, lệ phí: 1200000 VNĐ (1.200.000 đồng/thẻ ABTC.)
+
+Thành phần hồ sơ:
+    - + 01 tờ khai đề nghị cấp thẻ ABTC (mẫu TK06) ban hành kèm theo Quyết định số 09/2023/QĐ-TTg ngày 12/4/2023 của Thủ tướng Chính phủ có xác nhận và đóng dấu giáp lai ảnh của lãnh đạo doanh nghiệp hoặc cơ quan, tổ chức cán bộ của các ngành kinh tế, cơ quan quản lý nhà nước chuyên ngành về hoạt động của doanh nghiệp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + 01 bản chính văn bản cho phép sử dụng thẻ của cấp có thẩm quyền được cấp trong vòng 06 tháng tính đến ngày nộp hồ sơ; trường hợp quá thời hạn 06 tháng cơ quan, tổ chức, doanh nghiệp có trách nhiệm đề nghị cấp có thẩm quyền cấp lại văn bản cho phép doanh nhân sử dụng thẻ ABTC.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + 02 ảnh mới chụp, cỡ 3cm x 4cm, đầu để trần, mặt nhìn thẳng, không đeo kính, phông nền màu trắng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + 01 bản chính văn bản đề nghị cấp thẻ ABTC do lãnh đạo của cơ quan, tổ chức hoặc người đại diện theo pháp luật của doanh nghiệp ký (mẫu CV02) ban hành kèm theo Quyết định số 09/2023/QĐ-TTg ngày 12/4/2023 của Thủ tướng Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - * Số lượng hồ sơ: 01 (một) bộ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Cục quản lý xuất nhập cảnh
+Cơ quan có thẩm quyền: Cục quản lý xuất nhập cảnh
+Địa chỉ tiếp nhận HS: Cục Quản lý xuất nhập cảnh, Bộ Công an:
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thẻ ABTC (thẻ cứng hoặc thẻ điện tử).
+Căn cứ pháp lý:
+  * QUY ĐỊNH MỨC THU, CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG PHÍ, LỆ PHÍ TRONG LĨNH VỰC XUẤT CẢNH, NHẬP CẢNH, QUÁ CẢNH, CƯ TRÚ TẠI VIỆT NAM (25/2021/TT-BTC)
+  * Quyết định số 09/2023/QĐ-TTg (09/2023/QĐ-TTg)
+  * Luật 49/2019/QH14 (49/2019/QH14)
+
+Yêu cầu, điều kiện thực hiện: 1. Điều kiện đối với cơ quan, tổ chức nơi doanh nhân đang làm việc:
+Có nhu cầu cử nhân sự đi lại thường xuyên, ngắn hạn để tham dự các hội nghị, hội thảo, cuộc họp thường niên và các hoạt động về hợp tác, phát triển kinh tế của APEC.
+2. Điều kiện đối với doanh nghiệp nơi doanh nhân làm việc:
+a) Doanh nghiệp đã có thời gian hoạt động liên tục từ 12 tháng trở lên, chấp hành đúng quy định của pháp luật về thương mại, thuế, hải quan, lao động, bảo hiểm xã hội và các quy định pháp luật có liên quan khác.
+b) Doanh nghiệp phải có hoạt động ký kết, hợp tác kinh doanh trực tiếp với đối tác của các nền kinh tế thành viên APEC.
+c) Có nhu cầu cử nhân sự đi lại thường xuyên, ngắn hạn để thực hiện các hoạt động hợp tác kinh doanh, thương mại, đầu tư, dịch vụ hoặc các mục đích kinh tế khác tại các nền kinh tế thành viên APEC.
+3. Điều kiện đối với doanh nhân đề nghị cấp thẻ ABTC
+a) Từ đủ 18 tuổi trở lên, có đầy đủ năng lực hành vi dân sự.
+b) Đang làm việc, giữ chức vụ thực tế tại cơ quan, tổ chức, doanh nghiệp từ 12 tháng trở lên tính đến thời điểm đề nghị cho phép sử dụng thẻ ABTC.
+c) Không thuộc các trường hợp tạm hoãn xuất cảnh theo quy định tại Điều 36 Luật Xuất cảnh, nhập cảnh của công dân Việt Nam.
+Từ khóa: Cấp mới thẻ ABTC (thực hiện tại cấp trung ương)
+Mô tả: 1. Điều kiện đối với cơ quan, tổ chức nơi doanh nhân đang làm việc:
+Có nhu cầu cử nhân sự đi lại thường xuyên, ngắn hạn để tham dự các hội nghị, hội thảo, cuộc họp thường niên và các hoạt động về hợp tác, phát triển kinh tế của APEC.
+2. Điều kiện đối với doanh nghiệp nơi doanh nhân làm việc:
+a) Doanh nghiệp đã có thời gian hoạt động liên tục từ 12 tháng trở lên, chấp hành đúng quy định của pháp luật về thương mại, thuế, hải quan, lao động, bảo hiểm xã hội và các quy định pháp luật có liên quan khác.
+b) Doanh nghiệp phải có hoạt động ký kết, hợp tác kinh doanh trực tiếp với đối tác của các nền kinh tế thành viên APEC.
+c) Có nhu cầu cử nhân sự đi lại thường xuyên, ngắn hạn để thực hiện các hoạt động hợp tác kinh doanh, thương mại, đầu tư, dịch vụ hoặc các mục đích kinh tế khác tại các nền kinh tế thành viên APEC.
+3. Điều kiện đối với doanh nhân đề nghị cấp thẻ ABTC
+a) Từ đủ 18 tuổi trở lên, có đầy đủ năng lực hành vi dân sự.
+b) Đang làm việc, giữ chức vụ thực tế tại cơ quan, tổ chức, doanh nghiệp từ 12 tháng trở lên tính đến thời điểm đề nghị cho phép sử dụng thẻ ABTC.
+c) Không thuộc các trường hợp tạm hoãn xuất cảnh theo quy định tại Điều 36 Luật Xuất cảnh, nhập cảnh của công dân Việt Nam.

@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012474
+Số quyết định: 2628/QĐ-UBND
+Tên thủ tục: 	Hỗ trợ tiền vé xe cho người lao động
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Việc làm (G07-LĐ11)
+Trình tự thực hiện:
+    Bước 1: Người lao động gửi hồ sơ đến Trung tâm Phục vụ hành chính công cấp xã
+    Bước 2: Trong thời hạn 08 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị hỗ trợ, Phòng Văn hóa - Xã hội thẩm định, lập danh sách trình UBND cấp xã phê duyệt trả kết quả cho Người lao động
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 08 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 08 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 08 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị hỗ trợ theo Mẫu số 01 kèm theo Nghị quyết số 14/2021/NQ-HĐND ngày 09 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh Điện Biên quy định chính sách hỗ trợ tiền vé xe cho người lao động của tỉnh Điện Biên đi sơ tuyển, đi làm việc có tổ chức tại các doanh nghiệp, khu công nghiệp ngoài tỉnh.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản sao có chứng thực của một trong các giấy tờ sau: Quyết định trúng tuyển vào làm việc từ đủ 12 tháng trở lên, quyết định trúng tuyển hoặc giấy báo nhập học (trường hợp người lao động đi tham gia sơ tuyển), quyết định mở lớp học nghề trình độ trung cấp nghề, cao đẳng nghề hoặc hợp đồng đào tạo với cơ sở giáo dục nghề nghiệp; quyết định tuyển dụng lao động hoặc hợp đồng lao động từ 01 năm (12 tháng) trở lên với doanh nghiệp tuyển dụng (trường hợp người lao động đi làm việc, đi học nghề).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Vé xe vận tải hành khách thông thường.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Đơn đề nghị hỗ trợ theo Mẫu số 02 kèm theo Nghị quyết số 14/2021/NQ-HĐND ngày 09 tháng 12 năm 2021 của Hội đồng nhân dân tỉnh Điện Biên Quy định chính sách hỗ trợ tiền vé xe cho người lao động của tỉnh Điện Biên đi sơ tuyển, đi làm việc có tổ chức tại các doanh nghiệp, khu công nghiệp ngoài tỉnh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực hợp đồng lao động từ đủ 12 tháng trở lên hoặc Quyết định mở lớp hoặc hợp đồng đào tạo trình độ trung cấp nghề, cao đẳng nghề.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Vé xe vận tải hành khách thông thường.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công tỉnh Điện Biên;Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt của UBND cấp xã
+Căn cứ pháp lý:
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Nội vụ (129/2025/NĐ-CP)
+  * Quy định chính sách hỗ trợ tiền vé xe cho người lao động của tỉnh Điện Biên đi sơ tuyển, đi làm việc có tổ chức tại các doanh nghiệp, khu công nghiệp ngoài tỉnh (14/2021/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

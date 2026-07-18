@@ -1,0 +1,38 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007833
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục khai báo giá tạm tính đối với hàng hóa xuất khẩu, nhập khẩu; khai báo khoản phí bản quyền, giấy phép; các khoản tiền mà người nhập khẩu phải trả từ số tiền thu được sau khi bán lại, định đoạt, sử dụng hàng hóa nhập khẩu được chuyển trực tiếp hay gián tiếp cho người bán dưới mọi hình thức đối với trường hợp tại thời điểm đăng ký tờ khai chưa xác định được giá
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Bước 1: Tổ chức, cá nhân khai báo giá tạm tính đối với hàng hóa xuất khẩu, nhập khẩu trên hệ thống VNACCS. Khi có giá chính thức thì khai giá chính thức trên tờ khai sửa đổi, bổ sung sau thông quan.
+    - Bước 2: Chi cục Hải quan kiểm tra để xác định trị giá hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tờ khai bổ sung sau thông quan
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định ấn định thuế hoặc xử lý chênh lệch về thuế
+Căn cứ pháp lý:
+  * Thông tư số 39/2015/TT-BTC (39/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

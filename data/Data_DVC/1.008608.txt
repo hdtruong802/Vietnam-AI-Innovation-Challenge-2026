@@ -1,0 +1,38 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008608
+Số quyết định: 1753/QĐ-BTC
+Tên thủ tục: Thủ tục Chấm dứt Đại lý giám sát hải quan
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp có nhu cầu chấm dứt Đại lý giám sát hải quan nộp hồ sơ đến Tổng cục Hải quan đề nghị chấm dứt Đại lý giám sát hải quan.
+    Bước 2: Tổng cục Hải quan yêu cầu Cục Hải quan nơi cấp Sổ hải quan giám sát phương tiện thực hiện kiểm tra, theo dõi để thanh khoản toàn bộ hồ sơ phương tiện vận tải của doanh nghiệp Trung Quốc nhập cảnh nhưng chưa xuất cảnh do Đại lý giám sát thực hiện giám sát còn tồn, báo cáo đề xuất Tổng cục Hải quan xem xét chấm dứt hoạt động Đại lý giám sát hải quan.
+    Bước 3: Tổng cục Hải quan ra Quyết định chấm dứt Đại lý giám sát hải quan trong thời hạn 05 ngày kể từ ngày nhận được báo cáo của Cục hải quan tỉnh, thành phố.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Giấy tờ công nhận kho bãi, địa điểm còn hiệu lực được cấp bởi cơ quan có thẩm quyền theo quy định tại Nghị định số 68/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh hàng miễn thuế, kho bãi, địa điểm làm thủ tục hải quan, tập kết, kiểm tra, giám sát hải quan: nộp 01 bản chụp có công chứng hoặc chứng thực (trường hợp doanh nghiệp nộp qua đường bưu chính hoặc nộp 01 bản chụp, xuất trình bản chính để đối chiếu (trường hợp nộp trực tiếp)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Văn bản đề nghị chấm dứt Đại lý giám sát hải quan theo Mẫu số 08
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng Đại lý giám sát hải quan ký với doanh nghiệp Trung Quốc (nếu có): nộp 01 bản chụp có công chứng hoặc chứng thực (trường hợp doanh nghiệp nộp qua đường bưu chính) hoặc nộp 01 bản chụp, xuất trình bản chính để đối chiếu (trường hợp nộp trực tiếp)
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền: Cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định chấm dứt Đại lý giám sát hải quan
+Căn cứ pháp lý:
+  * Quyết định 04/2018/QĐ-TTg (04/2018/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

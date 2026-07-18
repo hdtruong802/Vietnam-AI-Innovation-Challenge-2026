@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000421
+Số quyết định: 2866/QĐ-BCT
+Tên thủ tục: Thủ tục sửa đổi, bổ sung/ cấp lại Giấy phép quá cảnh hàng hóa
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    - Chủ hàng gửi 01 bộ hồ sơ đề nghị sửa đổi, bổ sung/ cấp lại Giấy phép quá cảnh hàng hóa đến cơ quan cấp phép.
+    - Trường hợp hồ sơ chưa đầy đủ, đúng quy định, trong thời hạn 03 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, cơ quan cấp phép thông báo để chủ hàng yêu cầu bổ sung, chỉnh sửa hoàn thiện hồ sơ.
+    - Trong vòng 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, đúng quy định, cơ quan cấp phép có văn bản trả lời chấp thuận hay không việc đề nghị sửa đổi, bổ sung/ cấp lại Giấy phép quá cảnh hàng hóa. Trường hợp không chấp thuận, cơ quan cấp phép có văn bản trả lời chủ hàng và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - -Tờ khai Hải quan của lô hàng quá cảnh: 01 bản sao (có ký xác nhận và đóng dấu sao y bản chính của chủ hàng).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy phép quá cảnh hàng hóa đã được cấp: 01 bản sao (có ký xác nhận và đóng dấu sao y bản chính của chủ hàng);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - -Văn bản đề nghị sửa đổi, bổ sung/ cấp lại Giấy phép quá cảnh hàng hóa của chủ hàng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản xác nhận của cơ quan Hải quan về tình trạng lô hàng quá cảnh: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản cho phép sửa đổi, bổ sung/ cấp lại Giấy phép quá cảnh hàng hóa
+Căn cứ pháp lý:
+  * Quy định chi tiết một số điều của Luật Quản lý Ngoại thương (69/2018/NĐ-CP)
+  * Nghị định số 146/2025/NĐ-CP (nghị định 146/2025)
+  * Thông tư 12/2018/TT-BCT (12/2018/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

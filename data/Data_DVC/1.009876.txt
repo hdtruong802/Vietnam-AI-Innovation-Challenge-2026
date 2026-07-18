@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009876
+Số quyết định: 1082/QĐ-BTC
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký thành lập quỹ đóng, quỹ mở, quỹ đầu tư bất động sản, quỹ hoán đổi danh mục, Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán đại chúng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+    Bước 1: Trong thời hạn 10 ngày sau khi hoàn thành đợt chào bán, công ty quản lý quỹ đầu tư chứng khoán nộp hồ sơ đăng ký thành lập quỹ đóng, quỹ mở, quỹ đầu tư bất động sản, quỹ hoán đổi danh mục/đề nghị cấp Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán đại chúng đến UBCKNN.
+    Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+    Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 ngày làm việc, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    Bước 4: Trong thời hạn 60 ngày kể từ ngày UBCKNN có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty quản lý quỹ đầu tư chứng khoán hoàn thiện hồ sơ và gửi đến UBCKNN.
+    Bước 5: Trong thời hạn 07 ngày làm việc (đối với quỹ)/ 30 ngày (đối với công ty đầu tư chứng khoán đại chúng) kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, UBCKNN cấp Giấy chứng nhận đăng ký thành lập quỹ đóng, quỹ mở, quỹ đầu tư bất động sản, quỹ hoán đổi danh mục, Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán đại chúng cho công ty quản lý quỹ đầu tư chứng khoán; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+    Lưu ý: Công ty quản lý quỹ đầu tư chứng khoán phải hoàn thiện hồ sơ niêm yết chứng chỉ quỹ đóng, quỹ đầu tư bất động sản, công ty đầu tư chứng khoán đại chúng trên Sở giao dịch chứng khoán trong thời hạn 30 ngày kể từ ngày Giấy chứng nhận đăng ký lập quỹ/Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán đại chúng có hiệu lực.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 20000000 VNĐ (* Theo quy định tại Thông tư số 25/2022/TT-BTC ngày 28/4/2022: + 20 triệu đồng/Giấy chứng nhận (đối với quỹ); ) | 30000000 VNĐ (* Theo quy định tại Thông tư số 25/2022/TT-BTC ngày 28/4/2022: + 30 triệu đồng/Giấy phép (đối với công ty đầu tư chứng khoán đại chúng).) | 10000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026): + 10 triệu đồng/Giấy chứng nhận (đối với quỹ); ) | 15000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026): + 15 triệu đồng/Giấy phép (đối với công ty đầu tư chứng khoán đại chúng).)
+    Mô tả: 07 ngày làm việc (đối với quỹ)/30 ngày (đối với công ty đầu tư chứng khoán đại chúng) kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 20000000 VNĐ (* Theo quy định tại Thông tư số 25/2022/TT-BTC ngày 28/4/2022: + 20 triệu đồng/Giấy chứng nhận (đối với quỹ); ) | 30000000 VNĐ (* Theo quy định tại Thông tư số 25/2022/TT-BTC ngày 28/4/2022: + 30 triệu đồng/Giấy phép (đối với công ty đầu tư chứng khoán đại chúng).) | 10000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026): + 10 triệu đồng/Giấy chứng nhận (đối với quỹ); ) | 15000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026): + 15 triệu đồng/Giấy phép (đối với công ty đầu tư chứng khoán đại chúng).)
+    Mô tả: 07 ngày làm việc (đối với quỹ)/30 ngày (đối với công ty đầu tư chứng khoán đại chúng) kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 20000000 VNĐ (* Theo quy định tại Thông tư số 25/2022/TT-BTC ngày 28/4/2022: + 20 triệu đồng/Giấy chứng nhận (đối với quỹ); ) | 30000000 VNĐ (* Theo quy định tại Thông tư số 25/2022/TT-BTC ngày 28/4/2022: + 30 triệu đồng/Giấy phép (đối với công ty đầu tư chứng khoán đại chúng).) | 10000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026): + 10 triệu đồng/Giấy chứng nhận (đối với quỹ); ) | 15000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026): + 15 triệu đồng/Giấy phép (đối với công ty đầu tư chứng khoán đại chúng).)
+    Mô tả: 07 ngày làm việc (đối với quỹ)/30 ngày (đối với công ty đầu tư chứng khoán đại chúng) kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ.
+
+Thành phần hồ sơ:
+    - 5)  Danh sách cổ đông theo Mẫu số 105 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP (đối với công ty đầu tư chứng khoán)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 1) Giấy đăng ký lập quỹ đầu tư chứng khoán/Giấy đăng ký thành lập và hoạt động công ty đầu tư chứng khoán - Mẫu số 92 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4) Biên bản tổng hợp ý kiến của nhà đầu tư về các nội dung lấy ý kiến nhà đầu tư/ (đối với quỹ)/ Biên bản tổng hợp ý kiến cổ đông về việc bổ nhiệm thành viên Hội đồng quản trị và các nội dung lấy ý khác kèm theo bản thông tin cá nhân, lý lịch tư pháp của các thành viên Hội đồng quản trị (nếu có) ) đối với công ty đầu tư chứng khoán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2) Báo cáo kết quả chào bán ra công chúng - Mẫu số 102 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3) Văn bản xác nhận phong tỏa của ngân hàng giám sát về số tiền thu được trong đợt chào bán, danh sách nhà đầu tư mua chứng chỉ quỹ (đối với quỹ đóng, quỹ mở, quỹ đầu tư bất động sản)/ Văn bản xác nhận phong tỏa của ngân hàng giám sát về số tiền thu được trong đợt chào bán, số lượng cổ phiếu đã bán (đối với công ty đầu tư chứng khoán đai chúng)/ Xác nhận của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam về chi tiết danh mục chứng khoán cơ cấu của từng thành viên lập quỹ, nhà đầu tư đang được phong tỏa nhằm mục đích đưa vào quỹ hoán đổi danh mục theo Mẫu số 104 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP (đối với quỹ hoán đổi danh mục);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Văn bản từ chối (nêu rõ lý do)., Giấy chứng nhận đăng ký lập quỹ đóng, quỹ mở, quỹ đầu tư bất động sản, quỹ hoán đổi danh mục, Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán đại chúng
+Căn cứ pháp lý:
+  * Nghị quyết của Chính phủ quy định cắt giảm, đơn giản hóa thủ tục hành chính, quy định liên quan đến hoạt động sản xuất, kinh doanh (66.16/2026/NQ-CP)
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+  * Thông tư số 25/2022/TT-BTC ngày 28/4/2022 (25)
+
+Yêu cầu, điều kiện thực hiện: * Quỹ đóng, quỹ mở, quỹ đầu tư bất động sản được thành lập khi đáp ứng các điều kiện sau đây:
+1) Có ít nhất 100 nhà đầu tư, không kể nhà đầu tư chứng khoán chuyên nghiệp mua chứng chỉ quỹ;
+2) Tổng giá trị chứng chỉ quỹ đã bán đạt ít nhất là 50 tỷ đồng.
+* Quỹ hoán đổi danh mục được thành lập khi đáp ứng điều kiện: tổng giá trị chứng chỉ quỹ đã bán đạt ít nhất là 50 tỷ đồng.
+Lưu ý: Việc tham gia góp vốn thành lập quỹ hoán đổi danh mục của các thành viên lập quỹ, nhà đầu tư được thực hiện bằng danh mục chứng khoán cơ cấu. Việc góp vốn bằng tiền chỉ được thực hiện cho khoản thanh toán chênh lệch giữa giá trị danh mục chứng khoán cơ cấu và giá phát hành; khoản thanh toán cho các chứng khoán cơ cấu mà thành viên lập quỹ, nhà đầu tư bị hạn chế chuyển nhượng, bị hạn chế đầu tư do bị giới hạn tỷ lệ sở hữu nước ngoài tại thời điểm thực hiện giao dịch; các khoản cổ tức, trái tức của chứng khoán cơ cấu.
+* Công ty đầu tư chứng khoán đại chúng được thành lập khi đáp ứng điều kiện:
+1) Điều kiện về vốn: Vốn điều lệ thực góp tối thiểu là 50 tỷ đồng. Công ty đầu tư chứng khoán đại chúng phải ủy thác vốn cho một công ty quản lý quỹ đầu tư chứng khoán quản lý;
+2) Điều kiện về trụ sở: Có trụ sở làm việc cho hoạt động đầu tư chứng khoán. Công ty đầu tư chứng khoán đại chúng được sử dụng trụ sở của công ty quản lý quỹ đầu tư chứng khoán làm trụ sở chính;
+3) Điều kiện về nhân sự: Công ty đầu tư chứng khoán đại chúng không được tuyển dụng nhân sự và có Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó giám đốc) là người điều hành quỹ do công ty quản lý quỹ đầu tư chứng khoán chỉ định;
+4) Điều kiện về cổ đông: Có tối thiểu 100 cổ đông không phải là nhà đầu tư chứng khoán chuyên nghiệp;
+Từ khóa: Không có thông tin
+Mô tả: * Quỹ đóng, quỹ mở, quỹ đầu tư bất động sản được thành lập khi đáp ứng các điều kiện sau đây:
+1) Có ít nhất 100 nhà đầu tư, không kể nhà đầu tư chứng khoán chuyên nghiệp mua chứng chỉ quỹ;
+2) Tổng giá trị chứng chỉ quỹ đã bán đạt ít nhất là 50 tỷ đồng.
+* Quỹ hoán đổi danh mục được thành lập khi đáp ứng điều kiện: tổng giá trị chứng chỉ quỹ đã bán đạt ít nhất là 50 tỷ đồng.
+Lưu ý: Việc tham gia góp vốn thành lập quỹ hoán đổi danh mục của các thành viên lập quỹ, nhà đầu tư được thực hiện bằng danh mục chứng khoán cơ cấu. Việc góp vốn bằng tiền chỉ được thực hiện cho khoản thanh toán chênh lệch giữa giá trị danh mục chứng khoán cơ cấu và giá phát hành; khoản thanh toán cho các chứng khoán cơ cấu mà thành viên lập quỹ, nhà đầu tư bị hạn chế chuyển nhượng, bị hạn chế đầu tư do bị giới hạn tỷ lệ sở hữu nước ngoài tại thời điểm thực hiện giao dịch; các khoản cổ tức, trái tức của chứng khoán cơ cấu.
+* Công ty đầu tư chứng khoán đại chúng được thành lập khi đáp ứng điều kiện:
+1) Điều kiện về vốn: Vốn điều lệ thực góp tối thiểu là 50 tỷ đồng. Công ty đầu tư chứng khoán đại chúng phải ủy thác vốn cho một công ty quản lý quỹ đầu tư chứng khoán quản lý;
+2) Điều kiện về trụ sở: Có trụ sở làm việc cho hoạt động đầu tư chứng khoán. Công ty đầu tư chứng khoán đại chúng được sử dụng trụ sở của công ty quản lý quỹ đầu tư chứng khoán làm trụ sở chính;
+3) Điều kiện về nhân sự: Công ty đầu tư chứng khoán đại chúng không được tuyển dụng nhân sự và có Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó giám đốc) là người điều hành quỹ do công ty quản lý quỹ đầu tư chứng khoán chỉ định;
+4) Điều kiện về cổ đông: Có tối thiểu 100 cổ đông không phải là nhà đầu tư chứng khoán chuyên nghiệp;

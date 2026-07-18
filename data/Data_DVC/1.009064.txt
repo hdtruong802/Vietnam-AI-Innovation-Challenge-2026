@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009064
+Số quyết định: 1450/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hóa đã bán cho khách xuất cảnh nhưng giao ở nước ngoài theo yêu cầu của khách
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp thực hiện việc khai báo hải quan và xuất trình hồ sơ hải quan (nếu có), nộp bảng kê hàng hóa đã bán cho khách xuất cảnh và 01 bản chụp hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế hoặc giấy thông hành (trang đầu và trang có đóng dấu xuất cảnh của cơ quan xuất nhập cảnh), xuất trình thực tế hàng hoá (nếu có) cho cơ quan hải quan.
+    Bước 2: Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực hiện việc thông quan hàng hoá cho doanh nghiệp làm thủ tục xuất khẩu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tờ khai hải quan theo các chỉ tiêu thông tin quy định mẫu số 02 tại Phụ lục II ban hành kèm Thông tư số 39/2018/TT-BTC
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bảng kê lâm sản đối với gỗ nguyên liệu xuất khẩu theo quy định của Bộ Nông nghiệp và Phát triển nông thôn
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hóa đơn thương mại hoặc chứng từ có giá trị tương đương trong trường hợp người mua phải thanh toán cho người bán
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bảng kê hàng hóa đã bán cho khách xuất cảnh theo Mẫu số 11/BKHH quy định tại Phụ lục II Nghị định 100/2020/NĐ-CP ngày 28/8/2020
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy thông báo miễn kiểm tra hoặc giấy thông báo kết quả kiểm tra chuyên ngành hoặc chứng từ khác theo quy định của pháp luật về quản lý, kiểm tra chuyên ngành (sau đây gọi tắt là Giấy chứng nhận kiểm tra chuyên ngành)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế hoặc giấy thông hành (trang đầu và trang có đóng dấu xuất cảnh của cơ quan xuất nhập cảnh).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy phép xuất khẩu hoặc văn bản cho phép xuất khẩu của cơ quan có thẩm quyền theo pháp luật về quản lý ngoại thương đối với hàng hóa xuất khẩu thuộc diện quản lý theo giấy phép
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng ủy thác
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Chứng từ chứng minh tổ chức, cá nhân đủ điều kiện xuất khẩu hàng hóa theo quy định của pháp luật về đầu tư: nộp 01 bản chụp khi làm thủ tục xuất khẩu lô hàng đầu tiên
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận thông quan trên hệ thống
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001982
+Số quyết định: 1060/QĐ-BGDĐT
+Tên thủ tục: Chuyển đổi cơ sở giáo dục đại học tư thục sang cơ sở giáo dục đại học tư thục hoạt động không vì lợi nhuận
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giáo dục đại học
+Trình tự thực hiện:
+    - Cơ sở giáo dục đại học gửi 01 bộ hồ sơ đến Bộ Giáo dục và Đào tạo qua dịch vụ bưu chính hoặc trực tiếp hoặc trực tuyến
+    - Trường hợp hồ sơ không bảo đảm theo đúng quy định, trong thời hạn 05 ngày làm việc tính từ ngày nhận hồ sơ, Bộ Giáo dục và Đào tạo gửi văn bản thông báo cho cơ sở giáo dục đại học và nêu rõ lý do
+    - Trong thời hạn 30 ngày làm việc tính từ ngày nhận đủ hồ sơ theo quy định tại khoản 1 Điều 10 Nghị định số 91/2026/NĐ-CP, Bộ trưởng Bộ Giáo dục và Đào tạo tổ chức thẩm định hồ sơ và quyết định chuyển đổi (theo Mẫu số 6 Phụ lục kèm theo Nghị định số 91/2026/NĐ-CP)
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến thông qua Cổng Dịch vụ công quốc gia tại địa chỉ: http://dichvucong.gov.vn hoặc qua VNeID:
+Trong thời hạn 30 ngày làm việc tính từ ngày nhận đủ hồ sơ theo quy định, Bộ trưởng Bộ Giáo dục và Đào tạo tổ chức thẩm định hồ sơ và quyết định chuyển đổi.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 30 ngày làm việc tính từ ngày nhận đủ hồ sơ theo quy định, Bộ trưởng Bộ Giáo dục và Đào tạo tổ chức thẩm định hồ sơ và quyết định chuyển đổi.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tiếp tại Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Giáo dục và Đào tạo:
+Trong thời hạn 30 ngày làm việc tính từ ngày nhận đủ hồ sơ theo quy định, Bộ trưởng Bộ Giáo dục và Đào tạo tổ chức thẩm định hồ sơ và quyết định chuyển đổi.
+
+Thành phần hồ sơ:
+    - Tờ trình của cơ sở giáo dục đại học tư thục (theo Mẫu số 5 Phụ lục kèm theo Nghị định số 91/2026/NĐ-CP), trong đó nêu rõ lý do, mục tiêu và phương án chuyển đổi.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Cam kết đồng thuận của nhà đầu tư về việc chuyển đổi cơ sở giáo dục đại học tư thục sang cơ sở giáo dục đại học tư thục hoạt động không vì lợi nhuận trong đó xác định rõ: nguyên tắc hoạt động không vì lợi nhuận, không rút vốn, không hưởng lợi tức, chênh lệch thu chi tích lũy hàng năm là tài sản không phân chia của nhà trường, được sử dụng đầu tư phát triển cơ sở giáo dục theo nguyên tắc không hoàn lại.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Nghị quyết của hội đồng trường thông qua chủ trương chuyển đổi cơ sở giáo dục đại học tư thục sang cơ sở giáo dục đại học tư thục hoạt động không vì lợi nhuận.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Báo cáo tài chính của hai năm tài chính liền kề đã được kiểm toán bởi tổ chức kiểm toán độc lập.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Minh chứng hoàn thành các nghĩa vụ ngân sách nhà nước trước thời điểm nộp hồ sơ.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Dự thảo Quy chế tổ chức và hoạt động của cơ sở giáo dục đại học tư thục hoạt động không vì lợi nhuận; dự thảo quy chế tài chính bao gồm đầy đủ các khoản thu, chi của cơ sở giáo dục đại học bảo đảm nguyên tắc tài chính của cơ sở giáo dục đại học tư thục hoạt động không vì lợi nhuận.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ trưởng Bộ Giáo dục và Đào tạo, Bộ Giáo dục và Đào tạo
+Cơ quan có thẩm quyền: Bộ trưởng Bộ Giáo dục và Đào tạo
+Địa chỉ tiếp nhận HS: Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Giáo dục và Đào tạo
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Bộ trưởng Bộ Giáo dục và Đào tạo về việc chuyển đổi cơ sở giáo dục đại học tư thục sang cơ sở giáo dục đại học tư thục hoạt động không vì lợi nhuận
+Căn cứ pháp lý:
+  * Nghị định số 91/2026/NĐ-CP của Chính phủ: Quy định chi tiết và biện pháp tổ chức, hướng dẫn thi hành một số điều của Luật Giáo dục đại học (91/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

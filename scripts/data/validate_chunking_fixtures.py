@@ -33,6 +33,7 @@ REQUIRED_COLUMNS = {
 DOCUMENT_ID_PATTERN = re.compile(r"^[1-3]\.\d{6}$")
 SHA256_PATTERN = re.compile(r"^[0-9a-f]{64}$")
 SECTION_PATTERN = re.compile(r"^([a-z_]+):(\d+)-(\d+)$")
+ALLOWED_ANNOTATION_STATUSES = {"needs_review", "approved", "rejected", "stale"}
 
 
 def load_fixtures(
@@ -96,7 +97,7 @@ def validate_manifest(
             errors.append(f"{prefix}: raw_path must match raw_document_id")
         if procedure_id not in procedures:
             errors.append(f"{prefix}: unknown procedure_id")
-        if row["annotation_status"] != metadata.get("annotation_status"):
+        if row["annotation_status"] not in ALLOWED_ANNOTATION_STATUSES:
             errors.append(f"{prefix}: invalid annotation_status")
         if SHA256_PATTERN.fullmatch(row["raw_sha256"]) is None:
             errors.append(f"{prefix}: invalid raw_sha256")

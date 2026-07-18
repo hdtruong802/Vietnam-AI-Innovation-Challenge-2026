@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011669
+Số quyết định: 912/QĐ-BTC
+Tên thủ tục: Thủ tục áp dụng mức thuế suất 0% của Chương trình ưu đãi thuế CNHT ô tô
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    -  Chậm nhất 60 ngày kể từ ngày 30 tháng 6 hoặc ngày 31 tháng 12 hàng năm, doanh nghiệp gửi hồ sơ đề nghị áp dụng mức thuế suất 0% cho cơ quan hải quan nơi doanh nghiệp đóng trụ sở chính hoặc nơi có nhà máy sản xuất, lắp ráp. Trường hợp nộp hồ sơ quá thời hạn 60 ngày, cơ quan hải quan tiếp nhận hồ sơ, thực hiện kiểm tra và xử phạt vi phạm hành chính theo quy định của Chính phủ.
+    - Cơ quan hải quan căn cứ hồ sơ đề nghị áp dụng thuế suất 0%, kết quả kiểm tra cơ sở sản xuất, gia công (lắp ráp), máy móc, thiết bị của doanh nghiệp để thực hiện kiểm tra về đối tượng và các điều kiện áp dụng Chương trình ưu đãi thuế CNHT ô tô và xử lý như sau:
+    + Trường hợp hồ sơ chưa đầy đủ theo quy định, cơ quan hải quan có văn bản đề nghị doanh nghiệp bổ sung hồ sơ. Trường hợp nghi vấn về tính chính xác của hồ sơ, cơ quan hải quan thực hiện kiểm tra tại trụ sở cơ quan hải quan hoặc trụ sở của người nộp thuế theo quy định của pháp luật về quản lý thuế.
+    + Trường hợp đáp ứng đủ các điều kiện áp dụng Chương trình ưu đãi thuế CNHT ô tô, cơ quan hải quan ra Quyết định hoàn trả và lập Lệnh hoàn trả số thuế nộp thừa cho doanh nghiệp theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành. Căn cứ Lệnh hoàn trả khoản thu ngân sách nhà nước của cơ quan hải quan, Kho bạc Nhà nước thực hiện hoàn trả thuế nhập khẩu nộp thừa cho doanh nghiệp. Nguồn hoàn trả thuế nộp thừa được lấy từ số thu của ngân sách trung ương về thuế xuất khẩu, thuế nhập khẩu.
+    + Trường hợp doanh nghiệp không đáp ứng đủ điều kiện để được áp dụng Chương trình ưu đãi thuế CNHT ô tô, cơ quan hải quan có văn bản trả lời cho doanh nghiệp được biết.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Doanh nghiệp gửi hồ sơ trực tiếp đến cho cơ quan hải quan nơi doanh nghiệp đóng trụ sở chính hoặc nơi có nhà máy sản xuất, lắp ráp hoặc khai các chỉ tiêu thông tin thông qua Hệ thống xử lý dữ liệu điện tử hải quan, trường hợp Hệ thống xử lý dữ liệu điện tử hải quan chưa có chức năng tiếp nhận chỉ tiêu thông tin thì doanh nghiệp có thể nộp bản scan có xác nhận bằng chữ ký số các chứng từ thuộc hồ sơ.
+Trường hợp đáp ứng đủ các điều kiện áp dụng Chương trình ưu đãi thuế CNHT ô tô, cơ quan hải quan ra Quyết định hoàn trả và lập Lệnh hoàn trả số thuế nộp thừa cho doanh nghiệp theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành. Căn cứ Lệnh hoàn trả khoản thu ngân sách nhà nước của cơ quan hải quan, Kho bạc Nhà nước thực hiện hoàn trả thuế nhập khẩu nộp thừa cho doanh nghiệp. Nguồn hoàn trả thuế nộp thừa được lấy từ số thu của ngân sách trung ương về thuế xuất khẩu, thuế nhập khẩu.
+Trường hợp doanh nghiệp không đáp ứng đủ điều kiện để được áp dụng Chương trình ưu đãi thuế CNHT ô tô, cơ quan hải quan có văn bản trả lời cho doanh nghiệp được biết.
+
+Thành phần hồ sơ:
+  [ (i)  Đối với doanh nghiệp sản xuất, gia công (lắp ráp) linh kiện, phụ tùng ô tô ]
+    - -  Hợp đồng mua bán sản phẩm CNHT ô tô với các doanh nghiệp có giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô do Bộ Công Thương cấp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - -  Quy trình sản xuất, gia công (lắp ráp) sản phẩm CNHT ô tô (kèm theo thuyết minh)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - -  Chứng từ kế toán thể hiện số lượng nguyên liệu, vật tư, linh kiện nhập khẩu đã được sử dụng để sản xuất, gia công (lắp ráp) sản phẩm CNHT ô tô: 01 bản chụp
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - -  Báo cáo tình hình sử dụng nguyên liệu, vật tư, linh kiện nhập khẩu để sản xuất, gia công (lắp ráp) sản phẩm CNHT ô tô đã đăng ký tham gia Chương trình theo Mẫu số 11 Phụ lục II ban hành kèm theo Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - -  Giấy chứng nhận đầu tư hoặc Giấy chứng nhận đăng ký đầu tư hoặc Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp (trừ trường hợp doanh nghiệp đã nộp khi đăng ký tham gia Chương trình ưu đãi thuế CNHT ô tô): 01 bản sao có chứng thực;  (Trường hợp khai thác được thông tin trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp: Tổ chức, cá nhân, doanh nghiệp không phải nộp Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký kinh doanh).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - -  Bảng kê hoá đơn giá trị gia tăng tương ứng với số lượng sản phẩm CNHT ô tô đã bán theo Hợp đồng mua bán theo Mẫu số 12 Phụ lục II ban hành kèm theo Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Công văn đề nghị áp dụng mức thuế suất ưu đãi 0% theo Chương trình ưu đãi thuế CNHT ô tô theo Mẫu số 10a Phụ lục II ban hành kèm theo Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - -  Bảng kê tờ khai, số tiền thuế nhập khẩu đã nộp của nguyên liệu, vật tư, linh kiện để sản xuất, gia công (lắp ráp) sản phẩm CNHT ô tô đã đăng ký tham gia Chương trình theo Mẫu số 10 Phụ lục II ban hành kèm theo Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ (ii) Đối với các doanh nghiệp sản xuất, lắp ráp ô tô tự sản xuất, gia công  (lắp ráp) linh kiện, phụ tùng ô tô ]
+    - - Quy trình sản xuất, gia công (lắp ráp) sản phẩm CNHT ô tô (kèm theo thuyết minh)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bảng kê tờ khai, số tiền thuế nhập khẩu đã nộp của nguyên liệu, vật tư, linh kiện để sản xuất, gia công (lắp ráp) sản phẩm CNHT ô tô theo Mẫu số 10 Phụ lục II ban hành kèm theo Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô do Bộ Công Thương cấp (trừ trường hợp đã nộp khi đăng ký tham gia Chương trình): 01 bản sao có chứng thực
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Công văn đề nghị được áp dụng mức thuế suất ưu đãi 0% theo Chương trình ưu đãi thuế CNHT ô tô theo Mẫu số 10a Phụ lục II ban hành kèm theo Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bảng kê hoá đơn giá trị gia tăng tương ứng với số lượng sản phẩm CNHT ô tô đã bán cho doanh nghiệp sản xuất, lắp ráp ô tô có Giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô do Bộ Công Thương cấp theo Mẫu số 12 Phụ lục II ban hành kèm theo Nghị định này (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo tình hình sử dụng nguyên liệu, vật tư, linh kiện nhập khẩu để sản xuất, gia công (lắp ráp) sản phẩm CNHT ô tô theo Mẫu số 11 Phụ lục II ban hành kèm theo Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Chứng từ kế toán thể hiện số lượng nguyên liệu, vật tư, linh kiện nhập khẩu đã được sử dụng để sản xuất, gia công (lắp ráp) sản phẩm CNHT ô tô: 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Báo cáo tình hình sử dụng sản phẩm CNHT ô tô đã sản xuất, gia công (lắp ráp) theo Mẫu số 13 Phụ lục II ban hành kèm theo Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hoàn trả tiền thuế nộp thừa cho doanh nghiệp hoặc văn bản trả lời của cơ quan Hải quan.
+Căn cứ pháp lý:
+  * Biểu thuế xuất khẩu, Biểu thuế nhập khẩu ưu đãi, Danh mục hàng hóa và mức thuế tuyệt đối, thuế hỗn hợp, thuế nhập khẩu ngoài hạn ngạch thuế quan (26/2023/NĐ-CP)
+  * Thuế xuất khẩu, thuế nhập khẩu (107/2016/QH13)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

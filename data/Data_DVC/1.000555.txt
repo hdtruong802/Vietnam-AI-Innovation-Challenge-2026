@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000555
+Số quyết định: 987/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận đăng ký đại lý chi, trả ngoại tệ của tổ chức tín dụng, tổ chức kinh tế
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Tổ chức tín dụng, tổ chức kinh tế có nhu cầu thực hiện hoạt động đại lý chi, trả ngoại tệ lập 01 bộ hồ sơ theo quy định gửi Ngân hàng Nhà nước chi nhánh Khu vực nơi tổ chức tín dụng, tổ chức kinh tế đặt trụ sở chính.
+    Thời hạn kiểm tra tính đầy đủ, chính xác của hồ sơ là 3 ngày làm việc kể từ khi Hệ thống thông tin giải quyết thủ tục hành chính Ngân hàng Nhà nước hoặc Bộ phận Một cửa Ngân hàng Nhà nước chi nhánh khu vực nhận hồ sơ.
+    + Bước 2: Trong thời hạn 20 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước chi nhánh Khu vực trên địa bàn xem xét, cấp văn bản chấp thuận đăng ký đại lý chi, trả ngoại tệ (theo mẫu tại Phụ lục 10 thuộc Phụ lục V ban hành kèm theo Thông tư số 75/2025/TT-NHNN). Trường hợp từ chối chấp thuận, Ngân hàng Nhà nước chi nhánh Khu vực trên địa bàn có văn bản từ chối và nêu rõ lý do.
+    Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Ngân hàng Nhà nước chi nhánh Khu vực trên địa bàn có văn bản yêu cầu tổ chức bổ sung hồ sơ theo quy định tại Thông tư này.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - 1. Đơn đề nghị chấp thuận đăng ký đại lý chi, trả ngoại tệ (theo mẫu tại Phụ lục 3 thuộc Phụ lục V ban hành kèm theo Thông tư số 75/2025/TT-NHNN ngày 31/12/2025).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2. Bản sao hợp đồng đại lý chi, trả ngoại tệ ký với tổ chức ủy quyền bao gồm những nội dung chính sau: Phương thức chi, trả; mạng lưới chi, trả; tỷ lệ phí hoa hồng; quyền và nghĩa vụ của các bên tham gia Hợp đồng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về việc chấp thuận đăng ký đại lý chi, trả ngoại tệ, Văn bản từ chối chấp thuận đăng ký đại lý chi, trả ngoại tệ của tổ chức tín dụng, tổ chức kinh tế
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số quy định tại các văn bản quy phạm pháp luật trong lĩnh vực quản lý hoạt động cung ứng dịch vụ và sử dụng ngoại hối để thực thi phương án cắt giảm, đơn giản hóa thủ tục hành chính (Thông tư số 75/2025/TT-NHNN)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+  * Nghị định 89/2016/NĐ-CP (89/2016/NĐ-CP)
+  * Về việc khuyến khích Người Việt Nam ở nước ngoài chuyển tiền về nước. (170/1999/QĐ-TTg)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Thông tư 34/2015/TT-NHNN (34/2015/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

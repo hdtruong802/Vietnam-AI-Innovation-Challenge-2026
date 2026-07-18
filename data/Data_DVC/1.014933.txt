@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014933
+Số quyết định: 217/QĐ-BNV
+Tên thủ tục: THỦ TỤC CHO PHÉP QUỸ HOẠT ĐỘNG TRỞ LẠI SAU KHI BỊ ĐÌNH CHỈ CÓ THỜI HẠN HOẠT ĐỘNG
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý nhà nước về hội, quỹ
+Trình tự thực hiện:
+    - Bước 1: Trong thời hạn quỹ bị đình chỉ có thời hạn hoạt động theo quyết định của cơ quan nhà nước có thẩm quyền, nếu quỹ khắc phục được sai phạm, Hội đồng quản lý quỹ gửi hồ sơ đến Bộ Nội vụ đề nghị cho phép quỹ được hoạt động trở lại.
+    - Bước 2: Cán bộ tiếp nhận hồ sơ xem xét hồ sơ và đề nghị bổ sung trong trường hợp hồ sơ chưa đầy đủ và hợp pháp. Trường hợp từ chối tiếp nhận, giải quyết hồ sơ phải nêu rõ lý do.
+    - Bước 3: Vụ Tổ chức phi chính phủ nghiên cứu, thẩm định hồ sơ, thực hiện quy trình lấy ý kiến các cơ quan có liên quan; tổng hợp các ý kiến góp ý đề nghị bổ sung thêm hồ sơ theo ý kiến góp ý (nếu có).
+    - Bước 4: Bộ Nội vụ quyết định cho phép quỹ hoạt động trở lại. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Bộ Nội vụ hoặc qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến. 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Bộ Nội vụ hoặc qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến. 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Bộ Nội vụ hoặc qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến. 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị được hoạt động trở lại (theo mẫu),
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo của Hội đồng quản lý quỹ và các tài liệu chứng minh quỹ đã khắc phục sai phạm (theo mẫu).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cho phép quỹ hoạt động trở lại sau khi bị tạm đình chỉ có thời hạn hoạt động
+Căn cứ pháp lý:
+  * Nghị định Về tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện (03/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có.
+Từ khóa: Không có thông tin
+Mô tả: Không có.

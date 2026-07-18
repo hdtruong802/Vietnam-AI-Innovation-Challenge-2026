@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004146
+Số quyết định: 893/QĐ-BVHTTDL
+Tên thủ tục: Cấp giấy xác nhận đăng ký nhập khẩu xuất bản phẩm để kinh doanh
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+    - Việc nhập khẩu xuất bản phẩm để kinh doanh phải do cơ sở nhập khẩu xuất bản phẩm thực hiện.
+    - Trước khi nhập khẩu, cơ sở nhập khẩu xuất bản phẩm phải lập hồ sơ đăng ký nhập khẩu gửi Cục Xuất bản, In và Phát hành (Bộ Văn hóa, Thể thao và Du lịch) và nộp lệ phí theo quy định của pháp luật.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký nhập khẩu xuất bản phẩm, Cục Xuất bản, In và Phát hành xác nhận đăng ký bằng văn bản; trường hợp không xác nhận đăng ký phải có văn bản trả lời nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 25000 VNĐ (25.000 đồng/hồ sơ (theo quy định tại Thông tư số 64/2025/TT-BTC ngày 30/6/2025 của Bộ trưởng Bộ Tài chính))
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 25000 VNĐ (25.000 đồng/hồ sơ (theo quy định tại Thông tư số 64/2025/TT-BTC ngày 30/6/2025 của Bộ trưởng Bộ Tài chính))
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 25000 VNĐ (25.000 đồng/hồ sơ (theo quy định tại Thông tư số 64/2025/TT-BTC ngày 30/6/2025 của Bộ trưởng Bộ Tài chính))
+
+Thành phần hồ sơ:
+    - (1) Đơn đăng ký nhập khẩu xuất bản phẩm để kinh doanh theo (Mẫu số 26  Phụ lục kèm theo Thông tư số 23/2023/TT-BTTTT)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - một (01) bản (tệp) danh mục xuất bản  phẩm đăng ký nhập khẩu trong trường hợp nộp trực tuyến trên Cổng thông tin một  cửa quốc gia.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (2) Ba (03) bản danh mục xuất bản phẩm đăng ký nhập khẩu trong trường hợp  nộp trực tiếp hoặc nộp qua dịch vụ bưu chính
+      Số lượng: Bản chính: 3, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Công dân Việt Nam
+Cơ quan thực hiện: Cục Xuất bản, In và Phát hành
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy xác nhận đăng ký nhập khẩu xuất bản phẩm để kinh doanh
+Căn cứ pháp lý:
+  * 23/2023/TT-BTTTT (23/2023/TT-BTTTT)
+  * Nghị định 195/2013/NĐ-CP (195/2013/NĐ-CP)
+  * Nghị quyết của Chính phủ quy định cắt giảm, đơn giản hóa thủ tục hành chính, quy định liên quan đến hoạt động sản xuất, kinh doanh (66.16/2026/NQ-CP)
+  * Thông tư 01/2020/TT-BTTTT (01/2020/TT-BTTTT)
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011637
+Số quyết định: 1279/QĐ-NHNN
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký đại lý đổi tiền của nước có chung biên giới
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Tổ chức kinh tế có nhu cầu đề nghị cấp Giấy chứng nhận lập 01 bộ hồ sơ theo quy định gửi Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới nơi cấp Giấy chứng nhận.
+    Thời hạn kiểm tra tính đầy đủ, chính xác của hồ sơ là 03 ngày làm việc kể từ khi Hệ thống thông tin giải quyết thủ tục hành chính Ngân hàng Nhà nước tiếp nhận hồ sơ theo phương thức trực tuyến hoặc kể từ khi Bộ phận Một cửa của Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới tiếp nhận hồ sơ theo phương thức trực tiếp hoặc qua dịch vụ bưu chính.
+    + Bước 2: Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới có văn bản yêu cầu tổ chức kinh tế bổ sung hồ sơ.
+    + Bước 3: Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới xem xét cấp/cấp lại Giấy chứng nhận (theo Phụ lục 5 thuộc Phục lục I ban hành kèm theo Thông tư số 23/2026/TT-NHNN) cho tổ chức kinh tế. Trường hợp từ chối, Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới có văn bản thông báo rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp thủ tục hành chính chưa được cung cấp trực tuyến trên Cổng dịch vụ công quốc gia hoặc hệ thống Cổng dịch vụ công quốc gia gặp sự cố, có lỗi không thể tiếp nhận, trao đổi thông tin điện tử, việc nộp hồ sơ, tiếp nhận, trả kết quả, trao đổi, phản hồi thông tin được thực hiện qua dịch vụ bưu chính hoặc trực tiếp tại Bộ phận Một cửa của Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới.
+
+Thành phần hồ sơ:
+    - + Báo cáo về việc tổ chức kinh tế trang bị đầy đủ bảng thông báo tỷ giá công khai, bảng hiệu ghi tên tổ chức tín dụng ủy quyền và tên đại lý đổi tiền của nước có chung biên giới tại nơi giao dịch;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản sao hợp đồng đại lý đổi tiền của nước có chung biên giới ký với tổ chức tín dụng ủy quyền, bao gồm các nội dung chính sau: (i) Tên, địa chỉ đặt trụ sở chính, số điện thoại liên hệ của các bên ký kết hợp đồng; (ii) Tên, địa chỉ các đại lý đổi tiền của nước có chung biên giới; (iii) Quy định đại lý đổi tiền của nước có chung biên giới chỉ được mua tiền của nước có chung biên giới bằng tiền mặt (trừ các đại lý đặt ở khu vực chờ xuất cảnh tại các cửa khẩu quốc tế, cửa khẩu chính) và bán lại số tiền mặt mua được (ngoài số tiền mặt tồn quỹ được để lại) cho tổ chức tín dụng ủy quyền; (iv) Quy định về nguyên tắc xác định tỷ giá mua, bán (quy định về xác định tỷ giá bán chỉ áp dụng cho đại lý đặt ở khu vực chờ xuất cảnh tại các cửa khẩu quốc tế, cửa khẩu chính) đối với khách hàng và tỷ giá bán lại tiền của nước có chung biên giới bằng tiền mặt cho tổ chức tín dụng ủy quyền phù hợp với quy định về quản lý ngoại hối; quy định các loại phí hoa hồng đại lý (nếu có); (v) Quyền lợi và nghĩa vụ của các bên tham gia hợp đồng, trong đó quy định rõ đại lý đổi tiền của nước có chung biên giới phải thực hiện đúng quy trình nghiệp vụ đổi tiền của nước có chung biên giới; quy định định kỳ tổ chức tín dụng ủy quyền phải kiểm tra hoạt động của các đại lý để đảm bảo thực hiện đúng hợp đồng và quy định của pháp luật; quy định về xử lý vi phạm trong trường hợp đại lý đổi tiền của nước có chung biên giới vi phạm hợp đồng và quy định pháp luật về hoạt động đại lý đổi tiền của nước có chung biên giới; (vi) Thỏa thuận về mức tồn quỹ được để lại và thời hạn phải bán số tiền mặt của nước có chung biên giới mua được cho tổ chức tín dụng ủy quyền.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Đơn đề nghị cấp Giấy chứng nhận (Phụ lục 3 thuộc Phụ lục I kèm theo Thông tư số 23/2026/TT-NHNN của NHNN);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Quy trình nghiệp vụ đổi tiền của nước có chung biên giới bao gồm các nội dung chính sau: có biện pháp đảm bảo an ninh, an toàn trong quá trình đổi tiền của nước có chung biên giới; việc ghi chép, xuất hóa đơn cho khách hàng, lưu giữ chứng từ, hóa đơn, sổ sách; chế độ hạch toán, kế toán; chế độ báo cáo; biện pháp xử lý khi phát hiện tiền giả, tiền không đủ tiêu chuẩn lưu thông;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước chi nhánh tỉnh biên giới
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký đại lý đổi tiền của nước có chung biên giới, Văn bản từ chối cấp Giấy chứng nhận đăng ký đại lý đổi tiền của nước có chung biên giới
+Căn cứ pháp lý:
+  * Nghị định sửa đổi, bổ sung một số Điều của Nghị định số 89/2016/NĐ-CP ngày 01/7/2016 của Chính phủ quy định điều kiện đối với hoạt động đại lý đổi ngoại tệ, hoạt động cung ứng dịch vụ nhận và chi, trả ngoại tệ của tổ chức kinh tế và Nghị định số 88/2019/NĐ-CP ngày 14/11/2019 của Chính phủ quy định về xử phạt vi phạm hành chính trong lĩnh vực tiền tệ và ngân hàng. (23/2023/NĐ-CP)
+  * Thông tư số 23/2026/TT-NHNN của Thống đốc Ngân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số điều của các văn bản quy phạm pháp luật về quản lý ngoại hối liên quan đến hoạt động cung ứng dịch vụ ngoại hối của các tổ chức không phải là tổ chức tín dụng (Thông tư số 23/2026/TT-NHNN)
+  * Thông tư quy định về hoạt động đại lý đổi tiền của nước có chung biên giới (Thông tư 04/2023/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

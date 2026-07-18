@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010343
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Chuyển dữ liệu hóa đơn điện tử tới cơ quan thuế
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    Bước 1:
+    + Về phương thức lập hóa đơn điện tử và thời điểm chuyển dữ liệu hóa đơn điện tử:
+    Trường hợp (1): Người bán hàng chuyển dữ liệu hóa đơn điện tử hàng hóa, cung cấp dịch vụ phát sinh trong tháng hoặc quý theo Bảng tổng hợp dữ liệu hóa đơn điện tử
+    ++Trường hợp gửi theo Mẫu số 01/TH-HĐĐT Phụ lục IA ban hành kèm theo Nghị định số 70/2025/NĐ-CP ngày 20/3/2025 của Chính phủ quy định về hóa đơn, chứng từ cùng thời hạn gửiTờ khai khai thuế giá trị gia tăng áp dụng đối với các trường hợp sau:
+    +++ Cung cấp dịch vụ thuộc lĩnh vực: Bưu chính viễn thông, bảo hiểm, tài chính ngân hàng, vận tải hàng không, chứng khoán;
+    +++ Bán hàng hóa là điện, nước nếu có thông tin về mã khách hàng hoặc mã số thuế của khách hàng.
+    +++Bán hàng hóa, cung cấp dịch vụ của nhà cung cấp ở nước ngoài không có cơ sở thường trú tại Việt Nam hoạt động thương mại điện tử, kinh doanh dựa trên nền tảng số và các dịch vụ khác tại Việt Nam.
+    ++ Trường hợp gửitheo Mẫu 01/TH-DT Phụ lục IA ban hành kèm theo Nghị định số 70/2025/NĐ-CP ngày 20/3/2025 của Chính phủ: hoạt động kinh doanh casino và trò chơi điện tử có thưởng, thời điểm lập hóa đơn điện tử chậm nhất là 01 ngày kể từ thời điểm kết thúc ngày xác định doanh thu, đồng thời doanh nghiệp kinh doanh casino và trò chơi điện tử có thưởng chuyển dữ liệu ghi nhận số tiền thu được (do đổi đồng tiền quy ước cho người chơi tại quầy, tại bàn chơi và số tiền thu tại máy trò chơi điện tử có thưởng)trừ đi số tiền đổi trả cho người chơi (do người chơi trúng thưởng hoặc người chơi không sử dụng hết) theo Mẫu 01/TH-DT Phụ lục IA ban hành kèm theo Nghị định này đến cơ quan thuế cùng thời điểm chuyển dữ liệu hóa đơn điện tử. Ngày xác định doanh thu là khoảng thời gian từ 0 giờ 00 phút đến 23 giờ 59 phút cùng ngày.”
+    Trường hợp (2):Phương thức chuyển đầy đủ nội dung hóa đơn áp dụng đối với trường hợp bán hàng hóa, cung cấp dịch vụ không thuộc quy định chuyển dữ liệu hóa đơn điện tử theo bảng tổng hợp: Người bán sau khi lập đầy đủ các nội dung trên hóa đơn gửi hóa đơn cho người mua và đồng thời gửi hóa đơn cho cơ quan thuế chậm nhất là ngày làm việc tiếp theo kể từ thời điểm lập hóa đơn.
+    +Về hình thức gửi dữ liệu tới cơ quan thuế như sau:
+    ++ Đối với hình thức gửi trực tiếp:
+    +++ Doanh nghiệp, tổ chức kinh tế sử dụng hóa đơn bình quân từ 1.000.000 hóa đơn một tháng trở lên (tính theo số lượng hóa đơn bình quân năm trước liền kề), có hệ thống công nghệ thông tin đáp ứng yêu cầu về định dạng chuẩn dữ liệu, có nhu cầu chuyển dữ liệu hóa đơn điện tử theo hình thức gửi trực tiếp đến cơ quan thuế gửi văn bản kèm theo tài liệu chứng minh điều kiện đáp ứng đến Cục Thuế.
+    +++ Doanh nghiệp, tổ chức kinh tế có tổ chức mô hình Công ty mẹ - con, có xây dựng hệ thống quản lý dữ liệu hóa đơn tập trung tại Công ty mẹ và có nhu cầu Công ty mẹ chuyển toàn bộ dữ liệu hóa đơn điện tử bao gồm cả dữ liệu của các công ty con đến cơ quan thuế qua Hệ thống thông tin giải quyết thủ tục hành chính của ngành thuế thì gửi kèm theo danh sách công ty con đến Cục Thuế để thực hiện kết nối kỹ thuật.
+    ++ Đối với hình thức gửi thông qua tổ chức cung cấp dịch vụ hóa đơn điện tử:
+    +++Các doanh nghiệp, tổ chức kinh tế không thuộc trường hợp gửi trực tiếp thực hiện ký hợp đồng với tổ chức cung cấp dịch vụ hóa đơn điện tử để tổ chức cung cấp dịch vụ hóa đơn điện tử làm dịch vụ chuyển dữ liệu hóa đơn điện tử đến cơ quan thuế;
+    Bước 2: Cơ quan Thuế tiếp nhận và giải quyết hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Mẫu 01/TH-DT Bảng tổng hợp doanh thu (đối với hoạt động kinh doanh casino, trò chơi điện tử có thưởng)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản kèm theo tài liệu chứng minh điều kiện đáp ứng yêu cầu về hóa đơn bình quân từ 1.000.000 hóa đơn một tháng trở lên (tính theo số lượng hóa đơn bình quân năm trước liền kề), có hệ thống công nghệ thông tin đáp ứng yêu cầu về định dạng chuẩn dữ liệu, có nhu cầu chuyển dữ liệu hóa đơn điện tử theo hình thức gửi trực tiếp đến cơ quan thuế (không có mẫu)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Số lượng hồ sơ: 01(bộ).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu số 01/TH-HĐĐT Bảng tổng hợp dữ liệu hóa đơn điện tử
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Tổ chức Đảng, Hợp tác xã, Công dân Việt Nam, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Đảng viên, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cục Thuế - Bộ tài chính, Thuế tỉnh, thành phố, Thuế cơ sở
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo về việc chấp nhận/không chấp nhận đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử/chứng từ điện tử (Mẫu số 01/TB-ĐKĐT), Hệ thống thông tin giải quyết thủ tục hành chính của ngành thuế gửi phản hồi tự động về việc xác nhận người nộp thuế đã gửi thành công và thông báo về thời điểm tiếp nhận chính thức hồ sơ, tài liệu của người nộp thuế khi nhận được dữ liệu hóa đơn điện tử của NNT
+Căn cứ pháp lý:
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 123/2020/NĐ-CP (123/2020/NĐ-CP)
+  * Nghị định số 70/2025/NĐ-CP ngày ngày 20 tháng 3 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ. (70/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

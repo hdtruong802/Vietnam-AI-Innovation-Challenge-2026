@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007721
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Miễn, giảm thuế tài nguyên đối với trường hợp cơ quan thuế quyết định miễn, giảm
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1: Người nộp thuế tài nguyên gặp thiên tai, hỏa hoạn, tai nạn bất ngờ gây tổn thất đến tài nguyên đã kê khai, nộp thuế, lập hồ sơ và gửi đến cơ quan thuế.
+    + Bước 2: Cơ quan thuế tiếp nhận hồ sơ và giải quyết theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Đối với trường hợp miễn thuế, giảm thuế tài nguyên do tai nạn bất ngờ gây tổn thất đến tài nguyên đã kê khai nộp thuế, hồ sơ miễn, giảm thuế gồm: ]
+    - Văn bản đề nghị theo mẫu số 01/MGTH tại Phụ lục I ban hành kèm theo Thông tư số 80/2021/TT-BTC (đã được sửa đổi tại Thông tư số 40/2025/TT-BTC và TT số 94/2025/TT-BTC)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các chứng từ chi liên quan trực tiếp đến việc khắc phục tai nạn
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy tờ xác định việc bồi thường của cơ quan bảo hiểm hoặc thỏa thuận bồi thường của người gây tai nạn (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + SL hồ sơ: 01 bộ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản hoặc biên bản xác nhận tai nạn có xác nhận của cơ quan công an hoặc xác nhận mức độ thương tật của cơ quan y tế
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với trường hợp miễn, giảm thuế tài nguyên do thiên tai, hỏa hoạn gây tổn thất đến tài nguyên đã kê khai nộp thuế, hồ sơ miễn, giảm thuế gồm: ]
+    - Văn bản đề nghị theo mẫu số 01/MGTH tại PL I ban hành kèm theo Thông tư số 80/2021/TT-BTC  ngày 29/9/2021 của  Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (đã được sửa đổi tại Thông tư số 40/2025/TT-BTC và Thông tư số 94/2025/TT-BTC)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Cơ quan có thẩm quyền xác định mức độ, giá trị thiệt hại là cơ quan tài chính hoặc các cơ quan giám định xác định mức độ, giá trị thiệt hại về tài sản.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Trường hợp thiệt hại về hàng hóa: người nộp thuế cung cấp Biên bản giám định (chứng thư giám định) về mức độ thiệt hại của cơ quan pháp lý về tính chính xác của chứng thư giám định theo quy định của pháp luật. giám định và cơ quan giám định phải chịu trách nhiệm
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Trường hợp thiệt hại về hàng hóa: người nộp thuế cung cấp Biên bản giám định (chứng thư giám định) về mức độ thiệt hại của cơ quan pháp lý về tính chính xác của chứng thư giám định theo quy định của pháp luật. giám định và cơ quan giám định phải chịu trách nhiệm.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Biên bản xác định mức độ, giá trị thiệt hại về tài nguyên tổn thất của cơ quan có thẩm quyền và có xác nhận của chính quyền địa phương cấp xã nơi xảy ra thiên tai, hoả hoạn theo mẫu số 02/MGTH tại Phụ lục I ban hành kèm theo Thông tư số 80/2021/TT-BTC (đã được sửa đổi tại Thông tư số 94/2025/TT-BTC).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức, Người nước ngoài, Tổ chức nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định miễn thuế/giảm thuế (mẫu 03/MGTH), Thông báo không được miễn thuế/giảm thuế (Mẫu 04/MGTH)
+Căn cứ pháp lý:
+  * LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA CÁC LUẬT VỀ THUẾ (71/2014/QH13)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

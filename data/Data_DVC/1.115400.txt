@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115400
+Số quyết định: 1546/QĐ-BCT
+Tên thủ tục: Chấm dứt hoạt động của Quỹ Xúc tiến xuất khẩu ngành hàng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xúc tiến thương mại
+Trình tự thực hiện:
+    + Trường hợp chấm dứt hoạt động Quỹ theo quy định tại điểm a khoản 1 Điều 20 Nghị định số 240/2026/NĐ-CP ngày 26/6/2026 của Chính phủ, chậm nhất 40 ngày trước ngày dự kiến chấm dứt hoạt động của Quỹ, Hiệp hội ngành hàng phải gửi 01 bộ hồ sơ đề nghị chấm dứt hoạt động của Quỹ đến cơ quan có thẩm quyền.
+    + Sau 30 ngày kể từ ngày tiếp nhận hồ sơ đề nghị chấm dứt hoạt động của Quỹ mà không nhận được bất kỳ thông báo, khiếu nại, khiếu kiện của các cơ quan, tổ chức, cá nhân có liên quan, cơ quan nhà nước có thẩm quyền quy định tại Điều 21 Nghị định số 240/2026/NĐ-CP này chấp thuận việc chấm dứt hoạt động của Quỹ theo Mẫu số 14 tại Phụ lục III ban hành kèm theo Nghị định này số 240/2026/NĐ-CP ngày 26/6/2026 của Chính phủ và thông báo tới Bộ Công Thương trong vòng 07 ngày làm việc.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: sau 30 ngày kể từ ngày tiếp nhận hồ sơ đề nghị chấm dứt hoạt động của Quỹ mà không nhận được bất kỳ thông báo, khiếu nại, khiếu kiện của các cơ quan, tổ chức, cá nhân có liên quan.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: sau 30 ngày kể từ ngày tiếp nhận hồ sơ đề nghị chấm dứt hoạt động của Quỹ mà không nhận được bất kỳ thông báo, khiếu nại, khiếu kiện của các cơ quan, tổ chức, cá nhân có liên quan.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: sau 30 ngày kể từ ngày tiếp nhận hồ sơ đề nghị chấm dứt hoạt động của Quỹ mà không nhận được bất kỳ thông báo, khiếu nại, khiếu kiện của các cơ quan, tổ chức, cá nhân có liên quan.
+
+Thành phần hồ sơ:
+    - +) Văn bản đề nghị chấm dứt hoạt động Quỹ theo Mẫu số 13 tại Phụ lục III ban hành kèm theo Nghị định số 240/2026/NĐ-CP ngày 26/6/2026 của Chính phủ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +) Báo cáo về việc xử lý tài sản, tài chính quỹ; danh sách chủ nợ và số nợ đã thanh toán, bao gồm việc thanh toán hết các khoản nợ về thuế và nợ tiền đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho người lao động (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +) Các tài liệu chứng minh việc thanh toán xong các khoản nợ và các nghĩa vụ khác với Nhà nước, tổ chức, cá nhân liên quan theo quy định của pháp luật;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Tài liệu chứng minh đã thực hiện niêm yết công khai tại trụ sở của Hiệp hội, trụ sở của Quỹ và đăng báo viết hoặc báo điện tử được phép phát hành tại Việt Nam trong 03 số liên tiếp về việc chấm dứt hoạt động của Quỹ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp
+Cơ quan thực hiện: Chủ tịch ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định chấm dứt hoạt động của Quỹ
+Căn cứ pháp lý:
+  * + Nghị định số 240/2026/NĐ-CP ngày 26/6/2026 của Chính phủ quy định chi tiết và biện pháp thi hành một số điều về cơ chế, chính sách phát huy nguồn lực xây dựng, vận hành Hệ sinh thái tận dụng các Hiệp định thương mại tự do và Quỹ Xúc tiến xuất khẩu ngành hàng theo Nghị quyết số 250/2025/QH15 ngày 10 tháng 12 năm 2025 của Quốc hội về một số cơ chế, chính sách đặc thù nhằm nâng cao hiệu quả hội nhập quốc tế. (240/2026/NĐ-CP)
+  * Nghị quyết số 250/2025/QH15 ngày 10 tháng 12 năm 2025 của Quốc hội về một số cơ chế, chính sách đặc thù nhằm nâng cao hiệu quả hội nhập quốc tế (250/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không quy định
+Từ khóa: Không có thông tin
+Mô tả: Không quy định

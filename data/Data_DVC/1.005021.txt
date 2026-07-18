@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.005021
+Số quyết định: 822/QĐ-BXD
+Tên thủ tục: Phê duyệt quy trình vận hành, khai thác bến phà, bến khách ngang sông sử dụng phà một lưỡi chở hành khách và xe ô tô
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+  * Nộp hồ sơ TTHC
+    - Cá nhân, tổ chức cá nhân đầu tư xây dựng, quản lý, khai thác và kinh doanh bến phà, bến khách ngang sông sử dụng phà một lưỡi chở hành khách và xe ô tô qua sông nộp hồ sơ đề nghị đến Sở Xây dựng địa phương.
+  * Giải quyết TTHC
+    - Đối với trường hợp nộp trực tiếp, sau khi kiểm tra thành phần hồ sơ, nếu đúng quy định thì tiếp nhận hồ sơ và viết phiếu hẹn trả kết quả; hướng dẫn tổ chức, cá nhân hoàn thiện hồ sơ đối với trường hợp không đủ thành phần hồ sơ;
+    - Đối với trường hợp nộp qua đường bưu điện hoặc qua cổng dịch vụ công trực tuyến, trong phạm vi 02 ngày làm việc kể từ ngày nhận được hồ sơ, kiểm tra thành phần hồ sơ, nếu không đủ thành phần hồ sơ có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;
+    - Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền giải quyết thủ tục hành chính tiến hành thẩm định hồ sơ, nếu đủ điều kiện, thì ban hành Quyết định phê duyệt quy trình vận hành khai thác bến phà, bến khách ngang sông sử dụng phà một lưỡi chở hành khách và ô tô. Trường hợp không phê duyệt, cơ quan có thẩm quyền phê duyệt phải có văn bản trả lời và nêu rõ lý do.
+    - Trả kết quả giải quyết thủ tục hành chính cho tổ chức, cá nhân bằng bản điện tử qua Cổng Dịch vụ công Quốc gia hoặc Ứng dụng định danh quốc gia. Trường hợp tổ chức, cá nhân có nhu cầu nhận bản giấy thì nhận trực tiếp hoặc qua hệ thống bưu chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+  [ tài liệu ]
+    - Đơn đề nghị phê duyệt quy trình (bản chính hoặc biểu mẫu điện tử)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quy trình vận hành, khai thác bến phà (hoặc bến khách ngang sông) sử dụng phà một lưỡi chở hành khách và ô tô (bản chính, bản sao có chứng thực, bản sao điện tử được cấp từ sổ gốc, bản sao điện tử được chứng thực từ bản chính, bản sao kèm theo bản chính để đối chiếu)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Quyết định thành lập hoặc giấy phép hoạt động (bản chính, bản sao có chứng thực, bản sao điện tử được cấp từ sổ gốc, bản sao điện tử được chứng thực từ bản chính, bản sao kèm theo bản chính để đối chiếu)
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt quy trình vận hành, khai thác bến phà, bến khách ngang sông sử dụng phà một lưỡi chở hành khách và xe ô tô
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư để phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong lĩnh vực đăng kiểm, đường bộ, đường sắt, quy hoạch đô thị và nông thôn thuộc phạm vi quản lý của Bộ Xây dựng. (24/2026/TT-BXD)
+  * Thông tư sửa đổi, bổ sung một số Điều của Thông tư số 36/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và hoạt động của bến xe, bãi đỗ xe, trạm dừng nghỉ, điểm dừng xe trên đường bộ; quy định trình tự, thủ tục đưa bến xe, trạm dừng nghỉ vào khai thác, Thông tư số 40/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về công tác phòng, chống, khắc phục hậu quả thiên tai trong lĩnh vực đường bộ; Thông tư số 41/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về quản lý, vận hành, khai thác và bảo trì kết cấu hạ tầng đường bộ, Thông tư số 22/2014/TT-BGTVT ngày 06 tháng 6 năm 2014 của Bộ trưởng Bộ Giao thông vận tải hướng dẫn xây dựng quy trình vận hành, khai thác bến phà, bến khách ngang sông sử dụng phà một lưỡi chở hành khách và xe ô tô. (72/2025/TT-BXD)
+  * Hướng dẫn xây dựng quy trình vận hành, khai thác bến phà, bến khách ngang sông sử dụng phà một lưỡi chở hành khách và xe ô tô (22/2014/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: - Bến sử dụng phà một lưỡi khi tham gia vào hoạt động vận tải chở hành khách và xe ô tô phải đáp ứng các quy định của Luật Giao thông đường thủy nội địa, Luật Đường bộ, tiêu chuẩn, quy chuẩn kỹ thuật hiện hành và các văn bản quy phạm pháp luật khác có liên quan; được cơ quan nhà nước có thẩm quyền thành lập hoặc cấp giấy phép hoạt động còn hiệu lực; có quy trình vận hành, khai thác được cơ quan nhà nước có thẩm quyền phê duyệt; chỉ được phép chở hành khách, chở xe ô tô tải có tải trọng dưới 3,5 tấn và chở xe ô tô khách dưới 16 chỗ ngồi;
+- Bến phải được bảo đảm các yêu cầu kỹ thuật theo quy định của tiêu chuẩn quy chuẩn kỹ thuật hiện hành; đảm bảo đầy đủ các điều kiện theo pháp luật về giao thông đường thủy nội địa; phải có nơi đỗ xe ô tô chờ qua phà và nhà chờ cho hành khách ở trước biển báo dừng lại ngoài cổng chắn của bến.
+Từ khóa: Không có thông tin
+Mô tả: - Bến sử dụng phà một lưỡi khi tham gia vào hoạt động vận tải chở hành khách và xe ô tô phải đáp ứng các quy định của Luật Giao thông đường thủy nội địa, Luật Đường bộ, tiêu chuẩn, quy chuẩn kỹ thuật hiện hành và các văn bản quy phạm pháp luật khác có liên quan; được cơ quan nhà nước có thẩm quyền thành lập hoặc cấp giấy phép hoạt động còn hiệu lực; có quy trình vận hành, khai thác được cơ quan nhà nước có thẩm quyền phê duyệt; chỉ được phép chở hành khách, chở xe ô tô tải có tải trọng dưới 3,5 tấn và chở xe ô tô khách dưới 16 chỗ ngồi;
+- Bến phải được bảo đảm các yêu cầu kỹ thuật theo quy định của tiêu chuẩn quy chuẩn kỹ thuật hiện hành; đảm bảo đầy đủ các điều kiện theo pháp luật về giao thông đường thủy nội địa; phải có nơi đỗ xe ô tô chờ qua phà và nhà chờ cho hành khách ở trước biển báo dừng lại ngoài cổng chắn của bến.

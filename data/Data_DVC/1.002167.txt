@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002167
+Số quyết định: 1106/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận tự nguyện chấm dứt hoạt động phòng giao dịch của ngân hàng thương mại
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Ngân hàng thương mại lập 01 bộ hồ sơ theo quy định gửi Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở phòng giao dịch;
+    + Bước 2: Trong thời hạn 5 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở phòng giao dịch có văn bản chấp thuận hoặc không chấp thuận đề nghị của ngân hàng thương mại; trường hợp không chấp thuận, văn bản gửi ngân hàng thương mại nêu rõ lý do.
+    Trong thời hạn 45 ngày kể từ ngày có văn bản chấp thuận của Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở phòng giao dịch, ngân hàng thương mại phải tiến hành các thủ tục pháp lý theo quy định của pháp luật để chấm dứt hoạt động của phòng giao dịch; chậm nhất 07 ngày làm việc trước ngày dự kiến chấm dứt hoạt động có văn bản báo cáo Ngân hàng Nhà nước (Cục Quản lý, giám sát tổ chức tín dụng) và Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở phòng giao dịch về ngày chấm dứt hoạt động.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Văn bản của ngân hàng thương mại đề nghị chấm dứt hoạt động phòng giao dịch theo mẫu tại Phụ lục IV ban hành kèm theo Thông tư 61/2025/TT-NHNN;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Phương án giải quyết các tài sản, quyền, nghĩa vụ và các lợi ích liên quan của phòng giao dịch chấm dứt hoạt động.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Nghị quyết hoặc quyết định của Hội đồng quản trị hoặc Hội đồng thành viên của ngân hàng thương mại về việc chấm dứt hoạt động phòng giao dịch;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận tự nguyện chấm dứt hoạt động phòng giao dịch của ngân hàng thương mại, Văn bản không chấp thuận tự nguyện chấm dứt hoạt động phòng giao dịch của ngân hàng thương mại
+Căn cứ pháp lý:
+  * 61/2025/TT-NHNN (số 61/2025/TT-NHNN)
+  * phân cấp thực hiện thủ tục hành chính trong lĩnh vực thông tin tín dụng và sủa đổi, bổ sung một số điều của các Thông tư liên quan đến cắt giảm, đơn giản hóa, phân cấp thực hiện thủ tục hành chính trong lĩnh vực thành lập và hoạt động ngân hàng (11/2026/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

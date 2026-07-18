@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "record_type": "prompt_event",
+  "prompt_id": "prompt-be0ba0acf03a434ad718172e",
+  "occurred_at": "2026-07-18T06:31:39.019522Z",
+  "captured_at": "2026-07-18T06:31:39.020985Z",
+  "member_id": "hdtruong802",
+  "tool": "codex",
+  "event": "UserPrompt",
+  "prompt": "push l?n truong",
+  "prompt_preview": "push l?n truong",
+  "model": null,
+  "task_record": "local-20260718-prototype-api-contract",
+  "branch": "feature/local-20260718-prototype-api-contract",
+  "workspace_fingerprint": "29aa416e0bb250a6b4670ada7dbae02bdeb972e36fb01db0ae28310d10af8a5d",
+  "source": {
+    "session_hash": "5f1a649c10d7fd838caac44fc79038d669f34a00db0a76188d5e1dd8fbfe2a6c",
+    "adapter": "manual",
+    "adapter_version": "1"
+  },
+  "sanitization": {
+    "redacted": false,
+    "categories": []
+  },
+  "capture_warnings": []
+}

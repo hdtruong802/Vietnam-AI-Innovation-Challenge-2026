@@ -21,12 +21,50 @@
 | `POST` | `/v1/intake/turn` | Một lượt intake stateless. |
 | `POST` | `/v1/procedures/{procedure_id}/checklist` | Checklist, steps và form schema. |
 | `POST` | `/v1/applications/validate` | Deterministic pre-check. |
+| `GET`, `POST` | `/v1/rag/search` | Tìm evidence approved/deterministic cho demo; không có hit thì fail closed. |
+| `GET`, `POST` | `/v1/rag/answer` | Diễn giải grounded từ evidence; thiếu evidence/key hoặc provider lỗi thì `official_review_required`. |
 
 `POST /v1/intake/turn` nhận `session_id`, `message` tối đa 500 ký tự và optional `session_context`. Không gửi `messages[]` hay transcript đầy đủ.
 
 `POST /v1/procedures/{procedure_id}/checklist` lấy ID từ path; body chỉ gồm `clarification_answers` và optional `procedure_version`.
 
 `POST /v1/applications/validate` nhận `procedure_id`, optional `procedure_version` và `form_data`. `verdict` chỉ là `pass_preliminary`, `needs_fix` hoặc `null` khi `trust_state=official_review_required`.
+
+## Prototype flow read models (D-013)
+
+Frontend dùng sáu route guided-intake/pre-check và hai route RAG additive. Các route RAG chỉ trả evidence hoặc diễn giải grounded có citation; chúng không thay deterministic validation, trust state hay official review.
+
+### Intake turn
+
+`POST /v1/intake/turn` hỗ trợ bốn `turn_type`:
+
+- `free_text` (mặc định): nhận diện thủ tục từ `message`.
+- `procedure_select`: cần `selected_procedure_id` để phản ánh lựa chọn từ ba thẻ MVP.
+- `clarification_answer`: cần `{ question_id, value }`; `question_id` phải nằm trong `session_context.pending_question_ids`.
+- `review_acknowledgement`: cần `review_gate_acknowledgement` (`U1`, `U2` hoặc `U3`).
+
+Mọi turn vẫn cần `session_id` và `message`. Đây là định danh/request text ngắn trong lần gọi hiện tại, không phải transcript để backend lưu.
+
+`IntakeResponse` có thể trả thêm:
+
+- `journey`: đúng năm bước `procedure`, `personal-information`, `case-information`, `documents`, `precheck`, mỗi bước có `complete`, `current` hoặc `upcoming`.
+- `procedure_card`: `authority`, `processing_time`, `fee` chỉ có khi pack được `verified_guidance`.
+- `confirmed_facts`: các clarification answer có `question_id` được pack khai báo; client đã sở hữu state này và không nên coi response là nơi lưu draft.
+- `next_action`: action UI tiếp theo, ví dụ `answer_clarifications`, `confirm_procedure`, `review_checklist` hoặc `official_review_required`.
+- `proposed_session_context`: structured state để browser giữ và gửi lại. Nó chỉ gồm procedure/version, clarification answers, pending question IDs, document-review IDs và review-gate acknowledgements.
+
+### Checklist và pre-check
+
+`ChecklistRequest` và `ValidationRequest` nhận optional `session_context` để tiến trình năm bước nhất quán. `ChecklistResponse` có thể trả `form_sections`, `procedure_card`, `journey`, `next_action`; `ValidationResponse` có thêm `journey`, `next_action`, `proposed_session_context`.
+
+`form_data` chỉ được dùng trong request validation hiện tại. Backend không copy nó vào `SessionContext`, audit log hoặc response state. Verdict/finding vẫn đến duy nhất từ deterministic Rule Engine; LLM chỉ có thể diễn giải finding đã tồn tại theo D-011.
+
+### Input safety and trust boundary
+
+- Mọi request DTO public dùng `extra=forbid`; field ngoài contract trả `422` với error envelope.
+- Chỉ pack approved/current có evidence mới hiển thị checklist, form schema, procedure card hoặc `verified_guidance`.
+- Fixture và disabled runtime vẫn trả trust state fail-closed; consumer không được dùng để hiển thị hướng dẫn thủ tục thật.
+- `SessionContext` là browser-owned state, không chứa full chat history, raw form draft, upload hay credential.
 
 ## Error và fallback
 

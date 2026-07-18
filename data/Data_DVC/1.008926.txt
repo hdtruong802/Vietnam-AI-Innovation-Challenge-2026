@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008926
+Số quyết định: 1444/QĐ-BTP
+Tên thủ tục: Thay đổi nơi tập sự hành nghề Thừa hành viên
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thừa hành viên
+Trình tự thực hiện:
+    - Người tập sự gửi văn bản đề nghị thay đổi nơi tập sự theo mẫu do Bộ trưởng Bộ Tư pháp quy định.
+    - Đối với trường hợp thay đổi nơi tập sự hành nghề Thừa hành viên trong cùng một tỉnh, thành phố: Sở Tư pháp cập nhật thông tin thay đổi nơi tập sự vào cơ sở dữ liệu về tổ chức và hoạt động của Thừa hành viên. Trường hợp không thể thực hiện cập nhật theo quy định tại điểm này thì Sở Tư pháp có thông báo ngay bằng văn bản về việc thay đổi nơi tập sự cho văn phòng thi hành án dân sự nơi nhận tập sự mới và người tập sự.
+    - Đối với trường hợp thay đổi nơi tập sự hành nghề Thừa hành viên sang tỉnh, thành phố khác: Sở Tư pháp cập nhật thông tin thay đổi nơi tập sự vào cơ sở dữ liệu tổ chức và hoạt động của Thừa hành viên. Trường hợp không thể thực hiện cập nhật theo quy định tại điểm này thì Sở Tư pháp nơi văn phòng thi hành án dân sự nhận tập sự mới đặt trụ sở có thông báo ngay bằng văn bản về việc thay đổi nơi tập sự cho văn phòng thi hành án dân sự nơi nhận tập sự mới và người tập sự.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Đối với trường hợp thay đổi nơi tập sự hành nghề Thừa hành viên trong cùng một tỉnh, thành phố: hồ sơ được gửi trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công tỉnh, thành phố nơi đã đăng ký tập sự hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.
+- Đối với trường hợp thay đổi nơi tập sự hành nghề Thừa hành viên sang tỉnh, thành phố khác: hồ sơ được gửi trực tiếp văn bản đề nghị thay đổi nơi tập sự theo mẫu do Bộ trưởng Bộ Tư pháp quy định hoặc qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công tỉnh, thành phố nơi đã đăng ký tập sự và nơi đăng ký tập sự mới hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Đối với trường hợp thay đổi nơi tập sự hành nghề Thừa hành viên trong cùng một tỉnh, thành phố: hồ sơ được gửi trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công tỉnh, thành phố nơi đã đăng ký tập sự hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.
+- Đối với trường hợp thay đổi nơi tập sự hành nghề Thừa hành viên sang tỉnh, thành phố khác: hồ sơ được gửi trực tiếp văn bản đề nghị thay đổi nơi tập sự theo mẫu do Bộ trưởng Bộ Tư pháp quy định hoặc qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công tỉnh, thành phố nơi đã đăng ký tập sự và nơi đăng ký tập sự mới hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Đối với trường hợp thay đổi nơi tập sự hành nghề Thừa hành viên trong cùng một tỉnh, thành phố: hồ sơ được gửi trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công tỉnh, thành phố nơi đã đăng ký tập sự hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.
+- Đối với trường hợp thay đổi nơi tập sự hành nghề Thừa hành viên sang tỉnh, thành phố khác: hồ sơ được gửi trực tiếp văn bản đề nghị thay đổi nơi tập sự theo mẫu do Bộ trưởng Bộ Tư pháp quy định hoặc qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công tỉnh, thành phố nơi đã đăng ký tập sự và nơi đăng ký tập sự mới hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.
+
+Thành phần hồ sơ:
+  Không có thông tin thành phần hồ sơ.
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Tư pháp Thành phố Hà Nội
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo về việc thay đổi nơi tập sự hành nghề Thừa phát lại
+Căn cứ pháp lý:
+  * Nghị định số 151/2026/NĐ-CP ngày 13/5/2026 của Chính phủ quy định về tổ chức và hoạt động của văn phòng thi hành án dân sự, Thừa hành viên (Nghị định số 151/2026/NĐ-CP)
+  * Thông tư số 08/2026/TT-BTP ngày 16/5/2026 của Bộ trưởng Bộ Tư pháp hướng dẫn thi hành Nghị định số 151/2026/NĐ-CP ngày 13/5/2026 của Chính phủ quy định về tổ chức và hoạt động của văn phòng thi hành án dân sự, Thừa hành viên (Thông tư số 08/2026/TT-BTP)
+  * Thông tư số 09/2025/TT-BTP ngày 16/6/2025 của Bộ trưởng Bộ Tư pháp hướng dẫn chức năng, nhiệm vụ, quyền hạn của Sở Tư pháp thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và chức năng, nhiệm vụ, quyền hạn của Văn phòng Hội đồng nhân dân và Ủy ban nhân dân thuộc Ủy ban nhân dân xã, phường, đặc khu trong lĩnh vực tư pháp (09/2025/TT-BTP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000352
+Số quyết định: 1306/QĐ-NHNN
+Tên thủ tục: Thủ tục đăng ký thiết lập quan hệ giao dịch ngoại tệ giữa Ngân hàng nước Việt Nam và tổ chức tín dụng được phép hoạt động ngoại hối 
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Khi có nhu cầu thiết lập quan hệ giao dịch ngoại tệ với Ngân hàng Nhà nước, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài được phép hoạt động ngoại hối (tổ chức tín dụng được phép) lập 01 bộ hồ sơ theo quy định gửi đến Ngân hàng Nhà nước.
+    + Bước 2: Ngân hàng Nhà nước xem xét, thẩm định hồ sơ. Trường hợp hồ sơ cần sửa đổi hoặc bổ sung, Ngân hàng Nhà nước thông báo bằng văn bản cho tổ chức tín dụng được phép trong vòng 04 (bốn) ngày làm việc kể từ ngày nhận được hồ sơ đăng ký thiết lập giao dịch ngoại tệ. Tổ chức tín dụng được phép sửa đổi, bổ sung hồ sơ và gửi đến NHNN trong thời hạn 15 (mười lăm) ngày làm việc kể từ ngày nhận được thông báo.
+    + Bước 3: Trong thời hạn 04 (bốn) ngày làm việc kể từ ngày nhận được hồ sơ đăng ký thiết lập quah hệ giao dịch ngoại tệ đầy đủ, hợp lệ, Ngân hàng Nhà nước có văn bản thông báo cho tổ chức tín dụng được phép về việc đồng ý hoặc không đồng ý thiết lập quan hệ giao dịch ngoại tệ (trường hợp không đồng ý, Ngân hàng Nhà nước nêu rõ lý do).
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Quy định nội bộ về quy trình thực hiện giao dịch ngoại tệ với Ngân hàng Nhà nước.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hướng dẫn thanh toán chuẩn cho các giao dịch ngoại tệ với Ngân hàng Nhà nước theo Phụ lục 2 ban hành kèm theo Thông tư số 26/2021/TT-NHNN.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy đăng ký thiết lập quan hệ giao dịch ngoại tệ với Ngân hàng Nhà nước theo Phụ lục 1 ban hành kèm theo Thông tư số 26/2021/TT-NHNN
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản thuyết minh về phương tiện giao dịch ngoại tệ của tổ chức tín dụng được phép đảm bảo khả năng giao dịch với Ngân hàng Nhà nước theo các phương thức giao dịch quy định tại khoản 1 Điều 10 Thông tư số 26/2021/TT-NHNN.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức nước ngoài
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam 49 Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo chấp thuận thiết lập quan hệ giao dịch ngoại tệ, Văn bản thông báo không đủ điều kiện thiết lập quan hệ giao dịch ngoại tệ
+Căn cứ pháp lý:
+  * Thông tư số 17/2026/TT-NHNN của Thống đốc Ngân hàng Nhà nước sửa đổi, bổ sung một số Thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam trong lĩnh vực quản lý ngoại hối liên quan đến phân cấp, đơn giản hóa thủ tục hành chính (17/2026/TT-NHNN)
+  * Thông tư sửa đổi, bổ sung một số điều của các các văn bản quy phạm pháp luật quy định về việc triển khai nhiệm vụ quản lý dự trữ ngoại hối nhà nước (Thông tư 12/2023/TT-NHNN)
+  * Thông tư 26/2021/TT-NHNN (26/2021/TT-NHNN)
+  * Nghị định 70/2014/NĐ-CP (70/2014/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

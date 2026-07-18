@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003560
+Số quyết định: 1122/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục xác nhận danh mục sản phẩm nghe nhìn có nội dung vui chơi giải trí nhập khẩu
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động mua bán quốc tế chuyên ngành văn hóa
+Trình tự thực hiện:
+    - Đối với các sản phẩm nghe nhìn được chứa trong máy móc, thiết bị, linh kiện, phương tiện hoặc sản phẩm nghe nhìn khác ghi trên mọi chất liệu có nội dung vui chơi giải trí, trò chơi điện tử (trừ trò chơi điện tử trực tuyến và trò chơi điện tử quy định tại Điều 10 Thông tư số 28/2014/TT-BVHTTDL) và nội dung văn hóa khác không phải là sản phẩm quy định tại khoản 1, khoản 2 Điều 8 Thông tư số 28/2014/TT-BVHTTDL phải được cơ quan có thẩm quyền xem xét, giải quyết trên cơ sở hồ sơ đề nghị nhập khẩu của Thương nhân.
+    - Thương nhân đề nghị nhập khẩu nộp 01 bộ hồ sơ bằng hình thức trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên Cổng Dịch vụ công quốc gia đến cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh (Sở Văn hóa và Thể thao/Sở Văn hóa, Thể thao và Du lịch).
+    - Trong thời hạn 07 (bảy) ngày làm việc kể từ ngày nhận được hồ sơ, nếu hồ sơ chưa đầy đủ, hợp lệ, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh có văn bản thông báo cho Thương nhân đề nghị bổ sung đầy đủ hồ sơ hợp lệ.
+    - Trong thời hạn 10 (mười) ngày làm việc kể từ ngày nhận được đủ hồ sơ hợp lệ, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh sẽ có văn bản trả lời kết quả chấp thuận hoặc từ chối đề nghị nhập khẩu của Thương nhân và nêu rõ lý do.
+    - Văn bản của cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh chấp thuận cho thương nhân nhập khẩu hàng hóa là căn cứ để cơ quan hải quan cho phép thương nhân được đưa hàng về địa điểm kiểm tra chuyên ngành hoặc kho của doanh nghiệp bảo quản để chờ kết quả kiểm tra chuyên ngành của cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh. Cơ quan hải quan làm thủ tục xác nhận thông quan cho hàng hóa sau khi có văn bản thẩm định, phê duyệt nội dung của cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh theo quy định tại khoản 2 Điều 11 Thông tư số 28/2014/TT-BVHTTDL.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 140000 VNĐ (Mức thu phí thẩm định nội dung Chương trình ca múa nhạc, sân khấu ghi trên băng đĩa Đối với bản ghi âm: 140.000 đồng/1 block thứ nhất cộng (+) mức phí tăng thêm là 100.000 đồng cho mỗi block tiếp theo (Một block có độ dài thời gian là 15 phút).) | 200000 VNĐ (Mức thu phí thẩm định nội dung Chương trình ghi trên đĩa nén, ổ cứng, phần mềm và các vật liệu khác Đối với bản ghi hình: 200.000 đồng/1 block thứ nhất cộng (+) mức phí tăng thêm là 140.000 đồng cho mỗi block tiếp theo (Một block có độ dài thời gian là 15 phút).) | 1400000 VNĐ (Mức thu phí thẩm định nội dung chương trình trên băng, đĩa, phần mềm và trên vật liệu khác Đối với bản ghi âm: (1) Ghi dưới hoặc bằng 50 bài hát, bản nhạc: 1.400.000 đồng/chương trình; (2) Ghi trên 50 bài hát, bản nhạc: 1.400.000 đồng/chương trình cộng (+) mức phí tăng thêm là 34.000 đồng/bài hát, bản nhạc. Tổng mức phí không quá 4.670.000 đồng/chương trình.) | 1670000 VNĐ (Mức thu phí thẩm định nội dung chương trình trên băng, đĩa, phần mềm và trên vật liệu khác Đối với bản ghi âm: (1) Ghi dưới hoặc bằng 50 bài hát, bản nhạc: 1.400.000 đồng/chương trình; (2) Ghi trên 50 bài hát, bản nhạc: 1.400.000 đồng/chương trình cộng (+) mức phí tăng thêm là 34.000 đồng/bài hát, bản nhạc. Tổng mức phí không quá 4.670.000 đồng/chương trình.)
+    Mô tả: kể từ ngày nhận được đủ hồ sơ hợp lệ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 140000 VNĐ (Mức thu phí thẩm định nội dung Chương trình ca múa nhạc, sân khấu ghi trên băng đĩa Đối với bản ghi âm: 140.000 đồng/1 block thứ nhất cộng (+) mức phí tăng thêm là 100.000 đồng cho mỗi block tiếp theo (Một block có độ dài thời gian là 15 phút).) | 200000 VNĐ (Mức thu phí thẩm định nội dung Chương trình ghi trên đĩa nén, ổ cứng, phần mềm và các vật liệu khác Đối với bản ghi hình: 200.000 đồng/1 block thứ nhất cộng (+) mức phí tăng thêm là 140.000 đồng cho mỗi block tiếp theo (Một block có độ dài thời gian là 15 phút).) | 1400000 VNĐ (Mức thu phí thẩm định nội dung chương trình trên băng, đĩa, phần mềm và trên vật liệu khác Đối với bản ghi âm: (1) Ghi dưới hoặc bằng 50 bài hát, bản nhạc: 1.400.000 đồng/chương trình; (2) Ghi trên 50 bài hát, bản nhạc: 1.400.000 đồng/chương trình cộng (+) mức phí tăng thêm là 34.000 đồng/bài hát, bản nhạc. Tổng mức phí không quá 4.670.000 đồng/chương trình.) | 1670000 VNĐ (Mức thu phí thẩm định nội dung chương trình trên băng, đĩa, phần mềm và trên vật liệu khác Đối với bản ghi âm: (1) Ghi dưới hoặc bằng 50 bài hát, bản nhạc: 1.400.000 đồng/chương trình; (2) Ghi trên 50 bài hát, bản nhạc: 1.400.000 đồng/chương trình cộng (+) mức phí tăng thêm là 34.000 đồng/bài hát, bản nhạc. Tổng mức phí không quá 4.670.000 đồng/chương trình.)
+    Mô tả: kể từ ngày nhận được đủ hồ sơ hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 140000 VNĐ (Mức thu phí thẩm định nội dung Chương trình ca múa nhạc, sân khấu ghi trên băng đĩa Đối với bản ghi âm: 140.000 đồng/1 block thứ nhất cộng (+) mức phí tăng thêm là 100.000 đồng cho mỗi block tiếp theo (Một block có độ dài thời gian là 15 phút).) | 200000 VNĐ (Mức thu phí thẩm định nội dung Chương trình ghi trên đĩa nén, ổ cứng, phần mềm và các vật liệu khác Đối với bản ghi hình: 200.000 đồng/1 block thứ nhất cộng (+) mức phí tăng thêm là 140.000 đồng cho mỗi block tiếp theo (Một block có độ dài thời gian là 15 phút).) | 1400000 VNĐ (Mức thu phí thẩm định nội dung chương trình trên băng, đĩa, phần mềm và trên vật liệu khác Đối với bản ghi âm: (1) Ghi dưới hoặc bằng 50 bài hát, bản nhạc: 1.400.000 đồng/chương trình; (2) Ghi trên 50 bài hát, bản nhạc: 1.400.000 đồng/chương trình cộng (+) mức phí tăng thêm là 34.000 đồng/bài hát, bản nhạc. Tổng mức phí không quá 4.670.000 đồng/chương trình.) | 1670000 VNĐ (Mức thu phí thẩm định nội dung chương trình trên băng, đĩa, phần mềm và trên vật liệu khác Đối với bản ghi âm: (1) Ghi dưới hoặc bằng 50 bài hát, bản nhạc: 1.400.000 đồng/chương trình; (2) Ghi trên 50 bài hát, bản nhạc: 1.400.000 đồng/chương trình cộng (+) mức phí tăng thêm là 34.000 đồng/bài hát, bản nhạc. Tổng mức phí không quá 4.670.000 đồng/chương trình.)
+    Mô tả: kể từ ngày nhận được đủ hồ sơ hợp lệ
+
+Thành phần hồ sơ:
+    - Bản sao Giấy chứng nhận đầu tư hoặc Giấy phép đầu tư, Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký kinh doanh hoặc giấy tờ khác xác nhận tư cách pháp lý có giá trị tương đương (nếu có). Trường hợp doanh nghiệp sử dụng thông tin Giấy chứng nhận đăng ký doanh nghiệp thì được tra cứu, tích hợp thông tin từ Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp, không phải nộp bản sao nếu đã có thông tin dữ liệu
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản mô tả nội dung, hình ảnh, cách thức vận hành, sử dụng, chủng loại, số lượng, tính năng của từng loại hàng hóa và các thông tin liên quan khác đến sản phẩm nhập khẩu (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị xác nhận danh mục sản phẩm nghe nhìn có nội dung vui chơi giải trí nhập khẩu theo Mẫu số 09 tại Danh mục kèm theo Phụ lục Thông tư số 09/2026/TT-BVHTTDL
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận danh mục sản phẩm nghe nhìn có nội dung vui chơi giải trí nhập khẩu
+Căn cứ pháp lý:
+  * Thông tư số 09/2026/TT-BVHTTDL ngày 29 tháng 4 năm 2026 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định về phân cấp thủ tục hành chính thuộc thẩm quyền của Bộ Văn hóa, Thể thao và Du lịch. (09/2026/TT-BVHTTDL)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Thông tư 28/2014/TT-BVHTTDL (28/2014/TT-BVHTTDL)
+  * Thông tư số 153/2025/TT-BTC ngày 31 tháng 12 năm 2025 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp một số khoản phí, lệ phí thuộc lĩnh vực văn hóa, thể thao, du lịch (153/TT-BTC)
+  * Thông tư số 26/2018/TT-BVHTTDL (26/2018/TT-BVHTTDL)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012366
+Số quyết định: 220/QĐ-BTC
+Tên thủ tục: Chấm dứt hoạt động của văn phòng đại diện nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo hiểm
+Trình tự thực hiện:
+  * Chấm dứt hoạt động của văn phòng đại diện nước ngoài tại Việt Nam khi chưa hết thời hạn hoạt động
+    + Bước 1: Tổ chức, cá nhân nộp hồ sơ đề nghị cấp Giấy phép
+    + Bước 2: Bộ Tài chính xem xét, thẩm định hồ sơ và có văn bản chấm dứt hoạt động của văn phòng đại diện nước ngoài tại Việt Nam.
+  * Chấm dứt hoạt động của văn phòng đại diện nước ngoài tại Việt Nam khi đã hết thời hạn hoạt động
+    + Bước 1: Trong thời hạn 30 ngày kể từ khi giấy phép đặt văn phòng đại diện hết hạn,  Bộ Tài chính có văn bản gửi đến văn phòng đại diện nước ngoài và các cơ quan quản lý nhà nước có liên quan, thông báo về việc văn phòng đại diện chấm dứt hoạt động và yêu cầu doanh nghiệp nước ngoài thực hiện các thủ tục chấm dứt hoạt động của văn phòng đại diện;
+    + Bước 2: Trong thời hạn 20 ngày, kể từ ngày nhận được văn bản của Bộ Tài chính, doanh nghiệp nước ngoài nộp hồ sơ thứ nhất đến Bộ Tài chính;
+    + Bước 3: Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tài chính có quyết định chấm dứt hoạt động của văn phòng đại diện nước ngoài;
+    + Bước 4: Trong thời hạn 01 năm kể từ ngày Bộ Tài chính có văn bản thông báo về việc văn phòng đại diện nước ngoài chấm dứt hoạt động, doanh nghiệp nước ngoài hoặc đại diện theo ủy quyền phải báo cáo Bộ Tài chính về việc đã hoàn thành các nghĩa vụ với tổ chức, cá nhân tại Việt Nam kèm theo bộ hồ sơ thứ 2;
+    + Bước 5: Trong thời hạn 05 ngày làm việc kể từ ngày hết thời hạn 01 năm theo quy định, trường hợp chưa hoàn thành các nghĩa vụ với người lao động và tổ chức, cá nhân khác tại Việt Nam thì doanh nghiệp nước ngoài hoặc đại diện theo ủy quyền phải có văn bản báo cáo Bộ Tài chính lý do. Khi hết thời hạn 05 ngày làm việc nêu trên mà chưa nhận được văn bản báo cáo này, Bộ Tài chính sẽ có công văn gửi cơ quan quản lý nhà nước về bảo hiểm nơi doanh nghiệp nước ngoài đặt trụ sở chính thông báo về việc doanh nghiệp, tập đoàn nước ngoài chưa hoàn thành nghĩa vụ với tổ chức, cá nhân tại Việt Nam;
+    + Bước 6: Trong thời hạn 20 ngày kể từ ngày nhận được báo cáo kèm theo hồ sơ thứ hai, Bộ Tài chính có văn bản xác nhận doanh nghiệp nước ngoài đã hoàn thành thủ tục đóng cửa văn phòng đại diện tại Việt Nam.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Chấm dứt hoạt động của văn phòng đại diện nước ngoài tại Việt Nam khi chưa hết thời hạn hoạt động ]
+    - + Các bằng chứng chứng minh đã hoàn thành nghĩa vụ với người lao động và các nghĩa vụ với các cơ quan, tổ chức, cá nhân khác tại Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản gốc các giấy phép, quyết định khác có liên quan trong quá trình hoạt động của văn phòng đại diện nước ngoài tại Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Ghi chú: 01 bản tiếng Anh, 01 bản tiếng Việt
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Văn bản đề nghị chấm dứt hoạt động văn phòng đại diện nước ngoài tại Việt Nam theo quy định tại Phụ lục XIII ban hành kèm theo Nghị định 46/2023/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản gốc giấy phép đặt văn phòng đại diện nước ngoài tại Việt Nam và các quyết định gia hạn giấy phép (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản ủy quyền cho một tổ chức tại Việt Nam thay mặt cho doanh nghiệp nước ngoài thực hiện các thủ tục hành chính với các cơ quan quản lý nhà nước có liên quan (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Chấm dứt hoạt động của văn phòng đại diện nước ngoài tại Việt Nam khi đã hết thời hạn hoạt động ]
+    - Các bằng chứng chứng minh đã hoàn thành nghĩa vụ với người lao động và các nghĩa vụ với các cơ quan, tổ chức, cá nhân khác tại Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Hồ sơ thứ hai
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Văn bản ủy quyền cho một tổ chức tại Việt Nam thay mặt cho doanh nghiệp nước ngoài thực hiện các thủ tục hành chính với các cơ quan quản lý nhà nước có liên quan (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ thứ nhất:
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Bản gốc giấy phép đặt văn phòng đại diện nước ngoài tại Việt Nam và các quyết định gia hạn giấy phép (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản đề nghị chấm dứt hoạt động văn phòng đại diện nước ngoài tại Việt Nam theo quy định tại Phụ lục XIII ban hành kèm theo Nghị định 46/2023/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản gốc các giấy phép, quyết định khác có liên quan trong quá trình hoạt động của văn phòng đại diện nước ngoài tại Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Bộ Tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Chấm dứt hoạt động của văn phòng đại diện nước ngoài tại Việt Nam khi chưa hết thời hạn hoạt động, Chấm dứt hoạt động của văn phòng đại diện nước ngoài tại Việt Nam khi đã hết thời hạn hoạt động
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

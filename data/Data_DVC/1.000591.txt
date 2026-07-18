@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000591
+Số quyết định: 1040/QĐ-BCT
+Tên thủ tục: Cấp lại giấy phép thành lập Sở giao dịch hàng hóa
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Sở giao dịch hàng hóa
+Trình tự thực hiện:
+    + Sở Giao dịch hàng hóa có trách nhiệm thực hiện thủ tục đề nghị cấp lại Giấy phép thành lập Sở Giao dịch hàng hóa trong trường hợp Giấy phép thành lập Sở Giao dịch hàng hóa bị mất, bị rách hoặc bị tiêu hủy dưới hình thức khác;
+    + Sở Giao dịch hàng hóa nộp hồ sơ đề nghị cấp lại Giấy phép thành lập Sở Giao dịch hàng hóa trực tiếp hoặc theo đường bưu điện hoặc trực tiếp đến Bộ Công Thương.
+    + Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Bộ Công Thương quyết định cấp lại Giấy phép thành lập Sở giao dịch hàng hóa. Trong trường hợp từ chối cấp lại, Bộ Công Thương thông báo bằng văn bản nêu rõ lý do.
+    - Cách thức thực hiện: Sở giao dịch hàng hóa nộp 01 bộ hồ sơ gửi về Bộ Công Thương đề nghị cấp lại Giấy phép thành lập theo một trong ba cách: gửi trực tiếp hoặc qua đường bưu điện hoặc qua mạng điện tử của Bộ Công Thương.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ nêu tại khoản 2 Điều 13 Nghị định số 158/2006/NĐ-CP (được sửa đổi, bổ sung tại Nghị định 51/2018/NĐ-CP), Bộ Công Thương phải quyết định việc cấp lại Giấy phép thành lập Sở giao dịch hàng hóa. Trong trường hợp không cấp lại Giấy phép thành lập Sở giao dịch hàng hóa, Bộ Công Thương phải thông báo bằng văn bản và nêu rõ lý do.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ nêu tại khoản 2 Điều 13 Nghị định số 158/2006/NĐ-CP (được sửa đổi, bổ sung tại Nghị định 51/2018/NĐ-CP), Bộ Công Thương phải quyết định việc cấp lại Giấy phép thành lập Sở giao dịch hàng hóa. Trong trường hợp không cấp lại Giấy phép thành lập Sở giao dịch hàng hóa, Bộ Công Thương phải thông báo bằng văn bản và nêu rõ lý do.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ nêu tại khoản 2 Điều 13 Nghị định số 158/2006/NĐ-CP (được sửa đổi, bổ sung tại Nghị định 51/2018/NĐ-CP), Bộ Công Thương phải quyết định việc cấp lại Giấy phép thành lập Sở giao dịch hàng hóa. Trong trường hợp không cấp lại Giấy phép thành lập Sở giao dịch hàng hóa, Bộ Công Thương phải thông báo bằng văn bản và nêu rõ lý do.
+
+Thành phần hồ sơ:
+    - văn bản đề nghị cấp lại Giấy phép thành lập Sở Giao dịch hàng hóa theo Mẫu số 03; ban hành kèm theo Nghị định 51/2018/NĐ-CP ngày 09/4/2018
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thành lập Sở Giao dịch hàng hóa
+Căn cứ pháp lý:
+  * Nghị định 158/2006/NĐ-CP (158/2006/NĐ-CP)
+  * Nghị định 51/2018/NĐ-CP (51/2018/NĐ-CP)
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Luật Thương mại (36/2005/QH11)
+
+Yêu cầu, điều kiện thực hiện: Giấy phép thành lập Sở Giao dịch hàng hóa bị mất, bị rách hoặc bị tiêu hủy dưới hình thức khác
+Từ khóa: Không có thông tin
+Mô tả: Giấy phép thành lập Sở Giao dịch hàng hóa bị mất, bị rách hoặc bị tiêu hủy dưới hình thức khác

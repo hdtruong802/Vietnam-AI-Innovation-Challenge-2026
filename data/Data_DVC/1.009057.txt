@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009057
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục bán hàng miễn thuế cho đối tượng mua là người xuất cảnh, quá cảnh, khách trên tàu bay xuất cảnh, khách du lịch bằng đường biển, thuyền viên mua hàng miễn thuế phục vụ nhu cầu cá nhân trong thời gian tàu neo đậu tại cảng biển Việt Nam
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp yêu cầu khách hàng xuất trình hộ chiếu hoặc giấy thông hành
+    Bước 2: Doanh nghiệp nhập dữ liệu vào phần mềm của doanh nghiệp các thông tin về khách hàng và hàng hóa khách hàng mua
+    Thông tin về khách hàng gồm: họ và tên người mua hàng đúng theo hộ chiếu hoặc giấy thông hành; số hộ chiếu hoặc số giấy thông hành; quốc tịch; số hiệu chuyến bay (flight), ngày bay (date) được ghi trên thẻ tàu bay (boarding pass) đối với người xuất cảnh, quá cảnh bằng đường hàng không hoặc ngày khởi hành của phương tiện đối với người xuất cảnh, quá cảnh bằng đường sắt, đường biển.
+    - Riêng trường hợp bán hàng cho khách xuất cảnh, quá cảnh qua cảng hàng không dân dụng quốc tế, thực hiện cập nhật thông tin về khách hàng thông qua việc quét mã vạch trên thẻ lên tàu bay (boarding pass).
+    - Trường hợp bán hàng cho khách du lịch bằng đường biển tại cửa hàng miễn thuế trong nội địa và giao hàng cho khách ở cửa khẩu xuất: lập 02 liên phiếu giao hàng theo Mẫu số 02/PGH Phụ lục II ban hành kèm theo Nghị định 100/2020/NĐ-CP ngày 28/8/2020 và gửi dữ liệu phiếu giao hàng đến hệ thống xử lý dữ liệu điện tử, chịu trách nhiệm vận chuyển và xuất trình hàng hóa kèm theo 02 liên phiếu giao hàng với hải quan cửa khẩu nơi người mua hàng xuất cảnh để bàn giao hàng hóa cho người mua hàng tại quầy nhận hàng trong khu cách ly cửa khẩu xuất cảnh.
+    - Trường hợp bán hàng miễn thuế trực tuyến: doanh nghiệp nhập dữ liệu về thông tin khách hàng và hàng hóa vào hệ thống xử lý dữ liệu điện tử khi chấp nhận đơn hàng và hoàn tất thủ tục thanh toán. Khi giao hàng cho khách mua hàng, doanh nghiệp kiểm tra đối chiếu thông tin mà khách đã kê khai khi mua hàng trực tuyến với thông tin trên các giấy tờ liên quan đến khách mua hàng theo quy định đối với từng đối tượng.
+    Bước 3: Doanh nghiệp thực hiện gửi thông tin về hàng hóa và khách hàng đến hệ thống xử lý dữ liệu điện tử
+    Bước 4: Doanh nghiệp xuất hóa đơn bán hàng (bao gồm cả hàng tặng kèm sản phẩm, nếu có) theo quy định và lưu hoá đơn bán hàng theo ngày bán hàng (trường hợp hóa đơn bán hàng là từng cuộn thì lưu theo từng cuộn).
+    Bước 5: Trên cơ sở quản lý rủi ro và dấu hiệu vi phạm pháp luật, Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực hiện kiểm tra việc bán hàng miễn thuế thông qua hệ thống phần mềm của doanh nghiệp, hệ thống xử lý dữ liệu điện tử, ca-mê-ra giám sát hoặc kiểm tra trực tiếp tại cửa hàng miễn thuế, kho chứa hàng miễn thuế
+    - Trường hợp bán hàng cho khách du lịch bằng đường biển tại cửa hàng miễn thuế trong nội địa và giao hàng cho khách ở cửa khẩu xuất: công chức hải quan tiếp nhận phiếu giao hàng do nhân viên của cửa hàng miễn thuế xuất trình tại quầy nhận hàng trong khu cách ly cửa khẩu xuất cảnh;
+    + Kiểm tra đối chiếu hàng với nội dung kê khai trên phiếu giao hàng;
+    + Xác nhận ký tên và đóng dấu công chức trên phiếu giao hàng;
+    + Giao 01 liên phiếu giao hàng cho doanh nghiệp kinh doanh hàng miễn thuế lưu và lưu 01 liên;
+    + Cuối mỗi ngày (ca) công chức hải quan xác nhận trên hệ thống xử lý dữ liệu điện tử về số phiếu giao hàng đã được xác nhận.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Thông tin về khách hàng và hàng hóa khách hàng mua - Trường hợp bán hàng cho khách du lịch bằng đường biển tại cửa hàng miễn thuế trong nội địa và giao hàng cho khách ở cửa khẩu xuất: Phiếu giao hàng: 02 bản chính
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hệ thống xử lý dữ liệu điện tử tiếp nhận thông tin do doanh nghiệp gửi lên.
+Căn cứ pháp lý:
+  * Về kinh doanh hàng miễn thuế (100/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

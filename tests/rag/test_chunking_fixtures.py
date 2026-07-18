@@ -9,7 +9,6 @@ import unittest
 from collections import Counter
 from pathlib import Path
 
-
 SCRIPT_PATH = (
     Path(__file__).resolve().parents[2]
     / "scripts"
@@ -43,9 +42,12 @@ class ChunkingFixtureTests(unittest.TestCase):
             dict(counts),
         )
 
-    def test_annotations_are_seeded_for_review_and_do_not_embed_raw_text(self) -> None:
+    def test_annotations_use_review_lifecycle_and_do_not_embed_raw_text(self) -> None:
         self.assertTrue(
-            all(row["annotation_status"] == "needs_review" for row in self.rows)
+            all(
+                row["annotation_status"] in validator.ALLOWED_ANNOTATION_STATUSES
+                for row in self.rows
+            )
         )
         self.assertFalse(self.metadata["selection"]["raw_content_committed"])
         expected_columns = set(validator.REQUIRED_COLUMNS)
@@ -57,13 +59,17 @@ class ChunkingFixtureTests(unittest.TestCase):
         first_ranges[0] = "overview:2-3"
         rows[0]["expected_sections"] = "|".join(first_ranges)
         errors = validator.validate_manifest(self.metadata, rows)
-        self.assertTrue(any("section ranges must be contiguous" in error for error in errors))
+        self.assertTrue(
+            any("section ranges must be contiguous" in error for error in errors)
+        )
 
     def test_validator_rejects_unbalanced_distribution(self) -> None:
         rows = copy.deepcopy(self.rows[:-1])
         errors = validator.validate_manifest(self.metadata, rows)
         self.assertTrue(any("fixture count" in error for error in errors))
-        self.assertTrue(any("household_business_registration" in error for error in errors))
+        self.assertTrue(
+            any("household_business_registration" in error for error in errors)
+        )
 
 
 if __name__ == "__main__":

@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008583
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Miễn, giảm thuế tài nguyên đối với trường hợp người nộp thuế tự xác định số thuế được miễn, giảm
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1: Người nộp thuế lập hồ sơ đề nghị miễn giảm thuế cho cơ quan thuế. Một số trường hợp cụ thể như sau:
+    ++ Cá nhân được phép khai thác cành, ngọn, củi, tre, trúc, nứa, mai, giang, tranh, vầu, lồ ô do phục vụ sinh hoạt gửi văn bản đề nghị miễn thuế 01 lần trước khi khai thác đến Thuế cơ sở nơi cá nhân cư trú.
+    ++ Hộ gia đình, cá nhân sử dụng nước thiên nhiên tự sản xuất thuỷ điện phục vụ sinh hoạt gửi Văn bản đề nghị miễn thuế 01 lần trước khi khai thác đến Thuế tỉnh, thành phố trực tiếp quản lý nơi khai thác.
+    ++ Tổ chức, cá nhân được giao, được thuê đất tự khai thác và sử dụng tại chỗ trên diện tích đất được giao, được thuê hoặc đơn vị nhận thầu thi công; đất khai thác để san lấp, xây dựng công trình an ninh, quân sự, đê điều gửi văn bản đề nghị đến Thuế tỉnh, thành phố trực tiếp quản lý nơi khai thác trước khi khai thác để hưởng miễn thuế tài nguyên.
+    + Bước 2. Cơ quan thuế tiếp nhận hồ sơ và giải quyết theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Thành phần hồ sơ đối với cá nhân được phép khai thác cành, ngọn, củi, tre, trúc, nứa, mai, giang, tranh, vầu, lồ ô do phục vụ sinh hoạt gồm: ]
+    - Văn bản đề nghị miễn thuế theo mẫu số 06/MGTH tại Phụ lục I ban hành kèm theo Thông tư số 80/2021/TT-BTC  ngày 29/9/2021 của  Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế, có xác nhận của Ủy ban nhân dân cấp xã nơi cư trú
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Thành phần hồ sơ đối với hộ gia đình, cá nhân sử dụng nước thiên nhiên tự sản xuất thuỷ điện phục vụ sinh hoạt gồm: ]
+    - Văn bản đề nghị miễn thuế theo mẫu số 06/MGTH tại Phụ lục I ban hành kèm theo Thông tư số 80/2021/TT-BTC  ngày 29/9/2021, kèm theo bản giải trình về thiết bị sản xuất thuỷ điện phục vụ cho sinh hoạt gia đình, có xác nhận của Ủy ban nhân dân cấp xã nơi cư trú
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Thành phần hồ sơ đối với tổ chức, cá nhân được giao, được thuê đất tự khai thác và sử dụng tại chỗ trên diện tích đất được giao, được thuê hoặc đơn vị nhận thầu thi công; đất khai thác để san lấp, xây dựng chương trình an ninh, quân sự, đê điều gồm: ]
+    - Văn bản đề nghị theo mẫu số 06/MGTH tại Phụ lục I ban hành kèm theo Thông tư số 80/2021/TT-BTC  ngày 29/9/2021, kèm theo bản sao hồ sơ được cơ quan có thẩm quyền phê duyệt về việc xây dựng công trình tại địa phương của chủ đầu tư. Trường hợp đơn vị nhận thầu thi công thì phải có văn bản giao thầu ký với chủ đầu tư
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Cán bộ, công chức, viên chức, Người nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+  * LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA CÁC LUẬT VỀ THUẾ (71/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

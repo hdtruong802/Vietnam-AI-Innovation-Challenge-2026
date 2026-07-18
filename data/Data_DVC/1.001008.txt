@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001008
+Số quyết định: 1198/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp giấy phép đủ điều kiện kinh doanh dịch vụ vũ trường
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Văn hóa
+Trình tự thực hiện:
+    - Doanh nghiệp hoặc hộ kinh doanh có địa điểm kinh doanh dịch vụ vũ trường trên địa bàn gửi trực tiếp hoặc qua bưu chính hoặc qua môi trường điện tử 01 bộ hồ sơ theo quy định đến Sở Văn hóa, Thể thao và Du lịch/Sở Văn hóa và Thể thao (gọi chung là cơ quan tiếp nhận).
+    - Trường hợp hồ sơ chưa đúng quy định, trong thời hạn 01 ngày làm việc kể từ ngày nhận hồ sơ, cơ quan tiếp nhận hồ sơ có văn bản thông báo yêu cầu hoàn thiện hồ sơ.
+    - Trường hợp hồ sơ đầy đủ theo quy định, trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, cơ quan tiếp nhận thẩm định hồ sơ, báo cáo Ủy ban nhân dân cấp tỉnh thành lập Đoàn thẩm định thực tế tại địa điểm kinh doanh dịch vụ vũ trường (sau đây gọi là Đoàn thẩm định) về các điều kiện kinh doanh theo quy định để tư vấn cho cơ quan có thẩm quyền cấp Giấy phép đủ điều kiện kinh doanh quyết định cấp hoặc không cấp Giấy phép. Thành phần Đoàn thẩm định không quá 07 thành viên, gồm đại diện các cơ quan: Công an, Văn hóa, Xây dựng và các cơ quan khác có liên quan.
+    - Trong thời hạn 04 ngày làm việc kể từ ngày thành lập, Đoàn thẩm định tổ chức thẩm định và ban hành kết quả thẩm định theo mẫu quy định.
+    - Trong thời hạn 03 ngày làm việc kể từ ngày có kết quả thẩm định, UBND cấp tỉnh có trách nhiệm cấp hoặc phân cấp, ủy quyền cơ quan chuyên môn cấp Giấy phép đủ điều kiện kinh doanh dịch vụ vũ trường theo mẫu quy định hoặc không cấp Giấy phép. Trường hợp không cấp Giấy phép phải trả lời bằng văn bản và nêu rõ lý do.
+    - Cơ quan có thẩm quyền cấp Giấy phép gửi 01 bản Giấy phép đến doanh nghiệp hoặc hộ kinh doanh được cấp Giấy phép đủ điều kiện kinh doanh dịch vụ vũ trường, cơ quan cấp Giấy chứng nhận đăng ký doanh nghiệp hoặc hộ kinh doanh, cơ quan công an cấp huyện nơi thực hiện kinh doanh và lưu 01 bản Giấy phép tại cơ quan cấp Giấy phép đủ điều kiện kinh doanh, cơ quan tiếp nhận hồ sơ; đăng tải trên trang thông tin điện tử của cơ quan cấp Giấy phép đủ điều kiện kinh doanh.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 10000000 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 10000000 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 10000000 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản sao có chứng thực hoặc bản sao có xuất trình bản chính để đối chiếu Giấy chứng nhận đủ điều kiện về an ninh, trật tự.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị cấp Giấy phép đủ điều kiện kinh doanh dịch vụ vũ trường (mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định số 148/2024/NĐ-CP ngày 12 tháng 11 năm 2024 của Chính phủ)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Sở Văn hóa và Thể thao Thành phố Hà Nội, Sở Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép đủ điều kiện kinh doanh dịch vụ karaoke/vũ trường
+Căn cứ pháp lý:
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định có quy định thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (116/2026/NĐ-CP)
+  * Thông tư số 01/2021/TT-BTC ngày 07 tháng 01 năm 2021 của Bộ trưởng Bộ Tài chính quy định về mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định cấp Giấy phép kinh doanh karaoke, vũ trường. Có hiệu lực thi hành từ ngày 25 tháng 02 năm 2021. (01/2021/TT-BTC)
+  * Nghị định 54/2019/NĐ-CP (54/2019/NĐ-CP)
+  * THÔNG TƯ QUY ĐỊNH MỨC THU, CHẾ ĐỘ THU, NỘP PHÍ THẨM ĐỊNH CẤP GIẤY PHÉP KINH DOANH KARAOKE, VŨ TRƯỜNG (110/2025/TT-BTC)
+  * Nghị định 148/2024/NĐ-CP Sửa đổi, bổ sung một số điều của Nghị định số 54/2019/NĐ-CP ngày 19 tháng 6 năm 2019 của Chính phủ quy định về kinh doanh dịch vụ karaoke, dịch vụ vũ trường (148/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Là doanh nghiệp hoặc hộ kinh doanh được thành lập theo quy định của pháp luật; 
+- Bảo đảm các điều kiện về phòng, chống cháy nổ và an ninh, trật tự theo quy định tại Nghị định số 96/2016/NĐ-CP và Nghị định số 56/2023/NĐ-CP của Chính phủ;
+- Không được đặt chốt cửa bên trong phòng vũ trường hoặc đặt thiết bị báo động (trừ các thiết bị báo cháy nổ)
+Từ khóa: Không có thông tin
+Mô tả: - Là doanh nghiệp hoặc hộ kinh doanh được thành lập theo quy định của pháp luật; 
+- Bảo đảm các điều kiện về phòng, chống cháy nổ và an ninh, trật tự theo quy định tại Nghị định số 96/2016/NĐ-CP và Nghị định số 56/2023/NĐ-CP của Chính phủ;
+- Không được đặt chốt cửa bên trong phòng vũ trường hoặc đặt thiết bị báo động (trừ các thiết bị báo cháy nổ)

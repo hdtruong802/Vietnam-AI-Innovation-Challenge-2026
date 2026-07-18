@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014582
+Số quyết định: 1870/QĐ-UBND.
+Tên thủ tục: 1. Thủ tục hỗ trợ chi phí hỏa táng (bao gồm cả điện táng) trên địa bàn tỉnh Bắc Ninh
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Văn hóa
+Trình tự thực hiện:
+    - Trong thời hạn 60 ngày kể từ ngày hỏa táng, tổ chức, cá nhân nộp hồ sơ tại Trung tâm phục vụ hành chính công của Ủy ban nhân dân cấp xã nơi thường trú của người chết. Ủy ban nhân dân cấp xã có trách nhiệm tiếp nhận và tổ chức giải quyết hồ sơ.
+    - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Chủ tịch Ủy ban nhân dân cấp xã quyết định hỗ trợ chi phí hỏa táng (theo mẫu số 02 ban hành kèm theo Nghị quyết này). Ủy ban nhân dân cấp xã trực tiếp chi trả chi phí hỏa táng theo hình thức tiền mặt hoặc chuyển khoản trong thời hạn 04 ngày làm việc, kể từ ngày Chủ tịch Ủy ban nhân dân cấp xã ban hành quyết định hỗ trợ chi phí hỏa táng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Chủ tịch Uỷ ban nhân dân cấp xã quyết định hỗ trợ chi phí hoả táng (theo mẫu số 02 ban hành kèm theo Nghị Quyết 107/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Bắc Ninh.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 04 ngày làm việc, kể từ ngày Chủ tịch Uỷ ban nhân dân cấp xã ban hành quyết định hỗ trợ chi phí hoả táng, Uỷ ban nhân dân cấp xã trực tiếp chi trả chi phí hoả táng theo hình thức tiền mặt hoặc chuyển khoản.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Chủ tịch Uỷ ban nhân dân cấp xã quyết định hỗ trợ chi phí hoả táng (theo mẫu số 02 ban hành kèm theo Nghị Quyết 107/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Bắc Ninh.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 04 ngày làm việc, kể từ ngày Chủ tịch Uỷ ban nhân dân cấp xã ban hành quyết định hỗ trợ chi phí hoả táng, Uỷ ban nhân dân cấp xã trực tiếp chi trả chi phí hoả táng theo hình thức tiền mặt hoặc chuyển khoản.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Chủ tịch Uỷ ban nhân dân cấp xã quyết định hỗ trợ chi phí hoả táng (theo mẫu số 02 ban hành kèm theo Nghị Quyết 107/2025/NQ-HĐND ngày 10/12/2025 của Hội đồng nhân dân tỉnh Bắc Ninh.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 04 ngày làm việc, kể từ ngày Chủ tịch Uỷ ban nhân dân cấp xã ban hành quyết định hỗ trợ chi phí hoả táng, Uỷ ban nhân dân cấp xã trực tiếp chi trả chi phí hoả táng theo hình thức tiền mặt hoặc chuyển khoản.
+
+Thành phần hồ sơ:
+    - (1)	Tờ khai đề nghị hỗ trợ kinh phí hỏa táng (theo mẫu số 01 ban hành kèm theo Nghị quyết số 107/2025/NQ-HĐND ngày10/12/2025 của Hội đồng nhân dân tỉnh Bắc Ninh Quy định chính sách hỗ trợ chi phí hoả táng ( bao gồm cả điện táng) trên địa bàn tỉnh Bắc Ninh).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (2)	Hợp đồng với cơ sở hỏa táng (bản chính/bản sao có chứng thực hoặc bản sao có đối chiếu với bản gốc
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: UBND Phường Bắc Giang, tỉnh Bắc Ninh, UBND Phường Kinh Bắc, tỉnh Bắc Ninh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công cấp xã, tỉnh Bắc Ninh
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt; kinh phí hỗ trợ thực hiện hoả táng
+Căn cứ pháp lý:
+  * Nghị quyết 107/2025/NQ-HĐND  Quy định chính sách hỗ trợ chi phí hỏa táng (bao gồm cả điện táng) trên địa bàn tỉnh Bắc Ninh (107/2025/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Người chết có hộ khẩu thường trú trên địa bàn tỉnh Bắc Ninh
+Từ khóa: Không có thông tin
+Mô tả: Người chết có hộ khẩu thường trú trên địa bàn tỉnh Bắc Ninh

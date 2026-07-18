@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007742
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hóa xuất khẩu, nhập khẩu theo quyền xuất khẩu, quyền nhập khẩu, quyền phân phối của doanh nghiệp chế xuất
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp chế xuất thực hiện việc khai báo hải quan và xuất trình hồ sơ hải quan (trong trường hợp phải kiểm tra hồ sơ), xuất trình thực tế hàng hoá (trong trường hợp phải kiểm tra thực tế hàng hoá) cho cơ quan hải quan.
+    Ngoài ra, Doanh nghiệp chế xuất phải khai tại ô “Số Giấy phép” trên tờ khai hải quan điện tử thông tin số văn bản cho phép của cơ quan có thẩm quyền về hoạt động mua bán hàng hóa và các hoạt động liên quan đến mua bán hàng hóa của doanh nghiệp có vốn đầu tư nước ngoài có đăng ký quyền xuất khẩu, quyền nhập khẩu.
+    Bước 2: Cơ quan hải quan thực hiện việc thông quan hàng hoá.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Đối với hàng hóa nhập khẩu: ]
+    - Tờ khai trị giá: Người khai hải quan khai tờ khai trị giá theo mẫu, gửi đến Hệ thống dưới dạng dữ liệu điện tử hoặc nộp cho cơ quan hải quan 02 bản chính đối với trường hợp khai trên tờ khai hải quan giấy. Các trường hợp phải khai tờ khai trị giá và mẫu tờ khai trị giá thực hiện theo quy định tại Thông tư số 39/2015/TT-BTC;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Chứng từ chứng nhận xuất xứ hàng hóa theo quy định tại Thông tư của Bộ trưởng Bộ Tài chính quy định về xác định xuất xứ hàng hóa xuất khẩu, nhập khẩu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy phép nhập khẩu hoặc văn bản cho phép nhập khẩu của cơ quan có thẩm quyền theo quy định của pháp luật về ngoại thương và thương mại đối với hàng hóa phải có giấy phép nhập khẩu; Giấy phép nhập khẩu theo hạn ngạch hoặc văn bản thông báo giao quyền sử dụng hạn ngạch thuế quan nhập khẩu:
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bảng kê lâm sản đối với gỗ nguyên liệu nhập khẩu quy định của Bộ Nông nghiệp và Phát triển nông thôn
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hóa đơn thương mại hoặc chứng từ có giá trị tương đương trong trường hợp người mua phải thanh toán cho người bán
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Hợp đồng ủy thác
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Hợp đồng bán hàng cho trường học, viện nghiên cứu hoặc hợp đồng cung cấp hàng hóa hoặc hợp đồng cung cấp dịch vụ đối với thiết bị, dụng cụ chuyên dùng cho giảng dạy, nghiên cứu, thí nghiệm khoa học đối với trường hợp hàng hóa nhập khẩu được áp dụng thuế suất thuế giá trị gia tăng 5% theo quy định của Luật Thuế giá trị gia tăng:
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Chứng từ chứng minh tổ chức, cá nhân đủ điều kiện nhập khẩu hàng hóa theo quy định của pháp luật về đầu tư
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng nhận kiểm tra chuyên ngành
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai hải quan theo các chỉ tiêu thông tin quy định tại mẫu số 01 Phụ lục ban hành kèm Thông tư 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính (đã sửa đổi, bổ sung tại Phụ lục I ban hành kèm Thông tư 39/2018/TT-BTC ngày 20/4/2018).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Vận đơn hoặc các chứng từ vận tải khác có giá trị tương đương đối với trường hợp hàng hóa vận chuyển bằng đường biển, đường hàng không, đường sắt, vận tải đa phương thức theo quy định của pháp luật (trừ hàng hoá nhập khẩu qua cửa khẩu biên giới đường bộ, hàng hoá mua bán giữa khu phi thuế quan và nội địa, hàng hóa nhập khẩu do người nhập cảnh mang theo đường hành lý)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Danh mục máy móc, thiết bị trong trường hợp phân loại máy liên hợp hoặc tổ hợp máy thuộc các Chương 84, Chương 85 và Chương 90 của Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam hoặc phân loại máy móc, thiết bị ở dạng chưa lắp ráp hoặc tháo rời
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ Đối với hàng hóa xuất khẩu: ]
+    - Bảng kê lâm sản đối với gỗ nguyên liệu xuất khẩu theo quy định của Bộ Nông nghiệp và Phát triển nông thôn
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai hải quan theo các chỉ tiêu thông tin quy định tại mẫu số 02 Phụ lục II ban hành kèm Thông tư 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính (đã sửa đổi, bổ sung tại Phụ lục I ban hành kèm Thông tư 39/2018/TT-BTC ngày 20/4/2018).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy thông báo miễn kiểm tra hoặc giấy thông báo kết quả kiểm tra chuyên ngành hoặc chứng từ khác theo quy định của pháp luật về quản lý, kiểm tra chuyên ngành (sau đây gọi tắt là Giấy chứng nhận kiểm tra chuyên ngành)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy phép xuất khẩu hoặc văn bản cho phép xuất khẩu của cơ quan có thẩm quyền theo pháp luật về quản lý ngoại thương đối với hàng hóa xuất khẩu thuộc diện quản lý theo giấy phép
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hóa đơn thương mại hoặc chứng từ có giá trị tương đương trong trường hợp người mua phải thanh toán cho người bán
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Hợp đồng ủy thác
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Chứng từ chứng minh tổ chức, cá nhân đủ điều kiện xuất khẩu hàng hóa theo quy định của pháp luật về đầu tư
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông quan hàng hóa nhập khẩu, xuất khẩu
+Căn cứ pháp lý:
+  * Nghị định Quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (127/2007/NĐ-CP)
+  * Luật quản lý ngoại thương (05/2017/QH14)
+  * Luật 51/2005/QH11 (51/2005/QH11)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

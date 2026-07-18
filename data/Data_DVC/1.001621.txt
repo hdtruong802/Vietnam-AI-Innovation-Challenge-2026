@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001621
+Số quyết định: 104/QĐ-NHNN
+Tên thủ tục: Thủ tục sửa đổi bổ sung Giấy phép trong trường hợp thay đổi địa chỉ không phát sinh thay đổi địa điểm đặt trụ sở chính/ giảm mức vốn điều lệ của tổ chức tín dụng là hợp tác xã
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    - Bước 1: Tổ chức tín dụng là hợp tác xã lập hồ sơ theo quy định gửi Ngân hàng Nhà nước.
+    - Bước 2:
+    * Trường hợp thay đổi địa chỉ nhưng không phát sinh thay đổi địa điểm đặt trụ sở chính: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của tổ chức tín dụng là hợp tác xã, Ngân hàng Nhà nước ra Quyết định sửa đổi, bổ sung Giấy phép đối với địa chỉ đặt trụ sở chính của tổ chức tín dụng là hợp tác xã.
+    * Trưởng hợp giảm mức vốn điều lệ: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản thông báo hoàn tất việc giảm vốn điều lệ của tổ chức tín dụng là hợp tác xã, Ngân hàng Nhà nước ra Quyết định sửa đổi, bổ sung Giấy phép đối với mức vốn điều lệ của tổ chức tín dụng là hợp tác xã.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Trưởng hợp giảm mức vốn điều lệ: Văn bản thông báo hoàn tất việc giảm vốn điều lệ của tổ chức tín dụng là hợp tác xã.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Trường hợp thay đổi địa chỉ nhưng không phát sinh thay đổi địa điểm đặt trụ sở chính: Văn bản đề nghị chấp thuận thay đổi địa chỉ đặt trụ sở chính theo mẫu tại Phụ lục III ban hành kèm theo Thông tư số 73/2025/TT-NHNN.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực, Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định sửa đổi, bổ sung Giấy phép đối với mức vốn điều lệ của tổ chức tín dụng là hợp tác xã., Quyết định sửa đổi, bổ sung Giấy phép đối với địa chỉ đặt trụ sở chính của tổ chức tín dụng là hợp tác xã.
+Căn cứ pháp lý:
+  * 73/2025/TT-NHNN (Số 73/2025/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

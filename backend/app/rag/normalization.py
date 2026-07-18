@@ -8,8 +8,38 @@ from dataclasses import dataclass
 
 NORMALIZER_VERSION = "vaic-normalizer-v1"
 _HORIZONTAL_SPACE = re.compile(r"[\t\v\f \u00a0\u2007\u202f]+")
-_MOJIBAKE_MARKERS = ("Ã", "Â", "Ä", "Æ", "á»", "áº")
-_NAVIGATION_MARKERS = ("trang chủ", "đăng nhập", "dịch vụ công", "chuyển đến nội dung", "menu")
+_MOJIBAKE_MARKERS = (
+    "Ã¡",
+    "Ã ",
+    "Ã¢",
+    "Ã£",
+    "Ã¨",
+    "Ã©",
+    "Ãª",
+    "Ã¬",
+    "Ã²",
+    "Ã³",
+    "Ã´",
+    "Ãµ",
+    "Ã¹",
+    "Ãº",
+    "Ã½",
+    "Ä‘",
+    "Ä",
+    "Äƒ",
+    "Æ¡",
+    "Æ°",
+    "áº",
+    "á»",
+    "Â ",
+)
+_NAVIGATION_MARKERS = (
+    "trang chủ",
+    "đăng nhập",
+    "dịch vụ công",
+    "chuyển đến nội dung",
+    "menu",
+)
 
 
 @dataclass(frozen=True, slots=True)
@@ -61,7 +91,7 @@ def normalize_document(text: str) -> NormalizedDocument:
 
     normalized_text = "\n".join(normalized_lines)
     folded = normalized_text.casefold()
-    if any(marker.casefold() in folded for marker in _MOJIBAKE_MARKERS):
+    if any(marker in normalized_text for marker in _MOJIBAKE_MARKERS):
         warnings.add("possible_mojibake")
     if any(marker in folded for marker in _NAVIGATION_MARKERS):
         warnings.add("navigation_noise")

@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014417
+Số quyết định: 8928/QĐ-BCA-V04
+Tên thủ tục: Cấp mới giấy chứng nhận đăng ký hoạt động thử nghiệm/giám định/kiểm định/chứng nhận sản phẩm
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý chất lượng sản phẩm, hàng hoá
+Trình tự thực hiện:
+    - Bước 1: Nộp hồ sơ
+    Tổ chức nộp 01 bộ hồ sơ theo quy định tại Nghị định số 107/2016/NĐ-CP ngày 01/7/2016 và Nghị định số 154/2018/NĐ-CP ngày 09/11/2018 của Chính phủ, theo phương thức trực tiếp hoặc qua bưu điện theo địa chỉ: Cục Khoa học, chiến lược và lịch sử Công an, số 47 Phạm Văn Đồng, phường Phú Diễn, thành phố Hà Nội hoặc gửi trực tuyến trên Cổng Dịch vụ công.
+    - Bước 2: Tiếp nhận hồ sơ
+    Cán bộ tiếp nhận, kiểm tra tính hợp lệ và thành phần của hồ sơ.
+    + Nếu hồ sơ hợp lệ và đủ thành phần thì tiếp nhận hồ sơ và cấp giấy hẹn trả kết quả.
+    + Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì hướng dẫn, cấp phiếu yêu cầu bổ sung, hoàn thiện hồ sơ.
+    + Nếu hồ sơ không đủ điều kiện thì cấp giấy từ chối tiếp nhận và nêu rõ lý do.
+    * Thời gian tiếp nhận hồ sơ: Từ thứ Hai đến hết ngày thứ Sáu (trừ ngày nghỉ Tết, nghỉ lễ).
+    - Bước 3: Trả kết quả
+    + Nhận trực tiếp: Cục Khoa học, chiến lược và lịch sử Công an cấp giấy chứng nhận đăng ký hoạt động thử nghiệm/giám định/kiểm định/chứng nhận sản phẩm (Mẫu 10 tại Phụ lục II ban hành kèm Nghị định số 154/2018/NĐ-CP) và trả trực tiếp tại Cục Khoa học, chiến lược và lịch sử Công an. Khi đến nhận mang theo phiếu tiếp nhận hồ sơ và giấy tờ tuỳ thân.
+    + Nhận qua bưu điện: Cục Khoa học, chiến lược và lịch sử Công an gửi giấy chứng nhận hoạt động thử nghiệm/giám định/kiểm định/chứng nhận sản phẩm qua dịch vụ bưu chính công ích.
+    + Nhận trực tuyến: Cục Khoa học, chiến lược và lịch sử Công an cấp giấy chứng nhận đăng ký hoạt động thử nghiệm/giám định/kiểm định/chứng nhận sản phẩm trên Cổng Dịch vụ công.
+    * Thời gian trả kết quả: Từ thứ Hai đến hết ngày thứ Sáu (trừ ngày nghỉ Tết, nghỉ lễ).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 10 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 10 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 10 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+    - Bản sao Quyết định thành lập hoặc Giấy chứng nhận  đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách thử nghiệm viên/giám định viên/kiểm định viên/chuyên gia (Mẫu số 02 Phụ lục II ban hành kèm theo Nghị định số 154/2018/NĐ-CP) và các chứng chỉ, tài liệu liên quan đối với mỗi thử nghiệm viên/giám định viên/kiểm định viên/chuyên gia gồm: Bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao chứng chỉ đào tạo  tương ứng quy định tại Nghị định số 107/2016/NĐ-CP
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Tài liệu chứng minh năng lực hoạt động thử nghiệm/giám định/kiểm định/chứng nhận sản phẩm  đáp ứng các yêu cầu quy định tại Nghị định số 107/2016/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đăng ký (Mẫu số 01 Phụ lục II ban hành  kèm theo Nghị định số 154/2018/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - * Có thể sử dụng bản điện tử nếu các loại giấy tờ trên được cơ quan chủ quản số hoá hoặc có trên cơ sở dữ liệu chuyên ngành.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Mẫu phiếu  kết quả thử nghiệm/giám định/kiểm định/chứng nhận sản phẩm.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục khoa học, chiến lược và lịch sử Công an
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký hoạt động dịch vụ thử nghiệm/giám định/kiểm định/chứng nhận sản phẩm
+Căn cứ pháp lý:
+  * Quy định về điều kiện kinh doanh dịch vụ đánh giá sự phù hợp (107/2016/NĐ-CP)
+  * Thông tư số 90/2024/TT-BCA ngày 22/11/2024 của Bộ trưởng Bộ Công an quy định kiểm tra nhà nước và đánh giá sự phù hợp chất lượng sản phẩm, hàng hóa có khả năng gây mất an toàn trong sản xuất, nhập khẩu thuộc trách nhiệm quản lý của Bộ Công an (90/2024/TT-BCA)
+  * Sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành (154/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

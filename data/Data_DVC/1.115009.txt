@@ -1,0 +1,36 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115009
+Số quyết định: 1878/QĐ-BNNMT
+Tên thủ tục: Thu hồi mã số định danh cơ sở chăn nuôi
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chăn nuôi
+Trình tự thực hiện:
+    Trình tự thực hiện:
+    - Bước 1. Tổ chức, cá nhân chăn nuôi thông báo ngừng sử dụng mã số định danh cơ sở trên Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi tại địa chỉ tên miền csdlchannuoi.mae.gov.vn.
+    - Bước 2. Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi tự động thu hồi mã số định danh cơ sở chăn nuôi và thông báo đến thư điện tử của tổ chức, cá nhân trên cơ sở kiểm tra, xác nhận thông tin của Cơ quan quản lý nhà nước về chăn nuôi và thú y được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thủ tục hành chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến trên Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi tại địa chỉ tên miền csdlchannuoi.mae.gov.vn.
+
+Thành phần hồ sơ:
+    - Thông báo ngừng sử dụng mã số định danh
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính
+Cơ quan có thẩm quyền: Cục Chăn nuôi và Thú y - Bộ NN và MT
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thu hồi mã số định danh cơ sở chăn nuôi
+Căn cứ pháp lý:
+  * Quy định về chăn nuôi động vật khác thuộc Danh mục động vật khác được phép chăn nuôi và truy xuất nguồn gốc sản phẩm chăn nuôi. (66/2025/TT-BNNMT)
+  * Thông tư số 22/2026/TT-BNNMT ngày 19 tháng 5 năm 2026 của Bộ trưởng Bộ Nông nghiệp và Môi trường sửa đổi, bổ sung một số thông tư liên quan phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính thuộc phạm vi quản lý của bộ nông nghiệp và môi trường. (22/2026/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

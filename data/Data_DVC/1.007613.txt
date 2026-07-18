@@ -1,0 +1,40 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007613
+Số quyết định: 1844/QĐ-BTC
+Tên thủ tục: Thủ tục quyết toán kinh phí hỗ trợ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tài chính doanh nghiệp
+Trình tự thực hiện:
+    - Đối với đơn vị Trung ương: Các Tập đoàn, Tổng công ty, các Bộ, ngành kiểm tra quyết toán kinh phí hỗ trợ của các đơn vị và tổng hợp gửi Bộ Tài chính để theo dõi, giám sát.
+    - Đối với các đơn vị địa phương: Sở Tài chính kiểm tra quyết toán kinh phí hỗ trợ và tổng hợp trình Ủy ban nhân dân cấp tỉnh gửi Bộ Tài chính để theo dõi tổng hợp chung.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Hồ sơ hỗ trợ 20% định mức lao động chung: Định mức lao động chung để giao khoán hoặc trả công cho lao động do cơ quan có thẩm quyền quyết định, danh sách lao động là người dân tộc thiểu số có mặt thường xuyên trong năm quyết toán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hồ sơ hỗ trợ kinh phí đào tạo: 	Trường hợp đào tạo tập trung tại các trường lớp dạy nghề: Hợp đồng đào tạo, thanh lý hợp đồng, chứng từ thanh toán tiền giữa đơn vị với các trường lớp dạy nghề. 	Trường hợp đào tạo tại đơn vị: Quyết định của đơn vị tổ chức lớp học, số người đào tạo, ngành, nghề đào tạo, các chứng từ thanh toán liên quan đến việc tổ chức lớp học.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +  Hồ sơ hỗ trợ kinh phí đóng bảo hiểm: Danh sách lao động là người dân tộc thiểu số, mức đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp có xác nhận của cơ quan bảo hiểm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Phát triển doanh nghiệp nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo của Bộ Tài chính về việc quyết toán kinh phí
+Căn cứ pháp lý:
+  * Về việc hỗ trợ tổ chức, đơn vị sử dụng lao động là người dân tộc thiểu số tại khu vực miền núi, vùng đặc biệt khó khăn (42/2012/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

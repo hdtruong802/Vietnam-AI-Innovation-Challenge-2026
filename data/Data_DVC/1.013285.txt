@@ -1,0 +1,79 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013285
+Số quyết định: 2994/QĐ-BQP
+Tên thủ tục: Thủ tục đề nghị chấp thuận độ cao công trình
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý vùng trời
+Trình tự thực hiện:
+    Bước 1: Cơ quan cấp phép xây dựng hoặc chủ đầu tư, chủ sở hữu công trình lập 01 bộ hồ sơ theo quy định tại khoản 1 Điều này gửi đến Cục Tác chiến, Bộ Tổng Tham mưu bằng hình thức trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến qua Cổng Dịch vụ công quốc gia hoặc Hệ thống thông tin giải quyết thủ tục hành chính Bộ Quốc phòng. Trường hợp nộp hồ sơ trực tuyến thì gửi bản điện tử hoặc bản sao điện tử các thành phần hồ sơ quy định tại khoản 1 Điều này.
+    Bước 2: Kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Tác chiến, Bộ Tổng Tham mưu có trách nhiệm kiểm tra, thẩm định và có văn bản chấp thuận hoặc không chấp thuận gửi trực tuyến đến tổ chức, cá nhân đề nghị chấp thuận độ cao công trình; đồng thời có văn bản gửi đến cơ quan cấp phép xây dựng địa phương, Cục Hàng không Việt Nam, Tổng công ty Quản lý bay Việt Nam, Cảng Vụ hàng không khu vực và các cơ quan, đơn vị liên quan biết theo thời hạn sau đây:
+    - Mười (10) ngày làm việc đối với các dự án xây dựng nhà ở, khu đô thị, khu nhà ở cao tầng, khu hạ tầng kỹ thuật công nghiệp, hệ thống cột treo đèn chiếu sáng ở khu vực tĩnh không đầu các sân bay và các công trình, cụ thể:
+    + Công trình có độ cao vượt lên khỏi quy hoạch các bề mặt giới hạn chướng ngại vật của sân bay và những công trình nằm trong vùng phụ cận sân bay có độ cao từ 45 mét trở lên so với mức cao sân bay.
+    + Công trình có chiều cao vượt trên khu vực bề mặt giới hạn chướng ngại vật hàng không đã được công bố hoặc cao từ 45 mét trở lên so với mặt đất tự nhiên, nằm ngoài các khu vực, dự án quy hoạch đô thị, không gian đã được các Bộ, ngành, địa phương thống nhất với Bộ Tổng Tham mưu Quân đội nhân dân Việt Nam về độ cao theo quy định tại Điểm b Khoản 3 Điều 4 và Điều 8 Nghị định số 32/2016/NĐ-CP.
+    - Mười lăm (15) ngày làm việc đối với các dự án xây dựng khu kinh tế, khu đặc thù, khu công nghiệp cao;
+    - Hai mươi (20) ngày làm việc đối với các dự án cáp treo, đường dây tải điện cao thế có chiều dài dưới 100 km, hệ thống các trạm thu, phát sóng vô tuyến số lượng từ 10 đến 50 trạm;
+    - Ba mươi (30) ngày làm việc đối với các dự án đường dây tải điện cao thế có chiều dài trên 100 km, hệ thống các trạm thu, phát sóng vô tuyến số lượng trên 50 trạm.
+    Bước 3: Trường hợp không chấp thuận về độ cao công trình, trong thời hạn bảy (07) ngày làm việc, Cục Tác chiến, Bộ Tổng Tham mưu có văn bản điện tử trả lời, nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị chấp thuận độ cao công trình theo Mẫu số 09 Phụ lục kèm theo Nghị định số 101/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao bản đồ hoặc sơ đồ không gian, vị trí khu vực xây dựng công trình có đánh dấu vị trí xây dựng công trình
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao một trong những giấy tờ chứng minh quyền sử dụng đất theo quy định của pháp luật về đất đai.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cục Tác chiến/Bộ Tổng Tham mưu
+Cơ quan có thẩm quyền: Cục Tác chiến/Bộ Tổng Tham mưu
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận hoặc không chấp thuận.
+Căn cứ pháp lý:
+  * Nghị định số 101/2025/NĐ-CP của Chính phủ: Sửa đổi, bổ sung một số điều của Nghị định số 32/2016/NĐ-CP ngày 06 tháng 5 năm 2016 của Chính phủ quy định về quản lý độ cao chướng ngại vật hàng không và các trận địa quản lý, bảo vệ vùng trời tại Việt Nam và Nghị định số 42/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ quy định điều kiện, trình tự, thủ tục mở, đóng sân bay chuyên dùng (Nghị định số 101/2025/NĐ-CP)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Nghị định 32/2016/NĐ-CP - Quy định về quản lý độ cao chướng ngại vật hàng không và các trận địa quản lý, bảo vệ vùng trời tại Việt Nam. (32/2016/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,110 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009505
+Số quyết định: 1082/QĐ-BTC
+Tên thủ tục: Hợp nhất, sáp nhập quỹ thành viên, quỹ đóng, quỹ mở, quỹ đầu tư bất động sản, quỹ hoán đổi danh mục
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+    Bước 1: Công ty quản lý quỹ đầu tư chứng khoán nộp hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập quỹ thành viên, quỹ đóng, quỹ mở, quỹ đầu tư bất động sản, quỹ hoán đổi danh mục đến UBCKNN.
+    Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+    Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 ngày làm việc, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    Bước 4: Trong thời hạn 60 ngày kể từ ngày UBCKNN có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty quản lý quỹ đầu tư chứng khoán hoàn thiện hồ sơ và gửi đến UBCKNN.
+    Bước 5: Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập quỹ, UBCKNN ra quyết định chấp thuận hợp nhất, sáp nhập quỹ; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+    Lưu ý: Trường hợp hợp nhất, sáp nhập quỹ có kết hợp với chào bán chứng chỉ quỹ, quỹ phải tuân thủ các quy định về chào bán có liên quan.
+    Bước 6: Trong thời hạn 05 ngày làm việc kể từ ngày hoàn tất việc hợp nhất, sáp nhập, công ty quản lý quỹ đầu tư chứng khoán gửi hồ sơ đề nghị cấp lại Giấy chứng nhận đăng ký lập quỹ đối với quỹ hình thành sau hợp nhất hoặc hồ sơ đề nghị điều chỉnh Giấy chứng nhận đăng ký lập cho quỹ hình thành sau sáp nhập.
+    Bước 7: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+    Bước 8: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 ngày, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầusửa đổi, bổ sung.
+    Bước 9: Trong thời hạn 60 ngày kể từ ngày UBCKNN có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty quản lý quỹ đầu tư chứng khoán hoàn thiện hồ sơ và gửi đến UBCKNN.
+    Bước 10: Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, UBCKNN cấp lại hoặc điều chỉnh Giấy chứng nhận đăng ký lập quỹ cho quỹ hình thành sau hợp nhất, sáp nhập; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+    Lưu ý: Công ty quản lý quỹ đầu tư chứng khoán phải hoàn thiện hồ sơ niêm yết, niêm yết bổ sung chứng chỉ quỹ đóng, quỹ đầu tư bất động sản trên Sở giao dịch chứng khoán trong thời hạn 30 ngày kể từ ngày Giấy chứng nhận đăng ký lập quỹ có hiệu lực.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 2000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022. + 02 triệu đồng/Giấy chứng nhận.) | 1000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026). + 01 triệu đồng/Giấy chứng nhận.)
+    Mô tả: + Bước 5: 30 ngày kể từ ngày UBCKNN nhận đủ hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập quỹ;
+		+ Bước 10: 30 ngày kể từ ngày UBCKNN nhận được hồ sơ cấp lại hoặc điều chỉnh Giấy chứng nhận đăng ký lập quỹ đầy đủ và hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 2000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022. + 02 triệu đồng/Giấy chứng nhận.) | 1000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026). + 01 triệu đồng/Giấy chứng nhận.)
+    Mô tả: + Bước 5: 30 ngày kể từ ngày UBCKNN nhận đủ hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập quỹ;
+		+ Bước 10: 30 ngày kể từ ngày UBCKNN nhận được hồ sơ cấp lại hoặc điều chỉnh Giấy chứng nhận đăng ký lập quỹ đầy đủ và hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 2000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022. + 02 triệu đồng/Giấy chứng nhận.) | 1000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026). + 01 triệu đồng/Giấy chứng nhận.)
+    Mô tả: + Bước 5: 30 ngày kể từ ngày UBCKNN nhận đủ hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập quỹ;
+		+ Bước 10: 30 ngày kể từ ngày UBCKNN nhận được hồ sơ cấp lại hoặc điều chỉnh Giấy chứng nhận đăng ký lập quỹ đầy đủ và hợp lệ.
+
+Thành phần hồ sơ:
+  [ * Trường hợp quỹ thành viên, bổ sung ]
+    - + Danh sách nhà đầu tư chứng khoán chuyên nghiệp tham gia góp vốn lập quỹ thành viên của quỹ sau hợp nhất, sáp nhập - Mẫu số 93 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hợp đồng lưu ký tài sản của quỹ hợp nhất, quỹ nhận sáp nhập (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Trường hợp quỹ đóng, quỹ mở, quỹ đầu tư bất động sản, quỹ hoán đổi danh mục, bổ sung: ]
+    - + Bản cáo bạch, Bản cáo bạch tóm tắt của quỹ hợp nhất, quỹ nhận sáp nhập theo Mẫu Phụ lục III, V ban hành kèm theo Thông tư 98/2020/TT-BTC ngày 16/11/2020 của Bộ tài chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Công văn của Sở giao dịch chứng khoán, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam chấp thuận hủy niêm yết, hủy đăng ký, lưu ký chứng chỉ quỹ của quỹ bị hợp nhất, bị sáp nhập.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hợp đồng giám sát tài sản với ngân hàng giám sát của quỹ hình thành sau hợp nhất, sáp nhập kèm theo báo cáo đánh giá của các ngân hàng giám sát về các nội dung tại phương án hợp nhất, sáp nhập bao gồm: nguyên tắc xác định công nợ, tài sản và giá trị tài sản ròng tại ngày hợp nhất, sáp nhập; nguyên tắc chuyển đổi và xác định tỷ lệ chuyển đổi; phương án và nguyên tắc chuyển giao tài sản giữa các quỹ; số lượng chứng chỉ quỹ dự kiến lưu hành của quỹ hình thành sau hợp nhất, sáp nhập;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 1) Hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập quỹ ]
+    - + Điều lệ quỹ hợp nhất hoặc Điều lệ quỹ nhận sáp nhập sửa đổi - Mẫu Phụ lục I ban hành kèm theo Thông tư 98/2020/TT-BTC ngày 16/11/2020 của Bộ Tài chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hợp đồng hợp nhất, sáp nhập quỹ đầu tư chứng khoán /công ty đầu tư chứng khoán - Mẫu số 96 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Biên bản họp và nghị quyết của các Đại hội nhà đầu tư thông qua việc hợp nhất, sáp nhập, thông qua hợp đồng hợp nhất, sáp nhập và Điều lệ quỹ hợp nhất, quỹ nhận sáp nhập;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy đề nghị chấp thuận hợp nhất, sáp nhập quỹ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 2. Hồ sơ đề nghị cấp lại, điều chỉnh Giấy chứng nhận đăng ký lập quỹ cho quỹ hình thành sau hợp nhất, sáp nhập ]
+    - + Báo cáo kết quả thực hiện phương án hợp nhất, sáp nhập, kết quả thực hiện chuyển nhượng (nếu có), kết quả chào bán chứng chỉ quỹ (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Danh mục tài sản của quỹ hình thành sau hợp nhất, sáp nhập.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản gốc Giấy chứng nhận đăng ký lập quỹ của các quỹ bị hợp nhất, bị sáp nhập;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy đề nghị điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ/Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán - Mẫu số 94 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Văn bản từ chối (nêu rõ lý do)., Quyết định chấp thuận hợp nhất, sáp nhập quỹ đóng, quỹ mở, quỹ đầu tư bất động sản, quỹ hoán đổi danh mục, Giấy chứng nhận đăng ký lập quỹ cho quỹ hợp nhất hoặc Giấy chứng nhận điều chỉnh Giấy chứng nhận đăng ký lập quỹ cho quỹ nhận sáp nhập
+Căn cứ pháp lý:
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí trong lĩnh vực chứng khoán (25/2022/TT-BTC)
+  * Thông tư 98/2020/TT-BTC (98/2020/TT-BTC)
+  * Nghị quyết về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (Nghị quyết số 24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: * Trường hợp quỹ thành viên:
+1) Quỹ thành viên được hợp nhất, sáp nhập với một quỹ thành viên khác theo nghị quyết các Đại hội nhà đầu tư của các quỹ thành viên bị hợp nhất, bị sáp nhập và nhận sáp nhập. 
+2) Quỹ thành viên hình thành sau hợp nhất, sáp nhập phải đáp ứng các điều kiện:
+a) Vốn góp tối thiểu là 50 tỷ đồng;
+b) Có từ 02 đến 99 thành viên góp vốn và chỉ bao gồm thành viên là nhà đầu tư chứng khoán chuyên nghiệp;
+c) Do 01 công ty quản lý quỹ đầu tư chứng khoán quản lý;
+d) Tài sản của quỹ thành viên được lưu ký tại 01 ngân hàng lưu ký độc lập với công ty quản lý quỹ đầu tư chứng khoán.
+* Trường hợp quỹ đóng, quỹ mở, quỹ đầu tư bất động sản:
+1) Quỹ đóng, quỹ mở, quỹ đầu tư bất động sản được hợp nhất, sáp nhập với một quỹ quỹ đóng, quỹ mở, quỹ đầu tư bất động sản khác theo quyết định của các Đại hội nhà đầu tư. 
+2) Quỹ hình thành sau hợp nhất, sáp nhập phải đáp ứng các điều kiện:
+a) Có ít nhất 100 nhà đầu tư, không kể nhà đầu tư chứng khoán chuyên nghiệp mua chứng chỉ quỹ;
+b) Tổng giá trị chứng chỉ quỹ đã bán đạt ít nhất là 50 tỷ đồng.
+Từ khóa: Không có thông tin
+Mô tả: * Trường hợp quỹ thành viên:
+1) Quỹ thành viên được hợp nhất, sáp nhập với một quỹ thành viên khác theo nghị quyết các Đại hội nhà đầu tư của các quỹ thành viên bị hợp nhất, bị sáp nhập và nhận sáp nhập. 
+2) Quỹ thành viên hình thành sau hợp nhất, sáp nhập phải đáp ứng các điều kiện:
+a) Vốn góp tối thiểu là 50 tỷ đồng;
+b) Có từ 02 đến 99 thành viên góp vốn và chỉ bao gồm thành viên là nhà đầu tư chứng khoán chuyên nghiệp;
+c) Do 01 công ty quản lý quỹ đầu tư chứng khoán quản lý;
+d) Tài sản của quỹ thành viên được lưu ký tại 01 ngân hàng lưu ký độc lập với công ty quản lý quỹ đầu tư chứng khoán.
+* Trường hợp quỹ đóng, quỹ mở, quỹ đầu tư bất động sản:
+1) Quỹ đóng, quỹ mở, quỹ đầu tư bất động sản được hợp nhất, sáp nhập với một quỹ quỹ đóng, quỹ mở, quỹ đầu tư bất động sản khác theo quyết định của các Đại hội nhà đầu tư. 
+2) Quỹ hình thành sau hợp nhất, sáp nhập phải đáp ứng các điều kiện:
+a) Có ít nhất 100 nhà đầu tư, không kể nhà đầu tư chứng khoán chuyên nghiệp mua chứng chỉ quỹ;
+b) Tổng giá trị chứng chỉ quỹ đã bán đạt ít nhất là 50 tỷ đồng.

@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.005210
+Số quyết định: 891/QĐ-BXD
+Tên thủ tục: Cấp lại Giấy phép đào tạo lái xe ô tô khi bị mất, bị hỏng, có sự thay đổi về tên của cơ sở đào tạo
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+  * Nộp TTHC
+    Cơ sở đào tạo có văn bản đề nghị cấp lại giấy phép đào tạo lái xe ô tô và nêu rõ lý do hỏng, mất hoặc nội dung cần thay đổi, gửi tại Trung tâm Phục vụ hành chính công cấp tỉnh, cấp xã bằng hình thức trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến qua cổng dịch vụ công quốc gia.
+  * Giải quyết TTHC
+    - Sở Xây dựng tiếp nhận, kiểm tra hồ sơ; trường hợp hồ sơ chưa đầy đủ, trong thời hạn không quá 01 ngày làm việc phải có văn bản hướng dẫn tổ chức, cá nhân hoàn thiện lại theo quy định;
+    - Trường hợp hồ sơ đầy đủ, hợp lệ, trong thời hạn không quá 03 ngày làm việc cấp lại giấy phép đào tạo lái xe ô tô cho cơ sở đào tạo; trường hợp không cấp phải trả lời tổ chức, cá nhân bằng văn bản và nêu rõ lý do.
+    - Kết quả giải quyết thủ tục hành chính được trả bằng bản điện tử có giá trị như bản giấy bằng một trong các hình thức: qua VNeiD, Cổng Dịch vụ công quốc gia, Hệ thống thông tin giải quyết thủ tục chính cấp tỉnh, cấp xã; trường hợp cá nhân có nhu cầu nhận bản giấy thì được cấp bổ sung.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp lại giấy phép đào tạo lái xe ô tô và nêu rõ lý do hỏng, mất hoặc nội dung cần thay đổi
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép đào tạo lái xe ô tô
+Căn cứ pháp lý:
+  * Quy định hoạt động đào tạo và sát hạch lái xe (94/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Cơ sở đào tạo đã được cấp giấy phép đào tạo lái xe
+Từ khóa: Không có thông tin
+Mô tả: Cơ sở đào tạo đã được cấp giấy phép đào tạo lái xe

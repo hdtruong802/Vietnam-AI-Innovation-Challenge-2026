@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001303
+Số quyết định: QĐ/0001-BCA
+Tên thủ tục: Tuyển chọn công dân thực hiên nghĩa vụ tham gia Công an nhân dân (thực hiện tại cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tổ chức, cán bộ
+Trình tự thực hiện:
+    Bước 1: Công an tỉnh, thành phố trực thuộc Trung ương thành lập Hội đồng tuyển chọn và Hội đồng khám sức khoẻ; thông báo công khai đối tượng, tiêu chuẩn, thời gian và thủ tục tuyển chọn trên phương tiện thông tin đại chúng ở địa phương và niêm yết tại trụ sở của Công an quận, huyện, thị xã, thành phố thuộc tỉnh, thành phố trực thuộc Trung ương.
+    Bước 2: Công dân dự tuyển chọn vào phục vụ có thời hạn trong CAND chuẩn bị hồ sơ theo quy định và nộp tại Công an huyện, quận thị xã, thành phố theo hộ khẩu thường trú. Công an quận, huyện kiểm tra, tiếp nhận hồ sơ; trường hợp thiếu, thông báo bổ sung các giấy tờ cần thiết.
+    Bước 3: Công an quận, huyện tổng hợp danh sách báo cáo Hội đồng tuyển chọn Công an cấp trên.
+    Bước 4: Tổ chức kiểm tra sức khỏe cho công dân dự tuyển.
+    Bước 5: Hội đồng tuyển chọn tập hợp kết quả và tổ chức xét duyệt, báo cáo thủ trưởng đơn vị ra quyết định tuyển chọn.
+    Bước 6: Thông báo kết quả tuyển chọn: Trường hợp tuyển chọn, thủ trưởng đơn vị ký Quyết định tuyển chọn công dân phục vụ có thời hạn trong Công an nhân dân và gửi trước ngày gọi nhập ngũ 15 ngày cho người trúng tuyển 01 bản, UBND cấp xã, phường 01 bản.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Giấy chứng nhận đoàn viên, đảng viên (nếu là đoàn viên, đảng viên)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy khai sinh (có chứng nhận của Ủy ban nhân dân xã, phường, thị trấn hoặc công chứng).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - ản lý lịch theo mẫu quy định của Bộ Công an KHÔNG CẦN XÁC NHẬN CỦA ỦY BAN NHÂN DÂN XÃ, PHƯỜNG, THỊ TRẤN NƠI CƯ TRÚ; phải có xác nhận của cơ quan, tổ chức nơi người đó đang công tác, học tập và có dán ảnh kiểu Giấy chứng minh nhân dân cỡ 4 x 6 cm, đóng dấu giáp lai.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có công chứng, chứng thực các văn bằng, chứng chỉ về trình độ học vấn do cơ quan nhà nước có thẩm quyền cấp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng nhận đăng ký nghĩa vụ quân sự (bản sao có công chứng, chứng thực).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Công an cấp Tỉnh
+Cơ quan có thẩm quyền: Công an cấp Tỉnh
+Địa chỉ tiếp nhận HS: Tại cơ quan Công an, Cảnh sát Phòng cháy và chữa cháy tỉnh, thành phố trực thuộc Trung ương
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định tuyển công dân phục vụ có thời hạn trong Công an nhân dân
+Căn cứ pháp lý:
+  * Thông tư 21/2007/TT-BCA(X13) - Hướng dẫn thực hiện một số điều của Nghị định số 12/2007/NĐ-CP ngày 17/01/2007 quy định về công dân phục vụ có thời hạn trong Công an nhân dân (21/2007/TT-BCA(X13))
+  * Nghị định 12/2007/NĐ-CP - Quy định về công dân phục vụ có thời hạn trong Công an nhân dân (12/2007/NĐ-CP)
+  * Thông tư liên tịch 09/2009/TTLT-BCA-BYT - Hướng dẫn khám sức khỏe để tuyển chọn công dân phục vụ có thời hạn trong Công an nhân dân (09/2009/TTLT-BCA-BYT)
+
+Yêu cầu, điều kiện thực hiện: người dự tuyển vào Công an nhân dân phải đảm bảo các yêu cầu, điều kiện sau:
+
+1. Công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam, có độ tuổi từ đủ 18 tuổi đến hết 25 tuổi, có địa chỉ thường trú trên lãnh thổ Việt Nam, đã đăng ký nghĩa vụ quân sự ở xã, phường, thị trấn nơi công dân có hộ khẩu thường trú (công dân tuyển cho các đơn vị: K10, K20, C65 lấy trong độ tuổi từ đủ 18 đến hết 22).
+
+2. Tiêu chuẩn chính trị:
++ Trung thành với Tổ quốc Việt Nam xã hội chủ nghĩa.
++ Có lý lịch rõ ràng, là đảng viên Đảng cộng sản Việt Nam, hoặc là đoàn viên Đoàn Thanh niên Cộng sản Hồ Chí Minh. Khu vực miền núi, vùng cao, vùng sâu, vùng xa, biên giới, hải đảo được tuyển những thanh niên ưu tú, đủ điều kiện để kết nạp vào Đoàn thanh niên Cộng sản Hồ Chí Minh.
++ Gương mẫu chấp hành các chủ trương, đường lối, chính sách của Đảng, pháp luật của Nhà nước.
++ Không có tiền án, tiền sự, không bị truy cứu trách nhiệm hình sự, quản chế, đang bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn hoặc đưa vào cơ sở chữa bệnh, cơ sở giáo dục.
++ Bảo đảm các quy định cụ thể khác của Bộ trưởng Bộ Công an về tiêu chuẩn chính trị của cán bộ, chiến sĩ Công an nhân dân.
+3. Phẩm chất đạo đức: có phẩm chất, đạo đức tư cách tốt, được quần chúng nhân dân nơi cư trú hoặc nơi công tác tín nhiệm.
+4. Trình độ học vấn: tốt nghiệp trung học phổ thông hoặc trung học bổ túc. Các khu vực miền núi, vùng cao, vùng sâu, vùng xa, biên giới, hải đảo được tuyển công dân tốt nghiệp trung học cơ sở.
+5. Sức khoẻ: thể hình cân đối, không dị hình, dị dạng, đủ sức khoẻ để đảm nhận nhiệm vụ, không mắc bệnh kinh niên, mãn tính; không sử dụng ma tuý và các chất gây nghiện. Đảm bảo tiêu chuẩn sức khoẻ cụ thể do Bộ Công an phối hợp với Bộ Y tế quy định.
+Từ khóa: Không có thông tin
+Mô tả: người dự tuyển vào Công an nhân dân phải đảm bảo các yêu cầu, điều kiện sau:
+
+1. Công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam, có độ tuổi từ đủ 18 tuổi đến hết 25 tuổi, có địa chỉ thường trú trên lãnh thổ Việt Nam, đã đăng ký nghĩa vụ quân sự ở xã, phường, thị trấn nơi công dân có hộ khẩu thường trú (công dân tuyển cho các đơn vị: K10, K20, C65 lấy trong độ tuổi từ đủ 18 đến hết 22).
+
+2. Tiêu chuẩn chính trị:
++ Trung thành với Tổ quốc Việt Nam xã hội chủ nghĩa.
++ Có lý lịch rõ ràng, là đảng viên Đảng cộng sản Việt Nam, hoặc là đoàn viên Đoàn Thanh niên Cộng sản Hồ Chí Minh. Khu vực miền núi, vùng cao, vùng sâu, vùng xa, biên giới, hải đảo được tuyển những thanh niên ưu tú, đủ điều kiện để kết nạp vào Đoàn thanh niên Cộng sản Hồ Chí Minh.
++ Gương mẫu chấp hành các chủ trương, đường lối, chính sách của Đảng, pháp luật của Nhà nước.
++ Không có tiền án, tiền sự, không bị truy cứu trách nhiệm hình sự, quản chế, đang bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn hoặc đưa vào cơ sở chữa bệnh, cơ sở giáo dục.
++ Bảo đảm các quy định cụ thể khác của Bộ trưởng Bộ Công an về tiêu chuẩn chính trị của cán bộ, chiến sĩ Công an nhân dân.
+3. Phẩm chất đạo đức: có phẩm chất, đạo đức tư cách tốt, được quần chúng nhân dân nơi cư trú hoặc nơi công tác tín nhiệm.
+4. Trình độ học vấn: tốt nghiệp trung học phổ thông hoặc trung học bổ túc. Các khu vực miền núi, vùng cao, vùng sâu, vùng xa, biên giới, hải đảo được tuyển công dân tốt nghiệp trung học cơ sở.
+5. Sức khoẻ: thể hình cân đối, không dị hình, dị dạng, đủ sức khoẻ để đảm nhận nhiệm vụ, không mắc bệnh kinh niên, mãn tính; không sử dụng ma tuý và các chất gây nghiện. Đảm bảo tiêu chuẩn sức khoẻ cụ thể do Bộ Công an phối hợp với Bộ Y tế quy định.

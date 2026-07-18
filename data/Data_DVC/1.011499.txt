@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011499
+Số quyết định: 776/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục công nhận đủ điều kiện phân loại phim phổ biến trên không gian mạng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Điện ảnh
+Trình tự thực hiện:
+    Doanh nghiệp, đơn vị sự nghiệp, tổ chức nộp 01 bộ hồ sơ qua Cổng dịch vụ công quốc gia hoặc qua đường bưu điện hoặc nộp trực tiếp đến Cục Điện ảnh.
+    Cục Điện ảnh tiếp nhận hồ sơ có trách nhiệm kiểm tra tính hợp lệ của hồ sơ, viết giấy biên nhận và hẹn thời gian trả kết quả.
+    Trong thời hạn 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Điện ảnh tiếp nhận báo cáo, trả lời bằng văn bản và đăng tải công khai tên doanh nghiệp, đơn vị sự nghiệp, tổ chức đủ điều kiện phân loại phim trên không gian mạng trên Hệ thống dữ liệu về phân loại phim trên không gian mạng.
+    Trường hợp hồ sơ không đủ điều kiện phải trả lời bằng văn bản và nêu rõ lý do.
+    Trường hợp thay đổi nội dung quy định tại điểm a khoản 2 Điều 12 Nghị định số 131/2022/NĐ-CP ngày 31/12/2022, doanh nghiệp, đơn vị sự nghiệp, tổ chức thực hiện phổ biến phim trên không gian mạng có trách nhiệm gửi thông báo những nội dung thay đổi cho Cục Điện ảnh. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được thông báo, nếu không đồng ý, Cục Điện ảnh phải trả lời bằng văn bản và nêu rõ lý do.
+    Trường hợp thay đổi nội dung quy định tại điểm b khoản 2 Điều 12 Nghị định số 131/2022/NĐ-CP ngày 31/12/2022, doanh nghiệp, đơn vị sự nghiệp, tổ chức thực hiện phổ biến phim trên không gian mạng phải thực hiện lại trình tự, thủ tục quy định tại khoản 3 Điều 12 Nghị định này.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ (Chưa quy định)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ (Chưa quy định)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ (Chưa quy định)
+
+Thành phần hồ sơ:
+    - Tài liệu cung cấp đầu mối, thông tin liên hệ để tiếp nhận, xử lý yêu cầu của Cục Điện ảnh (theo quy định tại khoản 1 Điều 15 Nghị định số 131/2022/NĐ-CP ngày 31 tháng 12 năm 2022 của Chính phủ quy định chi tiết một số điều của Luật Điện ảnh)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo thuyết minh các nội dung sau (theo quy định tại điểm b khoản 2 Điều 12 Nghị định số 131/2022/NĐ-CP ngày 31 tháng 12 năm 2022 của Chính phủ quy định chi tiết một số điều của Luật Điện ảnh):
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Có hội đồng phân loại phim hoặc có phần mềm kỹ thuật hoặc có cơ chế để thực hiện việc phân loại phim theo quy định về phân loại phim của Việt Nam và chịu trách nhiệm về kết quả phân loại phim;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Có phương án kỹ thuật và quy trình thực hiện tạm dừng phổ biến, gỡ bỏ phim theo yêu cầu của Cục Điện ảnh. Sau khi có yêu cầu gỡ bỏ phim, bộ phận vận hành phải thực hiện quy trình để triển khai thao tác gỡ bỏ phim trên công cụ quản trị.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Có phương án sửa đổi, cập nhật kết quả phân loại phim khi có yêu cầu của Cục Điện ảnh. Công cụ quản trị phải hỗ trợ việc phân loại phim theo từng tiêu chí và hiển thị linh hoạt ngay sau khi phim được cập nhật thay đổi về phân loại;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Điện ảnh - Bộ Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Bộ Văn hóa, Thể thao và Du lịch
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản công nhận đủ điều kiện phân loại phim phổ biến trên không gian mạng
+Căn cứ pháp lý:
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định có quy định thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (116/2026/NĐ-CP)
+  * Luật Điện ảnh số 05/2022/QH15 ngày 15 tháng 6 năm 2022 (05/2022/QH15)
+  * Nghị định 131/2022/NĐ-CP (131/2022/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

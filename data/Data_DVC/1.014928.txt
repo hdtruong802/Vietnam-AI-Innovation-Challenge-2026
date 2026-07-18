@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014928
+Số quyết định: 698/QĐ-UBND
+Tên thủ tục: Hỗ trợ dự án khởi nghiệp sáng tạo trong công nghiệp công nghệ số
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    1. Thành lập Hội đồng thẩm định:
+    Trong thời hạn 03 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Giám đốc Sở Khoa học và Công nghệ quyết định thành lập Hội đồng thẩm định gồm:
+    - Sở Khoa học và Công nghệ là cơ quan thường trực;
+    - Sở Tài chính và các cơ quan, đơn vị liên quan khác là thành viên. Khi cần thiết có thể mời các chuyên gia độc lập là thành viên.
+    2. Tổ chức thẩm định và gửi kết quả:
+    Trong thời hạn 18 ngày kể từ ngày có quyết định thành lập, Hội đồng tổ chức thẩm định và gửi kết quả về Sở Khoa học và Công nghệ.
+    3. Xem xét quyết định phê duyệt:
+    - Trong thời hạn 04 ngày kể từ ngày nhận kết quả của Hội đồng, Giám đốc Sở Khoa học và Công nghệ xem xét quyết định phê duyệt hỗ trợ.
+    - Trong thời hạn 03 ngày, trường hợp không hỗ trợ, Sở Khoa học và Công nghệ phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 28 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 28 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 28 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - (1) Văn bản đề nghị hỗ trợ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thuyết minh dự án khởi nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Giám đốc Sở Khoa học và Công nghệ về việc phê duyệt kinh phí hỗ trợ dự án trong công nghiệp công nghệ số
+Căn cứ pháp lý:
+  * Luật Ngân sách nhà nước số 89/2025/QH15 (89/2025/QH15)
+  * Quy định tiêu chí, điều kiện, trình tự, thủ tục, nội dung và mức hỗ trợ dự án khởi nghiệp sáng tạo trong công nghiệp công nghệ số (Nghị quyết 20/2025/NQ-HĐND)
+  * Luật số 93/2025/QH15 của Quốc hội: Luật Khoa học, công nghệ và đổi mới sáng tạo (93/2025/QH15)
+  * Luật số 71/2025/QH15 của Quốc hội: Luật Công nghiệp công nghệ số (Luật số 71/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Dự án đáp ứng các điều kiện sau: 
+1. Tổng thời gian thực hiện một dự án được xem xét hỗ trợ không quá 12 tháng. Trường hợp phát sinh sự kiện khách quan, bất khả kháng thì được xem xét gia hạn thêm thời gian thực hiện dự án không quá 06 tháng. 
+2. Đối với các dự án có nội dung chuyển giao công nghệ, cần phải có hợp đồng chuyển giao công nghệ theo quy định.
+Từ khóa: Không có thông tin
+Mô tả: Dự án đáp ứng các điều kiện sau: 
+1. Tổng thời gian thực hiện một dự án được xem xét hỗ trợ không quá 12 tháng. Trường hợp phát sinh sự kiện khách quan, bất khả kháng thì được xem xét gia hạn thêm thời gian thực hiện dự án không quá 06 tháng. 
+2. Đối với các dự án có nội dung chuyển giao công nghệ, cần phải có hợp đồng chuyển giao công nghệ theo quy định.

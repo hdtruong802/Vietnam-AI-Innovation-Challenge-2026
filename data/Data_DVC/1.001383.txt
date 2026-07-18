@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001383
+Số quyết định: 1213/QĐ-BCT
+Tên thủ tục: Cấp lại Giấy chứng nhận xuất xứ hàng hoá (C/O)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    Bước 1: Thương nhân đính kèm hồ sơ đề nghị cấp lại C/O tại www.ecosys.gov.vn của Bộ Công Thương; hoặc nộp trực tiếp hồ sơ đề nghị cấp lại C/O tại trụ sở của Tổ chức cấp C/O; hoặc gửi hồ sơ qua bưu điện đến Tổ chức cấp C/O nơi thương nhân đã đăng ký hồ sơ thương nhân.
+    Bước 2: Tổ chức cấp C/O kiểm tra xem bộ hồ sơ có hợp lệ hay không và thông báo cho thương nhân một trong các nội dung sau:
+    1. Chấp nhận cấp C/O và thời gian thương nhân sẽ nhận được C/O;
+    2. Đề nghị bổ sung chứng từ nếu có khác biệt với hồ sơ đề nghị cấp C/O đã cấp trước đó (nêu cụ thể chứng từ cần bổ sung);
+    3. Từ chối cấp lại C/O nếu phát hiện những trường hợp quy định tại Điều 21 Nghị định số 31/2018/NĐ-CP ngày 08/3/2018 của Chính phủ quy định Luật Quản lý ngoại thương về xuất xứ hàng hóa (sau đây gọi là Nghị định số 31/2018/NĐ-CP) hoặc nếu phát hiện C/O đã cấp trước đó hết thời hạn hiệu lực 1 năm kể từ ngày cấp;
+    Bước 3: Cán bộ Tổ chức cấp C/O kiểm tra thêm, nhập dữ liệu vào hệ thống máy tính, đóng dấu “CERTIFIED TRUE COPY” trong trường hợp cấp sao y bản chính hoặc xác nhận nội dung được đánh máy trên C/O “THIS C/O REPLACES THE C/O NO. … DATED …” trong trường hợp cấp thay thế và trình người có thẩm quyền ký cấp C/O.
+    Bước 4: Người có thẩm quyền của Tổ chức cấp C/O ký cấp C/O.
+    Bước 5: Cán bộ Tổ chức cấp C/O đóng dấu và trả C/O cho thương nhân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 4 HOUR
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 4 HOUR
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 4 HOUR
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính)
+
+Thành phần hồ sơ:
+    - - Bản gốc và bản sao C/O đã cấp trước đó (nếu có).
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Mẫu C/O tương ứng đã được khai hoàn chỉnh;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Đơn đề nghị cấp C/O được kê khai hoàn chỉnh và hợp lệ (Mẫu số 04 thuộc Phụ lục ban hành kèm theo Nghị định số 31/2018/NĐ-CP);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Chứng từ bổ sung theo quy định tại Điều 15 Nghị định số 31/2018/NĐ-CP (nếu có khác biệt với hồ sơ đề nghị cấp C/O đã cấp trước đó);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh, Cục Xuất nhập khẩu
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận xuất xứ hàng hóa (C/O) cấp lại
+Căn cứ pháp lý:
+  * thông tư 05/2018/TT-BCT (05/2018/TT-BCT)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 05/2018/TT-BCT ngày 03 tháng 4 năm 2018 của Bộ trưởng Bộ Công Thương quy định về xuất xứ hàng hóa và Thông tư số 38/2018/TT-BCT ngày 30 tháng 10 năm 2018 của Bộ trưởng Bộ Công Thương quy định thực hiện chứng nhận xuất xứ hàng hoá theo chế độ thuế quan phổ cập của Liên minh châu Âu, Na Uy, Thụy Sỹ và Thổ Nhĩ Kỳ (23/2025/TT-BCT)
+  * Thông tư số 44/2023/TT-BTC ngày 29 tháng 6 năm 2023 của Bộ trưởng Bộ Tài chính quy định mức thu một số khoản phí, lệ phí nhằm hỗ trợ người dân và doanh nghiệp. Có hiệu lực từ ngày 01 tháng 7 năm 2023 đến hết ngày 31 tháng 12  năm 2023 (44/2023/TT-BTC)
+  * Thông tư số 12/2026/TT-BCT ngày 09/3/2026 của Bộ trưởng Bộ Công Thương về việc bãi bỏ một số văn bản quy phạm pháp luật thuộc thẩm quyền của Bộ trưởng Bộ Công Thương (12/2026/TT-BCT)
+  * Quy định chi tiết Luật Quản lý ngoại thương về xuất xứ hàng hoá (31/2018/NĐ-CP)
+  * Thông tư số 26/2026/TT-BCT ngày 20 tháng 5 năm 2026 của Bộ trưởng Bộ Công Thương sửa đổi bổ sung một số quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương. (26/2026/TT-BCT)
+  * Thông tư số 40/2025/TT-BCT (Thông tư số 40/2025/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không quy định
+Từ khóa: Không có thông tin
+Mô tả: Không quy định

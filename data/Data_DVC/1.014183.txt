@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014183
+Số quyết định: 863/QĐ-BNV
+Tên thủ tục: CHẾ ĐỘ ĐỐI VỚI NGƯỜI LAO ĐỘNG KHÔNG ĐỦ ĐIỀU KIỆN HƯỞNG LƯƠNG HƯU VÀ CHƯA ĐỦ TUỔI HƯỞNG TRỢ CẤP HƯU TRÍ XÃ HỘI
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo hiểm xã hội
+Trình tự thực hiện:
+    Bước 1:
+    Công dân Việt Nam đủ tuổi nghỉ hưu có thời gian đóng bảo hiểm xã hội nhưng không đủ điều kiện hưởng lương hưu theo quy định của pháp luật và chưa đủ điều kiện hưởng trợ cấp hưu trí xã hội theo quy định gửi hồ sơ đến cơ quan bảo hiểm xã hội.
+    Bước 2:
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan bảo hiểm xã hội có trách nhiệm giải quyết.
+    Trường hợp không giải quyết thì phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Văn bản đề nghị hưởng trợ cấp hằng tháng,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Sổ bảo hiểm xã hội,
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Bảo hiểm xã hội tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về việc hưởng trợ cấp hằng tháng
+Căn cứ pháp lý:
+  * LUẬT  Bảo hiểm xã hội (58/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

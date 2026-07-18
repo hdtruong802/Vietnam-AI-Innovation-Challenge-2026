@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009442
+Số quyết định: 123/QĐ-CHHĐTVN
+Tên thủ tục: Thỏa thuận thông số kỹ thuật xây dựng luồng đường thủy nội địa
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    Chủ đầu tư có nhu cầu thỏa thuận thông số kỹ thuật xây dựng luồng đường thủy nội địa nộp hồ sơ đến Cục Hàng hải và Đường thủy Việt Nam (thỏa thuận về thông số kỹ thuật luồng quốc gia, luồng chuyên dùng nối với luồng quốc gia) hoặc Sở Xây dựng, Sở Giao thông công chánh TP Hồ Chí Minh (thỏa thuận về thông số kỹ thuật luồng địa phương, luồng chuyên dùng nối với luồng địa phương) để thỏa thuận
+  * b) Giải quyết TTHC:
+    Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền ban hành văn bản thỏa thuận thông số kỹ thuật xây dựng luồng đường thủy nội địa gửi chủ đầu tư.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Hồ sơ thiết kế sơ bộ luồng đường thủy nội địa.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị thỏa thuận thông số kỹ thuật xây dựng luồng đường thủy nội địa theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao văn bản chấp thuận chủ trương đầu tư dự án của cơ quan có thẩm quyền (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Xây dựng, Cục Hàng hải và Đường thủy Việt Nam, Sở Giao thông công chánh - TP.HCM
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thỏa thuận thông số kỹ thuật xây dựng luồng đường thủy nội địa.
+Căn cứ pháp lý:
+  * Quy định về quản lý hoạt động đường thủy nội địa (08/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

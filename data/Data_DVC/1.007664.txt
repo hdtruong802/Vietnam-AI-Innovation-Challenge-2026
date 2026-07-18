@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007664
+Số quyết định: 964/QĐ-BTC
+Tên thủ tục: Thủ tục miễn thuế đối với tài sản di chuyển vượt định mức miễn thuế của cơ quan, tổ chức được ngân sách nhà nước đảm bảo kinh phí hoạt động
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Bước 1: Người nộp thuế gửi hồ sơ đề nghị miễn thuế đến Tổng cục Hải quan chậm nhất 15 (mười lăm) ngày làm việc trước khi làm thủ tục hải quan.
+    - Bước 2: Trường hợp hồ sơ đề nghị miễn thuế chưa đầy đủ, Tổng cục Hải quan phải thông báo cho tổ chức, cá nhân để hoàn chỉnh hồ sơ;
+    Trường hợp hồ sơ đầy đủ, Bộ Tài chính ban hành quyết định miễn thuế hoặc thông báo không miễn thuế trên cơ sở đề xuất của Tổng cục Hải quan;
+    - Bước 3: Căn cứ hồ sơ hải quan và quyết định miễn thuế của Bộ Tài chính cơ quan hải quan nơi làm thủ tục hải quan thực hiện thủ tục miễn thuế khi làm thủ tục hải quan theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Ngoài hồ sơ miễn thuế nêu trên, tùy từng trường hợp người nộp thuế phải nộp thêm ]
+    - Giấy phép lao động hoặc văn bản có giá trị tương đương do cơ quan có thẩm quyền cấp đối với người nước ngoài, người Việt Nam định cư ở nước ngoài đến công tác, làm việc tại Việt Nam từ 12 (mười hai) tháng trở lên
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Một trong các giấy tờ sau: Thẻ Căn cước công dân, Chứng minh nhân dân, Giấy xác nhận thông tin về cư trú, Giấy thông báo số định danh cá nhân và thông tin công dân trong Cơ sở dữ liệu quốc gia về dân cư
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Hộ chiếu (có đóng dấu kiểm chứng nhập cảnh của cơ quan quản lý xuất nhập cảnh tại cửa khẩu hoặc đóng dấu kiểm chứng nhập cảnh của cơ quan quản lý xuất nhập cảnh tại cửa khẩu trên thị thực rời đối với trường hợp hộ chiếu được cấp thị thực rời) hoặc giấy tờ thay hộ chiếu còn giá trị (có đóng dấu kiểm chứng nhập cảnh của cơ quan quản lý xuất nhập cảnh tại cửa khẩu) đối với người Việt Nam định cư ở nước ngoài đã đăng ký thường trú tại Việt Nam
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Quyết định của Bộ trưởng Bộ Tài chính về việc miễn thuế đối với tài sản di chuyển vượt định mức miễn thuế
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản chứng minh việc chấm dứt hoạt động hoặc chấm dứt thời hạn lao động ở nước ngoài đối với tổ chức, công dân Việt Nam có hoạt động ở nước ngoài từ 12 (mười hai) tháng trở lên sau khi kết thúc hoạt động trở về nước
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Hồ sơ hải quan theo quy định của pháp luật hải quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Bộ Tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thực hiện miễn thuế theo quy định, Thông báo lý do không thuộc diện được miễn thuế, thu thuế và xử phạt vi phạm (nếu có) theo quy định
+Căn cứ pháp lý:
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật thuế xuất khẩu, thuế nhập khẩu (134/2016/NĐ-CP)
+  * Thuế xuất khẩu, thuế nhập khẩu (107/2016/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

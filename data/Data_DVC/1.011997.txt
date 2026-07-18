@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011997
+Số quyết định: 2154/QĐ-UBND
+Tên thủ tục: Hỗ trợ đăng ký bảo hộ sáng chế, kiểu dáng công nghiệp, nhãn hiệu và công nhận giống cây trồng mới
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công nghiệp địa phương
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ
+    - Hằng năm, trên cơ sở Chương trình chung được UBND tỉnh phê duyệt, đơn vị chủ trì thực hiện Chương trình công khai trên phương tiện thông tin truyền thông và website của đơn vị về nội dung, số lượng, kinh phí hỗ trợ để các doanh nghiệp trên địa bàn tỉnh biết và nộp hồ sơ đề nghị hỗ trợ.
+    - Các doanh nghiệp nhỏ và vừa, Hợp tác xã, Liên hiệp hợp tác xã (sau đây gọi tắt là doanh nghiệp) thuộc mọi thành phần kinh tế được thành lập theo quy định của pháp luật, có trụ sở chính đặt trên địa bàn tỉnh Bắc Ninh (có nhu cầu hỗ trợ) nộp hồ sơ trước ngày 30 tháng 11 về đơn vị chủ trì thực hiện Chương trình.
+    - Cán bộ tiếp nhận hồ sơ kiểm tra tính đầy đủ của hồ sơ:
+    a) Trường hợp hồ sơ chưa đầy đủ và hợp lệ, cán bộ tiếp nhận hồ sơ hướng dẫn người đến nộp hồ sơ bổ sung đầy đủ theo quy định;
+    b) Trường hợp hồ sơ đầy đủ và hợp lệ, cán bộ tiếp nhận hồ sơ viết giấy biên nhận giao cho người nộp và chuyển hồ sơ về cơ quan chuyên môn giải quyết.
+    Bước 2: Thẩm định, phê duyệt
+    Trong thời gian 05 ngày làm việc kể từ ngày nhận được hồ sơ Đơn vị chủ trì xem xét tính hợp lệ của hồ sơ.
+    a) Trường hợp hồ sơ chưa hợp lệ, trong thời gian năm (05) ngày làm việc, đơn vị chủ trì có trách nhiệm trả lời tổ chức, cá nhân bằng văn bản và hướng dẫn chỉnh sửa, hoàn thiện hồ sơ trước ngày 10 tháng 12 của năm thực hiện Chương trình.
+    Sau ngày 10/12 nêu trên doanh nghiệp không sửa đổi, bổ sung hồ sơ theo yêu cầu, đơn vị chủ trì thực hiện Chương trình thông báo bằng văn bản chấm dứt việc xem xét đề nghị hỗ trợ.
+    b) Trường hợp hồ sơ hợp lệ và đáp ứng đủ điều kiện quy định, trong thời hạn mười (10) ngày làm việc kể từ ngày tiếp nhận hồ sơ đơn vị chủ trì thực hiện Chương trình ban hành quyết định hỗ trợ theo quy định.
+    Bước 3:  Trả kết quả
+    Trong thời hạn năm 05 ngày làm việc kể từ ngày ban hành quyết định hỗ trợ, đơn vị chủ trì thực hiện Chương trình có trách nhiệm chuyển kinh phí hỗ trợ vào tài khoản của doanh nghiệp được hỗ trợ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Xem xét tính hợp lệ của Hồ sơ trong thời gian 05 ngày làm việc - Trong thời hạn mười (10) ngày làm việc kể từ ngày tiếp nhận hồ sơ hợp lệ, đơn vị chủ trì thực hiện Chương trình ban hành quyết định hỗ trợ theo quy định. - Trong thời hạn năm (05) ngày làm việc kể từ ngày ban hành quyết định hỗ trợ, đơn vị chủ trì thực hiện Chương trình có trách nhiệm chuyển kinh phí hỗ trợ vào tài khoản của doanh nghiệp được hỗ trợ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Xem xét tính hợp lệ của Hồ sơ trong thời gian 05 ngày làm việc - Trong thời hạn mười (10) ngày làm việc kể từ ngày tiếp nhận hồ sơ hợp lệ, đơn vị chủ trì thực hiện Chương trình ban hành quyết định hỗ trợ theo quy định. - Trong thời hạn năm (05) ngày làm việc kể từ ngày ban hành quyết định hỗ trợ, đơn vị chủ trì thực hiện Chương trình có trách nhiệm chuyển kinh phí hỗ trợ vào tài khoản của doanh nghiệp được hỗ trợ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Xem xét tính hợp lệ của Hồ sơ trong thời gian 05 ngày làm việc - Trong thời hạn mười (10) ngày làm việc kể từ ngày tiếp nhận hồ sơ hợp lệ, đơn vị chủ trì thực hiện Chương trình ban hành quyết định hỗ trợ theo quy định. - Trong thời hạn năm (05) ngày làm việc kể từ ngày ban hành quyết định hỗ trợ, đơn vị chủ trì thực hiện Chương trình có trách nhiệm chuyển kinh phí hỗ trợ vào tài khoản của doanh nghiệp được hỗ trợ
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị hỗ trợ (Mẫu 1).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Bản sao công chứng văn bằng bảo hộ (đối với đăng ký bảo hộ trong nước); đơn được chấp nhận hợp lệ, các văn bản tương ứng theo quy định của tổ chức quốc tế hoặc quốc gia nộp đơn (đối với đăng ký bảo hộ ở nước ngoài).
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Công thương tỉnh Bắc Ninh
+Cơ quan có thẩm quyền: UBND tỉnh Bắc Ninh
+Địa chỉ tiếp nhận HS: Trực tiếp hoặc qua dịch vụ bưu chính công ích đến tại đơn vị chủ trì thực hiện Chương trình (là các tổ chức đơn vị có chức năng hỗ trợ doanh nghiệp thực hiện xúc tiến thương mại, xây dựng phát triển thương hiệu thuộc các Sở, ban, ngành, Liên minh các Hợp tác xã, Hiệp hội doanh nghiệp nhỏ và vừa tỉnh trên địa bàn tỉnh)
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hỗ trợ kinh phí đăng ký bảo hộ sáng chế, kiểu dáng công nghiệp, nhãn hiệu và công nhận giống cây trồng mới
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: - Các doanh nghiệp nhỏ và vừa, Hợp tác xã, Liên hiệp hợp tác xã thuộc mọi thành phần kinh tế được thành lập theo quy định của pháp luật, có trụ sở chính đặt trên địa bàn tỉnh Bắc Ninh (có nhu cầu hỗ trợ)
+- Có văn bằng bảo hộ (đối với đăng ký bảo hộ trong nước); đơn được chấp nhận hợp lệ, các văn bản tương ứng theo quy định của tổ chức quốc tế hoặc quốc gia nộp đơn (đối với đăng ký bảo hộ ở nước ngoài) theo quy định.
+Từ khóa: Không có thông tin
+Mô tả: - Các doanh nghiệp nhỏ và vừa, Hợp tác xã, Liên hiệp hợp tác xã thuộc mọi thành phần kinh tế được thành lập theo quy định của pháp luật, có trụ sở chính đặt trên địa bàn tỉnh Bắc Ninh (có nhu cầu hỗ trợ)
+- Có văn bằng bảo hộ (đối với đăng ký bảo hộ trong nước); đơn được chấp nhận hợp lệ, các văn bản tương ứng theo quy định của tổ chức quốc tế hoặc quốc gia nộp đơn (đối với đăng ký bảo hộ ở nước ngoài) theo quy định.

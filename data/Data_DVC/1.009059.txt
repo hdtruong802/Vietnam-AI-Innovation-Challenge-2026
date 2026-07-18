@@ -1,0 +1,39 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009059
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục bán hàng miễn thuế cho đối tượng mua là người nhập cảnh tại cửa khẩu sân bay quốc tế
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp yêu cầu khách hàng xuất trình hộ chiếu hoặc giấy thông hành
+    Bước 2: Doanh nghiệp nhập dữ liệu vào phần mềm của doanh nghiệp các thông tin về khách hàng và hàng hóa khách hàng mua
+    Thông tin về khách hàng gồm: họ và tên người mua hàng đúng theo hộ chiếu hoặc giấy thông hành; số hộ chiếu hoặc số giấy thông hành; quốc tịch; số hiệu chuyến bay (flight), ngày bay (date) được ghi trên thẻ tàu bay (boarding pass) đối với người xuất cảnh, quá cảnh bằng đường hàng không hoặc ngày khởi hành của phương tiện đối với người xuất cảnh, quá cảnh bằng đường sắt, đường biển.
+    - Trường hợp bán hàng miễn thuế trực tuyến: doanh nghiệp nhập dữ liệu về thông tin khách hàng và hàng hóa vào hệ thống xử lý dữ liệu điện tử khi chấp nhận đơn hàng và hoàn tất thủ tục thanh toán. Khi giao hàng cho khách mua hàng, doanh nghiệp kiểm tra đối chiếu thông tin mà khách đã kê khai khi mua hàng trực tuyến với thông tin trên các giấy tờ liên quan đến khách mua hàng theo quy định đối với từng đối tượng.
+    Bước 3: Doanh nghiệp thực hiện gửi thông tin về hàng hóa và khách hàng đến hệ thống xử lý dữ liệu điện tử
+    Bước 4: Doanh nghiệp xuất hóa đơn bán hàng (bao gồm cả hàng tặng kèm sản phẩm, nếu có) theo quy định và lưu hoá đơn bán hàng theo ngày bán hàng (trường hợp hóa đơn bán hàng là từng cuộn thì lưu theo từng cuộn).
+    - Trường hợp khách mua hàng vượt định mức miễn thuế theo quy định, doanh nghiệp lập 02 Phiếu thông báo theo Mẫu số 01/PTBHVĐM Phụ lục II ban hành kèm theo Nghị định 100/2020/NĐ-CP ngày 28/8/2020 cho cơ quan hải quan tại cửa khẩu nhập
+    Bước 5: Công chức hải quan ký tên, đóng dấu trên Phiếu thông báo và thực hiện kiểm tra thực tế hàng hóa trên cơ sở rủi ro
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Thông tin về khách hàng và hàng hóa khách hàng mua.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận hoàn thành thủ tục hải quan
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

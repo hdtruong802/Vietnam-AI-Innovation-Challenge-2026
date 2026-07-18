@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010817
+Số quyết định: 556/QĐ-BNV
+Tên thủ tục: Công nhận và giải quyết chế độ con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    Bước 1: Cá nhân hoặc người đại diện theo pháp luật lập bản khai theo Mẫu số 09 Phụ lục I Nghị định số 131/2021/NĐ-CP và một trong các giấy tờ quy định tại khoản 1 và khoản 2 Điều 54 Nghị định số 131/2021/NĐ-CP gửi đến Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công.
+    Bước 2: Ủy ban nhân dân cấp xã nơi thường trú trong thời gian 05 ngày làm việc có trách nhiệm kiểm tra, xác nhận bản khai và lập danh sách kèm giấy tờ theo quy định tại khoản 1 Điều 57 Nghị định số 131/2021/NĐ-CP gửi sở Nội vụ.
+    Bước 3: Sở Nội vụ trong thời gian 07 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm kiểm tra, cấp giấy giới thiệu những trường hợp đủ điều kiện gửi đến Hội đồng giám định y khoa cấp tỉnh theo Mẫu số 38 Phụ lục I Nghị định số 131/2021/NĐ-CP kèm bản sao giấy tờ ghi nhận bị dị dạng, dị tật.
+    Bước 4: Hội đồng giám định y khoa trong thời gian 15 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm tổ chức khám giám định, ban hành biên bản giám định y khoa theo Mẫu số 78 Phụ lục I Nghị định số 131/2021/NĐ-CP gửi đến Sở Nội vụ.
+    Bước 5: Sở Nội vụ trong thời gian 05 ngày làm việc kể từ ngày nhận biên bản giám định y khoa có trách nhiệm xem xét, nếu đủ điều kiện thì ban hành quyết định trợ cấp ưu đãi đối với con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học theo Mẫu số 65 Phụ lục I Nghị định số 131/2021/NĐ-CP; quyết định cấp giấy chứng nhận người hoạt động kháng chiến bị nhiễm chất độc hóa học và trợ cấp ưu đãi theo Mẫu số 64 Phụ lục I Nghị định số 131/2021/NĐ-CP đối với người hoạt động kháng chiến bị nhiễm chất độc hóa học, đồng thời thực hiện việc cấp giấy chứng nhận theo Mẫu số 102 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 32 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. 32 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 32 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. 32 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 32 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. 32 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+
+Thành phần hồ sơ:
+    - b) Bản sao được chứng thực từ giấy khai sinh, trích lục khai sinh.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - d)	Một trong các giấy tờ ghi nhận mắc bệnh hoặc dị dạng, dị tật như sau: -	Bản tóm tắt hồ sơ bệnh án của Bệnh viện hoặc Trung tâm y tế khu vực (bao gồm cả bệnh viện quân đội, công an) theo mẫu quy định của Bộ Y tế. -	Giấy xác nhận dị dạng, dị tật bẩm sinh của các cơ sở y tế cấp xã trở lên đối với con đẻ chưa khám bệnh, chữa bệnh về các dị dạng, dị tật.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c)	Một trong các giấy tờ có ghi nhận thời gian tham gia kháng chiến tại vùng quân đội Mỹ sử dụng chất độc hóa học sau: -	Giấy X Y Z. -	Bản sao được chứng thực từ một trong các giấy tờ sau: quyết định phục viên, xuất ngũ; giấy chuyển thương, chuyển viện, giấy điều trị; lý lịch cán bộ; lý lịch đảng viên; lý lịch quân nhân; lý lịch công an nhân dân; hồ sơ hưởng chế độ bảo hiểm xã hội; Huân chương, Huy chương chiến sĩ giải phóng; hồ sơ khen thưởng thành tích tham gia kháng chiến, hồ sơ người có công được xác lập trước ngày 01 tháng 01 năm 2000. -	Giấy tờ do cơ quan có thẩm quyền ban hành, xác nhận trước ngày 01 tháng 01 năm 2000. Trường hợp danh sách, sổ quản lý quân nhân, sổ chi trả trợ cấp quân nhân đi B đang lưu tại cơ quan chức năng của địa phương mà chưa có xác nhận thì Sở Lao động - Thương binh và Xã hội (nay là Sở Nội vụ) có trách nhiệm phối hợp với Bộ chỉ huy quân sự tỉnh tập hợp, chốt số lượng người và xác nhận danh sách, sổ quản lý đang do cơ quan, đơn vị quản lý, hoàn thành trước ngày 01 tháng 5 năm 2022 và gửi số liệu về Bộ Lao động - Thương binh và Xã hội (nay là Bộ Nội vụ) trước ngày 01 tháng 6 năm 2022. Trường hợp các giấy tờ trên chỉ thể hiện phiên hiệu, ký hiệu đơn vị thì kèm theo giấy xác nhận thông tin giải mã phiên hiệu, ký hiệu, thời gian, địa bàn hoạt động của đơn vị theo Mẫu số 37 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - a) Bản khai theo Mẫu số 09 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Nội vụ, Hội đồng Giám định Y khoa tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định trợ cấp ưu đãi đối với con đẻ của người hoạt động kháng chiến bị nhiễm chất độc hóa học
+Căn cứ pháp lý:
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Nội vụ (129/2025/NĐ-CP)
+  * QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THI HÀNH PHÁP LỆNH ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Nghị định số 131/2021/NĐ-CP)
+  * ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Pháp lệnh số: 02/2020/UBTVQH14)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

@@ -1,0 +1,87 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007660
+Số quyết định: 1768/QĐ-BTC
+Tên thủ tục: Thủ tục thông báo danh mục hàng hóa miễn thuế dự kiến
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Trình tự thực hiện
+    - Bước 1:
+    + Chủ dự án có trách nhiệm gửi hồ sơ thông báo Danh mục miễn thuế trước khi đăng ký tờ khai hàng hóa nhập khẩu miễn thuế đầu tiên. Nơi tiếp nhận thông báo Danh mục miễn thuế là Chi cục Hải quan khu vực nơi thực hiện dự án, Chi cục Hải quan khu vực nơi đóng trụ sở chính hoặc nơi quản lý tập trung của dự án đối với dự án được thực hiện ở nhiều tỉnh, thành phố; Chi cục Hải quan khu vực nơi lắp đặt tổ hợp, dây chuyền đối với danh mục hàng hóa miễn thuế dự kiến nhập khẩu theo tổ hợp, dây chuyền;
+    + Các trường hợp được sửa đổi, điều chỉnh Danh mục miễn thuế: Chủ dự án đã thông báo Danh mục miễn thuế với cơ quan hải quan nhưng việc kê khai trên Danh mục miễn thuế có sai sót hoặc cần sửa đổi; Cơ quan hải quan nơi đã tiếp nhận Danh mục miễn thuế phát hiện Danh mục miễn thuế có sai sót hoặc cần sửa đổi thì yêu cầu chủ dự án thực hiện sửa đổi, điều chỉnh Danh mục miễn thuế. Chủ dự án thông báo Danh mục miễn thuế sửa đổi trước thời điểm đăng ký tờ khai nhập khẩu hàng hóa kèm theo các tài liệu liên quan để chứng minh việc bổ sung, điều chỉnh là phù hợp với nhu cầu của dự án.
+    - Bước 2: Trong thời hạn tối đa 03 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, cơ quan hải quan thông báo cho chủ dự án về việc đã tiếp nhận Danh mục miễn thuế; hoặc đề nghị bổ sung, giải trình hồ sơ hoặc thông báo hàng hóa không thuộc đối tượng miễn thuế;
+    - Trường hợp sửa đổi Danh mục miễn thuế làm thay đổi số tiền thuế đã được miễn, cơ quan hải quan nơi tiếp nhận hồ sơ thông báo Danh mục miễn thuế có trách nhiệm thông báo cho cơ quan hải quan nơi làm thủ tục nhập khẩu để thu hồi số tiền thuế đã được miễn không đúng quy định, tiền chậm nộp, tiền phạt vi phạm hành chính (nếu có);
+    - Kiểm tra việc sử dụng hàng hóa miễn thuế trên cơ sở áp dụng quản lý rủi ro theo quy định của pháp luật về quản lý thuế, pháp luật hải quan;
+    - Cơ quan hải quan nơi tiếp nhận Danh mục miễn thuế dừng việc sử dụng Danh mục miễn thuế đối với Danh mục miễn thuế chưa nhập khẩu hết hàng hóa và vẫn còn trong thời hạn nhập khẩu trong các trường hợp sau:
+    + Dự án đầu tư chấm dứt hoạt động theo quy định của pháp luật về đầu tư;
+    + Dự án ưu đãi đầu tư chuyển nhượng một phần hoặc toàn bộ dự án thuộc đối tượng ưu đãi đầu tư cho tổ chức, cá nhân khác theo quy định tại điểm d khoản 5 Điều 31 Nghị định số 134/2016/NĐ-CP được sửa đổi, bổ sung bởi khoản 14 Điều 1 Nghị định số 18/2021/NĐ-CP;
+    + Chủ dự án có văn bản thông báo không còn nhu cầu nhập khẩu hàng hoá theo Danh mục miễn thuế.
+    - Cơ quan hải quan nơi tiếp nhận Danh mục miễn thuế thông báo cho cơ quan hải quan trên toàn quốc về việc dừng làm thủ tục miễn thuế.
+    Cơ quan hải quan nơi thực hiện miễn thuế cho dự án theo Danh mục miễn thuế đã bị dừng việc sử dụng thực hiện xử lý thuế đối với hàng hóa đã miễn thuế theo quy định (nếu có).
+    - Trường hợp Danh mục miễn thuế bản giấy, hết lượng hàng hóa nhập khẩu ghi trong phiếu theo dõi trừ lùi, cơ quan hải quan nơi làm thủ tục cuối cùng xác nhận lên bản chính phiếu theo dõi trừ lùi của người nộp thuế, lưu 01 bản chụp, cấp cho người nộp thuế 01 bản chụp và gửi bản chính đến cơ quan hải quan nơi cấp phiếu theo dõi trừ lùi.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+    Mô tả: - Nộp hồ sơ điện tử: Người nộp thuế khai đầy đủ, chính xác các thông tin trên tờ khai hải quan và các chứng từ, tài liệu có liên quan làm căn cứ để xác định nghĩa vụ thuế của người nộp thuế với ngân sách nhà nước theo các chỉ tiêu thông tin quy định tại Phụ lục II Thông tư số 86/2026/TT-BTC thông qua Hệ thống xử lý dữ liệu điện tử hải quan. Trường hợp chưa khai báo được chỉ tiêu thông tin quy định tại Phụ lục II trên Hệ thống xử lý dữ liệu điện tử hải quan, người nộp thuế nộp bản chụp được ký số các chứng từ, tài liệu thuộc hồ sơ khai thuế cho cơ quan hải quan thông qua Hệ thống xử lý dữ liệu điện tử hải quan;
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+    Mô tả: - Nộp hồ sơ giấy theo quy định của pháp luật về hải quan: Trường hợp nộp hồ sơ giấy, đối với chứng từ phải nộp bản chính theo quy định tại Thông tư số 86/2026/TT-BTC thì người nộp thuế nộp trực tiếp hoặc gửi qua đường bưu chính cho cơ quan hải quan. Trường hợp Thông tư không quy định bản chính thì người nộp thuế được nộp bản chụp cho cơ quan hải quan.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+    Mô tả: - Nộp hồ sơ giấy theo quy định của pháp luật về hải quan: Trường hợp nộp hồ sơ giấy, đối với chứng từ phải nộp bản chính theo quy định tại Thông tư số 86/2026/TT-BTC thì người nộp thuế nộp trực tiếp hoặc gửi qua đường bưu chính cho cơ quan hải quan. Trường hợp Thông tư không quy định bản chính thì người nộp thuế được nộp bản chụp cho cơ quan hải quan.
+
+Thành phần hồ sơ:
+    - a) Công văn Thông báo Danh mục miễn thuế theo Mẫu số 17 tại Phụ lục I Thông tư số 86/2026/TT-BTC;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Danh mục miễn thuế gửi qua Hệ thống xử lý dữ liệu điện tử hải quan theo Mẫu 7a tại Phụ lục II Thông tư số 86/2026/TT-BTC. Trường hợp hệ thống gặp sự cố, chủ dự án nộp 02 bản chính Danh mục miễn thuế bản giấy theo Mẫu số 18 và 01 bản chính Phiếu theo dõi trừ lùi theo Mẫu số 19 tại Phụ lục I Thông tư số 86/2026/TT-BTC. Trường hợp máy móc, thiết bị phải nhập khẩu làm nhiều chuyến, không trừ lùi được số lượng tại thời điểm nhập khẩu (sau đây gọi là tổ hợp, dây chuyền), chủ dự án nộp 02 bản chính Danh mục miễn thuế bản giấy theo Mẫu số 18 tại Phụ lục I Thông tư số 86/2026/TT-BTC.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Giấy chứng nhận đăng ký đầu tư hoặc văn bản chấp thuận chủ trương đầu tư theo quy định của pháp luật về đầu tư hoặc văn bản cho phép đầu tư theo quy định của pháp luật chuyên ngành, trừ trường hợp miễn thuế quy định tại khoản 15 Điều 16 Luật số 107/2016/QH13. Đối với các dự án đầu tư không thuộc diện phải cấp Giấy chứng nhận đăng ký đầu tư, chấp thuận chủ trương đầu tư theo quy định của pháp luật về đầu tư hoặc cho phép đầu tư theo quy định của pháp luật chuyên ngành thì việc xác định dự án đầu tư mới căn cứ vào Báo cáo của nhà đầu tư theo quy định của pháp luật về đầu tư gửi cơ quan đăng ký đầu tư theo quy định của pháp luật về đầu tư.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Báo cáo nghiên cứu khả thi hoặc Báo cáo kinh tế - kỹ thuật hoặc Đề xuất dự án đầu tư;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Giấy chứng nhận hoặc công nhận của cơ quan nhà nước có thẩm quyền đối với tổ chức khoa học và công nghệ, doanh nghiệp công nghệ chiến lược, doanh nghiệp công nghệ cao, doanh nghiệp sản xuất sản phẩm công nghệ cao theo quy định của pháp luật về công nghệ cao; doanh nghiệp khoa học và công nghệ, trung tâm đổi mới sáng tạo, trung tâm nghiên cứu và phát triển;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Giấy chứng nhận đủ điều kiện sản xuất thiết bị y tế hoặc giấy tờ có giá trị tương đương theo quy định của pháp luật về quản lý thiết bị y tế đối với trường hợp miễn thuế quy định tại khoản 14 Điều 16 Luật số 107/2016/QH13;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - g) Hợp đồng dầu khí, quyết định giao nhiệm vụ thực hiện hoạt động dầu khí, văn bản của cơ quan có thẩm quyền phê duyệt chương trình công tác năm và ngân sách hàng năm đối với trường hợp miễn thuế quy định tại khoản 15 Điều 16 Luật số 107/2016/QH13;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - h) Hợp đồng đóng tàu, hợp đồng xuất khẩu tàu biển đối với trường hợp miễn thuế quy định tại điểm b, điểm c khoản 16 Điều 16 Luật số 107/2016/QH13;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - i) Bản thuyết minh dự án sản xuất sản phẩm công nghệ số quy định tại điểm d khoản 21 Điều 16 Luật số 107/2016/QH13 đã được sửa đổi, bổ sung bởi khoản 3 Điều 5 Luật số 90/2025/QH15;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - k) Hợp đồng thuê chế tạo máy móc, thiết bị hoặc chế tạo linh kiện, chi tiết, bộ phận rời, phụ tùng của máy móc, thiết bị đối với hàng hóa quy định tại điểm a khoản 11, điểm b khoản 15, điểm a khoản 16 Điều 16 Luật số 107/2016/QH13;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - l) Đối với sản phẩm nông sản chưa qua chế biến do phía Việt Nam hỗ trợ đầu tư, trồng tại Campuchia nhập khẩu về nước, ngoài hồ sơ thông báo Danh mục hàng hóa nhập khẩu miễn thuế theo quy định nêu trên, người nộp thuế là doanh nghiệp nộp thêm các chứng từ sau: l.1) Văn bản xác nhận cho phép đầu tư của cơ quan có thẩm quyền tại Campuchia nơi doanh nghiệp Việt Nam đầu tư (bản dịch tiếng Việt);  l.2) Hợp đồng hoặc Thỏa thuận ký kết với phía Campuchia về việc hỗ trợ đầu tư, trồng và nhận lại nông sản,; trong đó ghi rõ số tiền, hàng đầu tư vào từng lĩnh vực và tương ứng là số lượng, chủng loại, trị giá từng loại nông sản sẽ thu hoạch được;  l.3) Chứng từ liên quan đến việc hỗ trợ đầu tư, trồng nông sản tại các tỉnh của Campuchia tiếp giáp biên giới Việt Nam (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền: Cục Hải quan tỉnh, thành phố
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cấp mã số quản lý, nhập thông tin kết quả xử lý vào hệ thống, phản hồi cho doanh nghiệp, Đóng dấu xác nhận trên 02 bản chính Danh mục miễn thuế, 01 bản chính phiếu theo dõi trừ lùi hoặc thông báo hàng hóa không thuộc đối tượng miễn thuế
+Căn cứ pháp lý:
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật thuế xuất khẩu, thuế nhập khẩu (134/2016/NĐ-CP)
+  * Nghị định số 18/2021/NĐ-CP ngày 11/3/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 134/2016/NĐ-CP ngày 01/9/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Thuế xuất khẩu, thuế nhập khẩu (18/2021/ND-CP)
+  * Thuế xuất khẩu, thuế nhập khẩu (107/2016/QH13)
+
+Yêu cầu, điều kiện thực hiện: a) Trường hợp thông báo Danh mục hàng hóa miễn thuế dự kiến nhập khẩu
+Trường hợp quy định tại điểm b, c và d khoản 21 Điều 16 Luật số 107/2016/QH13 được sửa đổi, bổ sung bởi khoản 3 Điều 5 Luật số 90/2025/QH15 và khoản 6 Điều 25 Luật số 133/2025/QH15; Điều 14; Điều 15; Điều 16; Điều 17; Điều 18; Điều 23, khoản 9 Điều 28 Nghị định số 134/2016/NĐ-CP được sửa đổi, bổ sung bởi Nghị định số 18/2021/NĐ-CP, người nộp thuế thông báo Danh mục hàng hóa miễn thuế dự kiến nhập khẩu.
+b) Nguyên tắc xây dựng Danh mục hàng hóa miễn thuế dự kiến xuất khẩu, nhập khẩu (sau đây gọi chung là Danh mục miễn thuế)
+- Tổ chức, cá nhân sử dụng hàng hóa (chủ dự án; nhà đầu tư; chủ cơ sở sản xuất, kinh doanh; chủ cơ sở đóng tàu; tổ chức, cá nhân tiến hành hoạt động dầu khí) sau đây gọi chung là chủ dự án là người thông báo Danh mục miễn thuế. Trường hợp chủ dự án không trực tiếp nhập khẩu hàng hóa miễn thuế mà nhà thầu chính hoặc nhà thầu phụ hoặc công ty cho thuê tài chính nhập khẩu hàng hóa thì nhà thầu, công ty cho thuê tài chính sử dụng danh mục miễn thuế do chủ dự án đã thông báo với cơ quan hải quan;
+- Hàng hóa phải thuộc đối tượng được miễn thuế theo quy định tại một trong các trường hợp quy định tại khoản 11, khoản 12, khoản 13, khoản 14, khoản 15, khoản 16, điểm b, c và d khoản 21 Điều 16 Luật số 107/2016/QH13 được sửa đổi, bổ sung bởi khoản 3 Điều 5 Luật số 90/2025/QH15 và khoản 6 Điều 25 Luật số 133/2025/QH15; phù hợp với ngành nghề, lĩnh vực đầu tư, mục tiêu, quy mô, công suất của dự án, cơ sở sản xuất, hoạt động sử dụng hàng hóa miễn thuế;
+- Danh mục miễn thuế được xây dựng một lần cho dự án, cơ sở sản xuất, hoạt động sử dụng hàng hóa miễn thuế, hoặc xây dựng theo từng giai đoạn, từng hạng mục, từng tổ hợp, dây chuyền phù hợp với thực tế và hồ sơ tài liệu thực hiện dự án, cơ sở sản xuất, hoạt động sử dụng hàng hóa miễn thuế, sau đây gọi chung là dự án.
+Từ khóa: Không có thông tin
+Mô tả: a) Trường hợp thông báo Danh mục hàng hóa miễn thuế dự kiến nhập khẩu
+Trường hợp quy định tại điểm b, c và d khoản 21 Điều 16 Luật số 107/2016/QH13 được sửa đổi, bổ sung bởi khoản 3 Điều 5 Luật số 90/2025/QH15 và khoản 6 Điều 25 Luật số 133/2025/QH15; Điều 14; Điều 15; Điều 16; Điều 17; Điều 18; Điều 23, khoản 9 Điều 28 Nghị định số 134/2016/NĐ-CP được sửa đổi, bổ sung bởi Nghị định số 18/2021/NĐ-CP, người nộp thuế thông báo Danh mục hàng hóa miễn thuế dự kiến nhập khẩu.
+b) Nguyên tắc xây dựng Danh mục hàng hóa miễn thuế dự kiến xuất khẩu, nhập khẩu (sau đây gọi chung là Danh mục miễn thuế)
+- Tổ chức, cá nhân sử dụng hàng hóa (chủ dự án; nhà đầu tư; chủ cơ sở sản xuất, kinh doanh; chủ cơ sở đóng tàu; tổ chức, cá nhân tiến hành hoạt động dầu khí) sau đây gọi chung là chủ dự án là người thông báo Danh mục miễn thuế. Trường hợp chủ dự án không trực tiếp nhập khẩu hàng hóa miễn thuế mà nhà thầu chính hoặc nhà thầu phụ hoặc công ty cho thuê tài chính nhập khẩu hàng hóa thì nhà thầu, công ty cho thuê tài chính sử dụng danh mục miễn thuế do chủ dự án đã thông báo với cơ quan hải quan;
+- Hàng hóa phải thuộc đối tượng được miễn thuế theo quy định tại một trong các trường hợp quy định tại khoản 11, khoản 12, khoản 13, khoản 14, khoản 15, khoản 16, điểm b, c và d khoản 21 Điều 16 Luật số 107/2016/QH13 được sửa đổi, bổ sung bởi khoản 3 Điều 5 Luật số 90/2025/QH15 và khoản 6 Điều 25 Luật số 133/2025/QH15; phù hợp với ngành nghề, lĩnh vực đầu tư, mục tiêu, quy mô, công suất của dự án, cơ sở sản xuất, hoạt động sử dụng hàng hóa miễn thuế;
+- Danh mục miễn thuế được xây dựng một lần cho dự án, cơ sở sản xuất, hoạt động sử dụng hàng hóa miễn thuế, hoặc xây dựng theo từng giai đoạn, từng hạng mục, từng tổ hợp, dây chuyền phù hợp với thực tế và hồ sơ tài liệu thực hiện dự án, cơ sở sản xuất, hoạt động sử dụng hàng hóa miễn thuế, sau đây gọi chung là dự án.

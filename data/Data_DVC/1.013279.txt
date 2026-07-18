@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013279
+Số quyết định: 2994/QĐ-BQP
+Tên thủ tục: Thủ tục mở bãi cất, hạ cánh trên mặt đất, mặt nước, các tòa nhà, công trình nhân tạo, nhà giàn, giàn khoan dầu khí
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý vùng trời
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân đề nghị mở bãi cất, hạ cánh gửi 01 bộ hồ sơ theo quy định tại khoản 1 Điều này, gửi đến Cục Tác chiến, Bộ Tổng Tham mưu bằng hình thức trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến qua Cổng Dịch vụ công quốc gia hoặc Hệ thống thông tin giải quyết thủ tục hành chính Bộ Quốc phòng. Trường hợp nộp hồ sơ trực tuyến thì gửi bản điện tử hoặc bản sao điện tử các thành phần hồ sơ quy định tại khoản 1 Điều này.
+    Bước 2: Trong thời hạn mười (10) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định tại khoản 1 Điều này, Cục Tác chiến, Bộ Tổng Tham mưu có trách nhiệm thẩm định, kiểm tra, trường hợp có ảnh hưởng đến hoạt động hàng không dân dụng hoặc có liên quan đến quy hoạch vùng, địa phương thì Cục Tác chiến báo cáo Bộ Tổng Tham mưu có văn bản thống nhất của Bộ Xây dựng và Ủy ban nhân dân cấp tỉnh nơi mở bãi cất, hạ cánh.
+    Trường hợp, hồ sơ không hợp lệ, trong thời hạn năm (05) ngày làm việc kể từ ngày nhận được hồ sơ, Cục Tác chiến, Bộ Tổng Tham mưu có văn bản điện tử yêu cầu tổ chức, cá nhân đề nghị mở bãi cất, hạ cánh hoàn thiện hồ sơ theo quy định.
+    Bước 3: Trong thời hạn bảy (07) ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Bộ Tổng Tham mưu; Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh nơi mở bãi cất, hạ cánh có văn bản trả lời gửi Bộ Tổng Tham mưu.
+    Bước 4: Trong thời hạn mười (10) ngày làm việc, kể từ ngày nhận được văn bản thống nhất của Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh, Bộ Tổng Tham mưu ra quyết định mở bãi cất hạ cánh.
+    Trường hợp không chấp thuận, Bộ Tổng Tham mưu có văn bản điện tử trả lời, nêu rõ lý do.
+    Trường hợp tổ chức, cá nhân đề nghị nhận kết quả qua thư điện tử thì gửi qua thư điện tử cho tổ chức, cá nhân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị mở bãi cất, hạ cánh theo Mẫu số 03 Phụ lục ban hành kèm theo Nghị định số 101/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các bản vẽ mặt bằng vị trí bãi cất, hạ cánh; tổng mặt bằng khu đất, công trình nhân tạo; mặt bằng chi tiết bãi cất, hạ cánh, trong đó thể hiện rõ cốt xây dựng, điểm quy chiếu, kích thước cơ bản của bãi cất, hạ cánh; vị trí bãi cất, hạ cánh trên công trình nhân tạo; hướng cất, hạ cánh cơ bản; đối với bãi cất, hạ cánh trên mặt đất, mặt nước, bản vẽ sơ đồ ranh giới khu đất, mặt nước xây dựng
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cục Tác chiến/Bộ Tổng Tham mưu
+Cơ quan có thẩm quyền: Bộ Tổng Tham mưu
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận hoặc không chấp thuận (QLVT)
+Căn cứ pháp lý:
+  * Nghị định số 42/2016/NĐ-CP (42/2016/NĐ-CP)
+  * Luật số 43/2024/QH15 ngày 29/6/2024 (43/2024/QH15)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Nghị định số 101/2025/NĐ-CP của Chính phủ: Sửa đổi, bổ sung một số điều của Nghị định số 32/2016/NĐ-CP ngày 06 tháng 5 năm 2016 của Chính phủ quy định về quản lý độ cao chướng ngại vật hàng không và các trận địa quản lý, bảo vệ vùng trời tại Việt Nam và Nghị định số 42/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ quy định điều kiện, trình tự, thủ tục mở, đóng sân bay chuyên dùng (Nghị định số 101/2025/NĐ-CP)
+  * Luật Đất đai ngày 18/01/2024; (31/2024/QH15)
+  * Luật số 62/2020/QH14 của Quốc hội: Luật sửa đổi, bổ sung một số điều của Luật Xây dựng (62/2020/QH14)
+  * Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15 (47/2024/QH15)
+  * hợp nhất Luật Xây dựng (48/VBHN-VPQH)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,33 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009067
+Số quyết định: 1450/QĐ-BTC
+Tên thủ tục: Thủ tục đối với hàng hóa đưa vào bán tại cửa hàng miễn thuế thay đổi mục đích sử dụng, chuyển tiêu thụ nội địa, tái xuất trong trường hợp hàng hóa nội địa được phép lưu thông theo quy định của pháp luật Việt Nam đưa vào bán tại cửa hàng miễn thuế sau đó đưa trở lại nội địa
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp thông báo cho Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế theo Mẫu số 10/DSHH Phụ lục II ban hành kèm theo Nghị định 100/2020/NĐ-CP ngày 28/8/2020.
+    Bước 2: Trước khi đưa hàng hóa ra khỏi cửa hàng miễn thuế, doanh nghiệp thực hiện hủy tem “VIET NAM DUTY NOT PAID” đã dán lên từng mặt hàng dưới sự giám sát của cơ quan hải quan quản lý, lập biên bản về số tem “VIETNAM DUTY NOT PAID” đã hủy.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Danh sách hàng hóa đưa vào/ đưa ra cửa hàng miễn thuế, kho chứa hàng miễn thuế theo Mẫu số 10/DSHH Phụ lục II ban hành kèm theo Nghị định 100/2020/NĐ-CP ngày 28/8/2020
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Phản hồi từ hệ thống xử lý dữ liệu điện tử
+Căn cứ pháp lý:
+  * Về kinh doanh hàng miễn thuế (100/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

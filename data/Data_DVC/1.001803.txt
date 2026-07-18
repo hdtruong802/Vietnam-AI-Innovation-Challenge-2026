@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001803
+Số quyết định: 70/QĐ-NHNN
+Tên thủ tục: Thủ tục giám định tiền giả, tiền nghi giả
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động kho quỹ
+Trình tự thực hiện:
+    Bước 1: Các cơ quan, tổ chức, cá nhân có yêu cầu giám định tiền giả, tiền nghi giả để xác định tính xác thực của đồng tiền thực hiện lập 01 bộ hồ sơ theo quy định tại Khoản 2 Điều 5 Nghị định số 87/2023/NĐ-CP và nộp trực tiếp đến cơ quan giám định của Bộ Công an hoặc Ngân hàng Nhà nước.	Bước 2: Cơ quan giám định tiền xem xét, giám định trong thời gian tối đa 05 ngày làm việc đối với 1 tờ/miếng; trường hợp số lượng tiền cần giám định vượt quá 20 tờ hoặc miếng đối với 1 hồ sơ đề nghị giám định, thời gian tối đa không quá 60 ngày kể từ ngày nhận đủ hồ sơ hợp lệ. Trường hợp việc giám định vượt quá thời gian nêu trên, cơ quan giám định có văn bản thông báo cho cơ quan, tổ chức, cá nhân có yêu cầu giám định.
+    Bước 3: Trong thời gian tối đa 02 ngày làm việc kể từ ngày hoàn thành việc giám định, cơ quan giám định phải thông báo kết luận và việc xử lý hiện vật bằng văn bản cho tổ chức, cá nhân đề nghị giám định.
+    Bước 4: Trong thời gian tối đa 05 ngày làm việc kể từ ngày nhận được kết quả giám định, tổ chức đề nghị giám định tiền giả, tiền nghi giả theo khoản 2 Điều 4 Nghị định Nghị định 87/2023/NĐ-CP có trách nhiệm thông báo bằng văn bản cho cơ quan, tổ chức, cá nhân có tiền giả, tiền nghi giả, kèm theo thông báo kết quả giám định của cơ quan giám định. Trường hợp kết quả giám định không phải là tiền giả, phải hoàn trả cho tổ chức, cá nhân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 62 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Tối đa 07 ngày làm việc/tờ hoặc miếng cần giám định. Trường hợp vượt quá 20 tờ hoặc miếng/1 bộ hồ sơ, tối đa 62 ngày/1 bộ hồ sơ.
+
+Thành phần hồ sơ:
+    - +  Hiện vật là tiền giả, tiền nghi giả cần giám định
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy đề nghị giám định tiền giả, tiền nghi giả theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định 87/2023/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Chi nhánh tỉnh, thành phố trực thuộc Trung ương, Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo kết quả giám định tiền giả, tiền nghi giả
+Căn cứ pháp lý:
+  * Nghị định quy định về phòng, chống tiền giả và bảo vệ tiền Việt Nam (87/2023/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

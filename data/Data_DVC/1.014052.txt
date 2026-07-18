@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014052
+Số quyết định: 2298/QĐ-UBND
+Tên thủ tục: Cấp giấy phép chặt hạ, dịch chuyển cây xanh thuộc trách nhiệm quản lý của UBND cấp xã
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hạ tầng kỹ thuật
+Trình tự thực hiện:
+    - Tổ chức, cá nhân có nhu cầu cấp phép chặt hạ, dịch chuyển cây xanh nộp hồ sơ tại Trung tâm phục vụ hành chính công cấp xã
+    - Trung tâm phục vụ hành chính công cấp xã tiếp nhận hồ sơ, kiểm tra thành phần hồ sơ theo quy định:
+    + Trường hợp thành phần hồ sơ không đảm bảo: Chuyển trả, hướng dẫn, đề nghị tổ chức, cá nhân bổ sung, hoàn thiện đúng thành phần hồ sơ theo quy định;
+    + Trường hợp thành phần hồ sơ đảm bảo thì chuyển toàn bộ hồ sơ đến Phòng chuyên môn để kiểm tra, xử lý.
+    - Phòng chuyên môn kiểm tra hồ sơ và thực tế hiện trường, có văn bản đồng ý cấp phép chặt hạ, dịch chuyển cây xanh. Trường hợp từ chối Phòng chuyên môn phải trả lời bằng văn bản và nêu rõ lý do cho tổ chức, cá nhân có nhu cầu cấp phép biết.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Tổ chức, cá nhân nộp hồ sơ và nhận kết quả trực tiếp tại Trung tâm phục vụ hành chính công cấp xã
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ trực tuyến tại Cổng Dịch vụ công quốc gia tại địa chỉ https://dichvucong.gov.vn
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+  [ 1 ]
+    - Đơn đề nghị cấp giấy phép thi công chỉnh trang hoặc gia cố vỉa hè; hạ bó vỉa hè của tổ chức, cá nhân thi công;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản vẽ mặt bằng hiện trạng thể hiện vị trí cây xanh tại khu vực nhà ở hoặc công trình (trong trường hợp công trình xây dựng mới hoặc sửa chữa cải tạo có ảnh hưởng đến cây xanh hiện hữu cần phải chặt hạ di dời)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Ảnh chụp hiện trạng cây xanh đô thị cần chặt hạ, dịch chuyển
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép chặt hạ, di dời cây xanh hoặc văn bản từ chối
+Căn cứ pháp lý:
+  * Về quản lý cây xanh đô thị (64/2010/NĐ-CP)
+  * Luật quy hoach đô thị (30/2009/QH12)
+  * sửa đổi Quy định quản lý cây xanh đô thị trên địa bàn thành phố Đà Nẵng kèm theo Quyết định 06/2016/QĐ-UBND (24/2022/QĐ-UBND)
+  * Ban hành Quy định quản lý cây xanh đô thị trên địa bàn thành phố Đà Nẵng (06/2016/QĐ-UBND)
+  * Luật 50/2014/QH13 (Luật 50/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: 1. Cây xanh đã chết, đã đổ gãy hoặc có nguy cơ gãy đổ gây nguy hiểm;
+2. Cây xanh chết do bị bệnh hoặc đến tuổi già cỗi không bảo đảm an toàn;
+3. Cây xanh ảnh hưởng đến dự án đầu tư xây dựng công trình.
+Từ khóa: cây xanh
+Mô tả: 1. Cây xanh đã chết, đã đổ gãy hoặc có nguy cơ gãy đổ gây nguy hiểm;
+2. Cây xanh chết do bị bệnh hoặc đến tuổi già cỗi không bảo đảm an toàn;
+3. Cây xanh ảnh hưởng đến dự án đầu tư xây dựng công trình.

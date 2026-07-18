@@ -1,0 +1,4 @@
+query_id,procedure_id,query,expected_source_ids,expected_chunk_ids,effective_on
+birth-docs,birth_registration,giay chung sinh can cuoc cha me,sample-birth,,2026-07-18
+residence-docs,residence_registration,to khai thay doi thong tin cu tru cho o hop phap,sample-residence,,2026-07-18
+business-docs,household_business_registration,giay de nghi dang ky ho kinh doanh phap ly ca nhan,sample-business,,2026-07-18

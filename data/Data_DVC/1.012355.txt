@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012355
+Số quyết định: 220/QĐ-BTC
+Tên thủ tục: Thay đổi nội dung, phạm vi, thời hạn hoạt động của doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam, doanh nghiệp môi giới bảo hiểm.
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo hiểm
+Trình tự thực hiện:
+  * Mở rộng nội dung, phạm vi, thời hạn hoạt động
+    + Bước 1: Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam, doanh nghiệp môi giới bảo hiểm muốn mở rộng nội dung, phạm vi, thời hạn hoạt động được quy định trong Giấy phép thành lập và hoạt động nộp hồ sơ đề nghị mở rộng nội dung, phạm vi và thời hạn hoạt động
+    + Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tài chính cấp Giấy phép điều chỉnh theo mẫu quy định tại Phụ lục V ban hành kèm theo Nghị định 46/2023/NĐ-CP. Trường hợp từ chối chấp thuận, Bộ Tài chính có văn bản giải thích rõ lý do.
+  * Thu hẹp nội dung, phạm vi hoạt động
+    + Bước 1: Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam, doanh nghiệp môi giới bảo hiểm nộp hồ sơ đề nghị thu hẹp nội dung, phạm vi hoạt động
+    + Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tài chính cấp Giấy phép điều chỉnh theo mẫu quy định tại Phụ lục V ban hành kèm theo Nghị định 46/2023/NĐ-CP. Trường hợp từ chối chấp thuận, Bộ Tài chính có văn bản giải thích rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - +++ Giải trình cơ sở vật chất kỹ thuật bảo đảm cho việc triển khai sản phẩm bảo hiểm liên kết đầu tư, bao gồm: Hệ thống công nghệ thông tin; hệ thống kế toán, trong đó có mô tả chi tiết phương án xử lý của doanh nghiệp bảo hiểm đối với quỹ liên kết đầu tư trong các trường hợp: Khách hàng yêu cầu trả tiền bảo hiểm khi có sự kiện bảo hiểm; khách hàng yêu cầu chấm dứt hợp đồng bảo hiểm trước hạn; khách hàng yêu cầu rút một phần phí bảo hiểm, tạm ứng từ giá trị hoàn lại, đáo hạn hợp đồng bảo hiểm; khách hàng yêu cầu chuyển đổi quỹ liên kết đơn vị; quỹ liên kết đơn vị bị định giá sai trong trường hợp triển khai sản phẩm bảo hiểm liên kết đơn vị và các trường hợp khác theo quy định tại quy tắc, điều khoản sản phẩm dự kiến triển khai;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Trường hợp mở rộng nội dung hoạt động để triển khai nghiệp vụ bảo hiểm liên kết đầu tư, bảo hiểm hưu trí, ngoài các tài liệu quy định tại các điểm a, b và c khoản này, doanh nghiệp bảo hiểm phải cung cấp thêm các tài liệu tại các khoản 4, 5 Điều 21 Nghị định 46/2023/NĐ-CP , cụ thể:
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +++ Quy trình tuyển chọn, đào tạo, quản lý đại lý phân phối sản phẩm bảo hiểm liên kết đầu tư; nội dung và chương trình đào tạo đại lý bảo hiểm về sản phẩm bảo hiểm liên kết đầu tư; kênh phân phối và cách thức quản lý các đại lý thực hiện tư vấn, giới thiệu, chào bán và thu xếp việc giao kết sản phẩm bảo hiểm liên kết đầu tư đảm bảo tuân thủ quy định của pháp luật;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Văn bản của cấp có thẩm quyền theo quy định tại Điều lệ công ty (đối với doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, doanh nghiệp môi giới bảo hiểm) hoặc Quy chế tổ chức và hoạt động (đối với chi nhánh nước ngoài tại Việt Nam) về việc thay đổi nội dung, phạm vi và thời hạn hoạt động;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +++ Cam kết bằng văn bản kèm theo giải trình chi tiết về việc doanh nghiệp bảo hiểm đáp ứng các điều kiện quy định tại điểm c khoản 1 Điều 21 Nghị định 46/2023/NĐ-CP .
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +++ Chi tiết phương án xử lý và các tài liệu cung cấp cho khách hàng của doanh nghiệp bảo hiểm đối với việc triển khai sản phẩm bảo hiểm hưu trí trong các trường hợp: Khách hàng yêu cầu trả tiền bảo hiểm khi có sự kiện bảo hiểm; khách hàng yêu cầu chuyển giao tài khoản bảo hiểm hưu trí; đáo hạn hợp đồng bảo hiểm và các trường hợp khác theo quy định tại quy tắc, điều khoản;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ++ Trường hợp mở rộng nội dung hoạt động để triển khai nghiệp vụ bảo hiểm hưu trí, ngoài các tài liệu quy định tại các điểm a, b và c khoản 3 Điều 21 Nghị định 46/2023/NĐ-CP , doanh nghiệp bảo hiểm cung cấp các tài liệu sau:
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - +++ Đối với trường hợp mở rộng triển khai sản phẩm bảo hiểm liên kết đơn vị thuộc nghiệp vụ bảo hiểm liên kết đầu tư, doanh nghiệp bảo hiểm phải cung cấp thêm các tài liệu sau: Danh sách quỹ liên kết đơn vị, chính sách đầu tư mà doanh nghiệp bảo hiểm dự kiến áp dụng đối với các tài sản thuộc từng quỹ liên kết đơn vị; cơ sở phân bổ các khoản phí bảo hiểm và chi phí giữa các quỹ liên kết đơn vị; phương pháp định giá các đơn vị quỹ liên kết đơn vị; văn bằng chứng minh trình độ, năng lực, kinh nghiệm chuyên môn của các thành viên Hội đồng đầu tư đáp ứng các điều kiện quy định tại Điều 112 Nghị định này; tài liệu chứng minh việc Công ty quản lý quỹ đáp ứng các điều kiện quy định tại Điều 100 Nghị định 46/2023/NĐ-CP;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - ++ Trường hợp mở rộng nội dung hoạt động để triển khai nghiệp vụ bảo hiểm liên kết đầu tư, ngoài các tài liệu quy định tại các điểm a, b và c khoản 3 Điều 21 Nghị định 46/2023/NĐ-CP , doanh nghiệp bảo hiểm phải cung cấp các tài liệu sau:
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Các tài liệu chứng minh doanh nghiệp, chi nhánh đáp ứng các điều kiện quy định tại khoản 1 Điều 21 Nghị định 46/2023/NĐ-CP trừ tài liệu quy định tại điểm b khoản 1 Điều 21 Nghị định 46/2023/NĐ-CP ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản đề nghị mở rộng nội dung, phạm vi và thời hạn hoạt động theo mẫu quy định tại Phụ lục III ban hành kèm theo Nghị định này;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +++ Giải trình cơ sở vật chất kỹ thuật bảo đảm cho việc triển khai sản phẩm bảo hiểm hưu trí, bao gồm: Hệ thống công nghệ thông tin; hệ thống kế toán; quy trình tuyển chọn, đào tạo, quản lý đại lý phân phối sản phẩm; nội dung và chương trình đào tạo đại lý bảo hiểm hưu trí;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - +++ Tóm tắt nội dung chính của sản phẩm bảo hiểm liên kết đầu tư dự kiến triển khai; chính sách đầu tư của quỹ liên kết đầu tư; phương pháp, cơ sở tính phí; tài liệu giới thiệu sản phẩm; tài liệu minh họa bán hàng, mẫu giấy yêu cầu bảo hiểm; mẫu giấy chứng nhận bảo hiểm; bảng phân tích nhu cầu tham gia bảo hiểm của khách hàng và các loại giấy tờ khác mà khách hàng phải kê khai và ký vào khi mua bảo hiểm hoặc khi điều chỉnh hợp đồng bảo hiểm;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Các tài liệu chứng minh doanh nghiệp môi giới bảo hiểm đáp ứng các điều kiện theo quy định tại khoản 1, Điều 69 Nghị định 46/2023/NĐ-CP ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +++ Tóm tắt nội dung chính của sản phẩm bảo hiểm hưu trí dự kiến triển khai, bao gồm các thông tin về thị trường mục tiêu của sản phẩm, các quyền lợi bảo hiểm dự kiến cung cấp; phương pháp, cơ sở tính phí; tài liệu giới thiệu sản phẩm; tài liệu minh họa bán hàng, mẫu giấy yêu cầu bảo hiểm; mẫu giấy chứng nhận bảo hiểm và các loại giấy tờ khác mà khách hàng phải kê khai và ký khi mua bảo hiểm hoặc điều chỉnh hợp đồng bảo hiểm;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - +++ Cam kết bằng văn bản kèm theo giải trình chi tiết về việc doanh nghiệp bảo hiểm đáp ứng các điều kiện quy định tại các điểm c, d khoản 1 Điều 21 Nghị định 46/2023/NĐ-CP.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Bộ Tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép điều chỉnh trong lĩnh vực kinh doanh bảo hiểm, Văn bản thông báo lý do từ chối của Bộ Tài chính
+Căn cứ pháp lý:
+  * Nghị định quy định chi tiết thi hành một số điều của Luật Kinh doanh bảo hiểm (46/2023/NĐ-CP)
+  * - Điều 136 Luật Kinh doanh bảo hiểm; (08/2022/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115233
+Số quyết định: 2334/QĐ-BNNMT
+Tên thủ tục: Đăng ký, điều chỉnh dự án các-bon rừng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Lâm nghiệp và Kiểm lâm
+Trình tự thực hiện:
+  * a) Bước 1: Nộp hồ sơ
+    Cơ quan, tổ chức đăng ký dự án các-bon rừng nộp 01 bộ hồ sơ đến Bộ Nông nghiệp và Môi trường theo cách thức trực tiếp tại Bộ phận Một cửa hoặc qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+  * b) Bước 2: Kiểm tra tính hợp lệ của hồ sơ
+    Bộ phận tiếp nhận hồ sơ kiểm tra tính chính xác, đầy đủ của hồ sơ, trả lời ngay tính hợp lệ của hồ sơ đối với hồ sơ nộp trực tiếp, trong thời hạn 01 ngày làm việc đối với hồ sơ nộp qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia; trường hợp hồ sơ không hợp lệ thì thông báo bằng văn bản và nêu rõ lý do.
+  * c) Bước 3: Lấy ý kiến rộng rãi và thẩm định hồ sơ
+    Trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn được giao tham mưu trình phê duyệt dự án thực hiện đăng tải hồ sơ đề nghị đăng ký dự án trên trang thông tin điện tử của Bộ Nông nghiệp và Môi trường để lấy ý kiến rộng rãi trong thời gian 24 ngày làm việc.
+    Trong thời hạn 05 ngày làm việc kể từ ngày kết thúc lấy ý kiến rộng rãi, cơ quan chuyên môn tổng hợp ý kiến và thông báo cho cơ quan, tổ chức nộp hồ sơ bằng văn bản theo Mẫu số 03 Phụ lục II ban hành kèm theo Nghị định số 180/2026/NĐ-CP ngày 21 tháng 5 năm 2026 của Chính phủ quy định về dịch vụ hấp thụ và lưu giữ các-bon của rừng.
+    Trong thời hạn 90 ngày làm việc kể từ ngày nhận được thông báo từ cơ quan chuyên môn thuộc Bộ Nông nghiệp và Môi trường, cơ quan, tổ chức hoàn thiện hồ sơ và gửi cơ quan chuyên môn kèm báo cáo thẩm định văn kiện dự án do đơn vị thẩm định được cấp giấy chứng nhận hoạt động theo quy định của pháp luật về đánh giá sự phù hợp thực hiện theo Mẫu số 04 Phụ lục II ban hành kèm theo Nghị định số 180/2026/NĐ-CP; thời gian hoàn thiện hồ sơ của cơ quan, tổ chức đăng ký dự án các-bon rừng không tính vào thời gian giải quyết thủ tục phê duyệt đăng ký dự án các-bon rừng.
+  * d) Bước 4: Phê duyệt đăng ký dự án
+    Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan chuyên môn gửi hồ sơ đến các cơ quan, tổ chức liên quan lấy ý kiến về việc phê duyệt đăng ký dự án. Cơ quan, tổ chức được lấy ý kiến có trách nhiệm trả lời bằng văn bản trong thời hạn 08 ngày làm việc kể từ ngày nhận được hồ sơ lấy ý kiến.
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến góp ý bằng văn bản của các cơ quan, tổ chức, cơ quan chuyên môn hoàn thiện hồ sơ trình Bộ trưởng Bộ Nông nghiệp và Môi trường xem xét, phê duyệt đăng ký dự án. Hồ sơ gồm: văn kiện dự án, báo cáo thẩm định, văn bản góp ý của cơ quan, tổ chức.
+    Trong thời hạn 05 ngày làm việc kể từ khi nhận được hồ sơ từ cơ quan chuyên môn, Bộ trưởng Bộ Nông nghiệp và Môi trường phê duyệt đăng ký dự án các-bon rừng theo Mẫu số 05 Phụ lục II ban hành kèm theo Nghị định số 180/2026/NĐ-CP, cấp tài khoản cho cơ quan, tổ chức và công bố trên Hệ thống đăng ký quốc gia theo quy định của Chính phủ về giảm phát thải khí nhà kính và bảo vệ tầng ô-dôn; trường hợp không phê duyệt đăng ký dự án thì thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 51 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 51 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 51 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đơn đề nghị đăng ký dự án các-bon rừng theo Mẫu số 01 Phụ lục II ban hành kèm theo Nghị định số 180/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn kiện dự án các-bon rừng theo Mẫu số 02 Phụ lục II ban hành kèm theo Nghị định số 180/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Doanh nghiệp Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cơ quan chuyên môn thuộc Bộ Nông nghiệp và Môi trường
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt đăng ký dự án các-bon rừng theo Mẫu số 05 Phụ lục II ban hành kèm theo Nghị định số 180/2026/NĐ-CP
+Căn cứ pháp lý:
+  * Quy định về dịch vụ hấp thụ và lưu giữ các-bon của rừng (Điều 9 Nghị định số 180/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Điều chỉnh đăng ký dự án các-bon rừng chỉ thực hiện khi cơ quan, tổ chức có nhu cầu điều chỉnh quy mô, hoạt động giảm nhẹ phát thải khí nhà kính đã được phê duyệt đăng ký.
+Từ khóa: Không có thông tin
+Mô tả: Điều chỉnh đăng ký dự án các-bon rừng chỉ thực hiện khi cơ quan, tổ chức có nhu cầu điều chỉnh quy mô, hoạt động giảm nhẹ phát thải khí nhà kính đã được phê duyệt đăng ký.

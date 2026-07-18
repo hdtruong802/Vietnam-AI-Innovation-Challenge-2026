@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003041
+Số quyết định: 1046/QĐ-BCT
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công nghiệp nặng
+Trình tự thực hiện:
+    - Doanh nghiệp gửi 01 bộ hồ sơ theo quy định tại khoản 2 Điều 8 Nghị định số 116/2017/NĐ-CP (được sửa đổi, bổ sung bởi Nghị định số 17/2020/NĐ-CP và Nghị định số 117/2026/NĐ-CP) trực tiếp hoặc qua hệ thống bưu chính tới Bộ Công Thương hoặc hình thức trực tuyến trên Cổng Dịch vụ công Quốc gia.
+    - Trường hợp hồ sơ chưa đầy đủ, chưa đúng quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Công Thương có văn bản yêu cầu doanh nghiệp bổ sung, hoàn thiện theo đúng quy định.
+    - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Công Thương thông báo cụ thể thời gian tiến hành kiểm tra, đánh giá thực tế tại doanh nghiệp. Thời hạn kiểm tra không quá 15 ngày làm việc kể từ ngày thông báo. Các nội dung kiểm tra phải được lập thành Biên bản theo Mẫu số 09 ban hành kèm theo Nghị định số 117/2026/NĐ-CP.
+    Trường hợp kết quả kiểm tra, đánh giá chưa đạt yêu cầu, trong thời hạn 05 ngày làm việc kể từ ngày hoàn thành việc kiểm tra, Bộ Công Thương thông báo để doanh nghiệp hoàn thiện.
+    - Giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô (Mẫu số 04 Phụ lục ban hành kèm theo Nghị định số 117/2026/NĐ-CP) được cấp trong thời hạn 05 ngày làm việc kể từ ngày có kết quả thẩm định hồ sơ và kiểm tra thực tế đạt yêu cầu. Trường hợp từ chối cấp Giấy chứng nhận, Bộ Công Thương trả lời bằng văn bản và nêu rõ lý do.
+    - Doanh nghiệp nhận Giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô trực tiếp tại Bộ Công Thương hoặc qua hệ thống bưu chính (nếu có yêu cầu) hoặc trên Cổng Dịch vụ công Quốc gia.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Công Thương thông báo cụ thể thời gian tiến hành kiểm tra, đánh giá thực tế tại doanh nghiệp. Thời hạn kiểm tra không quá 15 ngày làm việc kể từ ngày thông báo. Giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô được cấp trong thời hạn 05 ngày làm việc kể từ ngày có kết quả thẩm định hồ sơ và kiểm tra thực tế đạt yêu cầu.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Công Thương thông báo cụ thể thời gian tiến hành kiểm tra, đánh giá thực tế tại doanh nghiệp. Thời hạn kiểm tra không quá 15 ngày làm việc kể từ ngày thông báo. Giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô được cấp trong thời hạn 05 ngày làm việc kể từ ngày có kết quả thẩm định hồ sơ và kiểm tra thực tế đạt yêu cầu.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Công Thương thông báo cụ thể thời gian tiến hành kiểm tra, đánh giá thực tế tại doanh nghiệp. Thời hạn kiểm tra không quá 15 ngày làm việc kể từ ngày thông báo. Giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô được cấp trong thời hạn 05 ngày làm việc kể từ ngày có kết quả thẩm định hồ sơ và kiểm tra thực tế đạt yêu cầu.
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô (Mẫu số 01 Phụ lục ban hành kèm theo Nghị định số 117/2026/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Danh mục các thiết bị dây chuyền sản xuất, lắp ráp ô tô đồng bộ theo quy định tại điểm a khoản 1 Điều 7 Nghị định số 116/2017/NĐ-CP (được sửa đổi, bổ sung bởi Nghị định số 17/2020/NĐ-CP và Nghị định số 117/2026/NĐ-CP): 01 bản sao;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Hồ sơ thuyết minh và thiết kế mặt bằng khu vực sản xuất và nhà xưởng
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Hồ sơ thuyết minh và thiết kế đường thử ô tô
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Tài liệu chứng minh doanh nghiệp có cơ sở bảo hành, bảo dưỡng ô tô đáp ứng điều kiện quy định tại Nghị định số 116/2017/NĐ-CP (được sửa đổi, bổ sung bởi Nghị định số 17/2020/NĐ-CP và Nghị định số 117/2026/NĐ-CP):
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Cục Công nghiệp
+Cơ quan có thẩm quyền: Bộ Công thương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô
+Căn cứ pháp lý:
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Quy định điều kiện sản xuất, lắp ráp, nhập khẩu và kinh doanh dịch vụ bảo hành, bảo dưỡng ô tô (116/2017/NĐ-CP)
+  * Nghị định số 117/2026/NĐ-CP ngày 03 tháng 4 năm 2026 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 116/2017/NĐ-CP ngày 17 tháng 10 năm 2017 của Chính phủ quy định điều kiện sản xuất, lắp ráp, nhập khẩu và kinh doanh dịch vụ bảo hành, bảo dưỡng ô tô. (117/2026/NĐ-CP)
+  * Luật 76/2015/QH13 (76/2015/QH13)
+  * Sửa đổi, bổ sung một số điều của các Nghị định liên quan đến điều kiện đầu tư kinh doanh thuộc lĩnh vực quản lý nhà nước của Bộ Công Thương (17/2020/NĐ-CP)
+  * Luật sửa đổi, bổ sung Điều 6 và Phụ lục 4 về Danh mục ngành, nghề đầu tư kinh doanh có điều kiện của Luật đầu tư (03/2016/QH14)
+
+Yêu cầu, điều kiện thực hiện: Doanh nghiệp thành lập theo quy định của pháp luật được cấp Giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô khi đáp ứng các điều kiện sau:
+- Doanh nghiệp phải có quyền sử dụng hợp pháp đối với nhà xưởng, dây chuyền công nghệ lắp ráp, dây chuyền hàn, dây chuyền sơn, dây chuyền kiểm tra chất lượng sản phẩm và đường thử ô tô đáp ứng các yêu cầu tối thiểu tại Phụ lục I ban hành kèm theo Nghị định số 116/2017/NĐ-CP (được sửa đổi, bổ sung bởi Nghị định số 17/2020/NĐ-CP và Nghị định số 117/2026/NĐ-CP);
+- Có cơ sở bảo hành, bảo dưỡng ô tô thuộc sở hữu của doanh nghiệp, hoặc do doanh nghiệp ký hợp đồng thuê, hoặc thuộc hệ thống đại lý ủy quyền của doanh nghiệp đáp ứng quy định tại Nghị định số 116/2017/NĐ-CP (được sửa đổi, bổ sung bởi Nghị định số 17/2020/NĐ-CP và Nghị định số 117/2026/NĐ-CP).
+Từ khóa: Không có thông tin
+Mô tả: Doanh nghiệp thành lập theo quy định của pháp luật được cấp Giấy chứng nhận đủ điều kiện sản xuất, lắp ráp ô tô khi đáp ứng các điều kiện sau:
+- Doanh nghiệp phải có quyền sử dụng hợp pháp đối với nhà xưởng, dây chuyền công nghệ lắp ráp, dây chuyền hàn, dây chuyền sơn, dây chuyền kiểm tra chất lượng sản phẩm và đường thử ô tô đáp ứng các yêu cầu tối thiểu tại Phụ lục I ban hành kèm theo Nghị định số 116/2017/NĐ-CP (được sửa đổi, bổ sung bởi Nghị định số 17/2020/NĐ-CP và Nghị định số 117/2026/NĐ-CP);
+- Có cơ sở bảo hành, bảo dưỡng ô tô thuộc sở hữu của doanh nghiệp, hoặc do doanh nghiệp ký hợp đồng thuê, hoặc thuộc hệ thống đại lý ủy quyền của doanh nghiệp đáp ứng quy định tại Nghị định số 116/2017/NĐ-CP (được sửa đổi, bổ sung bởi Nghị định số 17/2020/NĐ-CP và Nghị định số 117/2026/NĐ-CP).

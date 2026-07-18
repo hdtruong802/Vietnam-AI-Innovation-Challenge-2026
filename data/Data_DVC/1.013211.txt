@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013211
+Số quyết định: 9303
+Tên thủ tục: Đăng ký kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ
+Trình tự thực hiện:
+    - Bước 1: Người đăng ký kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: Người đăng ký kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ nộp hồ sơ trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an, Ứng dụng định danh quốc gia; nộp trực tiếp hoặc nộp qua dịch vụ bưu chính về Cục Cảnh sát giao thông, Bộ Công an hoặc Phòng Cảnh sát giao thông Công an  tỉnh, thành phố trực thuộc Trung ương.
+    * Lưu ý:
+    Trường hợp nộp hồ sơ trực tuyến, người đăng ký kiểm tra đăng ký ngày kiểm tra, lựa chọn cơ quan có thẩm quyền kiểm tra (Cục Cảnh sát giao thông, Bộ Công an hoặc Phòng Cảnh sát giao thông Công an  tỉnh, thành phố trực thuộc Trung ương).
+    - Bước 3: Khi tiếp nhận hồ sơ, cơ quan có thẩm quyền kiểm tra tính pháp lý, nội dung hồ sơ.
+    Cổng dịch vụ công hoặc Ứng dụng định danh quốc gia xác nhận nộp hồ sơ thành công, sinh mã dịch vụ công và gửi hồ sơ về Hệ thống quản lý công tác kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ. Cán bộ thực hiện nhiệm vụ tiếp nhận hồ sơ kiểm tra kiến thức pháp luật kiểm tra các thông tin, dữ liệu của hồ sơ, xác nhận hồ sơ hợp lệ và gửi thông báo lại cho cổng dịch vụ công.
+    Trường hợp nộp hồ sơ trực tiếp, cán bộ tiếp nhận kiểm tra hồ sơ.
+    - Bước 4: Cổng dịch vụ công hoặc Ứng dụng định danh quốc gia thông báo qua tin nhắn điện thoại, địa chỉ thư điện tử hoặc thông báo trên Ứng dụng định danh quốc gia (sau đây gọi tắt là thông báo) cho người đăng ký kiểm tra biết về thời gian, địa điểm kiểm tra.
+    Trường hợp nộp hồ sơ trực tiếp, cán bộ tiếp nhận kiểm tra hồ sơ, viết giấy hẹn ghi rõ thời gian, địa điểm tổ chức kiểm tra.
+    * Lưu ý:
+    Người có kết quả kiểm tra không đạt yêu cầu có thể đăng ký kiểm tra lại tại cơ quan có thẩm quyền đã tổ chức kiểm tra trước đó hoặc lựa chọn cơ quan có thẩm quyền kiểm tra để đề nghị kiểm tra lại. Trường hợp đề nghị kiểm tra lại, nếu giấy khám sức khỏe còn giá trị sử dụng thì người đăng ký kiểm tra chỉ gửi đơn đề nghị kiểm tra.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trước ngày kiểm tra ít nhất 02 ngày làm việc, sau khi nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền kiểm tra thông báo thời gian, địa điểm kiểm tra qua tin nhắn điện thoại hoặc địa chỉ thư điện tử trong đơn đề nghị của người đăng ký kiểm tra. * Lưu ý: Trường hợp nộp hồ sơ trực tuyến, người đăng ký kiểm tra đăng ký ngày kiểm tra, lựa chọn cơ quan có thẩm quyền kiểm tra (Cục Cảnh sát giao thông, Bộ Công an hoặc Phòng Cảnh sát giao thông Công an tỉnh, thành phố trực thuộc Trung ương).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trước ngày kiểm tra ít nhất 02 ngày làm việc, sau khi nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền kiểm tra thông báo thời gian, địa điểm kiểm tra qua tin nhắn điện thoại hoặc địa chỉ thư điện tử trong đơn đề nghị của người đăng ký kiểm tra.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trước ngày kiểm tra ít nhất 02 ngày làm việc, sau khi nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền kiểm tra thông báo thời gian, địa điểm kiểm tra qua tin nhắn điện thoại hoặc địa chỉ thư điện tử trong đơn đề nghị của người đăng ký kiểm tra.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị kiểm tra kiến thức pháp luật về  trật tự, an toàn giao thông đường bộ (mẫu số 01 Phụ lục ban hành kèm theo Thông tư số 65/2024/TT-BCA ngày 12/11/2024 của Bộ trưởng Bộ Công an)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Giấy khám sức khỏe của người lái xe do cơ quan y tế có thẩm quyền cấp còn giá trị sử dụng
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Cục cảnh sát giao thông, Phòng Cảnh sát giao thông
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo về tính hợp lệ của hồ sơ đăng ký, địa điểm và thời gian kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ
+Căn cứ pháp lý:
+  * Luật Trật tự, an toàn giao thông đường bộ (36/2024/QH15)
+  * Thông tư của Bộ trưởng Bộ Công an quy định kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ để được phục hồi điểm giấy phép lái xe (65/2024/TT-BCA)
+
+Yêu cầu, điều kiện thực hiện: Người đăng ký kiểm tra có giấy phép lái xe bị trừ hết điểm sau thời hạn ít nhất 6 tháng (kể từ ngày bị trừ hết điểm).
+* Lưu ý: 
+Đối với trường hợp thực hiện thủ tục hành chính trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an, Ứng dụng định danh quốc gia thì người thực hiện thủ tục phải có tài khoản định danh mức độ 2.
+Từ khóa: Không có thông tin
+Mô tả: Người đăng ký kiểm tra có giấy phép lái xe bị trừ hết điểm sau thời hạn ít nhất 6 tháng (kể từ ngày bị trừ hết điểm).
+* Lưu ý: 
+Đối với trường hợp thực hiện thủ tục hành chính trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an, Ứng dụng định danh quốc gia thì người thực hiện thủ tục phải có tài khoản định danh mức độ 2.

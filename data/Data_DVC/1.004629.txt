@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004629
+Số quyết định: 5970/QĐ-BNNMT
+Tên thủ tục: Điều chỉnh nội dung Thư phê duyệt
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Biến đổi khí hậu
+Trình tự thực hiện:
+    1. Bên xây dựng dự án nộp hồ sơ về Bộ Nông nghiệp và Môi trường theo một trong các hình thức:
+    - Trực tiếp hoặc gửi qua dịch vụ bưu chính đến trụ sở của Bộ Nông nghiệp và Môi trường theo địa điểm số 10 Tôn Thất Thuyết, Phường Cầu Giấy, Thành phố Hà Nội.
+    - Trực tuyến tại địa chỉ http://dichvucong.mae.gov.vn
+    2. Trong thời hạn không quá 01 ngày làm việc, Cục Biến đổi khí hậu kiểm tra tính đầy đủ và hợp lệ của hồ sơ. Trường hợp hồ sơ chưa đầy đủ theo quy định, Cục Biến đổi khí hậu yêu cầu bên xây dựng dự án bổ sung hồ sơ.
+    3. Trong thời hạn không quá 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ theo quy định, Cục Biến đổi khí hậu thẩm định hồ sơ dự án và xem xét, điều chỉnh nội dung Thư phê duyệt.
+    4. Trong thời hạn tối đa 01 ngày làm việc kể từ ngày quyết định điều chỉnh nội dung Thư phê duyệt, Bộ Nông nghiệp và Môi trường trả kết quả cho bên xây dựng dự án; trường hợp không chấp thuận phải nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị điều chỉnh nội dung Thư phê duyệt theo mẫu quy định tại Phụ lục ban hành kèm theo Thông tư số 78/2025/TT-BNNMT ngày 30/12/2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường sửa đổi, bổ sung một số điều của Thông tư số 15/2014/TT-BTNMT ngày 24/3/2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định việc xây dựng, cấp Thư xác nhận, cấp Thư phê duyệt dự án theo Cơ chế phát triển sạch trong khuôn khổ Nghị định thư Kyoto được sửa đổi, bổ sung một số điều bởi Thông tư số 11/2022/TT-BTNMT ngày 20/10/2022, Thông tư số 19/2023/TT-BTNMT ngày 15/11/2023, Thông tư số 36/2025/TT-BNNMT ngày 02/7/2025 và Thông tư số 39/2025/TT-BNNMT ngày 02/7/2025
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn kiện thiết kế dự án (PDD) hoặc Văn kiện thiết kế chương trình (PoA-DD) sửa đổi bổ sung phù hợp với nội dung xin điều chỉnh và các văn bản có liên quan (bản chính).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cục Biến đổi khí hậu - Bộ NN và MT
+Cơ quan có thẩm quyền: Cục Biến đổi khí hậu - Bộ NN và MT
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thư phê duyệt PDD hoặc PoA-DD được điều chỉnh
+Căn cứ pháp lý:
+  * Thông tư 39/2025/TT-BNNMT quy định về nội dung đề án đóng cửa mỏ khoáng sản, phương án đóng cửa mỏ khoáng sản và mẫu văn bản trong hồ sơ đóng cửa mỏ khoáng sản (39/2025/TT-BNNMT)
+  * Thông tư 36/2025/TT-BNNMT quy định về khai thác khoáng sản, khai thác tận thu khoáng sản và thu hồi khoáng sản do Bộ trưởng Bộ Nông nghiệp và Môi trường ban hành (36/2025/TT-BNNMT)
+  * Thông tư 15/2014/TT-BTNMT (15/2014/TT-BTNMT)
+  * Thông tư 11/2022/TT-BTNMT (11/2022/TT-BTNMT)
+  * Thông tư sửa đổi và bãi bỏ một số thông tư thuộc thẩm quyền ban hành của Bộ trưởng Bộ Tài nguyên và Môi trường (19/2023/TT-BTNMT)
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 15/2014/TT-BTNMT ngày 24 tháng 3 năm 2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định việc xây dựng, cấp Thư xác nhận, cấp Thư phê duyệt dự án theo Cơ chế phát triển sạch trong khuôn khổ Nghị định thư Kyoto được sửa đổi, bổ sung một số điều bởi Thông tư số 11/2022/TT-BTNMT ngày 20 tháng 10 năm 2022, Thông tư số 19/2023/TT-BTNMT ngày 15 tháng 11 năm 2023, Thông tư số 36/2025/TT-BNNMT ngày 02 tháng 7 năm 2025 và Thông tư số 39/2025/TT-BNNMT ngày 02 tháng 7 năm 2025 (78/2025/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

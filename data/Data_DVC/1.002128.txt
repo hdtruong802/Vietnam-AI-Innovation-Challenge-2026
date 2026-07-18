@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002128
+Số quyết định: 1271/QĐ-NHNN
+Tên thủ tục: Thủ tục cấp bản sao Giấy phép thành lập và hoạt động từ sổ gốc cho ngân hàng hợp tác xã
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    Bước 1: Trường hợp Giấy phép của ngân hàng hợp tác xã bị mất, bị rách nát, hư hỏng, ngân hàng hợp tác xã có đơn đề nghị cấp bản sao Giấy phép từ sổ gốc theo mẫu quy định tại Phụ lục 06 ban hành kèm theo Thông tư số 27/2024/TT-NHNN (đã được sửa đổi, bổ sung), gửi trực tiếp hoặc qua dịch vụ bưu chính đến Ngân hàng Nhà nước chi nhánh Khu vực (Bộ phận Một cửa) nơi ngân hàng hợp tác xã đặt trụ sở chính hoặc nộp trực tuyến qua Cổng Dịch vụ công quốc gia đề nghị xem xét cấp bản sao Giấy phép từ sổ gốc theo quy định của pháp luật.
+    Bước 2: Ngân hàng Nhà nước chi nhánh Khu vực nơi ngân hàng hợp tác xã đặt trụ sở chính thực hiện cấp bản sao Giấy phép từ sổ gốc theo quy định của pháp luật về cấp bản sao từ sổ gốc.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Theo quy định của pháp luật về cấp bản sao từ sổ gốc .
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Theo quy định của pháp luật về cấp bản sao từ sổ gốc .
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Theo quy định của pháp luật về cấp bản sao từ sổ gốc .
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp bản sao Giấy phép từ sổ gốc
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước khu vực nơi NH HTX đặt trụ sở chính
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bản sao Giấy phép thành lập ngân hàng hợp tác xã
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Thông tư quy định về ngân hàng hợp tác xã, việc trích nộp, quản lý và sử dụng Quỹ bảo đảm an toàn hệ thống quỹ tín dụng nhân dân (Thông tư số 27/2024/TT-NHNN)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 27/2024/TT-NHNN quy định về ngân hàng hợp tác xã, việc trích nộp, quản lý và sử dụng Quỹ bảo đảm an toàn hệ thống quỹ tín dụng nhân dân được sửa đổi, bổ sung bởi Thông tư số 28/2025/TT-NHNN (10/2026/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

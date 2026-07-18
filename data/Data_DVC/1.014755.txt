@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014755
+Số quyết định: 311/QĐ-UBND
+Tên thủ tục: Chấp thuận thiết kế nút giao đấu nối với đường tỉnh đang khai thác
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Trước khi đầu tư xây dựng nút giao mới, đầu tư nâng cấp, cải tạo, mở rộng
+    nút giao: Trên cơ sở danh sách các vị trí đấu nối đường nhánh với đường tỉnh
+    được phê duyệt hoặc văn bản chấp thuận của cơ quan có thẩm quyền cho phép đấu
+    nối đường nhánh với đường tỉnh, chủ đầu tư nút giao tổ chức lập, gửi 01 bộ hồ sơ
+    đề nghị chấp thuận thiết kế nút giao đấu nối với đường tỉnh đang khai thác theo
+    hình thức trực tiếp, trực tuyến hoặc gián tiếp (thông qua dịch vụ bưu chính công
+    ích) đến Sở Xây dựng theo quy định về việc thực hiện TTHC theo cơ chế một cửa,
+    một cửa liên thông
+    b) Giải quyết TTHC:
+    - Đối với hồ sơ nộp trực tiếp, trực tuyến, cơ quan có thẩm quyền chấp thuận
+    thực hiện kiểm tra hồ sơ, nếu đủ thành phần theo quy định thì tiếp nhận và viết
+    phiếu hẹn trả kết quả, nếu không đủ thành phần thì hướng dẫn chủ đầu tư hoàn
+    thiện hồ sơ theo quy định.
+    - Đối với hồ sơ nộp gián tiếp qua hệ thống bưu điện hoặc qua cổng dịch vụ
+    công trực tuyến, trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ, cơ
+    quan có thẩm quyền chấp thuận kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận,4
+    nếu không đủ, có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện.
+    - Trong thời hạn 05 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ
+    quan có thẩm quyền chấp thuận tiến hành xem xét hồ sơ, nếu đủ điều kiện thì có
+    văn bản chấp thuận thiết kế nút giao đấu nối vào đường tỉnh đang khai thác,
+    trường hợp không chấp thuận thì phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  Không có thông tin thành phần hồ sơ.
+
+Đối tượng thực hiện: Doanh nghiệp, Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Xây dựng - tỉnh Gia Lai
+Cơ quan có thẩm quyền: Sở Xây dựng - tỉnh Gia Lai
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận thiết kế nút giao đấu nối vào đường quốc lộ đang khai thác.
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

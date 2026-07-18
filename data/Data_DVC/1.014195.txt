@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014195
+Số quyết định: 2504/QĐ-UBND
+Tên thủ tục: Cấp phép thi công nút giao đấu nối vào đường địa phương đang khai thác
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    * Bước 1: Chủ đầu tư dự án xây dựng nút giao đấu nối vào đường địa phương đang khai thác gửi hồ sơ đề nghị cấp phép thi công nút giao đấu nối vào đường địa phương đang khai thác đến cơ quan có thẩm quyền, cụ thể:
+    - Sở Xây dựng đối với:
+    + Đường tỉnh (trừ các tuyến, đoạn tuyến theo quy định tại khoản 2, khoản 3 Điều 3 Quy định Ban hành kèm theo Quyết định số 35/2025/QĐ-UBND ngày 11/12/2025 của Ủy ban nhân dân tỉnh Lào Cai);
+    + Các tuyến đường khác do Ủy ban nhân dân tỉnh giao.
+    - Ban Quản lý Khu Kinh tế tỉnh và Ban Quản lý các khu công nghiệp tỉnh đối với:
+    + Đường nội bộ trong các khu công nghiệp, đường gom khu công nghiệp;
+    + Các tuyến đường khác do Ủy ban nhân dân tỉnh giao.
+    - UBND cấp xã đối với:
+    + Đường đô thị, đường xã, đường thôn (trừ các tuyến, đoạn tuyến theo quy định tại điểm b khoản 1 và khoản 2 Điều 3 Quy định Ban hành kèm theo Quyết định số 35/2025/QĐ-UBND ngày 11/12/2025 của Ủy ban nhân dân tỉnh Lào Cai);
+    + Đường gom, đường bên tách khỏi quốc lộ;
+    + Các tuyến đường khác do Ủy ban nhân dân tỉnh giao.
+    * Bước 2:
+    a) Đối với nộp trực tiếp: Cơ quan có thẩm quyền thực hiện kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận và viết phiếu hẹn trả kết quả, nếu không đủ thì hướng dẫn chủ đầu tư hoàn thiện hồ sơ theo quy định;
+    b) Đối với nộp qua dịch vụ bưu chính hoặc trực tuyến: Trong thời hạn 02 (hai) ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan có thẩm quyền kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận, nếu không đủ, có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;
+    * Bước 3: Trong thời hạn 07 (bảy) ngày làm việc kể từ khi tiếp nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền tiến hành xem xét hồ sơ, nếu đủ điều kiện thì cấp giấy phép thi công nút giao đấu nối theo quy định, trường hợp không chấp thuận thì phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đơn đề nghị
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thuyết minh và bản vẽ biện pháp tổ chức thi công nút giao đấu nối vào đường địa phương đang khai thác; biện pháp bảo đảm giao thông đường bộ khi thi công xây dựng nút giao đấu nối
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ban Quản lý khu Kinh tế tỉnh Lào cai, Ban quản lý các Khu công nghiệp tỉnh, Sở Xây dựng tỉnh Lào Cai
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: - Trung tâm Phục vụ hành chính công tỉnh Lào Cai (quầy giao dịch Sở Xây dựng) tại địa chỉ:
++ Cơ sở 1: Số 64, đường Lý Tự Trọng, phường Yên Bái, tỉnh Lào Cai.
++ Cơ sở 2: Đại lộ Trần Hưng Đạo, phường Cam Đường, tỉnh Lào Cai
+- Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thi công đấu nối vào đường địa phương đang khai thác, trường hợp không chấp thuận thì phải có văn bản trả lời và nêu rõ lý do
+Căn cứ pháp lý:
+  * Quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ. (165/2024/NĐ-CP)
+  * Luật đường bộ năm 2024 (Luật đường bộ năm 2024)
+  * Quy định về quản lý, vận hành, khai thác và bảo trì kết cấu hạ tầng đường bộ (41/2024/TT-BGTVT)
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng liên quan đến sắp xếp tổ chức bộ máy, thực hiện chính quyền địa phương hai cấp và phân cấp cho chính quyền địa phương. (09/2025/TT-BXD)
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng (140/2025/NĐ-CP)
+  * QUYẾT ĐỊNH  BAN HÀNH QUY ĐỊNH MỘT SỐ NỘI DUNG VỀ QUẢN LÝ ĐƯỜNG THUỘC THẨM QUYỀN CỦA ỦY BAN NHÂN DÂN TỈNH; TRÌNH TỰ, THỦ TỤC CHẤP THUẬN THIẾT KẾ, CẤP PHÉP THI CÔNG NÚT GIAO ĐỐI VỚI ĐƯỜNG ĐỊA PHƯƠNG ĐANG KHAI THÁC TRÊN ĐỊA BÀN TỈNH LÀO CAI (35/2025/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

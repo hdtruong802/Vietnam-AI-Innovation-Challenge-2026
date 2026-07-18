@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010684
+Số quyết định: 1511/QĐ-BNNMT
+Tên thủ tục: Chấp thuận chương trình, dự án đăng ký theo Cơ chế Điều 6.4 Thỏa thuận Paris
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Biến đổi khí hậu
+Trình tự thực hiện:
+    a) Bước 1: Nộp hồ sơ
+    Cơ quan, tổ chức có đề nghị chấp thuận chương trình, dự án gửi hồ sơ tới Bộ Nông nghiệp và Môi trường theo một trong các hình thức sau:
+    - Cơ quan, tổ chức nộp hồ sơ trực tiếp hoặc thông qua dịch vụ bưu chính đến Bộ phận Một cửa, địa điểm tại trụ sở chính của Bộ Nông nghiệp và Môi trường, số 10 Tôn Thất Thuyết, TP. Hà Nội;
+    - Cơ quan, tổ chức nộp hồ sơ trực tuyến tại cổng dịch vụ công tại địa chỉ: http://dichvucong.mae.gov.vn.
+    b) Bước 2: Kiểm tra tính hợp lệ của hồ sơ
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị, Bộ Nông nghiệp và Môi trường thông báo cho tổ chức đề nghị về một trong các trường hợp: chấp nhận hồ sơ hợp lệ; yêu cầu bổ sung, hoàn thiện hồ sơ hoặc từ chối nếu hồ sơ không hợp lệ. Thời hạn bổ sung, hoàn thiện hồ sơ đề nghị là không quá 15 ngày kể từ ngày có văn bản thông báo về việc yêu cầu bổ sung, hoàn thiện hồ sơ.
+    c) Bước 3: Tổ chức đánh giá và lấy ý kiến hồ sơ
+    Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ đề nghị hợp lệ, Bộ Nông nghiệp và Môi trường tổ chức đánh giá hồ sơ đề nghị chấp thuận chương trình, dự án; lấy ý kiến các cơ quan, tổ chức có liên quan. Cơ quan được lấy ý kiến có trách nhiệm trả lời bằng văn bản trong thời hạn tối đa 10 ngày kể từ ngày nhận được văn bản lấy ý kiến. Bộ Nông nghiệp và Môi trường tổ chức đánh giá theo các nội dung: biện pháp giảm phát thải khí nhà kính; phương pháp tạo tín chỉ các-bon; sự phù hợp của dự án theo quy định của cơ chế Điều 6.4.
+    d) Bước 4: Quyết định chấp thuận chương trình, dự án đăng ký theo Cơ chế Điều 6.4 Thỏa thuận Paris
+    Trong thời hạn 05 ngày làm việc kể từ ngày có kết quả đánh giá, Bộ trưởng Bộ Nông nghiệp và Môi trường xem xét, quyết định chấp thuận chương trình, dự án đăng ký theo Cơ chế Điều 6.4 Thỏa thuận Paris, thông báo cho tổ chức đề nghị và công bố trên Hệ thống đăng ký quốc gia về hạn ngạch phát thải khí nhà kính và tín chỉ các-bon; trường hợp không được chấp thuận phải nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không quy định)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không quy định)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không quy định)
+
+Thành phần hồ sơ:
+    - Báo cáo thẩm định chương trình, dự án theo quy định của Cơ chế Điều 6.4 (bản sao)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị chấp thuận đăng ký chương trình, dự án theo Mẫu số 03 tại Phụ lục II ban hành kèm theo Nghị định số 112/2026/NĐ-CP ngày 01 tháng 4 năm 2026 của Chính phủ (bản chính)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Biến đổi khí hậu - Bộ NN và MT
+Cơ quan có thẩm quyền: Bộ Nông nghiệp và Môi trường
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo chấp thuận đăng ký chương trình/dự án theo Mẫu số 04 tại Phụ lục II ban hành kèm theo Nghị định số 112/2026/NĐ-CP ngày 01 tháng 4 năm 2026 của Chính phủ.
+Căn cứ pháp lý:
+  * Luật Bảo vệ môi trường số 72/2020/QH14 ngày 17 tháng 11 năm 2020 (72/2020/QH14)
+  * Sửa đổi, bổ sung một số điều của Nghị định số 06/2022/NĐ-CP ngày 07 tháng 01 năm 2022 của Chính phủ quy định giảm nhẹ phát thải khí nhà kính và bảo vệ tầng ô-dôn (119/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

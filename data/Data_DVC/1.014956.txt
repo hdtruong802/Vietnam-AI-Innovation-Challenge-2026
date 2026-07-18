@@ -1,0 +1,33 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014956
+Số quyết định: 898/QĐ-BNNMT
+Tên thủ tục: Thu hồi mã số sản phẩm chăn nuôi cho cơ sở sản xuất, kinh doanh sản phẩm chăn nuôi.
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chăn nuôi
+Trình tự thực hiện:
+    - Bước 1. Tổ chức, cá nhân đã được cấp mã số sản phẩm chăn nuôi thông báo ngừng sử dụng mã số sản phẩm chăn nuôi trên Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi tại địa chỉ tên miền csdlchannuoi.mae.gov.vn.
+    - Bước 2. Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi tự động thu hồi mã số sản phẩm chăn nuôi và thông báo đến thư điện tử của tổ chức, cá nhân chăn nuôi trên cơ sở kiểm tra, xác nhận thông tin của cơ quan chuyên môn về chăn nuôi trên Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Thông báo ngừng sử dụng mã số sản phẩm chăn nuôi.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Cục Chăn nuôi và Thú y - Bộ NN và MT
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo ngừng sử dụng mã số sản phẩm chăn nuôi.
+Căn cứ pháp lý:
+  * Quy định về chăn nuôi động vật khác thuộc Danh mục động vật khác được phép chăn nuôi và truy xuất nguồn gốc sản phẩm chăn nuôi. (66/2025/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

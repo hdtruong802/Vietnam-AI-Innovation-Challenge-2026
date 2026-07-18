@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000392
+Số quyết định: 2219/QĐ-BNG
+Tên thủ tục: Thủ tục mời, bảo lãnh người nước ngoài vào Việt Nam tại cơ quan có thẩm quyền ở trong nước của Bộ Ngoại giao
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công tác lãnh sự
+Trình tự thực hiện:
+    Bước 1: Cơ quan, tổ chức, cá nhân liên quan tại Việt Nam nộp hồ sơ mời, bảo lãnh người nước ngoài tại cơ quan có thẩm quyền ở trong nước của Bộ Ngoại giao, gồm: Cục Lãnh sự và Sở Ngoại vụ thành phố Hồ Chí Minh (sau đây
+    gọi tắt là “cơ quan có thẩm quyền ở trong nước của Bộ Ngoại giao”).
+    Bước 2: Sau khi nhận được hồ sơ mời, bảo lãnh hợp lệ, cơ quan có thẩm quyền ở trong nước của Bộ Ngoại giao xem xét giải quyết theo thẩm quyền.
+    Bước 3: Sau khi hoàn tất các thủ tục liên quan, cơ quan có thẩm quyền ở trong nước của Bộ Ngoại giao trả lời cơ quan, tổ chức, cá nhân liên quan tại Việt Nam.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với người nước ngoài thuộc diện quy định tại khoản 1 và 2 Điều 8 Luật Xuất nhập cảnh 2014: Trong thời hạn 01 ngày làm việc kể từ ngày nhận đủ hồ sơ. Đối với người nước ngoài thuộc diện quy định tại khoản 3 và 4 Điều 8 Luật Xuất nhập cảnh 2014: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ và hoàn tất các thủ tục với các cơ quan chức năng liên quan. Lưu ý: thời gian xử lý hồ sơ được áp dụng theo nguyên tắc có đi có lại, phù hợp với Luật Xuất nhập cảnh 2014.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với người nước ngoài thuộc diện quy định tại khoản 1 và 2 Điều 8 Luật Xuất nhập cảnh 2014: Trong thời hạn 01 ngày làm việc kể từ ngày nhận đủ hồ sơ. Đối với người nước ngoài thuộc diện quy định tại khoản 3 và 4 Điều 8 Luật Xuất nhập cảnh 2014: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ và hoàn tất các thủ tục với các cơ quan chức năng liên quan. Lưu ý: thời gian xử lý hồ sơ được áp dụng theo nguyên tắc có đi có lại, phù hợp với Luật Xuất nhập cảnh 2014.
+
+Thành phần hồ sơ:
+  [ Đối với người nước ngoài thuộc diện quy định tại khoản 1 và 2 Điều 8 Luật số 47/2014/QH13 ngày 16/06/2014 của Quốc hội: Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam (sau đây gọi tắt là “Luật Xuất nhập cảnh 2014”): ]
+    - Văn bản thông báo/đề nghị mời, bảo lãnh người nước ngoài của cơ quan, tổ chức, cá nhân tại Việt Nam, trong đó nêu rõ: họ tên, ngày sinh, quốc tịch, giới tính, số và ký hiệu hộ chiếu, ngày cấp - hết hạn của hộ chiếu, nghề nghiệp, chức vụ, mục đích nhập cảnh, thời hạn xin thị thực và nơi nhận thị thực của người nước ngoài. Trường hợp đề nghị được nhận thị thực tại cửa khẩu quốc tế, văn bản cần nêu rõ: tên cửa khẩu quốc tế, thời gian nhập cảnh và lý do nhận thị thực tại cửa khẩu
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với người nước ngoài thuộc diện quy định tại khoản 3 và 4 Điều 8 Luật Xuất nhập cảnh 2014: Ngoài giấy tờ nêu tại khoản 3.1.1, cần bổ sung giấy tờ sau: ]
+    - b)	01 bản sao hợp đồng lao động hợp lệ đối với trường hợp người nước ngoài là nhân viên hợp đồng đang làm việc tại cơ quan đại diện nước ngoài tại Việt Nam.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - a)	01 bản chụp chứng minh thư của thành viên cơ quan đại diện liên quan do cơ quan có thẩm quyền ở trong nước của Bộ Ngoại giao cấp đối với trường hợp người nước ngoài vào Việt Nam thăm thành viên cơ quan đại diện nước ngoài tại Việt Nam.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - c)	Công hàm của Bộ Ngoại giao nước cử thông báo về việc tăng biên chế đối với trường hợp người nước ngoài thuộc diện tăng biên chế của cơ quan đại diện nước ngoài tại Việt Nam. 	Lưu ý: thành phần và số lượng hồ sơ được áp dụng theo nguyên tắc có đi có lại, phù hợp với Luật Xuất nhập cảnh 2014.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản thông báo/đề nghị mời, bảo lãnh người nước ngoài của cơ quan, tổ chức, cá nhân tại Việt Nam, trong đó nêu rõ: họ tên, ngày sinh, quốc tịch, giới tính, số và ký hiệu hộ chiếu, ngày cấp - hết hạn của hộ chiếu, nghề nghiệp, chức vụ, mục đích nhập cảnh, thời hạn xin thị thực và nơi nhận thị thực của người nước ngoài. Trường hợp đề nghị được nhận thị thực tại cửa khẩu quốc tế, văn bản cần nêu rõ: tên cửa khẩu quốc tế, thời gian nhập cảnh và lý do nhận thị thực tại cửa khẩu
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Người nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Sở Ngoại vụ Thành phố Hồ Chí Minh - Bộ Ngoại giao, Cục Lãnh sự - Bộ Ngoại giao
+Cơ quan có thẩm quyền: Bộ Ngoại giao
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản trả lời cơ quan, tổ chức cá nhân tại Việt Nam về việc duyệt cấp thị thực cho người nước ngoài
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

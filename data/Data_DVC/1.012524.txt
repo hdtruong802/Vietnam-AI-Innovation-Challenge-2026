@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012524
+Số quyết định: 1625/QĐ-BCT
+Tên thủ tục: Gia hạn hiệu lực Mã số tân trang theo Hiệp định EVFTA và Hiệp định UKVFTA
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    Trình tự thực hiện
+    Bước 1: Doanh nghiệp tân trang hoặc chủ sở hữu nhãn hiệu (sau đây gọi là doanh nghiệp đề nghị) có nhu cầu gia hạn hiệu lực Mã số tân trang gửi Đơn đề nghị gia hạn Mã số tân trang tới Bộ Công Thương trong ít nhất 90 ngày trước ngày Mã số tân trang hết hiệu lực.
+    Trường hợp có sửa đổi, bổ sung thông tin so với Mã số tân trang đã được cấp, doanh nghiệp có nhu cầu gia hạn Mã số tân trang gửi bổ sung các tài liệu quy định tại điểm b, điểm c khoản 1 Điều 16 Nghị định số 66/2024/NĐ-CP.
+    Bước 2: Bộ Công Thương kiểm tra tính hợp lệ, đầy đủ của hồ sơ.
+    Bước 3: Trường hợp không sửa đổi, bổ sung thông tin so với Mã số tân trang đã được cấp, Bộ Công Thương xem xét chấp thuận đề nghị gia hạn hiệu lực của Mã số tân trang.
+    Trường hợp có sửa đổi, bổ sung thông tin so với Mã số tân trang đã được cấp, thực hiện quy trình xử lý Đơn đề nghị gia hạn Mã số tân trang như đối với trường hợp sửa đổi, bổ sung thông tin của doanh nghiệp đã được cấp Mã số tân trang theo quy định tại khoản 2, 3, 4, 5, 6 Điều 16 Nghị định số 66/2024/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Đơn đề nghị gia hạn Mã số tân trang theo mẫu tại Phụ lục IX hoặc Phụ lục X Nghị định số 66/2024/NĐ-CP (01 bản chính).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Tài liệu thuyết minh đề nghị sửa đổi, bổ sung thông tin (01 bản chính bằng tiếng Anh và 01 bản dịch tiếng Việt, cả 2 bản được ký bởi đại diện có thẩm quyền của doanh nghiệp).,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ đề nghị gia hạn hiệu lực Mã số tân trang bao gồm
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Trường hợp có sửa đổi, bổ sung thông tin so với Mã số tân trang đã được cấp, doanh nghiệp có nhu cầu gia hạn Mã số tân trang gửi bổ sung các tài liệu
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Bản sao các tài liệu hỗ trợ cho tài liệu thuyết minh, nếu có (mỗi tài liệu 01 bản sao kèm theo bản dịch tiếng Việt, cả 2 bản được xác thực bởi đại diện có thẩm quyền của doanh nghiệp);
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Cục Xuất nhập khẩu
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản gia hạn hiệu lực của Mã số tân trang
+Căn cứ pháp lý:
+  * Nghị quyết 31/NQ-CP phê duyệt Hiệp định thương mại giữa Việt Nam và liên hiệp Vương quốc Anh (31/NQ-CP)
+  * Nghị quyết số 102/2020/QH14 (102/2020/QH14)
+  * Nghị định số 66/2024/NĐ-CP (66/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: không
+Từ khóa: Không có thông tin
+Mô tả: không

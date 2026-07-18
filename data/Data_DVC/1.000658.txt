@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000658
+Số quyết định: 3783/QĐ-BCT
+Tên thủ tục: Cấp Giấy chứng nhận quy trình Kimberly đối với kim cương thô
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    Thương nhân gửi hồ sơ đến Phòng Quản lý Xuất nhập khẩu khu vực
+    Phòng Quản lý Xuất nhập khẩu khu vực kiểm tra tính hợp lệ, đầy đủ của hồ sơ. Trường hợp hồ sơ không đầy đủ, hợp lệ, Phòng Quản lý Xuất nhập khẩu khu vực thông báo bằng điện thoại hoặc văn bản cho thương nhân những chi tiết cần sửa hoặc bổ sung để hoàn chỉnh hồ sơ
+    Trường hợp hồ sơ đầy đủ, hợp lệ, Phòng Quản lý Xuất nhập khẩu khu vực tiến hành thẩm tra nội dung hồ sơ. Nếu hồ sơ đáp ứng đủ điều kiện, Phòng Quản lý Xuất nhập khẩu khu vực cấp Giấy chứng nhận cho thương nhân. Nếu hồ sơ không đáp ứng đủ điều kiện để được cấp Giấy chứng nhận, Phòng Quản lý Xuất nhập khẩu khu vực trả lời bằng văn bản cho thương nhân
+    Thương nhân nhận Giấy chứng nhận trực tiếp tại Phòng Quản lý Xuất nhập khẩu khu vực hoặc qua đường bưu điện
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản sao Phiếu đóng gói có chữ ký và đóng dấu xác nhận sao y bản chính kèm bản chính để đối chiếu
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy chứng nhận KP do cơ quan có thẩm quyền của nước xuất khẩu cấp đã được Phòng quản lý xuất nhập khẩu xác nhận nhập khẩu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao Hợp đồng gia công và định mức gia công đã đăng ký với cơ quan hải quan có chữ ký và đóng dấu xác nhận sao y bản chính kèm bản chính để đối chiếu
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản khai hoàn chỉnh Giấy chứng nhận KP (theo mẫu) gồm 01 bản gốc và 03 bản sao
+      Số lượng: Bản chính: 1, Bản sao: 3
+    - Bản sao Hoá đơn thương mại có chữ ký và đóng dấu xác nhận sao y bản chính kèm bản chính để đối chiếu
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị cấp Giấy chứng nhận KP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Bộ Công thương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận quy trình Kimberly đối với kim cương thô
+Căn cứ pháp lý:
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * THÔNG TƯ LIÊN TỊCH  HƯỚNG DẪN VIỆC CẤP CHỨNG NHẬN VÀ THỦ TỤC NHẬP KHẨU, XUẤT KHẨU KIM CƯƠNG THÔ NHẰM THỰC THI CÁC QUY ĐỊNH CỦA QUY CHẾ CHỨNG NHẬN QUY TRÌNH KIMBERLEY (14/2009/TTLT-BCT-BTC)
+
+Yêu cầu, điều kiện thực hiện: 1. 	Kim cương thô xuất khẩu không phải là kim cương xung đột (Thương nhân phải cam kết trong Đơn đề nghị cấp Giấy chứng nhận KP) 	  	 
+2. 	Có đăng ký kinh doanh 	  	 
+3. 	Đã đăng ký hồ sơ thương nhân 	  	 
+4. 	Chỉ được phép nhập khẩu, xuất khẩu kim cương thô với các nước thành viên của Quy chế Chứng nhận KP (Phụ lục I Thông tư liên tịch số 14/2009/TTLT-BCT-BTC và Điều 4 Thông tư liên tịch số 01/2012/TTLT-BCT-BTC) 	  	 
+5. 	Các lô hàng kim cương thô chỉ được phép xuất khẩu tới nước thành viên khi có Giấy chứng nhận KP (Phụ lục II Thông tư liên tịch số 14/2009/TTLT-BCT-BTC) hợp lệ do cơ quan nhà nước có thẩm quyền của Việt Nam cấp 	  	 
+6. 	Các lô hàng kim cương thô nhập khẩu, xuất khẩu phải được vận chuyển trong các công-ten-nơ chống trộm cắp và dấu niêm phong không bị phá 	  	 
+7. 	Tờ khai hải quan xuất khẩu đã hoàn thành thủ tục hải quan và vận tải đơn hoặc các chứng từ vận tải tương đương phải được nộp trong vòng mười lăm (15) ngày làm việc kể từ ngày hoàn thành thủ tục hải quan cho lô hàng kim cương thô xuất khẩu trước đó đã được cấp Giấy chứng nhận KP
+Từ khóa: Không có thông tin
+Mô tả: 1. 	Kim cương thô xuất khẩu không phải là kim cương xung đột (Thương nhân phải cam kết trong Đơn đề nghị cấp Giấy chứng nhận KP) 	  	 
+2. 	Có đăng ký kinh doanh 	  	 
+3. 	Đã đăng ký hồ sơ thương nhân 	  	 
+4. 	Chỉ được phép nhập khẩu, xuất khẩu kim cương thô với các nước thành viên của Quy chế Chứng nhận KP (Phụ lục I Thông tư liên tịch số 14/2009/TTLT-BCT-BTC và Điều 4 Thông tư liên tịch số 01/2012/TTLT-BCT-BTC) 	  	 
+5. 	Các lô hàng kim cương thô chỉ được phép xuất khẩu tới nước thành viên khi có Giấy chứng nhận KP (Phụ lục II Thông tư liên tịch số 14/2009/TTLT-BCT-BTC) hợp lệ do cơ quan nhà nước có thẩm quyền của Việt Nam cấp 	  	 
+6. 	Các lô hàng kim cương thô nhập khẩu, xuất khẩu phải được vận chuyển trong các công-ten-nơ chống trộm cắp và dấu niêm phong không bị phá 	  	 
+7. 	Tờ khai hải quan xuất khẩu đã hoàn thành thủ tục hải quan và vận tải đơn hoặc các chứng từ vận tải tương đương phải được nộp trong vòng mười lăm (15) ngày làm việc kể từ ngày hoàn thành thủ tục hải quan cho lô hàng kim cương thô xuất khẩu trước đó đã được cấp Giấy chứng nhận KP

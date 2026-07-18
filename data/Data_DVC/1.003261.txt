@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003261
+Số quyết định: 1106/QĐ-NHNN
+Tên thủ tục: Thủ tục sửa đổi, bổ sung giấy phép đối với nội dung  thay đổi thời hạn hoạt động của tổ chức tín dụng phi ngân hàng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Tối thiểu 06 tháng trước ngày Giấy phép hết thời hạn, tổ chức tín dụng phi ngân hàng lập hồ sơ gửi Ngân hàng Nhà nước;
+    + Bước 2: Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức tín dụng phi ngân hàng bổ sung hồ sơ;
+    + Bước 3: Trong thời hạn 11 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước có quyết định sửa đổi, bổ sung Giấy phép; trường hợp không sửa đổi, bổ sung Giấy phép, Ngân hàng Nhà nước có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ * Đối với trường hợp đề nghị gia hạn thời hạn hoạt động: ]
+    - a) Văn bản đề nghị, trong đó tối thiểu bao gồm các nội dung:  + Thời hạn hoạt động hiện tại;  + Thời hạn hoạt động dự kiến thay đổi;  + Lý do thay đổi thời hạn hoạt động;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Báo cáo tình hình tổ chức và hoạt động của tổ chức tín dụng phi ngân hàng, trong đó nêu rõ: (i) Đánh giá kết quả hoạt động trong 03 năm liền kề trước năm nộp hồ sơ đề nghị, bao gồm các chỉ tiêu hoạt động chính (cơ cấu nguồn vốn, sử dụng vốn và kết quả kinh doanh); (ii) Dự kiến mục tiêu, chiến lược hoạt động và kế hoạch kinh doanh 03 năm tiếp theo;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Văn bản của cấp có thẩm quyền quyết định thông qua việc thay đổi thời hạn hoạt động;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Đối với trường hợp thay đổi thời hạn hoạt động ngoài trường hợp gia hạn thời hạn hoạt động, thành phần hồ sơ gồm: ]
+    - a) Văn bản đề nghị, trong đó tối thiểu bao gồm các nội dung:  + Thời hạn hoạt động hiện tại;  + Thời hạn hoạt động dự kiến thay đổi;  + Lý do thay đổi thời hạn hoạt động;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Báo cáo tình hình tổ chức và hoạt động của tổ chức tín dụng phi ngân hàng, trong đó nêu rõ: (i) Đánh giá kết quả hoạt động trong 03 năm liền kề trước năm nộp hồ sơ đề nghị, bao gồm các chỉ tiêu hoạt động chính (cơ cấu nguồn vốn, sử dụng vốn và kết quả kinh doanh); (ii) Dự kiến mục tiêu, chiến lược hoạt động và kế hoạch kinh doanh 03 năm tiếp theo;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Văn bản của cấp có thẩm quyền quyết định thông qua việc thay đổi thời hạn hoạt động;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Tài liệu chứng minh sự cần thiết của việc thay đổi thời hạn hoạt động.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định sửa đổi, bổ sung Giấy phép đối với nội dung thay đổi thời hạn hoạt động của tổ chức tín dụng phi ngân hàng, văn bản từ chối
+Căn cứ pháp lý:
+  * phân cấp thực hiện thủ tục hành chính trong lĩnh vực thông tin tín dụng và sủa đổi, bổ sung một số điều của các Thông tư liên quan đến cắt giảm, đơn giản hóa, phân cấp thực hiện thủ tục hành chính trong lĩnh vực thành lập và hoạt động ngân hàng (11/2026/TT-NHNN)
+  * Thông tư quy định về hồ sơ, thủ tục chấp thuận những thay đổi của tổ chức tín dụng phi ngân hàng (49/2025/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

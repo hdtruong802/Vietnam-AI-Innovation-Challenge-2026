@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003614
+Số quyết định: 123/QĐ-CHHĐTVN
+Tên thủ tục: Cấp giấy phép vào cảng, bến thủy nội địa đối với phương tiện, thủy phi cơ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    Cá nhân, tổ chức có nhu cầu cấp giấy phép vào cảng, bến thủy nội địa đối với phương tiện, thủy phi cơ nộp hồ sơ đến Cảng vụ hàng hải/Cảng vụ Đường thủy nội địa.
+  * b) Giải quyết TTHC:
+    - Trước khi phương tiện, thủy phi cơ vào cảng, bến thủy nội địa, người làm thủ tục thông báo về phương tiện (số đăng ký), thời gian sẽ vào, rời cảng, bến thủy nội địa và loại hàng hóa hoặc số lượng hành khách cho Cảng vụ biết. Thông báo bằng tin nhắn, điện thoại hoặc hình thức khác. Thuyền trưởng, người lái phương tiện chỉ được đưa phương tiện, thủy phi cơ vào cảng, bến thủy nội địa khi có đồng ý của Cảng vụ. Thời gian thông báo như sau:
+    + Trước 02 giờ đối với phương tiện vận tải hàng hóa;
+    + Trước 01 giờ đối với phương tiện vận tải hành khách, thủy phi cơ.
+    - Cảng vụ hàng hải/Cảng vụ ĐTNĐ tiếp nhận, kiểm tra hồ sơ và xử lý trong thời gian 30 phút, kể từ khi nhận đủ giấy tờ theo quy định, trừ tàu biển và phương tiện thủy nước ngoài.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ (Theo phí, lệ phí quy định tại Thông tư số 248/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí áp dụng tại cảng, bến thủy nội địa.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ (Theo phí, lệ phí quy định tại Thông tư số 248/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí áp dụng tại cảng, bến thủy nội địa.)
+
+Thành phần hồ sơ:
+  [ Giấy tờ phải nộp ]
+    - + Danh sách hành khách (đối với phương tiện vận tải hành khách).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy phép rời cảng, bến thủy nội địa, trừ trường hợp làm thủ tục điện tử;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Giấy tờ xuất trình ]
+    - + Giấy chứng nhận khả năng chuyên môn, chứng chỉ chuyên môn của thuyền viên, người lái phương tiện;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hợp đồng vận chuyển hoặc hóa đơn xuất kho hoặc giấy vận chuyển hàng hóa;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy phép vận chuyển hàng hóa nguy hiểm, phương án vận tải hàng hóa siêu trường, siêu trọng (trường hợp phương tiện vận tải hàng hóa nguy hiểm, hàng hóa siêu trường, siêu trọng);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy chứng nhận đăng ký phương tiện, thủy phi cơ (hoặc bản sao có xác nhận của tổ chức tín dụng trường hợp phương tiện đang cầm cố, thế chấp)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - TRƯỜNG HỢP KHÔNG PHẢI XUẤT TRÌNH GIẤU TỜ:  các giấy tờ trên đã lưu trên cơ sở dữ liệu điện tử.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Bảo hiểm trách nhiệm dân sự (đối với phương tiện thuộc diện bắt buộc phải có bảo hiểm trách nhiệm dân sự);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Sổ danh bạ thuyền viên (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy chứng nhận đủ điều kiện bay đối với thủy phi cơ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cảng vụ hàng hải, Cảng vụ Đường thủy nội địa
+Cơ quan có thẩm quyền: Cảng vụ hàng hải, Cảng vụ Đường thủy nội địa
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép vào cảng, bến thủy nội địa đối với phương tiện, thủy phi cơ.
+Căn cứ pháp lý:
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí áp dụng tại cảng, bến thủy nội địa (248/2016/TT-BTC)
+  * Quy định về quản lý hoạt động đường thủy nội địa (08/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

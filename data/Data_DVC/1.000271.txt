@@ -1,0 +1,125 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000271
+Số quyết định: 1234/QĐ-BXD
+Tên thủ tục: Thủ tục cấp lại Giấy phép khai thác hệ thống kỹ thuật, thiết bị bảo đảm hoạt động bay
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * a) Nộp hồ sơ thủ tục hành chính:
+    Tổ chức đề nghị cấp lại giấy phép khai thác hệ thống kỹ thuật và thiết bị bảo đảm hoạt động bay gửi 01 bộ hồ sơ trực tiếp hoặc qua hệ thống bưu chính hoặc bằng các hình thức phù hợp khác đến Cục Hàng không Việt Nam và phải chịu trách nhiệm về tính chính xác, trung thực của thông tin trong hồ sơ.
+  * b) Giải quyết thủ tục hành chính:
+    - Trường hợp cấp lại do Giấy phép bị mất hoặc bị hỏng: trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam xem xét, quyết định cấp lại giấy phép; trường hợp từ chối cấp giấy phép phải gửi văn bản thông báo cho người đề nghị và nêu rõ lý do.
+    - Trường hợp cấp lại do giấy phép hết hiệu lực hoặc khi có sự thay đổi nội dung của giấy phép khai thác đã được cấp; khi tổ chức đề nghị tiến hành cải tạo, nâng cấp hệ thống kỹ thuật, thiết bị bảo đảm hoạt động bay; phục hồi và đáp ứng đầy đủ điều kiện theo quy định của giấy phép khai thác hệ thống kỹ thuật, thiết bị bảo đảm hoạt động bay (áp dụng trong trường hợp giấy phép bị thu hồi): trong thời hạn 06 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam thẩm định, kiểm tra thực tế (nếu cần thiết); yêu cầu tổ chức đề nghị cấp giấy phép giải trình bổ sung các nội dung liên quan và cấp lại giấy phép hệ thống kỹ thuật, thiết bị bảo đảm hoạt động bay; trường hợp từ chối cấp giấy phép phải gửi văn bản thông báo cho người đề nghị và nêu rõ lý do.
+    Trường hợp hồ sơ chưa đầy đủ, trong thời gian 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Hàng không Việt Nam hướng dẫn tổ chức đề nghị hoàn thiện hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 4000000 VNĐ (Hệ thống	4.000.000đ/lần)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 2000000 VNĐ (Thiết bị	2.000.000đ/lần)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 4000000 VNĐ (Hệ thống	4.000.000đ/lần)
+
+Thành phần hồ sơ:
+  [ Hồ sơ đề nghị cấp lại giấy phép khai thác trong các trường hợp: Giấy phép bị mất hoặc bị hỏng;Giấy phép hết hiệu lực hoặc khi có sự thay đổi nội dung của giấy phép khai thác đã được cấp;Khi tổ chức đề nghị tiến hành cải tạo, nâng cấp hệ thống kỹ thuật, thiết bị bảo đảm hoạt động bay;bao gồm ]
+    - Bản sao biên bản kết quả bay kiểm tra hiệu chuẩn, kết quả kiểm định mới nhất của hệ thống kỹ thuật, thiết bị (áp dụng đối với hệ thống, thiết bị phải bay kiểm tra hiệu chuẩn, kiểm định, bao gồm cả việc cải tạo, nâng cấp hệ thống kỹ thuật, thiết bị);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao giấy phép sử dụng tần số và thiết bị phát sóng vô tuyến điện.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị cấp lại giấy phép khai thác hệ thống kỹ thuật, thiết bị theo mẫu số 4 quy định tại Phụ lục VIII ban hành kèm theo Thông tư số 19/2017/TT-BGTVT;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo giải trình việc cải tạo, nâng cấp hệ thống kỹ thuật, thiết bị bảo đảm hoạt động bay (áp dụng cho trường hợp cải tạo, nâng cấp hệ thống kỹ thuật, thiết bị bảo đảm hoạt động bay);
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hồ sơ đề nghị cấp lại giấy phép khai thác trong trường hợp phục hồi và đáp ứng đầy đủ điều kiện theo quy định của giấy phép khai thác hệ thống kỹ thuật, thiết bị bảo đảm hoạt động bay (áp dụng trong trường hợp giấy phép bị thu hồi), bao gồm: ]
+    - Báo cáo về năng lực khai thác, bảo dưỡng, sửa chữa hệ thống, thiết bị phù hợp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị cấp giấy phép khai thác hệ thống kỹ thuật, thiết bị theo mẫu số 3 quy định tại Phụ lục VIII ban hành kèm theo Thông tư  số 19/2017/TT-BGTVT;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao chứng chỉ xuất xứ, chứng chỉ chất lượng của nhà sản xuất đối với hệ thống, thiết bị bay kiểm tra hiệu chuẩn, bay đánh giá phương thức bay bằng thiết bị.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Báo cáo về hệ thống kỹ thuật, thiết bị đề nghị cấp phép
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao giấy phép sử dụng tần số và thiết bị phát sóng vô tuyến điện;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép khai thác hệ thống kỹ thuật, thiết bị bảo đảm hoạt động bay.
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư để cắt giảm, đơn giản hóa thủ tục hành chính trong lĩnh vực đăng kiểm đường bộ, hàng không dân dụng và thanh tra thuộc phạm vi quản lý của Bộ Xây dựng (71/2025/TT-BXD)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Thông tư 32/2021/TT-BGTVT (32/2021/TT-BGTVT)
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không (193/2016/TT-BTC)
+  * Quy định về quản lý và bảo đảm hoạt động bay (19/2017/TT-BGTVT)
+  * Quy định chi tiết về quản lý hoạt động bay (125/2015/NĐ-CP)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: 1.10.1. Hệ thống kỹ thuật, thiết bị CNS được cấp giấy phép khai thác phải đáp ứng các quy định sau:
+a) Đáp ứng tiêu chuẩn do Cục Hàng không Việt Nam ban hành hoặc công nhận phù hợp với tiêu chuẩn của ICAO;
+b) Có giấy phép sử dụng tần số và thiết bị phát sóng vô tuyến điện;
+c) Có tài liệu khai thác, bảo dưỡng của hệ thống kỹ thuật, thiết bị CNS bằng tiếng Việt hoặc tiếng Anh (nếu tài liệu bằng tiếng Anh phải đảm bảo nhân viên hiểu và khai thác được tài liệu);
+d) Có thiết bị dự phòng và nguồn điện đáp ứng quy định;
+đ) Có biên bản nghiệm thu hoàn thành công trình đưa vào sử dụng; đối với hệ thống đèn tín hiệu tại sân bay phải có sơ đồ bản vẽ hoàn công;
+e) Có mã số, địa chỉ kỹ thuật của hệ thống kỹ thuật, trang bị, thiết bị CNS (nếu có);
+g) Có phương thức bay đối với hệ thống, thiết bị dẫn đường;
+h) Có thiết bị ghi và lưu trữ theo quy định;
+i) Đối với thiết bị dẫn đường, giám sát hàng không được đầu tư, lắp đặt mới, phải có biên bản kết quả bay kiểm tra, hiệu chuẩn nghiệm thu và đạt tiêu chuẩn đưa vào khai thác; trường hợp điều chuyển thiết bị dẫn đường vô hướng đã sử dụng và được lắp đặt tại vị trí khác, được phép sử dụng kết quả bay kiểm tra của tàu bay thương mại để xem xét đưa vào khai thác;
+k) Có đường truyền dẫn, điều khiển xa và thiết bị có liên quan phù hợp với yêu cầu khai thác thiết bị.
+1.10.2. Hệ thống, thiết bị bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức bay bằng thiết bị được cấp phép khai thác khi đáp ứng các quy định sau:
+a) Hệ thống, thiết bị đáp ứng tiêu chuẩn do Cục Hàng không Việt Nam ban
+hành hoặc công nhận phù hợp với tiêu chuẩn của ICAO;
+b) Có chứng chỉ xuất xứ, chứng chỉ chất lượng của nhà sản xuất;
+c) Có tài liệu khai thác, bảo dưỡng bằng tiếng Việt hoặc tiếng Anh;
+d) Có biên bản nghiệm thu hoàn thành công trình đưa vào sử dụng;
+đ) Có thiết bị và nguồn điện dự phòng phù hợp;
+e) Có thiết bị ghi và lưu trữ theo quy định;
+g) Hệ thống, thiết bị bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức bay bằng thiết bị phải phù hợp với tiêu chuẩn của nhà sản xuất tàu bay kiểm tra, hiệu chuẩn nếu có kết nối trực tiếp vào trang thiết bị tàu bay hoặc có yêu cầu cải tiến tàu bay.
+1.10.3. Hệ thống ATM tự động, hệ thống kỹ thuật, thiết bị thông báo tin tức hàng không được cấp giấy phép khai thác khi đáp ứng các quy định sau:
+a) Đáp ứng tiêu chuẩn do Cục Hàng không Việt Nam ban hành hoặc công nhận phù hợp với tiêu chuẩn của ICAO;
+b) Có biên bản nghiệm thu hoàn thành công trình đưa vào sử dụng;
+c) Có tài liệu khai thác, bảo dưỡng của hệ thống bằng tiếng Việt hoặc tiếng Anh (nếu tài liệu bằng tiếng Anh phải đảm bảo nhân viên hiểu và khai thác được tài liệu).
+1.10. 4. Hệ thống kỹ thuật, thiết bị khí tượng hàng không được cấp giấy phép khai thác khi đáp ứng các quy định sau:
+a) Đáp ứng tiêu chuẩn do Cục Hàng không Việt Nam ban hành hoặc công nhận phù hợp với tiêu chuẩn của ICAO;
+b) Có biên bản nghiệm thu hoàn thành công trình đưa vào sử dụng;
+c) Có thiết bị dự phòng;
+d) Có giấy phép sử dụng tần số và thiết bị phát sóng vô tuyến điện;
+đ) Có tài liệu khai thác, bảo dưỡng của hệ thống kỹ thuật, thiết bị khí tượng hàng không bằng tiếng Việt hoặc tiếng Anh (nếu tài liệu bằng tiếng Anh phải đảm bảo nhân viên hiểu và khai thác được tài liệu).
+Từ khóa: Không có thông tin
+Mô tả: 1.10.1. Hệ thống kỹ thuật, thiết bị CNS được cấp giấy phép khai thác phải đáp ứng các quy định sau:
+a) Đáp ứng tiêu chuẩn do Cục Hàng không Việt Nam ban hành hoặc công nhận phù hợp với tiêu chuẩn của ICAO;
+b) Có giấy phép sử dụng tần số và thiết bị phát sóng vô tuyến điện;
+c) Có tài liệu khai thác, bảo dưỡng của hệ thống kỹ thuật, thiết bị CNS bằng tiếng Việt hoặc tiếng Anh (nếu tài liệu bằng tiếng Anh phải đảm bảo nhân viên hiểu và khai thác được tài liệu);
+d) Có thiết bị dự phòng và nguồn điện đáp ứng quy định;
+đ) Có biên bản nghiệm thu hoàn thành công trình đưa vào sử dụng; đối với hệ thống đèn tín hiệu tại sân bay phải có sơ đồ bản vẽ hoàn công;
+e) Có mã số, địa chỉ kỹ thuật của hệ thống kỹ thuật, trang bị, thiết bị CNS (nếu có);
+g) Có phương thức bay đối với hệ thống, thiết bị dẫn đường;
+h) Có thiết bị ghi và lưu trữ theo quy định;
+i) Đối với thiết bị dẫn đường, giám sát hàng không được đầu tư, lắp đặt mới, phải có biên bản kết quả bay kiểm tra, hiệu chuẩn nghiệm thu và đạt tiêu chuẩn đưa vào khai thác; trường hợp điều chuyển thiết bị dẫn đường vô hướng đã sử dụng và được lắp đặt tại vị trí khác, được phép sử dụng kết quả bay kiểm tra của tàu bay thương mại để xem xét đưa vào khai thác;
+k) Có đường truyền dẫn, điều khiển xa và thiết bị có liên quan phù hợp với yêu cầu khai thác thiết bị.
+1.10.2. Hệ thống, thiết bị bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức bay bằng thiết bị được cấp phép khai thác khi đáp ứng các quy định sau:
+a) Hệ thống, thiết bị đáp ứng tiêu chuẩn do Cục Hàng không Việt Nam ban
+hành hoặc công nhận phù hợp với tiêu chuẩn của ICAO;
+b) Có chứng chỉ xuất xứ, chứng chỉ chất lượng của nhà sản xuất;
+c) Có tài liệu khai thác, bảo dưỡng bằng tiếng Việt hoặc tiếng Anh;
+d) Có biên bản nghiệm thu hoàn thành công trình đưa vào sử dụng;
+đ) Có thiết bị và nguồn điện dự phòng phù hợp;
+e) Có thiết bị ghi và lưu trữ theo quy định;
+g) Hệ thống, thiết bị bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức bay bằng thiết bị phải phù hợp với tiêu chuẩn của nhà sản xuất tàu bay kiểm tra, hiệu chuẩn nếu có kết nối trực tiếp vào trang thiết bị tàu bay hoặc có yêu cầu cải tiến tàu bay.
+1.10.3. Hệ thống ATM tự động, hệ thống kỹ thuật, thiết bị thông báo tin tức hàng không được cấp giấy phép khai thác khi đáp ứng các quy định sau:
+a) Đáp ứng tiêu chuẩn do Cục Hàng không Việt Nam ban hành hoặc công nhận phù hợp với tiêu chuẩn của ICAO;
+b) Có biên bản nghiệm thu hoàn thành công trình đưa vào sử dụng;
+c) Có tài liệu khai thác, bảo dưỡng của hệ thống bằng tiếng Việt hoặc tiếng Anh (nếu tài liệu bằng tiếng Anh phải đảm bảo nhân viên hiểu và khai thác được tài liệu).
+1.10. 4. Hệ thống kỹ thuật, thiết bị khí tượng hàng không được cấp giấy phép khai thác khi đáp ứng các quy định sau:
+a) Đáp ứng tiêu chuẩn do Cục Hàng không Việt Nam ban hành hoặc công nhận phù hợp với tiêu chuẩn của ICAO;
+b) Có biên bản nghiệm thu hoàn thành công trình đưa vào sử dụng;
+c) Có thiết bị dự phòng;
+d) Có giấy phép sử dụng tần số và thiết bị phát sóng vô tuyến điện;
+đ) Có tài liệu khai thác, bảo dưỡng của hệ thống kỹ thuật, thiết bị khí tượng hàng không bằng tiếng Việt hoặc tiếng Anh (nếu tài liệu bằng tiếng Anh phải đảm bảo nhân viên hiểu và khai thác được tài liệu).

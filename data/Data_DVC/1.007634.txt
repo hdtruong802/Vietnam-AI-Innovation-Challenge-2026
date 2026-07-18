@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007634
+Số quyết định: 2083/QĐ-BTC
+Tên thủ tục: Thủ tục Đăng ký cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (điều chỉnh)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Kế toán, kiểm toán
+Trình tự thực hiện:
+    - Bước 1: Nộp hồ sơ
+    - Bước 2: Thẩm định hồ sơ: Bộ Tài chính (Vụ CĐKT&KT) tiếp nhận hồ sơ và thẩm định hồ sơ.
+    - Bước 3: Nộp lệ phí.
+    - Bước 4: Cấp giấy chứng nhận
+    - Bước 5: Công khai danh sách trên trang điện tử Bộ Tài chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ 1/ Thành phần hồ sơ, bao gồm: Hồ sơ đề nghị điều chỉnh Giấy chứng nhận kinh doanh dịch vụ kiểm toán bao gồm: ]
+    - b) Bản gốc Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán đã được cấp lần gần nhất.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2/ Số lượng hồ sơ: 01 (bộ)
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - c) Báo cáo mô tả chi tiết nội dung đề nghị điều chỉnh và các tài liệu có liên quan đến thông tin điều chỉnh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Đơn đề nghị điều chỉnh Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán (theo mẫu quy định tại Phụ lục VI).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ kiểm toán
+Căn cứ pháp lý:
+  * Luật kiểm toán độc lập số 67/2011/QH12 (67/2011/QH12)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014434
+Số quyết định: 3578/QĐ-BKHCN
+Tên thủ tục: Thủ tục cấp lại Giấy công nhận trung tâm đổi mới sáng tạo cấp quốc gia
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    - Tổ chức có yêu cầu cấp lại Giấy công nhận nộp 01 bộ hồ sơ theo quy định đến Bộ Khoa học và Công nghệ.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan có thẩm quyền công nhận có trách nhiệm trả lời tổ chức, cá nhân về tính hợp lệ của hồ sơ;
+    - Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan có thẩm quyền công nhận xem xét cấp lại Giấy công nhận hoặc từ chối cấp lại.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 15 ngày kể từ ngày nhận được hồ sơ hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 15 ngày kể từ ngày nhận được hồ sơ hợp lệ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 15 ngày kể từ ngày nhận được hồ sơ hợp lệ
+
+Thành phần hồ sơ:
+    - Bản gốc Giấy công nhận trung tâm đổi mới sáng tạo cấp quốc gia trong trường hợp thay đổi thông tin của tổ chức, doanh nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản, tài liệu chứng minh về việc thay đổi thông tin, điều chỉnh, bổ sung hoặc văn bản cam kết về việc Giấy công nhận bị mất, cháy, rách, nát hoặc bị tiêu hủy dưới hình thức khác;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Văn bản yêu cầu cấp lại Giấy công nhận theo Mẫu số IV.1.2
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Cục Đổi mới sáng tạo
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy công nhận trung tâm đổi mới sáng tạo cấp quốc gia
+Căn cứ pháp lý:
+  * Nghị định số 268/2025/NĐ-CP của Chính phủ: Quy định chi tiết và hướng dẫn một số điều của Luật Khoa học, công nghệ và đổi mới sáng tạo về đổi mới sáng tạo; khuyến khích hoạt động khoa học, công nghệ và đổi mới sáng tạo trong doanh nghiệp; công nhận trung tâm đổi mới sáng tạo, hỗ trợ khởi nghiệp sáng tạo; công nhận cá nhân, doanh nghiệp khởi nghiệp sáng tạo; hạ tầng mạng lưới và hệ sinh thái khởi nghiệp sáng tạo (268/2025/NĐ-CP)
+  * Luật số 93/2025/QH15 của Quốc hội: Luật Khoa học, công nghệ và đổi mới sáng tạo (93/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

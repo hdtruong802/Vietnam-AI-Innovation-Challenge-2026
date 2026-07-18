@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009729
+Số quyết định: 1165/QĐ-BTC
+Tên thủ tục: Thủ tục góp vốn, mua cổ phần, mua phần vốn góp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đầu tư tại Việt nam
+Trình tự thực hiện:
+    Trình tự thực hiện:
+    - Bước 1: Tổ chức kinh tế có nhà đầu tư nước ngoài đầu tư góp vốn, mua cổ phần, mua phần vốn góp nộp 01 bộ hồ sơ đăng ký góp vốn, mua cổ phần, mua phần vốn góp cho cơ quan đăng ký đầu tư.
+    - Bước 2: Đối với trường hợp tổ chức kinh tế có nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn góp có Giấy chứng nhận quyền sử dụng đất tại khu vực có ảnh hưởng đến quốc phòng, an ninh, Cơ quan đăng ký đầu tư lấy ý kiến của Bộ Chỉ huy quân sự cấp tỉnh và Công an cấp tỉnh.
+    - Bước 3: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của cơ quan đăng ký đầu tư, Bộ Chỉ huy quân sự cấp tỉnh, Công an cấp tỉnh có ý kiến về việc đáp ứng điều kiện bảo đảm quốc phòng, an ninh đối với tổ chức kinh tế có nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn góp.
+    - Bước 4: Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký đầu tư xem xét việc đáp ứng điều kiện góp vốn, mua cổ phần, mua phần vốn góp và căn cứ ý kiến của Bộ Chỉ huy quân sự cấp tỉnh, Công an cấp tỉnh (nếu có) để thông báo cho nhà đầu tư.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ (Không)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ (Không)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ (Không)
+
+Thành phần hồ sơ:
+    - Văn bản đăng ký góp vốn, mua cổ phần, mua phần vốn góp gồm những nội dung: thông tin về đăng ký doanh nghiệp của tổ chức kinh tế mà nhà đầu tư nước ngoài dự kiến góp vốn, mua cổ phần, mua phần vốn góp; ngành, nghề kinh doanh; danh sách chủ sở hữu, thành viên, cổ đông sáng lập, danh sách chủ sở hữu, thành viên, cổ đông là nhà đầu tư nước ngoài (nếu có); tỷ lệ sở hữu vốn điều lệ của nhà đầu tư nước ngoài trước và sau khi góp vốn, mua cổ phần, mua phần vốn góp vào tổ chức kinh tế; giá trị giao dịch dự kiến của hợp đồng góp vốn, mua cổ phần, mua phần vốn góp; thông tin về dự án đầu tư của tổ chức kinh tế (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu về tư cách pháp lý của cá nhân, tổ chức góp vốn, mua cổ phần, mua phần vốn góp và tổ chức kinh tế có nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn góp
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Văn bản thỏa thuận nguyên tắc về việc góp vốn, mua cổ phần, mua phần vốn góp giữa nhà đầu tư nước ngoài và tổ chức kinh tế có nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn góp hoặc giữa nhà đầu tư nước ngoài với cổ đông hoặc thành viên của tổ chức kinh tế đó;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Thông tin về tài liệu chứng minh quyền sử dụng đất để cơ quan nhà nước có thẩm quyền tra cứu trên cơ sở dữ liệu hoặc bản sao Giấy chứng nhận quyền sử dụng đất của tổ chức kinh tế có nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn góp (đối với trường hợp quy định tại điểm b khoản 4 Điều 75 Nghị định số 96/2026/NĐ-CP).
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo về việc đáp ứng điều kiện góp vốn, mua cổ phần, mua lại phần vốn góp của nhà đầu tư nước ngoài theo Mẫu I.2.20 ban hành kèm theo Thông tư số 55/2026/TT-BTC hoặc văn bản từ chối, nêu rõ lý do.
+Căn cứ pháp lý:
+  * định số 96/2026/NĐ-CP ngày 31/3/2026; (96/2026/NĐ-CP)
+  * Thông tư số 55/2026/TT-BTC ngày 15/5/2026. (55/2026/TT-BTC)
+  * Luật Đầu tư số 143/2025/QH15 ngày 11/12/2025; (143/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: - Việc góp vốn, mua cổ phần, mua phần vốn góp làm tăng tỷ lệ sở hữu của các nhà đầu tư nước ngoài tại tổ chức kinh tế kinh doanh ngành, nghề tiếp cận thị trường có điều kiện đối với nhà đầu tư nước ngoài;
+- Việc góp vốn, mua cổ phần, mua phần vốn góp dẫn đến việc nhà đầu tư nước ngoài, tổ chức kinh tế quy định tại các điểm a, b và c khoản 1 Điều 20 Luật Đầu tư nắm giữ trên 50% vốn điều lệ của tổ chức kinh tế trong các trường hợp: tăng tỷ lệ sở hữu vốn điều lệ của nhà đầu tư nước ngoài từ dưới hoặc bằng 50% lên trên 50%; tăng tỷ lệ sở hữu vốn điều lệ của nhà đầu tư nước ngoài khi nhà đầu tư nước ngoài đã sở hữu trên 50% vốn điều lệ trong tổ chức kinh tế;
+- Nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn góp của tổ chức kinh tế có Giấy chứng nhận quyền sử dụng đất tại đảo và xã, phường, đặc khu khu vực biên giới; xã, phường ven biển; khu vực khác có ảnh hưởng đến quốc phòng, an ninh.
+Từ khóa: Không có thông tin
+Mô tả: - Việc góp vốn, mua cổ phần, mua phần vốn góp làm tăng tỷ lệ sở hữu của các nhà đầu tư nước ngoài tại tổ chức kinh tế kinh doanh ngành, nghề tiếp cận thị trường có điều kiện đối với nhà đầu tư nước ngoài;
+- Việc góp vốn, mua cổ phần, mua phần vốn góp dẫn đến việc nhà đầu tư nước ngoài, tổ chức kinh tế quy định tại các điểm a, b và c khoản 1 Điều 20 Luật Đầu tư nắm giữ trên 50% vốn điều lệ của tổ chức kinh tế trong các trường hợp: tăng tỷ lệ sở hữu vốn điều lệ của nhà đầu tư nước ngoài từ dưới hoặc bằng 50% lên trên 50%; tăng tỷ lệ sở hữu vốn điều lệ của nhà đầu tư nước ngoài khi nhà đầu tư nước ngoài đã sở hữu trên 50% vốn điều lệ trong tổ chức kinh tế;
+- Nhà đầu tư nước ngoài góp vốn, mua cổ phần, mua phần vốn góp của tổ chức kinh tế có Giấy chứng nhận quyền sử dụng đất tại đảo và xã, phường, đặc khu khu vực biên giới; xã, phường ven biển; khu vực khác có ảnh hưởng đến quốc phòng, an ninh.

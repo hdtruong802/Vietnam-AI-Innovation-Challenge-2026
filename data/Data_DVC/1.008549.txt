@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008549
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Khai quyết toán thuế tài nguyên đối với cơ sở khai thác tài nguyên
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1:
+    ++ Tổ chức, cá nhân khai thác tài nguyên thiên nhiên lập hồ sơ khai quyết toán thuế tài nguyên và gửi đến cơ quan thuế quản lý trực tiếp (trường hợp Tổ chức, cá nhân khai thác tài nguyên thiên nhiên có trụ sở chính tại tỉnh, thành phố này nhưng có hoạt động khai thác tài nguyên tại tỉnh, thành phố khác thì nộp hồ sơ khai thuế tại Thuế tỉnh, thành phố hoặc Thuế cơ sở do Trưởng Thuế tỉnh, thành phố nơi phát sinh hoạt động khai thác tài nguyên quy định).
+    ++ Tổ chức, cá nhân có nhà máy sản xuất thuỷ điện thực hiện lập hồ sơ khai quyết toán thuế tài nguyên theo mẫu số 02/TAIN, gửi cho cơ quan thuế quản lý khoản thu ngân sách nhà nước nơi có hoạt động khai thác tài nguyên nước.  Trường hợp tổ chức, cá nhân có hoạt động sản xuất thủy điện mà hồ thủy điện của nhà máy thủy điện nằm trên nhiều tỉnh thì nộp hồ sơ khai quyết toán thuế tài nguyên và phụ lục bảng phân bổ số thuế tài nguyên phải nộp cho các địa phương nơi được hưởng nguồn thu đối với hoạt động sản xuất thủy điện của nhà máy thủy điện tại cơ quan thuế nơi có văn phòng điều hành nhà máy thủy điện và nộp số tiền thuế phân bổ cho tỉnh nơi có hồ thủy điện theo quy định.
+    ++ Thời hạn nộp hồ sơ: Chậm nhất là ngày cuối cùng của tháng thứ 3 kể từ ngày kết thúc năm dương lịch hoặc năm tài chính hoặc là ngày thứ 45 kể từ ngày chấm dứt hoạt động, chấm dứt hợp đồng hoặc tổ chức lại doanh nghiệp.
+    + Bước 2: Cơ quan thuế tiếp nhận hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tờ khai thuế tài nguyên mẫu số 02/TAIN tại Phụ lục II ban hành kèm theo Thông tư số 80/2021/TT-BTC
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phụ lục bảng phân bổ số thuế tài nguyên phải nộp cho các địa phương nơi được hưởng nguồn thu đối với hoạt động sản xuất thủy điện mẫu số 01-1/TAIN ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính (áp dụng đối với cơ sở sản xuất thủy điện có hồ thủy điện nằm trên nhiều tỉnh)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức, Người nước ngoài, Hợp tác xã, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+  * Thông tư số 40/2025/TT-BTC Sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý thuế để phân định thẩm quyền của chính quyền địa phương theo mô hình tổ chức chính quyền địa phương 02 cấp (40/2025/TT-BTC)
+  * sửa đổi một số điều của Thông tư 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế (46/2024/TT-BTC)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Quy định chi tiết thi hành Luật sửa đổi, bổ sung một số điều của các Luật về thuế và sửa đổi, bổ sung một số điều của các Nghị định về thuế (12/2015/NĐ-CP)
+  * Luật Thuế tài nguyên (45/2009/QH12)
+  * Luật 60/2010/QH12 (60/2010/QH12)
+  * quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế tài nguyên (50/2010/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

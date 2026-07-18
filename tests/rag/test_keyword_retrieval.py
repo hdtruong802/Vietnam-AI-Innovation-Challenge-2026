@@ -56,6 +56,28 @@ class KeywordRetrievalTests(unittest.TestCase):
         self.assertEqual("official_review_required", result.reason)
         self.assertEqual((), result.hits)
 
+    def test_approved_chunks_without_source_refs_are_not_retrieved(self) -> None:
+        sections = parse_sections(
+            normalize_document("Thanh phan ho so: giay chung sinh"),
+            "source-no-ref",
+        )
+        chunks = build_evidence_chunks(
+            sections,
+            ChunkSourceMetadata(
+                source_id="source-no-ref",
+                procedure_ids=("birth_registration",),
+                jurisdiction="VN",
+                review_status="approved",
+            ),
+        )
+        registry = ApprovedSourceRegistry(chunks)
+        result = KeywordRetriever(registry).search(
+            RetrievalQuery(text="giay chung sinh", procedure_id="birth_registration")
+        )
+
+        self.assertEqual(0, registry.approved_count)
+        self.assertEqual("blocked", result.status)
+
     def test_retrieval_filters_by_procedure_and_ranks_keyword_match(self) -> None:
         registry = ApprovedSourceRegistry(
             [

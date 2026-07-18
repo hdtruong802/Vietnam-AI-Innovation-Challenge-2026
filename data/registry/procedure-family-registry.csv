@@ -1,0 +1,27 @@
+registry_version,family_id,anchor_code,procedure_code,procedure_name,relation_type,release_tier,source_collection
+vaic-procedure-family-registry-v1,dang-ky-ho-kinh-doanh,1.001612,1.001612,Đăng ký thành lập hộ kinh doanh,anchor,anchor,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-ho-kinh-doanh,1.001612,2.000575,"Cấp lại Giấy chứng nhận đăng ký hộ kinh doanh, Cấp đổi sang Giấy chứng nhận đăng ký hộ kinh doanh",post_registration,tier_2,dataset_raw
+vaic-procedure-family-registry-v1,dang-ky-ho-kinh-doanh,1.001612,2.000720,Đăng ký thay đổi nội dung đăng ký hộ kinh doanh,post_registration,tier_2,dataset_raw
+vaic-procedure-family-registry-v1,dang-ky-ho-kinh-doanh,1.001612,1.014035,Dừng thực hiện thủ tục đăng ký hộ kinh doanh,lifecycle_operation,tier_2,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-ho-kinh-doanh,1.001612,1.014034,"Đăng ký cập nhật, bổ sung thông tin trong hồ sơ đăng ký hộ kinh doanh, hiệu đính thông tin đăng ký hộ kinh doanh",post_registration,tier_2,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-thuong-tru,1.004222,1.004222,Đăng ký thường trú,anchor,anchor,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-thuong-tru,1.004222,1.003197,Xóa đăng ký thường trú,post_registration,tier_2,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-thuong-tru,1.004222,1.010040,"Khai báo thông tin về cư trú đối với người chưa đủ điều kiện đăng ký thường trú, đăng ký tạm trú",direct_variant,tier_1,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-thuong-tru,1.004222,1.013314,"Xác nhận về điều kiện diện tích bình quân nhà ở để đăng ký thường trú vào chỗ ở do thuê, mượn, ở nhờ; nhà ở, đất ở không có tranh chấp quyền sở hữu nhà ở, quyền sử dụng đất ở, không thuộc địa điểm không được đăng ký thường trú mới",supporting_prerequisite,tier_2,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-thuong-tru,1.004222,2.000986,"Liên thông thủ tục hành chính về đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi",bundled_workflow,tier_2,dataset_raw
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,1.001193,Thủ tục đăng ký khai sinh,anchor,anchor,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,2.001023,"Liên thông các thủ tục hành chính về đăng ký khai sinh, cấp Thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi",bundled_workflow,tier_2,dataset_raw
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,2.000986,"Liên thông thủ tục hành chính về đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi",bundled_workflow,tier_2,dataset_raw
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,2.000635,"Cấp bản sao Trích lục hộ tịch, bản sao Giấy khai sinh",post_registration,tier_2,dataset_raw
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,2.000522,Thủ tục đăng ký lại khai sinh có yếu tố nước ngoài,direct_variant,tier_1,dataset_raw
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,2.000528,Thủ tục đăng ký khai sinh có yếu tố nước ngoài,direct_variant,tier_1,dataset_raw
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,2.000547,"Thủ tục ghi vào Sổ hộ tịch việc hộ tịch khác của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài (khai sinh; giám hộ; nhận cha, mẹ, con; xác định cha, mẹ, con; nuôi con nuôi; khai tử; thay đổi hộ tịch)",adjacent_broad,deferred,dataset_raw
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,1.004772,"Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân",direct_variant,tier_1,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,1.004884,Thủ tục đăng ký lại khai sinh,direct_variant,tier_1,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,1.003583,Thủ tục đăng ký khai sinh lưu động,direct_variant,tier_1,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,1.001695,"Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài",direct_variant,tier_1,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,1.000893,"Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân",direct_variant,tier_1,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,1.000689,"Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con",direct_variant,tier_1,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,1.001020,Thủ tục đăng ký khai sinh cho trẻ em sinh ra ở nước ngoài và có quốc tịch Việt Nam,direct_variant,tier_1,Data_DVC
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,2.000712,Thủ tục ghi vào sổ hộ tịch việc khai sinh đã đăng ký tại cơ quan có thẩm quyền của nước ngoài,post_registration,tier_2,dataset_raw
+vaic-procedure-family-registry-v1,dang-ky-khai-sinh,1.001193,1.000110,Thủ tục đăng ký khai sinh có yếu tố nước ngoài tại khu vực biên giới,direct_variant,tier_1,Data_DVC

@@ -1,0 +1,94 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009094
+Số quyết định: 2902/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với tàu bay xuất cảnh, nhập cảnh, quá cảnh
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Bước 1: Người khai hải quan nộp hồ sơ hải quan theo định dạng điện tử gửi đến cơ quan Hải quan thông qua Cổng thông tin một cửa quốc gia. Người phát hành vận đơn thứ cấp có trách nhiệm cung cấp đủ thông tin vận đơn thứ cấp đối với tàu bay nhập cảnh cho hãng hàng không để khai báo trong thời hạn quy định và nộp trên Cổng Thông tin một cửa quốc gia.
+    Trường hợp sửa đổi, bổ sung hồ sơ hải quan đối với tàu bay xuất cảnh, nhập cảnh đã nộp, người khai hải quan khai theo các chỉ tiêu thông tin do Bộ trưởng Bộ Tài chính quy định và nộp chứng từ giải trình, chứng minh trên Cổng thông tin một cửa quốc gia;
+    Trường hợp hồ sơ đã nộp nhưng tàu bay không xuất cảnh, nhập cảnh, người khai hải quan khai và gửi đề nghị hủy hồ sơ hải quan theo các chỉ tiêu thông tin do Bộ trưởng Bộ Tài chính quy định trên Cổng Thông tin một cửa quốc gia
+    Trường hợp Cổng Thông tin một cửa quốc gia gặp sự cố, người khai hải quan khai 01 bản chính chứng từ giấy theo mẫu do Bộ trưởng Bộ Tài chính ban hành và nộp cho cơ quan hải quan nơi giải quyết thủ tục hải quan tàu bay xuất cảnh, nhập cảnh. Ngay sau khi sự cố được khắc phục, người khai hải quan cập nhật lại thông tin chứng từ điện tử trên Cổng Thông tin một cửa quốc gia.
+    - Bước 2:  Cơ quan hải quan tiếp nhận tiếp nhận, kiểm tra hồ sơ hải quan đối với tàu bay xuất cảnh, nhập cảnh, quá cảnh.
+    Cổng Thông tin một cửa quốc gia tiếp nhận, kiểm tra thông tin khai và phản hồi số tiếp nhận hồ sơ cho người khai hải quan trong thời hạn 30 phút kể từ thời điểm nhận thông tin khai đầy đủ, hợp lệ. Đối với thông tin khai không đầy đủ hoặc không hợp lệ, Cổng Thông tin một cửa quốc gia phản hồi từ chối chấp nhận hồ sơ (có nêu rõ lý do) cho người khai hải quan trong thời hạn 01 giờ kể từ thời điểm tiếp nhận hồ sơ.
+    Trường hợp Cổng Thông tin một cửa quốc gia gặp sự cố, cơ quan hải quan nơi làm thủ tục tàu bay nhập cảnh, xuất cảnh tiếp nhận hồ sơ giấy, kiểm tra tính đầy đủ, hợp lệ của các chứng từ trong thời hạn 30 phút kể từ thời điểm tiếp nhận hồ sơ và cấp số tiếp nhận hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 50 VNĐ (Phí hải quan 50USD/chuyến bay đến đối với chuyến bay của nước ngoài đến cảng hàng không Việt Nam)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 50 VNĐ (Phí hải quan 50USD/chuyến bay đến đối với chuyến bay của nước ngoài đến cảng hàng không Việt Nam)
+
+Thành phần hồ sơ:
+  [ Hồ sơ hải quan nhập cảnh ]
+    - Thông tin về chuyến bay bao gồm: đường bay, số hiệu chuyến bay, tên hãng hàng không, cửa khẩu, số lượng hành khách và thời gian nhập cảnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách hành khách trong trường hợp tàu bay vận chuyển hành khách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách tổ lái và nhân viên làm việc trên tàu bay
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản lược khai hành lý ký gửi trong trường hợp tàu bay vận chuyển hành khách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hàng hóa nhập khẩu bằng đường hàng không trong trường hợp tàu bay vận chuyển hàng hóa nhập khẩu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông tin đặt chỗ của hành khách (PNR)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông tin về vận đơn: vận đơn chủ (master bill of lading), vận đơn thứ cấp (house bill of lading) trong trường hợp tàu bay vận chuyển hàng hóa nhập khẩu
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hồ sơ hải quan quá cảnh: ]
+    - Khi làm thủ tục nhập cảnh đối với tàu bay quá cảnh, người khai hải quan nộp hồ sơ hải quan theo quy định tại điểm 1 nêu trên; khi làm thủ tục xuất cảnh, nếu có sự thay đổi về các chứng từ khi nhập cảnh, người khai hải quan phải nộp hồ sơ hải quan gồm các chứng từ đã có sự thay đổi so với lúc nhập cảnh theo thời hạn quy định.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hồ sơ hải quan xuất cảnh ]
+    - Bản khai hàng hóa xuất khẩu bằng đường hàng không trong trường hợp tàu bay vận chuyển hàng hóa xuất khẩu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách tổ lái, nhân viên làm việc trên tàu bay
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông tin về chuyến bay bao gồm: đường bay, số hiệu chuyến bay, tên hãng hàng không, cửa khẩu, số lượng hành khách và thời gian xuất cảnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông tin đặt chỗ của hành khách (PNR)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách hành khách trong trường hợp tàu bay vận chuyển hành khách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản lược khai hành lý ký gửi trong trường hợp tàu bay vận chuyển hành khách
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Thời hạn cung cấp hồ sơ hải quan: ]
+    - + Chậm nhất 24 giờ trước thời điểm tàu bay dự kiến nhập cảnh đối với thông tin đặt chỗ của hành khách (PNR)
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Đối với tàu bay xuất cảnh: Trước thời điểm tàu bay xuất cảnh.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Đối với tàu bay nhập cảnh:
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Chậm nhất 30 phút trước thời điểm tàu bay dự kiến nhập cảnh đối với các chuyến bay có thời gian bay ngắn hơn 03 giờ bay;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Chậm nhất 01 giờ sau thời điểm tàu bay xuất cảnh đối với chứng từ bản khai hàng hoá xuất khẩu bằng đường hàng không trong trường hợp tàu bay vận chuyển hàng hoá xuất khẩu.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Đối với tàu bay quá cảnh: Khi làm thủ tục nhập cảnh đối với tàu bay quá cảnh, thực hiện theo quy định đối với tàu bay nhập cảnh. khi làm thủ tục xuất cảnh, thực hiện theo quy định đối với tàu bay xuất cảnh.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Chậm nhất 03 giờ trước thời điểm tàu bay dự kiến nhập cảnh đối với các chuyến bay có thời gian dài hơn 03 giờ bay;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Thời hạn nộp hồ sơ giấy: Đối với tàu bay nhập cảnh, người khai hải quan nộp cho cơ quan Hải quan, ngay sau khi và chậm nhất 30 phút kể từ khi tàu bay dừng đỗ tại vị trí quy định; Đối với tàu bay xuất cảnh, người khai hải quan nộp cho cơ quan hải quan ngay sau khi và chậm nhất 30 phút kể từ khi hãng vận chuyển hoàn thành thủ tục hàng hóa xuất khẩu, hành khách xuất cảnh; Đối với tàu bay quá cảnh, người khai hải quan thực hiện theo quy định tại điểm a hoặc điểm b khoản này.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Chậm nhất 24 giờ trước thời điểm tàu bay dự kiến xuất cảnh đối với chứng từ thông tin đặt chỗ của hành khách (PNR).
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Hải quan cửa khẩu
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận thông quan
+Căn cứ pháp lý:
+  * Thông tư 50/2018/TT-BTC (50/2018/TT-BTC)
+  * Nghị định số 167/2025/NĐ-CP ngày 30/6/2025 của Chính phủ (167/2025)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Nghị định 59/2018/NĐ-CP (59/2018/NĐ-CP)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Thông tư số 274/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí hải quan và lệ phí hàng hóa, phương tiện quá cảnh. (274/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

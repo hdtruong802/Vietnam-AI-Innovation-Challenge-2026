@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002019
+Số quyết định: 821/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục sửa đổi, bổ sung quyết định phát hành trò chơi điện tử G1 trên mạng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+    - Doanh nghiệp phải thực hiện thủ tục đề nghị sửa đổi, bổ sung của Quyết định phát hành trò chơi điện tử G1 trên mạng đã được cấp trong các trường hợp sau:
+    + Thay đổi tên trò chơi, nguồn gốc của trò chơi;
+    + Thay đổi kết quả phân loại trò chơi điện tử theo độ tuổi người chơi;
+    + Nâng cấp phiên bản có thay đổi nội dung, kịch bản trò chơi so với phiên bản đã được cấp Quyết định;
+    + Thay đổi, bổ sung phương thức, phạm vi cung cấp dịch vụ trò chơi điện tử G1 trên mạng đã được phê duyệt (tên miền đối với trò chơi cung cấp trên trang thông tin điện tử, địa chỉ IP, kênh phân phối trò chơi);
+    + Thay đổi địa chỉ đặt hoặc thuê máy chủ.
+    + Văn bản thỏa thuận cho doanh nghiệp được phát hành trò chơi tại Việt Nam theo quy định tại khoản 2 Điều 43 Nghị định 147/2024/NĐ-CP được tiếp tục gia hạn;
+    + Quyết định phê duyệt nội dung, kịch bản trò chơi điện tử G1 trên mạng hết hiệu lực theo quy định tại khoản 4 Điều 82 Nghị định 147/2024/NĐ-CP
+    - Doanh nghiệp gửi 01 bộ hồ sơ đề nghị sửa đổi, bổ sung của Quyết định phát hành trò chơi điện tử G1 trên mạng tới Bộ VHTTDL (Cục Phát thanh, truyền hình và thông tin điện tử).
+    - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, Bộ VHTTDL (Cục Phát thanh, truyền hình và thông tin điện tử) thẩm định cấp Quyết định sửa đổi, bổ sung cho doanh nghiệp theo Mẫu số 35 tại Phụ lục ban hành kèm theo Nghị định số 147/2024/NĐ-CP, sau khi cập nhật các nội dung sửa đổi, bổ sung và ghi rõ ngày cấp Quyết định lần đầu, ngày cấp Quyết định sửa đổi, bổ sung (nếu có).
+    Trường hợp từ chối, Bộ VHTTDL (Cục Phát thanh, truyền hình và thông tin điện tử) có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị sửa đổi, bổ sung quyết định phát hành trò chơi điện tử G1 trên mạng theo Mẫu số 36 tại Phụ lục ban hành kèm theo Nghị định 147/2024/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - .Tài liệu, văn bản chứng minh các lý do cần sửa đổi, bổ sung (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Công dân Việt Nam
+Cơ quan thực hiện: Cục Phát thanh, truyền hình và thông tin điện tử
+Cơ quan có thẩm quyền: Bộ Văn hóa, Thể thao và Du lịch
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phát hành trò chơi điện tử G1 trên mạng
+Căn cứ pháp lý:
+  * Nghị định số 147/2024/NĐ-CP của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng (147/2024/NĐ-CP)
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định có quy định thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (116/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

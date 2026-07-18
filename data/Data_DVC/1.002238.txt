@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002238
+Số quyết định: 2393/QĐ-BYT
+Tên thủ tục: Xác nhận Đơn hàng nhập khẩu mỹ phẩm dùng cho nghiên cứu, kiểm nghiệm
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Mỹ phẩm
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân nhập khẩu mỹ phẩm để nghiên cứu, kiểm nghiệm gửi Đơn hàng nhập khẩu mỹ phẩm dùng cho nghiên cứu, kiểm nghiệm đến cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh nơi đặt trụ sở chính của cơ sở. Số lượng tối đa cho mỗi sản phẩm là 10 mẫu.
+    Đối với trường hợp nộp trực tuyến: 01 bản điện tử Đơn hàng được ký bởi người đại diện theo pháp luật hoặc người được người đại diện theo pháp luật ủy quyền ký, ghi rõ họ tên và đóng dấu (chấp nhận chữ ký điện tử hoặc chữ ký số). Trường hợp tổ chức, cá nhân là hộ kinh doanh thì không bắt buộc phải đóng dấu của hộ kinh doanh trên Đơn hàng.
+    Đối với trường hợp nộp trực tiếp hoặc qua dịch vụ bưu chính: 02 bản giấy Đơn hàng được ký bởi người đại diện theo pháp luật hoặc người được người đại diện theo pháp luật ủy quyền ký, ghi rõ họ tên và đóng dấu (không được sử dụng chữ ký dấu), có đóng dấu giáp lai (trường hợp Đơn hàng có từ hai tờ trở lên). Trường hợp tổ chức, cá nhân là hộ kinh doanh thì không bắt buộc phải đóng dấu của hộ kinh doanh trên Đơn hàng, chủ hộ kinh doanh phải ký tên trên tất cả các trang có thông tin của Đơn hàng. Sau khi được phê duyệt, 01 bản được lưu tại cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh, 01 bản gửi cơ sở. Bản gửi cơ sở có đóng dấu “Bản gửi cơ sở” để xuất trình cơ quan Hải quan khi làm thủ tục thông quan.
+    Bước 2: Trong vòng 03 ngày làm việc kể từ ngày nhận được Đơn hàng nhập khẩu mỹ phẩm dùng cho nghiên cứu, kiểm nghiệm, cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh phê duyệt Đơn hàng. Trường hợp không phê duyệt Đơn hàng thì phải thông báo bằng văn bản, nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn hàng nhập khẩu mỹ phẩm dùng cho nghiên cứu, kiểm nghiệm Số lượng hồ sơ: 01 bộ Đối với trường hợp nộp trực tuyến; 02 bộ Đối với trường hợp nộp trực tiếp hoặc qua dịch vụ bưu chính.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản phê duyệt
+Căn cứ pháp lý:
+  * Thông tư 06/2011/TT-BYT Quy định về quản lý mỹ phẩm (06/2011/TT-BYT)
+  * NGHỊ ĐỊNH 155/2018/NĐ-CP SỬA ĐỔI QUY ĐỊNH LIÊN QUAN ĐẾN ĐIỀU KIỆN KINH DOANH THUỘC BỘ Y TẾ (155/2018/NĐ-CP)
+  * Thông tư số 34/2025/TT-BYT (34/2025/TT-BYT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

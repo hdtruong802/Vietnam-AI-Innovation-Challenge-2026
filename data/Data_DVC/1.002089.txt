@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002089
+Số quyết định: 1306/QĐ-NHNN
+Tên thủ tục: Thủ tục cấp Quyết định sửa đổi, bổ sung Giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Tổ chức tín dụng được phép hoạt động ngoại hối, tổ chức kinh tế,  tổ chức khác (bao gồm: cơ quan nhà nước, đơn vị lực lượng vũ trang, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, quỹ xã hội, quỹ từ thiện của Việt Nam hoạt động tại Việt Nam) có sửa đổi, bổ sung Giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài lập 01 bộ hồ sơ theo quy định gửi Ngân hàng Nhà nước.
+    + Bước 2: Thời hạn kiểm tra tính đầy đủ, chính xác của hồ sơ là 03 ngày làm việc kể từ khi Hệ thống thông tin giải quyết thủ tục hành chính Ngân hàng Nhà nước tiếp nhận hồ sơ theo phương thức trực tuyến hoặc kể từ khi Bộ phận Một cửa của Ngân hàng Nhà nước tiếp nhận hồ sơ theo phương thức trực tiếp hoặc qua dịch vụ bưu chính.
+    Trường hợp hồ sơ chưa đủ điều kiện giải quyết, trong thời hạn 5 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu bổ sung hồ sơ.
+    + Bước 3: Trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận hồ sơ đầy đủ, hợp lệ, Ngân hàng Nhà nước xem xét cấp Quyết định sửa đổi, bổ sung Giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài. Trường hợp từ chối cấp Quyết định sửa đổi, bổ sung Giấy phép, Ngân hàng Nhà nước có văn bản từ chối cấp Quyết định sửa đổi, bổ sung Giấy phép và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp Quyết định sửa đổi, bổ sung Giấy phép theo Phụ lục 2 thuộc Phụ lục III ban hành kèm theo Thông tư số 17/2026/TT-NHNN.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2. Văn bản chứng minh việc thay đổi, bổ sung các nội dung trong Giấy phép bao gồm:
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Đối với đề nghị sửa đổi, bổ sung Giấy phép để đáp ứng các điều kiện xin cấp phép thành lập và hoạt động cho văn phòng đại diện, chi nhánh, ngân hàng 100% vốn ở nước ngoài của tổ chức tín dụng được phép, tổ chức kinh tế:   (i) Văn bản của cơ quan có thẩm quyền nước ngoài cho phép thành lập và hoạt động chi nhánh, văn phòng đại diện ở nước ngoài (đối với các trường hợp quy định tại điểm b, c, d, e khoản 1 Điều 11 Thông tư số 39/2025/TT-NHNN sau khi đã được cơ quan có thẩm quyền ở nước ngoài cấp phép thành lập và hoạt động chính thức cho chi nhánh, văn phòng đại diện ở nước ngoài của tổ chức kinh tế, cấp phép thành lập và hoạt động chính thức cho văn phòng đại diện ở nước ngoài của tổ chức tín dụng được phép); (ii) Văn bản của cơ quan có thẩm quyền tại nước ngoài cho phép gia hạn thời hạn hoạt động tạm thời của chi nhánh, văn phòng đại diện ở nước ngoài, ngân hàng 100% vốn ở nước ngoài hoặc văn bản giải trình về sự cần thiết phải gia hạn tài khoản trong trường hợp cơ quan có thẩm quyền ở nước ngoài không cấp Giấy phép thành lập và hoạt động tạm thời của chi nhánh, văn phòng đại diện ở nước ngoài, ngân hàng 100% vốn ở nước ngoài (đối với trường hợp quy định tại điểm e khoản 1 Điều 11 Thông tư số 39/2025/TT-NHNN); (iii) Quyết định phê duyệt chi phí hàng năm cho hoạt động của chi nhánh, văn phòng đại diện tại nước ngoài (đối với các trường hợp quy định tại điểm b, c, d, e khoản 1 Điều 11 Thông tư số 39/2025/TT-NHNN sau khi đã được cơ quan có thẩm quyền ở nước ngoài cấp phép thành lập và hoạt động chính thức cho chi nhánh, văn phòng đại diện ở nước ngoài của tổ chức kinh tế, cấp phép thành lập và hoạt động chính thức cho văn phòng đại diện ở nước ngoài của tổ chức tín dụng được phép);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Đối với đề nghị sửa đổi, bổ sung Giấy phép để phục vụ hoạt động chi nhánh, văn phòng đại diện ở nước ngoài của tổ chức tín dụng được phép, tổ chức kinh tế:  (i) Văn bản của cơ quan có thẩm quyền tại nước ngoài cho phép gia hạn thời hạn hoạt động của chi nhánh, văn phòng đại diện ở nước ngoài, trừ trường hợp văn bản của cơ quan có thẩm quyền tại nước ngoài cho phép thành lập và hoạt động của chi nhánh, văn phòng đại diện ở nước ngoài không quy định thời hạn hoạt động (đối với trường hợp quy định tại điểm e khoản 1 Điều 11 Thông tư số 39/2025/TT-NHNN); (ii) Quyết định phê duyệt chi phí hàng năm cho hoạt động của chi nhánh, văn phòng đại diện tại nước ngoài do người đại diện hợp pháp của tổ chức ký (đối với việc trường hợp quy định tại điểm d, đ khoản 1 Điều 11 Thông tư số 39/2025/TT-NHNN); (iii) Các giấy tờ cần thiết khác (nếu có) chứng minh cho các trường hợp quy định tại khoản 1 Điều 11 Thông tư số 39/2025/TT-NHNN;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Đối với đề nghị sửa đổi, bổ sung Giấy phép để thực hiện khoản vay nước ngoài của bên đi vay:  (i) Thỏa thuận về việc sửa đổi nội dung của tài khoản ngoại tệ ở nước ngoài. Trường hợp tài khoản được sử dụng để thực hiện thêm khoản vay nước ngoài mới, tổ chức nộp hồ sơ quy định tại điểm d khoản 2 Điều 10 Thông tư số 39/2025/TT-NHNN;  (ii) Báo cáo tình hình sử dụng tài khoản ngoại tệ ở nước ngoài đến thời điểm đề nghị cấp Quyết định sửa đổi, bổ sung kèm cam kết của bên đi vay về tính chính xác của báo cáo;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Đối với đề nghị sửa đổi, bổ sung Giấy phép để phục vụ việc thực hiện các cam kết, hợp đồng với bên nước ngoài của doanh nghiệp thuộc diện đầu tư đặc biệt quan trọng theo chương trình của chính phủ; doanh nghiệp đầu tư dưới hình thức đối tác công tư (PPP):  Hợp đồng/Phụ lục sửa đổi hợp đồng hoặc thỏa thuận sửa đổi đã ký với bên nước ngoài liên quan đến nội dung sửa đổi, bổ sung Giấy phép hoặc các tài liệu khác chứng minh cho các trường hợp quy định tại khoản 1 Điều 11 Thông tư số 39/2025/TT-NHNN;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Đối với đề nghị sửa đổi, bổ sung Giấy phép để phục vụ việc thực hiện các cam kết, thỏa thuận, hợp đồng với bên nước ngoài (không bao gồm việc mở và sử dụng tài khoản ngoại tệ ở nước ngoài để thực hiện khoản vay nước ngoài):  (i) Cam kết, thỏa thuận, hợp đồng thay đổi/Phụ lục sửa đổi đã ký với bên nước ngoài liên quan đến nội dung sửa đổi, bổ sung Giấy phép (nếu có); (ii) Văn bản của bên nước ngoài yêu cầu phải sửa đổi, bổ sung nội dung mở tài khoản ngoại tệ ở nước ngoài trong trường hợp điều khoản này không có trong cam kết, thỏa thuận, hợp đồng (nếu có); (iii) Các giấy tờ cần thiết khác (nếu có) chứng minh cho các trường hợp quy định tại khoản 1 Điều 11 Thông tư số 39/2025/TT-NHNN;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Đối với đề nghị sửa đổi, bổ sung Giấy phép để tiếp nhận viện trợ, tài trợ của nước ngoài hoặc các trường hợp khác được cơ quan có thẩm quyền của việt nam cho phép của tổ chức khác:  Các giấy tờ cần thiết chứng minh cho các trường hợp quy định tại khoản 1 Điều 11 Thông tư số 39/2025/TT-NHNN.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực, Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam 49 Lý Thái Tổ, Hoàn Kiếm, Hà Nội/NHNN Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định sửa đổi, bổ sung Giấy phép mở và sử dụng tài khoản ngoại tệ ở nước ngoài
+Căn cứ pháp lý:
+  * Thông tư số 17/2026/TT-NHNN của Thống đốc Ngân hàng Nhà nước sửa đổi, bổ sung một số Thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam trong lĩnh vực quản lý ngoại hối liên quan đến phân cấp, đơn giản hóa thủ tục hành chính (17/2026/TT-NHNN)
+  * Thông tư quy định việc mở và sử dụng tài khoản ngoại tệ ở nước ngoài của người cư trú là tổ chức (39/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

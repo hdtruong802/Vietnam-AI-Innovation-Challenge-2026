@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001171
+Số quyết định: 2729/QĐ-BCT
+Tên thủ tục: Đăng ký xuất khẩu xăng dầu
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Lưu thông hàng hóa trong nước
+Trình tự thực hiện:
+    - Thương nhân gửi Đơn đăng ký xuất khẩu xăng dầu đến Bộ Công Thương theo Mẫu số 4 tại Phụ lục ban hành kèm theo Thông tư số 38/2014/TT-BCT.
+    - Trong thời hạn bảy (07) ngày làm việc kể từ ngày nhận được Đơn đăng ký của thương nhân, Bộ Công Thương có văn bản chấp thuận việc xuất khẩu hoặc có văn bản thông báo lý do không đồng ý.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không có)
+
+Thành phần hồ sơ:
+    - Đơn đăng ký xuất khẩu xăng dầu theo Mẫu số 4 tại Phụ lục ban hành kèm theo Thông tư số 38/2014/TT-BCT.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Vụ Thị trường trong nước
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận việc xuất khẩu xăng dầu
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số điều của Thông tư số 38/2014/TT-BCT ngày 24 tháng 10 năm 2014 của Bộ trưởng Bộ Công Thương quy định chi tiết một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu (17/2021/TT-BCT)
+  * Quy định chi tiết một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu (38/2014/TT-BCT)
+  * Nghị định 83/2014/NĐ-CP (83/2014/NĐ-CP)
+  * Sửa đổi, bổ sung một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 về kinh doanh xăng dầu (95/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

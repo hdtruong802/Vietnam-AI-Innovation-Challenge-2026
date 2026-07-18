@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003801
+Số quyết định: 966/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp Thẻ giám định viên quyền tác giả, quyền liên quan
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bản quyền tác giả
+Trình tự thực hiện:
+  * Thủ tục cấp Thẻ giám định viên quyền tác giả, quyền liên quan
+    - Cá nhân có yêu cầu cấp Thẻ giám định viên quyền tác giả, quyền liên quan (sau đây gọi là Thẻ giám định viên) nộp 01 bộ hồ sơ yêu cầu cấp Thẻ giám định viên đến cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh nơi cá nhân thường trú.
+    - Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh ra quyết định cấp Thẻ giám định viên. Trường hợp từ chối cấp Thẻ giám định viên thì phải thông báo bằng văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Thủ tục cấp Thẻ giám định viên quyền tác giả, quyền liên quan ]
+    - Ảnh chân dung của người yêu cầu cấp Thẻ giám định viên kích cỡ 3 x 4 cm. Trường hợp nộp hồ sơ dưới dạng bản giấy thì nộp 02 ảnh màu kích cỡ 3 x 4 cm
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản gốc hoặc bản sao chứng thực hoặc bản sao từ sổ gốc bằng tốt nghiệp đại học hoặc sau đại học. Trường hợp nộp hồ sơ trực tuyến thì nộp bản sao điện tử hoặc bản chứng thực điện tử. Cơ quan tiếp nhận, giải quyết thủ tục hành chính có trách nhiệm chủ động khai thác, sử dụng thông tin trên cơ sở dữ liệu về văn bằng, chứng chỉ để thay thế và chỉ được yêu cầu tổ chức, cá nhân cung cấp tài liệu tại điểm này trong trường hợp không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, chính xác
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Tờ khai yêu cầu cấp Thẻ giám định viên (theo Mẫu số 10 của Phụ lục III ban hành kèm theo Nghị định số 134/2026/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy xác nhận quá trình công tác theo quy định tại điểm đ khoản 3 Điều 201 của Luật Sở hữu trí tuệ (do cơ quan, tổ chức nơi công tác cấp)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản gốc hoặc bản sao chứng thực hoặc bản sao từ sổ gốc chứng nhận đạt yêu cầu khóa đào tạo nghiệp vụ về giám định quyền tác giả, quyền liên quan trong trường hợp đã qua thực tế hoạt động chuyên môn trong lĩnh vực đề nghị cấp thẻ giám định viên từ đủ năm năm trở lên theo quy định tại điểm đ khoản 3 Điều 201 của Luật Sở hữu trí tuệ. Trường hợp nộp hồ sơ trực tuyến thì nộp bản sao điện tử hoặc bản chứng thực điện tử
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thẻ giám định viên quyền tác giả, quyền liên quan
+Căn cứ pháp lý:
+  * sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ (131/2025/QH15)
+  * Nghị định số 134/2026/NĐ-CP ngày 06 tháng 4 năm 2026 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 17/2023/NĐ-CP ngày 26 tháng 4 năm 2023 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Sở hữu trí tuệ về quyền tác giả, quyền liên quan (134/2026/NĐ-CP)
+  * 07/2022/QH15 - Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ (07/2022/QH15)
+
+Yêu cầu, điều kiện thực hiện: - Là công dân Việt Nam, có năng lực hành vi dân sự đầy đủ;
+- Thường trú tại Việt Nam;
+- Có phẩm chất đạo đức tốt;
+- Đã qua thực tế hoạt động chuyên môn trong lĩnh vực đề nghị cấp thẻ giám định viên sở hữu trí tuệ từ đủ năm năm trở lên và được chứng nhận đạt yêu cầu khóa đào tạo nghiệp vụ về giám định sở hữu trí tuệ; trực tiếp tham gia giải quyết tranh chấp về sở hữu trí tuệ tại Tòa án và tổ chức trọng tài từ đủ mười lăm năm trở lên và thời gian gián đoạn (nếu có) không quá hai năm tính đến thời điểm đề nghị cấp thẻ giám định viên sở hữu trí tuệ; trực tiếp tham gia hỗ trợ chuyên môn trong công tác giám định về sở hữu trí tuệ tại tổ chức giám định từ đủ mười lăm năm trở lên và thời gian gián đoạn (nếu có) không quá hai năm tính đến thời điểm đề nghị cấp thẻ giám định viên sở hữu trí tuệ.
+Từ khóa: Không có thông tin
+Mô tả: - Là công dân Việt Nam, có năng lực hành vi dân sự đầy đủ;
+- Thường trú tại Việt Nam;
+- Có phẩm chất đạo đức tốt;
+- Đã qua thực tế hoạt động chuyên môn trong lĩnh vực đề nghị cấp thẻ giám định viên sở hữu trí tuệ từ đủ năm năm trở lên và được chứng nhận đạt yêu cầu khóa đào tạo nghiệp vụ về giám định sở hữu trí tuệ; trực tiếp tham gia giải quyết tranh chấp về sở hữu trí tuệ tại Tòa án và tổ chức trọng tài từ đủ mười lăm năm trở lên và thời gian gián đoạn (nếu có) không quá hai năm tính đến thời điểm đề nghị cấp thẻ giám định viên sở hữu trí tuệ; trực tiếp tham gia hỗ trợ chuyên môn trong công tác giám định về sở hữu trí tuệ tại tổ chức giám định từ đủ mười lăm năm trở lên và thời gian gián đoạn (nếu có) không quá hai năm tính đến thời điểm đề nghị cấp thẻ giám định viên sở hữu trí tuệ.

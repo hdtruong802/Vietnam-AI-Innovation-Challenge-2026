@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001556
+Số quyết định: 82/QĐ-NHNN
+Tên thủ tục: Thủ tục gia hạn thời hạn thanh lý tài sản quỹ tín dụng nhân dân
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    - Bước 1: Trước ngày chấm dứt thời hạn thanh lý 30 ngày, Hội đồng thanh lý phải có văn bản đề nghị gia hạn thời hạn thanh lý gửi Ngân hàng Nhà nước chi nhánh Khu vực, trong đó đánh giá khả năng thanh toán hết các khoản nợ, nghĩa vụ tài sản khác và thời gian gia hạn thanh lý.
+    - Bước 2: Trong thời hạn 10 ngày kể từ ngày nhận được văn bản đề nghị gia hạn thanh lý của Hội đồng thanh lý, Ngân hàng Nhà nước chi nhánh Khu vực có văn bản chấp thuận hoặc không chấp thuận đề nghị gia hạn thời hạn thanh lý.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 10 ngày kể từ ngày nhận được văn bản đề nghị của Hội đồng thanh lý.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 10 ngày kể từ ngày nhận được văn bản đề nghị của Hội đồng thanh lý.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 10 ngày kể từ ngày nhận được văn bản đề nghị của Hội đồng thanh lý.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị gia hạn thời hạn thanh lý của Hội đồng thanh lý.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận đề nghị gia hạn thời hạn thanh lý.
+Căn cứ pháp lý:
+  * Thông tư quy định về tổ chức lại, thu hồi giấy phép và thanh lý tài sản của quỹ tín dụng nhân dân (10/2025/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Thông tư sửa đổi, bổ sung một số điều của một số Thông tư  về quỹ tín dụng nhân dân (Thông tư số 63/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

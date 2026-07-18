@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014828
+Số quyết định: 169/QĐ-BCT
+Tên thủ tục: Công bố tổ chức kiểm toán năng lượng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Năng lượng
+Trình tự thực hiện:
+    Bước 1: Tổ chức kiểm toán năng lượng gửi văn bản đề nghị công bố theo Mẫu số 01 tại Phụ lục kèm theo Nghị định số 30/2026/NĐ-CP ngày 21 tháng 01 năm 2026 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Sử dụng năng lượng tiết kiệm và hiệu quả và hồ sơ kèm theo đến Bộ Công Thương theo đường bưu điện, nộp trực tiếp hoặc nộp qua Cổng dịch vụ công Quốc gia.
+    Bước 2: Trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản và hồ sơ kèm theo, Bộ Công Thương rà soát hồ sơ, công bố các tổ chức hoạt động kiểm toán năng lượng đáp ứng các điều kiện quy định tại Điều 6 Nghị định số 30/2026/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Hồ sơ đề nghị công bố tổ chức kiểm toán năng lượng gồm: Văn bản đề nghị công bố theo Mẫu số 01 tại Phụ lục kèm theo Nghị định số 30/2026/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công bố tổ chức kiểm toán năng lượng trên Cổng thông tin điện tử của Bộ Công Thương.
+Căn cứ pháp lý:
+  * Nghị định số 30/2026/NĐ-CP ngày 21 tháng 01 năm 2026 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Sử dụng năng lượng tiết kiệm và hiệu quả (30/2026/NĐ-CP)
+  * Luật số 77/2025/QH15 của Quốc hội: Luật sửa đổi, bổ sung một số điều của Luật Sử dụng năng lượng tiết kiệm và hiệu quả (77/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: - Là tổ chức được thành lập theo quy định của pháp luật.
+- Có năng lực hoạt động đáp ứng các yêu cầu kiểm toán năng lượng, phù hợp với đối tượng được kiểm toán năng lượng.
+- Điều kiện về nhân lực:
++ Người quản lý kỹ thuật của tổ chức kiểm toán năng lượng phải có bằng cử nhân trở lên thuộc chuyên ngành năng lượng hoặc các ngành kỹ thuật có liên quan, có tối thiểu 05 năm kinh nghiệm và có chứng chỉ kiểm toán viên năng lượng;
++ Người phụ trách bảo đảm chất lượng và kiểm soát chất lượng của tổ chức kiểm toán năng lượng phải có bằng cử nhân trở lên, có tối thiểu 03 năm kinh nghiệm trong lĩnh vực kiểm toán năng lượng và có chứng chỉ kiểm toán viên năng lượng; 
++ Tổ chức có ít nhất 03 kiểm toán viên năng lượng làm việc theo hợp đồng lao động có thời hạn từ 12 tháng trở lên.
+- Có phương tiện, thiết bị, dụng cụ (hoặc có hợp đồng thuê dài hạn), quy trình đo đạc, phù hợp với lĩnh vực được kiểm toán năng lượng (điện, nhiệt, hơi, khí nén, chiếu sáng) và quy định của pháp luật hiện hành; đồng thời phải có quy trình quản lý, vận hành, bảo dưỡng phương tiện, thiết bị đo; đảm bảo tính chính xác của phương tiện, thiết bị đo.
+- Hằng năm, tổ chức kiểm toán năng lượng phải tổ chức đào tạo, đánh giá tay nghề của kiểm toán viên năng lượng.
+Từ khóa: Không có thông tin
+Mô tả: - Là tổ chức được thành lập theo quy định của pháp luật.
+- Có năng lực hoạt động đáp ứng các yêu cầu kiểm toán năng lượng, phù hợp với đối tượng được kiểm toán năng lượng.
+- Điều kiện về nhân lực:
++ Người quản lý kỹ thuật của tổ chức kiểm toán năng lượng phải có bằng cử nhân trở lên thuộc chuyên ngành năng lượng hoặc các ngành kỹ thuật có liên quan, có tối thiểu 05 năm kinh nghiệm và có chứng chỉ kiểm toán viên năng lượng;
++ Người phụ trách bảo đảm chất lượng và kiểm soát chất lượng của tổ chức kiểm toán năng lượng phải có bằng cử nhân trở lên, có tối thiểu 03 năm kinh nghiệm trong lĩnh vực kiểm toán năng lượng và có chứng chỉ kiểm toán viên năng lượng; 
++ Tổ chức có ít nhất 03 kiểm toán viên năng lượng làm việc theo hợp đồng lao động có thời hạn từ 12 tháng trở lên.
+- Có phương tiện, thiết bị, dụng cụ (hoặc có hợp đồng thuê dài hạn), quy trình đo đạc, phù hợp với lĩnh vực được kiểm toán năng lượng (điện, nhiệt, hơi, khí nén, chiếu sáng) và quy định của pháp luật hiện hành; đồng thời phải có quy trình quản lý, vận hành, bảo dưỡng phương tiện, thiết bị đo; đảm bảo tính chính xác của phương tiện, thiết bị đo.
+- Hằng năm, tổ chức kiểm toán năng lượng phải tổ chức đào tạo, đánh giá tay nghề của kiểm toán viên năng lượng.

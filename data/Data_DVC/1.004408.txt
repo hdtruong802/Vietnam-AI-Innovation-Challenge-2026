@@ -1,0 +1,94 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004408
+Số quyết định: 2533/QĐ-BXD
+Tên thủ tục: Thủ tục cấp, công nhận Giấy chứng nhận loại
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * - 04 tháng đối với cấp Giấy chứng nhận loại, kể từ khi nhận được hồ sơ đề nghị cấp Giấy chứng nhận loại . - 04 tháng đối với công nhận Giấy chứng nhận loại, kể từ khi nhận được hồ sơ đề nghị công nhận Giấy chứng nhận loại.
+    3. Thẩm định các giới hạn duy trì tính đủ điều kiện bay theo quy định của tiêu chuẩn đủ điều kiện bay áp dụng;
+    1. Thẩm định tính đầy đủ và hồ sơ đề nghị công nhận Giấy chứng nhận loại;
+    2. Xem xét thừa nhận tiêu chuẩn đủ điều kiện bay áp dụng cho loại tàu bay, động cơ và cánh quạt được đề nghị thừa nhận Giấy chứng nhận loại trên cơ sở phù hợp với Phụ ước 8 của Công ước Chi-ca-go;
+    4. Xác định các yêu cầu về bảo vệ môi trường áp dụng đối với loại tàu bay, động cơ và cánh quạt đề nghị được công nhận Giấy chứng nhận loại;
+    5. Xem xét thừa nhận kết quả kiểm tra, thử nghiệm và việc bay thử cần thiết để kiểm chứng việc tuân thủ của loại tàu bay, động cơ và cánh quạt đối với các tiêu chuẩn đủ điều kiện bay áp dụng.
+  * Nộp hồ sơ TTHC:
+    Người đề nghị cấp, công nhận hiệu lực Giấy chứng nhận loại nộp hồ sơ đề nghị đến Cục Hàng không Việt Nam
+  * Giải quyết TTHC:- 04 tháng đối với cấp Giấy chứng nhận loại, kể từ khi nhận được hồ sơ đề nghị cấp Giấy chứng nhận loại . - 04 tháng đối với công nhận Giấy chứng nhận loại, kể từ khi nhận được hồ sơ đề nghị công nhận Giấy chứng nhận loại. bao gồm:
+    1. Thẩm định tính đầy đủ và hồ sơ đề nghị cấp Giấy chứng nhận loại;
+    2. Xác định tiêu chuẩn đủ điều kiện bay áp dụng cho loại tàu bay, động cơ và cánh quạt được đề nghị cấp Giấy chứng nhận loại để xác định căn cứ cho việc cấp Giấy chứng nhận loại cho loại tàu bay, động cơ và cánh quạt đó;
+    3. Thẩm định các số liệu bản vẽ, danh mục các bản vẽ và các tính năng kỹ thuật cần thiết để xác định cấu hình và đặc tính thiết kế của sản phẩm chứng minh việc đáp ứng các tiêu chuẩn đủ điều kiện bay áp dụng, bao gồm cả thông tin về vật liệu và quy trình, phương pháp chế tạo, lắp ráp của sản phẩm để khẳng định tính phù hợp của sản phẩm;
+    4. Thẩm định các giới hạn duy trì tính đủ điều kiện bay theo quy định của tiêu chuẩn đủ điều kiện bay áp dụng;
+    5. Xác định các yêu cầu về bảo vệ môi trường áp dụng đối với loại tàu bay, động cơ và cánh quạt đề nghị được cấp Giấy chứng nhận loại;
+    6. Thực hiện hoặc thuê tổ chức độc lập đủ khả năng thực hiện kiểm tra, thử nghiệm và bay thử cần thiết để kiểm chứng việc tuân thủ của loại tàu bay, động cơ và cánh quạt đối với các tiêu chuẩn đủ điều kiện bay áp dụng
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 4 OTHER
+    Phí, lệ phí: 0 VNĐ (Thiết bị lẻ, vật tư khác)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 4 OTHER
+    Phí, lệ phí: 0 VNĐ (Tàu bay->Dưới 20 tấn)
+
+Thành phần hồ sơ:
+  [ (10)	Một bản sao của các tài liệu sau: ]
+    - Tài liệu hướng dẫn cân và cân bằng tàu bay;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu hướng dẫn bảo dưỡng cánh quạt;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu hướng dẫn tiêu chuẩn thực hành (Practical Standards);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu tra cứu thiết bị lắp trên tàu bay (IPC);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh mục các cấu trúc khung sườn chính (SSI);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu hướng dẫn bảo dưỡng động cơ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu hướng dẫn quy trình xếp tải;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu hướng dẫn sửa chữa cấu trúc tàu bay (SRM);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu hướng dẫn bảo dưỡng động cơ phụ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu hướng dẫn bảo dưỡng tàu bay (AMM);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu hướng dẫn khai thác bay (AFM)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu về kiểm tra không phá hủy (NDT).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (1)	Bản vẽ 3 hình chiếu của tàu bay và các thông số cơ bản ban đầu cùng với các đặc tính, giới hạn hoạt động đề xuất;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (9)	Giấy chứng nhận vô tuyến;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (4)	Tài liệu phân tích tải điện;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (6)	Tài liệu chương trình bảo dưỡng (MPD), bao gồm cả chương trình kiểm soát và phòng chống rỉ sét, chương trình bảo dưỡng cấu trúc tàu bay;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (5)	Báo cáo của Hội động rà soát chương trình bảo dưỡng (MRBR) của nhà chế tạo;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (3)	Tài liệu sơ đồ mạch điện;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (8)	Giấy chứng nhận tiếng ồn;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (7)	Danh mục thiết bị cất cánh tối thiểu chính (MMEL);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (2)	Bản vẽ tổng thể, mô tả các đặc tính thiết kế, đặc tính hoạt động và các giới hạn hoạt động đề xuất của động cơ hoặc cánh quạt đó;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận loại tàu bay
+Căn cứ pháp lý:
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư để cắt giảm, đơn giản hóa thủ tục hành chính trong lĩnh vực đăng kiểm đường bộ, hàng không dân dụng và thanh tra thuộc phạm vi quản lý của Bộ Xây dựng (71/2025/TT-BXD)
+  * Ban hành Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay (01/2011/TT-BGTVT)
+  * Thông tư sửa đổi, bổ sung một số điều của Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay (56/2018/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

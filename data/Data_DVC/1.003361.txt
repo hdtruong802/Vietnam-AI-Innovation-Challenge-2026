@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003361
+Số quyết định: 814/QĐ-BNNMT
+Tên thủ tục: Cấp, cấp lại giấy phép nhập khẩu thủy sản sống đối với trường hợp phải đánh giá rủi ro
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thủy sản
+Trình tự thực hiện:
+    a) Tổ chức, cá nhân gửi 01 bộ hồ sơ đến Cục Thủy sản và Kiểm ngư theo hình thức trực tiếp tại Bộ phận Một cửa hoặc qua Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật.
+    b) Trong thời hạn không quá 02 ngày làm việc kể từ khi nhận được hồ sơ, Cục Thủy sản và Kiểm ngư xem xét tính đầy đủ của hồ sơ; nếu hồ sơ chưa đầy đủ theo quy định, Cục Thủy sản và Kiểm ngư thông báo bằng văn bản cho tổ chức, cá nhân.
+    c) Trong thời hạn 03 ngày làm việc kể từ khi nhận đủ hồ sơ, Cục Thủy sản và Kiểm ngư thẩm định hồ sơ; nếu hồ sơ không hợp lệ, Cục Thủy sản và Kiểm ngư thông báo bằng văn bản cho tổ chức, cá nhân và nêu rõ lý do;
+    d) Trường hợp cấp mới: trong thời hạn 28 ngày kể từ khi nhận đủ hồ sơ hợp lệ, Cục Thủy sản và Kiểm ngư tổ chức thực hiện đánh giá rủi ro theo quy định tại Chương III Thông tư số 17/2026/TT-BNNMT, cấp Giấy phép nhập khẩu thủy sản sống kèm theo Kế hoạch kiểm soát thủy sản sống nhập khẩu được phê duyệt theo Mẫu số 06 Phụ lục ban hành kèm theo Thông tư số 17/2026/TT-BNNMT. Trường hợp không cấp phép nhập khẩu, Cục Thủy sản và Kiểm ngư trả lời bằng văn bản, nêu rõ lý do;
+    đ) Trường hợp cấp lại (giấy phép bị mất hoặc bị hỏng hoặc có thay đổi thông tin nhà xuất khẩu, cửa khẩu nhập, kích cỡ loài thủy sản, địa chỉ của tổ chức, cá nhân nhập khẩu hoặc thay đổi, bổ sung nhà xuất khẩu, cửa khẩu nhập trên Giấy phép): tổ chức, cá nhân nộp đơn đề nghị theo Mẫu số 01 Phụ lục ban hành kèm theo Thông tư số 17/2026/TT-BNNMT đến Cục Thủy sản và Kiểm ngư theo quy định tại điểm a khoản 2 Điều 5 Thông tư số 17/2026/TT-BNNMT. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được đơn đề nghị, Cục Thủy sản và Kiểm ngư cấp lại giấy phép theo Mẫu số 06 Phụ lục ban hành kèm theo Thông tư số 17/2026/TT-BNNMT. Trường hợp không cấp lại giấy phép, Cục Thủy sản và Kiểm ngư phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 28 ngày làm việc (đối với trường hợp cấp mới), 02 ngày làm việc (đối với trường hợp cấp lại) kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 28 ngày làm việc (đối với trường hợp cấp mới), 02 ngày làm việc (đối với trường hợp cấp lại) kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 28 ngày làm việc (đối với trường hợp cấp mới), 02 ngày làm việc (đối với trường hợp cấp lại) kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo quy định
+
+Thành phần hồ sơ:
+  [ a) Đối với cấp mới ]
+    - - Bản chính bản thuyết minh đặc tính sinh học của thủy sản sống nhập khẩu theo Mẫu số 02 Phụ lục ban hành kèm theo Thông tư số 17/2026/TT-BNNMT
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị cấp Giấy phép nhập khẩu thủy sản sống theo Mẫu số 01 Phụ lục ban hành kèm theo Thông tư số 17/2026/TT-BNNMT
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính Kế hoạch kiểm soát thủy sản sống nhập khẩu theo Mẫu số 03 Phụ lục ban hành kèm theo Thông tư số 17/2026/TT-BNNMT
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b) Đối với cấp lại ]
+    - - Đơn đề nghị cấp Giấy phép nhập khẩu thủy sản sống theo Mẫu số 01 Phụ lục ban hành kèm theo Thông tư số 17/2026/TT-BNNMT
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Cục Thủy sản và Kiểm ngư - Bộ Nông nghiệp và Môi trường
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép nhập khẩu thủy sản sống theo Mẫu số 06 Phụ lục ban hành kèm theo Thông tư số 17/2026/TT-BNNMT
+Căn cứ pháp lý:
+  * Luật Đất đai ngày 18/01/2024; (31/2024/QH15)
+  * Luật (Luật 18/2017/QH14)
+  * sửa đổi bổ sung một số điều của 15 Luật trong lĩnh vực Nông nghiệp và Môi trường (146/2025/QH15)
+  * Luật số 43/2024/QH15 ngày 29/6/2024 (43/2024/QH15)
+  * Thông tư 01/2022/TT-BNNPTNT (01/2022/TT-BNNPTNT)
+  * sửa đổi, bổ sung một số điều của Thông tư số 25/2018/TT-BNNPTNT ngày 15 tháng 11 năm 2018 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn về đánh giá rủi ro, cấp phép thủy sản sống nhập khẩu đã được sửa đổi, bổ sung bởi Thông tư số 01/2022/TT-BNNPTNT (17/2026/TT-BNNMT)
+  * quy định trình tự, thủ tục đánh giá rủi ro, cấp phép nhập khẩu thủy sản sống (Thông tư 25/2018/TT-BNNPTNT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

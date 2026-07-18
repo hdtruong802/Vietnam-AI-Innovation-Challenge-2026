@@ -29,6 +29,14 @@
   --color-brand-red-hover-raw: #EA580C;
   --color-hero-start-raw: #FFF7ED; /* Soft warm peach-cream start */
   --color-hero-end-raw: #F8FAFC; /* Flows into background */
+
+  /* Cổng DVCQG landing page theme (D-012): scoped to the public marketing
+     landing page only, kept separate from the VNGov Copilot Navy & Orange
+     tokens above which still drive the app/copilot view. */
+  --color-gov-red-raw: #A6231C; /* Deep vermillion, matches reference footer/CTA */
+  --color-gov-red-hover-raw: #8A1C16;
+  --color-gov-gold-raw: #F5B301; /* Bronze drum gold accent */
+  --color-gov-cream-raw: #FFF8E7; /* Warm cream surface for landing cards */
 }
 
 @theme inline {
@@ -59,6 +67,12 @@
   --color-brand-red-hover: var(--color-brand-red-hover-raw);
   --color-hero-start: var(--color-hero-start-raw);
   --color-hero-end: var(--color-hero-end-raw);
+
+  /* Cổng DVCQG landing page bindings (D-012) */
+  --color-gov-red: var(--color-gov-red-raw);
+  --color-gov-red-hover: var(--color-gov-red-hover-raw);
+  --color-gov-gold: var(--color-gov-gold-raw);
+  --color-gov-cream: var(--color-gov-cream-raw);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -98,4 +112,56 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
+}
+
+/* Custom Keyframe Animations & Hover Effects */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes floatLotus {
+  0%, 100% {
+    transform: translateY(0) scale(1);
+  }
+  50% {
+    transform: translateY(-8px) scale(1.01);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-scale-in {
+  animation: scaleIn 0.5s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+.animate-float-lotus {
+  animation: floatLotus 6s ease-in-out infinite;
+}
+
+.hover-lift {
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-4px);
 }

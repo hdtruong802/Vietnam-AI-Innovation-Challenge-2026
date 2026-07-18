@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000789
+Số quyết định: 4093/QĐ-NHNN
+Tên thủ tục: Thủ tục cấp giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài đối với tổ chức tự doanh là ngân hàng thương mại, công ty tài chính tổng hợp
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    - Bước 1: Ngân hàng thương mại, công ty tài chính tổng hợp có nhu cầu thực hiện hoạt động tự doanh đầu tư gián tiếp ra nước ngoài nộp trực tiếp hoặc gửi qua đường bưu điện 01 (một) bộ hồ sơ theo quy định đến Ngân hàng Nhà nước.
+    - Bước 2: Thời hạn kiểm tra tính đầy đủ của hồ sơ là 03 (ba) ngày làm việc kể từ khi Bộ phận Một cửa của Ngân hàng Nhà nước tiếp nhận hồ sơ theo phương thức trực tiếp hoặc qua dịch vụ bưu chính.
+    + Trường hợp hồ sơ chưa đáp ứng điều kiện giải quyết, trong thời hạn 10 (mười) ngày làm việc kể từ ngày tiếp nhận hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu ngân hàng thương mại, công ty tài chính tổng hợp bổ sung, hoàn thiện hồ sơ;
+    - Bước 3: Trong thời hạn 25 (hai mươi lăm) ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo quy định, Ngân hàng Nhà nước xem xét cấp hoặc từ chối cấp giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài cho ngân hàng thương mại, công ty tài chính tổng hợp. Trường hợp từ chối, Ngân hàng Nhà nước thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Quy định nội bộ về quản lý hoạt động tự doanh đầu tư gián tiếp ra nước ngoài, trong đó có nội dung về cơ chế kiểm soát, kiểm toán nội bộ, nhận dạng và quản trị rủi ro liên quan đến hoạt động tự doanh đầu tư gián tiếp ra nước ngoài.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị cấp giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài (theo mẫu tại Phụ lục số 03 ban hành kèm theo Thông tư 10/2016/TT-NHNN được sửa đổi, bổ sung tại Thông tư số 78/2025/TT-NHNN);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao thông báo xác nhận việc thực hiện nghĩa vụ thuế tại thời điểm gần nhất theo quy định hiện hành của pháp luật về thuế;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: 49 Lý Thái Tổ, Hoàn Kiếm, HN
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài cho ngân hàng thương mại, công ty tài chính tổng hợp.
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung, bãi bỏ một số quy định tại các văn bản quy phạm pháp luật trong lĩnh vực quản lý ngoại hối đối với các giao dịch vốn để thực thi phương án cắt giảm, đơn giản hóa thủ tục hành chính (78/2025/TT-NHNN)
+  * Thông tư 10/2016/TT-NHNN (10/2016/TT-NHNN)
+  * Nghị định 135/2015/NĐ-CP (135/2015/NĐ-CP)
+  * Thông tư 15/2019/TT-NHNN (15/2019/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: - Được phép hoạt động ngoại hối trên thị trường quốc tế; 
+- Có lãi trong 03 năm liên tục liền trước năm nộp hồ sơ đề nghị cấp giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài được thể hiện trên báo cáo tài chính đã được kiểm toán và không có ý kiến ngoại trừ trọng yếu theo quy định của Bộ Tài chính. Báo cáo tài chính phải được kiểm toán bởi các tổ chức kiểm toán độc lập không nằm trong danh sách các tổ chức kiểm toán không được kiểm toán đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do Ngân hàng Nhà nước công bố; 
+- Thực hiện đầy đủ các nghĩa vụ tài chính với Nhà nước, không có nợ thuế với ngân sách nhà nước; 
+- Có quy trình nội bộ, cơ chế kiểm soát, kiểm toán nội bộ, nhận dạng và quản trị rủi ro liên quan đến hoạt động tự doanh đầu tư gián tiếp ra nước ngoài; 
+- Tuân thủ quy định hiện hành của Ngân hàng Nhà nước về các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động ngân hàng.
+Từ khóa: Không có thông tin
+Mô tả: - Được phép hoạt động ngoại hối trên thị trường quốc tế; 
+- Có lãi trong 03 năm liên tục liền trước năm nộp hồ sơ đề nghị cấp giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài được thể hiện trên báo cáo tài chính đã được kiểm toán và không có ý kiến ngoại trừ trọng yếu theo quy định của Bộ Tài chính. Báo cáo tài chính phải được kiểm toán bởi các tổ chức kiểm toán độc lập không nằm trong danh sách các tổ chức kiểm toán không được kiểm toán đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài do Ngân hàng Nhà nước công bố; 
+- Thực hiện đầy đủ các nghĩa vụ tài chính với Nhà nước, không có nợ thuế với ngân sách nhà nước; 
+- Có quy trình nội bộ, cơ chế kiểm soát, kiểm toán nội bộ, nhận dạng và quản trị rủi ro liên quan đến hoạt động tự doanh đầu tư gián tiếp ra nước ngoài; 
+- Tuân thủ quy định hiện hành của Ngân hàng Nhà nước về các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động ngân hàng.

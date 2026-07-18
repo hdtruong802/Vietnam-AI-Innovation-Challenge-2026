@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000414
+Số quyết định: 641/QĐ-BNV
+Tên thủ tục: Rút tiền ký quỹ của doanh nghiệp cho thuê lại lao động
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Lao động, tiền lương
+Trình tự thực hiện:
+    - Bước 1: Doanh nghiệp gửi 01 bộ hồ sơ theo quy định đến Sở Nội vụ nơi doanh nghiệp đặt trụ sở chính. Sở Nội vụ tiếp nhận hồ sơ, kiểm tra và cấp giấy biên nhận ghi rõ ngày, tháng, năm nhận đủ hồ sơ.
+    - Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị rút tiền ký quỹ của doanh nghiệp cho thuê lại, Sở Nội vụ kiểm tra, xác thực hồ sơ đề nghị của doanh nghiệp cho thuê lại và việc hoàn thành nghĩa vụ đối với người lao động thuê lại của doanh nghiệp cho thuê lại trong trường hợp doanh nghiệp cho thuê lại bị thu hồi giấy phép hoặc không được gia hạn, cấp lại giấy phép và trình Chủ tịch Ủy ban nhân dân cấp tỉnh đồng ý để doanh nghiệp cho thuê lại rút tiền ký quỹ.
+    - Bước 3: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ trình của Sở Nội vụ, Chủ tịch Ủy ban nhân dân cấp tỉnh có văn bản chấp thuận rút tiền ký quỹ và phương án sử dụng tiền ký quỹ (nếu có) gửi doanh nghiệp cho thuê lại và ngân hàng nhận ký quỹ. Trường hợp không đồng ý về việc rút tiền ký quỹ thì Chủ tịch Ủy ban nhân dân cấp tỉnh có văn bản trả lời doanh nghiệp cho thuê lại trong đó nêu rõ lý do không đồng ý.
+    - Bước 4: Sau khi có văn bản đồng ý về việc rút tiền ký quỹ của Chủ tịch Ủy ban nhân dân cấp tỉnh, doanh nghiệp cho thuê lại nộp hồ sơ theo quy định tại ngân hàng nhận ký quỹ.
+    - Bước 5: Ngân hàng nhận ký quỹ tiếp nhận và kiểm tra hồ sơ rút tiền ký quỹ của doanh nghiệp cho thuê lại, nếu đúng quy định thì ngân hàng nhận ký quỹ cho doanh nghiệp cho thuê lại thực hiện rút tiền ký quỹ trong thời hạn 01 ngày làm việc, kể từ ngày tiếp nhận hồ sơ rút tiền ký quỹ.
+    Trường hợp doanh nghiệp rút tiền ký quỹ do: (i) doanh nghiệp cho thuê lại gặp khó khăn, không đủ nguồn tài chính để thanh toán đủ tiền lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp và các chế độ khác đối với người lao động thuê lại theo thỏa thuận trong hợp đồng lao động, thỏa ước lao động tập thể, nội quy, quy chế của doanh nghiệp cho thuê lại sau thời hạn từ 30 ngày kể từ ngày đến thời hạn thanh toán theo quy định của pháp luật; (ii) doanh nghiệp cho thuê lại gặp khó khăn, không đủ khả năng bồi thường cho người lao động thuê lại do vi phạm hợp đồng lao động với người lao động thuê lại hoặc gây thiệt hại cho người lao động thuê lại vì không bảo đảm quyền và lợi ích hợp pháp của người lao động thuê lại sau thời hạn 60 ngày kể từ ngày đến thời hạn bồi thường theo quy định của pháp luật thì việc thanh toán, bồi thường cho người lao động do ngân hàng nhận ký quỹ trực tiếp chi trả theo phương án đã được Chủ tịch Ủy ban nhân dân cấp tỉnh đồng ý sau khi trừ chi phí dịch vụ ngân hàng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ c.1.1) Hồ sơ đề nghị Chủ tịch Ủy ban nhân dân cấp tỉnh cho rút tiền ký quỹ gửi đến Sở Nội vụ ]
+    - - Văn bản đề nghị rút tiền ký quỹ của doanh nghiệp cho thuê lại lao động.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Phương án sử dụng số tiền rút từ tài khoản ký quỹ, gồm: lý do, mục đích rút tiền ký quỹ; danh sách, số lượng người lao động, số tiền, thời gian, phương thức thanh toán đối với trường hợp rút tiền ký quỹ quy định tại các điểm C.VII.1.a và C.VII.1.b Mục 1 Phụ lục I.4 ban hành kèm theo Nghị quyết số 66.18/2026/NQ-CP, cụ thể như sau: (1) doanh nghiệp cho thuê lại lao động gặp khó khăn, không đủ nguồn tài chính để thanh toán đủ tiền lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp và các chế độ khác đối với người lao động thuê lại theo thỏa thuận trong hợp đồng lao động, thỏa ước lao động tập thể, nội quy, quy chế của doanh nghiệp cho thuê lại lao động sau thời hạn 30 ngày kể từ ngày đến thời hạn thanh toán theo quy định của pháp luật; (2) doanh nghiệp cho thuê lại lao động gặp khó khăn, không đủ khả năng bồi thường cho người lao động thuê lại do vi phạm hợp đồng lao động đối với người lao động thuê lại hoặc gây thiệt hại cho người lao động thuê lại vì không bảo đảm quyền và lợi ích hợp pháp của người lao động thuê lại sau thời hạn 60 ngày kể từ ngày đến thời hạn bồi thường theo quy định của pháp luật.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo việc hoàn thành nghĩa vụ và văn bản chứng minh việc hoàn thành nghĩa vụ đối với người lao động thuê lại trong trường hợp rút tiền ký quỹ của doanh nghiệp chấm dứt hoạt động cho thuê lại lao động.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy chứng nhận tiền ký quỹ hoạt động cho thuê lại lao động đối với trường hợp rút tiền ký quỹ của doanh nghiệp cho thuê lại lao động đã thực hiện ký quỹ tại một ngân hàng nhận ký quỹ khác.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ c.1.2) Hồ sơ rút tiền ký quỹ gửi ngân hàng nhận ký quỹ ]
+    - - Văn bản đề nghị rút tiền ký quỹ của doanh nghiệp cho thuê lại lao động.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản đồng ý về việc rút tiền ký quỹ của Chủ tịch Ủy ban nhân dân cấp tỉnh theo Mẫu số 01 Phụ lục I.4 ban hành kèm theo Nghị quyết số 66.18/2026/NQ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Chứng từ rút tiền ký quỹ theo quy định của ngân hàng nhận ký quỹ (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Nội vụ, Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận việc rút tiền ký quỹ kinh doanh cho thuê lại lao động
+Căn cứ pháp lý:
+  * QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA BỘ LUẬT LAO ĐỘNG VỀ ĐIỀU KIỆN LAO ĐỘNG VÀ QUAN HỆ LAO ĐỘNG (145/2020/NĐ-CP)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/QH15)
+  * Nghị quyết số 66.18/2026/NQ-CP ngày 18 tháng 5 năm 2026 của Chính phủ về việc phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (66.18/2026/NQ-CP)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Doanh nghiệp cho thuê lại lao động rút tiền ký quỹ khí doanh nghiệp thuộc một trong các trường hợp sau:
+- Doanh nghiệp cho thuê lại lao động gặp khó khăn, không đủ nguồn tài chính để thanh toán đủ tiền lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp và các chế độ khác đối với người lao động thuê lại theo thỏa thuận trong hợp đồng lao động, thỏa ước lao động tập thể, nội quy, quy chế của doanh nghiệp cho thuê lại lao động sau thời hạn 30 ngày kể từ ngày đến thời hạn thanh toán theo quy định của pháp luật; 
+- Doanh nghiệp cho thuê lại lao động gặp khó khăn, không đủ khả năng bồi thường cho người lao động thuê lại do vi phạm hợp đồng lao động đối với người lao động thuê lại hoặc gây thiệt hại cho người lao động thuê lại vì không bảo đảm quyền và lợi ích hợp pháp của người lao động thuê lại sau thời hạn 60 ngày kể từ ngày đến thời hạn bồi thường theo quy định của pháp luật;
+- Doanh nghiệp chấm dứt hoạt động cho thuê lại lao động;
+- Doanh nghiệp cho thuê lại lao động đã thực hiện ký quỹ tại một ngân hàng nhận ký quỹ khác.
+Từ khóa: Không có thông tin
+Mô tả: Doanh nghiệp cho thuê lại lao động rút tiền ký quỹ khí doanh nghiệp thuộc một trong các trường hợp sau:
+- Doanh nghiệp cho thuê lại lao động gặp khó khăn, không đủ nguồn tài chính để thanh toán đủ tiền lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp và các chế độ khác đối với người lao động thuê lại theo thỏa thuận trong hợp đồng lao động, thỏa ước lao động tập thể, nội quy, quy chế của doanh nghiệp cho thuê lại lao động sau thời hạn 30 ngày kể từ ngày đến thời hạn thanh toán theo quy định của pháp luật; 
+- Doanh nghiệp cho thuê lại lao động gặp khó khăn, không đủ khả năng bồi thường cho người lao động thuê lại do vi phạm hợp đồng lao động đối với người lao động thuê lại hoặc gây thiệt hại cho người lao động thuê lại vì không bảo đảm quyền và lợi ích hợp pháp của người lao động thuê lại sau thời hạn 60 ngày kể từ ngày đến thời hạn bồi thường theo quy định của pháp luật;
+- Doanh nghiệp chấm dứt hoạt động cho thuê lại lao động;
+- Doanh nghiệp cho thuê lại lao động đã thực hiện ký quỹ tại một ngân hàng nhận ký quỹ khác.

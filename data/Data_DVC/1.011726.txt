@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011726
+Số quyết định: 4977/QĐ-BCA
+Tên thủ tục: Trình báo mất thẻ ABTC (thực hiện tại cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý xuất nhập cảnh
+Trình tự thực hiện:
+    Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+    Bước 2: Nộp hồ sơ
+    * Doanh nhân bị mất thẻ ABTC cứng hoặc tài khoản đăng nhập thẻ ABTC điện tử trực tiếp nộp hoặc gửi đơn báo mất tại trụ sở làm việc của Cơ quan Quản lý xuất nhập cảnh Công an cấp tỉnh hoặc gửi trực tuyến qua Cổng dịch vụ công Bộ Công an.
+    * Cán bộ quản lý xuất nhập cảnh tiếp nhận hồ sơ, kiểm tra tính pháp lý và nội dung hồ sơ:
+    + Trường hợp hồ sơ hợp lệ thì cấp giấy hẹn trả kết quả hoặc hệ thống của Cổng dịch vụ công thông báo bằng tin nhắn (sms) hoặc thư điện tử (email) về việc tiếp nhận hồ sơ.
+    + Trường hợp hồ sơ chưa hợp lệ thì cán bộ tiếp nhận hồ sơ hướng dẫn hoàn thiện hồ sơ theo mẫu CV03 hoặc hệ thống của Cổng dịch vụ công thông báo bằng tin nhắn (sms) hoặc thư điện tử (email).
+    * Thời gian tiếp nhận hồ sơ:
+    + Nộp trực tiếp hoặc qua dịch vụ bưu chính công ích: giờ hành chính từ thứ 2 đến sáng thứ 7 hàng tuần (trừ ngày Tết, ngày lễ).
+    + Nộp trực tuyến: 24 giờ/7 ngày.
+    Bước 3: Nhận kết quả
+    Cơ quan Quản lý xuất nhập cảnh Công an cấp tỉnh gửi thông báo cho doanh nhân biết về việc chuyển đơn trình báo mất thẻ ABTC cho Cục Quản lý xuất nhập cảnh (mẫu CV04).
+    Cục Quản lý xuất nhập cảnh gửi thông báo về việc giải quyết đơn trình báo mất thẻ ABTC cho doanh nhân biết (mẫu CV05).
+    + Thời gian trả kết quả: Từ thứ 2 đến thứ 6 hàng tuần (trừ ngày Tết, ngày lễ).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: + Trong thời hạn 02 ngày làm việc kể từ khi nhận đơn trình báo mất thẻ ABTC, Công an cấp huyện gửi văn bản cho Cục Quản lý xuất nhập cảnh về việc đã tiếp nhận đơn trình báo mất thẻ ABTC của doanh nhân và người gửi đơn theo mẫu CV04.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: + Trong thời hạn 02 ngày làm việc kể từ khi nhận đơn trình báo mất thẻ ABTC, Công an cấp huyện gửi văn bản cho Cục Quản lý xuất nhập cảnh về việc đã tiếp nhận đơn trình báo mất thẻ ABTC của doanh nhân và người gửi đơn theo mẫu CV04.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: + Trong thời hạn 02 ngày làm việc kể từ khi nhận đơn trình báo mất thẻ ABTC, Công an cấp huyện gửi văn bản cho Cục Quản lý xuất nhập cảnh về việc đã tiếp nhận đơn trình báo mất thẻ ABTC của doanh nhân và người gửi đơn theo mẫu CV04.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: + Trong thời hạn 03 ngày làm việc kể từ khi tiếp nhận văn bản về việc đã tiếp nhận đơn trình báo mất thẻ ABTC, Cục Quản lý xuất nhập cảnh gửi thông báo cho doanh nhân biết về việc giải quyết đơn trình báo mất thẻ ABTC theo mẫu CV05.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: + Trong thời hạn 03 ngày làm việc kể từ khi tiếp nhận văn bản về việc đã tiếp nhận đơn trình báo mất thẻ ABTC, Cục Quản lý xuất nhập cảnh gửi thông báo cho doanh nhân biết về việc giải quyết đơn trình báo mất thẻ ABTC theo mẫu CV05.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: + Trong thời hạn 03 ngày làm việc kể từ khi tiếp nhận văn bản về việc đã tiếp nhận đơn trình báo mất thẻ ABTC, Cục Quản lý xuất nhập cảnh gửi thông báo cho doanh nhân biết về việc giải quyết đơn trình báo mất thẻ ABTC theo mẫu CV05.
+
+Thành phần hồ sơ:
+    - Đơn trình báo mất thẻ ABTC (mẫu TK07) ban hành kèm theo Quyết định số 09/2023/QĐ-TTg ngày 12/4/2023 của Thủ tướng Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Công an tỉnh
+Cơ quan có thẩm quyền: Cục quản lý xuất nhập cảnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo của Cục Quản lý xuất nhập cảnh về việc giải quyết đơn trình báo mất thẻ ABTC (mẫu CV05), Thông báo về việc chuyển đơn trình báo mất thẻ ABTC (mẫu CV04)
+Căn cứ pháp lý:
+  * Quyết định số 09/2023/QĐ-TTg (09/2023/QĐ-TTg)
+  * Luật 49/2019/QH14 (49/2019/QH14)
+
+Yêu cầu, điều kiện thực hiện: Trong thời hạn 48 giờ kể từ khi phát hiện thẻ ABTC hoặc tài khoản thẻ ABTC bị mất thì doanh nhân thực hiện việc trình báo mất theo quy định. Trường hợp vì lý do bất khả kháng, thời hạn gửi đơn báo mất có thể dài hơn nhưng trong đơn phải giải thích cụ thể vì lý do bất khả kháng.
+Từ khóa: Không có thông tin
+Mô tả: Trong thời hạn 48 giờ kể từ khi phát hiện thẻ ABTC hoặc tài khoản thẻ ABTC bị mất thì doanh nhân thực hiện việc trình báo mất theo quy định. Trường hợp vì lý do bất khả kháng, thời hạn gửi đơn báo mất có thể dài hơn nhưng trong đơn phải giải thích cụ thể vì lý do bất khả kháng.

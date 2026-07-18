@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001738
+Số quyết định: 999/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp giấy phép tổ chức trại sáng tác điêu khắc  
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Mỹ thuật, nhiếp ảnh, triển lãm
+Trình tự thực hiện:
+    - Ủy ban nhân dân cấp tỉnh có thẩm quyền cấp giấy phép tổ chức trại sáng tác điêu khắc cho tất cả các trường hợp quy định tại điểm a, điểm b khoản 1 Điều 36 Nghị định số 113/2013/NĐ-CP ngày 01 tháng 10 năm 2013 của Chính phủ về hoạt động mỹ thuật.
+    - Tổ chức, cá nhân trong nước và nước ngoài tổ chức trại sáng tác điêu khắc gửi 01 bộ hồ sơ đề nghị cấp phép tổ chức trại sáng tác điêu khắc đến Uỷ ban nhân dân cấp tỉnh.
+    - Trong thời gian 07 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Uỷ ban nhân dân cấp tỉnh cấp giấy phép, trường hợp không cấp giấy phép phải có văn bản trả lời, nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đề án được cấp có thẩm quyền phê duyệt
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thể lệ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị cấp giấy phép (mẫu số 9 ban hành kèm theo Nghị định số 113/2013/NĐ-CP ngày 02 tháng 10 năm 2013 của Chính phủ về hoạt động mỹ thuật)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép tổ chức trại sáng tác điêu khắc
+Căn cứ pháp lý:
+  * Nghị quyết số 18/2026/NQ-CP ngày 29/4/2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, cắt giảm điều kiện đầu tư kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (18/2026/NQ-CP)
+  * Về hoạt động mỹ thuật (113/2013/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Cơ quan, tổ chức Việt Nam được cấp giấy phép tổ chức trại sáng tác điêu khắc, phải đáp ứng các điều kiện sau:
+- Có chức năng hoạt động văn hoá nghệ thuật;
+- Có đề án được cấp có thẩm quyền phê duyệt;
+- Có thể lệ tổ chức trại sáng tác điêu khắc.
+Từ khóa: Không có thông tin
+Mô tả: Cơ quan, tổ chức Việt Nam được cấp giấy phép tổ chức trại sáng tác điêu khắc, phải đáp ứng các điều kiện sau:
+- Có chức năng hoạt động văn hoá nghệ thuật;
+- Có đề án được cấp có thẩm quyền phê duyệt;
+- Có thể lệ tổ chức trại sáng tác điêu khắc.

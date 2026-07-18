@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007926
+Số quyết định: 278/QĐ-BNNMT
+Tên thủ tục: Cấp Quyết định công nhận tổ chức khảo nghiệm phân bón
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trồng trọt và Bảo vệ thực vật
+Trình tự thực hiện:
+    Bước 1: Tổ chức nộp 01 bộ hồ sơ đề nghị cấp Quyết định công nhận tổ chức khảo nghiệm phân bón đến cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh  giao tiếp nhận hồ sơ giải quyết thủ tục hành chính (nơi tổ chức đặt trụ sở) bằng hình thức trực tiếp hoặc môi trường mạng hoặc qua dịch vụ bưu chính.
+    Bước 2: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp; trả lời bằng văn bản tính đầy đủ của hồ sơ trong 01 ngày làm việc đối với trường hợp nộp hồ sơ qua môi trường mạng hoặc qua dịch vụ bưu chính.
+    Bước 3: Trong thời hạn 18 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính tổ chức thẩm định, tổ chức kiểm tra thực tế (có thể thành lập đoàn kiểm tra) và trình Chủ tịch Ủy ban nhân dân cấp tỉnh.
+    Bước 4: Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ trình của cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét cấp Quyết định công nhận tổ chức khảo nghiệm phân bón theo Mẫu số 24 Phụ lục I ban hành kèm theo Nghị định số 33/2026/NĐ-CP; trường hợp không cấp, trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị công nhận tổ chức khảo nghiệm phân bón theo Mẫu số 22 Phụ lục I ban hành kèm theo Nghị định số 33/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản thuyết minh điều kiện thực hiện khảo nghiệm phân bón theo Mẫu số 23 Phụ lục I ban hành kèm theo Nghị định số 33/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận tổ chức khảo nghiệm phân bón theo Mẫu số 24 Phụ lục I ban hành kèm theo Nghị định số 33/2026/NĐ-CP
+Căn cứ pháp lý:
+  * quy định chi tiết một số điều của Luật Bảo vệ và kiểm dịch thực vật, Luật Trồng trọt và sửa đổi, bổ sung một số điều của các thông tư trong lĩnh vực trồng trọt và bảo vệ thực vật (số 07/2026/TT-BNNMT)
+  * Luật sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường (Luật số 146/2025/QH15)
+  * sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực trồng trọt và bảo vệ thực vật (Nghị định số 33/2026/NĐ-CP)
+  * Luật Trồng trọt (Luật số 31/2018/QH14)
+  * Nghị định quy định về quản lý phân bón. (Nghị định 84/2019/NĐ-CP..)
+
+Yêu cầu, điều kiện thực hiện: 7.10. Yêu cầu, điều kiện thực hiện thủ tục hành chính: 
+Tổ chức khảo nghiệm phân bón phải bảo đảm các điều kiện sau đây:
+a) Có đủ số lượng nhân lực thực hiện khảo nghiệm, không kể người trực tiếp phụ trách khảo nghiệm, có trình độ từ đại học trở lên thuộc một trong các chuyên ngành về trồng trọt, bảo vệ thực vật, nông hóa thổ nhưỡng, khoa học đất, nông học, hóa học, sinh học và phải tham gia tập huấn khảo nghiệm phân bón theo hướng dẫn của Bộ Nông nghiệp và Môi trường.
+Tổ chức khảo nghiệm phân bón phải có đủ số lượng nhân lực thực hiện khảo nghiệm, trong đó ngoài người trực tiếp phụ trách khảo nghiệm phải có tối thiểu 05 nhân lực chính thức thực hiện khảo nghiệm (viên chức hoặc hợp đồng lao động không xác định thời hạn hoặc hợp đồng lao động xác định thời hạn tối thiểu 12 tháng).
+b) Có đầy đủ cơ sở vật chất, trang thiết bị theo tiêu chuẩn quốc gia về khảo nghiệm phân bón.
+Từ khóa: Không có thông tin
+Mô tả: 7.10. Yêu cầu, điều kiện thực hiện thủ tục hành chính: 
+Tổ chức khảo nghiệm phân bón phải bảo đảm các điều kiện sau đây:
+a) Có đủ số lượng nhân lực thực hiện khảo nghiệm, không kể người trực tiếp phụ trách khảo nghiệm, có trình độ từ đại học trở lên thuộc một trong các chuyên ngành về trồng trọt, bảo vệ thực vật, nông hóa thổ nhưỡng, khoa học đất, nông học, hóa học, sinh học và phải tham gia tập huấn khảo nghiệm phân bón theo hướng dẫn của Bộ Nông nghiệp và Môi trường.
+Tổ chức khảo nghiệm phân bón phải có đủ số lượng nhân lực thực hiện khảo nghiệm, trong đó ngoài người trực tiếp phụ trách khảo nghiệm phải có tối thiểu 05 nhân lực chính thức thực hiện khảo nghiệm (viên chức hoặc hợp đồng lao động không xác định thời hạn hoặc hợp đồng lao động xác định thời hạn tối thiểu 12 tháng).
+b) Có đầy đủ cơ sở vật chất, trang thiết bị theo tiêu chuẩn quốc gia về khảo nghiệm phân bón.

@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014603
+Số quyết định: 33/QĐ-UBND
+Tên thủ tục: Xác định đủ điều kiện hỗ trợ đối với doanh nghiệp thành lập mới trên địa bàn thành phố Huế
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hỗ trợ doanh nghiệp nhỏ và vừa
+Trình tự thực hiện:
+    - Bước 1: Doanh nghiệp nộp (trực tiếp, trực tuyến qua Cổng Dịch vụ công quốc gia hoặc qua đường bưu điện) 01 bộ hồ sơ đề nghị hỗ trợ đến Sở Tài chính thành phố Huế.
+    - Bước 2: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Phòng Đăng ký kinh doanh Sở Tài chính thành phố Huế phối hợp với các đơn vị liên quan tiến hành thẩm định hồ sơ đề nghị hỗ trợ. Trường hợp hồ sơ không đảm bảo điều kiện hỗ trợ, Sở Tài chính thành phố Huế ban hành văn bản thông báo và nêu rõ lý do.
+    - Bước 3: Trong thời hạn 05 ngày làm việc, sau khi có kết quả thẩm định đủ điều kiện được hỗ trợ, Sở Tài chính thông báo đến Doanh nghiệp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 08 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 08 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 08 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Tờ khai xác định quy mô doanh nghiệp và đề xuất nhu cầu hỗ trợ đối với doanh nghiệp thành lập mới trên địa bàn thành phố Huế (theo mẫu ban hành kèm theo Nghị quyết này).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Sở Tài chính - Thành phố Huế
+Cơ quan có thẩm quyền: Sở Tài chính - Thành phố Huế
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công thành phố, số 01 Lê Lai, phường Thuận Hóa, thành phố Huế
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Phê duyệt kết quả đủ điều kiện hỗ trợ đối với doanh nghiệp thành lập mới trên địa bàn thành phố Huế
+Căn cứ pháp lý:
+  * Nghị quyết Quy định một số chính sách hỗ trợ đối với doanh nghiệp thành lập mới trên địa bàn thành phố Huế (45/2025/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Doanh nghiệp thành lập mới trên địa bàn thành phố Huế đảm bảo 03 điều kiện:
+- Là doanh nghiệp siêu nhỏ theo quy định khoản 1 Điều 5 Nghị định số 80/2021/NĐ-CP.
+- Trước khi thành lập doanh nghiệp, hộ kinh doanh đã đăng ký và hoạt động theo quy định của pháp luật;
+- Hộ kinh doanh có hoạt động sản xuất, kinh doanh liên tục ít nhất là 01 năm tính đến ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp lần đầu.
+Từ khóa: Không có thông tin
+Mô tả: Doanh nghiệp thành lập mới trên địa bàn thành phố Huế đảm bảo 03 điều kiện:
+- Là doanh nghiệp siêu nhỏ theo quy định khoản 1 Điều 5 Nghị định số 80/2021/NĐ-CP.
+- Trước khi thành lập doanh nghiệp, hộ kinh doanh đã đăng ký và hoạt động theo quy định của pháp luật;
+- Hộ kinh doanh có hoạt động sản xuất, kinh doanh liên tục ít nhất là 01 năm tính đến ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp lần đầu.

@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013840
+Số quyết định: 1859/QĐ-BTP
+Tên thủ tục: Đăng ký hoạt động Văn phòng công chứng hợp nhất
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công chứng
+Trình tự thực hiện:
+    - Căn cứ quyết định cho phép hợp nhất của Ủy ban nhân dân cấp tỉnh, Văn phòng công chứng hợp nhất lập 01 bộ hồ sơ theo quy định, nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử về Sở Tư pháp nơi Văn phòng công chứng đặt trụ sở.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp cấp giấy đăng ký hoạt động cho Văn phòng công chứng hợp nhất, thu hồi giấy đăng ký hoạt động của Văn phòng công chứng bị hợp nhất, trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (/hồ sơ)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (/hồ sơ)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (/hồ sơ)
+
+Thành phần hồ sơ:
+    - Đơn đăng ký hoạt động của Văn phòng công chứng hợp nhất theo mẫu do Bộ trưởng Bộ Tư pháp quy định
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thẻ công chứng viên của các công chứng viên của Văn phòng công chứng hợp nhất
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử Giấy tờ chứng minh điều kiện về trụ sở của Văn phòng công chứng hợp nhất theo quy định tại Điều 18 của Nghị định số 104/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy đăng ký hoạt động của văn phòng công chứng hợp nhất
+Căn cứ pháp lý:
+  * Thông tư 05/2025/TT-BTP hướng dẫn Luật Công chứng do Bộ trưởng Bộ Tư pháp ban hành (05/2025/TT-BTP)
+  * Nghị định số 104/2025/NĐ-CP ngày 15/5/2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Công chứng (104/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Các Văn phòng công chứng bị hợp nhất được tiếp tục hoạt động nhưng không được tiếp nhận các yêu cầu công chứng mới cho đến khi Văn phòng công chứng hợp nhất được cấp giấy đăng ký hoạt động. Văn phòng công chứng hợp nhất kế thừa toàn bộ quyền, nghĩa vụ, yêu cầu công chứng đang thực hiện tại các Văn phòng công chứng bị hợp nhất và có trách nhiệm lưu trữ toàn bộ hồ sơ công chứng của các Văn phòng công chứng bị hợp nhất.
+Từ khóa: Không có thông tin
+Mô tả: Các Văn phòng công chứng bị hợp nhất được tiếp tục hoạt động nhưng không được tiếp nhận các yêu cầu công chứng mới cho đến khi Văn phòng công chứng hợp nhất được cấp giấy đăng ký hoạt động. Văn phòng công chứng hợp nhất kế thừa toàn bộ quyền, nghĩa vụ, yêu cầu công chứng đang thực hiện tại các Văn phòng công chứng bị hợp nhất và có trách nhiệm lưu trữ toàn bộ hồ sơ công chứng của các Văn phòng công chứng bị hợp nhất.

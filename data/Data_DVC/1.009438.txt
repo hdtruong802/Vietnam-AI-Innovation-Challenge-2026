@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009438
+Số quyết định: 71/QĐ-BXD
+Tên thủ tục: Phê duyệt bản vẽ tổng mặt bằng trong phạm vi ranh giới dự án được giao đầu tư
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+    a) Nộp hồ sơ thủ tục hành chính:
+    Chủ đầu tư dự án đầu tư xây dựng công trình tại cảng hàng không, sân bay tổ chức lập bản vẽ tổng mặt bằng tỷ lệ 1/500 trong phạm vi ranh giới dự án được cấp có thẩm quyền giao đầu tư và gửi 01 bộ hồ sơ đề nghị phê duyệt bản vẽ tổng mặt bằng trong phạm vi ranh giới dự án được giao đầu tư trực tiếp hoặc qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức khác đến Cục Hàng không Việt Nam.
+    b) Giải quyết thủ tục hành chính:
+    Trong thời hạn 27 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Hàng không Việt Nam có trách nhiệm lấy ý kiến các đơn vị có liên quan, thẩm định, phê duyệt bản vẽ tổng mặt bằng trong phạm vi ranh giới dự án được giao đầu tư và gửi trực tiếp hoặc qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức khác đến chủ đầu tư dự án. Trường hợp từ chối phê duyệt, Cục Hàng không Việt Nam nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Bản sao hoặc bản sao điện tử hồ sơ bản vẽ tổng mặt bằng, bao gồm: thuyết minh bản vẽ tổng mặt bằng và các bản vẽ có liên quan;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Văn bản đề nghị phê duyệt bản vẽ tổng mặt bằng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao hoặc bản sao điện tử chụp văn bản góp ý của các cơ quan, đơn vị liên quan;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao hoặc bản sao điện tử văn bản giải trình các ý kiến góp ý của các cơ quan, đơn vị liên quan.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, Phường Bồ Đề, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt bản vẽ tổng mặt bằng trong phạm vi ranh giới dự án được giao đầu tư
+Căn cứ pháp lý:
+  * Nghị định 64/2022/NĐ-CP (64/2022/NĐ-CP)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Xây dựng (14/2026/NĐ-CP)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Nghị định 205/2026/NĐ-CP ngày 15/6/2026 của Chính phủ về cảng hàng không và bãi cất, hạ cánh. (205/2026/NĐ-CP)
+  * sửa đổi, bổ sung một số điều của Nghị định số 05/2021/NĐ-CP ngày 25 tháng 01 năm 2021 của Chính phủ về quản lý, khai thác cảng hàng không, sân bay và Nghị định số 64/2022/NĐ-CP ngày 15 tháng 9 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định quy định liên quan đến hoạt động kinh doanh trong lĩnh vực hàng không dân dụng. (20/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

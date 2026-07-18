@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001283
+Số quyết định: 1075a/QĐ-NHNN
+Tên thủ tục: Thủ tục điều chỉnh thông tin ngân hàng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động công nghệ thông tin ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Trong thời gian 10 ngày làm việc kể từ ngày có thay đổi thông tin ngân hàng, các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, Kho bạc Nhà nước, các tổ chức khác có hoạt động nghiệp vụ, trao đổi dữ liệu điện tử qua Ngân hàng nhà nước gửi 01 đề nghị điều chỉnh thông tin ngân hàng ngân hàng đến Ngân hàng Nhà nước.
+    + Bước 2: Ngân hàng Nhà nước Việt Nam (Cục Công nghệ thông tin) phối hợp với các đơn vị liên quan xem xét, thẩm định hồ sơ điều chỉnh thông tin ngân hàng.
+    + Bước 3: Ngân hàng Nhà nước Việt Nam (Cục Công nghệ thông tin) gửi kết quả cho đơn vị đề nghị và có Thông báo điện tử về việc điều chỉnh thông tin ngân hàng trên Cổng Dịch vụ công quốc gia. Trường hợp từ chối điều chỉnh thông tin ngân hàng, Cục Công nghệ thông tin thông báo lý do từ chối theo phương thức đơn vị gửi hồ sơ đề nghị.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Phương thức điện tử qua Hệ thống dịch vụ công;
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đề nghị điều chỉnh thông tin ngân hàng theo Phụ lục 03.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản từ chối, Thông báo điện tử về việc điều chỉnh thông tin ngân hàng
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 17/2015/TT-NHNN ngày 21 tháng 10 năm 2015 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về hệ thống mã ngân hàng dùng trong hoạt động, nghiệp vụ ngân hàng (Thông tư 18/2023/TT-NHNN)
+  * Thông tư 17/2015/TT-NHNN (17/2015/TT-NHNN)
+  * sửa đổi, bổ sung một số điều của Thông tư số 17/2015/TT-NHNN (11/2025/TT-NHNN)
+  * sửa đổi, bổ sung một số điều của Thông tư số 17/2015/TT-NHNN (18/2026/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

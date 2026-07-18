@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007885
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hóa nhập khẩu bán tại cửa hàng miễn thuế
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    + Bước 1: Thương nhân kinh doanh bán hàng miễn thuế chuẩn bị hồ sơ thanh khoản nộp cho cơ quan hải quan (theo quy định tại Điều 18 Thông tư số 148/2013/TT-BTC ngày 25/10/2013 của Bộ tài chính).
+    + Bước 2: Cơ quan hải quan tiếp nhận hồ sơ và kiểm tra hồ sơ theo quy định (theo quy định tại Điều 19 Thông tư số 148/2013/TT-BTC ngày 25/10/2013 của Bộ tài chính).
+    + Bước 3: Xác nhận thanh khoản hồ sơ trả cho thương nhân kinh doanh bán hàng miễn thuế.
+    + Bước 4: Lưu trữ hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 HOUR
+    Phí, lệ phí: 20 VNĐ (20.000 vnđ / tờ khai)
+
+Thành phần hồ sơ:
+    - + Hợp đồng mua bán hàng hoá hoặc các giấy tờ có giá trị pháp lý tương đương hợp đồng: nộp 01 bản sao (trừ hàng hoá nêu tại khoản 5, khoản 7, khoản 8 Điều 6 Thông tư này); hợp đồng uỷ thác nhập khẩu (nếu nhập khẩu uỷ thác): nộp 01 bản sao; Hợp đồng mua bán hàng hoá phải là bản tiếng Việt hoặc bản tiếng Anh, nếu là ngôn ngữ khác thì người khai hải quan phải nộp kèm bản dịch ra tiếng Việt và chịu trách nhiệm trước pháp luật về nội dung bản dịch.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Hóa đơn thương mại (trừ hàng hoá nêu tại khoản 8 Điều 6 Thông tư này): nộp 01 bản chính;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Tờ khai hải quan;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Tuỳ từng trường hợp cụ thể dưới đây, người khai hải quan nộp thêm, xuất trình các chứng từ sau: •	Bản kê chi tiết hàng hoá đối với hàng hoá có nhiều chủng loại hoặc đóng gói không đồng nhất: nộp 01 bản chính hoặc bản có giá trị tương đương như điện báo, bản fax, telex, thông điệp dữ liệu và các hình thức khác theo quy định của pháp luật; •	Giấy đăng ký kiểm tra hoặc giấy thông báo miễn kiểm tra hoặc giấy thông báo kết quả kiểm tra của tổ chức kỹ thuật được chỉ định kiểm tra chất lượng, của cơ quan kiểm tra vệ sinh an toàn thực phẩm, của cơ quan kiểm dịch (sau đây gọi tắt là cơ quan kiểm tra) đối với hàng hóa nhập khẩu thuộc danh mục sản phẩm, hàng hoá phải kiểm tra về chất lượng, về vệ sinh an toàn thực phẩm; về kiểm dịch động vật, kiểm dịch thực vật: nộp 01 bản chính; •	Chứng thư giám định đối với hàng hoá được thông quan trên cơ sở kết quả giám định: nộp 01 bản chính; •	Tờ khai trị giá hàng nhập khẩu đối với hàng hoá thuộc diện phải khai tờ khai trị giá theo quy định tại Quyết định số 30/2008/QĐ-BTC ngày 21 tháng 5 năm 2008 của Bộ trưởng Bộ Tài chính về việc ban hành tờ khai trị giá tính thuế hàng hóa xuất khẩu, nhập khẩu và hướng dẫn khai báo: nộp 02 bản chính; •	Giấy phép nhập khẩu đối với hàng hóa phải có giấy phép nhập khẩu theo quy định của pháp luật: nộp 01 bản chính nếu nhập khẩu một lần hoặc bản sao khi nhập khẩu nhiều lần và phải xuất trình bản chính để đối chiếu, lập phiếu theo dõi trừ lùi; •	Nộp 01 bản gốc giấy chứng nhận xuất xứ hàng hóa (C/O) trong các trường hợp:
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Vận tải đơn (trừ hàng hoá nêu tại khoản 7 Điều 6 Thông tư này, hàng hoá mua bán giữa khu phi thuế quan và nội địa): nộp 01 bản sao chụp từ bản gốc hoặc sao chụp từ bản chính có ghi chữ copy, chữ surrendered; Đối với hàng hoá nhập khẩu qua bưu điện quốc tế nếu không có vận tải đơn thì người khai hải quan ghi mã số gói bưu kiện, bưu phẩm lên tờ khai hải quan hoặc nộp danh mục bưu kiện, bưu phẩm do Bưu điện lập. Đối với hàng hóa nhập khẩu phục vụ cho hoạt động thăm dò, khai thác dầu khí được vận chuyển trên các tàu dịch vụ (không phải là tàu thương mại) thì nộp bản khai hàng hoá (cargo manifest) thay cho vận tải đơn.
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông quan hàng hóa
+Căn cứ pháp lý:
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

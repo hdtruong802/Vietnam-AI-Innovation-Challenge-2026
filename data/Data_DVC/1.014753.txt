@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014753
+Số quyết định: 107/QĐ-BNV
+Tên thủ tục: Chuyển nơi hưởng trợ cấp thất nghiệp (Cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Việc làm
+Trình tự thực hiện:
+    Bước 1: Người lao động đã hưởng ít nhất 01 tháng trợ cấp thất nghiệp theo quy định mà có nhu cầu chuyển nơi hưởng trợ cấp thất nghiệp đến tỉnh, thành phố trực thuộc trung ương khác thì phải nộp đề nghị chuyển nơi hưởng trợ cấp thất nghiệp theo Mẫu số 19 tại Phụ lục ban hành kèm theo Nghị định số 374/2025/NĐ-CP và gửi tổ chức dịch vụ việc làm công nơi đang hưởng trợ cấp thất nghiệp.
+    Bước 2: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được đề nghị của người lao động, tổ chức dịch vụ việc làm công có trách nhiệm gửi thông báo về việc chuyển nơi hưởng trợ cấp thất nghiệp cho Bảo hiểm xã hội cấp tỉnh để dừng việc chi trả trợ cấp thất nghiệp, đồng thời gửi giấy giới thiệu và hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp cho tổ chức dịch vụ việc làm công nơi người lao động chuyển đến.
+    Bước 3: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp do người lao động chuyển đến, tổ chức dịch vụ việc làm công gửi văn bản đề nghị Bảo hiểm xã hội cấp tỉnh nơi chuyển đến để tiếp tục thực hiện việc chi trả trợ cấp thất nghiệp và cấp thẻ bảo hiểm y tế cho người lao động.
+    Trường hợp người lao động đã nhận hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp nhưng chưa nộp cho tổ chức dịch vụ việc làm công nơi chuyển đến và không có nhu cầu chuyển nơi hưởng trợ cấp thất nghiệp nữa thì người lao động phải nộp lại giấy giới thiệu chuyển nơi hưởng trợ cấp thất nghiệp cho tổ chức dịch vụ việc làm công nơi chuyển đi. Trong thời hạn 03 ngày làm việc kể từ ngày nhận lại giấy giới thiệu chuyển nơi hưởng trợ cấp thất nghiệp, tổ chức dịch vụ việc làm công gửi văn bản đề nghị cơ quan bảo hiểm xã hội cấp tỉnh để tiếp tục thực hiện việc chi trả trợ cấp thất nghiệp và cấp thẻ bảo hiểm y tế cho người lao động.
+    Trường hợp người lao động không có nhu cầu chuyển nơi hưởng trợ cấp thất nghiệp nữa thì người lao động gửi đề nghị rút hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp cho tổ chức dịch vụ việc làm công nơi chuyển đi theo Mẫu số 23 tại Phụ lục ban hành kèm theo Nghị định số 374/2025/NĐ-CP. Trong thời hạn 03 ngày làm việc kể từ ngày nhận đề nghị rút hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp của người lao động, tổ chức dịch vụ việc làm công nơi chuyển đến gửi giấy giới thiệu và hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp cho tổ chức dịch vụ việc làm công nơi người lao động chuyển đi.
+    Bước 4: Cơ quan bảo hiểm xã hội nơi người lao động chuyển đến hưởng trợ cấp thất nghiệp thực hiện chi trả trợ cấp thất nghiệp và cấp thẻ bảo hiểm y tế cho người lao động theo quy định của pháp luật.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được đề nghị chuyển nơi hưởng trợ cấp thất nghiệp của người lao động.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được đề nghị chuyển nơi hưởng trợ cấp thất nghiệp của người lao động.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được đề nghị chuyển nơi hưởng trợ cấp thất nghiệp của người lao động.
+
+Thành phần hồ sơ:
+    - - Đề nghị chuyển nơi hưởng trợ cấp thất nghiệp của người lao động.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đề nghị rút hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp đối với trường hợp người lao động không có nhu cầu chuyển nơi hưởng trợ cấp thất nghiệp nữa thì người lao động.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Trung tâm Dịch vụ việc làm
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Tiếp tục chi trả trợ cấp thất nghiệp và cấp thẻ BHYT, Giấy giới thiệu chuyển nơi hưởng trợ cấp thất nghiệp và văn bản thông báo Bảo hiểm xã hội cấp tỉnh về việc dừng
+Căn cứ pháp lý:
+  * Luật Việc làm (74/2025/QH15)
+  * Quy định chi tiết một số điều của Luật Việc làm về bảo hiểm thất nghiệp (Nghị định số 374/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Người lao động đã hưởng ít nhất 01 tháng trợ cấp thất nghiệp theo quy định và có nhu cầu chuyển hưởng trợ cấp nơi hưởng trợ cấp thất nghiệp đến tỉnh, thành phố trực thuộc trung ¬ương khác.
+Từ khóa: Không có thông tin
+Mô tả: Người lao động đã hưởng ít nhất 01 tháng trợ cấp thất nghiệp theo quy định và có nhu cầu chuyển hưởng trợ cấp nơi hưởng trợ cấp thất nghiệp đến tỉnh, thành phố trực thuộc trung ¬ương khác.

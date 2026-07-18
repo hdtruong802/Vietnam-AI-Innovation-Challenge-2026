@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014407
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Khai thuế thu nhập doanh nghiệp bổ sung theo quy định về thuế thu nhập doanh nghiệp bổ sung tối thiểu nội địa đạt chuẩn (QDMTT)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    Đơn vị hợp thành chịu trách nhiệm kê khai thực hiện nộp hồ sơ khai thuế theo quy định về thu nhập doanh nghiệp bổ sung tối thiểu nội địa đạt chuẩn (QDMTT) chậm nhất là 12 tháng sau ngày kết thúc năm tài chính.
+    Thời hạn nộp Tờ khai thông tin theo quy định về thuế tối thiểu toàn cầu của tập đoàn đa quốc gia và Thông báo đơn vị hợp thành đã nộp Tờ khai thông tin theo Quy định về thuế tối thiểu toàn cầu tại nước có Hiệp định giữa nhà chức trách có thẩm quyền về trao đổi thông tin theo quy định thuế tối thiểu toàn cầu có hiệu lực với Việt Nam chậm nhất là 18 tháng sau ngày kết thúc năm tài chính đối với năm đầu tiên mà bất kỳ đơn vị hợp thành nào của Tập đoàn đa quốc gia thuộc đối tượng áp dụng của Nghị quyết số 107/2023/QH15; 15 tháng sau ngày kết thúc năm tài chính đối với các năm tiếp theo.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Thông báo đơn vị hợp thành đã nộp Tờ khai thông tin theo Quy định về thuế tối thiểu toàn cầu tại nước có Hiệp định giữa nhà chức trách có thẩm quyền về trao đổi thông tin theo quy định thuế tối thiểu toàn cầu có hiệu lực với Việt Nam (Mẫu số 03/TB-ĐVHT) ban hành kèm theo Nghị định số 236/2025/NĐ-CP (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản thuyết minh giải trình chênh lệch do khác biệt giữa các chuẩn mực kế toán tài chính (Mẫu số 01/TM) ban hành kèm theo Nghị định số 236/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai thông tin theo Quy định về thuế tối thiểu toàn cầu (Mẫu số 01/TKTT-QDMTT) ban hành kèm theo Nghị định số 236/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai thông tin theo Quy định về thuế tối thiểu toàn cầu của tập đoàn đa quốc gia đối với phần thông tin chung của tập đoàn đa quốc gia, thông tin về cấu trúc Tập đoàn và thông tin liên quan đến việc tính toán thuế suất thực tế, thuế bổ sung của các đơn vị hợp thành tại Việt Nam, trừ trường hợp tập đoàn đa quốc gia không phải nộp Tờ khai thông tin theo Quy định về thuế tối thiểu toàn cầu ở bất kỳ quốc gia nào (bản chính hoặc bản sao)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Tờ khai thuế thu nhập doanh nghiệp bổ sung (Mẫu số 01/TNDN-QDMTT) ban hành kèm theo Nghị định số 236/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo số liệu tài chính từng đơn vị hợp thành sử dụng cho mục đích lập Báo cáo tài chính hợp nhất của công ty mẹ tối cao (bản chính hoặc bản sao)
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Tổ chức nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cục Thuế - Bộ tài chính, Chi cục Thuế doanh nghiệp lớn - Cục Thuế
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Nghị định Quy định chi tiết một số điều của Nghị quyết số 107/2023/QH15 ngày 29 tháng 11 năm 2023 của Quốc hội về việc áp dụng thuế thu nhập doanh nghiệp bổ sung theo quy định chống xói mòn cơ sở thuế toàn cầu (236/2025/NĐ-CP)
+  * Nghị quyết  Về việc áp dụng thuế thu nhập doanh nghiệp bổ sung theo quy định chống xói mòn cơ sở thuế toàn cầu (107/2023/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

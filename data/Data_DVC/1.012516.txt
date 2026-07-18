@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012516
+Số quyết định: 987/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận bằng văn bản hoạt động cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động thanh toán
+Trình tự thực hiện:
+    + Bước 1: Doanh nghiệp cung ứng dịch vụ bưu chính công ích lập hồ sơ gửi Ngân hàng Nhà nước đề nghị cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng;
+    + Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị, Ngân hàng Nhà nước có văn bản gửi doanh nghiệp cung ứng dịch vụ bưu chính công ích xác nhận đã nhận đầy đủ thành phần hồ sơ hợp lệ hoặc không đầy đủ, hợp lệ theo quy định. Trường hợp hồ sơ đề nghị không đầy đủ, hợp lệ theo quy định, Ngân hàng Nhà nước có văn bản gửi doanh nghiệp yêu cầu bổ sung, hoàn thiện hồ sơ. Thời gian doanh nghiệp bổ sung, hoàn thiện hồ sơ không tính vào thời gian thẩm định.
+    + Bước 3: Trong thời hạn 40 ngày kể từ ngày nhận đầy đủ thành phần hồ sơ hợp lệ, Ngân hàng Nhà nước tiến hành thẩm định hồ sơ.
+    Trong thời hạn 40 ngày kể từ ngày Ngân hàng Nhà nước có văn bản yêu cầu giải trình, hoàn thiện hồ sơ mà tổ chức không gửi lại hồ sơ (trừ trường hợp có lý do xác đáng) thì Ngân hàng Nhà nước có văn bản trả lại hồ sơ cho tổ chức.
+    Trong thời hạn 40 ngày kể từ ngày nhận được hồ sơ bổ sung, hoàn thiện của doanh nghiệp cung ứng dịch vụ bưu chính công ích, Ngân hàng Nhà nước tiến hành thẩm định, chấp thuận bằng văn bản theo quy định. Trường hợp không chấp thuận, Ngân hàng Nhà nước có văn bản trả lời từ chối và trả hồ sơ cho tổ chức, trong đó nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 40 ngày  kể từ ngày nhận đầy đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 40 ngày  kể từ ngày nhận đầy đủ hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 40 ngày kể từ ngày nhận đầy đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Nghị quyết của Hội đồng thành viên, văn bản của người đại diện có thẩm quyền của chủ sở hữu phù hợp với thẩm quyền quy định tại Điều lệ công ty về việc thông qua Bản thuyết minh điều kiện cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng;
+      Số lượng: Bản chính: 3, Bản sao: 0
+    - Đơn đề nghị cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng theo Mẫu số 03 Nghị định 52/2024/NĐ-CP ngày 15/5/2024;
+      Số lượng: Bản chính: 3, Bản sao: 0
+    - Hồ sơ về nhân sự: Sơ yếu lý lịch, bản sao có chứng thực hoặc bản sao được cấp từ sổ gốc hoặc bản sao kèm xuất trình bản chính để đối chiếu các văn bằng chứng minh năng lực, trình độ chuyên môn nghiệp vụ của những người đại diện theo pháp luật, Tổng Giám đốc (Giám đốc), Người phụ trách và các cán bộ chủ chốt thực hiện cung ứng dịch vụ này;
+      Số lượng: Bản chính: 3, Bản sao: 0
+    - Bản thuyết minh các điều kiện cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng theo quy định tại Điều 19 Nghị định 52/2024/NĐ-CP ngày 15/5/2024;
+      Số lượng: Bản chính: 3, Bản sao: 0
+    - - Giấy phép thành lập hoặc giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị tương đương do cơ quan nhà nước có thẩm quyền cấp, Điều lệ công ty (bản sao có chứng thực hoặc bản sao được cấp từ sổ gốc hoặc bản sao kèm xuất trình bản chính để đối chiếu).Cơ quan giải quyết thủ tục hành chính kiểm tra hồ sơ, tra cứu thông tin về Giấy phép thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị tương đương trên Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp hoặc cơ sở dữ liệu chuyên ngành. Trường hợp hồ sơ chưa hợp lệ, cơ quan giải quyết thủ tục hành chính không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, không chính xác thì yêu cầu doanh nghiệp bổ sung, hoàn thiện hồ sơ
+      Số lượng: Bản chính: 3, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam 49 Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận hoạt động cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng, Văn bản không chấp thuận hoạt động cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng.
+Căn cứ pháp lý:
+  * Nghị định quy định về thanh toán không dùng tiền mặt (Nghị định 52/2024/NĐ-CP)
+  * Nghị quyết số 66.16/2026/NQ-CP của Chính phủ ngày 07/04/2026 về việc Cắt giảm, đơn giản hóa thủ tục hành chính,quy định liên quan đến hoạt động sản xuất, kinh doanh (66.16/2026/NQ-CP)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Doanh nghiệp cung ứng dịch vụ bưu chính công ích được cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng khi đáp ứng đầy đủ và phải đảm bảo duy trì đủ các điều kiện sau đây trong quá trình cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng:
+a) Có hệ thống thông tin phục vụ cho hoạt động cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng đáp ứng yêu cầu về bảo đảm an ninh mạng hệ thống thông tin cấp độ 3 theo quy định của pháp luật và yêu cầu về bảo đảm hoạt động liên tục; 
+b) Điều kiện về nhân sự: Người đại diện theo pháp luật, Tổng Giám đốc (Giám đốc) của doanh nghiệp cung ứng dịch vụ bưu chính công ích phải có bằng đại học trở lên về một trong các ngành tài chính, ngân hàng, kinh tế, quản trị kinh doanh, luật, công nghệ thông tin, kế toán, kiểm toán, bưu chính, viễn thông hoặc có ít nhất 05 năm kinh nghiệm là người quản lý, người điều hành của tổ chức trong lĩnh vực tài chính, ngân hàng, trung gian thanh toán, công nghệ thông tin, bưu chính, viễn thông; không thuộc những đối tượng bị cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã theo quy định của pháp luật; 
+c) Có quy trình nghiệp vụ kỹ thuật đối với từng loại dịch vụ; có biện pháp đảm bảo khả năng thanh toán, duy trì số dư tài khoản thanh toán của đơn vị mình tại ngân hàng và tiền mặt lớn hơn số tiền phải trả cho khách hàng tại thời điểm chi trả; quy trình kiểm tra, kiểm soát nội bộ; cơ chế quản lý rủi ro; quy định nội bộ về phòng, chống rửa tiền, tài trợ khủng bố và tài trợ phổ biến vũ khí hủy diệt hàng loạt; quy trình giải quyết yêu cầu tra soát, khiếu nại, tranh chấp; quy định quyền và trách nhiệm của các bên có liên quan; 
+d) Có phương án thu gom, vận chuyển tiền mặt đảm bảo cuối ngày nộp vào tài khoản thanh toán mở tại ngân hàng, đảm bảo an ninh, an toàn đối với việc luân chuyển tiền mặt; trang bị các thiết bị đảm bảo việc giao nhận, bảo quản tiền mặt, quy định hạn mức chuyển tiền, nhận tiền, mức tồn quỹ tại các điểm cung cấp dịch vụ.
+Từ khóa: Không có thông tin
+Mô tả: Doanh nghiệp cung ứng dịch vụ bưu chính công ích được cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng khi đáp ứng đầy đủ và phải đảm bảo duy trì đủ các điều kiện sau đây trong quá trình cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng:
+a) Có hệ thống thông tin phục vụ cho hoạt động cung ứng dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng đáp ứng yêu cầu về bảo đảm an ninh mạng hệ thống thông tin cấp độ 3 theo quy định của pháp luật và yêu cầu về bảo đảm hoạt động liên tục; 
+b) Điều kiện về nhân sự: Người đại diện theo pháp luật, Tổng Giám đốc (Giám đốc) của doanh nghiệp cung ứng dịch vụ bưu chính công ích phải có bằng đại học trở lên về một trong các ngành tài chính, ngân hàng, kinh tế, quản trị kinh doanh, luật, công nghệ thông tin, kế toán, kiểm toán, bưu chính, viễn thông hoặc có ít nhất 05 năm kinh nghiệm là người quản lý, người điều hành của tổ chức trong lĩnh vực tài chính, ngân hàng, trung gian thanh toán, công nghệ thông tin, bưu chính, viễn thông; không thuộc những đối tượng bị cấm đảm nhiệm chức vụ, thành lập, quản lý doanh nghiệp, hợp tác xã theo quy định của pháp luật; 
+c) Có quy trình nghiệp vụ kỹ thuật đối với từng loại dịch vụ; có biện pháp đảm bảo khả năng thanh toán, duy trì số dư tài khoản thanh toán của đơn vị mình tại ngân hàng và tiền mặt lớn hơn số tiền phải trả cho khách hàng tại thời điểm chi trả; quy trình kiểm tra, kiểm soát nội bộ; cơ chế quản lý rủi ro; quy định nội bộ về phòng, chống rửa tiền, tài trợ khủng bố và tài trợ phổ biến vũ khí hủy diệt hàng loạt; quy trình giải quyết yêu cầu tra soát, khiếu nại, tranh chấp; quy định quyền và trách nhiệm của các bên có liên quan; 
+d) Có phương án thu gom, vận chuyển tiền mặt đảm bảo cuối ngày nộp vào tài khoản thanh toán mở tại ngân hàng, đảm bảo an ninh, an toàn đối với việc luân chuyển tiền mặt; trang bị các thiết bị đảm bảo việc giao nhận, bảo quản tiền mặt, quy định hạn mức chuyển tiền, nhận tiền, mức tồn quỹ tại các điểm cung cấp dịch vụ.

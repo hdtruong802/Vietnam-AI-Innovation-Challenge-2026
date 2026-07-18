@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014709
+Số quyết định: 1213/QĐ-BCT
+Tên thủ tục: Thủ tục cấp điều chỉnh Giấy phép nhập khẩu hóa chất cấm
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hóa chất
+Trình tự thực hiện:
+    a) Trường hợp thay đổi nội dung hóa đơn, tổ chức lập 01 bộ hồ sơ đề nghị cấp điều chỉnh Giấy phép và gửi cơ quan có thẩm quyền cấp phép qua đường bưu chính hoặc nộp trực tiếp hoặc qua hệ thống dịch vụ công trực tuyến;
+    b) Hồ sơ đề nghị điều chỉnh Giấy phép bao gồm: Văn bản đề nghị cấp điều chỉnh Giấy phép; Giấy tờ, tài liệu xác nhận đối với các nội dung điều chỉnh;
+    c) Cơ quan có thẩm quyền cấp phép thẩm định các nội dung điều chỉnh và cấp Giấy phép theo trình tự, thủ tục như cấp mới Giấy phép;
+    d) Thời hạn Giấy phép cấp điều chỉnh thực hiện như cấp mới Giấy phép.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của pháp luật về phí và lệ phí)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của pháp luật về phí và lệ phí)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của pháp luật về phí và lệ phí)
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp điều chỉnh Giấy phép; Giấy tờ, tài liệu xác nhận đối với các nội dung điều chỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép nhập khẩu hoá chất cấm
+Căn cứ pháp lý:
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Thông tư số 01/2026/TT-BCT của Bộ trưởng Bộ Công Thương quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất và Nghị định số 26/2026/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa. (01/2026/TT-BCT)
+  * Nghị định số 26/2026/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa; (26/2026/NĐ-CP)
+  * Thông tư số 26/2026/TT-BCT ngày 20 tháng 5 năm 2026 của Bộ trưởng Bộ Công Thương sửa đổi bổ sung một số quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương. (26/2026/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: a) Tổ chức nhập khẩu hóa chất cấm là tổ chức được thành lập theo quy định của pháp luật;
+b) Có hoạt động đặc biệt sử dụng hóa chất cấm để phục vụ mục đích nghiên cứu khoa học, quốc phòng, an ninh, hoặc thực hiện nhiệm vụ do Chính phủ, Thủ tướng Chính phủ giao cần sử dụng hóa chất cấm;
+c) Có các thông tin cảnh báo cần thiết tại nơi tồn trữ hóa chất cấm, nội quy về an toàn hóa chất, có hệ thống báo hiệu phù hợp với mức độ nguy hiểm của hóa chất cấm tại khu vực tồn trữ, sản xuất;
+d) Có trang thiết bị, phương tiện ứng cứu sự cố phù hợp với các đặc tính nguy hiểm của hóa chất;
+đ) Có kế hoạch hoặc biện pháp phòng ngừa, ứng phó sự cố hóa chất và phương tiện bảo đảm an toàn được cơ quan có thẩm quyền phê duyệt;
+e) Có phương án kiểm soát phòng, chống thất thoát hóa chất cấm theo mẫu do Bộ trưởng Bộ Công Thương quy định (trong đó bao gồm tối thiểu các nội dung: chủng loại; khối lượng; cách thức bảo quản; kế hoạch kiểm gia, giám sát).
+Từ khóa: Không có thông tin
+Mô tả: a) Tổ chức nhập khẩu hóa chất cấm là tổ chức được thành lập theo quy định của pháp luật;
+b) Có hoạt động đặc biệt sử dụng hóa chất cấm để phục vụ mục đích nghiên cứu khoa học, quốc phòng, an ninh, hoặc thực hiện nhiệm vụ do Chính phủ, Thủ tướng Chính phủ giao cần sử dụng hóa chất cấm;
+c) Có các thông tin cảnh báo cần thiết tại nơi tồn trữ hóa chất cấm, nội quy về an toàn hóa chất, có hệ thống báo hiệu phù hợp với mức độ nguy hiểm của hóa chất cấm tại khu vực tồn trữ, sản xuất;
+d) Có trang thiết bị, phương tiện ứng cứu sự cố phù hợp với các đặc tính nguy hiểm của hóa chất;
+đ) Có kế hoạch hoặc biện pháp phòng ngừa, ứng phó sự cố hóa chất và phương tiện bảo đảm an toàn được cơ quan có thẩm quyền phê duyệt;
+e) Có phương án kiểm soát phòng, chống thất thoát hóa chất cấm theo mẫu do Bộ trưởng Bộ Công Thương quy định (trong đó bao gồm tối thiểu các nội dung: chủng loại; khối lượng; cách thức bảo quản; kế hoạch kiểm gia, giám sát).

@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011610
+Số quyết định: 2383A/QĐ-BCT
+Tên thủ tục: Cấp giấy phép nhập khẩu theo hạn ngạch thuế quan cho Liên doanh giữa Việt Nam và Bê – la – rút
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    Bước 1: Liên doanh gửi hồ sơ đề nghị cấp giấy phép nhập khẩu theo hạn ngạch thuế quan tới Bộ Công Thương
+    Bước 2: Bộ Công Thương kiểm tra tính hợp lệ, đầy đủ của Hồ sơ. Trong trường hợp cần làm rõ hoặc bổ sung thông tin, Bộ Công Thương thông báo cho liên doanh yêu cầu cụ thể về những thông tin bổ sung cần cung cấp
+    Bước 3: Trong 14 ngày làm việc kể từ khi nhận được hồ sơ đầy đủ, Bộ Công Thương cấp giấy phép nhập khẩu theo hạn ngạch thuế quan
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Bộ Công Thương cấp giấy phép theo hạn ngạch thuế quan nhập khẩu trong vòng 14 ngày kể từ ngày nhận đầy đủ hồ sơ yêu cầu của liên doanh. Giấy phép này được cấp với thời hạn 31 tháng 12 hàng năm
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Bộ Công Thương cấp giấy phép theo hạn ngạch thuế quan nhập khẩu trong vòng 14 ngày kể từ ngày nhận đầy đủ hồ sơ yêu cầu của liên doanh. Giấy phép này được cấp với thời hạn 31 tháng 12 hàng năm
+
+Thành phần hồ sơ:
+  [ Hồ sơ đề nghị cấp giấy phép nhập khẩu theo hạn ngạch thuế quan bao gồm ]
+    - Kế hoạch sản xuất hàng năm của Doanh nghiệp đã được Bộ Công Thương phê duyệt
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Đơn đề nghị cấp giấy phép nhập khẩu
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Xuất nhập khẩu
+Cơ quan có thẩm quyền: Bộ Công thương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: giấy phép nhập khẩu theo hạn ngạch thuế quan cho Liên doanh giữa Việt Nam và Bê – la – rút
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

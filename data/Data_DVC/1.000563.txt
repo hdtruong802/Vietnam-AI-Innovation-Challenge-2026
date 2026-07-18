@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000563
+Số quyết định: 1353/QĐ-BXD
+Tên thủ tục: Cấp Giấy chứng nhận bảo hiểm hoặc bảo đảm tài chính về trách nhiệm dân sự đổi với thiệt hại ô nhiễm dầu (CLC 1992)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC
+    - Chủ tàu gửi hồ sơ đề nghị cấp Giấy chứng nhận bảo hiểm hoặc bảo đảm tài chính về trách nhiệm dân sự đối với tổn thất ô nhiễm dầu (sau đây gọi là Giấy chứng nhận CLC 1992) đến Cơ quan đăng ký tàu biển: Cục Hàng hải và Đường thủy Việt Nam hoặc Chi cục Hàng hải và Đường thủy, Cảng vụ hàng hải được Cục Hàng hải và Đường thủy Việt Nam ủy quyền thực hiện công tác đăng ký tàu biển.
+    - Đối tượng được cấp Giấy chứng nhận: Tàu biển Việt Nam và tàu biển mang cờ quốc tịch nước ngoài chở rời trên 2000 tấn dầu dưới dạng hàng hóa.
+  * b) Giải quyết TTHC
+    - Cơ quan đăng ký tàu biển tiếp nhận hồ sơ và thực hiện kiểm tra hồ sơ tuân thủ theo các quy định Công ước CLC 1992.
+    - Trường hợp hồ sơ không hợp lệ thì chậm nhất 02 ngày làm việc kể từ ngày nhận hồ sơ, Cơ quan đăng ký tàu biển có văn bản yêu cầu hoàn thiện hồ sơ theo quy định.
+    - Trường hợp hồ sơ hợp lệ thì chậm nhất 02 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cơ quan đăng ký tàu biển cấp Giấy chứng nhận CLC 1992 và gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến cho chủ tàu; trường hợp không chấp thuận, Cơ quan đăng ký tàu biển có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 ngày
+    Phí, lệ phí: 100000 VNĐ (100.000 đồng/Giấy chứng nhận.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 ngày
+    Phí, lệ phí: 100000 VNĐ (100.000 đồng/Giấy chứng nhận.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 ngày
+    Phí, lệ phí: 100000 VNĐ (100.000 đồng/Giấy chứng nhận.)
+
+Thành phần hồ sơ:
+  [ a) Thành phần hồ sơ: ]
+    - - Bản sao hoặc bản sao điện tử Giấy chứng nhận đăng ký tàu biển đối với tàu đăng ký mang cờ quốc tịch nước ngoài.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Bản chính hoặc biểu mẫu điện tử Đơn đề nghị của chủ tàu theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính hoặc bản sao điện tử được cấp từ sổ gốc Giấy chứng nhận bảo hiểm đáp ứng yêu cầu tại Điều VII của Công ước CLC 1992; Trường hợp việc bảo hiểm có tái bảo hiểm thì chủ tàu phải nộp cả bản chính Giấy chứng nhận của tổ chức nhận tái bảo hiểm liên quan; Trường hợp Giấy chứng nhận của tổ chức nhận tái bảo hiểm, Giấy chứng nhận bảo hiểm đáp ứng yêu cầu tại Điều VII của Công ước CLC 1992 của chủ tàu được cấp dưới dạng dữ liệu điện tử, chủ tàu phải cung cấp địa chỉ chính thức, hợp pháp trang thông tin điện tử của tổ chức đã cấp để kiểm tra;
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Cảng vụ hàng hải, Chi cục Hàng hải và Đường thuỷ phía Bắc, Chi cục Hàng hải và Đường thuỷ phía Nam, Cục Hàng hải và Đường thủy Việt Nam
+Cơ quan có thẩm quyền: Cảng vụ hàng hải, Chi cục Hàng hải và Đường thuỷ phía Bắc, Chi cục Hàng hải và Đường thuỷ phía Nam, Cục Hàng hải và Đường thủy Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận CLC 1992.
+Căn cứ pháp lý:
+  * quy định về cấp, thu hồi Giấy chứng nhận bảo hiểm hoặc bảo đảm tài chính về trách nhiệm dân sự theo Công ước quốc tế về trách nhiệm dân sự đối với tổn thất ô nhiễm dầu năm 1992 và Công ước quốc tế về trách nhiệm dân sự đối với tổn thất ô nhiễm dầu nhiên liệu năm 2001. (22/2025/TT-BXD)
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong hoạt động chuyên ngành hàng hải (189/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Tàu biển Việt Nam và tàu biển mang cờ quốc tịch nước ngoài chở rời trên 2000 tấn dầu dưới dạng hàng hóa có Giấy chứng nhận bảo hiểm đáp ứng yêu cầu tại Điều VII của Công ước CLC 1992.
+Từ khóa: Không có thông tin
+Mô tả: Tàu biển Việt Nam và tàu biển mang cờ quốc tịch nước ngoài chở rời trên 2000 tấn dầu dưới dạng hàng hóa có Giấy chứng nhận bảo hiểm đáp ứng yêu cầu tại Điều VII của Công ước CLC 1992.

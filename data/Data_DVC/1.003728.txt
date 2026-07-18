@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003728
+Số quyết định: 318/QĐ-BNNMT
+Tên thủ tục: Cấp giấy chứng nhận kiểm dịch động vật, sản phẩm động vật thủy sản xuất khẩu không dùng làm thực phẩm
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thú y
+Trình tự thực hiện:
+    Bước 1: Đăng ký kiểm dịch
+    - Trước khi xuất khẩu động vật, sản phẩm động vật thủy sản không dùng làm thực phẩm, chủ hàng gửi 01 bộ hồ sơ đến Chi cục Chăn nuôi và Thú y vùng hoặc Cơ quan quản lý chuyên ngành thú y cấp tỉnh được Cục Chăn nuôi và Thú y ủy quyền (sau đây gọi là Cơ quan kiểm dịch động vật cửa khẩu).
+    Bước 2: Tiếp nhận và kiểm tra hồ sơ
+    Trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan kiểm dịch động vật cửa khẩu tiến hành xem xét tính đầy đủ, hợp lệ của hồ sơ và thông báo cho chủ hàng thời gian, địa điểm tiến hành kiểm dịch. Trường hợp hồ sơ chưa đầy đủ, hợp lệ, Cơ quan kiểm dịch động vật cửa khẩu trả lời chủ hàng bằng văn bản hoặc phản hồi qua Cổng thông tin một cửa quốc gia hoặc Cổng dịch vụ công hoặc thư điện tử và nêu rõ lý do.
+    Bước 3: Thực hiện nội dung kiểm dịch
+    Cơ quan kiểm dịch động vật cửa khẩu thực hiện như sau:
+    - Kiểm tra lâm sàng đối với động vật thủy sản, kiểm tra thực trạng hàng hóa đối với sản phẩm động vật thủy sản, đối chiếu thông tin lô hàng với hồ sơ kiểm dịch;
+    - Thực hiện theo các nội dung yêu cầu vệ sinh thú y của nước nhập khẩu hoặc chủ hàng (nếu có).
+    Bước 4: Cấp Giấy chứng nhận kiểm dịch
+    - Đối với lô hàng phải lấy mẫu xét nghiệm: Trong thời hạn 05 ngày làm việc kể từ ngày thực hiện kiểm dịch, nếu đáp ứng yêu cầu kiểm dịch, Cơ quan kiểm dịch động vật cửa khẩu cấp Giấy chứng nhận kiểm dịch động vật, sản phẩm động vật thủy sản xuất khẩu theo mẫu 09 TS theo quy định tại Phụ lục V ban hành kèm theo Thông tư số 03/2026/TT-BNNMT ngày 13/01/2026;
+    - Đối với lô hàng không phải lấy mẫu xét nghiệm: Trong thời hạn 01 ngày làm việc kể từ ngày thực hiện kiểm dịch, nếu đáp ứng yêu cầu kiểm dịch, Cơ quan kiểm dịch động vật cửa khẩu cấp Giấy chứng nhận kiểm dịch động vật, sản phẩm động vật thủy sản xuất khẩu theo mẫu 09 TS theo quy định tại Phụ lục V ban hành kèm theo Thông tư số 03/2026/TT-BNNMT ngày 13/01/2026;
+    - Hình thức cấp Giấy chứng nhận kiểm dịch: bản điện tử trong trường hợp hồ sơ được gửi qua Cổng thông tin một cửa quốc gia hoặc qua Cổng dịch vụ công; bản giấy trong trường hợp hồ sơ được gửi qua dịch vụ bưu chính công ích hoặc thư điện tử hoặc fax hoặc gửi trực tiếp hoặc theo yêu cầu của chủ hàng.
+    Trường hợp chủ hàng hoặc nước nhập khẩu không yêu cầu kiểm dịch, chủ hàng phải thực hiện kiểm dịch vận chuyển ra khỏi địa bàn cấp tỉnh theo quy định tại các Điều 4, 5, 6, 7 và 8 Thông tư số 03/2026/TT-BNNMT ngày 13/01/2026 (chi tiết thực hiện theo thủ tục hành chính: Cấp giấy chứng nhận kiểm dịch động vật, sản phẩm động vật thủy sản vận chuyển ra khỏi địa bàn cấp Tỉnh).
+    Bước 5. Kiểm soát động vật, sản phẩm động vật tại cửa khẩu xuất, Cơ quan kiểm dịch động vật cửa khẩu thực hiện như sau:
+    - Kiểm tra Giấy chứng nhận kiểm dịch;
+    - Xác nhận đã kiểm tra vào Giấy chứng nhận kiểm dịch hoặc thực hiện cấp đổi Giấy chứng nhận kiểm dịch xuất khẩu theo yêu cầu của chủ hàng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (- Phí kiểm dịch động vật, sản phẩm động vật (bao gồm cả thủy sản): Mục III Biểu phí, lệ phí trong công tác thú y Thông tư số 101/2020/TT-BTC ngày 23/11/2020 của Bộ trưởng Bộ Tài chính quy định về mức thu, chế độ thu, nộp, quản lý phí, lệ phí trong công tác thú y;)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ (- Chi phí khác: Văn bản giá hiện hành của cơ quan có thẩm quyền theo Luật Giá và Nghị định 85/2024/NĐ-CP)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ (- Chi phí khác: Văn bản giá hiện hành của cơ quan có thẩm quyền theo Luật Giá và Nghị định 85/2024/NĐ-CP)
+
+Thành phần hồ sơ:
+    - - Mẫu Giấy chứng nhận kiểm dịch của Cơ quan có thẩm quyền của nước nhập khẩu (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản thể hiện yêu cầu nội dung vệ sinh thú y của nước nhập khẩu hoặc chủ hàng (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn khai báo kiểm dịch động vật, sản phẩm động vật thủy sản xuất khẩu, nhập khẩu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chụp có xác nhận của doanh nghiệp Giấy phép xuất khẩu thủy sản do Cơ quan có thẩm quyền cấp đối với các loài thủy sản xuất khẩu có điều kiện theo quy định của pháp luật thủy sản;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Đảng viên, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức Đảng, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Chi cục Chăn nuôi và Thú y vùng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận kiểm dịch động vật, sản phẩm động vật thủy sản xuất khẩu
+Căn cứ pháp lý:
+  * Thông tư số 101/2020/TT-BTC ngày 23/11/2020 của Bộ trưởng Bộ Tài chính quy định về mức thu, chế độ thu, nộp, quản lý phí, lệ phí trong công tác thú y (101/2020/TT-BTC)
+  * LUẬT SỬA ĐỎI, BỎ SUNG MỘT SỐ ĐIỀU CỦA 15 LUẬT
+TRONG LĨNH VỰC NÔNG NGHIỆP VÀ MÔI TRƯỜNG (Luất số 146/2025/QH15)
+  * Luật Thú y (Luật 79/2015/QH13)
+  * Quy định về kiểm dịch động vật, sản phẩm động vật thủy sản (Thông tư số 03/2026/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014716
+Số quyết định: 248/QĐ-BNNMT
+Tên thủ tục: Tính tiền cấp quyền khai thác tài nguyên nước đối với công trình chưa vận hành hoặc đối với công trình cấp cho sinh hoạt đã đi vào vận hành và được cấp giấy phép khai thác tài nguyên nước nhưng chưa được phê duyệt tiền cấp quyền
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tài nguyên nước
+Trình tự thực hiện:
+    - Bước 1: Nộp hồ sơ:
+    Chủ giấy phép đề nghị phê duyệt tiền cấp quyền nộp 01 bộ hồ sơ trực tiếp tại Trung tâm phục vụ hành chính công cấp tỉnh (sau đây gọi tắt là Bộ phận Một cửa) hoặc qua dịch vụ bưu chính hoặc qua ủy quyền theo quy định của pháp luật hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+    - Bước 2: Tiếp nhận, kiểm tra hồ sơ:
+    Bộ phận Một cửa có trách nhiệm tiếp nhận hồ sơ, kiểm tra, xem xét tính đầy đủ, hợp lệ của hồ sơ.
+    + Trường hợp hồ sơ không hợp lệ, Bộ phận Một cửa trả lại hồ sơ và thông báo rõ lý do cho chủ giấy phép.
+    + Trường hợp hồ sơ hợp lệ, Bộ phận Một cửa chuyển hồ sơ cho Sở Nông nghiệp và Môi trường để tổ chức thẩm định.
+    - Bước 3: Thẩm định hồ sơ và quyết định phê duyệt tiền cấp quyền:
+    Kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Nông nghiệp và Môi trường có trách nhiệm thẩm định hồ sơ tính tiền cấp quyền; nếu cần thiết thì thành lập Hội đồng thẩm định hồ sơ tính tiền cấp quyền khai thác tài nguyên nước.
+    + Trường hợp đủ điều kiện, Sở Nông nghiệp và Môi trường trình Chủ tịch Ủy ban nhân dân tỉnh phê duyệt; trường hợp không đủ điều kiện thì trả lại hồ sơ cho chủ giấy phép đề nghị phê duyệt tiền cấp quyền và thông báo rõ lý do bằng văn bản.
+    + Trường hợp phải bổ sung, chỉnh sửa để hoàn thiện hồ sơ, Sở Nông nghiệp và Môi trường gửi văn bản thông báo cho chủ giấy phép đề nghị phê duyệt tiền cấp quyền nêu rõ những nội dung cần bổ sung, hoàn thiện hồ sơ.
+    Thời gian bổ sung, hoàn thiện hồ sơ không tính vào thời gian thẩm định. Thời gian thẩm định sau khi được bổ sung hoàn chỉnh là 10 ngày làm việc.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản kê khai tiền cấp quyền khai thác tài nguyên nước theo Mẫu 57 tại Phụ lục III kèm theo Nghị định số 23/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Nông nghiệp và Môi trường Thành phố Hà Nội
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Kết quả của thủ tục Tính tiền cấp quyền khai thác tài nguyên nước theo Mẫu 58 tại Phụ lục III kèm theo Nghị định số 23/2026/NĐ-CP.
+Căn cứ pháp lý:
+  * Nghị định 23/2026/NĐ-CP ngày 17/01/2026 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực tài nguyên nước. (NĐ 23/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

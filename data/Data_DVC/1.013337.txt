@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013337
+Số quyết định: 350/QĐ-BLĐTBXH
+Tên thủ tục: Đăng ký công bố hợp quy đối với các sản phẩm, hàng hóa được quản lý bởi các quy chuẩn kỹ thuật quốc gia do Bộ Lao động - Thương binh và Xã hội ban hành
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: An toàn, vệ sinh lao động
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ
+    Tổ chức, cá nhân thực hiện công bố hợp quy các sản phẩm, hàng hóa được quản lý bởi các quy chuẩn kỹ thuật quốc gia do Bộ Lao động - Thương binh và Xã hội (nay là Bộ Nội vụ) ban hành (Bao gồm: Trường hợp công bố hợp quy dựa trên kết quả tự đánh giá; trường hợp công bố hợp quy dựa trên kết quả đánh giá của tổ chức chứng nhận đã đăng ký hoặc được thừa nhận; trường hợp công bố hợp quy dựa trên kết quả đánh giá của tổ chức chứng nhận được chỉ định) nộp hồ sơ tại Sở Nội vụ nơi tổ chức, cá nhân đó đăng ký hoạt động sản xuất, kinh doanh theo quy định tại khoản 2 Điều 14 Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật.
+    Bước 2: Xử lý hồ sơ
+    Sở Nội vụ tiếp nhận và kiểm tra tính đầy đủ của hồ sơ theo trình tự sau:
+    - Đối với hồ sơ công bố hợp quy không đầy đủ theo quy định, trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ công bố hợp quy, cơ quan chuyên ngành thông báo bằng văn bản đề nghị bổ sung các loại giấy tờ theo quy định tới tổ chức, cá nhân công bố hợp quy. Sau thời hạn 15 (mười lăm) ngày làm việc kể từ ngày cơ quan chuyên ngành gửi văn bản đề nghị mà hồ sơ công bố hợp quy không được bổ sung đầy đủ theo quy định, cơ quan chuyên ngành có quyền hủy bỏ việc xử lý đối với hồ sơ này.
+    - Đối với hồ sơ công bố hợp quy đầy đủ theo quy định, trong thời gian 05 (năm) ngày làm việc kể từ ngày nhận được hồ sơ công bố hợp quy, cơ quan chuyên ngành tổ chức kiểm tra tính hợp lệ của hồ sơ công bố hợp quy:
+    + Trường hợp hồ sơ công bố hợp quy đầy đủ và hợp lệ, cơ quan chuyên ngành ban hành Thông báo tiếp nhận hồ sơ công bố hợp quy cho tổ chức, cá nhân công bố hợp quy.
+    + Trường hợp hồ sơ công bố hợp quy đầy đủ nhưng không hợp lệ, cơ quan chuyên ngành thông báo bằng văn bản cho tổ chức, cá nhân công bố hợp quy về lý do không tiếp nhận hồ sơ.
+    - Sau khi có bản Thông báo tiếp nhận hồ sơ công bố hợp quy của cơ quan chuyên ngành, tổ chức, cá nhân được phép lưu thông hàng hóa (đối với trường hợp công bố hợp quy dựa trên kết quả đánh giá của tổ chức chứng nhận đã đăng ký hoặc được thừa nhận, tổ chức chứng nhận được chỉ định). Trường hợp công bố hợp quy dựa trên kết quả tự đánh giá, sau khi nộp hồ sơ công bố hợp quy tại cơ quan chuyên ngành, tổ chức, cá nhân được phép lưu thông hàng hóa.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Thông tư số 183/2016/TT-BTC ngày 08/11/2016 của Bộ trưởng Bộ Tài Chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy đăng ký công bố hợp chuẩn, hợp quy)
+    Mô tả: Kể từ ngày nhận được hồ sơ công bố hợp quy đầy đủ theo quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Thông tư số 183/2016/TT-BTC ngày 08/11/2016 của Bộ trưởng Bộ Tài Chính quy định mức thu, chế độ thu, nộp, quản lý lệ phí cấp giấy đăng ký công bố hợp chuẩn, hợp quy)
+    Mô tả: Kể từ ngày nhận được hồ sơ công bố hợp quy đầy đủ theo quy định
+
+Thành phần hồ sơ:
+    - * Đối với trường hợp công bố hợp quy dựa trên kết quả chứng nhận của tổ chức chứng nhận đã đăng ký hoặc tổ chức chứng nhận được chỉ định:  Bản sao y bản chính Giấy chứng nhận phù hợp quy chuẩn kỹ thuật tương ứng kèm theo mẫu dấu hợp quy do tổ chức chứng nhận đã đăng ký hoặc tổ chức chứng nhận được chỉ định cấp cho tổ chức, cá nhân,
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - * Đối với trường hợp công bố hợp quy dựa trên kết quả tự đánh giá của tổ chức, cá nhân: Báo cáo kết quả tự đánh giá (01 bản chính) bao gồm các thông tin sau: a) Tên tổ chức, cá nhân; địa chỉ; điện thoại, fax; b) Tên sản phẩm, hàng hóa, nhà sản xuất; c) Số hiệu quy chuẩn kỹ thuật quốc gia; đ) Kết quả thử nghiệm phù hợp với quy chuẩn kỹ thuật quốc gia của tổ chức thử nghiệm chất lượng sản phẩm, hàng hóa nhóm 2 theo quy định tại quy chuẩn kỹ thuật quốc gia tương ứng; đ) Kết luận sản phẩm, hàng hóa phù hợp với quy chuẩn kỹ thuật quốc gia; e) Cam kết chất lượng sản phẩm, hàng hóa phù hợp với quy chuẩn kỹ thuật quốc gia, tiêu chuẩn công bố áp dụng và hoàn toàn chịu trách nhiệm trước pháp luật về chất lượng sản phẩm, hàng hóa và kết quả tự đánh giá,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản công bố hợp quy: 01 bản chính theo Mẫu 2. CBHC/HQ quy định tại Phụ lục III Thông tư số Thông tư số 28/2012/TT-BKHCN
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo tiếp nhận hồ sơ công bố hợp quy..
+Căn cứ pháp lý:
+  * Nghị định Quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (127/2007/NĐ-CP)
+  * Luật Chất lượng sản phẩm, hàng hoá (05/2007/QH12)
+  * Luật Tiêu chuẩn và quy chuẩn kỹ thuật (68/2006/QH11)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Nghị định Quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa (132/2008/NĐ-CP)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+  * sửa đổi, bổ sung một số điều của Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật (02/2017/TT-BKHCN)
+  * Thông tư Quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật (28/2012/TT-BKHCN)
+  * SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 26/2018/TT-BLĐTBXH NGÀY 25 THÁNG 12 NĂM 2018 CỦA BỘ TRƯỞNG BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI QUY ĐỊNH VỀ QUẢN LÝ CHẤT LƯỢNG SẢN PHẨM, HÀNG HÓA CÓ KHẢ NĂNG GÂY MẤT AN TOÀN THUỘC TRÁCH NHIỆM QUẢN LÝ NHÀ NƯỚC CỦA BỘ LAO ĐỘNG - THƯƠNG BINH VÀ XÃ HỘI (13/2024/TT-BLĐTBXH)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

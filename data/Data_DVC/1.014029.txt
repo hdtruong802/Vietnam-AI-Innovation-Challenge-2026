@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014029
+Số quyết định: 2298/QĐ-UBND
+Tên thủ tục: Cấp Giấy phép cho phương tiện vận tải vào đường cấm; dừng, đỗ xe tại khu vực cấm
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân hoàn thiện hồ sơ của thủ tục này và nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công thành phố hoặc nộp hồ sơ trực tuyến tại địa chỉ https://dichvucong.gov.vn .
+    Bước 2: Sở Xây dựng tiếp nhận hồ sơ, kiểm tra tính hợp lệ và đầy đủ của các loại giấy tờ trong hồ sơ; yêu cầu bổ sung, hoàn thiện nếu hồ sơ chưa đầy đủ, chưa hợp lệ.
+    Bước 3: Sở Xây dựng thẩm định hồ sơ:
+    a) Trường hợp hồ sơ đạt yêu cầu thì tiến hành giải quyết.
+    b) Trường hợp xét thấy hồ sơ không đạt yêu cầu thì có phiếu hướng dẫn yêu cầu bổ sung.
+    Bước 4: Trả kết quả cho tổ chức, công dân
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp giấy phép theo mẫu hoặc văn bản đề nghị có nội dung đầy đủ các thông tin theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tờ phương tiện (photo kèm bản chính để đối chiếu): Giấy chứng nhận đăng ký xe, sổ kiểm định kỹ thuật
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Chứng minh nhân dân của chủ phương tiện (nếu chủ phương tiện không trực tiếp đến nộp hồ sơ cấp phép phải có giấy ủy quyền của chủ phương tiện theo quy định hiện hành) hoặc giấy giới thiệu (đối với tổ chức, cơ quan, đơn vị, công ty, doanh nghiệp)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Sở Xây dựng TP.Đà Nẵng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công thành phố/ Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép cho phương tiện vận tải vào đường cấm
+Căn cứ pháp lý:
+  * Quyết định số 29/2014/QĐ-UBND ngày 06/9/2014 của UBND thành phố Đà Nẵng Ban hành Quy định về phân luồng tuyến và thời gian hoạt động đối với các phương tiện tham gia giao thông đường bộ trên địa bàn thành phố (29/2014/QĐ-UBND)
+  * Giao thông đường bộ (Số: 23/2008/QH12)
+
+Yêu cầu, điều kiện thực hiện: Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe còn thời hạn hiệu lực.
+Từ khóa: đường cấm, khu vực cấm
+Mô tả: Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe còn thời hạn hiệu lực.

@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013467
+Số quyết định: 647/QĐ-BXD
+Tên thủ tục: Phê duyệt Phương án đưa tàu lặn vào hoạt động
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    Tổ chức gửi trên Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc trực tiếp 01 bộ hồ sơ đến Sở Xây dựng
+  * b) Giải quyết TTHC:
+    Trong thời hạn 02 ngày làm việc kể từ khi nhận được hồ sơ, trường hợp hồ sơ chưa hợp lệ Sở Xây dựng hướng dẫn tổ chức hoàn thiện hồ sơ theo quy định tại Nghị định số 34/2025/NĐ-CP.
+    Chậm nhất 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Xây dựng phê duyệt Phương án đưa tàu lặn vào hoạt động quy định tại Điều 105d Nghị định số 34/2025/NĐ-CP được sửa đổi bổ sung tại Điều 41 Nghị định 14/2026/NĐ-CP; trường hợp không chấp thuận phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Chậm nhất 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Xây dựng phê duyệt Phương án đưa tàu lặn vào hoạt động quy định tại Điều 105d Nghị định số 34/2025/NĐ-CP được sửa đổi bổ sung tại Điều 41 Nghị định 14/2026/NĐ-CP; trường hợp không chấp thuận phải có văn bản trả lời và nêu rõ lý do.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Chậm nhất 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Xây dựng phê duyệt Phương án đưa tàu lặn vào hoạt động quy định tại Điều 105d Nghị định số 34/2025/NĐ-CP được sửa đổi bổ sung tại Điều 41 Nghị định 14/2026/NĐ-CP; trường hợp không chấp thuận phải có văn bản trả lời và nêu rõ lý do.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Chậm nhất 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Xây dựng phê duyệt Phương án đưa tàu lặn vào hoạt động quy định tại Điều 105d Nghị định số 34/2025/NĐ-CP được sửa đổi bổ sung tại Điều 41 Nghị định 14/2026/NĐ-CP; trường hợp không chấp thuận phải có văn bản trả lời và nêu rõ lý do.
+
+Thành phần hồ sơ:
+  [ a) Thành phần hồ sơ: ]
+    - - Bản chính Phương án bố trí người khai thác tàu lặn;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính hoặc biểu mẫu điện tử Đơn đề nghị phê duyệt Phương án đưa tàu lặn vào hoạt động theo mẫu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính Phương án đảm bảo an toàn, an ninh hàng hải, phòng ngừa ô nhiễm môi trường và tìm kiếm cứu nạn trong quá trình khai thác hoạt động tàu lặn.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao hoặc bản sao điện tử Giấy chứng nhận đăng ký, đăng kiểm tàu lặn;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao có chứng thực hoặc bản sao điện tử được cấp từ sổ gốc hoặc bản sao điện tử được chứng thực từ bản chính Quyết định về việc giao khu vực biển;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã, Doanh nghiệp, Tổ chức nước ngoài
+Cơ quan thực hiện: Sở Xây dựng - tỉnh Quảng Ninh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định Phê duyệt Phương án đưa tàu lặn vào hoạt động
+Căn cứ pháp lý:
+  * Nghị định quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải (58/2017/NĐ-CP)
+  * quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng (144/2025/NĐ-CP)
+  * BỘ LUẬT HÀNG HẢI VIỆT NAM (BỘ LUẬT  HÀNG HẢI VIỆT NAM)
+  * Nghị định quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng (33/2025/NĐ-CP)
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực hàng hải (34/2025/NĐ-CP)
+  * sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Xây dựng (14/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

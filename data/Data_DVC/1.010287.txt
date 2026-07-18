@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010287
+Số quyết định: 2776/QĐ-BKHCN
+Tên thủ tục: Sửa đổi, bổ sung nội dung giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài vô tuyến điện liên lạc với phương tiện nghề cá
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tần số vô tuyến điện
+Trình tự thực hiện:
+    - Khi giấy phép còn hiệu lực, tổ chức, cá nhân có nhu cầu sửa đổi, bổ sung một số nội dung trong giấy phép (trừ thời hạn sử dụng) thì phải hoàn thiện hồ sơ đề nghị sửa đổi, bổ sung nội dung giấy phép sử dụng tần số và thiết bị vô tuyến điện đối với đài vô tuyến điện liên lạc với phương tiện nghề cá theo quy định tại điểm A.I.1.a  Mục 2 Phụ lục I.3 Nghị quyết số 66.18/2026/NQ-CP và nộp hồ sơ đến Trung tâm Phục vụ hành chính công cấp tỉnh (Ủy ban nhân dân cấp tỉnh) hoặc Cổng dịch vụ công quốc gia.
+    - Ủy ban nhân dân cấp tỉnh tiếp nhận, kiểm tra tính hợp lệ của hồ sơ.
+    + Trường hợp hồ sơ chưa đầy đủ, chưa đúng quy định về thành phần hồ sơ thì trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo, hướng dẫn tổ chức, cá nhân bổ sung, hoàn thiện hồ sơ.
+    + Ủy ban nhân dân cấp tỉnh thực hiện sửa đổi, bổ sung giấy phép theo Mẫu 1i mục II Phụ lục I.3.2 ban hành kèm theo Nghị quyết số 66.18/2026/NQ-CP trong thời hạn 09 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 9 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính) | 0 VNĐ (Theo quy định của Bộ Tài chính)
+    Mô tả: - Nộp trực tuyến trên Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn);
+- 09 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 9 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính) | 0 VNĐ (Theo quy định của Bộ Tài chính)
+    Mô tả: - Nộp qua dịch vụ bưu chính tới Trung tâm Phục vụ hành chính công cấp tỉnh (Ủy ban nhân dân cấp tỉnh);
+- 09 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 9 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính) | 0 VNĐ (Theo quy định của Bộ Tài chính)
+    Mô tả: - Nộp trực tiếp tại Trung tâm Phục vụ hành chính công cấp tỉnh (Ủy ban nhân dân cấp tỉnh).
+- 09 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - 1. Thành phần hồ sơ:  -	Bản khai thông tin chung theo Mẫu số 01 mục I Phụ lục I.3.2 ban hành kèm theo Nghị quyết số 66.18/2026/NQ-CP. - Bản khai thông số kỹ thuật, khai thác theo Mẫu 1i mục I Phụ lục I.3.2 ban hành kèm theo Nghị quyết số 66.18/2026/NQ-CP. 2. Số lượng hồ sơ: 01 bộ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Doanh nghiệp Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công cấp tỉnh (Ủy ban nhân dân cấp tỉnh).
+(Việc sửa đổi, bổ sung nội dung giấy phép sử dụng tần số và thiết bị vô tuyến điện do Ủy ban nhân dân cấp tỉnh đã cấp giấy phép thực hiện).
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép sử dụng tần số và thiết bị vô tuyến điện (Mẫu 1i mục II Phụ lục I.3.2 ban hành kèm theo Nghị quyết số 66.18/2026/NQ-CP)
+Căn cứ pháp lý:
+  * Thông tư 265/2016/TT-BTC (265/2016/TT-BTC)
+  * Luật số 09/2022/QH15 của Quốc hội (09/2022/QH15)
+  * Nghị định số 63/2023/NĐ-CP của Chính phủ (63/2023/NĐ-CP)
+  * Thông tư số 11/2022/TT-BTC ngày 21/02/2022 của Bộ trưởng Bộ Tài chính (11/2022/TT-BTC)
+  * Sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quân lý nhà nước của Bộ Khoa học và Công nghệ (15/2026/NĐ-CP)
+  * Nghị quyết số 66.18/2026/NQ-CP ngày 18 tháng 5 năm 2026 của Chính phủ về việc phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (66.18/2026/NQ-CP)
+  * Thông tư số 31/2026/TT-BKHCN ngày 10 tháng 6 năm 2026 của Bộ trưởng Bộ Khoa học và Công nghệ quy định việc phân cấp thẩm quyền cấp, cấp đổi, sửa đổi, bổ sung, gia hạn, thu hồi giấy phép sử dụng tần số vô tuyến điện, xử lý đề nghị ngừng sử dụng tần số vô tuyến điện. (31/2026/TT-BKHCN)
+  * Luật Tần số vô tuyến điện (42/2009/QH12)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

@@ -1,0 +1,79 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014673
+Số quyết định: 2607/QĐ-BKHCN
+Tên thủ tục: Cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Thử nghiệm thiết bị bức xạ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+    - Tổ chức có nhu cầu đề nghị cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Thử nghiệm thiết bị bức xạ nộp 01 bộ hồ sơ đến UBND cấp tỉnh qua Trung tâm Phục vụ hành chính công cấp tỉnh.
+    - Trường hợp nộp hồ sơ trực tiếp, Trung tâm Phục vụ hành chính công cấp tỉnh phải kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thu phí, lệ phí (nếu có) đối với hồ sơ hợp lệ.
+    - Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc trực tuyến, Trung tâm Phục vụ hành chính công cấp tỉnh trong thời hạn 03 ngày làm việc phải kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản mức phí, lệ phí (nếu có) đối với hồ sơ hợp lệ (trường hợp tổ chức, cá nhân nộp nhiều hồ sơ cùng thời điểm, cơ quan tiếp nhận hồ sơ phát hành 01 bản thông báo mức phí, lệ phí cho tất cả hồ sơ) hoặc thông báo bằng văn bản yêu cầu sửa đổi, bổ sung hồ sơ nếu hồ sơ chưa đầy đủ, hợp lệ hoặc thông báo trực tuyến trên Cổng dịch vụ công quốc gia.
+    - Trong thời hạn 18 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí, UBND cấp tỉnh tổ chức thẩm định hồ sơ và cấp Giấy đăng ký hoạt động dịch vụ dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Thử nghiệm thiết bị bức xạ hoặc văn bản trả lời nêu rõ lý do trong trường hợp không cấp phép.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 7000000 VNĐ (Phí thẩm định để cấp giấy đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.)
+    Mô tả: Phí thẩm định để cấp giấy đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.
+Trường hợp nộp hồ sơ cấp giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử từ ngày 01/4/2026 đến hết ngày 31/12/2026 trên ứng dụng VNeID được áp dụng mức thu phí bằng 50% mức thu phí theo quy định được nêu ở trên (*).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 7000000 VNĐ (Phí thẩm định để cấp giấy đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.)
+    Mô tả: Phí thẩm định để cấp giấy đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 7000000 VNĐ (Phí thẩm định để cấp giấy đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.)
+    Mô tả: Phí thẩm định để cấp giấy đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.
+
+Thành phần hồ sơ:
+    - Phiếu khai báo trang thiết bị phục vụ hoạt động dịch vụ tương ứng theo Mẫu số 18 Phụ lục VII ban hành kèm theo Nghị định số 332/2025/NĐ-CP.;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo phân tích an toàn theo Mẫu số 14 Phụ lục IX ban hành kèm theo Nghị định số 332/2025/NĐ-CP.;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phiếu khai báo nhân viên thực hiện dịch vụ theo Mẫu số 17 Phụ lục VII ban hành kèm theo Nghị định số 332/2025/NĐ-CP.;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo mẫu tại Phụ lục VI ban hành kèm theo Nghị định số 332/2025/NĐ-CP.;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị cấp Giấy đăng ký hoạt động theo Mẫu số 08 Phụ lục VIII ban hành kèm theo Nghị định số 332/2025/NĐ-CP.;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công cấp tỉnh
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy đăng ký hoạt động dịch vụ dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Thử nghiệm thiết bị bức xạ.
+Căn cứ pháp lý:
+  * Thông tư số 287/2016/TT-BTC ngày 15/11/2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực năng lượng nguyên tử (287/2016/TT-BTC)
+  * Luật Năng lượng nguyên tử số 94/2025/QH15 ngày 27 tháng 6 năm 2025. (94/2025/QH15 ngày 27/6/2025)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Trang chủ Nghị định số 332/2025/NĐ-CP của Chính phủ (332/2025/NĐ-CP)
+  * QUY ĐỊNH MỨC THU, MIỄN MỘT SỐ KHOẢN PHÍ, LỆ PHÍ ĐỂ HỖ TRỢ VIỆC KẾT NỐI, KHAI THÁC, SỬ DỤNG DỮ LIỆU VÀ KHUYẾN KHÍCH THỰC HIỆN DỊCH VỤ CÔNG TRÊN ỨNG DỤNG VNEID (29/2026/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: 1. Tổ chức đề nghị cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử phải có ít nhất 02 nhân viên có Chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử tương ứng với loại hình đề nghị cấp Giấy đăng ký.
+2. Có phòng thử nghiệm thiết bị bức xạ đáp ứng các yêu cầu sau:
+- Thiết kế che chắn bảo đảm an toàn bức xạ cho nhân viên bức xạ và công chúng;
+- Không tiến hành thử nghiệm đồng thời với hoạt động khác.
+3. Bảo đảm điều kiện về an toàn, an ninh như sau:
+- Tuân thủ quy định về kiểm soát và bảo đảm an toàn bức xạ trong chiếu xạ nghề nghiệp và công chúng, bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường đối với nhân viên bức xạ, công chúng theo quy định tại khoản 1 Điều 5 Nghị định số 332/2025/NĐ-CP ; thiết lập khu vực kiểm soát và khu vực giám sát theo quy định tại khoản 2 Điều 5 Nghị định số 332/2025/NĐ-CP ; có nội quy an toàn bức xạ phù hợp với công việc bức xạ, bao gồm: các quy định về tuân thủ quy trình làm việc và chỉ dẫn an toàn, sử dụng trang thiết bị bảo hộ cá nhân, thiết bị ghi đo bức xạ và liều kế cá nhân, trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ;
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa - Dấu hiệu bổ sung;
+- Trang bị liều kế cá nhân và đánh giá liều chiếu xạ cá nhân cho nhân viên bức xạ ít nhất 01 lần trong 03 tháng;  
+- Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục VI của Nghị định số 332/2025/NĐ-CP. Kế hoạch ứng phó sự cố phải được phê duyệt theo quy định tại Điều 62 của Nghị định số 332/2025/NĐ-CP.
+4. Có thiết bị đo suất liều bức xạ phù hợp với tính chất vật lý của bức xạ dự kiến thực hiện dịch vụ. Thiết bị đo suất liều bức xạ phải có Giấy chứng nhận hiệu chuẩn còn hiệu lực ít nhất 30 ngày kể từ ngày hồ sơ được tiếp nhận.
+5. Có liều kế cá nhân và trang thiết bị bảo hộ chống chiếu xạ ngoài cho nhân viên thực hiện dịch vụ. Trường hợp hoạt động dịch vụ có tiếp xúc với nguồn phóng xạ hở phải có trang thiết bị bảo hộ chống chiếu xạ trong cho nhân viên thực hiện dịch vụ.
+6. Có chương trình bảo đảm chất lượng thực hiện dịch vụ.
+Từ khóa: Không có thông tin
+Mô tả: 1. Tổ chức đề nghị cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử phải có ít nhất 02 nhân viên có Chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử tương ứng với loại hình đề nghị cấp Giấy đăng ký.
+2. Có phòng thử nghiệm thiết bị bức xạ đáp ứng các yêu cầu sau:
+- Thiết kế che chắn bảo đảm an toàn bức xạ cho nhân viên bức xạ và công chúng;
+- Không tiến hành thử nghiệm đồng thời với hoạt động khác.
+3. Bảo đảm điều kiện về an toàn, an ninh như sau:
+- Tuân thủ quy định về kiểm soát và bảo đảm an toàn bức xạ trong chiếu xạ nghề nghiệp và công chúng, bảo đảm mức liều chiếu xạ trong điều kiện làm việc bình thường đối với nhân viên bức xạ, công chúng theo quy định tại khoản 1 Điều 5 Nghị định số 332/2025/NĐ-CP ; thiết lập khu vực kiểm soát và khu vực giám sát theo quy định tại khoản 2 Điều 5 Nghị định số 332/2025/NĐ-CP ; có nội quy an toàn bức xạ phù hợp với công việc bức xạ, bao gồm: các quy định về tuân thủ quy trình làm việc và chỉ dẫn an toàn, sử dụng trang thiết bị bảo hộ cá nhân, thiết bị ghi đo bức xạ và liều kế cá nhân, trách nhiệm thông báo khi có hiện tượng bất thường có thể gây mất an toàn bức xạ, an ninh nguồn phóng xạ;
+- Có dấu hiệu cảnh báo bức xạ theo Tiêu chuẩn quốc gia TCVN 7468:2005 (ISO 361:1975) An toàn bức xạ - Dấu hiệu cơ bản về bức xạ ion hóa và Tiêu chuẩn quốc gia TCVN 8663:2011 (ISO 21482:2007) An toàn bức xạ - Cảnh báo bức xạ ion hóa - Dấu hiệu bổ sung;
+- Trang bị liều kế cá nhân và đánh giá liều chiếu xạ cá nhân cho nhân viên bức xạ ít nhất 01 lần trong 03 tháng;  
+- Có kế hoạch ứng phó sự cố bức xạ cấp cơ sở theo quy định tại Phụ lục VI của Nghị định số 332/2025/NĐ-CP. Kế hoạch ứng phó sự cố phải được phê duyệt theo quy định tại Điều 62 của Nghị định số 332/2025/NĐ-CP.
+4. Có thiết bị đo suất liều bức xạ phù hợp với tính chất vật lý của bức xạ dự kiến thực hiện dịch vụ. Thiết bị đo suất liều bức xạ phải có Giấy chứng nhận hiệu chuẩn còn hiệu lực ít nhất 30 ngày kể từ ngày hồ sơ được tiếp nhận.
+5. Có liều kế cá nhân và trang thiết bị bảo hộ chống chiếu xạ ngoài cho nhân viên thực hiện dịch vụ. Trường hợp hoạt động dịch vụ có tiếp xúc với nguồn phóng xạ hở phải có trang thiết bị bảo hộ chống chiếu xạ trong cho nhân viên thực hiện dịch vụ.
+6. Có chương trình bảo đảm chất lượng thực hiện dịch vụ.

@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013782
+Số quyết định: 2069/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp giấy phép xuất bản thêm ấn phẩm đối với cơ quan báo chí của địa phương
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Báo chí
+Trình tự thực hiện:
+    - Cơ quan chủ quản báo chí gửi trực tiếp, qua bưu chính hoặc trực tuyến 01 bộ hồ sơ đến cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh nơi có trụ sở chính của cơ quan chủ quản báo chí.
+    - Trường hợp hồ sơ không đúng theo quy định, trong 02 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh có văn bản thông báo yêu cầu hoàn thiện hồ sơ.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận hồ sơ đúng theo quy định, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh có trách nhiệm trình Ủy ban nhân dân cấp tỉnh cấp giấy phép xuất bản thêm ấn phẩm báo chí theo Mẫu số 02 tại Danh mục 2 kèm theo Phụ lục Nghị định số 138/2025/NĐ-CP ngày 12/6/2025 của Chính phủ; trường hợp từ chối cấp phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - (1) Văn bản đề nghị của cơ quan chủ quản báo chí;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (4) Mẫu trình bày tên gọi ấn phẩm báo chí có xác nhận của cơ quan chủ quản báo chí; đối với trình bày tên gọi tạp chí in thể hiện rõ cụm từ “tạp chí” có cỡ chữ tối thiểu bằng 1/3 cỡ chữ của tên tạp chí in.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (2) Tờ khai đề nghị cấp giấy phép xuất bản thêm ấn phẩm báo chí theo mẫu quy định;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (3) Đề án xuất bản thêm ấn phẩm báo chí (có chữ ký của người có thẩm quyền và đóng dấu hoặc ký số của cơ quan chủ quản báo chí) và các tài liệu kèm theo.  Đề án gồm các nội dung sau: sự cần thiết và cơ sở pháp lý; trình bày việc đáp ứng đầy đủ các điều kiện quy định tại Điều 30 Luật Báo chí; kết cấu và nội dung chính của ấn phẩm báo chí, quy trình xuất bản và quản lý nội dung. Đối với tạp chí in, ngoài đáp ứng điều kiện trên, Đề án cần thể hiện rõ về nội dung thông tin chuyên sâu, chuyên ngành, giới thiệu, đăng tải  kết quả nghiên cứu khoa học, tham gia tư vấn, phản biện chính sách về lĩnh vực thuộc chức năng, nhiệm vụ của cơ quan chủ quản báo chí.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Văn hóa và Thể thao Thành phố Hà Nội, Sở Văn hóa, Thể thao và Du lịch tỉnh Tây Ninh
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép xuất bản thêm ấn phẩm báo chí
+Căn cứ pháp lý:
+  * Nghị định quy định về phân quyền, phân cấp trong lĩnh vực văn hóa, thể thao và du lịch (138/2025/NĐ-CP)
+  * Luật báo chí (103/2016/QH13)
+  * Thông tư 41/2020/TT-BTTTT (41/2020/TT-BTTTT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

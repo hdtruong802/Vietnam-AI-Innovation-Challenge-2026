@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000465
+Số quyết định: 1201/QĐ-BXD
+Tên thủ tục: Cấp lại Giấy phép cung cấp dịch vụ hàng không tại cảng hàng không, sân bay (trừ cung cấp dịch vụ bảo đảm an ninh hàng không)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+    a) Nộp hồ sơ thủ tục hành chính:
+    Doanh nghiệp gửi hồ sơ đề nghị cấp lại Giấy phép cung cấp dịch vụ hàng không tại cảng hàng không, sân bay trực tiếp hoặc qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức khác đến Cục Hàng không Việt Nam và phải chịu trách nhiệm về tính chính xác, trung thực của các thông tin trong hồ sơ.
+    b) Giải quyết thủ tục hành chính:
+    - Đối với giấy phép cấp lại do thay đổi nội dung: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, Cục Hàng không Việt Nam cấp lại Giấy phép cung cấp dịch vụ hàng không tại cảng hàng không, sân bay; trường hợp không cấp phải gửi văn bản trả lời người đề nghị và nêu rõ lý do.
+    - Đối với giấy phép cấp lại do bị mất, rách, hỏng: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đề nghị, Cục Hàng không Việt Nam có trách nhiệm xem xét, quyết định cấp lại giấy phép hoặc thông báo bằng văn bản lý do từ chối cấp cho người đề nghị.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Cung cấp dịch vụ tại cảng hàng không khác: - Cấp lại do thay đổi nội dung (Mức phí kể từ ngày 01/7/2025 đến hết ngày 31/12/2026 theo quy định tại Thông tư số 64/2025/TT-BTC: ngày 30/6/2025 của Bộ trưởng Bộ Tài chính quy định mức thu , miễn một số khoản phí, lệ phí nhằm hỗ trợ doanh nghiệp, người dân))
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Cung cấp dịch vụ tại cảng hàng không quốc tế: - Cấp lại do thay đổi nội dung (Mức phí kể từ ngày 01/7/2025 đến hết ngày 31/12/2026 theo quy định tại Thông tư số 64/2025/TT-BTC: ngày 30/6/2025 của Bộ trưởng Bộ Tài chính quy định mức thu , miễn một số khoản phí, lệ phí nhằm hỗ trợ doanh nghiệp, người dân))
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Cấp lại do bị mất, rách, hỏng (Mức phí kể từ ngày 01/7/2025 đến hết ngày 31/12/2026 theo quy định tại Thông tư số 64/2025/TT-BTC: ngày 30/6/2025 của Bộ trưởng Bộ Tài chính quy định mức thu , miễn một số khoản phí, lệ phí nhằm hỗ trợ doanh nghiệp, người dân))
+
+Thành phần hồ sơ:
+    - Tờ khai cấp/cấp lại giấy phép cung cấp dịch vụ hàng không tại cảng hàng không, sân bay
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao các tài liệu có liên quan đến việc thay đổi nội dung giấy phép (nếu có).
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, Phường Bồ Đề, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép kinh doanh dịch vụ hàng không tại cảng hàng không
+Căn cứ pháp lý:
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Quy định về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng (92/2016/NĐ-CP)
+  * sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Xây dựng (14/2026/NĐ-CP)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Nghị định quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng (33/2025/NĐ-CP)
+  * Sửa đổi Nghị định 30/2013/NĐ-CP về kinh doanh vận chuyển hàng không và hoạt động hàng không chung và Nghị định 92/2016/NĐ-CP quy định về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng (15/2024/NĐ-CP)
+  * Nghị định 64/2022/NĐ-CP (64/2022/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

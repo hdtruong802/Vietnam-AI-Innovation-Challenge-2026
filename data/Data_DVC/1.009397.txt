@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009397
+Số quyết định: 999/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục tổ chức biểu diễn nghệ thuật
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Nghệ thuật biểu diễn
+Trình tự thực hiện:
+    - Ủy ban nhân dân cấp tỉnh có thẩm quyền chấp thuận tổ chức biểu diễn nghệ thuật trong tất cả các trường hợp quy định tại khoản 2 Điều 10 Nghị định số 144/2020/NĐ-CP ngày 14 tháng 12 năm 2020 của Chính phủ quy định về hoạt động nghệ thuật biểu diễn.
+    - Tổ chức, cá nhân gửi 01 bộ hồ sơ trực tiếp; qua bưu chính hoặc trực tuyến tới Ủy ban nhân dân cấp tỉnh ít nhất 07 ngày làm việc trước ngày dự kiến tổ chức biểu diễn nghệ thuật;
+    - Trường hợp hồ sơ chưa hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan nhà nước có thẩm quyền có văn bản thông báo yêu cầu hoàn thiện hồ sơ;
+    - Trường hợp hồ sơ đầy đủ theo quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ, cơ quan nhà nước có thẩm quyền thẩm định, cấp văn bản chấp thuận tổ chức biểu diễn nghệ thuật (theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 144/2020/NĐ-CP) đồng thời đăng tải trên hệ thống thông tin điện tử. Trường hợp không chấp thuận, phải trả lời bằng văn bản nêu rõ lý do;
+    - Trường hợp thay đổi nội dung biểu diễn nghệ thuật đã được chấp thuận, tổ chức, cá nhân đề nghị tổ chức biểu diễn nghệ thuật có văn bản nêu rõ lý do gửi trực tiếp; qua bưu chính hoặc trực tuyến tới cơ quan đã chấp thuận. Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan đã chấp thuận phải xem xét, quyết định và thông báo kết quả bằng văn bản tới tổ chức, cá nhân đề nghị;
+    - Trường hợp thay đổi thời gian, địa điểm tổ chức biểu diễn nghệ thuật đã được chấp thuận, tổ chức, cá nhân đề nghị tổ chức biểu diễn nghệ thuật có văn bản thông báo gửi trực tiếp; qua bưu chính hoặc trực tuyến tới cơ quan đã chấp thuận và chính quyền địa phương nơi tổ chức biểu diễn nghệ thuật ít nhất 02 ngày làm việc trước ngày dự kiến tổ chức.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật: Đến dưới 50 phút) | 1400000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật:  Từ 50 đến dưới 100 phút) | 2000000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật: Từ 100 đến dưới 150 phút) | 2340000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật: Từ 150 đến dưới 200 phút) | 3500000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật: Từ 200 phút trở lên) | 0 VNĐ (Miễn phí thẩm định chương trình nghệ thuật biểu diễn đối với chương trình phục vụ nhiệm vụ chính trị, đối ngoại cấp quốc gia theo quy định tại Thông tư số 153/2025/TT-BTC, bao gồm: các hoạt động biểu diễn nghệ thuật nhân kỷ niệm ngày thiết lập quan hệ ngoại giao với các nước, kỷ niệm ngày quốc khánh các nước tại Việt Nam; tổ chức nhân chuyến thăm của lãnh đạo cấp cao các nước đến Việt Nam; kỷ niệm ngày sinh nhật của một số lãnh tụ các nước tại Việt Nam hoặc nhân kỷ niệm sự kiện đặc biệt của nước ngoài được tổ chức tại Việt Nam.)
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật: Đến dưới 50 phút) | 1400000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật:  Từ 50 đến dưới 100 phút) | 2000000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật: Từ 100 đến dưới 150 phút) | 2340000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật: Từ 150 đến dưới 200 phút) | 3500000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật: Từ 200 phút trở lên) | 0 VNĐ (Miễn phí thẩm định chương trình nghệ thuật biểu diễn đối với chương trình phục vụ nhiệm vụ chính trị, đối ngoại cấp quốc gia theo quy định tại Thông tư số 153/2025/TT-BTC, bao gồm: các hoạt động biểu diễn nghệ thuật nhân kỷ niệm ngày thiết lập quan hệ ngoại giao với các nước, kỷ niệm ngày quốc khánh các nước tại Việt Nam; tổ chức nhân chuyến thăm của lãnh đạo cấp cao các nước đến Việt Nam; kỷ niệm ngày sinh nhật của một số lãnh tụ các nước tại Việt Nam hoặc nhân kỷ niệm sự kiện đặc biệt của nước ngoài được tổ chức tại Việt Nam.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật: Đến dưới 50 phút) | 1400000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật:  Từ 50 đến dưới 100 phút) | 2000000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật: Từ 100 đến dưới 150 phút) | 2340000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật: Từ 150 đến dưới 200 phút) | 3500000 VNĐ (Độ dài thời gian của một chương trình (vở diễn) biểu diễn nghệ thuật: Từ 200 phút trở lên) | 0 VNĐ (Miễn phí thẩm định chương trình nghệ thuật biểu diễn đối với chương trình phục vụ nhiệm vụ chính trị, đối ngoại cấp quốc gia theo quy định tại Thông tư số 153/2025/TT-BTC, bao gồm: các hoạt động biểu diễn nghệ thuật nhân kỷ niệm ngày thiết lập quan hệ ngoại giao với các nước, kỷ niệm ngày quốc khánh các nước tại Việt Nam; tổ chức nhân chuyến thăm của lãnh đạo cấp cao các nước đến Việt Nam; kỷ niệm ngày sinh nhật của một số lãnh tụ các nước tại Việt Nam hoặc nhân kỷ niệm sự kiện đặc biệt của nước ngoài được tổ chức tại Việt Nam.)
+
+Thành phần hồ sơ:
+    - Kịch bản, danh mục tác phẩm gắn với tác giả, người chịu trách nhiệm chính về nội dung chương trình (đối với tác phẩm nước ngoài phải kèm bản dịch tiếng Việt).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị tổ chức biểu diễn nghệ thuật (Mẫu số 02 Phụ lục ban hành kèm theo Nghị định số 144/2020/NĐ-CP);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận tổ chức biểu diễn nghệ thuật
+Căn cứ pháp lý:
+  * Nghị quyết số 18/2026/NQ-CP ngày 29/4/2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, cắt giảm điều kiện đầu tư kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (18/2026/NQ-CP)
+  * Nghị định quy định về hoạt động nghệ thuật biểu diễn (144/2020/NĐ-CP)
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định có quy định thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (116/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Là đơn vị sự nghiệp công lập có chức năng biểu diễn nghệ thuật; hội chuyên ngành về nghệ thuật biểu diễn; tổ chức, cá nhân đăng ký kinh doanh hoạt động biểu diễn nghệ thuật theo quy định của pháp luật.
+- Phải đáp ứng điều kiện về an ninh, trật tự an toàn xã hội, môi trường, y tế và phòng, chống cháy nổ theo quy định của pháp luật;
+- Có văn bản chấp thuận tổ chức biểu diễn nghệ thuật của cơ quan nhà nước có thẩm quyền.
+Từ khóa: Không có thông tin
+Mô tả: - Là đơn vị sự nghiệp công lập có chức năng biểu diễn nghệ thuật; hội chuyên ngành về nghệ thuật biểu diễn; tổ chức, cá nhân đăng ký kinh doanh hoạt động biểu diễn nghệ thuật theo quy định của pháp luật.
+- Phải đáp ứng điều kiện về an ninh, trật tự an toàn xã hội, môi trường, y tế và phòng, chống cháy nổ theo quy định của pháp luật;
+- Có văn bản chấp thuận tổ chức biểu diễn nghệ thuật của cơ quan nhà nước có thẩm quyền.

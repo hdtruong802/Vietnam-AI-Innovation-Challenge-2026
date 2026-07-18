@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014577
+Số quyết định: 1869/QĐ-UBND
+Tên thủ tục: Chính sách hỗ trợ đào tạo các ngành, nghề phục vụ công nghiệp bán dẫn, trí tuệ nhân tạo, công nghệ số cho học sinh, sinh viên
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giáo dục nghề nghiệp (G07-LĐ06)
+Trình tự thực hiện:
+    Bước 1. Trước ngày 15 tháng 8 hằng năm, Thủ trưởng cơ sở đào tạo rà soát, tổng hợp, nộp 01 bộ hồ sơ trực tiếp hoặc qua đường bưu chính hoặc hình thức điện tử theo quy định tại khoản 5 Điều 3 Nghị quyết 113/2025/NQ-HĐND về Sở Giáo dục và Đào tạo.
+    Bước 2. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ, Sở Giáo dục và Đào tạo có trách nhiệm thẩm định hồ sơ; quyết định phê duyệt kinh phí hỗ trợ học phí cho học sinh, sinh viên.
+    Trường hợp không hỗ trợ thì trong thời hạn 05 ngày làm việc, Sở Giáo dục và Đào tạo có trách nhiệm thông báo bằng văn bản và nêu rõ lý do không hỗ trợ.
+    Sau khi nhận được kinh phí hỗ trợ của Sở Giáo dục và Đào tạo, trong vòng 15 ngày làm việc, thủ trưởng cơ sở đào tạo có trách nhiệm thanh toán kinh phí hỗ trợ học phí cho học sinh, sinh viên và hoàn toàn chịu trách nhiệm về tính chính xác của hồ sơ đã lập và đề nghị hỗ trợ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ
+
+Thành phần hồ sơ:
+    - - Văn bản đề nghị hỗ trợ đào tạo (quy định tại Mẫu số 03 Phụ lục III kèm theo Nghị quyết 113/2025/NQ-HĐND
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bảng tổng hợp kinh phí đề nghị hỗ trợ (quy định tại Mẫu số 04 Phụ lục III kèm theo Nghị quyết 113/2025/NQ-HĐND
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Danh sách học sinh, sinh viên đề nghị hỗ trợ (quy định tại Mẫu số 05 Phụ lục III kèm theo Nghị quyết 113/2025/NQ-HĐND
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao có chứng thực: Đăng ký hoạt động GDNN/Đăng ký bổ sung hoạt động GDNN do cơ quan có thẩm quyền cấp đối với trình độ trung cấp, cao đẳng. Quyết định mở mã ngành đào tạo của cấp có thẩm quyền đối với trình độ đại học hoặc cung cấp thông tin về đăng ký hoạt động GDNN/đăng ký bổ sung hoạt động GDNN hoặc Quyết định mở mã ngành đào tạo đã được kết nối, chia sẻ giữa các cơ quan, tổ chức theo quy định
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Quyết định ban hành mức thu học phí (theo các năm học
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện: Sở Giáo dục và Đào tạo tỉnh Bắc Ninh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công tỉnh Bắc Ninh
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt kinh phí hỗ trợ học phí cho học sinh, sinh viên của Giám đốc Sở Giáo dục và Đào tạo hoặc văn bản trả lời nêu rõ lý do không hỗ trợ
+Căn cứ pháp lý:
+  * Nghị quyết 113/2025/NQ-HĐND  Ban hành Quy định chính sách hỗ trợ đào tạo nghề, đào tạo nhân lực phục vụ công nghiệp bán dẫn, trí tuệ nhân tạo, công nghệ số trên địa bàn tỉnh Bắc Ninh, giai đoạn 2025-2030 (113/2025/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: - Học sinh, sinh viên thường trú trên địa bàn tỉnh Bắc Ninh, tốt nghiệp THPT, trúng tuyển và tham gia học các trình độ trung cấp, cao đẳng (các ngành, nghề quy định tại Phụ lục I kèm theo Nghị quyết 113/2025/NQ-HĐND), đại học (các ngành, nghề quy định tại Phụ lục II kèm theo Nghị quyết 113/2025/NQ-HĐND);
+- Được các cơ sở đào tạo tuyển sinh từ năm học 2025-2026 đến hết năm học 2029-2030.
+Từ khóa: Không có thông tin
+Mô tả: - Học sinh, sinh viên thường trú trên địa bàn tỉnh Bắc Ninh, tốt nghiệp THPT, trúng tuyển và tham gia học các trình độ trung cấp, cao đẳng (các ngành, nghề quy định tại Phụ lục I kèm theo Nghị quyết 113/2025/NQ-HĐND), đại học (các ngành, nghề quy định tại Phụ lục II kèm theo Nghị quyết 113/2025/NQ-HĐND);
+- Được các cơ sở đào tạo tuyển sinh từ năm học 2025-2026 đến hết năm học 2029-2030.

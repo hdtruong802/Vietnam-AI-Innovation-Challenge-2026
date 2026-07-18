@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010900
+Số quyết định: 4022/QĐ-BGDĐT
+Tên thủ tục: Mở ngành đào tạo trình độ đại học, trình độ thạc sĩ hoặc trình độ tiến sĩ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giáo dục đại học
+Trình tự thực hiện:
+  * Đối với các cơ sở giáo dục đại học; các cơ sở giáo dục khác được phép đào tạo trình độ đại học, thạc sĩ, tiến sĩ; viện hàn lâm, viện do Thủ tướng Chính phủ thành lập theo quy định của Luật Khoa học và Công nghệ được phép đào tạo trình độ tiến sĩ (sau đây gọi chung là cơ sở đào tạo) chưa đủ điều kiện để được tự chủ mở ngành (trừ các đơn vị thuộc các đại học), hoặc trong thời hạn không được tự chủ mở ngành đào tạo do vi phạm quy định đến mức không được tự chủ mở ngành đào tạo theo quy định của Luật Giáo dục đại học và các quy định khác có liên quan của pháp luật hoặc đối với việc mở các ngành đào tạo thuộc lĩnh vực Sức khoẻ, nhóm ngành Đào tạo giáo viên, lĩnh vực An ninh, quốc phòng, thực hiện như sau:
+    a) Cơ sở đào tạo gửi 01 bộ hồ sơ mở ngành đến Bộ Giáo dục và Đào tạo theo hình thức gửi trực tiếp hoặc qua bưu điện hoặc qua Cổng Dịch vụ công trực tuyến của Bộ Giáo dục và Đào tạo;
+    b) Bộ Giáo dục và Đào tạo tiếp nhận và thẩm định hồ sơ; trong trường hợp cần thiết Bộ trưởng Bộ Giáo dục và Đào tạo quyết định việc tổ chức đoàn kiểm tra thực tế các điều kiện bảo đảm chất lượng tại cơ sở đào tạo. Riêng đối với mở ngành đào tạo thuộc lĩnh vực sức khỏe, Bộ Giáo dục và Đào tạo lấy ý kiến (bằng văn bản) của Bộ Y tế về nhu cầu nhân lực ngành đề xuất mở và các điều kiện về tổ chức đào tạo thực hành trong khối ngành sức khỏe theo quy định của Chính phủ;
+    c) Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ mở ngành của cơ sở đào tạo, Bộ trưởng Bộ Giáo dục và Đào tạo ra quyết định cho phép mở ngành đào tạo, nếu hồ sơ mở ngành của cơ sở đào tạo đầy đủ và đáp ứng các điều kiện để được mở ngành theo quy định tại Thông tư số 02/2022/TT-BGDĐT ngày 18 tháng 01 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định điều kiện, trình tự, thủ tục mở ngành đào tạo, đình chỉ hoạt động của ngành đào tạo trình độ đại học, thạc sĩ, tiến sĩ (Thông tư số 02/2022/TT-BGDĐT); Thông tư số 12/2024/TT-BGDĐT ngày 10 tháng 10 năm 2024 của Bộ trưởng Bộ Giáo dục và Đào tạo sửa đổi, bổ sung một số điều của Thông tư số 02/2022/TT-BGDĐT ngày 18 tháng 01 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định điều kiện, trình tự, thủ tục mở ngành đào tạo, đình chỉ hoạt động của ngành đào tạo trình độ đại học, thạc sĩ, tiến sĩ (Thông tư số 12/2024/TT-BGDĐT) và các quy định khác có liên quan của pháp luật. Trường hợp hồ sơ mở ngành của cơ sở đào tạo chưa đầy đủ, chưa bảo đảm các điều kiện để được mở ngành theo quy định, Bộ Giáo dục và Đào tạo thông báo kết quả bằng văn bản về tình trạng hồ sơ và những nội dung chưa bảo đảm theo quy định đối với cơ sở đào tạo.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ mở ngành (đủ hồ sơ hợp lệ) của cơ sở đào tạo.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ mở ngành (đủ hồ sơ hợp lệ) của cơ sở đào tạo.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ mở ngành (đủ hồ sơ hợp lệ) của cơ sở đào tạo.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị mở ngành đào tạo: tóm tắt quá trình xây dựng đề án, báo cáo khẳng định về việc bảo đảm đủ các điều kiện theo quy định để được mở ngành đào tạo và đề nghị cấp có thẩm quyền quyết định
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Công văn của đại học chấp thuận về mặt chủ trương (đối với các đơn vị thành viên thuộc đại học khi mở ngành đào tạo thuộc lĩnh vực Sức khỏe và nhóm ngành Đào tạo giáo viên)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề án mở ngành đào tạo đã được thẩm định theo quy định tại Điều 9 Thông tư số 02/2022/TT-BGDĐT, bảo đảm đầy đủ các nội dung theo quy định tại Điều 8 Thông tư số 02/2022/TT-BGDĐT và khoản 5 Điều 1 Thông tư số 12/2024/TT-BGDĐT
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Giáo dục và Đào tạo
+Cơ quan có thẩm quyền: Bộ trưởng Bộ Giáo dục và Đào tạo
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cho phép mở ngành đào tạo trình độ đại học hoặc trình độ thạc sĩ hoặc trình độ tiến sĩ
+Căn cứ pháp lý:
+  * Thông tư 02/2022/TT-BGDĐT (02/2022/TT-BGDĐT)
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 02/2022/TT-BGDĐT ngày 18 tháng 01 năm 2022 của Bộ trưởng Bộ Giáo dục và Đào tạo quy định điều kiện, trình tự, thủ tục mở ngành đào tạo, đình chỉ hoạt động của ngành đào tạo trình độ đại học, thạc sĩ, tiến sĩ (12/2024/TT-BGDĐT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

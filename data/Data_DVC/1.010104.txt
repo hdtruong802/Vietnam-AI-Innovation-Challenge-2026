@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010104
+Số quyết định: 2001/QĐ-UBND
+Tên thủ tục: Xác nhận đủ điều kiện nhập khẩu máy trò chơi điện tử có cài đặt chương trình trả thưởng và thiết bị chuyên dùng cho trò chơi ở sòng bạc
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động mua bán quốc tế chuyên ngành văn hóa
+Trình tự thực hiện:
+    Bước 1: Sau khi có văn bản chấp thuận cho Thương nhân đủ điều kiện nhập khẩu hàng hóa và danh mục hàng hóa được nhập khẩu của Bộ Văn hóa, Thể thao và Du lịch, hoàn thiện hồ sơ nộp trực tuyến tại địa chỉ dichvucong.danang.gov.vn, nộp trực tiếp hoặc qua dịch vụ bưu chính công ích đến Trung tâm Phục vụ hành chính công thành phố.
+    Bước 2:  Trung tâm Phục vụ hành chính công thành phố kiểm tra tính hợp lệ và đầy đủ của các giấy tờ có trong hồ sơ, nếu thấy hồ sơ chưa đầy đủ theo quy định từ chối nêu rõ lý do, nếu hồ sơ đầy đủ tiếp nhận hồ sơ và chuyển Sở Văn hóa, Thể thao và Du lịch xử lý.
+    Bước 3: Phòng chuyên môn Sở Văn hóa, Thể thao và Du lịch sau khi thẩm định, nếu thấy đủ điều kiện thì trình Lãnh đạo Sở ký ban hành văn bản chấp thuận. Trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+    Trong thời hạn 3 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Văn hóa, Thể thao và Du lịch thành phố Đà Nẵng ra văn bản đồng ý kiểm tra hàng hóa. Trong thời hạn 02 ngày làm việc, kể từ ngày hàng nhận về kho để bảo quản, Thương nhân liên hệ với Sở Văn hóa, Thể thao và Du lịch để được kiểm tra hoặc thẩm định, phê duyệt nội dung và dán tem, nhãn kiểm soát, lưu hành đối với hàng hóa đủ điều kiện phổ biến, lưu hành theo quy định của pháp luật.
+    - Trong thời hạn 02 ngày làm việc, kể từ ngày kiểm tra, Sở Văn hóa, Thể thao và Du lịch ra văn bản thông báo kết quả kiểm tra cho Thương nhân
+    Bước 4: Tổ chức, công dân nhận kết quả qua mail, trực tiếp tại  Trung tâm Phục vụ hành chính công thành phố hoặc qua dịch vụ bưu chính công ích.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 300000 VNĐ (Phí: Đối với 1 máy/lần thẩm định:300.000 đồng/lần thẩm định (Phí thẩm định nội dung (thực hiện theo Điều 4 Thông tư 260/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ Tài chính - Đối với máy trò chơi điện tử có cài đặt chương trình trả trưởng))) | 500000 VNĐ (Phí: Đối với 2 máy trở lên/lần thẩm định: 500.000 đồng/lần thẩm định (Phí thẩm định nội dung : thực hiện theo Điều 4 Thông tư 260/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ Tài chính (Đối với máy trò chơi điện tử có cài đặt chương trình trả thưởng))) | 500000 VNĐ (Phí: Đối với thiết bị chuyên dùng cho trò chơi ở sòng bạc: 500.000 đồng/sản phẩm/lần thẩm định (Phí thẩm định nội dung : thực hiện theo Điều 4 Thông tư 260/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ Tài chính)) | 0 VNĐ (Phí: **Từ 01/07/2025 đến 31/12/2026 thu 50% mức thu phí quy định tại TT67/2021/TT-BTC Đồng)
+    Mô tả: Hồ sơ nộp trực tuyến tại địa chỉ dichvucong.gov.vn, nộp trực tiếp hoặc qua dịch vụ bưu chính công ích đến Trung tâm Phục vụ hành chính công thành phố Đà Nẵng
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 300000 VNĐ (Phí: Đối với 1 máy/lần thẩm định:300.000 đồng/lần thẩm định (Phí thẩm định nội dung (thực hiện theo Điều 4 Thông tư 260/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ Tài chính - Đối với máy trò chơi điện tử có cài đặt chương trình trả trưởng))) | 500000 VNĐ (Phí: Đối với 2 máy trở lên/lần thẩm định: 500.000 đồng/lần thẩm định (Phí thẩm định nội dung : thực hiện theo Điều 4 Thông tư 260/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ Tài chính (Đối với máy trò chơi điện tử có cài đặt chương trình trả thưởng))) | 500000 VNĐ (Phí: Đối với thiết bị chuyên dùng cho trò chơi ở sòng bạc: 500.000 đồng/sản phẩm/lần thẩm định (Phí thẩm định nội dung : thực hiện theo Điều 4 Thông tư 260/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ Tài chính)) | 0 VNĐ (Phí: **Từ 01/07/2025 đến 31/12/2026 thu 50% mức thu phí quy định tại TT67/2021/TT-BTC Đồng)
+    Mô tả: Hồ sơ nộp trực tuyến tại địa chỉ dichvucong.gov.vn, nộp trực tiếp hoặc qua dịch vụ bưu chính công ích đến Trung tâm Phục vụ hành chính công thành phố
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 300000 VNĐ (Phí: Đối với 1 máy/lần thẩm định:300.000 đồng/lần thẩm định (Phí thẩm định nội dung (thực hiện theo Điều 4 Thông tư 260/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ Tài chính - Đối với máy trò chơi điện tử có cài đặt chương trình trả trưởng))) | 500000 VNĐ (Phí: Đối với 2 máy trở lên/lần thẩm định: 500.000 đồng/lần thẩm định (Phí thẩm định nội dung : thực hiện theo Điều 4 Thông tư 260/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ Tài chính (Đối với máy trò chơi điện tử có cài đặt chương trình trả thưởng))) | 500000 VNĐ (Phí: Đối với thiết bị chuyên dùng cho trò chơi ở sòng bạc: 500.000 đồng/sản phẩm/lần thẩm định (Phí thẩm định nội dung : thực hiện theo Điều 4 Thông tư 260/2016/TT-BTC ngày 14 tháng 11 năm 2016 của Bộ Tài chính)) | 0 VNĐ (Phí: **Từ 01/07/2025 đến 31/12/2026 thu 50% mức thu phí quy định tại TT67/2021/TT-BTC Đồng)
+    Mô tả: Hồ sơ nộp trực tuyến tại địa chỉ dichvucong.gov.vn, nộp trực tiếp hoặc qua dịch vụ bưu chính công ích đến Trung tâm Phục vụ hành chính công thành phố
+
+Thành phần hồ sơ:
+    - 1. Đơn đề nghị xác nhận đủ điều kiện nhập khẩu hàng hóa và danh mục hàng hóa nhập khẩu của thương nhân (Mẫu 06 tại Phụ lục II ban hành kèm theo Thông tư số 28/2014/TT-BVHTTDL ngày 31/12/2014), ban hành kèm theo;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2. Văn bản chấp thuận cho Thương nhân đủ điều kiện nhập khẩu hàng hóa và danh mục hàng hóa được nhập khẩu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3. Hồ sơ tài liệu chứng minh nguồn gốc hợp pháp của sản phẩm hàng hóa đề nghị nhập khẩu (kèm theo văn bản dịch ra tiếng Việt);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4. Bản mô tả nội dung, hình ảnh, cách thức vận hành/sử dụng, chủng loại, số lượng, tính năng của từng loại hàng hóa và các thông tin liên quan khác đến sản phẩm nhập khẩu (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Công dân Việt Nam
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch TP.Đà Nẵng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công thành phố
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản
+Căn cứ pháp lý:
+  * Thông tư số 26/2018/TT-BVHTTDL (26/2018/TT-BVHTTDL)
+  * Thông tư 28/2014/TT-BVHTTDL (28/2014/TT-BVHTTDL)
+  * Thông tư số 260/2016/TT-BTC (260/2016/TT-BTC)
+  * Về việc công bố Danh mục thủ tục hành chính sửa đổi, bổ sung  trong lĩnh vực Đường thủy nội địa thuộc thẩm quyền giải quyết của  Ủy ban nhân dân cấp huyện trên địa bàn tỉnh Quảng Bình (1344/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: 1. Máy, thiết bị nhập khẩu mới 100%, có nội dung, hình ảnh, âm thanh, hình thức bảo đảm chất lượng, phù hợp với thẩm mỹ của người Việt Nam và không vi phạm các điều kiện quy định về nội dung cấm phổ biến, lưu hành tại Việt Nam; 
+2. Có địa điểm lắp đặt, kinh doanh máy, thiết bị nhập khẩu đúng với nội dung đăng ký kinh doanh đã được cơ quan có thẩm quyền cấp;
+3. Quyết định công nhận hạng cơ sở lưu trú du lịch còn hiệu lực theo quy định của pháp luật tại thời điểm nhập khẩu;
+4. Tuân thủ các điều kiện khác theo quy định tại Giấy chứng nhận đầu tư hoặc Giấy đăng ký kinh doanh và Giấy chứng nhận đủ điều kiện kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài, kinh doanh sòng bạc.
+Từ khóa: Không có thông tin
+Mô tả: 1. Máy, thiết bị nhập khẩu mới 100%, có nội dung, hình ảnh, âm thanh, hình thức bảo đảm chất lượng, phù hợp với thẩm mỹ của người Việt Nam và không vi phạm các điều kiện quy định về nội dung cấm phổ biến, lưu hành tại Việt Nam; 
+2. Có địa điểm lắp đặt, kinh doanh máy, thiết bị nhập khẩu đúng với nội dung đăng ký kinh doanh đã được cơ quan có thẩm quyền cấp;
+3. Quyết định công nhận hạng cơ sở lưu trú du lịch còn hiệu lực theo quy định của pháp luật tại thời điểm nhập khẩu;
+4. Tuân thủ các điều kiện khác theo quy định tại Giấy chứng nhận đầu tư hoặc Giấy đăng ký kinh doanh và Giấy chứng nhận đủ điều kiện kinh doanh trò chơi điện tử có thưởng dành cho người nước ngoài, kinh doanh sòng bạc.

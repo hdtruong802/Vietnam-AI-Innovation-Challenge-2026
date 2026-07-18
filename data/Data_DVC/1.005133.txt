@@ -1,0 +1,107 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.005133
+Số quyết định: 361/QĐ-BTP
+Tên thủ tục: Thủ tục Cấp giấy phép hoạt động của tổ chức con nuôi nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Nuôi con nuôi
+Trình tự thực hiện:
+    - Tổ chức con nuôi nước ngoài nộp hồ sơ cho Cục Hành chính tư pháp.
+    - Cục Hành chính tư pháp kiểm tra, thẩm định hồ sơ; phỏng vấn để kiểm tra, đánh giá về tiêu chuẩn của người dự kiến đứng đầu Văn phòng con nuôi nước ngoài tại Việt Nam; kiểm tra, đánh giá về điều kiện, năng lực chuyên môn của tổ chức và đội ngũ nhân viên của tổ chức con nuôi nước ngoài.
+    - Cục Hành chính tư pháp đề nghị Bộ Công an cho ý kiến về việc cấp phép cho tổ chức con nuôi nước ngoài và người dự kiến đứng đầu văn phòng con nuôi nước ngoài tại Việt Nam.
+    - Bộ Công an trả lời bằng văn bản cho Cục Hành chính tư pháp.
+    - Cục Hành chính tư pháp xem xét, quyết định việc cấp Giấy phép hoạt động của tổ chức con nuôi nước ngoài tại Việt Nam và thông báo cho Bộ Công an, cơ quan thuế có thẩm quyền để phối hợp quản lý. Trường hợp từ chối cấp Giấy phép, Cục Hành chính tư pháp thông báo lý do bằng văn bản cho tổ chức con nuôi nước ngoài.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 87 WORKING_DAY
+    Phí, lệ phí: 65000000 VNĐ (65.000.000 đồng (sáu mươi lăm triệu đồng)/lần cấp phép. Chuyển khoản hoặc nộp trực tiếp tại Kho bạc nhà nước Ba Đình.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 87 WORKING_DAY
+    Phí, lệ phí: 65000000 VNĐ (65.000.000 đồng (sáu mươi lăm triệu đồng)/lần cấp phép. Chuyển khoản hoặc nộp trực tiếp tại Kho bạc nhà nước Ba Đình.)
+
+Thành phần hồ sơ:
+    - Đơn xin cấp/gia hạn/sửa đổi Giấy phép hoạt động của tổ chức con nuôi nước ngoài tại Việt Nam (song ngữ Việt-Anh);
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Lưu ý:  *) Các giấy tờ do cơ quan có thẩm quyền của nước ngoài lập, cấp hoặc xác nhận phải được: - Hợp pháp hoá lãnh sự tại Cục Lãnh sự, Bộ Ngoại giao Việt Nam, Cơ quan đại diện Ngoại giao hoặc Cơ quan lãnh sự của Việt Nam ở nước ngoài, trừ trường hợp được miễn hợp pháp hóa lãnh sự theo Điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo nguyên tắc có đi có lại. - Dịch ra tiếng Việt và bản dịch phải được chứng thực chữ ký người dịch theo quy định của pháp luật Việt Nam.  *) Giấy tờ có trong hồ sơ xin cấp Giấy phép hoạt động của tổ chức con nuôi nước ngoài tại Việt Nam do cơ quan, tổ chức, người có thẩm quyền lập, cấp, xác nhận mà bị tẩy xoá, sửa chữa làm sai lệch nội dung hoặc thông tin trong các văn bản, giấy tờ được khai không đúng sự thật thì không có giá trị sử dụng. Người thực hiện hành vi tẩy xoá, sửa chữa làm sai lệch nội dung hoặc khai thông tin không đúng sự thật bị xử lý vi phạm theo quy định pháp luật. *) Đối với Phiếu lý lịch tư pháp của người dự kiến đứng đầu Văn phòng con nuôi nước ngoài tại Việt Nam là người Việt Nam, do cơ quan có thẩm quyền của Việt Nam cấp, Cục Hành chính tư pháp có trách nhiệm yêu cầu cơ quan quản lý dữ liệu lý lịch tư pháp cung cấp thông tin lý lịch tư pháp; cá nhân khi thực hiện các thủ tục hành chính này không phải nộp Phiếu Lý lịch tư pháp trong hồ sơ.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Sơ yếu lý lịch tự thuật, phiếu lý lịch tư pháp được cấp chưa quá 12 tháng tính đến ngày nộp hồ sơ tại Cục Hành chính tư pháp, bản sao văn bằng, chứng chỉ về trình độ chuyên môn của người dự kiến đứng đầu Văn phòng con nuôi nước ngoài tại Việt Nam và văn bản của tổ chức chấp thuận cử người đó làm người đứng đầu Văn phòng con nuôi nước ngoài tại Việt Nam
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Báo cáo tình hình hoạt động trong lĩnh vực con nuôi quốc tế trong 03 năm gần nhất, bao gồm cả tình hình thu, chi tài chính về con nuôi quốc tế, không vi phạm pháp luật và được cơ quan có thẩm quyền của nước nơi tổ chức được thành lập xác nhận; trường hợp đã hoạt động trong lĩnh vực nuôi con nuôi nước ngoài tại Việt Nam, thì phải có báo cáo về tình hình hoạt động tại Việt Nam do người đứng đầu tổ chức con nuôi nước ngoài ký và đóng dấu
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Bản sao Điều lệ, Quy chế hoạt động hoặc văn bản thành lập tổ chức con nuôi nước ngoài
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Bản sao giấy phép do cơ quan có thẩm quyền của nước nơi tổ chức được thành lập cấp, cho phép tổ chức được hoạt động trong lĩnh vực nuôi con nuôi nước ngoài tại Việt Nam
+      Số lượng: Bản chính: 2, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Hành chính tư pháp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Bộ Công an
+Kết quả thực hiện: Giấy phép hoạt động của tổ chức con nuôi nước ngoài tại Việt Nam
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 21/2011/TT-BTP về việc quản lý văn phòng con nuôi nước ngoài tại Việt Nam (11/2021/TT-BTP)
+  * Thông tư số 08/2025/TT-BTP ngày 12/6/2025 của Bộ trưởng Bộ Tư pháp quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp và phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (08/2025/TT-BTP)
+  * BAN HÀNH, HƯỚNG DẪN VIỆC GHI CHÉP, SỬ DỤNG, QUẢN LÝ VÀ LƯU TRỮ SỔ, MẪU GIẤY TỜ, HỒ SƠ NUÔI CON NUÔI (10/2020/TT-BTP)
+  * Nghị định sửa đổi, bổ sung một số nghị định để cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh  thuộc phạm vi quản lý của Bộ Tư pháp (18/2026/NĐ-CP)
+  * Nghị định 24/2019/NĐ-CP (24/2019/NĐ-CP)
+  * Nghị định số 120/2025/NĐ-CP ngày 11/6/2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp. (120/2025/NĐ-CP)
+  * THÔNG TƯ  SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 10/2020/TT-BTP NGÀY 28 THÁNG 12 NĂM 2020 CỦA BỘ TRƯỞNG BỘ TƯ PHÁP BAN HÀNH, HƯỚNG DẪN VIỆC GHI CHÉP, SỬ DỤNG, QUẢN LÝ VÀ LƯU TRỮ SỔ, MẪU GIẤY TỜ, HỒ SƠ NUÔI CON NUÔI (07/2023/TT-BTP)
+  * Nghị định số 06/2025/NĐ-CP ngày 08 tháng 01 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định về nuôi con nuôi (06/2025/NĐ-CP)
+  * Thông tư số 01/2025/TT-BTP ngày 21 tháng 02 năm 2025 của Bộ trưởng Bộ Tư pháp sửa đổi, bổ sung một số điều của Thông tư số 21/2011/TT-BTP ngày 21 tháng 11 năm 2011 của Bộ trưởng Bộ Tư pháp về việc quản lý văn phòng con nuôi nước ngoài tại Việt Nam đã được sửa đổi, bổ sung một số điều theo Thông tư số 11/2021/TT-BTP ngày 28 tháng 12 năm 2021 của Bộ trưởng Bộ Tư pháp (01/2025/TT-BTP)
+
+Yêu cầu, điều kiện thực hiện: Yêu cầu, điều kiện thực hiện thủ tục hành chính:
+- Đối với người đứng đầu Văn phòng con nuôi nước ngoài tại Việt Nam:
++) Là công dân Việt Nam hoặc công dân nước ngoài; nếu là công dân Việt
+Nam thì không thuộc diện công chức, viên chức theo quy định của pháp luật;
++) Có đạo đức tốt;
++) Không có tiền án, tiền sự, không thuộc diện bị cấm xuất cảnh, nhập
+cảnh;
++) Hiểu biết về pháp luật, văn hóa, xã hội Việt Nam liên quan đến nuôi con
+nuôi và pháp luật quốc tế về nuôi con nuôi;
++) Một người chỉ được đứng đầu một Văn phòng con nuôi nước ngoài tại
+Việt Nam.
+- Đối với tổ chức con nuôi nước ngoài được cấp phép hoạt động tại Việt
+Nam:
++) Được thành lập và hoạt động hợp pháp, phi lợi nhuận trong lĩnh vực
+nuôi con nuôi trên lãnh thổ của nước là thành viên của điều ước quốc tế về nuôi
+con nuôi mà Việt Nam là thành viên;
++) Được cơ quan có thẩm quyền về nuôi con nuôi của nước nơi thành lập
+cho phép hoạt động trong lĩnh vực nuôi con nuôi tại Việt Nam hoặc lĩnh vực nuôi
+con nuôi quốc tế;
++) Có thời gian hoạt động trong lĩnh vực con nuôi quốc tế liên tục từ 03
+năm trở lên, không vi phạm pháp luật và được cơ quan có thẩm quyền của nước
+đó xác nhận;
++) Có đội ngũ nhân viên công tác xã hội và pháp lý hiểu biết về pháp luật,
+văn hóa, xã hội của Việt Nam và pháp luật quốc tế về nuôi con nuôi;
++) Người đại diện của tổ chức tại Việt Nam có đủ tiêu chuẩn về đạo đức,
+chuyên môn về lĩnh vực nuôi con nuôi.
+Từ khóa: Không có thông tin
+Mô tả: Yêu cầu, điều kiện thực hiện thủ tục hành chính:
+- Đối với người đứng đầu Văn phòng con nuôi nước ngoài tại Việt Nam:
++) Là công dân Việt Nam hoặc công dân nước ngoài; nếu là công dân Việt
+Nam thì không thuộc diện công chức, viên chức theo quy định của pháp luật;
++) Có đạo đức tốt;
++) Không có tiền án, tiền sự, không thuộc diện bị cấm xuất cảnh, nhập
+cảnh;
++) Hiểu biết về pháp luật, văn hóa, xã hội Việt Nam liên quan đến nuôi con
+nuôi và pháp luật quốc tế về nuôi con nuôi;
++) Một người chỉ được đứng đầu một Văn phòng con nuôi nước ngoài tại
+Việt Nam.
+- Đối với tổ chức con nuôi nước ngoài được cấp phép hoạt động tại Việt
+Nam:
++) Được thành lập và hoạt động hợp pháp, phi lợi nhuận trong lĩnh vực
+nuôi con nuôi trên lãnh thổ của nước là thành viên của điều ước quốc tế về nuôi
+con nuôi mà Việt Nam là thành viên;
++) Được cơ quan có thẩm quyền về nuôi con nuôi của nước nơi thành lập
+cho phép hoạt động trong lĩnh vực nuôi con nuôi tại Việt Nam hoặc lĩnh vực nuôi
+con nuôi quốc tế;
++) Có thời gian hoạt động trong lĩnh vực con nuôi quốc tế liên tục từ 03
+năm trở lên, không vi phạm pháp luật và được cơ quan có thẩm quyền của nước
+đó xác nhận;
++) Có đội ngũ nhân viên công tác xã hội và pháp lý hiểu biết về pháp luật,
+văn hóa, xã hội của Việt Nam và pháp luật quốc tế về nuôi con nuôi;
++) Người đại diện của tổ chức tại Việt Nam có đủ tiêu chuẩn về đạo đức,
+chuyên môn về lĩnh vực nuôi con nuôi.

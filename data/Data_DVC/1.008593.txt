@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008593
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Thông báo phương pháp trích khấu hao tài sản cố định/Thông báo về việc chuyển lợi nhuận ra nước ngoài
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1:
+    (i) Đối với Thông báo phương pháp trích khấu hao tài sản cố định: Doanh nghiệp lập thông báo phương pháp trích khấu hao tài sản cố định mà doanh nghiệp lựa chọn áp dụng và gửi đến cơ quan thuế trực tiếp quản lý trước khi thực hiện trích khấu hao theo quy định.
+    (ii) Đối với Thông báo về việc chuyển lợi nhuận ra nước ngoài: Nhà đầu tư nước ngoài trực tiếp hoặc uỷ quyền cho doanh nghiệp mà nhà đầu tư nước ngoài tham gia đầu tư thực hiện thông báo việc chuyển lợi nhuận ra nước ngoài theo mẫu và gửi cho cơ quan thuế trực tiếp quản lý doanh nghiệp mà nhà đầu tư nước ngoài tham gia đầu tư, trước khi thực hiện chuyển lợi nhuận ra nước ngoài ít nhất 7 ngày làm việc.
+    +  Bước 2. Cơ quan thuế tiếp nhận:
+    ++ Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế, công chức thuế tiếp nhận và đóng dấu tiếp nhận hồ sơ, ghi thời gian nhận hồ sơ, ghi nhận số lượng tài liệu trong hồ sơ và ghi vào sổ văn thư của cơ quan thuế.
+    ++ Trường hợp hồ sơ được gửi qua đường bưu chính, công chức thuế đóng dấu ghi ngày nhận hồ sơ và ghi vào sổ văn thư của cơ quan thuế.
+    ++ Trường hợp hồ sơ được nộp thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận hồ sơ khai thuế do cơ quan thuế thực hiện thông qua hệ thống xử lý dữ liệu điện tử.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Mẫu thông báo chuyển lợi nhuận ra nước ngoài ban hành kèm theo Thông tư số 186/2011/TT-BTC
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đối với Thông báo phương pháp trích khấu hao tài sản cố định: Thông báo phương pháp trích khấu hao tài sản cố định
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * sửa đổi một số điều của Thông tư 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế (46/2024/TT-BTC)
+  * Nghị định số 91/2022/NĐ-CP sửa đổi bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (91/2022/NĐ-CP)
+  * hướng dẫn chế độ quản lý, sử dụng và trích khấu hao tài sản cố định (45/2013/TT-BTC)
+  * Thông tư 186/2010/TT-BTC (186/2010/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

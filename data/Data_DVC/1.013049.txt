@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013049
+Số quyết định: 1213/QĐ-BCT
+Tên thủ tục: Đăng ký mới để nghiên cứu, phát triển, thử nghiệm sản phẩm vật liệu nổ công nghiệp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Vật liệu nổ công nghiệp, tiền chất thuốc nổ
+Trình tự thực hiện:
+    + Tổ chức, doanh nghiệp nộp hồ sơ trên Cổng dịch vụ công quốc gia hoặc Hệ thống thông tin giải quyết thủ tục hành chính của Bộ Công Thương hoặc gửi qua đường bưu chính hoặc gửi trực tiếp về Ủy ban nhân dân cấp tỉnh;
+    + Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký, trường hợp hồ sơ chưa đầy đủ, hợp lệ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản yêu cầu tổ chức, doanh nghiệp bổ sung, hoàn thiện hồ sơ;
+    + Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký đầy đủ, hợp lệ, Ủy ban nhân dân cấp tỉnh tổ chức rà soát, đánh giá nội dung hồ sơ, xem xét, ban hành quyết định phê duyệt nhiệm vụ bao gồm các nội dung: Tên, mục tiêu, nội dung, tiến độ và sản phẩm của nhiệm vụ. Trường hợp cần thiết, Ủy ban nhân dân cấp tỉnh lấy ý kiến của cơ quan, tổ chức, chuyên gia có liên quan trước khi quyết định. Trường hợp không phê duyệt, Ủy ban nhân dân cấp tỉnh trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Thuyết minh nhiệm vụ theo Mẫu số 02 hoặc Mẫu số 03 hoặc Mẫu số 04 Phụ lục V ban hành kèm theo Thông tư số 23/2024/TT-BCT;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản đăng ký nhiệm vụ theo Mẫu số 01 Phụ lục V ban hành kèm theo Thông tư số 23/2024/TT-BCT;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hồ sơ minh chứng việc đáp ứng quy định tại điểm a khoản 1 Điều 34 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản đề nghị của cơ quan chủ quản về đăng ký nhiệm vụ khoa học và công nghệ (đối với trường hợp tổ chức chủ trì nhiệm vụ là đơn vị có cơ quan chủ quản);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: -Quyết định phê duyệt
+Căn cứ pháp lý:
+  * Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (42/2024/QH15)
+  * Thông tư số 23/2024/TT-BCT (Thông tư số 23/2024/TT-BCT)
+  * Thông tư số 26/2026/TT-BCT ngày 20 tháng 5 năm 2026 của Bộ trưởng Bộ Công Thương sửa đổi bổ sung một số quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương. (26/2026/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không quy định
+Từ khóa: Không có thông tin
+Mô tả: Không quy định

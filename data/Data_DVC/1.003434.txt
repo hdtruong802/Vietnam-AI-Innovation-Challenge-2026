@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003434
+Số quyết định: 2299/QĐ-BNNMT
+Tên thủ tục: Hỗ trợ dự án liên kết (cấp xã)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Kinh tế hợp tác và Phát triển nông thôn
+Trình tự thực hiện:
+    Bước 1. Tổ chức, cá nhân nộp 01 bộ hồ sơ đề nghị phê duyệt hỗ trợ liên kết đến Uỷ ban nhân dân cấp xã bằng hình thức trực tiếp hoặc môi trường mạng hoặc qua dịch vụ bưu chính.
+    Uỷ ban nhân dân cấp xã trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp; trả lời tính đầy đủ của hồ sơ trong 01 ngày làm việc đối với trường hợp nộp hồ sơ qua môi trường mạng hoặc qua dịch vụ bưu chính bằng văn bản.
+    Bước 2. Trong thời hạn 15 ngày làm việc sau khi nhận đủ hồ sơ hợp lệ, cơ quan chuyên môn về nông nghiệp và môi trường cấp xã tổ chức thẩm định12 (thành lập Hội đồng thẩm định) và trình Chủ tịch Ủy ban nhân dân cấp xã xem xét, phê duyệt.
+    Bước 3. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ trình của cơ quan chuyên môn về nông nghiệp và môi trường cấp xã, Chủ tịch Ủy ban nhân dân cấp xã quyết định phê duyệt hỗ trợ liên kết; trường hợp không phê duyệt liên kết thì có ngay văn bản thông báo và nêu rõ lý do cho tổ chức, cá nhân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản sao chụp hợp đồng liên kết.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị của chủ dự án (theo Phụ lục I ban hành kèm theo Nghị định số 98/2018/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao chụp các chứng nhận về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường; hoặc cam kết bảo đảm các quy định của pháp luật về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường (theo Phụ lục IV ban hành kèm theo Nghị định số 98/2018/NĐ-CP)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản thỏa thuận cử đơn vị làm chủ đầu tư dự án liên kết (theo Phụ lục III ban hành kèm theo Nghị định số 98/2018/NĐ-CP) đối với trường hợp các doanh nghiệp, hợp tác xã ký hợp đồng liên kết với nhau
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Dự án liên kết (theo Phụ lục II ban hành kèm theo Nghị định số 98/2018/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt hỗ trợ dự án liên kết
+Căn cứ pháp lý:
+  * 98/2018/NĐ-CP (98/2018/NĐ-CP)
+  * Quy định phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Nông nghiệp và Môi trường (Nghị định số 131/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Phù hợp với quy hoạch phát triển kinh tế xã hội của địa phương.
+- Hợp đồng liên kết được công chứng hoặc chứng thực bởi cơ quan có thẩm quyền.
+- Giấy chứng nhận hoặc cam kết bảo đảm các quy định của pháp luật về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường.
+- Liên kết đảm bảo ổn định:
++ Đối với sản phẩm nông nghiệp có chu kỳ nuôi, trồng, khai thác từ 01 năm trở lên, thời gian liên kết theo dự án liên kết tối thiểu là 05 năm;
++ Đối với sản phẩm nông nghiệp có chu kỳ nuôi, trồng, khai thác dưới 01 năm, thời gian liên kết theo dự án liên kết tối thiểu là 03 năm.
+- Dự án liên kết có sự hỗ trợ của nhà nước được cơ quan có thẩm quyền phê duyệt.
+Từ khóa: Không có thông tin
+Mô tả: - Phù hợp với quy hoạch phát triển kinh tế xã hội của địa phương.
+- Hợp đồng liên kết được công chứng hoặc chứng thực bởi cơ quan có thẩm quyền.
+- Giấy chứng nhận hoặc cam kết bảo đảm các quy định của pháp luật về tiêu chuẩn chất lượng sản phẩm, an toàn thực phẩm, an toàn dịch bệnh và bảo vệ môi trường.
+- Liên kết đảm bảo ổn định:
++ Đối với sản phẩm nông nghiệp có chu kỳ nuôi, trồng, khai thác từ 01 năm trở lên, thời gian liên kết theo dự án liên kết tối thiểu là 05 năm;
++ Đối với sản phẩm nông nghiệp có chu kỳ nuôi, trồng, khai thác dưới 01 năm, thời gian liên kết theo dự án liên kết tối thiểu là 03 năm.
+- Dự án liên kết có sự hỗ trợ của nhà nước được cơ quan có thẩm quyền phê duyệt.

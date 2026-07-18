@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000931
+Số quyết định: 5568/QĐ-BCA
+Tên thủ tục: Cấp giấy phép vào khu vực cấm, khu vực biên giới cho người nước ngoài tại Công an cấp tỉnh
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý xuất nhập cảnh
+Trình tự thực hiện:
+    Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+    Bước 2: Nộp hồ sơ
+    * Người nước ngoài xin cấp giấy phép vào khu vực cấm, khu vực biên giới tại Việt Nam phải thông qua cơ quan, tổ chức, cá nhân mời, bảo lãnh để làm thủ tục với Cơ quan Quản lý xuất nhập cảnh Công cấp an tỉnh. Cơ quan, tổ chức, cá nhân mời, bảo lãnh người nước ngoài nộp hồ sơ tại Cơ quan Quản lý xuất nhập cảnh Công cấp an tỉnh.
+    Trường hợp người nước ngoài xin cấp giấy phép vào khu vực cấm, khu vực biên giới để giải quyết việc riêng của cá nhân người đó thì có thể trực tiếp nộp hồ sơ tại Cơ quan Quản lý xuất nhập cảnh Công cấp an tỉnh.
+    * Cán bộ quản lý xuất nhập cảnh tiếp nhận hồ sơ, kiểm tra tính pháp lý và nội dung hồ sơ:
+    + Trường hợp hồ sơ đã đầy đủ, hợp lệ thì cấp giấy hẹn trả kết quả cho người đề nghị cấp giấy phép; yêu cầu nộp phí cho cán bộ thu phí. Cán bộ thu phí thu tiền, giao biên lai thu tiền cho người đề nghị cấp giấy phép.
+    + Trường hợp hồ sơ thiếu hoặc không hợp lệ thì cán bộ tiếp nhận hồ sơ hướng dẫn để người đề nghị cấp giấy phép hoàn chỉnh hồ sơ.
+    * Thời gian tiếp nhận hồ sơ: Từ thứ 2 đến sáng thứ 7 hàng tuần (trừ ngày Tết, ngày lễ).
+    Bước 3: Nhận kết quả
+    + Người đề nghị cấp giấy phép vào khu vực cấm, khu vực biên giới cho người nước ngoài trực tiếp nhận kết quả tại Cơ quan Quản lý xuất nhập cảnh Công an cấp tỉnh. Khi đến nhận kết quả mang theo giấy hẹn trả kết quả, giấy tờ tùy thân biên lai thu tiền để đối chiếu.
+    + Trường hợp không cấp giấy phép vào khu vực cấm, khu vực biên giới cho người nước ngoài thì trả lời bằng văn bản và nêu rõ lý do.
+    + Trường hợp đề nghị nhận kết quả qua dịch vụ bưu chính thực hiện theo hướng dẫn của cơ quan cung cấp dịch vụ bưu chính.
+    + Thời gian trả kết quả: Từ thứ 2 đến thứ 6 hàng tuần (trừ ngày Tết, ngày lễ).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 10 VNĐ (10 USD/người)
+
+Thành phần hồ sơ:
+    - Đơn xin phép cho thân nhân vào khu vực cấm, khu vực biên giới (mẫu NA15) ban hành kèm Thông tư 22/2023/TT-BCA ngày 30/6/2023 của Bộ Công an.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Công văn đề nghị cấp giấy phép vào khu vực cấm, khu vực biên giới (mẫu NA14) ban hành kèm Thông tư số 04/2015/TT-BCA ngày 05/01/2015 của Bộ Công an.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Kèm theo hộ chiếu của người nước ngoài
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Người nước ngoài
+Cơ quan thực hiện: Phòng Xuất nhập cảnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép vào khu vực cấm, khu vực biên giới
+Căn cứ pháp lý:
+  * Quy định mẫu giấy tờ liên quan đến việc nhập cảnh, xuất cảnh, cư trú của người nước ngoài tại Việt Nam (04/2015/TT-BCA)
+  * QUY ĐỊNH MỨC THU, CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG PHÍ, LỆ PHÍ TRONG LĨNH VỰC XUẤT CẢNH, NHẬP CẢNH, QUÁ CẢNH, CƯ TRÚ TẠI VIỆT NAM (25/2021/TT-BTC)
+  * Thông tư số 22/2023/TT-BCA (22/2023/TT-BCA)
+  * Luật Xuất cảnh, nhập cảnh của công dân Việt Nam và Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam sửa đổi 2023 (23/2023/QH15)
+  * Luật 51/2019/QH14 (51/2019/QH14)
+  * Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam (47/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

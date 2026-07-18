@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000556
+Số quyết định: 753/QĐ-BKHCN
+Tên thủ tục: Thủ tục đánh giá, nghiệm thu nhiệm vụ khoa học và công nghệ cấp Bộ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ đánh giá, nghiệm thu
+    Trong thời hạn 30 ngày kể từ thời điểm kết thúc hợp đồng hoặc thời điểm được gia hạn hợp đồng (nếu có), tổ chức chủ trì, chủ nhiệm nhiệm vụ nộp hồ sơ đánh giá, nghiệm thu nhiệm vụ khoa học và công nghệ cấp Bộ.
+    Trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, Văn phòng Bộ phải thông báo cho tổ chức chủ trì tính hợp lệ của hồ sơ. Trường hợp hồ sơ chưa hợp lệ theo quy định thì tổ chức chủ trì phải bổ sung trong thời hạn 05 (năm) ngày làm việc kể từ ngày nhận được thông báo của Văn phòng Bộ.
+    Bước 2: Hội đồng đánh giá, nghiệm thu
+    Sau khi nhận đủ hồ sơ đề nghị nghiệm thu, trong thời hạn 15 ngày làm việc, Văn phòng Bộ trình Bộ trưởng Bộ Khoa học và Công nghệ quyết định thành lập Hội đồng tư vấn đánh giá, nghiệm thu nhiệm vụ khoa học và công nghệ cấp Bộ (sau đây gọi tắt là Hội đồng).
+    Bước 3: Quyết định xử lý kết quả nghiệm thu cấp Bộ
+    Đối với nhiệm vụ khoa học và công nghệ được đánh giá “Đạt” với yêu cầu chỉnh sửa, bổ sung hồ sơ, trong thời hạn 15 ngày kể từ ngày họp Hội đồng, chủ nhiệm và tổ chức chủ trì nhiệm vụ khoa học và công nghệ có trách nhiệm bổ sung, hoàn chỉnh hồ sơ nhiệm vụ khoa học và công nghệ theo kết luận của Hội đồng, lấy ý kiến Chủ tịch Hội đồng về việc hoàn thiện hồ sơ nhiệm vụ khoa học và công nghệ theo mẫu (PL5-BCHT) và gửi về Văn phòng Bộ. Nhiệm vụ khoa học và công nghệ được đánh giá loại “Đạt” trở lên sẽ được nghiệm thu và thanh lý hợp đồng. Văn phòng Bộ trình Bộ trưởng quyết định công nhận kết quả thực hiện nhiệm vụ khoa học và công nghệ
+    Đối với nhiệm vụ khoa học và công nghệ bị đánh giá loại "Không đạt", Văn phòng Bộ căn cứ vào ý kiến tư vấn của Hội đồng về các lý do chủ quan, khách quan, phối hợp với các đơn vị có liên quan xác định số kinh phí phải hoàn trả ngân sách nhà nước theo quy định hiện hành, trình Bộ trưởng quyết định xử lý đối với các nhiệm vụ khoa học và công nghệ không hoàn thành.
+    Bước 4: Đối với nhiệm vụ khoa học và công nghệ được đánh giá “Đạt”, đơn vị chủ trì nộp Hồ sơ công nhận kết quả  về Văn phòng Bộ. Văn phòng Bộ trình Bộ trưởng quyết định công nhận kết quả thực hiện nhiệm vụ khoa học và công nghệ theo mẫu (PL5-CNKQ)
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 118 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 118 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 118 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - 10. Biên bản nghiệm thu nhiệm vụ khoa học và công nghệ cấp Bộ
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 8. Báo cáo tự đánh giá kết quả thực hiện nhiệm vụ theo mẫu (PL5-TĐG).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 6. Các số liệu (điều tra, khảo sát, phân tích…), sổ nhật ký của nhiệm vụ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 12. Báo cáo về việc hoàn thiện Hồ sơ đánh giá, nghiệm thu và báo cáo quyết toán tài chính của cơ quan chủ trì
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - 2. Báo cáo tổng hợp và báo cáo tóm tắt kết quả thực hiện nhiệm vụ theo mẫu (PL5-BCTH).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 7. Báo cáo tình hình sử dụng kinh phí của nhiệm vụ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4. Bản sao hợp đồng và thuyết minh nhiệm vụ.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 11. Bản sao giấy chứng nhận đăng ký và lưu giữ kết quả thực hiện nhiệm vụ
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 5. Các văn bản xác nhận và tài liệu liên quan đến việc công bố, xuất bản, tiếp nhận và sử dụng kết quả nghiên cứu (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 1. Công văn đề nghị đánh giá, nghiệm thu nhiệm vụ khoa học và công nghệ của tổ chức chủ trì theo mẫu (PL5- CVĐNNT).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3. Báo cáo về sản phẩm khoa học và công nghệ của nhiệm vụ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 9. Các tài liệu khác (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Đảng viên, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức Đảng, Hợp tác xã, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Bộ Khoa học và Công nghệ công nhận kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp Bộ
+Căn cứ pháp lý:
+  * Thông tư 33/2014/TT-BKHCN (33/2014/TT-BKHCN)
+  * Luật Khoa học và công nghệ (29/2013/QH13)
+  * Nghị định 08/2014/NĐ-CP (08/2014/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014873
+Số quyết định: 1263/QĐ-BKHCN
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký hoạt động công nhận.
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+    Bước 1: Khi có nhu cầu đăng ký hoạt động công nhận, tổ chức công nhận nộp 01 bộ hồ sơ đăng ký theo hình thức dịch vụ công trực tuyến qua Cổng dịch vụ công quốc gia. Cổng dịch vụ công quốc gia được kết nối, chia sẻ dữ liệu với Cơ sở dữ liệu quốc gia về tiêu chuẩn, đo lường, chất lượng.
+    Trường hợp Cổng dịch vụ công quốc gia bị lỗi hoặc thủ tục hành chính này chưa hoàn thiện hạ tầng Dịch vụ công trực tuyến, tổ chức công nhận nộp hồ sơ bản giấy theo quy định tại Nghị định số 22/2026/NĐ-CP theo hình thức nộp trực tiếp hoặc thông qua dịch vụ bưu chính gửi đến Bộ phận một cửa của Bộ Khoa học và Công nghệ.
+    Bước 2: Bộ Khoa học và Công nghệ tiếp nhận hồ sơ, xem xét, xử lý theo quy định:
+    - Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Khoa học và Công nghệ thông báo yêu cầu tổ chức công nhận sửa đổi, bổ sung;
+    - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 07 ngày làm việc, kể từ khi nhận được hồ sơ, Bộ Khoa học và Công nghệ chịu trách nhiệm tổ chức đoàn đánh giá và cấp Giấy chứng nhận cho tổ chức công nhận;
+    Trước khi Giấy chứng nhận hết thời hạn hiệu lực 90 ngày, nếu có nhu cầu tiếp tục tham gia hoạt động công nhận, tổ chức công nhận lập 01 bộ hồ sơ như đối với trường hợp cấp mới quy định tại khoản 2 Điều này và gửi về cơ quan tiếp nhận hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Hệ thống tài liệu (tài liệu, quy trình đánh giá và các tài liệu khác liên quan) đáp ứng các yêu cầu của tiêu chuẩn tương ứng quy định tại Điều 58 Nghị định số 22/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đăng ký hoạt động công nhận (theo Mẫu số 11 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách chuyên gia đánh giá trưởng, chuyên gia đánh giá, chuyên gia kỹ thuật (theo Mẫu số 12 tại Phụ lục ban hành kèm theo Nghị định 22/2026/NĐ-CP) và kèm theo các tài liệu gồm: bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao chứng chỉ đào tạo (chuyên môn, hệ thống quản lý) tương ứng, kinh nghiệm công tác và tài liệu chứng minh kinh nghiệm đánh giá thực tế đối với từng chuyên gia
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh tổ chức công nhận là thành viên ký kết thỏa thuận/thỏa ước thừa nhận lẫn nhau (MRA/MLA) của các tổ chức công nhận quốc tế hoặc khu vực đối với các chương trình, lĩnh vực công nhận đăng ký
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách các tổ chức thử nghiệm thành thạo được tổ chức công nhận thừa nhận đối với chương trình công nhận đăng ký
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu quyết định công nhận, chứng chỉ công nhận và dấu (logo) công nhận của tổ chức
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thuyết minh về cơ cấu tổ chức và trách nhiệm của từng vị trí trong cơ cấu tổ chức
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký hoạt động công nhận (theo Mẫu số 13 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP)
+Căn cứ pháp lý:
+  * Luật Tiêu chuẩn và quy chuẩn kỹ thuật (68/2006/QH11)
+  * Nghị định số 22/2026/NĐ-CP ngày 16/01/2026 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Tiêu chuẩn và quy chuẩn kỹ thuật (22/2026/NĐ-CP)
+  * Luật số 70/2025/QH15 của Quốc hội: Luật sửa đổi, bổ sung một số điều của Luật Tiêu chuẩn và quy chuẩn kỹ thuật (70/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

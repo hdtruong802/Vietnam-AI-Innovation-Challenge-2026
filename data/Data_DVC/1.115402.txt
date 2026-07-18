@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115402
+Số quyết định: 1782SoKHCN2026dacthu
+Tên thủ tục: Thủ tục vinh danh ý tưởng sáng tạo tỉnh Đồng Tháp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    - Bước 1: Tổ chức, cá nhân hoạt động khoa học và công nghệ thuộc khoản 2 Điều 1 Quyết định số 59/2026/QĐ-UBND chuẩn bị 01 bộ hồ sơ theo quy định tại điểm a khoản 1, điểm a khoản 2 Điều 2 Quyết định số 59/2026/QĐ-UBND này và nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính công ích đến Trung tâm Phục vụ hành chính công các cấp hoặc qua dịch vụ công trực tuyến tại địa chỉ https://dichvucong.gov.vn.
+    - Bước 2: Giải quyết hồ sơ
+    Trong thời hạn 02 ngày làm việc, Sở Khoa học và Công nghệ có văn bản yêu cầu tổ chức, cá nhân hoạt động khoa học và công nghệ bổ sung hồ sơ, nếu hồ sơ chưa đầy đủ nội dung và chưa hợp lệ.
+    Trong thời hạn 22 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ, hợp lệ; Sở Khoa học và Công nghệ tổ chức xem xét hồ sơ đề nghị, ra thông báo kết quả xét chọn vinh danh ý tưởng sáng tạo. Trường hợp hồ sơ không đảm bảo điều kiện xét chọn vinh danh ý tưởng sáng tạo thì thông báo văn bản đề nghị sửa đổi, bổ sung hoặc từ chối và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 22 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 22 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ, hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 22 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 22 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ, hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 22 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 22 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ, hợp lệ.
+
+Thành phần hồ sơ:
+    - - Bản đăng ký đề nghị vinh danh (bản chính) theo Mẫu số 02 tại Phụ lục kèm theo Quyết định số 59/2026/QĐ-UBND.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Thuyết minh dự án/mô hình/công trình (bản chính) theo Mẫu số 03 tại Phụ lục kèm theo Quyết định số 59/2026/QĐ-UBND.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tài liệu liên quan đến việc công nhận kết quả nhiệm vụ khoa học và công nghệ (nếu có, gồm bản sao Giấy đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ được cơ quan có thẩm quyền cấp hoặc Giấy xác nhận kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách); tài liệu khác liên quan đến dự án/mô hình/công trình (nếu có, gồm bản sao quyết định chấp nhận hợp lệ hoặc bản sao văn bằng bảo hộ quyền sở hữu trí tuệ).
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Khoa học và Công nghệ tỉnh Đồng Tháp
+Cơ quan có thẩm quyền: Sở Khoa học và Công nghệ tỉnh Đồng Tháp
+Địa chỉ tiếp nhận HS: - Trung tâm Phục vụ hành chính công tỉnh Đồng Tháp, gồm: 
++ Quầy số 07 - 0273.3993847 tại địa chỉ: số 377, Hùng Vương, phường Đạo Thạnh, tỉnh Đồng Tháp.
+ + Quầy số 13 -  0277.3898962 tại địa chỉ: Chi nhánh Trung tâm Phục vụ hành chính công tỉnh Đồng Tháp, số 10, đường Lê Thị Riêng, phường Cao Lãnh, tỉnh Đồng Tháp.
++ Trung tâm Phục vụ hành chính công các xã, phường.
+- Thủ tục hành chính thực hiện tiếp nhận và trả kết quả qua dịch vụ bưu chính công ích.
+- Thủ tục hành chính được thực hiện không phụ thuộc vào địa giới hành chính.
+- Thủ tục hành chính thực hiện qua dịch vụ công trực tuyến toàn trình (https://dichvucong.gov.vn).
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Thông báo kết quả xét vinh danh ý tưởng sáng tạo trên địa bàn tỉnh Đồng Tháp. - Thông báo từ chối xét vinh danh ý tưởng sáng tạo trên địa bàn tỉnh Đồng Tháp.
+Căn cứ pháp lý:
+  * Quy định chính sách khuyến khích hoạt động đổi mới sáng tạo, ứng dụng, chuyển giao công nghệ, vinh danh ý tưởng sáng tạo trên địa bàn tỉnh Đồng Tháp. (34/2025/NQ-HĐND)
+  * Quy định trình tự, thủ tục, hồ sơ đề nghị hỗ trợ hoạt động đổi mới sáng tạo, ứng dụng, chuyển giao công nghệ, vinh danh ý tưởng sáng tạo trên địa bàn tỉnh Đồng Tháp. (59/2026/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: - Cơ sở đang hoạt động sản xuất, kinh doanh; không vi phạm các quy định của pháp luật (trong sản xuất, kinh doanh; theo cam kết của cơ sở) trong thời gian ít nhất 24 tháng, tính đến thời điểm nộp hồ sơ đề nghị hỗ trợ.
+- Cơ sở đã hưởng chính sách hỗ trợ tại các quy định khác của tỉnh trùng với nội dung hỗ trợ tại Nghị quyết này thì không được xem xét hỗ trợ.
+- Trừ những nội dung đã quy định tần suất hỗ trợ cụ thể, đối với từng nội dung, mỗi cơ sở được xem xét hỗ trợ một (01) lần.
+- Cơ sở thực hiện đúng quy định về trình tự, thủ tục, thành phần hồ sơ đề nghị xét hỗ trợ.
+Từ khóa: Không có thông tin
+Mô tả: - Cơ sở đang hoạt động sản xuất, kinh doanh; không vi phạm các quy định của pháp luật (trong sản xuất, kinh doanh; theo cam kết của cơ sở) trong thời gian ít nhất 24 tháng, tính đến thời điểm nộp hồ sơ đề nghị hỗ trợ.
+- Cơ sở đã hưởng chính sách hỗ trợ tại các quy định khác của tỉnh trùng với nội dung hỗ trợ tại Nghị quyết này thì không được xem xét hỗ trợ.
+- Trừ những nội dung đã quy định tần suất hỗ trợ cụ thể, đối với từng nội dung, mỗi cơ sở được xem xét hỗ trợ một (01) lần.
+- Cơ sở thực hiện đúng quy định về trình tự, thủ tục, thành phần hồ sơ đề nghị xét hỗ trợ.

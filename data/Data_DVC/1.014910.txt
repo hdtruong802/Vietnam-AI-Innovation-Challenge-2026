@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014910
+Số quyết định: 778/QĐ-BCA-A05
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo vệ dữ liệu cá nhân
+Trình tự thực hiện:
+    - Bước 1: Tổ chức, doanh nghiệp có yêu cầu thực hiện thủ tục hành chính cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: Tổ chức, doanh nghiệp có yêu cầu thực hiện thủ tục hành chính nộp hồ sơ về cơ quan có thẩm quyền cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân.
+    - Bước 3: Trong thời hạn 10 ngày làm việc, cơ quan có thẩm quyền đánh giá hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân đạt yêu cầu hoặc không đạt yêu cầu. Trường hợp hồ sơ chưa đầy đủ và đúng quy định, cơ quan chuyên trách bảo vệ dữ liệu cá nhân nhân thông báo bằng văn bản cho tổ chức, doanh nghiệp có yêu cầu thực hiện thủ tục hành chính đề nghị bổ sung, hoàn thiện hồ sơ trong thời hạn 15 ngày và nêu rõ lý do.
+    - Bước 4: Trong thời hạn 30 ngày kể từ ngày nhận đầy đủ hồ sơ hợp lệ, cơ quan chuyên trách bảo vệ dữ liệu cá nhân thẩm định, xem xét, quyết định cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân; trường hợp không cấp phải có thông báo bằng văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trực tuyến: nộp trực tuyến qua Cổng dịch vụ công Bộ Công an. - Trực tiếp: tại Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an (Lô E2 khu đô thị mới Cầu Giấy, Dương Đình Nghệ, Cầu Giấy, Hà Nội). - Bưu chính: tiếp nhận hồ sơ qua dịch vụ bưu chính công ích.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trực tuyến: nộp trực tuyến qua Cổng dịch vụ công Bộ Công an. - Trực tiếp: tại Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an (Lô E2 khu đô thị mới Cầu Giấy, Dương Đình Nghệ, Cầu Giấy, Hà Nội). - Bưu chính: tiếp nhận hồ sơ qua dịch vụ bưu chính công ích.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trực tuyến: nộp trực tuyến qua Cổng dịch vụ công Bộ Công an. - Trực tiếp: tại Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an (Lô E2 khu đô thị mới Cầu Giấy, Dương Đình Nghệ, Cầu Giấy, Hà Nội). - Bưu chính: tiếp nhận hồ sơ qua dịch vụ bưu chính công ích.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao giấy chứng nhận đăng ký doanh nghiệp
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Văn bản chỉ định bộ phận bảo vệ dữ liệu cá nhân hoặc hợp đồng sử dụng dịch vụ bảo vệ dữ liệu cá nhân theo quy định
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đề án đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các văn bản, giấy tờ chứng minh khác
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Cục an ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân
+Căn cứ pháp lý:
+  * Nghị định số 356/2025/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Bảo vệ dữ liệu cá nhân (356/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: 1. Là tổ chức, doanh nghiệp được thành lập và hoạt động theo pháp luật Việt Nam, đáp ứng các điều kiện quy định tại Điều này.
+2. Điều kiện về nhân sự:
+a) Người đứng đầu phụ trách chuyên môn về xử lý dữ liệu cá nhân của tổ chức là công dân Việt Nam, thường trú tại Việt Nam;
+b) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn xử lý dữ liệu cá nhân; 
+c) Có tối thiểu 03 nhân sự đủ điều kiện năng lực như sau: Có trình độ cao đẳng trở lên; Có ít nhất 02 năm kinh nghiệm công tác (kể từ thời điểm tốt nghiệp) liên quan đến một trong các lĩnh vực về pháp chế, công nghệ thông tin, an ninh mạng, an ninh dữ liệu, quản trị rủi ro, kiểm soát tuân thủ, quản lý nhân sự, tổ chức cán bộ; Đã được đào tạo, bồi dưỡng kiến thức pháp luật và kỹ năng chuyên môn về bảo vệ dữ liệu cá nhân.
+3. Có hạ tầng, hệ thống trang thiết bị, cơ sở vật chất và công nghệ phù hợp với dịch vụ xử lý dữ liệu cá nhân.  
+4. Có kết quả đạt yêu cầu đối với hồ sơ đánh giá tác động xử lý dữ liệu cá nhân và hồ sơ đánh giá tác động chuyển dữ liệu cá nhân xuyên biên giới trong trường hợp có chuyển dữ liệu cá nhân xuyên biên giới.
+Từ khóa: Không có thông tin
+Mô tả: 1. Là tổ chức, doanh nghiệp được thành lập và hoạt động theo pháp luật Việt Nam, đáp ứng các điều kiện quy định tại Điều này.
+2. Điều kiện về nhân sự:
+a) Người đứng đầu phụ trách chuyên môn về xử lý dữ liệu cá nhân của tổ chức là công dân Việt Nam, thường trú tại Việt Nam;
+b) Có đội ngũ quản lý, điều hành đáp ứng được yêu cầu chuyên môn xử lý dữ liệu cá nhân; 
+c) Có tối thiểu 03 nhân sự đủ điều kiện năng lực như sau: Có trình độ cao đẳng trở lên; Có ít nhất 02 năm kinh nghiệm công tác (kể từ thời điểm tốt nghiệp) liên quan đến một trong các lĩnh vực về pháp chế, công nghệ thông tin, an ninh mạng, an ninh dữ liệu, quản trị rủi ro, kiểm soát tuân thủ, quản lý nhân sự, tổ chức cán bộ; Đã được đào tạo, bồi dưỡng kiến thức pháp luật và kỹ năng chuyên môn về bảo vệ dữ liệu cá nhân.
+3. Có hạ tầng, hệ thống trang thiết bị, cơ sở vật chất và công nghệ phù hợp với dịch vụ xử lý dữ liệu cá nhân.  
+4. Có kết quả đạt yêu cầu đối với hồ sơ đánh giá tác động xử lý dữ liệu cá nhân và hồ sơ đánh giá tác động chuyển dữ liệu cá nhân xuyên biên giới trong trường hợp có chuyển dữ liệu cá nhân xuyên biên giới.

@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007665
+Số quyết định: 350/QĐ-BTC
+Tên thủ tục: Thủ tục công nhận doanh nghiệp ưu tiên trong lĩnh vực hải quan
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp gửi hồ sơ bản giấy đến Tổng cục Hải quan để được xem xét áp dụng chế độ ưu tiên (thay đổi đơn vị tiếp nhận hồ sơ, cụ thể: chuyển đơn vị tiếp nhận từ Cục Hải quan tỉnh, liên tỉnh, thành phố trực thuộc trung ương về Tổng cục Hải quan)
+    Bước 2: Tổng cục Hải quan thẩm định điều kiện để áp dụng chế độ ưu tiên.
+    - Thẩm định hồ sơ
+    Tổng cục Hải quan kiểm tra tính đầy đủ, hợp pháp, hợp lệ hồ sơ của doanh nghiệp; đối chiếu thông tin doanh nghiệp cung cấp, thông tin thu thập về doanh nghiệp từ cơ quan thuế và cơ quan hải quan nơi doanh nghiệp có trụ sở chính và nơi doanh nghiệp có hoạt động xuất khẩu, nhập khẩu với điều kiện áp dụng chế độ ưu tiên;
+    Trường hợp hồ sơ chưa đầy đủ, trong thời hạn 05 (năm) ngày làm việc, Tổng cục Hải quan có văn bản thông báo để doanh nghiệp nộp bổ sung;
+    Trường hợp hồ sơ không đáp ứng điều kiện áp dụng chế độ ưu tiên, Tổng cục Hải quan có văn bản trả lời doanh nghiệp, nêu rõ lý do không đáp ứng;
+    Trường hợp kết quả kiểm tra hồ sơ doanh nghiệp đáp ứng điều kiện áp dụng chế độ ưu tiên, Tổng cục Hải quan thẩm định thực tế tại doanh nghiệp;
+    - Thẩm định thực tế:
+    Tổng cục Hải quan tổ chức thẩm định thực tế tại doanh nghiệp. Nội dung thẩm định thực tế gồm:
+    + Đối chiếu kết quả kiểm tra thực tế với thông tin khai báo của doanh nghiệp;
+    + Kiểm tra sau thông quan tại trụ sở người khai hải quan để đánh giá việc tuân thủ pháp luật nếu trong thời gian 24 (hai mươi tư) tháng liên tục, gần nhất tính đến thời điểm doanh nghiệp có văn bản đề nghị công nhận doanh nghiệp ưu tiên, doanh nghiệp chưa được thanh/tra hoặc kiểm tra sau thông quan để đánh giá việc tuân thủ pháp luật hải quan, pháp luật thuế.
+    Bước 3: Tổng cục Hải quan quyết định việc công nhận doanh nghiệp ưu tiên.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Đối với doanh nghiệp xuất khẩu, nhập khẩu hàng hóa, đại lý làm thủ tục hải quan, hồ sơ gồm: ]
+    - Số lượng hồ sơ: 01 bộ
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Các giấy chứng nhận khen thưởng, chứng chỉ chất lượng (nếu có): 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản kết luận thanh tra trong 02 (hai) năm gần nhất (nếu có): 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Báo cáo kiểm toán trong 02 (hai) năm tài chính liên tục, gần nhất: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Văn bản đề nghị theo mẫu 02a/DNUT ban hành kèm Thông tư 07/2019/TT-BTC ngày 28/01/2019: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo tài chính đã được kiểm toán trong 02 (hai) năm tài chính liên tục, gần nhất: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản mô tả hệ thống kiểm soát nội bộ của doanh nghiệp trong đó mô tả đầy đủ quy trình quản lý, giám sát, kiểm soát vận hành thực tế trong toàn bộ dây chuyền cung ứng hàng hóa xuất khẩu, nhập khẩu của doanh nghiệp: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với tổ chức, cá nhân nhập khẩu hàng hóa để thực hiện dự án đầu tư trọng điểm được Thủ tướng. Chính phủ cho ý kiến trước khi cấp phép đầu tư đang trong giai đoạn xây dựng cơ bản, hồ sơ gồm: ]
+    - - Giấy chứng nhận đầu tư, giải trình kinh tế kỹ thuật: 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Văn bản đề nghị áp dụng chế độ ưu tiên và cam kết triển khai dự án đúng tiến độ theo mẫu 02b/DNUT ban hành kèm theo Thông tư số 72/2015/TT-BTC ngày 12/5/2015: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Số lượng hồ sơ: 01 bộ
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Cục Kiểm tra sau thông quan - Bộ tài chính
+Cơ quan có thẩm quyền: Cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận doanh nghiệp ưu tiên
+Căn cứ pháp lý:
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Nghị định 59/2018/NĐ-CP (59/2018/NĐ-CP)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Thuế xuất khẩu, thuế nhập khẩu (107/2016/QH13)
+  * Thông tư số 07/2019/TT-BTC ngày 28/01/2019 của Bộ Tài chính sửa đổi, bổ sung một số điều của Thông tư số 72/2015/TT-BTC ngày 12/05/2015 của Bộ Tài chính quy định áp dụng chế độ ưu tiên trong việc thực hiện thủ tục hải quan, kiểm tra, giám sát hải quan đối với hàng hóa xuất khẩu, nhập khẩu của doanh nghiệp. (07/2019/TT-BTC)
+  * Quy định áp dụng chế độ ưu tiên trong việc thực hiện thủ tục hải quan, kiểm tra, giám sát hải quan đối vớỉ hàng hóa xuất khẩu, nhập khẩu của doanh nghiệp (72/2015/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

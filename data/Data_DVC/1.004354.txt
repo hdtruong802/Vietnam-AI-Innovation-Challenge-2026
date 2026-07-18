@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004354
+Số quyết định: 2528/QĐ-BKHCN
+Tên thủ tục: Cấp lại giấy phép bưu chính khi hết hạn (phạm vi liên tỉnh, quốc tế)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bưu chính
+Trình tự thực hiện:
+    Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày, doanh nghiệp cung ứng dịch vụ bưu chính có nhu cầu tiếp tục kinh doanh thì phải lập hồ sơ đề nghị cấp lại giấy phép bưu chính và gửi đến Ủy ban nhân dân cấp tỉnh.
+    - Sau khi hồ sơ được tiếp nhận Ủy ban nhân dân cấp tỉnh cấp lại giấy phép bưu chính trong thời hạn 5 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+    - Kết quả giải quyết thủ tục cấp lại giấy phép bưu chính khi hết hạn được trả trực tiếp hoặc qua dịch vụ bưu chính công ích.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 10750000 VNĐ (Phạm vi liên tỉnh) | 14750000 VNĐ (Quốc tế chiều đến) | 17250000 VNĐ (Quốc tế chiều đi) | 19750000 VNĐ ( Quốc tế hai chiều)
+    Mô tả: Nộp trực tuyến qua Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn)
+
+Thành phần hồ sơ:
+  [ Số lượng hồ sơ: 01 bộ là bản gốc ]
+    - Giấy đề nghị cấp lại giấy phép bưu chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng nhượng quyền thương mại với doanh nghiệp đang cung ứng dịch vụ bưu chính (nếu có).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Các tài liệu sau nếu có thay đổi so với hồ sơ đề nghị cấp giấy phép bưu chính lần gần nhất:  + Mẫu hợp đồng cung ứng và sử dụng dịch vụ bưu chính phù hợp với quy định của pháp luật về bưu chính; + Mẫu biểu trưng, nhãn hiệu, ký hiệu đặc thù hoặc các yếu tố thuộc hệ thống nhận diện của doanh nghiệp được thể hiện trên bưu gửi (nếu có); + Bảng giá cước dịch vụ bưu chính phù hợp với quy định của pháp luật về bưu chính; + Tiêu chuẩn chất lượng dịch vụ bưu chính công bố áp dụng phù hợp với quy định của pháp luật về bưu chính; + Quy định về mức giới hạn trách nhiệm bồi thường thiệt hại trong trường hợp phát sinh thiệt hại, quy trình giải quyết khiếu nại của khách hàng, thời hạn giải quyết khiếu nại phù hợp với quy định của pháp luật về bưu chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phương án kinh doanh trong giai đoạn tiếp theo, nếu doanh nghiệp bị lỗ 02 năm liên tiếp
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép bưu chính
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư 219/2016-TT-BTC ngày 15/11/2016 quy định mức thu, chế độ thu, nộp, quản lý phí thẩm định điều kiện hoạt động bưu chính (25/2020/TT-BTC)
+  * Luật 49/2010/QH12 (49/2010/QH12)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29/4/2026 của Chính phủ ban hành Nghị quyết phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Sửa đổi một số Nghị định liên quan đến điều kiện đầu tư kinh doanh và thủ tục hành chính trong lĩnh vực thông tin và truyền thông (150/2018/NĐ-CP)
+  * Quy định chi tiết thi hành một số nội dung của Luật Bưu chính (47/2011/NĐ-CP)
+  * Nghị định 25/2022/NĐ-CP (25/2022/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày
+Từ khóa: Không có thông tin
+Mô tả: Trước khi giấy phép bưu chính hết hạn tối thiểu 30 ngày

@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003727
+Số quyết định: 2299/QĐ-BNNMT
+Tên thủ tục: Công nhận làng nghề truyền thống
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Kinh tế hợp tác và Phát triển nông thôn
+Trình tự thực hiện:
+    Uỷ ban nhân dân cấp xã lập hồ sơ đề nghị công nhận làng nghề truyền thống theo tiêu chí quy định tại khoản 4 Điều 5 Nghị định số 52/2018/NĐ-CP ngày 12 tháng 4 năm 2018 của Chính phủ về phát triển ngành nghề nông thôn trình UBND cấp tỉnh xét công nhận.
+    Trong thời hạn 30 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, UBND cấp tỉnh thành lập Hội đồng xét duyệt, chọn những đối tượng đủ tiêu chuẩn theo quy định tại khoản 4 Điều 5 Nghị định số 52/2018/NĐ-CP ngày 12 tháng 4 năm 2018, ra quyết định và cấp bằng công nhận làng nghề truyền thống.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Danh sách các hộ tham gia hoạt động ngành nghề nông thôn
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản tóm tắt kết quả hoạt động sản xuất, kinh doanh của các tổ chức, cá nhân tham gia hoạt động ngành nghề nông thôn trong 02 năm gần nhất.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ) Bản sao giấy chứng nhận, huy chương đã đạt được trong các cuộc thi, triển lãm trong nước và quốc tế hoặc có tác phẩm đạt nghệ thuật cao được cấp tỉnh, thành phố trở lên trao tặng (nếu có). Đối với những tổ chức, cá nhân không có điều kiện tham dự các cuộc thi, triển lãm hoặc không có tác phẩm đạt giải thưởng thì phải có bản mô tả đặc trưng mang bản sắc văn hóa dân tộc của nghề truyền thống
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản bảo đảm điều kiện về bảo vệ môi trường theo quy định.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản tóm tắt quá trình hình thành, phát triển của nghề truyền thống
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao giấy công nhận Nghệ nhân nghề truyền thống của cơ quan có thẩm quyền (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bằng công nhận, Quyết định hành chính
+Căn cứ pháp lý:
+  * Quy định phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Nông nghiệp và Môi trường (Nghị định số 131/2025/NĐ-CP)
+  * Nghị định của Chính phủ về phát triển ngành nghề nông thôn (Nghị định 52/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Đạt tiêu chí làng nghề nông thôn (đạt cả 3 tiêu chí):
++ Có tối thiểu 20% tổng số hộ trên địa bàn tham gia một trong các hoạt động hoặc các hoạt động ngành nghề nông thôn quy định tại Điều 4 Nghị định 52/2018/NĐ-CP;
++ Hoạt động sản xuất kinh doanh ổn định tối thiểu 02 năm liên tục tính đến thời điểm đề nghị công nhận;
++ Đáp ứng các điều kiện bảo vệ môi trường làng nghề theo quy định của pháp luật hiện hành.
+- Có ít nhất một nghề truyền thống nông thôn (là nghề đạt cả 3 tiêu chí):
++  Nghề đã xuất hiện tại địa phương từ trên 50 năm và hiện đang tiếp tục phát triển tính đến thời điểm đề nghị công nhận;
++ Nghề tạo ra những sản phẩm mang bản sắc văn hoá dân tộc; 
++ Nghề gắn với tên tuổi của một hay nhiều nghệ nhân hoặc tên tuổi của làng nghề;
+Từ khóa: Không có thông tin
+Mô tả: - Đạt tiêu chí làng nghề nông thôn (đạt cả 3 tiêu chí):
++ Có tối thiểu 20% tổng số hộ trên địa bàn tham gia một trong các hoạt động hoặc các hoạt động ngành nghề nông thôn quy định tại Điều 4 Nghị định 52/2018/NĐ-CP;
++ Hoạt động sản xuất kinh doanh ổn định tối thiểu 02 năm liên tục tính đến thời điểm đề nghị công nhận;
++ Đáp ứng các điều kiện bảo vệ môi trường làng nghề theo quy định của pháp luật hiện hành.
+- Có ít nhất một nghề truyền thống nông thôn (là nghề đạt cả 3 tiêu chí):
++  Nghề đã xuất hiện tại địa phương từ trên 50 năm và hiện đang tiếp tục phát triển tính đến thời điểm đề nghị công nhận;
++ Nghề tạo ra những sản phẩm mang bản sắc văn hoá dân tộc; 
++ Nghề gắn với tên tuổi của một hay nhiều nghệ nhân hoặc tên tuổi của làng nghề;

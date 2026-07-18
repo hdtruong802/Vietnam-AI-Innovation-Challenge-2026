@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014772
+Số quyết định: 81/QĐ-UBND
+Tên thủ tục: Thủ tục hỗ trợ phát triển sản xuất cộng đồng
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Kinh tế hợp tác và Phát triển nông thôn
+Trình tự thực hiện:
+  * Bước 1:
+    Đơn vị chủ trì liên kết gửi 01 bộ hồ sơ đến cơ quan có thẩm quyền, cụ thể như sau:
+    - Đối với dự án, kế hoạch thuộc thẩm quyền cấp tỉnh do Nông nghiệp và Môi trường tiếp nhận: Tại Trung tâm phục vụ hành chính công tỉnh Lào Cai (quầy giao dịch của Sở Nông nghiệp và Môi trường), địa chỉ trụ sở: + Cơ sở 1: Số 64, đường Lý Tự Trọng, phường Yên Bái, tỉnh Lào Cai. + Cơ sở 2: Đại lộ Trần Hưng Đạo, phường Cam Đường, tỉnh Lào Cai.
+    - Đối với dự án, kế hoạch thuộc thẩm quyền cấp xã do các cơ quan thường trực chương trình mục tiêu quốc gia cấp xã tiếp nhận: Địa điểm tiếp nhận Trung tâm Phục vụ Hành chính công cấp xã
+  * Bước 2:
+    Trong thời gian 05 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ: Các cơ quan tiếp nhận hồ sơ tổng hợp gửi Hội đồng thẩm định cùng cấp.
+  * Bước 3:
+    Trong thời hạn 10 ngày làm việc kể từ ngày nhận hồ sơ: Hội đồng thẩm định thực hiện thẩm định và có kết quả thẩm định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc, kể từ ngày các cơ quan cấp xã nhận đủ hồ sơ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc, kể từ ngày các cơ quan cấp xã nhận đủ hồ sơ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc, kể từ ngày các cơ quan cấp xã nhận đủ hồ sơ
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị của cộng đồng (Mẫu số 01, Phụ lục số II ban hành kèm theo Nghị quyết số 11/2023/NQ-HĐND ngày 15/9/2023 của Hội đồng nhân dân tỉnh).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Biên bản họp cộng đồng (Mẫu số 02, Phụ lục số II ban hành kèm theo Nghị quyết số 11/2023/NQ-HĐND ngày 15/9/2023 của Hội đồng nhân dân tỉnh).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Biên bản họp cộng đồng (Mẫu số 02, Phụ lục số II ban hành kèm theo Nghị quyết số 11/2023/NQ-HĐND ngày 15/9/2023 của Hội đồng nhân dân tỉnh).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Dự án hoặc phương án đề nghị hỗ trợ của công đồng (Mẫu số 03, Phụ lục số II ban hành kèm theo Nghị quyết số 11/2023/NQ-HĐND ngày 15/9/2023 của Hội đồng nhân dân tỉnh).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Quyết định phê duyệt Dự án/kế hoạch hỗ trợ phát triển sản xuất cộng đồng của Chủ tịch Ủy ban nhân dân cấp huyện hoặc người được ủy quyền. Trường hợp không phê duyệt: có văn bản thông báo và nêu rõ lý do.
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số Điều của Quy định kèm theo Nghị quyết số 05/2022/NQ-HĐND ngày 19 tháng 6 năm 2022 của Hội đồng nhân dân tỉnh Lào Cai ban hành quy định một số nội dung về cơ chế thực hiện các chương trình mục tiêu quốc gia trên địa bàn tỉnh Lào Cai (11/2023/NQ-HĐND)
+  * - Nghị quyết số 05/2022/NQ-HĐND ngày 19/6/2022 của Hội đồng nhân dân tỉnh
+Lào Cai ban hành quy định một số nội dung về cơ chế thực hiện các chương trình mục
+tiêu quốc gia trên địa bàn tỉnh Lào Cai (05/2022/NQ-Hđnd)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

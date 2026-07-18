@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115127
+Số quyết định: 2295/QĐ-BKHĐT
+Tên thủ tục: Chuyển đổi công ty con chưa chuyển đổi thành công ty TNHH MTV
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và sắp xếp lại doanh nghiệp do Nhà nước nắm giữ 100 phần trăm vốn điều lệ
+Trình tự thực hiện:
+    - Công ty con chưa chuyển đổi xây dựng Đề án chuyển đổi; Điều lệ của công ty trách nhiệm hữu hạn một thành viên trình Hội đồng thành viên hoặc Chủ tịch công ty của công ty mẹ xem xét, phê duyệt.
+    - Trên cơ sở đề xuất của công ty con chưa chuyển đổi, Hội đồng thành viên hoặc Chủ tịch công ty của công ty mẹ ban hành Quyết định chuyển đổi.
+    - Sau khi Hội đồng thành viên hoặc Chủ tịch công ty của công ty mẹ ban hành Quyết định chuyển đổi, công ty con chưa chuyển đổi gửi hồ sơ đăng ký chuyển đổi đến Cơ quan đăng ký kinh doanh cấp tỉnh nơi công ty đặt trụ sở chính.
+    - Cơ quan đăng ký kinh doanh có trách nhiệm xem xét tính hợp lệ của hồ sơ đăng ký doanh nghiệp và cấp Giấy chứng nhận đăng ký doanh nghiệp cho doanh nghiệp, cập nhật thông tin trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp. Trường hợp hồ sơ chưa hợp lệ, Cơ quan đăng ký kinh doanh có trách nhiệm thông báo bằng văn bản nội dung cần sửa đổi, bổ sung cho công ty con chưa chuyển đổi. Trường hợp từ chối cấp Giấy chứng nhận đăng ký doanh nghiệp thì phải thông báo bằng văn bản cho công ty con chưa chuyển đổi và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Cơ quan đăng ký kinh doanh có trách nhiệm xem xét tính hợp lệ của hồ sơ đăng ký doanh nghiệp và cấp Giấy chứng nhận đăng ký doanh nghiệp cho doanh nghiệp, cập nhật thông tin trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Cơ quan đăng ký kinh doanh có trách nhiệm xem xét tính hợp lệ của hồ sơ đăng ký doanh nghiệp và cấp Giấy chứng nhận đăng ký doanh nghiệp cho doanh nghiệp, cập nhật thông tin trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Cơ quan đăng ký kinh doanh có trách nhiệm xem xét tính hợp lệ của hồ sơ đăng ký doanh nghiệp và cấp Giấy chứng nhận đăng ký doanh nghiệp cho doanh nghiệp, cập nhật thông tin trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp.
+
+Thành phần hồ sơ:
+  [ + Giấy tờ pháp lý của cá nhân đối với người đại diện phần vốn của công ty mẹ tại công ty trách nhiệm hữu hạn mộ ]
+    - - Giấy đề nghị đăng ký doanh nghiệp (theo mẫu quy định tại Phụ lục II ban hành kèm theo Nghị định số 89/2024/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Quyết định chuyển đổi.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Điều lệ của công ty trách nhiệm hữu hạn một thành viên theo quy định tại Luật Doanh nghiệp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao các giấy tờ sau  đây: + Giấy tờ pháp lý của cá nhân người đại diện theo pháp luật của công ty trách nhiệm hữu hạn một thành viên quy định tại Quyết định chuyển đổi;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy tờ pháp lý của cá nhân đối với người đại diện phần vốn của công ty mẹ tại công ty trách nhiệm hữu hạn một thành viên quy định tại Quyết định chuyển đổi;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy chứng nhận đăng ký kinh doanh hoặc các giấy tờ có giá trị pháp lý tương đương; giấy chứng nhận đăng ký thuế của công ty con chưa chuyển đổi.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký doanh nghiệp cho doanh nghiệp
+Căn cứ pháp lý:
+  * - Luật Doanh nghiệp (Luật số: 59/2020/QH14)
+
+Yêu cầu, điều kiện thực hiện: Không có. Do đặc thù chỉ áp dụng đối với công ty nhà nước chưa chuyển đổi thành công ty TNHH MTV theo quy định tại Luật Doanh nghiệp.
+Từ khóa: Không có thông tin
+Mô tả: Không có. Do đặc thù chỉ áp dụng đối với công ty nhà nước chưa chuyển đổi thành công ty TNHH MTV theo quy định tại Luật Doanh nghiệp.

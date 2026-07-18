@@ -1,0 +1,98 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012538
+Số quyết định: 8211/QĐ-BCA
+Tên thủ tục: Giải quyết chế độ, chính sách cho người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở chưa tham gia bảo hiểm xã hội mà bị tai nạn, chết khi thực hiện nhiệm vụ
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chính sách
+Trình tự thực hiện:
+    - Bước 1: Cá nhân chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: Nộp hồ sơ cho Ủy ban nhân dân cấp xã.
+    - Bước 3: Ủy ban nhân dân cấp xã có trách nhiệm tổ chức tiếp nhận, kiểm tra hồ sơ. Trường hợp hồ sơ chưa hợp lệ phải có trách nhiệm hướng dẫn ngay để hoàn thiện. Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ phải có trách nhiệm hướng dẫn ngay để hoàn thiện.
+    - Bước 4: Ủy ban nhân dân cấp xã có trách nhiệm phân công cơ quan trực thuộc thẩm định hồ sơ trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ. Trường hợp hồ sơ không đủ điều kiện giải quyết thì cơ quan thẩm định phải có văn bản trả lời, nêu rõ lý do.
+    - Bước 5: Trong thời hạn 03 ngày làm việc, kể từ ngày cơ quan thẩm định báo cáo hồ sơ đủ điều kiện giải quyết, Chủ tịch Ủy ban nhân dân cấp xã ra quyết định chi trả và tổ chức chi trả trợ cấp cho người bị tai nạn, thân nhân người đã chết. Việc chi trả bằng hình thức chuyển khoản hoặc qua đường bưu chính hoặc trực tiếp nhận tại cơ quan chi trả.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: * Nộp trực tuyến tại Cổng dịch vụ công quốc gia hoặc Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh. - Bộ phận một cửa: tổ chức tiếp nhận, kiểm tra hồ sơ, thông báo hoàn thiện hồ sơ trong thời hạn 02 ngày làm việc.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: * Nộp hồ sơ về Ủy ban nhân dân cấp xã qua dịch vụ bưu chính hoặc thuê dịch vụ của doanh nghiệp, cá nhân. - Bộ phận một cửa: tổ chức tiếp nhận, kiểm tra hồ sơ, thông báo hoàn thiện hồ sơ trong thời hạn 02 ngày làm việc.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trực tiếp: Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp xã. - Bộ phận một cửa: tổ chức tiếp nhận, kiểm tra hồ sơ, thông báo hoàn thiện hồ sơ trong thời hạn 02 ngày làm việc
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp xã: thẩm định hồ sơ trong thời hạn 05 ngày làm việc
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Chủ tịch Ủy ban nhân dân cấp xã: Trong thời hạn 03 ngày làm việc, kể từ ngày cơ quan thẩm định báo cáo hồ sơ đủ điều kiện giải quyết.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp xã: thẩm định hồ sơ trong thời hạn 05 ngày làm việc
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Chủ tịch Ủy ban nhân dân cấp xã: Trong thời hạn 03 ngày làm việc, kể từ ngày cơ quan thẩm định báo cáo hồ sơ đủ điều kiện giải quyết.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Chủ tịch Ủy ban nhân dân cấp xã: Trong thời hạn 03 ngày làm việc, kể từ ngày cơ quan thẩm định báo cáo hồ sơ đủ điều kiện giải quyết.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Cơ quan chuyên môn thuộc Ủy ban nhân dân cấp xã: thẩm định hồ sơ trong thời hạn 05 ngày làm việc
+
+Thành phần hồ sơ:
+  [ * Hồ sơ đề nghị hưởng trợ cấp tai nạn, gồm: ]
+    - - Giấy ra viện hoặc trích sao hồ sơ bệnh án sau khi điều trị tai nạn đối với trường hợp điều trị nội trú hoặc bản sao giấy chứng nhận thương tích do cơ sở y tế nơi đã cấp cứu, điều trị cấp.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Trường hợp bị tai nạn giao thông thì có thêm biên bản của cơ quan  Công an.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị trợ cấp tai nạn, trợ cấp tiền tuất, tiền mai táng phí (Mẫu số 02 ban hành kèm theo Nghị định số 40/2024/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Biên bản giám định mức suy giảm khả năng lao động của hội đồng giám định y khoa bệnh viện cấp tỉnh và tương đương trở lên.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Hồ sơ đề nghị hưởng trợ cấp tiền tuất, tiền mai táng phí, gồm: ]
+    - - Giấy ra viện hoặc trích sao hồ sơ bệnh án sau khi điều trị tai nạn đối với trường hợp điều trị nội trú.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Bản sao giấy chứng tử hoặc trích lục khai tử.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Trường hợp bị tai nạn giao thông dẫn đến chết thì có thêm biên bản của cơ quan Công an.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Đơn đề nghị trợ cấp tai nạn, trợ cấp tiền tuất, tiền mai táng phí (Mẫu số 02 ban hành kèm theo Nghị định số 40/2024/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ Bao gồm ]
+    - Khi các cơ quan quản lý nhà nước hoàn thành việc kết nối, chia sẻ dữ liệu thông tin có trong thành phần hồ sơ quy định tại khoản này thì cơ quan có thẩm quyền giải quyết thủ tục phải khai thác trực tuyến để giải quyết mà không được yêu cầu người đề nghị cung cấp hồ sơ giấy.
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định chi trả trợ cấp tai nạn, trợ cấp tiền tuất, tiền mai táng phí.
+Căn cứ pháp lý:
+  * Nghị định số 184/2025/NĐ-CP của Chính phủ: Quy định phân định thẩm quyền khi tổ chức chính quyền địa phương 02 cấp và sửa đổi, bổ sung một số điều của các Nghị định của Chính phủ trong lĩnh vực an ninh, trật tự (184/2025/NĐ-CP)
+  * Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở (30/2023/QH15)
+  * Nghị định số 40/2024/NĐ-CP của Chính phủ: Quy định chi tiết một số điều của Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở (40/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở bảo đảm điều kiện quy định tại khoản 1 và khoản 2 Điều 6 Nghị định số 40/2024/NĐ-CP của Chính phủ, cụ thể là:
+1. Điều kiện được hưởng chế độ, chính sách theo quy định tại khoản 3 Điều 24 Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trong các trường hợp sau:
+a) Trong thời gian thực hiện nhiệm vụ theo sự phân công, kế hoạch của cấp có thẩm quyền hoặc khi được điều động, huy động thực hiện nhiệm vụ;
+b) Trong khoảng thời gian và tuyến đường đi và về từ nơi ở đến nơi thực hiện nhiệm vụ.
+2. Các trường hợp quy định tại khoản 2 Điều 5 Nghị định này bị tai nạn, chết không được hưởng chế độ trợ cấp.
+Từ khóa: Không có thông tin
+Mô tả: Người tham gia lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở bảo đảm điều kiện quy định tại khoản 1 và khoản 2 Điều 6 Nghị định số 40/2024/NĐ-CP của Chính phủ, cụ thể là:
+1. Điều kiện được hưởng chế độ, chính sách theo quy định tại khoản 3 Điều 24 Luật Lực lượng tham gia bảo vệ an ninh, trật tự ở cơ sở trong các trường hợp sau:
+a) Trong thời gian thực hiện nhiệm vụ theo sự phân công, kế hoạch của cấp có thẩm quyền hoặc khi được điều động, huy động thực hiện nhiệm vụ;
+b) Trong khoảng thời gian và tuyến đường đi và về từ nơi ở đến nơi thực hiện nhiệm vụ.
+2. Các trường hợp quy định tại khoản 2 Điều 5 Nghị định này bị tai nạn, chết không được hưởng chế độ trợ cấp.

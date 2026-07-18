@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013897
+Số quyết định: 2527/QĐ-BKHCN
+Tên thủ tục: Thông báo cung cấp dịch vụ viễn thông đối với doanh nghiệp cung cấp dịch vụ viễn thông cơ bản trên Internet, dịch vụ điện toán đám mây, dịch vụ thư điện tử, dịch vụ thư thoại, dịch vụ fax gia tăng giá trị
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    1. Trước khi cung cấp dịch vụ viễn thông cơ bản trên Internet, dịch vụ điện toán đám mây, dịch vụ thư điện tử, dịch vụ thư thoại, dịch vụ fax gia tăng giá trị, tổ chức, doanh nghiệp nộp hồ sơ thông báo cung cấp dịch vụ viễn thông đến Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đặt trụ sở chính và phải chịu trách nhiệm về tình chính xác, trung thực của hồ sơ.
+    Trường hợp doanh nghiệp cung cấp đồng thời dịch vụ điện toán đám mây và dịch vụ trung tâm dữ liệu thì không cần thực hiện thủ tục thông báo cung cấp dịch vụ viễn thông riêng mà thông báo thông tin về dịch vụ điện toán đám mây trong Đơn đăng ký cung cấp dịch vụ viễn thông theo Mẫu số 03 tại Phụ lục I kèm theo Nghị định số 133/2025/NĐ-CP và được cung cấp dịch vụ điện toán đám mây sau khi đã hoàn thành việc gửi hồ sơ đăng ký hợp lệ.
+    2. Ủy ban nhân dân cấp tỉnh có trách nhiệm kiểm tra tính hợp lệ của hồ sơ thông báo cung cấp dịch vụ viễn thông. Trường hợp hồ sơ không hợp lệ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản cho tổ chức, doanh nghiệp biết trong vòng 02 ngày làm việc kể từ ngày nhận hồ sơ. Ủy ban nhân dân cấp tỉnh thực hiện công khai thông tin về các tổ chức, doanh nghiệp đã hoàn thành việc thông báo cung cấp dịch vụ viễn thông trên cổng thông tin điện tử của cơ quan tiếp nhận thông báo cung cấp dịch vụ viễn thông; đồng thời thông báo cho Bộ Khoa học và Công nghệ (Cục Viễn thông) để phối hợp trong công tác quản lý.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Trường hợp doanh nghiệp cung cấp đồng thời dịch vụ điện toán đám mây và dịch vụ trung tâm dữ liệu, thành phần hồ sơ gồm Đơn đăng ký cung cấp dịch vụ viễn thông theo Mẫu số 03 tại Phụ lục I kèm theo Nghị định số 133/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông báo cung cấp dịch vụ viễn thông theo Mẫu số 05 Phụ lục I kèm theo Nghị định số 133/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công khai trên cổng dịch vụ công quốc gia
+Căn cứ pháp lý:
+  * Quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ (133/2025/NĐ-CP)
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Viễn thông (163/2024/NĐ-CP)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29/4/2026 của Chính phủ ban hành Nghị quyết phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

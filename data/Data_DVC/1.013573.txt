@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013573
+Số quyết định: 1909/QĐ-BQP
+Tên thủ tục: Thủ tục biên phòng đối với tàu thuyền, thuyền viên, hành khách đi trên tàu thuyền nước ngoài chuyển cảng tại cửa khẩu cảng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý biên giới
+Trình tự thực hiện:
+  * Trực tuyến:
+    - Bước 1: Chậm nhất 02 giờ trước khi tàu thuyền dự kiến rời cảng hoặc chậm nhất 04 giờ trước khi tàu thuyền dự kiến đến cảng, người làm thủ tục phải khai báo thông tin liên quan đến tàu thuyền, thuyền viên, hành khách chuyển cảng đi theo mẫu biểu quy định trên Cổng thông tin một cửa quốc gia hoặc trên Cổng thông tin thủ tục biên phòng điện tử cảng biển (trường hợp Cổng thông tin một cửa quốc gia có sự cố);
+    - Bước 2: Biên phòng cửa khẩu cảng tiếp nhận khai báo của người làm thủ tục từ Cổng Thông tin một cửa quốc gia chuyển đến Cổng thông tin thủ tục biên phòng điện tử cảng biển hoặc trực tiếp trên Cổng thông tin thủ tục biên phòng điện tử cảng biển (trường hợp Cổng thông tin một cửa quốc gia có sự cố);
+    - Bước 3: Biên phòng cửa khẩu cảng thực hiện kiểm tra, xử lý thông tin khai báo, thực hiện thủ tục biên phòng điện tử và gửi xác nhận hoàn thành thủ tục biên phòng điện tử hoặc thông báo từ chối thực hiện thủ tục biên phòng điện tử cho người làm thủ tục thông qua Cổng thông tin một cửa quốc gia hoặc Cổng thông tin thủ tục biên phòng điện tử cảng biển (trường hợp Cổng thông tin một cửa quốc gia có sự cố);
+    - Bước 4: Trường hợp tàu thuyền chuyển cảng đi có văn bản hồ sơ vụ việc liên quan đến tàu thuyền, thuyền viên, hành khách trên tàu, Biên phòng cửa khẩu cảng lập hồ sơ tàu thuyền chuyển cảng bằng hồ sơ giấy để chuyển theo tàu cho Biên phòng cửa khẩu cảng nơi tàu thuyền đến. Đối với tàu thuyền chuyển cảng đến có hồ sơ giấy kèm theo, chậm nhất 02 giờ, sau khi tàu thuyền neo đậu an toàn tại cầu cảng; chậm nhất 04 giờ, sau khi tàu thuyền neo đậu an toàn tại vị trí khác trong vùng nước cảng, người làm thủ tục phải nộp hồ sơ giấy của tàu thuyền chuyển cảng cho Biên phòng cửa khẩu cảng nơi tàu thuyền đến.
+    - Bước 5: Chậm nhất 01 giờ trước khi tàu thuyền rời cảng, người làm thủ tục phải đến trụ sở trụ sở chính hoặc văn phòng đại diện của Cảng vụ hàng hải, Cảng vụ đường thủy nội địa để tiếp nhận hồ sơ giấy của tàu thuyền chuyển cảng đi, giao cho thuyền trưởng để chuyển cho Biên phòng cửa khẩu cảng nơi tàu thuyền đến.
+  * Trực tiếp
+    - Bước 1: Chậm nhất 02 giờ, trước khi tàu thuyền chuyển cảng đi dự kiến rời cảng; riêng tàu chở khách du lịch quốc tế và tàu thuyền chuyên tuyến, chậm nhất ngay trước thời điểm tàu thuyền rời cảng, người làm thủ tục phải nộp và xuất trình cho Biên phòng cửa khẩu cảng nơi tàu thuyền đi các loại giấy tờ đối với tàu thuyền chuyển cảng đi theo quy định;
+    - Bước 2: Chậm nhất 02 giờ, sau khi tàu thuyền chuyển cảng đến, neo đậu an toàn tại cầu cảng; chậm nhất 04 giờ, sau khi tàu thuyền chuyển cảng đến, neo đậu an toàn tại các vị trí khác trong vùng nước cảng, người làm thủ tục phải nộp hồ sơ chuyển cảng cho Biên phòng cửa khẩu cảng nơi tàu thuyền đến;
+    - Bước 3: Biên phòng cửa khẩu cảng kiểm tra tính hợp pháp, hợp lệ của các giấy tờ và hồ sơ chuyển cảng do người làm thủ tục nộp; hoàn thành thủ tục chuyển cảng tàu thuyền, thuyền viên, hành khách.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Người làm thủ tục gửi hồ sơ và nhận kết quả qua Cổng thông tin một cửa quốc gia hoặc Cổng thông tin thủ tục biên phòng điện tử tại địa chỉ http://thutucbienphong.gov.vn (trong trường hợp Cổng thông tin một cử quốc gia có sự cố).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Người làm thủ tục nộp và xuất trình các loại giấy tờ, hồ sơ chuyển cảng tại trụ sở Cảng vụ hàng hải, Cảng vụ đường thủy nội địa hoặc văn phòng đại diện Cảng vụ hàng hải, Cảng vụ đường thủy nội địa.
+- Trường hợp có văn bản hồ sơ vụ việc liên quan đến tàu thuyền, thuyền viên, hành khách trên tàu người làm thủ tục tiếp nhận hoặc nộp hồ sơ chuyển cảng tại trụ sở chính hoặc văn phòng đại diện của Cảng vụ hàng hải, Cảng vụ đường thủy nội địa.
+
+Thành phần hồ sơ:
+  [ Thành phần hồ sơ khai báo trên Cổng thông tin một cửa quốc gia hoặc Cổng thông tin thủ tục biên phòng điện tử cảng biển hoặc trực tiếp ]
+    - Bản khai chung
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách thuyền viên;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách hành khách (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai vũ khí và vật liệu nổ (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai người trốn trên tàu (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Thành phần hồ sơ phải nộp đối với tàu thuyền chuyển cảng đến (trực tiếp) ]
+    - Hồ sơ chuyển cảng của Biên phòng cửa khẩu cảng nơi tàu thuyền đi gửi Biên phòng cửa khẩu cảng nơi tàu thuyền đến
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Thành phần hồ sơ phải xuất trình đối với tàu thuyền chuyển cảng đi (trực tiếp): ]
+    - Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế của thuyền viên và hành khách hoặc sổ thuyền viên đối với thuyền viên nước ngoài thuộc trường hợp quy định tại khoản 3 Điều 13 Nghị định số 77/2017/NĐ-CP ngày 03/7/2017 của Chính phủ quy định về quản lý, bảo vệ an ninh, trật tự tại cửa khẩu cảng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy phép đi bờ của thuyền viên nước ngoài (nếu có), trừ thuyền viên nước ngoài đi trên tàu thuyền chuyên tuyến quy định tại diểm b khoản 2 Điều 23 Nghị định số 77/2017/ NĐ-CP ngày 03/7/2017 của Chính phủ quy định về quản lý, bảo vệ an ninh, trật tự tại cửa khẩu cảng (trực tiếp).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài
+Cơ quan thực hiện: Đội thủ tuc biên phòng cửa khẩu cảng
+Cơ quan có thẩm quyền: Biên phòng cửa khẩu cảng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bản điện tử xác nhận hoàn thành thủ tục biên phòng điện tử cảng biển hoặc từ chối thực hiện thủ tục biên phòng điện tử cảng biển của Biên phòng cửa khẩu cảng gửi người làm thủ tục, Biên phòng cửa khẩu cảng niêm phong hồ sơ chuyển cảng đối với tàu thuyền chuyển cảng đi; tiếp nhận, kiểm tra hồ sơ chuyển cảng đối với tàu thuyền chuyển cảng đến.
+Căn cứ pháp lý:
+  * Quyết định số 31/2025/QĐ-TTg của Thủ tướng Chính phủ: Sửa đổi, bổ sung một số điều các Quyết định của Thủ tướng Chính phủ về thực hiện thủ tục biên phòng điện tử tại các cửa khẩu do Bộ Quốc phòng quản lý (31/2025/QĐ-TTg)
+  * Về thực hiện thủ tục biên phòng điện tử cảng biển (10/2016/QĐ-TTg)
+  * Nghị định quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải (58/2017/NĐ-CP)
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực hàng hải (34/2025/NĐ-CP)
+  * Quy định về quản lý, bảo an ninh, trật tự tại cửa khẩu cảng (77/2017/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

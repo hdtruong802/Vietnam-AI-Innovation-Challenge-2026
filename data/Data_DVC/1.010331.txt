@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010331
+Số quyết định: 216/QĐ-BTC
+Tên thủ tục: Đề nghị áp dụng Thỏa thuận trước về phương pháp xác định giá tính thuế (APA)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1. Người nộp thuế có yêu cầu áp dụng  APA nộp đơn đề nghị áp dụng APA (tích vào ô Đề nghị áp dụng APA chính thức [đơn phương/song phương/đa phương]) theo mẫu số 01/APA-ĐN ban hành kèm theo Nghị định số 373/NĐ-CP ngày ngày 31 tháng 12 năm 2025 của Chính phủ sửa đổi một số điều của Nghị định 126/2020/NĐ-CP kèm theo hồ sơ đề nghị áp dụng APA thể hiện các thông tin, tài liệu theo quy định tại mục Ghi chú tại Đơn đề nghị áp dụng APA mẫu 01/APA-ĐN.
+    ++ Trường hợp người nộp thuế đề nghị áp dụng APA song phương hoặc APA đa phương thì người nộp thuế điền thông tin đề nghị tiến hành Thủ tục thỏa thuận song phương tại mẫu số 01/APA-ĐN.
+    ++ Người nộp thuế đang áp dụng APA đã ký nếu thuộc trường hợp có thể được xem xét gia hạn APA nếu có đề nghị gia hạn APA thì nộp mẫu số 01/APA-ĐN (tích ô Đề nghị gia hạn APA [đơn phương/song phương/đa phương] ) ban hành kèm theo Nghị định số 373/NĐ-CP ngày ngày 31 tháng 12 năm 2025 của Chính phủ sửa đổi một số điều của Nghị định 126/2020/NĐ-CP kèm hồ sơ đề nghị gia hạn APA trước khi APA đã ký hết hạn ít nhất 06 tháng
+    ++ Người nộp thuế đang áp dụng APA đã ký nếu thuộc các trường hợp sửa đổi APA và mong muốn sửa đổi APA đó thì nộp mẫu số 01/APA-ĐN (tích ô Đề nghị sửa đổi APA [đơn phương/song phương/đa phương]) ban hành kèm theo Nghị định số 373/NĐ-CP ngày ngày 31 tháng 12 năm 2025 của Chính phủ sửa đổi một số điều của Nghị định 126/2020/NĐ-CP đề nghị với Cục Thuế.
+    ++ Người nộp thuế đang áp dụng APA đã ký nếu thuộc các trường hợp có thể huỷ bỏ APA và mong muốn hủy bỏ APA đó thì nộp mẫu số 01/APA-ĐN (tích ô Đề nghị hủy bỏ APA [đơn phương/song phương/đa phương])ban hành kèm theo Nghị định số 373/NĐ-CP ngày ngày 31 tháng 12 năm 2025 của Chính phủ sửa đổi một số điều của Nghị định 126/2020/NĐ-CP  nêu rõ lý do và gửi đến Cục Thuế.
+    + Bước 2. Cục Thuế tiếp nhận hồ sơ theo quy định tại Luật Quản lý thuế, Nghị định 126/2020/NĐ-CP, Nghị định số 122/2025/NĐ-CP, Nghị định số 373/NĐ-CP và Thông tư 45/2021/TT-BTC.
+    + Bước 3. Cục Thuế thực hiện
+    ++ Họp trao đổi với người nộp thuế, khảo sát tại trụ sở người nộp thuế;
+    ++ Tiến hành rà soát và phân tích hồ sơ, trao đổi, đàm phán với người nộp thuế (trong trường hợp APA đơn phương) hoặc với cơ quan thuế đối tác và người nộp thuế (trong trường hợp APA song phương hoặc APA đa phương) về nội dung APA.
+    ++ Đối với trường hợp đề nghị áp dụng APA đơn phương, trên cơ sở kết quả rà soát, phân tích, trao đổi, đàm phán với người nộp thuế, về nội dung APA, Cục Thuế xây dựng dự thảo APA và trình lãnh đạo Bộ Tài chính phê duyệt, tiến hành ký kết APA.
+    ++ Đối với trường hợp đề nghị áp dụng APA song phương hoặc đa phương, Cục Thuế sẽ tiến hành trao đổi, đàm phán nội dung về APA với người nộp thuế và cơ quan thuế nước ngoài, đồng thời xây dựng phương án đàm phán. Cục Thuế trình Bộ trưởng Bộ Tài chính phê duyệt phương án đàm phán. Sau khi có sự phê duyệt, Cục Thuế thực hiện trao đổi, đàm phán với người nộp thuế và cơ quan thuế nước ngoài về nội dung APA theo đúng phương án đã được phê duyệt. Trên cơ sở kết quả đàm phán, Cục Thuế xây dựng dự thảo APA và trình Bộ trưởng Bộ Tài chính ký APA.
+    ++ Trường hợp trong quá trình giải quyết đề nghị APA của người nộp thuế phát sinh việc người nộp thuế (hoặc cơ quan thuế nước ngoài đối với trường hợp giải quyết đề nghị áp dụng APA song phương, đa phương) có văn bản gửi Cục Thuế đề nghị dừng đàm phán. Cục Thuế thông báo cho người nộp thuế (đối với APA đơn phương) hoặc cho người nộp thuế và thông báo hoặc xác nhận với cơ quan thuế nước ngoài (đối với APA song phương hoặc đa phương) về việc dừng đàm phán APA.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Hồ sơ thể hiện bằng tiếng Việt; trường hợp hồ sơ đề nghị áp dụng APA song phương hoặc đa phương thì có thêm bản tiếng Anh
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Trường hợp trong quá trình giải quyết đề nghị APA của người nộp thuế phát sinh việc người nộp thuế đề nghị dừng đàm phán: Thành phần hồ sơ là văn bản gửi Cục Thuế về việc đề nghị dừng đàm phán.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Hồ sơ nộp kèm thể hiện các thông tin chi tiết được nêu tại mục Ghi chú tại mẫu số 01/APA-ĐN hoặc nội dung, tài liệu kèm theo để xin đề nghị thực hiện thủ tục thỏa thuận song phương, gia hạn/sửa đổi/hủy bỏ hồ sơ APA
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Tờ khai theo mẫu số 01/APA-ĐN ban hành kèm theo Nghị định số 373/2025/NĐ-CP ngày 31 tháng 12 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả trả từ cơ quan thuế
+Căn cứ pháp lý:
+  * Nghị định số 373/2025/NĐ-CP của Chính phủ: Sửa đổi, bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (373/2025/NĐ-CP)
+  * Nghị định số 122/2025/NĐ-CP của Chính phủ: Quy định về phân quyền, phân cấp trong lĩnh vực quản lý thuế (122/2025/NĐ-CP)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư 45/2021/TT-BTC (45/2021/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

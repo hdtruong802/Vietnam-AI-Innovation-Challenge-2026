@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012062
+Số quyết định: 1674/QĐ-BNNMT
+Tên thủ tục: Cấp giấy chứng nhận kiểm tra nghiệp vụ đại diện quyền đối với giống cây trồng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trồng trọt và Bảo vệ thực vật
+Trình tự thực hiện:
+    a) Bước 1: Cá nhân nộp 01 bộ hồ sơ đề nghị cấp giấy chứng nhận kiểm tra nghiệp vụ đại diện quyền đối với giống cây trồng đến cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính bằng hình thức trực tiếp hoặc môi trường mạng hoặc qua dịch vụ bưu chính.
+    b) Bước 2: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp; trả lời bằng văn bản tính đầy đủ của hồ sơ trong 01 ngày làm việc đối với trường hợp nộp hồ sơ qua môi trường mạng hoặc qua dịch vụ bưu chính.
+    c) Bước 3: Trong thời hạn 04 ngày làm việc kể từ ngày tổ chức kiểm tra, cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính tổ chức thẩm định, trình Chủ tịch Ủy ban nhân dân cấp tỉnh.
+    d) Bước 4: Trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ trình của cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cấp Giấy chứng nhận kiểm tra nghiệp vụ đại diện quyền đối với giống cây trồng theo Mẫu số 36 Phụ lục V ban hành kèm theo Nghị định số 33/2026/NĐ-CP; trường hợp không cấp, trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - 02 ảnh cỡ 3 cm x 4 cm
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu Bằng tốt nghiệp đại học hoặc sau đại học
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu Chứng chỉ đào tạo pháp luật về quyền đối với giống cây trồng hoặc Quyết định tuyển dụng hoặc hợp đồng lao động và tài liệu khác chứng minh thực tế hoạt động chuyên môn
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tờ khai đăng ký kiểm tra nghiệp vụ đại diện quyền đối với giống cây trồng theo Mẫu số 35 Phụ lục V ban hành kèm theo Nghị định số 33/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận kiểm tra nghiệp vụ đại diện quyền đối với giống cây trồng (theo Mẫu số 36 Phụ lục V ban hành kèm theo Nghị định số 33/2026/NĐ-CP).
+Căn cứ pháp lý:
+  * quy định chi tiết một số điều của Luật Bảo vệ và kiểm dịch thực vật, Luật Trồng trọt và sửa đổi, bổ sung một số điều của các thông tư trong lĩnh vực trồng trọt và bảo vệ thực vật (số 07/2026/TT-BNNMT)
+  * sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực trồng trọt và bảo vệ thực vật (Nghị định số 33/2026/NĐ-CP)
+  * Quy định chi tiết một số điều và biện pháp thi hành  Luật Sở hữu trí tuệ về quyền đối với giống cây trồng (79/2023/NĐ-CP)
+  * sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ (131/2025/QH15)
+  * Về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính và cắt giảm, đơn giản hóa điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Nông nghiệp và Môi trường (17/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Là công dân Việt Nam, có năng lực hành vi dân sự đầy đủ;
+- Thường trú tại Việt Nam;
+- Có bằng tốt nghiệp đại học trở lên thuộc một trong các chuyên ngành: trồng trọt, bảo vệ thực vật, sinh học, lâm sinh, luật;
+- Đã trực tiếp làm công tác pháp luật về quyền đối với giống cây trồng từ 05 năm trở lên hoặc đã trực tiếp làm công tác thẩm định các loại đơn đăng ký quyền đối với giống cây trồng tại cơ quan quốc gia hoặc quốc tế về quyền đối với giống cây trồng từ 05 năm trở lên hoặc đã tốt nghiệp khóa đào tạo pháp luật về quyền đối với giống cây trồng được cơ quan có thẩm quyền công nhận.
+Từ khóa: Không có thông tin
+Mô tả: - Là công dân Việt Nam, có năng lực hành vi dân sự đầy đủ;
+- Thường trú tại Việt Nam;
+- Có bằng tốt nghiệp đại học trở lên thuộc một trong các chuyên ngành: trồng trọt, bảo vệ thực vật, sinh học, lâm sinh, luật;
+- Đã trực tiếp làm công tác pháp luật về quyền đối với giống cây trồng từ 05 năm trở lên hoặc đã trực tiếp làm công tác thẩm định các loại đơn đăng ký quyền đối với giống cây trồng tại cơ quan quốc gia hoặc quốc tế về quyền đối với giống cây trồng từ 05 năm trở lên hoặc đã tốt nghiệp khóa đào tạo pháp luật về quyền đối với giống cây trồng được cơ quan có thẩm quyền công nhận.

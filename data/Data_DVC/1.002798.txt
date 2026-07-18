@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002798
+Số quyết định: 1139/QĐ-BXD
+Tên thủ tục: Phê duyệt phương án tổ chức giao thông trước khi đưa đường cao tốc vào khai thác; Phê duyệt điều chỉnh, bổ sung phương án tổ chức giao thông đường cao tốc trong thời gian khai thác
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+  * Nộp TTHC
+    Chủ đầu tư dự án, người quản lý, sử dụng đường cao tốc nộp hồ sơ đề nghị đến Bộ phận Một cửa Cục Đường bộ Việt Nam hoặc Trung tâm phục vụ hành chính công hoặc trên Cổng Dịch vụ công quốc gia.
+  * Nộp TTHC
+    Cơ quan có thẩm quyền giải quyết thủ tục hành chính thực hiện tiếp nhận, kiểm tra hồ sơ và xử lý như sau:
+    - Đối với trường hợp nộp trực tiếp, sau khi kiểm tra thành phần hồ sơ, nếu đúng quy định thì tiếp nhận hồ sơ và viết phiếu hẹn trả kết quả; hướng dẫn tổ chức, cá nhân hoàn thiện hồ sơ đối với trường hợp không đủ thành phần hồ sơ;
+    - Đối với trường hợp nộp gián tiếp, trong phạm vi 02 ngày làm việc kể từ ngày nhận được hồ sơ, kiểm tra thành phần hồ sơ, nếu không đủ thành phần hồ sơ có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;
+    - Trong thời hạn 12 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền giải quyết thủ tục hành chính hoàn thành việc thẩm định phương án tổ chức giao thông, phương án tổ chức giao thông điều chỉnh, nếu đủ điều kiện thì ban hành quyết định phê duyệt theo mẫu quy định. Trường hợp không phê duyệt thì phải có văn bản trả lời và nêu rõ lý do.
+    - Trả kết quả cho tổ chức, cá nhân bằng các hình thức: Bản điện tử hợp lệ trên VNeID hoặc Cổng dịch vụ công quốc gia. Trường hợp tổ chức, cá nhân có nhu cầu nhận bản giấy thì nhận trực tiếp tại Trung tâm phục vụ hành chính công/Bộ phận một cửa hoặc được gửi qua dịch vụ bưu chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 12 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 12 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 12 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định
+
+Thành phần hồ sơ:
+    - Phương án tổ chức giao thông đường cao tốc trước khi đưa vào khai thác, phương án điều chỉnh tổ chức giao thông đường cao tốc đang khai thác (bản chính hoặc bản sao có chứng thực)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản chính hoặc biểu mẫu điện tử Tờ trình phê duyệt theo mẫu quy định tại Mẫu số 01 Phụ lục V Nghị định 241/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Cục Đường bộ Việt Nam, Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt phương án tổ chức giao thông đường cao tốc, phê duyệt điều chỉnh phương án tổ chức giao thông đường cao tốc
+Căn cứ pháp lý:
+  * Quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ. (165/2024/NĐ-CP)
+  * Nghị định số 241/2026/NĐ-CP ngày 26 tháng 6 năm 2026 sửa đổi, bổ sung một số điều của Nghị định số 165/2024/NĐ-CP ngày 26 tháng 12 năm 2024 của Chính phủ quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ (241/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Phương án tổ chức giao thông phải bảo đảm giao thông thông suốt, an toàn, hiệu quả.
+
+- Đối với đường cao tốc đã đưa vào khai thác, phương án tổ chức giao thông phải bảo đảm trật tự, an toàn giao thông, phù hợp với kết cấu hạ tầng đường bộ đang khai thác, lưu lượng, tải trọng và các loại phương tiện tham gia giao thông trên tuyến.
+Từ khóa: Không có thông tin
+Mô tả: - Phương án tổ chức giao thông phải bảo đảm giao thông thông suốt, an toàn, hiệu quả.
+
+- Đối với đường cao tốc đã đưa vào khai thác, phương án tổ chức giao thông phải bảo đảm trật tự, an toàn giao thông, phù hợp với kết cấu hạ tầng đường bộ đang khai thác, lưu lượng, tải trọng và các loại phương tiện tham gia giao thông trên tuyến.

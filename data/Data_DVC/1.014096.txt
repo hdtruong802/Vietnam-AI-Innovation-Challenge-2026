@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014096
+Số quyết định: 2547/QĐ-BYT
+Tên thủ tục: Cấp phép nhập khẩu dược chất, bán thành phẩm thuốc, dược liệu, bán thành phẩm dược liệu để sản xuất thuốc phục vụ yêu cầu quốc phòng, an ninh, đáp ứng nhu cầu phòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy định của pháp luật về phòng, chống bệnh truyền nhiễm, khắc phục hậu quả sự cố, thiên tai, thảm họa, trừ nguyên liệu làm thuốc phải kiểm soát đặc biệt
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Dược phẩm
+Trình tự thực hiện:
+    Bước 1: Cơ sở đề nghị cấp phép nhập khẩu nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến về Bộ Y tế, cụ thể:
+    - Cục Quản lý Dược đối với dược chất, bán thành phẩm thuốc, bán thành phẩm dược liệu;
+    - Cục Quản lý Y, Dược cổ truyền đối với dược liệu.
+    Bước 2: Sau khi nhận được hồ sơ, cơ quan tiếp nhận hồ sơ trả cho cơ sở đề nghị Phiếu tiếp nhận hồ sơ theo Mẫu số 01 Phụ lục I của Nghị định số 163/2025/NĐ-CP.
+    Bước 3: Trường hợp không có yêu cầu sửa đổi, bổ sung hồ sơ, kể từ ngày ghi trên
+    Phiếu tiếp nhận hồ sơ,trong thời hạn 03 (ba) ngày làm việc, Cục Quản lý Dược/ Cục Quản lý Y, Dược cổ truyền cấp phép nhập khẩu.
+    Trường hợp có yêu cầu sửa đổi, bổ sung hồ sơ, kể từ ngày ghi trên Phiếu tiếp nhận hồ sơ, trong thời hạn 03 (ba) ngày làm việc, Cục Quản lý Dược/ Cục Quản lý Y, Dược cổ truyền gửi văn bản cho cơ sở để yêu cầu sửa đổi, bổ sung hồ sơ
+    Bước 4: Sau khi nhận hồ sơ sửa đổi, bổ sung, Cục Quản lý Dược/ Cục Quản lý Y, Dược cổ truyền trả cơ sở Phiếu tiếp nhận hồ sơ sửa đổi, bổ sung theo Mẫu số 01 Phụ lục I của Nghị định số 163/2025/NĐ-CP.
+    Trường hợp hồ sơ sửa đổi, bổ sung không đáp ứng yêu cầu, Cục Quản lý Dược/ Cục Quản lý Y, Dược cổ truyền có văn bản thông báo cho cơ sở theo quy định tại bước 3. Trường hợp không có yêu cầu sửa đổi, bổ sung đối với hồ sơ sửa đổi, bổ sung, Cục Quản lý Dược/ Cục Quản lý Y, Dược cổ truyền cấp phép nhập khẩu theo quy định tại bước 3.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - 03   bản chính Đơn hàng nhập khẩu theo Mẫu số 36 hoặc 41 tại Phụ lục III ban hành kèm theo Nghị định số 163/2025/NĐ-CP
+      Số lượng: Bản chính: 3, Bản sao: 0
+    - Bản  sao có chứng thực giấy phép sản xuất của cơ sở sản xuất nguyên liệu hoặc giấy chứng nhận Thực hành tốt sản xuất nguyên liệu do cơ quan quản lý có thẩm quyền nước ngoài cấp. Giấy phép sản xuất, giấy chứng nhận Thực hành tốt sản xuất phải được hợp pháp hóa lãnh sự theo quy định của pháp luật về hợp pháp hóa lãnh sự, trừ trường hợp được miễn theo quy định của pháp luật;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Trường  hợp nguyên liệu làm thuốc nhập khẩu để sản xuất thuốc đáp ứng nhu cầu phòng, điều trị bệnh truyền nhiễm thuộc nhóm A đã được công bố dịch theo quy định của pháp luật về phòng, chống bệnh truyền nhiễm, khắc phục hậu quả sự cố, thiên tai, thảm họa, hồ sơ phải có văn bản phê duyệt Danh mục thuốc của Bộ Y tế. Văn bản phải có các thông tin tối thiểu sau: Tên thuốc, tên cơ sở sản xuất thuốc, hoạt chất, nồng độ hoặc hàm lượng, dạng bào chế, quy cách đóng gói, đường dùng, chỉ định;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài  liệu quy định tại điểm d và đ khoản 2 Điều 71 Nghị định số 163/2025/NĐ-CP nếu không được thể hiện bằng tiếng Việt hoặc tiếng Anh thì phải nộp thêm bản dịch công chứng của tài liệu đó ra tiếng Việt hoặc tiếng Anh và bản dịch được chứng thực chữ ký người dịch theo quy định.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Mẫu  số 41 tại Phụ lục III ban hành kèm theo Nghị định số 163/2025/NĐ-CP: đối với bán thành phẩm dược liệu, dược liệu chưa có giấy đăng ký lưu hành tại Việt Nam.
+      Số lượng: Bản chính: 3, Bản sao: 0
+    - Bản  sao tiêu chuẩn chất lượng và phương pháp kiểm nghiệm nguyên liệu làm thuốc của cơ sở sản xuất có đóng dấu của cơ sở nhập khẩu;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Trường  hợp nguyên liệu làm thuốc nhập khẩu để sản xuất thuốc đáp ứng yêu cầu quốc phòng, an ninh, hồ sơ phải có bản chính văn bản đề nghị của Bộ Quốc phòng, Bộ Công an. Văn bản phải có các thông tin tối thiểu sau: Tên thuốc, tên cơ sở sản xuất thuốc, hoạt chất, nồng độ hoặc hàm lượng, dạng bào chế, quy cách đóng gói, đường dùng, chỉ định;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Mẫu  số 36 tại Phụ lục III ban hành kèm theo Nghị định số 163/2025/NĐ-CP: đối với dược chất, bán thành phẩm thuốc, tá dược, vỏ nang, trừ dược chất gây nghiện, dược chất hướng thần, tiền chất dùng làm thuốc.
+      Số lượng: Bản chính: 3, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã, Doanh nghiệp, Tổ chức nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Y tế
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản yêu cầu sửa đổi, bổ sung hồ sơ, Giấy phép nhập khẩu
+Căn cứ pháp lý:
+  * Luật 105/2016/QH13 Dược (105/2016/QH13)
+  * Nghị định của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật dược (163/2025/NĐ-CP)
+  * Luật số 44/2024/QH15 (44/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

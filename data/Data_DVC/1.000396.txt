@@ -1,0 +1,39 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000396
+Số quyết định: 1106/QĐ-NHNN
+Tên thủ tục: Thủ tục đề nghị cấp lại bản sao Giấy phép từ bản gốc của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài gửi văn bản đề nghị Ngân hàng Nhà nước xem xét cấp bản sao Giấy phép từ bản gốc tới Ngân hàng Nhà nước.
+    + Bước 2: Trong thời hạn 02 ngày làm việc kể từ ngày nhận được văn bản đề nghị, Ngân hàng Nhà nước xem xét hồ sơ và cấp lại bản sao Giấy phép từ bản gốc cho ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài (trong đó văn bản nêu rõ lý do Giấy phép bị mất, bị rách, bị cháy hoặc bị hủy hoại dưới hình thức khác).
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực, Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam/Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bản sao Giấy phép từ bản gốc
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * phân cấp thực hiện thủ tục hành chính trong lĩnh vực thông tin tín dụng và sủa đổi, bổ sung một số điều của các Thông tư liên quan đến cắt giảm, đơn giản hóa, phân cấp thực hiện thủ tục hành chính trong lĩnh vực thành lập và hoạt động ngân hàng (11/2026/TT-NHNN)
+  * quy định hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài (Thông tư 56/2024/TT-NHNN)
+  * sửa đổi, bổ sung một số điều của các Thông tư quy định về hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chỉ nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài (12/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

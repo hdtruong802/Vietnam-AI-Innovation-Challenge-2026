@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013298
+Số quyết định: 2618/QĐ-UBND
+Tên thủ tục: Xét hồ sơ đề nghị hỗ trợ phát triển dự án khởi nghiệp sáng tạo giai đoạn tiền ươm tạo, ươm tạo, tăng tốc tại các tổ chức trung gian và dự án khởi nghiệp sáng tạo ở giai đoạn phát triển doanh nghiệp theo phương thức hỗ trợ trước
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    1. Tổ chức, cá nhân có dự án khởi nghiệp sáng tạo theo khoản 1 Điều 3 Nghị quyết đăng ký tham gia các chương trình tiền ươm tạo, ươm tạo, tăng tốc tại các tổ chức trung gian. Tổ chức trung gian tổ chức tuyển chọn các dự án khởi nghiệp sáng tạo để hỗ trợ phát triển dự án khởi nghiệp sáng tạo giai đoạn tiền ươm tạo, ươm tạo, tăng tốc.
+    Tổ chức trung gian, doanh nghiệp có dự án khởi nghiệp sáng tạo nộp hồ sơ đề nghị hỗ trợ phát triển dự án khởi nghiệp sáng tạo về Sở Khoa học và Công nghệ. Sở Khoa học và Công nghệ tiếp nhận hồ sơ đầy đủ, hợp lệ từ bộ phận tiếp nhận và trả kết quả.
+    2. Trong thời hạn 20 (hai mươi) ngày kể từ ngày tiếp nhận hồ sơ, Sở Khoa học và Công nghệ thành lập Hội đồng đánh giá hồ sơ và tổ chức họp Hội đồng đánh giá hồ sơ đề nghị hỗ trợ.
+    Trên cơ sở kết quả làm việc của Hội đồng, trong 10 (mười) ngày, Sở Khoa học và Công nghệ đề nghị tổ chức trung gian/doanh nghiệp bổ sung, làm rõ thêm nội dung đề xuất và các hồ sơ liên quan (nếu có). Thời gian bổ sung hoàn thiện hồ sơ tối đa 15 (mười lăm) ngày.
+    Trường hợp Hội đồng không thống nhất đề nghị hỗ trợ, Sở Khoa học và Công nghệ có văn bản thông báo kết quả xét duyệt hồ sơ cho tổ chức, doanh nghiệp.
+    3. Trong thời hạn 25 (hai mươi lăm) ngày kể từ khi nhận được thuyết minh nhiệm vụ hoàn thiện theo ý kiến của Hội đồng đánh giá hồ sơ, Sở Khoa học và Công nghệ thành lập Tổ thẩm định kinh phí và tổ chức thẩm định kinh phí hỗ trợ.
+    4. Trong thời hạn 05 (năm) ngày kể từ ngày nhận được hồ sơ hoàn thiện theo kết luận của Tổ thẩm định, Sở Khoa học và Công nghệ ban hành Quyết định phê duyệt đơn vị chủ trì và kinh phí hỗ trợ và ký kết Hợp đồng hỗ trợ kinh phí thực hiện.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 60 ngày kể từ ngày tiếp nhận hồ sơ đầy đủ, hợp lệ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 60 ngày kể từ ngày tiếp nhận hồ sơ đầy đủ, hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 60 ngày kể từ ngày tiếp nhận hồ sơ đầy đủ, hợp lệ
+
+Thành phần hồ sơ:
+    - Bản chính Đơn đề nghị hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính thuyết minh nhiệm vụ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc Quyết định thành lập của tổ chức trung gian, doanh nghiệp đề xuất nhiệm vụ. Đối với trường hợp là doanh nghiệp, Sở Khoa học và Công nghệ khai thác thông tin về Giấy chứng nhận đăng ký doanh nghiệp đã có trên cơ sở dữ liệu quốc gia về doanh nghiệp. Trường hợp không khai thác được thông tin hoặc thông tin không đầy đủ, chính xác thì Sở Khoa học và Công nghệ yêu cầu tổ chức/doanh nghiệp cung cấp Giấy chứng nhận đăng ký doanh nghiệp để giải quyết
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao có chứng thực văn bản xác nhận việc chấp hành nghĩa vụ thuế, bảo hiểm xã hội đối với người lao động
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Khoa học và Công nghệ TP.Đà Nẵng
+Cơ quan có thẩm quyền: Sở Khoa học và Công nghệ TP.Đà Nẵng
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công thành phố/ Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt đơn vị chủ trì và kinh phí hỗ trợ của Giám đốc Sở Khoa học và Công nghệ hoặc văn bản thông báo kết quả xét duyệt hồ sơ.
+Căn cứ pháp lý:
+  * Quy định trình tự, thủ tục, điều kiện, số lượng, nội dung và mức hỗ trợ không hoàn lại từ ngân sách nhà nước để phát triển dự án khởi nghiệp sáng tạo trên địa bàn thành phố Đà Nẵng (19/2026/NQ-HĐND (thành phố Đà Nẵng))
+
+Yêu cầu, điều kiện thực hiện: 1. Tổ chức, cá nhân có dự án khởi nghiệp sáng tạo phải đáp ứng điều kiện: Tại thời điểm đăng ký, chưa nhận được bất kỳ nguồn kinh phí hỗ trợ từ ngân sách thành phố cho nội dung đề nghị hỗ trợ theo giai đoạn đề nghị hỗ trợ của dự án.
+2. Đối với doanh nghiệp và tổ chức trung gian phải đảm bảo điều kiện tại khoản 1 Điều 5 và chấp hành các nghĩa vụ về thuế đối với Nhà nước và bảo hiểm xã hội cho người lao động.
+3. Tổ chức trung gian phải có tư cách pháp nhân được thành lập theo quy định của pháp luật Việt Nam và có hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo trên địa bàn thành phố Đà Nẵng.
+4. Doanh nghiệp phải đăng ký thành lập theo Luật Doanh nghiệp và có trụ sở chính trên địa bàn thành phố Đà Nẵng. 
+5. Trường hợp doanh nghiệp lựa chọn đề nghị hỗ trợ phát triển dự án theo phương thức hỗ trợ sau thì hồ sơ chứng từ có liên quan của dự án phải trong thời gian có hiệu lực của Nghị quyết số 136/2024/QH15 và trước thời điểm nộp hồ sơ đề nghị hỗ trợ không quá 36 tháng.
+Từ khóa: Không có thông tin
+Mô tả: 1. Tổ chức, cá nhân có dự án khởi nghiệp sáng tạo phải đáp ứng điều kiện: Tại thời điểm đăng ký, chưa nhận được bất kỳ nguồn kinh phí hỗ trợ từ ngân sách thành phố cho nội dung đề nghị hỗ trợ theo giai đoạn đề nghị hỗ trợ của dự án.
+2. Đối với doanh nghiệp và tổ chức trung gian phải đảm bảo điều kiện tại khoản 1 Điều 5 và chấp hành các nghĩa vụ về thuế đối với Nhà nước và bảo hiểm xã hội cho người lao động.
+3. Tổ chức trung gian phải có tư cách pháp nhân được thành lập theo quy định của pháp luật Việt Nam và có hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo trên địa bàn thành phố Đà Nẵng.
+4. Doanh nghiệp phải đăng ký thành lập theo Luật Doanh nghiệp và có trụ sở chính trên địa bàn thành phố Đà Nẵng. 
+5. Trường hợp doanh nghiệp lựa chọn đề nghị hỗ trợ phát triển dự án theo phương thức hỗ trợ sau thì hồ sơ chứng từ có liên quan của dự án phải trong thời gian có hiệu lực của Nghị quyết số 136/2024/QH15 và trước thời điểm nộp hồ sơ đề nghị hỗ trợ không quá 36 tháng.

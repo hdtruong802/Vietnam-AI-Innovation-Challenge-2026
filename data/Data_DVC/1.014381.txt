@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014381
+Số quyết định: 864/QĐ-UBND
+Tên thủ tục: Hỗ trợ một phần kinh phí trả lương cho giáo viên trực tiếp chăm sóc, giáo dục trẻ
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giáo dục mầm non
+Trình tự thực hiện:
+    Bước 1: Cơ sở giáo dục mầm non ngoài công lập gửi (trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc dịch vụ công trực tuyến) 01 bộ hồ sơ đề nghị hỗ trợ một phần kinh phí trả lương cho giáo viên trực tiếp chăm sóc, giáo dục trẻ về Phòng Văn hóa, xã hội (Ủy ban nhân dân cấp xã) nơi cơ sở giáo dục mầm non ngoài công lập đặt trụ sở.
+    Trường hợp hồ sơ không hợp lệ, Phòng Văn hóa, xã hội có trách nhiệm thông báo và hướng dẫn cơ sở giáo dục mầm non ngoài công lập hoàn thiện hồ sơ.
+    Bước 2: Trong vòng 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Phòng Văn hóa, xã hội chủ trì, phối hợp với Phòng Kinh tế thẩm định hồ sơ. Trường hợp đủ điều kiện hỗ trợ, Phòng Văn hóa, xã hội trình Ủy ban nhân dân cấp xã phê duyệt kinh phí hỗ trợ theo năm ngân sách; trường hợp không đủ điều kiện hỗ trợ, Phòng Văn hóa, xã hội có văn bản thông báo kết quả thẩm định tới cơ sở đề nghị hỗ trợ.
+    Bước 3. Trong thời hạn 07 ngày làm việc từ ngày nhận được văn bản đề nghị của Phòng Văn hóa, xã hội, Ủy ban nhân dân cấp xã có trách nhiệm xem xét, quyết định phê duyệt kinh phí hỗ trợ cho cơ sở giáo dục mầm non ngoài công lập; gửi quyết định phê duyệt tới các đơn vị liên quan để thực hiện.
+    Bước 4: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được quyết định phê duyệt, Phòng Tài chính - Kế hoạch căn cứ quyết định phê duyệt của Ủy ban nhân dân cấp xã thực hiện cấp kinh phí hỗ trợ tới Phòng Văn hóa, xã hội, cơ sở giáo dục mầm non ngoài công lập có mở tài khoản tại Kho bạc Nhà nước theo quy định tài chính hiện hành.
+    Bước 5: Tháng 01 hằng năm, các cơ sở giáo dục mầm non ngoài công lập báo cáo quyết toán kinh phí hỗ trợ một phần trả lương cho giáo viên trực tiếp chăm sóc trẻ của năm trước. Trường hợp kinh phí ngân sách nhà nước hỗ trợ chưa đảm bảo so với số lượng giáo viên thực tế trong năm, đơn vị bổ sung hồ sơ đối với các đối tượng đủ điều kiện hỗ trợ theo quy định tại Điều 11 Nghị quyết số 05/2019/NQ-HĐND tăng thêm so với dự toán được giao, đề nghị hỗ trợ bổ sung theo trình tự, thủ tục quy định tại Điều 12 Nghị quyết này.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 22 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 22 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 22 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 22 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 22 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 22 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ
+
+Thành phần hồ sơ:
+  [ a) Hồ sơ nộp lần đầu đề nghị hỗ trợ gồm: ]
+    - - Dự toán kinh phí đề nghị hỗ trợ theo năm ngân sách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao giấy phép hoạt động giáo dục do cấp có thẩm quyền cấp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách trích ngang giáo viên có mặt tại cơ sở;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hợp đồng lao động của giáo viên (trừ trường hợp chủ cơ sở đồng thời là giáo viên trực tiếp chăm sóc, giáo dục trẻ)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b) Hồ sơ nộp các lần đề nghị hỗ trợ tiếp theo (nộp vào thời điểm thông báo xây dựng dự toán ngân sách hằng năm), gồm: ]
+    - Văn bản đề nghị hỗ trợ; dự toán kinh phí đề nghị hỗ trợ theo năm ngân sách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách trích ngang giáo viên có mặt tại cơ sở giáo dục mầm non ngoài công lập tại thời điểm đề nghị hỗ trợ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hợp đồng lao động của giáo viên mới (thực hiện đối với số giáo viên mới bổ sung hoặc thay thế so với năm trước liền kề)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hỗ trợ một phần kinh phí trả lương cho giáo viên trực tiếp chăm sóc, giáo dục trẻ.
+Căn cứ pháp lý:
+  * Nghị quyết số 05/2019/NQ-HĐND ngày 01 tháng 8 năm 2019 của Hội đồng nhân dân tỉnh Tuyên Quang quy định một số chính sách khuyến khích phát triển giáo dục mầm non ngoài công lập trên địa bàn tỉnh Tuyên Quang (05/2019/NQ-HĐND)
+  * Luật Giáo dục (43/2019/QH14)
+
+Yêu cầu, điều kiện thực hiện: - Giáo viên làm việc tại các cơ sở giáo dục mầm non ngoài công lập phải đảm bảo quy định chuẩn nghề nghiệp giáo viên mầm non theo quy định hiện hành. Số lượng giáo viên được thụ hưởng tại mỗi cơ sở giáo dục mầm non ngoài công lập áp dụng theo quy định hiện hành về định mức bình quân trẻ/nhóm.
+- Cơ sở giáo dục mầm non ngoài công lập phải đảm bảo mức lương tối thiểu vùng và thực hiện đầy đủ các chính sách về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho giáo viên theo quy định.
+- Giáo viên làm việc tại các cơ sở giáo dục mầm non ngoài công lập không được hưởng chính sách hỗ trợ này trong thời gian nghỉ hưởng chế độ bảo hiểm xã hội (ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp).
+Từ khóa: Không có thông tin
+Mô tả: - Giáo viên làm việc tại các cơ sở giáo dục mầm non ngoài công lập phải đảm bảo quy định chuẩn nghề nghiệp giáo viên mầm non theo quy định hiện hành. Số lượng giáo viên được thụ hưởng tại mỗi cơ sở giáo dục mầm non ngoài công lập áp dụng theo quy định hiện hành về định mức bình quân trẻ/nhóm.
+- Cơ sở giáo dục mầm non ngoài công lập phải đảm bảo mức lương tối thiểu vùng và thực hiện đầy đủ các chính sách về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho giáo viên theo quy định.
+- Giáo viên làm việc tại các cơ sở giáo dục mầm non ngoài công lập không được hưởng chính sách hỗ trợ này trong thời gian nghỉ hưởng chế độ bảo hiểm xã hội (ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp).

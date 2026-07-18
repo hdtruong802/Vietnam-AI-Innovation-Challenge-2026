@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004122
+Số quyết định: 248/QĐ-BNNMT
+Tên thủ tục: Cấp giấy phép hành nghề khoan nước dưới đất
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tài nguyên nước
+Trình tự thực hiện:
+    - Bước 1: Nộp hồ sơ:
+    Tổ chức, cá nhân đề nghị cấp phép nộp 01 bộ hồ sơ trực tiếp tại Trung tâm phục vụ hành chính công cấp tỉnh (sau đây gọi tắt là Bộ phận Một cửa) hoặc qua dịch vụ bưu chính hoặc qua ủy quyền theo quy định của pháp luật hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+    - Bước 2: Tiếp nhận, kiểm tra hồ sơ:
+    Bộ phận Một cửa có trách nhiệm tiếp nhận hồ sơ, kiểm tra, xem xét tính đầy đủ, hợp lệ của hồ sơ.
+    + Trường hợp hồ sơ không hợp lệ, Bộ phận Một cửa thông báo trả lại hồ sơ và thông báo rõ lý do cho tổ chức, cá nhân.
+    + Trường hợp hồ sơ hợp lệ thì Bộ phận Một cửa chuyển hồ sơ cho Sở Nông nghiệp và Môi trường để tổ chức thẩm định.
+    - Bước 3: Thẩm định hồ sơ và quyết định cấp phép:
+    + Kể từ ngày nhận đủ hồ sơ, Sở Nông nghiệp và Môi trường có trách nhiệm gửi thông báo nộp phí thẩm định cho tổ chức, cá nhân và thẩm định hồ sơ.
+    + Trường hợp đủ điều kiện cấp phép, Sở Nông nghiệp và Môi trường trình Chủ tịch Ủy ban nhân dân cấp tỉnh phê duyệt giấy phép. Trường hợp không đủ điều kiện thì trả lại hồ sơ cho tổ chức, cá nhân và thông báo rõ lý do bằng văn bản;
+    + Trường hợp phải bổ sung, chỉnh sửa để hoàn thiện hồ sơ, cơ quan thẩm định hồ sơ gửi văn bản thông báo cho tổ chức, cá nhân nêu rõ những nội dung cần bổ sung, hoàn thiện. Thời gian bổ sung, hoàn thiện hồ sơ không tính vào thời gian thẩm định hồ sơ. Thời gian thẩm định sau khi hồ sơ được bổ sung hoàn chỉnh là 5 ngày làm việc.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 13 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (do Ủy ban nhân dân cấp tỉnh quy định.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 13 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (do Ủy ban nhân dân cấp tỉnh quy định.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 13 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (do Ủy ban nhân dân cấp tỉnh quy định.)
+
+Thành phần hồ sơ:
+    - - Văn bản đề nghị cấp phép hành nghề khoan nước dưới đất theo Mẫu 49, Phụ lục II Nghị định số 23/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản khai kinh nghiệm chuyên môn trong hoạt động khoan nước dưới đất của người chịu trách nhiệm chính về kỹ thuật của tổ chức, cá nhân đề nghị cấp phép theo Mẫu 52, Phụ lục II Nghị định số 23/2026/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử có chứng thực từ bản chính hoặc bản sao chụp có xác nhận của cơ quan cấp văn bằng, chứng chỉ của người chịu trách nhiệm chính về kỹ thuật theo quy định của pháp luật và hợp đồng lao động giữa tổ chức, cá nhân đề nghị cấp phép với người chịu trách nhiệm chính về kỹ thuật.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Nông nghiệp và Môi trường Thành phố Hà Nội
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Kết quả thực hiện thủ tục hành chính cấp Giấy phép hành nghề khoan nước dưới đất theo Mẫu 53, Phụ lục II kèm theo Nghị định số 23/2026/NĐ-CP.
+Căn cứ pháp lý:
+  * 14/2025/TT-BNNMT (14/2025/TT-BNNMT)
+  * Luật (28/2023/QH15)
+  * QUY ĐỊNH VIỆC HÀNH NGHỀ KHOAN NƯỚC DƯỚI ĐẤT, KÊ KHAI, ĐĂNG KÝ, CẤP PHÉP, DỊCH VỤ TÀI NGUYÊN NƯỚC VÀ TIỀN CẤP QUYỀN KHAI THÁC TÀI NGUYÊN NƯỚC (54/2024/NĐ-CP)
+  * Nghị định Quy định phân quyền, phân cấp trong lĩnh vực nông nghiệp (136/2025/NĐ-CP)
+  * Nghị định 23/2026/NĐ-CP ngày 17/01/2026 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực tài nguyên nước. (NĐ 23/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

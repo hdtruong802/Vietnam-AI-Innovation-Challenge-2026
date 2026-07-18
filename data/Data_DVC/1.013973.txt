@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013973
+Số quyết định: 2075/QĐ-BKHCN
+Tên thủ tục: Thủ tục ra quyết định bắt buộc chuyển giao quyền sử dụng sáng chế
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Sở hữu trí tuệ
+Trình tự thực hiện:
+    - Bước 1: Tiếp nhận hồ sơ
+    + Trong trường hợp người nắm độc quyền không thực hiện nghĩa vụ sử dụng sáng chế, bị coi là thực hiện hành vi hạn chế cạnh tranh bị cấm theo quy định của pháp luật về cạnh tranh hoặc người có nhu cầu sử dụng sáng chế không đạt được thoả thuận với người nắm độc quyền sử dụng sáng chế về việc ký kết hợp đồng sử dụng sáng chế mặc dù trong một thời gian hợp lý đã cố gắng thương lượng với mức giá và các điều kiện thương mại thoả đáng : 01 bộ hồ sơ yêu cầu nộp cho cơ quan thẩm định hồ sơ của Ủy ban nhân dân cấp tỉnh Ủy ban nhân dân cấp tỉnh.
+    - Bước 2: Thẩm định hồ sơ
+    Trường hợp hồ sơ không hợp lệ (yêu cầu ra quyết định chuyển giao quyền sử dụng sáng chế không có căn cứ xác đáng):
+    + Trong thời hạn 20 ngày kể từ ngày nhận được đơn, cơ quan thẩm định hồ sơ của Ủy ban nhân dân cấp tỉnh báo cáo kết quả xem xét hồ sơ và đề nghị Chủ tịch Ủy ban nhân dân cấp tỉnh ra thông báo dự định từ chối, có nêu rõ lý do từ chối và ấn định thời hạn 30 ngày kể từ ngày ra thông báo để người nộp hồ sơ có ý kiến về dự định từ chối;
+    + Hết thời hạn nêu trên, nếu người nộp hồ sơ không có ý kiến hoặc có ý kiến không xác đáng, trong thời hạn 20 ngày, cơ quan thẩm định hồ sơ đề nghị Chủ tịch Ủy ban nhân dân cấp tỉnh ra thông báo từ chối yêu cầu bắt buộc chuyển giao quyền sử dụng sáng chế (trong đó nêu rõ lý do từ chối);
+    Trường hợp hồ sơ hợp lệ:
+    + Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ/phản hồi khắc phục lỗi (có căn cứ xác đáng) của người nộp hồ sơ, cơ quan thẩm định hồ sơ của Ủy ban nhân dân cấp tỉnh ra thông báo về yêu cầu chuyển giao quyền sử dụng sáng chế theo quyết định bắt buộc cho người nắm giữ độc quyền sáng chế và yêu cầu người đó có ý kiến bằng văn bản trong thời hạn 30 ngày kể từ ngày ra thông báo;
+     Yêu cầu các bên thương thảo lại nhằm khắc phục bất đồng để ký hợp đồng chuyển giao quyền sử dụng sáng chế (nếu cần thiết);
+     Nếu các bên liên quan không đạt được thoả thuận và nếu xét thấy việc không chấp nhận ký kết hợp đồng chuyển giao quyền sử dụng sáng chế của bên nắm giữ quyền là không hợp lý thì cơ quan thẩm định hồ sơ báo cáo kết quả xem xét hồ sơ, đề nghị Chủ tịch Ủy ban nhân dân cấp tỉnh ra quyết định bắt buộc chuyển giao quyền sử dụng sáng chế.
+    + Trong thời hạn 20 ngày kể từ ngày nhận được báo cáo kết quả của cơ quan thẩm định hồ sơ của Ủy ban nhân dân cấp tỉnh, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét và ra quyết định bắt buộc chuyển giao quyền sử dụng sáng chế.
+    + Quyết định bắt buộc chuyển giao quyền sử dụng sáng chế được Ủy ban nhân dân cấp tỉnh gửi cho người được chuyển giao quyền sử dụng sáng chế, người nắm độc quyền sử dụng sáng chế trong thời hạn 7 ngày và cơ quan quản lý nhà nước về quyền sở hữu công nghiệp trong thời hạn 20 ngày.
+    + Cơ quan quản lý nhà nước về quyền sở hữu công nghiệp ghi nhận quyết định vào Sổ đăng ký quốc gia về sở hữu công nghiệp trong thời hạn 30 ngày và công bố trên Công báo sở hữu công nghiệp trong thời hạn 60 ngày kể từ ngày ra quyết định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ (không)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ (không)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ (không)
+
+Thành phần hồ sơ:
+    - Văn bản ủy quyền (trường hợp yêu cầu được nộp thông qua đại diện).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Chứng từ nộp phí, lệ phí nếu có (trường hợp nộp phí, lệ phí qua dịch vụ bưu chính hoặ
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tài liệu chứng minh yêu cầu ra quyết định buộc chuyển giao quyền sử dụng sáng chế là có c
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định bắt buộc chuyển giao quyền sử dụng sáng chế., Thông báo từ chối yêu cầu bắt buộc chuyển giao quyền sử dụng sáng chế
+Căn cứ pháp lý:
+  * - Luật Sở hữu trí tuệ số 50/2005/QH11 ngày 29/11/2005, được sửa đổi, bổ sung theo các Luật số 36/2009/QH12 ngày 19/6/2009, Luật số 42/2019/QH14 ngày 14/6/2019 và Luật số 07/2022/QH15 ngày 16/6/2022; (Luật Sở hữu trí tuệ số 07/2022/QH15)
+  * Nghị định số 65/2023/NĐ-CP ngày 23/8/2023 quy định chi tiết một số điều và biện pháp thi hành Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý nhà nước về sở hữu trí tuệ (Nghị định số 65/2023/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Việc sử dụng sáng chế nhằm mục đích công cộng, phi thương mại, phục vụ quốc phòng, an ninh, phòng bệnh, chữa bệnh, dinh dưỡng cho nhân dân hoặc đáp ứng các nhu cầu cấp thiết của xã hội.
+            - Người nắm độc quyền sử dụng sáng chế không thực hiện nghĩa vụ sử dụng sáng chế sau khi kết thúc bốn năm kể từ ngày nộp đơn đăng ký sáng chế và kết thúc ba năm kể từ ngày cấp Bằng độc quyền sáng chế.
+            - Người có nhu cầu sử dụng sáng chế không đạt được thỏa thuận với người nắm độc quyền sử dụng sáng chế về việc ký kết hợp đồng sử dụng sáng chế mặc dù trong một thời gian hợp lý đã cố gắng thương lượng với mức giá và các điều kiện thương mại thỏa đáng.
+            - Người nắm độc quyền sử dụng sáng chế bị coi là thực hiện hành vi hạn chế cạnh tranh bị cấm theo quy định của pháp luật về cạnh tranh.
+- Việc sử dụng sáng chế nhằm đáp ứng nhu cầu về dược phẩm để phòng, chữa bệnh của quốc gia khác có đủ điều kiện nhập khẩu theo điều ước quốc tế mà Việt Nam là thành viên
+Từ khóa: Không có thông tin
+Mô tả: - Việc sử dụng sáng chế nhằm mục đích công cộng, phi thương mại, phục vụ quốc phòng, an ninh, phòng bệnh, chữa bệnh, dinh dưỡng cho nhân dân hoặc đáp ứng các nhu cầu cấp thiết của xã hội.
+            - Người nắm độc quyền sử dụng sáng chế không thực hiện nghĩa vụ sử dụng sáng chế sau khi kết thúc bốn năm kể từ ngày nộp đơn đăng ký sáng chế và kết thúc ba năm kể từ ngày cấp Bằng độc quyền sáng chế.
+            - Người có nhu cầu sử dụng sáng chế không đạt được thỏa thuận với người nắm độc quyền sử dụng sáng chế về việc ký kết hợp đồng sử dụng sáng chế mặc dù trong một thời gian hợp lý đã cố gắng thương lượng với mức giá và các điều kiện thương mại thỏa đáng.
+            - Người nắm độc quyền sử dụng sáng chế bị coi là thực hiện hành vi hạn chế cạnh tranh bị cấm theo quy định của pháp luật về cạnh tranh.
+- Việc sử dụng sáng chế nhằm đáp ứng nhu cầu về dược phẩm để phòng, chữa bệnh của quốc gia khác có đủ điều kiện nhập khẩu theo điều ước quốc tế mà Việt Nam là thành viên

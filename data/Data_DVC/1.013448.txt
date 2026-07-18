@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013448
+Số quyết định: 753/QĐ-BKHCN
+Tên thủ tục: Cấp lại chứng nhận chữ ký điện tử chuyên dùng bảo đảm an toàn
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công nghiệp công nghệ số, công nghệ thông tin, điện tử
+Trình tự thực hiện:
+    + Bộ Khoa học và Công nghệ đề nghị phối hợp thẩm tra hồ sơ với Bộ Công an, Ban Cơ yếu Chính phủ và cơ quan, tổ chức có liên quan. Trong thời hạn 15 ngày kể từ ngày nhận được đề nghị phối hợp thẩm tra hồ sơ, Bộ Công an, Ban Cơ yếu Chính phủ và cơ quan, tổ chức có liên quan có trách nhiệm trả lời bằng văn bản.
+    + Trong thời hạn 20 ngày kể từ ngày nhận được đầy đủ ý kiến phối hợp thẩm tra, Bộ Khoa học và Công nghệ thẩm tra, đánh giá thực tế hệ thống thông tin tạo lập và cấp chứng nhận chữ ký điện tử chuyên dùng bảo đảm an toàn cho cơ quan, tổ chức.
+    Trường hợp từ chối, Bộ Khoa học và Công nghệ (Trung tâm Chứng thực điện tử quốc gia) có văn bản thông báo và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 35 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 35 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 35 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Điều lệ  hoạt động, văn bản quy định về cơ cấu, tổ chức; về hình thức liên kết, hoạt động chung để chứng minh việc sử dụng chữ ký điện tử chuyên dùng bảo đảm an toàn theo khoản 2 Điều 9 của Nghị định số 23/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo  tình hình thực hiện giấy chứng nhận kể từ ngày được cấp tới ngày đề nghị cấp lại
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quy chế  chứng thực theo quy định tại Điều 29 Nghị định số 23/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn  bản chứng minh việc tạo lập chữ ký điện tử chuyên dùng bảo đảm an toàn đáp ứng đủ các yêu theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 23/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn  đề nghị cấp chứng nhận chữ ký điện tử chuyên dùng bảo đảm an toàn do hết hạn
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - giấy  chứng nhận đăng ký doanh nghiệp/giấy chứng nhận đăng ký đầu tư đối với nhà đầu tư nước  ngoài/quyết định thành lập hoặc văn bản quy định về cơ cấu, tổ chức hoặc giấy chứng nhận, giấy phép tương đương hợp lệ khác theo quy định của pháp luật về đầu tư và pháp luật về doanh nghiệp
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Trung tâm Chứng thực điện tử quốc gia
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Thực hiện thông qua một trong các cách thức sau:
+- Nộp trực tiếp tại Bộ phận Một cửa;
+- Nộp qua dịch vụ bưu chính về Bộ phận Một cửa;
+tại các địa điểm sau:
+a) Bộ phận Một cửa cơ sở 1 tại Tầng 1, Tòa nhà Cục Đổi mới Sáng tạo, số 113 đường Trần Duy Hưng, phường Yên Hòa, thành phố Hà Nội. 
+b) Bộ phận Một cửa cơ sở 2 tại Tòa nhà số 1196 đường 3 tháng 2, Phường Bình Thới, TP. Hồ Chí Minh. 
+c) Bộ phận Một cửa cơ sở 3 tại Đại diện Văn phòng Bộ tại miền Trung, số 42 Trần Quốc Toản, Thành phố Đà Nẵng.
+- Nộp qua hệ thống dịch vụ công trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn).
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận  chữ ký điện tử chuyên dùng bảo đảm an toàn
+Căn cứ pháp lý:
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+  * Sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quân lý nhà nước của Bộ Khoa học và Công nghệ (15/2026/NĐ-CP)
+  * Luật Giao dịch điện tử năm 2023 (20/2023/QH15)
+  * Nghị định số 23/2025/NĐ-CP của Chính phủ: Quy định về chữ ký điện tử và dịch vụ tin cậy (23/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Chữ ký điện tử chuyên dùng bảo đảm an toàn phải đáp ứng đủ các yêu cầu sau:
+- Xác nhận chủ thể ký và khẳng định sự chấp thuận của chủ thể ký đối với thông điệp dữ liệu;
+- Dữ liệu tạo chữ ký điện tử chuyên dùng chỉ gắn duy nhất với nội dung của thông điệp dữ liệu được chấp thuận;
+- Dữ liệu tạo chữ ký điện tử chuyên dùng chỉ thuộc sự kiểm soát của chủ thể ký tại thời điểm ký;
+- Hiệu lực của chữ ký điện tử chuyên dùng có thể được kiểm tra theo điều kiện do các bên tham gia thỏa thuận.
+Từ khóa: Không có thông tin
+Mô tả: Chữ ký điện tử chuyên dùng bảo đảm an toàn phải đáp ứng đủ các yêu cầu sau:
+- Xác nhận chủ thể ký và khẳng định sự chấp thuận của chủ thể ký đối với thông điệp dữ liệu;
+- Dữ liệu tạo chữ ký điện tử chuyên dùng chỉ gắn duy nhất với nội dung của thông điệp dữ liệu được chấp thuận;
+- Dữ liệu tạo chữ ký điện tử chuyên dùng chỉ thuộc sự kiểm soát của chủ thể ký tại thời điểm ký;
+- Hiệu lực của chữ ký điện tử chuyên dùng có thể được kiểm tra theo điều kiện do các bên tham gia thỏa thuận.

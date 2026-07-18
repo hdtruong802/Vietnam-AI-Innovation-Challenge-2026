@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003384
+Số quyết định: 682/QĐ-BVHTTDL
+Tên thủ tục: Sửa đổi, bổ sung Giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+    - Tổ chức có nhu cầu lập hồ sơ gửi đến Sở Văn hóa, Thể thao và Du lịch/Sở Văn hóa và Thể thao tỉnh, thành phố trực thuộc Trung ương (viết tắt là Sở VHTTDL/Sở VHTT) nơi lắp đặt thiết bị thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh;
+    - Trong thời hạn 8 (tám) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở VHTTDL/Sở VHTT có trách nhiệm xét cấp đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh. Trường hợp không cấp đăng ký, Sở VHTTDL/Sở VHTT có văn bản trả lời nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Hồ sơ sửa đổi, bổ sung giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh được quy định như sau: ]
+    - Đối với trường hợp thay đổi địa điểm lắp đặt, cần có bản sao có chứng thực văn bản chứng minh quyền sở hữu, thuê, mượn địa điểm mới.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Văn bản đề nghị nêu rõ nội dung cần sửa đổi, bổ sung
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người nước ngoài, Tổ chức nước ngoài, Công dân Việt Nam
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh
+Căn cứ pháp lý:
+  * QUẢN LÝ, CUNG CẤP VÀ SỬ DỤNG DỊCH VỤ PHÁT THANH, TRUYỀN HÌNH (06/2016/NĐ-CP)
+  * Nghị định 71/2022/NĐ-CP (71/2022/NĐ-CP)
+  * Thông tư số 44/2017/TT-BTTTT của Bộ Thông tin và Truyền thông: Quy định về việc công nhận chứng chỉ công nghệ thông tin của tổ chức nước ngoài sử dụng ở Việt Nam đáp ứng chuẩn kỹ năng sử dụng công nghệ thông tin (44/2017/TT-BTTTT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

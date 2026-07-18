@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013053
+Số quyết định: 3225/QĐ-BCT
+Tên thủ tục: Cấp lại giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Vật liệu nổ công nghiệp, tiền chất thuốc nổ
+Trình tự thực hiện:
+    - Tổ chức, doanh nghiệp sản xuất vật liệu nổ công nghiệp có cải tạo, nâng cấp hạ tầng và thiết bị sản xuất vật liệu nổ công nghiệp nhưng không làm giảm yêu cầu theo tiêu chuẩn, quy chuẩn kỹ thuật về mặt bằng, công nghệ và điều kiện về phòng, chống cháy, nổ, kỹ thuật an toàn của dây chuyền sản xuất đã được cấp phép thì sau khi thực hiện cải tạo, nâng cấp, tổ chức, doanh nghiệp sản xuất vật liệu nổ công nghiệp có văn bản đề nghị cấp lại giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp, trong đó có thông tin về kết quả cải tạo, nâng cấp hạ tầng và thiết bị sản xuất vật liệu nổ công nghiệp.
+    - Tổ chức, doanh nghiệp sản xuất vật liệu nổ công nghiệp bị sự cố, tai nạn phá hủy làm hư hỏng dây chuyền sản xuất thì sau khi có kết quả điều tra và sửa chữa phục hồi, tổ chức, doanh nghiệp sản xuất vật liệu nổ công nghiệp lập hồ sơ kỹ thuật của quá trình sửa chữa, phục hồi và có văn bản đề nghị cấp lại giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp, trong đó có thông tin về kết quả sửa chữa, phục hồi dây chuyền sản xuất.
+    - Hồ sơ nộp trên Cổng dịch vụ công quốc gia, Hệ thống thông tin giải quyết thủ tục hành chính của Bộ Công Thương hoặc gửi qua đường bưu chính về cơ quan có thẩm quyền. Trường hợp trực tiếp nộp hồ sơ thì văn bản đề nghị bổ sung họ tên, số định danh cá nhân hoặc số hộ chiếu của người đến liên hệ.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan có thẩm quyền kiểm tra hồ sơ, điều kiện thực tế, cấp giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp; trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Văn bản đề nghị cấp lại giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp, trong đó có thông tin về kết quả sửa chữa, phục hồi dây chuyền sản xuất.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản đề nghị cấp lại giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp, trong đó có thông tin về kết quả cải tạo, nâng cấp hạ tầng và thiết bị sản xuất vật liệu nổ công nghiệp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Cục Kỹ thuật an toàn và Môi trường công nghiệp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp.
+Căn cứ pháp lý:
+  * Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (42/2024/QH15)
+  * Thông tư số 23/2024/TT-BCT (Thông tư số 23/2024/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Tổ chức, doanh nghiệp sản xuất vật liệu nổ công nghiệp có cải tạo, nâng cấp hạ tầng và thiết bị sản xuất vật liệu nổ công nghiệp nhưng không làm giảm yêu cầu theo tiêu chuẩn, quy chuẩn kỹ thuật về mặt bằng, công nghệ và điều kiện về phòng, chống cháy, nổ, kỹ thuật an toàn của dây chuyền sản xuất đã được cấp phép ; Tổ chức, doanh nghiệp sản xuất vật liệu nổ công nghiệp bị sự cố, tai nạn phá hủy làm hư hỏng dây chuyền sản xuất.
+Từ khóa: Không có thông tin
+Mô tả: Tổ chức, doanh nghiệp sản xuất vật liệu nổ công nghiệp có cải tạo, nâng cấp hạ tầng và thiết bị sản xuất vật liệu nổ công nghiệp nhưng không làm giảm yêu cầu theo tiêu chuẩn, quy chuẩn kỹ thuật về mặt bằng, công nghệ và điều kiện về phòng, chống cháy, nổ, kỹ thuật an toàn của dây chuyền sản xuất đã được cấp phép ; Tổ chức, doanh nghiệp sản xuất vật liệu nổ công nghiệp bị sự cố, tai nạn phá hủy làm hư hỏng dây chuyền sản xuất.

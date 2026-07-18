@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002408
+Số quyết định: 461/QĐ-BXD
+Tên thủ tục: Mở khóa đào tạo bồi dưỡng nghiệp vụ và cấp Giấy chứng nhận khả năng chuyên môn sỹ quan, thuyền trưởng, máy trưởng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    - Tổ chức, cá nhân nộp 01 bộ hồ sơ của mỗi học viên tham dự khóa đào tạo khóa bồi dưỡng nghiệp vụ; dự thi sỹ quan, thuyền trưởng, máy trưởng trực tiếp hoặc gửi qua đường bưu chính hoặc qua hệ thống dịch vụ công trực tuyến đến cơ sở đào tạo, huấn luyện.
+    b) Giải quyết TTHC:
+    - Cơ sở đào tạo, huấn luyện tiếp nhận, kiểm tra hồ sơ, trường hợp hồ sơ không đúng quy định, cơ sở đào tạo, huấn luyện hướng dẫn ngay cho tổ chức, cá nhân hoàn thiện hồ sơ theo quy định.
+    - Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, cơ sở đào tạo, huấn luyện gửi hồ sơ đến Cục Hàng hải và Đường thủy Việt Nam.
+    - Cục Hàng hải và Đường thủy Việt Nam tiếp nhận hồ sơ, kiểm tra, duyệt hồ sơ và ra quyết định công nhận danh sách người có đủ điều kiện dự khóa đào tạo, huấn luyện, dự thi trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, trường hợp không đủ điều kiện phải thông báo bằng văn bản và nêu rõ lý do.
+    -  Căn cứ báo cáo kết quả kỳ thi sỹ quan, thuyền trưởng, máy trưởng của Hội đồng thi sỹ quan, trong thời hạn 05 ngày làm việc, Cục Hàng hải và Đường thủy Việt Nam ra quyết định công nhận kết quả kỳ thi sỹ quan, thuyền trưởng, máy trưởng và cấp GCNKNCM.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ ()
+
+Thành phần hồ sơ:
+  [ - Hồ sơ cơ sở đào tạo nộp cho Cục Hàng hải Việt Nam: ]
+    - + 01 bộ hồ sơ của học viên.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Văn bản đề nghị của cơ sở đào tạo, huấn luyện về việc xét duyệt danh sách học viên tham dự khoá bồi dưỡng nghiệp vụ, dự thi sỹ quan; thuyền trưởng, máy trưởng theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Hồ sơ tổ chức, cá nhân nộp cho cơ sở đào tạo, huấn luyện: ]
+    - + Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được chứng thực từ bản chính Sổ thuyền viên;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử được cấp từ sổ gốc hoặc bản sao điện tử được chứng thực từ bản chính: Bằng tốt nghiệp hoặc Giấy chứng nhận hoàn thành chương trình đào tạo sỹ quan hàng hải, Giấy chứng nhận đào tạo nâng cao (nếu có); đối với Bằng tốt nghiệp được cấp bởi cơ sở giáo dục nước ngoài thì bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu Giấy công nhận văn bằng theo quy định của Bộ Giáo dục và Đào tạo;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + 02 ảnh màu, cỡ 3cm x 4cm, nền trắng, chụp trong vòng 06 tháng trước ngày nộp hồ sơ (02 ảnh đối với trường hợp nộp hồ sơ trực tiếp hoặc qua đường bưu điện, 01 tệp (file) ảnh đối với trường hợp nộp hồ sơ trên môi trường điện tử).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Bản khai thời gian đi biển (không cần xác nhận của tổ chức quản lý thuyền viên) theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản sao hoặc bản sao điện tử Giấy chứng nhận khả năng chuyên môn, chứng chỉ tiếng Anh hàng hải;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Đơn đề nghị theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản gốc hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính Giấy chứng nhận sức khỏe theo quy định của Bộ Y tế;
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Cục Hàng hải và Đường thủy Việt Nam, Cơ sở đào tạo đủ điều kiện được công nhận
+Cơ quan có thẩm quyền: Cục Hàng hải và Đường thủy Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận khả năng chuyên môn
+Căn cứ pháp lý:
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong hoạt động chuyên ngành hàng hải (189/2016/TT-BTC)
+  * Thông tư quy định về tiêu chuẩn chuyên môn, chứng chỉ chuyên môn, đào tạo, huấn luyện thuyền viên và định biên an toàn tối thiểu của tàu biển Việt Nam (20/2023/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001300
+Số quyết định: 99/QĐ-NHNN
+Tên thủ tục: Thủ tục xác nhận đủ điều kiện hoạt động tại địa điểm mới đối với phòng giao dịch bưu điện thay đổi địa điểm
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    - Bước 1: Ngân hàng Thương mại cổ phần Lộc phát Việt Nam (LPBank) gửi Ngân hàng Nhà nước chi nhánh tại các Khu vực (Ngân hàng Nhà nước chi nhánh) nơi LPBank dự kiến đặt trụ sở phòng giao dịch bưu điện hồ sơ đề nghị xác nhận đủ điều kiện hoạt động tại địa điểm mới đối với phòng giao dịch bưu điện thay đổi địa điểm.
+    - Bước 2: Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định tại Thông tư này, Ngân hàng Nhà nước chi nhánh nơi LPBank dự kiến đặt trụ sở phòng giao dịch bưu điện có văn bản gửi LPBank xác nhận việc đáp ứng hoặc không đáp ứng đủ điều kiện hoạt động tại địa điểm mới đối với phòng giao dịch bưu điện thay đổi địa điểm; trường hợp không đáp ứng, văn bản gửi LPBank phải nêu rõ lý do.
+    - Bước 3: Trong thời hạn 30 ngày kể từ ngày nhận được văn bản xác nhận đủ điều kiện hoạt động tại địa điểm mới đối với phòng giao dịch bưu điện thay đổi địa điểm của Ngân hàng Nhà nước theo quy định tại khoản 3 Điều 10 Thông tư số 43/2015/TT-NHNN (đã được sửa đổi, bổ sung), phòng giao dịch bưu điện phải hoạt động tại địa điểm mới và LPBank có văn bản báo cáo gửi Ngân hàng Nhà nước chi nhánh nơi đặt trụ sở phòng giao dịch bưu điện. Quá thời hạn này, văn bản xác nhận của Ngân hàng Nhà nước chi nhánh đương nhiên hết hiệu lực.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Nghị quyết của Hội đồng quản trị của LPBank về việc thay đổi địa điểm phòng giao dịch bưu điện.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản của LPBank đề nghị xác nhận đủ điều kiện hoạt động tại địa điểm mới đối với phòng giao dịch bưu điện thay đổi địa điểm;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa NHNN Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận đáp ứng đủ điều kiện hoạt động tại địa điểm mới đối với phòng giao dịch bưu điện thay đổi địa điểm, Văn bản không xác nhận đáp ứng xác nhận đủ điều kiện hoạt động tại địa điểm mới đối với phòng giao dịch bưu điện thay đổi địa điểm
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của một số Thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh,  đơn giản hóa thủ tục hành chính (Thông tư số 69/2025/TT-NHNN)
+  * Thông tư 43/2015/TT-NHNN (43/2015/TT-NHNN)
+  * Thông tư 27/2022/TT-NHNN (27/2022/TT-NHNN)
+  * Thông tư số 11/2023/TT-NHNN ngày 31/8/2023 của Thống đốc Ngân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số điều của Thông tư số 43/2015/TT-NHNN ngày 31/12/2015 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về tổ chức và hoạt động của phòng giao dịch bưu điện trực thuộc Ngân hàng Thương mại cổ phần Bưu điện Liên Việt. (11/2023/TT-NHNN)
+  * Thông tư 08/2025/TT-NHNN Sửa đổi, bổ sung một số điều của Thông tư số 43/2015/TT-NHNN ngày 31 tháng 12 năm 2015 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về tổ chức và hoạt động của phòng giao dịch bưu điện trực thuộc Ngân hàng thương mại cổ phần Bưu điện Liên Việt, Thông tư số 29/2024/TT-NHNN ngày 28 tháng 6 năm 2024 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về quỹ tín dụng nhân dân và Thông tư số 32/2024/TT-NHNN ngày 30 tháng 6 năm 2024 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về mạng lưới hoạt động của ngân hàng thương mại (08/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: - LPBank chỉ được thay đổi địa điểm phòng giao dịch bưu điện trong trường hợp điểm Bưu cục hoặc Điểm bưu điện văn hóa xã nơi đặt trụ sở phòng giao dịch bưu điện thay đổi địa điểm trong cùng địa bàn tỉnh, thành phố trực thuộc Trung ương. 
+- Có hệ thống công nghệ thông tin kết nối trực tuyến với trụ sở chính và chi nhánh quản lý; đảm bảo hệ thống công nghệ thông tin, cơ sở dữ liệu hoạt động liên tục, an toàn, bảo mật cho các hoạt động nghiệp vụ theo quy định của Ngân hàng Nhà nước và quy định khác của pháp luật Việt Nam có liên quan.
+- Đáp ứng các yêu cầu về an toàn kho quỹ, bảo quản tiền mặt, giấy tờ có giá, phòng cháy, chữa cháy theo quy định của pháp luật. 
+- Trường hợp phòng giao dịch bưu điện không có kho tiền theo quy định của Ngân hàng Nhà nước: (i) Trường hợp trên cùng đơn vị hành chính cấp xã hoặc đơn vị hành chính cấp xã liền kề nơi đặt phòng giao dịch bưu điện, LPBank có kho tiền đảm bảo tiêu chuẩn theo quy định hiện hành, LPBank phải chịu trách nhiệm vận chuyển tiền của các phòng giao dịch bưu điện không có kho tiền theo quy định về kho tiền đảm bảo tiêu chuẩn theo quy định sau khi kết thúc giờ giao dịch mỗi ngày làm việc; (ii) Trường hợp trên cùng đơn vị hành chính cấp xã và đơn vị hành chính cấp xã liền kề nơi đặt phòng giao dịch bưu điện, LPBank không có kho tiền đảm bảo tiêu chuẩn theo quy định hiện hành, LPBank phải chịu trách nhiệm vận chuyển tiền của các phòng giao dịch bưu điện không có kho tiền sau khi trừ hạn mức tồn quỹ tiền mặt cuối ngày về kho tiền đảm bảo tiêu chuẩn theo quy định sau khi kết thúc giờ giao dịch mỗi ngày làm việc. LPBank có trách nhiệm xây dựng quy định hạn mức tồn quỹ tiền mặt và có các biện pháp đảm bảo an toàn tiền mặt tồn quỹ cuối ngày tại các phòng giao dịch bưu điện, báo cáo Ngân hàng Nhà nước chi nhánh nơi đặt trụ sở phòng giao dịch bưu điện để giám sát.
+Từ khóa: Không có thông tin
+Mô tả: - LPBank chỉ được thay đổi địa điểm phòng giao dịch bưu điện trong trường hợp điểm Bưu cục hoặc Điểm bưu điện văn hóa xã nơi đặt trụ sở phòng giao dịch bưu điện thay đổi địa điểm trong cùng địa bàn tỉnh, thành phố trực thuộc Trung ương. 
+- Có hệ thống công nghệ thông tin kết nối trực tuyến với trụ sở chính và chi nhánh quản lý; đảm bảo hệ thống công nghệ thông tin, cơ sở dữ liệu hoạt động liên tục, an toàn, bảo mật cho các hoạt động nghiệp vụ theo quy định của Ngân hàng Nhà nước và quy định khác của pháp luật Việt Nam có liên quan.
+- Đáp ứng các yêu cầu về an toàn kho quỹ, bảo quản tiền mặt, giấy tờ có giá, phòng cháy, chữa cháy theo quy định của pháp luật. 
+- Trường hợp phòng giao dịch bưu điện không có kho tiền theo quy định của Ngân hàng Nhà nước: (i) Trường hợp trên cùng đơn vị hành chính cấp xã hoặc đơn vị hành chính cấp xã liền kề nơi đặt phòng giao dịch bưu điện, LPBank có kho tiền đảm bảo tiêu chuẩn theo quy định hiện hành, LPBank phải chịu trách nhiệm vận chuyển tiền của các phòng giao dịch bưu điện không có kho tiền theo quy định về kho tiền đảm bảo tiêu chuẩn theo quy định sau khi kết thúc giờ giao dịch mỗi ngày làm việc; (ii) Trường hợp trên cùng đơn vị hành chính cấp xã và đơn vị hành chính cấp xã liền kề nơi đặt phòng giao dịch bưu điện, LPBank không có kho tiền đảm bảo tiêu chuẩn theo quy định hiện hành, LPBank phải chịu trách nhiệm vận chuyển tiền của các phòng giao dịch bưu điện không có kho tiền sau khi trừ hạn mức tồn quỹ tiền mặt cuối ngày về kho tiền đảm bảo tiêu chuẩn theo quy định sau khi kết thúc giờ giao dịch mỗi ngày làm việc. LPBank có trách nhiệm xây dựng quy định hạn mức tồn quỹ tiền mặt và có các biện pháp đảm bảo an toàn tiền mặt tồn quỹ cuối ngày tại các phòng giao dịch bưu điện, báo cáo Ngân hàng Nhà nước chi nhánh nơi đặt trụ sở phòng giao dịch bưu điện để giám sát.

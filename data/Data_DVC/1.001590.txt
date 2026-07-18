@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001590
+Số quyết định: 1061/QĐ-BNG
+Tên thủ tục: Thủ tục Chứng thực chữ ký trong các giấy tờ, văn bản
+Cấp thực hiện: Không có thông tin
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công chứng, chứng thực
+Trình tự thực hiện:
+    Nộp hồ sơ tại trụ sở Cơ quan đại diện ngoại giao, cơ quan lãnh sự hoặc cơ quan khác được ủy quyền thực hiện chức năng lãnh sự của Việt Nam ở nước ngoài (Cơ quan đại diện).
+    Cơ quan đại diện thực kiểm tra giấy tờ yêu cầu chứng thực, nếu thấy đủ giấy tờ theo quy định, tại thời điểm chứng thực, người yêu cầu chứng thực minh mẫn, nhận thức và làm chủ được hành vi của mình và việc chứng thực không thuộc các trường hợp không được chứng thực thì yêu cầu người yêu cầu chứng thực ký trước mặt và thực hiện chứng thực.
+    Nhận kết quả trực tiếp tại trụ sở cơ quan theo phiếu hẹn hồ sơ
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Thời hạn thực hiện yêu cầu chứng thực phải được bảo đảm ngay trong ngày cơ quan, tổ chức tiếp nhận yêu cầu hoặc trong ngày làm việc tiếp theo, nếu tiếp nhận yêu cầu sau 15 giờ.
+
+Thành phần hồ sơ:
+    - Bản chính hoặc bản sao có chứng thực Giấy chứng minh nhân dân hoặc Hộ chiếu còn giá trị sử dụng;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Giấy tờ, văn bản mà mình sẽ ký.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Lời chứng chứng thực chữ ký
+Căn cứ pháp lý:
+  * Về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký và chứng thực hợp đồng, giao dịch (23/2015/NĐ-CP)
+  * Quy định chi tiết và hướng dẫn thi hành một số điều của Nghị định số 23/2015/NĐ-CP ngày 16 tháng 02 năm 2015 của Chính phủ về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký và chứng thực hợp đồng, giao dịch (20/2015/TT-BTP)
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực ngoại giao áp dụng tại các Cơ quan đại diện Việt Nam ở nước ngoài (264/2016/TT-BTC)
+  * Luật 33/2009/QH12 (33/2009/QH12)
+
+Yêu cầu, điều kiện thực hiện: - Các trường hợp không được chứng thực chữ ký:
++ Tại thời điểm chứng thực, người yêu cầu chứng thực chữ ký không nhận thức và làm chủ được hành vi của mình.
++ Người yêu cầu chứng thực chữ ký xuất trình Giấy chứng minh nhân dân hoặc Hộ chiếu không còn giá trị sử dụng hoặc giả mạo.
++ Giấy tờ, văn bản mà người yêu cầu chứng thực ký vào có nội dung trái pháp luật, đạo đức xã hội; tuyên truyền, kích động chiến tranh, chống chế độ xã hội chủ nghĩa Việt Nam; xuyên tạc lịch sử của dân tộc Việt Nam; xúc phạm danh dự, nhân phẩm, uy tín của cá nhân, tổ chức; vi phạm quyền công dân..
++ Giấy tờ, văn bản có nội dung là hợp đồng, giao dịch, trừ các trường hợp chứng thực chữ ký trong Giấy ủy quyền đối với trường hợp ủy quyền không có thù lao, không có nghĩa vụ bồi thường của bên được ủy quyền và không liên quan đến việc chuyển quyền sở hữu tài sản, quyền sử dụng bất động sản
+Từ khóa: Không có thông tin
+Mô tả: - Các trường hợp không được chứng thực chữ ký:
++ Tại thời điểm chứng thực, người yêu cầu chứng thực chữ ký không nhận thức và làm chủ được hành vi của mình.
++ Người yêu cầu chứng thực chữ ký xuất trình Giấy chứng minh nhân dân hoặc Hộ chiếu không còn giá trị sử dụng hoặc giả mạo.
++ Giấy tờ, văn bản mà người yêu cầu chứng thực ký vào có nội dung trái pháp luật, đạo đức xã hội; tuyên truyền, kích động chiến tranh, chống chế độ xã hội chủ nghĩa Việt Nam; xuyên tạc lịch sử của dân tộc Việt Nam; xúc phạm danh dự, nhân phẩm, uy tín của cá nhân, tổ chức; vi phạm quyền công dân..
++ Giấy tờ, văn bản có nội dung là hợp đồng, giao dịch, trừ các trường hợp chứng thực chữ ký trong Giấy ủy quyền đối với trường hợp ủy quyền không có thù lao, không có nghĩa vụ bồi thường của bên được ủy quyền và không liên quan đến việc chuyển quyền sở hữu tài sản, quyền sử dụng bất động sản

@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013198
+Số quyết định: 6225/QĐ-BQP
+Tên thủ tục: Thủ tục công nhận tuổi nghề cơ yếu đối với người làm công tác cơ yếu thôi làm việc trong tổ chức cơ yếu (nghỉ hưu, chuyển ngành, thôi việc)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Cơ yếu
+Trình tự thực hiện:
+    Bước 1. Người làm công tác cơ yếu thôi làm việc trong tổ chức cơ yếu (nghỉ hưu, chuyển ngành, thôi việc), cá nhân hoàn thiện hồ sơ gửi Cục Cơ yếu các Bộ, ngành theo hệ thống tổ chức quản lý người làm công tác cơ yếu trước khi thôi làm việc trong tổ chức cơ yếu.
+    Bước 2. Cục Cơ yếu các Bộ, ngành có trách nhiệm kiểm tra tính hợp lệ của hồ sơ và công văn gửi Ban cơ yếu Chính phủ; trường hợp hồ sơ không hợp lệ, Cục Cơ yếu các Bộ, ngành có văn bản thông báo, hướng dẫn cho tổ chức, cá nhân hoàn thiện hồ sơ trong thời hạn 5 (năm) ngày làm việc kể từ ngày nhận được hồ sơ.
+    Bước 3. Cục Chính trị - Tổ chức/Ban Cơ yếu Chính phủ có trách nhiệm thẩm định, báo cáo Trưởng ban Ban Cơ yếu Chính phủ xem xét, quyết định công nhận tuổi nghề cơ yếu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Xác nhận thời gian làm công tác cơ yếu của Thủ trưởng cơ quan, tổ chức trực tiếp quản lý người làm công tác cơ yếu đối với các trường hợp có lý lịch phức tạp, chưa rõ ràng hoặc hồ sơ không thể hiện rõ về thời gian làm việc trong tổ chức cơ yếu, thời gian trong kháng chiến chống Pháp, chống Mỹ hoặc được cử làm các nhiệm vụ đặc biệt; trường hợp cơ quan, tổ chức trực tiếp quản lý người làm công tác cơ yếu chia tách, sáp nhập hoặc giải thể thì Thủ trưởng cơ quan, tổ chức cấp trên trực tiếp xác nhận
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đối với các trường hợp giấy tờ không thể hiện quá trình làm công tác cơ yếu, người làm công tác cơ yếu lập Bản khai quá trình làm công tác cơ yếu trong tổ chức cơ yếu có xác nhận của cơ quan, tổ chức sử dụng cơ yếu trực tiếp quản lý người làm công tác cơ yếu trước khi thôi làm việc trong tổ chức cơ yếu; trường hợp cơ quan, tổ chức cũ đã chia tách, sáp nhập hoặc giải thể thì cơ quan, tổ chức quản lý cấp trên trực tiếp xác nhận
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực Sơ yếu lý lịch của người làm công tác cơ yếu trong thời gian làm việc trong tổ chức cơ yếu hoặc Lý lịch đảng viên. Trường hợp không còn lý lịch thì căn cứ vào hồ sơ nghỉ hưu, chuyển ngành, thôi việc trong đó thể hiện quá trình làm công tác cơ yếu
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị xác nhận, công nhận tuổi nghề cơ yếu
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Cục Chính trị - Tổ chức/Ban Cơ yếu Chính phủ
+Cơ quan có thẩm quyền: Trưởng ban Cơ yếu Chính phủ
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận tuổi nghề cơ yếu
+Căn cứ pháp lý:
+  * Luật cơ yếu (05/2011/QH13)
+  * Quy định về tính tuổi nghề cơ yếu. (01/2016/TT-BQP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

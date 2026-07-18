@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.005464
+Số quyết định: 523/QĐ-BTP
+Tên thủ tục: Đề nghị hỗ trợ chi phí tư vấn pháp luật cho doanh nghiệp nhỏ và vừa
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hỗ trợ pháp lý cho doanh nghiệp nhỏ và vừa
+Trình tự thực hiện:
+    - Sau khi hoàn thành thỏa thuận dịch vụ tư vấn pháp luật với tư vấn viên pháp luật phù hợp thuộc mạng lưới tư vấn viên pháp luật, doanh nghiệp gửi hồ sơ đề nghị hỗ trợ chi phí tư vấn pháp luật trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công tỉnh, thành phố nơi đặt trụ sở hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định hỗ trợ chi phí tư vấn pháp luật về vụ việc, vướng mắc pháp lý.
+    - Trong quá trình giải quyết thủ tục hành chính, Sở Tư pháp có trách nhiệm xem xét, thẩm định hồ sơ, trình Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định.
+    - Trường hợp xét thấy doanh nghiệp không thuộc đối tượng hỗ trợ hoặc qua kiểm tra, xác minh nội dung đề nghị hỗ trợ của doanh nghiệp không phải là vụ việc hoặc vướng mắc pháp lý thực tế hoặc nội dung văn bản tư vấn pháp luật không phù hợp với chủ trương, chính sách của Đảng, trái quy định của pháp luật hoặc không thuộc phạm vi tư vấn theo văn bản thỏa thuận cung cấp dịch vụ tư vấn pháp luật giữa tư vấn viên pháp luật và doanh nghiệp thì Chủ tịch Ủy ban nhân dân cấp tỉnh ra văn bản thông báo lý do từ chối hỗ trợ chi phí tư vấn.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Văn bản đề nghị hỗ trợ chi phí tư vấn pháp luật;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản tư vấn pháp luật, bao gồm 01 bản đầy đủ và 01 bản đã loại bỏ  các thông tin về bí mật kinh doanh của doanh nghiệp
+      Số lượng: Bản chính: 2, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hỗ trợ chi phí tư vấn  pháp luật cho doanh nghiệp nhỏ và vừa., Văn bản trả lời trong trường hợp không  hỗ trợ chi phí tư vấn pháp luật cho doanh nghiệp nhỏ và vừa.
+Căn cứ pháp lý:
+  * Nghị định số 121/2025/NĐ-CP ngày 11/6/2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (121/2025/NĐ-CP)
+  * Quy định chi tiết một số điều của Luật Hỗ trợ doanh nghiệp vừa và nhỏ (Nghị định 39/2018/NĐ-CP)
+  * Luật hỗ trợ doanh nghiệp nhỏ và vừa (Luật 04/2017/QH14)
+  * Nghị định sửa đổi, bổ sung một số nghị định để cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh  thuộc phạm vi quản lý của Bộ Tư pháp (18/2026/NĐ-CP)
+  * Về hỗ trợ pháp lý cho doanh nghiệp nhỏ và vừa (Nghị định 55/2019/NĐ-CP)
+  * Thông tư số 09/2025/TT-BTP ngày 16/6/2025 của Bộ trưởng Bộ Tư pháp hướng dẫn chức năng, nhiệm vụ, quyền hạn của Sở Tư pháp thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và chức năng, nhiệm vụ, quyền hạn của Văn phòng Hội đồng nhân dân và Ủy ban nhân dân thuộc Ủy ban nhân dân xã, phường, đặc khu trong lĩnh vực tư pháp (09/2025/TT-BTP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

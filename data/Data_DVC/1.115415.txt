@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115415
+Số quyết định: 1617/QĐ-BCT
+Tên thủ tục: Chấm dứt đăng ký nền tảng thương mại điện tử trung gian, mạng xã hội hoạt động thương mại điện tử, nền tảng thương mại điện tử tích hợp và nền tảng thương mại điện tử có yếu tố nước ngoài
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thương mại điện tử
+Trình tự thực hiện:
+    1. Việc nộp và nhận kết quả hồ sơ đăng ký nền tảng thương mại điện tử được thực hiện trực tuyến tại Cổng dịch vụ công quốc gia.
+    2. Chủ quản nền tảng thương mại điện tử trung gian, mạng xã hội hoạt động thương mại điện tử, nền tảng thương mại điện tử tích hợp và chủ quản nền tảng thương mại điện tử có yếu tố nước ngoài có trách nhiệm theo dõi địa chỉ thư điện tử và tài khoản đã đăng ký với Cổng dịch vụ công quốc gia để cập nhật trạng thái hồ sơ và sửa đổi, bổ sung thông tin theo yêu cầu.
+    3. Chủ quản nền tảng thương mại điện tử trung gian, mạng xã hội hoạt động thương mại điện tử, nền tảng thương mại điện tử tích hợp thực hiện thủ tục chấm dứt đăng ký trong các trường hợp sau đây:
+    a) Theo đề nghị của chủ quản nền tảng thương mại điện tử;
+    b) Nền tảng thương mại điện tử ngừng hoạt động hoặc chuyển nhượng cho tổ chức khác;
+    c) Thay đổi mã số thuế của chủ quản nền tảng thương mại điện tử.
+    4. Chủ quản nền tảng thương mại điện tử kinh doanh trực tiếp nước ngoài có chức năng đặt hàng trực tuyến có hoạt động thương mại điện tử tại Việt Nam thực hiện thủ tục chấm dứt đăng ký trong các trường hợp sau đây:
+    a) Theo đề nghị của chủ quản nền tảng thương mại điện tử;
+    b) Nền tảng thương mại điện tử ngừng hoạt động hoặc chuyển nhượng cho tổ chức, cá nhân khác;
+    c) Thay đổi mã số thuế của chủ quản nền tảng thương mại điện tử.
+    5. Chủ quản nền tảng thương mại điện tử trung gian nước ngoài, mạng xã hội hoạt động thương mại điện tử nước ngoài, nền tảng thương mại điện tử tích hợp nước ngoài có hoạt động thương mại điện tử tại Việt Nam thực hiện thủ tục chấm dứt đăng ký trong các trường hợp sau đây:
+    a) Theo đề nghị của chủ quản nền tảng thương mại điện tử;
+    b) Nền tảng thương mại điện tử ngừng hoạt động hoặc chuyển nhượng cho tổ chức khác;
+    c) Thay đổi mã số thuế của chủ quản nền tảng thương mại điện tử.
+    6. Quy trình chấm dứt đăng ký nền tảng thương mại điện tử trung gian, mạng xã hội hoạt động thương mại điện tử, nền tảng thương mại điện tử tích hợp và nền tảng thương mại điện tử có yếu tố nước ngoài thực hiện tại Cổng dịch vụ công quốc gia theo 02 bước sau đây:
+    Bước 1. Đăng nhập Cổng dịch vụ công quốc gia, thực hiện khai báo chấm dứt đăng ký theo mẫu và đính kèm tài liệu (nếu có) theo quy định.
+    Bước 2. Trong thời hạn 07 ngày làm việc, chủ quản nền tảng nhận phản hồi về nội dung xác nhận việc chấm dứt đăng ký. Thông tin nền tảng bị rút khỏi Danh sách nền tảng thương mại điện tử đã được xác nhận đăng ký trên Hệ thống quản lý hoạt động thương mại điện tử đã kết nối với Cổng dịch vụ công quốc gia.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+  [ 3.3.1. Hồ sơ đề nghị chấm dứt đăng ký đối với nền tảng thương mại điện tử trung gian, mạng xã hội hoạt động thương mại điện tử, nền tảng thương mại điện tử tích hợp, bao gồm: ]
+    - a) Tờ khai thông tin theo Mẫu số 02 tại Phụ lục II của Nghị định số 248/2026/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Tài liệu, văn bản chứng minh lý do chấm dứt (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 3.3.2. Hồ sơ chấm dứt đăng ký nền tảng thương mại điện tử kinh doanh trực tiếp nước ngoài có chức năng đặt hàng trực tuyến: ]
+    - a) Tờ khai thông tin theo Mẫu số 02 tại Phụ lục II của Nghị định số 248/2026/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Tài liệu, văn bản chứng minh lý do chấm dứt đăng ký (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 3.3.3. Hồ sơ chấm dứt đăng ký nền tảng thương mại điện tử trung gian nước ngoài, mạng xã hội hoạt động thương mại điện tử nước ngoài, nền tảng thương mại điện tử tích hợp nước ngoài có hoạt động thương mại điện tử tại Việt Nam: ]
+    - a) Tờ khai thông tin theo Mẫu số 02 tại Phụ lục II của Nghị định số 248/2026/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Tài liệu, văn bản chứng minh lý do chấm dứt (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông tin hồ sơ bị rút khỏi Danh sách nền tảng thương mại điện tử đã được xác nhận đăng ký trên Hệ thống quản lý hoạt động thương mại điện tử đã kết nối với Cổng Dịch vụ công quốc gia.
+Căn cứ pháp lý:
+  * Nghị định số 248/2026/NĐ-CP ngày 30 tháng 6 năm 2026 của Chính phủ quy định chi tiết một số điều của Luật Thương mại điện tử. (248/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: KHÔNG CÓ
+Từ khóa: Không có thông tin
+Mô tả: KHÔNG CÓ

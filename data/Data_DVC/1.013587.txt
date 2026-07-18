@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013587
+Số quyết định: 1909/QĐ-BQP
+Tên thủ tục: Thủ tục đăng ký đến, đi đối với phương tiện thủy nội địa đến, rời cửa khẩu cảng
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý biên giới
+Trình tự thực hiện:
+    Bước 1: Chậm nhất 02 (hai) giờ, sau khi phương tiện thủy nội địa neo đậu tại cầu cảng; chậm nhất 04 (bốn) giờ, sau khi phương tiện thủy nội địa neo đậu tại các vị trí khác trong vùng nước cảng, người đăng ký phải đăng ký đến cho phương tiện thủy nội địa;
+    Bước 2: Chậm nhất 01 (một) giờ, trước khi phương tiện thủy nội địa rời cảng, người đăng ký phải đăng ký đi cho phương tiện thủy nội địa;
+    Bước 3: Biên phòng cửa khẩu cảng tiếp nhận, kiểm tra các loại giấy tờ, thực hiện đăng ký đến, đi cho phương tiện thủy nội địa.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Người đăng ký nộp, xuất trình các loại giấy tờ tại trụ sở Cảng vụ hàng hải, Cảng vụ đường thủy nội địa hoặc văn phòng đại diện Cảng vụ hàng hải, Cảng vụ đường thủy nội địa.
+Chậm nhất 30 phút, từ khi Biên phòng cửa khẩu cảng tiếp nhận đầy đủ các loại giấy tờ mà người đăng ký nộp và xuất trình
+
+Thành phần hồ sơ:
+  [ Giấy tờ phải nộp ]
+    - + 02 (hai) bản chính Danh sách hành khách (nếu có).
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - + 02 (hai) bản chính Danh sách thuyền viên
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - 02 bản chính Bản khai chung
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Giấy tờ phải xuất trình ]
+    - + Đối với thuyền viên: sổ thuyền viên
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Các loại giấy tờ người đăng ký phải xuất trình khi có yêu cầu của Biên phòng cửa khẩu cảng: Sổ nhật ký hành trình. Giấy tờ liên quan đến hàng hóa nếu có hàng hóa trên phương tiện thủy nội địa, bao gồm: Hợp đồng vận chuyển hàng hóa; hợp đồng mua bán hàng hóa và hóa đơn giá trị gia tăng hoặc phiếu xuất kho kiêm vận chuyển nội bộ; giấy phép vận chuyển của cơ quan có thẩm quyền của Việt Nam đối với các loại hàng hóa vận chuyển có điều kiện.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Đối với hành khách (nếu có): Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế hoặc sử dụng Căn cước hoặc Căn cước công dân: Hành khách không phải xuất trình Căn cước hoặc Căn cước công dân nếu đơn vị Biên phòng cửa khẩu cảng kết nối, sử dụng được cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu căn cước công dân (Biên phòng cửa khẩu cảng tự tra cứu, kiểm tra). Trường hợp đơn vị Biên phòng cửa khẩu cảng chưa kết nối, sử dụng được cơ sở dữ liệu quốc gia về dân cư và cơ sở dũ liệu căn cước công dân, hành khách có thể xuất trình Căn cước hoặc Căn cước công dân trên VNeiD hoặc bản cứng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã, Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Đội Thủ tục Biên phòng cửa khẩu cảng
+Cơ quan có thẩm quyền: Biên phòng cửa khẩu cảng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Đóng dấu kiểm soát hoàn thành thủ tục
+Căn cứ pháp lý:
+  * Quy định về quản lý, bảo an ninh, trật tự tại cửa khẩu cảng (77/2017/NĐ-CP)
+  * Nghị định quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải (58/2017/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

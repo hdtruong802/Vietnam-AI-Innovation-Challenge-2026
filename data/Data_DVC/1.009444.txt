@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009444
+Số quyết định: 123/QĐ-CHHĐTVN
+Tên thủ tục: Gia hạn hoạt động cảng, bến thủy nội địa
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    Chủ cảng, bến có nhu cầu gia hạn hoạt động cảng, bến thủy nội địa nộp hồ sơ đến cơ quan có thẩm quyền sau:
+    - Bộ Xây dựng: gia hạn đối với cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài;
+    - Cục Hàng hải và Đường thủy Việt Nam: gia hạn đối với cảng thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia, cảng thủy nội địa có vùng nước, vùng đất vừa trên đường thủy nội địa quốc gia vừa trên đường thủy nội địa địa phương, cảng thủy nội địa trong vùng nước cảng biển nối với đường thủy nội địa quốc gia trừ trường hợp thuộc thẩm quyền của Bộ Xây dựng và các trường hợp khác do Bộ Xây dựng quyết định;
+    - Sở Xây dựng: gia hạn đối với cảng thủy nội địa trên đường thủy nội địa địa phương, đường thủy nội địa chuyên dùng nối với đường thủy nội địa địa phương, cảng thủy nội địa trong vùng nước cảng biển nối với đường thủy nội địa địa phương trên địa bàn tỉnh, thành phố trực thuộc trung ương trừ trường hợp thuộc thẩm quyền của Bộ Xây dựng và các trường hợp khác do Bộ Xây dựng quyết định.
+    - Ủy ban nhân dân cấp xã, phường: gia hạn bến thủy nội địa và bến khách ngang sông, bến thủy nội địa phục vụ thi công công trình chính trên địa bàn tỉnh, thành phố trực thuộc trung ương.
+  * b) Giải quyết TTHC:
+    Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền công bố hoạt động cảng, bến thủy nội địa có văn bản gia hạn hoạt động của cảng, bến thủy nội địa.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ ((Phí Thẩm tra, thẩm định )
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ ((Phí Thẩm tra, thẩm định )
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ ((Phí Thẩm tra, thẩm định)
+
+Thành phần hồ sơ:
+    - -  Giấy tờ liên quan đến đất xây dựng cảng, bến thủy nội địa được cơ quan có thẩm quyền gia hạn thời hạn sử dụng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị gia hạn hoạt động cảng, bến thủy nội địa;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Sở Xây dựng, Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản gia hạn hoạt động cảng, bến thủy nội địa
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số điều của Nghị định số 08/2021/NĐ-CP ngày 28 tháng 01 năm 2021 của Chính phủ quy định về quản lý hoạt động đường thủy nội địa (06/2024/NĐ-CP)
+  * Quy định về quản lý hoạt động đường thủy nội địa (08/2021/NĐ-CP)
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng (140/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

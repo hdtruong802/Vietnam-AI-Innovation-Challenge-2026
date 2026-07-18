@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000264
+Số quyết định: 2502/QĐ-BCT
+Tên thủ tục: Đăng ký xác nhận Giấy chứng nhận hạn ngạch thuế quan xuất khâu mật ong tự nhiên sang Nhật Bản
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    - Thương nhân có nhu cầu được hưởng thuế ưu đãi VJEPA của Nhật Bản dành cho Việt Nam trong hạn ngạch thuế quan đối với mật ong tự nhiên nhập khẩu vào Nhật Bản theo Hiệp định giữa nước Cộng hòa xã hội chủ nghĩa Việt Nam và Nhật Bản về Đối tác Kinh tế phải nộp hồ sơ tại cơ quan cấp phép (Ủy ban nhân dân cấp tỉnh) nơi thương nhân xuất khẩu đặt trụ sở chính để được xác nhận.
+    - Ủy ban nhân dân cấp tỉnh thực hiện việc xác nhận Giấy chứng nhận hạn ngạch thuế quan trong vòng ba (03) ngày làm việc kể từ ngày nhận được bộ hồ sơ hợp lệ.
+    - Trường hợp không xác nhận, Ủy ban nhân dân cấp tỉnh có văn bản trả lời nêu rõ lý do.
+    - Trong trường hợp Giấy chứng nhận hạn ngạch thuế quan bị rách, mất, hỏng, thương nhân có thể nộp đơn gửi Ủy ban nhân dân cấp tỉnh đề nghị xác nhận bản sao chứng thực của Giấy chứng nhận hạn ngạch thuế quan gốc. Ủy ban nhân dân cấp tỉnh xác nhận bản sao trên cơ sở chứng từ xuất khẩu được lưu tại Ủy ban nhân dân cấp tỉnh và bản sao này phải mang dòng chữ “CERTIFIED TRUE COPY” vào ô “REMARK” của Giấy chứng nhận hạn ngạch thuế quan. Bản sao này ghi ngày xác nhận của bản Giấy chứng nhận hạn ngạch thuế quan gốc. Bản sao chứng thực này được xác nhận trong khoảng thời gian trước ngày hết hạn của Giấy chứng nhận hạn ngạch thuế quan gốc.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Bản sao C/O Mẫu VJ có đóng dấu xác nhận của Tổ chức xác nhận C/O.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Đơn đăng ký theo mẫu số 01 Mục IV tại Phụ lục I kèm theo Thông tư số 38/2025/TT-BCT;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao Tờ khai hải quan đã hoàn thành thủ tục hải quan.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận hạn ngạch thuế quan xuất khẩu mật ong tự nhiên sang Nhật Bản
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương (38/2025/TT-BCT)
+  * Xác nhận hạn ngạch thuế quan đối với mật ong tự nhiên nhập khẩu vào Nhật Bản theo Hiệp định giữa Nước cộng hòa xã hội chủ nghĩa Việt Nam và Nhật Bản về đối tác kinh tế (28/2009/TT-BCT)
+  * Thông tư số 48/2025/TT-BCT (Thông tư số 48/2025/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

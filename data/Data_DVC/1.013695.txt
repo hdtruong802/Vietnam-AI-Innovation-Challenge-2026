@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013695
+Số quyết định: 1454/QĐ-UBND
+Tên thủ tục: Cấp phép thi công nút giao đấu nối đường nhánh vào đường chính đang khai thác
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    Trình tự thực hiện
+    - Nộp hồ sơ TTHC: Tổ chức, cá nhân nộp hồ sơ đến Trung tâm Phục vụ hành chính công tỉnh Quảng Ngãi; địa chỉ số 54 đường Hùng Vương, phường Cẩm Thành, điểm tiếp nhận hồ sơ thứ 02 tại số 492 đường Trần Phú, phường Kon Tum, tỉnh Quảng Ngãi và Trung tâm Phục vụ hành chính công cấp xã
+    - Giải quyết TTHC:
+    + Sở Xây dựng tiếp nhận hồ sơ. Đối với trường hợp nộp trực tiếp, sau khi kiểm tra thành phần hồ sơ, nếu không đúng quy định, hướng dẫn hoàn thiện hồ sơ; nếu đúng quy định, viết giấy hẹn lấy kết quả.
+    + Sở Xây dựng tải tiến hành thẩm định hồ sơ; nếu hồ sơ không đầy đủ theo quy định, có văn bản hướng dẫn hoàn thiện (đối với trường hợp nộp hồ sơ thông qua hệ thống bưu chính); nếu đủ điều kiện, cấp giấy phép thi công. Trường hợp không cấp giấy phép thi công, phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định
+
+Thành phần hồ sơ:
+    - Hồ sơ thiết kế bản vẽ thi công (trong đó có Biện pháp tổ chức thi công đảm bảo an toàn giao thông) đã được cấp có thẩm quyền phê duyệt (bản chính).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản chấp thuận thiết kế kỹ thuật nút giao của đường nhánh đấu nối vào đường chính được  chủ quản lý sử dụng công trình đường bộ thỏa thuận (bản sao kèm theo bản chính để đối chiếu);
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Đơn đề nghị cấp phép thi công công trình (bản chính) theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Xây dựng - tỉnh Quảng Ngãi
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công tỉnh Quảng Ngãi; địa chỉ số 54 đường Hùng Vương, phường Cẩm Thành, điểm tiếp nhận hồ sơ thứ 02 tại phường Kon Tum, tỉnh Quảng Ngãi và Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Giấy phép thi công
+Căn cứ pháp lý:
+  * Luật đường bộ năm 2024 (Luật đường bộ năm 2024)
+  * Quyết định Sửa đổi, bổ sung một số điều của Quy định một số nội dung quản lý đầu tư và xây dựng trên địa bàn tỉnh ban hành kèm theo Quyết định số 37/2021/QĐ-UBND ngày 05 tháng 11 năm 2021 của Ủy ban nhân dân tỉnh Cao Bằng (34/2023/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: - Khoản 5 Điều 30 Luật Đường bộ ngày 27/6/2024.
+- Căn cứ Quyết định số 72/2024/QĐ-UBND ngày 30/12/2024 của UBND tỉnh Quảng Ngãi quy định việc quản lý đường đô thị, đường huyện, đường xã, đường thôn và trình tự, thủ tục chấp thuận thiết kế, cấp phép thi công nút giao đối với đường địa phương đang khai thác trên địa bàn tỉnh Quảng Ngãi.
+Từ khóa: Không có thông tin
+Mô tả: - Khoản 5 Điều 30 Luật Đường bộ ngày 27/6/2024.
+- Căn cứ Quyết định số 72/2024/QĐ-UBND ngày 30/12/2024 của UBND tỉnh Quảng Ngãi quy định việc quản lý đường đô thị, đường huyện, đường xã, đường thôn và trình tự, thủ tục chấp thuận thiết kế, cấp phép thi công nút giao đối với đường địa phương đang khai thác trên địa bàn tỉnh Quảng Ngãi.

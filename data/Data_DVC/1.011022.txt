@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011022
+Số quyết định: 1272/QĐ-BTC
+Tên thủ tục: Khai thuế đối với hộ kinh doanh, cá nhân kinh doanh 
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1.
+    ++ Hộ kinh doanh, cá nhân kinh doanh thuộc đối tượng không chịu thuế giá trị gia tăng, không phải nộp thuế thu nhập cá nhân (bao gồm cả hộ kinh doanh, cá nhân kinh doanh mới ra kinh doanh) thông báo doanh thu thực tế phát sinh trong năm và kê khai các loại thuế khác theo mẫu số 01/TKN-CNKD ban hành kèm theo Thông tư số 50/2026/TT-BTC ngày 13/5/2026 sửa đổi, bổ sung một số điều của Thông tư số 18/2026/TT-BTC và thông báo số tài khoản/số hiệu ví điện tử (kèm theo thông báo đầu tiên của năm đối với hộ kinh doanh, cá nhân kinh doanh mới ra kinh doanh) theo mẫu 01/BK-STK ban hành kèm theo Thông tư số 18/2026/TT-BTC.
+    ++ Hộ kinh doanh, cá nhân kinh doanh thuộc đối tượng nộp thuế thu nhập cá nhân theo phương pháp thuế suất nhân (x) với doanh thu tính thuế, khai thuế giá trị gia tăng, thuế thu nhập cá nhân và các loại thuế khác theo mẫu số 01/CNKD ban hành kèm theo Thông tư số 50/2026/TT-BTC ngày 13/5/2026 sửa đổi, bổ sung một số điều của Thông tư số 18/2026/TT-BTC và thông báo số tài khoản/số hiệu ví điện tử (kèm theo Tờ khai thuế đầu tiên của năm 2026) theo mẫu
+    01/BK-STK ban hành kèm theo Thông tư số 18/2026/TT-BTC.
+    ++ Hộ kinh doanh, cá nhân kinh doanh thuộc đối tượng nộp thuế thu nhập cá nhân theo phương pháp thu nhập tính thuế nhân (x) với thuế suất thì khai thuế giá trị gia tăng, thuế thu nhập cá nhân và các loại thuế khác trong năm theo mẫu số 01/CNKD ban hành kèm theo Thông tư số 50/2026/TT-BTC ngày 13/5/2026 sửa đổi, bổ sung một số điều của Thông tư số 18/2026/TT-BTC và thông báo số tài khoản/số hiệu ví điện tử (kèm theo tờ khai thuế đầu tiên của năm 2026) theo mẫu 01/BK-STK ban hành kèm theo Thông tư số 18/2026/TT-BTC, lập Bảng kê hàng tồn kho, máy móc, thiết bị (kèm theo hồ sơ khai thuế quý I năm 2026 đối với trường hợp khai thuế theo quý hoặc chậm nhất là ngày 20 tháng 4 năm 2026 đối với trường hợp khai thuế theo tháng) theo mẫu 01/BK-HTK ban hành kèm theo Thông tư số 18/2026/TT-BTC.
+    + Bước 2. Cơ quan thuế tiếp nhận hồ sơ của người nộp thuế theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: Không OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Bằng phương thức điện tử qua Cổng dịch vụ công Quốc gia hoặc Ứng dụng định danh quốc gia theo quy định về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: Không OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Gửi hồ sơ qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật đến Trung tâm Phục vụ hành chính công cấp tỉnh, xã đối với trường hợp người nộp thuế thuộc đối tượng có hoàn cảnh đặc biệt, bao gồm người cao tuổi, người khuyết tật, người thuộc diện bảo trợ xã hội, người cư trú tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn hoặc thuộc trường hợp bất khả kháng khác, không thể thực hiện giao dịch điện tử.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: Không OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Trung tâm phục vụ hành chính công cấp tỉnh, xã; hoặc gửi hồ sơ qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật đến Trung tâm Phục vụ hành chính công cấp tỉnh, xã đối với trường hợp người nộp thuế thuộc đối tượng có hoàn cảnh đặc biệt, bao gồm người cao tuổi, người khuyết tật, người thuộc diện bảo trợ xã hội, người cư trú tại địa bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn hoặc thuộc trường hợp bất khả kháng khác, không thể thực hiện giao dịch điện tử.
+
+Thành phần hồ sơ:
+  [ Hộ kinh doanh, cá nhân kinh doanh thuộc đối tượng không chịu thuế giá trị gia tăng, không phải nộp thuế thu nhập cá nhân (bao gồm cả hộ kinh doanh, cá nhân kinh doanh mới ra kinh doanh): ]
+    - Thông báo doanh thu thực tế phát sinh trong năm và kê khai các loại thuế khác (Mẫu số 01/TKN-CNKD)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông báo số tài khoản/số hiệu ví điện tử (kèm theo thông báo đầu tiên của năm đối với hộ kinh doanh, cá nhân kinh doanh mới ra kinh doanh) (Mẫu 01/BK-STK )
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hộ kinh doanh, cá nhân kinh doanh thuộc đối tượng nộp thuế thu nhập cá nhân theo phương pháp thuế suất nhân (x) với doanh thu tính thuế, khai thuế giá trị gia tăng, thuế thu nhập cá nhân và các loại thuế khác: ]
+    - Tờ khai thuế đối với hộ kinh doanh, cá nhân kinh doanh (Mẫu số 01/CNKD)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông báo số tài khoản/số hiệu ví điện tử (kèm theo Tờ khai thuế đầu tiên của năm 2026) (Mẫu 01/BK-STK)
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hộ kinh doanh, cá nhân kinh doanh thuộc đối tượng nộp thuế thu nhập cá nhân theo phương pháp thu nhập tính thuế nhân (x) với thuế suất thì khai thuế giá trị gia tăng, thuế thu nhập cá nhân và các loại thuế khác trong năm: ]
+    - Tờ khai thuế đối với hộ kinh doanh, cá nhân kinh doanh (Mẫu số 01/CNKD)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông báo số tài khoản/số hiệu ví điện tử (kèm theo thông báo đầu tiên của năm đối với hộ kinh doanh, cá nhân kinh doanh mới ra kinh doanh) (Mẫu 01/BK-STK )
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phụ lục Bảng kê hàng tồn kho, máy móc, thiết bị (kèm theo hồ sơ khai thuế quý I năm 2026 đối với trường hợp khai thuế theo quý hoặc chậm nhất là ngày 20 tháng 4 năm 2026 đối với trường hợp khai thuế theo tháng) (Mẫu 01/BK-HT)K
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Thuế cơ sở
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Thuế cơ sở.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Không phải trả kết quả cho người nộp thuế
+Căn cứ pháp lý:
+  * Nghị định số 68/2026/NĐ-CP ngày 05/3/2026 quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh (68/2026/NĐ-CP)
+  * Thông tư số 18/2026/TT-BTC ngày 05/3/2026 quy định về hồ sơ, thủ tục quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh (18/2026/TT-BTC)
+  * Thông tư số 50/2026/TT-BTC của Bộ Tài chính: Sửa đổi, bổ sung một số điều của Thông tư số 18/2026/TT-BTC ngày 05 tháng 3 năm 2026 của Bộ trưởng Bộ Tài chính quy định về hồ sơ, thủ tục quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh (50/2026/TT-BTC)
+  * sửa đổi một số điều của Thông tư 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế (46/2024/TT-BTC)
+  * Luật số 108/2025/QH15 của Quốc hội: Luật Quản lý thuế (108/2025/QH15)
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Trường hợp người nộp thuế lựa chọn và gửi hồ sơ đến cơ quan thuế thông qua giao dịch điện tử thì phải tuân thủ đúng, đầy đủ các quy định và điều kiện thực hiện giao dịch điện tử trong lĩnh vực thuế tại Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế và Thông tư số 46/2024/TT-BTC ngày 09/07/2024 sửa đổi, bổ sung một số điều của Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế.
+Từ khóa: Không có thông tin
+Mô tả: Trường hợp người nộp thuế lựa chọn và gửi hồ sơ đến cơ quan thuế thông qua giao dịch điện tử thì phải tuân thủ đúng, đầy đủ các quy định và điều kiện thực hiện giao dịch điện tử trong lĩnh vực thuế tại Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế và Thông tư số 46/2024/TT-BTC ngày 09/07/2024 sửa đổi, bổ sung một số điều của Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế.

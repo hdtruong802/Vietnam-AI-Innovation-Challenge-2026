@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012312
+Số quyết định: 2268/QĐ-UBND
+Tên thủ tục: Thực hiện chính sách hỗ trợ phát triển nông nghiệp, nông thôn
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Kinh tế hợp tác và Phát triển nông thôn
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân nộp hồ sơ đề nghị hỗ trợ tại Sở Nông nghiệp và Phát triển nông thôn - Bộ phận tiếp nhận hồ sơ trong vòng 20 ngày kể từ khi Sở Nông nghiệp và Phát triển nông thôn có thông báo tiếp nhận hồ sơ hỗ trợ. Trường hợp hồ sơ chưa đầy đủ và không hợp lệ, trong thời hạn 10 ngày làm việc Sở Nông nghiệp và Phát triển nông thôn có thông báo bằng văn bản cho tổ chức, cá nhân.
+    Bước 2: Trong thời hạn 20 ngày làm việc kể từ ngày kết thúc thời gian nhận hồ sơ hỗ trợ, Sở Nông nghiệp và Phát triển nông thôn tổ chức họp hội đồng thẩm định phê duyệt danh sách và kinh phí hỗ trợ. Thành phần hội đồng: Lãnh đạo Sở Nông nghiệp và Phát triển nông thôn là Chủ tịch Hội đồng, thành viên là đại diện lãnh đạo Ủy ban nhân dân quận, huyện và các sở, ngành có liên quan. Trường hợp cần xác minh thông tin, đi thực tế cơ sở để xác định nội dung đề xuất chính sách hỗ trợ, Sở Nông nghiệp và Phát triển nông thôn tổ chức đi kiểm tra thực tế tại cơ sở.
+    Bước 3: Căn cứ kết quả thẩm định của Hội đồng thẩm định, trong thời hạn 10 ngày làm việc, Sở Nông nghiệp và Phát triển nông thôn tổng hợp, báo cáo kết quả thẩm định, trong đó:
+    - Đối với hồ sơ có tổng kinh phí hỗ trợ từ 500 triệu đồng trở lên, Sở Nông nghiệp và Phát triển nông thôn có tờ trình đề nghị kèm theo báo cáo kết quả thẩm định trình Chủ tịch Ủy ban nhân dân thành phố xem xét, quyết định. Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được Tờ trình đề nghị và báo cáo kết quả thẩm định của Sở Nông nghiệp và Phát triển nông thôn, Chủ tịch Ủy ban nhân dân thành phố xem xét, quyết định phê duyệt kinh phí hỗ trợ cho tổ chức, cá nhân.
+    - Đối với hồ sơ có tổng kinh phí hỗ trợ dưới 500 triệu đồng, trong thời hạn 10 ngày làm việc kể từ khi có kết quả thẩm định, Giám đốc Sở Nông nghiệp và Phát triển nông thôn căn cứ kết quả thẩm định có quyết định phê duyệt kinh phí hỗ trợ cho tổ chức, cá nhân.
+    Bước 4: Sở Nông nghiệp và Phát triển nông thôn thông báo kết quả cho tổ chức, cá nhân đề nghị hỗ trợ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 40 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường điện tử
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 40 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường điện tử
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 40 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường điện tử
+
+Thành phần hồ sơ:
+  [ Đối với hồ sơ đề nghị hỗ trợ các mô hình, dự án phát triển sản xuất nông nghiệp, hỗ trợ đầu tư, nâng cấp cơ sở giết mồ gia súc, gia cầm ]
+    - 1. Đơn đề nghị hỗ trợ có xác nhận của Ủy ban nhân dân cấp xã (Mẫu số 01);
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - 2. Báo cáo thuyết minh mô hình, dự án phương án sản xuất nông nghiệp có kèm dự toán chi tiết kinh phí thực hiện (Mẫu số 02);
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - 3. Hồ sơ pháp lý liên quan đến tổ chức, cá nhân đề nghị hỗ trợ và các văn bản khác có liên quan.
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - 4. Hồ sơ pháp lý liên quan đến tổ chức, cá nhân đề nghị hỗ trợ và các văn bản khác có liên quan đến nội dung đề xuất hỗ trợ.
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - 1. Đơn đề nghị hỗ trợ chương trình OCOP có xác nhận của Uỷ ban nhân dân cấp xã (Mẫu số 03);
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - 2. Báo cáo thuyết minh mô hình, dự án phương án có kèm dự toán chi tiết kinh phí thực hiện đối với nội dung hỗ trợ theo quy định tại điểm b,c khoản 1 điều 15 và Điều 16 (Mẫu số 02)
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - 3. Hồ sơ pháp lý liên quan đến tổ chức, cá nhân đề nghị hỗ trợ và các văn bản khác có liên quan.
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Giám đốc các sở, ngành và Chủ tịch Ủy ban nhân dân cấp xã căn cứ dự toán kinh phí được giao hàng năm để quyết định phê duyệt các nội dung chính sách và thanh quyết toán kinh phí theo quy định về quản lý, sử dụng nguồn kinh phí hàng năm của đơn vị trên tinh thần tiết kiệm, hiệu quả.
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Sở Nông nghiệp và Môi trường TP.Đà Nẵng
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh, Giám đốc Sở và cấp tương đương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt của Chủ tịch UBND thành phố đối với hồ sơ có tổng mức kinh phí hỗ trợ từ 500 triệu đồng trở lên, Quyết định phê duyệt của Giám đốc Sở Nông nghiệp và Môi trường đối với hồ sơ có tổng mức kinh phí hỗ trợ dưới 500 triệu đồng
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số điều của Quy định ban hành kèm theo Nghị quyết số 329/2020/NQ-HĐND ngày 09/12/2020 của HĐND thành phố ban hành quy định về một số chính sách hỗ trợ phát triển nông nghiệp, nông thôn trên địa bàn thành phố Đà Nẵng (88/2023/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

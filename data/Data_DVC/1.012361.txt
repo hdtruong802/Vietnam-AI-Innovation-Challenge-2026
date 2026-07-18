@@ -1,0 +1,38 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012361
+Số quyết định: 795/QĐ-BTC
+Tên thủ tục: Đăng ký phương pháp trích lập dự phòng nghiệp vụ.
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo hiểm
+Trình tự thực hiện:
+    + Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam nộp Bộ Tài chính 01 bộ hồ sơ đăng ký hoặc đề nghị thay đổi phương pháp trích lập dự phòng nghiệp vụ.
+    + Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tài chính có văn bản chấp thuận. Trường hợp từ chối chấp thuận, Bộ Tài chính có văn bản giải thích rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Tài liệu giải trình và minh họa về các phương pháp, cơ sở trích lập dự phòng nghiệp vụ bảo hiểm dự kiến áp dụng có xác nhận của chuyên gia tính toán. Trường hợp thay đổi phương pháp, cơ sở trích lập dự phòng nghiệp vụ bảo hiểm, tài liệu giải trình phải chứng minh được phương pháp, cơ sở trích lập mới phản ánh chính xác, đầy đủ hơn so với phương pháp, cơ sở trích lập cũ về trách nhiệm của doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản đăng ký hoặc thay đổi phương pháp, cơ sở trích lập dự phòng nghiệp vụ bảo hiểm theo mẫu quy định tại Phụ lục IX ban hành kèm theo Nghị định 46/2023/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Bộ Tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo lý do từ chối của Bộ Tài chính, Văn bản chấp thuận đăng ký phương pháp trích lập dự phòng nghiệp vụ
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

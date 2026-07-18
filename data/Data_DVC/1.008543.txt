@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008543
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Khấu trừ số thuế đã nộp tại nước ngoài vào thuế phải nộp tại Việt Nam
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1. Các tổ chức, cá nhân là đối tượng cư trú của Việt Nam đã nộp thuế tại Nước ký kết Hiệp định thuế với Việt Nam và số thuế đã nộp là đúng với quy định của luật nước ngoài và quy định của Hiệp định chuẩn bị hồ sơ đề nghị khấu trừ số thuế đã nộp tại nước ngoài vào thuế phải nộp tại Việt Nam gửi đến cơ quan thuế quản lý trực tiếp.
+    + Bước 2. Cơ quan thuế tiếp nhận:
+    ++ Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc hồ sơ được gửi qua đường bưu chính: cơ quan thuế thực hiện tiếp nhận và giải quyết hồ sơ và trả kết quả theo quy định.
+    ++ Trường hợp hồ sơ được nộp đến cơ quan thuế thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - ++ Giấy uỷ quyền trong trường hợp người nộp thuế uỷ quyền cho đại diện hợp pháp thực hiện thủ tục áp dụng Hiệp định thuế
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy đề nghị khấu trừ thuế nước ngoài vào thuế phải nộp tại Việt Nam theo Hiệp định thuế theo mẫu số 02/HTQT ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính (đã được sửa đổi tại Thông tư số 94/2025/TT-BTC), trong đó cung cấp các thông tin về giao dịch liên quan đến số thuế nước ngoài đề nghị được khấu trừ vào số thuế phải nộp tại Việt Nam thuộc phạm vi điều chỉnh của Hiệp định thuế
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ++++ Bản gốc xác nhận của Cơ quan thuế nước ngoài về số thuế đã nộp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ++++ Bản sao Tờ khai thuế thu nhập ở nước ngoài có xác nhận của người nộp thuế;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - +++ Trường hợp khấu trừ số thuế khoán: Người nộp thuế có thu nhập và lẽ ra phải nộp thuế tại Nước ký kết Hiệp định với Việt Nam, nhưng theo quy định tại luật của Nước ký kết đó được miễn hoặc giảm như một biện pháp ưu đãi đặc biệt, được khấu trừ vào số thuế phải nộp tại Việt Nam theo quy định của Hiệp định thuế. ++++ Bản sao Tờ khai thuế thu nhập ở nước ngoài có xác nhận của người nộp thuế; ++++ Bản sao đăng ký kinh doanh hoặc các chứng từ pháp lý xác nhận hoạt động kinh doanh tại nước ngoài có xác nhận của người nộp thuế; ++++ Thư xác nhận của Nhà chức trách có thẩm quyền nước ngoài về số thuế đã miễn, giảm và xác nhận việc đề nghị khấu trừ số thuế khoán là phù hợp với Hiệp định thuế và luật pháp của Nước ký kết Hiệp định thuế có liên quan
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản sao hợp đồng với Bên Việt Nam có xác nhận của tổ chức, cá nhân nước ngoài hoặc đại diện được uỷ quyền
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - +++ Trường hợp khấu trừ gián tiếp: Người nộp thuế đã nộp thuế thu nhập doanh nghiệp đối với thu nhập trước khi được chia cho đối tượng đó tại Nước ký kết Hiệp định với Việt Nam và được khấu trừ vào số thuế phải nộp tại Việt Nam theo quy định của Hiệp định thuế. ++++ Các tài liệu pháp lý chứng minh quan hệ và tỉ lệ góp vốn của đối tượng đề nghị khấu trừ; ++++ Bản sao Tờ khai thuế thu nhập ở nước ngoài của công ty chia lãi cổ phần mà đối tượng tham gia góp vốn có xác nhận của người nộp thuế; ++++ Bản sao Tờ khai thuế khấu trừ tại nguồn đối với lợi tức cổ phần được chia có xác nhận của người nộp thuế; ++++ Xác nhận của Cơ quan thuế nước ngoài về số thuế đã nộp đối với cổ phần được chia và số thuế thu nhập công ty đã nộp trước khi chia lãi cổ phần
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - ++ Các tài liệu khác tuỳ theo hình thức đề nghị khấu trừ. Cụ thể:
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +++ Trường hợp khấu trừ trực tiếp: Người nộp thuế đã nộp thuế tại Nước ký kết Hiệp định với Việt Nam, và được khấu trừ vào số thuế phải nộp tại Việt Nam theo quy định của Hiệp định thuế.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - ++++ Bản sao chứng từ nộp thuế ở nước ngoài có xác nhận của người nộp thuế;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+  * Thông tư số 40/2025/TT-BTC Sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý thuế để phân định thẩm quyền của chính quyền địa phương theo mô hình tổ chức chính quyền địa phương 02 cấp (40/2025/TT-BTC)
+  * sửa đổi một số điều của Thông tư 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế (46/2024/TT-BTC)
+  * Nghị định số 122/2025/NĐ-CP của Chính phủ: Quy định về phân quyền, phân cấp trong lĩnh vực quản lý thuế (122/2025/NĐ-CP)
+  * Luật Cư trú 2020 (68/2020/QH14)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và sửa đổi, bổ sung một số mẫu biểu của Thông tư số 40/2021/TT-BTC ngày 01 tháng 6 năm 2021 của Bộ Tài chính hướng dẫn thuế giá trị gia tăng, thuế thu nhập cá nhân và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh (94/2025/TT-BTC)
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định liên quan đến việc nộp xuất trình sổ hộ khẩu, sổ tạm trú giấy khi thực hiện thủ tục hành chính, cung cấp dịch vụ công (104/2022/NĐ-CP)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

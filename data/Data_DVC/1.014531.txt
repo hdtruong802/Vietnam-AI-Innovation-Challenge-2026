@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014531
+Số quyết định: 1526/QĐ-UBND
+Tên thủ tục: Thủ tục Hỗ trợ đối với người truyền dạy
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công tác dân tộc
+Trình tự thực hiện:
+    a) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được quyết định mở lớp học của cơ quan chủ trì chính sách cấp tỉnh, cấp xã, người truyền dạy nộp 01 bộ hồ sơ cho đơn vị tổ chức lớp học tiếng dân tộc thiểu số (quy định tại khoản 3 Điều 2 Nghị quyết số 75/2025/NQ-HĐND)
+    b) Trường hợp 1: Đối với các đơn vị tổ chức lớp học tiếng dân tộc thiểu số quy định tại điểm a khoản 3 Điều 2 Nghị quyết số 75/2025/NQ-HĐND, hồ sơ sau khi tổng hợp gửi Sở Giáo dục và Đào tạo xem xét, quyết định.
+    Trường hợp 2: Đối với các đơn vị tổ chức lớp học tiếng dân tộc thiểu số quy định tại điểm b và điểm c khoản 3 Điều 2 Nghị quyết số 75/2025/NQ-HĐND, hồ sơ sau khi tổng hợp gửi UBND cấp xã xem xét, quyết định.
+    c) Đối với nội dung hỗ trợ tiền cho người truyền dạy để mua sắm 01 bộ trang phục dân tộc: Trong thời hạn 10 ngày, kể từ ngày tiếp nhận đủ hồ sơ hợp lệ theo quy định, Sở Giáo dục và Đào tạo/ UBND cấp xã thẩm định, ban hành quyết định chi trả tiền hỗ trợ; thực hiện chi trả tiền hỗ trợ và lập bảng kê danh sách người nhận tiền (theo Mẫu số 02 tại Phụ lục kèm theo Nghị quyết số 75/2025/NQ-HĐND).
+    Đối với nội dung hỗ trợ tiền thù lao cho người truyền dạy: Trong thời gian 10 ngày, kể từ ngày kết thúc khóa học, đơn vị tổ chức lớp học thực hiện nghiệm thu hoàn thành khóa học, thẩm định, duyệt danh sách người truyền dạy đủ điều kiện hỗ trợ; trình Sở Giáo dục và Đào tạo/ UBND cấp xã ban hành quyêt định chi trả tiền hỗ trợ, thực hiện chi trả tiền hỗ trợ theo quy định và lập bảng kê danh sách người nhận tiền (theo Mẫu số 05 tại Phụ lục kèm theo Nghị quyết số 75/2025/NQ-HĐND).
+    - Đối với nội dung hỗ trợ tiền cho người truyền dạy để mua sắm 01 bộ trang phục dân tộc: Trong thời hạn 10 ngày, kể từ ngày tiếp nhận đủ hồ sơ hợp lệ theo quy định.
+    - Đối với nội dung hỗ trợ tiền thù lao cho người truyền dạy: Trong thời gian 10 ngày, kể từ ngày kết thúc khóa học.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Nộp trực tuyến trên Cổng Dịch vụ công Quốc gia.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị hỗ trợ người truyền dạy (theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị quyết số 75/2025/NQ-HĐND ngày 12/11/2025 của HĐND tỉnh Bắc Ninh);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Quyết định mở lớp học của cơ quan chủ trì chính sách cấp tỉnh, cấp xã và danh sách người truyền dạy.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Giáo dục và Đào tạo tỉnh Bắc Ninh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Nộp trực tiếp hoặc qua dịch vụ bưu chính công ích đến Đơn vị tổ chức lớp học tiếng dân tộc thiểu số hoặc Trung tâm Phục vụ hành chính công, các điểm tiếp nhận dịch vụ công cấp tỉnh, cấp xã (áp dụng thực hiện tiếp nhận không phụ thuộc vào địa giới hành chính)
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt chi trả tiền hỗ trợ cho người truyền dạy.
+Căn cứ pháp lý:
+  * Quy định về người giữ chức danh chức vụ...thuộc UBND tỉnh Bắc Ninh (87/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: a) Trường hợp hỗ trợ tiền cho người truyền dạy để mua sắm 01 bộ trang phục dân tộc: Người truyền dạy có tên trong Biểu phân công nhiệm vụ người truyền dạy kèm theo Quyết định mở lớp học của đơn vị tổ chức lớp học tiếng dân tộc thiểu số.
+b) Trường hợp hỗ trợ tiền thù lao cho người truyền dạy: Người truyền dạy thực hiện truyền dạy theo đúng nội dung chương trình của Tài liệu truyền dạy tiếng dân tộc thiểu số do Ủy ban nhân dân tỉnh phê duyệt; trường hợp khoá học có nhiều người truyền dạy cùng tham gia truyền dạy thì người truyền dạy phải thực hiện truyền dạy theo đúng nội dung chương trình bài học được phân công tại Biểu phân công nhiệm vụ người truyền dạy và được đơn vị tổ chức lớp học tiếng dân tộc thiểu số nghiệm thu
+Từ khóa: Không có thông tin
+Mô tả: a) Trường hợp hỗ trợ tiền cho người truyền dạy để mua sắm 01 bộ trang phục dân tộc: Người truyền dạy có tên trong Biểu phân công nhiệm vụ người truyền dạy kèm theo Quyết định mở lớp học của đơn vị tổ chức lớp học tiếng dân tộc thiểu số.
+b) Trường hợp hỗ trợ tiền thù lao cho người truyền dạy: Người truyền dạy thực hiện truyền dạy theo đúng nội dung chương trình của Tài liệu truyền dạy tiếng dân tộc thiểu số do Ủy ban nhân dân tỉnh phê duyệt; trường hợp khoá học có nhiều người truyền dạy cùng tham gia truyền dạy thì người truyền dạy phải thực hiện truyền dạy theo đúng nội dung chương trình bài học được phân công tại Biểu phân công nhiệm vụ người truyền dạy và được đơn vị tổ chức lớp học tiếng dân tộc thiểu số nghiệm thu

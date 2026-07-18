@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010456
+Số quyết định: 2318/QĐ-UBND
+Tên thủ tục: Giải quyết chế độ mai táng phí đối với dân công hỏa tuyến tham gia kháng chiến chống Pháp, chống Mỹ, chiến tranh bảo vệ Tổ quốc và làm nhiệm vụ quốc tế hưởng trợ cấp theo Quyết định số 49/2015/QĐ-TTg của Thủ tướng Chính phủ 
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    - Bước 1: Tổ chức, cá nhân hoàn thiện hồ sơ theo hướng dẫn và nộp hồ sơ trực tuyến trên Cổng dịch vụ công hoặc nộp trực tiếp tại Trung tâm Phục vụ hành chính công cấp xã hoặc gửi hồ sơ qua đường bưu điện.
+    - Bước 2: Trung tâm Phục vụ hành chính công  tiếp nhận hồ sơ (yêu cầu bổ sung, hoàn thiện nếu hồ sơ chưa đầy đủ); chuyển Sở Nội vụ thẩm định.
+    - Bước 3: Sở Nội vụ rà soát, xem xét ban hành Quyết định giải quyết chuyển cấp xã trả kết quả.
+    - Bước 4: Trung tâm Phục vụ hành chính công cấp xã trả kết quả cho tổ chức, công dân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 10 ngày làm việc
+- Tại UBND cấp xã: 02 ngày làm việc.
+- Sở Nội vụ: 8 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ đến khi có kết quả xử lý hồ sơ).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 10 ngày làm việc
+- Tại UBND cấp xã: 02 ngày làm việc.
+- Sở Nội vụ: 8 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ đến khi có kết quả xử lý hồ sơ).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 10 ngày làm việc
+- Tại UBND cấp xã: 02 ngày làm việc.
+- Sở Nội vụ: 8 ngày làm việc (kể từ ngày nhận đủ hồ sơ hợp lệ đến khi có kết quả xử lý hồ sơ).
+
+Thành phần hồ sơ:
+    - 1. Bản khai theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2. Bản sao Giấy chứng tử;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 3. Quyết định hưởng trợ cấp một lần theo Quyết định số 49/2015/QĐ-TTg (Bản sao kèm bản chính để đối chiếu);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4. Công văn đề nghị giải quyết chế độ mai táng phí theo Nghị định số 150/2006/NĐ-CP của phường, quận (theo mẫu 2b, 3b, 4b).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Sở Nội vụ TP.Đà Nẵng
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: 1. Quyết định hành chính
+Căn cứ pháp lý:
+  * Hướng dẫn thực hiện Quyết định số 49/2015/QĐ-TTg ngày 14 tháng 10 năm 2015 của Thủ tướng Chính phủ về một số chế độ, chính sách đối với dân công hỏa tuyến tham gia kháng chiến chống Pháp, chống Mỹ, chiến tranh bảo vệ Tổ quốc và làm nhiệm vụ quốc tế (138/2015/TTLT-BQP-BLĐBXH-BTC)
+  * Về một số chế độ, chính sách đối với dân công hỏa tuyến tham gia kháng chiến chống Pháp, chống Mỹ, chiến tranh bảo vệ Tổ quốc và làm nhiệm vụ quốc tế (49/2015/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có
