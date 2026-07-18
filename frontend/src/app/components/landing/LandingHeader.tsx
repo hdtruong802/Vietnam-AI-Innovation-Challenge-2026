@@ -6,9 +6,17 @@ interface LandingHeaderProps {
   onGoCopilot: () => void;
   onComingSoon: (text: string) => void;
   onLogin: () => void;
+  isAuthenticated: boolean;
+  onLogout: () => void;
 }
 
-export default function LandingHeader({ onGoCopilot, onComingSoon, onLogin }: LandingHeaderProps) {
+export default function LandingHeader({
+  onGoCopilot,
+  onComingSoon,
+  onLogin,
+  isAuthenticated,
+  onLogout,
+}: LandingHeaderProps) {
   return (
     <header className="w-full bg-white border-b border-border-slate shadow-sm shrink-0 relative overflow-hidden">
       <div className="absolute top-0 left-0 w-full h-[3px] bg-gradient-to-r from-gov-gold via-gov-red to-gov-gold" />
@@ -23,7 +31,6 @@ export default function LandingHeader({ onGoCopilot, onComingSoon, onLogin }: La
           />
         </div>
 
-        {/* Navigation Links */}
         <nav className="hidden lg:flex items-center gap-6 text-xs font-bold text-foreground/75">
           <button className="text-gov-red hover:text-gov-red-hover border-b border-gov-red pb-1">Trang chủ</button>
           <button className="hover:text-gov-red pb-1 transition-colors" onClick={() => onComingSoon("Giới thiệu hệ thống dịch vụ công đang được cập nhật.")}>Giới thiệu</button>
@@ -33,14 +40,20 @@ export default function LandingHeader({ onGoCopilot, onComingSoon, onLogin }: La
           <button className="hover:text-gov-red pb-1 transition-colors" onClick={() => onComingSoon("Tổng đài hỗ trợ 1900 1234 phục vụ 24/7.")}>Hỗ trợ</button>
         </nav>
 
-        {/* Auth Button */}
         <div className="flex items-center gap-3">
-          <button
-            onClick={onLogin}
-            className="px-4 py-2 bg-gov-red text-white text-xs font-bold rounded-lg hover:bg-gov-red-hover transition-all shadow-sm"
-          >
-            Đăng nhập
-          </button>
+          {isAuthenticated ? (
+            <>
+              <button onClick={onGoCopilot} className="px-4 py-2 bg-gov-red text-white text-xs font-bold rounded-lg hover:bg-gov-red-hover transition-all shadow-sm">Vào Copilot</button>
+              <button onClick={onLogout} className="px-3 py-2 text-xs font-bold text-foreground/70 hover:text-gov-red">Đăng xuất</button>
+            </>
+          ) : (
+            <button
+              onClick={onLogin}
+              className="px-4 py-2 bg-gov-red text-white text-xs font-bold rounded-lg hover:bg-gov-red-hover transition-all shadow-sm"
+            >
+              Đăng nhập
+            </button>
+          )}
         </div>
       </div>
     </header>

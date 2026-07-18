@@ -29,9 +29,9 @@ Decision Log lưu các quyết định liên lane hoặc khó đảo ngược: s
 | D-013 | Accepted | Production hardening local, fail closed trước K1 | `local-20260718-production-hardening-p0` | 2026-07-18 |
 | D-014 | Accepted | Synthetic approved family release cho demo local | `local-20260718-demo-family-release` | 2026-07-18 |
 | D-015 | Accepted | Ngoại lệ bảng màu đỏ-vàng cho landing page marketing, tách biệt VNGov Copilot Navy & Orange | `local-20260718-landing-page-red-gold` | 2026-07-18 |
-| D-016 | Accepted | Tích hợp direct web-to-API, giữ production fail-closed trước K1 | `local-20260718-main-ci-api-integration` | 2026-07-18 |
-| D-017 | Accepted | Structure-aware chunking contract cho ba procedure pack MVP | `local-20260718-chunking-phase-0`, `local-20260718-chunking-phase-1` | 2026-07-18 |
-| D-018 | Accepted | Prototype read models cho sáu route base và hai route RAG additive | `local-20260718-prototype-api-contract` | 2026-07-18 |
+| D-016 | Accepted | Direct web-to-API integration, production fail-closed before K1 | `local-20260718-main-ci-api-integration` | 2026-07-18 |
+| D-017 | Cancelled, superseded by D-018 | Account-based demo login proposal; not implemented | `local-20260718-seeded-auth` | 2026-07-18 |
+| D-018 | Accepted | One-click client-side demo gate, no account or backend auth | `local-20260718-seeded-auth` | 2026-07-18 |
 
 ---
 
@@ -390,7 +390,44 @@ Không có migration, cloud state, secret hoặc API contract cần thu hồi.
 
 ---
 
-## D-017 — Structure-aware chunking contract cho ba procedure pack MVP
+## D-017 — Đề xuất đăng nhập tài khoản cho demo (đã dừng)
+
+- **Trạng thái:** Superseded by D-018
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** hdtruong802 / Codex
+- **Phạm vi:** API / dependency / deploy / demo — không triển khai
+- **Task Record:** `local-20260718-seeded-auth`
+- **Peer xác nhận:** user — dừng phương án này trước khi tạo resource hay account.
+
+### Kết quả
+
+Phương án bị dừng trước khi tạo resource, user, credential, migration hoặc public API. D-018 thay thế bằng demo gate client-side không có account/backend auth.
+
+---
+
+## D-018 — Demo gate client-side một chạm
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** hdtruong802 / Codex
+- **Phạm vi:** UI / demo / privacy
+- **Task Record:** `local-20260718-seeded-auth`
+- **Peer xác nhận:** user — xác nhận dừng toàn bộ tạo tài khoản và dùng nút “Vào demo ngay”.
+
+### Quyết định
+
+- Modal login giữ form username/password để định hướng UX, nhưng form không gọi API và thông báo tài khoản chưa mở trong demo.
+- CTA “Vào demo ngay” tạo `sessionStorage` local cho profile cố định `demo-guest` / `Khách demo`, rồi mở Copilot.
+- Session chỉ tồn tại trong tab; logout xóa session và quay về landing. Không lưu PII, mật khẩu, token, transcript hay draft lên backend.
+- Backend Cloud Run không đổi: không thêm endpoint auth, database, secret, JWT, Cloud Run Job hay Cloud SQL. Data/RAG/LLM vẫn disabled và fail-closed.
+
+### Rollback / giới hạn
+
+Xóa demo session để quay về landing. Đây là gate UX cho demo, không phải xác thực/bảo mật; auth thật cần Decision, privacy review và scope mới.
+
+---
+
+## Mẫu quyết định mới
 
 - **Trạng thái:** Accepted
 - **Ngày:** 2026-07-18

@@ -17,6 +17,7 @@ import ChecklistPanel from "./checklist/ChecklistPanel";
 import DynamicFormRenderer from "./form/DynamicFormRenderer";
 import PrecheckPanel from "./validation/PrecheckPanel";
 import OfficialReviewCard from "./trust/OfficialReviewCard";
+import type { AuthUser } from "@/features/auth/types";
 
 const VNGovLogo = ({ className = "w-8 h-8" }: { className?: string }) => (
   <svg className={className} viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -29,16 +30,18 @@ const VNGovLogo = ({ className = "w-8 h-8" }: { className?: string }) => (
 
 interface ProcedureWorkspaceProps {
   onGoLanding: () => void;
-  onOpenComingSoon: (text: string) => void;
   initialMessage?: string;
   initialProcedureId?: string;
+  user?: AuthUser;
+  onLogout: () => void;
 }
 
 export default function ProcedureWorkspace({
   onGoLanding,
-  onOpenComingSoon,
   initialMessage,
   initialProcedureId,
+  user,
+  onLogout,
 }: ProcedureWorkspaceProps) {
   const { state, actions } = useProcedureCase(initialMessage, initialProcedureId);
   const [activeLeftTab, setActiveLeftTab] = useState<"chat" | "checklist">("chat");
@@ -110,12 +113,14 @@ export default function ProcedureWorkspace({
             {state.availability.backendReachable ? "Hệ thống kết nối" : "Mất kết nối"}
           </div>
 
-          <button
-            type="button"
-            onClick={() => onOpenComingSoon("Tài khoản người dùng đang đăng nhập.")}
-            className="w-8 h-8 rounded-full bg-neutral-bg border border-border-slate flex items-center justify-center font-bold text-xs text-primary shadow-sm hover:bg-zinc-100 transition-all"
-          >
-            NT
+          <div className="hidden text-right sm:block">
+            <p className="text-xs font-bold text-primary">{user?.display_name ?? "Người dùng"}</p>
+            <button type="button" onClick={onLogout} className="text-[10px] font-semibold text-foreground/60 hover:text-gov-red">
+              Đăng xuất
+            </button>
+          </div>
+          <button type="button" onClick={onLogout} className="h-8 w-8 rounded-full border border-border-slate bg-neutral-bg text-xs font-bold text-primary shadow-sm transition-all hover:bg-zinc-100" aria-label="Đăng xuất">
+            {(user?.display_name ?? "ND").slice(0, 2).toUpperCase()}
           </button>
         </div>
       </header>
