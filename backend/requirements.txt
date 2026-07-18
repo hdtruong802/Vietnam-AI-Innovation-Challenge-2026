@@ -6,9 +6,8 @@ pydantic-settings>=2.0.0
 python-dotenv>=1.0.0
 httpx>=0.25.0
 
-# LLM Gateway (provider-neutral, optional): chi duoc import khi AI_API_KEY
-# duoc cau hinh (xem app/services/llm/gateway.py, D-011). Thieu package nay
-# van chay duoc, gateway se fallback deterministic offline.
+# LLM Gateway: SDK phai co de RAG router import duoc. Khi thieu API key hoac
+# evidence, runtime van fail closed va khong goi provider.
 openai>=1.40.0
 
 # Testing and development
