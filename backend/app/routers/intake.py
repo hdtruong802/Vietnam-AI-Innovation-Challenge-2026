@@ -1,13 +1,28 @@
-from fastapi import APIRouter, HTTPException
-from app.models.intake import IntakeRequest, IntakeResponse
-from app.services.intake_service import IntakeService
+from fastapi import APIRouter, Depends
 
-router = APIRouter(prefix="/v1")
+from app.dependencies import get_copilot_service
+from app.models.intake import (
+    IntakeRequest,
+    IntakeResponse,
+    RecommendationRequest,
+    RecommendationResponse,
+)
+from app.services.copilot_service import CopilotService
+
+router = APIRouter(prefix="/v1", tags=["intake"])
+
+
+@router.post("/procedures/recommend", response_model=RecommendationResponse)
+async def recommend_procedure(
+    request: RecommendationRequest,
+    service: CopilotService = Depends(get_copilot_service),
+) -> RecommendationResponse:
+    return await service.recommend(request)
 
 
 @router.post("/intake/turn", response_model=IntakeResponse)
-def intake_turn(request: IntakeRequest):
-    if not request.messages:
-        raise HTTPException(status_code=400, detail="Messages list cannot be empty")
-
-    return IntakeService.handle_turn(request)
+async def intake_turn(
+    request: IntakeRequest,
+    service: CopilotService = Depends(get_copilot_service),
+) -> IntakeResponse:
+    return await service.intake(request)

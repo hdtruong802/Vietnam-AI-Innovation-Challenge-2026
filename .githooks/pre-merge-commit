@@ -1,0 +1,7 @@
+#!/bin/sh
+python scripts/ai_log/ai_log.py hook pre-commit --operation merge
+status=$?
+if [ "$status" -ne 0 ]; then
+  echo "AI Log warning: merge capture failed unexpectedly; merge continues." >&2
+fi
+exit 0

@@ -1,0 +1,91 @@
+%%{init: {"theme":"base","themeVariables":{"actorBkg":"#F8FAFC","actorBorder":"#64748B","actorTextColor":"#0F172A","signalColor":"#334155","signalTextColor":"#0F172A","labelBoxBkgColor":"#FFF7ED","labelBoxBorderColor":"#FB923C","labelTextColor":"#7C2D12","noteBkgColor":"#FEFCE8","noteBorderColor":"#EAB308","noteTextColor":"#422006","activationBkgColor":"#DBEAFE","activationBorderColor":"#2563EB"},"sequence":{"mirrorActors":true,"useMaxWidth":false,"wrap":true,"diagramMarginX":20,"diagramMarginY":10,"actorMargin":50,"width":170,"height":55,"boxMargin":10,"boxTextMargin":5,"noteMargin":10,"messageMargin":32}}}%%
+sequenceDiagram
+    autonumber
+    actor U as Người dân
+
+    box rgb(236,254,255) FE - Nhúng vào Portal
+        participant W as Embeddable Widget / Chatbot<br/>(script tag / iframe / API)
+    end
+
+    box rgb(255,247,237) BE - Orchestration
+        participant G as API Gateway (auth nhẹ)
+        participant O as Orchestrator
+        participant PG as PII Guard<br/>(tokenize tại biên, in-memory, session-scoped)
+        participant L as LLM Gateway (external API - hỗ trợ multi-turn)
+        participant RULE as Validation Rule Engine<br/>(field-level + data-conflict, nội bộ)
+        participant LOG as Log đơn giản<br/>(chỉ lưu bản đã redact)
+    end
+
+    box rgb(240,253,244) Knowledge Base
+        participant KB as Procedure KB<br/>(ingest từ dichvucong.gov.vn)
+        participant EX as Mẫu đơn ví dụ đã điền
+    end
+
+    Note over KB,EX: OFFLINE - Ingestion trước demo:<br/>Scrape 2-3 thủ tục cụ thể (giấy phép XD, đăng ký hộ khẩu, khai sinh)<br/>từ dichvucong.gov.vn + catalog mẫu đơn theo lĩnh vực
+
+    rect rgb(219,234,254)
+    Note over U,LOG: CAPABILITY 1 - GUIDED INTAKE
+    U->>W: Mô tả nhu cầu bằng ngôn ngữ tự nhiên<br/>("tôi muốn xin giấy phép xây dựng nhà ở")
+    W->>G: Gửi request
+    G->>O: Forward (auth + rate limit)
+    O->>KB: Truy vấn thủ tục liên quan
+    KB-->>O: Thông tin thủ tục + danh sách giấy tờ chuẩn
+    O->>EX: Lấy mẫu đơn ví dụ đã điền cho thủ tục này
+    EX-->>O: Ví dụ minh hoạ
+
+    Note over O,PG: Câu mô tả tự do có thể vô tình chứa PII (vd "tôi tên là...")<br/>Regex-mask trước khi log, KHÔNG bắt buộc tokenize trước khi gửi LLM<br/>(free-text không có field rõ để tách - stretch goal, ngoài phạm vi bắt buộc)
+
+    O->>+L: LLM call - structured output<br/>{intent, missing_info[], clarifying_question?, checklist, steps, examples}
+    L-->>-O: JSON output
+
+    loop Đến khi đủ thông tin để tư vấn chính xác
+        alt Còn thiếu thông tin quan trọng (vd loại hình nhà, tỉnh/thành, diện tích)
+            O->>W: Câu hỏi làm rõ
+            W-->>U: Hiển thị câu hỏi
+            U->>W: Trả lời bổ sung
+            W->>O: Gửi câu trả lời
+            O->>L: Gọi lại LLM với ngữ cảnh mới
+            L-->>O: JSON output cập nhật
+        end
+    end
+    O->>W: Checklist giấy tờ + quy trình từng bước + ví dụ minh hoạ + citations
+    W-->>U: Hiển thị hướng dẫn chi tiết
+    end
+
+    rect rgb(220,252,231)
+    Note over U,LOG: CAPABILITY 2 - PRE-SUBMISSION CHECKING
+    U->>W: Điền form có cấu trúc theo field cụ thể<br/>(họ tên, ngày sinh, số CCCD, diện tích...)
+    W->>G: Gửi dữ liệu form (RAW - có PII)
+    G->>O: Forward nội bộ (chưa rời hệ thống)
+
+    O->>RULE: Field-level check TRÊN DỮ LIỆU GỐC<br/>(nội bộ, không gọi ra ngoài, an toàn với PII)
+    RULE-->>O: Lỗi field-level (thiếu/sai định dạng)
+
+    rect rgb(254,226,226)
+    Note over O,PG: KHẮC PHỤC RỦI RO PII - chặn tại biên trước khi ra khỏi hệ thống
+    O->>+PG: Yêu cầu tokenize direct identifiers<br/>(Họ tên, Số CCCD, SĐT, địa chỉ chi tiết)
+    PG->>PG: Thay bằng token tạm {{PII_NAME_1}}, {{PII_ID_1}}...<br/>Mapping CHỈ lưu trong memory phiên, TTL = thời gian phiên,<br/>KHÔNG ghi xuống DB/disk
+    PG-->>-O: Payload đã tokenize<br/>(giữ nguyên field không định danh: ngày sinh, diện tích, loại hình<br/>để AI vẫn check logic/conflict được)
+    end
+
+    O->>+L: LLM call (external API) - kiểm tra data-conflict<br/>TRÊN DỮ LIỆU ĐÃ TOKENIZE, không phải giá trị thật
+    L-->>-O: Danh sách conflict + gợi ý sửa (tham chiếu bằng token)
+
+    O->>+PG: Yêu cầu de-tokenize để hiển thị đúng cho người dùng
+    PG-->>-O: Payload đã khôi phục giá trị thật<br/>(chỉ tồn tại trong response, không log)
+
+    O->>W: Tổng hợp lỗi field-level + conflict + suggested fixes
+    W-->>U: Hiển thị lỗi kèm hướng dẫn sửa
+
+    opt Người dùng sửa và muốn check lại
+        U->>W: Cập nhật thông tin đã sửa
+        W->>O: Gửi lại để check
+        Note over O,RULE: Lặp lại toàn bộ chu trình tokenize -> check -> de-tokenize
+    end
+    end
+
+    O->>LOG: Ghi log tương tác<br/>CHỈ lưu bản đã redact/tokenize<br/>KHÔNG lưu giá trị PII gốc, KHÔNG lưu bảng ánh xạ token
+
+    Note over U,W: CAPABILITY 3 - SEAMLESS INTEGRATION<br/>Toàn bộ W là 1 widget nhúng độc lập:<br/>portal chỉ cần chèn 1 script tag hoặc gọi 1 REST API endpoint,<br/>không yêu cầu người dân cài app mới
+
+    Note over PG: Giới hạn phạm vi 48h:<br/>PII Guard = module code nhẹ (regex + dict in-memory),<br/>chưa cần KMS/Vault persistent.

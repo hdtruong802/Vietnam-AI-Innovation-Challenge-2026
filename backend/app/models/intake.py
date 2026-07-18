@@ -1,15 +1,32 @@
+from __future__ import annotations
+
 from pydantic import BaseModel, Field
-from typing import List, Dict, Optional
-from app.models.common import Message
+
+from app.models.common import ClarifyingQuestion, RegulatoryResponse, SessionContext
+from app.models.procedure import ProcedureCandidate
+
+
+class RecommendationRequest(BaseModel):
+    need_text: str = Field(min_length=1, max_length=500)
+    session_context: SessionContext = Field(default_factory=SessionContext)
+
+
+class RecommendationResponse(RegulatoryResponse):
+    candidates: list[ProcedureCandidate] = Field(default_factory=list, max_length=3)
+    clarifying_questions: list[ClarifyingQuestion] = Field(default_factory=list)
+    message_plain: str = Field(min_length=1, max_length=1_000)
+
 
 class IntakeRequest(BaseModel):
-    session_id: str = Field(..., description="Unique browser session ID")
-    messages: List[Message] = Field(..., description="Chat message history")
-    current_procedure_id: Optional[str] = Field(None, description="Currently detected procedure ID")
+    session_id: str = Field(min_length=1, max_length=128)
+    message: str = Field(min_length=1, max_length=500)
+    session_context: SessionContext = Field(default_factory=SessionContext)
 
-class IntakeResponse(BaseModel):
-    detected_procedure_id: Optional[str] = Field(None, description="Detected procedure ID")
-    message: str = Field(..., description="Reply from the copilot (questions or guidance)")
-    trust_state: str = Field(..., description="verified_guidance | need_more_information | official_review_required")
-    required_clarifications: List[str] = Field(default_factory=list, description="Pending clarifying questions")
-    sources: List[Dict[str, str]] = Field(default_factory=list, description="Citations and source references")
+
+class IntakeResponse(RegulatoryResponse):
+    session_id: str
+    detected_procedure_id: str | None = None
+    procedure: ProcedureCandidate | None = None
+    message_plain: str = Field(min_length=1, max_length=1_000)
+    clarifying_questions: list[ClarifyingQuestion] = Field(default_factory=list)
+    proposed_session_context: SessionContext = Field(default_factory=SessionContext)

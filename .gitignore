@@ -46,6 +46,9 @@ artifacts/
 *.tmp
 *.temp
 
+# AI Log machine-local bindings, checkpoints and generated indexes.
+.ai-log/
+
 # Editor and operating-system files
 .idea/
 .vscode/*
@@ -62,6 +65,3 @@ Thumbs.db
 .impeccable/cache/
 .impeccable/live/
 .impeccable/*.png
-
-# Local-only material for internal team presentation and notes.
-.temp_docs/

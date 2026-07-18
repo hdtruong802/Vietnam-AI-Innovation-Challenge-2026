@@ -38,7 +38,7 @@ Người có quyền quản trị cấu hình trong **Settings → Rules** (Rule
 2. Tạo rule cho `main`: yêu cầu pull request, ít nhất 1 approval, hội thoại đã resolve, chặn direct push, force-push và xóa nhánh.
 3. Tạo rule cho `dev`: yêu cầu pull request, chặn direct push, force-push và xóa nhánh. Không bắt buộc approval toàn cục vì review phụ thuộc `risk` theo policy ở trên.
 4. Bật tự động xóa head branch sau merge nếu giao diện GitHub cho phép.
-5. **Không bật “Require status checks”** cho đến khi workflow `repository-guard` đã nằm trên branch đích và check đó đã chạy xanh ít nhất một lần. Khi đó thêm đúng check `repository-guard`; CI ứng dụng được bổ sung khi stack đã chốt.
+5. **Không bật “Require status checks”** cho đến khi workflow `repository-guard` đã nằm trên branch đích và check đó đã chạy xanh ít nhất hai lần. Khi đó thêm đúng check tổng hợp `repository-guard`; các job frontend/backend/data có thể thay đổi theo diff nhưng check tổng hợp luôn tồn tại.
 6. Tạo các nhãn đúng theo [LABELS.md](LABELS.md). Người tạo Issue bổ sung `priority`, `area`, `status` và `risk` trước khi bắt đầu.
 
 ## Đồng bộ có kiểm soát sau khi publish

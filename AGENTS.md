@@ -31,6 +31,7 @@ Nếu thiếu Goal, Success Criteria hoặc Stopping Conditions, dừng: nêu đ
 - Trước khi sửa, kiểm tra `git status --short --branch`, base ref, Context Pack, vùng files/API/resources đã claim và thay đổi đang tồn tại.
 - Không sửa cùng working tree có thay đổi chưa commit của peer. Dùng branch/worktree hoặc clone riêng; không copy `.env`, token, ignored data hay file local sang worktree khác.
 - Không đưa secret, token, dữ liệu nhạy cảm, dữ liệu doanh nghiệp thô hoặc file model lớn vào Git, Task Record, Issue, PR, prompt hay log.
+- Mỗi clone/worktree dùng AI Log phải chạy onboarding local một lần và `doctor --strict`; sau đó chỉ ghi `UserPrompt` đã sanitize từ source được bind rõ với repo hoặc manual stdin. Không ghi assistant response, system/developer prompt, tool traffic, chain-of-thought, transcript/session file, screenshot hoặc absolute source path; hook commit không cấp quyền tự push.
 - Giữ adapter theo tool mỏng và cùng trỏ về protocol chung; không thêm native skill, MCP config hoặc quyền riêng theo vendor trong bootstrap.
 - Không tự ý thay đổi shared API, schema, dependency, deploy flow hoặc demo flow. Ghi Decision Log và nhận xác nhận của peer theo mức `risk` trước khi implement.
 - Không push, force-push, merge PR, thay đổi GitHub settings hoặc xóa lịch sử Git trừ khi yêu cầu hiện tại cho phép rõ ràng.
@@ -64,6 +65,7 @@ Files, API và resources đã chạm:
 Kiểm tra đã chạy + kết quả:
 Risk / rollback / phần chưa kiểm chứng:
 Resource claims đã release:
+AI-Log ID + tools/capture status (nếu đã bật):
 Việc tiếp theo hoặc handoff cho peer:
 ```
 

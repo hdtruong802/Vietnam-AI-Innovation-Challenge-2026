@@ -71,4 +71,3 @@
   - `tasks.txt`
 - Claims đã release: Đã release toàn bộ files/resources đã claim.
 - Việc tiếp theo hoặc peer có thể tiếp nhận: Viết schema chi tiết cho 3 procedure packs và cấu hình sqlite/postgres vector database.
-

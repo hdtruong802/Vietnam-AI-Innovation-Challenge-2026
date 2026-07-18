@@ -7,7 +7,7 @@
 - **Visual direction:** `TBD`
 - **Information density:** `TBD`
 - **Hierarchy and emphasis:** `TBD`
-- **Responsive strategy:** `TBD`
+- **Web app / portal-container strategy:** `TBD`
 
 ## Tokens
 
@@ -16,7 +16,7 @@
 | Color | `TBD` | Chưa chọn palette/semantic colors. |
 | Spacing | `TBD` | Chưa chọn scale. |
 | Radius, border and shadow | `TBD` | Chưa chọn surface language. |
-| Size and breakpoints | `TBD` | Chưa chọn platform/layout grid. |
+| Size and portal-container widths | `TBD` | Chưa chọn web layout grid hoặc embed-container rules. |
 | Iconography and assets | `TBD` | Chưa chọn library hoặc asset policy. |
 
 ## Typography
@@ -36,8 +36,8 @@
 
 - **Page shell and navigation:** `TBD`
 - **Grid, alignment and spacing rhythm:** `TBD`
-- **Responsive breakpoints and overflow behavior:** `TBD`
-- **Content priority on small screens:** `TBD`
+- **Portal-container widths, iframe resizing and overflow behavior:** `TBD`
+- **Content priority khi widget bị giới hạn chiều rộng/chiều cao:** `TBD`
 
 ## Motion
 

@@ -16,4 +16,3 @@ A working live demo accessible via a public URL, not a mockup. The minimum user 
 
 How We Will Be Judged
 The evaluation will focus on four areas. Accuracy and completeness of guidance compared to current regulations. The ability to detect errors and omissions in the user's filled-in application. Feasibility of integration into existing public-service systems, with a concrete pilot roadmap. And the overall user experience for non-technical citizens.
-

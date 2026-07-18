@@ -1,0 +1,65 @@
+name: Promote release candidate
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_run_id:
+        description: Successful dev CI run that produced release-candidate
+        required: true
+        type: string
+      confirmation:
+        description: Enter PROMOTE after peer review of the candidate evidence
+        required: true
+        type: string
+
+permissions:
+  actions: read
+  contents: read
+
+concurrency:
+  group: promote-release-candidate-main
+  cancel-in-progress: false
+
+jobs:
+  promote:
+    name: promote-candidate
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Check promotion confirmation
+        shell: bash
+        run: |
+          if [ "${{ inputs.confirmation }}" != "PROMOTE" ]; then
+            echo "Promotion requires the exact confirmation value PROMOTE." >&2
+            exit 1
+          fi
+
+      - name: Check out selected main commit
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 1
+
+      - name: Download selected dev candidate
+        uses: actions/download-artifact@v6
+        with:
+          name: release-candidate
+          run-id: ${{ inputs.source_run_id }}
+          github-token: ${{ github.token }}
+          path: ${{ runner.temp }}/release-candidate
+
+      - name: Verify source tree and artifact digests
+        shell: bash
+        run: |
+          python scripts/ci/release_manifest.py verify \
+            --manifest "$RUNNER_TEMP/release-candidate/release-manifest.json" \
+            --artifacts "$RUNNER_TEMP/release-candidate" \
+            --expected-tree "$(git rev-parse HEAD^{tree})"
+
+      - name: Preserve production candidate
+        uses: actions/upload-artifact@v7
+        with:
+          name: production-candidate-${{ github.sha }}
+          path: ${{ runner.temp }}/release-candidate
+          if-no-files-found: error
+          retention-days: 14
