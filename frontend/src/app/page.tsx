@@ -3,6 +3,12 @@
 import React, { useState, useEffect, useRef } from "react";
 import ChecklistSidebar from "./components/ChecklistSidebar";
 
+import trongDongImg from "@/image/trongdong.jpg";
+import hoaSenImg from "@/image/hoasen.png";
+import quocHuyImg from "@/image/quochuy.png";
+import dvcImg from "@/image/dvc.png";
+import trongDong3Img from "@/image/trongdong3.png";
+
 // Simple client-side UUID generator
 const generateUUID = () => {
   return "session_" + Math.random().toString(36).substring(2, 15) + Math.random().toString(36).substring(2, 15);
@@ -66,36 +72,141 @@ interface ValidationResponse {
 
 const TrongDongPattern = ({ className }: { className?: string }) => (
   <svg className={className} viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="200" cy="200" r="25" stroke="currentColor" strokeWidth="1.5" strokeDasharray="4 4" />
-    <path d="M200 135L200 175M200 225L200 265M135 200L175 200M225 200L265 200M154 154L182 182M218 218L246 246M154 246L182 218M218 182L246 154" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
-    <circle cx="200" cy="200" r="50" stroke="currentColor" strokeWidth="1" />
-    <circle cx="200" cy="200" r="80" stroke="currentColor" strokeWidth="0.75" strokeDasharray="6 3" />
-    <circle cx="200" cy="200" r="110" stroke="currentColor" strokeWidth="1.5" />
-    <circle cx="200" cy="200" r="140" stroke="currentColor" strokeWidth="0.75" strokeDasharray="8 4" />
-    <circle cx="200" cy="200" r="170" stroke="currentColor" strokeWidth="2.5" />
-    <circle cx="200" cy="200" r="125" stroke="currentColor" strokeWidth="0.75" opacity="0.3" />
-    <g opacity="0.45" stroke="currentColor" strokeWidth="1" fill="none">
-      <path d="M280 120 C270 125, 260 120, 255 110 C260 108, 270 110, 280 120 Z" />
-      <path d="M255 110 L240 100" />
-      <path d="M120 280 C125 270, 120 260, 110 255 C108 260, 110 270, 120 280 Z" />
-      <path d="M110 255 L100 240" />
-      <path d="M120 120 C125 125, 120 135, 110 140 C108 135, 110 125, 120 120 Z" />
-      <path d="M280 280 C275 275, 270 280, 265 290 C270 292, 275 288, 280 280 Z" />
+    <defs>
+      <radialGradient id="goldGrad" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stopColor="#FFFBEB" stopOpacity="0.8" />
+        <stop offset="35%" stopColor="#F59E0B" stopOpacity="0.65" />
+        <stop offset="70%" stopColor="#D97706" stopOpacity="0.5" />
+        <stop offset="100%" stopColor="#78350F" stopOpacity="0.2" />
+      </radialGradient>
+    </defs>
+
+    {/* Base bronze drum circle */}
+    <circle cx="200" cy="200" r="185" fill="url(#goldGrad)" stroke="#B45309" strokeWidth="2" opacity="0.85" />
+
+    {/* Inner decorative circles */}
+    <circle cx="200" cy="200" r="170" stroke="#FFF" strokeWidth="1" opacity="0.3" />
+    <circle cx="200" cy="200" r="150" stroke="#B45309" strokeWidth="1" strokeDasharray="3 3" opacity="0.7" />
+    <circle cx="200" cy="200" r="135" stroke="#B45309" strokeWidth="1.5" opacity="0.8" />
+    <circle cx="200" cy="200" r="110" stroke="#FFF" strokeWidth="1" opacity="0.25" />
+    <circle cx="200" cy="200" r="95" stroke="#B45309" strokeWidth="1" strokeDasharray="4 2" opacity="0.75" />
+    <circle cx="200" cy="200" r="70" stroke="#B45309" strokeWidth="1.5" opacity="0.8" />
+
+    {/* Central sun with 12 rays */}
+    <circle cx="200" cy="200" r="20" fill="#FCD34D" stroke="#B45309" strokeWidth="1" opacity="0.9" />
+    <g transform="translate(200, 200)">
+      {Array.from({ length: 12 }).map((_, i) => (
+        <path
+          key={i}
+          d="M 0 0 L -4 -22 L 0 -35 L 4 -22 Z"
+          fill="#FFF"
+          stroke="#B45309"
+          strokeWidth="0.5"
+          transform={`rotate(${i * 30})`}
+          opacity="0.9"
+        />
+      ))}
+    </g>
+
+    {/* Concentric motifs: Ring of flying birds (Chim Lạc) */}
+    <g transform="translate(200, 200)">
+      {Array.from({ length: 6 }).map((_, i) => (
+        <g key={i} transform={`rotate(${i * 60})`}>
+          <path
+            d="M 0 -82 C -8 -85 -16 -78 -24 -72 C -20 -68 -12 -73 -4 -73 L -2 -68 L -8 -60 L 2 -63 L 8 -74 Z"
+            fill="#FFF"
+            stroke="#B45309"
+            strokeWidth="0.5"
+            opacity="0.85"
+          />
+        </g>
+      ))}
+    </g>
+
+    {/* Concentric motifs: Ring of running deers */}
+    <g transform="translate(200, 200)">
+      {Array.from({ length: 8 }).map((_, i) => (
+        <g key={i} transform={`rotate(${i * 45})`}>
+          <path
+            d="M 0 -120 Q -4 -123 -8 -118 L -6 -113 L -10 -108 L -5 -110 L 0 -116 Z"
+            fill="#FFF"
+            stroke="#B45309"
+            strokeWidth="0.5"
+            opacity="0.8"
+          />
+        </g>
+      ))}
+    </g>
+
+    {/* Outer geometric sawtooth patterns */}
+    <g transform="translate(200, 200)">
+      {Array.from({ length: 48 }).map((_, i) => (
+        <path
+          key={i}
+          d="M 0 -160 L -2.5 -165 L 2.5 -165 Z"
+          fill="#FCD34D"
+          stroke="#B45309"
+          strokeWidth="0.5"
+          transform={`rotate(${i * 7.5})`}
+          opacity="0.75"
+        />
+      ))}
     </g>
   </svg>
 );
 
 const LotusFlowerPattern = ({ className }: { className?: string }) => (
   <svg className={className} viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <g stroke="currentColor" strokeWidth="1.25" fill="none" opacity="0.35">
-      <path d="M100 50 C90 70, 90 120, 100 150 C110 120, 110 70, 100 50 Z" />
-      <path d="M100 80 C70 90, 50 110, 60 140 C75 140, 90 120, 100 100" />
-      <path d="M100 100 C50 110, 30 130, 45 155 C65 150, 85 130, 100 115" />
-      <path d="M100 80 C130 90, 150 110, 140 140 C125 140, 110 120, 100 100" />
-      <path d="M100 100 C150 110, 170 130, 155 155 C135 150, 115 130, 100 115" />
-      <path d="M60 160 C75 175, 125 175, 140 160" />
-      <path d="M40 170 C65 190, 135 190, 160 170" />
+    <defs>
+      <linearGradient id="lotusPink" x1="0%" y1="100%" x2="0%" y2="0%">
+        <stop offset="0%" stopColor="#BE185D" />
+        <stop offset="50%" stopColor="#EC4899" />
+        <stop offset="100%" stopColor="#FBCFE8" />
+      </linearGradient>
+      <linearGradient id="leafGreen" x1="0%" y1="100%" x2="0%" y2="0%">
+        <stop offset="0%" stopColor="#065F46" />
+        <stop offset="100%" stopColor="#10B981" />
+      </linearGradient>
+    </defs>
+
+    {/* Green lotus leaves in the background */}
+    <path d="M40 150 C 20 120, 80 100, 100 130 C 120 100, 180 120, 160 150 C 140 180, 60 180, 40 150 Z" fill="url(#leafGreen)" opacity="0.85" stroke="#047857" strokeWidth="0.75" />
+    <path d="M10 130 C -10 100, 50 80, 70 110 C 90 80, 150 100, 130 130 Z" fill="url(#leafGreen)" opacity="0.6" transform="scale(0.8) translate(30, 40)" />
+
+    {/* Beautiful layered pink lotus petals */}
+    <g fill="url(#lotusPink)" stroke="#9D174D" strokeWidth="0.5">
+      <path d="M100 60 C80 90, 60 120, 100 150 C140 120, 120 90, 100 60 Z" />
+      <path d="M100 70 C70 95, 50 120, 90 145 C130 120, 110 95, 100 70 Z" transform="rotate(-25, 100, 145)" />
+      <path d="M100 70 C70 95, 50 120, 90 145 C130 120, 110 95, 100 70 Z" transform="rotate(25, 100, 145)" />
+      <path d="M100 80 C60 105, 40 130, 85 145 C130 130, 110 105, 100 80 Z" transform="rotate(-50, 100, 145)" />
+      <path d="M100 80 C60 105, 40 130, 85 145 C130 130, 110 105, 100 80 Z" transform="rotate(50, 100, 145)" />
     </g>
+
+    {/* Front petals */}
+    <g fill="#FBCFE8" stroke="#BE185D" strokeWidth="0.5" opacity="0.95">
+      <path d="M100 90 C85 110, 75 130, 100 148 C125 130, 115 110, 100 90 Z" />
+      <path d="M100 95 C88 112, 80 130, 95 146 C110 130, 102 112, 100 95 Z" transform="rotate(-15, 100, 146)" />
+      <path d="M100 95 C88 112, 80 130, 95 146 C110 130, 102 112, 100 95 Z" transform="rotate(15, 100, 146)" />
+    </g>
+
+    {/* Yellow lotus bud / center */}
+    <circle cx="100" cy="138" r="7" fill="#FBBF24" stroke="#D97706" strokeWidth="0.75" />
+    <circle cx="98" cy="136" r="0.75" fill="#78350F" />
+    <circle cx="102" cy="136" r="0.75" fill="#78350F" />
+    <circle cx="100" cy="140" r="0.75" fill="#78350F" />
+  </svg>
+);
+
+const QuocHuyEmblem = ({ className = "w-10 h-10" }: { className?: string }) => (
+  <svg className={className} viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="50" cy="50" r="46" fill="#DA251D" stroke="#D97706" strokeWidth="2.5"/>
+    <circle cx="50" cy="50" r="40" stroke="#FFFF00" strokeWidth="1" strokeDasharray="4 2" opacity="0.6"/>
+    <path d="M22 65 C20 40, 42 22, 50 22 C58 22, 80 40, 78 65" stroke="#D97706" strokeWidth="3" fill="none" strokeLinecap="round" />
+    <path d="M26 65 C24 45, 42 26, 50 26 C58 26, 76 45, 74 65" stroke="#FFFF00" strokeWidth="1.5" fill="none" strokeLinecap="round" opacity="0.9" />
+    <path d="M35 75 L50 68 L65 75 L60 84 L50 81 L40 84 Z" fill="#DA251D" stroke="#FFFF00" strokeWidth="1.5"/>
+    <circle cx="50" cy="66" r="8" fill="#D97706" />
+    <circle cx="50" cy="66" r="5" fill="#DA251D" />
+    <path d="M50 28 L55 43 H70 L58 52 L62 67 L50 58 L38 67 L42 52 L30 43 H45 Z" fill="#FFFF00"/>
   </svg>
 );
 
@@ -339,42 +450,49 @@ export default function Home() {
 
   if (view === "landing") {
     return (
-      <div className="min-h-screen bg-background text-foreground font-sans antialiased flex flex-col relative overflow-x-hidden">
+      <div className="min-h-screen bg-[#FAF6F0] text-[#333333] font-sans antialiased flex flex-col relative overflow-x-hidden">
         {/* Header / Navbar */}
-        <header className="flex items-center justify-between px-6 md:px-12 py-4 bg-card-bg border-b border-border-slate shadow-sm shrink-0 relative overflow-hidden">
-          <div className="absolute top-0 left-0 w-full h-[3px] bg-gradient-to-r from-amber-500 via-red-500 to-amber-600" />
-          <div className="flex items-center gap-3 relative z-10">
-            <div className="relative flex items-center justify-center w-12 h-12 rounded-full border border-border-slate/40 bg-neutral-bg/50 shadow-inner shrink-0">
-              <svg className="w-10 h-10" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <circle cx="50" cy="50" r="46" fill="#DA251D" stroke="#D97706" strokeWidth="2"/>
-                <path d="M50 20L58.2 41.5H81L62.6 55.4L69.6 77L50 63.5L30.4 77L37.4 55.4L19 41.5H41.8L50 20Z" fill="#FFFF00"/>
-                <circle cx="50" cy="50" r="28" stroke="#FFFF00" strokeWidth="1" strokeDasharray="3 3" opacity="0.6"/>
-                <path d="M22 65 C32 80, 68 80, 78 65" stroke="#FFFF00" strokeWidth="1.5" strokeLinecap="round" opacity="0.8"/>
-              </svg>
-            </div>
-            <div>
-              <h1 className="text-sm md:text-md font-serif font-extrabold leading-tight tracking-tight text-primary">
+        <header className="flex items-center justify-between px-6 md:px-12 py-4 bg-white border-b border-[#EADBC8] shadow-sm shrink-0 relative z-30 font-sans">
+          <div className="flex items-center gap-3 font-sans">
+            <img src={quocHuyImg.src} className="w-12 h-12 shrink-0 object-contain animate-fade-in" alt="Quốc huy Việt Nam" />
+            <img src={dvcImg.src} className="h-10 w-auto shrink-0 object-contain hidden sm:block" alt="Logo Cổng Dịch vụ công Quốc gia" />
+            <div className="text-left sm:hidden">
+              <h1 className="text-xs font-serif font-extrabold leading-tight tracking-tight text-[#7C1E14]">
                 CỔNG DỊCH VỤ CÔNG QUỐC GIA
               </h1>
-              <p className="text-[9px] uppercase font-bold text-accent tracking-widest font-sans">Kết nối, cung cấp thông tin và dịch vụ công mọi lúc, mọi nơi</p>
+              <p className="text-[7px] uppercase font-bold text-amber-700 mt-0.5">Dịch vụ công mọi lúc, mọi nơi</p>
             </div>
           </div>
 
           {/* Navigation Links */}
-          <nav className="hidden lg:flex items-center gap-6 text-xs font-bold text-foreground/75">
-            <button className="text-accent hover:text-accent-hover border-b-2 border-accent pb-1">Trang chủ</button>
-            <button className="hover:text-accent pb-1 transition-colors" onClick={() => handleOpenComingSoon("Giới thiệu hệ thống dịch vụ công đang được cập nhật.")}>Giới thiệu</button>
-            <button className="hover:text-accent pb-1 transition-colors" onClick={() => setView("copilot")}>Dịch vụ công</button>
-            <button className="hover:text-accent pb-1 transition-colors" onClick={() => handleOpenComingSoon("Chức năng tra cứu hồ sơ điện tử đang liên kết với cơ sở dữ liệu quốc gia.")}>Tra cứu hồ sơ</button>
-            <button className="hover:text-accent pb-1 transition-colors" onClick={() => handleOpenComingSoon("Cổng thanh toán điện tử phí & lệ phí hành chính đang được bảo trì định kỳ.")}>Thanh toán</button>
-            <button className="hover:text-accent pb-1 transition-colors" onClick={() => handleOpenComingSoon("Tổng đài hỗ trợ 1900 1234 phục vụ 24/7.")}>Hỗ trợ</button>
+          <nav className="hidden lg:flex items-center gap-6 text-xs font-bold text-zinc-700 font-sans">
+            <button className="text-[#7C1E14] border-b-2 border-[#7C1E14] pb-1">Trang chủ</button>
+            <button className="hover:text-[#7C1E14] pb-1 transition-colors" onClick={() => handleOpenComingSoon("Giới thiệu Cổng Dịch vụ công Quốc gia.")}>Giới thiệu</button>
+            <button className="hover:text-[#7C1E14] pb-1 transition-colors" onClick={() => setView("copilot")}>Dịch vụ công</button>
+            <button className="hover:text-[#7C1E14] pb-1 transition-colors" onClick={() => handleOpenComingSoon("Chức năng tra cứu tiến độ hồ sơ hành chính.")}>Tra cứu hồ sơ</button>
+            <button className="hover:text-[#7C1E14] pb-1 transition-colors" onClick={() => handleOpenComingSoon("Thanh toán nghĩa vụ tài chính trực tuyến.")}>Thanh toán</button>
+            <button className="hover:text-[#7C1E14] pb-1 transition-colors" onClick={() => handleOpenComingSoon("Tổng đài hỗ trợ và đường dây nóng phản ánh kiến nghị.")}>Hỗ trợ</button>
           </nav>
 
-          {/* Auth Button */}
-          <div className="flex items-center gap-3">
+          {/* Header Search and Auth Button */}
+          <div className="flex items-center gap-3 font-sans">
+            <form onSubmit={handleSearchSubmit} className="hidden md:flex items-center bg-zinc-50 border border-zinc-200 rounded-lg px-2 py-1 focus-within:border-amber-700 transition-all max-w-[180px]">
+              <input
+                id="header-portal-search"
+                aria-label="Tìm nhanh dịch vụ công"
+                type="text"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                placeholder="Tìm kiếm..."
+                className="w-full bg-transparent text-xs text-zinc-800 placeholder-zinc-400 focus:outline-none font-medium"
+              />
+              <button type="submit" className="text-zinc-400 hover:text-[#7C1E14] transition-colors ml-1 text-xs">
+                🔍
+              </button>
+            </form>
             <button
-              onClick={() => handleOpenComingSoon("Chức năng đăng nhập thông qua VNeID / Cổng Quốc gia đang được kết nối.")}
-              className="px-4 py-2 bg-brand-red text-white text-xs font-bold rounded-lg hover:bg-brand-red-hover transition-all shadow-sm"
+              onClick={() => handleOpenComingSoon("Đăng nhập thông qua tài khoản định danh điện tử VNeID.")}
+              className="px-4 py-2 bg-[#7C1E14] text-white text-xs font-bold rounded-lg hover:bg-red-950 transition-all shadow-sm"
             >
               Đăng nhập
             </button>
@@ -382,203 +500,202 @@ export default function Home() {
         </header>
 
         {/* Hero Section */}
-        <section className="relative bg-gradient-to-b from-hero-start via-hero-end to-background py-16 md:py-24 px-6 md:px-12 text-center overflow-hidden shrink-0">
-          <TrongDongPattern className="absolute w-[450px] h-[450px] md:w-[600px] md:h-[600px] top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white/10 pointer-events-none motion-safe:animate-[spin_180s_linear_infinite]" />
-          <LotusFlowerPattern className="absolute w-[200px] h-[200px] bottom-0 left-0 md:left-10 text-white/20 pointer-events-none" />
-          <LotusFlowerPattern className="absolute w-[200px] h-[200px] bottom-0 right-0 md:right-10 text-white/20 pointer-events-none" />
-
-          <div className="max-w-3xl mx-auto relative z-10">
-            <h2 className="text-3xl md:text-5xl font-serif font-extrabold text-white leading-tight tracking-tight drop-shadow-md">
-              Kết nối, cung cấp thông tin và dịch vụ công mọi lúc, mọi nơi
-            </h2>
-            <p className="text-xs md:text-sm text-white/90 mt-4 max-w-xl mx-auto leading-relaxed font-medium">
-              Cổng Dịch vụ công Quốc gia là cầu nối giữa cơ quan nhà nước và người dân, doanh nghiệp trên môi trường số.
-            </p>
-
-            {/* Premium Search Bar */}
-            <form onSubmit={handleSearchSubmit} className="mt-8 max-w-xl mx-auto flex gap-2 p-1.5 bg-card-bg rounded-xl shadow-lg border border-border-slate/50">
-              <input
-                id="landing-search-input"
-                aria-label="Tìm kiếm dịch vụ công"
-                type="text"
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder="Bạn cần tìm dịch vụ công nào? (ví dụ: khai sinh, thường trú...)"
-                className="flex-1 px-4 py-3 bg-transparent text-sm focus:outline-none text-foreground placeholder-foreground/50 font-medium"
-              />
-              <button
-                type="submit"
-                className="px-5 py-3 bg-brand-red text-white rounded-lg hover:bg-brand-red-hover transition-all flex items-center justify-center gap-2 text-xs font-bold"
-              >
-                <span>🔍</span>
-                <span className="hidden sm:inline">Tìm kiếm</span>
-              </button>
-            </form>
+        <section className="relative bg-[#201B13] pt-16 pb-24 md:pt-20 md:pb-28 px-6 md:px-12 overflow-hidden shrink-0 font-sans min-h-[560px]">
+          {/* Background Gold Dong Son Drum (Mockup style) */}
+          <div className="absolute right-0 top-0 h-full w-[45%] md:w-[60%] z-0 pointer-events-none overflow-hidden select-none">
+            <img src={trongDong3Img.src} className="w-full h-full object-cover object-center opacity-70 md:opacity-85" alt="Trống đồng" />
+            <div className="absolute inset-y-0 left-0 w-32 md:w-64 bg-gradient-to-r from-[#201B13] via-[#201B13]/70 to-transparent z-10" />
           </div>
+
+          <div className="max-w-6xl mx-auto relative z-10">
+            {/* Left Content */}
+            <div className="max-w-2xl text-left space-y-6 animate-fade-in-up">
+              <h2 className="text-3xl md:text-5xl font-serif font-extrabold text-white leading-tight drop-shadow-md">
+                Kết nối, cung cấp thông tin<br />và dịch vụ công mọi lúc, mọi nơi
+              </h2>
+              <p className="text-xs md:text-sm text-zinc-300 max-w-xl leading-relaxed font-medium">
+                Cổng Dịch vụ công Quốc gia là cầu nối giữa cơ quan nhà nước và người dân, doanh nghiệp trên môi trường số.
+              </p>
+            </div>
+
+            {/* Horizontal 6 Grid Quick Services Block at bottom of hero */}
+            <div className="mt-16 w-full animate-scale-in">
+              <div className="grid grid-cols-2 md:grid-cols-6 gap-4">
+                <button
+                  onClick={() => setView("copilot")}
+                  className="bg-white/95 backdrop-blur-sm border border-zinc-200/50 rounded-xl p-4 flex flex-col items-center justify-center text-center shadow-lg hover-lift hover:border-[#7C1E14] transition-all group"
+                >
+                  <div className="w-12 h-12 rounded-full bg-rose-50 text-[#7C1E14] flex items-center justify-center text-xl mb-3 shadow-inner group-hover:scale-110 transition-transform">📋</div>
+                  <span className="text-[11px] font-bold text-zinc-800 leading-snug">Đăng ký, quản lý hồ sơ trực tuyến</span>
+                </button>
+
+                <button
+                  onClick={() => handleOpenComingSoon("Thanh toán trực tuyến nghĩa vụ tài chính đất đai, án phí, đóng BHXH.")}
+                  className="bg-white/95 backdrop-blur-sm border border-zinc-200/50 rounded-xl p-4 flex flex-col items-center justify-center text-center shadow-lg hover-lift hover:border-[#7C1E14] transition-all group"
+                >
+                  <div className="w-12 h-12 rounded-full bg-rose-50 text-[#7C1E14] flex items-center justify-center text-xl mb-3 shadow-inner group-hover:scale-110 transition-transform">💳</div>
+                  <span className="text-[11px] font-bold text-zinc-800 leading-snug">Thanh toán trực tuyến phí, lệ phí</span>
+                </button>
+
+                <button
+                  onClick={() => handleOpenComingSoon("Nhập mã hồ sơ của bạn vào hệ thống để tra cứu tiến độ xử lý trực tiếp.")}
+                  className="bg-white/95 backdrop-blur-sm border border-zinc-200/50 rounded-xl p-4 flex flex-col items-center justify-center text-center shadow-lg hover-lift hover:border-[#7C1E14] transition-all group"
+                >
+                  <div className="w-12 h-12 rounded-full bg-rose-50 text-[#7C1E14] flex items-center justify-center text-xl mb-3 shadow-inner group-hover:scale-110 transition-transform">🔍</div>
+                  <span className="text-[11px] font-bold text-zinc-800 leading-snug">Tra cứu hồ sơ đã nộp</span>
+                </button>
+
+                <button
+                  onClick={() => handleOpenComingSoon("Khảo sát mức độ hài lòng của người dân về sự phục vụ của cơ quan hành chính.")}
+                  className="bg-white/95 backdrop-blur-sm border border-zinc-200/50 rounded-xl p-4 flex flex-col items-center justify-center text-center shadow-lg hover-lift hover:border-[#7C1E14] transition-all group"
+                >
+                  <div className="w-12 h-12 rounded-full bg-rose-50 text-[#7C1E14] flex items-center justify-center text-xl mb-3 shadow-inner group-hover:scale-110 transition-transform">⭐</div>
+                  <span className="text-[11px] font-bold text-zinc-800 leading-snug">Đánh giá chất lượng dịch vụ công</span>
+                </button>
+
+                <button
+                  onClick={() => handleOpenComingSoon("Gửi phản ánh, kiến nghị về vướng mắc hành chính công.")}
+                  className="bg-white/95 backdrop-blur-sm border border-zinc-200/50 rounded-xl p-4 flex flex-col items-center justify-center text-center shadow-lg hover-lift hover:border-[#7C1E14] transition-all group"
+                >
+                  <div className="w-12 h-12 rounded-full bg-rose-50 text-[#7C1E14] flex items-center justify-center text-xl mb-3 shadow-inner group-hover:scale-110 transition-transform">💬</div>
+                  <span className="text-[11px] font-bold text-zinc-800 leading-snug">Phản ánh, kiến nghị</span>
+                </button>
+
+                <button
+                  onClick={() => handleOpenComingSoon("Tài liệu số hướng dẫn kê khai, nộp phí, lệ phí trực tuyến.")}
+                  className="bg-white/95 backdrop-blur-sm border border-zinc-200/50 rounded-xl p-4 flex flex-col items-center justify-center text-center shadow-lg hover-lift hover:border-[#7C1E14] transition-all group"
+                >
+                  <div className="w-12 h-12 rounded-full bg-rose-50 text-[#7C1E14] flex items-center justify-center text-xl mb-3 shadow-inner group-hover:scale-110 transition-transform">📖</div>
+                  <span className="text-[11px] font-bold text-zinc-800 leading-snug">Hướng dẫn sử dụng</span>
+                </button>
+              </div>
+
+              {/* Centered Pill Button: Xem tất cả dịch vụ công */}
+              <div className="mt-8 text-center">
+                <button
+                  onClick={() => setView("copilot")}
+                  className="px-8 py-3 bg-[#7C1E14] text-white text-xs font-bold rounded-full hover:bg-red-950 transition-all shadow-md inline-block font-sans font-extrabold uppercase tracking-wide border border-[#7C1E14] hover:scale-105 transform duration-200"
+                >
+                  Xem tất cả dịch vụ công
+                </button>
+              </div>
+            </div>
+          </div>
+
+          {/* Floating Lotuses at the bottom corner edges (Mockup style) */}
+          <img src={hoaSenImg.src} className="absolute bottom-0 left-0 w-[240px] md:w-[350px] h-auto object-contain pointer-events-none z-20 animate-float-lotus" alt="Hoa sen" />
+          <img src={hoaSenImg.src} className="absolute bottom-0 right-0 w-[240px] md:w-[350px] h-auto object-contain pointer-events-none z-20 animate-float-lotus [animation-delay:3s]" alt="Hoa sen" />
         </section>
 
-        {/* 6 Grid Quick Options */}
-        <section className="px-6 md:px-12 -mt-8 relative z-20 shrink-0">
-          <div className="max-w-6xl mx-auto bg-card-bg border border-border-slate rounded-2xl shadow-xl p-6 md:p-8 grid grid-cols-2 md:grid-cols-6 gap-6 text-center">
-            <button
-              onClick={() => setView("copilot")}
-              className="flex flex-col items-center justify-center p-3 rounded-xl hover:bg-neutral-bg/50 transition-all group"
-            >
-              <div className="w-12 h-12 rounded-full bg-neutral-bg text-accent flex items-center justify-center text-xl mb-3 shadow-inner group-hover:scale-110 transition-transform">📋</div>
-              <span className="text-[11px] font-bold text-foreground/80 leading-snug">Đăng ký, quản lý hồ sơ trực tuyến</span>
-            </button>
-
-            <button
-              onClick={() => handleOpenComingSoon("Thanh toán lệ phí trực tuyến an toàn, tích hợp ngân hàng quốc gia.")}
-              className="flex flex-col items-center justify-center p-3 rounded-xl hover:bg-neutral-bg/50 transition-all group"
-            >
-              <div className="w-12 h-12 rounded-full bg-neutral-bg text-accent flex items-center justify-center text-xl mb-3 shadow-inner group-hover:scale-110 transition-transform">💳</div>
-              <span className="text-[11px] font-bold text-foreground/80 leading-snug">Thanh toán trực tuyến phí, lệ phí</span>
-            </button>
-
-            <button
-              onClick={() => handleOpenComingSoon("Nhập mã hồ sơ hành chính của bạn để theo dõi tiến độ giải quyết trực tiếp.")}
-              className="flex flex-col items-center justify-center p-3 rounded-xl hover:bg-neutral-bg/50 transition-all group"
-            >
-              <div className="w-12 h-12 rounded-full bg-neutral-bg text-accent flex items-center justify-center text-xl mb-3 shadow-inner group-hover:scale-110 transition-transform">🔍</div>
-              <span className="text-[11px] font-bold text-foreground/80 leading-snug">Tra cứu hồ sơ đã nộp</span>
-            </button>
-
-            <button
-              onClick={() => handleOpenComingSoon("Ý kiến đóng góp của bạn giúp cải tiến thủ tục hành chính tốt hơn.")}
-              className="flex flex-col items-center justify-center p-3 rounded-xl hover:bg-neutral-bg/50 transition-all group"
-            >
-              <div className="w-12 h-12 rounded-full bg-neutral-bg text-accent flex items-center justify-center text-xl mb-3 shadow-inner group-hover:scale-110 transition-transform">⭐</div>
-              <span className="text-[11px] font-bold text-foreground/80 leading-snug">Đánh giá chất lượng dịch vụ công</span>
-            </button>
-
-            <button
-              onClick={() => handleOpenComingSoon("Gửi trực tiếp phản ánh, kiến nghị về vướng mắc thủ tục hành chính.")}
-              className="flex flex-col items-center justify-center p-3 rounded-xl hover:bg-neutral-bg/50 transition-all group"
-            >
-              <div className="w-12 h-12 rounded-full bg-neutral-bg text-accent flex items-center justify-center text-xl mb-3 shadow-inner group-hover:scale-110 transition-transform">💬</div>
-              <span className="text-[11px] font-bold text-foreground/80 leading-snug">Phản ánh, kiến nghị</span>
-            </button>
-
-            <button
-              onClick={() => handleOpenComingSoon("Tài liệu hướng dẫn sử dụng, video trực quan cho công dân.")}
-              className="flex flex-col items-center justify-center p-3 rounded-xl hover:bg-neutral-bg/50 transition-all group"
-            >
-              <div className="w-12 h-12 rounded-full bg-neutral-bg text-accent flex items-center justify-center text-xl mb-3 shadow-inner group-hover:scale-110 transition-transform">📖</div>
-              <span className="text-[11px] font-bold text-foreground/80 leading-snug">Hướng dẫn sử dụng</span>
-            </button>
-          </div>
-        </section>
-
-        {/* Featured Services & Updates */}
-        <section className="px-6 md:px-12 py-12 shrink-0">
+        {/* Featured Services & Updates (2 columns layout) */}
+        <section className="px-6 md:px-12 py-16 shrink-0 bg-[#FAF6F0] font-sans">
           <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-3 gap-8">
 
             {/* Left Column: Featured Services (2/3 width) */}
             <div className="lg:col-span-2 space-y-6">
-              <div className="flex items-center gap-2 border-b border-border-slate pb-3">
-                <span className="text-xl">⚙️</span>
-                <h3 className="text-lg font-serif font-extrabold text-primary">Dịch vụ công nổi bật</h3>
+              <div className="flex items-center gap-2 border-b border-[#EADBC8] pb-3 text-left">
+                <span className="text-xl text-[#7C1E14]">⚙️</span>
+                <h3 className="text-lg font-serif font-extrabold text-[#7C1E14]">Dịch vụ công nổi bật</h3>
               </div>
 
-              {/* 6 procedures grid */}
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 font-sans">
+              {/* Grid of 6 procedures */}
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4 font-sans text-left">
                 {/* 1. Khai sinh */}
                 <div
                   onClick={() => handleSelectProcedure("dang-ky-khai-sinh")}
-                  className="flex items-center justify-between p-4 bg-card-bg border border-border-slate rounded-xl hover:border-accent hover:shadow-md cursor-pointer transition-all duration-200 group"
+                  className="flex items-center justify-between p-4 bg-white border border-[#EADBC8] rounded-xl hover:border-[#7C1E14] hover:shadow-md cursor-pointer transition-all duration-200 group hover-lift"
                 >
                   <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 rounded-full bg-neutral-bg text-accent flex items-center justify-center text-lg">👶</div>
+                    <div className="w-10 h-10 rounded-full bg-amber-50 text-amber-700 flex items-center justify-center text-lg">👶</div>
                     <div>
-                      <h4 className="text-xs font-bold text-foreground group-hover:text-accent">Đăng ký khai sinh</h4>
-                      <p className="text-[10px] text-foreground/50 font-medium mt-0.5">Thực hiện đăng ký khai sinh trực tuyến cho công dân</p>
+                      <h4 className="text-xs font-bold text-[#7C1E14] group-hover:text-red-900">Đăng ký khai sinh</h4>
+                      <p className="text-[10px] text-zinc-400 font-medium mt-0.5">Thủ tục đăng ký khai sinh trực tuyến cho công dân</p>
                     </div>
                   </div>
-                  <span className="text-foreground/50 group-hover:text-accent transition-colors">➔</span>
+                  <span className="text-zinc-400 group-hover:text-[#7C1E14] transition-colors">➔</span>
                 </div>
 
                 {/* 2. Thường trú */}
                 <div
                   onClick={() => handleSelectProcedure("dang-ky-thuong-tru")}
-                  className="flex items-center justify-between p-4 bg-card-bg border border-border-slate rounded-xl hover:border-accent hover:shadow-md cursor-pointer transition-all duration-200 group"
+                  className="flex items-center justify-between p-4 bg-white border border-[#EADBC8] rounded-xl hover:border-[#7C1E14] hover:shadow-md cursor-pointer transition-all duration-200 group hover-lift"
                 >
                   <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 rounded-full bg-neutral-bg text-accent flex items-center justify-center text-lg">🏠</div>
+                    <div className="w-10 h-10 rounded-full bg-amber-50 text-amber-700 flex items-center justify-center text-lg">🏠</div>
                     <div>
-                      <h4 className="text-xs font-bold text-foreground group-hover:text-accent">Đăng ký thường trú</h4>
-                      <p className="text-[10px] text-foreground/50 font-medium mt-0.5">Thủ tục đăng ký cư trú, chuyển khẩu trực tuyến</p>
+                      <h4 className="text-xs font-bold text-[#7C1E14] group-hover:text-red-900">Đăng ký thường trú</h4>
+                      <p className="text-[10px] text-zinc-400 font-medium mt-0.5">Thủ tục đăng ký thường trú trực tuyến</p>
                     </div>
                   </div>
-                  <span className="text-foreground/50 group-hover:text-accent transition-colors">➔</span>
+                  <span className="text-zinc-400 group-hover:text-[#7C1E14] transition-colors">➔</span>
                 </div>
 
                 {/* 3. Giấy phép lái xe */}
                 <div
-                  onClick={() => handleOpenComingSoon("Thủ tục cấp đổi Giấy phép lái xe quốc gia đang được cập nhật luồng AI tiền kiểm.")}
-                  className="flex items-center justify-between p-4 bg-card-bg border border-border-slate rounded-xl hover:border-accent hover:shadow-md cursor-pointer transition-all duration-200 group"
+                  onClick={() => handleOpenComingSoon("Thủ tục đổi Giấy phép lái xe quốc gia đang được nâng cấp.")}
+                  className="flex items-center justify-between p-4 bg-white border border-[#EADBC8] rounded-xl hover:border-[#7C1E14] hover:shadow-md cursor-pointer transition-all duration-200 group hover-lift"
                 >
                   <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 rounded-full bg-neutral-bg text-accent flex items-center justify-center text-lg">🪪</div>
+                    <div className="w-10 h-10 rounded-full bg-amber-50 text-amber-700 flex items-center justify-center text-lg">🪪</div>
                     <div>
-                      <h4 className="text-xs font-bold text-foreground group-hover:text-accent">Cấp đổi giấy phép lái xe</h4>
-                      <p className="text-[10px] text-foreground/50 font-medium mt-0.5">Cấp đổi GPLX do ngành Giao thông vận tải cấp</p>
+                      <h4 className="text-xs font-bold text-[#7C1E14] group-hover:text-red-900">Cấp đổi giấy phép lái xe</h4>
+                      <p className="text-[10px] text-zinc-400 font-medium mt-0.5">Thủ tục cấp đổi giấy phép lái xe trực tuyến</p>
                     </div>
                   </div>
-                  <span className="text-foreground/50 group-hover:text-accent transition-colors">➔</span>
+                  <span className="text-zinc-400 group-hover:text-[#7C1E14] transition-colors">➔</span>
                 </div>
 
                 {/* 4. Đăng ký kinh doanh */}
                 <div
                   onClick={() => handleSelectProcedure("dang-ky-ho-kinh-doanh")}
-                  className="flex items-center justify-between p-4 bg-card-bg border border-border-slate rounded-xl hover:border-accent hover:shadow-md cursor-pointer transition-all duration-200 group"
+                  className="flex items-center justify-between p-4 bg-white border border-[#EADBC8] rounded-xl hover:border-[#7C1E14] hover:shadow-md cursor-pointer transition-all duration-200 group hover-lift"
                 >
                   <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 rounded-full bg-neutral-bg text-accent flex items-center justify-center text-lg">💼</div>
+                    <div className="w-10 h-10 rounded-full bg-amber-50 text-amber-700 flex items-center justify-center text-lg">💼</div>
                     <div>
-                      <h4 className="text-xs font-bold text-foreground group-hover:text-accent">Đăng ký kinh doanh</h4>
-                      <p className="text-[10px] text-foreground/50 font-medium mt-0.5">Đăng ký thành lập hộ kinh doanh cá thể trực tuyến</p>
+                      <h4 className="text-xs font-bold text-[#7C1E14] group-hover:text-red-900">Đăng ký kinh doanh</h4>
+                      <p className="text-[10px] text-zinc-400 font-medium mt-0.5">Thủ tục đăng ký thành lập doanh nghiệp</p>
                     </div>
                   </div>
-                  <span className="text-foreground/50 group-hover:text-accent transition-colors">➔</span>
+                  <span className="text-zinc-400 group-hover:text-[#7C1E14] transition-colors">➔</span>
                 </div>
 
                 {/* 5. Nộp thuế */}
                 <div
-                  onClick={() => handleOpenComingSoon("Hệ thống nộp thuế điện tử liên kết trực tiếp với Tổng cục Thuế.")}
-                  className="flex items-center justify-between p-4 bg-card-bg border border-border-slate rounded-xl hover:border-accent hover:shadow-md cursor-pointer transition-all duration-200 group"
+                  onClick={() => handleOpenComingSoon("Hệ thống nộp thuế trực tuyến liên kết Tổng cục Thuế.")}
+                  className="flex items-center justify-between p-4 bg-white border border-[#EADBC8] rounded-xl hover:border-[#7C1E14] hover:shadow-md cursor-pointer transition-all duration-200 group hover-lift"
                 >
                   <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 rounded-full bg-neutral-bg text-accent flex items-center justify-center text-lg">💸</div>
+                    <div className="w-10 h-10 rounded-full bg-amber-50 text-amber-700 flex items-center justify-center text-lg">💸</div>
                     <div>
-                      <h4 className="text-xs font-bold text-foreground group-hover:text-accent">Nộp thuế điện tử</h4>
-                      <p className="text-[10px] text-foreground/50 font-medium mt-0.5">Khấu trừ thuế cá nhân, phí trước bạ trực tuyến</p>
+                      <h4 className="text-xs font-bold text-[#7C1E14] group-hover:text-red-900">Nộp thuế điện tử</h4>
+                      <p className="text-[10px] text-zinc-400 font-medium mt-0.5">Nộp thuế trực tuyến mọi lúc, mọi nơi</p>
                     </div>
                   </div>
-                  <span className="text-foreground/50 group-hover:text-accent transition-colors">➔</span>
+                  <span className="text-zinc-400 group-hover:text-[#7C1E14] transition-colors">➔</span>
                 </div>
 
                 {/* 6. BHXH */}
                 <div
-                  onClick={() => handleOpenComingSoon("Tra cứu thông tin và quá trình đóng Bảo hiểm xã hội trực tuyến.")}
-                  className="flex items-center justify-between p-4 bg-card-bg border border-border-slate rounded-xl hover:border-accent hover:shadow-md cursor-pointer transition-all duration-200 group"
+                  onClick={() => handleOpenComingSoon("Tra cứu thông tin, nộp hồ sơ Bảo hiểm xã hội tự nguyện.")}
+                  className="flex items-center justify-between p-4 bg-white border border-[#EADBC8] rounded-xl hover:border-[#7C1E14] hover:shadow-md cursor-pointer transition-all duration-200 group hover-lift"
                 >
                   <div className="flex items-center gap-3">
-                    <div className="w-10 h-10 rounded-full bg-neutral-bg text-accent flex items-center justify-center text-lg">🛡️</div>
+                    <div className="w-10 h-10 rounded-full bg-amber-50 text-amber-700 flex items-center justify-center text-lg">🛡️</div>
                     <div>
-                      <h4 className="text-xs font-bold text-foreground group-hover:text-accent">Bảo hiểm xã hội</h4>
-                      <p className="text-[10px] text-foreground/50 font-medium mt-0.5">Tra cứu, nộp gia hạn thẻ BHYT, BHXH tự nguyện</p>
+                      <h4 className="text-xs font-bold text-[#7C1E14] group-hover:text-red-900">Bảo hiểm xã hội</h4>
+                      <p className="text-[10px] text-zinc-400 font-medium mt-0.5">Tra cứu và nộp hồ sơ bảo hiểm xã hội</p>
                     </div>
                   </div>
-                  <span className="text-foreground/50 group-hover:text-accent transition-colors">➔</span>
+                  <span className="text-zinc-400 group-hover:text-[#7C1E14] transition-colors">➔</span>
                 </div>
               </div>
 
               {/* View all button */}
-              <div className="pt-2 text-center">
+              <div className="pt-4 text-center">
                 <button
                   onClick={() => setView("copilot")}
-                  className="px-6 py-2.5 bg-brand-red text-white text-xs font-bold rounded-lg hover:bg-brand-red-hover transition-all font-sans"
+                  className="px-6 py-2.5 bg-[#7C1E14] text-white text-xs font-bold rounded-full hover:bg-red-950 transition-all font-sans font-extrabold"
                 >
                   Xem tất cả dịch vụ công
                 </button>
@@ -586,35 +703,35 @@ export default function Home() {
             </div>
 
             {/* Right Column: Latest Updates (1/3 width) */}
-            <div className="space-y-6">
-              <div className="flex items-center justify-between border-b border-border-slate pb-3">
+            <div className="space-y-6 text-left font-sans">
+              <div className="flex items-center justify-between border-b border-[#EADBC8] pb-3">
                 <div className="flex items-center gap-2">
-                  <span className="text-xl">📰</span>
-                  <h3 className="text-lg font-serif font-extrabold text-primary">Cập nhật mới nhất</h3>
+                  <span className="text-xl text-[#7C1E14]">📰</span>
+                  <h3 className="text-lg font-serif font-extrabold text-[#7C1E14]">Cập nhật mới nhất</h3>
                 </div>
-                <button onClick={() => handleOpenComingSoon("Kho văn bản tin tức đang được đồng bộ.")} className="text-xs font-bold text-accent hover:underline">Xem tất cả</button>
+                <button onClick={() => handleOpenComingSoon("Hồ sơ tài liệu tin tức của Cổng Dịch vụ công Quốc gia.")} className="text-xs font-bold text-amber-800 hover:underline">Xem tất cả</button>
               </div>
 
               {/* News List */}
               <div className="space-y-4 divide-y divide-amber-200/40 font-sans">
-                <div className="pt-1.5 cursor-pointer hover:text-accent transition-colors" onClick={() => handleOpenComingSoon("Chi tiết Nghị định số 42/2024/NĐ-CP hướng dẫn thi hành Dịch vụ công trực tuyến.")}>
-                  <h4 className="text-xs font-bold text-foreground leading-snug">Nghị định mới về quản lý, cung cấp dịch vụ công trực tuyến</h4>
-                  <span className="text-[10px] text-foreground/50 block mt-1 font-medium">15/05/2024</span>
+                <div className="pt-1.5 cursor-pointer hover:text-amber-800 transition-colors" onClick={() => handleOpenComingSoon("Chi tiết Nghị định quản lý dịch vụ trực tuyến mới ban hành.")}>
+                  <h4 className="text-xs font-bold text-zinc-800 leading-snug">Nghị định mới về quản lý, cung cấp dịch vụ công trực tuyến</h4>
+                  <span className="text-[10px] text-zinc-400 block mt-1 font-medium">15/05/2024</span>
                 </div>
 
-                <div className="pt-3.5 cursor-pointer hover:text-accent transition-colors" onClick={() => handleOpenComingSoon("Tài liệu số hướng dẫn công dân nộp hồ sơ, quét căn cước và xác thực.")}>
-                  <h4 className="text-xs font-bold text-foreground leading-snug">Hướng dẫn nộp hồ sơ trực tuyến trên Cổng dịch vụ công Quốc gia</h4>
-                  <span className="text-[10px] text-foreground/50 block mt-1 font-medium">10/05/2024</span>
+                <div className="pt-3.5 cursor-pointer hover:text-amber-800 transition-colors" onClick={() => handleOpenComingSoon("Tài liệu số hướng dẫn kê khai nộp hồ sơ.")}>
+                  <h4 className="text-xs font-bold text-zinc-800 leading-snug">Hướng dẫn nộp hồ sơ trực tuyến trên Cổng Dịch vụ công Quốc gia</h4>
+                  <span className="text-[10px] text-zinc-400 block mt-1 font-medium">10/05/2024</span>
                 </div>
 
-                <div className="pt-3.5 cursor-pointer hover:text-accent transition-colors" onClick={() => handleOpenComingSoon("Nâng cấp hạ tầng thanh toán, liên kết mã QR động với các ngân hàng lớn.")}>
-                  <h4 className="text-xs font-bold text-foreground leading-snug">Cập nhật tính năng thanh toán trực tuyến trên Cổng DVCQG</h4>
-                  <span className="text-[10px] text-foreground/50 block mt-1 font-medium">08/05/2024</span>
+                <div className="pt-3.5 cursor-pointer hover:text-amber-800 transition-colors" onClick={() => handleOpenComingSoon("Cập nhật tính năng thanh toán trực tuyến trên Cổng DVCQG.")}>
+                  <h4 className="text-xs font-bold text-zinc-800 leading-snug">Cập nhật tính năng thanh toán trực tuyến trên Cổng DVCQG</h4>
+                  <span className="text-[10px] text-zinc-400 block mt-1 font-medium">08/05/2024</span>
                 </div>
 
-                <div className="pt-3.5 cursor-pointer hover:text-accent transition-colors" onClick={() => handleOpenComingSoon("Đăng nhập an toàn và bảo mật cao thông qua ứng dụng định danh VNeID.")}>
-                  <h4 className="text-xs font-bold text-foreground leading-snug">Tích hợp định danh điện tử VNeID với Cổng Dịch vụ công Quốc gia</h4>
-                  <span className="text-[10px] text-foreground/50 block mt-1 font-medium">05/05/2024</span>
+                <div className="pt-3.5 cursor-pointer hover:text-amber-800 transition-colors" onClick={() => handleOpenComingSoon("Tích hợp an toàn danh tính định danh điện tử VNeID.")}>
+                  <h4 className="text-xs font-bold text-zinc-800 leading-snug">Tích hợp định danh điện tử với Cổng Dịch vụ công Quốc gia</h4>
+                  <span className="text-[10px] text-zinc-400 block mt-1 font-medium">05/05/2024</span>
                 </div>
               </div>
             </div>
@@ -623,54 +740,51 @@ export default function Home() {
         </section>
 
         {/* Benefits Section */}
-        <section className="bg-neutral-bg/50 border-y border-border-slate py-12 px-6 md:px-12 relative overflow-hidden shrink-0">
-          <LotusFlowerPattern className="absolute w-[250px] h-[250px] -bottom-12 -left-12 text-border-slate/20 pointer-events-none" />
-          <LotusFlowerPattern className="absolute w-[250px] h-[250px] -bottom-12 -right-12 text-border-slate/20 pointer-events-none" />
+        <section className="bg-amber-50/40 border-y border-[#EADBC8] py-16 px-6 md:px-12 relative overflow-hidden shrink-0 font-sans">
+          <LotusFlowerPattern className="absolute w-[220px] h-[220px] -bottom-12 -left-12 text-[#DA70D6]/10 pointer-events-none" />
+          <LotusFlowerPattern className="absolute w-[220px] h-[220px] -bottom-12 -right-12 text-[#DA70D6]/10 pointer-events-none" />
 
-          <div className="max-w-6xl mx-auto text-center relative z-10">
-            <h3 className="text-xl font-serif font-extrabold text-primary">Lợi ích khi sử dụng dịch vụ công trực tuyến</h3>
+          <div className="max-w-6xl mx-auto text-center relative z-10 space-y-10">
+            <h3 className="text-xl font-serif font-extrabold text-[#7C1E14]">Lợi ích khi sử dụng dịch vụ công trực tuyến</h3>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mt-8 font-sans">
               <div className="flex flex-col items-center p-4">
-                <div className="w-14 h-14 rounded-full bg-card-bg border border-border-slate text-accent flex items-center justify-center text-2xl shadow-sm mb-4">⏱️</div>
-                <h4 className="text-xs font-bold text-foreground/80">Tiết kiệm thời gian giải quyết hồ sơ</h4>
+                <div className="w-14 h-14 rounded-full bg-white border border-amber-200 text-[#7C1E14] flex items-center justify-center text-2xl shadow-sm mb-4">⏱️</div>
+                <h4 className="text-xs font-bold text-zinc-700">Tiết kiệm thời gian giải quyết hồ sơ</h4>
               </div>
 
               <div className="flex flex-col items-center p-4">
-                <div className="w-14 h-14 rounded-full bg-card-bg border border-border-slate text-accent flex items-center justify-center text-2xl shadow-sm mb-4">📍</div>
-                <h4 className="text-xs font-bold text-foreground/80">Mọi lúc, mọi nơi trên mọi thiết bị</h4>
+                <div className="w-14 h-14 rounded-full bg-white border border-amber-200 text-[#7C1E14] flex items-center justify-center text-2xl shadow-sm mb-4">📍</div>
+                <h4 className="text-xs font-bold text-zinc-700">Mọi lúc, mọi nơi trên mọi thiết bị</h4>
               </div>
 
               <div className="flex flex-col items-center p-4">
-                <div className="w-14 h-14 rounded-full bg-card-bg border border-border-slate text-accent flex items-center justify-center text-2xl shadow-sm mb-4">🔒</div>
-                <h4 className="text-xs font-bold text-foreground/80">An toàn, bảo mật thông tin tối đa</h4>
+                <div className="w-14 h-14 rounded-full bg-white border border-amber-200 text-[#7C1E14] flex items-center justify-center text-2xl shadow-sm mb-4">🔒</div>
+                <h4 className="text-xs font-bold text-zinc-700">An toàn, bảo mật thông tin</h4>
               </div>
 
               <div className="flex flex-col items-center p-4">
-                <div className="w-14 h-14 rounded-full bg-card-bg border border-border-slate text-accent flex items-center justify-center text-2xl shadow-sm mb-4">🍃</div>
-                <h4 className="text-xs font-bold text-foreground/80">Giảm chi phí đi lại, in ấn giấy tờ</h4>
+                <div className="w-14 h-14 rounded-full bg-white border border-amber-200 text-[#7C1E14] flex items-center justify-center text-2xl shadow-sm mb-4">🍃</div>
+                <h4 className="text-xs font-bold text-zinc-700">Giảm chi phí đi lại, giấy tờ</h4>
               </div>
             </div>
           </div>
         </section>
 
         {/* Footer */}
-        <footer className="bg-brand-red text-white/90 py-12 px-6 md:px-12 shrink-0 border-t border-border-slate/20 relative overflow-hidden font-sans">
+        <footer className="bg-[#7C1E14] text-white/95 py-12 px-6 md:px-12 shrink-0 border-t border-amber-600/20 relative overflow-hidden font-sans">
           <TrongDongPattern className="absolute w-[300px] h-[300px] -bottom-10 -right-10 text-white/5 pointer-events-none" />
 
-          <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8 relative z-10 text-xs">
+          <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8 relative z-10 text-xs text-left">
             <div className="space-y-4">
               <div className="flex items-center gap-3">
-                <svg className="w-10 h-10 shrink-0" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <circle cx="50" cy="50" r="46" fill="#DA251D" stroke="#D97706" strokeWidth="2"/>
-                  <path d="M50 20L58.2 41.5H81L62.6 55.4L69.6 77L50 63.5L30.4 77L37.4 55.4L19 41.5H41.8L50 20Z" fill="#FFFF00"/>
-                </svg>
+                <QuocHuyEmblem className="w-12 h-12 shrink-0" />
                 <div>
                   <h4 className="font-serif font-extrabold text-sm text-white">CỔNG DỊCH VỤ CÔNG QUỐC GIA</h4>
                   <p className="text-[9px] uppercase font-bold text-amber-400 tracking-wider">Kết nối - Cung cấp - Tiền kiểm</p>
                 </div>
               </div>
-              <div className="space-y-2 text-white/70 font-medium">
+              <div className="space-y-2 text-white/80 font-medium">
                 <p>📞 Điện thoại: 024 1234 5678</p>
                 <p>✉️ Email: hotro@dichvucong.gov.vn</p>
                 <p>🌐 Website: https://dichvucong.gov.vn</p>
@@ -678,8 +792,8 @@ export default function Home() {
             </div>
 
             <div className="space-y-3 font-medium">
-              <h4 className="text-xs uppercase font-extrabold text-amber-400">Về chúng tôi</h4>
-              <ul className="space-y-2 text-white/70">
+              <h4 className="text-xs uppercase font-extrabold text-amber-400 font-sans">Về chúng tôi</h4>
+              <ul className="space-y-2 text-white/80">
                 <li><button className="hover:text-white transition-colors" onClick={() => handleOpenComingSoon("Giới thiệu về Ban Quản trị Cổng Dịch vụ công Quốc gia.")}>Giới thiệu</button></li>
                 <li><button className="hover:text-white transition-colors" onClick={() => handleOpenComingSoon("Danh mục văn bản pháp luật quy định hành chính.")}>Văn bản pháp luật</button></li>
                 <li><button className="hover:text-white transition-colors" onClick={() => handleOpenComingSoon("Câu hỏi thường gặp của người dân.")}>Câu hỏi thường gặp</button></li>
@@ -688,20 +802,20 @@ export default function Home() {
             </div>
 
             <div className="space-y-3 font-medium">
-              <h4 className="text-xs uppercase font-extrabold text-amber-400">Hỗ trợ</h4>
+              <h4 className="text-xs uppercase font-extrabold text-amber-400 font-sans">Hỗ trợ</h4>
               <ul className="space-y-2 text-white/70">
                 <li><button className="hover:text-white transition-colors" onClick={() => handleOpenComingSoon("Tài liệu hướng dẫn kê khai trực tuyến.")}>Hướng dẫn sử dụng</button></li>
-                <li><button className="hover:text-white transition-colors" onClick={() => handleOpenComingSoon("Tổng đài đường dây nóng 1900 1234.")}>Tổng đài hỗ trợ</button></li>
+                <li><button className="hover:text-white transition-colors" onClick={() => handleOpenComingSoon("Tổng đài đường dây nóng hỗ trợ công dân.")}>Tổng đài hỗ trợ</button></li>
                 <li><button className="hover:text-white transition-colors" onClick={() => handleOpenComingSoon("Gửi phản hồi, kiến nghị hành chính.")}>Phản ánh, kiến nghị</button></li>
               </ul>
             </div>
 
-            <div className="space-y-3">
+            <div className="space-y-3 font-sans">
               <h4 className="text-xs uppercase font-extrabold text-amber-400">Kết nối với chúng tôi</h4>
               <div className="flex items-center gap-3">
-                <button className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-all text-sm">f</button>
-                <button className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-all text-sm">▶</button>
-                <button className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-all text-sm">🌐</button>
+                <button className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-all text-sm font-sans">f</button>
+                <button className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-all text-sm font-sans">▶</button>
+                <button className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center hover:bg-white/20 transition-all text-sm font-sans">🌐</button>
               </div>
             </div>
           </div>
@@ -718,19 +832,19 @@ export default function Home() {
         {/* Dynamic Coming Soon Modal */}
         {showModal && (
           <div className="fixed inset-0 bg-black/60 backdrop-blur-sm flex items-center justify-center z-50 p-4 font-sans animate-fade-in">
-            <div className="bg-card-bg border border-border-slate rounded-2xl p-6 max-w-sm w-full shadow-2xl relative overflow-hidden animate-scale-up">
-              <div className="absolute top-0 left-0 w-full h-[4px] bg-brand-red" />
+            <div className="bg-white border border-[#EADBC8] rounded-2xl p-6 max-w-sm w-full shadow-2xl relative overflow-hidden animate-scale-up">
+              <div className="absolute top-0 left-0 w-full h-[4px] bg-[#7C1E14]" />
               <div className="flex items-center gap-3 mb-4">
                 <span className="text-2xl">🏛️</span>
-                <h4 className="text-sm font-serif font-extrabold text-primary">Thông báo từ Cổng DVCQG</h4>
+                <h4 className="text-sm font-serif font-extrabold text-[#2E1A16]">Thông báo từ Cổng DVCQG</h4>
               </div>
-              <p className="text-xs text-foreground/75 leading-relaxed font-medium">
+              <p className="text-xs text-zinc-600 leading-relaxed font-medium">
                 {modalText}
               </p>
               <div className="mt-6 flex justify-end">
                 <button
                   onClick={() => setShowModal(false)}
-                  className="px-4 py-2 bg-brand-red text-white text-xs font-bold rounded-lg hover:bg-brand-red-hover transition-all shadow-sm"
+                  className="px-4 py-2 bg-[#7C1E14] text-white text-xs font-bold rounded-lg hover:bg-red-950 transition-all shadow-sm"
                 >
                   Đã hiểu
                 </button>
