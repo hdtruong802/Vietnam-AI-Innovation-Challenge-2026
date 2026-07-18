@@ -54,3 +54,13 @@ python scripts/data/build_chunking_fixtures.py
 Use `--output artifacts/chunking/phase3-chunks.jsonl --report-output artifacts/chunking/phase3-report.json`
 only for ignored local artifacts. The CLI rejects output paths outside
 `artifacts/`.
+
+## Phase 4 keyword retrieval smoke
+
+The keyword retrieval baseline filters to `approved` chunks only. Current Phase 1
+fixtures remain `needs_review`, so the smoke command should fail closed with
+`official_review_required` instead of returning evidence:
+
+```powershell
+python scripts/data/evaluate_keyword_retrieval.py
+```
