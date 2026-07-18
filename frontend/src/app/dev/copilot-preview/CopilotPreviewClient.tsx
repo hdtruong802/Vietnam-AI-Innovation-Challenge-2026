@@ -13,39 +13,42 @@ export default function CopilotPreviewClient({ fixtureKey }: CopilotPreviewClien
   const router = useRouter();
 
   return (
-    <div className="flex flex-col h-screen">
+    <>
+      {/* Floating overlay, not part of document flow — ProcedureWorkspace
+       * hardcodes h-screen (100vh) on its own root for the real app, so
+       * anything stacked above it in normal flow would push total page
+       * height past 100vh and cause outer-page scroll. An overlay avoids
+       * that without touching ProcedureWorkspace's production sizing. */}
       <nav
         aria-label="Chọn fixture để xem trước"
-        className="flex flex-wrap items-center gap-1.5 p-2 bg-zinc-900 text-zinc-100 text-xs shrink-0 z-30"
+        className="fixed top-2 right-2 z-50 flex flex-wrap justify-end gap-1 max-w-[80vw] p-1.5 rounded-lg bg-zinc-900/90 backdrop-blur-sm text-[10px] shadow-lg"
       >
-        <span className="font-bold px-2 uppercase tracking-wider text-[10px] text-zinc-400">
+        <span className="w-full text-center font-bold uppercase tracking-wider text-zinc-400 px-1">
           Dev preview — read-only
         </span>
         {FIXTURE_KEYS.map((key) => (
           <Link
             key={key}
             href={`/dev/copilot-preview?state=${key}`}
-            className={`px-2.5 py-1 rounded font-mono ${
-              key === fixtureKey ? "bg-white text-zinc-900 font-bold" : "hover:bg-zinc-700"
+            className={`px-2 py-1 rounded font-mono ${
+              key === fixtureKey ? "bg-white text-zinc-900 font-bold" : "text-zinc-100 hover:bg-zinc-700"
             }`}
           >
             {key}
           </Link>
         ))}
       </nav>
-      <div className="flex-1 min-h-0">
-        <ProcedureWorkspace
-          key={fixtureKey}
-          fixtureState={getFixtureState(fixtureKey)}
-          avatarDisabled
-          onGoLanding={() => router.push("/")}
-          onOpenComingSoon={() => {
-            /* no-op: no coming-soon modal host on this route; the avatar
-             * button itself is disabled (see avatarDisabled) so this should
-             * be unreachable. */
-          }}
-        />
-      </div>
-    </div>
+      <ProcedureWorkspace
+        key={fixtureKey}
+        fixtureState={getFixtureState(fixtureKey)}
+        avatarDisabled
+        onGoLanding={() => router.push("/")}
+        onOpenComingSoon={() => {
+          /* no-op: no coming-soon modal host on this route; the avatar
+           * button itself is disabled (see avatarDisabled) so this should
+           * be unreachable. */
+        }}
+      />
+    </>
   );
 }
