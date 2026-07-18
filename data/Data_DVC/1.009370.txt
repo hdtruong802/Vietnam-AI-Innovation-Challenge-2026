@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009370
+Số quyết định: 682/QĐ-BVHTTDL
+Tên thủ tục: Cấp, cấp lại giấy phép hoạt động tạp chí điện tử
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Báo chí
+Trình tự thực hiện:
+  * Cấp, cấp lại giấy phép hoạt động tạp chí điện tử
+    Cơ quan, tổ chức quy định tại Điều 14 Luật Báo chí, đủ điều kiện theo quy định tại Điều 17 Luật Báo chí, có nhu cầu hoạt động tạp chí điện tử lập 01 bộ hồ sơ đề nghị cấp giấy phép hoạt động tạp chí điện tử đến Bộ VHTTDL.
+    Cơ quan báo chí thực hiện cấp lại giấy phép hoạt động tạp chí điện tử, cơ quan chủ quản báo chí lập 01 bộ hồ sơ đề nghị cấp lại giấy phép hoạt động tạp chí điện tử gửi đến Bộ VHTTDL.
+    Trong thời hạn 90 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ VHTTDL có trách nhiệm cấp, cấp lại giấy phép hoạt động tạp chí điện tử; trường hợp từ chối cấp phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 90 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 90 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 90 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Cấp, cấp lại giấy phép hoạt động tạp chí điện tử ]
+    - Danh sách dự kiến nhân sự của tạp chí điện tử
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu trình bày giao diện trang chủ của tạp chí điện tử có xác nhận của cơ quan, tổ chức đề nghị cấp giấy phép. Trang chủ của tạp chí điện tử phải hiển thị các thông tin theo quy định tại Điều 46 Luật Báo chí, trong đó tên gọi tạp chí điện tử thể hiện rõ cụm từ “tạp chí” hoặc “tạp chí điện tử” có cỡ chữ tối thiểu bằng 1/2 cỡ chữ của tên tạp chí điện tử. Mẫu trình bày giao diện trang chủ của chuyên trang có xác nhận của cơ quan, tổ chức đề nghị cấp giấy phép. Trang chủ của chuyên trang phải hiển thị các thông tin theo quy định tại Điều 46 Luật Báo chí, trong đó: Tên gọi chuyên trang thể hiện rõ cụm từ “chuyên trang” có cỡ chữ tối thiểu bằng 1/2 cỡ chữ của tên chuyên trang và tên gọi tạp chí điện tử có cỡ chữ tối thiểu bằng 1/2 cỡ chữ của tên chuyên trang.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai đề nghị cấp giấy phép hoạt động tạp chí điện tử
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề án hoạt động tạp chí điện tử (có chữ ký của người có thẩm quyền và đóng dấu hoặc ký số của cơ quan, tổ chức đề nghị cấp giấy phép) và các tài liệu kèm theo, gồm các nội dung sau:  + Sự cần thiết và cơ sở pháp lý; trình bày việc đáp ứng đầy đủ các điều kiện quy định tại Điều 17 Luật Báo chí;  + Kết cấu và nội dung chính của các chuyên trang, chuyên mục của tạp chí điện tử, các chuyên mục của chuyên trang, trong đó thể hiện rõ về nội dung thông tin chuyên sâu, chuyên ngành, giới thiệu, đăng tải kết quả nghiên cứu khoa học, tham gia tư vấn, phản biện chính sách về lĩnh vực thuộc chức năng, nhiệm vụ của cơ quan, tổ chức đề nghị cấp giấy phép;  + Tên miền phù hợp với tên tạp chí điện tử;  + Việc sở hữu tên miền còn thời gian sử dụng tối thiểu 06 tháng tính từ thời điểm đề nghị cấp giấy phép;  + Quy trình xuất bản và quản lý nội dung.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Sơ yếu lý lịch người dự kiến là Tổng biên tập
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Báo chí
+Cơ quan có thẩm quyền: Bộ Văn hóa, Thể thao và Du lịch
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép hoạt động tạp chí điện tử
+Căn cứ pháp lý:
+  * Thông tư 41/2020/TT-BTTTT (41/2020/TT-BTTTT)
+  * Luật báo chí (103/2016/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

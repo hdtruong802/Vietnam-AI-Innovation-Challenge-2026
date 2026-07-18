@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013911
+Số quyết định: 2527/QĐ-BKHCN
+Tên thủ tục: Hoàn trả số thuê bao di động H2H được phân bổ theo phương thức đấu giá
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    1. Tổ chức, doanh nghiệp, cá nhân nộp hồ sơ đề nghị hoàn trả số thuê bao di động H2H theo hình thức trực tuyến tại Cổng dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc nộp trực tiếp tại Ủy ban nhân dân cấp tỉnh nơi ra quyết định phân bổ số thuê bao di động H2H theo phương thức đấu giá;
+    2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thẩm định, ban hành quyết định về việc hoàn trả số thuê bao di động H2H.
+    Trường hợp không chấp nhận việc hoàn trả số thuê bao di động H2H, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh có văn bản trả lời và nêu rõ lý do không chấp nhận.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thẩm định, ban hành quyết định về việc hoàn trả số thuê bao di động H2H.
+Trường hợp không chấp nhận việc hoàn trả số thuê bao di động H2H, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh có văn bản trả lời và nêu rõ lý do không chấp nhận.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thẩm định, ban hành quyết định về việc hoàn trả số thuê bao di động H2H.
+Trường hợp không chấp nhận việc hoàn trả số thuê bao di động H2H, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh có văn bản trả lời và nêu rõ lý do không chấp nhận.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thẩm định, ban hành quyết định về việc hoàn trả số thuê bao di động H2H.
+Trường hợp không chấp nhận việc hoàn trả số thuê bao di động H2H, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh có văn bản trả lời và nêu rõ lý do không chấp nhận.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị hoàn trả số thuê bao di động H2H theo Mẫu số 26 tại Phụ lục I kèm theo Nghị định số 133/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao thẻ căn cước công dân hoặc thẻ căn cước (đối với cá nhân). Cơ quan tiếp nhận, giải quyết thủ tục hành chính có trách nhiệm chủ động khai thác, sử dụng thông tin đã có trong Cơ sở dữ liệu quốc gia về dân cư được cơ quan chủ quản cơ sở dữ liệu công bố để thay thế thành phần hồ sơ giải quyết thủ tục hành chính. Trường hợp không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, chính xác thì cơ quan có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính gửi ngay văn bản để yêu cầu cá nhân, tổ chức bổ sung thành phần hồ sơ và nêu rõ lý do. Thời gian yêu cầu và bổ sung hồ sơ không tính vào thời hạn giải quyết thủ tục hành chính
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao quyết định phân bổ số thuê bao di động H2H
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hoàn trả số thuê bao di động H2H phân bổ theo phương thức đấu giá theo Mẫu số 27 tại Phụ lục VI ban hành kèm theo Nghị định số 133/2025/NĐ-CP
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quân lý nhà nước của Bộ Khoa học và Công nghệ (15/2026/NĐ-CP)
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+  * Quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ (133/2025/NĐ-CP)
+  * Nghị định số 115/2025/NĐ-CP ngày 03/6/2025 của Chính phủ quy định chi tiết một số điều của Luật Viễn thông về quản lý kho số viễn thông, tài nguyên Internet; việc bồi thường khi nhà nước thu hồi mã, số viễn thông, tài nguyên Internet; đấu giá quyền sử dụng mã, số viễn thông, tên miền quốc gia Việt Nam “.vn”. (115/2025/NĐ-CP)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

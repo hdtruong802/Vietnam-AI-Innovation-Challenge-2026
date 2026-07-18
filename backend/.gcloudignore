@@ -1,0 +1,15 @@
+# Keep the Cloud Build source context backend-only and free of local state.
+.gcloudignore
+.git
+.gitignore
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+tests/
+*.log

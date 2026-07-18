@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001386
+Số quyết định: 2001/QĐ-BYT
+Tên thủ tục: Xác định trường hợp được bồi thường do xảy ra tai biến trong tiêm chủng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Phòng bệnh
+Trình tự thực hiện:
+  * Bước 1.
+    Trường hợp người được tiêm chủng hoặc thân nhân của người được tiêm chủng nhận thấy mình hoặc thân nhân của mình thuộc trường hợp quy định tại Điều 50 Nghị định số 165/2026/NĐ-CP thì phải chuẩn bị và gửi hồ sơ đề nghị xác nhận nguyên nhân gây tai biến cho cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh.
+  * Bước 2.
+    Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đơn và các giấy tờ hợp lệ, nếu xác định yêu cầu thuộc trách nhiệm giải quyết của mình thì cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh phải thụ lý và thông báo bằng văn bản về việc thụ lý đơn cho người bị thiệt hại hoặc thân nhân của người bị thiệt hại (sau đây gọi tắt là người bị thiệt hại). Trường hợp hồ sơ không đầy đủ thì cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh có văn bản hướng dẫn người bị thiệt hại bổ sung.
+  * Bước 3.
+    Trong thời hạn 15 ngày, kể từ ngày nhận được đơn yêu cầu của người bị thiệt hại, cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh chuẩn bị đầy đủ hồ sơ, tài liệu theo quy định tại khoản 2 Điều 52 Nghị định số 165/2026/NĐ-CP và tổ chức họp Hội đồng tư vấn chuyên môn cấp tỉnh để xác định nguyên nhân gây tai biến và xác định trường hợp được bồi thường và thông báo bằng văn bản cho người yêu cầu đồng thời báo cáo Bộ Y tế.
+  * Bước 4.
+    Trường hợp người được tiêm chủng được kết luận thuộc diện được bồi thường thì người đứng đầu cơ quan chuyên môn về y tế thuộc Ủy ban nhân dân cấp tỉnh phải thông báo theo quy định tại khoản 4 Điều 52 Nghị định số 165/2026/NĐ-CP đồng thời xác định mức bồi thường và ra quyết định giải quyết bồi thường theo quy định tại Điều 54 Nghị định số 165/2026/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: kể từ ngày nhận hồ sơ đầy đủ và hợp lệ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: kể từ ngày nhận hồ sơ đầy đủ và hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: kể từ ngày nhận hồ sơ đầy đủ và hợp lệ
+
+Thành phần hồ sơ:
+    - Đơn yêu cầu xác định nguyên nhân gây tai biến và mức độ tổn thương
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng tử (trong trường hợp bị tử vong)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy ra viện, hóa đơn thanh toán chi phí khám bệnh, chữa bệnh, phục hồi chức năng, vận chuyển bệnh nhân (bản chính hoặc bản sao có chứng thực)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Phiếu, sổ xác nhận tiêm chủng loại vắc xin có liên quan
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Các giấy tờ khác có liên quan chứng minh tai biến hoặc thiệt hại khác (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Người nước ngoài đã cư trú tại Việt Nam, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cơ quan chuyên môn về y tế thuộc Uỷ ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo
+Căn cứ pháp lý:
+  * Phòng bệnh (114/2025/QH15)
+  * Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng bệnh. (165/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

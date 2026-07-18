@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010998
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Khai phí, lệ phí và các khoản thu khác do cơ quan đại diện nước Cộng hòa Xã hội Chủ nghĩa Việt Nam ở nước ngoài thực hiện thu
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1. Người nộp thuế chuẩn bị số liệu, lập tờ khai và gửi đến cơ quan thuế chậm nhất vào ngày cuối cùng của tháng đầu của quý tiếp theo quý phát sinh nghĩa vụ phí, lệ phí và các khoản thu khác do cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài thực hiện thu (hồ sơ nộp theo quý); chậm nhất là ngày cuối cùng của tháng thứ 3 kể từ ngày kết thúc năm dương lịch đối với hồ sơ quyết toán năm.
+    + Bước 2. Cơ quan thuế tiếp nhận:
+    ++ Cơ quan quản lý thuế tiếp nhận hồ sơ khai thuế, thông báo về việc tiếp nhận hồ sơ khai thuế; trường hợp hồ sơ không hợp pháp, không đầy đủ, không đúng mẫu quy định thì thông báo cho người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ.
+    ++ Trường hợp tiếp nhận hồ sơ khai thuế điện tử, cơ quan thuế thực hiện tiếp nhận, kiểm tra, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế:
+    +++ Cổng thông tin điện tử của Cục Thuế gửi thông báo tiếp nhận việc NNT đã nộp hồ sơ hoặc thông báo lý do không tiếp nhận hồ sơ cho NNT qua Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ (Cổng dịch vụ công quốc gia đối với các thủ tục hành chính đã toàn trình và được tích hợp, kết nối với Cổng dịch vụ công của Bộ Tài chính theo quy định về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính/các Hệ thống thông tin điện tử, hệ thống thông tin giải quyết thủ tục hành chính của Cục Thuế, Cổng thông tin của tổ chức cung cấp dịch vụ T-VAN theo quy định) chậm nhất 15 phút kể từ khi nhận được hồ sơ khai thuế điện tử của người nộp thuế.
+    +++ Cơ quan thuế thực hiện kiểm tra, giải quyết hồ sơ khai thuế của NNT theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành, gửi thông báo chấp nhận/không chấp nhận hồ sơ đến Cổng thông tin điện tử mà NNT lựa chọn lập và gửi hồ sơ  chậm nhất 01 ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận nộp hồ sơ khai thuế điện tử.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ ++  Hồ sơ khai quyết toán năm gồm: ]
+    - +++ Bảng kê phí, lệ phí và các khoản thu khác phải nộp theo từng cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài thực hiện thu theo mẫu số 02-1/PHLPNG ban hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật quản lý thuế số 38/2019/QH14 và Thông tư  số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +++ Tờ khai quyết toán năm phí, lệ phí và các khoản thu khác do cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài thực hiện thu theo mẫu số 02/PHLPNG ban hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật quản lý thuế số 38/2019/QH14 và Thông tư  số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ ++ Hồ sơ khai quý: ]
+    - Tờ khai phí, lệ phí và các khoản thu khác do cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài thực hiện thu theo mẫu số 01/PHLPNG ban hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật quản lý thuế số 38/2019/QH14 và Thông tư  số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Thuế doanh nghiệp lớn - Cục Thuế
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * sửa đổi một số điều của Thông tư 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế (46/2024/TT-BTC)
+  * Nghị định số 125/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tài chính (125/2025/NĐ-CP)
+  * Nghị định số 91/2022/NĐ-CP sửa đổi bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (91/2022/NĐ-CP)
+  * Nghị định số 122/2025/NĐ-CP của Chính phủ: Quy định về phân quyền, phân cấp trong lĩnh vực quản lý thuế (122/2025/NĐ-CP)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

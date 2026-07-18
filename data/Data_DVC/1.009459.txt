@@ -1,0 +1,78 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009459
+Số quyết định: 123/QĐ-CHHĐTVN
+Tên thủ tục: Công bố mở luồng chuyên dùng nối với luồng quốc gia, luồng chuyên dùng nối với luồng địa phương
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    Tổ chức, cá nhân nộp hồ sơ đến Cục Hàng hải và Đường thủy Việt Nam (đối với luồng chuyên dùng nối với luồng quốc gia) hoặc Sở Xây dựng (đối với luồng chuyên dùng nối với luồng địa phương).
+  * b) Giải quyết TTHC:
+    - Công bố mở luồng chuyên dùng nối với luồng quốc gia:
+    + Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Cục Hàng hải và Đường thủy Việt Nam thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Bộ Xây dựng;
+    + Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ và báo cáo của Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng ban hành quyết định công bố mở luồng
+    - Công bố luồng chuyên dùng nối với luồng địa phương:
+    + Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Sở Xây dựng thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Ủy ban nhân dân cấp tỉnh;
+    + Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ và báo cáo của Sở Xây dựng, Ủy ban nhân dân cấp tỉnh ban hành quyết định công bố mở luồng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Công bố mở luồng chuyên dùng nối với luồng quốc gia:
++ Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Cục Hàng hải và Đường thủy Việt Nam thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Bộ Xây dựng;
++ Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ và báo cáo của Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng ban hành quyết định công bố mở luồng.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Công bố mở luồng chuyên dùng nối với luồng quốc gia:
++ Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Cục Hàng hải và Đường thủy Việt Nam thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Bộ Xây dựng;
++ Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ và báo cáo của Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng ban hành quyết định công bố mở luồng.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Công bố mở luồng chuyên dùng nối với luồng quốc gia:
++ Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Cục Hàng hải và Đường thủy Việt Nam thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Bộ Xây dựng;
++ Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ và báo cáo của Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng ban hành quyết định công bố mở luồng.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Công bố luồng chuyên dùng nối với luồng địa phương:
++ Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Sở Xây dựng thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Ủy ban nhân dân cấp tỉnh;
++ Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ và báo cáo của Sở Xây dựng, Ủy ban nhân dân cấp tỉnh ban hành quyết định công bố mở luồng.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Công bố luồng chuyên dùng nối với luồng địa phương:
++ Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Sở Xây dựng thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Ủy ban nhân dân cấp tỉnh;
++ Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ và báo cáo của Sở Xây dựng, Ủy ban nhân dân cấp tỉnh ban hành quyết định công bố mở luồng.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Công bố luồng chuyên dùng nối với luồng địa phương:
++ Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ, Sở Xây dựng thẩm định hồ sơ, nếu đủ điều kiện thì báo cáo Ủy ban nhân dân cấp tỉnh;
++ Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ và báo cáo của Sở Xây dựng, Ủy ban nhân dân cấp tỉnh ban hành quyết định công bố mở luồng.
+
+Thành phần hồ sơ:
+    - - Bình đồ hiện trạng luồng đề nghị công bố thể hiện địa danh, lý trình, vị trí báo hiệu, các công trình hiện có trên luồng đối với luồng không có dự án đầu tư xây dựng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị công bố mở luồng đường thủy nội địa theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Biên bản nghiệm thu hoàn thành công trình xây dựng đưa vào sử dụng, bản vẽ hoàn công công trình luồng, hệ thống báo hiệu đường thủy nội địa đối với luồng có dự án đầu tư xây dựng mới hoặc luồng được cải tạo, nâng cấp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Xây dựng, Ủy ban nhân dân cấp tỉnh, Cục Hàng hải và Đường thủy Việt Nam, Sở Giao thông công chánh - TP.HCM, Bộ Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công bố mở luồng đường thủy nội địa
+Căn cứ pháp lý:
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+  * Quy định về quản lý hoạt động đường thủy nội địa (08/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

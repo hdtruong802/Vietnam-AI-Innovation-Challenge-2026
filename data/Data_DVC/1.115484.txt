@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115484
+Số quyết định: 936/QĐ-TTPVHCC
+Tên thủ tục: Thủ tục cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế đối với doanh nghiệp đăng ký doanh nghiệp trên địa bàn Thành phố
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Du lịch
+Trình tự thực hiện:
+    - Doanh nghiệp đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế nộp hồ sơ tại các Điểm hỗ trợ dịch vụ công số thuộc Trung tâm phục vụ hành chính công thành phố Hà Nội.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định, Sở Du lịch thành phố Hà Nội thẩm định, cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế cho doanh nghiệp; trường hợp từ chối, phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 2000000 VNĐ (Phí thẩm định Cấp mới, cấp đổi) | 1500000 VNĐ (Phí thẩm định Cấp lại)
+    Mô tả: 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 2000000 VNĐ (Phí thẩm định Cấp mới, cấp đổi) | 1500000 VNĐ (Phí thẩm định Cấp lại)
+    Mô tả: 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 2000000 VNĐ (Phí thẩm định Cấp mới, cấp đổi) | 1500000 VNĐ (Phí thẩm định Cấp lại)
+    Mô tả: 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế (Mẫu số 07 ban hành kèm theo Phụ lục I.9 Nghị quyết số 66.18/2026/NQ-CP ngày 18/5/2026 của Chính phủ).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư do cơ quan nhà nước có thẩm quyền cấp
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành quốc tế (đối với trường hợp doanh nghiệp đề nghị cấp giấy phép kinh doanh dịch vụ lữ hành lần đầu hoặc thay đổi phạm vi kinh doanh lữ hành quốc tế);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bằng tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành của người phụ trách kinh doanh dịch vụ lữ hành; hoặc bằng tốt nghiệp cao đẳng trở lên chuyên ngành khác và chứng chỉ nghiệp vụ điều hành du lịch quốc tế.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 936.2026.06	Quyết định bổ nhiệm hoặc hợp đồng lao động giữa doanh nghiệp kinh doanh dịch vụ lữ hành với người phụ trách kinh doanh dịch vụ lữ hành (đối với trường hợp doanh nghiệp đề nghị cấp giấy phép lữ hành lần đầu);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy phép kinh doanh dịch vụ lữ hành bản gốc đã được cấp (đối với trường hợp doanh nghiệp thay đổi Giấy chứng nhận đăng ký doanh nghiệp hoặc thay đổi phạm vi kinh doanh lữ hành quốc tế).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Sở Du lịch Thành phố Hà Nội
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Các Điểm hỗ trợ dịch vụ công số - Trung tâm Phục vụ hành chính công thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép kinh doanh dịch vụ lữ hành quốc tế
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: - Đảm bảo tuân thủ Luật Thủ đô số 02/2026/QH16 và các văn bản quy định pháp luật khác đảm bảo chính xác, công bằng, minh bạch. 
+- Cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế đối với doanh nghiệp đăng ký doanh nghiệp trên địa bàn Thành phố tuân thủ nguyên tắc: doanh nghiệp phải được thành lập hợp pháp, đăng ký mã ngành, thực hiện ký quỹ tại 
+ngân hàng và người phụ trách phải có văn bằng, chứng chỉ theo quy định. 
+- Việc giải quyết thủ tục hành chính và quản lý hoạt động kinh doanh dịch vụ lữ hành quốc tế, cơ sở lưu trú du lịch trên địa bàn Thành phố phải bảo đảm tính kết nối, liên thông, chia sẻ và cập nhật kịp thời, chính xác dữ liệu với hệ thống cơ sở dữ liệu du lịch quốc gia và các hệ thống thông tin chuyên ngành theo quy định.
+Từ khóa: Không có thông tin
+Mô tả: - Đảm bảo tuân thủ Luật Thủ đô số 02/2026/QH16 và các văn bản quy định pháp luật khác đảm bảo chính xác, công bằng, minh bạch. 
+- Cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế đối với doanh nghiệp đăng ký doanh nghiệp trên địa bàn Thành phố tuân thủ nguyên tắc: doanh nghiệp phải được thành lập hợp pháp, đăng ký mã ngành, thực hiện ký quỹ tại 
+ngân hàng và người phụ trách phải có văn bằng, chứng chỉ theo quy định. 
+- Việc giải quyết thủ tục hành chính và quản lý hoạt động kinh doanh dịch vụ lữ hành quốc tế, cơ sở lưu trú du lịch trên địa bàn Thành phố phải bảo đảm tính kết nối, liên thông, chia sẻ và cập nhật kịp thời, chính xác dữ liệu với hệ thống cơ sở dữ liệu du lịch quốc gia và các hệ thống thông tin chuyên ngành theo quy định.

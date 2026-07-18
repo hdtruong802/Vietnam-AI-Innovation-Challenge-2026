@@ -1,0 +1,153 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000312
+Số quyết định: 71/QĐ-BXD
+Tên thủ tục: Cấp Giấy phép kinh doanh vận chuyển hàng không, Giấy phép kinh doanh  hàng không chung
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Người đề nghị gửi hồ sơ trực tiếp hoặc qua hệ thống bưu chính hoặc bằng các hình thức phù hợp khác đến Cục Hàng không Việt Nam và phải chịu trách nhiệm về tính chính xác, trung thực của các thông tin trong hồ sơ.
+    b) Giải quyết TTHC:
+    - Trường hợp hồ sơ hợp lệ, trong thời hạn 03 ngày làm việc, Cục Hàng không Việt Nam có văn bản thông báo tiếp nhận hồ sơ và yêu cầu doanh nghiệp đóng phí thẩm định theo quy định. Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ phí thẩm định, Cục Hàng không Việt Nam tiến hành thẩm định hồ sơ và báo cáo Bộ Xây dựng kết quả thẩm định.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận được báo cáo kết quả thẩm định của Cục Hàng không Việt Nam, Bộ Xây dựng xem xét, trình Thủ tướng Chính phủ. Trường hợp Bộ Xây dựng không chấp thuận kết quả thẩm định thì có văn bản trả lời Cục Hàng không Việt Nam và nêu rõ lý do.
+    - Trong thời hạn 07 ngày làm việc kể từ ngày nhận được Tờ trình của Bộ Xây dựng, Thủ tướng Chính phủ xem xét, cho phép Bộ Xây dựng cấp Giấy phép kinh doanh vận chuyển hàng không, Giấy phép kinh doanh hàng không chung. Trường hợp không cho phép, Thủ tướng Chính phủ thông báo tới Bộ Xây dựng và nêu rõ lý do.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến bằng văn bản của Thủ tướng Chính phủ, Bộ Xây dựng cấp Giấy phép theo Mẫu số 02 quy định tại Phụ lục ban hành kèm theo Nghị định này hoặc thông báo ý kiến của Thủ tướng Chính phủ về việc không cấp Giấy phép kinh doanh vận chuyển hàng không, Giấy phép kinh doanh hàng không chung.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 35 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Mức phí kể từ ngày 01/7/2025 đến hết ngày 31/12/2026 theo quy định tại Thông tư số 64/2025/TT-BTC: ngày 30/6/2025 của Bộ trưởng Bộ Tài chính quy định mức thu , miễn một số khoản phí, lệ phí nhằm hỗ trợ doanh nghiệp, người dân)
+    Mô tả: Nộp hồ sơ trực tiếp hoặc 
+qua hệ thống bưu chính;
+Hoặc bằng các hình thức phù hợp khác.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 35 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Mức phí kể từ ngày 01/7/2025 đến hết ngày 31/12/2026 theo quy định tại Thông tư số 64/2025/TT-BTC: ngày 30/6/2025 của Bộ trưởng Bộ Tài chính quy định mức thu , miễn một số khoản phí, lệ phí nhằm hỗ trợ doanh nghiệp, người dân)
+    Mô tả: Nộp hồ sơ trực tiếp hoặc
+ qua hệ thống bưu chính;
+Hoặc bằng các hình thức phù hợp khác.
+
+Thành phần hồ sơ:
+    - Báo cáo (kèm tài liệu chứng minh) về việc đáp ứng các điều kiện kinh doanh vận chuyển hàng không trong đó gồm các nội dung: Phương án về số lượng tàu bay dự kiến khai thác; phương án tổ chức bộ máy bảo đảm khai thác tàu bay, kinh doanh vận tải hàng không, phương án kinh doanh và chiến lược phát triển sản phẩm; nhãn hiệu dự kiến sử dụng; sơ đồ bộ máy tổ chức của doanh nghiệp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng nguyên tắc hoặc thỏa thuận về việc mua, thuê mua hoặc thuê tàu bay
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách thành viên, cổ đông tại thời điểm nộp hồ sơ; danh sách thành viên, cổ đông phải đảm bảo đầy đủ các thông tin: Họ và tên; ngày tháng năm sinh; quốc tịch; nơi đăng ký hộ khẩu thường trú; chỗ ở hiện tại; tỷ lệ phần vốn góp hay số cổ phần nắm giữ; người đại diện quản lý phần vốn góp đối với thành viên, cổ đông là tổ chức; thỏa thuận góp vốn của các cổ đông, thành viên (bản sao có xác nhận của doanh nghiệp hoặc bản sao và xuất trình bản chính để đối chiếu).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao Điều lệ hoạt động của doanh nghiệp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản chính văn bản xác nhận vốn;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị cấp giấy phép theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Bộ Xây dựng, Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Thủ tướng Chính phủ
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Mẫu Giấy phép kinh doanh vận chuyển hàng không, Giấy phép kinh doanh hàng không chung
+Căn cứ pháp lý:
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Quy định về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng (92/2016/NĐ-CP)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Xây dựng (14/2026/NĐ-CP)
+  * sửa đổi, bổ sung một số điều của Nghị định số 92/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng và Nghị định số 30/2013/NĐ-CP ngày 08 tháng 4 năm 2013 của Chính phủ về kinh doanh vận chuyển hàng không và hoạt động hàng không chung (89/2019/NĐ-CP)
+  * Sửa đổi Nghị định 30/2013/NĐ-CP về kinh doanh vận chuyển hàng không và hoạt động hàng không chung và Nghị định 92/2016/NĐ-CP quy định về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng (15/2024/NĐ-CP)
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không (193/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: * Điều kiện về phương án bảo đảm có tàu bay khai thác
+1. Phương án bảo đảm có tàu bay khai thác bao gồm các nội dung sau đây:7
+a) Số lượng, chủng loại tàu bay, tuổi của tàu bay;
+b) Hình thức chiếm hữu;
+c) Phương án khai thác, bảo dưỡng và nguồn nhân lực bảo đảm khai thác, bảo dưỡng
+tàu bay.
+2. Số lượng tàu bay duy trì trong suốt quá trình kinh doanh vận tải hàng không tối
+thiểu là 03 tàu bay đối với kinh doanh vận chuyển hàng không; tối thiểu là 01 tàu bay
+đối với kinh doanh hàng không chung.
+* Điều kiện về tổ chức bộ máy
+1. Có tổ chức bộ máy thực hiện hệ thống quản lý an toàn, an ninh, hoạt động khai
+thác tàu bay, bảo dưỡng tàu bay, huấn luyện bay, khai thác mặt đất.
+2. Người được bổ nhiệm giữ vị trí phụ trách trong hệ thống quản lý an toàn, an ninh,
+khai thác tàu bay, bảo dưỡng tàu bay, huấn luyện bay phải có kinh nghiệm tối thiểu 03
+năm công tác liên tục trong lĩnh vực được bổ nhiệm, có văn bằng, chứng chỉ được cấp
+hoặc công nhận theo quy định của pháp luật về hàng không dân dụng.
+3. Đối với doanh nghiệp có vốn đầu tư nước ngoài, số thành viên là người nước
+ngoài không được vượt quá một phần ba tổng số thành viên tham gia bộ máy điều hành.
+Bộ máy điều hành để tính tỷ lệ theo yêu cầu của khoản này gồm:
+a) Tổng Giám đốc (Giám đốc), các Phó Tổng Giám đốc (Phó Giám đốc);
+b) Kế toán trưởng;
+c) Người phụ trách các lĩnh vực: hệ thống quản lý an toàn; khai thác tàu bay; bảo
+dưỡng tàu bay; huấn luyện tổ bay và người giữ chức vụ tương đương xác định theo bộ
+máy tổ chức của doanh nghiệp.
+* Điều kiện về vốn
+1. Mức vốn tối thiểu (bao gồm vốn chủ sở hữu và vốn vay) để thành lập và duy trì
+doanh nghiệp kinh doanh vận chuyển hàng không:
+a) Khai thác đến 10 tàu bay: 300 tỷ đồng Việt Nam;
+b) Khai thác từ 11 đến 30 tàu bay: 600 tỷ đồng Việt Nam;
+c) Khai thác trên 30 tàu bay: 700 tỷ đồng Việt Nam.
+2. Mức vốn tối thiểu để thành lập và duy trì doanh nghiệp kinh doanh hàng không
+chung: 100 tỷ đồng Việt Nam.
+3. Doanh nghiệp kinh doanh vận tải hàng không có vốn đầu tư nước ngoài phải đáp
+ứng các điều kiện:
+a) Nhà đầu tư nước ngoài chiếm không quá 34% vốn điều lệ;
+b) Phải có ít nhất một cá nhân Việt Nam hoặc một pháp nhân Việt Nam giữ phần
+vốn điều lệ lớn nhất;
+c) Trường hợp pháp nhân Việt Nam có vốn đầu tư nước ngoài góp vốn thì phần vốn
+góp nước ngoài chiếm không quá 49% vốn điều lệ của pháp nhân.
+* Phương án kinh doanh và chiến lược phát triển
+Phương án kinh doanh và chiến lược phát triển của doanh nghiệp bao gồm các nội dung
+sau:
+1. Đánh giá nhu cầu và xu hướng phát triển của thị trường.
+2. Đánh giá thực tiễn và mức độ cạnh tranh dịch vụ được cung cấp trên thị trường.
+3. Chiến lược phát triển sản phẩm vận chuyển hàng không, chiến lược phát triển
+đội tàu bay và kế hoạch phát triển kinh doanh của 05 năm đầu kể từ ngày khai thác.
+Từ khóa: Không có thông tin
+Mô tả: * Điều kiện về phương án bảo đảm có tàu bay khai thác
+1. Phương án bảo đảm có tàu bay khai thác bao gồm các nội dung sau đây:7
+a) Số lượng, chủng loại tàu bay, tuổi của tàu bay;
+b) Hình thức chiếm hữu;
+c) Phương án khai thác, bảo dưỡng và nguồn nhân lực bảo đảm khai thác, bảo dưỡng
+tàu bay.
+2. Số lượng tàu bay duy trì trong suốt quá trình kinh doanh vận tải hàng không tối
+thiểu là 03 tàu bay đối với kinh doanh vận chuyển hàng không; tối thiểu là 01 tàu bay
+đối với kinh doanh hàng không chung.
+* Điều kiện về tổ chức bộ máy
+1. Có tổ chức bộ máy thực hiện hệ thống quản lý an toàn, an ninh, hoạt động khai
+thác tàu bay, bảo dưỡng tàu bay, huấn luyện bay, khai thác mặt đất.
+2. Người được bổ nhiệm giữ vị trí phụ trách trong hệ thống quản lý an toàn, an ninh,
+khai thác tàu bay, bảo dưỡng tàu bay, huấn luyện bay phải có kinh nghiệm tối thiểu 03
+năm công tác liên tục trong lĩnh vực được bổ nhiệm, có văn bằng, chứng chỉ được cấp
+hoặc công nhận theo quy định của pháp luật về hàng không dân dụng.
+3. Đối với doanh nghiệp có vốn đầu tư nước ngoài, số thành viên là người nước
+ngoài không được vượt quá một phần ba tổng số thành viên tham gia bộ máy điều hành.
+Bộ máy điều hành để tính tỷ lệ theo yêu cầu của khoản này gồm:
+a) Tổng Giám đốc (Giám đốc), các Phó Tổng Giám đốc (Phó Giám đốc);
+b) Kế toán trưởng;
+c) Người phụ trách các lĩnh vực: hệ thống quản lý an toàn; khai thác tàu bay; bảo
+dưỡng tàu bay; huấn luyện tổ bay và người giữ chức vụ tương đương xác định theo bộ
+máy tổ chức của doanh nghiệp.
+* Điều kiện về vốn
+1. Mức vốn tối thiểu (bao gồm vốn chủ sở hữu và vốn vay) để thành lập và duy trì
+doanh nghiệp kinh doanh vận chuyển hàng không:
+a) Khai thác đến 10 tàu bay: 300 tỷ đồng Việt Nam;
+b) Khai thác từ 11 đến 30 tàu bay: 600 tỷ đồng Việt Nam;
+c) Khai thác trên 30 tàu bay: 700 tỷ đồng Việt Nam.
+2. Mức vốn tối thiểu để thành lập và duy trì doanh nghiệp kinh doanh hàng không
+chung: 100 tỷ đồng Việt Nam.
+3. Doanh nghiệp kinh doanh vận tải hàng không có vốn đầu tư nước ngoài phải đáp
+ứng các điều kiện:
+a) Nhà đầu tư nước ngoài chiếm không quá 34% vốn điều lệ;
+b) Phải có ít nhất một cá nhân Việt Nam hoặc một pháp nhân Việt Nam giữ phần
+vốn điều lệ lớn nhất;
+c) Trường hợp pháp nhân Việt Nam có vốn đầu tư nước ngoài góp vốn thì phần vốn
+góp nước ngoài chiếm không quá 49% vốn điều lệ của pháp nhân.
+* Phương án kinh doanh và chiến lược phát triển
+Phương án kinh doanh và chiến lược phát triển của doanh nghiệp bao gồm các nội dung
+sau:
+1. Đánh giá nhu cầu và xu hướng phát triển của thị trường.
+2. Đánh giá thực tiễn và mức độ cạnh tranh dịch vụ được cung cấp trên thị trường.
+3. Chiến lược phát triển sản phẩm vận chuyển hàng không, chiến lược phát triển
+đội tàu bay và kế hoạch phát triển kinh doanh của 05 năm đầu kể từ ngày khai thác.

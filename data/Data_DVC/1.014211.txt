@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014211
+Số quyết định: 6636/QĐ-BCA-C12
+Tên thủ tục: Hỗ trợ chi phí từ Quỹ Phát triển dữ liệu quốc gia
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Dữ liệu
+Trình tự thực hiện:
+    - Bước 1: Tổ chức, cá nhân có nhu cầu hỗ trợ chi phí chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: Tổ chức, cá nhân nộp hồ sơ đề nghị hỗ trợ chi phí về Quỹ Phát triển dữ liệu quốc gia (Trung tâm dữ liệu quốc gia, Bộ Công an).
+    - Bước 3: Trong thời hạn 10 ngày làm việc kể từ ngày Quỹ Phát triển dữ liệu quốc gia nhận được đủ hồ sơ hợp lệ từ tổ chức, cá nhân, Quỹ Phát triển dữ liệu quốc gia tổ chức thẩm định; ra quyết định hỗ trợ và thông báo cho tổ chức, cá nhân; trường hợp từ chối hỗ trợ, Quỹ Phát triển dữ liệu quốc gia phải có văn bản thông báo cho tổ chức, cá nhân về lý do từ chối.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Hồ sơ về công trình nghiên cứu, dự án của tổ chức, cá nhân và các văn bản, tài liệu chứng minh tổ chức, cá nhân đáp ứng đủ điều kiện, tiêu chí nhận hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Văn bản đề nghị hỗ trợ chi phí từ Quỹ Phát triển dữ liệu quốc gia
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Bộ Công an
+Cơ quan có thẩm quyền: Trung tâm Dữ liệu quốc gia
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thỏa thuận hỗ trợ chi phí
+Căn cứ pháp lý:
+  * Luật dữ liệu (60/2024/QH15)
+  * Nghị định quy định về Quỹ Phát triển dữ liệu quốc gia (160/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

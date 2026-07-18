@@ -1,0 +1,85 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014704
+Số quyết định: 1040/QĐ-BCT
+Tên thủ tục: Cấp Giấy phép sản xuất hóa chất cấm
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hóa chất
+Trình tự thực hiện:
+    a) Tổ chức đề nghị cấp Giấy phép sản xuất hóa chất cấm lập 01 bộ hồ sơ quy định tại khoản 2 Điều 17 Nghị định số 26/2026/NĐ-CP gửi qua đường bưu chính hoặc nộp trực tiếp hoặc qua hệ thống dịch vụ công trực tuyến đến Bộ quản lý chuyên ngành theo quy định tại khoản 1 Điều 17 Nghị định số 26/2026/NĐ-CP;
+    b) Trường hợp hồ sơ chưa đầy đủ và hợp lệ, trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận hồ sơ, cơ quan có thẩm quyền thông báo để tổ chức bổ sung, hoàn chỉnh hồ sơ. Thời gian hoàn chỉnh hồ sơ không tính vào thời gian cấp phép quy định tại điểm c khoản 3 Điều 17 Nghị định số 26/2026/NĐ-CP;
+    c) Trong thời hạn 16 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ quy định tại khoản 1 Điều 17 Nghị định số 26/2026/NĐ-CP, cơ quan có thẩm quyền xem xét, thẩm định hồ sơ, kiểm tra điều kiện thực tế và cấp Giấy phép cho tổ chức. Trường hợp không cấp Giấy phép, cơ quan có thẩm quyền cấp Giấy phép có văn bản trả lời, nêu rõ lý do;
+    d) Giấy phép sản xuất hóa chất cấm có thời hạn 12 tháng kể từ ngày cấp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 16 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Tổ chức thực hiện nộp phí thẩm định theo quy định của pháp luật về phí và lệ phí khi nộp hồ sơ đề nghị cấp Giấy phép sản xuất hóa chất cấm.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 16 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Tổ chức thực hiện nộp phí thẩm định theo quy định của pháp luật về phí và lệ phí khi nộp hồ sơ đề nghị cấp Giấy phép sản xuất hóa chất cấm.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 16 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Tổ chức thực hiện nộp phí thẩm định theo quy định của pháp luật về phí và lệ phí khi nộp hồ sơ đề nghị cấp Giấy phép sản xuất hóa chất cấm.)
+
+Thành phần hồ sơ:
+    - b) Các giấy tờ quy định tại các điểm b, c, đ, e, g khoản 1 Điều 9 của Nghị định số 26/2026/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Văn bản đề nghị cấp Giấy phép sản xuất hóa chất cấm;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Phương án kiểm soát phòng, chống thất thoát hóa chất cấm và bản cam kết sản xuất hóa chất cấm cho một hoặc một số mục đích đặc biệt được quy định tại khoản 2, Điều 6 Luật Đầu tư, bao gồm phân tích, kiểm nghiệm, nghiên cứu khoa học, y tế, sản xuất dược phẩm, điều tra tội phạm, bảo vệ quốc phòng, an ninh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Bản thuyết minh quy trình công nghệ, thao tác an toàn trong sản xuất hóa chất cấm;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép sản xuất hóa chất hoá chất cấm
+Căn cứ pháp lý:
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Thông tư số 01/2026/TT-BCT của Bộ trưởng Bộ Công Thương quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất và Nghị định số 26/2026/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa. (01/2026/TT-BCT)
+  * Nghị định số 26/2026/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa; (26/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: 1. Tổ chức sản xuất hóa chất cấm là tổ chức được thành lập theo quy định của pháp luật.
+2. Có hoạt động đặc biệt sử dụng hóa chất cấm để phục vụ mục đích nghiên cứu khoa học, quốc phòng, an ninh, phòng chống thiên tai, dịch bệnh hoặc thực hiện nhiệm vụ do Chính phủ, Thủ tướng Chính phủ giao cần sử dụng hóa chất cấm.
+3. Nhà xưởng, kho chứa sản xuất hóa chất phải đáp ứng các điều kiện sau:
+a) Đáp ứng quy định tại khoản 2, 3, 4, 5 Điều 4 của Nghị định số 26/2026/NĐ-CP;
+b) Phải có quy trình thao tác an toàn. Quy trình phải được niêm yết tại khu vực sản xuất hóa chất cấm.
+4. Công nghệ phải tuân thủ quy định tại khoản 6 Điều 4 của Nghị định số 26/2026/NĐ-CP.
+5. Đối với việc sản xuất Hóa chất Bảng 1 với mục đích nghiên cứu, y tế, dược phẩm hoặc quốc phòng, an ninh tại cơ sở quy mô đơn lẻ phải đáp ứng các quy định sau:
+a) Việc sản xuất được thực hiện trong các thiết bị phản ứng không cấu thành sản xuất liên tục;
+b) Dung tích của các thiết bị phản ứng không vượt quá 100 lít và tổng dung tích của các thiết bị phản ứng có dung tích trên 5 lít không vượt quá 500 lít.
+6. Đối với việc sản xuất Hóa chất Bảng 1 tại cơ sở khác với cơ sở quy mô đơn lẻ quy định tại điểm a khoản 4 Điều 16 Nghị định số 26/2026/NĐ-CP, phải đáp ứng quy định về cơ sở sản xuất và quy mô sản xuất cho các mục đích cụ thể như sau:
+a) Quốc phòng, an ninh: một cơ sở sản xuất với tổng sản lượng không vượt quá 10 kg/năm;
+b) Nghiên cứu, y tế hoặc dược phẩm: một cơ sở sản xuất với sản lượng không vượt quá 100 gam/năm đối với một hóa chất nhưng tổng sản lượng không vượt quá 10 kg/năm;
+c) Phòng thí nghiệm: một cơ sở sản xuất với tổng sản lượng không vượt quá 100 gam/năm.
+7. Tồn trữ, bảo quản hóa chất
+Hóa chất cấm phải được phân khu, sắp xếp theo tính chất của từng loại hóa chất. Không được bảo quản các hóa chất có khả năng phản ứng với nhau gây mất an toàn hoặc có yêu cầu về phòng, chống cháy nổ khác nhau trong cùng một khu vực;
+8. Năng lực chuyên môn
+a) Người chịu trách nhiệm chuyên môn về an toàn hóa chất của cơ sở sản xuất phải có bằng cử nhân hoặc tương đương trở lên ngành đào tạo về hóa học thuộc Danh mục quy định tại Phụ lục III ban hành kèm theo Nghị định 25/2026/NĐ-CP;
+ b) Đáp ứng quy định tại khoản 8 Điều 4 của Nghị định số 26/2026/NĐ-CP.
+9. Có phương án kiểm soát phòng, chống thất thoát hóa chất cấm theo mẫu do Bộ trưởng Bộ Công Thương quy định (trong đó bao gồm tối thiểu các nội dung: chủng loại; khối lượng; cách thức bảo quản; kế hoạch kiểm gia, giám sát).
+Từ khóa: Không có thông tin
+Mô tả: 1. Tổ chức sản xuất hóa chất cấm là tổ chức được thành lập theo quy định của pháp luật.
+2. Có hoạt động đặc biệt sử dụng hóa chất cấm để phục vụ mục đích nghiên cứu khoa học, quốc phòng, an ninh, phòng chống thiên tai, dịch bệnh hoặc thực hiện nhiệm vụ do Chính phủ, Thủ tướng Chính phủ giao cần sử dụng hóa chất cấm.
+3. Nhà xưởng, kho chứa sản xuất hóa chất phải đáp ứng các điều kiện sau:
+a) Đáp ứng quy định tại khoản 2, 3, 4, 5 Điều 4 của Nghị định số 26/2026/NĐ-CP;
+b) Phải có quy trình thao tác an toàn. Quy trình phải được niêm yết tại khu vực sản xuất hóa chất cấm.
+4. Công nghệ phải tuân thủ quy định tại khoản 6 Điều 4 của Nghị định số 26/2026/NĐ-CP.
+5. Đối với việc sản xuất Hóa chất Bảng 1 với mục đích nghiên cứu, y tế, dược phẩm hoặc quốc phòng, an ninh tại cơ sở quy mô đơn lẻ phải đáp ứng các quy định sau:
+a) Việc sản xuất được thực hiện trong các thiết bị phản ứng không cấu thành sản xuất liên tục;
+b) Dung tích của các thiết bị phản ứng không vượt quá 100 lít và tổng dung tích của các thiết bị phản ứng có dung tích trên 5 lít không vượt quá 500 lít.
+6. Đối với việc sản xuất Hóa chất Bảng 1 tại cơ sở khác với cơ sở quy mô đơn lẻ quy định tại điểm a khoản 4 Điều 16 Nghị định số 26/2026/NĐ-CP, phải đáp ứng quy định về cơ sở sản xuất và quy mô sản xuất cho các mục đích cụ thể như sau:
+a) Quốc phòng, an ninh: một cơ sở sản xuất với tổng sản lượng không vượt quá 10 kg/năm;
+b) Nghiên cứu, y tế hoặc dược phẩm: một cơ sở sản xuất với sản lượng không vượt quá 100 gam/năm đối với một hóa chất nhưng tổng sản lượng không vượt quá 10 kg/năm;
+c) Phòng thí nghiệm: một cơ sở sản xuất với tổng sản lượng không vượt quá 100 gam/năm.
+7. Tồn trữ, bảo quản hóa chất
+Hóa chất cấm phải được phân khu, sắp xếp theo tính chất của từng loại hóa chất. Không được bảo quản các hóa chất có khả năng phản ứng với nhau gây mất an toàn hoặc có yêu cầu về phòng, chống cháy nổ khác nhau trong cùng một khu vực;
+8. Năng lực chuyên môn
+a) Người chịu trách nhiệm chuyên môn về an toàn hóa chất của cơ sở sản xuất phải có bằng cử nhân hoặc tương đương trở lên ngành đào tạo về hóa học thuộc Danh mục quy định tại Phụ lục III ban hành kèm theo Nghị định 25/2026/NĐ-CP;
+ b) Đáp ứng quy định tại khoản 8 Điều 4 của Nghị định số 26/2026/NĐ-CP.
+9. Có phương án kiểm soát phòng, chống thất thoát hóa chất cấm theo mẫu do Bộ trưởng Bộ Công Thương quy định (trong đó bao gồm tối thiểu các nội dung: chủng loại; khối lượng; cách thức bảo quản; kế hoạch kiểm gia, giám sát).

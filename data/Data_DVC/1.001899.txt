@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001899
+Số quyết định: 647/QĐ-BXD
+Tên thủ tục: Cho ý kiến đối với dự án xây dựng công trình trong vùng nước cảng biển  và các công trình khác xây dựng trong vùng nước cảng biển
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Đối với các dự án công trình giao cắt với vùng nước cảng biển, luồng hàng hải hoặc các công trình có ảnh hưởng đến hoạt động hàng hải như: Cầu, đường dây điện, cáp treo, các công trình ngầm và các công trình tương tự khác, trong quá trình đề xuất dự án, chủ đầu tư gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác đến Cục Hàng hải và Đường thủy Việt Nam.
+    b) Giải quyết TTHC:
+    Chậm nhất 03 ngày làm việc, kể từ ngày nhận được văn bản lấy ý kiến và bản sao bình đồ bố trí mặt bằng tổng thể của công trình, Cục Hàng hải và Đường thủy Việt Nam có văn bản trả lời về các yêu cầu cần tuân thủ để bảo đảm an toàn hàng hải, an ninh hàng hải, phòng ngừa ô nhiễm môi trường và gửi trực tiếp hoặc qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc bằng hình thức phù hợp khác đến chủ đầu tư; trường hợp không chấp thuận, Cục Hàng hải và Đường thủy Việt Nam phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Chậm nhất 03 ngày làm việc, kể từ ngày nhận được văn bản lấy ý kiến và bản sao bình đồ bố trí mặt bằng tổng thể của công trình
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Chậm nhất 03 ngày làm việc, kể từ ngày nhận được văn bản lấy ý kiến và bản sao bình đồ bố trí mặt bằng tổng thể của công trình
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Chậm nhất 03 ngày làm việc, kể từ ngày nhận được văn bản lấy ý kiến và bản sao bình đồ bố trí mặt bằng tổng thể của công trình
+
+Thành phần hồ sơ:
+  [ - Đối với các công trình khác không thuộc các trường hợp trên, không phải cảng, bến thủy nội địa, hồ sơ gồm: ]
+    - Văn bản lấy ý kiến về vị trí, quy mô dự kiến của công trình
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ - Đối với các dự án công trình giao cắt với vùng nước cảng biển, luồng hải hoặc các công trình có ảnh hưởng đến hoạt động hàng hải như: Cầu, đường dây điện, cáp treo, các công trình ngầm và các công trình tương tự khác, hồ sơ bao gồm: ]
+    - + Bản sao bình đồ bố trí mặt bằng tổng thể của công trình.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Văn bản lấy ý kiến về sự cần thiết, vị trí, quy mô dự kiến của công trình, độ cao tĩnh không, độ sâu công trình;
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Hàng hải và Đường thủy Việt Nam, Cảng vụ hàng hải, Cảng vụ đường thủy nội địa
+Cơ quan có thẩm quyền: Cục Hàng hải và Đường thủy Việt Nam, Cảng vụ hàng hải, Cảng vụ đường thủy nội địa
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản trả lời về các yêu cầu cần tuân thủ để bảo đảm an toàn hàng hải, an ninh hàng hải, phòng ngừa ô nhiễm môi trường.
+Căn cứ pháp lý:
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định quy định liên quan đến hoạt động kinh doanh trong lĩnh vực hàng hải. (69/2022/NĐ-CP)
+  * Bộ luật Hàng hải Việt Nam (95/2015/QH13)
+  * Nghị định quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải (58/2017/NĐ-CP)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

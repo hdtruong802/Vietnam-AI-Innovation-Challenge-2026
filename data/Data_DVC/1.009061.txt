@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009061
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục bán hàng miễn thuế cho đối tượng mua là người chờ xuất cảnh mua hàng tại cửa hàng miễn thuế trong nội địa
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp yêu cầu khách hàng xuất trình hộ chiếu hoặc giấy thông hành
+    Bước 2: Doanh nghiệp nhập dữ liệu thông tin về hàng hóa và khách mua hàng lên hệ thống xử lý dữ liệu điện tử
+    - Trường hợp bán hàng miễn thuế trực tuyến: doanh nghiệp nhập dữ liệu về thông tin khách hàng và hàng hóa vào hệ thống xử lý dữ liệu điện tử khi chấp nhận đơn hàng và hoàn tất thủ tục thanh toán. Khi giao hàng cho khách mua hàng, doanh nghiệp kiểm tra đối chiếu thông tin mà khách đã kê khai khi mua hàng trực tuyến với thông tin trên các giấy tờ liên quan đến khách mua hàng theo quy định đối với từng đối tượng.
+    Bước 3: Lập Phiếu giao hàng theo Mẫu số 02/PGH Phụ lục II ban hành kèm theo Nghị định 100/2020/NĐ-CP ngày 28/8/2020 (trừ trường hợp giao hàng ở nước ngoài theo yêu cầu của khách) và thực hiện gửi dữ liệu Phiếu giao hàng đến hệ thống xử lý dữ liệu điện tử
+    Bước 4: Vận chuyển và xuất trình hàng hóa kèm theo 02 liên Phiếu giao hàng với Chi cục Hải quan cửa khẩu nơi người mua hàng xuất cảnh, để bàn giao hàng hóa này cho người mua hàng tại quầy nhận hàng trong khu cách ly cửa khẩu xuất cảnh
+    Bước 5: Chi cục Hải quan cửa khẩu nơi người mua hàng xuất cảnh tiếp nhận Phiếu giao hàng do nhân viên của cửa hàng miễn thuế xuất trình tại quầy nhận hàng trong khu cách ly cửa khẩu xuất cảnh; kiểm tra đối chiếu hàng với nội dung kê khai trên Phiếu giao hàng; xác nhận ký tên và đóng dấu công chức trên Phiếu giao hàng; giao 01 liên Phiếu giao hàng cho nhân viên giao hàng của doanh nghiệp kinh doanh hàng miễn thuế lưu, lưu 01 liên;
+    Bước 6: Cuối mỗi ngày (ca) công chức hải quan xác nhận trên hệ thống xử lý dữ liệu điện tử về số phiếu giao hàng đã được xác nhận
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Phiếu giao hàng theo Mẫu số 02/PGH Phụ lục II ban hành kèm theo Nghị định 100/2020/NĐ-CP ngày 28/8/2020
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Thông tin về khách hàng và hàng hóa khách mua
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận của Chi cục Hải quan cửa khẩu trên Phiếu giao hàng
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

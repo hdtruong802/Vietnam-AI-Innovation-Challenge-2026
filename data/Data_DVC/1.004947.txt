@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004947
+Số quyết định: 2629/QĐ-BKHCN
+Tên thủ tục: Kiểm định thiết bị viễn thông, đài vô tuyến điện
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    1. Trường hợp kiểm định lần đầu đối với thiết bị viễn thông, đài vô tuyến điện thuộc “Danh mục thiết bị viễn thông, đài vô tuyến điện bắt buộc kiểm định”: trước khi đưa thiết bị viễn thông, đài vô tuyến điện vào khai thác sử dụng, tổ chức, doanh nghiệp phải tiến hành kiểm định theo thủ tục quy định tại Điều 7 của Thông tư số 07/2020/TT-BTTTT.
+    - Đối với các thiết bị viễn thông, đài vô tuyến điện đã được kiểm định:
+    a) Trước ngày hết hạn ghi trên Giấy chứng nhận kiểm định ít nhất sáu mươi (60) ngày các tổ chức, doanh nghiệp phải tiến hành kiểm định lại theo thủ tục quy định tại Điều 7 của Thông tư số 07/2020/TT-BTTTT.
+    b) Khi có sự thay đổi thông số kỹ thuật ngoài quy định cho phép hoặc khi có thay đổi công trình xây dựng lân cận dẫn đến mất an toàn phơi nhiễm trường điện từ, Giấy chứng nhận kiểm định đối với thiết bị đó sẽ hết hiệu lực và tổ chức, doanh nghiệp phải ngừng hoạt động, khắc phục những điểm chưa phù hợp và tiến hành kiểm định lại thiết bị viễn thông, đài vô tuyến điện theo thủ tục quy định tại Điều 7 của Thông tư số 07/2020/TT-BTTTT.
+    c) Trường hợp thiết bị viễn thông, đài vô tuyến điện đã được kiểm định và có giới hạn an toàn ghi trong Giấy chứng nhận kiểm định: khi có sự thay đổi thông số kỹ thuật trong quy định cho phép thì tổ chức, doanh nghiệp không phải kiểm định lại và phải chịu trách nhiệm đảm bảo độ an toàn của thiết bị viễn thông, đài vô tuyến điện.
+    - Kiểm định bất thường: Thực hiện khi có yêu cầu của cơ quan nhà nước có thẩm quyền hoặc khi đã khắc phục xong sự cố hoặc theo nhu cầu của các tổ chức, doanh nghiệp quản lý, khai thác thiết bị viễn thông, đài vô tuyến điện.
+    2. Trong thời hạn ba (03) ngày làm việc kể từ ngày tổ chức, doanh nghiệp nộp đầy đủ hồ sơ hợp lệ quy định, tổ chức kiểm định phải thông báo cho tổ chức, doanh nghiệp bằng văn bản về việc đã tiếp nhận hồ sơ và thông báo phí thẩm định điều kiện hoạt động viễn thông đối với thiết bị viễn thông, đài vô tuyến điện (sau đây gọi tắt là phí thẩm định).
+    3. Tổ chức, doanh nghiệp nộp phí thẩm định cho tổ chức kiểm định trong vòng năm (05) ngày làm việc kể từ ngày tổ chức kiểm định thông báo phí thẩm định. Trường hợp tổ chức, doanh nghiệp không nộp phí thẩm định đúng thời hạn, tổ chức kiểm định có quyền từ chối thẩm định và thông báo bằng văn bản tới tổ chức, doanh nghiệp.
+    4. Trong thời hạn mười một (11) ngày làm việc, kể từ ngày tổ chức, doanh nghiệp nộp phí thẩm định theo quy định, tổ chức kiểm định tiến hành thẩm định và cấp Giấy chứng nhận kiểm định.
+    5. Trường hợp có sự không phù hợp trong quá trình thẩm định, tổ chức kiểm định có trách nhiệm thông báo bằng văn bản cho tổ chức, doanh nghiệp nêu rõ điểm không phù hợp. Trong thời hạn tám (08) ngày làm việc, kể từ ngày có thông báo của tổ chức kiểm định, tổ chức, doanh nghiệp phải khắc phục những điểm không phù hợp và nộp lại hồ sơ cho tổ chức kiểm định để tiếp tục thẩm định và cấp Giấy chứng nhận kiểm định trong năm (05) ngày làm việc. Trường hợp không nộp hồ sơ khắc phục đúng thời hạn, tổ chức kiểm định có quyền từ chối tiếp tục thẩm định, không phải hoàn lại phí thẩm định và thông báo bằng văn bản cho tổ chức, doanh nghiệp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 32 WORKING_DAY
+    Phí, lệ phí: 1100000 VNĐ (1.100.000 đồng/01 lần thẩm định (theo quy định tại Thông tư số 82/2020/TT-BTC ngày 22/9/2020 của Bộ Tài chính).)
+    Mô tả: - Trong thời hạn ba (03) ngày làm việc kể từ ngày tổ chức, doanh nghiệp nộp đầy đủ hồ sơ hợp lệ quy định, tổ chức kiểm định phải thông báo cho tổ chức, doanh nghiệp bằng văn bản về việc đã tiếp nhận hồ sơ và thông báo phí thẩm định điều kiện hoạt động viễn thông đối với thiết bị viễn thông, đài vô tuyến điện (sau đây gọi tắt là phí thẩm định).
+- Tổ chức, doanh nghiệp nộp phí thẩm định cho tổ chức kiểm định trong vòng năm (05) ngày làm việc kể từ ngày tổ chức kiểm định thông báo phí thẩm định. Trường hợp tổ chức, doanh nghiệp không nộp phí thẩm định đúng thời hạn, tổ chức kiểm định có quyền từ chối thẩm định và thông báo bằng văn bản tới tổ chức, doanh nghiệp.
+- Trong thời hạn mười một (11) ngày làm việc, kể từ ngày tổ chức, doanh nghiệp nộp phí thẩm định theo quy định, tổ chức kiểm định tiến hành thẩm định và cấp Giấy chứng nhận kiểm định.
+- Trường hợp có sự không phù hợp trong quá trình thẩm định, tổ chức kiểm định có trách nhiệm thông báo bằng văn bản cho tổ chức, doanh nghiệp nêu rõ điểm không phù hợp. Trong thời hạn tám (08) ngày làm việc, kể từ ngày có thông báo của tổ chức kiểm định, tổ chức, doanh nghiệp phải khắc phục những điểm không phù hợp và nộp lại hồ sơ cho tổ chức kiểm định để tiếp tục thẩm định và cấp Giấy chứng nhận kiểm định trong năm (05) ngày làm việc. Trường hợp không nộp hồ sơ khắc phục đúng thời hạn, tổ chức kiểm định có quyền từ chối tiếp tục thẩm định, không phải hoàn lại phí thẩm định và thông báo bằng văn bản cho tổ chức, doanh nghiệp.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 32 WORKING_DAY
+    Phí, lệ phí: 1100000 VNĐ (1.100.000 đồng/01 lần thẩm định (theo quy định tại Thông tư số 82/2020/TT-BTC ngày 22/9/2020 của Bộ Tài chính).)
+    Mô tả: - Trong thời hạn ba (03) ngày làm việc kể từ ngày tổ chức, doanh nghiệp nộp đầy đủ hồ sơ hợp lệ quy định, tổ chức kiểm định phải thông báo cho tổ chức, doanh nghiệp bằng văn bản về việc đã tiếp nhận hồ sơ và thông báo phí thẩm định điều kiện hoạt động viễn thông đối với thiết bị viễn thông, đài vô tuyến điện (sau đây gọi tắt là phí thẩm định).
+- Tổ chức, doanh nghiệp nộp phí thẩm định cho tổ chức kiểm định trong vòng năm (05) ngày làm việc kể từ ngày tổ chức kiểm định thông báo phí thẩm định. Trường hợp tổ chức, doanh nghiệp không nộp phí thẩm định đúng thời hạn, tổ chức kiểm định có quyền từ chối thẩm định và thông báo bằng văn bản tới tổ chức, doanh nghiệp.
+- Trong thời hạn mười một (11) ngày làm việc, kể từ ngày tổ chức, doanh nghiệp nộp phí thẩm định theo quy định, tổ chức kiểm định tiến hành thẩm định và cấp Giấy chứng nhận kiểm định.
+- Trường hợp có sự không phù hợp trong quá trình thẩm định, tổ chức kiểm định có trách nhiệm thông báo bằng văn bản cho tổ chức, doanh nghiệp nêu rõ điểm không phù hợp. Trong thời hạn tám (08) ngày làm việc, kể từ ngày có thông báo của tổ chức kiểm định, tổ chức, doanh nghiệp phải khắc phục những điểm không phù hợp và nộp lại hồ sơ cho tổ chức kiểm định để tiếp tục thẩm định và cấp Giấy chứng nhận kiểm định trong năm (05) ngày làm việc. Trường hợp không nộp hồ sơ khắc phục đúng thời hạn, tổ chức kiểm định có quyền từ chối tiếp tục thẩm định, không phải hoàn lại phí thẩm định và thông báo bằng văn bản cho tổ chức, doanh nghiệp.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 32 WORKING_DAY
+    Phí, lệ phí: 1100000 VNĐ (1.100.000 đồng/01 lần thẩm định (theo quy định tại Thông tư số 82/2020/TT-BTC ngày 22/9/2020 của Bộ Tài chính).)
+    Mô tả: - Trong thời hạn ba (03) ngày làm việc kể từ ngày tổ chức, doanh nghiệp nộp đầy đủ hồ sơ hợp lệ quy định, tổ chức kiểm định phải thông báo cho tổ chức, doanh nghiệp bằng văn bản về việc đã tiếp nhận hồ sơ và thông báo phí thẩm định điều kiện hoạt động viễn thông đối với thiết bị viễn thông, đài vô tuyến điện (sau đây gọi tắt là phí thẩm định).
+- Tổ chức, doanh nghiệp nộp phí thẩm định cho tổ chức kiểm định trong vòng năm (05) ngày làm việc kể từ ngày tổ chức kiểm định thông báo phí thẩm định. Trường hợp tổ chức, doanh nghiệp không nộp phí thẩm định đúng thời hạn, tổ chức kiểm định có quyền từ chối thẩm định và thông báo bằng văn bản tới tổ chức, doanh nghiệp.
+- Trong thời hạn mười một (11) ngày làm việc, kể từ ngày tổ chức, doanh nghiệp nộp phí thẩm định theo quy định, tổ chức kiểm định tiến hành thẩm định và cấp Giấy chứng nhận kiểm định.
+- Trường hợp có sự không phù hợp trong quá trình thẩm định, tổ chức kiểm định có trách nhiệm thông báo bằng văn bản cho tổ chức, doanh nghiệp nêu rõ điểm không phù hợp. Trong thời hạn tám (08) ngày làm việc, kể từ ngày có thông báo của tổ chức kiểm định, tổ chức, doanh nghiệp phải khắc phục những điểm không phù hợp và nộp lại hồ sơ cho tổ chức kiểm định để tiếp tục thẩm định và cấp Giấy chứng nhận kiểm định trong năm (05) ngày làm việc. Trường hợp không nộp hồ sơ khắc phục đúng thời hạn, tổ chức kiểm định có quyền từ chối tiếp tục thẩm định, không phải hoàn lại phí thẩm định và thông báo bằng văn bản cho tổ chức, doanh nghiệp.
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị kiểm định (theo quy định tại Phụ lục số 01 của Thông tư số 07/2020/TT-BTTTT);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Các tài liệu mô tả, hướng dẫn sử dụng thiết bị viễn thông, đài vô tuyến điện (trong trường hợp kiểm định lần đầu).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Kết quả đo kiểm được lập bởi đơn vị đo kiểm quy định tại Điều 4 Thông tư số 07/2020/TT-BTTTT, bao gồm:  - Trường hợp đo kiểm trạm gốc điện thoại di động mặt đất công cộng: Kết quả đo kiểm theo mẫu tại Phụ lục số 02 Thông tư số 07/2023/TT-BTTTT; + Trường hợp đo kiểm đài phát thanh, đài phát hình: Kết quả đo theo mẫu tại Phụ lục số 03 Thông tư số 08/2020/TT-BTTTT.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Trung tâm Đo lường Chất lượng Viễn thông
+Cơ quan có thẩm quyền: Trung tâm Đo lường Chất lượng Viễn thông
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa của Bộ Khoa học và Công nghệ
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận kiểm định trạm gốc điện thoại di động mặt đất công cộng, Giấy chứng nhận kiểm định đài phát thanh, đài truyền hình
+Căn cứ pháp lý:
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Viễn thông (163/2024/NĐ-CP)
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+  * Thông tư số 21/2026/TT-BKHCN ngày 20 tháng 5 năm 2026 của Bộ trưởng Bộ Khoa học và Công nghệ sửa đổi, bổ sung một số điều của các Thông tư để phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong lĩnh vực viễn thông thuộc phạm vi quản lý của Bộ Khoa học và Công nghệ (21/2026/TT-BKHCN)
+  * Thông tư số 07/2023/TT-BTTTT Sửa đổi, bổ sung Thông tư số 08/2020/TT-BTTTT ngày 13/4/2020 của Bộ trưởng Bộ Thông tin và Truyền thông Ban hành Danh mục và Quy trình kiểm định thiết bị viễn thông, đài vô tuyến điện bắt buộc kiểm định (07/2023/TT-BTTTT)
+  * quy định về kiểm định thiết bị viễn thông, đài vô tuyến điện (07/2020/TT-BTTTT)
+  * Thông tư số 82/2020/TT-BTC ngày 22/9/2020 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động viễn thông đối với đài vô tuyến điện thuộc công trình viễn thông (82/2020/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: không có
+Từ khóa: Không có thông tin
+Mô tả: không có

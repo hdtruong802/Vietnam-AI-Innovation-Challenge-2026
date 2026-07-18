@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007900
+Số quyết định: 1767/QĐ-BTC
+Tên thủ tục: Thủ tục lựa chọn Ngân hàng thương mại là đại lý hoàn thuế giá trị gia tăng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Bước 1: Ngân hàng thương mại gửi hồ sơ đăng ký tham gia đại lý hoàn thuế giá trị gia tăng cho người nước ngoài cho Cục Hải quan.
+    - Bước 2: Cục Hải quan tiếp nhận, kiểm tra hồ sơ do ngân hàng thương mại gửi.
+    Trường hợp hồ sơ chưa đầy đủ, trong thời hạn 03 (ba) ngày làm việc, kể từ ngày tiếp nhận hồ sơ, Cục Hải quan có văn bản thông báo cho ngân hàng bổ sung hồ sơ;
+    Trường hợp hồ sơ không đáp ứng tiêu chuẩn quy định, trong thời hạn 05 (năm) ngày làm việc, kể từ ngày tiếp nhận hồ sơ, Cục Hải quan có văn bản trả lời cho ngân hàng;
+    Trường hợp hồ sơ đầy đủ, đáp ứng các tiêu chuẩn quy định, trong thời hạn 07 (bảy) ngày làm việc kể từ ngày nhận đủ hồ sơ, Cục Hải quan ban hành văn bản thông báo ngân hàng thương mại là đại lý hoàn thuế giá trị gia tăng và cấp tài khoản truy cập Hệ thống cho ngân hàng thương mại.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Công văn đăng ký tham gia đại lý hoàn thuế giá trị gia tăng cho người nước ngoài, có các thông tin về chữ ký số của ngân hàng thương mại bao gồm số định danh chứng thư số, tên đơn vị cung cấp dịch vụ chứng thư số, tên người được cấp chứng thư số, ngày hiệu lực, ngày hết hiệu lực, khóa công khai theo Mẫu số 05/HTGTGT Phụ lục I Thông tư số 84/2026/TT-BTC ngày 30/6/2026 của Bộ trưởng Bộ Tài chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản của Ngân hàng Nhà nước cấp cho ngân hàng thương mại được hoạt động ngoại hối và cung ứng dịch vụ ngoại hối
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản trả lời cho ngân hàng về việc hồ sơ không đáp ứng tiêu chuẩn quy định, Văn bản thông báo ngân hàng thương mại là đại lý hoàn thuế giá trị gia tăng và cấp tài khoản truy cập Hệ thống cho ngân hàng thương mại.
+Căn cứ pháp lý:
+  * Luật Thuế giá tri gia tăng năm 2024 (48/2024/QH15)
+  * QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP ĐỂ TỔ CHỨC, HƯỚNG DẪN THI HÀNH LUẬT QUẢN LÝ THUẾ (252/2026/NĐ-CP)
+  * Luật số 108/2025/QH15 của Quốc hội: Luật Quản lý thuế (108/2025/QH15)
+  * Nghị định số 181/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thuế giá trị gia tăng (181/2025/NĐ-CP)
+  * Quy định về hoàn thuế giá trị gia tăng đối với hàng hóa của người nước ngoài, người Việt Nam định cư ở nước ngoài mua tại Việt Nam mang theo khi xuất cảnh. (84/2026/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

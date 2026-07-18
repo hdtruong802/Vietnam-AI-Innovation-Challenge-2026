@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003164
+Số quyết định: 2628/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với xăng dầu, hóa chất, khí quá cảnh
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1:Người khai hải quan làm kê khai và nộp đủ hồ sơ theo quy định tại trụ sở  cơ quan hải quan. Nếu hàng hoá quá cảnh có lưu kho ngoài khu vực cửa khẩu hoặc đi qua lãnh thổ đất liền thì phải xin phép Bộ Công Thương.
+    Bước 2:
+    + Cơ quan hải quan cửa khẩu nơi hàng hoá nhập cảnh tiếp nhận bản kê khai hàng hoá quá cảnh hoặc tờ khai hải quan về lô hàng quá cảnh, niêm phong nơi chứa hàng hoá và xác nhận nguyên trạng hàng hóa trên bản kê khai hàng hóa và tờ khai hải quan (đối với trường hợp phải khai hải quan) và giao cho người điều khiển phương tiện vận tải chuyển đến cơ quan hải quan cửa khẩu nơi hàng hoá xuất cảnh;
+    + Trường hợp hàng hoá quá cảnh thuộc diện không niêm phong được thì người vận tải, người khai hải quan, công chức hải quan đi cùng (nếu có) chịu trách nhiệm bảo đảm nguyên trạng hàng hóa từ cửa khẩu nơi hàng hoá nhập cảnh đến cửa khẩu nơi hàng hoá xuất cảnh;
+    + Cơ quan hải quan cửa khẩu nơi hàng hoá xuất cảnh tiếp nhận bản kê khai hoặc tờ khai hải quan do cơ quan hải quan cửa khẩu nơi hàng hoá nhập cảnh chuyển đến, kiểm tra tình trạng niêm phong hải quan hoặc nguyên trạng hàng hoá để đối chiếu với các nội dung xác nhận của cơ quan hải quan cửa khẩu nơi hàng hoá nhập cảnh trên bản kê khai hàng hóa hoặc tờ khai hải quan quá cảnh để làm thủ tục xuất cảnh.
+    + Trường hợp xảy ra tai nạn, sự cố bất khả kháng làm suy chuyển niêm phong hải quan hoặc thay đổi nguyên trạng hàng hoá thì người vận tải, người khai hải quan, công chức hải quan đi cùng (nếu có) phải áp dụng các biện pháp để hạn chế tổn thất và báo ngay cho ủy ban nhân dân xã, phường, thị trấn nơi gần nhất để lập biên bản xác nhận hiện trạng của hàng hoá.
+    Bước 3: Doanh nghiệp thực hiện nộp các khoản phí theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 ngày
+    Phí, lệ phí: 20000 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản kê khai hàng hoá quá cảnh do người khai hải quan hoặc người đại diện nộp cho cơ quan hải quan cửa khẩu đối với hàng hóa quá cảnh giữ nguyên trạng đi thẳng; quá cảnh chuyển tải sang cùng loại phương tiện vận tải đường bộ, đường sắt, đường sông, đường biển, đường hàng không (trừ hàng hoá quá cảnh đi thẳng bằng đường hàng không)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy phép hàng quá cảnh (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Vận tải đơn
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản kê chi tiết
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai hải quan hàng hoá quá cảnh và bản kê khai hàng hoá quá cảnh do người khai hải quan hoặc người đại diện nộp cho cơ quan hải quan cửa khẩu đối với hàng hóa quá cảnh phải lưu kho hoặc thay đổi loại phương tiện vận tải.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận thông quan
+Căn cứ pháp lý:
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định thủ tục hải quan đối với xăng dầu, hóa chất, khí xuất khẩu, nhập khẩu, tạm nhập tái xuất, chuyển khẩu, quá cảnh; nguyên liệu nhập khẩu để sản xuất và pha chế hoặc gia công xuất khẩu xăng, dầu, khí; dầu thô xuất khẩu, nhập khẩu; hàng hóa xuất khẩu, nhập khẩu phục vụ hoạt động dầu khí (69/2016/TT-BTC)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

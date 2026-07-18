@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013089
+Số quyết định: 2478/QĐ-BXD
+Tên thủ tục: Cấp Giấy chứng nhận kiểm định, Tem kiểm định an toàn kỹ thuật và bảo vệ môi trường cho xe cơ giới (trừ xe mô tô, xe gắn máy), xe máy chuyên dùng trong trường hợp miễn kiểm định lần đầu
+Cấp thực hiện: Không có thông tin
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đăng kiểm
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    - Chủ xe nộp hồ sơ bằng hình thức trực tiếp tại cơ sở đăng kiểm hoặc qua hệ thống trực tuyến tại địa chỉ: https://mienkd.vr.org.vn.
+    b) Giải quyết TTHC:
+    - Cơ sở đăng kiểm thực hiện kiểm tra hồ sơ như sau:
+    + Trường hợp nhận hồ sơ trực tiếp: nếu không đầy đủ thì hướng dẫn chủ xe hoàn thiện hồ sơ; nếu xe thuộc trường hợp bị từ chối kiểm định theo quy định của Nghị định về điều kiện kinh doanh dịch vụ kiểm định xe cơ giới; tổ chức, hoạt động của cơ sở đăng kiểm; niên hạn sử dụng của xe cơ giới (sau đây gọi là xe bị từ chối kiểm định) hoặc đã được cấp miễn kiểm định lần đầu, thông báo gửi trực tiếp cho chủ xe. Nếu hồ sơ đầy đủ, xe không bị từ chối kiểm định và xe chưa được cấp miễn kiểm định lần đầu, lập phiếu kiểm soát kiểm định.
+    + Trường hợp nhận hồ sơ qua hệ thống trực tuyến: cơ sở đăng kiểm thực hiện như với trường hợp nhận trực tiếp nhưng trên hệ thống trực tuyến.
+    - Cơ sở đăng kiểm lập phiếu hồ sơ phương tiện.
+    - Cơ sở đăng kiểm cấp giấy chứng nhận kiểm định, tem kiểm định ngay trong ngày nhận đủ hồ sơ theo quy định. Trường hợp xe chỉ có giấy hẹn cấp chứng nhận đăng ký xe, cơ sở đăng kiểm cấp tem kiểm định và giấy hẹn trả giấy chứng nhận kiểm định cho chủ xe và chỉ thực hiện cấp giấy chứng nhận kiểm định sau khi chủ xe xuất trình giấy tờ về đăng ký xe.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (- Lệ phí cấp giấy chứng nhận: 40.000 đồng/01 Giấy chứng nhận kiểm định, riêng đối với ô tô dưới 10 chỗ ngồi (không bao gồm xe cứu thương): 90.000 đồng/01 Giấy chứng nhận kiểm định.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (- Lệ phí cấp giấy chứng nhận: 40.000 đồng/01 Giấy chứng nhận kiểm định, riêng đối với ô tô dưới 10 chỗ ngồi (không bao gồm xe cứu thương): 90.000 đồng/01 Giấy chứng nhận kiểm định.)
+
+Thành phần hồ sơ:
+  [ - Giấy tờ phải nộp ]
+    - Bản chà số khung, số động cơ của xe
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao phiếu kiểm tra chất lượng xuất xưởng (đối với xe sản xuất, lắp ráp trong nước)
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ - Giấy tờ phải xuất trình ]
+    - Giấy tờ về đăng ký xe gồm một trong các giấy tờ sau: bản chính chứng nhận đăng ký xe; bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính chứng nhận đăng ký xe; bản chính giấy hẹn cấp chứng nhận đăng ký xe
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng nhận kết quả kiểm định còn hiệu lực (bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính) đối với: thiết bị nâng hàng có sức nâng theo thiết kế từ 1.000 (kg) trở lên; thiết bị nâng người có chiều cao nâng lớn nhất lớn hơn 2,0 (m); xi téc chở khí hóa lỏng, khí dầu mỏ hóa lỏng, khí thiên nhiên nén hoặc các chất lỏng có áp suất làm việc cao hơn 0,7 (bar) hoặc chất lỏng hay chất rắn dạng bột không có áp suất nhưng khi tháo ra dùng khí có áp suất cao hơn 0,7 (bar) theo quy định tại Nghị định số 44/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều của Luật An toàn, vệ sinh lao động
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cơ sở đăng kiểm (xe cơ giới, xe máy chuyên dùng)
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận kiểm định, tem kiểm định (xe cơ giới, xe máy chuyên dùng)
+Căn cứ pháp lý:
+  * Quy định trình tự, thủ tục kiểm định, miễn kiểm định lần đầu cho xe cơ giới, xe máy chuyên dùng; trình tự, thủ tục chứng nhận an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới cải tạo, xe máy chuyên dùng cải tạo; trình tự, thủ tục kiểm định khí thải xe mô tô, xe gắn máy (47/2024/TT-BGTVT)
+  * Thông tư 36/2022/TT-BTC (36/2022/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

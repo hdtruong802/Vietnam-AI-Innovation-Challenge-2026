@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014143
+Số quyết định: 1176/QĐ-BQP
+Tên thủ tục: Thủ tục tham gia hoạt động công nghiệp quốc phòng, an ninh của cơ sở huy động trong các lĩnh vực nghiên cứu, sản xuất chi tiết, phụ tùng, vật tư, bán thành phẩm sản phẩm quốc phòng, an ninh; nghiên cứu, ứng dụng công nghệ cao, công nghệ nền, công nghệ lõi; chuyển giao công nghệ cho cơ sở công nghiệp quốc phòng nòng cốt, cơ sở công nghiệp an ninh nòng cốt; cung ứng, dự trữ, bảo quản vật tư sản xuất quốc phòng, an ninh
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công nghiệp quốc phòng
+Trình tự thực hiện:
+    Bước 1: Cơ quan, đơn vị, doanh nghiệp thuộc Bộ Quốc phòng căn cứ nhiệm vụ, kế hoạch sản xuất kinh doanh được cấp có thẩm quyền phê duyệt thông báo bằng văn bản về nhu cầu hợp tác đến các tổ chức, doanh nghiệp kèm theo các điều kiện quy định.
+    Bước 2: Tổ chức, doanh nghiệp nộp hồ sơ cho các cơ quan, đơn vị, doanh nghiệp thuộc Bộ Quốc phòng có nhu cầu.
+    Bước 3: Trong thời hạn 20 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan, đơn vị, doanh nghiệp thẩm định, đánh giá và lựa chọn tổ chức, doanh nghiệp đủ năng lực, báo cáo cấp trên trực thuộc Bộ Quốc phòng.
+    Bước 4: Trong thời hạn 07 ngày kể từ ngày nhận được báo cáo, cơ quan, đơn vị, doanh nghiệp trực thuộc Bộ Quốc phòng xem xét, quyết định.
+    Bước 5: Trong thời hạn 05 ngày, kể từ ngày cơ quan, đơn vị, doanh nghiệp trực thuộc Bộ Quốc phòng quyết định, cơ quan đơn vị, doanh nghiệp quy định thông báo kết quả cho tổ chức, doanh nghiệp bằng văn bản.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 32 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 32 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 32 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Bản sao quyết định thành lập kèm theo văn bản quy định về chức năng, nhiệm vụ đối với tổ chức hoặc giấy chứng nhận đăng ký doanh nghiệp kèm theo giấy phép hoạt động, giấy phép kinh doanh đối với doanh nghiệp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Văn bản đề nghị tham gia hoạt động công nghiệp quốc phòng, an ninh theo Mẫu số 02 Phụ lục ban hành kèm theo Nghị định số 99/2025/NĐ-CP ngày 06 tháng 5 năm 2025 của Chính phủ quy định chi tiết một số điều của Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh năng lực cơ sở vật chất, nhân lực, trang thiết bị, kinh nghiệm tương ứng với lĩnh vực tham gia.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Quốc phòng
+Cơ quan có thẩm quyền: Bộ Quốc phòng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo kết quả thẩm định, đánh giá, lựa chọn cơ sở huy động tham gia hoạt động công nghiệp quốc phòng, an ninh
+Căn cứ pháp lý:
+  * Nghị định số 99/2025/NĐ-CP ngày 06 tháng 5 năm 2025 của Chính phủ quy định chi tiết một số điều của Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp (Nghị định số 99/2025/NĐ-CP)
+  * Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp (38/2024/QH15)
+  * Nghị định số 60/2026/NĐ-CP của Chính phủ: Quy định về tổ hợp công nghiệp an ninh quốc gia (60/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Được thành lập theo quy định của pháp luật Việt Nam; hoạt động trên lãnh thổ Việt Nam, có cơ sở vật chất, nhân lực, trang thiết bị đáp ứng yêu cầu tham gia hoạt động công nghiệp quốc phòng, an ninh đối với lĩnh vực được huy động. 
+- Đảm bảo bí mật theo quy định của pháp luật về bảo vệ bí mật nhà nước trong lĩnh vực quốc phòng, an ninh.
+- Không đang bị truy cứu trách nhiệm hình sự hoặc đã bị kết án về tội phạm hình sự, kể cả trường hợp đã được xóa án tích theo quy định của pháp luật về hình sự.
+Từ khóa: Không có thông tin
+Mô tả: - Được thành lập theo quy định của pháp luật Việt Nam; hoạt động trên lãnh thổ Việt Nam, có cơ sở vật chất, nhân lực, trang thiết bị đáp ứng yêu cầu tham gia hoạt động công nghiệp quốc phòng, an ninh đối với lĩnh vực được huy động. 
+- Đảm bảo bí mật theo quy định của pháp luật về bảo vệ bí mật nhà nước trong lĩnh vực quốc phòng, an ninh.
+- Không đang bị truy cứu trách nhiệm hình sự hoặc đã bị kết án về tội phạm hình sự, kể cả trường hợp đã được xóa án tích theo quy định của pháp luật về hình sự.

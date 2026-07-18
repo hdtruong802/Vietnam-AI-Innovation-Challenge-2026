@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009091
+Số quyết định: 671/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với tàu thuyền nước ngoài quá cảnh Việt Nam đến Campuchia, tàu thuyền nước ngoài từ Campuchia quá cảnh Việt Nam ra nước ngoài; tàu thuyền Việt Nam, tàu thuyền Campuchia có số hô hiệu IMO nhập cảnh, xuất cảnh qua đường sồng Tiền, sông Hậu
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    + Khai báo bằng phương thức điện tử thông qua Cổng thông tin một cửa quốc gia
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 500000 VNĐ (Lệ phí đối với phương tiện quá cảnh đường thủy (tàu): 500.000 đồng/phương tiện.)
+
+Thành phần hồ sơ:
+  [ Nhập cảnh ]
+    - Danh sách thuyền viên
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách hành khách trong trường hợp tàu biển vận chuyển hành khách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hành lý thuyền viên, nhân viên làm việc trên tàu biển
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hàng hóa nguy hiểm trong trường hợp tàu biển vận chuyển hàng hóa nguy hiểm
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai chung
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai dự trữ của tàu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hàng hóa trường hợp tàu biển vận chuyển hàng hóa
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông tin về vận đơn: vận đơn chủ (master bill of lading), vận đơn thứ cấp (house bill of lading) trong trường hợp tàu biển vận chuyển hàng hóa
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Quá cảnh ]
+    - Khi làm thủ tục nhập cảnh đối với tàu thuyền quá cảnh, người khai hải quan nộp hồ sơ hải quan như với trường hợp nhập cảnh; khi làm thủ tục xuất cảnh, nếu có sự thay đổi về các chứng từ khi nhập cảnh, người khai hải quan nộp hồ sơ hải quan gồm các chứng từ đã có sự thay đổi so với lúc nhập cảnh
+      Số lượng: Bản chính: 0, Bản sao: 0
+  [ Xuất cảnh ]
+    - Bản khai hàng hóa nguy hiểm trong trường hợp tàu biển vận chuyển hàng hóa nguy hiểm
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách thuyền viên
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hàng hóa trong trường hợp tàu biển vận chuyển hàng hóa
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hành lý thuyền viên, nhân viên làm việc trên tàu biển
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai chung
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách hành khách trong trường hợp tàu biển vận chuyển hành khách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai dự trữ của tàu
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo hoàn thành thủ tục hải quan tàu
+Căn cứ pháp lý:
+  * Thông tư số 274/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí hải quan và lệ phí hàng hóa, phương tiện quá cảnh. (274/2016/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Thông tư 50/2018/TT-BTC (50/2018/TT-BTC)
+  * Nghị định 59/2018/NĐ-CP (59/2018/NĐ-CP)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Nghị định quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải (58/2017/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010341
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Xử lý hóa đơn điện tử đã lập sai
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    Bước 1: Trường hợp hóa đơn điện tử đã lập đã gửi cơ quan thuế bị sai (bao gồm hóa đơn điện tử đã được cấp mã của CQT; hóa đơn điện tử không có mã của CQT đã gửi dữ liệu đến CQT) thì xử lý như sau:
+    + Trường hợp có sai về tên, địa chỉ của người mua nhưng không sai mã số thuế, các nội dung khác không sai thì người bán thông báo cho người mua về việc hóa đơn đã lập sai và không phải lập lại hóa đơn. Người bán thực hiện thông báo với cơ quan thuế về hóa đơn điện tử đã lập sai theo Mẫu số 04/SS-HĐĐT Phụ lục IA ban hành kèm theo Nghị định số 70/2025/NĐ-CP ngày 20/3/2025 của Chính phủ.
+    Bước 2:
+    + Trường hợp có sai sót về tên, địa chỉ của người mua nhưng không sai mã số thuế, các nội dung khác không sai: Hệ thống thông tin giải quyết thủ tục hành chính của ngành thuế tự động tiếp nhận thông báo về việc tiếp nhận Mẫu 04/SS-HĐĐT theo Mẫu số 01/TB-SSĐT Phụ lục IB ban hành kèm theo Nghị định số 70/2025/NĐ-CP, qua Hệ thống thông tin giải quyết thủ tục hành chính của ngành thuế hoặc qua tổ chức cung cấp dịch vụ hóa đơn điện tử.
+    Bước 3: Cơ quan Thuế tiếp nhận dữ liệu điện tử.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Mẫu số 04/SS-HĐĐT Thông báo hóa đơn điện tử đã lập sai
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Số lượng hồ sơ: 01(bộ).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức, Người nước ngoài, Tổ chức Đảng, Tổ chức nước ngoài, Hợp tác xã, Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Đảng viên
+Cơ quan thực hiện: Cục Thuế - Bộ tài chính, Thuế tỉnh, thành phố, Thuế cơ sở
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hệ thống thông tin giải quyết thủ tục hành chính của ngành thuế gửi phản hồi tự động về việc xác nhận người nộp thuế đã gửi thành công và thông báo về thời điểm tiếp nhận chính thức hồ sơ, tài liệu của người nộp thuế khi nhận Mẫu 04/SS-HĐĐT., Thông báo về việc tiếp nhận/ kết quả xử lý về việc hóa đơn điện tử/chứng từ điện tử đã lập sai (Mẫu 01/TB-SSĐT)
+Căn cứ pháp lý:
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Nghị định số 70/2025/NĐ-CP ngày ngày 20 tháng 3 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ. (70/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

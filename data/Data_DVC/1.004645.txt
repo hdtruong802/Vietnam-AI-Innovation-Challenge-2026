@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004645
+Số quyết định: 1326/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục thông báo tổ chức đoàn người thực hiện quảng cáo
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quảng cáo
+Trình tự thực hiện:
+    - Tổ chức, cá nhân có nhu cầu tổ chức đoàn người thực hiện quảng cáo gửi hồ sơ thông báo đến cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh trước khi thực hiện quảng cáo (Sở VHTTDL/Sở VHTT).
+    - Trường hợp hồ sơ chưa đầy đủ, chính xác hoặc không thuộc thẩm quyền giải quyết theo quy định, Sở VHTTDL/Sở VHTT có trách nhiệm thông báo cho tổ chức, cá nhân để bổ sung, hoàn thiện hồ sơ. Nội dung thông báo phải nêu rõ nội dung, lý do và hướng dẫn cụ thể, đầy đủ trong một lần để tổ chức, cá nhân bổ sung chính xác hoặc gửi đúng đến cơ quan có thẩm quyền. Thời hạn và phương thức thông báo thực hiện như sau:
+    + Đối với hồ sơ nộp trực tiếp hoặc gửi qua dịch vụ bưu chính: trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận thông báo bằng văn bản gửi cho tổ chức, cá nhân;
+    + Đối với hồ sơ nộp trực tuyến: không muộn hơn 08 giờ làm việc kể từ khi Hệ thống thông tin giải quyết thủ tục hành chính tiếp nhận hồ sơ, cơ quan tiếp nhận thông báo cho tổ chức, cá nhân qua tài khoản trên Cổng Dịch vụ công quốc gia hoặc qua thư điện tử, tin nhắn điện thoại tự động
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, chính xác, trường hợp không đồng ý với nội dung thông báo, Sở VHTTDL/Sở VHTT có văn bản trả lời tổ chức, cá nhân và phải nêu rõ lý do về các nội dung không đúng điều kiện về hồ sơ, nội dung quảng cáo, thời gian, địa điểm, lộ trình, phương án bảo đảm an toàn, trật tự.
+    - Hết thời hạn trên, trường hợp Sở VHTTDL/Sở VHTT không có ý kiến trả lời, tổ chức, cá nhân được thực hiện theo nội dung thông báo.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đầy đủ hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đầy đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đầy đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Văn bản thông báo với cơ quan có thẩm quyền về quảng cáo của địa phương (thực hiện theo Mẫu số 03 ban hành kèm theo Thông tư số 12/2026/TT-BVHTTDL ngày 22 tháng 5 năm 2026)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Ma-két, kịch bản hoặc tài liệu thể hiện nội dung, hình thức sản phẩm quảng cáo
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao các giấy tờ, tài liệu chứng minh điều kiện quảng cáo đối với hoạt động kinh doanh, tài sản hoặc sản phẩm, hàng hóa, dịch vụ theo quy định tại Điều 20 Luật Quảng cáo
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản trả lời (không bắt buộc)
+Căn cứ pháp lý:
+  * NGHỊ ĐỊNH  QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT QUẢNG CÁO (342/2025/NĐ-CP)
+  * Luật 16/2012/QH13-Quảng cáo (16/2012/QH13)
+  * Luật số 75/2025/QH15 (75/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

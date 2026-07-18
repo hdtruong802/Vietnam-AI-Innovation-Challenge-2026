@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014331
+Số quyết định: 2922/QĐ-BYT
+Tên thủ tục: Cấp Giấy chứng sinh
+Cấp thực hiện: Không có thông tin
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Dân số, Bà mẹ - Trẻ em
+Trình tự thực hiện:
+  * Trường hợp 1: Cấp giấy chứng sinh đối với trường hợp trẻ được sinh ra ngoài cơ sở khám bệnh, chữa bệnh nhưng được người hành nghề khám bệnh, chữa bệnh hoặc nhân viên y tế thôn, bản hoặc cô đỡ thôn, bản đỡ đẻ
+    Bước 1. Trong thời hạn 30 ngày kể từ thời điểm trẻ sinh ra sống, thân nhân của trẻ nộp tờ khai đề nghị cấp giấy chứng sinh theo quy định tại Phụ lục II ban hành kèm theo Thông tư số 22/2025/TT-BYT ngày 28/6/2025 của Bộ trưởng Bộ Y tế cho cơ sở khám bệnh, chữa bệnh nơi quản lý người đỡ đẻ và xuất trình giấy tờ tùy thân hợp lệ có số định danh cá nhân hoặc hộ chiếu của người mẹ sinh ra trẻ để đối chiếu;
+    Bước 2. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được tờ khai đề nghị cấp giấy chứng sinh, cơ sở khám bệnh, chữa bệnh có trách nhiệm xác minh thông tin về người đỡ đẻ, người mẹ sinh ra trẻ, trẻ sơ sinh và cấp giấy chứng sinh cho trẻ theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư số 22/2025/TT-BYT ngày 28/6/2025 của Bộ trưởng Bộ Y tế.
+    Trường hợp không xác minh được thông tin hoặc thông tin không chính xác thì không cấp giấy chứng sinh.
+  * Trường hợp 2: Cấp giấy chứng sinh cho trường hợp trẻ sinh ra do thực hiện kỹ thuật mang thai hộ
+    - Nếu trẻ sinh ra tại cơ sở khám bệnh, chữa bệnh thực hiện kỹ thuật mang thai hộ cho người sinh ra trẻ:
+    Bước 1. Bên cha mẹ đẻ (Bên nhờ mang thai hộ) hoặc Bên mang thai hộ hoặc thân nhân của trẻ nộp Hồ sơ cho cơ sở y tế nơi trẻ sinh ra.
+    Bước 2. Cơ sở khám bệnh, chữa bệnh cấp giấy chứng sinh theo mẫu số 02 quy định tại Phụ lục I ban hành kèm theo Thông tư số 22/2025/TT-BYT ngày 28/6/2025 của Bộ trưởng Bộ Y tế cho trẻ trước khi trẻ ra khỏi cơ sở khám bệnh, chữa bệnh hoặc sớm hơn theo đề nghị của thân nhân của trẻ.
+    - Nếu trẻ sinh ra tại cơ sở khám bệnh, chữa bệnh không phải cơ sở khám bệnh, chữa bệnh đã thực hiện kỹ thuật mang thai hộ cho người sinh ra trẻ:
+    Bước 1. Bên cha mẹ đẻ (Bên nhờ mang thai hộ) hoặc Bên mang thai hộ hoặc thân nhân của trẻ nộp Hồ sơ cho cơ sở y tế nơi trẻ sinh ra bản xác nhận về việc thực hiện kỹ thuật mang thai hộ vì mục đích nhân đạo của cơ sở khám bệnh, chữa bệnh thực hiện kỹ thuật mang thai hộ theo quy định tại Phụ lục IV ban hành kèm theo Thông tư số 22/2025/TT-BYT ngày 28/6/2025 của Bộ trưởng Bộ Y tế và xuất trình giấy tờ tùy thân hợp lệ có số định danh cá nhân hoặc hộ chiếu của người mẹ sinh ra trẻ để đối chiếu.
+    Bước 2. Trong thời hạn 03 ngày làm việc kể từ thời điểm nhận được bản xác nhận về việc thực hiện kỹ thuật mang thai hộ vì mục đích nhân đạo, cơ sở khám bệnh, chữa bệnh nơi trẻ sinh ra cấp giấy chứng sinh theo mẫu số 02 quy định tại Phụ lục I ban hành kèm theo Thông tư số 22/2025/TT-BYT ngày 28/6/2025 của Bộ trưởng Bộ Y tế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trường hợp 2: 03 ngày làm việc kể từ ngày nhận nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trường hợp 1: 05 ngày làm việc kể từ thời điểm nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+  [ Đối với trường hợp Cấp giấy chứng sinh cho trường hợp trẻ sinh ra do thực hiện kỹ thuật mang thai hộ: ]
+    - Bản xác nhận về việc thực hiện kỹ thuật mang thai hộ của cơ sở khám bệnh, chữa bệnh thực hiện kỹ thuật mang thai hộ theo Phụ lục V ban hành kèm theo Thông tư số 22/2025/TT-BYT ngày 28/6/2025 của Bộ trưởng Bộ Y tế;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Căn cước điện tử hoặc bản sao hợp lệ thẻ căn cước hoặc giấy tờ tùy thân hợp lệ có số định danh cá nhân hoặc hộ chiếu của người mẹ sinh ra trẻ của Bên mang thai hộ và Bên nhờ mang thai hộ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với trường hợp Cấp giấy chứng sinh đối với trường hợp trẻ được sinh ra ngoài cơ sở khám bệnh, chữa bệnh nhưng được người hành nghề khám bệnh, chữa bệnh hoặc nhân viên y tế thôn, bản hoặc cô đỡ thôn, bản đỡ đẻ: ]
+    - Tờ khai đề nghị cấp Giấy chứng sinh theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư số 22/2025/TT-BYT ngày 28/6/2025 của Bộ trưởng Bộ Y tế;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Căn cước điện tử hoặc bản sao hợp lệ thẻ căn cước hoặc giấy tờ tùy thân hợp lệ có số định danh cá nhân hoặc hộ chiếu của người mẹ sinh ra trẻ.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Cán bộ, công chức, viên chức, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cơ sở khám bệnh, chữa bệnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Trường hợp 2: Giấy chứng sinh theo mẫu số 2 Phụ lục I (bản giấy hoặc bản điện tử có ký số)., Trường hợp 1: Giấy chứng sinh theo mẫu số 1 Phụ lục I (bản giấy hoặc bản điện tử có ký số).
+Căn cứ pháp lý:
+  * Nghị định số 123/2015/NĐ-CP ngày 15/11/2015 của  Chính phủ quy định chi tiết một số điều và biện pháp thi  hành Luật Hộ tịch (123/2015/NĐ-CP)
+  * Nghị định quy định việc thực hiện liên thông điện tử 02 nhóm thủ tục hành chính: Đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi; đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai táng phí, tử tuất (63/2024/NĐ-CP)
+  * Thông tư số 22/2025/TT-BYT ngày 28/06/2025 QUY ĐỊNH CẤP VÀ SỬ DỤNG GIẤY CHỨNG SINH (22/2025/TT-BYT)
+  * Nghị định số 207/2025/NĐ-CP của Chính phủ: Quy định về sinh con bằng kỹ thuật hỗ trợ sinh sản và điều kiện mang thai hộ vì mục đích nhân đạo (207/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

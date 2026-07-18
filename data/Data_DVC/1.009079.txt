@@ -1,0 +1,38 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009079
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Báo cáo quyết toán đối với hàng hóa đưa vào để bán tại cửa hàng miễn thuế
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Định kỳ hàng năm, chậm nhất là ngày thứ 90 kể từ ngày kết thúc năm tài chính, doanh nghiệp nộp báo cáo quyết toán đối với hàng hóa đưa vào để bán tại cửa hàng miễn thuế: nộp báo cáo quyết toán theo nguyên tắc nhập - xuất - tồn kho theo Mẫu số 07/BCQT cho cơ quan hải quan thông qua hệ thống xử lý dữ liệu điện tử.
+    Bước 2: Doanh nghiệp cung cấp hồ sơ hải quan, chứng từ kế toán, sổ kế toán, chứng từ bán hàng, các giấy tờ khác (nếu có) để phục vụ công tác kiểm tra báo cáo quyết toán khi được cơ quan hải quan yêu cầu theo quy định.
+    Bước 3:
+    - Đối với báo cáo quyết toán phải thực hiện kiểm tra, cơ quan hải quan thông báo cho doanh nghiệp kinh doanh hàng miễn thuế trong vòng 20 ngày kể từ ngày nhận được báo cáo quyết toán.
+    - Đối với báo cáo quyết toán không thuộc trường hợp phải kiểm tra, trong thời hạn 20 ngày làm việc kể từ ngày nhận được báo cáo quyết toán của doanh nghiệp, cơ quan hải quan phản hồi qua hệ thống xử lý dữ liệu điện tử đến doanh nghiệp về báo cáo quyết toán được chấp nhận, không thực hiện kiểm tra. Đồng thời xác nhận trên hệ thống xử lý dữ liệu điện tử việc doanh nghiệp hoàn thành báo cáo quyết toán.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Báo cáo quyết toán theo Mẫu số 07/BCQT quy định tại Phụ lục II Nghị định 100/2020/NĐ-CP ngày 28/8/2020
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ hải quan, chứng từ kế toán, sổ kế toán, chứng từ bán hàng, các giấy tờ khác (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: xác nhận của cơ quan hải quan trên hệ thống xử lý dữ liệu điện tử về số liệu báo cáo
+Căn cứ pháp lý:
+  * Về kinh doanh hàng miễn thuế (100/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

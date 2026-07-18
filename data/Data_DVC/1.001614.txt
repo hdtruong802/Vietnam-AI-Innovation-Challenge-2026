@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001614
+Số quyết định: 966/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp đổi Giấy chứng nhận đăng ký quyền liên quan
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bản quyền tác giả
+Trình tự thực hiện:
+  * Thủ tục cấp đổi Giấy chứng nhận đăng ký quyền liên quan
+    - Cấp đổi Giấy chứng nhận đăng ký quyền liên quan trong trường hợp thay đổi chủ sở hữu quyền liên quan, thông tin về tác phẩm, tác giả, chủ sở hữu quyền liên quan;
+    - Chủ sở hữu quyền liên quan có thể trực tiếp hoặc uỷ quyền cho tổ chức, cá nhân khác nộp hồ sơ đề nghị cấp đổi Giấy chứng nhận đăng ký quyền liên quan đến Cục Bản quyền tác giả (Bộ Văn hóa, thể thao và Du lịch).
+    - Chủ sở hữu quyền liên quan là cá nhân, tổ chức Việt Nam, cá nhân nước ngoài thường trú tại Việt Nam, tổ chức nước ngoài có trụ sở, văn phòng đại diện hoặc chi nhánh tại Việt Nam có thể tự mình hoặc ủy quyền cho đại diện hợp pháp tại Việt Nam nộp hồ sơ đề nghị cấp đổi Giấy chứng nhận đăng ký quyền liên quan.
+    - Chủ sở hữu quyền liên quan là cá nhân nước ngoài không thường trú tại Việt Nam, tổ chức nước ngoài không có trụ sở, văn phòng đại diện hoặc chi nhánh tại Việt Nam nộp hồ sơ đề nghị cấp đổi Giấy chứng nhận đăng ký quyền liên quan thông qua ủy quyền cho tổ chức dịch vụ đại diện quyền tác giả, quyền liên quan tại Việt Nam.
+    - Cơ quan nhà nước có thẩm quyền có trách nhiệm thông báo bằng văn bản hoặc qua hệ thống điện tử về việc tạm dừng xem xét cấp đổi Giấy chứng nhận đăng ký quyền liên quan khi có văn bản thụ lý vụ việc tranh chấp của Tòa án, Trọng tài hoặc văn bản thụ lý đơn khiếu nại, tố cáo của cơ quan có thẩm quyền hoặc văn bản của cơ quan tiến hành tố tụng về việc đang thụ lý, giải quyết nguồn tin về tội phạm hoặc đã khởi tố vụ án hình sự liên quan đến hành vi xâm phạm quyền sở hữu trí tuệ theo quy định của pháp luật. Thời hạn tạm dừng cho đến khi có quyết định hoặc phán quyết có hiệu lực thi hành hoặc cho đến khi hết thời hạn giải quyết hồ sơ, tùy theo thời hạn nào ngắn hơn. Hết thời hạn tạm dừng, cơ quan nhà nước có thẩm quyền có trách nhiệm tiếp tục giải quyết hoặc trả hồ sơ theo quy định và thông báo cho tổ chức, cá nhân.
+    - Từ chối cấp đổi Giấy chứng nhận đăng ký quyền liên quan và trả hồ sơ, thông báo bằng văn bản trong các trường hợp sau:
+    + Phát hiện nội dung tác phẩm cấp đổi có sự thay đổi so với nội dung đã được cấp;
+    + Phát hiện tác phẩm có hình thức hoặc nội dung: Vi phạm các quy định của Hiến pháp, pháp luật; chống phá Đảng, Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam; trái với đạo đức, thuần phong, mỹ tục của dân tộc; mê tín dị đoan và các nội dung khác theo quy định của pháp luật;
+    + Phát hiện tác phẩm đang có tranh chấp, khiếu nại, tố cáo và chưa có quyết định có hiệu lực pháp luật của cơ quan có thẩm quyền, Tòa án hoặc Trọng tài;
+    + Hết thời hạn 01 tháng kể từ ngày nhận được thông báo sửa đổi, bổ sung, trừ trường hợp xảy ra sự kiện bất khả kháng hoặc trở ngại khách quan theo quy định của pháp luật mà cơ quan nhà nước có thẩm quyền không nhận được hồ sơ hợp lệ hoặc hồ sơ đã nộp lại vẫn không hợp lệ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 200000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với cuộc biểu diễn được định hình trên Bản ghi âm) | 300000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với cuộc biểu diễn được định hình trên Bản ghi hình) | 500000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với cuộc biểu diễn được định hình trên Chương trình phát sóng) | 200000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với Bản ghi âm) | 300000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với Bản ghi hình) | 500000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với Chương trình phát sóng)
+    Mô tả: - Rà soát, phân loại, xem xét tính hợp lệ của hồ sơ: Cơ quan nhà nước có thẩm quyền rà soát, phân loại, xem xét tính hợp lệ của hồ sơ đề nghị cấp đổi Giấy chứng nhận đăng ký quyền liên quan trong thời hạn 13 ngày làm việc kể từ ngày nhận được hồ sơ;
+- Việc cấp đổi Giấy chứng nhận đăng ký quyền liên quan thực hiện trong 12 ngày làm việc, kể từ ngày hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 200000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với cuộc biểu diễn được định hình trên Bản ghi âm) | 300000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với cuộc biểu diễn được định hình trên Bản ghi hình) | 500000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với cuộc biểu diễn được định hình trên Chương trình phát sóng) | 200000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với Bản ghi âm) | 300000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với Bản ghi hình) | 500000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với Chương trình phát sóng)
+    Mô tả: - Rà soát, phân loại, xem xét tính hợp lệ của hồ sơ: Cơ quan nhà nước có thẩm quyền rà soát, phân loại, xem xét tính hợp lệ của hồ sơ đề nghị cấp đổi Giấy chứng nhận đăng ký quyền liên quan trong thời hạn 13 ngày làm việc kể từ ngày nhận được hồ sơ;
+- Việc cấp đổi Giấy chứng nhận đăng ký quyền liên quan thực hiện trong 12 ngày làm việc, kể từ ngày hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 200000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với cuộc biểu diễn được định hình trên Bản ghi âm) | 300000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với cuộc biểu diễn được định hình trên Bản ghi hình) | 500000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với cuộc biểu diễn được định hình trên Chương trình phát sóng) | 200000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với Bản ghi âm) | 300000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với Bản ghi hình) | 500000 VNĐ (Phí cấp đổi Giấy chứng nhận quyền liên quan đối với Chương trình phát sóng)
+    Mô tả: - Rà soát, phân loại, xem xét tính hợp lệ của hồ sơ: Cơ quan nhà nước có thẩm quyền rà soát, phân loại, xem xét tính hợp lệ của hồ sơ đề nghị cấp đổi Giấy chứng nhận đăng ký quyền liên quan trong thời hạn 13 ngày làm việc kể từ ngày nhận được hồ sơ;
+- Việc cấp đổi Giấy chứng nhận đăng ký quyền liên quan thực hiện trong 12 ngày làm việc, kể từ ngày hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+  [ Thủ tục cấp đổi Giấy chứng nhận đăng ký quyền liên quan ]
+    - Bản sao của bản định hình cuộc biểu diễn, bản ghi âm, ghi hình, chương trình phát sóng. Trường hợp nộp hồ sơ dưới dạng bản giấy thì nộp 02 bản sao tương ứng
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản gốc Giấy chứng nhận đăng ký quyền liên quan kèm bản sao tác phẩm đã được đóng dấu, ghi số Giấy chứng nhận đăng ký quyền liên quan
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai đề nghị cấp đổi Giấy chứng nhận đăng ký quyền liên quan (Mẫu số 13 ban hành kèm theo Thông tư số 08/2026/TT-BVHTTDL ngày 22/4/2026 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản ủy quyền, nếu người nộp hồ sơ là người được ủy quyền. Văn bản ủy quyền phải ghi cụ thể thông tin liên hệ của bên ủy quyền và bên nhận ủy quyền; tên cuộc biểu diễn, bản ghi âm, ghi hình, chương trình phát sóng; phạm vi ủy quyền; thời hạn ủy quyền. Trường hợp bên ủy quyền và bên được ủy quyền đều là cá nhân thì văn bản ủy quyền phải được công chứng, chứng thực theo quy định của pháp luật; các trường hợp còn lại, văn bản ủy quyền phải thể hiện việc thỏa thuận thống nhất ý chí của các bên.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh về việc thay đổi trong trường hợp thay chủ sở hữu quyền liên quan hoặc thay đổi thông tin của chủ sở hữu quyền liên quan
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã, Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Cục Bản quyền tác giả  - Bộ Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Bộ Văn hóa, Thể thao và Du lịch
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký quyền liên quan
+Căn cứ pháp lý:
+  * 07/2022/QH15 - Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ (07/2022/QH15)
+  * Thông tư 211/2016/TT-BTC (211/2016/TT-BTC)
+  * Thông tư số 08/2026/TT-BVHTTDL ngày 22 tháng 4 năm 2026 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định các mẫu văn bản trong hoạt động đăng ký quyền tác giả, đăng ký quyền liên quan (08/2026/TT-BVHTTDL)
+  * Nghị định số 134/2026/NĐ-CP ngày 06 tháng 4 năm 2026 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 17/2023/NĐ-CP ngày 26 tháng 4 năm 2023 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Sở hữu trí tuệ về quyền tác giả, quyền liên quan (134/2026/NĐ-CP)
+  * sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ (131/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

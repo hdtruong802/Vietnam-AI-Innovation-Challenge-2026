@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013653
+Số quyết định: 1913/QĐ-BTC
+Tên thủ tục: Đăng ký/Thay đổi thông tin sử dụng chứng từ điện tử/Ủy nhiệm lập biên lai điện tử
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Trường hợp (1): Đối với đăng ký/ Thay đổi thông tin sử dụng chứng từ đối với các chứng từ có đầy đủ nội dung theo quy định (Tên biên lai, ký hiệu mẫu biên lai và ký hiệu biên lai, số biên lai, liên biên lai, tên, MST của tổ chức thu thuế, phí, lệ phí, tên loại các khoản thu thuế và số tiền, ngày tháng năm)
+    + Bước 1: Đăng ký
+    Đăng ký sử dụng chứng từ điện tử hoặc thay đổi thông tin sử dụng chứng từ điện tử qua Cổng thông tin điện tử của Cục Hải quan.
+    Theo Mẫu số 01/ĐKTĐ-/CTĐT Phụ lục IA ban hành kèm theo Nghị định số 70/2025/NĐ-CP ngày 20/3/2025.
+    + Bước 2: Tổ chức thực hiện đăng ký/ Thay đổi thông tin sử dụng qua Cổng thông tin điện tử của Cục Hải quan.
+    + Bước 3: Cơ quan quản lý thuế tiếp nhận đăng ký/ Thay đổi thông tin sử dụng chứng từ điện tử.
+    + Bước 4: Gửi dữ liệu chứng từ điện tử
+  * Trường hợp (2): Đối với đăng ký/ Thay đổi thông tin sử dụng chứng từ đối với các chứng từ điều chỉnh một số tiêu thức bắt buộc
+    + Bước 1:
+    Đối với tổ chức thu phí, lệ phí sử dụng biên lai điện tử trong trường hợp cần điều chỉnh một số tiêu thức nội dung trên biên lai điện tử cho phù hợp với thực tế, tổ chức thu phí, lệ phí có văn bản trao đổi với Bộ Tài chính (Cục Hải quan) xem xét và có hướng dẫn trước khi thực hiện.
+    + Bước 2: Cơ quan quản lý thuế tiếp nhận hồ sơ và giải quyết theo quy định.
+  * Trường hợp (3): Ủy nhiệm lập biên lai điện tử
+    + Bước 1: Đăng ký
+    Tổ chức thu phí, lệ phí ủy nhiệm cho bên thứ ba lập biên lai. Việc ủy nhiệm giữa bên ủy nhiệm và bên nhận ủy nhiệm phải theo hình thức văn bản, đồng thời phải gửi thông báo cho cơ quan thuế quản lý trực tiếp khi đăng ký sử dụng biên lai điện tử theo Mẫu số 01/ĐKTĐ-CTĐT Phụ lục IA ban hành kèm theo Nghị định số 70/2025/NĐ-CP ngày 20/3/2025.
+    + Bước 2: Tổ chức thực hiện đăng ký ủy nhiệm/ nhận ủy nhiệm biên lai điện tử qua Cổng thông tin điện tử của Cục Hải quan.
+    + Bước 3: Cơ quan quản lý thuế tiếp nhận đăng ký ủy nhiệm/ nhận ủy nhiệm biên lai điện tử
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Trường hợp (1): Đối với đăng ký/ Thay đổi thông tin sử dụng chứng từ đối với các chứng từ có đầy đủ nội dung theo quy định (Tên biên lai, ký hiệu mẫu biên lai và ký hiệu biên lai, số biên lai, liên biên lai, tên, MST của tổ chức thu thuế, phí, lệ phí, tên loại các khoản thu thuế và số tiền, ngày tháng năm) ]
+    - Mẫu số 01/ĐKTĐ-CTĐT Tờ khai đăng ký/thay đổi thông tin sử dụng chứng từ điện tử
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp (2): Đối với đăng ký/ Thay đổi thông tin sử dụng chứng từ đối với các chứng từ điều chỉnh một số tiêu thức bắt buộc ]
+    - Có văn bản gửi Cục Hải quan (không có mẫu)
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp (3): Ủy nhiệm lập biên lai điện tử ]
+    - Mẫu số 01/ĐKTĐ-CTĐT Tờ khai đăng ký/thay đổi thông tin sử dụng chứng từ điện tử
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực, Cục Hải quan - Bộ tài chính, Hải quan khu vực/ hải quan cửa khẩu, Hải quan cửa khẩu, Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cục Hải quan chấp thuận hồ sơ, Thông báo về việc chấp nhận/không chấp nhận đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử/chứng từ điện tử (Mẫu số 01/TB-ĐKĐT), Thông báo về việc tiếp nhận/không tiếp nhận tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử/chứng từ điện tử (Mẫu số 01/TB-TNĐT)
+Căn cứ pháp lý:
+  * Nghị định 123/2020/NĐ-CP (123/2020/NĐ-CP)
+  * Nghị định số 70/2025/NĐ-CP ngày ngày 20 tháng 3 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ. (70/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

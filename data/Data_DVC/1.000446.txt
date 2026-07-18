@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000446
+Số quyết định: 1040/QĐ-BCT
+Tên thủ tục: Thông báo liên thông giao dịch qua Sở Giao dịch hàng hóa nước ngoài
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Sở giao dịch hàng hóa
+Trình tự thực hiện:
+  * Sở Giao dịch hàng hóa có trách nhiệm thực hiện thủ tục thông báo liên thông giao dịch qua Sở Giao dịch hàng hóa ở nước ngoài trong trường hợp Sở Giao dịch hàng hóa tại Việt Nam liên thông với Sở Giao dịch hàng hóa ở nước ngoài..
+    - Sở Giao dịch hàng hóa nộp hồ sơ thông báo về việc liên thông với Sở Giao dịch hàng hóa ở nước ngoài chậm nhất 30 ngày kể từ ngày ký Biên bản hợp tác với Sở Giao dịch hàng hóa ở nước ngoài.
+    - Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ thông báo của Sở Giao dịch hàng hóa về việc liên thông với Sở Giao dịch hàng hóa ở nước ngoài, Bộ Công Thương có văn bản phản hồi đến Sở Giao dịch hàng hóa nếu hồ sơ thông báo chưa đầy đủ. Sau thời hạn trên nếu Sở Giao dịch hàng hóa không nhận được văn bản phản hồi từ Bộ Công Thương có nghĩa là hồ sơ thông báo của Sở Giao dịch hàng hóa đã đầy đủ, hợp lệ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - 01 biên bản hợp tác giữa Sở Giao dịch hàng hóa tại Việt nam với Sở Giao dịch hàng hóa ở nước ngoài hoặc thành viên kinh doanh của Sở Giao dịch hàng hóa ở nước ngoài có xác nhận của cơ quan đại diện của Việt Nam tại nước ngoài.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - 01 văn bản thông báo về việc liên thông với Sở Giao dịch hàng hóa ở nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận việc tiếp nhận hồ sơ thông báo liên thông giao dịch qua Sở giao dịch hàng hóa nước ngoài.
+Căn cứ pháp lý:
+  * Nghị định 158/2006/NĐ-CP (158/2006/NĐ-CP)
+  * Nghị định 51/2018/NĐ-CP (51/2018/NĐ-CP)
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Luật Thương mại (36/2005/QH11)
+
+Yêu cầu, điều kiện thực hiện: Sở Giao dịch hàng hóa tại Việt Nam có liên thông với Sở Giao dịch hàng hóa ở nước ngoài
+Từ khóa: Không có thông tin
+Mô tả: Sở Giao dịch hàng hóa tại Việt Nam có liên thông với Sở Giao dịch hàng hóa ở nước ngoài

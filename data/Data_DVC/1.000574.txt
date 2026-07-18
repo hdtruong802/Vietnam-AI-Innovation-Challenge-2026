@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000574
+Số quyết định: 1201/QĐ-BXD
+Tên thủ tục: Cấp Giấy chứng nhận cơ sở đủ điều kiện đào tạo, huấn luyện nghiệp vụ nhân viên hàng không (trừ lĩnh vực đào tạo nhân viên an ninh hàng không)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không gửi hồ sơ trực tiếp hoặc qua hệ thống bưu chính hoặc trên môi trường điện tử đến Cục Hàng không Việt Nam.
+    b) Giải quyết TTHC:
+    Trong thời hạn 18 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam thẩm định hồ sơ, kiểm tra đánh giá thực tế cơ sở; yêu cầu người đề nghị giải trình bổ sung các nội dung liên quan, chỉnh sửa tài liệu; cấp Giấy chứng nhận cơ sở đủ điều kiện đào tạo, huấn luyện nghiệp vụ nhân viên hàng không cho cơ sở đề nghị theo Mẫu số 07 quy định tại Phụ lục ban hành kèm theo Nghị định này và trả kết quả trực tiếp hoặc qua dịch vụ bưu chính hoặc bằng các hình thức phù hợp khác đến cơ sở đề nghị; trường hợp từ chối phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 20000000 VNĐ (đồng Miễn phí kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư số 40/2026/TT-BTC)
+    Mô tả: 18 ngày, kể từ ngày nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 20000000 VNĐ (đồng Miễn phí kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư số 40/2026/TT-BTC)
+    Mô tả: 18 ngày, kể từ ngày nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 ngày
+    Phí, lệ phí: 20000000 VNĐ (đồng Miễn phí kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư số 40/2026/TT-BTC)
+    Mô tả: 18 ngày, kể từ ngày nhận đủ hồ sơ theo quy định
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp Giấy chứng nhận cơ sở đủ điều kiện đào tạo, huấn luyện nghiệp vụ nhân viên hàng không
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tài liệu giải trình tổ chức huấn luyện về việc đáp ứng yêu cầu theo quy định bao gồm: + Danh sách trích ngang giáo viên; + Báo cáo về cơ sở vật chất: Phòng học, trang thiết bị, cơ sở hoặc nơi thực hành phù hợp với nội dung đào tạo; + Báo cáo về chương trình, giáo trình, tài liệu đào tạo, huấn luyện lý thuyết, thực hành liên quan đến từng môn học; + Báo cáo về hệ thống tổ chức, bộ máy, đội ngũ cán bộ quản lý và hệ thống văn bản quản lý đào tạo, huấn luyện nghiệp vụ nhân viên hàng không.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: giấy chứng nhận cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không
+Căn cứ pháp lý:
+  * sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Xây dựng (14/2026/NĐ-CP)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Nghị định quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng (33/2025/NĐ-CP)
+  * Nghị định 64/2022/NĐ-CP (64/2022/NĐ-CP)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Quy định về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng (92/2016/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: * Điều kiện kinh doanh dịch vụ đào tạo, huấn luyện nghiệp vụ nhân viên hàng không 
+Được Cục Hàng không Việt Nam cấp Giấy chứng nhận cơ sở đủ điều kiện đào tạo, huấn luyện nghiệp vụ nhân viên hàng không khi đáp ứng đủ các yêu cầu sau:
+- Yêu cầu về tổ chức bộ máy, cơ sở vật chất, trang thiết bị, đội ngũ giảng viên quy định, tại Điều 25, 26 của Nghị định số 92/2016/NĐ-CP;
+- Yêu cầu về chương trình đào tạo, giáo trình, tài liệu đào tạo huấn luyện theo quy định của pháp luật hiện hành. 
+* Yêu cầu đối với cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không 
+Cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không phải đáp ứng các yêu cầu sau đây:
+- Có tài liệu giải trình cơ sở vật chất đáp ứng quy chuẩn, tiêu chuẩn kỹ thuật chuyên ngành hàng không theo quy định của pháp luật hiện hành.
+- Có tài liệu giải trình chương trình đào tạo, giáo trình, tài liệu đào tạo huấn luyện theo quy định của pháp luật hiện hành.
+- Cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không phải bảo đảm đủ giáo viên lý thuyết, giáo viên thực hành để mỗi môn học chuyên ngành hàng không phải có ít nhất 01 giáo viên giảng dạy.
+* Giáo viên của cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không
+Tiêu chuẩn giáo viên chuyên ngành hàng không phải đáp ứng một trong các yêu cầu sau:
+- Có chứng chỉ chuyên môn theo quy định tại văn bản quy phạm pháp luật chuyên ngành hàng không hoặc có kinh nghiệm 5 năm làm việc trong lĩnh vực chuyên môn liên quan đến môn giảng dạy.
+- Có nghiệp vụ sư phạm theo pháp luật về giáo dục hoặc giáo dục nghề nghiệp.
+Từ khóa: Không có thông tin
+Mô tả: * Điều kiện kinh doanh dịch vụ đào tạo, huấn luyện nghiệp vụ nhân viên hàng không 
+Được Cục Hàng không Việt Nam cấp Giấy chứng nhận cơ sở đủ điều kiện đào tạo, huấn luyện nghiệp vụ nhân viên hàng không khi đáp ứng đủ các yêu cầu sau:
+- Yêu cầu về tổ chức bộ máy, cơ sở vật chất, trang thiết bị, đội ngũ giảng viên quy định, tại Điều 25, 26 của Nghị định số 92/2016/NĐ-CP;
+- Yêu cầu về chương trình đào tạo, giáo trình, tài liệu đào tạo huấn luyện theo quy định của pháp luật hiện hành. 
+* Yêu cầu đối với cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không 
+Cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không phải đáp ứng các yêu cầu sau đây:
+- Có tài liệu giải trình cơ sở vật chất đáp ứng quy chuẩn, tiêu chuẩn kỹ thuật chuyên ngành hàng không theo quy định của pháp luật hiện hành.
+- Có tài liệu giải trình chương trình đào tạo, giáo trình, tài liệu đào tạo huấn luyện theo quy định của pháp luật hiện hành.
+- Cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không phải bảo đảm đủ giáo viên lý thuyết, giáo viên thực hành để mỗi môn học chuyên ngành hàng không phải có ít nhất 01 giáo viên giảng dạy.
+* Giáo viên của cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên hàng không
+Tiêu chuẩn giáo viên chuyên ngành hàng không phải đáp ứng một trong các yêu cầu sau:
+- Có chứng chỉ chuyên môn theo quy định tại văn bản quy phạm pháp luật chuyên ngành hàng không hoặc có kinh nghiệm 5 năm làm việc trong lĩnh vực chuyên môn liên quan đến môn giảng dạy.
+- Có nghiệp vụ sư phạm theo pháp luật về giáo dục hoặc giáo dục nghề nghiệp.

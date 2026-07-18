@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013585
+Số quyết định: 1909/QĐ-BQP
+Tên thủ tục: Thủ tục biên đối với tàu thuyền buồm, tàu thuyền thể thao, du thuyền, người đi trên tàu thuyền buồm, tàu thuyền thể thao, du thuyền nhập cảnh, xuất cảnh, tại cửa khẩu cảng
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý biên giới
+Trình tự thực hiện:
+    - Bước 1: Chậm nhất 02 giờ, kể từ khi tàu thuyền neo đậu tại cầu cảng; chậm nhất 04 giờ, kể từ khi tàu thuyền neo đậu tại các vị trí khác trong vùng nước cảng, người làm thủ tục phải nộp và xuất trình cho Biên phòng cửa khẩu cảng các loại giấy tờ đối với tàu thuyền nhập cảnh, hồ sơ chuyển cảng đối với tàu thuyền chuyển cảng đến theo quy định;
+    Chậm nhất 02 giờ, trước khi tàu thuyền dự kiến rời cảng, người làm thủ tục phải nộp và xuất trình cho Biên phòng cửa khẩu cảng các loại giấy tờ đối với tàu thuyền xuất cảnh, tàu thuyền chuyển cảng đi theo quy định;
+    - Bước 2: Biên phòng cửa khẩu cảng kiểm tra tính hợp pháp, hợp lệ của các giấy tờ mà người làm thủ tục nộp và xuất trình; hoàn thành thủ tục nhập cảnh, xuất cảnh, chuyển cảng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Người làm thủ tục nộp, xuất trình các loại giấy tờ tại trụ sở Cảng vụ hàng hải, Cảng vụ đường thủy nội địa hoặc văn phòng đại diện Cảng vụ hàng hải, Cảng vụ đường thủy nội địa
+Chậm nhất 01 giờ kể từ khi Biên phòng cửa khẩu cảng tiếp nhận đầy đủ các loại giấy tờ do người làm thủ tục nộp và xuất trình đối với tàu nhập cảnh, xuất cảnh, chuyển cảng đi;
+- Chậm nhất 30 phút kể từ khi Biên phòng cửa khẩu cảng tiếp nhận hồ sơ chuyển cảng đối với tàu chuyển cảng đến
+
+Thành phần hồ sơ:
+  [ Giấy tờ phải nộp ]
+    - 02 bản chính Bản khai vũ khí và vật liệu nổ (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 02 bản chính Danh sách thuyền viên
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 01 (một) bản chính Bản khai người trốn trên tàu (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 02 bản chính Bản khai chung
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 02 bản chính Danh sách hành khách (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Giấy tờ phải xuất trình ]
+    - Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế của thuyền viên và hành khách (nếu có) hoặc sổ thuyền viên đối với thuyền viên nước ngoài thuộc trường hợp quy định tại khoản 3 Điều 13 Nghị định số 77/2017/NĐ-CP ngày 03/7/2017 của Chính phủ quy định về quản lý, bảo vệ an ninh, trật tự tại cửa khẩu cảng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đối với hành khách (nếu có): Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Đội Thủ tục Biên phòng cửa khẩu cảng
+Cơ quan có thẩm quyền: Biên phòng cửa khẩu cảng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Biên phòng cửa khẩu cảng thực hiện kiểm chứng nhập cảnh, xuất cảnh vào Bản khai chung, Danh sách thuyền viên, Danh sách hành khách, hộ chiếu của thuyền viên Việt Nam, hộ chiếu của hành khách đối với tàu nhập cảnh, xuất cảnh; niêm phong hồ sơ chuyển cảng đối với tàu thuyền chuyển cảng đi; tiếp nhận, kiểm tra hồ sơ chuyển cảng đối với tàu thuyền chuyển cảng đến
+Căn cứ pháp lý:
+  * Luật Xuất cảnh, nhập cảnh của công dân Việt Nam và Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam sửa đổi 2023 (23/2023/QH15)
+  * Luật 49/2019/QH14 (49/2019/QH14)
+  * Luật 51/2019/QH14 (51/2019/QH14)
+  * Nghị định quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải (58/2017/NĐ-CP)
+  * Quy định về quản lý, bảo an ninh, trật tự tại cửa khẩu cảng (77/2017/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

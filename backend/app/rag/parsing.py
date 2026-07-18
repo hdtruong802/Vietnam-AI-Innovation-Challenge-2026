@@ -10,13 +10,21 @@ from typing import Any
 
 from .normalization import NormalizedDocument
 
-
 PARSER_VERSION = "vaic-structure-parser-v1"
 SECTION_TYPES = frozenset(
     {
-        "overview", "authority", "eligibility", "documents", "steps",
-        "processing_time", "fees", "forms", "legal_basis", "effective_date",
-        "exceptions", "other",
+        "overview",
+        "authority",
+        "eligibility",
+        "documents",
+        "steps",
+        "processing_time",
+        "fees",
+        "forms",
+        "legal_basis",
+        "effective_date",
+        "exceptions",
+        "other",
     }
 )
 
@@ -53,9 +61,7 @@ _FIELD_TYPES: dict[str, str] = {
     "hieu luc thi hanh": "effective_date",
 }
 _INHERITED_FIELD_BOUNDARIES = frozenset({"mo ta"})
-_HEADING_PREFIX = re.compile(
-    r"^(?:\d+(?:\.\d+)*[.)]?|[ivxlcdm]+[.)]|[a-z][.)])\s+", re.I
-)
+_HEADING_PREFIX = re.compile(r"^(?:\d+(?:\.\d+)*[.)]?|[ivxlcdm]+[.)]|[a-z][.)])\s+", re.I)
 
 
 @dataclass(frozen=True, slots=True)
@@ -82,9 +88,7 @@ class ParsedSection:
 def _fold(text: str) -> str:
     decomposed = unicodedata.normalize("NFD", text.casefold())
     without_accents = "".join(
-        character
-        for character in decomposed
-        if unicodedata.category(character) != "Mn"
+        character for character in decomposed if unicodedata.category(character) != "Mn"
     )
     return without_accents.replace("đ", "d")
 
@@ -146,8 +150,12 @@ def parse_sections(document: NormalizedDocument, source_id: str) -> list[ParsedS
         start_char, end_char = document.line_span(start_line, end_line)
         identity = "|".join(
             (
-                PARSER_VERSION, source_id, section_type,
-                str(type_ordinals[section_type]), str(start_line), str(end_line),
+                PARSER_VERSION,
+                source_id,
+                section_type,
+                str(type_ordinals[section_type]),
+                str(start_line),
+                str(end_line),
                 hashlib.sha256(text.encode("utf-8")).hexdigest(),
             )
         )

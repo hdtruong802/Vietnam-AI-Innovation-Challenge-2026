@@ -1,10 +1,10 @@
 # Project Context — AI Procedure Copilot
 
-> Trạng thái: ba MVP đã chốt; D-005 scaffold được chấp thuận; năng lực trust/RAG/deploy trong D-006 vẫn `Proposed`.
+> Trạng thái: ba MVP đã chốt; D-005 scaffold được chấp thuận; năng lực trust/RAG/deploy trong D-006 vẫn `Proposed`; D-011 hiện thực RAG/LLM/Guardrail chạy được local, cũng vẫn `Proposed` chờ peer confirmation.
 >
-> Cập nhật gần nhất: 2026-07-17
+> Cập nhật gần nhất: 2026-07-18
 >
-> Decision liên quan: D-005, D-006, D-007, D-008, D-009 và D-010
+> Decision liên quan: D-005, D-006, D-007, D-008, D-009, D-010 và D-011
 
 Tài liệu này là context sản phẩm tối thiểu cho mọi thành viên và coding agent. Nó phân biệt rõ phần đã có trong source với kiến trúc mục tiêu chưa được xác nhận bằng implementation/evidence.
 
@@ -58,8 +58,9 @@ Kết quả quy phạm chỉ có ba trust state:
 
 ### Thành phần đã có và chưa có
 
-- D-005 đã chấp thuận scaffold `frontend/` và `backend/`. Backend hiện có API foundation gồm health, list/recommend/intake/checklist/validate, typed trust/error contract, deterministic rule engine và dev fixture fail-closed; frontend vẫn là khung giao diện khởi tạo. Đây chưa phải bằng chứng rằng Procedure Pack thật, widget, RAG, external AI hay deploy đã hoàn thành.
-- D-006 vẫn đề xuất RAG/knowledge release, provider-neutral LLM, approved data adapter, PII boundary hoàn chỉnh, widget contract và topology deploy. Backend chỉ tạo port/fallback để các capability này tích hợp sau Task Record, peer review và evidence riêng.
+- D-005 đã chấp thuận scaffold `frontend/` và `backend/`. Backend hiện có API foundation gồm health, list/recommend/intake/checklist/validate, typed trust/error contract, deterministic rule engine và dev fixture fail-closed; frontend vẫn là khung giao diện khởi tạo.
+- D-006 vẫn đề xuất RAG/knowledge release, provider-neutral LLM, approved data adapter, PII boundary hoàn chỉnh, widget contract và topology deploy.
+- D-011 (`local-20260718-rag-llm-guardrail`, `Proposed`, cần peer confirmation) hiện thực RAG in-process trên `data/Data_DVC`, LLM Gateway OpenAI-compatible với offline fallback và PII Guard session-scoped, cắm vào port/adapter của D-006 qua `procedure_data_mode=rag`, `rag_mode=rag`, `llm_mode=gateway`. Mặc định (`fixture`/`disabled`) vẫn không đổi. Đây là evidence runtime đầu tiên cho 3 procedure pack MVP nhưng **chưa phải K1/approved chính thức** — checklist/steps được parser deterministic từ nguồn thô, chưa qua human review nội dung pháp lý.
 
 ### Tiêu chí thành công đề xuất
 
@@ -92,9 +93,9 @@ Kết quả quy phạm chỉ có ba trust state:
 | Hạng mục | Trạng thái hiện tại | Decision |
 | --- | --- | --- |
 | Frontend web | Next.js scaffold trong `frontend/`; UI product/widget chưa hoàn tất | D-005 Accepted; D-008 Accepted |
-| Backend/API | FastAPI integration foundation trong `backend/`; sáu routes, typed trust/error metadata, deterministic rules và dev fixture có sẵn; external data/RAG/LLM adapter chưa có | D-005 Accepted; D-006 Proposed |
-| AI/model/provider | Provider-neutral adapter và provider cụ thể `TBD` | D-006 Proposed |
-| Data/RAG | Curated procedure packs, structured/vector retrieval và release governance chưa có evidence runtime | D-006 Proposed |
+| Backend/API | FastAPI integration foundation trong `backend/`; sáu routes, typed trust/error metadata, deterministic rules và dev fixture có sẵn; adapter RAG/LLM/PII Guard đã cắm vào port qua `procedure_data_mode=rag` | D-005 Accepted; D-006 Proposed; D-011 Proposed |
+| AI/model/provider | LLM Gateway OpenAI-compatible (`llm_mode=gateway`), fallback deterministic khi thiếu `AI_API_KEY`; provider thật vẫn `TBD` | D-006 Proposed; D-011 Proposed |
+| Data/RAG | RAG in-process (lexical, pure-Python) trên `data/Data_DVC` cho 3 pack MVP; checksum/last_verified_at có nhưng chưa qua K1 review nội dung; structured/vector retrieval production và release governance đầy đủ vẫn chưa có | D-006 Proposed; D-011 Proposed |
 | Deploy/demo runtime | Chưa provision URL, hosting, secret hoặc CD | D-006 Proposed |
 | Application checks | Lệnh bootstrap có sẵn; lint/test/build ứng dụng cần được xác minh theo Task Record | D-005 / task follow-up |
 
@@ -125,8 +126,8 @@ Lệnh cài dependency, lint/test/build và kết quả chạy phải được g
 | `GET /health` | Smoke check | Có trong backend scaffold |
 | `/v1/procedures`, `/v1/procedures/recommend`, `/v1/intake/turn`, `/v1/procedures/{id}/checklist`, `/v1/applications/validate` | Web UI / demo consumer | Contract foundation có trong backend; `verified_guidance` chỉ hợp lệ sau pack approved/K1, còn dev fixture luôn fail closed |
 | Widget / standalone web app -> REST API | Portal host, web UI | Web-first direction được D-008 chấp thuận; embed contract chưa hoàn tất |
-| Orchestrator -> approved procedure pack | Retrieval/checklist/validation | D-006 Proposed |
-| LLM adapter -> provider | Orchestrator | D-006 Proposed; không gửi raw PII |
+| Orchestrator -> approved procedure pack | Retrieval/checklist/validation | D-006 Proposed; adapter RAG chạy được qua D-011 (`procedure_data_mode=rag`) |
+| LLM adapter -> provider | Orchestrator | D-006 Proposed; adapter chạy được qua D-011 (`llm_mode=gateway`), fallback deterministic; không gửi raw PII |
 
 Owner là trách nhiệm tạm thời trong Task Record, không phải chức danh cố định.
 

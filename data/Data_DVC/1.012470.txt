@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012470
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hóa xuất khẩu, nhập khẩu tại chỗ; Thủ tục mua bán hàng hóa giữa Doanh nghiệp chế xuất với Doanh nghiệp nội địa; Thủ tục mua bán hàng hóa giữa hai doanh nghiệp chế xuất; Thủ tục giao nhận sản phẩm gia công chuyển tiếp; Thủ  tục đối với nguyên liệu, vât tư đã nhập khẩu theo loại hình nhập sản xuất xuất khẩu trước khi ký kết hợp đồng gia công, bên nhận gia công được sử dụng nguyên liệu, vật tư nhập khẩu để cung ứng cho hợp đồng gia công cho thương nhân nước ngoài; Thủ  tục đối với nguyên liệu, vật tư do tổ chức, cá nhân tại Việt Nam cung cấp theo chỉ định của thương nhân nước ngoài để thực hiện hợp đồng gia công cho thương nhân nước ngoài
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Đối với người xuất khẩu:  + Bước 1: Người xuất khẩu khai thông tin tờ khai hàng xuất khẩu và khai vận chuyển kết hợp, trong đó ghi rõ vào ô “Điểm đích cho vận chuyển bảo thuế” là mã địa điểm của Chi cục Hải quan làm thủ tục hải quan nhập khẩu và ô tiêu chí “Số quản lý nội bộ của doanh nghiệp” trên tờ khai xuất khẩu phải khai như sau: #&XKTC hoặc tại ô “Ghi chép khác” trên tờ khai hải quan giấy; + Bước 2: Thực hiện thủ tục xuất khẩu hàng hóa theo quy định; + Bước 3: Thông báo việc đã hoàn thành thủ tục hải quan xuất khẩu để người nhập khẩu thực hiện thủ tục nhập khẩu và giao hàng hóa cho người nhập khẩu; + Bước 4: Tiếp nhận thông tin tờ khai nhập khẩu tại chỗ đã hoàn thành thủ tục hải quan từ người nhập khẩu tại chỗ để thực hiện các thủ tục tiếp theo
+    Đối với người nhập khẩu:
+    + Bước 1: Khai thông tin tờ khai hải quan nhập khẩu theo đúng thời hạn quy định trong đó ghi rõ số tờ khai hải quan xuất khẩu tại chỗ tương ứng tại ô “Số quản lý nội bộ doanh nghiệp” như sau: #&NKTC#&số tờ khai hải quan xuất khẩu tại chỗ tương ứng hoặc tại ô “Ghi chép khác” trên tờ khai hải quan giấy;
+    + Bước 2: Thực hiện thủ tục nhập khẩu hàng hóa theo quy định;
+    + Bước 3: Ngay sau khi hoàn thành thủ tục nhập khẩu tại chỗ thì thông báo việc đã hoàn thành thủ tục cho người xuất khẩu tại chỗ để thực hiện các thủ tục tiếp theo;
+    + Bước 4: Chỉ được đưa hàng hóa vào sản xuất, tiêu thụ sau khi hàng hóa nhập khẩu đã được thông quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tờ khai hàng hóa xuất khẩu theo mẫu HQ/2015/XK tại Phụ lục IV ban hành kèm Thông tư số 38/2015/TT-BTC ngày 25/3/2015.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai hàng hóa nhập khẩu theo mẫu HQ/2015/NK tại Phụ lục IV ban hành kèm Thông tư số 38/2015/TT-BTC ngày 25/3/2015.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu số 02 Phụ lục II ban hành kèm Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính (đã được sửa đổi, bổ sung tại Phụ lục I ban hành kèm theo Thông tư 39/2018/TT-BTC ngày 20/4/2018);
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Mẫu số 01 Phụ lục II ban hành kèm Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính (đã được sửa đổi, bổ sung tại Phụ lục I ban hành kèm theo Thông tư 39/2018/TT-BTC ngày 20/4/2018);
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức nước ngoài
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông quan hàng hóa nhập khẩu, xuất khẩu
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008928
+Số quyết định: 1444/QĐ-BTP
+Tên thủ tục: Cấp lại Thẻ Thừa hành viên
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thừa hành viên
+Trình tự thực hiện:
+    - Văn phòng thi hành án dân sự lập hồ sơ đề nghị cấp lại Thẻ cho Thừa hành viên của văn phòng.
+    - Sở Tư pháp cấp lại Thẻ Thừa hành viên; trường hợp từ chối phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Hồ sơ gửi trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công tỉnh, thành phố nơi đặt trụ sở của văn phòng thi hành án dân sự hoặc trực tuyến trên Cổng Dịch vụ công quốc gia
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Hồ sơ gửi trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công tỉnh, thành phố nơi đặt trụ sở của văn phòng thi hành án dân sự hoặc trực tuyến trên Cổng Dịch vụ công quốc gia
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Hồ sơ gửi trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công tỉnh, thành phố nơi đặt trụ sở của văn phòng thi hành án dân sự hoặc trực tuyến trên Cổng Dịch vụ công quốc gia
+
+Thành phần hồ sơ:
+  Không có thông tin thành phần hồ sơ.
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Sở Tư pháp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cấp lại Thẻ Thừa phát lại
+Căn cứ pháp lý:
+  * Thông tư số 09/2025/TT-BTP ngày 16/6/2025 của Bộ trưởng Bộ Tư pháp hướng dẫn chức năng, nhiệm vụ, quyền hạn của Sở Tư pháp thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và chức năng, nhiệm vụ, quyền hạn của Văn phòng Hội đồng nhân dân và Ủy ban nhân dân thuộc Ủy ban nhân dân xã, phường, đặc khu trong lĩnh vực tư pháp (09/2025/TT-BTP)
+  * Nghị định số 151/2026/NĐ-CP ngày 13/5/2026 của Chính phủ quy định về tổ chức và hoạt động của văn phòng thi hành án dân sự, Thừa hành viên (Nghị định số 151/2026/NĐ-CP)
+  * Thông tư số 08/2026/TT-BTP ngày 16/5/2026 của Bộ trưởng Bộ Tư pháp hướng dẫn thi hành Nghị định số 151/2026/NĐ-CP ngày 13/5/2026 của Chính phủ quy định về tổ chức và hoạt động của văn phòng thi hành án dân sự, Thừa hành viên (Thông tư số 08/2026/TT-BTP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

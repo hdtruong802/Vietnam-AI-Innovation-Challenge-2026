@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013196
+Số quyết định: 5132/QĐ-BQP
+Tên thủ tục: Thủ tục xác nhận đối với quân nhân đã xuất ngũ bị bệnh cũ tái phát dẫn đến tâm thần quy định tại điểm h khoản 1 Điều 33 Nghị định số 31/2013/NĐ-CP
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chính sách BQP
+Trình tự thực hiện:
+    Bước 1. Đối tượng làm đơn đề nghị cấp giấy chứng nhận bệnh tật và giải quyết chế độ bệnh binh (Mẫu BB2/2024) hoặc thân nhân đối tượng làm đơn đề cấp giấy chứng nhận bệnh tật và giải quyết chế độ bệnh binh đối với quân nhân đã xuất ngũ bị bệnh cũ tái phát dẫn đến tâm thần (Mẫu BB3/2024) kèm giấy tờ theo quy định, gửi Ủy ban nhân dân cấp xã nơi đối tượng cư trú xác nhận, lập hồ sơ và đề nghị Bộ Chỉ huy quân sự cấp tỉnh;
+    Bước 2. Bộ Chỉ huy quân sự cấp tỉnh, Cục Chính trị Quân khu kiểm tra, xem xét, hoàn thiện hồ sơ theo thẩm quyền, gửi Cục Chính sách - Xã hội/Tổng cục Chính trị.
+    Bước 3. Cục Chính sách - Xã hội/Tổng cục Chính trị thẩm định và giới thiệu đến Hội đồng Giám định y khoa bệnh tâm thần Bộ Quốc phòng hoặc Hội đồng Giám định y khoa Bệnh viện 175/Bộ Quốc phòng;
+    Bước 4. Hội đồng Giám định y khoa bệnh tâm thần tiến hành giám định, gửi biên bản giám định bệnh tật về cơ quan, đơn vị giới thiệu đến giám định;
+    Bước 5. Tư lệnh hoặc Chính ủy Quân khu (đối tượng cư trú thuộc địa bàn Quân khu); Cục trưởng Cục Chính sách - Xã hội (đối tượng cư trú thuộc địa bàn thành phố Hà Nội), trong thời hạn 10 ngày làm việc, kể từ ngày tiếp nhận biên bản giám định y khoa (Mẫu số 78 Phụ lục I Nghị định số 131/2021/NĐ-CP), có trách nhiệm ra quyết định về việc cấp giấy chứng nhận bệnh binh và trợ cấp, phụ cấp ưu đãi (Mẫu số 63 Phụ lục I Nghị định số 131/2021/NĐ-CP); cấp giấy chứng nhận bệnh binh; chuyển quyết định kèm theo hồ sơ về Bộ Chỉ huy quân sự cấp tỉnh.
+    Bước 6. Bộ Chỉ huy quân sự cấp tỉnh:
+    - Giao giấy chứng nhận bị bệnh cho đối tượng;
+    - Bàn giao hồ sơ về Sở Nội vụ để quản lý và thực hiện chế độ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 60 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 60 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản sao có chứng thực quyết định phục viên, xuất ngũ hoặc bản chính giấy xác nhận về thời gian công tác trong Quân đội của Bộ chỉ huy quân sự cấp tỉnh
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Giấy tờ làm căn cứ cấp giấy chứng nhận bị bệnh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Biên bản giám định y khoa (Mẫu số 78 Phụ lục I Nghị định số 131/2021/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy chứng nhận bị bệnh (Mẫu số 36 Phụ lục I Nghị định số 131/2021/NĐ-CP ngày 30/12/2021 của Chính phủ quy định chi tiết và biện pháp thi hành Pháp lệnh Ưu đãi người có công với cách mạng);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Biên bản đề nghị xác nhận bệnh binh của Ủy ban nhân dân cấp xã nơi đối tượng cư trú (Mẫu BB1/2024).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Công văn đề nghị của Thủ trưởng cơ quan, đơn vị.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị cấp giấy chứng nhận bệnh tật và giải quyết chế độ bệnh binh (Mẫu BB2/2024) hoặc đơn đề nghị cấp giấy chứng nhận bệnh tật và giải quyết chế độ bệnh binh đối với quân nhân đã xuất ngũ bị bệnh cũ tái phát dẫn đến tâm thần (Mẫu BB3/2024).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phiếu thẩm định của Cục Chính sách - Xã hội/Tổng cục Chính trị (Mẫu số 91 Phụ lục I Nghị định số 131/2021/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Tư lệnh hoặc Chính ủy quân khu, Cục Chính sách
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cấp giấy chứng nhận bệnh binh và trợ cấp, phụ cấp ưu đãi (Mẫu số 63 Phụ lục I Nghị định số 131/2021/NĐ-CP)
+Căn cứ pháp lý:
+  * Thông tư số 103/2025/TT-BQP ngày 26/9/2025 của Bộ trưởng Bộ Quốc phòng về việc sửa đổi, bổ sung một số điều của các Thông tư liên tịch, Thông tư, Quyết định của Bộ trưởng Bộ Quốc phòng về lĩnh vực chính sách (103/2025/TT-BQP)
+  * Thông tư số 13/2024/TT-BQP ngày 18/3/2024 của Bộ trưởng Bộ Quốc phòng sửa đổi, bổ sung một số điều của các văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Bộ trưởng Bộ Quốc phòng liên quan đến việc kê khai thông tin cá nhân khi thực hiện thủ tục hành chính (13)
+  * Khoản 2 Điều 15, khoản 2 Điều 16, khoản 2 Điều 17 Thông tư 202/2013/TT-BQP hướng dẫn về trình tự, thủ tục xác nhận, tổ chức thực hiện chế độ ưu đãi người có công với cách mạng thuộc trách nhiệm của Bộ Quốc phòng (202/2013/TT-BQP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

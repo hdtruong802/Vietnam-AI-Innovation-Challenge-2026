@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013588
+Số quyết định: 1909/QĐ-BQP
+Tên thủ tục: Thủ tục biên phòng đối với tàu thuyền, thuyền viên, hành khách đi trên tàu chở khách du lịch quốc tế nhập cảnh, xuất cảnh, chuyển cảng tại cửa khẩu cảng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý biên giới
+Trình tự thực hiện:
+  * Đối với tàu chở khách du lịch quốc tế
+    Trực tuyến:
+    - Bước 1: Chậm nhất 04 giờ trước khi tàu thuyền dự kiến đến cảng, người làm thủ tục phải khai báo thông tin liên quan đến tàu thuyền, thuyền viên, hành khách nhập cảnh tại cửa khẩu cảng theo mẫu biểu quy định trên Cổng thông tin một cửa quốc gia hoặc trên Cổng thông tin thủ tục biên phòng điện tử cảng biển (trường hợp Cổng thông tin một cửa quốc gia có sự cố);
+    - Bước 2: Biên phòng cửa khẩu cảng tiếp nhận khai báo của người làm thủ tục từ Cổng thông tin một cửa quốc gia chuyển đến Cổng thông tin thủ tục biên phòng điện tử hoặc trên Cổng thông tin thủ tục biên phòng điện tử cảng biển (trường hợp Cổng thông tin một cửa quốc gia có sự cố);
+    - Bước 3: Biên phòng cửa khẩu cảng thực hiện kiểm tra, xử lý thông tin khai báo, thực hiện thủ tục biên phòng điện tử và gửi xác nhận hoàn thành thủ tục biên phòng điện tử hoặc thông báo từ chối thực hiện thủ tục biên phòng điện tử cho người làm thủ tục thông qua Cổng thông tin một cửa quốc gia hoặc Cổng thông tin thủ tục biên phòng điện tử cảng biển (trường hợp Cổng thông tin một cửa quốc gia có sự cố). Đối với hành khách và thuyền viên Việt Nam thực hiện thủ tục trực tiếp tại tàu;
+    - Bước 4: Chậm nhất 12 giờ, trước khi tàu đến cảng, doanh nghiệp lữ hành quốc tế đón khách phải nộp cho Biên phòng cửa khẩu cảng các loại giấy tờ theo quy định.
+  * Đối với tàu chở khách du lịch quốc tế
+    Trực tiếp:
+    - Bước 1: Chậm nhất 12 giờ, trước khi tàu đến cảng, doanh nghiệp lữ hành quốc tế đón khách phải nộp cho Biên phòng cửa khẩu cảng các loại giấy tờ theo quy định;
+    Trường hợp vì lý do khách quan không đủ thời gian để nộp bản chính, theo văn bản đề nghị của doanh nghiệp lữ hành quốc tế, Biên phòng cửa khẩu cảng cho phép doanh nghiệp lữ hành quốc tế nộp bản fax hoặc bản sao Công văn trả lời đề nghị cấp thị thực tại cửa khẩu quốc tế của Cục Quản lý xuất nhập cảnh Bộ Công an để làm thủ tục cho hành khách; trong thời hạn 03 (ba) ngày, kể từ khi nộp bản fax hoặc bản sao, doanh nghiệp lữ hành phải nộp bản chính Công văn trả lời đề nghị cấp thị thực tại cửa khẩu quốc tế của Cục Quản lý xuất nhập cảnh Bộ Công an cho Biên phòng cửa khẩu cảng;
+    - Bước 2: Chậm nhất 02 giờ, sau khi tàu đến, neo đậu an toàn tại cầu cảng; chậm nhất 04 giờ, sau khi tàu đến, neo đậu an toàn tại các vị trí khác trong vùng nước cảng, người làm thủ tục phải nộp và xuất trình cho Biên phòng cửa khẩu cảng các loại giấy tờ theo quy định đối với tàu nhập cảnh, hồ sơ chuyển cảng đối với tàu chuyển cảng đến; chậm nhất ngay trước thời điểm tàu rời cảng người làm thủ tục phải nộp và xuất trình cho Biên phòng cửa khẩu cảng các loại giấy tờ theo quy định đối với tàu xuất cảnh, chuyển cảng đi;
+    - Bước 3: Biên phòng cửa khẩu cảng kiểm tra tính hợp pháp, hợp lệ của các giấy tờ mà người làm thủ tục nộp và xuất trình; hoàn thành thủ tục nhập cảnh, xuất cảnh, chuyển cảng cho tàu, thuyền viên, hành khách.
+  * Đối với tàu khách quốc tế được cấp giấy phép chở khách du lịch nội địa
+    Trước khi tàu đón khách người làm thủ tục và doanh nghiệp lữ hành phải nộp cho Biên phòng cửa khẩu cảng các loại giấy tờ theo quy định
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Người làm thủ tục gửi hồ sơ và nhận kết quả qua Cổng thông tin một cửa quốc gia hoặc Cổng thông tin thủ tục biên phòng điện tử tại địa chỉ http://thutucbienphong.gov.vn (trong trường hợp Cổng thông tin một cử quốc gia có sự cố).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: a) Đối với tàu chở khách du lịch quốc tế: Doanh nghiệp lữ hành quốc tế nộp các loại giấy tờ tại trụ sở Biên phòng cửa khẩu cảng; Người làm thủ tục nộp, xuất trình các loại giấy tờ tại tàu
+b) Đối với tàu khách quốc tế được cấp giấy phép chở khách du lịch nội địa: Doanh nghiệp lữ hành và người làm thủ tục nộp các loại giấy tờ tại trụ sở Biên phòng cửa khẩu cảng.
+
+Thành phần hồ sơ:
+  [ Đối với tàu chở khách du lịch quốc tế ]
+    - Trực tuyến: Khai báo trên Cổng thông tin một cửa quốc gia hoặc Cổng thông tin thủ tục biên phòng điện tử cảng biển: - Bản khai chung; - Danh sách thuyền viên; - Danh sách hành khách (nếu có); - Bản khai vũ khí và vật liệu nổ (nếu có); - Bản khai người trốn trên tàu (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trực tiếp: - Thành phần hồ sơ doanh nghiệp lữ hành quốc tế phải nộp: + 01 bản chính Chương trình du lịch của hành khách; + 01 bản sao Giấy phép kinh doanh lữ hành quốc tế (lần đầu tiên đón khách tại cảng); + Bản chính Công văn trả lời đề nghị cấp thị thực tại cửa khẩu quốc tế của Cục Quản lý xuất nhập cảnh/Bộ Công an (nếu có thuyền viên, hành khách đề nghị cấp thị thực), trừ thuyền viên, hành khách mang hộ chiếu đã có thị thực Việt Nam và thuyền viên, hành khách mang hộ chiếu thuộc diện miễn thị thực nhập cảnh Việt Nam.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Trực tiếp: - Thành phần hồ sơ người làm thủ tục phải nộp khi làm thủ tục nhập cảnh: + 01 bản chính Bản khai chung; + 01 bản chính Danh sách thuyền viên; + 01 bản chính Danh sách hành khách; + 01 bản chính Bản khai vũ khí và vật liệu nổ (nếu có); + 01 bản chính Bản khai người trốn trên tàu (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trực tiếp: Thành phần hồ sơ người làm thủ tục phải nộp khi làm thủ tục xuất cảnh, chuyển cảng đi: + 01 bản chính Bản khai chung; + 01 bản chính Danh sách thuyền viên (nếu có thay đổi so với khi nhập cảnh); + 01 bản chính Danh sách hành khách (nếu có thay đổi so với khi nhập cảnh); + 01 bản chính Bản khai vũ khí và vật liệu nổ (nếu có); + 01 bản chính Bản khai người trốn trên tàu (nếu có); + Giấy phép đi bờ của thuyền viên nước ngoài (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trực tiếp: - Thành phần hồ sơ người làm thủ tục phải nộp khi làm thủ tục chuyển cảng đi: Hồ sơ chuyển cảng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trực tiếp: Thành phần hồ sơ phải xuất trình: Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế của thuyền viên và hành khách hoặc sổ thuyền viên đối với thuyền viên nước ngoài thuộc trường hợp quy định tại khoản 3 Điều 13 Nghị định số 77/2017/NĐ-CP ngày 03/7/2017 của Chính phủ quy định về quản lý, bảo vệ an ninh, trật tự tại cửa khẩu cảng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với tàu khách quốc tế được cấp giấy phép chở khách du lịch nội địa (trực tuyến hoặc trực tiếp) ]
+    - -	Thành phần hồ sơ doanh nghiệp lữ hành phải nộp: 01 (một) bản chính Chương trình du lịch của khách du lịch nội địa và 01 (một) bản chính Danh sách hành khách.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - -	Thành phần hồ sơ người làm thủ tục phải nộp: 01 (một) bản sao giấy phép của cơ quan có thẩm quyền của Việt Nam cho phép tàu đón khách du lịch nội địa giữa các cảng của Việt Nam.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Thuyền viên, Hành khách là người nước ngoài phải xuất trình hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế; + Hành khách là người Việt Nam sử dụng Căn cước hoặc Căn cước công dân: Hành khách không phải xuất trình Căn cước hoặc Căn cước công dân nếu đơn vị Biên phòng cửa khẩu cảng kết nối, sử dụng được cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu căn cước công dân (Biên phòng cửa khẩu cảng tự tra cứu, kiểm tra). Trường hợp đơn vị Biên phòng cửa khẩu cảng chưa kết nối, sử dụng được cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu căn cước công dân, hành khách có thể xuất trình Căn cước hoặc Căn cước công dân trên VNeiD hoặc bản cứng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Đội thủ tuc biên phòng cửa khẩu cảng
+Cơ quan có thẩm quyền: Biên phòng cửa khẩu cảng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bản điện tử xác nhận hoàn thành thủ tục biên phòng điện tử cảng biển hoặc từ chối thực hiện thủ tục biên phòng điện tử cảng biển của Biên phòng cửa khẩu cảng gửi người làm thủ tục, Biên phòng cửa khẩu cảng thực hiện kiểm chứng nhập cảnh, xuất cảnh vào Bản khai chung, Danh sách thuyền viên, Danh sách hành khách, hộ chiếu của thuyền viên Việt Nam, hộ chiếu của hành khách đối với tàu nhập cảnh, xuất cảnh và và thị thực theo danh sách; niêm phong hồ sơ chuyển cảng đối với tàu thuyền chuyển cảng đi; tiếp nhận, kiểm tra hồ sơ chuyển cảng đối với tàu thuyền chuyển cảng đến
+Căn cứ pháp lý:
+  * Nghị định quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải (58/2017/NĐ-CP)
+  * Quy định về quản lý, bảo an ninh, trật tự tại cửa khẩu cảng (77/2017/NĐ-CP)
+  * Luật Xuất cảnh, nhập cảnh của công dân Việt Nam và Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam sửa đổi 2023 (23/2023/QH15)
+  * Luật 51/2019/QH14 (51/2019/QH14)
+  * Luật 49/2019/QH14 (49/2019/QH14)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

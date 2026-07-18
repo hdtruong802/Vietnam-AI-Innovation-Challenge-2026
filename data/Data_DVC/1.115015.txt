@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115015
+Số quyết định: 464/QĐ-BXD
+Tên thủ tục: Thanh toán chi phí bồi thường, chấm dứt hợp đồng trước thời hạn
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+  * Nộp hồ sơ TTHC
+    Nhà đầu tư, doanh nghiệp dự án gửi hồ sơ đề nghị chấm dứt hợp đồng dự án PPP trước thời hạn đến cơ quan ký kết hợp đồng.
+  * Giải quyết TTHC
+    - Trong vòng 45 ngày kể từ ngày nhận đủ hồ sơ, cơ quan ký kết hợp đồng thực hiện rà soát hồ sơ:
+    + Trường hợp phù hợp, cơ quan ký kết hợp đồng phối hợp với nhà đầu tư, doanh nghiệp dự án và bên cho vay ký kết biên bản thỏa thuận về điều kiện chấm dứt hợp đồng dự án trước thời hạn.
+    + Trường hợp không phù hợp, cơ quan ký kết hợp đồng thông báo từ chối việc thanh toán, chấm dứt hợp đồng đến nhà đầu tư, doanh nghiệp dự án (trong đó nêu rõ lý do từ chối thanh toán, chấm dứt hợp đồng).
+    - Căn cứ biên bản thỏa thuận về điều kiện chấm dứt hợp đồng dự án trước thời hạn, cơ quan ký kết hợp đồng phối hợp với nhà đầu tư, doanh nghiệp dự án thực hiện ký kết phụ lục hợp đồng để sửa đổi, bổ sung nội dung của hợp đồng dự án.
+    - Trong vòng 10 ngày kể từ ngày ký kết phụ lục hợp đồng, cơ quan ký kết hợp đồng gửi hồ sơ đề nghị Kiểm toán Nhà nước thực hiện kiểm toán chi phí bồi thường, chấm dứt hợp đồng trước thời hạn.
+    - Trường hợp cần thiết, cơ quan ký kết hợp đồng đề nghị nhà đầu tư, doanh nghiệp dự án và bên cho vay cập nhật đề xuất giá trị vốn nhà nước thực hiện bồi thường, chấm dứt hợp đồng trước thời hạn và nội dung biên bản thống nhất giữa bên cho vay với nhà đầu tư, doanh nghiệp dự án bảo đảm phù hợp với báo cáo kiểm toán của Kiểm toán Nhà nước.
+    - Trong vòng 10 ngày kể từ ngày nhận được báo cáo kiểm toán của Kiểm toán Nhà nước (hoặc ngày nhận được báo cáo kết quả cập nhật), cơ quan ký kết hợp đồng báo cáo cơ quan có thẩm quyền quyết định việc chấm dứt hợp đồng trước thời hạn, chi phí bồi thường, chấm dứt hợp đồng trước thời hạn. Cơ quan có thẩm quyền xem xét, quyết định trong vòng 15 ngày kể từ ngày nhận được báo cáo của cơ quan ký kết hợp đồng.
+    - Việc sử dụng vốn đầu tư công để bồi thường, chấm dứt hợp đồng trước thời hạn thực hiện theo quy định tại điểm b khoản 6a Điều 52 Luật PPP. Vốn nhà nước chi trả chi phí bồi thường, chấm dứt hợp đồng được giải ngân về tài khoản của doanh nghiệp dự án hoặc tài khoản của nhà đầu tư (trường hợp dự án không thành lập doanh nghiệp dự án) mở tại ngân hàng cung cấp tín dụng theo quy định tại hợp đồng dự án.
+    - Việc thanh toán chi phí bồi thường chấm dứt hợp đồng trước thời hạn thực hiện theo quy định của Chính phủ quy định cơ chế quản lý tài chính dự án đầu tư theo phương thức đối tác công tư và cơ chế thanh toán, quyết toán đối với dự án áp dụng loại hợp đồng BT.
+    - Sau khi chấm dứt hợp đồng, cơ quan ký kết hợp đồng phối hợp với nhà đầu tư, doanh nghiệp dự án thực hiện thủ tục bàn giao, tiếp nhận dự án, thực hiện thủ tục xác lập quyền sở hữu toàn dân theo quy định của pháp luật về quản lý, sử dụng tài sản công.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 80 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn rà soát hồ sơ, ký kết biên bản thỏa thuận hoặc ra thông báo từ chối việc thanh toán, chấm dứt hợp đồng: trong vòng 45 ngày kể từ ngày nhận đủ hồ sơ.
+- Thời hạn gửi hồ sơ đề nghị Kiểm toán Nhà nước: trong vòng 10 ngày kể từ ngày ký kết phụ lục hợp đồng.
+- Thời hạn gửi báo cáo cơ quan có thẩm quyền quyết định việc chấm dứt hợp đồng trước thời hạn: trong vòng 10 ngày kể từ ngày nhận được báo cáo kiểm toán của Kiểm toán Nhà nước (hoặc ngày nhận được báo cáo kết quả cập nhật).
+- Thời hạn xem xét, quyết định chấm dứt hợp đồng trước thời hạn: trong vòng 15 ngày kể từ ngày nhận được báo cáo của cơ quan ký kết hợp đồng.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 80 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn rà soát hồ sơ, ký kết biên bản thỏa thuận hoặc ra thông báo từ chối việc thanh toán, chấm dứt hợp đồng: trong vòng 45 ngày kể từ ngày nhận đủ hồ sơ.
+- Thời hạn gửi hồ sơ đề nghị Kiểm toán Nhà nước: trong vòng 10 ngày kể từ ngày ký kết phụ lục hợp đồng.
+- Thời hạn gửi báo cáo cơ quan có thẩm quyền quyết định việc chấm dứt hợp đồng trước thời hạn: trong vòng 10 ngày kể từ ngày nhận được báo cáo kiểm toán của Kiểm toán Nhà nước (hoặc ngày nhận được báo cáo kết quả cập nhật).
+- Thời hạn xem xét, quyết định chấm dứt hợp đồng trước thời hạn: trong vòng 15 ngày kể từ ngày nhận được báo cáo của cơ quan ký kết hợp đồng.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 80 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn rà soát hồ sơ, ký kết biên bản thỏa thuận hoặc ra thông báo từ chối việc thanh toán, chấm dứt hợp đồng: trong vòng 45 ngày kể từ ngày nhận đủ hồ sơ.
+- Thời hạn gửi hồ sơ đề nghị Kiểm toán Nhà nước: trong vòng 10 ngày kể từ ngày ký kết phụ lục hợp đồng.
+- Thời hạn gửi báo cáo cơ quan có thẩm quyền quyết định việc chấm dứt hợp đồng trước thời hạn: trong vòng 10 ngày kể từ ngày nhận được báo cáo kiểm toán của Kiểm toán Nhà nước (hoặc ngày nhận được báo cáo kết quả cập nhật).
+- Thời hạn xem xét, quyết định chấm dứt hợp đồng trước thời hạn: trong vòng 15 ngày kể từ ngày nhận được báo cáo của cơ quan ký kết hợp đồng.
+
+Thành phần hồ sơ:
+  [ Hồ sơ Nhà đầu tư, doanh nghiệp dự án gửi đến Cơ quan ký kết hợp đồng ]
+    - Văn bản đề nghị thanh toán chi phí bồi thường, chấm dứt hợp đồng trước thời hạn
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo, thuyết minh các nội dung: thông tin chung dự án, quá trình thực hiện hợp đồng; nguyên nhân dẫn đến phải chấm dứt hợp đồng trước thời hạn; thuyết minh về điều kiện áp dụng, kết quả tính toán; quy định của hợp đồng dự án về trách nhiệm chi trả của cơ quan ký kết hợp đồng trong trường hợp chấm dứt hợp đồng; kết quả đàm phán giữa nhà đầu tư, doanh nghiệp dự án và bên cho vay về chi phí huy động vốn vay; đề xuất giá trị vốn nhà nước thực hiện bồi thường, chấm dứt hợp đồng trước thời hạn
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ gửi kèm: tài liệu liên quan đến Chi phí bồi thường, chấm dứt hợp đồng trước thời hạn, Chi phí huy động vốn vay; Báo cáo kết quả kiểm toán của kiểm toán độc lập (nếu có); biên bản đàm phán giữa nhà đầu tư, doanh nghiệp dự án và bên cho vay về chi phí huy động vốn vay và phương án thanh toán chi phí bồi thường, chấm dứt hợp đồng trước thời hạn; các văn bản, tài liệu khác có liên quan
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hồ sơ cơ quan ký kết hợp đồng gửi đến Kiểm toán Nhà nước ]
+    - Văn bản đề nghị (gửi Kiểm toán)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ Nhà đầu tư, doanh nghiệp dự án gửi đến Cơ quan ký kết hợp đồng (hồ sơ thanh toán chi phí bồi thường, chấm dứt hợp đồng trước thời hạn)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản thỏa thuận về điều kiện chấm dứt hợp đồng dự án trước thời hạn.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Sở Tài chính các tỉnh, thành phố, Bộ Xây dựng, Cục Đường bộ Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định áp dụng chia sẻ phần giảm doanh thu hoặc Thông báo từ chối việc chia sẻ phần giảm doanh thu.
+Căn cứ pháp lý:
+  * Nghị định số 122/2026/NĐ-CP ngày 03 tháng 4 năm 2026 của Chính phủ quy định chi tiết về việc xử lý vướng mắc của dự án BOT giao thông. (122/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Phù hợp với quy định tại Điều 9, Điều 10 Nghị định số 122/2026/NĐ-CP.
+Từ khóa: Không có thông tin
+Mô tả: Phù hợp với quy định tại Điều 9, Điều 10 Nghị định số 122/2026/NĐ-CP.

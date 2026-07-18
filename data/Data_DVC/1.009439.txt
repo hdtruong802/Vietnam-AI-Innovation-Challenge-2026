@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009439
+Số quyết định: 1201/QĐ-BXD
+Tên thủ tục: Phê duyệt sửa đổi, bổ sung tài liệu khai thác công trình
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+    a) Nộp hồ sơ thủ tục hành chính:
+    Khi có sự thay đổi về các thông số kỹ thuật của các công trình, quy trình khai thác, cung cấp dịch vụ, người khai thác công trình phải tiến hành cập nhật vào các trang tu chỉnh của tài liệu khai thác công trình. Định kỳ một lần trong năm, người khai thác công trình rà soát và trình Cục Hàng không Việt Nam phê duyệt lại tài liệu khai thác công trình khi có sự thay đổi liên quan đến các nội dung của tài liệu khai thác công trình. Người khai thác công trình gửi 01 bộ hồ sơ đề nghị phê duyệt sửa đổi, bổ sung tài liệu khai thác công trình trực tiếp hoặc qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức khác đến Cục Hàng không Việt Nam.
+    b) Giải quyết thủ tục hành chính:
+    Trong thời hạn 08 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam có trách nhiệm thẩm định tài liệu khai thác công trình, phê duyệt sửa đổi, bổ sung tài liệu và gửi kết quả trực tiếp hoặc qua dịch vụ bưu chính hoặc trên môi trường điện tử đến người đề nghị. Trường hợp từ chối phê duyệt, Cục Hàng không Việt Nam phải thông báo bằng văn bản, nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Bản sao hoặc bản sao điện tử Tài liệu chứng minh nội dung sửa đổi, bổ sung.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Văn bản đề nghị phê duyệt;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao hoặc bản sao điện tử Dự thảo nội dung sửa đổi, bổ sung tài liệu;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, Phường Bồ Đề, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản phê duyệt sửa đổi, bổ sung tài liệu khai thác công trình.
+Căn cứ pháp lý:
+  * sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Xây dựng (14/2026/NĐ-CP)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Nghị định 64/2022/NĐ-CP (64/2022/NĐ-CP)
+  * Nghị định 205/2026/NĐ-CP ngày 15/6/2026 của Chính phủ về cảng hàng không và bãi cất, hạ cánh. (205/2026/NĐ-CP)
+  * sửa đổi, bổ sung một số điều của Nghị định số 05/2021/NĐ-CP ngày 25 tháng 01 năm 2021 của Chính phủ về quản lý, khai thác cảng hàng không, sân bay và Nghị định số 64/2022/NĐ-CP ngày 15 tháng 9 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định quy định liên quan đến hoạt động kinh doanh trong lĩnh vực hàng không dân dụng. (20/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

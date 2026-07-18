@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013299
+Số quyết định: 2618/QĐ-UBND
+Tên thủ tục: Đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ hỗ trợ phát triển dự án khởi nghiệp sáng tạo
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    1. Trước thời điểm kết thúc hợp đồng, tổ chức, doanh nghiệp chủ trì thực hiện nhiệm vụ gửi hồ sơ đề nghị đánh giá, nghiệm thu về Sở Khoa học và Công nghệ. Trong trường hợp bất khả kháng không thể tiếp tục thực hiện nhiệm vụ, tổ chức, doanh nghiệp chủ trì thực hiện nhiệm vụ gửi hồ sơ đề nghị dừng triển khai nhiệm vụ về Sở Khoa học và Công nghệ.
+    Sở Khoa học và Công nghệ tiếp nhận hồ sơ đầy đủ, hợp lệ từ bộ phận tiếp nhận và trả kết quả.
+    2. Trong thời hạn 16 (mười sáu) ngày làm việc kể từ ngày tiếp nhận hồ sơ, Sở Khoa học và Công nghệ quyết định thành lập Hội đồng và tổ chức họp Hội đồng đánh giá, nghiệm thu kết quả thực hiện.
+    Trường hợp kết quả thực hiện nhiệm vụ được đánh giá đạt yêu cầu, trong thời hạn 05 (năm) ngày làm việc, tổ chức, doanh nghiệp có trách nhiệm chỉnh sửa, bổ sung các ý kiến góp ý của Hội đồng (nếu có).
+    Trường hợp kết quả thực hiện nhiệm vụ được đánh giá không đạt yêu cầu hoặc nhiệm vụ dừng thực hiện. Hội đồng đánh giá, nghiệm thu tiến hành xác định nguyên nhân dẫn đến việc nhiệm vụ không hoàn thành hoặc dừng thực hiện.
+    3. Trong thời hạn 05 (năm) ngày làm việc kể từ khi nhận được hồ sơ đầy đủ và đạt yêu cầu, Sở Khoa học và Công nghệ có trách nhiệm xem xét ban hành Quyết định công nhận kết quả thực hiện nhiệm vụ.
+    Đối với kết quả thực hiện nhiệm vụ được Hội đồng đánh giá, nghiệm thu xếp loại không đạt yêu cầu hoặc nhiệm vụ dừng thực hiện, Sở Khoa học và Công nghệ ban hành Quyết định về việc hoàn trả kinh phí cho ngân sách nhà nước và tiến hành thu hồi kinh phí hỗ trợ, cụ thể như sau:
+    Đối với kinh phí của nhiệm vụ đã được cấp nhưng chưa sử dụng: Tổ chức trung gian, doanh nghiệp chủ trì thực hiện nhiệm vụ có trách nhiệm nộp hoàn trả ngân sách nhà nước toàn bộ kinh phí.
+    Đối với phần kinh phí của nhiệm vụ đã sử dụng: Tổ chức trung gian, doanh nghiệp chủ trì thực hiện nhiệm vụ có trách nhiệm nộp hoàn trả ngân sách nhà nước toàn bộ số kinh phí của nhiệm vụ đã được cấp nhưng chưa sử dụng. Trường hợp do nguyên nhân khách quan (thiên tai, hỏa hoạn, tai nạn hoặc các nguyên nhân khách quan liên quan đến công nghệ, thị trường và các trường hợp khách quan khác theo ý kiến của Hội đồng đánh giá, nghiệm thu nhiệm vụ): Không phải hoàn trả kinh phí đã sử dụng. Trường hợp do nguyên nhân chủ quan: Tổ chức chủ trì có trách nhiệm nộp hoàn trả ngân sách nhà nước 20% tổng kinh phí ngân sách nhà nước đã sử dụng đúng quy định. Trường hợp do nguyên nhân chủ quan và không chứng minh được kinh phí đã sử dụng đúng quy định: Nộp trả 100% kinh phí đã sử dụng.
+    4. Căn cứ biên bản đánh giá, nghiệm thu của Hội đồng, Quyết định công nhận kết quả triển khai nhiệm vụ/Quyết định về việc hoàn trả kinh phí cho ngân sách nhà nước, Sở Khoa học và Công nghệ thực hiện thủ tục thanh lý hợp đồng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 21 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 21 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 21 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Bản chính văn bản đề nghị đánh giá, nghiệm thu/dừng thực hiện nhiệm vụ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính báo cáo kết quả thực hiện nhiệm vụ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính báo cáo quyết toán tình hình sử dụng kinh phí
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các hồ sơ, tài liệu khác có liên quan đến các sản phẩm trung gian theo thuyết minh nhiệm vụ và hợp đồng hỗ trợ thực hiện nhiệm vụ đã ký kết (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Sở Khoa học và Công nghệ TP.Đà Nẵng
+Cơ quan có thẩm quyền: Sở Khoa học và Công nghệ TP.Đà Nẵng
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công thành phố/ Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận kết quả thực hiện nhiệm vụ hoặc văn bản thông báo kết quả triển khai nhiệm vụ của Sở Khoa học và Công nghệ
+Căn cứ pháp lý:
+  * Quy định trình tự, thủ tục, điều kiện, số lượng, nội dung và mức hỗ trợ không hoàn lại từ ngân sách nhà nước để phát triển dự án khởi nghiệp sáng tạo trên địa bàn thành phố Đà Nẵng (19/2026/NQ-HĐND (thành phố Đà Nẵng))
+
+Yêu cầu, điều kiện thực hiện: 1. Tổ chức, cá nhân có dự án khởi nghiệp sáng tạo phải đáp ứng điều kiện: Tại thời điểm đăng ký, chưa nhận được bất kỳ nguồn kinh phí hỗ trợ từ ngân sách thành phố cho nội dung đề nghị hỗ trợ theo giai đoạn đề nghị hỗ trợ của dự án.
+2. Đối với doanh nghiệp và tổ chức trung gian phải đảm bảo điều kiện tại khoản 1 Điều 5 và chấp hành các nghĩa vụ về thuế đối với Nhà nước và bảo hiểm xã hội cho người lao động.
+3. Tổ chức trung gian phải có tư cách pháp nhân được thành lập theo quy định của pháp luật Việt Nam và có hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo trên địa bàn thành phố Đà Nẵng.
+4. Doanh nghiệp phải đăng ký thành lập theo Luật Doanh nghiệp và có trụ sở chính trên địa bàn thành phố Đà Nẵng. 
+5. Trường hợp doanh nghiệp lựa chọn đề nghị hỗ trợ phát triển dự án theo phương thức hỗ trợ sau thì hồ sơ chứng từ có liên quan của dự án phải trong thời gian có hiệu lực của Nghị quyết số 136/2024/QH15 và trước thời điểm nộp hồ sơ đề nghị hỗ trợ không quá 36 tháng.
+Từ khóa: khởi nghiệp, sáng tạo
+Mô tả: 1. Tổ chức, cá nhân có dự án khởi nghiệp sáng tạo phải đáp ứng điều kiện: Tại thời điểm đăng ký, chưa nhận được bất kỳ nguồn kinh phí hỗ trợ từ ngân sách thành phố cho nội dung đề nghị hỗ trợ theo giai đoạn đề nghị hỗ trợ của dự án.
+2. Đối với doanh nghiệp và tổ chức trung gian phải đảm bảo điều kiện tại khoản 1 Điều 5 và chấp hành các nghĩa vụ về thuế đối với Nhà nước và bảo hiểm xã hội cho người lao động.
+3. Tổ chức trung gian phải có tư cách pháp nhân được thành lập theo quy định của pháp luật Việt Nam và có hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo trên địa bàn thành phố Đà Nẵng.
+4. Doanh nghiệp phải đăng ký thành lập theo Luật Doanh nghiệp và có trụ sở chính trên địa bàn thành phố Đà Nẵng. 
+5. Trường hợp doanh nghiệp lựa chọn đề nghị hỗ trợ phát triển dự án theo phương thức hỗ trợ sau thì hồ sơ chứng từ có liên quan của dự án phải trong thời gian có hiệu lực của Nghị quyết số 136/2024/QH15 và trước thời điểm nộp hồ sơ đề nghị hỗ trợ không quá 36 tháng.

@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000661
+Số quyết định: 1105/QĐ-NHNN
+Tên thủ tục: Thủ tục đề nghị tạm ngừng giao dịch từ 05 ngày làm việc trở lên, trừ trường hợp tạm ngừng giao dịch do sự kiện bất khả kháng của tổ chức tài chính vi mô
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    Bước 1: Tối thiểu 60 ngày trước ngày dự kiến tạm ngừng giao dịch, tổ chức tài chính vi mô lập 01 bộ hồ sơ theo quy định gửi Ngân hàng Nhà nước. Trường hợp hồ sơ chưa đầy đủ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức tài chính vi mô bổ sung hồ sơ.
+    Bước 2: Trong thời hạn 10 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước có văn bản chấp thuận tạm ngừng giao dịch từ 05 ngày làm việc của tổ chức tài chính vi mô. Trường hợp từ chối, Ngân hàng Nhà nước trả lời bằng văn bản và nêu rõ lý do.
+    Bước 3: Sau khi nhận được văn bản chấp thuận của Ngân hàng Nhà nước về việc tạm ngừng giao dịch, chậm nhất là 03 ngày làm việc trước ngày tạm ngừng giao dịch, tổ chức tài chính vi mô có trách nhiệm thông báo đến khách hàng, niêm yết thời gian và lý do tạm ngừng giao dịch tại các địa điểm giao dịch.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Văn bản của tổ chức tài chính vi mô đề nghị Ngân hàng Nhà nước chấp thuận tạm ngừng giao dịch theo mẫu tại Phụ lục XIV ban hành kèm theo Thông tư số 56/2025/TT-NHNN.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Nghị quyết, quyết định của Hội đồng thành viên thông qua việc tạm ngừng giao dịch.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Phương án xử lý các rủi ro phát sinh do việc tạm ngừng giao dịch, trong đó bao gồm các giải pháp dự kiến thực hiện để giảm thiểu tối đa ảnh hưởng của việc tạm ngừng giao dịch đến quyền và lợi ích của khách hàng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Ngân hàng Nhà nước Viêt Nam - Số 49 Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận tạm ngừng hoạt động kinh doanh từ 05 ngày làm việc của tổ chức tài chính vi mô
+Căn cứ pháp lý:
+  * Thông tư quy định hồ sơ, thủ tục chấp thuận thay đổi của tổ chức tài chính vi mô (56/2025/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư về tổ chức tài chính vi mô liên quan đến cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính (Thông tư số 14/2026/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

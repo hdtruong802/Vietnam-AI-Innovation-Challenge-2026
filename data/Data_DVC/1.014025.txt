@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014025
+Số quyết định: 2776/QĐ-BKHCN
+Tên thủ tục: Cấp đổi giấy phép sử dụng băng tần
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tần số vô tuyến điện
+Trình tự thực hiện:
+    - Trường hợp giấy phép bị mất, bị hư hỏng, tổ chức hoàn hiện hồ sơ đề nghị cấp đổi giấy phép sử dụng băng tần theo quy định tại điểm A.XV.2 Mục 2 Phụ lục I.3 Nghị quyết số 66.18/NQ-CP và nộp hồ sơ đến Bộ phận Một cửa của Bộ Khoa học và Công nghệ (Cục Tần số vô tuyến điện) hoặc Cổng dịch vụ công quốc gia.
+    - Cục Tần số vô tuyến điện tiếp nhận, kiểm tra tính hợp lệ hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa đúng quy định về thành phần hồ sơ thì trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Tần số vô tuyến điện thông báo, hướng dẫn tổ chức bổ sung, hoàn thiện hồ sơ. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được thông báo, tổ chức phải hoàn thiện và nộp đủ hồ sơ theo quy định;
+    - Trong thời hạn 05 ngày làm việc,  Cục Tần số vô tuyến điện cấp đổi giấy phép sử dụng băng tần theo mẫu 2 mục II Phụ lục I.3.2 ban hành kèm theo Nghị quyết số 66.18/2026/NQ-CP; trường hợp từ chối cấp giấy phép có văn bản thông báo và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính) | 0 VNĐ (Theo quy định của Bộ Tài chính)
+    Mô tả: - 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ
+- Nộp trực tuyến trên Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính) | 0 VNĐ (Theo quy định của Bộ Tài chính)
+    Mô tả: - 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ;
+- Nộp qua dịch vụ bưu chính về Bộ phận Một cửa của Bộ Khoa học và Công nghệ; (Địa chỉ Bộ phận Một cửa của Bộ Khoa học và Công nghệ: + Bộ phận Một cửa cơ sở 1 tại Tầng 1, Tòa nhà Cục Đổi mới Sáng tạo, số 113 đường Trần Duy Hưng, phường Yên Hòa, TP. Hà Nội; + Bộ phận Một cửa cơ sở 2 tại Tòa nhà số 1196 đường 3 tháng 2, Phường Bình Thới, TP. Hồ Chí Minh; + Bộ phận Một cửa cơ sở 3 tại Đại diện Văn phòng Bộ tại miền Trung, số 42 Trần Quốc Toản, TP. Đà Nẵng).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính) | 0 VNĐ (Theo quy định của Bộ Tài chính)
+    Mô tả: - 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ;
+- Nộp trực tiếp tại Bộ phận Một cửa của Bộ Khoa học và Công nghệ; (Địa chỉ Bộ phận Một cửa của Bộ Khoa học và Công nghệ: + Bộ phận Một cửa cơ sở 1 tại Tầng 1, Tòa nhà Cục Đổi mới Sáng tạo, số 113 đường Trần Duy Hưng, phường Yên Hòa, TP. Hà Nội; + Bộ phận Một cửa cơ sở 2 tại Tòa nhà số 1196 đường 3 tháng 2, Phường Bình Thới, TP. Hồ Chí Minh; + Bộ phận Một cửa cơ sở 3 tại Đại diện Văn phòng Bộ tại miền Trung, số 42 Trần Quốc Toản, TP. Đà Nẵng).
+
+Thành phần hồ sơ:
+  [ Bản khai ]
+    - - Bản khai theo mẫu 5 mục I Phụ lục I.3.2 ban hành kèm theo Nghị quyết số 66.18/2026/NQ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cục Tần số vô tuyến điện
+Cơ quan có thẩm quyền: Cục Tần số vô tuyến điện
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa của Bộ Khoa học và Công nghệ; (Địa chỉ Bộ phận Một cửa của Bộ Khoa học và Công nghệ: (1) Bộ phận Một cửa cơ sở 1 tại Tầng 1, Tòa nhà Cục Đổi mới Sáng tạo, số 113 đường Trần Duy Hưng, phường Yên Hòa, TP. Hà Nội; (2) Bộ phận Một cửa cơ sở 2 tại Tòa nhà số 1196 đường 3 tháng 2, Phường Bình Thới, TP. Hồ Chí Minh; (3) Bộ phận Một cửa cơ sở 3 tại Đại diện Văn phòng Bộ tại miền Trung, số 42 Trần Quốc Toản, TP. Đà Nẵng).
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép sử dụng băng tần.
+Căn cứ pháp lý:
+  * Luật số 09/2022/QH15 của Quốc hội (09/2022/QH15)
+  * Nghị định số 63/2023/NĐ-CP của Chính phủ (63/2023/NĐ-CP)
+  * Luật Tần số vô tuyến điện (42/2009/QH12)
+  * Thông tư 265/2016/TT-BTC (265/2016/TT-BTC)
+  * Thông tư số 11/2022/TT-BTC ngày 21/02/2022 của Bộ trưởng Bộ Tài chính (11/2022/TT-BTC)
+  * Nghị quyết số 66.18/2026/NQ-CP ngày 18 tháng 5 năm 2026 của Chính phủ về việc phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (66.18/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

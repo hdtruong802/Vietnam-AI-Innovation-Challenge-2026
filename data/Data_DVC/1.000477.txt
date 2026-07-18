@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000477
+Số quyết định: 1781/QĐ-BCT
+Tên thủ tục: Thủ tục cấp Giấy phép quá cảnh hàng hóa cấm xuất khẩu, cấm nhập khẩu; hàng hóa tạm ngừng xuất khẩu, tạm ngừng nhập khẩu; hàng hóa cấm kinh doanh theo quy định pháp luật
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    - Chủ hàng gửi 01 bộ hồ sơ đề nghị quá cảnh hàng hóa đến cơ quan cấp phép.
+    - Trường hợp hồ sơ chưa đầy đủ, đúng quy định, trong thời hạn 03 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, cơ quan cấp phép có văn bản yêu cầu chủ hàng hoàn thiện hồ sơ.
+    - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định, cơ quan cấp phép có văn bản trả lời chủ hàng. Trường hợp không chấp thuận phải nêu rõ lý do. Trường hợp cần trao đổi với các cơ quan liên quan về hồ sơ đề nghị của thương nhân, thời gian xử lý hồ sơ tính từ thời điểm cơ quan cấp phép nhận được văn bản trả lời của các cơ quan liên quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ 01 bộ hồ sơ ]
+    - Văn bản đề nghị quá cảnh hàng hóa nêu rõ mặt hàng (tên hàng, mã HS, số lượng, trị giá); phương tiện vận chuyển; tuyến đường vận chuyển: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng vận tải: 01 bản chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản cho phép quá cảnh hàng hóa cấm xuất khẩu, cấm nhập khẩu; hàng hóa tạm ngừng xuất khẩu, tạm ngừng nhập khẩu; hàng hóa cấm kinh doanh theo quy định pháp luật
+Căn cứ pháp lý:
+  * Quy định chi tiết một số điều của Luật Quản lý Ngoại thương (69/2018/NĐ-CP)
+  * Sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương (38/2025/TT-BCT)
+  * Nghị định số 146/2025/NĐ-CP (nghị định 146/2025)
+  * Thông tư 12/2018/TT-BCT (12/2018/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

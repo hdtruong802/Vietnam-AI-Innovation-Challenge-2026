@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013655
+Số quyết định: 1913/QĐ-BTC
+Tên thủ tục: Thông báo điều chỉnh thông tin tại thông báo phát hành biên lai.
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Trường hợp (1): Thay đổi tên, địa chỉ kinh doanh nhưng không thay đổi mã số thuế và cơ quan thuế quản lý:
+    + Bước 1: Đối với các số biên lai đã thực hiện thông báo phát hành nhưng chưa sử dụng hết có in sẵn tên, địa chỉ, khi có sự thay đổi tên, địa chỉ nhưng không thay đổi mã số thuế và cơ quan thuế quản lý trực tiếp, nếu tổ chức thu phí, lệ phí vẫn có nhu cầu sử dụng biên lai đã đặt in thì thực hiện đóng dấu tên, địa chỉ mới vào bên cạnh tiêu thức tên, địa chỉ đã in sẵn để tiếp tục sử dụng và gửi thông báo điều chỉnh thông tin tại thông báo phát hành biên lai đến cơ quan thuế quản lý trực tiếp theo Mẫu số 02/ĐCPH-BLG Phụ lục IA ban hành kèm theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định về hóa đơn, chứng từ.
+    + Bước 2: Khi nhận được Thông báo phát hành biên lai do tổ chức thu phí, lệ phí gửi đến, cơ quan quản lý thuế phát hiện Thông báo phát hành không đảm bảo đủ nội dung theo đúng quy định thì trong thời hạn 03 ngày làm việc kể từ ngày nhận được Thông báo, cơ quan quản lý thuế phải có văn bản thông báo cho tổ chức thu phí, lệ phí biết. Tổ chức thu phí, lệ phí có trách nhiệm điều chỉnh để thông báo phát hành mới đúng quy định.
+    + Bước 3: Cơ quanquản lý thuế tiếp nhận hồ sơ Thông báo phát hành.
+  * Trường hợp (2): Thay đổi địa chỉ kinh doanh dẫn đến thay đổi cơ quan thuế quản lý:
+    + Bước 1: Trường hợp có sự thay đổi địa chỉ kinh doanh dẫn đến thay đổi cơ quan quản lý thuế quản lý trực tiếp, nếu tổ chức thu phí, lệ phí có nhu cầu tiếp tục sử dụng số biên lai đã phát hành chưa sử dụng hết thì phải nộp báo cáo tình hình sử dụng biên lai với cơ quanquản lý thuế nơi chuyển đi và đóng dấu địa chỉ mới lên biên lai, gửi bảng kê biên lai chưa sử dụng theo Mẫu số 02/BK-BLG Phụ lục IA ban hành kèm theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ và thông báo điều chỉnh thông tin tại thông báo phát hành biên lai đến cơ quan quản lý thuế nơi chuyển đến (trong đó nêu rõ số biên lai đã phát hành chưa sử dụng, sẽ tiếp tục sử dụng). Nếu tổ chức không có nhu cầu sử dụng số biên lai đã phát hành nhưng chưa sử dụng hết thì thực hiện hủy các số biên lai chưa sử dụng và thông báo kết quả hủy biên lai với cơ quan quản lý thuế nơi chuyển đi và thực hiện thông báo phát hành biên lai mới với cơ quan quản lý thuế nơi chuyển đến.
+    + Bước 2: Khi nhận được thông báo phát hành biên lai do tổ chức thu phí, lệ phí gửi đến, cơ quan quản lý thuế phát hiện thông báo phát hành không đảm bảo đủ nội dung theo đúng quy định thì trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông báo, cơ quanquản lý thuế phải có văn bản thông báo cho tổ chức thu thuế, phí, lệ phí biết. Tổ chức thu thuế, phí, lệ phí có trách nhiệm điều chỉnh để thông báo phát hành mới đúng quy định.
+    + Bước 3: Cơ quan quản lý thuế tiếp nhận hồ sơ thông báo phát hành.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bảng kê biên lai chưa sử dụng theo mẫu 02/BK-BLG Phụ lục IA ban hành kèm theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ và điều chỉnh thông tin tại thông báo phát hành
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông báo theo Mẫu số 02/ĐCPH-BLG Phụ lục IA ban hành kèm theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ tới cơ quan thuế trực tiếp quản lý
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Hải quan khu vực/ hải quan cửa khẩu, Hải quan cửa khẩu, Chi cục Hải quan khu vực, Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Biên lai thu thuế, phí, lệ phí mới được phát hành
+Căn cứ pháp lý:
+  * Nghị định số 70/2025/NĐ-CP ngày ngày 20 tháng 3 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ. (70/2025/NĐ-CP)
+  * Nghị định 123/2020/NĐ-CP (123/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

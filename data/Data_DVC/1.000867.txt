@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000867
+Số quyết định: 84/QĐ-NHNN
+Tên thủ tục: Thủ tục đề nghị áp dụng tỷ lệ dự trữ bắt buộc hỗ trợ của tổ chức tín dụng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động tiền tệ
+Trình tự thực hiện:
+    Bước 1: Tổ chức tín dụng (TCTD) đáp ứng tiêu chí theo quy định tại điểm a  khoản 2 Điều 3 Thông tư 14/2018/TT-NHNN đã được sửa đổi, bổ sung bởi Thông tư số 74/2025/TT-NHNN (sau đây gọi là Thông tư 14/2018/TT-NHNN) gửi Ngân hàng Nhà nước Việt Nam 01 văn bản đề nghị áp dụng tỷ lệ dự trữ bắt buộc hỗ trợ theo thời hạn như sau:
+    - Đối với áp dụng tỷ lệ dự trữ bắt buộc hỗ trợ từ tháng 02 đến hết tháng 7 (giai đoạn 1), trước ngày 15 tháng 01;
+    - Đối với áp dụng tỷ lệ dự trữ bắt buộc hỗ trợ từu tháng 8 đến hết tháng 01 năm tiếp theo (giai đoạn 2), trước ngày 15 tháng 7.
+    Bước 2: Ngân hàng Nhà nước xem xét, có văn bản (văn bản giấy hoặc văn bản điện tử) để thông báo cho TCTD về mức tỷ lệ dự trữ bắt buộc hỗ trợ áp dụng hoặc không chấp thuận áp dụng mức tỷ lệ dự trữ bắt buộc hỗ trợ theo đề nghị của tổ chức tín dụng theo thời hạn như sau:
+    - Đối với giai đoạn 1: Trước ngày 30 tháng 01;
+    - Đối với giai đoạn 2: Trước ngày 30 tháng 7.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Từ tháng 8 đến tháng 1 năm tiếp theo (gđ 2) ]
+    - Văn bản đề nghị áp dụng tỷ lệ dự trữ bắt buộc hỗ trợ
+      Số lượng: Bản chính: 0, Bản sao: 0
+  [ Từ tháng 2 đến tháng 7 (gđ1) ]
+    - Văn bản đề nghị áp dụng tỷ lệ dự trữ bắt buộc hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo của NHNN về mức tỷ lệ dự trữ bắt buộc hỗ trợ áp dụng, Thông báo của NHNN không chấp thuận áp dụng tỷ lệ dự trữ bắt buộc hỗ trợ theo đề nghị của TCTD
+Căn cứ pháp lý:
+  * Thông tư số 74/2025/TT-NHNN của Thống đốc Ngân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số điều của Thông tư số 14/2018/TT-NHNN hướng dẫn thực hiện các biện pháp điều hành công cụ chính sách tiền tệ để hỗ trợ các tổ chức tín dụng cho vay phát triển nông nghiệp, nông thôn; (74/2025/TT-NHNN)
+  * Hướng dẫn thực hiện các biện pháp điều hành công cụ chính sách tiền tệ để hỗ trợ các tổ chức tín dụng cho vay phát triển nông nghiệp, nông thôn (14/2018/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

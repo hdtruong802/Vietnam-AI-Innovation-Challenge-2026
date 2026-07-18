@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115411
+Số quyết định: 1613/QĐ-BCT
+Tên thủ tục: Thủ tục thu hồi quyết định chỉ định
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng (Bộ Công Thương)
+Trình tự thực hiện:
+    - Tổ chức đánh giá sự phù hợp đã được cơ quan chỉ định thuộc Bộ Công Thương cấp quyết định chỉ định có nhu cầu thu hồi quyết định chỉ định (tổ chức tự nguyện rút, không duy trì năng lực sau chu kỳ đánh giá, ...) gửi văn bản đề nghị thu hồi quyết định chỉ định về cơ quan đã cấp quyết định chỉ định theo hình thức dịch vụ công trực tuyến qua Cổng dịch vụ công quốc gia (sau đây viết tắt là cơ quan chỉ định).
+    - Trường hợp Cổng dịch vụ công quốc gia bị lỗi hoặc thủ tục hành chính này chưa hoàn thiện hạ tầng Dịch vụ công trực tuyến, tổ chức đánh giá sự phù hợp nộp hồ sơ bản giấy theo quy định tại Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa theo hình thức nộp trực tiếp hoặc qua dịch vụ bưu chính.
+    - Trong thời hạn 03 ngày làm việc, cơ quan chỉ định ban hành quyết định thu hồi quyết định chỉ định, trong đó nêu rõ lý do thu hồi;
+    Quyết định thu hồi phải được gửi cho tổ chức liên quan và công bố trên Cổng thông tin điện tử của Bộ Công Thương, đồng thời cập nhật vào Cơ sở dữ liệu quốc gia về tiêu chuẩn, đo lường, chất lượng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 03 ngày làm việc, cơ quan chỉ định ban hành quyết định thu hồi quyết định chỉ định, trong đó nêu rõ lý do thu hồi. 
+- Nộp văn bản theo hình thức dịch vụ công trực tuyến qua Cổng dịch vụ công quốc gia.
+- Trường hợp Cổng dịch vụ công quốc gia bị lỗi hoặc thủ tục hành chính này chưa hoàn thiện hạ tầng Dịch vụ công trực tuyến, tổ chức đánh giá sự phù hợp nộp văn bản giấy theo quy định tại Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa theo hình thức nộp trực tiếp hoặc qua dịch vụ bưu chính.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 03 ngày làm việc, cơ quan chỉ định ban hành quyết định thu hồi quyết định chỉ định, trong đó nêu rõ lý do thu hồi. 
+- Nộp văn bản theo hình thức dịch vụ công trực tuyến qua Cổng dịch vụ công quốc gia.
+- Trường hợp Cổng dịch vụ công quốc gia bị lỗi hoặc thủ tục hành chính này chưa hoàn thiện hạ tầng Dịch vụ công trực tuyến, tổ chức đánh giá sự phù hợp nộp văn bản giấy theo quy định tại Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa theo hình thức nộp trực tiếp hoặc qua dịch vụ bưu chính.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 03 ngày làm việc, cơ quan chỉ định ban hành quyết định thu hồi quyết định chỉ định, trong đó nêu rõ lý do thu hồi. 
+- Nộp văn bản theo hình thức dịch vụ công trực tuyến qua Cổng dịch vụ công quốc gia.
+- Trường hợp Cổng dịch vụ công quốc gia bị lỗi hoặc thủ tục hành chính này chưa hoàn thiện hạ tầng Dịch vụ công trực tuyến, tổ chức đánh giá sự phù hợp nộp văn bản giấy theo quy định tại Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa theo hình thức nộp trực tiếp hoặc qua dịch vụ bưu chính.
+
+Thành phần hồ sơ:
+    - * Thành phần: Không quy định
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thu hồi Quyết định chỉ định tổ chức thử nghiệm/giám định/chứng nhận/kiểm tra xác nhận/xác nhận giá trị sử dụng1
+Căn cứ pháp lý:
+  * Thông tư số 34/2026/TT-BCT  ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Công Thương quy định về quản lý chất lượng sản phẩm, hàng hóa thuộc trách nhiệm quản lý nhà nước của Bộ Công Thương (34/2026/TT-BCT)
+  * Nghị định số 37/2026/NĐ-CP ngày 23/01/2026 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa (37/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Tổ chức đánh giá sự phù hợp có nhu cầu thu hồi quyết định chỉ định (tổ chức tự nguyện rút, không duy trì năng lực sau chu kỳ đánh giá, ...)
+Từ khóa: Không có thông tin
+Mô tả: Tổ chức đánh giá sự phù hợp có nhu cầu thu hồi quyết định chỉ định (tổ chức tự nguyện rút, không duy trì năng lực sau chu kỳ đánh giá, ...)

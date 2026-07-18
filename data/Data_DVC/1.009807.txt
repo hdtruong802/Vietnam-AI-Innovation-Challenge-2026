@@ -1,0 +1,135 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009807
+Số quyết định: 936/QĐ-BTC
+Tên thủ tục: Cấp giấy phép thành lập và hoạt động kinh doanh chứng khoán của chi nhánh, Giấy chứng nhận đăng ký hoạt động văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+    Bước 1: Công ty chứng khoán, công ty quản lý quỹ nước ngoài gửi hồ sơ đề nghị cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán của chi nhánh, Giấy chứng nhận đăng ký hoạt động văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam đến Ủy ban Chứng khoán Nhà nước.
+    Bước 2: Ủy ban Chứng khoán Nhà nước (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, Ủy ban Chứng khoán Nhà nước hướng dẫn bổ sung hồ sơ theo quy định.
+    Bước 3: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban Chứng khoán Nhà nước xem xét tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ cần sửa đổi, bổ sung, Ủy ban Chứng khoán Nhà nước có văn bản gửi công ty chứng khoán, công ty quản lý quỹ nước ngoài nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    Bước 4: Trong thời hạn 60 ngày kể từ ngày Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty chứng khoán, công ty quản lý quỹ nước ngoài hoàn thiện hồ sơ và gửi đến Ủy ban Chứng khoán Nhà nước.
+  * * Trường hợp thành lập chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam:
+    Bước 5: Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản đề nghị hoàn thiện cơ sở vật chất, phong tỏa vốn góp và chuẩn bị đầy đủ nhân sự.
+    Bước 6: Công ty chứng khoán, công ty quản lý quỹ nước ngoài hoàn thiện cơ sở vật chất, phong tỏa đủ vốn điều lệ còn lại và chuẩn bị đầy đủ nhân sự.
+    Bước 7: Ủy ban Chứng khoán Nhà nước kiểm tra cơ sở vật chất tại trụ sở dự kiến của chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam.
+    Bước 8: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được giấy xác nhận phong tỏa vốn, biên bản kiểm tra cơ sở vật chất và các tài liệu hợp lệ khác, Ủy ban Chứng khoán Nhà nước cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+  * * Trường hợp thành lập văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam:
+    Bước 5: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận đăng ký hoạt động văn phòng đại diện; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 20000000 VNĐ (* Theo quy định tại Thông tư số 25/2022/TT-BTC: + Cấp Giấy phép thành lập và hoạt động chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: 20 triệu đồng/giấy phép.) | 1000000 VNĐ (* Theo quy định tại Thông tư số 25/2022/TT-BTC+ Cấp Giấy chứng nhận đăng ký hoạt động văn phòng đại diện của công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: 01 triệu đồng/giấy chứng nhận.) | 10000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026): + Cấp Giấy phép thành lập và hoạt động chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: 10 triệu đồng/giấy phép.) | 500000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026+ Cấp Giấy chứng nhận đăng ký hoạt động văn phòng đại diện của công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: 500.000 đồng/giấy chứng nhận.)
+    Mô tả: + Thời hạn có văn bản đề nghị hoàn thiện cơ sở vật chất, phong tỏa vốn góp và chuẩn bị đầy đủ nhân sự (đối với thành lập chi nhánh): 20 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.
++ Thời hạn cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán của chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài hoặc có văn bản từ chối: 05 ngày làm việc kể từ ngày nhận được giấy xác nhận phong tỏa vốn, biên bản kiểm tra cơ sở vật chất và các tài liệu hợp lệ khác.
++ Thời hạn cấp Giấy chứng nhận đăng ký hoạt động văn phòng đại diện của công ty chứng khoán, công ty quản lỹ quỹ nước ngoài tại Việt Nam hoặc có văn bản từ chối: 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 20000000 VNĐ (* Theo quy định tại Thông tư số 25/2022/TT-BTC: + Cấp Giấy phép thành lập và hoạt động chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: 20 triệu đồng/giấy phép.) | 1000000 VNĐ (* Theo quy định tại Thông tư số 25/2022/TT-BTC+ Cấp Giấy chứng nhận đăng ký hoạt động văn phòng đại diện của công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: 01 triệu đồng/giấy chứng nhận.) | 10000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026): + Cấp Giấy phép thành lập và hoạt động chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: 10 triệu đồng/giấy phép.) | 500000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026+ Cấp Giấy chứng nhận đăng ký hoạt động văn phòng đại diện của công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: 500.000 đồng/giấy chứng nhận.)
+    Mô tả: + Thời hạn có văn bản đề nghị hoàn thiện cơ sở vật chất, phong tỏa vốn góp và chuẩn bị đầy đủ nhân sự (đối với thành lập chi nhánh): 20 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.
++ Thời hạn cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán của chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài hoặc có văn bản từ chối: 05 ngày làm việc kể từ ngày nhận được giấy xác nhận phong tỏa vốn, biên bản kiểm tra cơ sở vật chất và các tài liệu hợp lệ khác.
++ Thời hạn cấp Giấy chứng nhận đăng ký hoạt động văn phòng đại diện của công ty chứng khoán, công ty quản lỹ quỹ nước ngoài tại Việt Nam hoặc có văn bản từ chối: 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 20000000 VNĐ (* Theo quy định tại Thông tư số 25/2022/TT-BTC: + Cấp Giấy phép thành lập và hoạt động chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: 20 triệu đồng/giấy phép.) | 1000000 VNĐ (* Theo quy định tại Thông tư số 25/2022/TT-BTC+ Cấp Giấy chứng nhận đăng ký hoạt động văn phòng đại diện của công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: 01 triệu đồng/giấy chứng nhận.) | 10000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026): + Cấp Giấy phép thành lập và hoạt động chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: 10 triệu đồng/giấy phép.) | 500000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026+ Cấp Giấy chứng nhận đăng ký hoạt động văn phòng đại diện của công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: 500.000 đồng/giấy chứng nhận.)
+    Mô tả: + Thời hạn có văn bản đề nghị hoàn thiện cơ sở vật chất, phong tỏa vốn góp và chuẩn bị đầy đủ nhân sự (đối với thành lập chi nhánh): 20 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.
++ Thời hạn cấp Giấy phép thành lập và hoạt động kinh doanh chứng khoán của chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài hoặc có văn bản từ chối: 05 ngày làm việc kể từ ngày nhận được giấy xác nhận phong tỏa vốn, biên bản kiểm tra cơ sở vật chất và các tài liệu hợp lệ khác.
++ Thời hạn cấp Giấy chứng nhận đăng ký hoạt động văn phòng đại diện của công ty chứng khoán, công ty quản lỹ quỹ nước ngoài tại Việt Nam hoặc có văn bản từ chối: 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.
+
+Thành phần hồ sơ:
+  [ * Trường hợp thành lập chi nhánh công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: ]
+    - + Văn bản chấp thuận của cơ quan, tổ chức có thẩm quyền của nước ngoài nơi tổ chức kinh doanh chứng khoán có trụ sở chính (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hợp đồng thuê trụ sở, giấy tờ chứng minh quyền sở hữu trụ sở, quyền sử dụng trụ sở; thuyết minh cơ sở vật chất.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Điều lệ của tổ chức kinh doanh chứng khoán nước ngoài.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Các tài liệu liên quan đến quỹ đang đầu tư tại Việt Nam (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Danh sách nhân sự, bản thông tin cá nhân, lý lịch tư pháp của Giám đốc chi nhánh được cấp không quá 06 tháng tính tới ngày nộp hồ sơ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo tài chính năm gần nhất của tổ chức kinh doanh chứng khoán nước ngoài được kiểm toán. Tổ chức kinh doanh chứng khoán nước ngoài là công ty mẹ phải bổ sung báo cáo tài chính hợp nhất được kiểm toán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +  Quyết định của cấp có thẩm quyền ban hành quy trình nghiệp vụ, quy trình kiểm soát nội bộ, quy trình quản lý rủi ro.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Quyết định của cấp có thẩm quyền theo Điều lệ công ty về việc thành lập chi nhánh tại Việt Nam; bổ nhiệm giám đốc, cấp vốn cho chi nhánh công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán nước ngoài tại Việt Nam.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy phép thành lập và hoạt động của tổ chức kinh doanh chứng khoán nước ngoài hoặc các văn bản tương đương do cơ quan có thẩm quyền của nước nguyên xứ cấp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy đề nghị - Mẫu số 64 Phụ lục ban hành kèm theo Nghị định số 155/2020/NĐ-CP ngày 31/12/2020 (sửa đổi tại Nghị định số 245/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 155/2020/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Trường hợp thành lập văn phòng đại diện công ty chứng khoán, công ty quản lý quỹ nước ngoài tại Việt Nam: ]
+    - + Điều lệ của tổ chức kinh doanh chứng khoán nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu được lập bằng tiếng nước ngoài phải được gửi kèm bản dịch chứng thực sang tiếng Việt bởi cơ quan có thẩm quyền; những tài liệu do cơ quan có thẩm quyền nước ngoài cấp hoặc xác nhận, phải được hợp pháp hóa lãnh sự trong thời hạn 06 tháng tính đến ngày cơ quan tiếp nhận hồ sơ, tài liệu báo cáo nhận được tài liệu. Khi sử dụng tài khoản định danh điện tử để giải quyết thủ tục hành chính thì thông tin về danh tính điện tử, thông tin tích hợp trên căn cước điện tử, tài khoản định danh điện tử có giá trị chứng minh, tương đương với việc cung cấp thông tin hoặc sử dụng, xuất trình giấy tờ, tài liệu có chứa thông tin đó trong thực hiện thủ tục hành chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy phép thành lập và hoạt động của tổ chức kinh doanh chứng khoán nước ngoài hoặc các văn bản tương đương do cơ quan có thẩm quyền của nước nguyên xứ cấp;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Văn bản chấp thuận của cơ quan, tổ chức có thẩm quyền của nước ngoài nơi tổ chức kinh doanh chứng khoán có trụ sở chính (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Quyết định của cấp có thẩm quyền theo Điều lệ công ty về việc thành lập văn phòng đại diện tại Việt Nam, bổ nhiệm trưởng văn phòng đại diện;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Trường hợp tổ chức kinh doanh chứng khoán nước ngoài đang đầu tư tại Việt Nam phải bổ sung: danh sách các quỹ đầu tư, danh mục đầu tư tại Việt Nam có xác nhận của Ngân hàng lưu ký của các quỹ đầu tư tại Việt Nam;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Danh sách nhân sự, bản thông tin cá nhân, Phiếu lý lịch tư pháp được cấp không quá 06 tháng tính đến ngày nộp hồ sơ của trưởng Văn phòng đại diện tại Việt Nam;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy đề nghị - Mẫu số 64 Phụ lục ban hành kèm theo Nghị định số 155/2020/NĐ-CP ngày 31/12/2020 (sửa đổi tại Nghị định số 245/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 155/2020/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo tài chính năm gần nhất của tổ chức kinh doanh chứng khoán nước ngoài được kiểm toán; trường hợp tổ chức kinh doanh chứng khoán nước ngoài là công ty mẹ phải bổ sung báo cáo tài chính hợp nhất được kiểm toán (nếu có);; Thành phần hồ sơ trong thủ tục hành chính này được thay thế hoặc cắt giảm trong trường hợp cơ quan tiếp nhận, giải quyết thủ tục hành chính khai thác được thông tin từ các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành. Trường hợp không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, không chính xác thì cơ quan, người có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính yêu cầu cá nhân, tổ chức bổ sung thành phần hồ sơ để giải quyết thủ tục hành chính; đồng thời đề nghị cá nhân, tổ chức thực hiện cập nhật, điều chỉnh thông tin trong các cơ sở dữ liệu theo quy định của pháp luật.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Văn bản từ chối (nêu rõ lý do)., Giấy phép thành lập và hoạt động kinh doanh chứng khoán của chi nhánh công ty chứng khoán, công ty quản lý nước ngoài tại Việt Nam/Giấy chứng nhận đăng ký hoạt động văn phòng đại diện của công ty chứng khoán, công ty quản lỹ quỹ nước ngoài tại Việt Nam
+Căn cứ pháp lý:
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí trong lĩnh vực chứng khoán (25/2022/TT-BTC)
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+
+Yêu cầu, điều kiện thực hiện: * Trường hợp công ty chứng khoán nước ngoài thành lập chi nhánh tại Việt Nam:
++  Đáp ứng quy định tại khoản 2 Điều 77 của Luật Chứng khoán (Công ty chứng khoán nước ngoài được cấp phép và có thời gian hoạt động liên tục trong lĩnh vực ngân hàng, chứng khoán, bảo hiểm trong thời hạn 02 năm liền trước năm tham gia góp vốn thành lập, mua cổ phần, phần vốn góp; Cơ quan cấp phép của nước nguyên xứ và Ủy ban Chứng khoán Nhà nước đã ký kết thỏa thuận hợp tác song phương hoặc đa phương về trao đổi thông tin, hợp tác quản lý, thanh tra, giám sát hoạt động về chứng khoán và thị trường chứng khoán; Hoạt động kinh doanh có lãi trong 02 năm liền trước năm tham gia góp vốn thành lập, mua cổ phần, phần vốn góp và báo cáo tài chính năm gần nhất phải được kiểm toán với ý kiến chấp nhận toàn phần.)
++ Công ty chứng khoán nước ngoài chưa thành lập, tham gia góp vốn vào công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán tại Việt Nam do công ty chứng khoán nước ngoài sở hữu trên 49% vốn điều lệ;
++ Vốn tối thiểu cấp cho chi nhánh công ty chứng khoán nước ngoài tại Việt Nam là 10 tỷ đồng. (Vốn cấp cho chi nhánh tại Việt Nam đáp ứng quy định tại khoản 1 Điều 74 của Luật Chứng khoán).
++ Bảo đảm điều kiện về cơ sở vật chất và nhân sự quy định tại khoản 4 và khoản 5 Điều 74 của Luật Chứng khoán, trừ quy định tại điểm d khoản 5 Điều 74 đối với chi nhánh dự kiến thành lập tại Việt Nam:
+Điều kiện về cơ sở vật chất bao gồm: Có trụ sở làm việc bảo đảm cho hoạt động kinh doanh chứng khoán; Có đủ cơ sở vật chất, kỹ thuật, trang bị, thiết bị văn phòng, hệ thống công nghệ phù hợp với quy trình nghiệp vụ về hoạt động kinh doanh chứng khoán.
+Điều kiện về nhân sự bao gồm: Có Giám đốc chi nhánh, tối thiểu 03 nhân viên có chứng chỉ hành nghề chứng khoán phù hợp cho mỗi nghiệp vụ kinh doanh chứng khoán đề nghị cấp phép và tối thiểu 01 nhân viên kiểm soát tuân thủ. Giám đốc chi nhánh phải đáp ứng các tiêu chuẩn: Không thuộc trường hợp đang bị truy cứu trách nhiệm hình sự hoặc chấp hành án phạt tù hoặc bị cấm hành nghề chứng khoán theo quy định của pháp luật; Có tối thiểu 02 năm kinh nghiệm làm việc tại bộ phận nghiệp vụ của các tổ chức trong lĩnh vực tài chính, chứng khoán, ngân hàng, bảo hiểm hoặc tại bộ phận tài chính, kế toán, đầu tư trong các doanh nghiệp khác; Có chứng chỉ hành nghề phân tích tài chính hoặc chứng chỉ hành nghề quản lý quỹ; Không bị xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán trong thời hạn 06 tháng gần nhất tính đến thời điểm nộp hồ sơ. Trường hợp có Phó Giám đốc chi nhánh phụ trách nghiệp vụ thì phải đáp ứng các tiêu chuẩn quy định tại các điểm a, b khoản 5 Điều 74 Luật Chứng khoán và có chứng chỉ hành nghề chứng khoán phù hợp với nghiệp vụ phụ trách.
+* Trường hợp công ty quản lý quỹ nước ngoài thành lập chi nhánh tại Việt Nam:
++ Được cơ quan quản lý, giám sát trong lĩnh vực chứng khoán ở nước nguyên xứ cấp phép hoạt động quản lý quỹ đại chúng và được chấp thuận thành lập chi nhánh tại Việt Nam;
++ Cơ quan cấp phép của nước nguyên xứ và Ủy ban Chứng khoán Nhà nước đã ký kết thỏa thuận hợp tác song phương hoặc đa phương về trao đổi thông tin, hợp tác quản lý, thanh tra, giám sát hoạt động về chứng khoán và thị trường chứng khoán; 
++ Không phải là cổ đông, thành viên góp vốn hoặc cùng với người có liên quan sở hữu trực tiếp hoặc gián tiếp thông qua ủy quyền, ủy thác đầu tư sở hữu trên 5% vốn điều lệ của 01 công ty quản lý quỹ đầu tư chứng khoán tại Việt Nam;
++ Vốn tối thiểu cấp cho chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam là 25 tỷ đồng; Vốn cấp cho chi nhánh tại Việt Nam đáp ứng quy định tại khoản 1 Điều 75 của Luật Chứng khoán
++ Bảo đảm điều kiện về cơ sở vật chất và nhân sự quy định tại khoản 4 và khoản 5 Điều 75 Luật Chứng khoán, trừ quy định tại điểm d khoản 5 Điều 75 của Luật Chứng khoán đối với chi nhánh dự kiến thành lập tại Việt Nam:
+Điều kiện về cơ sở vật chất bao gồm: Có trụ sở làm việc bảo đảm cho hoạt động kinh doanh chứng khoán; Có đủ cơ sở vật chất, kỹ thuật, trang bị, thiết bị văn phòng, hệ thống công nghệ phù hợp với quy trình nghiệp vụ về hoạt động kinh doanh chứng khoán.
+Điều kiện về nhân sự bao gồm: Có Tổng giám đốc (Giám đốc) chi nhánh, tối thiểu 05 nhân viên có chứng chỉ hành nghề quản lý quỹ và tối thiểu 01 nhân viên kiểm soát tuân thủ. Giám đốc chi nhánh phải đáp ứng các tiêu chuẩn: Không thuộc trường hợp đang bị truy cứu trách nhiệm hình sự hoặc chấp hành án phạt tù hoặc bị cấm hành nghề chứng khoán theo quy định của pháp luật; Có tối thiểu 04 năm kinh nghiệm tại bộ phận nghiệp vụ của các tổ chức hoạt động trong lĩnh vực tài chính, chứng khoán, ngân hàng, bảo hiểm hoặc tại bộ phận tài chính, kế toán, đầu tư trong các doanh nghiệp khác; Có chứng chỉ hành nghề quản lý quỹ hoặc chứng chỉ tương đương theo quy định của Chính phủ; Không bị xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán trong thời hạn 06 tháng gần nhất tính đến thời điểm nộp hồ sơ. Trường hợp có Phó Giám đốc chi nhánh phụ trách nghiệp vụ thì phải đáp ứng các tiêu chuẩn quy định tại các điểm a, b khoản 5 Điều 75 Luật Chứng khoán và có chứng chỉ hành nghề chứng khoán phù hợp với nghiệp vụ phụ trách;
++ Đáp ứng quy định tại điểm c khoản 2 Điều 77 của Luật Chứng khoán
+* Trường hợp công ty chứng khoán, công ty quản lý quỹ nước ngoài  lập văn phòng đại diện tại Việt Nam:
++ Được cấp phép và đang hoạt động hợp pháp tại nước nguyên xứ;
++ Cơ quan cấp phép của nước nguyên xứ và Ủy ban Chứng khoán Nhà nước đã ký kết thỏa thuận hợp tác song phương hoặc đa phương về trao đổi thông tin, hợp tác quản lý, thanh tra, giám sát hoạt động về chứng khoán và thị trường chứng khoán hoặc công ty chứng khoán, công ty quản lý quỹ nước ngoài đang quản lý các quỹ đang đầu tư tại Việt Nam;
+Từ khóa: Không có thông tin
+Mô tả: * Trường hợp công ty chứng khoán nước ngoài thành lập chi nhánh tại Việt Nam:
++  Đáp ứng quy định tại khoản 2 Điều 77 của Luật Chứng khoán (Công ty chứng khoán nước ngoài được cấp phép và có thời gian hoạt động liên tục trong lĩnh vực ngân hàng, chứng khoán, bảo hiểm trong thời hạn 02 năm liền trước năm tham gia góp vốn thành lập, mua cổ phần, phần vốn góp; Cơ quan cấp phép của nước nguyên xứ và Ủy ban Chứng khoán Nhà nước đã ký kết thỏa thuận hợp tác song phương hoặc đa phương về trao đổi thông tin, hợp tác quản lý, thanh tra, giám sát hoạt động về chứng khoán và thị trường chứng khoán; Hoạt động kinh doanh có lãi trong 02 năm liền trước năm tham gia góp vốn thành lập, mua cổ phần, phần vốn góp và báo cáo tài chính năm gần nhất phải được kiểm toán với ý kiến chấp nhận toàn phần.)
++ Công ty chứng khoán nước ngoài chưa thành lập, tham gia góp vốn vào công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán tại Việt Nam do công ty chứng khoán nước ngoài sở hữu trên 49% vốn điều lệ;
++ Vốn tối thiểu cấp cho chi nhánh công ty chứng khoán nước ngoài tại Việt Nam là 10 tỷ đồng. (Vốn cấp cho chi nhánh tại Việt Nam đáp ứng quy định tại khoản 1 Điều 74 của Luật Chứng khoán).
++ Bảo đảm điều kiện về cơ sở vật chất và nhân sự quy định tại khoản 4 và khoản 5 Điều 74 của Luật Chứng khoán, trừ quy định tại điểm d khoản 5 Điều 74 đối với chi nhánh dự kiến thành lập tại Việt Nam:
+Điều kiện về cơ sở vật chất bao gồm: Có trụ sở làm việc bảo đảm cho hoạt động kinh doanh chứng khoán; Có đủ cơ sở vật chất, kỹ thuật, trang bị, thiết bị văn phòng, hệ thống công nghệ phù hợp với quy trình nghiệp vụ về hoạt động kinh doanh chứng khoán.
+Điều kiện về nhân sự bao gồm: Có Giám đốc chi nhánh, tối thiểu 03 nhân viên có chứng chỉ hành nghề chứng khoán phù hợp cho mỗi nghiệp vụ kinh doanh chứng khoán đề nghị cấp phép và tối thiểu 01 nhân viên kiểm soát tuân thủ. Giám đốc chi nhánh phải đáp ứng các tiêu chuẩn: Không thuộc trường hợp đang bị truy cứu trách nhiệm hình sự hoặc chấp hành án phạt tù hoặc bị cấm hành nghề chứng khoán theo quy định của pháp luật; Có tối thiểu 02 năm kinh nghiệm làm việc tại bộ phận nghiệp vụ của các tổ chức trong lĩnh vực tài chính, chứng khoán, ngân hàng, bảo hiểm hoặc tại bộ phận tài chính, kế toán, đầu tư trong các doanh nghiệp khác; Có chứng chỉ hành nghề phân tích tài chính hoặc chứng chỉ hành nghề quản lý quỹ; Không bị xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán trong thời hạn 06 tháng gần nhất tính đến thời điểm nộp hồ sơ. Trường hợp có Phó Giám đốc chi nhánh phụ trách nghiệp vụ thì phải đáp ứng các tiêu chuẩn quy định tại các điểm a, b khoản 5 Điều 74 Luật Chứng khoán và có chứng chỉ hành nghề chứng khoán phù hợp với nghiệp vụ phụ trách.
+* Trường hợp công ty quản lý quỹ nước ngoài thành lập chi nhánh tại Việt Nam:
++ Được cơ quan quản lý, giám sát trong lĩnh vực chứng khoán ở nước nguyên xứ cấp phép hoạt động quản lý quỹ đại chúng và được chấp thuận thành lập chi nhánh tại Việt Nam;
++ Cơ quan cấp phép của nước nguyên xứ và Ủy ban Chứng khoán Nhà nước đã ký kết thỏa thuận hợp tác song phương hoặc đa phương về trao đổi thông tin, hợp tác quản lý, thanh tra, giám sát hoạt động về chứng khoán và thị trường chứng khoán; 
++ Không phải là cổ đông, thành viên góp vốn hoặc cùng với người có liên quan sở hữu trực tiếp hoặc gián tiếp thông qua ủy quyền, ủy thác đầu tư sở hữu trên 5% vốn điều lệ của 01 công ty quản lý quỹ đầu tư chứng khoán tại Việt Nam;
++ Vốn tối thiểu cấp cho chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam là 25 tỷ đồng; Vốn cấp cho chi nhánh tại Việt Nam đáp ứng quy định tại khoản 1 Điều 75 của Luật Chứng khoán
++ Bảo đảm điều kiện về cơ sở vật chất và nhân sự quy định tại khoản 4 và khoản 5 Điều 75 Luật Chứng khoán, trừ quy định tại điểm d khoản 5 Điều 75 của Luật Chứng khoán đối với chi nhánh dự kiến thành lập tại Việt Nam:
+Điều kiện về cơ sở vật chất bao gồm: Có trụ sở làm việc bảo đảm cho hoạt động kinh doanh chứng khoán; Có đủ cơ sở vật chất, kỹ thuật, trang bị, thiết bị văn phòng, hệ thống công nghệ phù hợp với quy trình nghiệp vụ về hoạt động kinh doanh chứng khoán.
+Điều kiện về nhân sự bao gồm: Có Tổng giám đốc (Giám đốc) chi nhánh, tối thiểu 05 nhân viên có chứng chỉ hành nghề quản lý quỹ và tối thiểu 01 nhân viên kiểm soát tuân thủ. Giám đốc chi nhánh phải đáp ứng các tiêu chuẩn: Không thuộc trường hợp đang bị truy cứu trách nhiệm hình sự hoặc chấp hành án phạt tù hoặc bị cấm hành nghề chứng khoán theo quy định của pháp luật; Có tối thiểu 04 năm kinh nghiệm tại bộ phận nghiệp vụ của các tổ chức hoạt động trong lĩnh vực tài chính, chứng khoán, ngân hàng, bảo hiểm hoặc tại bộ phận tài chính, kế toán, đầu tư trong các doanh nghiệp khác; Có chứng chỉ hành nghề quản lý quỹ hoặc chứng chỉ tương đương theo quy định của Chính phủ; Không bị xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán trong thời hạn 06 tháng gần nhất tính đến thời điểm nộp hồ sơ. Trường hợp có Phó Giám đốc chi nhánh phụ trách nghiệp vụ thì phải đáp ứng các tiêu chuẩn quy định tại các điểm a, b khoản 5 Điều 75 Luật Chứng khoán và có chứng chỉ hành nghề chứng khoán phù hợp với nghiệp vụ phụ trách;
++ Đáp ứng quy định tại điểm c khoản 2 Điều 77 của Luật Chứng khoán
+* Trường hợp công ty chứng khoán, công ty quản lý quỹ nước ngoài  lập văn phòng đại diện tại Việt Nam:
++ Được cấp phép và đang hoạt động hợp pháp tại nước nguyên xứ;
++ Cơ quan cấp phép của nước nguyên xứ và Ủy ban Chứng khoán Nhà nước đã ký kết thỏa thuận hợp tác song phương hoặc đa phương về trao đổi thông tin, hợp tác quản lý, thanh tra, giám sát hoạt động về chứng khoán và thị trường chứng khoán hoặc công ty chứng khoán, công ty quản lý quỹ nước ngoài đang quản lý các quỹ đang đầu tư tại Việt Nam;

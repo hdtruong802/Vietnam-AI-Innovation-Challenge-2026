@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012681
+Số quyết định: SỐ 64/QĐ-NHNN
+Tên thủ tục: Thủ tục sửa đổi, bổ sung Giấy phép đối với nội dung tăng mức vốn điều lệ của ngân hàng thương mại cổ phần/tăng vốn do ngân hàng mẹ cấp bổ sung của chi nhánh ngân hàng nước ngoài
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    - Bước 1:
+    * Đối với ngân hàng thương mại: Trong thời hạn tối đa 15 ngày làm việc kể từ ngày kết thúc đợt phát hành, chào bán cổ phiếu theo quy định của pháp luật, ngân hàng thương m ại lập 01 bộ hồ sơ theo quy định gửi Ngân hàng Nhà nước đề nghị sửa đổi mức vốn điều lệ tại Giấy phép.
+    * Đối với chi nhánh ngân hàng nước ngoài: Trong thời hạn 15 ngày làm việc kể từ ngày hoàn thành việc tăng mức vốn được cấp, chi nhánh ngân hàng nước ngoài có văn bản đề nghị sửa đổi mức vốn được cấp tại Giấy phép gửi Ngân hàng Nhà nước.
+    - Bước 2: Trong thời hạn 15 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Ngân hàng Nhà nước có quyết định sửa đổi mức vốn điều lệ tại Giấy phép đối với ngân hàng thương mại, quyết định sửa đổi mức vốn được cấp tại Giấy phép đối với chi nhánh ngân hàng nước ngoài.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - * Đối với ngân hàng thương mại a) Văn bản đề nghị sửa đổi mức vốn điều lệ tại Giấy phép b) Văn bản của Ủy ban Chứng khoán Nhà nước về việc nhận được báo cáo kết quả đợt phát hành, chào bán cổ phiếu; c) Thông tin quy định tại điểm a(v), c khoản 1 Điều 11 hoặc điểm a(v), c khoản 1 Điều 12 Thông tư số 50/2025/TT-NHNN sau khi hoàn thành đợt phát hành, chào bán cổ phiếu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - * Đối với chi nhánh ngân hàng nước ngoài: Văn bản đề nghị sửa đổi mức vốn được cấp tại Giấy phép.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức nước ngoài
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực, Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định sửa đổi mức vốn điều lệ tại Giấy phép đối với ngân hàng thương mại/ Quyết định sửa đổi mức vốn được cấp tại Giấy phép đối với chi nhánh ngân hàng nước ngoài.
+Căn cứ pháp lý:
+  * 50/2025/TT-NHNN (số 50/2025/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

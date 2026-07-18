@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014881
+Số quyết định: 1263/QĐ-BKHCN
+Tên thủ tục: Thủ tục hủy bỏ hiệu lực của quyết định chứng nhận chuẩn đo lường.
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+    Bước 1: Khi có nhu cầu hủy bỏ hiệu lực của quyết định chứng nhận chuẩn đo lường đã được cấp, tổ chức gửi văn bản đề nghị gửi đến cơ quan được giao tiếp nhận hồ sơ tại tỉnh, thành phố nơi tổ chức đặt địa chỉ trụ sở chính
+    Bước 2: Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, cấp quyết định hủy bỏ hiệu lực của quyết định chứng nhận chuẩn đo lường.
+    Trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản đề nghị của tổ chức, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, cấp quyết định hủy bỏ hiệu lực của quyết định chứng nhận chuẩn đo lường.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị không tiếp tục sử dụng chuẩn đo lường đã được chứng nhận để thực hiện hoạt động kiểm định
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Cơ quan khác
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hủy bỏ hiệu lực của quyết định chứng nhận chuẩn đo lường (theo Mẫu số 10 ban hành kèm theo Phụ lục Thông tư số 54/2025/TT-BKHCN)
+Căn cứ pháp lý:
+  * Luật Tổ chức chính quyền địa phương (72/2025/QH15)
+  * Luật Đo lường (04/2011/QH13)
+  * Thông tư quy định về hoạt động kiểm định, tiêu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường (Thông tư số 54/2025/TT-BKHCN)
+  * Nghị định sửa đổi, bổ sung một số điều của Nghị định số 105/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện hoạt động của tổ chức kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường được sửa đổi, bổ sung bởi Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 của Chính phủ và Nghị định số 133/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ (Nghị định số 36/2026/NĐ-CP)
+  * Luật Tổ chức Chính phủ 2025 (63/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

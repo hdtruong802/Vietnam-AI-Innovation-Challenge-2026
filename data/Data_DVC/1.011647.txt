@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011647
+Số quyết định: 1738/QĐ-BNNMT
+Tên thủ tục: Công nhận vùng nông nghiệp ứng dụng cao
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Khoa học và Công nghệ
+Trình tự thực hiện:
+    - Bước 1: Tổ chức đầu mối của vùng lập 01 bộ hồ sơ đề nghị công nhận vùng nông nghiệp ứng dụng công nghệ cao nộp trực tuyến trên Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công.
+    - Bước 2: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Nông nghiệp và Môi trường có trách nhiệm kiểm tra và thông báo bằng văn bản cho tổ chức đề nghị công nhận vùng nông nghiệp ứng dụng công nghệ cao về tính đầy đủ, hợp lệ của hồ sơ. Thời gian bổ sung, sửa đổi hồ sơ là 15 ngày kể từ ngày nhận được văn bản thông báo.
+    - Bước 3: Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị công nhận vùng nông nghiệp ứng dụng công nghệ cao hợp lệ, Sở Nông nghiệp và Môi trường có trách nhiệm tổ chức thẩm định và trình Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương quyết định công nhận vùng nông nghiệp ứng dụng công nghệ cao. Trường hợp từ chối công nhận thì phải thông báo lý do bằng văn bản cho tổ chức đề nghị công nhận.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Kể từ ngày nhận được hồ sơ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Kể từ ngày nhận được hồ sơ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận được hồ sơ
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị công nhận vùng nông nghiệp ứng dụng công nghệ cao;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Thuyết minh vùng nông nghiệp ứng dụng công nghệ cao đáp ứng các tiêu chí quy định tại Điều 2 Quyết định 66/2015/QĐ-TTg ngày 25/12/2015 của Thủ tướng Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận vùng nông nghiệp ứng dụng công nghệ cao
+Căn cứ pháp lý:
+  * Nghị quyết của Chính phủ quy định cắt giảm, đơn giản hóa thủ tục hành chính, quy định liên quan đến hoạt động sản xuất, kinh doanh (66.16/2026/NQ-CP)
+  * Quyết định (66/2015/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

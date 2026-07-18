@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001909
+Số quyết định: 1474/QĐ-BTC
+Tên thủ tục: Thanh toán chi phí BHYT với cơ sở KCB BHYT
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thực hiện chính sách BHYT
+Trình tự thực hiện:
+  * Bước 1. Lập, nộp hồ sơ
+    - Trong thời hạn 7 ngày làm việc (kể từ ngày kết thúc việc KCB đối với người bệnh) cơ sở KCB BHYT phải gửi dữ liệu điện tử đề nghị thanh toán chi phí KCB BHYT lên Cổng Tiếp nhận dữ liệu Hệ thống thông tin giám định BHYT của BHXH Việt Nam (sau đây gọi là Cổng Thông tin giám định BHYT), dữ liệu phát sinh vào những ngày cuối của tháng hoặc của quý hoặc của năm đến Cổng Thông tin giám định BHYT trước ngày mùng 5 của tháng kế tiếp.
+    - Trong thời gian 15 ngày đầu mỗi tháng, cơ sở KCB BHYT lập bảng Tổng hợp chi phí khám bệnh, chữa bệnh của người tham gia BHYT (Mẫu C79-HD) tháng trước và gửi cho cơ quan BHXH.
+    - Trong thời hạn 15 ngày đầu mỗi quý, cơ sở KCB BHYT gửi Báo cáo quyết toán chi phí khám bệnh, chữa bệnh BHYT của quý trước cho cơ quan BHXH.
+  * Bước 2.
+    Cơ quan BHXH tiếp nhận hồ sơ và giải quyết theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bảng tổng hợp chi phí KCB của người tham gia BHYT
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bảo hiểm xã hội cấp huyện, Bảo hiểm xã hội tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cơ quan BHXH chuyển tiền cho cơ sở KCB, Biên bản thanh, quyết toán chi phí khám chữa bệnh BHYT
+Căn cứ pháp lý:
+  * Luật sửa đổi, bổ sung một số điều Luật bảo hiểm y tế (46/2014/QH13)
+  * Thông tư 102/2018/TT-BTC (102/2018/TT-BTC)
+  * Quy định chi tiết và hướng dẫn biện pháp thi hành một số điều của Luật bảo hiểm y tế (146/2018/NĐ-CP)
+  * Luật 25/2008/QH12 - Bảo hiểm y tế (25/2008/QH12)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

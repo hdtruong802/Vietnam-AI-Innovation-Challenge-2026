@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000134
+Số quyết định: 1153/QĐ-NHNN
+Tên thủ tục: Thủ tục mở tài khoản lưu ký giấy tờ có giá đối với Bảo hiểm tiền gửi Việt Nam, các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và các tổ chức khác theo quyết định của Thống đốc Ngân hàng Nhà nước 
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động tiền tệ
+Trình tự thực hiện:
+    Bước 1 Bảo hiểm tiền gửi Việt Nam, các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và các tổ chức khác theo quyết định của Thống đốc Ngân hàng Nhà nước (sau đây gọi tắt là thành viên) có nhu cầu mở tài khoản lưu ký giấy tờ có giá tại Ngân hàng Nhà nước để thực hiện các hoạt động thị trường tiền tệ lập 01 bộ hồ sơ gửi Ngân hàng Nhà nước.
+    Bước 2: Trong thời hạn 02 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ đề nghị mở tài khoản lưu ký giấy tờ có giá của thành viên, Ngân hàng Nhà nước (Sở Giao dịch) thực hiện mở tài khoản lưu ký giấy tờ có giá.
+    Trường hợp hồ sơ mở tài khoản lưu ký giấy tờ có giá của thành viên chưa đầy đủ và hợp lệ, Ngân hàng Nhà nước (Sở Giao dịch) thông báo cho thành viên biết để hoàn thiện hồ sơ; trường hợp từ chối mở tài khoản lưu ký giấy tờ có giá, Ngân hàng Nhà nước (Sở Giao dịch) thông báo lý do cho thành viên biết.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - a) Giấy đề nghị mở tài khoản lưu ký giấy tờ có giá tại Ngân hàng Nhà nước theo Mẫu số 01a ban hành kèm theo Thông tư số 09/2026/TT-NHNN kèm Bản đăng ký mẫu dấu, chữ ký sử dụng tài khoản lưu ký giấy tờ có giá tại Ngân hàng Nhà nước theo Mẫu số 01b tại Phụ lục ban hành kèm theo Thông tư số 09/2026/TT-NHNN;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Các giấy tờ chứng minh việc thành viên mở tài khoản lưu ký giấy tờ có giá được thành lập và hoạt động hợp pháp gồm: điều lệ; giấy phép thành lập và hoạt động, giấy chứng nhận đăng ký doanh nghiệp hoặc các giấy tờ khác có giá trị tương đương theo quy định của pháp luật;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Các giấy tờ chứng minh tư cách đại diện hợp pháp của người đại diện theo pháp luật của thành viên mở tài khoản (văn bản của Ngân hàng Nhà nước về việc chấp thuận danh sách nhân sự dự kiến, văn bản hoặc quyết định bổ nhiệm) kèm thẻ căn cước công dân hoặc thẻ căn cước hoặc hộ chiếu còn thời hạn của người đó;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Văn bản hoặc quyết định bổ nhiệm và thẻ căn cước công dân hoặc thẻ căn cước hoặc hộ chiếu còn thời hạn của kế toán trưởng hoặc người phụ trách kế toán, người kiểm soát chứng từ giao dịch với Ngân hàng Nhà nước;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Trường hợp người đại diện theo pháp luật, kế toán trưởng ủy quyền cho người khác (bao gồm trường hợp ủy quyền lại (nếu có)), thành viên mở tài khoản lưu ký phải cung cấp văn bản hoặc quyết định bổ nhiệm của người được ủy quyền và giấy ủy quyền (nội dung tham khảo theo Mẫu số 07 tại Phụ lục ban hành kèm theo Thông tư số 09/2026/TT-NHNN) kèm thẻ căn cước công dân hoặc thẻ căn cước hoặc hộ chiếu còn thời hạn của người được ủy quyền. Đối với giấy ủy quyền công việc của người được kế toán trưởng ủy quyền phải có chữ ký xác nhận của người đại diện hợp pháp của thành viên mở tài khoản lưu ký giấy tờ có giá tại Ngân hàng Nhà nước. * Trường hợp nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính: Thành phần hồ sơ quy định tại điểm a nêu trên là bản chính và do người đại diện hợp pháp của thành viên mở tài khoản lưu ký giấy tờ có giá ký tên và đóng dấu; các thành phần hồ sơ quy định tại điểm b, c, d, đ nêu trên là bản sao được cấp từ sổ gốc hoặc bản sao có chứng thực hoặc bản sao kèm xuất trình bản chính để đối chiếu hoặc bản sao điện tử được chứng thực từ bản chính. Nếu giấy tờ trong hồ sơ mở tài khoản bằng tiếng nước ngoài thì phải được dịch sang tiếng Việt và được công chứng, chứng thực theo quy định của pháp luật. * Trường hợp nộp hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia:  - Thành phần hồ sơ là Giấy đề nghị mở tài khoản lưu ký giấy tờ có giá theo Mẫu số 01a tại điểm a nêu trên phải được lập dưới dạng thông điệp dữ liệu và ký số bởi người đại diện hợp pháp của thành viên theo quy định của pháp luật về giao dịch điện tử;  - Thành phần hồ sơ là Bản đăng ký mẫu dấu, chữ ký sử dụng tài khoản lưu ký giấy tờ có giá theo Mẫu số 01b  tại Ngân hàng Nhà nước tại điểm a nêu trên và các thành phần hồ sơ quy định tại điểm b, c, d, đ nêu trên được nộp dưới dạng bản điện tử hợp lệ. Bản điện tử hợp lệ là thông điệp dữ liệu được tạo lập hoặc được chuyển đổi từ văn bản giấy theo quy định của pháp luật về giao dịch điện tử, bảo đảm tính toàn vẹn của thông tin và có thể truy cập, sử dụng được để tham chiếu khi cần thiết. * Khai thác, sử dụng thông tin, dữ liệu để thay thế thành phần hồ sơ - Thành viên không phải cung cấp các giấy tờ quy định tại điểm b, c, d, đ nêu trên trong trường hợp thành viên đã cung cấp cho Ngân hàng Nhà nước (Sở Giao dịch) khi mở và sử dụng tài khoản thanh toán tại Ngân hàng Nhà nước. - Ngân hàng Nhà nước khai thác, sử dụng thông tin đã có trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp để thay thế thành phần hồ sơ Giấy chứng nhận đăng ký doanh nghiệp; khai thác, sử dụng thông tin trong Cơ sở dữ liệu quốc gia về dân cư và Cơ sở dữ liệu quốc gia về xuất cảnh, nhập cảnh của công dân Việt Nam để thay thế thành phần hồ sơ thẻ căn cước công dân, thẻ căn cước hoặc hộ chiếu còn thời hạn; đồng thời khai thác, sử dụng thông tin trong cơ sở dữ liệu chuyên ngành, hệ thống thông tin do Ngân hàng Nhà nước quản lý để thay thế các thành phần hồ sơ liên quan đến việc thành lập, tổ chức, nhân sự và hoạt động của thành viên đã được Ngân hàng Nhà nước cấp, chấp thuận hoặc quản lý theo quy định của pháp luật.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - * Trường hợp nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính: Thành phần hồ sơ quy định tại điểm a nêu trên là bản chính và do người đại diện hợp pháp của thành viên mở tài khoản lưu ký giấy tờ có giá ký tên và đóng dấu; các thành phần hồ sơ quy định tại điểm b, c, d, đ nêu trên là bản sao được cấp từ sổ gốc hoặc bản sao có chứng thực hoặc bản sao kèm xuất trình bản chính để đối chiếu hoặc bản sao điện tử được chứng thực từ bản chính. Nếu giấy tờ trong hồ sơ mở tài khoản bằng tiếng nước ngoài thì phải được dịch sang tiếng Việt và được công chứng, chứng thực theo quy định của pháp luật. * Trường hợp nộp hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia:  - Thành phần hồ sơ là Giấy đề nghị mở tài khoản lưu ký giấy tờ có giá theo Mẫu số 01a tại điểm a nêu trên phải được lập dưới dạng thông điệp dữ liệu và ký số bởi người đại diện hợp pháp của thành viên theo quy định của pháp luật về giao dịch điện tử;  - Thành phần hồ sơ là Bản đăng ký mẫu dấu, chữ ký sử dụng tài khoản lưu ký giấy tờ có giá theo Mẫu số 01b  tại Ngân hàng Nhà nước tại điểm a nêu trên và các thành phần hồ sơ quy định tại điểm b, c, d, đ nêu trên được nộp dưới dạng bản điện tử hợp lệ. Bản điện tử hợp lệ là thông điệp dữ liệu được tạo lập hoặc được chuyển đổi từ văn bản giấy theo quy định của pháp luật về giao dịch điện tử, bảo đảm tính toàn vẹn của thông tin và có thể truy cập, sử dụng được để tham chiếu khi cần thiết. * Khai thác, sử dụng thông tin, dữ liệu để thay thế thành phần hồ sơ - Thành viên không phải cung cấp các giấy tờ quy định tại điểm b, c, d, đ nêu trên trong trường hợp thành viên đã cung cấp cho Ngân hàng Nhà nước (Sở Giao dịch) khi mở và sử dụng tài khoản thanh toán tại Ngân hàng Nhà nước. - Ngân hàng Nhà nước khai thác, sử dụng thông tin đã có trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp để thay thế thành phần hồ sơ Giấy chứng nhận đăng ký doanh nghiệp; khai thác, sử dụng thông tin trong Cơ sở dữ liệu quốc gia về dân cư và Cơ sở dữ liệu quốc gia về xuất cảnh, nhập cảnh của công dân Việt Nam để thay thế thành phần hồ sơ thẻ căn cước công dân, thẻ căn cước hoặc hộ chiếu còn thời hạn; đồng thời khai thác, sử dụng thông tin trong cơ sở dữ liệu chuyên ngành, hệ thống thông tin do Ngân hàng Nhà nước quản lý để thay thế các thành phần hồ sơ liên quan đến việc thành lập, tổ chức, nhân sự và hoạt động của thành viên đã được Ngân hàng Nhà nước cấp, chấp thuận hoặc quản lý theo quy định của pháp luật.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Mở tài khoản lưu ký giấy tờ có giá cho thành viên.
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Thông tư  quy định về việc lưu ký và sử dụng giấy tờ có giá tại Ngân hàng Nhà nước Việt Nam (09/2026/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

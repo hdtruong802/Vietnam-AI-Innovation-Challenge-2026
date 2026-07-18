@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009062
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục bán hàng miễn thuế cho tổ chức, cá nhân được hưởng quyền ưu đãi miễn trừ mua hàng tại cửa hàng miễn thuế trong nội địa
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp yêu cầu khách hàng xuất trình Sổ định mức miễn thuế, trừ trường hợp sổ định mức miễn thuế đã được cơ quan có thẩm quyền cấp cập nhật thông tin vào cổng thông tin một cửa quốc gia;
+    Bước 2: Doanh nghiệp nhập toàn bộ về định lượng hàng hóa tại Sổ định mức miễn thuế do khách hàng xuất trình hoặc dữ liệu về sổ định mức từ cổng thông tin một cửa quốc gia đã được cơ quan có thẩm quyền cập nhật (đối với trường hợp sử dụng sổ lần đầu) và gửi đến hệ thống xử lý dữ liệu điện tử.
+    Bước 3: Xuất trình bản chính Sổ định mức mua hàng miễn thuế cho cơ quan hải quan, trừ trường hợp sổ định mức miễn thuế đã được cơ quan có thẩm quyền cấp cập nhật thông tin vào cổng thông tin một cửa quốc gia
+    Đối với khách hàng lần đầu tiên mua hàng miễn thuế theo Sổ định mức mua hàng miễn thuế, cơ quan hải quan kiểm tra bản chính sổ định mức mua hàng miễn thuế hoặc kiểm tra trên cổng thông tin một cửa quốc gia về định lượng mua hàng miễn thuế, xác nhận trên hệ thống xử lý dữ liệu điện tử lượng hàng miễn thuế được phép mua của khách hàng để hệ thống xử lý dữ liệu điện tử trừ lùi định mức mua hàng miễn thuế.
+    Bước 4: Nhập các thông tin quy định trên hóa đơn bán hàng vào hệ thống phần mềm của doanh nghiệp và gửi dữ liệu đến hệ thống xử lý dữ liệu điện tử, nhận phản hồi từ hệ thống xử lý dữ liệu điện tử.
+    - Trường hợp bán hàng miễn thuế trực tuyến: doanh nghiệp nhập dữ liệu về thông tin khách hàng và hàng hóa vào hệ thống xử lý dữ liệu điện tử khi chấp nhận đơn hàng và hoàn tất thủ tục thanh toán. Khi giao hàng cho khách mua hàng, doanh nghiệp kiểm tra đối chiếu thông tin mà khách đã kê khai khi mua hàng trực tuyến với thông tin trên các giấy tờ liên quan đến khách mua hàng theo quy định đối với từng đối tượng.
+    Bước 5: Cắt ô tem tương ứng mặt hàng đã bán trên Sổ định mức hàng miễn thuế dán vào hóa đơn bán hàng. Trường hợp hóa đơn dạng cuộn doanh nghiệp thực hiện lưu ô tem tương ứng theo từng hóa đơn bán hàng; lưu hóa đơn bán hàng theo ngày bán hàng (hoặc theo cuộn nếu hóa đơn ở dạng cuộn)
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Thông tin về khách hàng và hàng hóa khách mua
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông tin về sổ định mức miễn thuế
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận của Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế trên Sổ định mức mua hàng miễn thuế
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

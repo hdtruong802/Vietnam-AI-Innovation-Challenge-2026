@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011403
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục đưa hàng về bảo quản
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Bước 1: Người khai hải quan gửi hồ sơ đề nghị đưa hàng về bảo quản cho cơ quan hải quan.
+    - Bước 2: Cơ quan hải quan thực hiện phê duyệt cho phép doanh nghiệp được đưa hàng về bảo quản
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ - Trường hợp cơ quan kiểm tra chuyên ngành chỉ định đưa hàng hóa về địa điểm kiểm tra theo pháp luật về kiểm tra chuyên ngành ]
+    - + Giấy đăng ký kiểm tra chuyên ngành có xác nhận của cơ quan kiểm tra chuyên ngành: 01 bản chụp
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Đề nghị đưa hàng về địa điểm kiểm tra theo các tiêu chí quy định tại mẫu số 18 Phụ lục II ban hành kèm Thông tư 38/2015/TT-BTC được sửa đổi bổ sung tại Phụ lục 1 Thông tư 39/2018/TT-BTC đối với trường hợp khai điện tử, đề nghị theo mẫu số 09/BQHH/GSQL Phụ lục V ban hành kèm Thông tư 38/2015/TT-BTC được sửa đổi bổ sung tại Phụ lục II Thông tư 39/2018/TT-BTC đối với trường hợp khai hải quan trên tờ khai giấy
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp đưa hàng về địa điểm bảo quản hàng hóa của người khai hải quan theo đề nghị của người khai hải quan ]
+    - Biên bản lấy mẫu có xác nhận của cơ quan kiểm tra chuyên ngành trong trường hợp lấy mẫu tại cửa khẩu
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy đăng ký kiểm tra chuyên ngành có xác nhận của cơ quan kiểm tra chuyên ngành: 01 bản chụp.  Trường hợp việc đăng ký kiểm tra chuyên ngành được thực hiện trên Cổng thông tin một cửa quốc gia, người khai hải quan không phải gửi chứng từ này cho cơ quan hải quan
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh địa điểm đưa hàng về bảo quản là kho bãi có địa chỉ rõ ràng, được ngăn cách với khu vực xung quanh đảm bảo việc bảo quản nguyên trạng hàng hóa theo quy định tại điểm b khoản 3 Điều 33 Nghị định số 08/2015/NĐ-CP
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đề nghị đưa hàng về bảo quản theo các tiêu chí quy định tại mẫu số 18 Phụ lục I ban hành kèm Thông tư 39/2018/TT-BTC
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Phê duyệt đưa hàng về bảo quản
+Căn cứ pháp lý:
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 51/2005/QH11 (51/2005/QH11)
+  * Nghị định 59/2018/NĐ-CP (59/2018/NĐ-CP)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Thông tư số 39/2018/TT-BTC ngày 20/4/2018 của Bộ Tài chính sửa đổi, bổ sung một số điều tại Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu. (39/2018/TT-BTC)
+  * Về giao dịch điện tử trong hoạt động tài chính (27/2007/NĐ-CP)
+  * Nghị định 156/2016/NĐ-CP (156/2016/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

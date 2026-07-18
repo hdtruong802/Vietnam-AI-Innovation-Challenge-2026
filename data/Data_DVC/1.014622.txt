@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014622
+Số quyết định: 5102/QĐ-UBND
+Tên thủ tục: Thủ tục xét duyệt hồ sơ hỗ trợ trực tiếp cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo, đổi mới sáng tạo
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    - Doanh nghiệp gửi hồ sơ đề nghị xét duyệt hồ sơ hỗ trợ trực tiếp cho doanh nghiệp nhỏ và vừa khởi nghiệp sáng tạo, đổi mới sáng tạo về Trung tâm Phục vụ hành chính công thành phố hoặc Trung tâm Phục vụ hành chính công cấp xã;
+    - Trong thời hạn 1,5 ngày làm việc (kể từ ngày hết hạn nhận hồ sơ), nếu hồ sơ có sai sót hoặc không đầy đủ, Sở Khoa học và Công nghệ thông báo cho doanh nghiệp bổ sung hồ sơ. Doanh nghiệp có trách nhiệm bổ sung hồ sơ trong thời hạn 2,5 ngày làm việc kể từ ngày nhận được thông báo.
+    + Đối với các trường hợp quy định tại khoản 1, 2, 3, 4, 7 và 8 Điều 7 Nghị quyết số 19/2025/NQ-HĐND: Trong thời hạn 2,5 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Khoa học và Công nghệ thành lập Tổ thẩm định hồ sơ. Thành phần tổ thẩm định gồm 07 - 09 thành viên, gồm đại diện Sở Khoa học và Công nghệ, Sở Tài chính, Văn phòng Đoàn đại biểu quốc hội và Hội đồng nhân dân thành phố và các chuyên gia. Tổ thẩm định có trách nhiệm tổ chức thẩm định hồ sơ đề nghị hỗ trợ trong vòng 7,5 ngày làm việc kể từ ngày ra quyết định thành lập.
+    + Đối với các trường hợp quy định tại khoản 5, 6 Điều 7 Nghị quyết số 19/2025/NQ-HĐND: Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Khoa học và Công nghệ tổ chức khảo sát thực tế và thành lập Hội đồng tư vấn đánh giá kết quả thực hiện và tổ chức đánh giá chuyên sâu. Việc thành lập hội đồng, phương thức, nội dung làm việc, kết quả họp Hội đồng thực hiện theo Thông tư số 02/2015/TT-BKHCN quy định việc đánh giá và thẩm định kết quả thực hiện nhiệm vụ khoa học và công nghệ không sử dụng ngân sách nhà nước.
+    - Căn cứ kết quả thẩm định hoặc đánh giá, trong thời hạn 2,5 ngày làm việc kể từ ngày họp Tổ thẩm định hồ sơ hoặc Hội đồng tư vấn đánh giá kết quả thực hiện và tổ chức đánh giá chuyên sâu, Sở Khoa học và Công nghệ ban hành Quyết định hỗ trợ (nếu được hội đồng thông qua).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 17 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với các trường hợp quy định tại khoản 5, 6 Điều 7 Nghị quyết số 19/2025/NQ-HĐND: 17,5 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với các trường hợp quy định tại khoản 1, 2, 3, 4, 7 và 8 Điều 7 Nghị quyết số 19/2025/ NQ-HĐND: 12,5 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 17 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với các trường hợp quy định tại khoản 5, 6 Điều 7 Nghị quyết số 19/2025/NQ-HĐND: 17,5 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 17 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với các trường hợp quy định tại khoản 5, 6 Điều 7 Nghị quyết số 19/2025/NQ-HĐND: 17,5 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với các trường hợp quy định tại khoản 1, 2, 3, 4, 7 và 8 Điều 7 Nghị quyết số 19/2025/ NQ-HĐND: 12,5 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với các trường hợp quy định tại khoản 1, 2, 3, 4, 7 và 8 Điều 7 Nghị quyết số 19/2025/ NQ-HĐND: 12,5 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị hỗ trợ theo Mẫu 01.ĐĐN tại Phụ lục kèm theo Nghị quyết 19/2025/NQ-HĐND.- Bản sao văn bản công nhận hoặc xác nhận doanh nghiệp đổi mới sáng tạo, doanh nghiệp khởi nghiệp sáng tạo. - Các hồ sơ minh chứng liên quan đến nội dung đề nghị hỗ trợ + Đối với nội dung hỗ trợ quy định tại khoản 1 và 2 Điều 7 của Quy định này: Bản sao Hợp đồng thuê sử dụng cơ sở kỹ thuật, cơ sở ươm tạo, phòng thí nghiệm, phòng thử nghiệm kiểm định, giám định, khu làm việc chung hoặc Hợp đồng tư vấn về xây dựng bản mô tả sáng chế, bản thiết kế kiểu dáng công nghiệp, bản thiết kế hệ thống nhận diện thương hiệu; chứng từ minh chứng liên quan. + Đối với nội dung đề xuất hỗ trợ quy định tại khoản 3 Điều 7 của Quy định này: Bản sao Quyết định cấp và văn bằng bảo hộ sáng chế, giải pháp hữu ích, kiểu dáng công nghiệp và nhãn hiệu, giống cây trồng mới. +Đối với nội dung đề xuất hỗ trợ quy định tại khoản 4 Điều 7 của Quy định này: Bản sao công bố Tiêu chuẩn cơ sở hoặc Hệ thống quản lý chất lượng theo tiêu chuẩn Việt Nam hoặc quốc tế được cơ quan có thẩm quyền đánh giá và áp dụng tại doanh nghiệp; Giấy chứng nhận kiểm định, hiệu chuẩn; Danh sách sản phẩm được tham gia hệ thống truy xuất nguồn gốc quốc gia và chứng từ minh chứng liên quan. + Đối với nội dung đề xuất hỗ trợ quy định tại khoản 5 Điều 7 của Quy định này: Bản sao hợp đồng, thanh lý hợp đồng, sản phẩm, bản sao Dự án đã được phê duyệt và biên bản nghiệm thu dự án và chứng từ minh chứng liên quan; Báo cáo kết quả hoạt động đề nghị hỗ trợ của doanh nghiệp theo mẫu 02.BCKQ-DN tại Phụ lục kèm theo Nghị quyết. + Đối với nội dung đề xuất hỗ trợ quy định tại khoản 6 Điều 7 của Quy định này: Bản sao hợp đồng, thanh lý hợp đồng, báo cáo việc chứng từ liên quan; bản sao Dự án đã được phê duyệt và biên bản nghiệm thu dự án và chứng từ minh chứng liên quan; Báo cáo kết quả hoạt động đề nghị hỗ trợ của doanh nghiệp theo mẫu 02.BCKQ-DN tại Phụ lục kèm theo Nghị quyết. + Đối với nội dung đề xuất hỗ trợ quy định tại khoản 7 Điều 7 của Quy định này: Bản sao văn bằng hoặc chứng chỉ đào tạo; chứng từ chi cho đào tạo, huấn luyện chuyên sâu gồm học phí, tài liệu, ăn, ở, đi lại. + Đối với nội dung đề xuất hỗ trợ quy định tại khoản 8 Điều 7 của Quy định này: Bản sao hợp đồng hoặc chứng từ và các tài liệu minh chứng kèm theo. Trong đó, đối với sàn thương mại điện tử trong nước: Phí thanh toán, phí cố định và phí dịch vụ người bán phải trả cho sàn thương mại điện tử; đối với sàn thương mại điện tử quốc tế: Phí tài khoản người bán, phí giới thiệu, phí hoàn thiện đơn hàng, phí lưu kho, chi phí đăng ký mã vạch sản phẩm, chi phí thiết kế và chụp ảnh sản phẩm, chi phí quảng cáo trên sàn thương mại điện tử; đối với hỗ trợ tham gia các cuộc thi quốc tế về khởi nghiệp sáng tạo: Phí, lệ phí tham gia cuộc thi, ăn, ở tại nước sở tại, đi lại, vận chuyển tài liệu, sản phẩm, trang thiết bị phục vụ tham gia cuộc thi. Lưu ý: Tài liệu trong hồ sơ được lập bằng tiếng n
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Sở Khoa học và Công nghệ - TP. Hải Phòng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: - Trung tâm PVHCC thành phố: Trụ sở chính: số 18, đường Hoàng Diệu, phường Hồng Bàng, thành phố Hải Phòng hoặc điểm tiếp nhận: Số 1 đường Tôn Đức Thắng, phường Lê Thanh Nghị, thành phố Hải Phòng. 
+- Trung tâm PVHCC các xã, phường, đặc khu trên địa bàn thành phố
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hỗ trợ doanh nghiệp khởi nghiệp sáng tạo, đổi mới sáng tạo.
+Căn cứ pháp lý:
+  * Quy định chính sách phát triển nguồn nhân lực trong lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo trên địa bàn thành phố Hải Phòng, giai đoạn 2025 - 2030 (16/2025/NQ-HĐND (TP. Hải Phòng))
+
+Yêu cầu, điều kiện thực hiện: - Tại thời điểm đăng ký, chưa nhận được bất kỳ nguồn kinh phí hỗ trợ từ ngân sách nhà nước cho nội dung đề nghị hỗ trợ.
+- Các nội dung đề nghị hưởng chính sách chỉ áp dụng sau ngày doanh nghiệp có trụ sở chính trên địa bàn thành phố và chỉ áp dụng đối với trụ sở chính và trụ sở các chi nhánh hạch toán phụ thuộc.
+- Sản phẩm, kết quả đề nghị hỗ trợ có sau ngày Nghị quyết có hiệu lực; có hồ sơ, tài liệu minh chứng hợp lệ liên quan đến nội dung đề nghị hỗ trợ.
+- Được công nhận là doanh nghiệp khởi nghiệp sáng tạo, đổi mới sáng tạo bởi cơ quan có thẩm quyền.
+Từ khóa: Không có thông tin
+Mô tả: - Tại thời điểm đăng ký, chưa nhận được bất kỳ nguồn kinh phí hỗ trợ từ ngân sách nhà nước cho nội dung đề nghị hỗ trợ.
+- Các nội dung đề nghị hưởng chính sách chỉ áp dụng sau ngày doanh nghiệp có trụ sở chính trên địa bàn thành phố và chỉ áp dụng đối với trụ sở chính và trụ sở các chi nhánh hạch toán phụ thuộc.
+- Sản phẩm, kết quả đề nghị hỗ trợ có sau ngày Nghị quyết có hiệu lực; có hồ sơ, tài liệu minh chứng hợp lệ liên quan đến nội dung đề nghị hỗ trợ.
+- Được công nhận là doanh nghiệp khởi nghiệp sáng tạo, đổi mới sáng tạo bởi cơ quan có thẩm quyền.

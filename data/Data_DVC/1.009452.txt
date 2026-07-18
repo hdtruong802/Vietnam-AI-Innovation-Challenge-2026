@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009452
+Số quyết định: 123/QĐ-CHHĐTVN
+Tên thủ tục: Thỏa thuận thông số kỹ thuật xây dựng bến thủy nội địa
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    - Chủ đầu tư nộp 01 bộ hồ sơ đến Ủy ban nhân dân cấp xã.
+  * b) Giải quyết TTHC:
+    - Đối với bến thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia, trước khi có văn bản thỏa thuận, Ủy ban nhân dân cấp xã lấy ý kiến của Chi cục hàng hải và đường thủy khu vực:
+    + Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Ủy ban nhân dân cấp xã, Chi cục hàng hải và đường thủy khu vực, có văn bản trả lời;
+    + Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được văn bản của Chi cục Hàng hải và Đường thủy khu vực, Ủy ban nhân dân cấp xã có văn bản thỏa thuận thông số kỹ thuật xây dựng gửi chủ đầu tư.
+    - Trường hợp bến thủy nội địa trong vùng nước cảng biển, trước khi thẩm định, thỏa thuận thông số kỹ thuật xây dựng, Ủy ban nhân dân cấp xã lấy ý kiến của Cảng vụ dàng hải/Cảng vụ đường thủy nội địa bằng văn bản. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị, Cảng vụ hàng hải/Cảng vụ đường thủy nội địa có văn bản trả lời.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Thời hạn Cảng vụ Hàng hải (đối với trường hợp bến thủy nội địa trong vùng nước cảng biển): Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Ủy ban nhân dân cấp xã.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Thời hạn Cảng vụ Hàng hải (đối với trường hợp bến thủy nội địa trong vùng nước cảng biển): Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Ủy ban nhân dân cấp xã.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Thời hạn Cảng vụ Hàng hải (đối với trường hợp bến thủy nội địa trong vùng nước cảng biển): Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Ủy ban nhân dân cấp xã.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn Chi cục Hàng hải và Đường thủy khu vực (đối với bến thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia) có văn bản trả lời: Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Ủy ban nhân dân cấp xã.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn Chi cục Hàng hải và Đường thủy khu vực (đối với bến thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia) có văn bản trả lời: Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Ủy ban nhân dân cấp xã.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn Chi cục Hàng hải và Đường thủy khu vực (đối với bến thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia) có văn bản trả lời: Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Ủy ban nhân dân cấp xã.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn thẩm định, thỏa thuận thông số kỹ thuật xây dựng: Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được văn bản trả lời của Chi cục Hàng hải và Đường thủy khu vực (đối với bến thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia), Cảng vụ Hàng hải (đối với trường hợp bến thủy nội địa trong vùng nước cảng biển).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn thẩm định, thỏa thuận thông số kỹ thuật xây dựng: Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được văn bản trả lời của Chi cục Hàng hải và Đường thủy khu vực (đối với bến thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia), Cảng vụ Hàng hải (đối với trường hợp bến thủy nội địa trong vùng nước cảng biển).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn thẩm định, thỏa thuận thông số kỹ thuật xây dựng: Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được văn bản trả lời của Chi cục Hàng hải và Đường thủy khu vực (đối với bến thủy nội địa trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia), Cảng vụ Hàng hải (đối với trường hợp bến thủy nội địa trong vùng nước cảng biển).
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị thỏa thuận thông số kỹ thuật xây dựng bến thủy nội địa theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Sơ đồ mặt bằng vị trí dự kiến xây dựng bến thủy nội địa: Thể hiện địa danh, vị trí công trình, vùng đất, vùng nước trước bến thủy nội địa, lý trình (km) sông, kênh, rạch và các công trình liền kề (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thỏa thuận thông số kỹ thuật xây dựng bến.
+Căn cứ pháp lý:
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+  * Sửa đổi, bổ sung một số điều của Nghị định số 08/2021/NĐ-CP ngày 28 tháng 01 năm 2021 của Chính phủ quy định về quản lý hoạt động đường thủy nội địa (06/2024/NĐ-CP)
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng (140/2025/NĐ-CP)
+  * Quy định về quản lý hoạt động đường thủy nội địa (08/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

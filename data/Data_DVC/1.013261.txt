@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013261
+Số quyết định: 1744/QĐ-BGTVT
+Tên thủ tục: Cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm trên đường bộ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Người vận tải vận chuyển hàng hóa nguy hiểm nộp hồ sơ đến cơ quan cấp Giấy phép vận chuyển hàng hóa nguy hiểm, cụ thể:
+    - Bộ Công an tổ chức cấp Giấy phép vận chuyển hàng hóa nguy hiểm loại 1, loại 2, loại 3, loại 4, loại 9 theo quy định tại khoản 1 Điều 4 của Nghị định số 161/2024/NĐ-CP (trừ hóa chất bảo vệ thực vật và hàng hóa nguy hiểm thuộc phạm vi quản lý của Bộ Quốc phòng).
+    - Bộ Quốc phòng tổ chức cấp Giấy phép vận chuyển hàng hóa nguy hiểm cho:
+    + Các tổ chức, doanh nghiệp thuộc phạm vi quản lý của Bộ Quốc phòng;
+    + Người vận tải do tổ chức, doanh nghiệp thuộc phạm vi quản lý của Bộ Quốc phòng thuê vận chuyển hàng hoá nguy hiểm.
+    - Bộ Công Thương tổ chức cấp Giấy phép vận chuyển hàng hóa nguy hiểm loại 5, loại 8 theo quy định tại khoản 1 Điều 4 của Nghị định số 161/2024/NĐ-CP.
+    - Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương tổ chức cấp Giấy phép vận chuyển hàng hóa nguy hiểm là hóa chất bảo vệ thực vật cho các tổ chức, cá nhân đặt trụ sở chính hoặc chi nhánh trên địa bàn địa phương.
+    b) Giải quyết TTHC:
+    - Trường hợp nộp hồ sơ trực tiếp: cơ quan giải quyết thủ tục hành chính kiểm tra thành phần hồ sơ; trường hợp thành phần hồ sơ chưa đầy đủ hoặc có sai lệch thì hướng dẫn hoàn thiện hồ sơ theo quy định.
+    Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua hệ thống dịch vụ công trực tuyến: trong thời hạn không quá 01 ngày làm việc kể từ ngày nhận hồ sơ, cơ quan giải quyết thủ tục hành chính xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan giải quyết thủ tục hành chính thông báo bằng văn bản hoặc thông qua hệ thống dịch vụ công trực tuyến cho tổ chức, cá nhân biết để bổ sung, đồng thời hướng dẫn hoàn thiện hồ sơ theo quy định;
+    - Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định, cơ quan cấp Giấy phép thẩm định hồ sơ và cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm; trường hợp không cấp Giấy phép thì cơ quan cấp Giấy phép phải trả lời bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định.
+
+Thành phần hồ sơ:
+    - Giấy đề nghị cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh, Bộ Công thương, Bộ Quốc phòng, Bộ Công an
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép vận chuyển hàng nguy hiểm trên đường bộ
+Căn cứ pháp lý:
+  * Quy định về Danh mục hàng hóa nguy hiểm, vận chuyển hàng hóa nguy hiểm và trình tự, thủ tục cấp giấy phép, cấp giấy chứng nhận hoàn thành chương trình tập huấn cho người lái xe hoặc người áp tải vận chuyển hàng hóa nguy hiểm trên đường bộ (161/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Đáp ứng các quy định tại Điều 9, Điều 10 và Điều 11 của Nghị định số 161/2024/NĐ-CP ngày 18/12/2024 của Chính phủ quy định về Danh mục hàng hóa nguy hiểm, vận chuyển hàng hóa nguy hiểm và trình tự, thủ tục cấp giấy phép, cấp giấy chứng nhận hoàn thành chương trình tập huấn cho người lái xe hoặc người áp tải vận chuyển hàng hóa nguy hiểm trên đường bộ
+Từ khóa: Không có thông tin
+Mô tả: Đáp ứng các quy định tại Điều 9, Điều 10 và Điều 11 của Nghị định số 161/2024/NĐ-CP ngày 18/12/2024 của Chính phủ quy định về Danh mục hàng hóa nguy hiểm, vận chuyển hàng hóa nguy hiểm và trình tự, thủ tục cấp giấy phép, cấp giấy chứng nhận hoàn thành chương trình tập huấn cho người lái xe hoặc người áp tải vận chuyển hàng hóa nguy hiểm trên đường bộ

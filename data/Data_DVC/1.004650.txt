@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004650
+Số quyết định: 190/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục tiếp nhận hồ sơ thông báo sản phẩm quảng cáo trên bảng quảng cáo, băng-rôn
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quảng cáo
+Trình tự thực hiện:
+    - Tổ chức, cá nhân có nhu cầu thực hiện quảng cáo trên bảng quảng cáo, băng-rôn tại địa phương gửi 01 bộ hồ sơ thông báo đến Sở Văn hóa, Thể thao và Du lịch/Sở Văn hóa và Thể thao trước khi thực hiện quảng cáo.
+    - Trong thời hạn 05 ngày làm việc, kể từ ngày Sở Văn hóa, Thể thao và Du lịch/Sở Văn hóa và Thể thao xác nhận về việc nhận hồ sơ, nếu không có ý kiến trả lời thì tổ chức, cá nhân được thực hiện sản phẩm quảng cáo đã thông báo. Trong trường hợp Sở Văn hóa, Thể thao và Du lịch/Sở Văn hóa và Thể thao không đồng ý, phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản phối cảnh vị trí đặt bảng quảng cáo;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao văn bản về việc tổ chức sự kiện của đơn vị tổ chức trong trường hợp quảng cáo cho sự kiện, chính sách xã hội;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Thông báo sản phẩm quảng cáo trên bảng quảng cáo, băng-rôn (Mẫu số 01 phụ lục III ban hành kèm theo Thông tư số13/2023/TT-BVHTTDL ngày 30/10/2023 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch sửa đổi, bổ sung quy định liên quan đến giấy tờ công dân tại một số Thông tư do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Ma-két sản phẩm quảng cáo in mầu có chữ ký của người kinh doanh dịch vụ quảng cáo hoặc chữ ký của người quảng cáo trong trường hợp tự thực hiện quảng cáo. Trong trường hợp người kinh doanh dịch vụ quảng cáo, người quảng cáo là tổ chức thì phải có dấu của tổ chức;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao giấy phép xây dựng công trình quảng cáo đối với loại bảng quảng cáo phải có giấy phép xây dựng theo quy định tại khoản 2 Điều 31 của Luật quảng cáo.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao giấy tờ chứng minh sự hợp chuẩn, hợp quy của sản phẩm, hàng hoá, dịch vụ theo quy định của pháp luật hoặc giấy tờ chứng minh đủ điều kiện để quảng cáo theo quy định tại Điều 20 của Luật quảng cáo;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Văn bản chứng minh quyền sở hữu hoặc quyền sử dụng bảng quảng cáo; quyền sở hữu hoặc quyền sử dụng địa điểm quảng cáo đối với băng-rôn;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch, Sở Văn hóa và Thể thao Thành phố Hà Nội
+Cơ quan có thẩm quyền: Sở Văn hóa, Thể thao và Du lịch, Sở Văn hóa và Thể thao Thành phố Hà Nội
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản trả lời (nếu không đồng ý)
+Căn cứ pháp lý:
+  * Luật 16/2012/QH13-Quảng cáo (16/2012/QH13)
+  * Thông tư của Bộ trưởng Bộ VHTTDL SĐBS quy định đến các giấy tờ công dân (13/2023/TT-BVHTTDL)
+  * NGHỊ ĐỊNH  QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT QUẢNG CÁO (342/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

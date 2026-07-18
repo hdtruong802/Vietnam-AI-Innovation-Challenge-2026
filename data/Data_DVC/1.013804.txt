@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013804
+Số quyết định: 2009/QĐ-BTP
+Tên thủ tục: Bổ nhiệm lại công chứng viên
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công chứng
+Trình tự thực hiện:
+    - Người có nguyện vọng bổ nhiệm lại công chứng viên theo quy định tại Điều 17 của Luật Công chứng lập 01 bộ hồ sơ và nộp trực tiếp hoặc qua dịch vụ bưu chính đến Sở Tư pháp nơi đã đề nghị miễn nhiệm công chứng viên hoặc trực tuyến trên Cổng dịch vụ công quốc gia; trường hợp bị miễn nhiệm công chứng viên theo quy định tại khoản 5 Điều 6 của Nghị định số 104/2025/NĐ-, người đề nghị bổ nhiệm lại công chứng viên lập 01 bộ hồ sơ và gửi trực tiếp hoặc qua dịch vụ bưu chính đến Sở Tư pháp nơi đề nghị miễn nhiệm hoặc trực tuyến trên Cổng dịch vụ công quốc gia.
+    - Sở Tư pháp có trách nhiệm kiểm tra hồ sơ, trong trường hợp cần thiết thì tiến hành xác minh tính hợp pháp của hồ sơ và có văn bản đề nghị Chủ tịch Ủy ban nhân dân cấp tỉnh bổ nhiệm lại công chứng viên kèm theo hồ sơ đề nghị bổ nhiệm lại đối với những trường hợp đủ tiêu chuẩn, điều kiện bổ nhiệm lại công chứng viên; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.
+    - Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định bổ nhiệm lại công chứng viên; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do cho Sở Tư pháp và người đề nghị bổ nhiệm lại công chứng viên. Người yêu cầu nhận kết quả tại Sở Tư pháp nơi mình nộp hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 500000 VNĐ (/hồ sơ)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 500000 VNĐ (/hồ sơ)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 500000 VNĐ (/hồ sơ)
+
+Thành phần hồ sơ:
+    - Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu hoặc bản sao điện tử các giấy tờ chứng minh đủ điều kiện bổ nhiệm lại quy định tại khoản 1 và khoản 2 Điều 17 của Luật Công chứng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị bổ nhiệm lại công chứng viên (Mẫu TP-CC-04 ban hành kèm theo Thông tư số 11/2025/TT-BTP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định bổ nhiệm lại công chứng viên
+Căn cứ pháp lý:
+  * Thông tư 05/2025/TT-BTP hướng dẫn Luật Công chứng do Bộ trưởng Bộ Tư pháp ban hành (05/2025/TT-BTP)
+  * Luật Công chứng năm 2024 (46/2024/QH15)
+  * Nghị định số 121/2025/NĐ-CP ngày 11/6/2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (121/2025/NĐ-CP)
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý, sử dụng phí công chứng; phí chứng thực bản sao từ bản chính, chứng thực chữ ký trong giấy tờ, văn bản; phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng; phí thẩm định điều kiện hoạt động Văn phòng công chứng; lệ phí cấp thẻ công chứng viên (257/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: - Người được miễn nhiệm công chứng viên do chuyển làm công việc khác theo quyết định của cơ quan có thẩm quyền được xem xét bổ nhiệm lại công chứng viên khi đáp ứng tiêu chuẩn quy định tại khoản 1 và khoản 2 Điều 10 của Luật Công chứng; trường hợp được miễn nhiệm công chứng viên theo nguyện vọng cá nhân thì được xem xét bổ nhiệm lại công chứng viên khi đáp ứng đủ tiêu chuẩn quy định tại Điều 10 của Luật Công chứng.
+- Người đã bị miễn nhiệm công chứng viên theo quy định tại khoản 2 Điều 16 của Luật Công chứng được xem xét bổ nhiệm lại công chứng viên khi đáp ứng đủ tiêu chuẩn quy định tại Điều 10 của Luật này, đã hết thời hạn 02 năm kể từ ngày quyết định miễn nhiệm công chứng viên có hiệu lực thi hành và lý do miễn nhiệm không còn, trừ các trường hợp không được bổ nhiệm lại .
+-  Người thuộc một trong các trường hợp sau đây thì không được bổ nhiệm lại công chứng viên:
++ Bị miễn nhiệm công chứng viên do bị kết án về tội phạm do vô ý mà chưa được xóa án tích; do bị kết án về tội phạm do cố ý, kể cả trường hợp đã được xóa án tích;
++ Bị miễn nhiệm công chứng viên do hành nghề công chứng khi chưa đủ điều kiện hành nghề công chứng hoặc trong thời gian bị tạm đình chỉ hành nghề công chứng;
++ Thuộc trường hợp không được bổ nhiệm công chứng viên theo quy định tại Điều 14 của Luật Công chứng tại thời điểm đề nghị bổ nhiệm lại công chứng viên.
+Từ khóa: Không có thông tin
+Mô tả: - Người được miễn nhiệm công chứng viên do chuyển làm công việc khác theo quyết định của cơ quan có thẩm quyền được xem xét bổ nhiệm lại công chứng viên khi đáp ứng tiêu chuẩn quy định tại khoản 1 và khoản 2 Điều 10 của Luật Công chứng; trường hợp được miễn nhiệm công chứng viên theo nguyện vọng cá nhân thì được xem xét bổ nhiệm lại công chứng viên khi đáp ứng đủ tiêu chuẩn quy định tại Điều 10 của Luật Công chứng.
+- Người đã bị miễn nhiệm công chứng viên theo quy định tại khoản 2 Điều 16 của Luật Công chứng được xem xét bổ nhiệm lại công chứng viên khi đáp ứng đủ tiêu chuẩn quy định tại Điều 10 của Luật này, đã hết thời hạn 02 năm kể từ ngày quyết định miễn nhiệm công chứng viên có hiệu lực thi hành và lý do miễn nhiệm không còn, trừ các trường hợp không được bổ nhiệm lại .
+-  Người thuộc một trong các trường hợp sau đây thì không được bổ nhiệm lại công chứng viên:
++ Bị miễn nhiệm công chứng viên do bị kết án về tội phạm do vô ý mà chưa được xóa án tích; do bị kết án về tội phạm do cố ý, kể cả trường hợp đã được xóa án tích;
++ Bị miễn nhiệm công chứng viên do hành nghề công chứng khi chưa đủ điều kiện hành nghề công chứng hoặc trong thời gian bị tạm đình chỉ hành nghề công chứng;
++ Thuộc trường hợp không được bổ nhiệm công chứng viên theo quy định tại Điều 14 của Luật Công chứng tại thời điểm đề nghị bổ nhiệm lại công chứng viên.

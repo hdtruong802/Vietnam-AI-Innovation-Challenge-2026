@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009539
+Số quyết định: 3169/QĐ-BTC
+Tên thủ tục: Thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán và tất toán tài sản của khách hàng của công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+  * Nộp hồ sơ
+    Bước 1: Công ty chứng khoán, chi nhánh công ty chứng khoán gửi quyết định giải thể, văn bản đề nghị rút Giấy phép thành lập và hoạt động kinh doanh chứng khoán đến Ủy ban Chứng khoán Nhà nước.
+    Bước 2: Ủy ban Chứng khoán Nhà nước (Bộ phận một cửa) tiếp nhận hồ sơ.
+    Bước 3: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban Chứng khoán Nhà nước xem xét tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ cần sửa đổi, bổ sung, Ủy ban Chứng khoán Nhà nước có văn bản gửi công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    Bước 4: Trong thời hạn 60 ngày kể từ ngày Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam hoàn thiện hồ sơ và gửi đến Ủy ban Chứng khoán Nhà nước.
+    Bước 5: Trong thời hạn 07 ngày làm việc kể từ ngày công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam hoàn thiện hồ sơ tại Bước 4, Ủy ban Chứng khoán Nhà nước ra quyết định chấm dứt mọi hoạt động kinh doanh được cấp phép của công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam để thực hiện thủ tục thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán.
+    Bước 6: Trong thời hạn 15 ngày kể từ ngày nhận được quyết định của Ủy ban Chứng khoán Nhà nước, công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam báo cáo Ủy ban Chứng khoán Nhà nước phương án xử lý tài khoản tự doanh, các hợp đồng đã ký với khách hàng còn hiệu lực.
+    Bước 7: Trong thời hạn 05 ngày làm việc kể từ ngày hoàn thành việc thực hiện theo phương án đăng ký, công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam báo cáo Ủy ban Chứng khoán Nhà nước kết quả xử lý hợp đồng đã ký với khách hàng.
+    Bước 8: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban Chứng khoán Nhà nước xem xét tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ cần sửa đổi, bổ sung, Ủy ban Chứng khoán Nhà nước có văn bản gửi công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    Bước 9: Trong thời hạn 60 ngày kể từ ngày Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty chứng khoán, chi nhánh công ty chứng khoán nước ngoài tại Việt Nam hoàn thiện hồ sơ và gửi đến Ủy ban Chứng khoán Nhà nước.
+    Bước 10: Trong thời hạn 07 ngày làm việc kể từ ngày Ủy ban Chứng khoán Nhà nước nhận được hồ sơ báo cáo, Ủy ban Chứng khoán Nhà nước ra quyết định thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tại Bước 7:  + Kết quả xử lý hợp đồng đã ký với khách hàng. + Các quyết định thu hồi Giấy chứng nhận thành viên của Sở giao dịch chứng khoán và Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tại Bước 6: Phương án xử lý tài khoản tự doanh, các hợp đồng đã ký với khách hàng còn hiệu lực.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ...Tài liệu được lập bằng tiếng nước ngoài phải được gửi kèm bản dịch chứng thực sang tiếng Việt bởi cơ quan có thẩm quyền; những tài liệu do cơ quan có thẩm quyền nước ngoài cấp hoặc xác nhận, phải được hợp pháp hóa lãnh sự trong thời hạn 06 tháng tính đến ngày cơ quan tiếp nhận hồ sơ, tài liệu báo cáo nhận được tài liệu.; Thành phần hồ sơ trong thủ tục hành chính này được miễn trừ trong trường hợp tài liệu đó đã được gửi tới Ủy ban Chứng khoán Nhà nước theo quy định về báo cáo và công bố thông tin.
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thu hồi Giấy phép thành lập và hoạt động kinh doanh chứng khoán, + Văn bản từ chối (nêu rõ lý do).
+Căn cứ pháp lý:
+  * Nghị định sửa đổi, bổ sung một số điều của Nghị định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chứng khoán (245/2025/NĐ-CP)
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

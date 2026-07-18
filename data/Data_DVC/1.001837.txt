@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001837
+Số quyết định: 3684/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục chấm dứt hoạt động của Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Du lịch
+Trình tự thực hiện:
+    - Doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài nộp hồ sơ chấm dứt hoạt động Văn phòng đại diện đến Sở Du lịch/Sở Văn hóa, Thể thao và Du lịch trong các trường hợp sau:
+    + Theo đề nghị của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài;
+    + Khi doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài chấm dứt hoạt động theo pháp luật của quốc gia, vùng lãnh thổ nơi doanh nghiệp đó thành lập hoặc đăng ký kinh doanh;
+    + Hết thời hạn hoạt động theo Giấy phép thành lập Văn phòng đại diện mà doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài không đề nghị gia hạn;
+    + Hết thời gian hoạt động theo Giấy phép thành lập Văn phòng đại diện mà không được Cơ quan cấp Giấy phép đồng ý gia hạn;
+    + Bị thu hồi Giấy phép thành lập Văn phòng đại diện theo quy định tại Điều 44 Nghị định số 07/2016/NĐ-CP ngày 25 tháng 01 năm 2016;
+    + Doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài, Văn phòng đại diện không còn đáp ứng một trong những điều kiện quy định tại Điều 7 Nghị định số 07/2016/NĐ-CP ngày 25 tháng 01 năm 2016.
+    - Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Du lịch/Sở Văn hóa, Thể thao và Du lịch kiểm tra và yêu cầu bổ sung nếu hồ sơ chưa đầy đủ, hợp lệ. Việc yêu cầu bổ sung hồ sơ được thực hiện tối đa một lần trong suốt quá trình giải quyết hồ sơ.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Du lịch/Sở Văn hóa, Thể thao và Du lịch có trách nhiệm công bố trên trang thông tin điện tử của mình về việc chấm dứt hoạt động của Văn phòng đại diện.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - (1) Thông báo về việc chấm dứt hoạt động Văn phòng đại diện (Mẫu TB Phụ lục ban hành kèm theo Thông tư số 11/2016/TT-BCT ngày 05 tháng 7 năm 2016) do đại diện có thẩm quyền của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài ký, trừ trường hợp quy định tại Khoản 5 Điều 35 Nghị định 07/2016/NĐ- CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (5) Bản chính Giấy phép thành lập Văn phòng đại diện
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đối với trường hợp Văn phòng đại diện chấm dứt hoạt động tại một tỉnh, thành phố trực thuộc Trung ương để chuyển địa điểm đặt trụ sở của Văn phòng đại diện đến một tỉnh, thành phố trực thuộc Trung ương khác, hồ sơ chấm dứt hoạt động Văn phòng đại diện chỉ bao gồm các thành phần hồ sơ số (1) và (5)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (4) Danh sách người lao động và quyền lợi tương ứng hiện hành của người lao động
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (2) Bản sao văn bản của Cơ quan cấp Giấy phép không gia hạn Giấy phép thành lập Văn phòng đại diện (đối với trường hợp hết thời gian hoạt động theo Giấy phép thành lập Văn phòng đại diện mà không được Cơ quan cấp Giấy phép đồng ý gia hạn) hoặc bản sao Quyết định thu hồi Giấy phép thành lập Văn phòng đại diện của Sở Du lịch/Sở Văn hóa, Thể thao và Du lịch (đối với trường hợp bị thu hồi Giấy phép)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (3) Danh sách chủ nợ và số nợ chưa thanh toán, gồm cả nợ thuế và nợ tiền đóng bảo hiểm xã hội
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo về việc chấm dứt hoạt động của Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài
+Căn cứ pháp lý:
+  * Luật 09/2017/QH14 (09/2017/QH14)
+  * Thông tư số 11/2016/TT-BCT (11/2016/TT-BCT)
+  * Nghị định số 07/2016/NĐ-CP (07/2016/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

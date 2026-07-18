@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008890
+Số quyết định: 1241/QĐ-BTP
+Tên thủ tục: Đăng ký hoạt động của Chi nhánh Trung tâm trọng tài; đăng ký hoạt động của Chi nhánh Trung tâm trọng tài khi thay đổi địa điểm đặt trụ sở sang tỉnh, thành phố trực thuộc trung ương khác
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trọng tài thương mại
+Trình tự thực hiện:
+  * a) Trường hợp đăng ký hoạt động của Chi nhánh Trung tâm trọng tài:
+    - Trong thời hạn 10 ngày làm việc kể từ ngày quyết định lập Chi nhánh, Trung tâm trọng tài gửi hồ sơ đăng ký hoạt động của Chi nhánh qua dịch vụ bưu chính hoặc trực tiếp đến Sở Tư pháp tỉnh, thành phố trực thuộc trung ương nơi Chi nhánh đặt trụ sở hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.
+    - Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, Sở Tư pháp có trách nhiệm cấp Giấy đăng ký hoạt động cho Chi nhánh.
+  * b) Trường hợp đăng ký hoạt động của Chi nhánh Trung tâm trọng tài khi thay đổi địa điểm đặt trụ sở sang tỉnh, thành phố trực thuộc trung ương khác:
+    - Chi nhánh gửi thông báo chuyển địa điểm trụ sở cho Sở Tư pháp nơi đặt trụ sở và gửi giấy đề nghị đăng ký hoạt động kèm theo bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính hoặc bản sao có chứng thực Giấy đăng ký hoạt động của Chi nhánh qua dịch vụ bưu chính hoặc trực tiếp đến Sở Tư pháp nơi Chi nhánh đặt trụ sở mới hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp tỉnh, thành phố trực thuộc trung ương nơi Chi nhánh đặt trụ sở mới cấp Giấy đăng ký hoạt động cho Chi nhánh; gửi thông báo cho Sở Tư pháp tỉnh, thành phố trực thuộc trung ương nơi Chi nhánh đặt trụ sở cũ; trường hợp từ chối thì phải thông báo lý do bằng văn bản. Chi nhánh bị từ chối cấp Giấy đăng ký hoạt động có quyền khiếu nại, khởi kiện theo quy định của pháp luật.
+    Kể từ thời điểm Chi nhánh được Sở Tư pháp tỉnh, thành phố trực thuộc trung ương nơi Chi nhánh đặt trụ sở mới cấp Giấy đăng ký hoạt động thì Giấy đăng ký hoạt động của Chi nhánh do Sở Tư pháp tỉnh, thành phố trực thuộc trung ương nơi Chi nhánh đặt trụ sở cũ cấp không còn giá trị pháp lý. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được thông báo cấp Giấy đăng ký hoạt động cho Chi nhánh của Sở Tư pháp tỉnh, thành phố trực thuộc trung ương nơi Chi nhánh đặt trụ sở mới, Sở Tư pháp tỉnh, thành phố trực thuộc trung ương nơi Chi nhánh trụ sở cũ ra quyết định hủy Giấy đăng ký hoạt động đã cấp và công bố trên Cổng thông tin điện tử của Sở Tư pháp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Áp dụng mức phí: 500.000 đồng (Năm trăm nghìn đồng) kể từ ngày 01/7/2025  đến hết ngày 31/12/2026 theo Thông tư số 64/2025/TT-BTC)
+    Mô tả: a) Trường hợp đăng ký hoạt động của Chi nhánh Trung tâm trọng tài: trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Áp dụng mức phí: 500.000 đồng (Năm trăm nghìn đồng) kể từ ngày 01/7/2025  đến hết ngày 31/12/2026 theo Thông tư số 64/2025/TT-BTC)
+    Mô tả: a) Trường hợp đăng ký hoạt động của Chi nhánh Trung tâm trọng tài: trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Áp dụng mức phí: 500.000 đồng (Năm trăm nghìn đồng) kể từ ngày 01/7/2025  đến hết ngày 31/12/2026 theo Thông tư số 64/2025/TT-BTC)
+    Mô tả: a) Trường hợp đăng ký hoạt động của Chi nhánh Trung tâm trọng tài: trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Áp dụng mức phí: 500.000 đồng (Năm trăm nghìn đồng) kể từ ngày 01/7/2025  đến hết ngày 31/12/2026 theo Thông tư số 64/2025/TT-BTC)
+    Mô tả: b) Trường hợp đăng ký hoạt động của Chi nhánh Trung tâm trọng tài khi thay đổi địa điểm đặt trụ sở sang tỉnh, thành phố trực thuộc trung ương khác: trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Áp dụng mức phí: 500.000 đồng (Năm trăm nghìn đồng) kể từ ngày 01/7/2025  đến hết ngày 31/12/2026 theo Thông tư số 64/2025/TT-BTC)
+    Mô tả: b) Trường hợp đăng ký hoạt động của Chi nhánh Trung tâm trọng tài khi thay đổi địa điểm đặt trụ sở sang tỉnh, thành phố trực thuộc trung ương khác: trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Áp dụng mức phí: 500.000 đồng (Năm trăm nghìn đồng) kể từ ngày 01/7/2025  đến hết ngày 31/12/2026 theo Thông tư số 64/2025/TT-BTC)
+    Mô tả: b) Trường hợp đăng ký hoạt động của Chi nhánh Trung tâm trọng tài khi thay đổi địa điểm đặt trụ sở sang tỉnh, thành phố trực thuộc trung ương khác: trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+  [ a) Trường hợp đăng ký hoạt động của Chi nhánh Trung tâm trọng tài: ]
+    - - Đơn đăng ký hoạt động Chi nhánh của Trung tâm trọng tài
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao điện tử Quyết định thành lập Chi nhánh của Trung tâm trọng tài.
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ b) Trường hợp đăng ký hoạt động của Chi nhánh Trung tâm trọng tài khi thay đổi địa điểm đặt trụ sở sang tỉnh, thành phố trực thuộc trung ương khác: ]
+    - Thông báo chuyển địa điểm trụ sở cho Sở Tư pháp nơi Chi nhánh đang đặt trụ sở;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đăng ký hoạt động Chi nhánh của Trung tâm trọng tài
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao kèm bản chính để đối chiếu hoặc bản sao điện tử hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính hoặc bản sao có chứng thực Giấy đăng ký hoạt động của Chi nhánh
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy đăng ký hoạt động của Chi nhánh Trung tâm trọng tài, Trường hợp đăng ký hoạt động của Chi nhánh Trung tâm trọng tài khi thay đổi địa điểm đặt trụ sở sang tỉnh, thành phố trực thuộc trung ương khác: Sở Tư pháp tỉnh, thành phố trực thuộc trung ương nơi Chi nhánh đặt trụ sở mới cấp Giấy đăng ký hoạt động cho Chi nhánh; Sở Tư pháp tỉnh, thành phố trực thuộc trung ương nơi Chi nhánh trụ sở cũ ra quyết định hủy Giấy đăng ký hoạt động đã cấp và công bố trên Cổng thông tin điện tử của Sở Tư pháp.
+Căn cứ pháp lý:
+  * Thông tư 222/2016/TT-BTC - Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định tiêu chuẩn, điều kiện hành nghề trong lĩnh vực trọng tài thương mại (222/2016/TT-BTC)
+  * Thông tư số 03/2024/TT-BTP ngày 15/5/2024 của Bộ trưởng Bộ Tư pháp sửa đổi, bổ sung 08 thông tư liên quan đến thủ tục hành chính trong lĩnh vực bổ trợ tư pháp. (03/2024/TT-BTP)
+  * Nghị định số 112/2025/NĐ-CP ngày 29/5/2025 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định thuộc lĩnh vực bổ trợ tư pháp (112/2025/NĐ-CP)
+  * Luật 54/2010/QH12 - Trọng tài thương mại (54/2010/QH12)
+  * Thông tư số 08/2025/TT-BTP ngày 12/6/2025 của Bộ trưởng Bộ Tư pháp quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp và phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (08/2025/TT-BTP)
+  * Nghị định sửa đổi, bổ sung một số nghị định để cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh  thuộc phạm vi quản lý của Bộ Tư pháp (18/2026/NĐ-CP)
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+  * Nghị định 63/2011/NĐ-CP - Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Trọng tài thương mại (63/2011/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

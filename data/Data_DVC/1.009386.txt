@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009386
+Số quyết định: 1122/QĐ-BVHTTDL
+Tên thủ tục: Văn bản chấp thuận thay đổi nội dung ghi trong giấy phép xuất bản bản tin
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Báo chí
+Trình tự thực hiện:
+    - Trường hợp thay đổi nội dung ghi trong giấy phép xuất bản bản tin, cơ quan, tổ chức gửi văn bản đề nghị đến Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền nơi cơ quan, tổ chức đặt trụ sở chính.
+    - Trong thời hạn 15 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh hoặc cơ quan chuyên môn cấp tỉnh được giao quyền có trách nhiệm xem xét giải quyết việc chấp thuận bằng văn bản; trường hợp không chấp thuận phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Văn bản chấp thuận thay đổi nội dung ghi trong giấy phép xuất bản bản tin (địa phương) ]
+    - Văn bản đề nghị thay đổi của cơ quan, tổ chức
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Sơ yếu lý lịch của người chịu trách nhiệm xuất bản bản tin đối với trường hợp thay đổi người chịu trách nhiệm xuất bản bản tin
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu trình bày tên gọi bản tin có xác nhận của cơ quan, tổ chức đề nghị cấp giấy phép và bản dịch tiếng Việt được công chứng đối với trường hợp thay đổi tên gọi bản tin thể hiện bằng tiếng nước ngoài
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận
+Căn cứ pháp lý:
+  * Luật báo chí (103/2016/QH13)
+  * Thông tư số 09/2026/TT-BVHTTDL ngày 29 tháng 4 năm 2026 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định về phân cấp thủ tục hành chính thuộc thẩm quyền của Bộ Văn hóa, Thể thao và Du lịch. (09/2026/TT-BVHTTDL)
+  * Thông tư 41/2020/TT-BTTTT (41/2020/TT-BTTTT)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

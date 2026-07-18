@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000616
+Số quyết định: 3440/QĐ-NHNN
+Tên thủ tục: Thủ tục cấp Giấy phép kinh doanh mua, bán vàng miếng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    - Bước 1: Doanh nghiệp, tổ chức tín dụng lập hồ sơ đề nghị cấp Giấy phép kinh doanh mua, bán vàng miếng theo quy định gửi Ngân hàng Nhà nước.
+    - Bước 2: Sau khi nhận được đầy đủ hồ sơ của doanh nghiệp, tổ chức tín dụng, Ngân hàng Nhà nước Việt Nam thông báo để Ngân hàng Nhà nước chi nhánh Khu vực trên địa bàn kiểm tra về giấy tờ pháp lý chứng minh quyền sở hữu hoặc quyền sử dụng hợp pháp địa điểm kinh doanh (đối với doanh nghiệp) và tình hình trang thiết bị cần thiết để triển khai hoạt động mua, bán vàng miếng tại địa điểm đăng ký làm địa điểm kinh doanh mua, bán vàng miếng. Trong thời hạn 7 (bảy) ngày làm việc kể từ ngày nhận được thông báo của Ngân hàng Nhà nước Việt Nam, Ngân hàng Nhà nước chi nhánh Khu vực báo cáo kết quả cho Ngân hàng Nhà nước Việt Nam (Cục Quản lý ngoại hối).
+    - Bước 3: Trong thời hạn 20 (hai mươi) ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định tại Điều 4 Thông tư số 34/2025/TT-NHNN, Ngân hàng Nhà nước Việt Nam xem xét cấp hoặc từ chối cấp (ghi rõ lý do) Giấy phép kinh doanh mua, bán vàng miếng theo mẫu tại Phụ lục số 15 ban hành kèm theo Thông tư số 34/2025/TT-NHNN.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - 4. Xác nhận của cơ quan thuế về số thuế đã nộp của hoạt động kinh doanh vàng trong 2 (hai) năm liền kề trước đó đối với doanh nghiệp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2. Danh sách các địa điểm đăng ký làm địa điểm kinh doanh mua, bán vàng miếng (trụ sở chính, chi nhánh, địa điểm kinh doanh).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3. Giấy chứng nhận đăng ký hoạt động chi nhánh (đối với doanh nghiệp); văn bản thể hiện địa điểm đăng ký làm địa điểm kinh doanh mua, bán vàng miếng theo danh sách tại khoản 2 Điều 4 Thông tư số 34/2025/TT-NHNN đã được thông báo tới cơ quan đăng ký kinh doanh có thẩm quyền theo quy định của pháp luật.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 1. Đơn đề nghị cấp Giấy phép kinh doanh mua, bán vàng miếng theo mẫu tại Phụ lục số 02 ban hành kèm theo Thông tư số 34/2025/TT-NHNN.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép kinh doanh mua, bán vàng miếng.
+Căn cứ pháp lý:
+  * Nghị định 24/2012/NĐ-CP (24/2012/NĐ-CP)
+  * Nghị định sửa đổi, bổ sung một số điều của Nghị định số 24/2012/NĐ-CP ngày 03 tháng 4 năm 2012 của Chính phủ về quản lý hoạt động kinh doanh vàng. (232/2025/NĐ-CP)
+  * Thông tư hướng dẫn một số điều của Nghị định số 24/2012/NĐ-CP ngày 03 tháng 4 năm 2012 của Chính phủ về quản lý hoạt động  kinh doanh vàng được sửa đổi, bổ sung bởi Nghị định số 232/2025/NĐ-CP (34/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013575
+Số quyết định: 1909/QĐ-BQP
+Tên thủ tục: Thủ tục cấp Giấy phép cho người Việt Nam và người nước ngoài xuống tàu thuyền nước ngoài; người nước ngoài xuống tàu thuyền Việt Nam neo đậu tại cảng để thực hiện các hoạt động báo chí, nghiên cứu khoa học, tham quan; người điều khiển phương tiện Việt Nam, nước ngoài cập mạn tàu thuyền nước ngoài; thuyền viên nước ngoài xin nghỉ qua đêm trên bờ, xuống các tàu thuyền khác đang neo đậu tại cảng
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý biên giới
+Trình tự thực hiện:
+    - Bước 1: Người đề nghị cấp Giấy phép hoặc đại diện cơ quan, doanh nghiệp chủ quản nộp và xuất trình cho Biên phòng cửa khẩu cảng các loại giấy theo quy định;
+    - Bước 2: Biên phòng cửa khẩu cảng tiếp nhận, kiểm tra các loại giấy tờ, cấp Giấy phép hoặc gửi văn bản nêu rõ lý do trong trường hợp từ chối cấp Giấy phép.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 20000 VNĐ (Người Việt Nam và người nước ngoài từ 16 tuổi trở lên xuống tàu thuyền nước ngoài: 20.000 đồng/Giấy phép (01 USD/Giấy phép);) | 10000 VNĐ (Người Việt Nam và nước ngoài dưới 16 tuổi xuống tàu thuyền nước ngoài: 10.000 đồng/Giấy phép (0,5 USD/Giấy phép);) | 20000 VNĐ (Người điều khiển phương tiện Việt Nam, nước ngoài cập mạn tàu thuyền nước ngoài: 20.000 đồng/Giấy phép) | 5 VNĐ (Đối với thuyền viên nghỉ qua đêm trên bờ: 05 USD/Giấy phép (trừ trường hợp được miễn lệ phí theo quy định của Bộ Tài chính);) | 30000 VNĐ (Đối với thuyền viên xuống tàu thuyền khác đang neo đậu tại cảng: 30.000 đồng/Giấy phép (1,5 USD/Giấy phép))
+    Mô tả: Người đề nghị cấp Giấy phép hoặc đại diện cơ quan, doanh nghiệp chủ quản nộp và xuất trình các loại giấy tờ tại trụ sở Biên phòng cửa khẩu cảng.
+
+Thành phần hồ sơ:
+  [ Thành phần hồ sơ phải nộp ]
+    - * Đối với cấp Giấy phép cho người Việt Nam và người nước ngoài xuống tàu thuyền nước ngoài; người nước ngoài xuống tàu thuyền Việt Nam neo đậu tại cảng để thực hiện các hoạt động báo chí, nghiên cứu khoa học, tham quan; người điều khiển phương tiện Việt Nam, nước ngoài cập mạn tàu thuyền nước ngoài: - Giấy giới thiệu hoặc công văn của cơ quan, doanh nghiệp chủ quản, giấy mời hoặc đơn đề nghị của thuyền trưởng; - Trường hợp cơ quan doanh nghiệp đề nghị cấp Giấy phép cho từ 02 người trở lên: 01 danh sách trích ngang của người đề nghị cấp Giấy phép nội dung gồm: Họ tên; quốc tịch; nơi sinh; ngày, tháng, năm sinh; chức vụ; số của Thẻ Căn cước hoặc Căn cước công dân hoặc hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế.
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ Thành phần hồ sơ phải xuất trình ]
+    - Đối với người nước ngoài: Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đối với người Việt Nam: Căn cước hoặc Căn cước công dân: Hành khác không phải xuất trình Căn cước hoặc Căn cước công dân nếu đơn vị Biên phòng cửa khẩu cảng kết nối, sử dụng được cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu căn cước công dân (Biên phòng cửa khẩu cảng tự tra cứu, kiểm tra); trường hợp đơn vị Biên phòng cửa khẩu cảng chưa kết nối, sử dụng được cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu căn cước công dân, hành khách có thể xuất trình Căn cước hoặc Căn cước công dân trên VNeiD hoặc bản cứng hoặc hộ chiếu hoặc giấy tờ có giá trị thay hộ chiếu
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Đội Thủ tục Biên phòng cửa khẩu cảng
+Cơ quan có thẩm quyền: Biên phòng cửa khẩu cảng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép do Biên phòng cửa khẩu cảng cấp
+Căn cứ pháp lý:
+  * Quy định về quản lý, bảo an ninh, trật tự tại cửa khẩu cảng (77/2017/NĐ-CP)
+  * Thông tư 138/2016/TT-BTC (138/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

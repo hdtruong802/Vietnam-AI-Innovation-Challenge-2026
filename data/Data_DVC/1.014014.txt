@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014014
+Số quyết định: 2527/QĐ-BKHCN
+Tên thủ tục: Hoàn trả mã, số viễn thông được phân bổ theo phương thức trực tiếp
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    1. Tổ chức, doanh nghiệp nộp hồ sơ đề nghị hoàn trả mã, số viễn thông được phân bổ theo phương thức trực tiếp; mã mạng di động H2H, số dịch vụ giải đáp thông tin, số dịch vụ tin nhắn ngắn được phân bổ theo phương thức đấu giá.
+    2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) thẩm định, ban hành quyết định về việc hoàn trả mã, số viễn thông theo Mẫu số 09 tại Phụ lục Phụ lục ban hành kèm theo Nghị định số 115/2025/NĐ-CP.
+    3. Trường hợp không chấp nhận việc hoàn trả mã, số viễn thông, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Viễn thông có văn bản thông báo và nêu rõ lý do không chấp nhận
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Bản sao giấy chứng nhận đăng ký doanh nghiệp hoặc giấy chứng nhận đăng ký đầu tư (đối với tổ chức, doanh nghiệp); bản sao thẻ căn cước công dân hoặc thẻ căn cước (đối với cá nhân) bao gồm bản sao được cấp từ sổ gốc hoặc bản được in từ các văn bản điện tử từ cơ sở dữ liệu quốc gia đối với trường hợp thông tin gốc được lưu trữ trên cơ sở dữ liệu quốc gia. Cơ quan tiếp nhận, giải quyết thủ tục hành chính có trách nhiệm chủ động khai thác, sử dụng thông tin đã có trong các cơ sở dữ liệu được cơ quan chủ quản cơ sở dữ liệu công bố để thay thế thành phần hồ sơ giải quyết thủ tục hành chính. Đối với căn cước công dân hoặc căn cước thì cơ quan giải quyết thủ tục hành chính thực hiện việc khai thác các thông tin, giấy tờ này từ Cơ sở dữ liệu quốc gia về dân cư. Trường hợp không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, chính xác thì cơ quan có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính gửi ngay văn bản để yêu cầu cá nhân, tổ chức bổ sung thành phần hồ sơ và nêu rõ lý do. Thời gian yêu cầu và bổ sung hồ sơ không tính vào thời hạn giải quyết thủ tục hành chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị hoàn trả mã số viễn thông theo Mẫu số 03 tại Phụ lục IV ban hành kèm theo Nghị định số 15/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Viễn thông
+Cơ quan có thẩm quyền: Cục Viễn thông
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về việc hoàn trả mã, số viễn thông mẫu 09
+Căn cứ pháp lý:
+  * Nghị quyết số 20/2026/NQ-CP ngày 29/4/2026 của Chính phủ ban hành Nghị quyết phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Nghị định số 115/2025/NĐ-CP ngày 03/6/2025 của Chính phủ quy định chi tiết một số điều của Luật Viễn thông về quản lý kho số viễn thông, tài nguyên Internet; việc bồi thường khi nhà nước thu hồi mã, số viễn thông, tài nguyên Internet; đấu giá quyền sử dụng mã, số viễn thông, tên miền quốc gia Việt Nam “.vn”. (115/2025/NĐ-CP)
+  * Quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ (133/2025/NĐ-CP)
+  * Sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quân lý nhà nước của Bộ Khoa học và Công nghệ (15/2026/NĐ-CP)
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

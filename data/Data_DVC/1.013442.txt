@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013442
+Số quyết định: 885/QĐ-BCA-C06
+Tên thủ tục: Khai báo vũ khí thô sơ là hiện vật trưng bày, triển lãm, làm đồ gia bảo
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo
+Trình tự thực hiện:
+    - Bước 1: Tổ chức, cá nhân sở hữu vũ khí thô sơ là hiện vật trưng bày, triển lãm, làm đồ gia bảo chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: Tổ chức, cá nhân nộp hồ sơ nộp trên Cổng dịch vụ công hoặc nộp tại Công an xã, phường, thị trấn nơi đặt trụ sở hoặc nơi cư trú.
+    Khi tiếp nhận hồ sơ, cơ quan có thẩm quyền kiểm tra tính pháp lý, nội dung hồ sơ:
+    + Trường hợp hồ sơ đạt yêu cầu: Cán bộ tiếp nhận hồ sơ trên Cổng dịch vụ công phải thông báo thời gian trả kết quả cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    Cán bộ tiếp nhận hồ sơ trực tiếp phải thông báo bằng văn bản thời gian trả kết quả cho cơ quan, tổ chức, doanh nghiệp đề nghị biết và nhập vào hệ thống phần mềm quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo.
+    + Trường hợp hồ sơ thiếu thủ tục: Cán bộ tiếp nhận hồ sơ trên Cổng dịch vụ công phải thông báo thủ tục còn thiếu cho cơ quan, tổ chức, doanh nghiệp đề nghị biết để bổ sung, hoàn thiện.
+    Cán bộ tiếp nhận hồ sơ trực tiếp phải trả hồ sơ hoặc thông báo bằng văn bản cho cơ quan, tổ chức, doanh nghiệp đề nghị để bổ sung, hoàn thiện hồ sơ.
+    + Hồ sơ không đạt yêu cầu: Cán bộ tiếp nhận hồ sơ nộp trên Cổng dịch vụ công không tiếp nhận và thông báo trả lời trên Cổng dịch vụ công lý do không tiếp nhận cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    Cán bộ tiếp nhận hồ sơ trực tiếp, không tiếp nhận và thông báo trả lời trực tiếp hoặc bằng văn bản, nêu rõ lý do không tiếp nhận cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    - Bước 4: Căn cứ theo ngày hẹn trên phiếu tiếp nhận hồ sơ và hẹn trả kết quả để nhận Thông báo xác nhận khai báo vũ khí thô sơ cho tổ chức, cá nhân sở hữu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Nộp hồ sơ trực tiếp tại Công an xã, phường, thị trấn nơi đặt trụ sở hoặc nơi cư trú. Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ, Công an xã, phường, thị trấn phải thông báo xác nhận khai báo vũ khí thô sơ cho tổ chức, cá nhân sở hữu.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Nộp hồ sơ trực tiếp tại Công an xã, phường, thị trấn nơi đặt trụ sở hoặc nơi cư trú. Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ, Công an xã, phường, thị trấn phải thông báo xác nhận khai báo vũ khí thô sơ cho tổ chức, cá nhân sở hữu.
+
+Thành phần hồ sơ:
+  [ Theo quy định tại Điều 31 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 ngày 29/6/2024), cụ thể: ]
+    - Tờ khai, trong đó ghi rõ họ tên, số định danh cá nhân hoặc số hộ chiếu của người đề nghị, lý do khai báo, số lượng, chủng loại, nhãn hiệu, số hiệu, ký hiệu vũ khí thô sơ (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài
+Cơ quan thực hiện: Công an cấp Xã
+Cơ quan có thẩm quyền: Công an cấp Xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo xác nhận khai báo vũ khí thô sơ
+Căn cứ pháp lý:
+  * Thông tư quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (75/2024/TT-BCA)
+  * Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (42/2024/QH15)
+  * Thông tư quy định về biểu mẫu và trình tự cấp giấy phép, thông báo đăng ký khai báo, chứng nhận, chứng chỉ về vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ; thông báo xác nhận khai báo vũ khí thô sơ (77/2024/TT-BCA)
+
+Yêu cầu, điều kiện thực hiện: Theo quy định tại khoản 1 Điều 31 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 ngày 29/6/2024), cụ thể:
+"1. Tổ chức, cá nhân sở hữu vũ khí thô sơ quy định tại điểm a khoản 4 Điều 2 của Luật này là hiện vật trưng bày, triển lãm, làm đồ gia bảo có trách nhiệm thực hiện việc khai báo.".
+Từ khóa: Không có thông tin
+Mô tả: Theo quy định tại khoản 1 Điều 31 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 ngày 29/6/2024), cụ thể:
+"1. Tổ chức, cá nhân sở hữu vũ khí thô sơ quy định tại điểm a khoản 4 Điều 2 của Luật này là hiện vật trưng bày, triển lãm, làm đồ gia bảo có trách nhiệm thực hiện việc khai báo.".

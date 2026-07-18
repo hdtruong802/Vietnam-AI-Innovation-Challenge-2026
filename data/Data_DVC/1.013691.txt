@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013691
+Số quyết định: 1260/QĐ-NHNN
+Tên thủ tục: Thủ tục Đề nghị dừng thử nghiệm và thu hồi Giấy chứng nhận tham gia Cơ chế thử nghiệm
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động thanh toán
+Trình tự thực hiện:
+    Bước 1:
+    (i) Đối với trường hợp quy định tại điểm b khoản 1 Điều 19 Nghị định 94/2025/NĐ-CP, Tổ chức tham gia Cơ chế thử nghiệm có Đơn đề nghị dừng thử nghiệm gửi Ngân hàng Nhà nước theo Mẫu số 07 Phụ lục I, báo cáo đánh giá kết quả thử nghiệm theo Phụ lục V ban hành kèm theo theo Nghị định 94/2025/NĐ-CP, kế hoạch dừng thử nghiệm gửi Ngân hàng Nhà nước.
+    (ii) Đối với trường hợp quy định tại điểm c khoản 1 Điều 19 Nghị định 94/2025/NĐ-CP, trong thời hạn 07 ngày làm việc kể từ ngày thông qua Quyết định giải thể doanh nghiệp theo quy định tại Luật Doanh nghiệp hoặc ngày nhận được Quyết định tuyên bố phá sản của Tòa án nhân dân theo quy định của pháp luật về phá sản, tổ chức tham gia Cơ chế thử nghiệm có Đơn đề nghị dừng thí nghiệm theo Mẫu số 07 Phụ lục I kèm theo Nghị định 94/2025/NĐ-CP gửi Ngân hàng Nhà nước.
+    Bước 2:
+    (ii) Đối với trường hợp quy định tại điểm b khoản 1 Điều 19 Nghị định 94/2025/NĐ-CP, trong thời hạn 25 ngày làm việc, Ngân hàng Nhà nước tiến hành xem xét, đánh giá toàn bộ quá trình thử nghiệm.
+    Trường hợp cần thiết, Ngân hàng Nhà nước có văn bản gửi lấy ý kiến tham gia góp ý của các bộ liên quan; trong thời hạn 10 ngày làm việc kể từ ngày nhận được đề nghị, các bộ liên quan gửi Ngân hàng Nhà nước văn bản tham gia ý kiến phối hợp.
+    Trường hợp hồ sơ cần giải trình, làm rõ, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức giải trình, hoàn thiện hồ sơ. Tổ chức đăng ký tham gia Cơ chế thử nghiệm được phép gửi giải trình và hoàn thiện hồ sơ 01 lần. Sau thời hạn 07 ngày làm việc kể từ ngày Ngân hàng Nhà nước có văn bản yêu cầu giải trình, hoàn thiện hồ sơ mà tổ chức không gửi lại văn bản giải trình, hoàn thiện hồ sơ thì Ngân hàng Nhà nước quyết định việc dừng thử nghiệm và thu hồi Giấy chứng nhận tham gia Cơ chế thử nghiệm.
+    Trường hợp tổ chức có văn bản giải trình, hoàn thiện hồ sơ thì căn cứ quá trình giám sát, theo dõi thử nghiệm và ý kiến tham gia góp ý của các bộ liên quan (nếu có), Ngân hàng Nhà nước quyết định việc dừng thử nghiệm và thu hồi Giấy chứng nhận tham gia Cơ chế thử nghiệm. Thời gian giải trình, hoàn thiện hồ sơ không tính vào thời gian xử lý hồ sơ.
+    (ii) Đối với trường hợp quy định tại điểm c khoản 1 Điều 19 Nghị định 94/2025/NĐ-CP, trong thời hạn 10 ngày làm việc kể từ ngày nhận được Đơn đề nghị dừng thử nghiệm của tổ chức, Ngân hàng Nhà nước quyết định việc dừng thử nghiệm và thu hồi Giấy chứng nhận tham gia Cơ chế thử nghiệm;
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ * Đối với trường hợp quy định tại điểm b khoản 1 Điều 19 Nghị định 94/2025/NĐ-CP: ]
+    - + Đơn đề nghị cấp dừng thử nghiệm theo Mẫu số 07 Phụ lục I ban hành kèm theo Nghị định 94/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo đánh giá kết quả thử nghiệm theo Phụ lục V ban hành kèm theo Nghị định 94/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Kế hoạch dừng thử nghiệm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Đối với trường hợp quy định tại điểm c khoản 1 Điều 19 Nghị định 94/2025/NĐ-CP ]
+    - Đơn đề nghị dừng thử nghiệm theo Mẫu số 07 Phụ lục I ban hành kèm theo Nghị định 94/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Tổ chức nước ngoài
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam, Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định dừng thử nghiệm và thu hồi Giấy chứng nhận hoàn thành thử nghiệm.
+Căn cứ pháp lý:
+  * Nghị định số 94/2025/NĐ-CP ngày 29 tháng 4 năm 2025 của Chính phủ quy định về Cơ chế thử nghiệm có kiểm soát trong lĩnh vực ngân hàng. (94/2025/NĐ-CP)
+  * quy định về phân cấp trong thực hiện thủ tục hành chính quy định tại Nghị định số 94/2025/NĐ-CP của Chính phủ quy định về Cơ chế thử nghiệm có kiểm soát trong lĩnh vực ngân hàng (19/2026/TT-NHNN)
+  * Nghị quyết về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (Nghị quyết số 24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

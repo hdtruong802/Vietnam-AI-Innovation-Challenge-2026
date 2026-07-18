@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003050
+Số quyết định: 2628/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với nguyên liệu nhập khẩu để gia công xuất khẩu xăng dầu, khí
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp gửi hồ sơ đề nghị làm thủ tục hải quan đối với nguyên liệu nhập khẩu để gia công xuất khẩu xăng dầu, khí.
+    Bước 2: Trong thời hạn bảy làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Chi cục Hải quan thực hiện: Kiểm tra hồ sơ; kiểm tra danh mục, điều kiện nhập khẩu. Nếu phù hợp thì chấp nhận danh mục, không phù hợp thì yêu cầu sửa đổi, bổ sung cho người khai hải quan bằng phiếu yêu cầu nghiệp vụ.
+    Bước 3: Doanh nghiệp đăng ký tờ khai hải quan nhập khẩu trên tờ khai nhập khẩu và thống nhất với nguyên liệu vật tư trong danh mục đã được cơ quan hải quan chấp nhận.
+    Bước 4: Cơ quan hải quan tiếp nhận hồ sơ; kiểm tra điều kiện và đăng ký tờ khai hải quan; kiểm tra hồ sơ  hoặc hàng hoá và thông quan
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Đối với trường hợp đơn vị Hải quan làm thủ tục xuất khẩu sản phẩm không phải là đơn vị Hải quan làm thủ tục nhập khẩu nguyên vật liệu thì trước khi nộp hồ sơ để đăng ký tờ khai xuất khẩu phải có bản “Đăng ký Chi cục Hải quan làm thủ tục xuất khẩu sản phẩm NSXXK” của doanh nhiệp. ]
+    - Hợp đồng mua bán hàng hóa hoặc các giấy tờ có giá trị pháp lý tương đương hợp đồng: nộp 01 bản sao; hợp đồng uỷ thác xuất khẩu (nếu xuất khẩu uỷ thác): nộp 01 bản sao
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tuỳ trường hợp cụ thể dưới đây, người khai hải quan nộp thêm, xuất trình các chứng từ sau:            + Bản kê chi tiết hàng hoá đối với trường hợp hàng hoá có nhiều chủng loại hoặc đóng gói không đồng nhất: nộp 01 bản chính;            + Giấy phép xuất khẩu đối với hàng hóa phải có giấy phép xuất khẩu theo quy định của pháp luật: nộp 01 bản chính nếu xuất khẩu một lần hoặc bản sao khi xuất khẩu nhiều lần và phải xuất trình bản chính để đối chiếu, lập phiếu theo dõi trừ lùi;            + Các chứng từ khác có liên quan theo quy định của pháp luật: nộp 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai hải quan;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận hoàn thành thủ tục hải quan
+Căn cứ pháp lý:
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

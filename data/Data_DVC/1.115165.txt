@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115165
+Số quyết định: 2669/QĐ-BKHCN
+Tên thủ tục: Công bố năng lực đào tạo
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+    Bước 1: Cơ sở đào tạo có nhu cầu đào tạo về tư vấn, đánh giá Hệ thống quản lý chất lượng cho chuyên gia tư vấn, đánh giá, lập 01 bộ hồ sơ công bố năng lực gửi đến cơ quan được giao tiếp nhận hồ sơ tại tỉnh, thành phố nơi cơ sở đào tạo đặt địa chỉ trụ sở chính.
+    Bước 2: Cơ quan được giao tiếp nhận hồ sơ, xem xét, xử lý theo quy định:
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ công bố hợp lệ, cơ quan được giao tiếp nhận hồ sơ chịu trách nhiệm ghi nhận việc tiếp nhận hồ sơ công bố năng lực trên Bản công bố năng lực của cơ sở đào tạo.
+    Trường hợp hồ sơ được nộp, tiếp nhận, xử lý trên môi trường điện tử thì việc ghi nhận được thực hiện bằng hình thức điện tử trên hệ thống thông tin tiếp nhận, xử lý hồ sơ hoặc trên bản điện tử của Bản công bố năng lực.
+    - Trường hợp không ghi nhận, tổ chức được thông báo lý do bằng văn bản.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp tới Trung tâm phục vụ hành chính công cấp tỉnh
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: thông qua Cổng dịch vụ công quốc gia
+(https://dichvucong.gov.vn)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp thông qua dịch vụ bưu chính tới Trung tâm phục vụ hành chính công cấp tỉnh
+
+Thành phần hồ sơ:
+    - Bản công bố năng lực đào tạo theo Mẫu số 02 tại Phụ lục ban hành kèm theo Thông tư số 22/2026/TT-BKHCN
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu về việc áp dụng Hệ thống quản lý chất lượng theo Tiêu chuẩn quốc gia TCVN ISO 9001 đối với phạm vi đào tạo
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Kế hoạch đào tạo và 01 bộ giáo trình đào tạo được biên soạn phù hợp với quy định tại Điều 29 hoặc Điều 30 Thông tư số 26/2014/TT-BKHCN, được sửa đổi, bổ sung bởi khoản 5, khoản 6 Điều 3 Thông tư số 22/2026/TT-BKHCN, đã được Người đứng đầu cơ sở đào tạo phê duyệt
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bản công bố năng lực đào tạo được cơ quan được giao tiếp nhận hồ sơ ghi nhận (Mẫu số 02 tại Phụ lục ban hành kèm theo Thông tư số 22/2026/TT-BKHCN)
+Căn cứ pháp lý:
+  * Nghị quyết số 20/2026/NQ-CP ngày 29/4/2026 của Chính phủ ban hành Nghị quyết phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Quy định chi tiết thi hành Quyết định số 19/2014/QĐ-TTg ngày 05 tháng 3 năm 2014 của Thủ tướng Chính phủ về việc áp dụng Hệ thống quản lý chất lượng theo Tiêu chuẩn quốc gia TCVN ISO 9001:2008 vào hoạt động của các cơ quan, tổ chức thuộc hệ thống hành chính nhà nước (26/2014/TT-BKHCN)
+  * Về việc áp dụng Hệ thống quản lý chất lượng theo Tiêu chuẩn quốc gia TCVN ISO 9001:2008 vào hoạt động của các cơ quan, tổ chức thuộc hệ thống hành chính nhà nước (19/2014/QĐ-TTg)
+  * sửa đổi, bổ sung một số thông tư trong lĩnh vực tiêu chuẩn đo lường chất lượng để thực hiện cắt giảm, đơn giản hóa thủ tục hành chính và phù hợp với pháp luật về đầu tư kinh doanh (22/2026/TT-BKHCN)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

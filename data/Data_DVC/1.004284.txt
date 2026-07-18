@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004284
+Số quyết định: 569/QĐ-BXD
+Tên thủ tục: Công bố mở cảng cạn 
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Chủ đầu tư gửi hồ sơ đề nghị mở cảng cạn đến Cục Hàng hải và Đường thủy Việt Nam.
+    b) Giải quyết TTHC:
+    - Cục Hàng hải và Đường thủy Việt Nam tiếp nhận hồ sơ. Trường hợp hồ sơ
+    chưa hợp lệ hoặc cơ quan giải quyết thủ tục hành chính không khai thác được
+    thông tin hoặc thông tin khai thác được trên Cơ sở dữ liệu quốc gia về đất đai
+    không đầy đủ, không chính xác, chậm nhất 02 ngày làm việc kể từ ngày nhận hồ
+    sơ Cục Hàng hải và Đường thủy Việt Nam có văn bản gửi chủ đầu tư qua hệ thống
+    bưu chính hoặc trực tuyến trên Cổng Dịch vụ công quốc gia, nêu rõ lý do và yêu
+    cầu bổ sung, hoàn thiện hồ sơ, nộp bản sao hoặc bản sao điện tử các giấy tờ hợp
+    pháp theo quy định.
+    Trường hợp hồ sơ hợp lệ, chậm nhất 04 ngày làm việc kể từ khi nhận đủ hồ
+    sơ, Cục Hàng hải và Đường thủy Việt Nam thẩm định và có văn bản đề nghị Bộ
+    Xây dựng công bố mở cảng cạn theo quy định.
+    - Trong thời hạn 02 ngày làm việc kể từ ngày nhận được văn bản của Cục
+    Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng quyết định công bố mở cảng
+    cạn theo mẫu và gửi đến chủ đầu tư qua hệ thống bưu chính hoặc trực tuyến trên
+    Cổng Dịch vụ công quốc gia; trường hợp không chấp thuận phải có văn bản trả
+    lời chủ đầu tư và nêu rõ lý do. Quyết định công bố mở cảng cạn được trả bằng
+    bản giấy và bản điện tử và có giá trị pháp lý như nhau
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản sao hoặc bản sao điện tử Biên bản nghiệm thu hoàn thành đưa công trình cảng cạn vào sử dụng kèm theo bản vẽ mặt bằng hoàn công các công trình chủ yếu quy định tại khoản 2 Điều 7 Nghị định số 106/2026/NĐ-CP ngày 31/3/2026 của Chính phủ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao chụp có chứng thực Văn bản nghiệm thu về phòng cháy và chữa cháy theo quy định
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao hoặc bản sao điện tử Quyết định phê duyệt dự án đầu tư xây dựng cảng cạn được cấp có thẩm quyền phê duyệt theo quy định của pháp luật hoặc bản sao hoặc bản sao điện tử văn bản hoặc Quyết định công nhận địa điểm thông quan hàng hóa xuất khẩu, nhập khẩu của cơ quan có thẩm quyền (đối với trường hợp công bố địa điểm làm thủ tục hải quan thành cảng cạn)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao hoặc bản sao điện tử Quyết định phê duyệt báo cáo đánh giá tác động môi trường của Dự án theo quy định
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao hoặc bản sao điện tử các giấy tờ hợp pháp chứng minh về quyền sử dụng đất theo quy định. Tổ chức, cá nhân không phải nộp các giấy tờ hợp pháp chứng minh về quyền sử dụng đất khi cơ quan giải quyết thủ tục hành chính khai thác được thông tin trên Cơ sở dữ liệu quốc gia
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tờ khai về việc mở cảng cạn theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng
+Cơ quan có thẩm quyền: Bộ Xây dựng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công bố mở cảng cạn
+Căn cứ pháp lý:
+  * Bộ luật Hàng hải Việt Nam (95/2015/QH13)
+  * Về đầu tư xây dựng, quản lý khai thác cảng cạn (38/2017/NĐ-CP)
+  * Quyết định (461/QĐ-BXD)
+  * Nghị định này quy định chi tiết về đầu tư xây dựng, quản lý khai thác cảng cạn. (106/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

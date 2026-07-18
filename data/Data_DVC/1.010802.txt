@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010802
+Số quyết định: 556/QĐ-BNV
+Tên thủ tục: Giải quyết chế độ ưu đãi đối với vợ hoặc chồng liệt sĩ lấy chồng hoặc vợ khác
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    Bước 1: Cá nhân làm đơn đề nghị theo Mẫu số 17 Phụ lục I Nghị định số 131/2021/NĐ-CP kèm một trong các giấy tờ theo quy định tại khoản 1 Điều 27 Nghị định số 131/2021/NĐ-CP gửi trên Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công.
+    Bước 2: Sở Nội vụ nơi cá nhân thường trú trong thời gian 10 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm ban hành quyết định trợ cấp tuất hằng tháng đối với vợ hoặc chồng của liệt sĩ đã lấy chồng hoặc vợ khác theo Mẫu số 54 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+    Trường hợp hồ sơ của liệt sĩ do địa phương khác quản lý thì Sở Nội vụ nơi thường trú có văn bản đề nghị Sở Nội vụ nơi quản lý hồ sơ gốc cung cấp bản trích lục hồ sơ liệt sĩ kèm văn bản xác nhận chưa giải quyết chế độ trợ cấp ưu đãi.
+    Bước 3: Sở Nội vụ nơi quản lý hồ sơ gốc trong thời gian 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị, có trách nhiệm cung cấp bản trích lục hồ sơ liệt sĩ theo Mẫu số 95 Phụ lục I Nghị định số 131/2021/NĐ-CP kèm văn bản xác nhận chưa giải quyết chế độ trợ cấp ưu đãi.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. - 10 ngày làm việc kể từ ngày nhận đủ giấy tờ đối với trường hợp Sở Nội vụ nơi thường trú của cá nhân đồng thời là Sở Nội vụ nơi quản lý hồ sơ gốc liệt sĩ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công.- 15 ngày làm việc kể từ ngày nhận đủ giấy tờ đối với trường hợp Sở Nội vụ nơi thường trú của cá nhân không phải là Sở Nội vụ nơi quản lý hồ sơ gốc liệt sĩ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. - 10 ngày làm việc kể từ ngày nhận đủ giấy tờ đối với trường hợp Sở Nội vụ nơi thường trú của cá nhân đồng thời là Sở Nội vụ nơi quản lý hồ sơ gốc liệt sĩ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. - 10 ngày làm việc kể từ ngày nhận đủ giấy tờ đối với trường hợp Sở Nội vụ nơi thường trú của cá nhân đồng thời là Sở Nội vụ nơi quản lý hồ sơ gốc liệt sĩ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công.- 15 ngày làm việc kể từ ngày nhận đủ giấy tờ đối với trường hợp Sở Nội vụ nơi thường trú của cá nhân không phải là Sở Nội vụ nơi quản lý hồ sơ gốc liệt sĩ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công.- 15 ngày làm việc kể từ ngày nhận đủ giấy tờ đối với trường hợp Sở Nội vụ nơi thường trú của cá nhân không phải là Sở Nội vụ nơi quản lý hồ sơ gốc liệt sĩ.
+
+Thành phần hồ sơ:
+    - - Trường hợp không chăm sóc được bố, mẹ liệt sĩ khi còn sống: + Các Biên bản đồng thuận của thân nhân liệt sĩ hoặc của những người thuộc hàng thừa kế thứ hai hoặc thứ ba của liệt sĩ.  + Một trong các giấy tờ chứng minh lý do không chăm sóc được bố, mẹ liệt sĩ vì hoạt động cách mạng: lý lịch cán bộ; lý lịch đảng viên; lý lịch quân nhân; hồ sơ bảo hiểm xã hội; các giấy tờ, tài liệu khác do cơ quan có thẩm quyền ban hành, xác nhận trong thời gian tham gia cách mạng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Trường hợp chăm sóc bố, mẹ liệt sĩ khi còn sống: + Văn bản xác nhận của Ủy ban nhân dân cấp xã nơi bố, mẹ liệt sĩ thường trú khi còn sống + Biên bản họp đồng thuận của thân nhân liệt sĩ hoặc của những người thuộc hàng thừa kế thứ hai của liệt sĩ quy định tại điểm b khoản 1 Điều 651 Bộ luật Dân sự (ông nội, bà nội, ông ngoại, bà ngoại, anh ruột, chị ruột, em ruột của liệt sĩ; cháu ruột của liệt sĩ mà người chết là ông nội, bà nội, ông ngoại, bà ngoại) có xác nhận của Ủy ban nhân dân cấp xã nơi lập biên bản theo Mẫu số 80. + Biên bản họp đồng thuận của thân nhân liệt sĩ hoặc của những người thuộc hàng thừa kế thứ ba của liệt sĩ quy định tại điểm c khoản 1 Điều 651 Bộ luật Dân sự (cụ nội, cụ ngoại của người chết; bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột của liệt sĩ; cháu ruột của người chết mà liệt sĩ là bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; chắt ruột của liệt sĩ mà liệt sĩ là cụ nội, cụ ngoại) nếu những người thuộc hàng thừa kế thứ hai của liệt sĩ không còn. + Văn bản đồng thuận có xác nhận về chữ ký và nơi thường trú của Ủy ban nhân dân cấp xã của những thành viên vắng mặt không dự họp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị Mẫu số 17 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Trường hợp nuôi con liệt sĩ đến tuổi trưởng thành: Văn bản đồng thuận của con liệt sĩ có xác nhận về chữ ký và nơi thường trú của Ủy ban nhân dân cấp xã.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Nội vụ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về việc trợ cấp tuất hằng tháng đối với vợ hoặc chồng liệt sĩ đã lấy chồng hoặc vợ khác
+Căn cứ pháp lý:
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+  * QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THI HÀNH PHÁP LỆNH ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Nghị định số 131/2021/NĐ-CP)
+  * ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Pháp lệnh số: 02/2020/UBTVQH14)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

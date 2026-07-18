@@ -1,0 +1,40 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001003
+Số quyết định: 1507/QĐ-BCT
+Tên thủ tục: Phê duyệt điều chỉnh, thay đổi nội dung đề án thực hiện Chương trình cấp quốc gia về xúc tiến thương mại
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xúc tiến thương mại
+Trình tự thực hiện:
+    Trường hợp điều chỉnh, thay đổi nội dung thực hiện của đề án đã được phê duyệt, tối thiểu 07 ngày làm việc trước ngày đầu tiên diễn ra hoạt động xúc tiến thương mại theo quyết định phê duyệt, đơn vị chủ trì phải có văn bản gửi Bộ Công Thương đề nghị điều chỉnh, thay đổi nội dung thực hiện đề án
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong vòng 06 ngày làm việc kể từ ngày nhận được văn bản đề xuất điều chỉnh, thay đổi nội dung thực hiện đề án (căn cứ theo ngày nhận ghi trên vận đơn bưu chính hoặc các hình thức có giá trị tương đương trong trường hợp gửi qua dịch vụ bưu chính, căn cứ theo ngày ghi nhận trên hệ thống trong trường hợp nộp trực tuyến tại Cổng dịch vụ công quốc gia), Bộ Công Thương xem xét, ban hành văn bản đồng ý hoặc không đồng ý về việc điều chỉnh, thay đổi nội dung thực hiện đề án.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong vòng 06 ngày làm việc kể từ ngày nhận được văn bản đề xuất điều chỉnh, thay đổi nội dung thực hiện đề án (căn cứ theo ngày nhận ghi trên vận đơn bưu chính hoặc các hình thức có giá trị tương đương trong trường hợp gửi qua dịch vụ bưu chính, căn cứ theo ngày ghi nhận trên hệ thống trong trường hợp nộp trực tuyến tại Cổng dịch vụ công quốc gia), Bộ Công Thương xem xét, ban hành văn bản đồng ý hoặc không đồng ý về việc điều chỉnh, thay đổi nội dung thực hiện đề án.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị điều chỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản phê duyệt điều chỉnh, thay đổi nội dung đề án thực hiện Chương trình cấp quốc gia về xúc tiến thương mại, Văn bản không phê duyệt điều chỉnh, thay đổi nội dung đề án thực hiện Chương trình cấp quốc gia về xúc tiến thương mại
+Căn cứ pháp lý:
+  * Quy định chi tiết Luật Quản lý ngoại thương về một số biện pháp phát triển ngoại thương (28/2018/NĐ-CP)
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Nghị định số 230/2026/NĐ-CP ngày 25/6/2026 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 28/2018/NĐ-CP ngày 01/3/2018 của Chính phủ quy định chi tiết Luật quản lý ngoại thương về một số biện pháp phát triển ngoại thương đã được sửa đổi, bổ sung theo Nghị định số 14/2024/NĐ-CP ngày 07/02/2024 của Chính phủ; (230/2026/NĐ-CP)
+  * Nghị định số 230/2026/NĐ-CP ngày 25/6/2026 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 28/2018/NĐ-CP ngày 01/3/2018 của Chính phủ quy định chi tiết Luật quản lý ngoại thương về một số biện pháp phát triển ngoại thương đã được sửa đổi, bổ sung theo Nghị định số 14/2024/NĐ-CP ngày 07/02/2024 của Chính phủ; (230/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không quy định
+Từ khóa: Không có thông tin
+Mô tả: Không quy định

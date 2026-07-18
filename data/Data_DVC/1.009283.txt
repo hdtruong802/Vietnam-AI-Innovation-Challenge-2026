@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009283
+Số quyết định: 1940/QĐ-BTP
+Tên thủ tục: Chấm dứt hoạt động của chi nhánh, văn phòng đại diện của tổ chức hòa giải thương mại nước ngoài tại Việt Nam trong trường hợp chi nhánh, văn phòng đại diện chấm dứt hoạt động theo quyết định của tổ chức hòa giải thương mại nước ngoài hoặc tổ chức hòa giải thương mại nước ngoài thành lập chi nhánh, văn phòng đại diện tại Việt Nam chấm dứt hoạt động ở nước ngoài (cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hòa giải thương mại
+Trình tự thực hiện:
+    - Trường hợp chi nhánh, văn phòng đại diện chấm dứt hoạt động theo quyết định của tổ chức hòa giải thương mại nước ngoài hoặc tổ chức hòa giải thương mại nước ngoài thành lập chi nhánh, văn phòng đại diện tại Việt Nam chấm dứt hoạt động thì chậm nhất 30 ngày trước ngày chấm dứt hoạt động, chi nhánh, văn phòng đại diện thông báo bằng văn bản về việc chấm dứt hoạt động cho Sở Tư pháp tỉnh, thành phố trực thuộc Trung ương nơi chi nhánh đặt trụ sở.
+    - Trong thời hạn 60 ngày kể từ ngày chấm dứt hoạt động, chi nhánh, văn phòng đại diện thanh toán xong các khoản nợ, nghĩa vụ tài sản khác; thanh lý các hợp đồng lao động; hoàn tất các vụ việc đã nhận đối với chi nhánh, trừ trường hợp có thỏa thuận khác.
+    .        - Trong thời hạn 10 ngày kể từ ngày hoàn tất các thủ tục nêu trên, chi nhánh, văn phòng đại diện gửi báo cáo qua dịch vụ bưu chính hoặc trực tiếp đến Sở Tư pháp nơi chi nhánh, văn phòng đại diện đặt trụ sở hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.
+    - Trong thời hạn 07 ngày kể từ ngày nhận được báo cáo của chi nhánh, văn phòng đại diện, Sở Tư pháp trình Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương xem xét, quyết định thu hồi Giấy phép thành lập của chi nhánh, văn phòng đại diện; Sở Tư pháp quyết định thu hồi Giấy đăng ký hoạt động của chi nhánh.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Báo cáo về việc thanh toán xong các khoản nợ, nghĩa vụ tài sản khác, thanh lý các hợp đồng lao động, hoàn tất các vụ việc đã nhận
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông báo về việc chấm dứt hoạt động của chi nhánh, văn phòng đại diện của tổ chức hòa giải thương mại nước ngoài tại Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài
+Cơ quan thực hiện: Chủ tịch ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thu hồi Giấy phép thành lập của chi nhánh, văn phòng đại diện của tổ chức hòa giải thương mại nước ngoài tại Việt Nam, Quyết định thu hồi Giấy đăng ký hoạt động của chi nhánh, văn phòng đại diện của tổ chức hòa giải thương mại nước ngoài tại Việt Nam
+Căn cứ pháp lý:
+  * Thông tư 11/2025/TT-BTP ngày 25/6/2025 của Bộ Tư pháp sửa đổi, bổ sung, bãi bỏ một số điều của các Thông tư thuộc lĩnh vực quản lý Nhà nước của Bộ Tư pháp (11/2025/TT-BTP)
+  * Thông tư số 03/2024/TT-BTP ngày 15/5/2024 của Bộ trưởng Bộ Tư pháp sửa đổi, bổ sung 08 thông tư liên quan đến thủ tục hành chính trong lĩnh vực bổ trợ tư pháp. (03/2024/TT-BTP)
+  * Nghị định số 112/2025/NĐ-CP ngày 29/5/2025 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định thuộc lĩnh vực bổ trợ tư pháp (112/2025/NĐ-CP)
+  * ban hành và hướng dẫn sử dụng một số biểu mẫu về tổ chức và hoạt động hòa giải thương mại (Thông tư 02/2018/TT-BTP)
+  * Nghị định 122/2017/NĐ-CP (122/2017/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Trong thời hạn 60 ngày, kể từ ngày quyết định chấm dứt hoạt động, chi nhánh, thanh toán xong các khoản nợ, nghĩa vụ tài sản khác, thanh lý các hợp đồng lao động, hoàn tất các vụ việc đã nhận, trừ trường hợp có thỏa thuận khác.
+Từ khóa: Không có thông tin
+Mô tả: Trong thời hạn 60 ngày, kể từ ngày quyết định chấm dứt hoạt động, chi nhánh, thanh toán xong các khoản nợ, nghĩa vụ tài sản khác, thanh lý các hợp đồng lao động, hoàn tất các vụ việc đã nhận, trừ trường hợp có thỏa thuận khác.

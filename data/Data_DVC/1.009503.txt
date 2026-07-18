@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009503
+Số quyết định: 3169/QĐ-BTC
+Tên thủ tục: Điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ đóng, quỹ đầu tư bất động sản do tăng vốn
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+    Bước 1: Trong thời hạn 10 ngày sau khi hoàn thành đợt chào bán để tăng vốn, công ty quản lý quỹ đầu tư chứng khoán nộp hồ sơ đề nghị điều chỉnh Giấy chứng nhận đăng ký lậpquỹ đóng, quỹ đầu tư bất động sản (được tổ chức và hoạt động theo hình thức quỹ đóng) đến UBCKNN.
+    Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+    Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 ngày làm việc, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung
+    Bước 4: Trong thời hạn 60 ngày kể từ ngày UBCKNN có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty quản lý quỹ đầu tư chứng khoán hoàn thiện hồ sơ và gửi đến UBCKNN
+    Bước 5: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, UBCKNN cấp Giấy chứng nhận điều chỉnh Giấy chứng nhận đăng ký lập quỹ đóng, quỹ đầu tư bất động sản cho công ty quản lý quỹ đầu tư chứng khoán; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+    Lưu ý: Công ty quản lý quỹ đầu tư chứng khoán phải hoàn thiện hồ sơ niêm yết bổ sung chứng chỉ quỹ đóng, quỹ đầu tư bất động sản trên Sở giao dịch chứng khoán trong thời hạn 30 ngày kể từ ngày Giấy chứng nhận đăng ký lập quỹ có hiệu lực.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - 2) Báo cáo kết quả chào bán ra công chúng - Mẫu số 102 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 1) Giấy đề nghị điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ/Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán - Mẫu số 94 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ.; Thành phần hồ sơ trong thủ tục hành chính này được miễn trừ trong trường hợp tài liệu đó đã được gửi tới Ủy ban Chứng khoán Nhà nước theo quy định về báo cáo và công bố thông tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản xác nhận của ngân hàng giám sát về số vốn huy động trong đợt chào bán, danh sách nhà đầu tư mua chứng chỉ quỹ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Văn bản từ chối (nêu rõ lý do)., Giấy chứng nhận điều chỉnh giấy chứng nhận đăng ký lập quỹ đóng, quỹ mở, quỹ đầu tư bất động sản
+Căn cứ pháp lý:
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí trong lĩnh vực chứng khoán (25/2022/TT-BTC)
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

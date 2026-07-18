@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008008
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Đăng ký giao dịch với cơ quan thuế bằng phương thức điện tử/Đăng ký thay đổi, bổ sung thông tin giao dịch điện tử
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1. Người nộp thuế (NNT) thực hiện truy cập vào Cổng dịch vụ công quốc gia/Hệ thống thông tin giải quyết thủ tục hành chính /Cổng của tổ chức cung cấp dịch vụ T-VAN thực hiện đăng ký giao dịch/Đăng ký thay đổi, bổ sung thông tin, ký điện tử và gửi đến Cục Thuế.
+    Riêng đối với NNT là cá nhân đã có mã số thuế chưa được cấp chứng thư số và sử dụng mã xác thực giao dịch điện tử sau khi thực hiện đăng ký giao dịch điện tử phải đến cơ quan thuế bất kỳ xuất trình chứng minh thư nhân dân; hoặc hộ chiếu hoặc thẻ căn cước công dân để nhận và kích hoạt tài khoản giao dịch thuế điện tử.
+    NNT là cá nhân đã đăng ký và kích hoạt tài khoản định danh điện tử Mức độ 2; đồng thời hệ thống định danh, xác thực điện tử và Cổng dịch vụ công quốc gia/Hệ thống thông tin giải quyết thủ tục hành chính đã được kết nối, vận hành thì NNT được sử dụng tài khoản định danh điện tử thay thế cho việc xuất trình chứng minh thư nhân dân hoặc hộ chiếu/thẻ căn cước công dân/thẻ căn cước để thực hiện thủ tục đăng ký, kích hoạt tài khoản giao dịch điện tử.
+    Sau khi hoàn thành việc thực hiện đăng ký giao dịch điện tử với cơ quan thuế theo quy định qua Cổng dịch vụ công quốc gia/Hệ thống thông tin giải quyết thủ tục hành chính hoặc qua tổ chức cung cấp dịch vụ T-VAN, NNT phải thực hiện đăng ký với ngân hàng nơi mở tài khoản theo quy định của ngân hàng (đối với trường hợp đăng ký để thực hiện nộp thuế điện tử).
+    + Bước 2. Cục Thuế thực hiện tiếp nhận hồ sơ qua Cổng dịch vụ công quốc gia/Hệ thống thông tin giải quyết thủ tục hành chính, thực hiện kiểm tra, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - b) Trường hợp (2): Đăng ký thay đổi, bổ sung thông tin giao dịch điện tử: Tờ khai đăng ký thay đổi, bổ sung thông tin giao dịch thuế điện tử theo mẫu số 02/ĐK-TĐT ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Trường hợp (1): Đăng ký giao dịch với cơ quan thuế bằng phương thức điện tử: Tờ khai đăng ký giao dịch với cơ quan thuế bằng phương thức điện tử theo mẫu số 01/ĐK-TĐT ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Cán bộ, công chức, viên chức, Người nước ngoài
+Cơ quan thực hiện: Cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo tài khoản giao dịch thuế điện tử  (Mẫu số 03/TB-TĐT)
+Căn cứ pháp lý:
+  * QUY ĐỊNH VỀ MẪU THẺ, TRÌNH TỰ, THỦ TỤC CẤP MỚI, CẤP LẠI THẺ GIÁM ĐỊNH VIÊN TƯ PHÁP (11/2020/NĐ-CP)
+  * Nghị định 165/2018/NĐ-CP (165/2018/NĐ-CP)
+  * Nghị định 130/2018/NĐ-CP (130/2018/NĐ-CP)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Nghị định 45/2020/NĐ-CP (45/2020/NĐ-CP)
+  * sửa đổi một số điều của Thông tư 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế (46/2024/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

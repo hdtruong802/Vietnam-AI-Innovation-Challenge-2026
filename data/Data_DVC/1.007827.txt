@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007827
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục cấp giấy chuyển nhượng xe ô tô của đối tượng được hưởng quyền ưu đãi, miễn trừ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Đối tượng được hưởng quyền ưu đãi, miễn trừ tại Việt Nam chuẩn bị hồ sơ (thành phần, số lượng hồ sơ nêu tại mục (-) thứ 3 dưới đây).
+    Bước 2: Cơ quan Hải quan tiếp nhận hồ sơ, kiểm tra hồ sơ và kiểm tra hồ sơ (thành phần, số lượng hồ sơ quy định tại mục (-) thứ 3 dưới đây).
+    Bước 3: Cơ quan Hải quan cấp giấy chuyển nhượng xe theo Phụ lục V ban kèm Thông tư số 27/2021/TT-BTC ngày 19/4/2021 của Bộ trưởng Bộ Tài chính giao cho đối tượng đề nghị cấp giấy chuyển nhượng 02 bản để đối tượng được hưởng quyền ưu đãi, miễn trừ tại Việt Nam lưu 01 bản; chuyển 01 bản cho Tổng cục Hải quan để báo cáo và giao cho đối tượng nhận chuyển nhượng 01 bản để làm thủ tục chuyển nhượng.
+    Bước 4: Cơ quan Hải quan cập nhật thông tin giấy chuyển nhượng lên hệ thống và lưu trữ hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ a) Đối với xe cơ quan ]
+    - Văn bản đề nghị được chuyển nhượng xe ô tô theo Phụ lục IV ban hành kèm theo Thông tư số 27/2021/TT-BTC dẫn trên: 01 bản chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b) Đối với xe cá nhân ]
+    - e) Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ của xe còn hiệu lực hoặc văn bản xác nhận còn đủ tiêu chuẩn kỹ thuật để lưu hành xe của cơ quan đăng kiểm, đối với trường hợp xe ô tô chuyển nhượng có năm sản xuất của xe quá 5 năm quy định tại khoản 3 Điều 1 Quyết định số 14/2021/QĐ-TTg ngày 26/03/2021 của Thủ tướng Chính phủ: 01 bản chụp từ bản chính và xuất trình bản chính để đối chiếu.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - b.3) Giấy ủy quyền cho cơ quan nơi đối tượng công tác làm thủ tục chuyển nhượng xe ô tô theo quy định tại khoản 2 Điều 1 Quyết định số 14/2021/QĐ-TTg ngày 26/03/2021 của Thủ tướng Chính phủ: 01 bản chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b.1) Văn bản đề nghị chuyển nhượng xe ô tô theo Phụ lục IV ban hành kèm theo Thông tư số 27/2021/TT-BTC ngày 19/4/2021: 01 bản chính có xác nhận của cơ quan nơi đối tượng công tác tại Việt Nam hoặc Văn bản đề nghị chuyển nhượng xe ô tô của cơ quan nơi chủ xe công tác đối với trường hợp đối tượng được hưởng quyền ưu đãi, miễn trừ ủy quyền thực hiện thủ tục chuyển nhượng xe ô tô;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b.2) Chứng minh thư do Bộ Ngoại giao cấp: 01 bản chụp từ bản chính và xuất trình bản chính để đối chiếu hoặc 01 bản chụp có xác nhận của cơ quan nơi đối tượng ủy quyền công tác đối với trường hợp đối tượng được hưởng quyền ưu đãi, miễn trừ này ủy quyền thực hiện thủ tục chuyển nhượng xe ô tô;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - c) Văn bản của Bộ Ngoại giao (Cục Lễ tân Nhà nước hoặc Sở Ngoại vụ địa phương nơi có cơ quan Lãnh sự đóng) về việc chuyển nhượng xe ô tô: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Tờ khai nhập khẩu có đóng dấu “dùng cho tái xuất hoặc chuyển nhượng hoặc tiêu hủy theo quy định của pháp luật”: 01 bản có xác nhận của Chi cục Hải quan nơi làm thủ tục tạm nhập đối với trường hợp khi tạm nhập khẩu thực hiện thủ tục hải quan giấy; Trường hợp chuyển vùng công tác quy định tại khoản 6 Điều 1 Thông tư số 27/2021/TT-BTC ngày 19/4/2021 thì nộp bản chụp từ bản chính và xuất trình bản chính để đối chiếu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Giấy chứng nhận thu hồi đăng ký, biển số xe ô tô do cơ quan Công an cấp: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền: Cục Hải quan tỉnh, thành phố
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chuyển nhượng xe
+Căn cứ pháp lý:
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quyết định số 53/2013/QĐ-TTg  ngày 13  tháng 09  năm 2013 của Thủ tướng Chính phủ về việc tạm nhập khẩu, tái xuất khẩu, tiêu hủy, chuyển nhượng đối với xe ô tô, xe hai bánh gắn máy của đối tượng được hưởng quyền ưu đãi miễn trừ tại Việt Nam (53/2013/QĐ-TTg)
+  * Nghị định 73/NĐ-CP ngày 30/7/1994 của Chính phủ quy định chi tiết việc thực hiện Pháp lệnh về việc ưu đãi và miễn trừ dành cho các cơ quan đại diện ngoại giao, cơ quan Lãnh sự và đại diện tổ chức quốc tế Việt Nam. (73-CP)
+  * Thông tư số 19/2014/TT-BTC ngày 11/02/2014 của Bộ Tài chính quy định thủ tục tạm nhập khẩu, tái xuất khẩu, tiêu hủy, chuyển nhượng  xe ô tô, xe hai bánh gắn máy của đối tượng được hưởng quyền ưu đãi, miễn trừ tại Việt Nam (19/2014/TT-BTC)
+  * Quyết định 601/QĐ-BTC (601/QĐ-BTC)
+  * Quyết định 10/2018/QĐ-TTg (10/2018/QĐ-TTg)
+  * Thông tư số 39/2018/TT-BTC ngày 20/4/2018 của Bộ Tài chính sửa đổi, bổ sung một số điều tại Thông tư số 38/2015/TT-BTC ngày 25/3/2015 của Bộ Tài chính quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu, thuế nhập khẩu và quản lý thuế đối với hàng hóa xuất khẩu, nhập khẩu. (39/2018/TT-BTC)
+  * Thông tư 93/2014/TT-BTC (93/2014/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

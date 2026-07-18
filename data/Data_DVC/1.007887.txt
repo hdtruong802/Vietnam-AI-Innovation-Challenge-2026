@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007887
+Số quyết định: 984/QĐ-BTC
+Tên thủ tục: Thủ tục tái xuất khẩu xe ô tô, xe gắn máy của đối tượng được hưởng quyền ưu đãi, miễn trừ
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Đối tượng được hưởng quyền ưu đãi, miễn trừ tại Việt Nam nộp hồ sơ theo quy định tại mục (-) thứ 3 dưới đây tại Chi cục Hải quan cửa khẩu (Chi cục Hải quan nơi làm thủ tục tái xuất khẩu)
+    Bước 2: Căn cứ hồ sơ tái xuất khẩu xe được nộp và thông tin tờ khai hàng hóa nhập khẩu (số tờ khai tạm nhập khẩu), Chi cục Hải quan nơi làm thủ tục tái xuất khẩu thực hiện thủ tục tái xuất khẩu xe theo quy định hiện hành đối với hàng hóa xuất khẩu.
+    Bước 3: Kết thúc thủ tục tái xuất khẩu: Chi cục Hải quan nơi làm thủ tục tái xuất khẩu xe có văn bản thông báo đã hoàn thành thủ tục hải quan và sao gửi tờ khai hàng hóa xuất khẩu xe cho Cục Hải quan tỉnh, thành phố nơi cấp giấy tạm nhập khẩu xe ô tô/xe gắn máy để thực hiện thanh khoản giấy tạm nhập khẩu và lưu hồ sơ theo quy định
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ a) Đối với xe ô tô, xe gắn máy của cơ quan: ]
+    - Văn bản đề nghị tái xuất xe ô tô, xe gắn máy theo Phụ lục III ban hành kèm Thông tư số 27/2021/TT-BTC ngày 19/4/2021 của Bộ trưởng Bộ Tài chính: 01 bản chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b) Đối với xe ô tô, xe gắn máy của cá nhân: ]
+    - + Văn bản đề nghị tái xuất xe ô tô, xe gắn máy theo Phụ lục III ban hành kèm Thông tư số 27/2021/TT-BTC dẫn trên: 01 bản chính có xác nhận của cơ quan nơi đối tượng công tác tại Việt Nam hoặc văn bản đề nghị tái xuất xe ô tô, xe gắn máy của cơ quan nơi chủ xe công tác đối với trường hợp đối tượng được hưởng quyền ưu đãi, miễn trừ là cá nhân ủy quyền cho cơ quan nơi công tác thực hiện thủ tục tái xuất xe ô tô, xe gắn máy;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy ủy quyền cho cơ quan nơi đối tượng công tác làm thủ tục tái xuất xe ô tô, xe gắn máy theo quy định tại khoản 2 Điều 1 Quyết định số 14/2021/QĐ-TTg ngày 26/03/2021 của Thủ tướng Chính phủ: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Chứng minh thư do Bộ Ngoại giao cấp: 01 bản chụp từ bản chính và xuất trình bản chính để đối chiếu; hoặc 01 bản chụp có xác nhận của cơ quan nơi đối tượng ủy quyền công tác đối với trường hợp đối tượng được hưởng quyền ưu đãi, miễn trừ là cá nhân ủy quyền cho cơ quan nơi công tác thực hiện thủ tục tái xuất xe ô tô, xe gắn máy;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - e) Biên bản xác nhận của cơ quan nhà nước có thẩm quyền về việc xe ô tô, xe gắn máy bị tai nạn, thiên tai hoặc do nguyên nhân khách quan về kỹ thuật không tiếp tục sử dụng được: 01 bản chính (đối với trường hợp quy định tại khoản 3 Điều 7 Quyết định số 53/2013/QĐ-TTg ngày 13/09/2013 của Thủ tướng Chính phủ);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Tờ khai hàng hóa nhập khẩu xe có đóng dấu “dùng cho tái xuất hoặc chuyển nhượng hoặc tiêu hủy theo quy định của pháp luật”: 01 bản chính đối với trường hợp khi tạm nhập khẩu thực hiện thủ tục hải quan giấy;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - g) Tờ khai hàng hóa xuất khẩu theo các chỉ tiêu thông tin quy định tại Mẫu số 02 - Tờ khai hàng hóa xuất khẩu Phụ lục I ban hành kèm Thông tư số 39/2018/TT-BTC ngày 20/04/2018 của Bộ trưởng Bộ Tài chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Giấy chứng nhận thu hồi đăng ký, biển số xe ô tô, xe gắn máy do cơ quan công an cấp: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 12 Điều 1 Nghị định số 59/2018/NĐ-CP ngày 20/4/2018 của Chính phủ, người khai hải quan khai và nộp 02 bản chính tờ khai hàng hóa xuất khẩu theo mẫu HQ/2015/XK Phụ lục IV ban hành kèm Thông tư số 38/2015/TT-BTC ngày 25/03/2015 của Bộ trưởng Bộ Tài chính. Người khai hải quan phải khai thông tin về số tờ khai hàng hóa tạm nhập khẩu xe trên chỉ tiêu thông tin tiêu chí số 2.3 của tờ khai hàng hóa xuất khẩu đối với trường hợp thực hiện thủ tục hải quan điện tử, tại ô 29 (ghi chép khác) của tờ khai hàng hóa xuất khẩu đối với trường hợp thực hiện thủ tục hải quan giấy.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Văn bản của Bộ Ngoại giao (Cục Lễ tân Nhà nước hoặc Sở Ngoại vụ địa phương nơi có cơ quan Lãnh sự đóng) về việc tái xuất khẩu xe ô tô, xe gắn máy: 01 bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông quan xe ô tô, xe gắn máy của đối tượng được hưởng quyền ưu đãi, miễn trừ tái xuất khẩu
+Căn cứ pháp lý:
+  * Nghị định 73/NĐ-CP ngày 30/7/1994 của Chính phủ quy định chi tiết việc thực hiện Pháp lệnh về việc ưu đãi và miễn trừ dành cho các cơ quan đại diện ngoại giao, cơ quan Lãnh sự và đại diện tổ chức quốc tế Việt Nam. (73-CP)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Nghị định 59/2018/NĐ-CP (59/2018/NĐ-CP)
+  * Thông tư số 19/2014/TT-BTC ngày 11/02/2014 của Bộ Tài chính quy định thủ tục tạm nhập khẩu, tái xuất khẩu, tiêu hủy, chuyển nhượng  xe ô tô, xe hai bánh gắn máy của đối tượng được hưởng quyền ưu đãi, miễn trừ tại Việt Nam (19/2014/TT-BTC)
+  * Quyết định 601/QĐ-BTC (601/QĐ-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Thông tư 93/2018/TT-BTC (93/2018/TT-BTC)
+  * Quyết định 10/2018/QĐ-TTg (10/2018/QĐ-TTg)
+  * Quyết định số 53/2013/QĐ-TTg  ngày 13  tháng 09  năm 2013 của Thủ tướng Chính phủ về việc tạm nhập khẩu, tái xuất khẩu, tiêu hủy, chuyển nhượng đối với xe ô tô, xe hai bánh gắn máy của đối tượng được hưởng quyền ưu đãi miễn trừ tại Việt Nam (53/2013/QĐ-TTg)
+  * Thông tư số 119/2014/TT-BTC (119/2014/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

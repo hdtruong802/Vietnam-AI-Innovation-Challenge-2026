@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014554
+Số quyết định: 2796/QĐ-BKHCN
+Tên thủ tục: Thủ tục hỗ trợ hoạt động nâng cao năng lực khoa học và công nghệ dành cho tổ chức
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    - Tổ chức có đề nghị hỗ trợ nộp 01 bộ hồ sơ theo quy định theo thời hạn nêu trong thông báo của Cơ quan hỗ trợ hoạt động .
+    - Cơ quan hỗ trợ hoạt động thành lập Hội đồng khoa học và công nghệ đánh giá kế hoạch tổng thể các hoạt động do tổ chức đề xuất.
+    - Trên cơ sở kết quả đánh giá của Hội đồng khoa học và công nghệ, Cơ quan hỗ trợ hoạt động phê duyệt danh sách các tổ chức được hỗ trợ và mức kinh phí tương ứng.
+    -Tối đa 60 ngày kể từ ngày kết thúc thời hạn tiếp nhận hồ sơ Cơ quan hỗ trợ hoạt động ban hành quyết định phê duyệt hỗ trợ (danh sách tổ chức, cá nhân được hỗ trợ và mức kinh phí tương ứng).
+    -Trong thời hạn 15 ngày kể từ ngày có quyết định phê duyệt hỗ trợ, Cơ quan hỗ trợ hoạt động có trách nhiệm hoàn thành việc ký kết hợp đồng với tổ chức nhận hỗ trợ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Thuyết minh hoạt động NCNL KH&CN dành cho tổ chức theo Mẫu NCNL-17
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị hỗ trợ hoạt động NCNL KH&CN dành cho tổ chức theo Mẫu NCNL- 16
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Dự toán kinh phí đề nghị hỗ trợ hoạt động NCNL KH&CN dành cho tổ chức theo Mẫu NCNL-18
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Quỹ Phát triển khoa học và công nghệ quốc gia
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hỗ trợ
+Căn cứ pháp lý:
+  * Nghị định số 267/2025/NĐ-CP ngày 14/10/2025 của Chính phủ quy định chi tiết và hướng dẫn một số điều của Luật Khoa học, công nghệ và đổi mới sáng tạo về chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo và một số quy định về thúc đẩy hoạt động nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo (267/2025/NĐ-CP)
+  * Luật số 93/2025/QH15 của Quốc hội: Luật Khoa học, công nghệ và đổi mới sáng tạo (93/2025/QH15)
+  * Thông tư số 43/2025/TT-BKHCN ngày 30/11/2025 của Bộ trưởng Bộ Khoa học và Công nghệ Quy định quản lý hỗ trợ hoạt động nâng cao năng lực khoa học và công nghệ (43/2025/TT-BKHCN)
+  * Về sửa đổi, bổ sung một số điều của các Thông tư để cắt giảm, đơn giản hoá thủ tục hành chính thuộc phạm vi quản lý của Bộ Khoa học và Công nghệ (20/2026/TT-BKHCN)
+
+Yêu cầu, điều kiện thực hiện: - Hỗ trợ hoạt động nghiên cứu của nghiên cứu viên sau tiến sĩ: Đáp ứng điều kiện quy định tại Khoản 2 Điều 48 Nghị định số 267/2025/NĐ-CP, ứng viên phải đáp ứng đồng thời các điều kiện sau:
++ Có bằng tiến sĩ trong thời hạn 05 năm tính đến thời điểm nộp hồ sơ;
++ Được một nhà khoa học trong nước nhận bảo trợ thực hiện nghiên cứu sau tiến sĩ;
++ Được tổ chức khoa học và công nghệ của Việt Nam nhận làm đơn vị chủ trì nghiên cứu sau tiến sĩ. Đơn vị chủ trì nghiên cứu sau tiến sĩ phải có đủ điều kiện cơ sở vật chất, nguyên vật liệu và các điều kiện liên quan để triển khai nghiên cứu, đồng ý tiếp nhận người đến thực hiện nghiên cứu sau tiến sĩ và đồng ý hỗ trợ, tạo điều kiện để triển khai nghiên cứu.
+- Hỗ trợ hoạt động nghiên cứu của nghiên cứu sinh của chương trình đào tạo tiến sĩ và học viên của chương trình đào tạo thạc sĩ: Đáp ứng điều kiện quy định tại Khoản 2 Điều 49 Nghị định số 267/2025/NĐ-CP, cụ thể:
++ Nghiên cứu sinh của chương trình đào tạo tiến sĩ;
++ Học viên của chương trình đào tạo thạc sĩ.
+- Hỗ trợ hoạt động nghiên cứu của nhà khoa học xuất sắc có thành tích nổi bật trong nghiên cứu khoa học và phát triển công nghệ: Đáp ứng điều kiện quy định tại Khoản 2 Điều 50 Nghị định số 267/2025/NĐ-CP, cụ thể:
++ Là nhà khoa học xuất sắc có thành tích nổi bật trong nghiên cứu khoa học và phát triển công nghệ;
++ Có công bố khoa học hoặc bằng sáng chế hoặc giải pháp hữu ích trong 03 năm tính đến thời điểm xét hỗ trợ;
++ Đang công tác tại các tổ chức có hoạt động trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo tại Việt Nam.
+- Hỗ trợ nhà khoa học trẻ tài năng, kỹ sư trẻ tài năng: Đáp ứng điều kiện quy định tại Khoản 2 Điều 54 Nghị định số 267/2025/NĐ-CP, cụ thể:
++ Là nhà khoa học trẻ tài năng, kỹ sư trẻ tài năng;
++ Có công bố khoa học hoặc bằng sáng chế hoặc giải pháp hữu ích trong 02 năm tính đến thời điểm xét hỗ trợ;
++ Đang công tác tại các tổ chức có hoạt động trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo tại Việt Nam.
+Từ khóa: Không có thông tin
+Mô tả: - Hỗ trợ hoạt động nghiên cứu của nghiên cứu viên sau tiến sĩ: Đáp ứng điều kiện quy định tại Khoản 2 Điều 48 Nghị định số 267/2025/NĐ-CP, ứng viên phải đáp ứng đồng thời các điều kiện sau:
++ Có bằng tiến sĩ trong thời hạn 05 năm tính đến thời điểm nộp hồ sơ;
++ Được một nhà khoa học trong nước nhận bảo trợ thực hiện nghiên cứu sau tiến sĩ;
++ Được tổ chức khoa học và công nghệ của Việt Nam nhận làm đơn vị chủ trì nghiên cứu sau tiến sĩ. Đơn vị chủ trì nghiên cứu sau tiến sĩ phải có đủ điều kiện cơ sở vật chất, nguyên vật liệu và các điều kiện liên quan để triển khai nghiên cứu, đồng ý tiếp nhận người đến thực hiện nghiên cứu sau tiến sĩ và đồng ý hỗ trợ, tạo điều kiện để triển khai nghiên cứu.
+- Hỗ trợ hoạt động nghiên cứu của nghiên cứu sinh của chương trình đào tạo tiến sĩ và học viên của chương trình đào tạo thạc sĩ: Đáp ứng điều kiện quy định tại Khoản 2 Điều 49 Nghị định số 267/2025/NĐ-CP, cụ thể:
++ Nghiên cứu sinh của chương trình đào tạo tiến sĩ;
++ Học viên của chương trình đào tạo thạc sĩ.
+- Hỗ trợ hoạt động nghiên cứu của nhà khoa học xuất sắc có thành tích nổi bật trong nghiên cứu khoa học và phát triển công nghệ: Đáp ứng điều kiện quy định tại Khoản 2 Điều 50 Nghị định số 267/2025/NĐ-CP, cụ thể:
++ Là nhà khoa học xuất sắc có thành tích nổi bật trong nghiên cứu khoa học và phát triển công nghệ;
++ Có công bố khoa học hoặc bằng sáng chế hoặc giải pháp hữu ích trong 03 năm tính đến thời điểm xét hỗ trợ;
++ Đang công tác tại các tổ chức có hoạt động trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo tại Việt Nam.
+- Hỗ trợ nhà khoa học trẻ tài năng, kỹ sư trẻ tài năng: Đáp ứng điều kiện quy định tại Khoản 2 Điều 54 Nghị định số 267/2025/NĐ-CP, cụ thể:
++ Là nhà khoa học trẻ tài năng, kỹ sư trẻ tài năng;
++ Có công bố khoa học hoặc bằng sáng chế hoặc giải pháp hữu ích trong 02 năm tính đến thời điểm xét hỗ trợ;
++ Đang công tác tại các tổ chức có hoạt động trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo tại Việt Nam.

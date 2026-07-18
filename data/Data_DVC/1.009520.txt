@@ -1,0 +1,80 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009520
+Số quyết định: 1082/QĐ-BTC
+Tên thủ tục: Chấp thuận hợp nhất, sáp nhập công ty đầu tư chứng khoán
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+    Bước 1: Trong thời hạn 30 ngày kể từ ngày đại hội đồng cổ đông của công ty đầu tư chứng khoán cuối cùng thông qua việc hợp nhất, sáp nhập, công ty đầu tư chứng khoán gửi hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập đến UBCKNN.
+    Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+    Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp nội dung chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    Bước 4: Trong thời hạn 60 ngày kể từ ngày UBCKNN có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty đầu tư chứng khoán hoàn thiện hồ sơ và gửi đến UBCKNN.
+    Bước 5: Trong thời hạn 30 ngày kể từ UBCKNN nhận được hồ sơ đầy đủ, hợp lệ, UBCKNN ra quyết định chấp thuận hợp nhất, sáp nhập; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+    Lưu ý: công ty đầu tư chứng khoán thực hiện hợp nhất, sáp nhập theo quy định của Luật Chứng khoán và Luật Doanh nghiệp. Trường hợp việc hợp nhất, sáp nhập có kết hợp với chào bán cổ phần riêng lẻ, chào bán cổ phần ra công chúng, công ty đầu tư chứng khoán phải tuân thủ các quy định về chào bán có liên quan.
+    Bước 6: Trong thời hạn 30 ngày kể từ ngày hợp nhất, sáp nhập, công ty đầu tư chứng khoán phải báo cáo kết quả hợp nhất, sáp nhập kèm theo xác nhận của ngân hàng giám sát về tổng tài sản, tổng nợ, giá trị tài sản ròng tại ngày hợp nhất, sáp nhập, tỷ lệ chuyển đổi, tỷ lệ thanh toán bằng tiền mặt (nếu có);
+    Bước 7: Trong thời hạn 10 ngày kể từ ngày nhận được đầy đủ báo cáo kết quả hợp nhất, sáp nhập tại bước 6, UBCKNN cấp lại, điều chỉnh Giấy phép thành lập và hoạt động cho công ty đầu tư chứng khoán hình thành sau hợp nhất, sáp nhập; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 2000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022. + 02 triệu đồng/Giấy chứng nhận.) | 1000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026). + 01 triệu đồng/Giấy chứng nhận.)
+    Mô tả: + Bước 5: 30 ngày kể từ ngày UBCKNN nhận được hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập công ty đầu tư chứng khoán đầy đủ, hợp lệ.
++ Bước 7: 10 ngày kể từ ngày nhận được đầy đủ báo cáo kết quả hợp nhất, sáp nhập.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 2000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022. + 02 triệu đồng/Giấy chứng nhận.) | 1000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026). + 01 triệu đồng/Giấy chứng nhận.)
+    Mô tả: + Bước 5: 30 ngày kể từ ngày UBCKNN nhận được hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập công ty đầu tư chứng khoán đầy đủ, hợp lệ.
++ Bước 7: 10 ngày kể từ ngày nhận được đầy đủ báo cáo kết quả hợp nhất, sáp nhập.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 2000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022. + 02 triệu đồng/Giấy chứng nhận.) | 1000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026). + 01 triệu đồng/Giấy chứng nhận.)
+    Mô tả: + Bước 5: 30 ngày kể từ ngày UBCKNN nhận được hồ sơ đề nghị chấp thuận hợp nhất, sáp nhập công ty đầu tư chứng khoán đầy đủ, hợp lệ.
++ Bước 7: 10 ngày kể từ ngày nhận được đầy đủ báo cáo kết quả hợp nhất, sáp nhập.
+
+Thành phần hồ sơ:
+    - 7) Danh sách cổ đông, nhân sự của công ty sau hợp nhất, sáp nhập theo Mẫu số 105 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3) Phương án hợp nhất, sáp nhập theo Mẫu số 95 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 9) Danh sách các chủ nợ yêu cầu hoàn trả khoản vay và giá trị phải thanh toán cho chủ nợ; danh sách cổ đông yêu cầu mua lại cổ phiếu, số lượng cổ phiếu phải mua lại và giá trị phải thanh toán;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 1) Giấy đề nghị theo Mẫu số 94 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 10) Văn bản của Sở giao dịch chứng khoán, Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam chấp thuận hủy niêm yết, hủy đăng ký, lưu ký cổ phiếu của công ty bị hợp nhất, bị sáp nhập (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4) Hợp đồng hợp nhất, sáp nhập theo Mẫu số 96 Phụ lụcban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 11) Bản gốc của các giấy phép thành lập và hoạt động của các công ty đầu tư chứng khoán bị hợp nhất, bị sáp nhập;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 8) Báo cáo đánh giá của các ngân hàng giám sát, ngân hàng lưu ký về nguyên tắc xác định giá trị tài sản ròng, tỷ lệ hoán đổi cổ phiếu, tỷ lệ thanh toán tiền (nếu có) và các nội dung khác có liên quan;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2) Biên bản, nghị quyết của đại hội đồng cổ đông các công ty liên quan thông qua phương án hợp nhất, sáp nhập và hợp đồng hợp nhất, sáp nhập;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 6) Điều lệ công ty hợp nhất, sáp nhậptheo Mẫu Phụ lục II ban hành kèm theo Thông tư 98/2020/TT-BTC ngày 16/11/2020 của Bộ tài chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 5) Hợp đồng lưu ký, giám sát của công ty sau hợp nhất, sáp nhập;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 12) Các tài liệu khác chứng minh công ty hình thành sau hợp nhất, sáp nhập đáp ứng điều kiện cấp Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán.; Thành phần hồ sơ trong thủ tục hành chính này được miễn trừ trong trường hợp tài liệu đó đã được gửi tới Ủy ban Chứng khoán Nhà nước theo quy định về báo cáo và công bố thông tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Văn bản từ chối (nêu rõ lý do)., Giấy phép thành lập và hoạt động cho công ty đầu tư chứng khoán hình thành sau hợp nhất, sáp nhập, Quyết định chấp thuận hợp nhất, sáp nhập công ty đầu tư chứng khoán
+Căn cứ pháp lý:
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí trong lĩnh vực chứng khoán (25/2022/TT-BTC)
+  * Thông tư 98/2020/TT-BTC (98/2020/TT-BTC)
+  * Nghị quyết về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (Nghị quyết số 24/2026/NQ-CP)
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+
+Yêu cầu, điều kiện thực hiện: 1) Có phương án, hợp đồng hợp nhất, sáp nhập được Đại hội đồng cổ đông các công ty tham gia hợp nhất, sáp nhập thông qua.
+2) Công ty hình thành sau hợp nhất, sáp nhập đáp ứng các điều kiện cấp giấy phép thành lập và hoạt động công ty đầu tư chứng khoán.
+Từ khóa: Không có thông tin
+Mô tả: 1) Có phương án, hợp đồng hợp nhất, sáp nhập được Đại hội đồng cổ đông các công ty tham gia hợp nhất, sáp nhập thông qua.
+2) Công ty hình thành sau hợp nhất, sáp nhập đáp ứng các điều kiện cấp giấy phép thành lập và hoạt động công ty đầu tư chứng khoán.

@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014718
+Số quyết định: 248/QĐ-BNNMT
+Tên thủ tục: Tính tiền cấp quyền khai thác tài nguyên nước đối với công trình đã vận hành (cấp Bộ)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tài nguyên nước
+Trình tự thực hiện:
+    - Bước 1: Nộp hồ sơ:
+    Chủ giấy phép đề nghị phê duyệt tiền cấp quyền nộp 01 bộ hồ sơ trực tiếp tại Trung tâm phục vụ hành chính công cấp tỉnh (sau đây gọi tắt là Bộ phận Một cửa) hoặc qua dịch vụ bưu chính hoặc qua ủy quyền theo quy định của pháp luật hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+    - Bước 2: Tiếp nhận, kiểm tra hồ sơ:
+    Bộ phận Một cửa có trách nhiệm tiếp nhận hồ sơ, kiểm tra, xem xét tính đầy đủ, hợp lệ của hồ sơ.
+    + Trường hợp hồ sơ không hợp lệ, Bộ phận Một cửa trả lại hồ sơ và thông báo rõ lý do cho chủ giấy phép.
+    + Trường hợp hồ sơ hợp lệ, Bộ phận Một cửa chuyển hồ sơ cho Sở Nông nghiệp và Môi trường để tổ chức thẩm định.
+    - Bước 3: Thẩm định hồ sơ và quyết định phê duyệt tiền cấp quyền:
+    Việc kiểm tra, thẩm định hồ sơ tính tiền cấp quyền khai thác tài nguyên nước được thực hiện đồng thời với việc kiểm tra, thẩm định hồ sơ đề nghị cấp, gia hạn, điều chỉnh giấy phép khai thác tài nguyên nước.
+    Trường hợp đủ điều kiện, Sở Nông nghiệp và Môi trường trình Chủ tịch Ủy ban nhân dân tỉnh phê duyệt.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản khai tính tiền cấp quyền khai thác tài nguyên nước theo Mẫu 57  Phụ lục III kèm theo Nghị định số 23/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Quản lý tài nguyên nước - Bộ NN và MT
+Cơ quan có thẩm quyền: Bộ Nông nghiệp và Môi trường
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Kết quả thủ tục Tính tiền cấp quyền khai thác tài nguyên nước đối với công trình đã vận hành theo Mẫu 58 Phụ lục III kèm theo Nghị định số 23/2026/NĐ-CP.
+Căn cứ pháp lý:
+  * Nghị định 23/2026/NĐ-CP ngày 17/01/2026 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực tài nguyên nước. (NĐ 23/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

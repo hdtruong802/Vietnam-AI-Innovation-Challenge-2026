@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011006
+Số quyết định: 216/QĐ-BTC
+Tên thủ tục: Khai tiền thuê đất
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1:
+    Người nộp thuế nộp hồ sơ khai tiền thuê đất tại cơ chế một cửa liên thông, TTPVHCC cấp tỉnh, xã  (trực tiếp) hoặc qua Cổng DVC Quốc gia (trực tuyến).
+    Đối với trường hợp thuê đất mà hồ sơ xác định nghĩa vụ tài chính về tiền thuê đất theo quy định tại cơ chế một cửa liên thông đồng thời là hồ sơ khai thuế: Thời hạn nộp hồ sơ chậm nhất là 30 ngày kể từ ngày cơ quan nhà nước có thẩm quyền ký quyết định cho thuê đất. Trường hợp chưa có quyết định nhưng có hợp đồng cho thuê đất thì thời hạn nộp hồ sơ chậm nhất là 30 ngày kể từ ngày ký hợp đồng.
+    Đối với trường hợp thuê đất chưa có quyết định cho thuê, hợp đồng cho thuê đất: Thời hạn nộp hồ sơ khai tiền thuê đất chậm nhất là 30 ngày kể từ ngày sử dụng đất vào mục đích thuộc đối tượng phải thuê đất.
+    Thời hạn nộp hồ sơ khai tiền thuê đất đối với trường hợp trong năm có sự thay đổi các yếu tố để xác định nghĩa vụ tài chính về tiền thuê đất chậm nhất là 30 ngày kể từ ngày được cấp có thẩm quyền ban hành văn bản ghi nhận sự thay đổi.
+    Người nộp thuế trong năm không có sự thay đổi các yếu tố dẫn đến thay đổi số tiền thuê đất phải nộp thì không phải kê khai năm tiếp theo.
+    + Bước 2. Cơ quan thuế tiếp nhận: Cơ quan thuế tiếp nhận hồ sơ, giải quyết, trả kết quả (nếu có) theo quy định; Trường hợp hồ sơ không đầy đủ theo quy định, cơ quan thuế không tiếp nhận và hướng dẫn người nộp thuế hoàn thiện hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Trường hợp chưa có quyết định, hợp đồng cho thuê đất: ]
+    - Các giấy tờ khác liên quan (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai tiền thuê đất, thuê mặt nước mẫu 01/TMĐN tại Phụ lục II ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật quản lý thuế (đã được sửa đổi tại Thông tư 40/2025/TT-BTC và Thông tư 94/2025/TT-BTC).
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ Trường hợp đã có quyết định cho thuê đất hoặc chưa có quyết định nhưng đã có hợp đồng cho thuê đất: ]
+    - Văn bản của người sử dụng đất đề nghị được miễn, giảm các khoản nghĩa vụ tài chính về đất đai (bản chính) theo mẫu 01/MGTH tại Phụ lục I ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật quản lý thuế (đã được sửa đổi tại Thông tư 40/2025/TT-BTC và Thông tư 94/2025/TT-BTC) và bản sao các giấy tờ chứng minh thuộc đối tượng được miễn, giảm theo quy định của pháp luật (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu, giấy tờ liên quan đến các khoản được trừ vào tiền thuê đất phải nộp theo quy định của pháp luật (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ khai để xác định nghĩa vụ tài chính về tiền thuê đất, thuê mặt nước theo quy định tại cơ chế một cửa liên thông
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo nộp tiền về tiền thuê đất, thuê mặt nước một lần cho cả thời gian thuê (Mẫu số 02/TB-TMĐN), Thông báo nộp tiền về tiền thuê đất, thuê mặt nước hàng năm (Mẫu số 01/TB-TMĐN)
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và sửa đổi, bổ sung một số mẫu biểu của Thông tư số 40/2021/TT-BTC ngày 01 tháng 6 năm 2021 của Bộ Tài chính hướng dẫn thuế giá trị gia tăng, thuế thu nhập cá nhân và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh (94/2025/TT-BTC)
+  * Nghị định số 103/2024/NĐ-CP ngày 30/7/2024 của Chính phủ quy định về tiền sử dụng đất, tiền thuê đất (103/2024/NĐ-CP)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Thông tư số 40/2025/TT-BTC Sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý thuế để phân định thẩm quyền của chính quyền địa phương theo mô hình tổ chức chính quyền địa phương 02 cấp (40/2025/TT-BTC)
+  * sửa đổi một số điều của Thông tư 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế (46/2024/TT-BTC)
+  * Nghị định số 125/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tài chính (125/2025/NĐ-CP)
+  * Nghị định số 91/2022/NĐ-CP sửa đổi bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (91/2022/NĐ-CP)
+  * Nghị định số 373/2025/NĐ-CP của Chính phủ: Sửa đổi, bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (373/2025/NĐ-CP)
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Nghị định số 122/2025/NĐ-CP của Chính phủ: Quy định về phân quyền, phân cấp trong lĩnh vực quản lý thuế (122/2025/NĐ-CP)
+  * Nghị định số 291/2025/NĐ-CP của Chính phủ: Sửa đổi, bổ sung một số điều của Nghị định số 103/2024/NĐ-CP ngày 30 tháng 7 năm 2024 của Chính phủ quy định về tiền sử dụng đất, tiền thuê đất và Nghị định số 104/2024/NĐ-CP ngày 31 tháng 7 năm 2024 của Chính phủ quy định về Quỹ phát triển đất (291/2025/NĐ-CP)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+  * Nghị định số 94/2025/NĐ-CP ngày 29 tháng 4 năm 2025 của Chính phủ quy định về Cơ chế thử nghiệm có kiểm soát trong lĩnh vực ngân hàng. (94/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013908
+Số quyết định: 2527/QĐ-BKHCN
+Tên thủ tục: Thu hồi giấy phép cung cấp dịch vụ viễn thông không có hạ tầng mạng, loại hình dịch vụ viễn thông cố định mặt đất (dịch vụ viễn thông cung cấp trên mạng viễn thông cố định mặt đất) và giấy chứng nhận đăng ký cung cấp dịch vụ viễn thông
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    Trường hợp doanh nghiệp chưa chính thức cung cấp dịch vụ hoặc chưa chính thức khai thác mạng viễn thông và tự nguyện hoàn trả giấy phép cung cấp dịch vụ viễn thông không có hạ tầng mạng, loại hình dịch vụ viễn thông cố định mặt đất (dịch vụ viễn thông cung cấp trên mạng viễn thông cố định mặt đất) và giấy chứng nhận đăng ký cung cấp dịch vụ viễn thông do thay đổi định hướng kinh doanh hoặc không thể triển khai các nội dung giấy phép, Ủy ban nhân dân cấp tỉnh nơi cấp giấy phép quyết định thu hồi giấy phép cung cấp dịch vụ viễn thông không có hạ tầng mạng, loại hình dịch vụ viễn thông cố định mặt đất (dịch vụ viễn thông cung cấp trên mạng viễn thông cố định mặt đất) và giấy chứng nhận đăng ký cung cấp dịch vụ viễn thông quyết định thu hồi giấy phép theo thẩm quyền trong thời hạn 08 ngày làm việc kể từ ngày nhận được hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 50000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính, cụ thể như sau: - Phí: Doanh nghiệp phải nộp phí cung cấp dịch vụ viễn thông hết quý có ngày thu hồi giấy phép. Thời điểm nộp phí trước ngày giấy phép bị thu hồi. - Lệ phí: không.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 50000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính, cụ thể như sau: - Phí: Doanh nghiệp phải nộp phí cung cấp dịch vụ viễn thông hết quý có ngày thu hồi giấy phép. Thời điểm nộp phí trước ngày giấy phép bị thu hồi. - Lệ phí: không.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 50000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính, cụ thể như sau: - Phí: Doanh nghiệp phải nộp phí cung cấp dịch vụ viễn thông hết quý có ngày thu hồi giấy phép. Thời điểm nộp phí trước ngày giấy phép bị thu hồi. - Lệ phí: không.)
+
+Thành phần hồ sơ:
+    - Đơn đề nghị thu hồi giấy phép kinh doanh dịch vụ viễn thông, giấy chứng nhận đăng ký cung cấp dịch vụ viễn thông theo Mẫu số 16 tại Phụ lục I ban hành kèm theo Nghị định số 133/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thu hồi giấy phép kinh doanh dịch vụ viễn thông/Giấy chứng nhận của Ủy ban nhân dân cấp tỉnh.
+Căn cứ pháp lý:
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Viễn thông (163/2024/NĐ-CP)
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng phí quyền hoạt động viễn thông, lệ phí cấp giấy phép kinh doanh dịch vụ viễn thông và giấy phép nghiệp vụ viễn thông (52/2025/TT-BTC)
+  * Quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ (133/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Doanh nghiệp viễn thông bị thu hồi giấy phép có trách nhiệm hoàn thành đầy đủ các nghĩa vụ tài chính theo quy định liên quan đến giấy phép viễn thông bị thu hồi tính đến thời điểm quyết định thu hồi giấy phép có hiệu lực.
+Từ khóa: Không có thông tin
+Mô tả: Doanh nghiệp viễn thông bị thu hồi giấy phép có trách nhiệm hoàn thành đầy đủ các nghĩa vụ tài chính theo quy định liên quan đến giấy phép viễn thông bị thu hồi tính đến thời điểm quyết định thu hồi giấy phép có hiệu lực.

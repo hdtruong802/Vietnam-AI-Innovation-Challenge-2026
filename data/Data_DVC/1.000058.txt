@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000058
+Số quyết định: 1637/QĐ-BNNMT
+Tên thủ tục: Miễn, giảm tiền dịch vụ môi trường rừng (đối với bên sử dụng dịch vụ môi trường rừng trong phạm vi địa giới hành chính của một tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Lâm nghiệp và Kiểm lâm
+Trình tự thực hiện:
+    - Trong thời hạn 1/2 ngày làm việc kể từ ngày nhận được hồ sơ nếu nộp trực tiếp, 02 ngày làm việc nếu nhận được qua dịch vụ bưu chính hoặc qua môi trường mạng, nếu thành phần hoặc số lượng hồ sơ chưa hợp lệ, Sở Nông nghiệp và Môi trường phải thông báo cho bên sử dụng dịch vụ môi trường biết để bổ sung theo quy định;
+    - Trong thời hạn 05 ngày làm việc kể từ khi nhận được hồ sơ hợp lệ, Sở Nông nghiệp và Môi trường quyết định thành lập Đoàn kiểm tra xác minh;
+    - Trong thời hạn 05 ngày làm việc kể từ khi có quyết định thành lập, Đoàn kiểm tra tổ chức xác minh tại hiện trường và lập biên bản xác minh;
+    - Trong thời hạn 05 ngày làm việc sau khi kết thúc kiểm tra, Đoàn kiểm tra hoàn thành báo cáo, gửi Sở Nông nghiệp và Môi trường lãnh đạo Ủy ban nhân dân tỉnh ban hành quyết định miễn, giảm và trả kết quả cho bên sử dụng dịch vụ môi trường rừng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản kê tổn thất, thiệt hại về vốn và tài sản; bản sao chụp quyết định giải thể hoặc phá sản (nếu có) của cơ quan có thẩm quyền theo quy định của pháp luật (Đối với tổ chức)
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Văn bản đề nghị miễn, giảm của bên sử dụng dịch vụ môi trường rừng hoặc người giám hộ, người thừa kế của bên sử dụng dịch vụ môi trường rừng phải nêu rõ nguyên nhân, nội dung rủi ro bất khả kháng; mức độ thiệt hại về vốn và tài sản; nội dung đề nghị miễn, giảm; thời gian đề nghị miễn, giảm (Đối với hộ gia đình, cá nhân)
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Văn bản đề nghị miễn, giảm của bên sử dụng dịch vụ môi trường rừng, trong đó nêu rõ nguyên nhân, nội dung rủi ro bất khả kháng; mức độ thiệt hại về vốn và tài sản; nội dung đề nghị miễn, giảm; thời gian đề nghị miễn, giảm (Đối với tổ chức)
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã, Công dân Việt Nam, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định miễn, giảm tiền chi trả dịch vụ môi trường rừng
+Căn cứ pháp lý:
+  * Nghị định 156/2018/NĐ-CP (156/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

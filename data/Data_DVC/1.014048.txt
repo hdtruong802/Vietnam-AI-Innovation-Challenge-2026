@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014048
+Số quyết định: 2298/QĐ-UBND
+Tên thủ tục: Cấp Giấy phép thi công các công trình sửa chữa, cải tạo nâng cấp đường bộ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân hoàn thiện hồ sơ của thủ tục này và nộp hồ sơ trực tiếp tại Trung tâm phục vụ hành chính công thành phố Đà Nẵng hoặc nộp hồ sơ trực tuyến tại địa chỉ https://dichvucong.gov.vn.
+    Bước 2: Sở Xây dựng tiếp nhận hồ sơ, kiểm tra tính hợp lệ và đầy đủ của các loại giấy tờ trong hồ sơ; yêu cầu bổ sung, hoàn thiện nếu hồ sơ chưa đầy đủ, chưa hợp lệ.
+    Bước 3: Sở Xây dựng thẩm định hồ sơ:
+    a) Trường hợp hồ sơ đạt yêu cầu thì tiến hành giải quyết.
+    b) Trường hợp xét thấy hồ sơ không đạt yêu cầu thì có phiếu hướng dẫn yêu cầu bổ sung.
+    Bước 4: Trả kết quả cho tổ chức, công dân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp cấp mới: 05 ngày làm việc.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp gia hạn giấy phép: 03 ngày làm việc.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp cấp mới: 05 ngày làm việc.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp cấp mới: 05 ngày làm việc.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp gia hạn giấy phép: 03 ngày làm việc.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với trường hợp gia hạn giấy phép: 03 ngày làm việc.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị theo mẫu hoặc Văn bản đề nghị có nội dung đầy đủ các thông tin theo mẫu Phụ lục
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quyết định công nhận đơn vị thi công và cho phép khởi công công trình của cơ quan có thẩm quyền.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ thiết kế kỹ thuật và thiết kế tổ chức thi công hoặc hồ sơ thiết kế kỹ thuật thi công phải được cơ quan quản lý đường bộ có thẩm quyền chấp thuận bằng văn bản và được cấp có thẩm quyền phê duyệt;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4. Biện pháp đảm bảo an toàn công trình giao thông đường bộ và các công trình hạ tầng kỹ thuật khác hiện có trên đường bộ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 5. Biện pháp bảo đảm an toàn giao thông trong suốt thời gian thi công có xác nhận của Ban Quản lý dự án (trường hợp các công trình đơn giản, không có thiết kế tổ chức thi công).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 6. Báo cáo đánh giá tác động môi trường do Sở Nông nghiệp và Môi trường Đà Nẵng thẩm định (đối với công trình quy định lập báo cáo đánh giá tác động môi trường) hoặc Biện pháp đảm bảo vệ sinh môi trường (đối với công trình không quy định lập báo cáo đánh giá tác động môi trường).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 7. Báo cáo thẩm định an toàn giao thông được cấp có thẩm quyền phê duyệt (đối với công trình cải tạo, nâng cấp đường bộ)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm phục vụ hành chính công thành phố Đà Nẵng
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép cho phương tiện vận tải vào đường cấm
+Căn cứ pháp lý:
+  * sửa đổi, bổ sung một số điều của Quy định thi công trên đường bộ đang khai thác thuộc địa bàn thành phố Đà Nẵng ban hành kèm theo Quyết định số 05/2013/QĐ-UBND của UBND thành phố Đà Nẵng. (06/2023/QĐ-UBND)
+  * Quyết định số 05/2013/QĐ-UBND ngày 25/01/2013 của UBND thành phố Đà Nẵng về việc Ban hành Quy định thi công trên đường bộ đang khai thác thuộc địa bàn thành phố Đà Nẵng (05/2013/QĐ-UBND)
+  * Giao thông đường bộ (Số: 23/2008/QH12)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

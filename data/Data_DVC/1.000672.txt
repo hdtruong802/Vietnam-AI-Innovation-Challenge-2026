@@ -1,0 +1,84 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000672
+Số quyết định: 822/QĐ-BXD
+Tên thủ tục: Công bố lại bến xe khách
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+  * Nộp hồ sơ TTHC
+    Đơn vị kinh doanh dịch vụ bến xe khách nộp hồ sơ đề nghị đến Sở Xây dựng địa phương nơi có bến xe trong các trường hợp:
+    - Sau khi cải tạo cơ sở vật chất dẫn đến thay đổi các tiêu chí phân loại bến xe khách;
+    - Thay đổi đơn vị kinh doanh dịch vụ bến xe khách.
+  * Giải quyết TTHC
+    - Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng quy định, Sở Xây dựng tổ chức kiểm tra các tiêu chí phân loại bến xe theo Quy chuẩn kỹ thuật quốc gia về bến xe khách và lập biên bản kiểm tra;
+    - Trường hợp sau khi kiểm tra, nếu bến xe không đáp ứng đúng các tiêu chí phân loại theo hồ sơ đề nghị thì ghi rõ các nội dung không đạt trong biên bản kiểm tra và trong thời hạn 02 ngày làm việc kể từ ngày kết thúc kiểm tra phải thông báo cho đơn vị kinh doanh dịch vụ bến xe; nếu bến xe đáp ứng đúng các tiêu chí phân loại theo hồ sơ đề nghị thì trong thời hạn 02 ngày làm việc kể từ ngày kết thúc kiểm tra, Sở Xây dựng quyết định công bố đưa bến xe vào khai thác theo mẫu quy định;
+    - Trả kết quả giải quyết thủ tục hành chính cho tổ chức, cá nhân bằng bản giấy và bản điện tử hợp lệ; đồng thời tích hợp trên VneID.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thời hạn kiểm tra: trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thời hạn công bố: Trường hợp quyết định công bố: trong thời hạn 02 ngày làm việc kể từ ngày kết thúc kiểm tra
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thời hạn công bố: Trường hợp thông báo cho đơn vị kinh doanh dịch vụ bến xe khách: trong thời hạn 02 ngày làm việc kể từ ngày kết thúc kiểm tra
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thời hạn kiểm tra: trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng quy định
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thời hạn công bố: Trường hợp quyết định công bố: trong thời hạn 02 ngày làm việc kể từ ngày kết thúc kiểm tra.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thời hạn công bố:  Trường hợp thông báo cho đơn vị kinh doanh dịch vụ bến xe khách: trong thời hạn 02 ngày làm việc kể từ ngày kết thúc kiểm tra.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thời hạn kiểm tra: trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thời hạn công bố: Trường hợp quyết định công bố: trong thời hạn 02 ngày làm việc kể từ ngày kết thúc kiểm tra.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thời hạn công bố: Trường hợp thông báo cho đơn vị kinh doanh dịch vụ bến xe khách: trong thời hạn 02 ngày làm việc kể từ ngày kết thúc kiểm tra
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị công bố lại bến xe theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản nghiệm thu các công trình xây dựng, cải tạo (nếu có thay đổi so với lần công bố trước)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản đối chiếu các quy định kỹ thuật của quy chuẩn này với các công trình của bến xe (nếu có thay đổi so với lần công bố trước)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản vẽ bố trí mặt bằng tổng thể các công trình xây dựng, cải tạo bến xe (nếu có thay đổi so với lần công bố trước)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản hoặc tài liệu chứng minh về thay đổi đơn vị kinh doanh dịch vụ bến xe (nếu có thay đổi so với lần công bố trước)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quyết định cho phép đầu tư xây dựng, cải tạo của cơ quan có thẩm quyền nếu có thay đổi so với lần công bố trước (bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử được cấp từ sổ gốc hoặc bản sao điện tử được chứng thực từ bản chính hoặc bản sao kèm bản chính để đối chiếu)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Sở Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công bố đưa bến xe khách vào khai thác
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số Điều của Thông tư số 36/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và hoạt động của bến xe, bãi đỗ xe, trạm dừng nghỉ, điểm dừng xe trên đường bộ; quy định trình tự, thủ tục đưa bến xe, trạm dừng nghỉ vào khai thác, Thông tư số 40/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về công tác phòng, chống, khắc phục hậu quả thiên tai trong lĩnh vực đường bộ; Thông tư số 41/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về quản lý, vận hành, khai thác và bảo trì kết cấu hạ tầng đường bộ, Thông tư số 22/2014/TT-BGTVT ngày 06 tháng 6 năm 2014 của Bộ trưởng Bộ Giao thông vận tải hướng dẫn xây dựng quy trình vận hành, khai thác bến phà, bến khách ngang sông sử dụng phà một lưỡi chở hành khách và xe ô tô. (72/2025/TT-BXD)
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư để phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong lĩnh vực đăng kiểm, đường bộ, đường sắt, quy hoạch đô thị và nông thôn thuộc phạm vi quản lý của Bộ Xây dựng. (24/2026/TT-BXD)
+  * Quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và hoạt động của bến xe, bãi đỗ xe, trạm dừng nghỉ, điểm dừng xe trên đường bộ; quy định trình tự, thủ tục đưa bến xe, trạm dừng nghỉ vào khai thác (36/2024/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: - Bến xe khách đưa vào khai thác phải đáp ứng yêu cầu theo Quy chuẩn kỹ thuật quốc gia về bến xe khách.
+Từ khóa: Không có thông tin
+Mô tả: - Bến xe khách đưa vào khai thác phải đáp ứng yêu cầu theo Quy chuẩn kỹ thuật quốc gia về bến xe khách.

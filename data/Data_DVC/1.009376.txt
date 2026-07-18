@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009376
+Số quyết định: 4508/QĐ-BVHTTDL
+Tên thủ tục: Cấp giấy phép xuất bản bản tin (trung ương)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Báo chí
+Trình tự thực hiện:
+  * Cấp giấy phép xuất bản bản tin (trung ương)
+    Cơ quan, tổ chức của trung ương; cơ quan đại diện nước ngoài, tổ chức nước ngoài tại Việt Nam có nhu cầu xuất bản bản tin lập 01 bộ hồ sơ đề nghị cấp giấy phép xuất bản bản tin gửi đến Cục Báo chí (Bộ Văn hóa, Thể thao và Du lịch).
+    Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Báo chí có trách nhiệm cấp giấy phép xuất bản bản tin; trường hợp từ chối cấp phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Cấp giấy phép xuất bản bản tin (trung ương) ]
+    - Sơ yếu lý lịch của người chịu trách nhiệm xuất bản bản tin
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai đề nghị cấp giấy phép xuất bản bản tin
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực hoặc bản sao điện tử có giá trị pháp lý hoặc bản sao kèm bản chính để đối chiếu quyết định thành lập, giấy phép thành lập hoặc giấy tờ khác có giá trị pháp lý tương đương (đối với tổ chức nước ngoài tại Việt Nam); Trường hợp tổ chức là doanh nghiệp thì thông tin về giấy chứng nhận đăng ký kinh doanh được khai thác, sử dụng từ Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp, không yêu cầu nộp bản sao nếu đã có thông tin dữ liệu.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Mẫu trình bày tên gọi bản tin có xác nhận của cơ quan, tổ chức đề nghị cấp giấy phép và bản dịch tiếng Việt được công chứng (đối với tên gọi bản tin thể hiện bằng tiếng nước ngoài)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Cục Báo chí
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép xuất bản bản tin
+Căn cứ pháp lý:
+  * Luật báo chí (103/2016/QH13)
+  * Thông tư 41/2020/TT-BTTTT (41/2020/TT-BTTTT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

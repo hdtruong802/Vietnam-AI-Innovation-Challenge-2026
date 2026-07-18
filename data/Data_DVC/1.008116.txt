@@ -1,0 +1,87 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008116
+Số quyết định: 1591/QĐ-UBND
+Tên thủ tục: Hỗ trợ mặt bằng sản xuất, kinh doanh đối với doanh nghiệp nhỏ và vừa thực hiện hoạt động đầu tư sản xuất, kinh doanh tại các Khu công nghiệp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hỗ trợ doanh nghiệp nhỏ và vừa
+Trình tự thực hiện:
+    Hằng năm, Ban Quản lý Khu kinh tế, công nghiệp xây dựng dự toán
+    kinh phí thực hiện chính sách, gửi Sở Tài chính thẩm định, trình UBND tỉnh bố
+    trí trong dự toán hàng năm của Ban Quản lý.
+    - Các doanh nghiệp nhỏ và vừa tại các Khu công nghiệp chuẩn bị đầy đủ 01 bộ hồ sơ theo quy định
+    và nộp hồ sơ tại Bộ phận tiếp nhận và trả kết quả trực thuộc Ban quản lý khu kinh tế, công nghiệp (Ban quản lý KKT,CN) tại Trung tâm Phục vụ hành chính công thành phố Huế.
+    - Sau 20 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ phận Tiếp
+    nhận và Trả kết quả sẽ trả kết quả cho Tổ chức. Cụ thể:
+    + Trong thời hạn 17 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Ban Quản lý
+    Khu kinh tế, công nghiệp  phối hợp với cơ quan chuyên ngành tổ chức
+    kiểm tra thực tế cơ sở sản xuất, kinh doanh của doanh nghiệp và tiến hành lập
+    biên bản thẩm định hồ sơ.
+    + Trong vòng 03 ngày kể từ ngày hoàn thành việc thẩm định hồ sơ đề
+    nghị hỗ trợ, Ban Quản lý Khu kinh tế, công nghiệp ban hành quyết định hỗ
+    trợ. Bộ phận Tiếp nhận và Trả kết quả sẽ trả kết quả cho Tổ chức. Trường hợp
+    hồ sơ không đảm bảo điều kiện hỗ trợ thì ban hành Văn bản từ chối và nêu rõ lý
+    do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 20 ngày, kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 20 ngày, kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 20 ngày, kể từ ngày nhận được hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+  [ Trường hợp Khu công nghiệp Phú Đa và Khu công nghiệp Quảng Vinh chưa có đơn vị kinh doanh hạ tầng: ]
+    - 1. Đơn đề nghị hỗ trợ mặt bằng sản xuất, kinh doanh (bản chính);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2. Tờ khai xác định doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa (bản chính);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3. Giấy chứng nhận đăng ký doanh nghiệp (01 bản chụp kèm theo bản gốc để đối chiếu hoặc 01 bản sao có chứng thực);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4. Hợp đồng thuê lại đất lần đầu ký kết giữa doanh nghiệp và đơn vị kinh doanh hạ tầng (01 bản chụp kèm theo bản gốc để đối chiếu hoặc 01 bản sao có chứng thực).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp Khu công nghiệp Phú Đa và Khu công nghiệp Quảng Vinh chưa có đơn vị kinh doanh hạ tầng: ]
+    - 1. Đơn đề nghị hỗ trợ mặt bằng sản xuất, kinh doanh (bản chính);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2. Tờ khai xác định doanh nghiệp siêu nhỏ, doanh nghiệp nhỏ, doanh nghiệp vừa (bản chính)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3. Giấy chứng nhận đăng ký doanh nghiệp (01 bản chụp kèm theo bản gốc để đối chiếu hoặc 01 bản sao có chứng thực);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4. Quyết định cho thuê đất (01 bản chụp kèm theo bản gốc để đối chiếu hoặc 01 bản sao có chứng thực);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 5. Quyết định miễn tiền thuê đất theo quy định hiện hành của Nhà nước (01 bản chụp kèm theo bản gốc để đối chiếu hoặc 01 bản sao có chứng thực).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ban Quản lý Khu kinh tế, công nghiệp thành phố - Thành phố Huế
+Cơ quan có thẩm quyền: UBND Thành phố Huế
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công tỉnh Thừa Thiên Huế, số 01 Lê Lai thành phố Huế
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về chính sách hỗ trợ
+Căn cứ pháp lý:
+  * Luật hỗ trợ doanh nghiệp nhỏ và vừa (Luật 04/2017/QH14)
+  * Nghi quyết số 21/2022/NQ-HĐND ngày 26/10/2022 của Hội đồng nhân dân tỉnh Thừa Thiên Huế về quy định một số chính sách hỗ trợ doanh nghiệp nhỏ và vừa tỉnh Thừa Thiên Huế. (21/2022/NQ-HĐND)
+  * Quy định chi tiết một số điều của Luật Hỗ trợ doanh nghiệp vừa và nhỏ (Nghị định 39/2018/NĐ-CP)
+  * Ban hành Quy định một số chính sách hỗ trợ doanh nghiệp nhỏ và vừa tỉnh Thừa Thiên Huế (39/2018/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: - Doanh nghiệp đăng ký thành lập trên địa bàn tỉnh, tổ chức và hoạt động theo quy định của pháp luật về doanh nghiệp, đáp ứng các tiêu chí xác định doanh nghiệp nhỏ và vừa theo quy định tại Điều 6, Nghị định 39/2018/NĐ-CP ngày 11/3/2018 của Chính phủ quy định một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa.
+- Doanh nghiệp nhỏ và vừa thực hiện hoạt động đầu tư sản xuất, kinh doanh tại Khu công nghiệp Phú Đa và Khu công nghiệp Quảng Vinh.
+- Doanh nghiệp nhỏ và vừa được nhận hỗ trợ khi đã thực hiện đầy đủ quy định trong Quy định một số chính sách hỗ trợ doanh nghiệp nhỏ và vừa tỉnh Thừa Thiên Huế ban hành kèm theo Quyết định số 39 /2018/QĐ-UBND ngày 28/6/2018 của UBND Thừa Thiên Huế và quy định khác của pháp luật có liên quan.
+- Thời gian hỗ trợ: 
++ Trường hợp Khu công nghiệp Phú Đa và Khu công nghiệp Quảng Vinh chưa có đơn vị kinh doanh hạ tầng: thời gian hỗ trợ là 02 năm, sau thời gian được miễn tiền thuê đất theo quy định hiện hành của nhà nước.
++ Trường hợp Khu công nghiệp Phú Đa và Khu công nghiệp Quảng Vinh đã có đơn vị kinh doanh hạ tầng: thời gian hỗ trợ là 05 năm kể từ ngày doanh nghiệp ký hợp đồng thuê lại đất lần đầu với đơn vị kinh doanh hạ tầng.
+Từ khóa: Không có thông tin
+Mô tả: - Doanh nghiệp đăng ký thành lập trên địa bàn tỉnh, tổ chức và hoạt động theo quy định của pháp luật về doanh nghiệp, đáp ứng các tiêu chí xác định doanh nghiệp nhỏ và vừa theo quy định tại Điều 6, Nghị định 39/2018/NĐ-CP ngày 11/3/2018 của Chính phủ quy định một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa.
+- Doanh nghiệp nhỏ và vừa thực hiện hoạt động đầu tư sản xuất, kinh doanh tại Khu công nghiệp Phú Đa và Khu công nghiệp Quảng Vinh.
+- Doanh nghiệp nhỏ và vừa được nhận hỗ trợ khi đã thực hiện đầy đủ quy định trong Quy định một số chính sách hỗ trợ doanh nghiệp nhỏ và vừa tỉnh Thừa Thiên Huế ban hành kèm theo Quyết định số 39 /2018/QĐ-UBND ngày 28/6/2018 của UBND Thừa Thiên Huế và quy định khác của pháp luật có liên quan.
+- Thời gian hỗ trợ: 
++ Trường hợp Khu công nghiệp Phú Đa và Khu công nghiệp Quảng Vinh chưa có đơn vị kinh doanh hạ tầng: thời gian hỗ trợ là 02 năm, sau thời gian được miễn tiền thuê đất theo quy định hiện hành của nhà nước.
++ Trường hợp Khu công nghiệp Phú Đa và Khu công nghiệp Quảng Vinh đã có đơn vị kinh doanh hạ tầng: thời gian hỗ trợ là 05 năm kể từ ngày doanh nghiệp ký hợp đồng thuê lại đất lần đầu với đơn vị kinh doanh hạ tầng.

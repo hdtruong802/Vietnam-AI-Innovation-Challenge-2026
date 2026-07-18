@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013818
+Số quyết định: 160/QĐ-BTP
+Tên thủ tục: Đăng ký tham dự kiểm tra  kết quả tập sự hành nghề công chứng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công chứng
+Trình tự thực hiện:
+    Người đăng ký tham dự kiểm tra kết quả tập sự lập 01 bộ hồ sơ đăng ký tham dự kiểm tra, nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử đến Sở Tư pháp nơi đăng ký tập sự.
+    Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp thông báo bằng văn bản cho người đăng ký tham dự kiểm tra về việc đủ điều kiện đề nghị Bộ Tư pháp cho tham dự kiểm tra; trường hợp từ chối thì phải thông báo bằng văn bản có nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 3500000 VNĐ (/hồ sơ)
+    Mô tả: (áp dụng mức phí 1.750.000 đồng/hồ sơ kể từ ngày 01/7/2025 đến hết ngày 31/12/2026 theo Thông tư số 64/2025/TT-BTC).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 3500000 VNĐ (/hồ sơ)
+    Mô tả: (áp dụng mức phí 1.750.000 đồng/hồ sơ kể từ ngày 01/7/2025 đến hết ngày 31/12/2026 theo Thông tư số 64/2025/TT-BTC).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 3500000 VNĐ (/hồ sơ)
+    Mô tả: (áp dụng mức phí 1.750.000 đồng/hồ sơ kể từ ngày 01/7/2025 đến hết ngày 31/12/2026 theo Thông tư số 64/2025/TT-BTC).
+
+Thành phần hồ sơ:
+    - Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử giấy tờ chứng minh đã nộp phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử Quyết định công nhận hoàn thành tập sự
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy đăng ký tham dự kiểm tra kết quả tập sự hành nghề công chứng (Mẫu TP-TSCC-10 ban hành kèm theo Thông tư số 06/2025/TT-BTP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Tư pháp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Sở Tư pháp thông báo bằng văn bản cho người đăng ký tham dự kiểm tra về việc đủ điều kiện đề nghị Bộ Tư pháp cho tham dự kiểm tra; trường hợp từ chối thì phải thông báo bằng văn bản có nêu rõ lý do.
+Căn cứ pháp lý:
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý, sử dụng phí công chứng; phí chứng thực bản sao từ bản chính, chứng thực chữ ký trong giấy tờ, văn bản; phí thẩm định tiêu chuẩn, điều kiện hành nghề công chứng; phí thẩm định điều kiện hoạt động Văn phòng công chứng; lệ phí cấp thẻ công chứng viên (257/2016/TT-BTC)
+  * Thông tư 06/2025/TT-BTP quy định về tập sự hành nghề công chứng (06/2025/TT-BTP)
+
+Yêu cầu, điều kiện thực hiện: 1. Những người sau đây được đăng ký tham dự kiểm tra:
+
+a) Đã được công nhận hoàn thành tập sự theo quy định tại Điều 11 của Thông tư số 06/2025/TT-BTP;
+
+b) Đã tham dự nhưng không đạt yêu cầu trong kỳ kiểm tra trước, trừ trường hợp không đạt yêu cầu trong 03 kỳ kiểm tra trước mà chưa tập sự lại.
+
+2. Những người sau đây không được đăng ký tham dự kiểm tra:
+
+a) Đã được công nhận hoàn thành tập sự nhưng bị hủy bỏ kết quả đã được công nhận;
+
+b) Sao chép Báo cáo kết quả tập sự, Sổ nhật ký tập sự của người khác hoặc có hành vi gian dối, không trung thực khác để được đăng ký tham dự kiểm tra;
+
+c) Đã tham dự nhưng không đạt yêu cầu trong 03 kỳ kiểm tra kết quả tập sự mà chưa tập sự lại.
+Từ khóa: Không có thông tin
+Mô tả: 1. Những người sau đây được đăng ký tham dự kiểm tra:
+
+a) Đã được công nhận hoàn thành tập sự theo quy định tại Điều 11 của Thông tư số 06/2025/TT-BTP;
+
+b) Đã tham dự nhưng không đạt yêu cầu trong kỳ kiểm tra trước, trừ trường hợp không đạt yêu cầu trong 03 kỳ kiểm tra trước mà chưa tập sự lại.
+
+2. Những người sau đây không được đăng ký tham dự kiểm tra:
+
+a) Đã được công nhận hoàn thành tập sự nhưng bị hủy bỏ kết quả đã được công nhận;
+
+b) Sao chép Báo cáo kết quả tập sự, Sổ nhật ký tập sự của người khác hoặc có hành vi gian dối, không trung thực khác để được đăng ký tham dự kiểm tra;
+
+c) Đã tham dự nhưng không đạt yêu cầu trong 03 kỳ kiểm tra kết quả tập sự mà chưa tập sự lại.

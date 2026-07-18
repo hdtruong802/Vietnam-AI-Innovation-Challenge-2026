@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007855
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan xử lý nguyên liệu, vật tư dư thừa; phế thải, phế liệu, phế phẩm; máy móc, thiết bị thuê, mượn
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    + Bước 1: Căn cứ theo các hình thức (bán, biếu, tặng tại thị trường Việt Nam; hoặc chuyển sang thực hiện hợp đồng gia công khác tại Việt Nam; xuất trả ra nước ngoài) theo quy định tại khoản 2 Điều 64 Thông tư số 38/2015/TT-BTC (đã được sửa đổi, bổ sung tại khoản 42 Điều 1 Thông tư 39/2018/TT-BTC ngày 20/4/2018) để thực hiện thủ tục thay đổi mục đích sử dụng hoặc thủ tục xuất nhập khẩu tại chỗ hoặc thủ tục xuất trả nguyên liệu, vật tư, phế liệu, phế phẩm ra nước ngoài.
+    Trường hợp tiêu huỷ: cơ quan, tổ chức có văn bản gửi Chi cục Hải quan nơi nhập khẩu nguyên liệu, vật tư phương án sơ huỷ, tiêu huỷ nguyên liệu, vật tư, phế liệu, phế phẩm. Cơ quan hải quan chịu trách nhiệm giám sát việc tiêu huỷ.
+    Người khai hải quan thực hiện việc khai báo hải quan và xuất trình hồ sơ hải quan (trong trường hợp phải kiểm tra hồ sơ), xuất trình thực tế hàng hoá (trong trường hợp phải kiểm tra thực tế hàng hoá) cho cơ quan hải quan.
+    + Bước 2:Cơ quan hải quan thực hiện việc thông quan hàng hoá cho người khai hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 HOUR
+    Phí, lệ phí: 20 VNĐ (20.000 đ/tờ khai (Thông tư số 172/2010/TT-BTC). Không lệ phí trong trường hợp chuyển sang hợp đồng gia công khác.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 2 Điều 25 Nghị định số 08/2015/NĐ-CP, người khai hải quan khai và nộp 02 bản chính tờ khai hàng hóa xuất khẩu theo mẫu HQ/2015/XK Phụ lục IV ban hành kèm Thông tư số 38/2015/TT-BTC
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Tờ khai hàng hóa xuất khẩu theo các chỉ tiêu thông tin tại Phụ lục II ban hành kèm Thông tư số 38/2015/TT-BTC.
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông quan hàng hóa nhập khẩu, xuất khẩu, Tiêu hủy hàng hóa hoặc xác nhận vào văn bản thông báo đề nghị chuyển sang hợp đồng khác
+Căn cứ pháp lý:
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

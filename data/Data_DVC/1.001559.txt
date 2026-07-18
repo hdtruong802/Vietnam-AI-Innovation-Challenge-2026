@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001559
+Số quyết định: 1107/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận danh sách nhân sự dự kiến của tổ chức tín dụng là hợp tác xã
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    - Bước 1: Tối thiểu 40 ngày trước ngày dự kiến họp Đại hội thành viên hoặc ngày Hội đồng quản trị dự kiến bổ nhiệm (bao gồm cả trường hợp thuê) Tổng Giám đốc (Giám đốc), tổ chức tín dụng là hợp tác xã lập hồ sơ theo quy định gửi Ngân hàng Nhà nước.
+    Ngân hàng Nhà nước khai thác các thông tin cần thiết trong cơ sở dữ liệu quốc gia về dân cư khi xem xét, thẩm định thông tin về cư trú. Trong trường hợp không khai thác được các thông tin cần thiết trong cơ sở dữ liệu quốc gia về dân cư, Ngân hàng Nhà nước có quyền yêu cầu tổ chức tín dụng là hợp tác xã cung cấp văn bản xác nhận thông tin về cư trú đối với nhân sự dự kiến bầu, bổ nhiệm của cơ quan đăng ký cư trú có thẩm quyền theo quy định của pháp luật có liên quan;
+    Trường hợp hồ sơ chưa đầy đủ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức tín dụng là hợp tác xã bổ sung hồ sơ;
+    - Bước 2: Trong thời hạn 14 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước có văn bản chấp thuận danh sách nhân sự dự kiến của tổ chức tín dụng là hợp tác xã. Trường hợp từ chối, Ngân hàng Nhà nước trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - b) Nghị quyết của Hội đồng quản trị thông qua danh sách nhân sự dự kiến của tổ chức tín dụng là hợp tác xã, trong đó cam kết nhân sự dự kiến bầu, bổ nhiệm đảm bảo đủ tiêu chuẩn, điều kiện theo quy định tại Luật Các tổ chức tín dụng số 32/2024/QH15, các quy định của pháp luật có liên quan và quy định tại Điều lệ của tổ chức tín dụng là hợp tác xã;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Sơ yếu lý lịch cá nhân của nhân sự dự kiến bầu, bổ nhiệm theo mẫu tại Phụ lục XI ban hành kèm theo Thông tư số 73/2025/TT-NHNN;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Văn bản đánh giá của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài nơi nhân sự dự kiến đã, đang công tác theo mẫu tại Phụ lục XIII ban hành kèm theo Thông tư số 73/2025/TT-NHNN, trừ tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đã giải thể, phá sản. Trường hợp tổ chức tín dụng nơi nhân sự đã từng công tác đã thực hiện tổ chức lại theo quy định của pháp luật, văn bản đánh giá do tổ chức tín dụng kế thừa quyền và nghĩa vụ thực hiện trên cơ sở hồ sơ, dữ liệu nhân sự được bàn giao, lưu trữ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - i) Các tài liệu chứng minh việc đáp ứng tiêu chuẩn, điều kiện về kinh nghiệm làm việc đối với nhân sự dự kiến giữ chức danh Chủ tịch và thành viên khác của Hội đồng quản trị, Trưởng ban và thành viên khác của Ban kiểm soát, Giám đốc (trường hợp Giám đốc là người đi thuê) của quỹ tín dụng nhân dân theo quy định của Ngân hàng Nhà nước, cụ thể: (i) Đối với chức danh Chủ tịch Hội đồng quản trị, thành viên khác của Hội đồng quản trị, Giám đốc (trường hợp Giám đốc là người đi thuê):  - Văn bản của người đại diện có thẩm quyền của tổ chức tín dụng nơi nhân sự dự kiến đã hoặc đang làm việc xác nhận chức vụ của nhân sự dự kiến là người quản lý, người điều hành và thời gian đảm nhiệm chức vụ; hoặc văn bản chứng minh chức vụ (bao gồm tài liệu chứng minh chức vụ đó là người quản lý, người điều hành) và thời gian đảm nhiệm chức vụ tại tổ chức tín dụng của nhân sự dự kiến; hoặc - Nội dung Điều lệ của doanh nghiệp quy định về người quản lý hoặc quy định nội bộ của doanh nghiệp trường hợp nội dung Điều lệ không quy định về người quản lý;  - Văn bản của người đại diện có thẩm quyền của đơn vị nơi nhân sự dự kiến đã hoặc đang làm việc xác nhận chức vụ của nhân sự dự kiến là người quản lý và thời gian đảm nhiệm chức vụ của nhân sự dự kiến; hoặc văn bản chứng minh chức vụ và thời gian đảm nhiệm chức vụ tại đơn vị của nhân sự dự kiến; hoặc - Văn bản của người đại diện có thẩm quyền của đơn vị nơi nhân sự dự kiến đã hoặc đang làm việc xác nhận nhân sự dự kiến làm việc trực tiếp tại bộ phận nghiệp vụ về tài chính, ngân hàng, kế toán, kiểm toán và thời gian nhân sự dự kiến làm việc tại các bộ phận này; hoặc văn bản chứng minh việc phân công, bố trí công tác và thời gian đảm nhận nhiệm vụ của nhân sự dự kiến tại các bộ phận nghiệp vụ này. (ii) Đối với chức danh Trưởng Ban kiểm soát, thành viên khác của Ban kiểm soát:  - Văn bản của người đại diện có thẩm quyền của đơn vị nơi nhân sự dự kiến đã hoặc đang làm việc xác nhận nhân sự dự kiến làm việc trực tiếp trong lĩnh vực tài chính, ngân hàng, kế toán, kiểm toán và thời gian nhân sự dự kiến làm việc tại lĩnh vực này; hoặc văn bản chứng minh chức danh, vị trí công tác và thời gian đảm nhận nhiệm vụ của nhân sự dự kiến; - Văn bản của người đại diện có thẩm quyền của đơn vị nơi nhân sự dự kiến đã hoặc đang làm việc xác nhận nhân sự dự kiến làm việc trực tiếp tại bộ phận nghiệp vụ về tài chính, ngân hàng, kế toán, kiểm toán và thời gian nhân sự dự kiến làm việc tại các bộ phận này; hoặc văn bản chứng minh việc phân công, bố trí công tác và thời gian đảm nhận nhiệm vụ của nhân sự dự kiến tại các bộ phận nghiệp vụ này.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - h) Các tài liệu chứng minh việc đáp ứng tiêu chuẩn, điều kiện về kinh nghiệm làm việc đối với nhân sự dự kiến giữ chức danh Chủ tịch và thành viên khác của Hội đồng quản trị, Trưởng ban và thành viên khác của Ban kiểm soát, Tổng Giám đốc của ngân hàng hợp tác xã theo quy định của Ngân hàng Nhà nước, cụ thể: (i) Đối với chức danh Chủ tịch Hội đồng quản trị, thành viên khác của Hội đồng quản trị:  - Văn bản của người đại diện có thẩm quyền của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài nơi nhân sự dự kiến đã hoặc đang làm việc xác nhận chức danh, vị trí công tác và thời gian công tác của nhân sự dự kiến tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài; hoặc văn bản chứng minh lĩnh vực công tác, thời gian đảm nhận nhiệm vụ của nhân sự dự kiến tại lĩnh vực này;  - Văn bản của người đại diện có thẩm quyền của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài nơi nhân sự dự kiến đã hoặc đang làm việc xác nhận chức vụ của nhân sự dự kiến là người quản lý, người điều hành và thời gian đảm nhiệm chức vụ; hoặc văn bản chứng minh chức vụ (bao gồm tài liệu chứng minh chức vụ đó là người quản lý, người điều hành) và thời gian đảm nhiệm chức vụ tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài của nhân sự dự kiến; (ii) Đối với chức danh Trưởng Ban kiểm soát, thành viên khác của Ban kiểm soát: Văn bản của người đại diện có thẩm quyền của đơn vị nơi nhân sự dự kiến đã hoặc đang làm việc xác nhận chức danh, vị trí công tác và thời gian công tác của nhân sự dự kiến tại đơn vị; hoặc văn bản chứng minh lĩnh vực công tác, thời gian đảm nhận nhiệm vụ của nhân sự dự kiến tại lĩnh vực này; (iii) Đối với chức danh Tổng Giám đốc: Văn bản của người đại diện có thẩm quyền của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài nơi nhân sự dự kiến đã hoặc đang làm việc xác nhận chức vụ của nhân sự dự kiến là người quản lý, người điều hành và thời gian đảm nhiệm chức vụ; hoặc văn bản chứng minh chức vụ (bao gồm tài liệu chứng minh chức vụ đó là người quản lý, người điều hành) và thời gian đảm nhiệm chức vụ tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài của nhân sự dự kiến.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Văn bản đề nghị chấp thuận danh sách nhân sự dự kiến theo mẫu tại Phụ lục X ban hành kèm theo Thông tư số 73/2025/TT-NHNN;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ)Các văn bằng, chứng chỉ của nhân sự dự kiến bầu, bổ nhiệm chứng minh về việc đáp ứng tiêu chuẩn, điều kiện theo quy định của Ngân hàng Nhà nước do cơ sở giáo dục nước ngoài cấp được cơ quan có thẩm quyền của Việt Nam công nhận theo quy định của pháp luật có liên quan (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - g) Đối với nhân sự dự kiến bầu, bổ nhiệm thuộc trường hợp ngoại lệ quy định tại điểm c khoản 1, điểm đ, e khoản 2 Điều 42 Luật số 32/2024/QH15: Văn bản của cơ quan có thẩm quyền cử nhân sự dự kiến làm đại diện quản lý phần vốn góp của Nhà nước, của doanh nghiệp mà Nhà nước nắm giữ từ 50% vốn điều lệ trở lên tại tổ chức tín dụng; cử, chỉ định, bổ nhiệm nhân sự dự kiến tham gia quản lý, điều hành, kiểm soát tổ chức tín dụng hoặc tổ chức tín dụng bị tuyên bố phá sản theo yêu cầu nhiệm vụ (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Bản kê khai người có liên quan của nhân sự dự kiến bầu, bổ nhiệm theo mẫu tại Phụ lục XII ban hành kèm theo Thông tư số 73/2025/TT-NHNN;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Hợp tác xã
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực, Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận danh sách nhân sự dự kiến của tổ chức tín dụng là hợp tác xã, Văn bản từ chối danh sách nhân sự dự kiến của tổ chức tín dụng là hợp tác xã
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của một số Thông tư về tổ chức tín dụng là hợp tác xã liên quan đến
+cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính (15/2026/TT-NHNN)
+  * 73/2025/TT-NHNN (Số 73/2025/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Nhân sự dự kiến không thuộc một trong các trường hợp quy định tại khoản 1 Điều 12 Thông tư số 73/2025/TT-NHNN (đã được sửa đổi, bổ sung) phải đáp ứng các quy định như sau:
+- Nhân sự dự kiến đã, đang công tác tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải đáp ứng các quy định về quy tắc, chuẩn mực đạo đức nghề nghiệp do chính tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đó ban hành theo quy định của Ngân hàng Nhà nước về hệ thống kiểm soát nội bộ áp dụng đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài;
+- Nhân sự dự kiến phải đáp ứng các quy định về quy tắc, chuẩn mực đạo đức nghề nghiệp do tổ chức tín dụng là hợp tác xã ban hành theo quy định của Ngân hàng Nhà nước về hệ thống kiểm soát nội bộ áp dụng đối với tổ chức tín dụng là hợp tác xã.
+Từ khóa: Không có thông tin
+Mô tả: Nhân sự dự kiến không thuộc một trong các trường hợp quy định tại khoản 1 Điều 12 Thông tư số 73/2025/TT-NHNN (đã được sửa đổi, bổ sung) phải đáp ứng các quy định như sau:
+- Nhân sự dự kiến đã, đang công tác tại tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phải đáp ứng các quy định về quy tắc, chuẩn mực đạo đức nghề nghiệp do chính tổ chức tín dụng, chi nhánh ngân hàng nước ngoài đó ban hành theo quy định của Ngân hàng Nhà nước về hệ thống kiểm soát nội bộ áp dụng đối với tổ chức tín dụng, chi nhánh ngân hàng nước ngoài;
+- Nhân sự dự kiến phải đáp ứng các quy định về quy tắc, chuẩn mực đạo đức nghề nghiệp do tổ chức tín dụng là hợp tác xã ban hành theo quy định của Ngân hàng Nhà nước về hệ thống kiểm soát nội bộ áp dụng đối với tổ chức tín dụng là hợp tác xã.

@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010039
+Số quyết định: 9354/QĐ-BCA-C06
+Tên thủ tục: Điều chỉnh thông tin về cư trú trong Cơ sở dữ liệu về cư trú
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đăng ký, quản lý cư trú
+Trình tự thực hiện:
+    Bước 1: Cá nhân, cá nhân chuẩn bị hồ sơ theo quy định của pháp luật.
+    Bước 2: Cá nhân, cá nhân nộp hồ sơ đến Công an cấp xã.
+    Bước 3: Khi tiếp nhận hồ sơ điều chỉnh thông tin về cư trú trong Cơ sở dữ liệu về cư trú, cơ quan đăng ký cư trú kiểm tra tính pháp lý và nội dung hồ sơ:
+    - Trường hợp hồ sơ đã đầy đủ, hợp lệ thì tiếp nhận hồ sơ và cấp Phiếu tiếp nhận hồ sơ và hẹn trả kết quả (mẫu CT04 ban hành kèm theo Thông tư số 66/2023/TT-BCA) cho người đăng ký;
+    - Trường hợp hồ sơ không đủ điều kiện thì từ chối và cấp Phiếu từ chối tiếp nhận, giải quyết hồ sơ (mẫu CT06 ban hành kèm theo Thông tư số 66/2023/TT-BCA) cho người đăng ký.
+    Bước 4: Căn cứ theo ngày hẹn trên Phiếu tiếp nhận hồ sơ và hẹn trả kết quả để nhận thông báo kết quả giải quyết thủ tục đăng ký cư trú (nếu có).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tuyến qua các cổng cung cấp dịch vụ công trực tuyến như: Trực tuyến qua Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an, ứng dụng VNeID hoặc dịch vụ công trực tuyến khác theo quy định của pháp luật. Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 và sáng thứ 7 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của pháp luật).
+
+Thành phần hồ sơ:
+    - Tờ khai thay đổi thông tin cư trú (Mẫu CT01 ban hành kèm theo Thông tư số 53/2025/TT-BCA)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông tin về sự thay đổi trong Cơ sở dữ liệu hộ tịch điện tử. Trường hợp không có thông tin về sự thay đổi trong Cơ sở dữ liệu hộ tịch điện tử thì công dân xuất trình giấy tờ, tài liệu chứng minh việc điều chỉnh thông tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - *Lưu ý:  - Trường hợp công dân có sự điều chỉnh về hộ tịch mà các thông tin này đã được cập nhật, chia sẻ từ Cơ sở dữ liệu hộ tịch điện tử thì công dân không phải thực hiện thủ tục điều chỉnh thông tin về cư trú. - Đối với thủ tục điều chỉnh thông tin thay đổi chủ hộ, đối với trường hợp cần lấy ý kiến của các thành viên trong hộ gia đình thì các thành viên trong hộ gia đình xác nhận nội dung ý kiến thông qua Ứng dụng định danh quốc gia hoặc văn bản ghi rõ nội dung ý kiến (văn bản này không phải công chứng, chứng thực).
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Hợp tác xã
+Cơ quan thực hiện: Công an cấp Xã
+Cơ quan có thẩm quyền: Công an cấp Xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cập nhật thông tin trong Cơ sở dữ liệu về cư trú, Cập nhật thông tin trong Cơ sở dữ liệu quốc gia về dân cư, Thông báo kết quả giải quyết thủ tục về cư trú, hủy bỏ thủ tục về cư trú, Phiếu từ chối tiếp nhận, giải quyết hồ sơ (lĩnh vực cư trú)
+Căn cứ pháp lý:
+  * Thông tư số 54/2025/TT-BCA ngày 01/7/2025 của Bộ trưởng Bộ Công an quy định về quy trình đăng ký cư trú. (54/2025/TT-BCA)
+  * Thông tư 55/2021/TT-BCA (55/2021/TT-BCA)
+  * Thông tư 56/2021/TT-BCA (56/2021/TT-BCA)
+  * Thông tư số 53/2025/TT-BCAngày 01/7/2025 của Bộ Công an sửa đổi, bổ sung một số điều của Thông tư số 55/2021/TT-BCA ngày 15 tháng 5 năm 2021 của Bộ trưởng Bộ Công an quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú được sửa đổi, bổ sung bởi Thông tư số 66/2023/TT-BCA ngày 17 tháng 11 năm 2023; Thông tư số 56/2021/TT-BCA ngày 15 tháng 5 năm 2021 của Bộ trưởng Bộ Công an quy định về biểu mẫu trong đăng ký, quản lý cư trú được sửa đổi, bổ sung bởi Thông tư số 66/2023/TT-BCA ngày 17 tháng 11 năm 2023; Thông tư số 17/2024/TT-BCA ngày 15 tháng 5 năm 2024 của Bộ trưởng Bộ Công an quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước. (53/2025/TT-BCA)
+  * Thông tư số 66/2023/TT-BCA Sửa đổi, bổ sung một số điều của Thông tư số 55/2021/TT-BCA ngày 15/5/2021 quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú; Thông tư số 56/2021/TT-BCA ngày 15/5/2021 của Bộ trưởng Bộ Công an quy định về biểu mẫu trong đăng ký, quản lý cư trú; Thông tư số 57/2021/TT-BCA ngày 15/5/2021 của Bộ trưởng Bộ Công an quy định về quy trình đăng ký cư trú. (66/2023/TT-BCA)
+  * Luật Cư trú 2020 (68/2020/QH14)
+  * Thông tư 57/2021/TT-BCA (57/2021/TT-BCA)
+  * Thông tư số 75/2022/TT-BTC của Bộ Tài chính: Quy định mức thu, chế độ thu, nộp và quản lý lệ phí đăng ký cư trú (75/2022/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

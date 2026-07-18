@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010783
+Số quyết định: 556/QĐ-BNV
+Tên thủ tục: Tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công do Bộ Nội vụ quản lý
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    Bước 1: Cá nhân làm đơn đề nghị theo Mẫu số 22 Phụ lục I Nghị định số 131/2021/NĐ-CP gửi trên Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công kèm bản sao được chứng thực từ quyết định cấp giấy chứng nhận và trợ cấp, phụ cấp ưu đãi người có công.
+    Bước 2: Ủy ban nhân dân cấp xã trong thời gian 05 ngày làm việc kể từ ngày nhận được đơn, có trách nhiệm kiểm tra, xác minh, xác nhận đơn đề nghị, nếu đủ điều kiện thì có văn bản kèm các giấy tờ gửi Sở Nội vụ nơi quản lý hồ sơ người có công.
+    Bước 3: Sở Nội vụ trong thời gian 05 ngày làm việc kể từ ngày nhận đủ giấy tờ, có văn bản đề nghị Cục Người có công xem xét, tiếp nhận đối với trường hợp đề nghị vào cơ sở nuôi dưỡng, điều dưỡng do Cục quản lý.
+    Bước 4: Cục Người có công trong thời gian 03 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm ban hành quyết định tiếp nhận theo Mẫu số 71 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+    Trường hợp đặc biệt, người có công hoặc thân nhân liệt sĩ đang hưởng trợ cấp hằng tháng không thuộc đối tượng quy định tại Điều 111 Nghị định số 131/2021/NĐ-CP sống cô đơn thì thủ trưởng cơ quan, đơn vị trực tiếp quản lý trung tâm nuôi dưỡng xem xét quyết định đối với từng trường hợp cụ thể trong thời gian không quá 03 ngày làm việc.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 13 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công - 13 ngày làm việc kể từ ngày nhận đủ hồ sơ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện). 
+- Đối với trường hợp đặc biệt, người có công hoặc thân nhân liệt sĩ đang hưởng trợ cấp hằng tháng không thuộc đối tượng quy định tại Điều 111 Nghị định số 131/2021/NĐ-CP sống cô đơn: 16 ngày làm việc kể từ ngày nhận đủ hồ sơ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 13 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công - 13 ngày làm việc kể từ ngày nhận đủ hồ sơ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện). 
+- Đối với trường hợp đặc biệt, người có công hoặc thân nhân liệt sĩ đang hưởng trợ cấp hằng tháng không thuộc đối tượng quy định tại Điều 111 Nghị định số 131/2021/NĐ-CP sống cô đơn: 16 ngày làm việc kể từ ngày nhận đủ hồ sơ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 13 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công - 13 ngày làm việc kể từ ngày nhận đủ hồ sơ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện). 
+- Đối với trường hợp đặc biệt, người có công hoặc thân nhân liệt sĩ đang hưởng trợ cấp hằng tháng không thuộc đối tượng quy định tại Điều 111 Nghị định số 131/2021/NĐ-CP sống cô đơn: 16 ngày làm việc kể từ ngày nhận đủ hồ sơ.
+
+Thành phần hồ sơ:
+    - Bản sao được chứng thực từ quyết định cấp giấy chứng nhận và trợ cấp, phụ cấp ưu đãi người có công,
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị theo Mẫu số 22 Phụ lục I Nghị định số 131/2021/NĐ-CP,
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Cục Người có công
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về việc tiếp nhận người có công vào cơ sở nuôi dưỡng, điều dưỡng người có công
+Căn cứ pháp lý:
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Nội vụ (129/2025/NĐ-CP)
+  * QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THI HÀNH PHÁP LỆNH ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Nghị định số 131/2021/NĐ-CP)
+  * Pháp lệnh ưu đãi người có công với cách mạng (02/2020/UBTVQH14)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

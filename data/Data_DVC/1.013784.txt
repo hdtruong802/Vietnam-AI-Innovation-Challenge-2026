@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013784
+Số quyết định: 1198/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục chấp thuận thay đổi nội dung ghi trong giấy phép xuất bản thêm ấn phẩm báo chí (đối với cơ quan báo chí của địa phương)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Báo chí
+Trình tự thực hiện:
+    - Trường hợp thay đổi nội dung ghi trong giấy phép xuất bản thêm ấn phẩm báo chí, cơ quan báo chí của địa phương nộp 01 bộ hồ sơ đề nghị Ủy ban nhân dân cấp tỉnh chấp thuận.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh có trách nhiệm tiếp nhận chính thức hoặc yêu cầu chỉnh sửa, bổ sung hồ sơ.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận chính thức hồ sơ, Ủy ban nhân dân cấp tỉnh chấp thuận bằng văn bản; trường hợp không chấp thuận phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Mẫu trình bày tên gọi ấn phẩm báo chí (bản màu) có xác nhận của cơ quan chủ quản báo chí (đối với trường hợp thay đổi tên gọi cơ quan chủ quản báo chí, tên gọi cơ quan báo chí, tên gọi ấn phẩm báo chí; hình thức trình bày, vị trí của tên gọi ấn phẩm báo chí).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị của cơ quan báo chí địa phương
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo đánh giá việc thực hiện tôn chỉ, mục đích theo Giấy phép xuất bản thêm ấn phẩm báo chí có xác nhận của cơ quan chủ quản báo chí địa phương (đối với trường hợp thay đổi tôn chỉ, mục đích).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận thay đổi nội dung ghi trong giấy phép xuất bản thêm ấn phẩm báo chí đối với cơ quan báo chí của địa phương
+Căn cứ pháp lý:
+  * Nghị định quy định về phân quyền, phân cấp trong lĩnh vực văn hóa, thể thao và du lịch (138/2025/NĐ-CP)
+  * Luật báo chí (103/2016/QH13)
+  * Nghị quyết số 66.18/2026/NQ-CP của Chính phủ: Phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (66.18/2026/NQ-CP)
+  * Thông tư 41/2020/TT-BTTTT (41/2020/TT-BTTTT)
+
+Yêu cầu, điều kiện thực hiện: Không quy định
+Từ khóa: Không có thông tin
+Mô tả: Không quy định

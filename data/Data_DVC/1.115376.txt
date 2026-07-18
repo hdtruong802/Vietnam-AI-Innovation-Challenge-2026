@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115376
+Số quyết định: 2758/QĐ-UBND
+Tên thủ tục: Bồi thường, hỗ trợ, tái định cư, thu hồi đất đối với phần diện tích còn lại không thoả thuận được của dự án sử dụng đất thông qua thoả thuận về nhận quyền sử dụng đất
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đất đai
+Trình tự thực hiện:
+  * Bồi thường, hỗ trợ, tái định cư, thu hồi đất đối với phần diện tích còn lại không thoả thuận được của dự án sử dụng đất thông qua thoả thuận về nhận quyền sử dụng đất
+    Bước 1: Tổ chức kinh tế đề nghị nộp hồ sơ đến Trung tâm Phục vụ hành chính công tỉnh.
+    Khi nộp hồ sơ, tổ chức kinh tế nộp hồ sơ được lựa chọn nộp bản sao giấy tờ và xuất trình bản chính để cán bộ tiếp nhận hồ sơ kiểm tra, đối chiếu hoặc nộp bản chính giấy tờ hoặc nộp bản sao giấy tờ đã có công chứng hoặc chứng thực theo quy định của pháp luật về công chứng, chứng thực. Trường hợp nộp hồ sơ theo hình thức trực tuyến thì hồ sơ nộp phải được số hóa từ bản chính hoặc bản sao giấy tờ đã được công chứng, chứng thực.
+    Trường hợp Trung tâm Phục vụ hành chính công tiếp nhận hồ sơ thì chuyển hồ sơ đến Cơ quan chuyên môn về nông nghiệp và môi trường.
+    Bước 2: Cơ quan chuyên môn về nông nghiệp và môi trường thực hiện:
+    Chủ trì, phối hợp với các cơ quan, đơn vị có liên quan rà soát hồ sơ; trường hợp hồ sơ đảm bảo theo quy định thì trình cho Ủy ban nhân dân tỉnh.
+    Bước 3: Ủy ban nhân dân tỉnh xem xét trình Hội đồng Nhân dân cùng cấp xem xét việc thu hồi phần diện tích đất còn lại không thỏa thuận được để thực hiện dự án và ban hành Nghị quyết.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+Đối với các xã miền núi, hải đảo, vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian được tăng thêm 10 ngày làm việc.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+Đối với các xã miền núi, hải đảo, vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian được tăng thêm 10 ngày làm việc.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+Đối với các xã miền núi, hải đảo, vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian được tăng thêm 10 ngày làm việc.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị thu hồi đất theo Mẫu số 35 ban hành kèm theo Quyết định 104/2026/QĐ-UBND ngày 29/6/2026 của UBND tỉnh Gia Lai
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đồng ý cho thực hiện dự án thông qua thỏa thuận về nhận quyền sử dụng đất
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Biên bản cuộc họp do Ủy ban nhân dân cấp xã nơi có đất tổ chức họp với người sử dụng đất, chủ sở hữu tài sản gắn liền với đất, tổ chức kinh tế và người có quyền lợi nghĩa vụ liên quan (nếu có) để tiếp tục thực hiện phương án thoả thuận về nhận quyền sử dụng đất của tổ chức kinh tế
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản chấp thuận chủ trương đầu tư hoặc quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư hoặc quyết định chấp thuận nhà đầu tư đối với dự án thuộc diện phải chấp thuận chủ trương đầu tư hoặc quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư hoặc quyết định chấp thuận nhà đầu tư
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Hội đồng nhân dân tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Nghị quyết Hội đồng nhân dân
+Căn cứ pháp lý:
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp, phân quyền, phân cấp trong lĩnh vực đất đai (151/2025/NĐ-CP)
+  * Quy định một số cơ chế, chính sách tháo gỡ khó khăn vướng mắc trong tổ chức thi hành Luật Đất đai (254/2025/QH15)
+  * Quy định trình tự, thủ tục hành chính về đất đai  trên địa bàn tỉnh Gia Lai (104/2026/QĐ-UBND)
+  * Luật Đất đai ngày 18/01/2024; (31/2024/QH15)
+  * quy định chi tiết và hướng dẫn một số điều của Nghị quyết số 254/2025/QH15 của Quốc hội quy định một số cơ chế, chính sách tháo gỡ khó khăn vướng mắc trong tổ chức thi hành Luật Đất đai (49/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Dự án sử dụng đất thông qua thỏa thuận về nhận quyền sử dụng đất quy định tại điểm b khoản 2 và điểm d khoản 13 Điều 3 của Nghị quyết số 254/2025/QH15, đã thỏa thuận được trên 75% diện tích đất và trên 75% số lượng người sử dụng đất, phần diện tích và số lượng người sử dụng đất còn lại không thỏa thuận được.
+Từ khóa: Không có thông tin
+Mô tả: Dự án sử dụng đất thông qua thỏa thuận về nhận quyền sử dụng đất quy định tại điểm b khoản 2 và điểm d khoản 13 Điều 3 của Nghị quyết số 254/2025/QH15, đã thỏa thuận được trên 75% diện tích đất và trên 75% số lượng người sử dụng đất, phần diện tích và số lượng người sử dụng đất còn lại không thỏa thuận được.

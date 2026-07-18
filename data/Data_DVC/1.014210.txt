@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014210
+Số quyết định: 6636/QĐ-BCA-C12
+Tên thủ tục: Ủy thác cho vay vốn từ Quỹ Phát triển dữ liệu quốc gia
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Dữ liệu
+Trình tự thực hiện:
+    - Bước 1: Ngân hàng thẩm định hồ sơ đề nghị vay vốn của tổ chức có nhu cầu vay vốn theo quy định của pháp luật.
+    - Bước 2: Ngân hàng thông báo cho Quỹ Phát triển dữ liệu quốc gia kết quả xử lý hồ sơ theo quy định.
+    - Bước 3: Quỹ Phát triển dữ liệu quốc gia tiếp nhận hồ sơ từ ngân hàng.
+    - Bước 4: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ từ ngân hàng, Quỹ Phát triển dữ liệu quốc gia đánh giá hồ sơ đề nghị ủy thác cho vay và quyết định phê duyệt hồ sơ đề nghị ủy thác cho vay của ngân hàng và thông báo bằng văn bản cho ngân hàng về việc đồng ý hoặc từ chối phê duyệt hồ sơ đề nghị ủy thác. Trường hợp từ chối phê duyệt, phải nêu rõ lý do từ chối.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị ủy thác cho vay của ngân hàng
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Hồ sơ đề nghị vay vốn
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Hồ sơ dự án sản xuất kinh doanh và các tài liệu khác chứng minh tổ chức có đủ điều kiện vay vốn theo quy định
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Công an
+Cơ quan có thẩm quyền: Trung tâm Dữ liệu quốc gia
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hợp đồng ủy thác cho vay
+Căn cứ pháp lý:
+  * Luật dữ liệu (60/2024/QH15)
+  * Nghị định quy định về Quỹ Phát triển dữ liệu quốc gia (160/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

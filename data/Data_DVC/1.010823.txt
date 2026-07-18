@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010823
+Số quyết định: 320/QĐ-BNV
+Tên thủ tục: Hưởng lại chế độ ưu đãi
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    Bước 1: Người có công hoặc thân nhân làm đơn đề nghị hưởng lại chế độ theo Mẫu số 24 Phụ lục I Nghị định số 131/2021/NĐ-CP gửi cơ quan quản lý hồ sơ và thực hiện chế độ ưu đãi kèm theo các giấy tờ quy định.
+    Bước 2: Cơ quan quản lý hồ sơ và thực hiện chế độ ưu đãi trong thời gian 12 ngày kể từ ngày nhận đủ giấy tờ có trách nhiệm kiểm tra, nếu đủ điều kiện thì ban hành quyết định hưởng lại chế độ ưu đãi theo Mẫu số 73 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: kể từ ngày nhận được đơn theo quy định (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: kể từ ngày nhận được đơn theo quy định (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+
+Thành phần hồ sơ:
+    - - Giấy tờ nhập cảnh (đối với trường hợp người có công hoặc thân nhân xuất cảnh trái phép nay trở về nước thường trú). Nếu trong thời gian 01 tháng sau khi nhập cảnh không có đơn đề nghị hưởng lại chế độ thì phải kèm theo Phiếu lý lịch tư pháp số 1 quy định tại Luật Lý lịch tư pháp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Phiếu lý lịch tư pháp số 1 quy định tại Luật Lý lịch tư pháp (đối với trường hợp người có công hoặc thân nhân mất tích nay trở về).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị theo Mẫu số 24 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Các giấy tờ chứng minh đã chấp hành xong hình phạt tù, thời điểm hưởng lại chế độ ưu đãi kể từ tháng liền kề sau tháng chấp hành xong hình phạt tù (đối với các trường hợp quy định tại khoản 1 Điều 54 Pháp lệnh).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Nội vụ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về việc hưởng lại chế độ đối với người có công hoặc thân nhân người có công
+Căn cứ pháp lý:
+  * ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Pháp lệnh số: 02/2020/UBTVQH14)
+  * QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THI HÀNH PHÁP LỆNH ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Nghị định số 131/2021/NĐ-CP)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

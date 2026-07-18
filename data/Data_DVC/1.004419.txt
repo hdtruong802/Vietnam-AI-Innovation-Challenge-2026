@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004419
+Số quyết định: 1243/QĐ-BGTVT
+Tên thủ tục: Cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ  cấp cho doanh nghiệp Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * Giải quyết TTHC:
+    Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ theo quy định, Cảng vụ hàng không có trách nhiệm xem xét, quyết định cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp theo mẫu. Trường hợp không cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp, phải nêu rõ lý do bằng văn bản.
+    Trường hợp hồ sơ đề nghị cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp chưa đầy đủ theo quy định, trong thời hạn 01 ngày làm việc, kể từ ngày nhận hồ sơ, Cảng vụ hàng không có văn bản hướng dẫn người đề nghị cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp hoàn chỉnh hồ sơ và thời hạn giải quyết được tính từ khi nhận được hồ sơ đầy đủ theo quy định.
+    Trường hợp hồ sơ đề nghị cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp chưa đầy đủ theo quy định, trong thời hạn 01 ngày làm việc, kể từ ngày nhận hồ sơ, Cảng vụ hàng không có văn bản hướng dẫn người đề nghị cấp Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp hoàn chỉnh hồ sơ và thời hạn giải quyết được tính từ khi nhận được hồ sơ đầy đủ theo quy định.
+  * Nộp hồ sơ TTHC:
+    Doanh nghiệp Việt Nam đăng ký xuất vận đơn hàng không thứ cấp của mình gửi 01 bộ hồ sơ đề nghị đăng ký xuất vận đơn hàng không thứ cấp đến Cảng vụ hàng không theo các hình thức trực tiếp, qua đường bưu chính, trên môi trường điện tử hoặc bằng các hình thức khác và phải chịu trách nhiệm về tính chính xác của các thông tin trong hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 2400000 VNĐ (lần cấp )
+    Mô tả: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 2400000 VNĐ (lần cấp )
+    Mô tả: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 2400000 VNĐ (lần cấp)
+    Mô tả: 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Vận đơn hàng không thứ cấp của doanh nghiệp giao nhận
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Cảng vụ hàng không
+Cơ quan có thẩm quyền: Cảng vụ hàng không
+Địa chỉ tiếp nhận HS: Các Cảng vụ hàng không
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký xuất vận đơn hàng không thứ cấp  cho doanh nghiệp giao nhận nước ngoài
+Căn cứ pháp lý:
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh vực hàng không dân dụng (28/2023/TT-BGTVT)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Sửa đổi, bổ sung, bãi bỏ một số điều của các Thông tư quy định  liên quan đến vận tải hàng không (19/2023/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

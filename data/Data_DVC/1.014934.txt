@@ -1,0 +1,79 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014934
+Số quyết định: 217/QĐ-BNV
+Tên thủ tục: THỦ TỤC HỢP NHẤT, SÁP NHẬP, CHIA, TÁCH, MỞ RỘNG PHẠM VI HOẠT ĐỘNG QUỸ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý nhà nước về hội, quỹ
+Trình tự thực hiện:
+    - Bước 1: Quỹ gửi hồ sơ đến Bộ Nội vụ đề nghị hợp nhất, sáp nhập, chia, tách, mở rộng phạm vi hoạt động quỹ.
+    - Bước 2: Cán bộ tiếp nhận hồ sơ xem xét hồ sơ và đề nghị bổ sung trong trường hợp hồ sơ chưa đầy đủ và hợp pháp. Trường hợp từ chối tiếp nhận, giải quyết hồ sơ phải nêu rõ lý do.
+    - Bước 3: Vụ Tổ chức phi chính phủ nghiên cứu, thẩm định hồ sơ, thực hiện quy trình lấy ý kiến các cơ quan có liên quan; tổng hợp các ý kiến góp ý đề nghị bổ sung thêm hồ sơ theo ý kiến góp ý (nếu có).
+    - Bước 4: Bộ Nội vụ quyết định cho phép hợp nhất, sáp nhập, chia, tách, mở rộng phạm vi hoạt động quỹ. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Bộ Nội vụ hoặc qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến. - 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ về việc cho phép hợp nhất, sáp nhập, chia, tách quỹ.
+- 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ và ý kiến của các cơ quan liên quan về việc cấp giấy phép thành lập và công nhận điều lệ quỹ trên cơ sở mở rộng phạm vi hoạt động.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Bộ Nội vụ hoặc qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến. - 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ về việc cho phép hợp nhất, sáp nhập, chia, tách quỹ.
+- 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ và ý kiến của các cơ quan liên quan về việc cấp giấy phép thành lập và công nhận điều lệ quỹ trên cơ sở mở rộng phạm vi hoạt động.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 45 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Bộ Nội vụ hoặc qua dịch vụ bưu chính hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền giải quyết. Nếu gửi qua dịch vụ bưu chính, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến. - 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ về việc cho phép hợp nhất, sáp nhập, chia, tách quỹ.
+- 45 ngày làm việc kể từ ngày cơ quan có thẩm quyền nhận đủ hồ sơ hợp lệ và ý kiến của các cơ quan liên quan về việc cấp giấy phép thành lập và công nhận điều lệ quỹ trên cơ sở mở rộng phạm vi hoạt động.
+
+Thành phần hồ sơ:
+  [ * Hồ sơ đề nghị hợp nhất, sáp nhập, chia, tách quỹ: ]
+    - - Đơn đề nghị hợp nhất, sáp nhập, chia, tách quỹ, trong đó nêu rõ lý do và tên gọi mới của quỹ (theo mẫu);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Dự thảo điều lệ quỹ (theo mẫu);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Nghị quyết của Hội đồng quản lý quỹ về việc hợp nhất, sáp nhập, chia, tách quỹ; ý kiến đồng ý bằng văn bản của sáng lập viên hoặc người đại diện hợp pháp của sáng lập viên (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Dự kiến nhân sự Hội đồng quản lý quỹ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Phương án giải quyết tài sản, tài chính, lao động khi hợp nhất, sáp nhập, chia, tách quỹ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Hồ sơ đề nghị mở rộng phạm vi hoạt động quỹ: ]
+    - - Đơn đề nghị cấp giấy phép thành lập và công nhận điều lệ quỹ trên cơ sở mở rộng phạm vi hoạt động (theo mẫu);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Dự thảo điều lệ quỹ (theo mẫu);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản của Ban sáng lập quỹ; Nghị quyết của Hội đồng quản lý quỹ về việc mở rộng phạm vi hoạt động của quỹ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tài liệu chứng minh tài sản đóng góp đảm bảo theo quy định tại Điều 16 Nghị định số 03/2026/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Trường hợp bổ sung sáng lập viên thành lập quỹ thực hiện Điều 13 Nghị định này, sơ yếu lý lịch cá nhân (theo mẫu kèm theo Nghị định 03/2026/NĐ-CP) không quá 06 tháng tính đến ngày nộp hồ sơ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo về quá trình tổ chức, hoạt động của quỹ và phương hướng hoạt động của quỹ khi được mở rộng phạm vi hoạt động;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo về quản lý, sử dụng tài sản, tài chính của quỹ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo kiểm toán (nếu có) về quản lý, sử dụng tài sản, tài chính của quỹ; phương án giải quyết tài sản, tài chính, lao động khi mở rộng phạm vi hoạt động của quỹ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cho phép hợp nhất, sáp nhập, chia, tách, mở rộng phạm vi hoạt động quỹ.
+Căn cứ pháp lý:
+  * Nghị định Về tổ chức, hoạt động của quỹ xã hội, quỹ từ thiện (03/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Các quỹ hợp nhất, quỹ được sáp nhập, quỹ bị chia chấm dứt tồn tại và hoạt động sau khi có quyết định của cơ quan nhà nước có thẩm quyền cho phép hợp nhất, sáp nhập và chia quỹ. Quyền và nghĩa vụ của các quỹ hợp nhất, quỹ được sáp nhập, quỹ bị chia được chuyển giao cho các quỹ mới và quỹ sáp nhập. 
+Đối với trường hợp tách quỹ, thì quỹ bị tách và quỹ được tách (quỹ thành lập mới) thực hiện quyền, nghĩa vụ phù hợp với mục đích hoạt động của quỹ và phải cùng liên đới chịu trách nhiệm về nghĩa vụ của quỹ trước khi tách. Sau khi quỹ được Bộ Nội vụ cho phép hợp nhất, sáp nhập, chia, tách, quỹ thực hiện việc công nhận quỹ đủ điều kiện hoạt động và công nhận Hội đồng quản lý quỹ theo quy định tại Điều 24, 26, 27 Nghị định 03/2026/NĐ-CP.
+- Sau khi quỹ được Bộ Nội vụ cấp giấy phép thành lập và công nhận điều lệ quỹ trên cơ sở mở rộng phạm vi hoạt động phải thực hiện việc công bố việc mở rộng phạm vi hoạt động của quỹ, công nhận quỹ đủ điều kiện hoạt động và công nhận thành viên Hội đồng quản lý quỹ theo quy định tại Điều 24, 26, 27 Nghị định 03/2026/NĐ-CP;
+- Trường hợp các quỹ thành lập mới do chia, tách phải đảm bảo điều kiện sáng lập viên, tài sản đóng góp thành lập quỹ.
+Từ khóa: Không có thông tin
+Mô tả: - Các quỹ hợp nhất, quỹ được sáp nhập, quỹ bị chia chấm dứt tồn tại và hoạt động sau khi có quyết định của cơ quan nhà nước có thẩm quyền cho phép hợp nhất, sáp nhập và chia quỹ. Quyền và nghĩa vụ của các quỹ hợp nhất, quỹ được sáp nhập, quỹ bị chia được chuyển giao cho các quỹ mới và quỹ sáp nhập. 
+Đối với trường hợp tách quỹ, thì quỹ bị tách và quỹ được tách (quỹ thành lập mới) thực hiện quyền, nghĩa vụ phù hợp với mục đích hoạt động của quỹ và phải cùng liên đới chịu trách nhiệm về nghĩa vụ của quỹ trước khi tách. Sau khi quỹ được Bộ Nội vụ cho phép hợp nhất, sáp nhập, chia, tách, quỹ thực hiện việc công nhận quỹ đủ điều kiện hoạt động và công nhận Hội đồng quản lý quỹ theo quy định tại Điều 24, 26, 27 Nghị định 03/2026/NĐ-CP.
+- Sau khi quỹ được Bộ Nội vụ cấp giấy phép thành lập và công nhận điều lệ quỹ trên cơ sở mở rộng phạm vi hoạt động phải thực hiện việc công bố việc mở rộng phạm vi hoạt động của quỹ, công nhận quỹ đủ điều kiện hoạt động và công nhận thành viên Hội đồng quản lý quỹ theo quy định tại Điều 24, 26, 27 Nghị định 03/2026/NĐ-CP;
+- Trường hợp các quỹ thành lập mới do chia, tách phải đảm bảo điều kiện sáng lập viên, tài sản đóng góp thành lập quỹ.

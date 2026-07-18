@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004250
+Số quyết định: 999/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục gia hạn giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+    - Chậm nhất 30 ngày trước khi hết hạn Giấy phép đã được cấp, cơ quan, tổ chức, doanh nghiệp muốn gia hạn Giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng đã được cấp lập 01 bộ hồ sơ gửi đến Cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh.
+    - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị hợp lệ, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh thẩm định, cấp gia hạn Giấy phép đã cấp theo Mẫu quy định. Việc xét gia hạn Giấy phép được thực hiện dựa trên việc cơ quan, tổ chức, doanh nghiệp tuân thủ các quy định trong Giấy phép và các quy định của pháp luật có liên quan về quản lý, cung cấp, sử dụng thông tin trên mạng.
+    - Trường hợp từ chối, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh có văn bản trả lời và nêu rõ lý do.
+    - Cơ quan, tổ chức, doanh nghiệp nhận kết quả tại cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh nơi mình nộp hồ sơ hoặc qua dịch vụ bưu chính, trừ trường hợp pháp luật có quy định khác.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị gia hạn giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng theo Mẫu số 06 tại Phụ lục IV kèm theo Nghị quyết số 18/2026/NQ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng
+Căn cứ pháp lý:
+  * Nghị định số 147/2024/NĐ-CP của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng (147/2024/NĐ-CP)
+  * Nghị quyết số 18/2026/NQ-CP ngày 29/4/2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, cắt giảm điều kiện đầu tư kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (18/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

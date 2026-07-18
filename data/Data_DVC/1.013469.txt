@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013469
+Số quyết định: 3783/QĐ-BCT
+Tên thủ tục: Cấp giấy phép nhập khẩu theo hạn ngạch thuế quan đối với phương tiện vận tải có động cơ cho Liên doanh giữa Việt Nam và Liên bang Nga
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    - Liên doanh gửi hồ sơ đề nghị cấp giấy phép nhập khẩu theo hạn ngạch thuế quan trực tiếp hoặc qua đường bưu điện hoặc trực tuyến (nếu áp dụng) tới Bộ Công Thương.
+    - Trường hợp hồ sơ chưa đầy đủ, chưa đúng quy định hoặc cần bổ sung tài liệu giải trình, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Công Thương thông báo để liên doanh hoàn thiện hồ sơ.
+    - Trong thời hạn 14 ngày kể từ khi nhận được hồ sơ đầy đủ  và đúng quy định, trên cơ sở công hàm hoặc thư thông báo phân bổ hạn ngạch thuế quan của Bộ Công Thương Liên bang Nga cho doanh nghiệp được ủy quyền của Liên bang Nga, Bộ Công Thương có văn bản trả lời liên doanh.
+    -  Liên doanh nhận Giấy phép nhập khẩu theo hạn ngạch thuế quan trực tiếp tại Bộ Công Thương hoặc qua đường bưu điện.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 14 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy tờ có giá trị pháp lý tương đương: 01 bản sao có đóng dấu của liên doanh
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Kế hoạch sản xuất của liên doanh đã được Bộ Công Thương phê duyệt, bao gồm các dòng thuế ở cấp độ 8 chữ số theo Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam dựa trên hệ thống hài hòa mô tả và mã hóa hàng hóa của Tổ chức Hải quan Thế giới tương ứng với các phương tiện vận tải có động cơ và/hoặc tất cả SKD của các phương tiện vận tải có động cơ cho sản xuất các phương tiện vận tải có động cơ, trừ các SKD của các phương tiện vận tải có động cơ được sản xuất trên lãnh thổ Việt Nam: 01 bản sao có đóng dấu của liên doanh.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Văn bản đề nghị cấp Giấy phép nhập khẩu theo hạn ngạch thuế quan: 01 bản chính (quy định tại Phụ lục II Quyết định số 20/2024/QĐ-TTg)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Cơ quan giải quyết TTHC khai thác, sử dụng thông tin đã có trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp để thay thế thành phần hồ sơ Bản sao giấy chứng nhận đăng ký doanh nghiệp.  Trường hợp Cơ quan giải quyết TTHC không khai thác được hoặc khai thác không đầy đủ dữ liệu doanh nghiệp trên Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp, Cơ quan giải quyết TTHC yêu cầu doanh nghiệp bổ sung Bản sao Giấy chứng nhận đăng ký doanh nghiệp theo quy định tại Điều 8 Nghị quyết 66.7/2025/NQ-CP ngày 15 tháng 11 năm2025 của Chính phủ quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: giấy phép nhập khẩu theo hạn ngạch thuế quan đối với phương tiện vận tải có động cơ cho Liên doanh giữa Việt Nam và Liên bang Nga
+Căn cứ pháp lý:
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Quyết định số 20/2024/QĐ-TTg ngày 21/11/2024 của Thủ tướng Chính phủ về hướng dẫn thực hiện Nghị định thư giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Liên bang Nga về hỗ trợ sản xuất phương tiện vận tải có động cơ trên lãnh thổ Việt Nam (20/2024/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Các liên doanh đủ điều kiện theo quy định tại Điều 4 Quyết định số 20/2024/QĐ-TTg ngày 21/11/2024.
+Từ khóa: Không có thông tin
+Mô tả: Các liên doanh đủ điều kiện theo quy định tại Điều 4 Quyết định số 20/2024/QĐ-TTg ngày 21/11/2024.

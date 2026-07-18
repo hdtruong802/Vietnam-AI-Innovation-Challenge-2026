@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011667
+Số quyết định: 964/QĐ-BTC
+Tên thủ tục: Thủ tục áp dụng mức thuế suất ưu đãi 0% của nhóm 98.49
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Doanh nghiệp gửi hồ sơ đề nghị áp dụng mức thuế suất ưu đãi 0% cho cơ quan hải quan nơi doanh nghiệp đóng trụ sở chính hoặc nơi có nhà máy sản xuất, lắp ráp trong vòng 60 ngày kể từ ngày 30 tháng 6 hoặc ngày 31 tháng 12. Trường hợp nộp hồ sơ quá thời hạn 60 ngày, cơ quan hải quan tiếp nhận hồ sơ, thực hiện kiểm tra và xử phạt vi phạm hành chính theo quy định của Chính phủ.
+    - Trường hợp doanh nghiệp có kỳ xét ưu đãi đầu tiên chưa đủ 06 tháng, doanh nghiệp nộp hồ sơ đề nghị áp dụng mức thuế suất ưu đãi 0% cùng thời điểm nộp hồ sơ đề nghị áp dụng thuế suất 0% của kỳ xét ưu đãi tiếp theo.
+    - Trường hợp hồ sơ đáp ứng đủ điều kiện áp dụng Chương trình ưu đãi thuế và doanh nghiệp có số tiền thuế đã nộp đối với số linh kiện ô tô đã nhập khẩu lớn hơn số tiền thuế phải nộp theo mức thuế suất của nhóm 98.49, cơ quan hải quan ra Quyết định hoàn trả và lập Lệnh hoàn trả số thuế nộp thừa cho doanh nghiệp theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành. Căn cứ Lệnh hoàn trả khoản thu ngân sách nhà nước của cơ quan hải quan, Kho bạc Nhà nước thực hiện hoàn trả thuế nhập khẩu nộp thừa cho doanh nghiệp. Nguồn hoàn trả thuế nộp thừa được lấy từ số thu của ngân sách trung ương về thuế xuất khẩu, thuế nhập khẩu.
+    - Trường hợp doanh nghiệp không đáp ứng đủ điều kiện để được áp dụng Chương trình ưu đãi thuế cơ quan hải quan có văn bản trả lời cho doanh nghiệp được biết.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Doanh nghiệp gửi hồ sơ trực tiếp đến cho cơ quan hải quan nơi doanh nghiệp đóng trụ sở chính hoặc nơi có nhà máy sản xuất, lắp ráp hoặc khai các chỉ tiêu thông tin thông qua Hệ thống xử lý dữ liệu điện tử hải quan, trường hợp Hệ thống xử lý dữ liệu điện tử hải quan chưa có chức năng tiếp nhận chỉ tiêu thông tin thì doanh nghiệp có thể nộp bản scan có xác nhận bằng chữ ký số các chứng từ thuộc hồ sơ.
+Trường hợp hồ sơ đáp ứng đủ điều kiện áp dụng Chương trình ưu đãi thuế và doanh nghiệp có số tiền thuế đã nộp đối với số linh kiện ô tô đã nhập khẩu lớn hơn số tiền thuế phải nộp theo mức thuế suất của nhóm 98.49, cơ quan hải quan ra Quyết định hoàn trả và lập Lệnh hoàn trả số thuế nộp thừa cho doanh nghiệp theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành. Căn cứ Lệnh hoàn trả khoản thu ngân sách nhà nước của cơ quan hải quan, Kho bạc Nhà nước thực hiện hoàn trả thuế nhập khẩu nộp thừa cho doanh nghiệp. Nguồn hoàn trả thuế nộp thừa được lấy từ số thu của ngân sách trung ương về thuế xuất khẩu, thuế nhập khẩu.
+Trường hợp doanh nghiệp không đáp ứng đủ điều kiện để được áp dụng Chương trình ưu đãi thuế cơ quan hải quan có văn bản trả lời cho doanh nghiệp được biết.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Doanh nghiệp gửi hồ sơ trực tiếp đến cho cơ quan hải quan nơi doanh nghiệp đóng trụ sở chính hoặc nơi có nhà máy sản xuất, lắp ráp hoặc khai các chỉ tiêu thông tin thông qua Hệ thống xử lý dữ liệu điện tử hải quan, trường hợp Hệ thống xử lý dữ liệu điện tử hải quan chưa có chức năng tiếp nhận chỉ tiêu thông tin thì doanh nghiệp có thể nộp bản scan có xác nhận bằng chữ ký số các chứng từ thuộc hồ sơ.
+Trường hợp hồ sơ đáp ứng đủ điều kiện áp dụng Chương trình ưu đãi thuế và doanh nghiệp có số tiền thuế đã nộp đối với số linh kiện ô tô đã nhập khẩu lớn hơn số tiền thuế phải nộp theo mức thuế suất của nhóm 98.49, cơ quan hải quan ra Quyết định hoàn trả và lập Lệnh hoàn trả số thuế nộp thừa cho doanh nghiệp theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành. Căn cứ Lệnh hoàn trả khoản thu ngân sách nhà nước của cơ quan hải quan, Kho bạc Nhà nước thực hiện hoàn trả thuế nhập khẩu nộp thừa cho doanh nghiệp. Nguồn hoàn trả thuế nộp thừa được lấy từ số thu của ngân sách trung ương về thuế xuất khẩu, thuế nhập khẩu.
+Trường hợp doanh nghiệp không đáp ứng đủ điều kiện để được áp dụng Chương trình ưu đãi thuế cơ quan hải quan có văn bản trả lời cho doanh nghiệp được biết.
+
+Thành phần hồ sơ:
+    - Phiếu kiểm tra chất lượng xuất xưởng của doanh nghiệp theo mẫu phiếu do Cục Đăng kiểm Việt Nam phát hành: bản sao có đóng dấu của doanh nghiệp (số lượng bản sao tương ứng với số lượng xe đã sản xuất, lắp ráp trong kỳ xét ưu đãi)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường ô tô sản xuất, lắp ráp: bản sao có chứng thực hoặc bản sao xuất trình bản chính để đối chiếu (số lượng bản sao tương ứng với số lượng kiểu loại xe sản xuất, lắp ráp)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Báo cáo tình hình sử dụng linh kiện ô tô nhập khẩu để sản xuất, lắp ráp xe xuất xưởng trong kỳ xét ưu đãi theo Mẫu số 06 quy định tại Phụ lục II ban hành kèm theo Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bảng kê các tờ khai hải quan, số tiền thuế nhập khẩu đã nộp theo Mẫu số 07 Phụ lục II ban hành kèm theo Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản thuyết minh thiết kế kỹ thuật của xe ô tô có dấu xác nhận thẩm định của Cục Đăng kiểm Việt Nam: bản sao có chứng thực hoặc bản chụp xuất trình bản chính để đối chiếu (số lượng bản sao tương ứng với kiểu loại xe sản xuất, lắp ráp)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Chứng từ kế toán thể hiện số lượng linh kiện nhập khẩu đã được sử dụng để sản xuất, lắp ráp các nhóm xe trong kỳ xét ưu đãi: 01 bản chụp
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Công văn đề nghị áp dụng mức thuế suất ưu đãi 0% của nhóm 98.49 theo Mẫu số 06a Phụ lục II ban hành kèm theo Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xử lý tiền thuế nộp thừa cho doanh nghiệp hoặc văn bản trả lời của cơ quan Hải quan
+Căn cứ pháp lý:
+  * Biểu thuế xuất khẩu, Biểu thuế nhập khẩu ưu đãi, Danh mục hàng hóa và mức thuế tuyệt đối, thuế hỗn hợp, thuế nhập khẩu ngoài hạn ngạch thuế quan (26/2023/NĐ-CP)
+  * Thuế xuất khẩu, thuế nhập khẩu (107/2016/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

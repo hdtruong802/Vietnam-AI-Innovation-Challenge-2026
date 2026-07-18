@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014888
+Số quyết định: 1263/QĐ-BKHCN
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký hoạt động thử nghiệm chất lượng sản phẩm, hàng hóa
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+    Bước 1: Tổ chức thử nghiệm nộp 01 bộ hồ sơ đăng ký theo hình thức dịch vụ công trực tuyến qua Cổng dịch vụ công quốc gia. Cổng dịch vụ công quốc gia được kết nối, chia sẻ dữ liệu với Cơ sở dữ liệu quốc gia về tiêu chuẩn, đo lường, chất lượng.
+    Trường hợp Cổng dịch vụ công quốc gia bị lỗi hoặc thủ tục hành chính này chưa hoàn thiện hạ tầng Dịch vụ công trực tuyến, tổ chức thử nghiệm nộp hồ sơ bản giấy theo quy định tại Nghị định số 22/2026/NĐ-CP theo hình thức nộp trực tiếp hoặc thông qua dịch vụ bưu chính tới Trung tâm phục vụ hành chính công cấp tỉnh.
+    Bước 2: Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét ký cấp mới Giấy chứng nhận đăng ký hoạt động thử nghiệm chất lượng sản phẩm, hàng hóa cho tổ chức thử nghiệm:
+    - Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan chuyên môn được Chủ tịch Ủy ban nhân dân cấp tỉnh phân cấp, ủy quyền thông báo yêu cầu tổ chức thử nghiệm sửa đổi, bổ sung.
+    - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 07 ngày làm việc, kể từ khi nhận được hồ sơ, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét ký cấp  Giấy chứng nhận đăng ký hoạt động thử nghiệm chất lượng sản phẩm, hàng hóa cho tổ chức thử nghiệm theo Mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP. Trường hợp tổ chức thử nghiệm có địa chỉ trụ sở chính khác địa chỉ đặt phòng thử nghiệm, trong Giấy chứng nhận này phải làm rõ địa chỉ của phòng thử nghiệm.
+    Trước khi Giấy chứng nhận hết thời hạn hiệu lực 90 ngày, nếu có nhu cầu tiếp tục tham gia hoạt động thử nghiệm, tổ chức thử nghiệm phải lập 01 bộ hồ sơ như đối với trường hợp cấp mới quy định tại khoản 2 Điều 43 Nghị định số 22/2026/NĐ-CP và gửi về cơ quan tiếp nhận hồ sơ theo quy định tại khoản 1 Điều 43 Nghị định số 22/2026/NĐ-CP. Trường hợp thử nghiệm viên của tổ chức thử nghiệm có hồ sơ tại các lần đăng ký cấp trước đó vẫn đáp ứng điều kiện quy định tại Nghị định số 22/2026/NĐ-CP, tổ chức thử nghiệm có văn bản gửi kèm theo bảo lưu hồ sơ nhân sự của thử nghiệm viên, không phải nộp các chứng chỉ, tài liệu liên quan đối với mỗi thử nghiệm viên theo quy định tại điểm b khoản 2 Điều 43 Nghị định số 22/2026/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp hồ sơ không đầy đủ theo quy định: 03 ngày làm việc.
+- Trường hợp hồ sơ đầy đủ và hợp lệ: 07 ngày làm việc.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp hồ sơ không đầy đủ theo quy định: 03 ngày làm việc.
+- Trường hợp hồ sơ đầy đủ và hợp lệ: 07 ngày làm việc.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp hồ sơ không đầy đủ theo quy định: 03 ngày làm việc.
+- Trường hợp hồ sơ đầy đủ và hợp lệ: 07 ngày làm việc.
+
+Thành phần hồ sơ:
+    - Danh sách máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phục vụ hoạt động thử nghiệm đối với lĩnh vực thử nghiệm đăng ký theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh năng lực hoạt động thử nghiệm đáp ứng các yêu cầu quy định tại khoản 2 Điều 42 Nghị định số 22/2026/NĐ-CP, cụ thể như sau:  - Trường hợp tổ chức thử nghiệm đã được tổ chức công nhận quy định tại Điều 58 Nghị định số 22/2026/NĐ-CP hoặc tổ chức công nhận thành lập tại nước ngoài quy định tại Điều 62 Nghị định số 22/2026/NĐ-CP công nhận đối với toàn bộ phạm vi đăng ký thử nghiệm: tổ chức thử nghiệm nộp bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận. - Trường hợp tổ chức thử nghiệm đã được tổ chức công nhận quy định tại Điều 58 Nghị định này hoặc tổ chức công nhận thành lập tại nước ngoài quy định tại Điều 62 Nghị định số 22/2026/NĐ-CP công nhận nhưng phạm vi đăng ký hoạt động thử nghiệm rộng hơn phạm vi được công nhận: tổ chức thử nghiệm nộp bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận và bản công bố năng lực thử nghiệm phù hợp với các yêu cầu của tiêu chuẩn quốc gia TCVN ISO/IEC 17025 hoặc tiêu chuẩn quốc tế ISO/IEC 17025 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế áp dụng trong lĩnh vực thử nghiệm chuyên ngành đối với phạm vi chưa được công nhận theo Mẫu số 17 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP. - Trường hợp tổ chức thử nghiệm chưa được công nhận: tổ chức thử nghiệm nộp bản công bố năng lực thử nghiệm phù hợp với các yêu cầu của tiêu chuẩn quốc gia TCVN ISO/IEC 17025 hoặc tiêu chuẩn quốc tế ISO/IEC 17025 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế áp dụng trong lĩnh vực thử nghiệm chuyên ngành theo Mẫu số 17 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các chứng chỉ, tài liệu liên quan đối với mỗi thử nghiệm viên gồm: bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao chứng chỉ đào tạo tương ứng quy định tại khoản 3 Điều 42 Nghị định số 22/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu Phiếu kết quả thử nghiệm
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đăng ký hoạt động thử nghiệm theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký hoạt động thử nghiệm (theo Mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP)
+Căn cứ pháp lý:
+  * Nghị định quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Tiêu chuẩn và quy chuẩn kỹ thuật (Nghị định số 22/2026/NĐ-CP)
+  * Luật số 70/2025/QH15 của Quốc hội: Luật sửa đổi, bổ sung một số điều của Luật Tiêu chuẩn và quy chuẩn kỹ thuật (70/2025/QH15)
+  * Luật Tiêu chuẩn và quy chuẩn kỹ thuật (68/2006/QH11)
+
+Yêu cầu, điều kiện thực hiện: 1. Là một trong các loại hình tổ chức quy định tại Điều 50 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật.
+2. Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025 hoặc tiêu chuẩn quốc tế ISO/IEC 17025 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế áp dụng trong lĩnh vực thử nghiệm chuyên ngành. 
+3. Có ít nhất 06 thử nghiệm viên chính thức của tổ chức (viên chức hoặc người lao động ký kết hợp đồng lao động thực hiện công việc chuyên môn, nghiệp vụ xác định thời hạn từ đủ 12 tháng trở lên hoặc người lao động ký kết hợp đồng lao động thực hiện công việc chuyên môn, nghiệp vụ không xác định thời hạn), đáp ứng các điều kiện sau:
+a) Tốt nghiệp cao đẳng trở lên với chuyên ngành phù hợp với lĩnh vực thử nghiệm đăng ký;
+b) Được đào tạo về tiêu chuẩn quốc gia TCVN ISO/IEC 17025 hoặc tiêu chuẩn quốc tế ISO/IEC 17025 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế áp dụng trong lĩnh vực thử nghiệm chuyên ngành; được đào tạo sử dụng thiết bị, phương pháp, quy trình thử nghiệm đối với lĩnh vực đăng ký.
+4. Có máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phù hợp với quy định của pháp luật và phù hợp với lĩnh vực đăng ký hoạt động thử nghiệm tương ứng.
+Từ khóa: Không có thông tin
+Mô tả: 1. Là một trong các loại hình tổ chức quy định tại Điều 50 Luật Tiêu chuẩn và Quy chuẩn kỹ thuật.
+2. Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong tiêu chuẩn quốc gia TCVN ISO/IEC 17025 hoặc tiêu chuẩn quốc tế ISO/IEC 17025 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế áp dụng trong lĩnh vực thử nghiệm chuyên ngành. 
+3. Có ít nhất 06 thử nghiệm viên chính thức của tổ chức (viên chức hoặc người lao động ký kết hợp đồng lao động thực hiện công việc chuyên môn, nghiệp vụ xác định thời hạn từ đủ 12 tháng trở lên hoặc người lao động ký kết hợp đồng lao động thực hiện công việc chuyên môn, nghiệp vụ không xác định thời hạn), đáp ứng các điều kiện sau:
+a) Tốt nghiệp cao đẳng trở lên với chuyên ngành phù hợp với lĩnh vực thử nghiệm đăng ký;
+b) Được đào tạo về tiêu chuẩn quốc gia TCVN ISO/IEC 17025 hoặc tiêu chuẩn quốc tế ISO/IEC 17025 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế áp dụng trong lĩnh vực thử nghiệm chuyên ngành; được đào tạo sử dụng thiết bị, phương pháp, quy trình thử nghiệm đối với lĩnh vực đăng ký.
+4. Có máy móc, thiết bị, dụng cụ thử nghiệm, đo lường phù hợp với quy định của pháp luật và phù hợp với lĩnh vực đăng ký hoạt động thử nghiệm tương ứng.

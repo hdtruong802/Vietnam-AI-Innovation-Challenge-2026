@@ -1,0 +1,123 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003213
+Số quyết định: 361/QĐ-BTP
+Tên thủ tục: Thủ tục Đăng ký việc nuôi con nuôi tại Cơ quan đại diện Việt Nam ở nước ngoài
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Nuôi con nuôi
+Trình tự thực hiện:
+    - Người nhận con nuôi nộp hồ sơ của mình và của người được nhận làm con nuôi tại Cơ quan đại diện Việt Nam ở nước ngoài nơi người nhận con nuôi hoặc người được nhận làm con nuôi tạm trú. Trường hợp người nhận con nuôi và người được nhận làm con nuôi tạm trú tại nước không có Cơ quan đại diện Việt Nam ở nước ngoài, thì nộp hồ sơ đăng ký nuôi con nuôi tại Cơ quan đại diện Việt Nam ở nước ngoài nơi họ thấy thuận tiện nhất.
+    - Cơ quan đại diện Việt Nam ở nước ngoài khai thác, sử dụng thông tin trên các cơ sở dữ liệu để thay thế thành phần hồ sơ của người nhận con nuôi và người được nhận làm con nuôi, cụ thể:
+    +) Thông tin trên Cơ sở dữ liệu quốc gia về dân cư để thay thế Hộ chiếu; Thẻ Căn cước; Căn cước công dân; Giấy chứng nhận căn cước;
+    +) Thông tin trên Cơ sở dữ liệu hộ tịch điện tử để thay thế Giấy chứng nhận kết hôn (đối với trường hợp người nhận con nuôi là cặp vợ chồng) hoặc Giấy xác nhận tình trạng hôn nhân (đối với trường hợp người nhận con nuôi là người độc thân); Giấy chứng tử của cha đẻ, mẹ đẻ (đối với trường hợp người được nhận làm con nuôi là trẻ em mồ côi);
+    +) Thông tin trên dữ liệu Sổ sức khỏe điện tử tích hợp trên ứng dụng VNeID (Sổ sức khỏe điện tử VNeID) để thay thế Giấy khám sức khỏe.
+    Trường hợp không khai thác được hoặc thông tin khai thác được không đầy đủ, không chính xác thì thực hiện như sau:
+    +) Trường hợp hồ sơ thủ tục hành chính nộp trực tuyến trên Cổng Dịch vụ công quốc gia hoặc qua VNeID, người có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính phải có thông báo yêu cầu bổ sung, hoàn thiện hồ sơ cho người nhận con nuôi không muộn hơn 08 giờ làm việc kể từ khi Hệ thống thông tin giải quyết thủ tục hành chính tiếp nhận hồ sơ. Việc thông báo được thực hiện bằng một hoặc nhiều phương thức: gửi đến tài khoản cá nhân trên Cổng Dịch vụ công quốc gia hoặc trên VNeID; gửi tin nhắn hoặc liên hệ qua số điện thoại, hộp thư điện tử do người nhận con nuôi cung cấp; đồng thời hướng dẫn người nhận con nuôi liên hệ với cơ quan có thẩm quyền cập nhật, điều chỉnh dữ liệu.
+    +) Trường hợp hồ sơ thủ tục hành chính nộp trực tiếp hoặc qua dịch vụ bưu chính, người có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính gửi Phiếu yêu cầu bổ sung, hoàn thiện hồ sơ cho người nhận con nuôi trong thời hạn không quá 01 ngày làm việc kể từ khi nhận được hồ sơ; thực hiện việc số hóa phục vụ giải quyết thủ tục hành chính; đồng thời hướng dẫn người nhận con nuôi liên hệ với cơ quan có thẩm quyền cập nhật, điều chỉnh dữ liệu.
+    Kết quả tra cứu được Cơ quan đại diện Việt Nam ở nước ngoài lưu trữ dưới dạng điện tử hoặc bản giấy, phản ánh đầy đủ, chính xác thông tin tại thời điểm tra cứu và đính kèm hồ sơ của người nhận con nuôi.
+    Lưu ý: Trường hợp người nhận con nuôi cư trú ở nước ngoài từ 06 tháng trở lên, Phiếu lý lịch tư pháp, Giấy khám sức khoẻ, Văn bản xác nhận hoàn cảnh gia đình, tình trạng chỗ ở, điều kiện kinh tế của người đó có thể do cơ quan có thẩm quyền của nước nơi người đó cư trú cấp.
+    Đối với Phiếu lý lịch tư pháp do cơ quan có thẩm quyền của Việt Nam cấp, cơ quan giải quyết thủ tục hành chính có trách nhiệm yêu cầu cơ quan quản lý dữ liệu lý lịch tư pháp cung cấp thông tin lý lịch tư pháp; cá nhân khi thực hiện các thủ tục hành chính này không phải nộp Phiếu Lý lịch tư pháp trong hồ sơ.
+    - Cơ quan đại diện Việt Nam ở nước ngoài kiểm tra hồ sơ, lấy ý kiến của những người liên quan. Trường hợp hồ sơ nuôi con nuôi không rõ ràng, cần yêu cầu cơ quan trong nước kiểm tra, xác minh, Cơ quan đại điện Việt Nam ở nước ngoài có văn bản kèm bản chụp hồ sơ gửi Cục Hành chính tư pháp, đồng thời gửi Cục Lãnh sự, yêu cầu xác minh. Cục Hành chính tư pháp đề nghị cơ quan có liên quan trong nước thẩm tra, xác minh và trả lời cho Cơ quan đại diện.
+    - Cơ quan đại diện Việt Nam ở nước ngoài đăng ký việc nuôi con nuôi nếu xét thấy các bên có đủ điều kiện. Khi đăng ký việc nuôi con nuôi, cha mẹ nuôi, cha mẹ đẻ, người giám hộ và người được nhận làm con nuôi phải có mặt.
+    - Cơ quan đại diện Việt Nam ở nước ngoài ghi vào Sổ đăng ký việc nuôi con nuôi và trao Giấy chứng nhận nuôi con nuôi cho các bên.
+    - Cơ quan đại diện Việt Nam ở nước ngoài gửi văn bản thông báo cho Cục Hành chính tư pháp và Cục Lãnh sự kèm theo bản sao Giấy chứng nhận nuôi con nuôi.
+    - Trường hợp từ chối đăng ký, Cơ quan đại diện Việt Nam ở nước ngoài thông báo lý do bằng văn bản cho người nhận con nuôi.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 150 VNĐ (Mức lệ phí được quy đổi ra đồng tiền của nước sở tại theo tỷ giá bán ra của đồng đô la Mỹ do ngân hàng nơi cơ quan đại diện Việt Nam ở nước đó mở tài khoản công bố.)
+    Mô tả: Nộp cho Cơ quan đại diện của Việt Nam tại nước ngoài thông qua hình thức nộp trực tiếp, gửi hồ sơ qua hệ thống bưu chính hoặc nộp trực tuyến theo quy định của pháp luật về thực hiện thủ tục hành chính trên môi trường điện tử.
+Trong thời hạn 30 ngày, trong đó:
+- Thời gian cơ quan đại diện Việt Nam ở nước ngoài kiểm tra hồ sơ và lấy ý kiến của những người liên quan: 10 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ;
+- Thời gian cơ quan đại diện Việt Nam ở nước ngoài tổ chức đăng ký nuôi con nuôi, trao Giấy chứng nhận nuôi con nuôi trong nước cho cha mẹ nuôi, cha mẹ đẻ hoặc người giám hộ, tổ chức giao nhận con nuôi, ghi vào sổ đăng ký việc nuôi con nuôi: 20 ngày, kể từ khi lấy ý kiến của những người liên quan.
+Trong đó, bao gồm thời gian những người liên quan thay đổi ý kiến đồng ý về việc cho trẻ em làm con nuôi: 15 ngày kể từ ngày được lấy ý kiến.
+- Trường hợp cơ quan đại diện Việt Nam ở nước ngoài yêu cầu cơ quan trong nước xác minh thì thời gian cơ quan trong nước tiến hành xác minh là 30 ngày, kể từ khi nhận được văn bản yêu cầu của cơ quan đại diện Việt Nam ở nước ngoài.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 150 VNĐ (Mức lệ phí được quy đổi ra đồng tiền của nước sở tại theo tỷ giá bán ra của đồng đô la Mỹ do ngân hàng nơi cơ quan đại diện Việt Nam ở nước đó mở tài khoản công bố.)
+    Mô tả: Nộp cho Cơ quan đại diện của Việt Nam tại nước ngoài thông qua hình thức nộp trực tiếp, gửi hồ sơ qua hệ thống bưu chính hoặc nộp trực tuyến theo quy định của pháp luật về thực hiện thủ tục hành chính trên môi trường điện tử.
+Trong thời hạn 30 ngày, trong đó:
+- Thời gian cơ quan đại diện Việt Nam ở nước ngoài kiểm tra hồ sơ và lấy ý kiến của những người liên quan: 10 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ;
+- Thời gian cơ quan đại diện Việt Nam ở nước ngoài tổ chức đăng ký nuôi con nuôi, trao Giấy chứng nhận nuôi con nuôi trong nước cho cha mẹ nuôi, cha mẹ đẻ hoặc người giám hộ, tổ chức giao nhận con nuôi, ghi vào sổ đăng ký việc nuôi con nuôi: 20 ngày, kể từ khi lấy ý kiến của những người liên quan.
+Trong đó, bao gồm thời gian những người liên quan thay đổi ý kiến đồng ý về việc cho trẻ em làm con nuôi: 15 ngày kể từ ngày được lấy ý kiến.
+- Trường hợp cơ quan đại diện Việt Nam ở nước ngoài yêu cầu cơ quan trong nước xác minh thì thời gian cơ quan trong nước tiến hành xác minh là 30 ngày, kể từ khi nhận được văn bản yêu cầu của cơ quan đại diện Việt Nam ở nước ngoài.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 150 VNĐ (Mức lệ phí được quy đổi ra đồng tiền của nước sở tại theo tỷ giá bán ra của đồng đô la Mỹ do ngân hàng nơi cơ quan đại diện Việt Nam ở nước đó mở tài khoản công bố.)
+    Mô tả: Nộp cho Cơ quan đại diện của Việt Nam tại nước ngoài thông qua hình thức nộp trực tiếp, gửi hồ sơ qua hệ thống bưu chính hoặc nộp trực tuyến theo quy định của pháp luật về thực hiện thủ tục hành chính trên môi trường điện tử.
+Trong thời hạn 30 ngày, trong đó:
+- Thời gian cơ quan đại diện Việt Nam ở nước ngoài kiểm tra hồ sơ và lấy ý kiến của những người liên quan: 10 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ;
+- Thời gian cơ quan đại diện Việt Nam ở nước ngoài tổ chức đăng ký nuôi con nuôi, trao Giấy chứng nhận nuôi con nuôi trong nước cho cha mẹ nuôi, cha mẹ đẻ hoặc người giám hộ, tổ chức giao nhận con nuôi, ghi vào sổ đăng ký việc nuôi con nuôi: 20 ngày, kể từ khi lấy ý kiến của những người liên quan.
+Trong đó, bao gồm thời gian những người liên quan thay đổi ý kiến đồng ý về việc cho trẻ em làm con nuôi: 15 ngày kể từ ngày được lấy ý kiến.
+- Trường hợp cơ quan đại diện Việt Nam ở nước ngoài yêu cầu cơ quan trong nước xác minh thì thời gian cơ quan trong nước tiến hành xác minh là 30 ngày, kể từ khi nhận được văn bản yêu cầu của cơ quan đại diện Việt Nam ở nước ngoài.
+
+Thành phần hồ sơ:
+  [ Hồ sơ của người nhận con nuôi ]
+    - Văn bản xác nhận hoàn cảnh gia đình, tình trạng chỗ ở, điều kiện kinh tế (trừ trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu, dì, chú, bác ruột nhận cháu làm con nuôi)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn xin nhận con nuôi
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản xác nhận tình trạng hôn nhân: + Trường hợp người nhận con nuôi là cặp vợ chồng nhận con nuôi: Giấy chứng nhận kết hôn. + Trường hợp người nhận con nuôi là người độc thân nhận con nuôi: Cơ quan giải quyết thủ tục hành chính tra cứu thông tin về tình trạng hôn nhân của người nhận con nuôi trên Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh thông qua kết nối với Cơ sở dữ liệu hộ tịch điện tử, Cơ sở dữ liệu quốc gia về dân cư.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy khám sức khỏe do bệnh viện đa khoa hoặc phòng khám đa khoa hoặc Trung tâm y tế khu vực cấp có giá trị sử dụng nếu được cấp chưa quá 06 tháng, tính đến ngày nộp hồ sơ tại cơ quan có thẩm quyền (trừ trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu, dì, chú, bác ruột nhận cháu làm con nuôi)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao Hộ chiếu, Thẻ căn cước hoặc giấy tờ có giá trị thay thế
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hồ sơ của người được nhận làm con nuôi ]
+    - Giấy khám sức khỏe do bệnh viện đa khoa hoặc phòng khám đa khoa hoặc Trung tâm y tế khu vực cấp: Trường hợp người được nhận làm con nuôi cư trú ở nước ngoài từ 06 tháng trở lên, giấy khám sức khỏe có thể do cơ quan có thẩm quyền của nước nơi người được nhận làm con nuôi cư trú cấp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy khai sinh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng tử của cha đẻ, mẹ đẻ hoặc quyết định của Tòa án tuyên bố cha đẻ, mẹ đẻ của trẻ em là đã chết đối với trẻ em mồ côi; quyết định của Tòa án tuyên bố cha đẻ, mẹ đẻ của người được giới thiệu làm con nuôi mất tích đối với người được giới thiệu làm con nuôi mà cha đẻ, mẹ đẻ mất tích; quyết định của Tòa án tuyên bố cha đẻ, mẹ đẻ của người được giới thiệu làm con nuôi mất năng lực hành vi dân sự đối với người được giới thiệu làm con nuôi mà cha đẻ, mẹ đẻ mất năng lực hành vi dân sự
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hai ảnh toàn thân, nhìn thẳng chụp không quá 06 tháng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Lưu ý: Trường hợp người nhận con nuôi cư trú ở nước ngoài từ 06 tháng trở lên, Phiếu lý lịch tư pháp, Giấy khám sức khoẻ, Văn bản xác nhận hoàn cảnh gia đình, tình trạng chỗ ở, điều kiện kinh tế của người đó có thể do cơ quan có thẩm quyền của nước nơi người đó cư trú cấp. Đối với Phiếu lý lịch tư pháp do cơ quan có thẩm quyền của Việt Nam cấp, cơ quan giải quyết thủ tục hành chính có trách nhiệm yêu cầu cơ quan quản lý dữ liệu lý lịch tư pháp cung cấp thông tin lý lịch tư pháp; cá nhân khi thực hiện các thủ tục hành chính này không phải nộp Phiếu Lý lịch tư pháp trong hồ sơ. Trường hợp Cơ quan đại diện tra cứu được thông tin về nhân thân, về tình trạng hôn nhân của người nhận con nuôi từ Cơ sở dữ liệu quốc gia về dân cư, cơ sở dữ liệu chuyên ngành thì người nhận con nuôi không phải nộp bản giấy của bản sao Hộ chiếu, Giấy chứng minh nhân dân hoặc giấy tờ có giá trị thay thế; Văn bản xác nhận tình trạng hôn nhân.  Kết quả tra cứu được Cơ quan đại diện lưu trữ dưới dạng điện tử hoặc bản giấy, phản ánh đầy đủ, chính xác thông tin tại thời điểm tra cứu và đính kèm hồ sơ của người nhận nuôi con nuôi. Giấy tờ có trong hồ sơ của người nhận con nuôi và người được nhận làm con nuôi do cơ quan, tổ chức, người có thẩm quyền lập, cấp, xác nhận mà bị tẩy xoá, sửa chữa làm sai lệch nội dung hoặc thông tin trong các văn bản, giấy tờ được khai không đúng sự thật thì không có giá trị sử dụng. Người thực hiện hành vi tẩy xoá, sửa chữa làm sai lệch nội dung hoặc khai thông tin không đúng sự thật bị xử lý vi phạm theo quy định pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận nuôi con nuôi trong nước
+Căn cứ pháp lý:
+  * Nghị định sửa đổi, bổ sung một số nghị định để cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh  thuộc phạm vi quản lý của Bộ Tư pháp (18/2026/NĐ-CP)
+  * BAN HÀNH, HƯỚNG DẪN VIỆC GHI CHÉP, SỬ DỤNG, QUẢN LÝ VÀ LƯU TRỮ SỔ, MẪU GIẤY TỜ, HỒ SƠ NUÔI CON NUÔI (10/2020/TT-BTP)
+  * Luật Nuôi con nuôi (52/2010/QH12)
+  * quy định chi tiết thi hành một số điều của Luật Nuôi con nuôi (Nghị định số 19/2011/NĐ-CP)
+  * Quy định lệ phí đăng ký nuôi con nuôi, lệ phí cấp giấy phép hoạt động của tổ chức con nuôi nước ngoài (Nghị định 114/2016/NĐ-CP)
+  * THÔNG TƯ  SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 10/2020/TT-BTP NGÀY 28 THÁNG 12 NĂM 2020 CỦA BỘ TRƯỞNG BỘ TƯ PHÁP BAN HÀNH, HƯỚNG DẪN VIỆC GHI CHÉP, SỬ DỤNG, QUẢN LÝ VÀ LƯU TRỮ SỔ, MẪU GIẤY TỜ, HỒ SƠ NUÔI CON NUÔI (07/2023/TT-BTP)
+  * Nghị định số 120/2025/NĐ-CP ngày 11/6/2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp. (120/2025/NĐ-CP)
+  * Nghị định số 06/2025/NĐ-CP ngày 08 tháng 01 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định về nuôi con nuôi (06/2025/NĐ-CP)
+  * hướng dẫn lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác nuôi con nuôi và cấp, gia hạn, sửa đổi giấy phép hoạt động của tổ chức con nuôi nước ngoài tại Việt Nam (Thông tư số 267/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Người nhận con nuôi phải có đủ các điều kiện sau đây:
+- Có năng lực hành vi dân sự đầy đủ;
+- Hơn con nuôi từ 20 tuổi trở lên – không áp dụng đối với trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu, dì, chú bác ruột nhận cháu làm con nuôi;
+- Có điều kiện về sức khỏe, kinh tế, chỗ ở bảo đảm việc chăm sóc, nuôi dưỡng, giáo dục con nuôi - không áp dụng đối với trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu,dì, chú bác ruột nhận cháu làm con nuôi;
+- Có tư cách đạo đức tốt.
+Các trường hợp không được nhận con nuôi
+- Đang bị hạn chế một số quyền của cha, mẹ đối với con chưa thành niên;
+- Đang chấp hành quyết định xử lý hành chính tại cơ sở giáo dục, cơ sở chữa bệnh;
+- Đang chấp hành hình phạt tù;
+- Chưa được xóa án tích về một trong các tội cố ý xâm phạm tính mạng, sức khoẻ, nhân phẩm, danh dự của người khác; ngược đãi hoặc hành hạ ông bà, cha mẹ, vợ chồng, con, cháu, người có công nuôi dưỡng mình; dụ dỗ, ép buộc hoặc chứa chấp người chưa thành niên vi phạm pháp luật; mua bán, đánh tráo, chiếm đoạt trẻ em.
+Người được nhận làm con nuôi phải có đủ các điều kiện sau:
+- Dưới 16 tuổi hoặc từ đủ 16 tuổi đến dưới 18 tuổi nếu thuộc một trong các trường hợp được cha dượng, mẹ kế nhận làm con nuôi; được cô, cậu, dì, chú, bác ruột nhận làm con nuôi;
+- Một người chỉ được làm con của một người độc thân hoặc của cả hai người là vợ chồng.
+Từ khóa: Không có thông tin
+Mô tả: Người nhận con nuôi phải có đủ các điều kiện sau đây:
+- Có năng lực hành vi dân sự đầy đủ;
+- Hơn con nuôi từ 20 tuổi trở lên – không áp dụng đối với trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu, dì, chú bác ruột nhận cháu làm con nuôi;
+- Có điều kiện về sức khỏe, kinh tế, chỗ ở bảo đảm việc chăm sóc, nuôi dưỡng, giáo dục con nuôi - không áp dụng đối với trường hợp cha dượng nhận con riêng của vợ, mẹ kế nhận con riêng của chồng làm con nuôi hoặc cô, cậu,dì, chú bác ruột nhận cháu làm con nuôi;
+- Có tư cách đạo đức tốt.
+Các trường hợp không được nhận con nuôi
+- Đang bị hạn chế một số quyền của cha, mẹ đối với con chưa thành niên;
+- Đang chấp hành quyết định xử lý hành chính tại cơ sở giáo dục, cơ sở chữa bệnh;
+- Đang chấp hành hình phạt tù;
+- Chưa được xóa án tích về một trong các tội cố ý xâm phạm tính mạng, sức khoẻ, nhân phẩm, danh dự của người khác; ngược đãi hoặc hành hạ ông bà, cha mẹ, vợ chồng, con, cháu, người có công nuôi dưỡng mình; dụ dỗ, ép buộc hoặc chứa chấp người chưa thành niên vi phạm pháp luật; mua bán, đánh tráo, chiếm đoạt trẻ em.
+Người được nhận làm con nuôi phải có đủ các điều kiện sau:
+- Dưới 16 tuổi hoặc từ đủ 16 tuổi đến dưới 18 tuổi nếu thuộc một trong các trường hợp được cha dượng, mẹ kế nhận làm con nuôi; được cô, cậu, dì, chú, bác ruột nhận làm con nuôi;
+- Một người chỉ được làm con của một người độc thân hoặc của cả hai người là vợ chồng.

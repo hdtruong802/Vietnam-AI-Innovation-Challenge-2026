@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014872
+Số quyết định: 1263/QĐ-BKHCN
+Tên thủ tục: Thủ tục điều chỉnh nội dung quyết định chỉ định, chỉ định lại tổ chức hoạt động kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+    Bước 1: Khi có nhu cầu đăng ký chỉ định bổ sung lĩnh vực, thu hẹp, mở rộng phạm vi đã được chỉ định, điều chỉnh thông tin trên quyết định chỉ định đã được cấp (trong trường hợp hợp nhất, sáp nhập, đổi tên, chia, tách, chuyển đổi hình thức, thay đổi địa chỉ, địa điểm hoạt động) hoặc chỉ định lại, tổ chức kiểm định, hiệu chuẩn, thử nghiệm được chỉ định lập 01 bộ hồ sơ theo quy định gửi đến Bộ phận một cửa Bộ Khoa học và Công nghệ.
+    Bước 2: Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia giải quyết hồ sơ theo quy định:
+    - Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, nếu hồ sơ không hợp lệ, Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia thông báo bằng văn bản cho tổ chức kiểm định, hiệu chuẩn, thử nghiệm được chỉ định về lý do từ chối giải quyết hồ sơ hoặc những nội dung cần hoàn thiện.
+    - Trường hợp hồ sơ hợp lệ, tùy từng trường hợp cụ thể, Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia xem xét, quyết định kiểm tra trên hồ sơ hoặc đánh giá tại cơ sở:
+    + Trường hợp kiểm tra trên hồ sơ, trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia xem xét, cấp quyết định chỉ định.
+    + Trường hợp đánh giá tại cơ sở: Trong thời hạn 20 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia ban hành quyết định thành lập đoàn đánh giá tại cơ sở.
+    Bước 3: Đoàn đánh giá tiến hành đánh giá theo quy định. Trong thời hạn 30 ngày kể từ ngày ban hành quyết định thành lập đoàn đánh giá, trưởng đoàn đánh giá phải nộp hồ sơ kết quả đánh giá về Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia.
+    Trường hợp tổ chức đăng ký chỉ định có những điểm không phù hợp nhưng có thể khắc phục thì sau khi thống nhất với tổ chức, đoàn đánh giá gửi văn bản thông báo nội dung và thời hạn khắc phục cho tổ chức đăng ký chỉ định và Ủy ban Tiêu chuẩn Đo lường Chất lượng. Thời gian khắc phục tại thông báo không quá 30 ngày. Tổ chức đăng ký chỉ định tiến hành khắc phục các điểm không phù hợp và gửi báo cáo cho đoàn đánh giá. Đoàn đánh giá tiến hành thẩm định báo cáo khắc phục, trường hợp cần thiết đoàn đánh giá tiến hành đánh giá lại tại cơ sở. Trong trường hợp này, thời hạn khắc phục và thời gian đánh giá lại không tính vào thời hạn đánh giá.
+    Bước 4: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ kết quả đánh giá tại cơ sở theo quy định, nếu kết quả đánh giá đạt yêu cầu quy định, Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia xem xét, cấp quyết định chỉ định tổ chức thực hiện kiểm định, hiệu chuẩn, thử nghiệm.
+    Trường hợp kết quả đánh giá không đạt yêu cầu, Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia thông báo bằng văn bản cho tổ chức đăng ký chỉ định và cơ quan, tổ chức có liên quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 82 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp kiểm tra trên hồ sơ: 10 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ. 
+- Trường hợp đánh giá tại cơ sở: 30 ngày làm việc và 30 ngày đánh giá tại cơ sở kể từ ngày hồ sơ đầy đủ, hợp lệ (không bao gồm thời gian khắc phục và đánh giá lại).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 82 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp kiểm tra trên hồ sơ: 10 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ. 
+- Trường hợp đánh giá tại cơ sở: 30 ngày làm việc và 30 ngày đánh giá tại cơ sở kể từ ngày hồ sơ đầy đủ, hợp lệ (không bao gồm thời gian khắc phục và đánh giá lại).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 82 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp kiểm tra trên hồ sơ: 10 ngày làm việc kể từ ngày hồ sơ đầy đủ, hợp lệ. 
+- Trường hợp đánh giá tại cơ sở: 30 ngày làm việc và 30 ngày đánh giá tại cơ sở kể từ ngày hồ sơ đầy đủ, hợp lệ (không bao gồm thời gian khắc phục và đánh giá lại).
+
+Thành phần hồ sơ:
+  [ - Trường hợp đăng ký chỉ định bổ sung lĩnh vực, thu hẹp, mở rộng phạm vi đã được chỉ định: ]
+    - Đơn đăng ký chỉ định tổ chức kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo nhóm 2, chuẩn đo lường dùng trực tiếp để kiểm định phương tiện đo nhóm 2 (theo Mẫu số 01 tại Phụ lục ban hành kèm theo Thông tư số 54/2025/TT-BKHCN.)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo về cơ sở vật chất kỹ thuật, nhân lực (theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 36/2026/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp đăng ký chỉ định lại: ]
+    - Đơn đăng ký chỉ định tổ chức kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo nhóm 2, chuẩn đo lường dùng trực tiếp để kiểm định phương tiện đo nhóm 2 (theo Mẫu số 01 tại Phụ lục ban hành kèm theo Thông tư số 54/2025/TT-BKHCN.)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo về cơ sở vật chất kỹ thuật, nhân lực (theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 36/2026/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp đề nghị điều chỉnh thông tin trên quyết định chỉ định đã được cấp, hồ sơ gồm: ]
+    - Bản sao có đóng dấu sao y của tổ chức hoặc bản sao điện tử các tài liệu có liên quan đến nội dung điều chỉnh
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Công văn đề nghị có nêu rõ nội dung điều chỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định chỉ định tổ chức thực hiện kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường (theo Mẫu số 07 tại Phụ lục ban hành kèm theo Thông tư số 54/2025/TT-BKHCN.)
+Căn cứ pháp lý:
+  * Luật Đo lường (04/2011/QH13)
+  * Nghị định sửa đổi, bổ sung một số điều của Nghị định số 105/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện hoạt động của tổ chức kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường được sửa đổi, bổ sung bởi Nghị định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 của Chính phủ và Nghị định số 133/2025/NĐ-CP ngày 12 tháng 6 năm 2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ (Nghị định số 36/2026/NĐ-CP)
+  * Thông tư quy định về hoạt động kiểm định, tiêu chuẩn, thử nghiệm phương tiện đo, chuẩn đo lường (Thông tư số 54/2025/TT-BKHCN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

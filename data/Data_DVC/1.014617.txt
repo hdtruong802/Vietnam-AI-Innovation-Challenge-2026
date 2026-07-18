@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014617
+Số quyết định: 4884/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp giấy phép nhập khẩu di vật, cổ vật, bảo vật quốc gia có nguồn gốc Việt Nam ở nước ngoài về nước; xác nhận di vật, cổ vật, bảo vật quốc gia nhập khẩu không vì mục đích lợi nhuận
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Di sản văn hóa
+Trình tự thực hiện:
+    - Cơ quan, tổ chức, cá nhân gửi 01 bộ hồ sơ tới Cục Di sản văn hóa.
+    - Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ theo quy định, Cục Di sản văn hóa có trách nhiệm thông báo bằng văn bản cho cơ quan, tổ chức, cá nhân đề nghị nếu hồ sơ không đầy đủ hoặc không hợp lệ. Văn bản thông báo cần nêu rõ lý do và yêu cầu bổ sung hoặc chỉnh sửa thành phần hồ sơ liên quan.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được thông báo bằng văn bản của Cục Di sản văn hóa, cơ quan, tổ chức, cá nhân đề nghị cấp giấy phép có trách nhiệm bổ sung, hoàn thiện hồ sơ. Hết thời hạn nêu trên, nếu chưa nhận được hồ sơ hợp lệ, Cục Di sản văn hóa trả lại hồ sơ.
+    - Trong thời gian 15 ngày kể từ ngày nhận được hồ sơ hợp lệ, Cục trưởng Cục Di sản văn hóa cấp giấy phép nhập khẩu di vật, cổ vật, bảo vật quốc gia có nguồn gốc Việt Nam ở nước ngoài về nước theo Mẫu số 37 tại Phụ lục I ban hành kèm theo Nghị định số 308/2025/NĐ-CP ngày 28 tháng 11 năm 2025 của Chính phủ. Trường hợp từ chối phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp giấy phép nhập khẩu di vật, cổ vật, bảo vật quốc gia có nguồn gốc Việt Nam ở nước ngoài về nước và đề nghị xác nhận di vật, cổ vật, bảo vật quốc gia nhập khẩu không vì mục đích lợi nhuận theo Mẫu số 38 tại Phụ lục I ban hành kèm theo Nghị định số 308/2025/NĐ-CP ngày 28 tháng 11 năm 2025 của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực hoặc bản sao có xuất trình bản chính để đối chiếu (trường hợp nộp hồ sơ trực tiếp); bản sao có chứng thực (trường hợp gửi hồ sơ trực tuyến hoặc qua đường bưu điện) Giấy chứng nhận đăng ký di vật, cổ vật và quyết định công nhận bảo vật quốc gia trong trường hợp di vật, cổ vật, bảo vật quốc gia bị xuất khẩu trái phép ra nước ngoài; tài liệu khác có liên quan đến việc di vật, cổ vật, bảo vật quốc gia bị xuất khẩu trái phép ra nước ngoài.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tài liệu chứng minh về giá trị di vật, cổ vật, bảo vật quốc gia có nguồn gốc Việt Nam ở nước ngoài được nhập khẩu về nước.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh mục di vật, cổ vật, bảo vật quốc gia có nguồn gốc Việt Nam ở nước ngoài nhập khẩu về nước với các thông tin về tên di vật, cổ vật, bảo vật quốc gia, chất liệu, niên đại, nguồn gốc, kích thước, hình ảnh, miêu tả chi tiết có xác nhận của tổ chức, cá nhân đề nghị nhập khẩu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các giấy tờ, tài liệu liên quan khác theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy phép xuất khẩu di vật, cổ vật, bảo vật quốc gia hoặc văn bản cho phép đưa di vật, cổ vật, bảo vật quốc gia ra ngoài biên giới của nước sở tại.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Di sản văn hoá - Bộ Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép nhập khẩu di vật, cổ vật, bảo vật quốc gia có nguồn gốc Việt Nam ở nước ngoài về nước
+Căn cứ pháp lý:
+  * Luật số 45/2024/QH15 của Quốc hội: Luật Di sản văn hóa (45/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

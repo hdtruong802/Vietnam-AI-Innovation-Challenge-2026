@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014870
+Số quyết định: 414/QĐ-UBND
+Tên thủ tục: Nghiệm thu, thanh quyết toán kinh phí hỗ trợ dự án/phương án phát triển sản xuất nông, lâm nghiệp, thủy sản trên địa bàn xã, phường
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Nông nghiệp và Môi trường
+Trình tự thực hiện:
+    - Bước 1. Nộp hồ sơ
+    Doanh nghiệp, hợp tác xã, hộ gia đình, cá nhân nộp đơn đề nghị nghiệm thu, thanh quyết toán kinh phí hỗ trợ đến cơ quan được Ủy ban nhân dân cấp xã giao nhiệm vụ trực tiếp tại bộ phận Một cửa tại Trung tâm Phục vụ hành chính công cấp xã bằng hình thức trực tiếp hoặc qua môi trường điện tử hoặc qua dịch vụ bưu chính.
+    - Bước 2. Tổ chức nghiệm thu
+    + Hội đồng nghiệm thu: Ủy ban nhân dân cấp xã thành lập Hội đồng nghiệm thu dự án, phương án sản xuất trên địa bàn quản lý, trong đó cơ quan được giao nhiệm vụ là bộ phận thường trực của Hội đồng nghiệm thu. Thời gian hoạt động của Hội đồng nghiệm thu theo năm hoặc hằng năm do Ủy ban nhân dân cấp xã quyết định.
+    Thành phần Hội đồng nghiệm thu gồm: Chủ tịch Hội đồng là lãnh đạo Ủy ban nhân dân cấp xã phụ trách lĩnh vực nông nghiệp và môi trường hoặc Thủ trưởng cơ quan được giao nhiệm vụ; các thành viên là lãnh đạo và công chức, viên chức chuyên môn của các phòng, ban, đơn vị có liên quan trực thuộc Ủy ban nhân dân cấp xã; mời đại diện Ủy ban Mặt trận Tổ quốc Việt Nam và các đoàn thể chính trị cấp xã tham gia Hội đồng nghiệm thu. Trường hợp cần thiết, Ủy ban nhân dân cấp xã mời đại diện các sở, ngành có liên quan tham gia Hội đồng nghiệm thu.
+    + Tổ chức nghiệm thu: Trong thời hạn không quá 07 ngày làm việc, kể từ ngày nhận được đơn đề nghị nghiệm thu, thanh quyết toán kinh phí hỗ trợ, Hội đồng nghiệm thu tiến hành nghiệm thu theo quy định. Nội dung nghiệm thu: Các nội dung đầu tư phát triển sản xuất theo thuyết minh và dự toán dự án, phương án sản xuất được phê duyệt; đảm bảo phù hợp với tiêu chuẩn, định mức kinh tế kỹ thuật; các hồ sơ, hoá đơn, chứng từ chứng minh các nội dung đầu tư phát triển sản xuất.
+    - Bước 3. Thanh quyết toán kinh phí hỗ trợ
+    Căn cứ biên bản nghiệm thu, cơ quan được giao nhiệm vụ làm thủ tục rút dự toán tại Kho bạc Nhà nước để thực hiện cấp kinh phí hỗ trợ bằng tiền mặt hoặc chuyển khoản cho đối tượng thụ hưởng chính sách theo quy định.
+    Đối với hình thức cấp phát kinh phí trực tiếp cho đối tượng thụ hưởng: Yêu cầu bảng kê danh sách đối tượng nhận tiền hỗ trợ có ký nhận của hộ dân, xác nhận của trưởng thôn, bản, tổ dân phố và Ủy ban nhân dân cấp xã; đối với hình thức cấp phát kinh phí bằng chuyển khoản cho đối tượng thụ hưởng: Yêu cầu giấy rút dự toán ngân sách nhà nước, thông báo hoặc xác nhận của ngân hàng về thông tin tài khoản của đối tượng thụ hưởng.
+    Thời hạn thanh toán kinh phí hỗ trợ cho đối tượng thụ hưởng: Trong thời hạn không quá 15 ngày làm việc, kể từ ngày nhận được biên bản nghiệm thu khối lượng hoàn thành, cơ quan được giao nhiệm vụ thực hiện thanh toán kinh phí hỗ trợ cho đối tượng thụ hưởng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn tổ chức nghiệm thu dự án, phương án sản xuất: Trong thời hạn không quá 07 ngày làm việc, kể từ ngày nhận được đơn đề nghị nghiệm thu, thanh quyết toán kinh phí hỗ trợ.
+- Thời hạn thanh, quyết toán kinh phí hỗ trợ: Trong thời hạn không quá 15 ngày làm việc, kể từ ngày nhận được biên bản nghiệm thu khối lượng hoàn thành.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn tổ chức nghiệm thu dự án, phương án sản xuất: Trong thời hạn không quá 07 ngày làm việc, kể từ ngày nhận được đơn đề nghị nghiệm thu, thanh quyết toán kinh phí hỗ trợ.
+- Thời hạn thanh, quyết toán kinh phí hỗ trợ: Trong thời hạn không quá 15 ngày làm việc, kể từ ngày nhận được biên bản nghiệm thu khối lượng hoàn thành.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn tổ chức nghiệm thu dự án, phương án sản xuất: Trong thời hạn không quá 07 ngày làm việc, kể từ ngày nhận được đơn đề nghị nghiệm thu, thanh quyết toán kinh phí hỗ trợ.
+- Thời hạn thanh, quyết toán kinh phí hỗ trợ: Trong thời hạn không quá 15 ngày làm việc, kể từ ngày nhận được biên bản nghiệm thu khối lượng hoàn thành.
+
+Thành phần hồ sơ:
+    - Quyết định giao kinh phí thực hiện chính sách khuyến khích, hỗ trợ phát triển sản xuất nông, lâm nghiệp, thuỷ sản của Ủy ban nhân dân tỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quyết định phê duyệt thuyết minh, dự toán dự án/phương án sản xuất (kèm theo hồ sơ dự án/phương án sản xuất) của Ủy ban nhân dân cấp xã
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị nghiệm thu, thanh toán kinh phí hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản nghiệm thu kết quả thực hiện chính sách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hoá đơn mua bán hàng hoá, vật tư, thiết bị, cây, con giống theo quy định. Trường hợp hàng hoá, vật tư, thiết bị, cây, con giống do người dân trực tiếp sản xuất, cung ứng tại địa phương không có hoá đơn theo quy định thì sử dụng giấy tờ mua bán có xác nhận của chính quyền địa phương nơi bán để làm cơ sở nghiệm thu, thanh quyết toán
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ, giấy tờ về tiêu chuẩn, chất lượng và nguồn gốc cây, con giống, sản phẩm áp dụng theo từng nội dung hỗ trợ, từng trường hợp cụ thể, bao gồm: - Giấy chứng nhận tiêu chuẩn chất lượng vùng nguyên liệu; - Giấy xác nhận cấp mã số vùng trồng, mã số cơ sở đóng gói; - Giấy chứng nhận sản phẩm OCOP; - Giấy chứng nhận an toàn dịch bệnh động vật; - Văn bản kết luận kết quả kiểm tra vệ sinh thú y đối với cơ sở giết mổ động vật của cơ quan quản lý chuyên ngành thú y có thẩm quyền; - Hồ sơ, giấy tờ chứng minh nguồn gốc, tiêu chuẩn chất lượng của hàng hóa, vật tư, thiết bị, cây, con giống: + Đối với cây chè, cây ăn quả (bưởi, cam, quýt, lê, mận, đào) và cây dâu tằm: Yêu cầu cây giống phải có quyết định công nhận cây đầu dòng hoặc quyết định công nhận vườn cây đầu dòng cung cấp vật liệu nhân giống hoặc hạt gieo nhân giống; + Đối với cây tre măng Bát độ: Yêu cầu cây giống phải được mua từ những tổ chức, cá nhân sản xuất, kinh doanh giống cây trồng lâm nghiệp đáp ứng điều kiện sản xuất, kinh doanh giống cây trồng lâm nghiệp quy định tại Điều 21 Nghị định số 27/2021/NĐ-CP ngày 25/3/2021 của Chính phủ về quản lý giống cây trồng lâm nghiệp. + Đối với con giống vật nuôi: Có bản sao Bản công bố tiêu chuẩn áp dụng của cơ sở sản xuất giống; trường hợp con giống mua của người dân trực tiếp sản xuất tại địa phương chưa được công bố tiêu chuẩn áp dụng yêu cầu con giống phải bảo đảm khoẻ mạnh, đáp ứng tiêu chuẩn định mức kinh tế kỹ thuật theo quy định và có giấy xác nhận tiêm phòng vắc xin của Uỷ ban nhân dân cấp xã hoặc biên bản giám sát tiêm phòng của cơ quan chuyên môn cấp xã; giấy chứng nhận kiểm dịch vận chuyển động vật đối với con giống mua từ ngoài tỉnh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quyết định giao kinh phí thực hiện chính sách khuyến khích, hỗ trợ phát triển sản xuất nông, lâm nghiệp, thuỷ sản của Ủy ban nhân dân tỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quyết định phê duyệt thuyết minh, dự toán dự án/phương án sản xuất (kèm theo hồ sơ dự án/phương án sản xuất) của Ủy ban nhân dân cấp xã
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị nghiệm thu, thanh toán kinh phí hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản nghiệm thu kết quả thực hiện chính sách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hoá đơn mua bán hàng hoá, vật tư, thiết bị, cây, con giống theo quy định. Trường hợp hàng hoá, vật tư, thiết bị, cây, con giống do người dân trực tiếp sản xuất, cung ứng tại địa phương không có hoá đơn theo quy định thì sử dụng giấy tờ mua bán có xác nhận của chính quyền địa phương nơi bán để làm cơ sở nghiệm thu, thanh quyết toán
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ, giấy tờ về tiêu chuẩn, chất lượng và nguồn gốc cây, con giống, sản phẩm áp dụng theo từng nội dung hỗ trợ, từng trường hợp cụ thể, bao gồm: - Giấy chứng nhận tiêu chuẩn chất lượng vùng nguyên liệu; - Giấy xác nhận cấp mã số vùng trồng, mã số cơ sở đóng gói; - Giấy chứng nhận sản phẩm OCOP; - Giấy chứng nhận an toàn dịch bệnh động vật; - Văn bản kết luận kết quả kiểm tra vệ sinh thú y đối với cơ sở giết mổ động vật của cơ quan quản lý chuyên ngành thú y có thẩm quyền; - Hồ sơ, giấy tờ chứng minh nguồn gốc, tiêu chuẩn chất lượng của hàng hóa, vật tư, thiết bị, cây, con giống: + Đối với cây chè, cây ăn quả (bưởi, cam, quýt, lê, mận, đào) và cây dâu tằm: Yêu cầu cây giống phải có quyết định công nhận cây đầu dòng hoặc quyết định công nhận vườn cây đầu dòng cung cấp vật liệu nhân giống hoặc hạt gieo nhân giống; + Đối với cây tre măng Bát độ: Yêu cầu cây giống phải được mua từ những tổ chức, cá nhân sản xuất, kinh doanh giống cây trồng lâm nghiệp đáp ứng điều kiện sản xuất, kinh doanh giống cây trồng lâm nghiệp quy định tại Điều 21 Nghị định số 27/2021/NĐ-CP ngày 25/3/2021 của Chính phủ về quản lý giống cây trồng lâm nghiệp. + Đối với con giống vật nuôi: Có bản sao Bản công bố tiêu chuẩn áp dụng của cơ sở sản xuất giống; trường hợp con giống mua của người dân trực tiếp sản xuất tại địa phương chưa được công bố tiêu chuẩn áp dụng yêu cầu con giống phải bảo đảm khoẻ mạnh, đáp ứng tiêu chuẩn định mức kinh tế kỹ thuật theo quy định và có giấy xác nhận tiêm phòng vắc xin của Uỷ ban nhân dân cấp xã hoặc biên bản giám sát tiêm phòng của cơ quan chuyên môn cấp xã; giấy chứng nhận kiểm dịch vận chuyển động vật đối với con giống mua từ ngoài tỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: - Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Biên bản nghiệm thu; hồ sơ thanh, quyết toán kinh phí hỗ trợ phát triển sản xuất nông, lâm nghiệp và thủy sản, Biên bản nghiệm thu; hồ sơ thanh, quyết toán kinh phí hỗ trợ phát triển sản xuất nông, lâm nghiệp và thủy sản
+Căn cứ pháp lý:
+  * NGHỊ QUYẾT
+BAN HÀNH MỘT SỐ CHÍNH SÁCH KHUYẾN KHÍCH, HỖ TRỢ PHÁT TRIỂN SẢN XUẤT NÔNG, LÂM NGHIỆP VÀ THUỶ SẢN TRÊN ĐỊA BÀN TỈNH LÀO CAI. (21/2025/NQ-HĐND.)
+  * QUYẾT ĐỊNH  Ban hành quy định trình tự, thủ tục, hồ sơ thực hiện chính sách khuyến khích, hỗ trợ phát triển sản xuất nông,  lâm nghiệp và thuỷ sản trên địa bàn tỉnh Lào Cai theo Nghị quyết số 21/2025/NQ-HĐND  ngày 09/12/2025 của Hội đồng nhân dân tỉnh Lào Cai (13/2026/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: Không nghiệm thu, hỗ trợ đối với các nội dung đã đầu tư trước ngày có quyết định phê duyệt thuyết minh và dự toán kinh phí thực hiện dự án, phương án sản xuất của Ủy ban nhân dân cấp xã
+Từ khóa: Không có thông tin
+Mô tả: Không nghiệm thu, hỗ trợ đối với các nội dung đã đầu tư trước ngày có quyết định phê duyệt thuyết minh và dự toán kinh phí thực hiện dự án, phương án sản xuất của Ủy ban nhân dân cấp xã

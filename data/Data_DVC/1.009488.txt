@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009488
+Số quyết định: 3453/QĐ-BTC
+Tên thủ tục: Thẩm định báo cáo nghiên cứu khả thi, phê duyệt dự án, điều chỉnh dự án áp dụng loại hợp đồng BT không yêu cầu thanh toán
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đầu tư theo phương thức đối tác công tư
+Trình tự thực hiện:
+  * a) Trình tự đề xuất, thẩm định, phê duyệt dự án BT không yêu cầu thanh toán do nhà đầu tư đề xuất
+    (i) Nhà đầu tư gửi văn bản đề xuất thực hiện dự án BT không yêu cầu thanh toán đến cơ quan có thẩm quyền;
+    (ii) Cơ quan có thẩm quyền xem xét, trả lời bằng văn bản chấp thuận hoặc không chấp thuận việc nhà đầu tư lập báo cáo nghiên cứu khả thi và dự thảo hợp đồng.
+    (iii) Trường hợp được cơ quan có thẩm quyền chấp thuận:
+    - Nhà đầu tư nộp hồ sơ đề xuất dự án gửi đến người đứng đầu cơ quan có thẩm quyền.
+    - Đơn vụ thẩm định dự án tổ chức thẩm định hồ sơ đề xuất dự án;
+    - Người đứng đầu cơ quan có thẩm quyền phê duyệt dự án kèm theo dự thảo hợp đồng.
+    (iv) Trường hợp hồ sơ đề xuất dự án không được chấp thuận thì nhà đầu tư chịu mọi chi phí, rủi ro.
+  * b) Trình tự điều chỉnh nội dung báo cáo nghiên cứu khả thi, phê duyệt điều chỉnh dự án PPP do nhà đầu tư đề xuất
+    (i) Nhà đầu tư nộp hồ sơ điều chỉnh dự án đến người đứng đầu Cơ quan có thẩm quyền.
+    (ii) Đơn vị thẩm định dự án tổ chức thẩm định hồ sơ đề xuất điều chỉnh dự án;
+    (iii) Người đứng đầu Cơ quan có thẩm quyền phê duyệt điều chỉnh dự án kèm theo dự thảo hợp đồng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không có)
+
+Thành phần hồ sơ:
+  [ a) Đối với trình tự đề xuất, thẩm định, phê duyệt dự án BT không yêu cầu thanh toán do nhà đầu tư đề xuất - Văn bản chấp thuận việc nhà đầu tư đề xuất dự án gồm các nội dung sau: ]
+    - + Trách nhiệm, cách thức phối hợp của các cơ quan có liên quan trong việc hướng dẫn nhà đầu tư lập hồ sơ đề xuất dự án;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Quy định về trách nhiệm của nhà đầu tư chịu mọi chi phí, rủi ro trong trường hợp hồ sơ đề xuất dự án không được chấp thuận và nguyên tắc xử lý trong trường hợp nhà đầu tư đề xuất dự án không được lựa chọn;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Các nội dung khác có liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Thời hạn, địa điểm nộp hồ sơ đề xuất dự án; cơ quan, đơn vị tiếp nhận hồ sơ của nhà đầu tư;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Tên nhà đầu tư lập hồ sơ đề xuất dự án;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b) Đối với trình tự điều chỉnh nội dung báo cáo nghiên cứu khả thi, phê duyệt điều chỉnh dự án PPP do nhà đầu tư đề xuất - Hồ sơ đề nghị phê duyệt điều chỉnh dự án BT không yêu cầu thanh toán do nhà đầu tư đề xuất bao gồm: ]
+    - + Tờ trình đề nghị phê duyệt (điều chỉnh) dự án;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Dự thảo hợp đồng (đối với dự án áp dụng hợp đồng BT không yêu cầu thanh toán);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo thẩm định nội dung điều chỉnh báo cáo nghiên cứu khả thi, nội dung điều chỉnh báo cáo kinh tế - kỹ thuật đầu tư xây dựng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Dự thảo quyết định phê duyệt (điều chỉnh) dự án;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Nội dung điều chỉnh Báo cáo nghiên cứu khả thi,  nội dung điều chỉnh báo cáo kinh tế - kỹ thuật đầu tư xây dựng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Tài liệu pháp lý khác có liên quan của dự án.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Các cơ quan, tổ chức liên quan, Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Quốc Hội, Thủ tướng Chính phủ, Bộ trưởng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận hoặc không chấp thuận việc nhà đầu tư lập báo cáo nghiên cứu tiền khả thi, Báo cáo thẩm định Báo cáo nghiên cứu khả thi dự án BT không yêu cầu thanh toán do nhà đầu tư đề xuất, Báo cáo thẩm định nội dung điều chỉnh báo cáo nghiên cứu khả thi dự án BT không yêu cầu thanh toán, Quyết định phê duyệt điều chỉnh dự án BT không yêu cầu thanh toán do nhà đầu tư đề xuất, Dự thảo hợp đồng
+Căn cứ pháp lý:
+  * Nghị định số 29/2021/NĐ-CP Quy định về trịnh tự, thủ tục thẩm định dự án quan trọng quốc gia và giám sát, đánh giá đầu tư (29/2021/NĐ-CP)
+  * Luật Đầu tư theo phương thức đối tác công tư (64/2020/QH14)
+  * Luật số 03/2022/QH15 của Quốc hội: Luật sửa đổi, bổ sung một số điều của Luật đầu tư công, Luật đầu tư theo phương thức đối tác công tư, Luật Đầu tư, Luật nhà ở, Luật đấu thầu, Luật điện lực, Luật doanh nghiệp, Luật thuế tiêu thụ đặc biệt và Luật thi hành án dân sự (03/2022/QH15)
+  * Trang chủ Luật số 90/2025/QH15 của Quốc hội: Luật sửa đổi, bổ sung một số điều của Luật Đấu thầu, Luật Đầu tư theo phương thức đối tác công tư, Luật Hải quan, Luật Thuế giá trị gia tăng, Luật Thuế xuất khẩu, thuế nhập khẩu, Luật Đầu tư, Luật Đầu tư công, Luật Quản lý, sử dụng tài sản công (90/2025/QH15)
+  * Luật số 57/2024/QH15 ngày 29/11/2024 (57/2024/QH15)
+  * Nghị định số 243/2025/NĐ-CP của Chính phủ: Quy định chi tiết một số điều của Luật Đầu tư theo phương thức đối tác công tư (243/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007241
+Số quyết định: 1853/QĐ-BTC
+Tên thủ tục: Thủ tục hướng dẫn hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất do thực hiện chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tài chính ngân hàng
+Trình tự thực hiện:
+  * 1. Lập kế hoạch hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất
+    a) Các ngân hàng thương mại lập kế hoạch hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất năm theo quy định.
+    b) Hàng năm, chậm nhất vào ngày 31/7, các ngân hàng thương mại lập kế hoạch hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất cả năm kế hoạch (có chia ra từng quý) để tổng hợp vào dự toán ngân sách nhà nước.
+  * 2. Tạm cấp bù lãi suất hàng quý
+    a) Tối đa 30 ngày kể từ ngày nhận được báo cáo quý về tình hình thực hiện cho vay và văn bản đề nghị tạm cấp hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất quý của các ngân hàng thương mại, Bộ Tài chính sẽ thực hiện tạm cấp hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất.
+    b) Số tiền tạm cấp hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất trong quý bằng 80% số tiền hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất phát sinh quý trước.
+  * 3. Quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất.
+    Bộ Tài chính xác định số tiền lãi thực tế trong kỳ đề nghị ngân sách nhà nước cấp bù dựa trên Hồ sơ quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất do các ngân hàng cung cấp.
+  * 4. Thẩm tra số liệu đề nghị quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất.
+    a) Thực hiện thẩm tra số liệu đề nghị quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất.
+    b) Xử lý chênh lệch số liệu nếu có.
+    c) Xử lý trong trường hợp khách hàng vay vốn sử dụng vốn vay sai mục đích nếu có
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Hồ sơ quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Công văn đề nghị Bộ Tài chính quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất trong đó số đề nghị quyết toán không vượt quá số liệu đã được cơ quan kiểm toán xác nhận.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Các tài liệu (bản chính hoặc bản sao do ngân hàng thương mại đóng dấu sao y) bao gồm: hợp đồng tín dụng, khế ước hoặc các giấy tờ tương đương để xác định đối tượng khách hàng vay vốn, tình hình thực hiện cho vay, dư nợ, thu nợ; bảng kê tích số để xác định số tiền cấp bù lãi suất; hợp đồng đóng mới, nâng cấp tàu.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Báo cáo tổng hợp số liệu đề nghị quyết toán hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất của từng khoản cho vay đã được kiểm toán bởi kiểm toán độc lập hoặc Kiểm toán Nhà nước.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Kế hoạch hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất cả năm kế hoạch (có chia ra từng quý) do các ngân hàng thương mại lập
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo quý về tình hình thực hiện cho vay và văn bản đề nghị tạm cấp hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất quý của các ngân hàng thương mại
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bộ Tài chính hỗ trợ lãi suất vay vốn và cấp bù chênh lệch lãi suất do thực hiện chính sách hỗ trợ nhằm giảm tổn thất trong nông nghiệp
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

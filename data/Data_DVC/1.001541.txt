@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001541
+Số quyết định: SỐ 64/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận mua bán, chuyển nhượng phần vốn góp tại ngân hàng thương mại trách nhiệm hữu hạn hai thành viên trở lên
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    Bước 1: Ngân hàng thương mại lập hồ sơ gửi Ngân hàng Nhà nước.
+    Bước 2: Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước Việt Nam (Cục Quản lý, giám sát tổ chức tín dụng) có văn bản yêu cầu ngân hàng thương mại bổ sung, hoàn thiện hồ sơ.
+    Bước 3: Trong thời hạn 50 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước có văn bản chấp thuận đề nghị của ngân hàng thương mại; trường hợp không chấp thuận, Ngân hàng Nhà nước trả lời bằng văn bản và nêu rõ lý do. Văn bản chấp thuận của Ngân hàng Nhà nước có hiệu lực trong thời hạn 03 tháng kể từ ngày ký.
+    Bước 4: Trong thời hạn 07 ngày làm việc kể từ ngày hoàn thành việc mua bán, chuyển nhượng, ngân hàng thương mại gửi Ngân hàng Nhà nước văn bản báo cáo về kết quả thực hiện kèm tài liệu chứng minh đã hoàn thành việc mua bán, chuyển nhượng trong đó có các thông tin về tên, địa chỉ đặt trụ sở chính của thành viên góp vốn mới (nếu có), việc thay đổi phần vốn góp, tỷ lệ phần vốn góp của thành viên góp vốn (nếu có).
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 50 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 50 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Hồ sơ đề nghị chấp thuận việc mua bán, chuyển nhượng phần vốn góp cho bên nhận chuyển nhượng là thành viên góp vốn hiện tại của ngân hàng thương mại gồm:
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Nghị quyết hoặc quyết định của Hội đồng thành viên của ngân hàng thương mại về việc mua bán, chuyển nhượng phần vốn góp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các văn bản, tài liệu chứng minh bên mua, nhận chuyển nhượng đáp ứng đủ các điều kiện để được mua, nhận chuyển nhượng phần vốn góp của ngân hàng thương mại trách nhiệm hữu hạn hai thành viên trở lên theo quy định của pháp luật, gồm: (i) Đối với bên mua, nhận chuyển nhượng là tổ chức tín dụng nước ngoài: các văn bản, tài liệu quy định tại điểm c(i) khoản 1 Điều 13 Thông tư số 50/2025/TT-NHNN; (ii) Đối với bên mua, nhận chuyển nhượng là ngân hàng thương mại Việt Nam: các văn bản, tài liệu quy định tại điểm c(ii) khoản 1 Điều 13 Thông tư số 50/2025/TT-NHNN. (iii)  Đối với bên mua, nhận chuyển nhượng phần vốn góp của ngân hàng liên doanh là doanh nghiệp không phải ngân hàng, hồ sơ bao gồm các văn bản quy định tại điểm c(iii) khoản 1 Điều 13 Thông tư số 50/2025/TT-NHNN.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ đề nghị chấp thuận việc mua bán, chuyển nhượng phần vốn góp của thành viên góp vốn cho bên mua, nhận chuyển nhượng là thành viên góp vốn mới gồm:
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Cam kết thông báo cho các thành viên góp vốn mới về quyền và nghĩa vụ của thành viên góp vốn theo quy định tại Luật Các tổ chức tín dụng và pháp luật có liên quan, trong đó bao gồm: (i) Chịu trách nhiệm trước pháp luật về tính hợp pháp của nguồn vốn mua, nhận chuyển nhượng; không được dùng vốn huy động, vốn vay của tổ chức, cá nhân khác để mua, nhận chuyển nhượng; (ii) Chịu trách nhiệm tuân thủ quy định về tỷ lệ sở hữu phần vốn góp của thành viên góp vốn, thành viên góp vốn và người có liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản thỏa thuận mua bán, chuyển nhượng phần vốn góp giữa bên bán, chuyển nhượng với bên mua, nhận chuyển nhượng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các hồ sơ quy định tại khoản 1 Điều 16 Thông tư số 50/2025/TT-NHNN;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị của ngân hàng thương mại, trong đó nêu rõ:  (i) Tên, địa chỉ trụ sở chính của bên bán, chuyển nhượng và bên mua, nhận chuyển nhượng;  (ii) Tỷ lệ mua bán, chuyển nhượng phần vốn góp; Tỷ lệ sở hữu và giá trị phần vốn góp của các thành viên góp vốn trước và sau khi mua bán, chuyển nhượng phần vốn góp; (iii) Thời điểm dự kiến thực hiện mua bán, chuyển nhượng; (iv) Lý do mua bán, chuyển nhượng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận đề nghị mua bán, chuyển nhượng phần vốn góp, Văn bản không chấp thuận đề nghị mua bán, chuyển nhượng phần vốn góp
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * 50/2025/TT-NHNN (số 50/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

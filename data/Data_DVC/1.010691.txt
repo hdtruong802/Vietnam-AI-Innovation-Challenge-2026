@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010691
+Số quyết định: 682/QĐ-BVHTTDL
+Tên thủ tục: Cấp thẻ nhà báo
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Báo chí
+Trình tự thực hiện:
+  * Cấp thẻ nhà báo
+    - Cơ quan đề nghị cấp thẻ nhà báo chuẩn bị hồ sơ theo quy định và gửi đến Bộ VHTTDL (Cục Báo chí hoặc Cục Phát thanh, truyền hình và thông tin điện tử) trước ngày 01 tháng 11 và ngày 21 tháng 4 hàng năm; trường hợp đề nghị cấp thẻ nhà báo khi thẻ sắp hết kỳ hạn thì gửi trước ngày 01 tháng 9 năm cuối cùng của thời hạn sử dụng thẻ nhà báo.
+    - Đơn vị giải quyết hồ sơ của Bộ VHTTDL (Cục Báo chí hoặc Cục phát thanh, truyền hình và thông tin điện tử) tiếp nhận và giải quyết hồ sơ theo quy định.
+    - Trả kết quả: Bộ VHTTDL cấp thẻ nhà báo vào ngày 01 tháng 01 và ngày 21 tháng 6 hàng năm đối với hồ sơ đầy đủ, hợp lệ; trường hợp từ chối cấp thẻ, Cục Báo chí hoặc Cục Phát thanh, truyền hình và thông tin điện tử phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Cấp thẻ nhà báo ]
+    - Bản khai đăng ký cấp thẻ nhà báo do người được đề nghị cấp thẻ nhà báo kê khai theo mẫu (Mẫu số 01 Thông tư 31/2021/TT-BTTTT ngày 31/12/2021).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách tác phẩm báo chí đã đăng, phát đối với trường hợp quy định tại khoản 6 Điều 26 Luật Báo chí (Mẫu số 02 Thông tư 31/2021/TT-BTTTT ngày 31/12/2021)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản tổng hợp danh sách đề nghị cấp thẻ nhà báo (Mẫu số 03 Thông tư 31/2021/TT-BTTTT ngày 31/12/2021)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bằng tốt nghiệp đại học trở lên hoặc Bằng tốt nghiệp cao đẳng trở lên đối với trường hợp là người dân tộc thiểu số quy định tại điểm b khoản 1 Điều 27 Luật Báo chí (không áp dụng đối với trường hợp cấp đổi thẻ nhà báo theo kỳ hạn mới);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quyết định tuyển dụng hoặc Hợp đồng lao động và văn bản khác có liên quan (tài liệu có xác nhận của cơ quan có thẩm quyền thể hiện thời gian đóng bảo hiểm xã hội tại cơ quan báo chí, cơ quan công tác hoặc thể hiện việc thanh toán, chi trả tiền lương/tiền công/tiền thù lao/tiền nhuận bút theo tháng) để chứng minh thời gian công tác liên tục hai (02) năm trở lên tại cơ quan báo chí đề nghị cấp thẻ nhà báo
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Ảnh thẻ nhà báo (-Định dạng: JPG,PNG; - Dung lượng: 100 KB - 500 KB; Nền trắng; : Ảnh màu; - Chụp trong thời gian 06 tháng gần nhất)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai đăng ký cấp thẻ nhà báo do người được đề nghị cấp thẻ nhà báo kê khai theo mẫu (Mẫu số 01 Thông tư 31/2021/TT-BTTTT ngày 31/12/2021) do người đứng đầu cơ quan đề nghị cấp thẻ nhà báo ký duyệt, đóng dấu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tài liệu khác (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức, Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Bộ Văn hóa, Thể thao và Du lịch
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thẻ nhà báo
+Căn cứ pháp lý:
+  * Luật báo chí (103/2016/QH13)
+  * Thông tư 31/2021/TT-BTTTT (31/2021/TT-BTTTT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

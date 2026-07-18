@@ -1,0 +1,97 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115412
+Số quyết định: 1704
+Tên thủ tục: Thủ tục xét danh hiệu nghệ nhân, thợ giỏi và tổ chức, cá nhân có công đưa nghề mới về các địa phương trên địa bàn tỉnh
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Kinh tế hợp tác và Phát triển nông thôn
+Trình tự thực hiện:
+  * Bước 1
+    Tổ chức, cá nhân gửi hồ sơ đến UBND cấp xã (qua Trung tâm Phục vụ hành chính công), hoặc thực hiện trên môi trường điện tử;
+  * Bước 2: Trong thời hạn 10 ngày làm việc, UBND cấp xã thực hiện kiểm tra, xét duyệt những tổ chức, cá nhân có đủ tiêu chuẩn, lấy ý kiến cộng đồng nghề (nếu cần), xác nhận và chuyển hồ sơ (kèm Biên bản xét duyệt và Văn bản đề nghị công nhận) về Sở Nông nghiệp và Môi trường;
+    Trường hợp hồ sơ cần bổ sung, trong thời hạn 03 ngày làm việc kể từ ngày
+    tiếp nhận hồ sơ, UBND cấp xã thông báo nội dung cần bổ sung cho tổ chức, cá
+    nhân thực hiện. Trong thời hạn không quá 07 ngày làm việc kể từ ngày nhận
+    được thông báo, tổ chức, cá nhân có trách nhiệm hoàn thiện hồ sơ theo yêu cầu;
+  * Bước 3:
+    Trong thời hạn 25 ngày làm việc, Sở Nông nghiệp và Môi trường
+    thực hiện tiếp nhận, kiểm tra hồ sơ, tham mưu Hội đồng thẩm định cấp tỉnh tổ chức thẩm định, xét duyệt và trình Chủ tịch UBND tỉnh Quyết định công nhận danh hiệu cho những tổ chức, cá nhân có đủ tiêu chuẩn;
+  * Bước 4:
+    Trong thời hạn 05 ngày làm việc, Chủ tịch UBND tỉnh Quyết định
+    công nhận danh hiệu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 40 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Không quá 40 ngày làm việc kể từ ngày nhận đủ hồ sơ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 40 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Không quá 40 ngày làm việc kể từ ngày nhận đủ hồ sơ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 40 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Không quá 40 ngày làm việc kể từ ngày nhận đủ hồ sơ.
+
+Thành phần hồ sơ:
+  [ a) Thành phần hồ sơ của tổ chức, cá nhân gồm: - Đơn của tổ chức, cá nhân đề nghị xét công nhận danh hiệu (theo mẫu số 01 tại Phụ lục ban hành kèm theo Quyết định số 47/2026/QĐ-UBND ngày 19 tháng 6 năm 2026 của UBND tỉnh Bắc Ninh). - Bản thành tích của tổ chức, cá nhân (đối với danh hiệu nghệ nhân, thợ giỏi theo mẫu số 02; đối với tổ chức, cá nhân có công đưa nghề mới về các địa phương trong tỉnh theo mẫu số 03 tại Phụ lục ban hành kèm theo Quyết định số 47/2026/QĐ-UBND ngày 19 tháng 6 năm 2026 của UBND tỉnh Bắc Ninh). - Tài liệu minh chứng (bản sao có chứng thực hoặc bản chính hoặc bản sao chụp không chứng thực kèm bản chính để đối chiếu): Giấy chứng nhận danh hiệu trong các cuộc thi, triển lãm cấp tỉnh, quốc gia, khu vực hoặc quốc tế. ]
+    - - Đơn đề nghị hỗ trợ (Mẫu 1).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b) Thành phần hồ sơ của UBND cấp xã gồm: Hồ sơ của tổ chức, cá nhân đã được UBND xã xét duyệt;  Biên bản xét duyệt hồ sơ của UBND cấp xã (theo mẫu số 04 tại Phụ lục ban hành kèm theo Quyết định số 47/2026/QĐ-UBND ngày 19 tháng 6 năm 2026 của UBND tỉnh Bắc Ninh). Văn bản đề nghị công nhận của UBND cấp xã (theo mẫu số 05 tại Phụ lục ban hành kèm theo Quyết định số 47/2026/QĐ-UBND ngày 19 tháng 6 năm 2026 của UBND tỉnh Bắc Ninh). ]
+    - - Đơn đề nghị hỗ trợ (Mẫu 1).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Nông nghiệp và Môi trường tỉnh Bắc Ninh
+Cơ quan có thẩm quyền: UBND tỉnh Bắc Ninh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Cơ quan chuyên môn về Nông nghiệp và Môi trường thuộc UBND cấp xã
+Kết quả thực hiện: Quyết định công nhận danh hiệu
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Tiêu chuẩn xét công nhận danh hiệu nghệ nhân, thợ giỏi và tổ chức, cá nhân có công đưa nghề mới về các địa phương trên địa bàn tỉnh.
+1. Tiêu chuẩn xét công nhận danh hiệu nghệ nhân:
+a) Chấp hành tốt chủ trương của Đảng và chính sách, pháp luật của Nhà nước; nội quy, quy chế của cơ quan, đơn vị, tổ chức và địa phương nơi cư trú; có phẩm chất đạo đức tốt, gương mẫu trong cuộc sống; tâm huyết, tận tụy với nghề;
+b) Có tri thức, kỹ năng nghề xuất sắc, có công lớn trong việc bảo vệ và phát huy giá trị nghề thủ công mỹ nghệ của địa phương, cụ thể:
+Nắm giữ kỹ năng, bí quyết; truyền nghề, dạy nghề cho 30 cá nhân trở lên, trừ trường hợp nghề có nguy cơ mai một, Quyết định công nhận danh hiệu những tổ chức việc truyền nghề, dạy nghề có thể ít hơn 30 cá nhân, do Hội đồng thẩm định cấp tỉnh xem xét, quyết định;
+Trực tiếp thiết kế, chế tác được ít nhất 10 sản phẩm, tác phẩm có giá trị kinh tế, kỹ thuật và mỹ thuật cao;
+c) Đã có tác phẩm, sản phẩm đạt một trong các tiêu chí sau:
+Đạt giải ba trở lên tại các cuộc thi, hội chợ, triển lãm do tổ chức nhà nước, tổ chức kinh tế, tổ chức xã hội - nghề nghiệp cấp tỉnh trở lên trao tặng;
+Được chọn trưng bày trong các bảo tàng, công trình văn hóa, di tích lịch sử hoặc các sự kiện lớn của tỉnh;
+Được sử dụng vào công trình phục chế di tích lịch sử, văn hóa được chính quyền địa phương nơi có di tích lịch sử, văn hóa xác nhận;
+d) Có thời gian hoạt động trong nghề từ 10 năm trở lên.
+2. Tiêu chuẩn xét công nhận danh hiệu thợ giỏi:
+a) Chấp hành tốt chủ trương của Đảng và chính sách, pháp luật của Nhà nước; nội quy, quy chế của cơ quan, đơn vị, tổ chức và địa phương nơi cư trú; có phẩm chất đạo đức tốt, gương mẫu trong cuộc sống; tâm huyết, tận tụy với nghề; 
+b) Là thợ lành nghề, có trình độ kỹ thuật nghề nghiệp giỏi, có khả năng sáng tác mẫu mã đạt trình độ cao mà người thợ bình thường không làm được; trực tiếp thiết kế, chế tác được ít nhất 5 sản phẩm, tác phẩm có giá trị kinh tế, kỹ thuật và mỹ thuật cao;
+c) Đã có tác phẩm, sản phẩm đạt giải khuyến khích trở lên tại các cuộc thi, hội chợ, triển lãm do tổ chức nhà nước, tổ chức kinh tế, tổ chức xã hội - nghề nghiệp cấp tỉnh trở lên trao tặng;
+d) Có thời gian hoạt động trong nghề từ 5 năm trở lên.
+3. Tiêu chuẩn xét công nhận tổ chức, cá nhân có công đưa nghề mới về các địa phương trong tỉnh: 
+a) Chấp hành tốt chủ trương của Đảng và chính sách, pháp luật của Nhà nước, cá nhân (hoặc người đứng đầu tổ chức) có phẩm chất đạo đức tốt; 
+b) Nghề được du nhập vào các địa phương trong tỉnh là nghề mới ở địa phương chưa có, sản phẩm phải có giá trị, hiệu quả kinh tế và được thị trường chấp nhận; 
+c) Nghề thu hút được tối thiểu 150 lao động tại địa phương; 
+d) Thời gian duy trì và phát triển nghề mới tối thiểu là 05 năm trở lên.
+Từ khóa: Không có thông tin
+Mô tả: Tiêu chuẩn xét công nhận danh hiệu nghệ nhân, thợ giỏi và tổ chức, cá nhân có công đưa nghề mới về các địa phương trên địa bàn tỉnh.
+1. Tiêu chuẩn xét công nhận danh hiệu nghệ nhân:
+a) Chấp hành tốt chủ trương của Đảng và chính sách, pháp luật của Nhà nước; nội quy, quy chế của cơ quan, đơn vị, tổ chức và địa phương nơi cư trú; có phẩm chất đạo đức tốt, gương mẫu trong cuộc sống; tâm huyết, tận tụy với nghề;
+b) Có tri thức, kỹ năng nghề xuất sắc, có công lớn trong việc bảo vệ và phát huy giá trị nghề thủ công mỹ nghệ của địa phương, cụ thể:
+Nắm giữ kỹ năng, bí quyết; truyền nghề, dạy nghề cho 30 cá nhân trở lên, trừ trường hợp nghề có nguy cơ mai một, Quyết định công nhận danh hiệu những tổ chức việc truyền nghề, dạy nghề có thể ít hơn 30 cá nhân, do Hội đồng thẩm định cấp tỉnh xem xét, quyết định;
+Trực tiếp thiết kế, chế tác được ít nhất 10 sản phẩm, tác phẩm có giá trị kinh tế, kỹ thuật và mỹ thuật cao;
+c) Đã có tác phẩm, sản phẩm đạt một trong các tiêu chí sau:
+Đạt giải ba trở lên tại các cuộc thi, hội chợ, triển lãm do tổ chức nhà nước, tổ chức kinh tế, tổ chức xã hội - nghề nghiệp cấp tỉnh trở lên trao tặng;
+Được chọn trưng bày trong các bảo tàng, công trình văn hóa, di tích lịch sử hoặc các sự kiện lớn của tỉnh;
+Được sử dụng vào công trình phục chế di tích lịch sử, văn hóa được chính quyền địa phương nơi có di tích lịch sử, văn hóa xác nhận;
+d) Có thời gian hoạt động trong nghề từ 10 năm trở lên.
+2. Tiêu chuẩn xét công nhận danh hiệu thợ giỏi:
+a) Chấp hành tốt chủ trương của Đảng và chính sách, pháp luật của Nhà nước; nội quy, quy chế của cơ quan, đơn vị, tổ chức và địa phương nơi cư trú; có phẩm chất đạo đức tốt, gương mẫu trong cuộc sống; tâm huyết, tận tụy với nghề; 
+b) Là thợ lành nghề, có trình độ kỹ thuật nghề nghiệp giỏi, có khả năng sáng tác mẫu mã đạt trình độ cao mà người thợ bình thường không làm được; trực tiếp thiết kế, chế tác được ít nhất 5 sản phẩm, tác phẩm có giá trị kinh tế, kỹ thuật và mỹ thuật cao;
+c) Đã có tác phẩm, sản phẩm đạt giải khuyến khích trở lên tại các cuộc thi, hội chợ, triển lãm do tổ chức nhà nước, tổ chức kinh tế, tổ chức xã hội - nghề nghiệp cấp tỉnh trở lên trao tặng;
+d) Có thời gian hoạt động trong nghề từ 5 năm trở lên.
+3. Tiêu chuẩn xét công nhận tổ chức, cá nhân có công đưa nghề mới về các địa phương trong tỉnh: 
+a) Chấp hành tốt chủ trương của Đảng và chính sách, pháp luật của Nhà nước, cá nhân (hoặc người đứng đầu tổ chức) có phẩm chất đạo đức tốt; 
+b) Nghề được du nhập vào các địa phương trong tỉnh là nghề mới ở địa phương chưa có, sản phẩm phải có giá trị, hiệu quả kinh tế và được thị trường chấp nhận; 
+c) Nghề thu hút được tối thiểu 150 lao động tại địa phương; 
+d) Thời gian duy trì và phát triển nghề mới tối thiểu là 05 năm trở lên.

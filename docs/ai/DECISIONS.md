@@ -113,24 +113,24 @@ Nếu một khung không chạy được, dùng standalone UI hoặc mock API ch
 
 ## D-006 — Trust/RAG architecture, data governance, API maturity và deploy topology
 
-- **Trạng thái:** Proposed
+- **Trạng thái:** Accepted
 - **Ngày:** 2026-07-17
 - **Người đề xuất:** Task `local-20260717-challenge-proposal`
 - **Phạm vi:** API / data / deploy / demo
 - **Task Record:** `local-20260717-challenge-proposal`
-- **Peer xác nhận:** `TBD`; hai peer trong scope freeze.
+- **Peer xác nhận:** `hdtruong802` (user), 2026-07-18. Nếu task diễn ra trong scope freeze, vẫn cần peer thứ hai theo `TEAM_PROTOCOL.md`.
 
 ### Bối cảnh
 
 Ba capability của đề bài cần giao tiếp tự nhiên nhưng phải tạo kết quả kiểm chứng được. D-005 đã tạo code baseline, nhưng không giải quyết nguồn pháp lý, data release, grounding, PII boundary, external model, observability, widget/portal contract hay deploy.
 
-### Quyết định đề xuất
+### Quyết định đã chấp thuận
 
-Đề xuất kiến trúc web-first gồm standalone UI + iframe/widget, trust/orchestration backend, approved structured procedure packs, hybrid keyword/vector retrieval, deterministic rules và provider-neutral LLM adapter. Procedure Pack cần source/effective date/review/checksum; mọi response quy phạm cần `procedure_version`, `source_refs`, `last_verified_at` và một trust state: `verified_guidance`, `need_more_information`, `official_review_required`.
+Chấp thuận kiến trúc web-first gồm standalone UI + iframe/widget, trust/orchestration backend, approved structured procedure packs, hybrid keyword/vector retrieval, deterministic rules và provider-neutral LLM adapter. Procedure Pack cần source/effective date/review/checksum; mọi response quy phạm cần `procedure_version`, `source_refs`, `last_verified_at` và một trust state: `verified_guidance`, `need_more_information`, `official_review_required`.
 
 LLM chỉ hỏi làm rõ/diễn đạt/giải thích evidence đã có. Nó không quyết định hồ sơ hợp lệ, không tạo giấy tờ/rule ngoài pack approved và không nhận raw direct identifiers. PII Guard phải minimize/tokenize trước model call; token map session-only, không vào disk, log, vector index hay `CaseSnapshot`. Deterministic Rule Engine là nguồn duy nhất tạo field/cross-field findings.
 
-Curated acquisition, checksum, K1 approval, release/rollback và K2 re-review là gate trước runtime knowledge. D-006 đề xuất, nhưng chưa chọn/chưa provision, storage/vector database, model provider, hosting hoặc CD cụ thể.
+Curated acquisition, checksum, K1 approval, release/rollback và K2 re-review là gate trước runtime knowledge. D-006 chấp thuận kiến trúc mục tiêu và các gate; nó **không** tự chọn hoặc provision storage/vector database, model provider, hosting hay CD cụ thể.
 
 ### Hệ quả và kiểm chứng
 
@@ -224,51 +224,45 @@ Revert workflow, guard helper và release-manifest changes để quay về repos
 
 ---
 
-## D-009 — Structure-aware chunking contract cho ba procedure pack MVP
+## D-011 — RAG in-process, LLM Gateway OpenAI-compatible, PII Guard regex in-memory
 
-- **Trạng thái:** Accepted
+- **Trạng thái:** Proposed
 - **Ngày:** 2026-07-18
-- **Người đề xuất:** Codex theo Task Record hiện tại
-- **Phạm vi:** data | shared logical schema | RAG
-- **Task Record:** `local-20260718-chunking-phase-0`
+- **Người đề xuất:** Cursor theo yêu cầu người dùng hiện tại
+- **Phạm vi:** API | dependency | data | process
+- **Task Record:** `local-20260718-rag-llm-guardrail`
 - **Publish (tùy chọn):** chưa publish
-- **Peer xác nhận:** Người dùng/repository peer xác nhận ngày 2026-07-18 để triển khai Phase 1 trực tiếp trên `cao`
+- **Peer xác nhận:** Chưa có peer khác online tại thời điểm thực hiện (roster `TEAM.md` còn `TBD`); cần một peer xác nhận trước khi coi là `Accepted`, đặc biệt nếu bước vào 6 giờ cuối.
 
 ### Bối cảnh
 
-Corpus local có 5.652 file TXT nhưng raw document không tự động là nguồn đã duyệt. Mẫu phân tầng cho thấy tài liệu có cấu trúc field/bullet và nhiều dòng dài, nên fixed-size character chunking có nguy cơ cắt giữa trường, claim và căn cứ pháp lý. Proposal yêu cầu approved-only RAG, metadata hiệu lực, K1/K2 review và fail-closed; runtime hiện chưa có ingestion/chunking contract chung.
-
-Proposal đang tham chiếu D-006 đến D-008 nhưng các entry đó chưa có trong Decision Log hiện tại. D-009 được dùng để tránh chiếm các ID đã được tham chiếu; D-006 đến D-008 được giữ reserved và không tái sử dụng. Việc phục hồi nội dung lịch sử của các Decision này là task tài liệu riêng, không chặn fixture-only Phase 1.
+`docs/proposal.md` mục 5 đề xuất kiến trúc RAG/Knowledge, LLM Gateway provider-neutral và PII Guard, nhưng đánh dấu framework/model provider/database là `TBD`. `PROJECT_CONTEXT.md` đã chốt `AI/model/provider: Provider-neutral adapter` và `Data/storage: Neon Postgres (pgvector)` ở trạng thái `Proposed` (chưa `Accepted`, chưa provision). Cần triển khai đủ 3 năng lực để demo end-to-end trong thời gian hackathon còn lại mà không chờ hạ tầng Neon/pgvector hoặc secret model provider thật.
 
 ### Lựa chọn đã cân nhắc
 
-1. Whole-document retrieval — ít preprocessing nhưng context lớn, khó filter claim/citation và dễ trộn phiên bản.
-2. Fixed token windows với overlap — đơn giản nhưng cắt structure và nhân bản claim/citation không kiểm soát.
-3. Structure-aware parsing rồi áp token budget — cần parser/fixtures nhưng giữ provenance, hierarchy và legal basis để review/test.
+1. Chờ Neon/pgvector + provider thật được provision trước khi code — an toàn về kiến trúc dài hạn nhưng rủi ro P0 "demo không ổn định" nếu hackathon hết giờ trước khi có infra.
+2. Dùng thư viện vector/ML nặng (`numpy`/`scikit-learn`/`sentence-transformers`) cho retrieval — chất lượng ngữ nghĩa tốt hơn nhưng vi phạm rủi ro P0 đã ghi trong `PROJECT_CONTEXT.md` ("không phụ thuộc thư viện native nặng") và tăng thời gian cài đặt/build trên máy giám khảo.
+3. RAG in-process bằng pure-Python lexical/TF-IDF hybrid trên `data/Data_DVC` (dataset thật từ nguồn thủ tục hành chính), LLM Gateway dùng client `openai` (đã có trong `requirements.txt`) trỏ `AI_BASE_URL` để provider-neutral, có fallback deterministic khi thiếu `AI_API_KEY`; PII Guard bằng regex + dict in-memory theo session, không dùng KMS/Vault.
 
 ### Quyết định
 
-Chọn phương án 3 theo contract tại `docs/ai/CHUNKING_CONTRACT.md`:
+Chọn phương án 3. Cụ thể:
 
-- Chỉ allowlist nguồn cho ba procedure pack MVP; không index toàn corpus.
-- Dùng lifecycle `staging -> parsed -> needs_review -> approved`, có `rejected` và `stale`; chỉ `approved` được retrieval.
-- Logical contract gồm `SourceDocument`, `ParsedSection`, `EvidenceChunk` và `ChunkBuildReport`.
-- Chunk target 250–350 tokens, hard maximum 450 tokens đã gồm prefix; không overlap theo phần trăm.
-- `TokenCounter` provider-neutral và tokenizer ID là một phần build identity.
-- Baseline là structured filter + keyword; vector/pgvector chỉ qua Decision riêng nếu golden set chứng minh cần thiết.
-- Không thay public API, dependency, database hoặc runtime schema trong Decision proposal này.
+- **RAG:** Structured store nạp `data/Data_DVC/*.txt`, lọc theo 3 procedure MVP bằng khớp `Tên thủ tục`/từ khóa; retrieval hybrid = keyword filter + lexical term-overlap scoring (không numpy/sklearn); trả về evidence kèm `source_ref`, `last_verified_at` (ngày source freeze), `confidence`; dưới ngưỡng confidence hoặc ngoài 3 pack => `official_review_required`. Không index PII, session hay case memory.
+- **LLM:** `LLMGateway` dùng `openai` SDK, cấu hình qua `AI_PROVIDER/AI_MODEL/AI_API_KEY/AI_BASE_URL` (đã có trong `.env.example`); system prompt ép model chỉ dùng evidence được cung cấp, chỉ trả JSON structured (intent/clarification/explanation), không tự quyết định checklist/finding. Khi thiếu `AI_API_KEY`, gateway dùng fallback templating deterministic (không gọi model, không bịa nội dung quy phạm) để demo vẫn chạy được offline.
+- **Guardrail:** `PIIGuard` regex nhận diện họ tên/số CCCD/SĐT/địa chỉ chi tiết, tokenize trước khi đưa vào LLM, map token chỉ lưu in-memory theo `session_id` với TTL phiên, không log/DB/vector.
+- **Tích hợp:** Sau khi `local-20260717-challenge-proposal`/`local-20260718-ci-cd-optimization` refactor backend sang kiến trúc hexagonal (`app/ports.py` + `AppContainer` + `CopilotService`), D-011 hiện thực RAG/LLM bằng adapter mới (`app/adapters/rag_llm.py`) implement `ProcedureRepository`/`RecommendationProvider`/`RetrievalProvider`/`LLMProvider` thay cho bản `Disabled*`; kích hoạt qua `procedure_data_mode=rag`, `rag_mode=rag`, `llm_mode=gateway`. `CopilotService`/`TrustPolicy`/`RuleEngine` gốc của D-006 giữ nguyên, không tạo `TrustPolicy` riêng.
+- Không đổi public REST schema hiện có (`ARCHITECTURE.md`); không thêm cột DB hay service ngoài.
 
 ### Hệ quả và kiểm chứng
 
-- Phase 1 phải tạo fixtures có section boundaries và parser deterministic trước khi build chunk.
-- Chỉ source/chunk có provenance, hiệu lực và review state hợp lệ mới được phát hành.
-- Chunk build phải reproducible; đổi source, parser, chunker hoặc tokenizer buộc version/rebuild.
-- Gate đánh giá gồm section-boundary F1 >= 95%, hard-cap pass 100%, citation coverage 100%, stale/future leakage 0 và Retrieval Recall@5 >= 95%.
-- Acceptance hiện chỉ cấp quyền triển khai fixtures, annotations và validator/test Phase 1; chưa cấp quyền thay runtime schema/dependency/index.
+- Chạy được hoàn toàn local, không cần Neon/pgvector hay API key thật; khi có provider thật chỉ cần set env, không đổi code.
+- Cần `pytest backend/tests` cho PII Guard tokenize/detokenize, retrieval trên 3 pack, adapter mới và trust policy fail-closed.
+- Khi Neon/pgvector hoặc provider thật được Decision riêng chấp thuận, migration retrieval sang pgvector là thay adapter `RetrievalProvider`, không đổi `app/ports.py` contract.
 
 ### Rollback / fallback
 
-Không sửa raw corpus. Mọi parsed/chunk/index artifact có thể bỏ và build lại từ approved source snapshot. Nếu structure-aware retrieval không vượt baseline trên golden set, fallback về structured procedure lookup + keyword trên approved sections, không đưa whole corpus vào LLM.
+Nếu retrieval lexical không đủ chất lượng cho demo, đặt lại `procedure_data_mode=fixture`/`rag_mode=disabled`/`llm_mode=disabled` trong `Settings` để `AppContainer` quay về adapter fixture/disabled có sẵn, không cần đổi code service. Nếu LLM provider lỗi/timeout, gateway trả fallback deterministic và `TrustPolicy` chuyển `official_review_required` thay vì chặn toàn bộ luồng.
 
 ---
 

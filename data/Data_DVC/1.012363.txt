@@ -1,0 +1,38 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012363
+Số quyết định: 795/QĐ-BTC
+Tên thủ tục: Đăng ký nguyên tắc tách nguồn vốn chủ sở hữu, nguồn phí bảo hiểm.
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo hiểm
+Trình tự thực hiện:
+    + Doanh nghiệp bảo hiểm, doanh nghiệp tái bảo hiểm, chi nhánh nước ngoài tại Việt Nam nộp hồ sơ đăng ký với Bộ Tài chính các nguyên tắc tách, phân bổ tài sản, nguồn vốn, doanh thu, chi phí chung liên quan đến cả quỹ chủ sở hữu và quỹ chủ hợp đồng trước khi áp dụng.
+    + Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tài chính có công văn ghi nhận. Trường hợp từ chối ghi nhận, Bộ Tài chính có công văn giải thích rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Văn bản đề nghị đăng ký hoặc thay đổi theo mẫu quy định tại Phụ lục XI ban hành kèm theo Nghị định 46/2023/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Tài liệu giải trình về các nguyên tắc tách, phân bổ dự kiến áp dụng có xác nhận của chuyên gia tính toán của doanh nghiệp, chi nhánh. Trường hợp thay đổi thì hồ sơ còn bao gồm tài liệu giải trình sự thay đổi.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Bộ Tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo lý do từ chối của Bộ Tài chính, Văn bản ghi nhận đăng ký nguyên tắc tách nguồn vốn chủ sở hữu, nguồn phí bảo hiểm
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

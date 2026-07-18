@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004415
+Số quyết định: 52/QĐ-BGTVT
+Tên thủ tục: Phê chuẩn sửa đổi, bổ sung tài liệu hướng dẫn khai thác, bảo dưỡng của người khai thác tàu bay
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * Nộp hồ sơ TTHC:
+    Người khai thác tàu bay nộp hồ sơ đề nghị phê chuẩn sửa đổi, bổ sung tài liệu hướng dẫn khai thác, bảo dưỡng của người khai thác tàu bay đến Cục Hàng không Việt Nam
+  * Giải quyết TTHC:
+    Cục HKVN kiểm tra tính hợp lệ của hồ sơ trong thời hạn 03 ngày làm việc, kể từ ngày tiếp nhận hồ sơ; thông báo trực tiếp hoặc bằng văn bản cho người đề nghị nếu hồ sơ bị từ chối.
+    Trường hợp hồ sơ được chấp nhận, trong thời hạn 07 ngày làm việc, kể từ ngày tiếp nhận hồ sơ, Cục HKVN xem xét nội dung hồ sơ, thống nhất và thông báo chính thức kế hoạch kiểm tra tại cơ sở của người đề nghị.
+    Trong thời hạn 05 ngày, kể từ ngày tiếp nhận hồ sơ, Cục HKVN quyết định phê chuẩn sửa đổi, bổ sung tài liệu hướng dẫn khai thác nếu thấy rằng các nội dung sửa đổi đáp ứng đầy đủ các quy định của Phần này hoặc thông báo từ chối sửa đổi, bổ sung tài liệu hướng dẫn khai thác bằng văn bản, có nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 15 ngày kể từ ngày nhận được hồ sơ hợp lệ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 15 ngày kể từ ngày nhận được hồ sơ hợp lệ
+
+Thành phần hồ sơ:
+    - Tài liệu liên quan đến nội dung sửa đổi, bổ sung của tài liệu hướng dẫn khai thác đã được phê chuẩn khi cấp AOC lần đầu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Công văn đề nghị sửa đổi, bổ sung tài liệu hướng dẫn khai thác với bảng tóm tắt các nội dung sửa đổi so với tài liệu được phê chuẩn trước đó;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Doanh nghiệp Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê chuẩn tài liệu hướng dẫn khai thác, bảo dưỡng của người khai thác tàu bay
+Căn cứ pháp lý:
+  * Ban hành Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay (01/2011/TT-BGTVT)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Thông tư sửa đổi, bổ sung một số điều của Bộ quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay (56/2018/TT-BGTVT)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 01/2011/TT-BGTVT ngày 27 tháng 01 năm 2011 của Bộ trưởng Bộ Giao thông vận tải ban hành Bộ Quy chế An toàn hàng không dân dụng lĩnh vực tàu bay và khai thác tàu bay (03/2016/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Khi có những sửa đổi, bổ sung tài liệu hướng dẫn khai thác, tài liệu về điều hành và chương trình bảo dưỡng đã được phê duyệt, Người khai thác tàu bay thực hiện theo các hướng dẫn theo các Phụ lục tương ứng dưới đây:
+- Phụ lục về tài liệu hướng dẫn khai thác.
+- Phụ lục để có chi tiết về các hướng dẫn tiếp theo về cách soạn thảo tài liệu “Danh mục thiết bị tối thiểu” (MEL).
+- Phụ lục các thông tin cụ thể trong bảng thông tin bằng hành động cho hành khách.
+- Phụ lục các thông tin cụ thể về sân bay để đưa vào hệ thống kiểm soát dữ liệu hàng không.
+- Phụ lục các nguồn cung cấp báo cáo thời tiết thỏa mãn cho việc lập kế hoạch bay và kiểm soát tiến trình bay.
+- Phụ lục các yêu cầu chi tiết trong chương trình làm tan băng của Người khai thác.
+- Phụ lục về nội dung tài liệu điều hành bảo dưỡng.
+- Phụ lục các yêu cầu bổ sung về hệ thống chất lượng đối với các hoạt động bảo dưỡng.
+Từ khóa: Không có thông tin
+Mô tả: Khi có những sửa đổi, bổ sung tài liệu hướng dẫn khai thác, tài liệu về điều hành và chương trình bảo dưỡng đã được phê duyệt, Người khai thác tàu bay thực hiện theo các hướng dẫn theo các Phụ lục tương ứng dưới đây:
+- Phụ lục về tài liệu hướng dẫn khai thác.
+- Phụ lục để có chi tiết về các hướng dẫn tiếp theo về cách soạn thảo tài liệu “Danh mục thiết bị tối thiểu” (MEL).
+- Phụ lục các thông tin cụ thể trong bảng thông tin bằng hành động cho hành khách.
+- Phụ lục các thông tin cụ thể về sân bay để đưa vào hệ thống kiểm soát dữ liệu hàng không.
+- Phụ lục các nguồn cung cấp báo cáo thời tiết thỏa mãn cho việc lập kế hoạch bay và kiểm soát tiến trình bay.
+- Phụ lục các yêu cầu chi tiết trong chương trình làm tan băng của Người khai thác.
+- Phụ lục về nội dung tài liệu điều hành bảo dưỡng.
+- Phụ lục các yêu cầu bổ sung về hệ thống chất lượng đối với các hoạt động bảo dưỡng.

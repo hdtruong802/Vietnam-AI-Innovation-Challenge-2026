@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010803
+Số quyết định: 556/QĐ-BNV
+Tên thủ tục: Giải quyết chế độ trợ cấp thờ cúng liệt sĩ.
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    - Trường hợp liệt sĩ không còn thân nhân thuộc diện hưởng trợ cấp hằng tháng theo quy định tại khoản 3 Điều 16 Pháp lệnh ưu đãi người có công với cách mạng thì cá nhân làm đơn đề nghị theo Mẫu số 18 Phụ lục I Nghị định số 131/2021/NĐ-CP kèm văn bản ủy quyền của những người quy định tại điểm a, b khoản 5 Điều 28 Nghị định số 131/2021/NĐ-CP gửi trên Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính.
+    - Ủy ban nhân dân cấp xã trong thời gian 05 ngày làm việc kể từ ngày tiếp nhận đủ giấy tờ, có trách nhiệm kiểm tra, xác nhận đơn đề nghị, lập danh sách kèm giấy tờ quy định tại khoản 1 Điều 28 Nghị định số 131/2021/NĐ-CP gửi Sở Nội vụ.
+    - Sở Nội vụ trong thời gian 05 ngày làm việc kể từ ngày tiếp nhận đủ giấy tờ, có trách nhiệm kiểm tra, đối chiếu hồ sơ của liệt sĩ đang quản lý, ban hành quyết định trợ cấp thờ cúng liệt sĩ theo Mẫu số 55 Phụ lục I Nghị định số 131/2021/NĐ-CP. Quyết định này được thực hiện liên tục nếu không có sự thay đổi về người hưởng trợ cấp thờ cúng liệt sĩ hoặc về mức trợ cấp. Người được ủy quyền thờ cúng liệt sĩ được hưởng trợ cấp hằng năm kể từ năm Sở Nội vụ ban hành quyết định. Trường hợp hồ sơ gốc của liệt sĩ do địa phương khác quản lý thì Sở Nội vụ có văn bản đề nghị nơi quản lý hồ sơ thực hiện di chuyển hồ sơ liệt sĩ kèm văn bản xác nhận chưa được giải quyết chế độ trợ cấp thờ cúng liệt sĩ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. 10 ngày làm việc kể từ ngày nhận đủ giấy tờ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. 10 ngày làm việc kể từ ngày nhận đủ giấy tờ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công. 10 ngày làm việc kể từ ngày nhận đủ giấy tờ (Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị Mẫu số 18 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản ủy quyền.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Nội vụ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định trợ cấp thờ cúng liệt sĩ
+Căn cứ pháp lý:
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Pháp lệnh số: 02/2020/UBTVQH14)
+  * QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THI HÀNH PHÁP LỆNH ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Nghị định số 131/2021/NĐ-CP)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Nội vụ (129/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Người được ủy quyền thờ cúng liệt sĩ hoặc cơ quan, đơn vị được giao thờ cúng liệt sĩ được xác định theo quy định khoản 6 Điều 28 Nghị định số 131/2021/NĐ-CP.
+Từ khóa: Không có thông tin
+Mô tả: Người được ủy quyền thờ cúng liệt sĩ hoặc cơ quan, đơn vị được giao thờ cúng liệt sĩ được xác định theo quy định khoản 6 Điều 28 Nghị định số 131/2021/NĐ-CP.

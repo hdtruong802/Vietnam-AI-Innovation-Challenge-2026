@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115424
+Số quyết định: 918/QĐ-TTPVHCC
+Tên thủ tục: Thủ tục gia hạn thử nghiệm có kiểm soát
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    - Tổ chức, doanh nghiệp có nhu cầu gia hạn; điều chỉnh thử nghiệm có kiểm soát nộp 01 bộ hồ sơ đến Các Chi nhánh - Trung tâm phục vụ hành chính công Thành phố trước thời điểm hết thời gian thử nghiệm tối thiểu 60 ngày.
+    1. Trong thời hạn 05 ngày kể từ ngày nhận được hồ sơ, Sở Khoa học và Công nghệ (Cơ quan tiếp nhận) có văn bản trả lời về tính đầy đủ của hồ sơ.
+    Trong thời hạn 10 ngày kể từ ngày cơ quan cơ quan Cơ quan tiếp nhận có văn bản yêu cầu bổ sung thành phần hồ sơ, tổ chức đề nghị gia hạn; điều chỉnh thử nghiệm phải gửi bổ sung đầy đủ thành phần hồ sơ theo yêu cầu. Quá thời hạn nêu trên, cơ quan tiếp nhận có văn bản trả lại hồ sơ;
+    2. Chậm nhất 15 ngày trước khi kết thúc thời gian thử nghiệm, cơ quan tiếp nhận kiểm tra, đánh giá, thẩm định hồ sơ đề nghị gia hạn  báo cáo Ủy ban nhân dân Thành phố;
+    3. Trong thời hạn 05 ngày kể từ ngày nhận được báo cáo của cơ quan tiếp nhận, Ủy ban nhân dân Thành phố xem xét, ban hành Quyết định gia hạn thử nghiệm có kiểm soát theo Mẫu số 04 tại Phụ lục I ban hành kèm theo Nghị quyết này. Trường hợp không gia hạn, cơ quan tiếp nhận thông báo bằng văn bản cho tổ chức thực hiện thử nghiệm và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 25 ngày kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị gia hạn thử nghiệm có kiểm soát theo Mẫu số 03 tại Phụ lục I ban hành kèm theo Nghị quyết số 26/2026/NQ-HĐND;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo kết quả hoạt động thử nghiệm theo Mẫu số 11 tại Phụ lục I ban hành kèm theo Nghị quyết số 26/2026/NQ-HĐND;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phương án gia hạn, trong đó nêu rõ lý do gia hạn, thời gian đề nghị gia hạn, kết quả đã đạt được, rủi ro phát sinh, biện pháp kiểm soát rủi ro trong thời gian gia hạn và kiến nghị của tổ chức thực hiện thử nghiệm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định gia hạn thử nghiệm có kiểm soát.
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Hồ sơ đề nghị gia hạn: phải được gửi đến cơ quan thẩm định trước thời điểm hết thời gian thử nghiệm tối thiểu 60 ngày.
+Từ khóa: Thủ tục hành chính đặc thù
+Mô tả: Hồ sơ đề nghị gia hạn: phải được gửi đến cơ quan thẩm định trước thời điểm hết thời gian thử nghiệm tối thiểu 60 ngày.

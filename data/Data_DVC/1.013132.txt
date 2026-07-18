@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013132
+Số quyết định: 6376/QĐ-BQP
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới sản xuất, lắp ráp trong nước
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xe - máy quân sự
+Trình tự thực hiện:
+    Bước 1: Cơ sở sản xuất, lắp ráp hoặc đơn vị đặt hàng lập 01 bộ hồ sơ đề nghị cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới sản xuất, lắp ráp trong nước nộp về Cục Xe máy - Vận tải/Tổng cục Hậu cần - Kỹ thuật. Trường hợp hồ sơ chưa hợp lệ, trong thời hạn 03 ngày làm việc, Cục Xe máy - Vận tải/Tổng cục Hậu cần - Kỹ thuật thông báo bằng văn bản đến cơ sở sản xuất, lắp ráp hoặc đơn vị đặt hàng để bổ sung hồ sơ.
+    Bước 2: Cục trưởng Cục Xe máy - Vận tải/Tổng cục Hậu cần - Kỹ thuật quyết định thành lập Hội đồng kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới sản xuất, lắp ráp trong nước (Hội đồng kiểm tra). Hội đồng kiểm tra tổ chức kiểm tra cấu hình, thử nghiệm, đánh giá tính năng chiến - kỹ thuật của xe cơ giới do Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam phê duyệt và thông qua biên bản kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới nhập khẩu hoặc sản xuất, lắp ráp trong nước. Không thành lập Hội đồng kiểm tra đối với các trường hợp sau: Xe cơ giới nhập khẩu có cùng nhãn hiệu, cấu hình, tính năng chiến - kỹ thuật cơ bản đã được cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường lần trước đó. Xe cơ giới sản xuất, lắp ráp có cùng nhãn hiệu, cấu hình, tính năng chiến - kỹ thuật cơ bản và cùng cơ sở sản xuất, lắp ráp đã được cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường lần trước đó.
+    Bước 3: Trường hợp các thông số kỹ thuật xe cơ giới đạt yêu cầu, Hội đồng kiểm tra tiến hành trình Cục trưởng Cục Xe máy - Vận tải/Tổng cục Hậu cần - Kỹ thuật cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới sản xuất, lắp ráp trong nước và trả kết quả gửi 02 bản cho cơ sở sản xuất, lắp ráp hoặc đơn vị đặt hàng. Trường hợp có thông số kỹ thuật xe cơ giới chưa đạt yêu cầu, Hội đồng kiểm tra thông báo đến cơ sở sản xuất, lắp ráp hoặc đơn vị đặt hàng khắc phục, hoàn thiện. Thời gian khắc phục, hoàn thiện không tính vào thời gian cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới sản xuất, lắp ráp trong nước.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 21 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 21 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 21 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Công văn đề nghị cấp Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường của cơ sở sản xuất, lắp ráp hoặc đơn vị đặt hàng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao quyết định của Tổng Tham mưu trưởng Quân đội nhân dân Việt Nam phê duyệt tính năng chiến - kỹ thuật cơ bản của xe;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao các quyết định của Bộ trưởng Bộ Quốc phòng phê duyệt dự án, đề án, kế hoạch, nhiệm vụ hoặc các tài liệu khác có liên quan (nếu có);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Phiếu kiểm tra chất lượng xuất xưởng của cơ sở sản xuất, lắp ráp hoặc đơn vị đặt hàng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Xe máy-Vận tải/Tổng cục Hậu cần-Kỹ thuật
+Cơ quan có thẩm quyền: Cục Trưởng Cục Xe máy-Vận tải/Tổng cục Hậu cần-Kỹ thuật
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe mô tô, xe gắn máy nhập khẩu và động cơ nhập khẩu sử dụng để lắp ráp xe mô tô, xe gắn máy
+Căn cứ pháp lý:
+  * Thông tư số 67/2024/TT-BQP của Bộ Quốc phòng: Quy định trình tự, thủ tục chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới nhập khẩu, sản xuất, lắp ráp thuộc phạm vi quản lý của Bộ Quốc phòng (Thông tư số 67/2024/TT-BQP)
+  * Thông tư số 130/2025/TT-BQP ngày 25/11/2025 của Bộ trưởng Bộ Quốc phòng sửa đổi, bổ sung một số điều của Thông tư số 67/2024/TT-BQP ngày 14/10/2024 của Bộ trưởng BQP quy định về trình tự, thủ tục chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới nhập khẩu, sản xuất, lắp rắp thuộc phạm vi quản lý của BQP. (130/2025/TT-BQP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

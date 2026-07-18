@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012836
+Số quyết định: 2303/QĐ-BNNMT
+Tên thủ tục: Hỗ trợ chi phí về vật tư phối giống nhân tạo gia súc gồm tinh đông lạnh, Nitơ lỏng, găng tay và dụng cụ dẫn tinh để phối giống cho trâu, bò cái; chi phí về liều tinh để thực hiện phối giống cho lợn nái, công cho người làm dịch vụ phối giống nhân tạo gia súc (trâu, bò)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chăn nuôi
+Trình tự thực hiện:
+    Bước 1. Lập danh sách gia súc được phối giống
+    Người làm dịch vụ phối giống nhân tạo gia súc lập danh sách gia súc đã được phối giống nhân tạo, nộp cho tổ chức được giao nhiệm vụ thực hiện chương trình hỗ trợ phối giống nhân tạo gia súc.
+    Bước 2. Nộp hồ sơ
+    Tổ chức được giao nhiệm vụ thực hiện chương trình hỗ trợ phối giống nhân tạo gia súc tổng hợp danh sách gia súc đã được phối giống nhân tạo, hoàn thiện hồ sơ nộp cho Ủy ban nhân dân cấp xã định kỳ 03 tháng/lần. Ủy ban nhân dân cấp xã kiểm tra hồ sơ theo quy định.
+    Bước 3. Tổ chức thẩm định, nghiệm thu kết quả phối giống
+    Ủy ban nhân dân cấp xã trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp; trả lời tính đầy đủ của hồ sơ trong vòng 01 ngày làm việc đối với trường hợp nộp hồ sơ qua môi trường mạng hoặc qua bưu chính bằng văn bản;
+    Trong thời hạn 18 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ, cơ quan chuyên môn về nông nghiệp và môi trường cấp xã tổ chức thẩm định, nghiệm thu và trình Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định hỗ trợ;
+    Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ trình của cơ quan chuyên môn về nông nghiệp và môi trường cấp xã, Chủ tịch Ủy ban nhân dân cấp xã quyết định hỗ trợ; trường hợp không hỗ trợ thì có ngay văn bản thông báo và nêu rõ lý do cho tổ chức, cá nhân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Hồ sơ người làm dịch vụ phối giống gửi Tổ chức được giao nhiệm vụ thực hiện chương trình hỗ trợ phối giống nhân tạo gia súc: ]
+    - Danh sách gia súc đã được phối giống nhân tạo
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ Hồ sơ tổ chức được giao nhiệm vụ thực hiện chương trình hỗ trợ phối giống nhân tạo gửi Ủy ban nhân dân cấp xã: ]
+    - - Biên bản nghiệm thu  kết quả phối giống nhân tạo gia súc đã được thực hiện.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Hợp đồng cung cấp vật tư phối giống nhân tạo gia súc giữa tổ chức được giao nhiệm vụ thực hiện chương trình hỗ trợ phối giống nhân tạo gia súc với cơ sở được lựa chọn cung cấp vật tư phối giống nhân tạo gia súc;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Danh sách tổng hợp gia súc được phối giống nhân tạo do tổ chức được giao nhiệm vụ thực hiện chương trình hỗ trợ phối giống nhân tạo gia súc lập theo mẫu quy định tại Mẫu số 31.GVN Phụ lục I ban hành kèm theo Thông tư số 09/2025/TT-BNNMT ngày 19 tháng 06 năm 2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường quy định phân quyền, phân cấp và phân định thẩm quyền trong lĩnh vực quản lý nhà nước về chăn nuôi và thú y
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Quyết định giao nhiệm vụ của cơ quan có thẩm quyền cho tổ chức được giao nhiệm vụ thực hiện chương trình hỗ trợ phối giống nhân tạo gia súc;
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Uỷ ban Nhân dân cấp xã, phường, thị trấn
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hỗ trợ cung cấp vật tư, công phối giống nhân tạo gia súc (trâu, bò); liều tinh để thực hiện phối giống cho lợn nái
+Căn cứ pháp lý:
+  * Quy định phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Nông nghiệp và Môi trường (Nghị định số 131/2025/NĐ-CP)
+  * Quy định chi tiết một số Điều của Luật thú y (Nghị định số 35/2016/NĐ-CP)
+  * 106/2024/NĐ-CP (106/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

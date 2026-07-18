@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000721
+Số quyết định: 1298/QĐ-BCT
+Tên thủ tục: Xử lý khoản tiền đã ký quỹ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý bán hàng đa cấp
+Trình tự thực hiện:
+  * Xử lý khoản tiền đã ký quỹ trong trường hợp doanh nghiệp chấm dứt hoạt động bán hàng đa cấp nhưng không chấp hành quyết định xử phạt vi phạm trong hoạt động bán hàng đa cấp đã có hiệu lực của cơ quan có thẩm quyền
+    Trường hợp doanh nghiệp chấm dứt hoạt động bán hàng đa cấp nhưng không chấp hành quyết định xử phạt vi phạm trong hoạt động bán hàng đa cấp đã có hiệu lực của cơ quan có thẩm quyền, cơ quan ban hành quyết định xử phạt đó gửi văn bản đề nghị Bộ Công Thương ban hành văn bản yêu cầu ngân hàng nơi doanh nghiệp ký quỹ trích khoản tiền ký quỹ để thực hiện quyết định xử phạt.
+    Trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản đề nghị, Bộ Công Thương ban hành văn bản yêu cầu ngân hàng nơi doanh nghiệp ký quỹ trích khoản tiền ký quỹ để thực hiện quyết định xử phạt.
+  * Xử lý khoản tiền đã ký quỹ theo bản án của tòa án
+    - Căn cứ Bản án, quyết định của Tòa án có hiệu lực pháp luật, người tham gia bán hàng đa cấp thực hiện việc yêu cầu thi hành án theo quy định pháp luật thi hành án dân sự.
+    Trường hợp được sử dụng tiền ký quỹ theo quy định tại khoản 1 Điều 50 Nghị định số 137/2026/NĐ-CP, cơ quan thi hành án gửi văn bản đề nghị đến Ủy ban Cạnh tranh Quốc gia - Bộ Công Thương kèm bản sao bản án có hiệu lực pháp luật, bản sao quyết định thi hành án và quyết định khấu trừ tiền trong tài khoản ký quỹ của doanh nghiệp để thực hiện thi hành án.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đề nghị của cơ quan thi hành án, Ủy ban Cạnh tranh Quốc gia - Bộ Công Thương thông báo cho cơ quan thi hành án và ngân hàng nơi doanh nghiệp ký quỹ để thực hiện việc trích tiền ký quỹ để thi hành án.
+    Trường hợp xác định tranh chấp theo bản án không thuộc trường hợp được sử dụng tiền ký quỹ theo quy định tại khoản 1 Điều 50 Nghị định số 137/2026/NĐ-CP, Ủy ban Cạnh tranh Quốc gia - Bộ Công Thương thông báo cho cơ quan thi hành án để thực hiện các biện pháp thi hành án khác theo quy định của pháp luật.
+    Bộ Công Thương giải quyết việc sử dụng khoản tiền ký quỹ theo trình tự thời gian tiếp nhận yêu cầu sử dụng khoản tiền ký quỹ hợp lệ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Xử lý khoản tiền đã ký quỹ trong trường hợp doanh nghiệp chấm dứt hoạt động bán hàng đa cấp nhưng không chấp hành quyết định xử phạt vi phạm trong hoạt động bán hàng đa cấp đã có hiệu lực của cơ quan có thẩm quyền ]
+    - Văn bản đề nghị Bộ Công Thương ban hành văn bản yêu cầu ngân hàng nơi doanh nghiệp ký quỹ trích khoản tiền ký quỹ để thực hiện quyết định xử phạt.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Xử lý khoản tiền đã ký quỹ theo bản án của tòa án ]
+    - - Văn bản đề nghị của cơ quan thi hành án;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao bản án có hiệu lực pháp luật;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao quyết định thi hành ánh;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao quyết định khấu trừ tiền trong tài khoản ký quỹ của doanh nghiệp để thực hiện thi hành án.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Ủy ban Cạnh tranh Quốc gia
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản yêu cầu ngân hàng nơi doanh nghiệp mở tài khoản ký quỹ trích khoản tiền ký quỹ để thực hiện yêu cầu của người tham gia bán hàng đa cấp
+Căn cứ pháp lý:
+  * Về quản lý hoạt động kinh doanh theo phương thức đa cấp (Nghị định 40/2018/NĐ-CP)
+  * - Nghị định số 137/2026/NĐ-CP ngày 07 tháng 4 năm 2026 của Chính phủ về quản lý hoạt động kinh doanh theo phương thức đa cấp. (137/2026/NĐ-CP)
+  * Thông tư số 27/2026/TT-BCT ngày 21 tháng 5 năm 2026 của Bộ trưởng Bộ Công Thương quy định việc phân cấp thực hiện một số nhiệm vụ và giải quyết một số thủ tục hành chính trong lĩnh vực quản lý hoạt động kinh doanh theo phương thức đa cấp thuộc thẩm quyền của Bộ Công Thương. (27/2026/TT-BCT)
+  * Sửa đổi, bổ sung một số điều của Nghị định số 40/2018/NĐ-CP ngày 12 tháng 3 năm 2018 của Chính phủ về quản lý hoạt động kinh doanh theo phương thức đa cấp (18/2023/NĐ-CP)
+  * Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Ủy ban Cạnh tranh Quốc gia (03/2023/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: doanh nghiệp chấm dứt hoạt động bán hàng đa cấp nhưng không chấp hành quyết định xử phạt vi phạm trong hoạt động bán hàng đa cấp đã có hiệu lực của cơ quan có thẩm quyền. 
+doanh nghiệp chấm dứt hoạt động bán hàng đa cấp nhưng không thực hiện đầy đủ các nghĩa vụ liên quan đến hoạt động bán hàng đa cấp đối với người tham gia bán hàng đa cấp và có bản án có hiệu lực pháp luật của tòa án về việc giải quyết các tranh chấp giữa doanh nghiệp bán hàng đa cấp với người tham gia bán hàng đa cấp liên quan đến các nghĩa vụ đó .
+Từ khóa: Không có thông tin
+Mô tả: doanh nghiệp chấm dứt hoạt động bán hàng đa cấp nhưng không chấp hành quyết định xử phạt vi phạm trong hoạt động bán hàng đa cấp đã có hiệu lực của cơ quan có thẩm quyền. 
+doanh nghiệp chấm dứt hoạt động bán hàng đa cấp nhưng không thực hiện đầy đủ các nghĩa vụ liên quan đến hoạt động bán hàng đa cấp đối với người tham gia bán hàng đa cấp và có bản án có hiệu lực pháp luật của tòa án về việc giải quyết các tranh chấp giữa doanh nghiệp bán hàng đa cấp với người tham gia bán hàng đa cấp liên quan đến các nghĩa vụ đó .

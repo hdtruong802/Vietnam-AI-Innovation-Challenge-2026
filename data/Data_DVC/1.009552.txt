@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009552
+Số quyết định: 1082/QĐ-BTC
+Tên thủ tục: Điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ thành viên, quỹ đóng, quỹ mở, quỹ đầu tư bất động sản, quỹ hoán đổi danh mục do thay đổi tên quỹ, công ty quản lý quỹ đầu tư chứng khoán
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+  * Nộp hồ sơ
+    Bước 1: Công ty quản lý quỹ đầu tư chứng khoán nộp hồ sơ đề nghị thay đổi tên quỹ, công ty quản lý quỹ đầu tư chứng khoán của quỹ thành viên, quỹ đóng, quỹ mở, quỹ đầu tư bất động sản, quỹ hoán đổi danh mục đến UBCKNN.
+    Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung hồ sơ theo quy định.
+    Bước 3: UBCKNN thẩm định tính đầy đủ, hợp lệ của nội dung hồ sơ. Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, trong thời hạn 07 ngày làm việc, UBCKNN trả lời bằng văn bản và nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    Bước 4: Trong thời hạn 60 ngày kể từ ngày UBCKNN có văn bản yêu cầu sửa đổi, bổ sung hồ sơ, công ty quản lý quỹ đầu tư chứng khoán hoàn thiện hồ sơ và gửi đến UBCKNN.
+    Bước 5: Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ, UBCKNN điều chỉnh Giấy chứng nhận đăng ký lập quỹ; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 2000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022. + 02 triệu đồng/Giấy chứng nhận.) | 1000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026). + 01 triệu đồng/Giấy chứng nhận.)
+    Mô tả: 10 ngày kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 2000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022. + 02 triệu đồng/Giấy chứng nhận.) | 1000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026). + 01 triệu đồng/Giấy chứng nhận.)
+    Mô tả: 10 ngày kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 2000000 VNĐ (* Theo quy định tại Thông tư 25/2022/TT-BTC ngày 28/4/2022. + 02 triệu đồng/Giấy chứng nhận.) | 1000000 VNĐ (* Theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/6/2025  (kể từ ngày 01/7/2025 đến hết ngày 31/12/2026). + 01 triệu đồng/Giấy chứng nhận.)
+    Mô tả: 10 ngày kể từ ngày UBCKNN nhận được hồ sơ đầy đủ, hợp lệ.
+
+Thành phần hồ sơ:
+    - 3) Văn bản cam kết của công ty quản lý quỹ đầu tư chứng khoán về việc bàn giao quyền, nghĩa vụ cho công ty quản lý quỹ đầu tư chứng khoán thay thế trong trường hợp thay đổi công ty quản lý quỹ đầu tư chứng khoán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 5) Điều lệ quỹ sửa đổi theo mẫu Phụ lục I ban hành kèm theo Thông tư 98/2020/TT-BTC.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4) Danh sách, bản thông tin cá nhân của người điều hành quỹ của công ty quản lý thay thế - Mẫu số 91, Mẫu số 101 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP trong trường hợp thay đổi công ty quản lý quỹ đầu tư chứng khoán
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 1) Giấy đề nghị điều chỉnh Giấy chứng nhận đăng ký thành lập quỹ/Giấy phép thành lập và hoạt động công ty đầu tư chứng khoán - Mẫu số 94 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP ngày 31/12/2020 của Chính phủ.; Thành phần hồ sơ trong thủ tục hành chính này được miễn trừ trong trường hợp tài liệu đó đã được gửi tới Ủy ban Chứng khoán Nhà nước theo quy định về báo cáo và công bố thông tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2) Biên bản họp và nghị quyết của Đại hội nhà đầu tư của quỹ thông qua việc thay đổi tên quỹ, công ty quản lý quỹ đầu tư chứng khoán, thông qua phương án chuyển giao quyền và nghĩa vụ cho công ty quản lý quỹ đầu tư chứng khoán thay thế và Điều lệ quỹ sửa đổi; Thành phần hồ sơ trong thủ tục hành chính này được miễn trừ trong trường hợp tài liệu đó đã được gửi tới Ủy ban Chứng khoán Nhà nước theo quy định về báo cáo và công bố thông tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Văn bản từ chối (nêu rõ lý do)., Giấy chứng nhận điều chỉnh Giấy chứng nhận đăng ký lập quỹ
+Căn cứ pháp lý:
+  * nghị quyết của Chính phủ về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng (24/2026/NQ-CP)
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí trong lĩnh vực chứng khoán (25/2022/TT-BTC)
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+  * Thông tư 98/2020/TT-BTC (98/2020/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Tên tiếng Việt của quỹ đầu tư chứng khoán phải theo quy định pháp luật về doanh nghiệp và có ít nhất hai thành tố sau đây: (i) Tên loại hình quỹ: Tên loại hình quỹ được viết là “quỹ đầu tư” đối với quỹ đóng, quỹ mở, quỹ thành viên; được viết là “quỹ đầu tư bất động sản” đối với quỹ đầu tư bất động sản; được viết là “quỹ ETF” đối với quỹ hoán đổi danh mục; (ii) Tên riêng: phù hợp với mục tiêu đầu tư, chiến lược đầu tư của quỹ. Đối với quỹ ETF, tên riêng của quỹ bao gồm tên viết tắt của công ty quản lý quỹ đầu tư chứng khoán và chỉ số tham chiếu.
+Từ khóa: Không có thông tin
+Mô tả: Tên tiếng Việt của quỹ đầu tư chứng khoán phải theo quy định pháp luật về doanh nghiệp và có ít nhất hai thành tố sau đây: (i) Tên loại hình quỹ: Tên loại hình quỹ được viết là “quỹ đầu tư” đối với quỹ đóng, quỹ mở, quỹ thành viên; được viết là “quỹ đầu tư bất động sản” đối với quỹ đầu tư bất động sản; được viết là “quỹ ETF” đối với quỹ hoán đổi danh mục; (ii) Tên riêng: phù hợp với mục tiêu đầu tư, chiến lược đầu tư của quỹ. Đối với quỹ ETF, tên riêng của quỹ bao gồm tên viết tắt của công ty quản lý quỹ đầu tư chứng khoán và chỉ số tham chiếu.

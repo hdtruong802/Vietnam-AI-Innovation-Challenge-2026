@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010777
+Số quyết định: 556/QĐ-BNV
+Tên thủ tục: Cấp đổi Bằng “Tổ quốc ghi công”
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    Bước 1: Cá nhân đang giữ bản gốc Bằng “Tổ quốc ghi công” của Bộ trưởng Bộ Quốc phòng, Bằng “Tổ quốc ghi ơn” của Bộ trưởng Bộ Thương binh - Cựu binh, làm đơn đề nghị theo Mẫu số 16 Phụ lục I Nghị định số 131/2021/NĐ-CP kèm theo các giấy tờ quy định tại khoản 2 Điều 23 Nghị định số 131/2021/NĐ-CP nộp trực tiếp đến Trung tâm Phục vụ hành chính công hoặc qua dịch vụ bưu chính hoặc hoặc trên Cổng Dịch vụ công quốc gia.
+    Bước 2: Ủy ban nhân dân cấp xã nơi người hy sinh thường trú trước khi tham gia cách mạng hoặc nhập ngũ trong thời hạn 05 ngày làm việc có trách nhiệm xác nhận bản khai, tổng hợp, lập danh sách và tờ trình kèm theo các giấy tờ quy định khoản 2 Điều 23 Nghị định số 131/2021/NĐ-CP gửi Sở Nội vụ.
+    Trường hợp bằng gốc không thể hiện được thông tin do mờ chữ hoặc bị hư hại, Ủy ban nhân dân cấp xã nơi người hy sinh thường trú trước khi tham gia cách mạng hoặc nhập ngũ có trách nhiệm niêm yết công khai tại thôn, xã lấy ý kiến Nhân dân, thông báo trên phương tiện thông tin đại chúng của địa phương trong thời gian tối thiểu 20 ngày làm việc và lập biên bản kết quả niêm yết công khai. Trong thời gian 10 ngày làm việc kể từ ngày có kết quả niêm yết công khai phải tổ chức họp Hội đồng xác nhận người có công cấp xã để xem xét đối với các trường hợp không có ý kiến khiếu nại, tố cáo của nhân dân, lập biên bản họp xét duyệt và có văn bản đề nghị kèm biên bản kết quả niêm yết công khai và biên bản họp xét duyệt của Hội đồng xác nhận người có công cấp xã gửi Sở Nội vụ kèm bằng gốc.
+    Bước 3: Sở Nội vụ trong thời gian 05 ngày làm việc kể từ ngày nhận đủ giấy tờ phải kiểm tra, lập danh sách theo Mẫu số 83 Phụ lục I Nghị định số 131/2021/NĐ-CP đối với những trường hợp đủ căn cứ và có văn bản trình theo Mẫu số 02 ban hành kèm theo Phụ lục I.2 Nghị quyết 24/2026/NQ-CР gửi Bộ Nội vụ kèm theo bằng gốc; trường hợp bằng gốc không thể hiện được thông tin làm căn cứ để cấp đổi do mờ chữ thì Sở Nội vụ có văn bản gửi cơ quan chức năng đề nghị trưng cầu giám định. Trong thời gian 05 ngày làm việc kể từ ngày nhận được kết quả giám định, nếu có đủ căn cứ thì Sở Nội vụ có văn bản đề nghị Bộ Nội vụ kèm theo bằng gốc và kết quả giám định.
+    Bước 4: Bộ Nội vụ trong thời gian 20 ngày làm việc kể từ ngày nhận đủ các giấy tờ do Sở Nội vụ đề nghị kèm danh sách theo Mẫu số 83 Phụ lục I Nghị định số 131/2021/NĐ-CP, có trách nhiệm kiểm tra, tổng hợp danh sách; lập tờ trình kèm theo dự thảo Quyết định cấp đổi Bằng “Tổ quốc ghi công”, phôi Bằng “Tổ quốc ghi công”, trình Thủ tướng Chính phủ ban hành quyết định cấp đổi Bằng “Tổ quốc ghi công", đóng dấu Bằng “Tổ quốc ghi công”.
+    Trong thời gian 05 ngày làm việc kể từ ngày nhận Quyết định và Bằng “Tổ quốc ghi công” có trách nhiệm gửi về Sở Nội vụ nơi đề nghị.
+    Bước 5: Trong thời gian 10 ngày làm việc kể từ ngày nhận được Bằng “Tổ quốc ghi công” cấp đổi, Sở Nội vụ có trách nhiệm cho số quản lý, lập trích lục hồ sơ liệt sĩ, lưu giữ bằng cũ và các giấy tờ liên quan trong hồ sơ, gửi Bằng “Tổ quốc ghi công” đến người đề nghị.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 80 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tiếp hoặc qua dịch vụ bưu chính hoặc hoặc trực tuyến. 80 ngày làm việc kể từ ngày nhận đủ hồ sơ 
+(Thời gian giải quyết chưa tính thời gian hồ sơ trình Thủ tướng Chính phủ và thời gian gửi cơ quan chức năng đề nghị trưng cầu giám định).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 80 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tiếp hoặc qua dịch vụ bưu chính hoặc hoặc trực tuyến. 80 ngày làm việc kể từ ngày nhận đủ hồ sơ 
+(Thời gian giải quyết chưa tính thời gian hồ sơ trình Thủ tướng Chính phủ và thời gian gửi cơ quan chức năng đề nghị trưng cầu giám định).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 80 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tiếp hoặc qua dịch vụ bưu chính hoặc hoặc trực tuyến. 80 ngày làm việc kể từ ngày nhận đủ hồ sơ 
+(Thời gian giải quyết chưa tính thời gian hồ sơ trình Thủ tướng Chính phủ và thời gian gửi cơ quan chức năng đề nghị trưng cầu giám định).
+
+Thành phần hồ sơ:
+    - - Bản gốc Bằng “Tổ quốc ghi công” của Bộ trưởng Bộ Quốc phòng, Bằng “Tổ quốc ghi ơn” của Bộ trưởng Bộ Thương binh - Cựu binh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị theo Mẫu số 16 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Một trong các giấy tờ chứng minh thân nhân đã được giải quyết chế độ ưu đãi: Quyết định hưởng trợ cấp; sổ nhận trợ cấp ưu đãi; danh sách chi trả trợ cấp hằng tháng hoặc trợ cấp một lần khi báo tử có ký nhận của người hưởng trợ cấp; giấy tờ khác do cơ quan có thẩm quyền ban hành, xác nhận được lập từ ngày 31 tháng 12 năm 1994 trở về trước.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Bộ Nội vụ, Thủ tướng Chính phủ, Sở Nội vụ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cấp đổi Bằng “Tổ quốc ghi công” và Bằng “Tổ quốc ghi công”.
+Căn cứ pháp lý:
+  * QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THI HÀNH PHÁP LỆNH ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Nghị định số 131/2021/NĐ-CP)
+  * Pháp lệnh ưu đãi người có công với cách mạng (02/2020/UBTVQH14)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+
+Yêu cầu, điều kiện thực hiện: - Người hy sinh đã được cấp Bằng “Tổ quốc ghi công” của Bộ trưởng Bộ Quốc phòng, Bằng “Tổ quốc ghi ơn” của Bộ trưởng Bộ Thương binh - Cựu binh chưa được đổi thành Bằng “Tổ quốc ghi công” do Thủ tướng Chính phủ cấp. 
+- Thân nhân đã được giải quyết chế độ ưu đãi từ ngày 31 tháng 12 năm 1994 trở về trước.
+Từ khóa: Không có thông tin
+Mô tả: - Người hy sinh đã được cấp Bằng “Tổ quốc ghi công” của Bộ trưởng Bộ Quốc phòng, Bằng “Tổ quốc ghi ơn” của Bộ trưởng Bộ Thương binh - Cựu binh chưa được đổi thành Bằng “Tổ quốc ghi công” do Thủ tướng Chính phủ cấp. 
+- Thân nhân đã được giải quyết chế độ ưu đãi từ ngày 31 tháng 12 năm 1994 trở về trước.

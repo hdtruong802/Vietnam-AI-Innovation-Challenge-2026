@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013276
+Số quyết định: 1139/QĐ-BXD
+Tên thủ tục: Chấp thuận bổ sung vị trí nút giao đấu nối vào đường cao tốc
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+  * Nộp TTHC
+    Cơ quan, tổ chức đề nghị nộp bộ hồ sơ đề nghị đến trực tiếp tại Bộ phận một cửa Cơ quan có thẩm quyền, Trung tâm phục vụ hành chính công hoặc trên Cổng Dịch vụ công quốc gia.
+  * Giải quyết TTHC
+    Cơ quan có thẩm quyền giải quyết thủ tục hành chính thực hiện tiếp nhận, kiểm tra hồ sơ và xử lý như sau:
+    - Đối với trường hợp nộp trực tiếp, sau khi kiểm tra thành phần hồ sơ, nếu đúng quy định thì tiếp nhận hồ sơ và viết phiếu hẹn trả kết quả; hướng dẫn tổ chức, cá nhân hoàn thiện hồ sơ đối với trường hợp không đủ thành phần hồ sơ;
+    Đối với trường hợp nộp gián tiếp, trong phạm vi 02 ngày làm việc kể từ ngày nhận được hồ sơ, kiểm tra thành phần hồ sơ, nếu không đủ thành phần hồ sơ có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;
+    Trường hợp phải lấy ý kiến của các cơ quan thì sau 02 ngày làm việc kể từ ngày nhận đủ thành phần hồ sơ, cơ quan có thẩm quyền giải quyết thủ tục hành chính tiến hành lấy ý kiến. Cơ quan, tổ chức được lấy ý kiến có trách nhiệm trả lời Bộ Xây dựng hoặc Ủy ban nhân dân cấp tỉnh trong thời hạn không quá 07 ngày làm việc, kể từ ngày nhận được đề nghị của cơ quan có thẩm quyền.
+    - Trong thời hạn không quá 05 ngày làm việc kể từ khi nhận được hồ sơ đề nghị hoặc 07 ngày sau khi nhận được ý kiến của các cơ quan (đối với trường hợp phải lấy ý kiến), cơ quan có thẩm quyền giải quyết thủ tục hành chính tiến hành kiểm tra nếu đủ điều kiện thì có văn bản chấp thuận nút giao đấu nối vào đường bộ theo quy định theo mẫu. Trường hợp không chấp thuận thì phải có văn bản trả lời và nêu rõ lý do.
+    - Trả kết quả cho tổ chức, cá nhân bằng các hình thức: Bản điện tử hợp lệ trên VNeID hoặc Cổng dịch vụ công quốc gia. Trường hợp tổ chức, cá nhân có nhu cầu nhận bản giấy thì nhận trực tiếp tại Trung tâm phục vụ hành chính công/Bộ phận một cửa hoặc được gửi qua dịch vụ bưu chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trường hợp không phải lấy ý kiến: 05 ngày làm việc kể từ khi nhận được hồ sơ đúng quy định
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trường hợp phải lấy ý kiến:
++ Thời hạn tiến hành lấy ý kiến: 02 ngày làm việc kể từ ngày nhận đủ thành phần hồ sơ;
++ Thời hạn cơ quan, tổ chức được lấy ý kiến trả lời: 07 ngày làm việc, kể từ ngày nhận được đề nghị của cơ quan có thẩm quyền.
++ Thời hạn có văn bản chấp thuận: 07 ngày sau khi nhận được ý kiến của các cơ quan.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trường hợp không phải lấy ý kiến: 05 ngày làm việc kể từ khi nhận được hồ sơ đúng quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trường hợp phải lấy ý kiến:
++ Thời hạn tiến hành lấy ý kiến: 02 ngày làm việc kể từ ngày nhận đủ thành phần hồ sơ;
++ Thời hạn cơ quan, tổ chức được lấy ý kiến trả lời: 07 ngày làm việc, kể từ ngày nhận được đề nghị của cơ quan có thẩm quyền.
++ Thời hạn có văn bản chấp thuận: 07 ngày sau khi nhận được ý kiến của các cơ quan.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trường hợp không phải lấy ý kiến: 05 ngày làm việc kể từ khi nhận được hồ sơ đúng quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trường hợp phải lấy ý kiến:
++ Thời hạn tiến hành lấy ý kiến: 02 ngày làm việc kể từ ngày nhận đủ thành phần hồ sơ;
++ Thời hạn cơ quan, tổ chức được lấy ý kiến trả lời: 07 ngày làm việc, kể từ ngày nhận được đề nghị của cơ quan có thẩm quyền.
++ Thời hạn có văn bản chấp thuận: 07 ngày sau khi nhận được ý kiến của các cơ quan.
+
+Thành phần hồ sơ:
+    - Bản chính hoặc biểu mẫu điện tử văn bản đề nghị đấu nối vào đường cao tốc theo mẫu số 01 Phụ lục VI  Nghị định 241/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hoặc bản sao điện tử: chủ trương đầu tư nút giao đấu nối đường khác vào đường cao tốc, thiết kế nút giao đấu nối vào đường cao tốc (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Xây dựng, Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận nút giao đấu nối NĐ 241.2026
+Căn cứ pháp lý:
+  * Quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ. (165/2024/NĐ-CP)
+  * Nghị định số 241/2026/NĐ-CP ngày 26 tháng 6 năm 2026 sửa đổi, bổ sung một số điều của Nghị định số 165/2024/NĐ-CP ngày 26 tháng 12 năm 2024 của Chính phủ quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ (241/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Đáp ứng điều kiện quy định tại khoản 1, khoản 2, khoản 6 và khoản 7 Điều 28 Nghị định số 165/2024/NĐ-CP ngày 26/12/2024 của Chính phủ quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ
+Từ khóa: Không có thông tin
+Mô tả: Đáp ứng điều kiện quy định tại khoản 1, khoản 2, khoản 6 và khoản 7 Điều 28 Nghị định số 165/2024/NĐ-CP ngày 26/12/2024 của Chính phủ quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ

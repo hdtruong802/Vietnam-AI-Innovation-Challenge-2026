@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009499
+Số quyết định: 28/QĐ-BTC
+Tên thủ tục: Đăng ký chào bán cổ phiếu ra công chúng của cổ đông công ty đại chúng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+    + Bước 1: Cổ đông Công ty đại chúng nộp hồ sơ đề nghị đăng ký chào bán cổ phiếu ra công chúng của cổ đông công ty đại chúng cho Ủy ban Chứng khoán Nhà nước (UBCKNN).
+    + Bước 2: UBCKNN tiếp nhận, xem xét hồ sơ.
+    + Bước 3: Sau khi nhận đầy đủ hồ sơ hợp lệ, UBCKNN cấp Giấy chứng nhận đăng ký chào bán cổ phiếu ra công chúng cho cổ đông công ty đại chúng. Trường hợp từ chối, UBCKNN phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Hợp đồng tư vấn hồ sơ đăng ký chào bán cổ phiếu ra công chúng với công ty chứng khoán, ngoại trừ trường hợp cổ đông đăng ký chào bán là công ty chứng khoán;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản chấp thuận của Ngân hàng Nhà nước Việt Nam, Bộ Tài chính về việc cổ đông chuyển nhượng cổ phiếu (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Quyết định của cấp có thẩm quyền của cổ đông đăng ký chào bán là tổ chức thông qua phương án chào bán, trong đó bao gồm: loại cổ phiếu chào bán; số lượng cổ phiếu chào bán; giá chào bán hoặc nguyên tắc xác định giá chào bán hoặc ủy quyền xác định giá chào bán;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản cáo bạch theo quy định tại Điều 19 Luật Chứng khoán;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy đăng ký chào bán theo Mẫu số 06 Phụ lục ban hành kèm theo Nghị định 155/2020/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Quyết định của cấp có thẩm quyền của cổ đông đăng ký chào bán là tổ chức thông qua phương án đảm bảo việc chào bán cổ phiếu đáp ứng quy định về tỷ lệ sở hữu nước ngoài tại công ty đại chúng có cổ phiếu được chào bán;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản xác nhận của ngân hàng, chi nhánh ngân hàng nước ngoài về việc cổ đông đăng ký chào bán mở tài khoản phong tỏa nhận tiền mua cổ phiếu của đợt chào bán;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo tài chính trong 02 năm gần nhất của tổ chức có cổ phiếu được chào bán theo quy định tại Điều 20 Luật Chứng khoán, trong đó trường hợp cổ đông đăng ký chào bán hoàn thiện hồ sơ sau 90 ngày kể từ ngày kết thúc kỳ kế toán năm, cổ đông đăng ký chào bán phải bổ sung báo cáo tài chính năm gần nhất được kiểm toán của tổ chức có cổ phiếu được chào bán
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Sổ đăng ký cổ đông hoặc giấy xác nhận của Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam hoặc của thành viên lưu ký hoặc giấy chứng nhận sở hữu cổ phần;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công văn từ chối nếu Hồ sơ không đáp ứng điều kiện hoặc không bổ sung đầy đủ, hợp lệ theo quy định, Giấy chứng nhận đăng ký chào bán cổ phiếu ra công chúng của cổ đông công ty đại chúng
+Căn cứ pháp lý:
+  * Luật Doanh nghiệp (59/2020/QH14)
+  * Thông tư 272/2016/TT-BTC (272/2016/TT-BTC)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 118/2020/TT-BTC ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Tài chính hướng dẫn một số nội dung về chào bán, phát hành chứng khoán, chào mua công khai, mua lại cổ phiếu, đăng ký công ty đại chúng và hủy tư cách công ty đại chúng (115/2025/TT-BTC)
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+  * Luật sửa đổi, bổ sung một số điều của Luật Doanh nghiệp 2020 (76/2025/QH15)
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+  * Thông tư số 25/2022/TT-BTC ngày 28/4/2022 (25)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

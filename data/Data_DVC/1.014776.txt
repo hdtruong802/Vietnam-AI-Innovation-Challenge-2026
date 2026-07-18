@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014776
+Số quyết định: 278/QĐ-BNNMT
+Tên thủ tục: Cấp, cấp lại mã số vùng trồng, mã số cơ sở đóng gói
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trồng trọt và Bảo vệ thực vật
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân nộp 01 bộ hồ sơ đề nghị cấp mã số vùng trồng hoặc mã số cơ sở đóng gói đến cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính (sau đây gọi là Cơ quan chuyên môn được giao) bằng hình thức trực tiếp hoặc qua môi trường mạng hoặc qua dịch vụ bưu chính.
+    Bước 2: Cơ quan chuyên môn được giao trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp, trả lời bằng văn bản tính đầy đủ của hồ sơ trong 02 ngày làm việc đối với trường hợp nộp hồ sơ qua môi trường mạng hoặc qua dịch vụ bưu chính kể từ ngày nhận hồ sơ. Trường hợp hồ sơ không đúng quy định thì trả lại cho tổ chức, cá nhân để bổ sung, hoàn thiện.
+    Bước 3:
+    * Đối với cấp mã số vùng trồng hoặc mã số cơ sở đóng gói
+    Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan chuyên môn được giao tổ chức thẩm định hồ sơ, tổ chức kiểm tra thực tế và lập Biên bản kiểm tra vùng trồng theo Phụ lục V hoặc Biên bản kiểm tra cơ sở đóng gói theo Phụ lục VI ban hành kèm theo Nghị định số 38/2026/NĐ-CP của Chính phủ về Quy định nhập khẩu cây mang theo bầu đất và mã số vùng trồng, mã số cơ sở đóng gói (sau đây gọi là Nghị định số 38/2026/NĐ-CP);
+    Trường hợp kết quả kiểm tra thực tế không đạt yêu cầu, Cơ quan chuyên môn được giao phải thông báo bằng văn bản, nêu rõ lý do cho tổ chức, cá nhân để thực hiện khắc phục các điểm không phù hợp và báo cáo kết quả khắc phục.
+    Trong thời hạn 02 ngày làm việc kể từ ngày có kết quả kiểm tra thực tế đạt yêu cầu, Cơ quan chuyên môn được giao ban hành Quyết định cấp mã số vùng trồng, mã số cơ sở đóng gói theo Phụ lục VII ban hành kèm theo Nghị định số 38/2026/NĐ-CP.
+    Trong thời hạn 04 ngày làm việc kể từ ngày nhận được báo cáo kết quả khắc phục đạt yêu cầu, Cơ quan chuyên môn được giao thẩm định hồ sơ, kiểm tra thực tế và cấp mã số vùng trồng, mã số cơ sở đóng gói; trường hợp không cấp thì phải có văn bản thông báo và nêu rõ lý do.
+    * Đối với cấp lại mã số vùng trồng hoặc mã số cơ sở đóng gói
+    Trường hợp thay đổi thông tin liên quan đến tên tổ chức, cá nhân đại diện mã số vùng trồng, mã số cơ sở đóng gói hoặc do việc thay đổi địa giới hành chính thì tổ chức, cá nhân nộp đơn đề nghị cấp lại theo Phụ lục VIII ban hành kèm theo Nghị định số 38/2026/NĐ-CP. Trong thời hạn 02 ngày làm việc kể từ khi tiếp nhận đơn đề nghị cấp lại của tổ chức, cá nhân, Cơ quan chuyên môn được giao căn cứ vào hồ sơ lưu trữ, xem xét và cấp lại Quyết định theo Phụ lục IX ban hành kèm theo Nghị định số 38/2026/NĐ-CP; trường hợp không cấp thì phải có văn bản thông báo và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp đề nghị cấp mã số vùng trồng hoặc mã số cơ sở đóng gói
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp đề nghị cấp mã số vùng trồng hoặc mã số cơ sở đóng gói
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp đề nghị cấp mã số vùng trồng hoặc mã số cơ sở đóng gói
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp đề nghị cấp lại mã số vùng trồng hoặc mã số cơ sở đóng gói
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp đề nghị cấp lại mã số vùng trồng hoặc mã số cơ sở đóng gói
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp đề nghị cấp lại mã số vùng trồng hoặc mã số cơ sở đóng gói
+
+Thành phần hồ sơ:
+  [ Đối với trường hợp đề nghị cấp lại mã số vùng trồng/mã số cơ sở đóng gói ]
+    - Đơn đề nghị cấp lại mã số vùng trồng/mã số cơ sở đóng gói theo Phụ lục VIII ban hành kèm theo Nghị định số 38/2026/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với trường hợp đề nghị cấp mã số cơ sở đóng gói ]
+    - Đơn đề nghị cấp mã số cơ sở đóng gói theo Phụ lục II ban hành kèm theo Nghị định số 38/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản thuyết minh của cơ sở đóng gói theo Phụ lục IV ban hành kèm theo Nghị định số 38/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với trường hợp đề nghị cấp mã số vùng trồng ]
+    - Bản thuyết minh của vùng trồng theo Phụ lục III ban hành kèm theo Nghị định số 38/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị cấp mã số vùng trồng theo Phụ lục II ban hành kèm theo Nghị định số 38/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Đảng viên, Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cấp mã số vùng trồng, mã số cơ sở đóng gói theo Phụ lục VII ban hành kèm theo Nghị định số 38/2026/NĐ-CP., Quyết định cấp lại mã số vùng trồng, mã số cơ sở đóng gói theo Phụ lục IX ban hành kèm theo Nghị định số 38/2026/NĐ-CP.
+Căn cứ pháp lý:
+  * Luật Trồng trọt (Luật số 31/2018/QH14)
+  * Quy định nhập khẩu cây mang theo bầu đất và mã số vùng trồng, mã số cơ sở đóng gói (số 38/2026/NĐ-CP)
+  * Luật sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường (Luật số 146/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

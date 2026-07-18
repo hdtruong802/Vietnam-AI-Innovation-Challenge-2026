@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013916
+Số quyết định: 2075/QĐ-BKHCN
+Tên thủ tục: Thủ tục cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Sở hữu trí tuệ
+Trình tự thực hiện:
+    - Bước 1: Tiếp nhận hồ sơ
+    Cá nhân nộp 01 bộ hồ sơ yêu cầu cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp đến Cục Sở hữu trí tuệ.
+    - Bước 2: Xử lý hồ sơ
+    Trong thời hạn 01 tháng kể từ ngày nhận hồ sơ, Cục Sở hữu trí tuệ xem xét hồ sơ theo quy định sau đây:
+    - Trường hợp hồ sơ hợp lệ, Cục Sở hữu trí tuệ quyết định cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp, trong đó ghi rõ họ tên, ngày sinh, địa chỉ thường trú, số chứng minh nhân dân/căn cước công dân, số Chứng chỉ và lĩnh vực hành nghề của người được cấp chứng chỉ; ghi nhận việc cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp vào Sổ đăng ký quốc gia về đại diện sở hữu công nghiệp và công bố trên Công báo Sở hữu công nghiệp, Cổng thông tin điện tử của cơ quan đó trong thời hạn 02 tháng kể từ ngày ra quyết định;
+    - Trường hợp hồ sơ không hợp lệ, Cục Sở hữu trí tuệ thông báo các thiếu sót của hồ sơ và ấn định thời hạn 01 tháng kể từ ngày ra thông báo để người nộp hồ sơ sửa chữa thiếu sót;
+    - Trường hợp người nộp hồ sơ không sửa chữa thiếu sót hoặc sửa chữa thiếu sót không đạt yêu cầu, Cục Sở hữu trí tuệ ra quyết định từ chối cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp, trong đó nêu rõ lý do từ chối.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 16 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ (Lệ phí cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp: 100.000 đ. Kể từ ngày 01 tháng 01 năm 2027 trở đi, mức thu lệ phí cấp Quyết định cấp chứng chỉ: 200.000 đ.) Phí : 250.000 Đồng (Phí thẩm định hồ sơ yêu cầu cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp) Lệ phí : 75.000 Đồng (Lệ phí đăng bạ Quyết định cấp chứng chỉ: 75.000 đ. Kể từ ngày 01 tháng 01 năm 2027 trở đi, mức thu lệ phí đăng bạ Quyết định cấp chứng chỉ: 150.000 đ.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 16 WORKING_DAY
+    Phí, lệ phí: 250000 VNĐ (Phí thẩm định hồ sơ yêu cầu cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp) Lệ phí : 75.000 Đồng (Lệ phí đăng bạ Quyết định cấp chứng chỉ: 75.000 đ. Kể từ ngày 01 tháng 01 năm 2027 trở đi, mức thu lệ phí đăng bạ Quyết định cấp chứng chỉ: 150.000 đ.) Lệ phí : 100.000 Đồng (Lệ phí cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp: 100.000 đ. Kể từ ngày 01 tháng 01 năm 2027 trở đi, mức thu lệ phí cấp Quyết định cấp chứng chỉ: 200.000 đ.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 16 WORKING_DAY
+    Phí, lệ phí: 75000 VNĐ (Lệ phí đăng bạ Quyết định cấp chứng chỉ: 75.000 đ. Kể từ ngày 01 tháng 01 năm 2027 trở đi, mức thu lệ phí đăng bạ Quyết định cấp chứng chỉ: 150.000 đ.) Phí : 250.000 Đồng (Phí thẩm định hồ sơ yêu cầu cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp) Lệ phí : 100.000 Đồng (Lệ phí cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp: 100.000 đ. Kể từ ngày 01 tháng 01 năm 2027 trở đi, mức thu lệ phí cấp Quyết định cấp chứng chỉ: 200.000 đ.)
+
+Thành phần hồ sơ:
+    - .Bản sao chứng từ nộp phí, lệ phí theo quy định (trường hợp nộp phí, lệ phí qua dịch vụ bưu chính hoặc nộp trực tiếp vào tài khoản của cơ quan tiếp nhận hồ sơ thuộc Ủy ban nhân dân tỉnh và cơ quan quản lý nhà nước về quyền sở hữu công nghiệp (lệ phí đăng bạ))
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - .Bản sao giấy chứng nhận tốt nghiệp khóa đào tạo pháp luật về sở hữu công nghiệp và bản sao Thẻ luật sư đối với trường hợp đề nghị cấp chứng chỉ hành nghề theo quy định tại khoản 2a Điều 155 của Luật Sở hữu trí tuệ (xuất trình bản chính để đối chiếu, trừ trường hợp bản sao đã được chứng thực)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - .01 ảnh 3 x 4 (cm)
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định từ chối cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp, Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp, Quyết định cấp Chứng chỉ hành nghề dịch vụ đại diện sở hữu công nghiệp.
+Căn cứ pháp lý:
+  * Quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ (133/2025/NĐ-CP)
+  * Thông tư 263/2016/TT-BTC-Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí sở hữu công nghiệp (263/2016/TT-BTC)
+  * Luật Sở hữu trí tuệ (50/2005/QH11)
+  * Thông tư số 64/2025/TT-BCT (Thông tư số 64/2025/TT-BCT)
+  * Sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quân lý nhà nước của Bộ Khoa học và Công nghệ (15/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

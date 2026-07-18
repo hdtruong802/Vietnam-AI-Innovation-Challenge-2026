@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115477
+Số quyết định: 762/QĐ-BNV
+Tên thủ tục: Công nhận, thừa nhận lẫn nhau về chứng chỉ kỹ năng nghề quốc gia giữa Việt Nam với các quốc gia khác (Cấp Trung ương)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Việc làm
+Trình tự thực hiện:
+    Bước 1. Cá nhân có chứng chỉ kỹ năng nghề do cơ quan, tổ chức nước ngoài cấp có nhu cầu được công nhận, thừa nhận tại Việt Nam gửi hồ sơ đến Bộ Nội vụ bằng một trong các phương thức: trực tuyến trên Cổng Dịch vụ công quốc gia hoặc trực tiếp tại Bộ phận Một cửa hoặc qua dịch vụ bưu chính theo quy định;
+    Bước 2. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ quy định tại điểm a khoản 4 Điều 24 Nghị định số 138/2026/NĐ-CP, Bộ Nội vụ có trách nhiệm kiểm tra hồ sơ và công nhận, thừa nhận chứng chỉ kỹ năng nghề quốc gia theo Mẫu số 07B Phụ lục VII ban hành kèm theo Nghị định số 138/2026/NĐ-CP; trường hợp không công nhận, thừa nhận thì phải trả lời bằng văn bản và nêu rõ lý do;
+    Việc trả kết quả giải quyết thủ tục hành chính được thực hiện bằng các phương thức theo quy định của pháp luật về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông;
+    Bước 3. Trong thời hạn 03 ngày làm việc, kể từ ngày công nhận, thừa nhận chứng chỉ kỹ năng nghề quốc gia, Bộ Nội vụ phải thông báo trên trang thông tin điện tử của cơ quan các thông tin về việc công nhận, thừa nhận chứng chỉ kỹ năng nghề quốc gia hoặc trên hệ thống cơ sở dữ liệu quốc gia về đánh giá, cấp chứng chỉ kỹ năng nghề quốc gia (nếu có).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: trực tuyến trên Cổng Dịch vụ công quốc gia hoặc trực tiếp tại Bộ phận Một cửa hoặc qua dịch vụ bưu chính. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: trực tuyến trên Cổng Dịch vụ công quốc gia hoặc trực tiếp tại Bộ phận Một cửa hoặc qua dịch vụ bưu chính. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: trực tuyến trên Cổng Dịch vụ công quốc gia hoặc trực tiếp tại Bộ phận Một cửa hoặc qua dịch vụ bưu chính. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+    - (1) Văn bản đề nghị công nhận, thừa nhận chứng chỉ kỹ năng nghề quốc gia theo quy định tại Mẫu số 07A Phụ lục VII ban hành kèm theo Nghị định số 138/2026/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (2) Bản sao điện tử có chứng thực chứng chỉ kỹ năng nghề quốc gia hoặc văn bản tương đương theo quy định;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (3) Bản dịch tiếng Việt của chứng chỉ hoặc văn bản tương đương được chứng thực hợp lệ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Bộ Nội vụ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Hoặc văn bản trả lời và nêu rõ lý do trong trường hợp không cấp giấy công nhận, thừa nhận chứng chỉ kỹ năng nghề quốc gia., - Giấy công nhận, thừa nhận chứng chỉ kỹ năng nghề quốc gia;
+Căn cứ pháp lý:
+  * Quy định chi tiết một số điều của Luật Việc làm về phát triển kỹ năng nghề (138/2026/NĐ-CP)
+  * Luật Việc làm (74/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: - Đối với cá nhân đề nghị: Phải là cá nhân có chứng chỉ kỹ năng nghề (hoặc văn bản tương đương) do cơ quan, tổ chức nước ngoài cấp và có nhu cầu được công nhận, thừa nhận giá trị pháp lý tại Việt Nam.
+- Về nguyên tắc công nhận: Việc công nhận, thừa nhận phải bảo đảm phù hợp với pháp luật Việt Nam, các điều ước quốc tế mà Việt Nam là thành viên hoặc các thỏa thuận quốc tế mà Việt Nam đã ký kết.
+- Về cơ sở đối sánh: Việc công nhận được thực hiện dựa trên cơ sở tham chiếu, hài hòa hoặc đánh giá tương đương giữa Khung trình độ kỹ năng nghề quốc gia/Tiêu chuẩn kỹ năng nghề quốc gia của Việt Nam với khung trình độ hoặc tiêu chuẩn kỹ năng nghề của quốc gia cấp chứng chỉ.
+Từ khóa: Không có thông tin
+Mô tả: - Đối với cá nhân đề nghị: Phải là cá nhân có chứng chỉ kỹ năng nghề (hoặc văn bản tương đương) do cơ quan, tổ chức nước ngoài cấp và có nhu cầu được công nhận, thừa nhận giá trị pháp lý tại Việt Nam.
+- Về nguyên tắc công nhận: Việc công nhận, thừa nhận phải bảo đảm phù hợp với pháp luật Việt Nam, các điều ước quốc tế mà Việt Nam là thành viên hoặc các thỏa thuận quốc tế mà Việt Nam đã ký kết.
+- Về cơ sở đối sánh: Việc công nhận được thực hiện dựa trên cơ sở tham chiếu, hài hòa hoặc đánh giá tương đương giữa Khung trình độ kỹ năng nghề quốc gia/Tiêu chuẩn kỹ năng nghề quốc gia của Việt Nam với khung trình độ hoặc tiêu chuẩn kỹ năng nghề của quốc gia cấp chứng chỉ.

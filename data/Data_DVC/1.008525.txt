@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008525
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Khai quyết toán lợi nhuận sau thuế còn lại sau khi trích lập các quỹ của doanh nghiệp do Nhà nước nắm giữ 100% vốn điều lệ
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    Bước 1: Người nộp thuế chuẩn bị số liệu, lập hồ sơ và gửi đến cơ quan thuế, chậm nhất là ngày cuối cùng của tháng thứ 3 kể từ ngày kết thúc năm dương lịch hoặc năm tài chính
+    Bước 2 : Cơ quan thuế thực hiện tiếp nhận:
+    + Cơ quan quản lý thuế tiếp nhận hồ sơ khai thuế, thông báo về việc tiếp nhận hồ sơ khai thuế; trường hợp hồ sơ không hợp pháp, không đầy đủ, không đúng mẫu quy định thì thông báo cho người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ.
+    + Trường hợp tiếp nhận hồ sơ qua Cổng thông tin điện tử của Cục Thuế, cơ quan thuế thực hiện tiếp nhận, kiểm tra, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế:
+    ++ Cổng thông tin điện tử của Cục Thuế gửi thông báo tiếp nhận việc người nộp thuế đã nộp hồ sơ hoặc thông báo lý do không tiếp nhận hồ sơ cho người nộp thuế qua Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ (Cổng thông tin điện tử của Cục Thuế/Cổng thông tin điện tử của cơ quan nhà nước có thẩm quyền hoặc tổ chức cung cấp dịch vụ T-VAN) chậm nhất 15 phút kể từ khi nhận được hồ sơ khai thuế điện tử của người nộp thuế
+    ++ Cơ quan thuế thực hiện kiểm tra, giải quyết hồ sơ khai thuế của người nộp thuế theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành, gửi thông báo chấp nhận/không chấp nhận hồ sơ đến Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ  chậm nhất 01 ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận nộp hồ sơ khai thuế điện tử.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Tờ khai quyết toán lợi nhuận sau thuế còn lại sau khi trích lập các quỹ phải nộp ngân sách nhà nước của doanh nghiệp do nhà nước nắm giữ 100% vốn điều lệ mẫu số 01/QT-LNCL ban hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Phụ lục bảng phân bổ số lợi nhuận còn lại phải nộp cho các địa phương được hưởng nguồn thu đối với hoạt động kinh doanh xổ số điện toán  theo mẫu 01-1/QT-LNCN (áp dụng đối với doanh nghiệp có hoạt động kinh doanh xổ số điện toán ) ban hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Thuế doanh nghiệp lớn - Cục Thuế, Thuế tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+  * Thông tư số 40/2025/TT-BTC Sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý thuế để phân định thẩm quyền của chính quyền địa phương theo mô hình tổ chức chính quyền địa phương 02 cấp (40/2025/TT-BTC)
+  * sửa đổi một số điều của Thông tư 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế (46/2024/TT-BTC)
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+  * Thông tư số 43/2023/TT-BTC ngày 27/6/2023 của Bộ trưởng Bộ Tài chính sửa đổi, bổ sung một số điều của các Thông tư có quy định liên quan đến việc nộp, xuất trình và khai thông tin về đăng ký sổ hộ khẩu, sổ tạm trú hoặc giấy tờ có yêu cầu xác nhận của địa phương nơi cư trú khi thực hiện các chính sách hoặc thủ tục hành chính thuộc lĩnh vực quản lý nhà nước của Bộ Tài chính. (TT43/2023/TT-BTC)
+  * Nghị định 122/2017/NĐ-CP (122/2017/NĐ-CP)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Thông tư 138/2017/TT-BTC (138/2017/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

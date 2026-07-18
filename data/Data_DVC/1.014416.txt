@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014416
+Số quyết định: 8928/QĐ-BCA-V04
+Tên thủ tục: Tiếp nhận công bố hợp quy đối với sản phẩm, hàng hoá sản xuất trong nước, dịch vụ, quá trình, môi trường được quản lý bởi các quy chuẩn kỹ thuật quốc gia do Bộ Công an ban hành
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý chất lượng sản phẩm, hàng hoá
+Trình tự thực hiện:
+    - Bước 1: Nộp hồ sơ
+    Tổ chức nộp 01 bộ hồ sơ theo quy định tại Thông tư số 02/2017/TT-BKHCN ngày 31/3/2017 của Bộ Khoa học và Công nghệ và nội dung tại khoản 8 Điều 3 Thông tư số 06/2020/TT-BKHCN ngày 10/12/2020 của Bộ Khoa học và Công nghệ, theo phương thức trực tiếp hoặc qua bưu điện theo địa chỉ: Cục Khoa học, chiến lược và lịch sử Công an, số 47 Phạm Văn Đồng, phường Phú Diễn, thành phố Hà Nội hoặc gửi trực tuyến trên Cổng Dịch vụ công.
+    - Bước 2: Tiếp nhận hồ sơ
+    Cán bộ tiếp nhận, kiểm tra tính hợp lệ và thành phần của hồ sơ.
+    + Nếu hồ sơ hợp lệ và đủ thành phần thì tiếp nhận hồ sơ và cấp giấy hẹn trả kết quả.
+    + Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì hướng dẫn, cấp giấy yêu cầu bổ sung, hoàn thiện hồ sơ.
+    + Nếu hồ sơ không đủ điều kiện thì cấp giấy từ chối tiếp nhận và nêu rõ lý do.
+    * Thời gian tiếp nhận hồ sơ: Từ thứ Hai đến hết ngày thứ Sáu (trừ ngày nghỉ Tết, nghỉ lễ).
+    - Bước 3: Trả kết quả
+    + Nhận trực tiếp: Cục Khoa học, chiến lược và lịch sử Công an thông báo tiếp nhận hồ sơ công bố hợp quy (Mẫu 3 tại Phụ lục III Thông tư số 28/2012/TT-BKHCN ngày 12/12/2012 của Bộ Khoa học và Công nghệ) và trả trực tiếp tại Cục Khoa học, chiến lược và lịch sử Công an. Khi đến nhận mang theo phiếu tiếp nhận hồ sơ và giấy tờ tuỳ thân.
+    + Nhận qua bưu điện: Cục Khoa học, chiến lược và lịch sử Công an gửi thông báo tiếp nhận nhận hồ sơ công bố hợp quy qua dịch vụ bưu chính công ích.
+    + Nhận trực tuyến: Cục Khoa học, chiến lược và lịch sử Công an thông báo tiếp nhận nhận hồ sơ công bố hợp quy trên Cổng Dịch vụ công.
+    * Thời gian trả kết quả: Từ thứ Hai đến hết ngày thứ Sáu (trừ ngày nghỉ Tết, nghỉ lễ).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+    Mô tả: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+    Mô tả: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+    Mô tả: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+  [ Trường hợp dựa trên kết quả chứng nhận hợp quy của tổ chức chứng nhận đã đăng ký hoặc tổ chức chứng nhận được Cục Khoa học, chiến lược và lịch sử Công an chỉ định (bên thứ ba), hồ sơ bao gồm: ]
+    - Bản sao y bản chính Giấy chứng nhận phù hợp quy chuẩn kỹ thuật tương ứng kèm theo mẫu dấu hợp quy của tổ chức chứng nhận đã đăng ký hoặc tổ chức chứng nhận được Cục Khoa học, chiến lược và lịch sử Công an, Bộ Công an chỉ định cấp cho tổ chức, cá nhân
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản công bố hợp quy (Mẫu 2 tại Phụ lục III Thông tư số 28/2012/TT-BKHCN ngày 12/12/2012 của Bộ Khoa học và Công nghệ và nội dung bổ sung tại khoản 7 Điều 1 Thông tư số 02/2017/TT-BKHCN)
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp dựa trên kết quả tự đánh giá của tổ chức, cá nhân sản xuất, kinh doanh (bên thứ nhất), hồ sơ bao gồm: ]
+    - Báo cáo tự đánh giá gồm các thông tin sau: + Tên tổ chức, cá nhân; địa chỉ; điện thoại, fax; + Tên sản phẩm, hàng hóa, nhà sản xuất; + Số hiệu quy chuẩn kỹ thuật; + Kết quả thử nghiệm phù hợp với quy chuẩn kỹ thuật của tổ chức thử nghiệm chất lượng sản phẩm, hàng hóa theo quy định tại quy chuẩn kỹ thuật tương ứng; + Kết luận sản phẩm, hàng hóa phù hợp với quy chuẩn kỹ thuật; + Cam kết chất lượng sản phẩm, hàng hóa phù hợp với quy chuẩn kỹ thuật công bố áp dụng và hoàn toàn chịu trách nhiệm trước pháp luật về chất lượng sản phẩm, hàng hóa và kết quả tự đánh giá. * Có thể sử dụng bản điện tử nếu các loại giấy tờ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản công bố hợp quy (Mẫu 2 tại Phụ lục III Thông tư số 28/2012/TT-BKHCN  và nội dung bổ sung tại khoản 7  Điều 1 Thông tư số 02/2017/TT-BKHCN).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Cục khoa học, chiến lược và lịch sử Công an
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo tiếp nhận hồ sơ công bố hợp quy
+Căn cứ pháp lý:
+  * Nghị định Quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa (132/2008/NĐ-CP)
+  * Sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành (154/2018/NĐ-CP)
+  * Nghị định sửa đổi, bổ sung một số điều của Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều Luật chất lượng sản phẩm, hàng hóa (74/2018/NĐ-CP)
+  * Thông tư Quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật (28/2012/TT-BKHCN)
+  * sửa đổi, bổ sung một số điều của Thông tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ trưởng Bộ Khoa học và Công nghệ quy định về công bố hợp chuẩn, công bố hợp quy và phương thức đánh giá sự phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật (02/2017/TT-BKHCN)
+  * Nghị định Quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (127/2007/NĐ-CP)
+  * Thông tư số 06/2020/TT-BKHCN ngày 10/12/2020 của Bộ Khoa học, Công nghệ và Môi trường quy định chi tiết và biện pháp thi hành một số điều Nghị định số 132/2008/NĐ-CP ngày 31/12/2008, Nghị định số 74/2018/NĐ-CP ngày 15/5/2018, Nghị định số 154/2018/NĐ-CP ngày 09/11/2018 và Nghị định số 119/2017/NĐ-CP ngày 01 /11 /2017 của Chính phủ (06/2020/TT-BKHCN)
+  * Nghị định 78/2018/NĐ-CP (78/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

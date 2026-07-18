@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001776
+Số quyết định: 2072/QĐ-BYT
+Tên thủ tục: Thực hiện, điều chỉnh, thôi hưởng trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo trợ xã hội
+Trình tự thực hiện:
+    - Bước 1: Đối tượng, người giám hộ của đối tượng hoặc tổ chức, cá nhân có liên quan làm hồ sơ theo quy định, gửi Chủ tịch Ủy ban nhân dân cấp xã.
+    - Bước 2:
+    Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được đề nghị của đối tượng, Chủ tịch Ủy ban nhân dân cấp xã tổ chức xem xét, thực hiện xác thực và chuẩn hóa thông tin liên quan của đối tượng với cơ sở dữ liệu quốc gia về dân cư, quyết định và thực hiện chi trả trợ cấp xã hội hằng tháng, hỗ trợ kinh phí nhận chăm sóc, nuôi dưỡng hằng tháng cho đối tượng. Thời gian hưởng từ tháng Chủ tịch Ủy ban nhân dân cấp xã ký quyết định;
+    Trường hợp đối tượng không đủ điều kiện hưởng, điều chỉnh, Chủ tịch Ủy ban nhân dân cấp xã trả lời bằng văn bản, nêu rõ lý do;
+    + Trường hợp đối tượng đang hưởng trợ cấp xã hội hằng tháng, hỗ trợ kinh phí nhận chăm sóc, nuôi dưỡng hằng tháng thay đổi nơi cư trú và có đề nghị được nhận chế độ chính sách ở nơi cư trú mới, Chủ tịch Ủy ban nhân dân cấp xã nơi cư trú cũ quyết định thôi chi trả chế độ, chính sách tại địa bàn và có văn bản gửi kèm theo giấy tờ có liên quan của đối tượng đến Chủ tịch Ủy ban nhân dân cấp xã nơi cư trú mới của đối tượng;
+    Chủ tịch Ủy ban nhân dân cấp xã nơi cư trú mới căn cứ giấy tờ liên quan của đối tượng quyết định trợ cấp xã hội hằng tháng, hỗ trợ kinh phí chăm sóc hằng tháng theo mức tương ứng áp dụng tại địa bàn từ tháng thôi chi trả tại nơi cư trú cũ;
+    + Trường hợp đối tượng đang hưởng trợ cấp xã hội, hỗ trợ kinh phí nhận chăm sóc, nuôi dưỡng hằng tháng bị chết, không còn đủ điều kiện hưởng hoặc thay đổi điều kiện hưởng, Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định thôi hưởng hoặc điều chỉnh mức hưởng. Thời gian thôi hưởng hoặc điều chỉnh mức hưởng từ tháng ngay sau tháng đối tượng chết, không đủ điều kiện hưởng hoặc thay đổi điều kiện hưởng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+  [ Khi nộp hồ sơ trực tiếp cần xuất trình các giấy tờ sau để cán bộ tiếp nhận hồ sơ đối chiếu các thông tin kê khai trong tờ khai ]
+    - Giấy khai sinh của trẻ em đối với trường hợp xét trợ cấp xã hội đối với trẻ em, người đơn thân nghèo đang nuôi con, người khuyết tật đang nuôi con
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy xác nhận thông tin về cư trú hoặc Giấy thông báo số định danh cá nhân và thông tin công dân trong Cơ sở dữ liệu quốc gia về dân cư; chứng minh thư nhân dân hoặc thẻ căn cước công dân; (Cơ quan có thẩm quyền, cán bộ, công chức, viên chức, cá nhân được giao trách nhiệm tiếp nhận, giải quyết thủ tục hành chính, cung cấp dịch vụ công phải khai thác, sử dụng thông tin về cư trú của công dân trong Cơ sở dữ liệu quốc gia về dân cư để giải quyết thủ tục hành chính, cung cấp dịch vụ công; trường hợp không thể khai thác được thông tin cư trú của công dân thì cơ quan có thẩm quyền, cán bộ, công chức, viên chức, cá nhân được giao trách nhiệm tiếp nhận, giải quyết thủ tục hành chính, cung cấp dịch vụ công có thể yêu cầu công dân nộp bản sao hoặc xuất trình một trong các giấy tờ có giá trị chứng minh thông tin về cư trú)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tờ xác nhận bị nhiễm HIV của cơ quan y tế có thẩm quyền đối với trường hợp bị nhiễm HIV
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy xác nhận khuyết tật đối với trường hợp người khuyết tật
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tờ xác nhận đang mang thai của cơ quan y tế có thẩm quyền đối với trường hợp người khuyết tật đang mang thai
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với hồ sơ đề nghị hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng ]
+    - Tờ khai của đối tượng được nhận chăm sóc, nuôi dưỡng trong trường hợp đối tượng không hưởng trợ cấp xã hội hàng tháng (theo Mẫu số 03 ban hành kèm theo Nghị định số 20/2021/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai nhận chăm sóc, nuôi dưỡng đối tượng bảo trợ xã hội (theo Mẫu số 2b ban hành kèm theo Nghị định số 20/2021/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai hộ gia đình có người khuyết tật (theo Mẫu số 2a ban hành kèm theo Nghị định số 20/2021/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với hồ sơ đề nghị trợ cấp xã hội hàng tháng ]
+    - Tờ khai của đối tượng ( theo Mẫu số 1a, 1b, 1c, 1d, 1đ  ban hành kèm theo Nghị định số 20/2021/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thôi hưởng trợ cấp xã hội hàng tháng hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng cho đối tượng (BYT), Quyết định trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng cho đối tượng (BYT), Quyết định điều chỉnh trợ cấp xã hội hàng tháng, hỗ trợ kinh phí chăm sóc, nuôi dưỡng hàng tháng cho đối tượng (BYT)
+Căn cứ pháp lý:
+  * Nghị định số 147/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Y tế (147/2025/NĐ-CP)
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định liên quan đến việc nộp xuất trình sổ hộ khẩu, sổ tạm trú giấy khi thực hiện thủ tục hành chính, cung cấp dịch vụ công (104/2022/NĐ-CP)
+  * QUY ĐỊNH CHÍNH SÁCH TRỢ GIÚP XÃ HỘI ĐỐI VỚI ĐỐI TƯỢNG BẢO TRỢ XÃ HỘI (20/2021/NĐ-CP)
+  * Nghị định số 42/2025/NĐ-CP của Chính phủ: Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (42/2025/NĐ-CP)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: i tượng, người giám hộ của đối tượng quy định tại Điều 5; hộ gia đình, cá nhân nhận chăm sóc, nuôi dưỡng hàng tháng tại cộng đồng theo quy định tại khoản 1 Điều 18 Nghị định số 20/2021/NĐ-CP.
+Từ khóa: Không có thông tin
+Mô tả: i tượng, người giám hộ của đối tượng quy định tại Điều 5; hộ gia đình, cá nhân nhận chăm sóc, nuôi dưỡng hàng tháng tại cộng đồng theo quy định tại khoản 1 Điều 18 Nghị định số 20/2021/NĐ-CP.

@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004929
+Số quyết định: 68/QĐ-BNNMT
+Tên thủ tục: Cấp giấy phép nhập khẩu tàu cá, thuê tàu trần
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thủy sản
+Trình tự thực hiện:
+    a) Tổ chức, cá nhân nộp hồ sơ đề nghị cấp giấy phép nhập khẩu tàu cá đến cơ quan quản lý nhà nước về thủy sản cấp tỉnh bằng hình thức trực tiếp tại Bộ phận một cửa; hoặc thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật; hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+    - Trường hợp nộp hồ sơ bằng hình thức trực tiếp tại Bộ phận một cửa; hoặc thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật, các thành phần hồ sơ là bản gốc hoặc bản chính hoặc bản sao y hoặc bản sao chứng thực;
+    - Trường hợp nộp hồ sơ bằng hình thức trực tuyến tại Cổng Dịch vụ công quốc gia, các thành phần hồ sơ là bản gốc được xác lập trên môi trường điện tử hoặc bản gốc, bản chính được scan theo quy định.
+    b) Cơ quan quản lý nhà nước về thủy sản cấp tỉnh trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp tại Bộ phận một cửa; trả lời tính đầy đủ của hồ sơ trong 01 ngày làm việc đối với trường hợp nộp hồ sơ thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật và nộp hồ sơ trực tuyến tại Cổng Dịch vụ công quốc gia;
+    c) Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan quản lý nhà nước về thủy sản cấp tỉnh tổ chức thẩm định và trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cấp phép nhập khẩu tàu cá, cấp phép thuê tàu trần theo Mẫu số 02.NK Phụ lục XI ban hành kèm theo Thông tư số 02/2026/TT-BNNMT ngày 01/01/2026; trường hợp không cấp phép thì phải có văn bản thông báo và nêu rõ lý do cho tổ chức, cá nhân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Hợp đồng nhập khẩu tàu cá hoặc hợp đồng thuê tàu trần và phải được dịch ra tiếng Việt
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Giấy xóa đăng ký tàu cá; giấy xác nhận tàu cá không vi phạm khai thác bất hợp pháp, không báo cáo và không theo quy định của cơ quan có thẩm quyền đối với tàu cá đã qua sử dụng; hồ sơ gốc của tàu (bản vẽ thiết kế tàu, giấy tờ liên quan đến nguồn gốc vỏ, máy và các trang thiết bị trên tàu) và phải được dịch ra tiếng Việt
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Đơn đề nghị nhập khẩu tàu cá theo Mẫu số 01.NK Phụ lục XI ban hành kèm theo Thông tư số 02/2026/TT-BNNMT ngày 01/01/2026
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Giấy chứng nhận an toàn kỹ thuật tàu cá hoặc hồ sơ phân cấp tàu cá còn hiệu lực từ 06 tháng trở lên do tổ chức đăng kiểm của nước có tàu cấp và phải được dịch ra tiếng Việt
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài, Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Thủy sản
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cấp phép nhập khẩu tàu cá theo Mẫu số 02.NK Phụ lục XI ban hành kèm theo Thông tư số 02/2026/TT-BNNMT
+Căn cứ pháp lý:
+  * Luật sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường (Luật số 146/2025/QH15)
+  * Luật (Luật 18/2017/QH14)
+  * Thông tư (02/2026/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

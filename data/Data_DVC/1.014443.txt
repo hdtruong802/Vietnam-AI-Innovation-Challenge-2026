@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014443
+Số quyết định: 2568/QĐ-UBND
+Tên thủ tục: 	Thủ tục đề nghị thanh toán chi phí hỗ trợ tư vấn pháp luật cho doanh nghiệp nhỏ và vừa
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hỗ trợ pháp lý cho doanh nghiệp nhỏ và vừa
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ
+    Sau khi Ủy ban nhân dân tỉnh có văn bản đồng ý hỗ trợ chi phí tư vấn pháp luật và  văn bản tư vấn pháp luật của tư vấn viên pháp luật, doanh nghiệp nhỏ và vừa nộp hồ sơ đề nghị thanh toán chi phí tư vấn pháp luật được hỗ trợ qua Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc gửi trực tiếp qua Trung tâm Phục vụ hành chính công tỉnh Điện Biên hoặc qua dịch vụ bưu chính.
+    Bước 2: Trả lời tính đầy đủ của hồ sơ
+    Thực hiện tiếp nhận hồ sơ khi hồ sơ đầy đủ thành phần theo quy định.
+    Bước 3: Thẩm định hồ sơ
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Sở Tư pháp có trách nhiệm thẩm định hồ sơ và trình Ủy ban nhân dân tỉnh thanh toán chi phí hỗ trợ tư vấn vụ việc.
+    Bước 4: Phê duyệt hồ sơ
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ của Sở Tự pháp, Ủy ban nhân dân tỉnh xem xét, đồng ý thanh toán chi phí hoặc từ chối thanh toán chi phí.
+    Bước 5: Trả kết quả
+    Đến hẹn Doanh nghiệp nhỏ và vừa nhận kết quả văn bản Thông báo qua Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc gửi trực tiếp qua 	Trung tâm Phục vụ hành chính công tỉnh Điện Biên; Trung tâm Phục vụ hành chính công cấp xã hoặc qua dịch vụ bưu chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Văn bản tư vấn pháp luật
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị thanh toán chi phí tư vấn pháp luật có xác nhận của tư vấn viên pháp luật và doanh nghiệp nhỏ và vừa được tư vấn, trong đó có viện dẫn số và ngày của văn bản đồng ý theo quy định tại khoản 3 Điều 9 Nghị địnhsố 55/2019/NĐ-CP, tên người thụ hưởng và số tài khoản, ngân hàng của người thụ hưởng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hóa đơn tài chính theo quy định của pháp luật
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công tỉnh Điện Biên; Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo của Ủy ban nhân dân tỉnh về việc thanh toán chi phí hỗ trợ tư vấn vụ việc hoặc từ chối thanh toán chi phí hỗ trợ tư vấn vụ việc
+Căn cứ pháp lý:
+  * Thông tư số 09/2025/TT-BTP ngày 16/6/2025 của Bộ trưởng Bộ Tư pháp hướng dẫn chức năng, nhiệm vụ, quyền hạn của Sở Tư pháp thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương và chức năng, nhiệm vụ, quyền hạn của Văn phòng Hội đồng nhân dân và Ủy ban nhân dân thuộc Ủy ban nhân dân xã, phường, đặc khu trong lĩnh vực tư pháp (09/2025/TT-BTP)
+  * Nghị định số 121/2025/NĐ-CP ngày 11/6/2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (121/2025/NĐ-CP)
+  * Về hỗ trợ pháp lý cho doanh nghiệp nhỏ và vừa (Nghị định 55/2019/NĐ-CP)
+  * Luật hỗ trợ doanh nghiệp nhỏ và vừa (Luật 04/2017/QH14)
+  * Quyết định số 69/2025/QĐ-UBND ngày 23/10/2025 của UBND tỉnh Điện Biên quy định trình tự, thủ tục hỗ trợ chi phí tư vấn pháp luật cho doanh nghiệp nhỏ và vừa trên địa bàn tỉnh Điện Biên (69/2025/QĐ-UBND)
+  * Nghị định số 80/2021/NĐ-CP của Chính phủ: Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa (80/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

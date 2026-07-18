@@ -1,0 +1,31 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115191
+Số quyết định: 290601
+Tên thủ tục: Kiểm tra chất lượng hàng hóa nhập khẩu có mức độ rủi ro cao
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thừa hành viên
+Trình tự thực hiện:
+    test
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+  Không có thông tin thành phần hồ sơ.
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Tổ chức nước ngoài, Hợp tác xã, Người nước ngoài cư trú tại Việt Nam, Đảng viên
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông tin người đăng ký tập sự được cập nhật vào cơ sở dữ liệu tổ chức và hoạt động của Thừa hành viên. Trường hợp không thể thực hiện cập nhật theo quy định thì có văn bản về việc tập sự cho văn phòng thi hành án dân sự nơi nhận tập sự và người tập sự.
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

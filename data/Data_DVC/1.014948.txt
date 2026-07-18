@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014948
+Số quyết định: 1829/QĐ-BNNMT
+Tên thủ tục: Chấp thuận trao đổi quốc tế nguồn gen giống vật nuôi quý, hiếm của Việt Nam cho bên thứ ba
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chăn nuôi
+Trình tự thực hiện:
+    Trình tự thực hiện:
+    Tổ chức, cá nhân có nhu cầu trao đổi nguồn gen giống vật nuôi quý, hiếm của Việt Nam cho bên thứ ba nộp 01 bộ hồ sơ đến cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thủ tục hành chính tại địa phương nơi lưu giữ nguồn gen.
+    Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thủ tục hành chính trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp tổ chức, cá nhân nộp trực tiếp; trả lời tính đầy đủ của hồ sơ trong 03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ đối với trường hợp tổ chức, cá nhân nộp hồ sơ qua môi trường mạng hoặc qua dịch vụ bưu chính bằng văn bản.
+    Trong thời hạn 12 (mười hai) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thủ tục hành chính tổ chức thẩm định, trình Chủ tịch Ủy ban nhân dân tỉnh xem xét, quyết định.
+    Trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ trình của cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thủ tục hành chính, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định chấp thuận trao đổi nguồn gen giống vật nuôi quý, hiếm của Việt Nam cho bên thứ ba; trường hợp không chấp thuận, có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 850000 VNĐ (850.000 đồng đối với 01 nguồn gen/lần.)
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 850000 VNĐ (850.000 đồng đối với 01 nguồn gen/lần.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 850000 VNĐ (850.000 đồng đối với 01 nguồn gen/lần.)
+
+Thành phần hồ sơ:
+    - - Đơn đăng ký trao đổi và lý lịch nguồn gen giống vật nuôi quý, hiếm theo Mẫu số 02 Phụ lục I ban hành kèm theo Thông tư số 94/2025/TT-BNNMT;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Các văn bản có liên quan đến trao đổi nguồn gen giống vật nuôi quý, hiếm (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định chấp thuận trao đổi nguồn gen giống vật nuôi quý, hiếm của Việt Nam cho bên thứ ba
+Căn cứ pháp lý:
+  * Luật Chăn nuôi (32/2018/QH14)
+  * Thông tư 24/2021/TT-BTC ngày 31/3/2021 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong chăn nuôi. (24/2021/TT-BTC)
+  * sửa đổi bổ sung một số điều của 15 Luật trong lĩnh vực Nông nghiệp và Môi trường (Luật số 146/2025/QH15)
+  * Thông tư hướng dẫn chi tiết một số điều của luật chăn nuôi (94/2025/TT-BNNMT)
+  * về cắt giảm, phân quyền, đơn giản hóa thủ tục hành chính và cắt giảm, đơn giản hóa điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Nông nghiệp và Môi trường (66.19/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

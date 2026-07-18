@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001777
+Số quyết định: 891/QĐ-BXD
+Tên thủ tục: Cấp Giấy phép đào tạo lái xe, cấp Giấy phép xe tập lái
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+  * Nộp TTHC
+    Sau khi hoàn thành xây dựng cơ sở vật chất, đội ngũ giáo viên đáp ứng yêu cầu điều kiện của cơ sở đào tạo lái xe ô tô; tổ chức, cá nhân lập hồ sơ theo quy định gửi tại Trung tâm Phục vụ hành chính công cấp tỉnh, cấp xã bằng hình thức trực tiếp hoặc bưu chính hoặc trực tuyến qua Cổng dịch vụ công quốc gia.
+  * Giải quyết TTHC
+    - Sở Xây dựng cấp giấy phép đào tạo lái xe tiếp nhận, kiểm tra hồ sơ; trường hợp hồ sơ chưa đủ theo quy định, trong thời hạn không quá 01 ngày làm việc phải có văn bản hướng dẫn tổ chức, cá nhân hoàn thiện hồ sơ.
+    - Trường hợp hồ sơ đủ và hợp lệ theo quy định, trong thời hạn không quá 05 ngày làm việc (kể cả thời gian xác thực điện tử thông tin về xe tập lái, gồm: Chứng nhận đăng ký xe, giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới) phải tổ chức kiểm tra thực tế cơ sở đào tạo, lập biên bản theo mẫu quy định và cấp giấy phép đào tạo lái xe ô tô cho cơ sở đủ điều kiện. Trường hợp không cấp, phải trả lời bằng văn bản và nêu rõ lý do;  Kết quả giải quyết thủ tục hành chính được trả bằng bản điện tử có giá trị như bản giấy bằng một trong các hình thức: qua VNeiD, Cổng Dịch vụ công quốc gia, Hệ thống thông tin giải quyết thủ tục chính cấp tỉnh, cấp xã; trường hợp cá nhân có nhu cầu nhận bản giấy thì được cấp bổ sung.
+    - Trong thời hạn không quá 01 ngày làm việc, kể từ ngày cấp giấy phép đào tạo lái xe cho cơ sở đào tạo, sở Xây dựng cấp giấy phép xe tập lái cấp giấy phép xe tập lái. Trường hợp không cấp, phải trả lời bằng văn bản và nêu rõ lý do;  Kết quả giải quyết thủ tục hành chính được trả bằng bản điện tử có giá trị như bản giấy bằng một trong các hình thức: qua VNeiD, Cổng Dịch vụ công quốc gia, Hệ thống thông tin giải quyết thủ tục chính cấp tỉnh, cấp xã; trường hợp cá nhân có nhu cầu nhận bản giấy thì được cấp bổ sung.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cấp Giấy phép đào tạo: 05 ngày kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cấp Giấy phép xe tập lái: 01 ngày làm việc, kể từ ngày cấp giấy phép đào tạo lái xe cho cơ sở đào tạo.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cấp Giấy phép đào tạo: 05 ngày kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cấp Giấy phép xe tập lái: 01 ngày làm việc, kể từ ngày cấp giấy phép đào tạo lái xe cho cơ sở đào tạo.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cấp Giấy phép đào tạo: 05 ngày kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cấp Giấy phép xe tập lái: 01 ngày làm việc, kể từ ngày cấp giấy phép đào tạo lái xe cho cơ sở đào tạo.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp GPĐT theo mẫu NĐ 94.2026
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quyết định thành lập hoặc cho phép thành lập của cơ quan có thẩm quyền (bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính hoặc bản sao điện tử từ sổ gốc hoặc dữ liệu điện tử)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hoặc dữ liệu điện tử giấy chứng nhận quyền sử dụng đất hoặc quyết định giao đất, cho thuê đất của Ủy ban nhân dân cấp tỉnh kèm theo bản sao biên lai (nộp tiền sử dụng đất hoặc tiền thuê đất) hoặc chứng minh đã hoàn thành nghĩa vụ tài chính về đất đai theo quy định pháp luật về đất đai. Trường hợp thuê cơ sở vật chất gắn liền với đất: bản sao hợp đồng thuê cơ sở vật chất gắn liền với đất còn thời hạn ít nhất là 05 năm kể từ ngày gửi hồ sơ, bản sao giấy tờ chứng minh quyền sử dụng đất hoặc bản sao giấy tờ chứng minh quyền sở hữu đối với cơ sở vật chất của bên cho thuê
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng nhận giáo viên dạy thực hành lái xe (bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính hoặc bản sao điện tử từ sổ gốc hoặc dữ liệu điện tử); - Đối với xe tập lái không thuộc quyền sở hữu của cơ sở đào tạo lái xe thì xuất trình bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính hoặc dữ liệu điện tử Giấy tờ chứng minh quyền sử dụng hợp pháp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đối với xe tập lái không thuộc quyền sở hữu của cơ sở đào tạo lái xe thì xuất trình bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính hoặc dữ liệu điện tử Giấy tờ chứng minh quyền sử dụng hợp pháp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Sở Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép đào tạo lái xe ô tô, Giấy phép xe tập lái_NĐ94.2026
+Căn cứ pháp lý:
+  * Quy định hoạt động đào tạo và sát hạch lái xe (94/2026/NĐ-CP)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Đối với Cơ sở đào tạo: Đáp ứng đủ các điều kiện quy định tại Điều 6, Điều 7, Điều 8 và Điều 9 của Nghị định số 94/2026/NĐ-CP ngày 31/3/2026 của Chính phủ quy định về hoạt động đào tạo và sát hạch lái xe.
+- Đối với xe tập lái: Đáp ứng đủ các điều kiện quy định tại khoản 2 Điều 9 của Nghị định số 94/2026/NĐ-CP ngày 31/3/2026 của Chính phủ quy định về hoạt động đào tạo và sát hạch lái xe.
+Từ khóa: Không có thông tin
+Mô tả: - Đối với Cơ sở đào tạo: Đáp ứng đủ các điều kiện quy định tại Điều 6, Điều 7, Điều 8 và Điều 9 của Nghị định số 94/2026/NĐ-CP ngày 31/3/2026 của Chính phủ quy định về hoạt động đào tạo và sát hạch lái xe.
+- Đối với xe tập lái: Đáp ứng đủ các điều kiện quy định tại khoản 2 Điều 9 của Nghị định số 94/2026/NĐ-CP ngày 31/3/2026 của Chính phủ quy định về hoạt động đào tạo và sát hạch lái xe.

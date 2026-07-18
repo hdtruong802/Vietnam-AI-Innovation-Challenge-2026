@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000929
+Số quyết định: 3174/QĐ-BNG
+Tên thủ tục: Cấp phép hoạt động báo chí tại Việt Nam cho phóng viên nước ngoài không thường trú
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Báo chí
+Trình tự thực hiện:
+  * Nộp Hồ sơ
+    Phóng viên nước ngoài có yêu cầu hoạt động báo chí tại Việt Nam gửi hồ sơ tới Bộ Ngoại giao hoặc cơ quan đại diện ngoại giao, cơ quan lãnh sự hoặc các cơ quan khác được ủy quyền thực hiện chức năng lãnh sự của Việt Nam ở nước ngoài (sau đây gọi chung là Cơ quan đại diện Việt Nam)
+  * Thẩm định Hồ sơ
+    Bộ Ngoại giao thẩm định hồ sơ và cấp Giấy phép (trong trường hợp được chấp thuận) hoặc gửi văn bản thông báo (trong trường hợp không chấp thuận đối với đề nghị của phóng viên).
+  * Nhận Giấy phép
+    Sau khi vào Việt Nam, phóng viên nước ngoài đến cơ quan hướng dẫn phóng viên của Bộ Ngoại giao (Trung tâm Hướng dẫn Báo chí nước ngoài) hoặc một cơ quan được Bộ Ngoại giao ủy nhiệm để nhận Giấy phép hoạt động báo chí và hướng dẫn hoạt động.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 10 ngày làm việc kể từ khi nhận được hồ sơ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 10 ngày làm việc kể từ khi nhận được hồ sơ
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị hoạt động thông tin, báo chí tại Việt Nam theo mẫu do Bộ Ngoại giao ban hành.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chụp hộ chiếu của phóng viên nước ngoài.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Vụ Thông tin Báo chí - Bộ Ngoại giao, Bộ Ngoại giao
+Cơ quan có thẩm quyền: Bộ Ngoại giao
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép hoạt động báo chí
+Căn cứ pháp lý:
+  * Luật báo chí (103/2016/QH13)
+  * Thông tư 06/2012/TT-BNG (06/2012/TT-BNG)
+  * Nghị định 88/2012/NĐ-CP (88/2012/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

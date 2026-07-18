@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010055
+Số quyết định: 5283/QĐ-BCA
+Tên thủ tục: Trình báo mất giấy thông hành (thực hiện tại cấp xã)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý xuất nhập cảnh
+Trình tự thực hiện:
+    Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+    Bước 2: Nộp hồ sơ
+    - Công dân Việt Nam thường trú tại các xã, phường, thị trấn tiếp giáp đường biên giới Việt Nam – Trung Quốc bị mất giấy thông hành xuất, nhập cảnh vùng biên giới ở trong nước thực hiện việc trình báo mất giấy thông hành vào giờ hành chính các ngày làm việc trong tuần tại Công an cấp xã đã cấp giấy thông hành đó hoặc thực hiện qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.
+    - Thời gian tiếp nhận hồ sơ: từ thứ 2 đến sáng thứ 7 hàng tuần (trừ ngày Tết, ngày lễ).
+    - Cán bộ tiếp nhận hồ sơ kiểm tra tính pháp lý và nội dung của hồ sơ:
+    + Nếu hồ sơ đầy đủ, hợp lệ thì tiếp nhận;
+    + Nếu hồ sơ chưa hợp lệ thì hướng dẫn hoặc thông báo trên Cổng dịch vụ công  quốc gia hoặc Cổng dịch vụ công Bộ Công an để người nộp hồ sơ bổ sung cho đầy đủ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia hoặc qua Cổng dịch vụ công Bộ Công an.
+01 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ theo quy định, giấy thông hành sẽ bị hủy giá trị sử dụng.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp bổ sung hồ sơ qua dịch vụ bưu chính công ích theo thông báo của cơ quan tiếp nhận hồ sơ trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an (nếu có).
+01 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ theo quy định, giấy thông hành sẽ bị hủy giá trị sử dụng.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ trực tiếp tại Công an cấp xã biên giới tiếp giáp với Trung Quốc.
+01 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ theo quy định, giấy thông hành sẽ bị hủy giá trị sử dụng.
+
+Thành phần hồ sơ:
+    - Trường hợp nộp hồ sơ trực tuyến thì thành phần hồ sơ phải được chứng thực điện tử theo quy định, trường hợp hồ sơ chưa được chứng thực điện tử thì gửi hồ sơ về cơ quan tiếp nhận thông qua dịch vụ bưu chính công ích.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Giấy tờ chứng minh là cha, mẹ hoặc người đại diện theo pháp luật đối với trường hợp trình báo mất giấy thông hành cho trẻ em dưới 14 tuổi, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + 01 đơn trình báo mất giấy thông hành (mẫu M02);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Công an cấp Xã
+Cơ quan có thẩm quyền: Công an cấp Xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo hủy giá trị sử dụng giấy thông hành
+Căn cứ pháp lý:
+  * Luật 49/2019/QH14 (49/2019/QH14)
+  * Nghị định 76/2020/NĐ-CP (76/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Công dân Việt Nam bị mất giấy thông hành ở trong nước, trong thời hạn 48 giờ kể từ khi phát hiện giấy thông hành bị mất, người bị mất giấy thông hành phải thực hiện thủ tục trình báo cho cơ quan đã cấp giấy thông hành đó.
+Từ khóa: Không có thông tin
+Mô tả: Công dân Việt Nam bị mất giấy thông hành ở trong nước, trong thời hạn 48 giờ kể từ khi phát hiện giấy thông hành bị mất, người bị mất giấy thông hành phải thực hiện thủ tục trình báo cho cơ quan đã cấp giấy thông hành đó.

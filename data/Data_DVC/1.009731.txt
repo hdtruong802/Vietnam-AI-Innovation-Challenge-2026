@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009731
+Số quyết định: 1165/QĐ-BTC
+Tên thủ tục: Thủ tục thành lập văn phòng điều hành của nhà đầu tư nước ngoài trong hợp đồng BCC
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đầu tư tại Việt nam
+Trình tự thực hiện:
+    Trình tự thực hiện:
+    - Bước 1: Nhà đầu tư nước ngoài trong hợp đồng BCC nộp hồ sơ đăng ký thành lập văn phòng điều hành tại Cơ quan đăng ký đầu tư.
+    - Bước 2: Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan đăng ký đầu tư cấp Giấy chứng nhận đăng ký hoạt động văn phòng điều hành cho nhà đầu tư nước ngoài trong hợp đồng BCC.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ (Không)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ (Không)
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 10 ngày làm việc kể từ ngày nhận được hồ sơ.
+
+Thành phần hồ sơ:
+  [ Trường hợp khai thác, sử dụng được thông tin về tài liệu tư cách pháp lý của nhà đầu tư, Giấy chứng nhận đăng ký đầu tư, Quyết định chấp thuận chủ trương đầu tư, Giấy chứng nhận quyền sử dụng đất hoặc các văn bản, giấy tờ khác mà đã có trong các cơ sở dữ liệu để thay thế thành phần hồ sơ giải quyết thủ tục hành chính thì hồ sơ không bao gồm bản sao của các giấy tờ này ]
+    - - Quyết định của nhà đầu tư nước ngoài trong hợp đồng BCC về việc thành lập văn phòng điều hành;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản đăng ký thành lập văn phòng điều hành gồm: tên và địa chỉ văn phòng đại diện tại Việt Nam (nếu có) của nhà đầu tư nước ngoài trong hợp đồng BCC; tên, địa chỉ văn phòng điều hành; nội dung, thời hạn, phạm vi hoạt động của văn phòng điều hành; họ, tên, nơi cư trú, số Giấy chứng minh nhân dân, thẻ Căn cước công dân hoặc Hộ chiếu của người đứng đầu văn phòng điều hành;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao hợp đồng BCC.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao quyết định bổ nhiệm người đứng đầu văn phòng điều hành;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký hoạt động văn phòng điều hành theo Mẫu I.2.10 ban hành kèm theo Thông tư số 55/2026/TT-BTC hoặc văn bản từ chối, nêu rõ lý do.
+Căn cứ pháp lý:
+  * định số 96/2026/NĐ-CP ngày 31/3/2026; (96/2026/NĐ-CP)
+  * Thông tư số 55/2026/TT-BTC ngày 15/5/2026. (55/2026/TT-BTC)
+  * Luật Đầu tư số 143/2025/QH15 ngày 11/12/2025; (143/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Hợp đồng BCC được ký kết giữa nhà đầu tư trong nước với nhà đầu tư nước ngoài hoặc giữa các nhà đầu tư nước ngoài thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư theo quy định tại Điều 26 Luật Đầu tư.
+Từ khóa: Không có thông tin
+Mô tả: Hợp đồng BCC được ký kết giữa nhà đầu tư trong nước với nhà đầu tư nước ngoài hoặc giữa các nhà đầu tư nước ngoài thực hiện thủ tục cấp Giấy chứng nhận đăng ký đầu tư theo quy định tại Điều 26 Luật Đầu tư.

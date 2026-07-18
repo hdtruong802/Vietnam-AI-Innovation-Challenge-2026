@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002421
+Số quyết định: 1279/QĐ-NHNN
+Tên thủ tục: Thủ tục cho phép mang tiền của nước có chung biên giới vào các tỉnh nội địa
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Công dân của nước có chung biên giới với Việt Nam có đăng ký kinh doanh tại khu vực biên giới đất liền và khu vực kinh tế cửa khẩu, nếu được cơ quan có thẩm quyền của Việt Nam cho phép đi vào các tỉnh, thành phố của Việt Nam, có nhu cầu mang theo người tiền của nước có chung biên giới với mục đích mang theo người hoặc để bán cho Ngân hàng được phép lập 01 bộ hồ sơ gửi Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới.
+    + Bước 2: Trong vòng 5 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới cấp hoặc không cấp Giấy chấp thuận cho mang tiền của nước có chung biên giới vào các tỉnh, thành phố của Việt Nam.
+    Trường hợp không cấp Giấy chấp thuận, Ngân hàng Nhà nước chi nhánh Khu vực có tỉnh, thành phố biên giới phải có văn bản thông báo rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - a) Giấy đề nghị chấp thuận mang tiền của nước có chung biên giới vào các tỉnh, thành phố của Việt Nam (Phụ lục 1 thuộc Phụ lục II kèm theo Thông tư số 23/2026/TT-NHNN của NHNN);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Giấy phép đến các tỉnh, thành phố của Việt Nam do cơ quan có thẩm quyền của Việt Nam cấp (trường hợp nộp bản sao thì phải mang bản gốc để đối chiếu).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận mang tiền của nước có chung biên giới vào các tỉnh, thành phố của Việt Nam
+Căn cứ pháp lý:
+  * Thông tư số 23/2026/TT-NHNN của Thống đốc Ngân hàng Nhà nước Việt Nam sửa đổi, bổ sung một số điều của các văn bản quy phạm pháp luật về quản lý ngoại hối liên quan đến hoạt động cung ứng dịch vụ ngoại hối của các tổ chức không phải là tổ chức tín dụng (Thông tư số 23/2026/TT-NHNN)
+  * Quyết định 140/2000/QĐ-TTg (140/2000/QĐ-TTg)
+  * Thông tư hướng dẫn thực hiện Quy chế quản lý tiền của nước có chung biên giới tại Khu vực biên giới và khu vực kinh tế cửa khẩu Việt Nam ban hành kèm theo Quyết định 140/2000/QĐ-TTg của Thủ tướng Chính phủ, được sửa đổi, bổ sung bởi Thông tư số 29/2015/TT-NHNN và Thông tư số 11/2016/TT-NHNN (Thông tư 07/2001/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

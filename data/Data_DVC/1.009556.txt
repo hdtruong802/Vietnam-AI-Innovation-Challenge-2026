@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009556
+Số quyết định: 764/QĐ-BTC
+Tên thủ tục: Thủ tục đề nghị xác nhận chủng loại và định lượng hàng hóa nhập khẩu phục vụ nhu cầu công tác được miễn thuế
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân nước ngoài được hưởng quyền ưu đãi, miễn trừ được miễn thuế nhập khẩu theo quy định tại khoản 1 Điều 16 Luật thuế xuất khẩu, thuế nhập khẩu, thuộc trường hợp quy định tại khoản 3 Điều 5 Nghị định số 134/2016/NĐ-CP có văn bản đề nghị gửi Bộ Ngoại giao.
+    Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị, Bộ Ngoại giao có văn bản xác nhận hoặc có văn bản từ chối (nêu rõ lý do từ chối).
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị Bộ Ngoại giao xác nhận chủng loại và định lượng hàng hóa nhập khẩu phục vụ nhu cầu công tác được miễn thuế Mẫu số 02c Phụ lục VII ban hành kèm theo Nghị định số 18/2021/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Bộ Ngoại giao
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận của Bộ Ngoại giao về chủng loại và định lượng hàng hóa cần thiết nhập khẩu để phục vụ nhu cầu công tác được miễn thuế
+Căn cứ pháp lý:
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật thuế xuất khẩu, thuế nhập khẩu (134/2016/NĐ-CP)
+  * Nghị định số 18/2021/NĐ-CP ngày 11/3/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 134/2016/NĐ-CP ngày 01/9/2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Thuế xuất khẩu, thuế nhập khẩu (18/2021/ND-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

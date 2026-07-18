@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115235
+Số quyết định: 2334/QĐ-BNNMT
+Tên thủ tục: Hủy đăng ký dự án các-bon rừng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Lâm nghiệp và Kiểm lâm
+Trình tự thực hiện:
+  * a) Bước 1: Nộp hồ sơ
+    Cơ quan, tổ chức đã được đăng ký dự án các-bon rừng có đề nghị hủy đăng ký dự án nộp đơn đề nghị hủy đăng ký dự án các-bon rừng đến Ủy ban nhân dân cấp tỉnh.
+  * b) Bước 2: Hủy đăng ký dự án các-bon rừng
+    Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đơn đề nghị, Ủy ban nhân dân cấp tỉnh thực hiện hủy đăng ký dự án trên Hệ thống đăng ký quốc gia.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đơn đề nghị hủy đăng ký dự án các-bon rừng theo Mẫu số 06 Phụ lục II ban hành kèm theo Nghị định số 180/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cơ quan chuyên môn về nông nghiệp và môi trường thuộc Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Dự án các-bon rừng được hủy đăng ký trên Hệ thống đăng ký quốc gia
+Căn cứ pháp lý:
+  * Quy định về dịch vụ hấp thụ và lưu giữ các-bon của rừng (Điều 9 Nghị định số 180/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không quy định.
+Từ khóa: Không có thông tin
+Mô tả: Không quy định.

@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014221
+Số quyết định: 6636/QĐ-BCA-C12
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện kinh doanh sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Dữ liệu
+Trình tự thực hiện:
+    - Bước 1: Tổ chức có nhu cầu cấp Giấy chứng nhận đủ điều kiện kinh doanh sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: Tổ chức nộp hồ sơ về cơ quan có thẩm quyền cấp Giấy chứng nhận đủ điều kiện kinh doanh sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu.
+    - Bước 3: Trong thời hạn 05 ngày làm việc, kể từ khi nhận đầy đủ hồ sơ hợp lệ, cơ quan có thẩm quyền gửi xin ý kiến các cơ quan, tổ chức có liên quan.
+    Trong thời hạn 10 ngày các đơn vị được lấy ý kiến có văn bản trả lời.
+    - Bước 4: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đầy đủ ý kiến tham gia của các đơn vị có liên quan, cơ quan có thẩm quyền xem xét, quyết định cấp bản giấy và bản điện tử Giấy chứng nhận đủ điều kiện kinh doanh sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu; trường hợp không cấp phải có thông báo bằng văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Tờ khai đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Công an
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện kinh doanh sản phẩm, dịch vụ phân tích, tổng hợp dữ liệu
+Căn cứ pháp lý:
+  * Luật dữ liệu (60/2024/QH15)
+  * Nghị định quy định hoạt động khoa học, công nghệ, đổi mới sáng tạo và sản phẩm, dịch vụ về dữ liệu (169/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

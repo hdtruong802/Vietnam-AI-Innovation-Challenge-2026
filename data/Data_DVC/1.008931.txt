@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008931
+Số quyết định: 1444/QĐ-BTP
+Tên thủ tục: Thay đổi nội dung đăng ký hoạt động của Văn phòng Thừa phát lại
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thừa hành viên
+Trình tự thực hiện:
+    - Văn phòng Thừa phát lại gửi hồ sơ đề nghị thay đổi nội dung đăng ký hoạt động đến Sở Tư pháp nơi đăng ký hoạt động;
+    - Sở Tư pháp cấp Giấy đăng ký hoạt động cho Văn phòng Thừa phát lại; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Giấy tờ chứng minh việc thay đổi và bản chính Giấy đăng ký hoạt động.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy đề nghị thay đổi nội dung đăng ký hoạt động của Văn phòng Thừa phát lại theo mẫu do Bộ trưởng Bộ Tư pháp quy định;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Tư pháp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy đăng ký hoạt động Văn phòng Thừa phát lại
+Căn cứ pháp lý:
+  * Thông tư 05/2020/TT-BTP (05/2020/TT-BTP)
+  * sửa đổi, bổ sung một số nghị định để cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh
+thuộc phạm vi quản lý của Bộ Tư pháp. (18/2026/NĐ-CP)
+  * Thông tư sửa đổi, bổ sung một số nội dung của Thông tư số 01/2022/TT-BTP ngày 04/01/2022 của Bộ trưởng Bộ Tư pháp quy định chi tiết một số điều và biện pháp thi hành Nghị định số 87/2020/NĐ-CP ngày 28/7/2020 của Chính phủ quy định về Cơ sở dữ liệu hộ tịch điện tử, đăng ký hộ tịch trực tuyến (03/2023/TT-BTP)
+  * Thông tư 223/2016/TT-BTC (223/2016/TT-BTC)
+  * Nghị định 08/2020/NĐ-CP (08/2020/NĐ-CP)
+  * Thông tư số 05/2021/TT-BTC ngày 20/01/2021 của Bộ trưởng Bộ Tài chính (05/2021/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

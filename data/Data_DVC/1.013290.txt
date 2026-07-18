@@ -1,0 +1,87 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013290
+Số quyết định: 2618/QĐ-UBND
+Tên thủ tục: Xác nhận là doanh nghiệp vi mạch bán dẫn, trí tuệ nhân tạo
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công nghiệp công nghệ số, công nghệ thông tin, điện tử
+Trình tự thực hiện:
+    1. Doanh nghiệp nộp hồ sơ về Sở Khoa học và Công nghệ.
+    2. Sau khi tiếp nhận hồ sơ đầy đủ, hợp lệ, Sở Khoa học và Công nghệ thành lập Hội đồng thẩm định để thẩm định hồ sơ.
+    Trường hợp hồ sơ hợp lệ, trong vòng 10 (mười) ngày làm việc, trên cơ sở kết quả làm việc của Hội đồng thẩm định, Sở Khoa học và Công nghệ ban hành văn bản xác nhận doanh nghiệp vi mạch bán dẫn, trí tuệ nhân tạo.
+    Trường hợp hồ sơ không đáp ứng điều kiện quy định hỗ trợ, Sở Khoa học và Công nghệ có văn bản trả lời, nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+  [ Trường hợp xác nhận doanh nghiệp vi mạch bán dẫn ]
+    - Văn bản đề nghị xác nhận doanh nghiệp vi mạch bán dẫn
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng thuê nhân sự làm việc trong lĩnh vực thiết kế, sản xuất, đóng gói, kiểm thử vi mạch bán dẫn kèm bảng chi trả lương, thu nhập
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh doanh nghiệp có tham gia hoạt động vi mạch bán dẫn theo quy định tại Điều 7 Nghị quyết số 24/2026/NQ-HĐND
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh có một trong các hoạt động sau: Đầu tư mua sắm, nhận viện trợ, cho tặng trang thiết bị, phần mềm, dây chuyền phục vụ thiết kế, sản xuất, đóng gói, kiểm thử để hoạt động trong lĩnh vực vi mạch bán dẫn
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp xác nhận doanh nghiệp có hoạt động trí tuệ nhân tạo ]
+    - Văn bản đề nghị xác nhận doanh nghiệp có hoạt động trí tuệ nhân tạo theo mẫu số 02 Phụ lục II Nghị quyết số 24/2026/NQ-HĐND (trong đó cam kết không vi phạm bản quyền phần mềm, sản phẩm không vi phạm pháp luật hiện hành)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng thuê nhân sự làm việc trong lĩnh vực thiết kế, sản xuất, đóng gói, kiểm thử trí tuệ nhân tạo kèm bảng chi trả lương
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh doanh nghiệp có tham gia hoạt động trí tuệ nhân tạo theo quy định tại Điều 8 Nghị quyết số 24/2026/NQ-HĐND
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh có một trong các hoạt động sau: Đầu tư mua sắm, nhận viện trợ, cho tặng trang thiết bị, phần mềm, hạ tầng tính toán, dữ liệu, dịch vụ gán nhãn dữ liệu, dịch vụ điện toán đám mây phục vụ phát triển hệ thống trí tuệ nhân tạo; Doanh thu, sản phẩm đầu ra trong lĩnh vực trí tuệ nhân tạo
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh khác (nếu có): Giấy chứng nhận bản quyền, sở hữu trí tuệ hoặc các tài liệu liên quan khác
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Sở Khoa học và Công nghệ TP.Đà Nẵng
+Cơ quan có thẩm quyền: Sở Khoa học và Công nghệ TP.Đà Nẵng
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công thành phố Đà Nẵng
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận doanh nghiệp có hoạt động trong lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo hoặc văn bản thông báo kết quả thẩm định của Sở Khoa học và Công nghệ
+Căn cứ pháp lý:
+  * Quy định các lĩnh vực ưu tiên; tiêu chí, điều kiện, trình tự, thủ tục, nội dung hoạt động khởi nghiệp đổi mới sáng tạo, hoạt động hỗ trợ khởi nghiệp đổi mới sáng tạo, hoạt động trong lĩnh vực thiết kế, sản xuất, đóng gói, kiểm thử vi mạch bán dẫn, trí tuệ nhân tạo được miễn thuế trên địa bàn thành phố Đà Nẵng (24/2026/NQ-HĐND (thành phố Đà Nẵng))
+
+Yêu cầu, điều kiện thực hiện: 1. Doanh nghiệp được xác định là doanh nghiệp vi mạch bán dẫn khi đáp ứng các tiêu chí, điều kiện sau:
+a) Doanh nghiệp có tham gia một trong các hoạt động quy định tại Điều 7 Nghị quyết số 24/2026/NQ-HĐND.
+b) Doanh nghiệp đang hoạt động, đăng ký thành lập theo Luật Doanh nghiệp trên địa bàn thành phố; có đăng ký ngành nghề hoạt động phù hợp với lĩnh vực vi mạch bán dẫn.
+c) Có nhân sự hoạt động trong lĩnh vực thiết kế, sản xuất, đóng gói, kiểm thử vi mạch bán dẫn quy định tại Điều 9 Nghị quyết số 24/2026/NQ-HĐND.
+d) Có một trong các hoạt động sau:
+- Đầu tư mua sắm, nhận viện trợ, cho tặng trang thiết bị, phần mềm, dây chuyền phục vụ thiết kế, sản xuất, đóng gói, kiểm thử để hoạt động trong lĩnh vực vi mạch bán dẫn;
+- Có phát sinh doanh thu trong lĩnh vực vi mạch bán dẫn.
+2. Doanh nghiệp được xác định là doanh nghiệp trí tuệ nhân tạo khi đáp ứng các tiêu chí, điều kiện sau:
+a) Doanh nghiệp có tham gia một trong các hoạt động trí tuệ nhân tạo quy định tại Điều 8 Nghị quyết số 24/2026/NQ-HĐND.
+b) Doanh nghiệp đang hoạt động, đăng ký thành lập theo Luật Doanh nghiệp trên địa bàn thành phố; có đăng ký ngành nghề hoạt động phù hợp với hoạt động trí tuệ nhân tạo.
+c) Có nhân sự làm việc trong lĩnh vực trí tuệ nhân tạo quy định tại Điều 10 Nghị quyết số 24/2026/NQ-HĐND.
+d) Có một trong các hoạt động sau:
+- Đầu tư mua sắm, nhận viện trợ, cho tặng, thuê trang thiết bị, phần mềm, hạ tầng tính toán, dữ liệu, dịch vụ gán nhãn dữ liệu, dịch vụ điện toán đám mây phục vụ phát triển hệ thống trí tuệ nhân tạo;
+- Có phát sinh doanh thu trong lĩnh vực trí tuệ nhân tạo;
+- Có sản phẩm đầu ra trong lĩnh vực trí tuệ nhân tạo.
+Từ khóa: Không có thông tin
+Mô tả: 1. Doanh nghiệp được xác định là doanh nghiệp vi mạch bán dẫn khi đáp ứng các tiêu chí, điều kiện sau:
+a) Doanh nghiệp có tham gia một trong các hoạt động quy định tại Điều 7 Nghị quyết số 24/2026/NQ-HĐND.
+b) Doanh nghiệp đang hoạt động, đăng ký thành lập theo Luật Doanh nghiệp trên địa bàn thành phố; có đăng ký ngành nghề hoạt động phù hợp với lĩnh vực vi mạch bán dẫn.
+c) Có nhân sự hoạt động trong lĩnh vực thiết kế, sản xuất, đóng gói, kiểm thử vi mạch bán dẫn quy định tại Điều 9 Nghị quyết số 24/2026/NQ-HĐND.
+d) Có một trong các hoạt động sau:
+- Đầu tư mua sắm, nhận viện trợ, cho tặng trang thiết bị, phần mềm, dây chuyền phục vụ thiết kế, sản xuất, đóng gói, kiểm thử để hoạt động trong lĩnh vực vi mạch bán dẫn;
+- Có phát sinh doanh thu trong lĩnh vực vi mạch bán dẫn.
+2. Doanh nghiệp được xác định là doanh nghiệp trí tuệ nhân tạo khi đáp ứng các tiêu chí, điều kiện sau:
+a) Doanh nghiệp có tham gia một trong các hoạt động trí tuệ nhân tạo quy định tại Điều 8 Nghị quyết số 24/2026/NQ-HĐND.
+b) Doanh nghiệp đang hoạt động, đăng ký thành lập theo Luật Doanh nghiệp trên địa bàn thành phố; có đăng ký ngành nghề hoạt động phù hợp với hoạt động trí tuệ nhân tạo.
+c) Có nhân sự làm việc trong lĩnh vực trí tuệ nhân tạo quy định tại Điều 10 Nghị quyết số 24/2026/NQ-HĐND.
+d) Có một trong các hoạt động sau:
+- Đầu tư mua sắm, nhận viện trợ, cho tặng, thuê trang thiết bị, phần mềm, hạ tầng tính toán, dữ liệu, dịch vụ gán nhãn dữ liệu, dịch vụ điện toán đám mây phục vụ phát triển hệ thống trí tuệ nhân tạo;
+- Có phát sinh doanh thu trong lĩnh vực trí tuệ nhân tạo;
+- Có sản phẩm đầu ra trong lĩnh vực trí tuệ nhân tạo.

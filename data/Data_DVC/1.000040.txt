@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000040
+Số quyết định: 3684/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp giấy phép triển lãm mỹ thuật (thẩm quyền của Bộ Văn hóa, Thể thao và Du lịch)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Mỹ thuật, nhiếp ảnh, triển lãm
+Trình tự thực hiện:
+    - Tổ chức, cá nhân đề nghị cấp phép triển lãm mỹ thuật trong các trường hợp dưới đây gửi trực tiếp hoặc qua đường bưu điện 01 bộ hồ sơ đề nghị cấp phép đến Bộ Văn hóa, Thể thao và Du lịch (Cục Mỹ thuật, Nhiếp ảnh và Triển lãm):
+    + Triển lãm mỹ thuật có quy mô toàn quốc, khu vực do các cơ quan Trung ương tổ chức;
+    + Triển lãm mỹ thuật Việt Nam do tổ chức quốc tế, tổ chức nước ngoài tổ chức;
+    + Triển lãm mỹ thuật nước ngoài tại Việt Nam do tổ chức Việt Nam hoặc tổ chức nước ngoài tại Việt Nam tổ chức;
+    + Đưa tác phẩm mỹ thuật Việt Nam ra nước ngoài triển lãm mang danh nghĩa đại diện cho quốc gia Việt Nam.
+    - Trong thời hạn 07 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Cục Mỹ thuật, Nhiếp ảnh và Triển lãm (Cục Mỹ thuật, Nhiếp ảnh và Triển lãm) cấp giấy phép, trường hợp không cấp giấy phép phải có văn bản trả lời, nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đối với triển lãm ngoài trời được tổ chức tại Việt Nam phải có văn bản của chủ địa điểm triển lãm cam kết đảm bảo các điều kiện về trật tự, an toàn xã hội, văn minh công cộng, vệ sinh môi trường và phòng chống cháy nổ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách tác giả, tác phẩm, chất liệu, kích thước tác phẩm, năm sáng tác
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đối với trường hợp đưa tác phẩm mỹ thuật ra nước ngoài triển lãm, ngoài đơn đề nghị cấp giấy phép (mẫu số 2 ban hành kèm theo Nghị định số 113/2013/NĐ-CP ngày 02 tháng 10 năm 2013 của Chính phủ về hoạt động mỹ thuật) và hồ sơ quy định tại thành phần hồ sơ (2) và (3) nêu trên phải kèm theo giấy mời hoặc văn bản thoả thuận của đối tác nước ngoài và bản dịch tiếng Việt (có xác nhận của cơ quan có thẩm quyền)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị cấp giấy phép (mẫu số 1 ban hành kèm theo Nghị định số 113/2013/NĐ-CP ngày 02 tháng 10 năm 2013 của Chính phủ về hoạt động mỹ thuật)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mỗi tác phẩm một ảnh màu kích thước 10x15 cm. Riêng đối với triển lãm nghệ thuật sắp đặt phải có ảnh chính diện, bên phải và bên trái tác phẩm, kèm theo văn bản trình bày ý tưởng nội dung tác phẩm. Trường hợp tác phẩm có chữ nước ngoài thì phải có bản dịch ra tiếng Việt. Tổ chức, cá nhân phải chịu trách nhiệm về nội dung bản dịch
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Cục Mỹ thuật, Nhiếp ảnh và Triển lãm - Bộ Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Bộ Văn hóa, Thể thao và Du lịch
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép triển lãm mỹ thuật tại Việt Nam, Giấy phép đưa triển lãm mỹ thuật từ Việt Nam ra nước ngoài
+Căn cứ pháp lý:
+  * Về hoạt động mỹ thuật (113/2013/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

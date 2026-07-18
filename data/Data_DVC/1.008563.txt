@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008563
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Hoàn thuế theo Hiệp định tránh đánh thuế hai lần và Điều ước quốc tế khác
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1. Tổ chức, cá nhân thuộc diện hoàn thuế theo Hiệp định tránh đánh thuế hai lần hoặc Điều ước quốc tế khác chuẩn bị hồ sơ đề nghị hoàn thuế và gửi đến Thuế tỉnh, thành phố quản lý nơi tổ chức có trụ sở điều hành, nơi cá nhân có cơ sở thường trú hoặc Thuế tỉnh, thành phố nơi tổ chức, cá nhân đã nộp số thuế đề nghị hoàn.
+    + Bước 2. Cơ quan thuế tiếp nhận:
+    ++ Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế hoặc hồ sơ được gửi qua đường bưu chính: cơ quan thuế thực hiện tiếp nhận và giải quyết hồ sơ và trả kết quả theo quy định.
+    ++ Trường hợp hồ sơ được nộp đến cơ quan thuế thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ (Không)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ (Không)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ (Không)
+
+Thành phần hồ sơ:
+    - ++ Bảng kê chứng từ nộp thuế mẫu số 02-1/HT ban hành kèm theo Thông tư.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - ++ Bản sao hợp đồng kinh tế, hợp đồng cung cấp dịch vụ, hợp đồng đại lý, hợp đồng uỷ thác, hợp đồng chuyển giao công nghệ hoặc hợp đồng lao động ký với tổ chức, cá nhân Việt Nam, giấy chứng nhận tiền gửi tại Việt Nam, giấy chứng nhận góp vốn vào Công ty tại Việt Nam (tuỳ theo loại thu nhập trong từng trường hợp cụ thể) có xác nhận của người nộp thuế;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy đề nghị hoàn thuế theo Hiệp định tránh đánh thuế hai lần và Điều ước quốc tế khác mẫu số 02/HT ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính (đã được sửa đổi tại Thông tư số 94/2025/TT-BTC);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ++ Giấy chứng nhận cư trú do cơ quan thuế của nước cư trú cấp đã được hợp pháp hóa lãnh sự trong đó ghi rõ là đối tượng cư trú trong năm tính thuế nào;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ++ Giấy ủy quyền trong trường hợp tổ chức, cá nhân uỷ quyền cho đại diện hợp pháp thực hiện thủ tục áp dụng Hiệp định thuế. Trường hợp tổ chức, cá nhân lập giấy uỷ quyền để uỷ quyền cho đại diện hợp pháp thực hiện thủ tục hoàn thuế vào tài khoản của đối tượng khác cần thực hiện thủ tục hợp pháp hóa lãnh sự (nếu việc uỷ quyền được thực hiện ở nước ngoài) hoặc công chứng (nếu việc uỷ quyền được thực hiện tại Việt Nam) theo quy định;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - ++ Văn bản xác nhận của tổ chức, cá nhân Việt Nam ký kết hợp đồng về thời gian và tình hình hoạt động thực tế theo hợp đồng (trừ trường hợp hoàn thuế đối với hãng vận tải nước ngoài);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Phụ lục số tiền thuế, tiền chậm nộp, tiền phạt phải nộp được bù trừ  (Mẫu số 01/PL-BT), Quyết định hoàn thuế kiêm bù trừ thu Ngân sách nhà nước (02/QĐHT), quyết định hoàn thuế, Thông báo về việc không được hoàn thuế (Mẫu số 04/TB-HT)
+Căn cứ pháp lý:
+  * Thông tư số 40/2025/TT-BTC Sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý thuế để phân định thẩm quyền của chính quyền địa phương theo mô hình tổ chức chính quyền địa phương 02 cấp (40/2025/TT-BTC)
+  * sửa đổi một số điều của Thông tư 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế (46/2024/TT-BTC)
+  * Nghị định số 91/2022/NĐ-CP sửa đổi bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (91/2022/NĐ-CP)
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và sửa đổi, bổ sung một số mẫu biểu của Thông tư số 40/2021/TT-BTC ngày 01 tháng 6 năm 2021 của Bộ Tài chính hướng dẫn thuế giá trị gia tăng, thuế thu nhập cá nhân và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh (94/2025/TT-BTC)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Nghị định số 122/2025/NĐ-CP của Chính phủ: Quy định về phân quyền, phân cấp trong lĩnh vực quản lý thuế (122/2025/NĐ-CP)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000636
+Số quyết định: 01/QĐ-BCT
+Tên thủ tục: Cấp phép tiêu thụ hàng hóa quá cảnh của nước Cộng hòa nhân dân Trung Hoa qua lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    - Chủ hàng nộp hồ sơ đề nghị cho phép tiêu thụ hàng hóa quá cảnh đến Cục Xuất nhập khẩu (Bộ Công Thương); địa chỉ: 54 Hai Bà Trưng, quận Hoàn Kiếm, Hà Nội, Việt Nam.;
+    - Cục Xuất nhập khẩu (Bộ Công Thương) tiếp nhận, thẩm định hồ sơ.
+    - Trường hợp hồ sơ đầy đủ, hợp lệ, đáp ứng đủ điều kiện, trong thời hạn 15 ngày làm việc, Bộ Công Thương có văn bản cho phép chủ hàng tiêu thụ hàng hóa quá cảnh.
+    - Trường hợp hồ sơ không đầy đủ, không hợp lệ, trong vòng 07 ngày làm việc, Cục Xuất nhập khẩu (Bộ Công Thương) có văn bản gửi chủ hàng yêu cầu bổ sung, chỉnh sửa để hoàn chỉnh hồ sơ. Trường hợp không cho phép tiêu thụ hàng hóa quá cảnh, Bộ Công Thương có văn bản trả lời chủ hàng và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Tờ khai Hải quan của lô hàng quá cảnh: 01 (một) bản sao (có ký xác nhận và đóng dấu sao y bản chính của chủ hàng).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Giấy phép quá cảnh hàng hóa đã được cấp: 01 (một) bản sao (có ký xác nhận và đóng dấu sao y bản chính của chủ hàng;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Đơn đề nghị cho phép tiêu thụ hàng hóa quá cảnh của chủ hàng: 01 (một) bản chính (theo mẫu quy định tại Phụ lục IV ban hành kèm theo Thông tư số 11/2015/TT-BCT);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tài liệu chứng minh trường hợp đặc biệt đối với hàng hóa quá cảnh cần xin được tiêu thụ tại Việt Nam;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản xác nhận của cơ quan Hải quan về tình trạng lô hàng quá cảnh: 01 (một) bản chính
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Cục Xuất nhập khẩu
+Cơ quan có thẩm quyền: Bộ Công thương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: văn bản cho phép tiêu thụ hàng hóa quá cảnh của nước Cộng hòa nhân dân Trung Hoa qua lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam
+Căn cứ pháp lý:
+  * Quy định về quá cảnh hàng hóa của nước Cộng hòa Nhân dân Trung Hoa qua lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam (11/2015/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

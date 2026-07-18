@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010792
+Số quyết định: 556/QĐ-BNV
+Tên thủ tục: Khám giám định phúc quyết lần cuối của đối tượng hoặc người đại diện hợp pháp của đối tượng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    Bước 1: Cá nhân trong thời gian 90 ngày kể từ ngày nhận được Biên bản giám định y khoa nếu không đồng ý phải có đơn đề nghị khám giám định phúc quyết lần cuối kèm bản sao được chứng thực từ biên bản khám giám định y khoa gửi: cơ quan thường trực Hội đồng giám định y khoa cấp trung ương đã khám giám định cho đối tượng hoặc cơ quan thường trực Hội đồng giám định y khoa các Bộ đã khám giám định phúc quyết cho đối tượng. Quá thời gian trên nêu trên, cơ quan thường trực Hội đồng giám định y khoa cấp trung ương, các bộ và các cơ quan có thẩm quyền không xem xét, giải quyết.
+    Bước 2: Cơ quan thường trực Hội đồng giám định y khoa đã khám cho đối tượng trong thời gian 07 ngày làm việc kể từ ngày nhận được đơn có văn bản đề nghị khám giám định phúc quyết lần cuối kèm theo các giấy tờ quy định tại điểm a khoản 12 Phụ lục I.2 ban hành kèm theo Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ và bản sao hồ sơ đề nghị khám giám định của cơ quan, đơn vị có thẩm quyền gửi Cục Quản lý khám, chữa bệnh, Bộ Y tế.
+    Bước 3: Cục Quản lý khám, chữa bệnh, Bộ Y tế trong thời gian 07 ngày làm việc kể từ ngày nhận được văn bản đề nghị khám giám định phúc quyết lần cuối báo cáo và trình Bộ trưởng Bộ Y tế thành lập Hội đồng giám định y khoa phúc quyết lần cuối.
+    Bước 4: Cơ quan thường trực Hội đồng giám định y khoa phúc quyết lần cuối trong thời gian 15 ngày làm việc kể từ ngày Bộ trưởng Bộ Y tế ban hành quyết định thành lập Hội đồng giám định y khoa phúc quyết lần cuối tổ chức khám giám định, ban hành biên bản giám định y khoa theo Mẫu số 78 Phụ lục I Nghị định số 131/2021/NĐ-CP và gửi biên bản giám định y khoa phúc quyết lần cuối đến cá nhân có đơn đề nghị, cơ quan thường trực Hội đồng giám định y khoa cấp tỉnh và cơ quan thực hiện chế độ ưu đãi để xem xét, giải quyết chế độ. Trường hợp chưa ban hành biên bản phải có văn bản thông báo và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 29 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Qua dịch vụ bưu chính công ích hoặc trực tiếp hoặc trực tuyến. 29 ngày làm việc kể từ ngày nhận được đơn và giấy tờ theo quy định (thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 29 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Qua dịch vụ bưu chính công ích hoặc trực tiếp hoặc trực tuyến. 29 ngày làm việc kể từ ngày nhận được đơn và giấy tờ theo quy định (thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 29 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Qua dịch vụ bưu chính công ích hoặc trực tiếp hoặc trực tuyến. 29 ngày làm việc kể từ ngày nhận được đơn và giấy tờ theo quy định (thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+
+Thành phần hồ sơ:
+    - Bản sao được chứng thực từ biên bản giám định y khoa.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Đơn đề nghị.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Hội đồng Giám định Y khoa tỉnh, Hội đồng giám định y khoa trung ương, Bộ Y tế, Bộ trưởng Bộ Y tế
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Biên bản giám định y khoa phúc quyết lần cuối
+Căn cứ pháp lý:
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+  * QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THI HÀNH PHÁP LỆNH ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Nghị định số 131/2021/NĐ-CP)
+  * Pháp lệnh ưu đãi người có công với cách mạng (02/2020/UBTVQH14)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

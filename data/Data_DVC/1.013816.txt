@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013816
+Số quyết định: 1859/QĐ-BTP
+Tên thủ tục: Chấm dứt  tập sự hành nghề công chứng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công chứng
+Trình tự thực hiện:
+    - Trong thời hạn 05 ngày làm việc kể từ ngày người tập sự chấm dứt tập sự trong các trường hợp quy định tại các điểm a, b, c, d, đ, e, g, h, i, l và m khoản 1 Điều 9 Thông tư số 06/2025/TT-BTP, tổ chức hành nghề công chứng nhận tập sự phải có báo cáo bằng văn bản nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử đến Sở Tư pháp nơi đăng ký hoạt động, trong đó nêu rõ lý do người tập sự chấm dứt tập sự.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được báo cáo của tổ chức hành nghề công chứng, Sở Tư pháp ra quyết định chấm dứt tập sự hành nghề công chứng, gửi quyết định cho người tập sự và tổ chức hành nghề công chứng nhận tập sự. Trường hợp tổ chức hành nghề công chứng nhận tập sự không báo cáo mà Sở Tư pháp nắm được thông tin về việc người tập sự thuộc trường hợp chấm dứt tập sự thì Sở Tư pháp tự mình kiểm tra, xác minh thông tin để xem xét, quyết định việc chấm dứt tập sự.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Báo cáo bằng văn bản của tổ chức hành nghề công chứng về việc chấm dứt tập sự hành nghề công chứng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định chấm dứt tập sự hành nghề công chứng
+Căn cứ pháp lý:
+  * Thông tư 06/2025/TT-BTP quy định về tập sự hành nghề công chứng (06/2025/TT-BTP)
+
+Yêu cầu, điều kiện thực hiện: Việc tập sự chấm dứt khi người tập sự thuộc một trong các trường hợp sau đây (khoản 1 Điều 9 của Thông tư số 06/2025/TT-BTP):
+a) Tự chấm dứt tập sự;
+b) Được tuyển dụng là cán bộ, công chức, viên chức (trừ viên chức làm việc tại Phòng công chứng), sĩ quan, quân nhân chuyên nghiệp, công nhân quốc phòng trong cơ quan, đơn vị thuộc Quân đội nhân dân; sĩ quan, hạ sĩ quan, công nhân trong cơ quan, đơn vị thuộc Công an nhân dân; 
+c) Ký hợp đồng lao động với cơ quan, tổ chức, doanh nghiệp, trừ trường hợp ký hợp đồng lao động với tổ chức hành nghề công chứng nhận tập sự hoặc ký hợp đồng lao động với cơ quan, tổ chức, doanh nghiệp mà thời gian làm việc không trùng với ngày, giờ làm việc của tổ chức hành nghề công chứng nhận tập sự;
+d) Không còn thường trú tại Việt Nam;
+đ) Bị mất hoặc bị hạn chế năng lực hành vi dân sự; có khó khăn trong nhận thức, làm chủ hành vi;
+e) Bị truy cứu trách nhiệm hình sự hoặc bị kết tội bằng bản án đã có hiệu lực pháp luật của Tòa án;
+g) Bị áp dụng biện pháp xử lý hành chính;
+h) Không thực hiện việc tập sự trong thời hạn 30 ngày kể từ ngày quyết định đăng ký tập sự của Sở Tư pháp có hiệu lực trừ trường hợp quy định tại điểm a khoản 1 Điều 8 của Thông tư này;
+i) Tạm ngừng tập sự không thuộc các trường hợp quy định; tạm ngừng tập sự quá số lần quy định hoặc đã hết thời hạn tạm ngừng tập sự theo quy định mà không tiếp tục tập sự; 
+k) Bị Sở Tư pháp chấm dứt tập sự theo quy định tại khoản 3 Điều 11 của Thông tư này;
+l) Vi phạm quy định về việc tập sự của Thông tư này, đã được tổ chức hành nghề công chứng nhận tập sự nhắc nhở, yêu cầu sửa chữa bằng văn bản mà vẫn tiếp tục vi phạm; 
+m) Thuộc trường hợp không được đăng ký tập sự tại thời điểm đăng ký tập sự.
+Từ khóa: Không có thông tin
+Mô tả: Việc tập sự chấm dứt khi người tập sự thuộc một trong các trường hợp sau đây (khoản 1 Điều 9 của Thông tư số 06/2025/TT-BTP):
+a) Tự chấm dứt tập sự;
+b) Được tuyển dụng là cán bộ, công chức, viên chức (trừ viên chức làm việc tại Phòng công chứng), sĩ quan, quân nhân chuyên nghiệp, công nhân quốc phòng trong cơ quan, đơn vị thuộc Quân đội nhân dân; sĩ quan, hạ sĩ quan, công nhân trong cơ quan, đơn vị thuộc Công an nhân dân; 
+c) Ký hợp đồng lao động với cơ quan, tổ chức, doanh nghiệp, trừ trường hợp ký hợp đồng lao động với tổ chức hành nghề công chứng nhận tập sự hoặc ký hợp đồng lao động với cơ quan, tổ chức, doanh nghiệp mà thời gian làm việc không trùng với ngày, giờ làm việc của tổ chức hành nghề công chứng nhận tập sự;
+d) Không còn thường trú tại Việt Nam;
+đ) Bị mất hoặc bị hạn chế năng lực hành vi dân sự; có khó khăn trong nhận thức, làm chủ hành vi;
+e) Bị truy cứu trách nhiệm hình sự hoặc bị kết tội bằng bản án đã có hiệu lực pháp luật của Tòa án;
+g) Bị áp dụng biện pháp xử lý hành chính;
+h) Không thực hiện việc tập sự trong thời hạn 30 ngày kể từ ngày quyết định đăng ký tập sự của Sở Tư pháp có hiệu lực trừ trường hợp quy định tại điểm a khoản 1 Điều 8 của Thông tư này;
+i) Tạm ngừng tập sự không thuộc các trường hợp quy định; tạm ngừng tập sự quá số lần quy định hoặc đã hết thời hạn tạm ngừng tập sự theo quy định mà không tiếp tục tập sự; 
+k) Bị Sở Tư pháp chấm dứt tập sự theo quy định tại khoản 3 Điều 11 của Thông tư này;
+l) Vi phạm quy định về việc tập sự của Thông tư này, đã được tổ chức hành nghề công chứng nhận tập sự nhắc nhở, yêu cầu sửa chữa bằng văn bản mà vẫn tiếp tục vi phạm; 
+m) Thuộc trường hợp không được đăng ký tập sự tại thời điểm đăng ký tập sự.

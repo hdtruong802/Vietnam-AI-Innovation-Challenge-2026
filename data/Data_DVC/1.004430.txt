@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004430
+Số quyết định: 2528/QĐ-BKHCN
+Tên thủ tục: Cấp lại giấy phép bưu chính khi bị mất hoặc hư hỏng không sử dụng được (phạm vi liên tỉnh, quốc tế)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bưu chính
+Trình tự thực hiện:
+    Trường hợp giấy phép bưu chính bị mất hoặc hư hỏng không sử dụng được và doanh nghiệp có nhu cầu được cấp lại thì gửi hồ sơ đến Ủy ban nhân dân cấp tỉnh.
+    - Sau khi hồ sơ được tiếp nhận, Ủy ban nhân dân cấp tỉnh cấp lại giấy phép bưu chính trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+    - Kết quả giải quyết thủ tục cấp lại giấy phép bưu chính khi bị mất hoặc hư hỏng không sử dụng được được trả trực tiếp hoặc qua dịch vụ bưu chính công ích.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ ()
+    Mô tả: Nộp trực tuyến qua Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn)
+
+Thành phần hồ sơ:
+  [ Số lượng hồ sơ: 01 bộ là bản gốc ]
+    - Giấy đề nghị cấp lại giấy phép bưu chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bản sao từ bản gốc của giấy phép bưu chính đã được cấp
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư 219/2016-TT-BTC ngày 15/11/2016 quy định mức thu, chế độ thu, nộp, quản lý phí thẩm định điều kiện hoạt động bưu chính (25/2020/TT-BTC)
+  * Luật 49/2010/QH12 (49/2010/QH12)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29/4/2026 của Chính phủ ban hành Nghị quyết phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện hoạt động bưu chính (291/2016/TT-BTC)
+  * Quy định chi tiết thi hành một số nội dung của Luật Bưu chính (47/2011/NĐ-CP)
+  * Nghị định 25/2022/NĐ-CP (25/2022/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003272
+Số quyết định: 1106/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận thay đổi địa điểm đặt trụ sở chính của tổ chức tín dụng phi ngân hàng 
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Tổ chức tín dụng phi ngân hàng lập hồ sơ gửi Ngân hàng Nhà nước chi nhánh Khu vực nơi tổ chức tín dụng phi ngân hàng dự kiến đặt trụ sở chính;
+    + Bước 2: Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước chi nhánh Khu vực nơi tổ chức tín dụng phi ngân hàng dự kiến đặt trụ sở chính có văn bản yêu cầu tổ chức tín dụng phi ngân hàng bổ sung hồ sơ.
+    + Bước 3: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước chi nhánh Khu vực nơi tổ chức tín dụng phi ngân hàng dự kiến đặt trụ sở chính có văn bản chấp thuận; trường hợp không chấp thuận, Ngân hàng Nhà nước chi nhánh Khu vực nơi tổ chức tín dụng phi ngân hàng dự kiến đặt trụ sở chính trả lời bằng văn bản và nêu rõ lý do.
+    Trong thời hạn 12 tháng kể từ ngày Ngân hàng Nhà nước chi nhánh Khu vực có văn bản chấp thuận mà tổ chức tín dụng phi ngân hàng không hoàn tất thủ tục thay đổi địa điểm đặt trụ sở chính thì văn bản chấp thuận đương nhiên hết hiệu lực.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - a) Văn bản đề nghị, trong đó tối thiểu bao gồm các nội dung: + Địa điểm hiện tại; + Địa điểm dự kiến chuyển đến; + Lý do thay đổi; + Kế hoạch lắp đặt trang thiết bị tại trụ sở mới; + Kế hoạch chuyển trụ sở để đảm bảo tính liên tục trong hoạt động;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Văn bản của cấp có thẩm quyền quyết định thông qua việc thay đổi địa điểm đặt trụ sở chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Văn bản, tài liệu chứng minh tổ chức tín dụng phi ngân hàng có quyền sử dụng hoặc sở hữu hợp pháp trụ sở tại địa điểm mới theo quy định của pháp luật có liên quan. Đối với văn bản, tài liệu chứng minh tổ chức tín dụng phi ngân hàng có quyền sử dụng hoặc sở hữu hợp pháp trụ sở tại địa điểm mới là Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và dữ liệu thông tin về Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đó có trong cơ sở dữ liệu quốc gia về đất đai, tổ chức tín dụng phi ngân hàng bổ sung thông tin về mã Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất tại văn bản đề nghị quy định tại điểm a khoản này. Trong trường hợp này, tổ chức tín dụng phi ngân hàng không cần nộp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất. Trường hợp Ngân hàng Nhà nước chi nhánh Khu vực nơi tổ chức tín dụng phi ngân hàng dự kiến đặt trụ sở chính không khai thác được thông tin trên cơ sở dữ liệu quốc gia về đất đai hoặc thông tin khai thác được không đầy đủ, không chính xác, Ngân hàng Nhà nước chi nhánh Khu vực nơi tổ chức tín dụng phi ngân hàng dự kiến đặt trụ sở chính đề nghị tổ chức tín dụng phi ngân hàng nộp bổ sung bản sao Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Số 49 Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận thay đổi địa điểm đặt trụ sở chính của tổ chức tín dụng phi ngân hàng trên cùng địa bàn tỉnh, thành phố trực thuộc Trung ương, văn bản không chấp thuận
+Căn cứ pháp lý:
+  * Thông tư quy định về hồ sơ, thủ tục chấp thuận những thay đổi của tổ chức tín dụng phi ngân hàng (49/2025/TT-NHNN)
+  * phân cấp thực hiện thủ tục hành chính trong lĩnh vực thông tin tín dụng và sủa đổi, bổ sung một số điều của các Thông tư liên quan đến cắt giảm, đơn giản hóa, phân cấp thực hiện thủ tục hành chính trong lĩnh vực thành lập và hoạt động ngân hàng (11/2026/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

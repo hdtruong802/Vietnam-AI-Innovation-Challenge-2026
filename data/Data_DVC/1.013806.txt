@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013806
+Số quyết định: 2009/QĐ-BTP
+Tên thủ tục: Công nhận tương đương đối với người được đào tạo nghề công chứng  ở nước ngoài
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công chứng
+Trình tự thực hiện:
+    - Người có yêu cầu công nhận tương đương văn bằng đào tạo nghề công chứng ở nước ngoài nộp hồ sơ đề nghị về Sở Tư pháp hoặc trực tuyến trên Cổng dịch vụ công quốc gia;
+    - Sở Tư pháp kiểm tra và trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, ra quyết định công nhận tương đương đối với đào tạo nghề công chứng ở nước ngoài; trường hợp từ chối phải từ chối bằng văn bản có nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị công nhận tương đương đào tạo nghề công chứng ở nước ngoài (Mẫu TP-CC-01ban hành kèm theo Thông tư số 11/2025/TT-BTP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử văn bằng và kết quả đào tạo nghề công chứng ở nước ngoài đã được hợp pháp hóa lãnh sự, trừ trường hợp được miễn hợp pháp hóa lãnh sự theo quy định của pháp luật, được dịch ra tiếng Việt và bản dịch tiếng Việt phải được chứng thực chữ ký người dịch
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận tương đương đối với người được đào tạo nghề công chứng ở nước ngoài
+Căn cứ pháp lý:
+  * Thông tư 05/2025/TT-BTP hướng dẫn Luật Công chứng do Bộ trưởng Bộ Tư pháp ban hành (05/2025/TT-BTP)
+  * Luật Công chứng năm 2024 (46/2024/QH15)
+  * Nghị định số 121/2025/NĐ-CP ngày 11/6/2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (121/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Người được đào tạo nghề công chứng ở nước ngoài được công nhận tương đương trong các trường hợp sau đây:
+- Có văn bản đào tạo nghề công chứng tương đương được cấp bởi cơ sở đào tạo ở nước ngoài theo quy định tại điều ước quốc tế có liên quan mà Việt Nam là thành viên;
+- Có văn bằng đào tạo nghề công chứng được cấp bởi cơ sở đào tạo nghề công chứng ở nước ngoài.
+Từ khóa: Không có thông tin
+Mô tả: Người được đào tạo nghề công chứng ở nước ngoài được công nhận tương đương trong các trường hợp sau đây:
+- Có văn bản đào tạo nghề công chứng tương đương được cấp bởi cơ sở đào tạo ở nước ngoài theo quy định tại điều ước quốc tế có liên quan mà Việt Nam là thành viên;
+- Có văn bằng đào tạo nghề công chứng được cấp bởi cơ sở đào tạo nghề công chứng ở nước ngoài.

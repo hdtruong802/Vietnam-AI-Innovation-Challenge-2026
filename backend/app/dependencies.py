@@ -13,6 +13,12 @@ from app.adapters.dev_fixture import (
     FixtureRecommendationProvider,
     InMemoryAuditSink,
 )
+from app.adapters.rag_llm import (
+    GatewayLLMProvider,
+    RagProcedureRepository,
+    RagRecommendationProvider,
+    RagRetrievalProvider,
+)
 from app.config import Settings
 from app.ports import (
     AuditSink,
@@ -40,6 +46,7 @@ class AppContainer:
             procedure_repository=self.procedure_repository,
             recommendation_provider=self.recommendation_provider,
             retrieval_provider=self.retrieval_provider,
+            llm_provider=self.llm_provider,
             audit_sink=self.audit_sink,
             rule_engine=RuleEngine(),
             trust_policy=TrustPolicy(),
@@ -60,16 +67,26 @@ def build_container(settings: Settings) -> AppContainer:
             raise RuntimeError("Dev fixture mode is not allowed in production.")
         procedure_repository: ProcedureRepository = FixtureProcedureRepository()
         recommendation_provider: RecommendationProvider = FixtureRecommendationProvider()
+    elif settings.procedure_data_mode == "rag":
+        procedure_repository = RagProcedureRepository()
+        recommendation_provider = RagRecommendationProvider()
     else:
         procedure_repository = DisabledProcedureRepository()
         recommendation_provider = DisabledRecommendationProvider()
+
+    retrieval_provider: RetrievalProvider = (
+        RagRetrievalProvider() if settings.rag_mode == "rag" else DisabledRetrievalProvider()
+    )
+    llm_provider: LLMProvider = (
+        GatewayLLMProvider() if settings.llm_mode == "gateway" else DisabledLLMProvider()
+    )
 
     return AppContainer(
         settings=settings,
         procedure_repository=procedure_repository,
         recommendation_provider=recommendation_provider,
-        retrieval_provider=DisabledRetrievalProvider(),
-        llm_provider=DisabledLLMProvider(),
+        retrieval_provider=retrieval_provider,
+        llm_provider=llm_provider,
         audit_sink=InMemoryAuditSink(),
     )
 

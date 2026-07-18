@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014588
+Số quyết định: 1917/QĐ-UBND
+Tên thủ tục: Hỗ trợ sản xuất an toàn
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Nông nghiệp
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ
+    Tổ chức kinh tế, cá nhân chuẩn bị đầy đủ hồ sơ nộp về Bộ phận tiếp nhận và trả kết quả cấp xã.
+    Cán bộ tiếp nhận hồ sơ kiểm tra tính đầy đủ của hồ sơ:
+    a) Trường hợp hồ sơ chưa đầy đủ thì cán bộ tiếp nhận hồ sơ hướng dẫn để người đến nộp hồ sơ bổ sung đầy đủ theo quy định;
+    b) Trường hợp hồ sơ đã đầy đủ, trong thời hạn 1/2 ngày làm việc cán bộ tiếp nhận hồ sơ chuyển hồ sơ cho cơ quan chuyên môn giải quyết.
+    Bước 2: Thẩm định, phê duyệt
+    a) Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ đề nghị hỗ trợ, nếu thành phần hồ sơ chưa hợp lệ, cơ quan chuyên môn có trách nhiệm trả lời Tổ chức kinh tế, cá nhân bằng văn bản và hướng dẫn chỉnh sửa, bổ sung, hoàn thiện;
+    b) Trường hợp hồ sơ hợp lệ, trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan chuyên môn có trách nhiệm thẩm định hồ sơ (bao gồm kiểm tra thực tế). Nếu đủ điều kiện hỗ trợ thì tham mưu Chủ tịch Ủy ban nhân dân cấp xã xem xét, ban hành Quyết định phê duyệt hỗ trợ; Trường hợp không đủ điều kiện hỗ trợ, cơ quan chuyên môn có văn bản trả lời và nêu rõ lý do;
+    c) Trong thời hạn 05 ngày làm việc kể từ khi nhận được báo cáo thẩm định của cơ quan chuyên môn, Chủ tịch Ủy ban nhân dân cấp xã ban hành quyết định phê duyệt hỗ trợ. Căn cứ vào quyết định phê duyệt hỗ trợ của Chủ tịch Ủy ban nhân dân cấp xã và nguồn vốn được giao, trong thời hạn 10 ngày làm việc, cơ quan chuyên môn thực hiện hỗ trợ cho các đối tượng thụ hưởng chính sách.
+    Bước 3:  Trả kết quả
+    Trong thời hạn 1/2 ngày làm việc kể từ khi có Quyết định phê duyệt hỗ trợ, Ủy ban nhân cấp xã chuyển cho Bộ phận tiếp nhận và trả kết quả cấp xã để trả kết quả cho Tổ chức kinh tế, cá nhân đề nghị hỗ trợ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 23 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 23 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 23 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - a) Đơn đề nghị hỗ trợ gửi Ủy ban nhân dân cấp xã;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: UBND Phường Bắc Giang, tỉnh Bắc Ninh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: //Quyết định phê duyệt hỗ trợ
+Căn cứ pháp lý:
+  * Quy định chính sách hỗ trợ chi phí hoả táng (bao gồm cả điện táng) trên địa bàn tỉnh Bắc Ninh (Nghị quyết số 107/2025/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

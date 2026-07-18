@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014667
+Số quyết định: 2607/QĐ-BKHCN
+Tên thủ tục: Cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Hiệu chuẩn thiết bị ghi đo bức xạ;
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+    - Tổ chức có nhu cầu đề nghị cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Đánh giá hoạt độ phóng xạ nộp 01 bộ hồ sơ đến UBND cấp tỉnh qua Trung tâm Phục vụ hành chính công cấp tỉnh.
+    - Trường hợp nộp hồ sơ trực tiếp, Trung tâm Phục vụ hành chính công cấp tỉnh phải kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thu phí, lệ phí (nếu có) đối với hồ sơ hợp lệ.
+    - Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc trực tuyến, Trung tâm Phục vụ hành chính công cấp tỉnh trong thời hạn 03 ngày làm việc phải kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo bằng văn bản mức phí, lệ phí (nếu có) đối với hồ sơ hợp lệ (trường hợp tổ chức, cá nhân nộp nhiều hồ sơ cùng thời điểm, cơ quan tiếp nhận hồ sơ phát hành 01 bản thông báo mức phí, lệ phí cho tất cả hồ sơ) hoặc thông báo bằng văn bản yêu cầu sửa đổi, bổ sung hồ sơ nếu hồ sơ chưa đầy đủ, hợp lệ hoặc thông báo trực tuyến trên Cổng dịch vụ công quốc gia.
+    - Trong thời hạn 18 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ và phí, lệ phí, UBND cấp tỉnh tổ chức thẩm định hồ sơ và cấp Giấy đăng ký hoạt động dịch vụ dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Đánh giá hoạt độ phóng xạ hoặc văn bản trả lời nêu rõ lý do trong trường hợp không cấp phép
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 7000000 VNĐ (Phí thẩm định để cấp giấy đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.)
+    Mô tả: - Phí thẩm định để cấp giấy đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.
+Trường hợp nộp hồ sơ cấp giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử từ ngày 01/4/2026 đến hết ngày 31/12/2026 trên ứng dụng VNeID được áp dụng mức thu phí bằng 50% mức thu phí theo quy định được nêu ở trên (*).
+
+- Lệ phí cấp giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử: Không.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 7000000 VNĐ (Phí thẩm định để cấp giấy đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.)
+    Mô tả: - Phí thẩm định để cấp giấy đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.
+- Lệ phí cấp giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử: Không.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 7000000 VNĐ (Phí thẩm định để cấp giấy đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.)
+    Mô tả: - Phí thẩm định để cấp giấy đăng ký hoạt động dịch vụ: 7.000.000 đồng/1 dịch vụ.
+- Lệ phí cấp giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử: Không.
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị cấp Giấy đăng ký hoạt động theo Mẫu số 08 Phụ lục VIII ban hành kèm theo Nghị định số 332/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo phân tích an toàn theo Mẫu số 14 Phụ lục IX ban hành kèm theo Nghị định số 332/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Phiếu khai báo trang thiết bị phục vụ hoạt động dịch vụ tương ứng theo Mẫu số 18 Phụ lục VII ban hành kèm theo Nghị định số 332/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Phiếu khai báo nhân viên thực hiện dịch vụ theo Mẫu số 17 Phụ lục VII ban hành kèm theo Nghị định số 332/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công cấp tỉnh
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử theo mẫu
+Căn cứ pháp lý:
+  * Thông tư số 287/2016/TT-BTC ngày 15/11/2016 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực năng lượng nguyên tử (287/2016/TT-BTC)
+  * Luật Năng lượng nguyên tử số 94/2025/QH15 ngày 27 tháng 6 năm 2025. (94/2025/QH15 ngày 27/6/2025)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Trang chủ Nghị định số 332/2025/NĐ-CP của Chính phủ (332/2025/NĐ-CP)
+  * QUY ĐỊNH MỨC THU, MIỄN MỘT SỐ KHOẢN PHÍ, LỆ PHÍ ĐỂ HỖ TRỢ VIỆC KẾT NỐI, KHAI THÁC, SỬ DỤNG DỮ LIỆU VÀ KHUYẾN KHÍCH THỰC HIỆN DỊCH VỤ CÔNG TRÊN ỨNG DỤNG VNEID (29/2026/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: 1. Tổ chức đề nghị cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử phải có ít nhất 02 nhân viên có Chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử tương ứng với loại hình đề nghị cấp Giấy đăng ký.
+2. Có thiết bị xác định đồng vị phóng xạ.
+3. Trường hợp đánh giá hoạt độ trong mẫu phân tích: có mẫu chuẩn, hệ thống xử lý mẫu, thiết bị phân tích mẫu có thông tin đặc tính kỹ thuật phù hợp với đồng vị phóng xạ cần đánh giá.
+4. Có thiết bị đo suất liều bức xạ phù hợp với tính chất vật lý của bức xạ dự kiến thực hiện dịch vụ. Thiết bị đo suất liều bức xạ phải có Giấy chứng nhận hiệu chuẩn còn hiệu lực ít nhất 30 ngày kể từ ngày hồ sơ được tiếp nhận.
+5. Có liều kế cá nhân và trang thiết bị bảo hộ chống chiếu xạ ngoài cho nhân viên thực hiện dịch vụ. Trường hợp hoạt động dịch vụ có tiếp xúc với nguồn phóng xạ hở phải có trang thiết bị bảo hộ chống chiếu xạ trong cho nhân viên thực hiện dịch vụ.
+6. Có chương trình bảo đảm chất lượng thực hiện dịch vụ.
+Từ khóa: Cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử - Hiệu chuẩn thiết bị ghi đo bức xạ;
+Mô tả: 1. Tổ chức đề nghị cấp Giấy đăng ký hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử phải có ít nhất 02 nhân viên có Chứng chỉ hành nghề dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử tương ứng với loại hình đề nghị cấp Giấy đăng ký.
+2. Có thiết bị xác định đồng vị phóng xạ.
+3. Trường hợp đánh giá hoạt độ trong mẫu phân tích: có mẫu chuẩn, hệ thống xử lý mẫu, thiết bị phân tích mẫu có thông tin đặc tính kỹ thuật phù hợp với đồng vị phóng xạ cần đánh giá.
+4. Có thiết bị đo suất liều bức xạ phù hợp với tính chất vật lý của bức xạ dự kiến thực hiện dịch vụ. Thiết bị đo suất liều bức xạ phải có Giấy chứng nhận hiệu chuẩn còn hiệu lực ít nhất 30 ngày kể từ ngày hồ sơ được tiếp nhận.
+5. Có liều kế cá nhân và trang thiết bị bảo hộ chống chiếu xạ ngoài cho nhân viên thực hiện dịch vụ. Trường hợp hoạt động dịch vụ có tiếp xúc với nguồn phóng xạ hở phải có trang thiết bị bảo hộ chống chiếu xạ trong cho nhân viên thực hiện dịch vụ.
+6. Có chương trình bảo đảm chất lượng thực hiện dịch vụ.

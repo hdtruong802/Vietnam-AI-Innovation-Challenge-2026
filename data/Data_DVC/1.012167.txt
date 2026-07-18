@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012167
+Số quyết định: 3185/QĐ-BCT
+Tên thủ tục: Sửa đổi, bổ sung thông tin của doanh nghiệp đã được cấp Mã số tân trang
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp tân trang hoặc chủ sở hữu nhãn hiệu (sau đây gọi là doanh nghiệp đề nghị) gửi 01 bộ hồ sơ đề nghị tới Bộ Công Thương.
+    Bước 2: Bộ Công Thương kiểm tra tính hợp lệ, đầy đủ của hồ sơ.
+    Bước 3: Trường hợp hồ sơ đề nghị sửa đổi, bổ sung thông tin chỉ liên quan tới Phụ lục IV Nghị định số 77/2023/NĐ-CP, việc sửa đổi, bổ sung thông tin không gây ảnh hưởng tới năng lực tân trang, chế độ bảo hành và quyền sử dụng nhãn hiệu, trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đúng quy định, Bộ Công Thương ra thông báo bằng văn bản chấp thuận đề nghị sửa đổi, bổ sung thông tin.
+    Trường hợp hồ sơ đề nghị sửa đổi, bổ sung thông tin có liên quan tới Phụ lục I, Phụ lục II, Phụ lục III, Phụ lục V Nghị định số 77/2023/NĐ-CP, trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đúng quy định, Bộ Công Thương gửi hồ sơ để lấy ý kiến bộ quản lý chuyên ngành.
+    Bước 4: Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ từ Bộ Công Thương, bộ quản lý chuyên ngành có văn bản trả lời Bộ Công Thương.
+    Bước 5: Nếu bộ quản lý chuyên ngành kết luận việc sửa đổi, bổ sung thông tin không gây ảnh hưởng tới năng lực tân trang, chế độ bảo hành và quyền sử dụng nhãn hiệu, trong thời hạn 07 ngày làm việc kể từ ngày nhận được văn bản trả lời của bộ quản lý chuyên ngành, Bộ Công Thương ra thông báo bằng văn bản chấp thuận đề nghị sửa đổi, bổ sung thông tin.
+    Trường hợp Bộ Công Thương hoặc bộ quản lý chuyên ngành nhận thấy việc sửa đổi, bổ sung thông tin có khả năng gây ảnh hưởng tới năng lực tân trang, chế độ bảo hành và quyền sử dụng nhãn hiệu của doanh nghiệp đã được cấp Mã số tân trang, trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đúng quy định hoặc kể từ ngày nhận được văn bản trả lời của bộ quản lý chuyên ngành, Bộ Công Thương thông báo bằng văn bản cho doanh nghiệp đã được cấp Mã số tân trang về việc thẩm định lại năng lực.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Đơn đề nghị sửa đổi, bổ sung thông tin theo mẫu tại Phụ lục IX ban hành kèm theo Nghị định số 77/2023/NĐ-CP (01 bản chính).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Hồ sơ gồm:
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Bản sao các tài liệu hỗ trợ cho tài liệu thuyết minh, nếu có (mỗi tài liệu 01 bản sao kèm theo bản dịch tiếng Việt, cả 2 bản được xác thực bởi đại diện có tham quyền của doanh nghiệp).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Tài liệu thuyết minh đề nghị sửa đổi, bổ sung thông tin (01 bản chính bằng tiếng Anh và 01 bản dịch tiếng Việt, cả 2 bản được ký bởi đại diện có thẩm quyền của doanh nghiệp).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Cục Xuất nhập khẩu
+Cơ quan có thẩm quyền: Bộ Công thương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận đề nghị sửa đổi, bổ sung thông tin về Mã số tân trang.
+Căn cứ pháp lý:
+  * Luật quản lý ngoại thương (05/2017/QH14)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

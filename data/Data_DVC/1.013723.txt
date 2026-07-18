@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013723
+Số quyết định: 636/QĐ-BNV
+Tên thủ tục: Kiểm tra nhà nước về chất lượng sản phẩm, hàng hóa nhóm 2 nhập khẩu
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: An toàn, vệ sinh lao động
+Trình tự thực hiện:
+    Bước 1: Tiếp nhận hồ sơ
+    Tổ chức, cá nhân nộp hồ sơ đăng ký kiểm tra nhà nước về chất lượng sản phẩm, hàng hóa nhập khẩu đến:
+    - Ủy ban nhân dân cấp tỉnh đối với sản phẩm, hàng hóa có khả năng gây mất an toàn theo Danh mục tại Phụ lục II ban hành kèm theo Thông tư số 09/2025/TT-BNV ngày 18/6/2025 của Bộ trưởng Bộ Nội vụ quy định về phân định thẩm quyền và phân cấp thực hiện nhiệm vụ quản lý nhà nước trong lĩnh vực nội vụ (sau đây gọi tắt là Thông tư số 09/2025/TT-BNV).
+    - Sở Nội vụ đối với các sản phẩm, hàng hóa có khả năng gây mất an toàn có số thứ tự 10 đến 13 ban hành kèm theo Danh mục ban hành kèm theo Thông tư số 01/2021/TT-BLĐTBXH ngày 03 tháng 6 năm 2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định Danh mục sản phẩm, hàng hóa có khả năng gây mất an toàn thuộc trách nhiệm quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội.
+    Bước 2: Xử lý hồ sơ
+    - Cơ quan kiểm tra tiếp nhận hồ sơ đăng ký kiểm tra chất lượng hàng hóa nhập khẩu.
+    - Trong thời hạn 01 ngày làm việc, cơ quan kiểm tra xác nhận người nhập khẩu đã đăng ký kiểm tra chất lượng hàng hóa nhập khẩu trên bản đăng ký của người nhập khẩu. Người nhập khẩu nộp bản đăng ký có xác nhận của cơ quan kiểm tra cho cơ quan hải quan để được phép thông quan hàng hóa;
+    Trong thời hạn 15 ngày làm việc kể từ ngày thông quan hàng hóa, người nhập khẩu phải nộp cho cơ quan kiểm tra bản sao y bản chính (có ký tên và đóng dấu của người nhập khẩu) chứng chỉ chất lượng (Giấy chứng nhận phù hợp quy chuẩn kỹ thuật của tổ chức chứng nhận hoặc Chứng thư giám định phù hợp quy chuẩn kỹ thuật của tổ chức giám định).
+    Trường hợp, hàng hóa đã được tổ chức chứng nhận đánh giá tại nước xuất khẩu, trong thời hạn 03 ngày làm việc kể từ ngày thông quan, người nhập khẩu phải nộp bản sao y bản chính (có ký tên và đóng dấu của người nhập khẩu) Giấy chứng nhận phù hợp quy chuẩn kỹ thuật cho cơ quan kiểm tra. Người nhập khẩu phải hoàn toàn chịu trách nhiệm và bảo đảm hàng hóa phù hợp quy chuẩn kỹ thuật, tiêu chuẩn công bố áp dụng. Trường hợp hàng hóa không phù hợp quy chuẩn kỹ thuật, tiêu chuẩn công bố áp dụng, người nhập khẩu phải kịp thời báo cáo cơ quan kiểm tra, đồng thời tổ chức việc xử lý, thu hồi hàng hóa này theo quy định của pháp luật.
+    Bước 3: Trả kết quả
+    Trả kết quả trực tiếp tại trụ sở Cơ quan kiểm tra hoặc theo đường bưu điện hoặc trên Cổng thông tin một cửa quốc gia theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Xác nhận người nhập khẩu đã đăng ký kiểm tra chất lượng hàng hóa nhập khẩu: Trong thời hạn 01 ngày làm việc kể từ ngày nhận hồ sơ đăng ký kiểm tra chất lượng hàng hóa nhập khẩu. Tổ chức, cá nhân nhập khẩu nộp hồ sơ trực tiếp tại trụ sở Ủy ban nhân dân cấp tỉnh hoặc gửi qua đường bưu điện đến cơ quan kiểm tra hoặc trên Cổng thông tin một cửa quốc gia theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Xác nhận người nhập khẩu đã đăng ký kiểm tra chất lượng hàng hóa nhập khẩu: Trong thời hạn 01 ngày làm việc kể từ ngày nhận hồ sơ đăng ký kiểm tra chất lượng hàng hóa nhập khẩu. Tổ chức, cá nhân nhập khẩu nộp hồ sơ trực tiếp tại trụ sở Ủy ban nhân dân cấp tỉnh hoặc gửi qua đường bưu điện đến cơ quan kiểm tra hoặc trên Cổng thông tin một cửa quốc gia theo quy định.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Xác nhận người nhập khẩu đã đăng ký kiểm tra chất lượng hàng hóa nhập khẩu: Trong thời hạn 01 ngày làm việc kể từ ngày nhận hồ sơ đăng ký kiểm tra chất lượng hàng hóa nhập khẩu. Tổ chức, cá nhân nhập khẩu nộp hồ sơ trực tiếp tại trụ sở Ủy ban nhân dân cấp tỉnh hoặc gửi qua đường bưu điện đến cơ quan kiểm tra hoặc trên Cổng thông tin một cửa quốc gia theo quy định.
+
+Thành phần hồ sơ:
+    - - Bản sao Hợp đồng, Danh mục hàng hóa (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao (có xác nhận của người nhập khẩu) vận đơn, hóa đơn, tờ khai hàng hóa nhập khẩu (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Người nhập khẩu hoàn toàn chịu trách nhiệm trước pháp luật về chất lượng hàng hóa do mình nhập khẩu (Theo quy định tại khoản 1 Điều 4 Nghị định số 154/2018/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Chứng chỉ chất lượng của nước xuất khẩu (giấy chứng nhận chất lượng, kết quả thử nghiệm) (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Chứng nhận lưu hành tự do CFS (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đăng ký kiểm tra nhà nước về chất lượng hàng hóa nhập khẩu và cam kết chất lượng hàng hóa phù hợp với quy chuẩn kỹ thuật, tiêu chuẩn công bố áp dụng theo quy định tại Mẫu số 01 Phụ lục III ban hành kèm theo Nghị định số 154/2018/NĐ-CP tại cơ quan kiểm tra chất lượng sản phẩm, hàng hóa (sau đây viết tắt là cơ quan kiểm tra) và kèm theo các tài liệu sau:
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy chứng nhận xuất xứ (nếu có), ảnh hoặc bản mô tả hàng hóa có các nội dung bắt buộc phải thể hiện trên nhãn hàng hóa và nhãn phụ (nếu nhãn chính chưa đủ nội dung theo quy định) (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Ủy ban nhân dân cấp tỉnh.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận người nhập khẩu đã đăng ký kiểm tra chất lượng hàng hóa nhập khẩu trên bản đăng ký của người nhập khẩu.
+Căn cứ pháp lý:
+  * Quy định về phân định thẩm quyền và phân cấp thực hiện nhiệm vụ quản lý nhà nước trong lĩnh vực nội vụ (09/2025/TT-BNV)
+  * Nghị định Quy định chi tiết thi hành một số điều của Luật chất lượng sản phẩm, hàng hóa (132/2008/NĐ-CP)
+  * Sửa đổi, bổ sung, bãi bỏ một số quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ và một số quy định về kiểm tra chuyên ngành (154/2018/NĐ-CP)
+  * Nghị định sửa đổi, bổ sung một số điều của Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều Luật chất lượng sản phẩm, hàng hóa (74/2018/NĐ-CP)
+  * Luật Chất lượng sản phẩm, hàng hoá (05/2007/QH12)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

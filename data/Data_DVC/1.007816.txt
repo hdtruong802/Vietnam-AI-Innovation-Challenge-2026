@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007816
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục thành lập địa điểm kiểm tra là chân công trình hoặc kho của công trình, nơi sản xuất
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1. Doanh nghiệp gửi văn bản đề nghị công nhận, kèm hồ sơ thiết kế khu vực kiểm tra hàng hóa gửi Cục Hải quan tỉnh, thành phố nơi có công trình, cơ sở sản xuất, nhà máy.
+    Bước 2. Trên co sở bộ hồ sơ của doanh nghiệp, Cục Hải quan tỉnh, thành phố thực hiện: kiểm tra hồ sơ, khảo sát thực tế kho, bãi và ra quyết định thành lập, trường hợp địa điểm đề nghị công nhận không đáp ứng yêu cầu kiểm tra hải quan thì có văn bản trả lời doanh nghiệp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị công nhận: 01 bản chính.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Sơ đồ thiết kế khu vực kiểm tra hàng hóa: 01 bản chụp
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp
+Cơ quan thực hiện: Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận địa điểm
+Căn cứ pháp lý:
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012948
+Số quyết định: 780/QĐ-BNV
+Tên thủ tục: THỦ TỤC CHO PHÉP HỘI HOẠT ĐỘNG TRỞ LẠI SAU KHI BỊ ĐÌNH CHỈ CÓ THỜI HẠN (CẤP TỈNH)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý nhà nước về hội, quỹ
+Trình tự thực hiện:
+    - Bước 1: Ban chấp hành hội bị đình chỉ hoạt động có thời hạn gửi hồ sơ đề nghị được hoạt động trở lại đến đến Ủy ban nhân dân cấp tỉnh (Sở Nội vụ).
+    - Bước 2: Cán bộ tiếp nhận hồ sơ xem xét hồ sơ và đề nghị bổ sung trong trường hợp hồ sơ chưa đầy đủ và hợp pháp. Trường hợp từ chối tiếp nhận, giải quyết hồ sơ phải nêu rõ lý do.
+    - Bước 3: Kể từ ngày nhận hồ sơ đầy đủ và hợp pháp, Sở Nội vụ nghiên cứu, thẩm định hồ sơ và thực hiện quy trình lấy ý kiến các cơ quan có liên quan, tổng hợp các ý kiến góp ý, đề nghị bổ sung hồ sơ (nếu có).
+    - Bước 4: Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép hội hoạt động trở lại. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh (Sở Nội vụ); qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh (Sở Nội vụ); qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại Ủy ban nhân dân cấp tỉnh (Sở Nội vụ); qua dịch vụ bưu chính công ích hoặc qua Cổng Dịch vụ công trực tuyến. Hồ sơ phải có xác nhận văn bản đến của cơ quan có thẩm quyền. Nếu gửi qua dịch vụ bưu chính công ích, ngày tiếp nhận hồ sơ được tính theo ngày ghi trên dấu công văn đến.
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị được hoạt động trở lại của hội;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo của ban chấp hành hội và các tài liệu chứng minh hội đã khắc phục sai phạm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Hợp tác xã
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cho phép hội hoạt động trở lại.
+Căn cứ pháp lý:
+  * Nghị định số 126/2024/NĐ-CP của Chính phủ: Quy định về tổ chức, hoạt động và quản lý hội (126/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Hội đã khắc phục hậu quả các vi phạm đã được cơ quan có thẩm quyền kết luận.
+Từ khóa: Không có thông tin
+Mô tả: Hội đã khắc phục hậu quả các vi phạm đã được cơ quan có thẩm quyền kết luận.

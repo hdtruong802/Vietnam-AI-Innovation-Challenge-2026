@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014963
+Số quyết định: 1305/QĐ-BQP
+Tên thủ tục: Thủ tục nhập cảnh, xuất cảnh, chuyển cảng đối với tàu quân sự nước ngoài đến cảng biển Việt Nam
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý biên giới
+Trình tự thực hiện:
+    Bước 1:
+    Trường hợp 1: Ngay sau khi tàu quân sự nước ngoài đến khu vực, vùng đón, trả hoa tiêu, các Cơ quan quản lý nhà nước chuyên ngành tại cảng (Biên phòng cửa khẩu cảng, Cảng vụ hàng hải, Hải quan cửa khẩu cảng, Kiểm dịch y tế quốc tế, kiểm dịch động, thực vật - nếu tàu phải kiểm dịch động vật, thực vật) lên tàu thực hiện thủ tục nhập cảnh, chuyển cảng đến.
+    Trường hợp 2: Trước khi tàu quân sự nước ngoài rời cảng, các Cơ quan quản lý nhà nước chuyên ngành tại cảng (Biên phòng cửa khẩu cảng, Cảng vụ hàng hải, Hải quan cửa khẩu cảng) lên tàu thực hiện thủ tục xuất cảnh, chuyển cảng đi.
+    Bước 2: Người làm thủ tục nộp, xuất trình các loại giấy tờ theo quy định cho các Cơ quan quản lý nhà nước chuyên ngành tại cảng.
+    Bước 3: Các Cơ quan quản lý nhà nước chuyên ngành tại cảng kiểm tra, đăng ký, kiểm chứng nhập cảnh, xuất cảnh hoặc xác nhận nhập cảnh, xuất cảnh, chuyển cảng cho tàu, thành viên trên tàu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Đối với tàu quân sự nước ngoài nhập cảnh, chuyển cảng đến: Trước khi tàu cập cảng hoặc vào vị trí neo đậu an toàn tại cảng: Trực tiếp tại tàu
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Đối với tàu quân sự nước ngoài xuất cảnh, chuyển cảng đi: Trước khi tàu rời cảng.
+
+Thành phần hồ sơ:
+  [ Thành phần hồ sơ đối với tàu quân sự nước ngoài nhập cảnh ]
+    - * Các loại Giấy tờ phải nộp: - Bản khai chung (bản chính). - Danh sách thuyền viên (bản chính). - Bản kê khai hàng hoá (nếu có hàng hoá từ tàu lên bờ - bản chính). - Giấy khai báo y tế hàng hải (bản chính). - Giấy khai báo y tế mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người (nếu có - bản chính). - Giấy khai báo y tế, thi thể, hài cốt, tro cốt (nếu có - bản chính). - Bản khai kiểm dịch thực vật (nếu tàu phải kiểm dịch thực vật - bản chính). - Bản khai kiểm dịch động vật (nếu tàu phải kiểm dịch động vật - bản chính). - Chương trình hoạt động của tàu (bản sao).
+      Số lượng: Bản chính: 6, Bản sao: 6
+    - * Các loại giấy tờ phải xuất trình: Hộ chiếu hoặc giấy tờ có giá trị thay hộ chiếu hoặc Thẻ quân nhân hoặc Giấy chứng minh quân nhân của các thành viên trên tàu (bản chính).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Thành phần hồ sơ đối với tàu quân sự nước ngoài xuất cảnh ]
+    - Các loại giấy tờ phải nộp: - Bản khai chung (bản chính). - Danh sách thuyền viên (nếu có thay đổi so với lúc nhập cảnh - bản chính); - Bản kê khai hàng hoá (nếu có hàng hoá từ bờ lên tàu - bản chính). - Giấy khai báo y tế mẫu vi sinh y học, sản phẩm sinh học, mô, bộ phận cơ thể người (nếu có - bản chính). - Giấy khai báo y tế, thi thể, hài cốt, tro cốt (nếu có - bản chính).
+      Số lượng: Bản chính: 4, Bản sao: 0
+    - Giấy tờ phải xuất trình: Hộ chiếu hoặc giấy tờ có giá trị thay hộ chiếu hoặc Thẻ quân nhân hoặc Giấy chứng minh quân nhân của các thành viên trên tàu (bản chính).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Thành phần hồ sơ đối với tàu quân sự nước ngoài chuyển cảng đi ]
+    - Các loại giấy tờ phải nộp: - Bản khai chung (bản chính); - Danh sách thuyền viên (nếu có thay đổi so với lúc nhập cảnh - bản chính); - Giấy phép đi bờ của thuyền viên nước ngoài (nếu có); - Giấy phép - Permit (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Thành phần hồ sơ đối với tàu quân sự nước ngoài chuyển cảng đến ]
+    - Các loại giấy tờ phải nộp: - Bản khai chung (bản chính); - Danh sách thuyền viên (nếu có thay đổi so với lúc nhập cảnh - bản chính); - Hồ sơ tàu chuyển cảng của Biên phòng cửa khẩu cảng đi; - Giấy phép rời cảng của Cảng vụ hàng hải cảng đi; - Hồ sơ tàu chuyển cảng của Hải quan cửa khẩu cảng đi.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Đội Thủ tục Biên phòng cửa khẩu cảng
+Cơ quan có thẩm quyền: Biên phòng cửa khẩu cảng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Đóng dấu Kiểm chứng nhập cảnh hoặc xác nhận nhập cảnh, xuất cảnh, chuyển cảng
+Căn cứ pháp lý:
+  * Nghị định quy định đối với tàu quân sự nước ngoài đến nước Cộng hòa xã hội chủ nghĩa Việt Nam và tàu quân sự nước Cộng hòa xã hội chủ nghĩa Việt Nam đi nước ngoài (234/2025/NĐ-CP ngày 27/8/2025 của Chính phủ)
+  * Quy định về trình tự, thủ tục cấp phép cho tàu quân sự nước ngoài đến Việt Nam và tàu quân sự Việt Nam đi nước ngoài; thủ tục nhập cảnh, xuất cảnh, chuyển cảng đối với tàu quân sự nước ngoài đến Việt Nam; nội dung và phạm vi bảo vệ của doanh nghiệp bảo vệ được thuê bảo vệ tàu quân sự nước ngoài đến Việt Nam để sửa chữa (15/2026/TT-BQP ngày 12/02/2026 của Bộ trưởng Bộ quốc phòng)
+  * Nghị định quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải (58/2017/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

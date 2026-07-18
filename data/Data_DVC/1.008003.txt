@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008003
+Số quyết định: 278/QĐ-BNNMT
+Tên thủ tục: Cấp Quyết định, phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng, cây công nghiệp, cây ăn quả lâu năm nhân giống bằng phương pháp vô tính
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trồng trọt
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân nộp 01 bộ hồ sơ đến Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính (nơi có cây đầu dòng, vườn cây đầu dòng) bằng hình thức trực tiếp hoặc qua môi trường mạng hoặc qua dịch vụ bưu chính.
+    Bước 2: Trả lời tính đầy đủ của thành phần hồ sơ
+    Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp; trả lời bằng văn bản tính đầy đủ của hồ sơ trong 01 ngày làm việc đối với trường hợp nộp hồ sơ qua môi trường mạng hoặc qua dịch vụ bưu chính.
+    Bước 3:
+    * Cấp Quyết định công nhận cây đầu dòng, vườn cây đầu dòng
+    Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính ban hành Quyết định thành lập Hội đồng thẩm định cây đầu dòng, vườn cây đầu dòng. Hội đồng có tối thiểu 05 thành viên là đại diện các nhà khoa học, cơ quan quản lý và cơ quan chuyên môn liên quan. Trong thời hạn 05 ngày làm việc, kể từ ngày thành lập, Hội đồng có trách nhiệm thẩm định hồ sơ, kiểm tra cây đầu dòng, vườn cây đầu dòng tại địa điểm có cây đầu dòng, vườn cây đầu dòng.
+    Trường hợp cây đầu dòng, vườn cây đầu dòng đáp ứng đủ điều kiện, trong thời hạn 05 ngày làm việc việc kể từ ngày kết thúc thẩm định, cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng theo Mẫu số 23, Mẫu số 24 Phụ lục II ban hành kèm theo Thông tư số 07/2026/TT-BNNMT; trường hợp không cấp, trả lời bằng văn bản và nêu rõ lý do.
+    * Phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng
+    Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản, Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính tổ chức thẩm định. Trường hợp cây đầu dòng, vườn cây đầu dòng đáp ứng tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở, cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định ban hành Quyết định phục hồi Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng; trường hợp không cấp, trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Cấp Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: Thời hạn 20 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+- Phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: Thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản báo cáo cây đầu dòng, vườn cây đâu dòng đáp ứng tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Cấp Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: Thời hạn 20 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+- Phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: Thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản báo cáo cây đầu dòng, vườn cây đâu dòng đáp ứng tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Cấp Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: Thời hạn 20 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+- Phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: Thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản báo cáo cây đầu dòng, vườn cây đâu dòng đáp ứng tiêu chuẩn quốc gia hoặc tiêu chuẩn cơ sở.
+
+Thành phần hồ sơ:
+  [ a) Hồ sơ Cấp Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: ]
+    - Văn bản đề nghị cấp Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng theo Mẫu số 20 Phụ lục II ban hành kèm theo Thông tư số 07/2026/TT-BNNMT
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo kết quả bình tuyển cây đầu dòng theo Mẫu số 21 Phụ lục II ban hành kèm theo Thông tư số 07/2026/TT-BNNMT
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - báo cáo kết quả thiết lập vườn cây đầu dòng theo Mẫu số 22 Phụ lục II ban hành kèm theo Thông tư số 07/2026/TT-BNNMT
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b) Hồ sơ phục hồi Quyết định công nhận cây đầu dòng, vườn cây đầu dòng: ]
+    - Văn bản đề nghị cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính phục hồi Quyết định công nhận cây đầu dòng, Quyết định công nhận vườn cây đầu dòng
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Quyết định công nhận cây đầu dòng theo Mẫu số 23 Phụ lục II ban hành kèm theo Thông tư số  07/2026/TT-BNNMT, -Quyết định công nhận cây đầu dòng theo Mẫu số 24 Phụ lục II ban hành kèm theo Thông tư số  07/2026/TT-BNNMT
+Căn cứ pháp lý:
+  * sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực trồng trọt và bảo vệ thực vật (Nghị định số 33/2026/NĐ-CP)
+  * Luật sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường (Luật số 146/2025/QH15)
+  * quy định chi tiết một số điều của Luật Bảo vệ và kiểm dịch thực vật, Luật Trồng trọt và sửa đổi, bổ sung một số điều của các thông tư trong lĩnh vực trồng trọt và bảo vệ thực vật (số 07/2026/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

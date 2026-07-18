@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008951
+Số quyết định: 1755/QĐ-BGDĐT
+Tên thủ tục: Hỗ trợ đối với giáo viên mầm non làm việc tại cơ sở giáo dục mầm non dân lập, tư thục ở địa bàn có khu công nghiệp
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân
+Trình tự thực hiện:
+    Tháng 8 hằng năm, người đại diện theo pháp luật của cơ sở giáo dục mầm non dân lập, tư thục gửi 01 bộ hồ sơ theo quy định, trực tiếp hoặc qua bưu điện hoặc trực tuyến đến Ủy ban nhân dân xã.
+    Trong vòng 10 ngày làm việc, kể từ khi nhận được hồ sơ của cơ sở giáo dục mầm non, phòng có chức năng quản lý giáo dục của Ủy ban nhân dân cấp xã tổ chức thẩm định hồ sơ, tổng hợp danh sách giáo viên được hưởng chính sách gửi cơ quan tài chính cùng cấp thẩm định, báo cáo cơ quan có thẩm quyền phê duyệt theo quy định của Luật Ngân sách nhà nước.
+    Trong vòng 07 ngày làm việc, kể từ khi nhận được hồ sơ của phòng có chức năng quản lý giáo dục, Ủy ban nhân dân cấp xã phê duyệt danh sách giáo viên được hưởng chính sách và thông báo kết quả cho cơ sở giáo dục mầm non.
+    Sau khi được cấp có thẩm quyền phê duyệt, cơ sở giáo dục mầm non thông báo công khai danh sách giáo viên được hưởng chính sách
+    Phương thức thực hiện
+    Cơ sở giáo dục mầm non chịu trách nhiệm tiếp nhận kinh phí và chi trả kinh phí hỗ trợ trực tiếp bằng tiền mặt hoặc chuyển khoản cho giáo viên;
+    Thời gian chi trả thực hiện 2 lần trong năm học: lần 1 chi trả vào tháng 12 hằng năm; lần 2 chi trả đủ các tháng còn lại vào tháng 5 hằng năm;
+    Trường hợp giáo viên chưa nhận được kinh phí hỗ trợ theo thời hạn quy định thì được truy lĩnh trong kỳ chi trả tiếp theo;
+    Trường hợp giáo viên nghỉ việc, cơ sở giáo dục mầm non có trách nhiệm báo cáo phòng có chức năng quản lý giáo dục, phòng có chức năng quản lý giáo dục trình Ủy ban nhân dân cấp xã dừng thực hiện chi trả chính sách.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 17 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Tối đa 17 ngày làm việc kể từ ngày nhận được hồ sơ của cơ sở giáo dục mầm non dân lập, tư thục
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 17 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Tối đa 17 ngày làm việc kể từ ngày nhận được hồ sơ của cơ sở giáo dục mầm non dân lập, tư thục
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 17 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Tối đa 17 ngày làm việc kể từ ngày nhận được hồ sơ của cơ sở giáo dục mầm non dân lập, tư thục
+
+Thành phần hồ sơ:
+    - Danh sách giáo viên được hưởng chính sách (Mẫu số 05 quy định tại Phụ lục kèm theo Nghị định 105/2020/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực Hợp đồng lao động của giáo viên được hưởng chính sách
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cơ sở giáo dục
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Danh sách giáo viên được hưởng chính sách
+Căn cứ pháp lý:
+  * Nghị định số 142/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương hai cấp trong lĩnh vực quản lý nhà nước của Bộ Giáo dục và Đào tạo (Nghị định số 142/2025/NĐ-CP)
+  * Nghị định 105/2020/NĐ-CP (105/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Đối tượng hưởng chính sách: Giáo viên mầm non đang làm việc tại cơ sở giáo dục mầm non thuộc loại hình dân lập, tư thục đã được cơ quan có thẩm quyền cấp phép thành lập và hoạt động theo quy định ở địa bàn có khu công nghiệp bảo đảm những điều kiện sau:
+- Có trình độ chuẩn đào tạo chức danh giáo viên mầm non theo quy định;
+- Có hợp đồng lao động với người đại diện theo pháp luật của cơ sở giáo dục mầm non dân lập, tư thục;
+- Trực tiếp chăm sóc, giáo dục trẻ tại nhóm trẻ/lớp mẫu giáo có từ 30% trẻ em là con công nhân, người lao động làm việc tại khu công nghiệp.
+Từ khóa: Không có thông tin
+Mô tả: Đối tượng hưởng chính sách: Giáo viên mầm non đang làm việc tại cơ sở giáo dục mầm non thuộc loại hình dân lập, tư thục đã được cơ quan có thẩm quyền cấp phép thành lập và hoạt động theo quy định ở địa bàn có khu công nghiệp bảo đảm những điều kiện sau:
+- Có trình độ chuẩn đào tạo chức danh giáo viên mầm non theo quy định;
+- Có hợp đồng lao động với người đại diện theo pháp luật của cơ sở giáo dục mầm non dân lập, tư thục;
+- Trực tiếp chăm sóc, giáo dục trẻ tại nhóm trẻ/lớp mẫu giáo có từ 30% trẻ em là con công nhân, người lao động làm việc tại khu công nghiệp.

@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014030
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Thủ tục kê khai và nộp thuế đã khấu trừ đối với các tổ chức quản lý nền tảng thương mại điện tử của hộ, cá nhân có hoạt động kinh doanh trên nền tảng thương mại điện tử
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+  * Đăng ký thuế:
+    +) Các tổ chức quản lý nền tảng thương mại điện tử ở trong nước được hệ thống của cơ quan thuế cấp mã số thuế riêng (mã số thuế 10 chữ số) để kê khai và nộp thay số thuế đã khấu trừ và không phải nộp hồ sơ đăng ký thuế.
+    +) Các tổ chức quản lý nền tảng thương mại điện tử ở nước ngoài được cấp mã số thuế 10 chữ số để thực hiện nghĩa vụ thuế phát sinh tại Việt Nam (nếu có) như quy định đối với nhà cung cấp ở nước ngoài tại Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ trưởng Bộ Tài chính và được sử dụng mã số thuế này để kê khai và nộp số thuế đã khấu trừ của hộ, cá nhân cư trú kinh doanh trên nền tảng thương mại điện tử ở nước ngoài.
+  * Khấu trừ thuế, Khai thuế:
+    Các tổ chức quản lý nền tảng thương mại điện tử thực hiện khấu trừ, nộp hồ sơ khai thuế tại cơ quan thuế trực tiếp quản lý tổ chức khấu trừ đó bằng phương thức điện tử trên Cổng thông tin điện tử của ngành Thuế (thuedientu.gdt.gov.vn)
+    Thời điểm thực hiện khấu trừ: tổ chức quản lý nền tảng thương mại điện tử thực hiện khấu trừ số thuế giá trị gia tăng, số thuế thu nhập cá nhân phải nộp đối với mỗi giao dịch cung cấp hàng hóa, dịch vụ phát sinh doanh thu trên nền tảng thương mại điện tử thuộc phạm vi quản lý ngay khi xác nhận đơn hàng thành công và chấp nhận thanh toán đối với giao dịch bán hàng hóa, dịch vụ trên nền tảng thương mại điện tử cho hộ, cá nhân kinh doanh.
+    Tổ chức chức quản lý nền tảng thương mại điện tử khấu trừ thực hiện nộp hồ sơ khai thuế theo tháng chậm nhất là ngày thứ 20 của tháng tiếp theo tháng phát sinh nghĩa vụ thuế.
+  * Nộp thuế:
+    Các tổ chức quản lý nền tảng thương mại điện tử thực hiện nộp thuế thay theo quy định tại Luật quản lý thuế.
+    +) Đối với tổ chức quản lý nền tảng thương mại điện tử ở trong nước: Nộp qua Cổng thông tin tiếp nhận và xử lý thủ tục hành chính của Cục Thuế/ Nộp qua Cổng dịch vụ Công quốc gia/ Nộp qua dịch vụ thanh toán của NHTM, chi nhánh ngân hàng nước ngoài. Ngay sau khi nộp thành công số tiền thuế đã khấu trừ của hộ, cá nhân kinh doanh vào NSNN, tổ chức khấu trừ lập Bảng kê chi tiết số tiền nộp thuế của tổ chức quản lý nền tảng thương mại điện tử theo mẫu số 01/BKNT-TMĐT trên ứng dụng hỗ trợ kê khai (HTKK) và gửi cho cơ quan thuế.
+    +) Đối với tổ chức quản lý nền tảng thương mại điện tử ở nước ngoài: Hệ thống của Cơ quan thuế Việt Nam gửi email, thực hiện chuyển tiền chính xác theo đúng nội dung đã được thông báo trong email đến số tài khoản của Sở giao dịch Kho bạc Nhà nước.
+    Thời hạn nộp thuế chậm nhất là ngày cuối cùng của thời hạn nộp hồ sơ khai thuế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ - Hồ sơ khai thuế: ]
+    - Bảng kê chi tiết số tiền nộp thuế của tổ chức quản lý nền tảng thương mại điện tử theo mẫu số 01/BKNT-TMĐT
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai khấu trừ thuế đối với hộ, cá nhân có hoạt động kinh doanh trên nền tảng thương mại điện tử theo mẫu số 01/CNKD-TMĐT
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Nộp thuế ]
+    - Bảng kê chi tiết số tiền nộp thuế của tổ chức quản lý nền tảng thương mại điện tử theo mẫu số 01/BKNT-TMĐT
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Thuế tỉnh, thành phố, Chi cục Thuế Thương mại điện tử - Cục Thuế, Thuế cơ sở
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cổng thông tin điện tử xử lý chứng từ nộp tiền và trả Thông báo liên quan tại Hệ thống Thuế điện tử Etax/Cổng dịch vụ công quốc gia/Cổng thanh toán điện tử của Ngân hàng, Cổng thông tin điện tử của Cục Thuế gửi phản hồi tự động về việc tiếp nhận và xử lý hồ sơ khai thuế theo quy định
+Căn cứ pháp lý:
+  * Quy định quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử, nền tảng số của hộ, cá nhân (Nghị định số 117/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

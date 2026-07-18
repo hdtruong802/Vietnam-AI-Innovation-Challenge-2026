@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000005
+Số quyết định: 2628/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với khí, nguyên liệu xuất khẩu, nhập khẩu bằng đường ống chuyên dụng
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp gửi hồ sơ đề nghị làm thủ tục hải quan đối với khí, nguyên liệu xuất khẩu, nhập khẩu bằng đường ống chuyên dụng
+    Bước 2: Khi nhận được văn bản thông báo về cung cấp khí, nguyên liệu, Bản đồ đường ống ngầm cung cấp khí, nguyên liệu, Biên bản thỏa thuận giữa Thương nhân xuất khẩu và các Thương nhân nhập khẩu, Chi cục Hải quan quản lý có trách nhiệm bố trí cán bộ giám sát và ký xác nhận chỉ số đồng hồ tại thời Điểm xác nhận theo Biên bản. Trường hợp không thể thực hiện được phải thông báo với các Thương nhân và nêu rõ lý do; thống nhất phương án thay đổi thời Điểm xác nhận.
+    Bước 3: Doanh nghiệp thực hiện nộp thuế và các khoản phí theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20000 VNĐ (Theo khoản 1 Điều 3 Thông tư số 172/2010/TT-BTC ngày 02/11/2010 của Bộ Tài chính hướng dẫn mức mức thu, chế độ thu, nộp, quản lý và sử dụng lệ phí trong lĩnh vực hải quan)
+
+Thành phần hồ sơ:
+  [ 1. Chứng từ phải nộp ]
+    - a) Tờ khai hàng hóa nhập khẩu theo các chỉ tiêu thông tin tại Phụ lục II ban hành kèm theo Thông tư số 38/2015/TT-BTC.  Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại Khoản 2 Điều 25 Nghị định số 08/2015/NĐ-CP, người khai hải quan khai và nộp 02 bản chính tờ khai hàng hóa nhập khẩu theo mẫu HQ/2015/NK Phụ lục IV ban hành kèm theo Thông tư số 38/2015/TT-BTC;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Giấy đăng ký giám định lượng; Giấy đăng ký kiểm tra nhà nước về chất lượng đối với xăng dầu, hóa chất, khí thuộc Danh Mục hàng hóa nhập khẩu phải kiểm tra nhà nước về chất lượng: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - b) Hóa đơn thương mại: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - c) Vận tải đơn hoặc chứng từ vận tải khác có giá trị khác tương đương đối với trường hợp hàng hóa vận chuyển bằng đường biển theo quy định của pháp luật (trừ xăng dầu, khí tái xuất, xuất khẩu cho doanh nghiệp quy định tại Điểm b Khoản 4 Điều 35 Nghị định số 83/2014/NĐ-CP, đối tượng quy định tại Khoản 3, Điều 19, Khoản 2 Điều 35 Nghị định số 19/2016/NĐ-CP): 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - e) Trường hợp một lô hàng phải khai trên nhiều tờ khai hoặc hàng hóa nhập khẩu thuộc nhiều loại hình, có chung vận tải đơn, Hóa đơn, khai trên nhiều tờ khai theo từng loại hình hàng hóa nhập khẩu tại một Chi cục Hải quan thì người khai hải quan chỉ phải nộp 01 bộ hồ sơ hải quan (trong trường hợp nộp hồ sơ giấy cho cơ quan hải quan); các tờ khai sau ghi rõ “chung chứng từ với tờ khai số... ngày...” vào ô “Phần ghi chú”.  Đối với các trường hợp quy định tại Khoản 2, Khoản 3, Khoản 4 Điều 18 Thông tư số 38/2015/TT-BTC, người khai hải quan chỉ phải nộp, xuất trình, lưu một bộ hồ sơ hải quan của các tờ khai hải quan thuộc cùng một lô hàng;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - g) Trường hợp Thương nhân làm thủ tục lần đầu tại Chi cục Hải quan thì nộp thêm các giấy tờ sau (trừ trường hợp cung ứng (tái xuất), xuất khẩu xăng dầu, khí cho đối tượng quy định tại Điểm b Khoản 4, Khoản 5 Điều 35 Nghị định số 83/2014/NĐ-CP, Khoản 3, Điều 19, Khoản 2 Điều 35 Nghị định số 19/2016/NĐ-CP):  g.1) Giấy phép kinh doanh xuất khẩu, nhập khẩu xăng dầu: 01 bản chụp;  g.2) Giấy chứng nhận đủ Điều kiện xuất khẩu, nhập khẩu khí hoặc văn bản có giá trị tương đương: 01 bản chụp;  g.3) Bản hạn mức nhập khẩu xăng dầu tối thiểu do Bộ Công Thương cấp: 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - đ) Hợp đồng mua hàng hóa nhập khẩu (đối với hàng hóa kinh doanh tạm nhập tái xuất): 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - h) Giấy phép nhập khẩu đối với hàng hóa phải có giấy phép nhập khẩu: 01 bản chính;  Trường hợp áp dụng cơ chế một cửa quốc gia, cơ quan quản lý nhà nước chuyên ngành gửi các chứng từ quy định tại Điểm đ, Điểm g, Điểm h Khoản 1 Điều 7 Thông tư số 69/2016/TT-BTC dưới dạng điện từ thông qua Cổng thông tin một cửa quốc gia, người khai hải quan không phải nộp khi làm thủ tục hải quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 2. Hồ sơ hải quan đối với xuất khẩu xăng dầu, hóa chất, khí: ]
+    - d) Chứng thư giám định lượng (đối với trường hợp quy định tại Điểm a Khoản 4 Điều 4 Thông tư này): 01 bản chụp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - e) Văn bản nêu rõ nguồn gốc xăng dầu, khí xuất khẩu (nguồn do Thương nhân nhập khẩu hoặc mua của Thương nhân đầu mối nhập khẩu hoặc lấy từ nguồn sản xuất, pha chế xăng dầu, khí): 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - h) Giấy phép xuất khẩu đối với hàng hóa phải có giấy phép nhập khẩu: 01 bản chính;  Trường hợp áp dụng cơ chế một cửa quốc gia, cơ quan quản lý nhà nước chuyên ngành gửi các chứng từ quy định tại Điểm b, Điểm c, Điểm g, Điểm h Khoản 1 Điều 12 Thông tư số 69/2016/TT-BTC dưới dạng điện tử thông qua Cổng thông tin một cửa quốc gia, người khai hải quan không phải nộp khi làm thủ tục hải quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - g) Văn bản xác nhận của Bộ Công Thương về đăng ký kế hoạch sản xuất, nhập khẩu nguyên liệu và tiêu thụ sản phẩm xăng dầu: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - c) Giấy chứng nhận đủ Điều kiện xuất khẩu, nhập khẩu khí hoặc văn bản có giá trị tương đương: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - b) Giấy phép kinh doanh xuất khẩu, nhập khẩu xăng dầu: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - a) Tờ khai hàng hóa xuất khẩu theo các chỉ tiêu thông tin tại Phụ lục II ban hành kèm theo Thông tư số 38/2015/TT-BTC.  Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại Khoản 2 Điều 25 Nghị định số 08/2015/NĐ-CP, người khai hải quan khai và nộp 02 bản chính tờ khai hàng hóa xuất khẩu theo mẫu HQ/2015/XK Phụ lục IV ban hành kèm theo Thông tư số 38/2015/TT-BTC;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Hóa đơn thương mại: 01 bản chụp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ 3. Hồ sơ hải quan đối với tái xuất xăng dầu, hóa chất, khí: ]
+    - a) Ngoài các chứng từ phải nộp theo quy định tại các Điểm a, Điểm b, Điểm c, Điểm d, Điểm đ, Điểm h Khoản 1 Điều 12 Thông tư số 69/2016/TT-BTC, Thương nhân nộp bổ sung 01 bản chụp hợp đồng bán hàng, phụ lục hợp đồng (nếu có);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - b) Trường hợp lô hàng tạm nhập được thực hiện trên tờ khai giấy theo mẫu HQ/2015/NK Phụ lục V ban hành kèm theo Thông tư số 38/2015/TT-BTC thì khi làm thủ tục tái xuất, người khai hải quan được thực hiện khai báo trên tờ khai hải quan giấy theo mẫu HQ/2015/NK Phụ lục V ban hành kèm theo Thông tư số 38/2015/TT-BTC;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - c) Khi làm thủ tục tái xuất, thương nhân phải khai báo thông tin về số tờ khai tạm nhập, số thứ tự của dòng hàng trên tờ khai tạm nhập tương ứng với từng dòng hàng tái xuất để Hệ thống theo dõi trừ lùi; Hệ thống tự động thực hiện trừ lùi theo số lượng trên tờ khai tạm nhập tương ứng.  Một tờ khai tạm nhập có thể được sử dụng để làm thủ tục tái xuất nhiều lần; một tờ khai tái xuất hàng hóa chỉ được khai báo theo một tờ khai tạm nhập hàng hóa tương ứng. Chi cục Hải quan nơi đăng ký tờ khai tái xuất kiểm tra thông tin về tờ khai hải quan tạm nhập trên Hệ thống để làm thủ tục tái xuất.  Trường hợp khai hải quan trên tờ khai hải quan giấy thì người khai hải quan phải khai cụ thể số tờ khai tạm nhập nào ô “Chứng từ đi kèm” của tờ khai hàng hóa xuất khẩu theo mẫu HQ/2015/XK Phụ lục IV ban hành kèm Thông tư số 38/2015/TT-BTC.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận thông quan
+Căn cứ pháp lý:
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Luật 78/2006/QH11 (78/2006/QH11)
+  * Thông tư 92/2015/TT-BTC (92/2015/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

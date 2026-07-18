@@ -1,0 +1,102 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011500
+Số quyết định: 1168/QĐ-BTC
+Tên thủ tục: Cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý giá
+Trình tự thực hiện:
+    a) Bước 1: Doanh nghiệp nộp 01 bộ hồ sơ đề nghị cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá theo quy định tại Điểm 1 và Điểm 2 Khoản II Phần D Mục 1 Phụ lục I.3 ban hành kèm theo Nghị quyết số 24/2026/NĐ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng tới Bộ Tài chính qua Bộ phận Một cửa của Bộ Tài chính, bằng một trong các phương thức sau: dịch vụ bưu chính, nộp trực tiếp hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.
+    Trường hợp cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá, doanh nghiệp thẩm định giá phải gửi hồ sơ đến Bộ Tài chính trong thời hạn 07 ngày làm việc kể từ ngày Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá bị mất, rách hoặc thông tin thay đổi so với thông tin trên Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá. Đồng thời, doanh nghiệp nộp phí thẩm định cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá theo quy định của pháp luật về phí, lệ phí.
+    b) Bước 2: Bộ phận một cửa của Bộ Tài chính chuyển hồ sơ cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá tới Cục Quản lý giá - Bộ Tài chính để xử lý theo quy định.
+    c) Bước 3: Trong thời hạn 10 ngày làm việc kể từ ngày tiếp nhận 01 bộ hồ sơ:
+    - Trường hợp hồ sơ đủ điều kiện thì Bộ Tài chính xem xét để cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá theo quy định.
+    - Trường hợp hồ sơ chưa đầy đủ, có nội dung chưa chính xác, Cục Quản lý giá - Bộ Tài chính hướng dẫn doanh nghiệp bổ sung, hoàn thiện hồ sơ bằng văn bản hoặc thông qua dịch vụ công trực tuyến. Doanh nghiệp có trách nhiệm bổ sung, hoàn thiện hồ sơ và gửi đến Bộ Tài chính trong thời hạn 07 ngày làm việc  kể từ ngày được Cục Quản lý giá - Bộ Tài chính hướng dẫn bổ sung, hoàn thiện hồ sơ. Hết thời hạn trên, trường hợp doanh nghiệp chưa bổ sung đầy đủ hồ sơ, Cục Quản lý giá - Bộ Tài chính thông báo đến doanh nghiệp về việc không cấp, cấp lại bằng văn bản hoặc thông qua dịch vụ công trực tuyến.
+    - Trường hợp hồ sơ cho thấy doanh nghiệp không đủ điều kiện cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá, Cục Quản lý giá – Bộ Tài chính có văn bản thông báo lý do không cấp, cấp lại.
+    - Trường hợp doanh nghiệp thẩm định giá đề nghị cấp lại chỉ vì lý do Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá bị mất, rách; trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận 01 bộ hồ sơ theo quy định, Bộ Tài chính cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá cho doanh nghiệp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Cấp lại giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Cấp lại giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Cấp lại giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá.)
+
+Thành phần hồ sơ:
+  [ 2.3.1. Hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá gồm: ]
+    - a) Đơn đề nghị cấp Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá theo Mẫu số 04 Phụ lục I.3 ban hành kèm theo Nghị quyết số 24/2026/NĐ-CP ngày 29/4/2026 của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Bản sao hoặc bản sao điện tử giấy chứng nhận đăng ký doanh nghiệp; bản sao hoặc bản sao điện tử giấy chứng nhận đăng ký chi nhánh trong trường hợp lý do cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá có liên quan đến chi nhánh doanh nghiệp thẩm định giá.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp cơ quan thụ lý hồ sơ khai thác được thông tin trên hệ thống cơ sở dữ liệu đáp ứng việc tra soát thông tin về giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký chi nhánh thì đối tượng thực hiện thủ tục hành chính không cần nộp thành phần hồ sơ này. ]
+    - c) Hồ sơ đăng ký hành nghề theo quy định của ít nhất 05 người có thẻ thẩm định viên về giá đăng ký hành nghề thẩm định giá tại doanh nghiệp; trường hợp doanh nghiệp đề nghị có chi nhánh doanh nghiệp thẩm định giá, mỗi chi nhánh doanh nghiệp thẩm định giá cần có thêm ít nhất hồ sơ đăng ký hành nghề của 03 người có thẻ thẩm định viên về giá;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Danh sách có xác nhận của doanh nghiệp về thành viên góp vốn, cổ đông là người có thẻ thẩm định viên về giá đăng ký hành nghề tại doanh nghiệp, thành viên góp vốn, cổ đông là tổ chức hoặc bản sao điện tử hợp lệ của Danh sách này trong trường hợp không có thông tin về danh sách thành viên góp vốn, danh sách cổ đông tại giấy chứng nhận đăng ký doanh nghiệp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 2.3.2. Hồ sơ đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá gồm: ]
+    - a) Đơn đề nghị cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá theo Mẫu số 04 Phụ lục I.3 ban hành kèm theo Nghị quyết số 24/2026/NĐ-CP ngày 29/4/2026 của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Bản sao hoặc bản sao điện tử giấy chứng nhận đăng ký doanh nghiệp; bản sao hoặc bản sao điện tử giấy chứng nhận đăng ký chi nhánh trong trường hợp lý do cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá có liên quan đến chi nhánh doanh nghiệp thẩm định giá.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp cơ quan thụ lý hồ sơ khai thác được thông tin trên hệ thống cơ sở dữ liệu đáp ứng việc tra soát thông tin về giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký chi nhánh thì đối tượng thực hiện thủ tục hành chính không cần nộp thành phần hồ sơ này. Trường hợp đề nghị cấp lại chỉ vì lý do Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá bị mất, rách thì không yêu cầu nộp thành phần hồ sơ này. ]
+    - c) Danh sách có xác nhận của doanh nghiệp về thành viên góp vốn, cổ đông là người có thẻ thẩm định viên về giá đăng ký hành nghề tại doanh nghiệp, thành viên góp vốn, cổ đông là tổ chức hoặc bản sao điện tử hợp lệ của Danh sách này trong trường hợp không có thông tin về danh sách thành viên góp vốn, danh sách cổ đông tại giấy chứng nhận đăng ký doanh nghiệp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp đề nghị cấp lại chỉ vì lý do Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá bị mất, rách thì không yêu cầu nộp thành phần hồ sơ này. ]
+    - d) Bản gốc Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá đã được cấp trong trường hợp đề nghị cấp lại do thay đổi thông tin doanh nghiệp tại giấy chứng nhận hoặc giấy chứng nhận bị rách; hoặc bản kê khai lý do bị mất giấy chứng nhận và cam kết chịu trách nhiệm về tính chính xác của nội dung đã kê khai hoặc bản sao điện tử hợp lệ của bản kê khai này trong trường hợp đề nghị cấp lại do Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá bị mất;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Bản sao có chứng thực hoặc bản sao điện tử hợp lệ các tài liệu chứng minh cho việc thay đổi thông tin doanh nghiệp tại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá trong trường hợp đề nghị cấp lại do thay đổi thông tin doanh nghiệp tại Giấy chứng nhận này;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Cục Quản lý giá - Bộ tài chính
+Cơ quan có thẩm quyền: Cục Quản lý giá - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: iấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá được cấp, cấp lại, Văn bản thông báo
+Căn cứ pháp lý:
+  * Nghị quyết về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (Nghị quyết số 24/2026/NQ-CP)
+  * Thông tư quy định về phân cấp thực hiện một số nhiệm vụ, quyền hạn trong lĩnh vực  quản lý nhà nước của Bộ Tài chính (31/2026/TT-BTC)
+  * Luật Giá 16/2023/QH15 (16/2023/QH15)
+  * Nghị định 78/2024/NĐ-CP (78/2024/NĐ-CP)
+  * Nghị định 78/2024/NĐ-CP (78/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: 2.10.1. Điều kiện chung:
+- Có Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư theo quy định của pháp luật.
+- Có ít nhất 05 thẩm định viên về giá đăng ký hành nghề tại doanh nghiệp; trường hợp doanh nghiệp đề nghị có chi nhánh doanh nghiệp thẩm định giá, mỗi chi nhánh doanh nghiệp thẩm định giá cần có thêm ít nhất hồ sơ đăng ký hành nghề của 03 người có thẻ thẩm định viên về giá.
+	- Đối với người đại diện theo pháp luật, Giám đốc hoặc Tổng giám đốc của doanh nghiệp thẩm định giá (quy định tại Điều 51 Luật Giá 2023): 
+(1) Có năng lực hành vi dân sự đầy đủ;
+(2) Là người đại diện theo pháp luật, Giám đốc hoặc Tổng giám đốc được ghi trên Giấy chứng nhận đăng ký doanh nghiệp;
+(3) Là thẩm định viên về giá đăng ký hành nghề tại doanh nghiệp;
+(4) Có ít nhất 03 năm (36 tháng) là thẩm định viên về giá;
+(5) Không là người đại diện theo pháp luật, Giám đốc hoặc Tổng giám đốc của doanh nghiệp thẩm định giá đã bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá trong khoảng thời gian 01 năm (12 tháng) tính tới thời điểm nộp hồ sơ cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá.
+(6) Có hợp đồng lao động theo quy định của pháp luật về lao động đang còn hiệu lực với doanh nghiệp mà người có thẻ thẩm định viên về giá đăng ký hành nghề thẩm định giá, trừ trường hợp người có thẻ thẩm định viên về giá là người đại diện theo pháp luật của doanh nghiệp; 
+(7) Đã cập nhật kiến thức về thẩm định giá theo quy định của Bộ Tài chính, trừ trường hợp thẻ thẩm định viên về giá được cấp dưới 01 năm tính đến thời điểm nộp hồ sơ;
+(8) Không thuộc đối tượng quy định tại khoản 2 Điều 45 Luật Giá 2023.
++  Tổng số vốn góp của các thành viên hoặc cổ đông là người có thẻ thẩm định viên về giá đăng ký hành nghề thẩm định giá tại doanh nghiệp phải chiếm trên 50% vốn điều lệ của doanh nghiệp. 
++ Đối với thành viên góp vốn hoặc cổ đông của doanh nghiệp thẩm định giá là tổ chức: (i) Thành viên là tổ chức được góp không quá 35% vốn điều lệ. Trường hợp có nhiều tổ chức góp vốn thì tổng số vốn góp của các tổ chức tối đa bằng 35% vốn điều lệ của công ty trách nhiệm hữu hạn thẩm định giá hai thành viên trở lên, công ty cổ phần thẩm định giá.
+2.10.2. Điều kiện tương ứng đối với từng loại hình doanh nghiệp:
++ Đối với doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn một thành viên, công ty hợp danh thì chủ doanh nghiệp, Giám đốc hoặc Tổng giám đốc doanh nghiệp tư nhân; người đại diện theo pháp luật, Giám đốc hoặc Tổng Giám đốc công ty trách nhiệm hữu hạn một thành viên, công ty hợp danh phải đáp ứng yêu cầu quy định tại Điều 51 của Luật Giá. Chủ sở hữu công ty trách nhiệm hữu hạn một thành viên là cá nhân, các thành viên hợp danh công ty hợp danh phải là người có thẻ thẩm định viên về giá đăng ký hành nghề thẩm định giá tại doanh nghiệp;
++ Đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty cổ phần thì người đại diện theo pháp luật, Giám đốc hoặc Tổng Giám đốc của doanh nghiệp phải đáp ứng yêu cầu quy định tại Điều 51 của Luật Giá; đồng thời doanh nghiệp phải có ít nhất 02 thành viên góp vốn hoặc 02 cổ đông phải là người có thẻ thẩm định viên về giá đăng ký hành nghề thẩm định giá tại doanh nghiệp.
+Từ khóa: Không có thông tin
+Mô tả: 2.10.1. Điều kiện chung:
+- Có Giấy chứng nhận đăng ký kinh doanh, Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đầu tư theo quy định của pháp luật.
+- Có ít nhất 05 thẩm định viên về giá đăng ký hành nghề tại doanh nghiệp; trường hợp doanh nghiệp đề nghị có chi nhánh doanh nghiệp thẩm định giá, mỗi chi nhánh doanh nghiệp thẩm định giá cần có thêm ít nhất hồ sơ đăng ký hành nghề của 03 người có thẻ thẩm định viên về giá.
+	- Đối với người đại diện theo pháp luật, Giám đốc hoặc Tổng giám đốc của doanh nghiệp thẩm định giá (quy định tại Điều 51 Luật Giá 2023): 
+(1) Có năng lực hành vi dân sự đầy đủ;
+(2) Là người đại diện theo pháp luật, Giám đốc hoặc Tổng giám đốc được ghi trên Giấy chứng nhận đăng ký doanh nghiệp;
+(3) Là thẩm định viên về giá đăng ký hành nghề tại doanh nghiệp;
+(4) Có ít nhất 03 năm (36 tháng) là thẩm định viên về giá;
+(5) Không là người đại diện theo pháp luật, Giám đốc hoặc Tổng giám đốc của doanh nghiệp thẩm định giá đã bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá trong khoảng thời gian 01 năm (12 tháng) tính tới thời điểm nộp hồ sơ cấp, cấp lại Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá.
+(6) Có hợp đồng lao động theo quy định của pháp luật về lao động đang còn hiệu lực với doanh nghiệp mà người có thẻ thẩm định viên về giá đăng ký hành nghề thẩm định giá, trừ trường hợp người có thẻ thẩm định viên về giá là người đại diện theo pháp luật của doanh nghiệp; 
+(7) Đã cập nhật kiến thức về thẩm định giá theo quy định của Bộ Tài chính, trừ trường hợp thẻ thẩm định viên về giá được cấp dưới 01 năm tính đến thời điểm nộp hồ sơ;
+(8) Không thuộc đối tượng quy định tại khoản 2 Điều 45 Luật Giá 2023.
++  Tổng số vốn góp của các thành viên hoặc cổ đông là người có thẻ thẩm định viên về giá đăng ký hành nghề thẩm định giá tại doanh nghiệp phải chiếm trên 50% vốn điều lệ của doanh nghiệp. 
++ Đối với thành viên góp vốn hoặc cổ đông của doanh nghiệp thẩm định giá là tổ chức: (i) Thành viên là tổ chức được góp không quá 35% vốn điều lệ. Trường hợp có nhiều tổ chức góp vốn thì tổng số vốn góp của các tổ chức tối đa bằng 35% vốn điều lệ của công ty trách nhiệm hữu hạn thẩm định giá hai thành viên trở lên, công ty cổ phần thẩm định giá.
+2.10.2. Điều kiện tương ứng đối với từng loại hình doanh nghiệp:
++ Đối với doanh nghiệp tư nhân, công ty trách nhiệm hữu hạn một thành viên, công ty hợp danh thì chủ doanh nghiệp, Giám đốc hoặc Tổng giám đốc doanh nghiệp tư nhân; người đại diện theo pháp luật, Giám đốc hoặc Tổng Giám đốc công ty trách nhiệm hữu hạn một thành viên, công ty hợp danh phải đáp ứng yêu cầu quy định tại Điều 51 của Luật Giá. Chủ sở hữu công ty trách nhiệm hữu hạn một thành viên là cá nhân, các thành viên hợp danh công ty hợp danh phải là người có thẻ thẩm định viên về giá đăng ký hành nghề thẩm định giá tại doanh nghiệp;
++ Đối với công ty trách nhiệm hữu hạn hai thành viên trở lên, công ty cổ phần thì người đại diện theo pháp luật, Giám đốc hoặc Tổng Giám đốc của doanh nghiệp phải đáp ứng yêu cầu quy định tại Điều 51 của Luật Giá; đồng thời doanh nghiệp phải có ít nhất 02 thành viên góp vốn hoặc 02 cổ đông phải là người có thẻ thẩm định viên về giá đăng ký hành nghề thẩm định giá tại doanh nghiệp.

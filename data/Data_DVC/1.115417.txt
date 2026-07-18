@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115417
+Số quyết định: 1617/QĐ-BCT
+Tên thủ tục: Thông báo nền tảng thương mại điện tử kinh doanh trực tiếp có chức năng đặt hàng trực tuyến
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thương mại điện tử
+Trình tự thực hiện:
+    1. Việc nộp và nhận kết quả hồ sơ thông báo nền tảng thương mại điện tử kinh doanh trực tiếp có chức năng đặt hàng trực tuyến được thực hiện trực tuyến tại Cổng dịch vụ công quốc gia.
+    2. Chủ quản nền tảng thương mại điện tử có trách nhiệm theo dõi địa chỉ thư điện tử và tài khoản đã đăng ký với Cổng dịch vụ công quốc gia để cập nhật trạng thái hồ sơ và sửa đổi, bổ sung thông tin theo yêu cầu.
+    3. Quy trình thông báo nền tảng thương mại điện tử kinh doanh trực tiếp có chức năng đặt hàng trực tuyến thực hiện theo 02 bước sau đây:
+    Bước 1. Đăng nhập Cổng dịch vụ công quốc gia, thực hiện khai báo thông tin theo mẫu và đính kèm tài liệu (nếu có) theo quy định.
+    Bước 2. Trong thời hạn 03 ngày làm việc kể từ khi nộp hồ sơ đầy đủ, hợp lệ, chủ quản nền tảng nhận phản hồi về một trong các nội dung sau đây:
+    - Xác nhận hồ sơ thông báo; thông tin nền tảng được công khai tại Danh sách nền tảng thương mại điện tử đã được xác nhận thông báo trên Hệ thống quản lý hoạt động thương mại điện tử. Chủ quản nền tảng nhận được biểu tượng xác nhận điện tử đã thông báo để gắn trên nền tảng đó; khi chọn biểu tượng này, người sử dụng được dẫn về thông tin công bố tại Hệ thống quản lý hoạt động thương mại điện tử.
+    - Yêu cầu làm rõ thông tin hồ sơ thông báo. Chủ quản nền tảng thực hiện lại Bước 1. Trong vòng 60 ngày kể từ thời điểm lần đầu nhận được yêu cầu làm rõ thông tin hồ sơ thông báo, nếu chủ quản nền tảng không có phản hồi hoặc cung cấp thông tin không đầy đủ hoặc không hợp lệ thì hồ sơ sẽ bị chấm dứt tự động.
+    - Từ chối hồ sơ khai báo và nêu rõ lý do. Chủ quản nền tảng thực hiện lại Bước 1.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - a) Tờ khai thông tin theo Mẫu số 01 tại Phụ lục II của Nghị định số 248/2026/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Bản chụp giấy phép, giấy chứng nhận, chứng chỉ, văn bản xác nhận, chấp thuận của cơ quan có thẩm quyền hoặc các văn bản tương tự khác khi kinh doanh hàng hóa, dịch vụ thuộc Danh mục ngành, nghề đầu tư kinh doanh có điều kiện theo quy định của pháp luật về đầu tư.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp các giấy tờ, tài liệu nêu trên đã có dữ liệu điện tử bảo đảm giá trị pháp lý và có thể khai thác thông qua kết nối, chia sẻ giữa Hệ thống thông tin giải quyết thủ tục hành chính với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, hệ thống thông tin dùng chung, Cổng dịch vụ công quốc gia thì không phải cung cấp lại.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông tin nền tảng được công khai tại Danh sách nền tảng thương mại điện tử đã được xác nhận thông báo trên Hệ thống quản lý hoạt động thương mại điện tử. Chủ quản nền tảng nhận được biểu tượng xác nhận điện tử đã thông báo để gắn trên nền tảng đó.
+Căn cứ pháp lý:
+  * Nghị định số 248/2026/NĐ-CP ngày 30 tháng 6 năm 2026 của Chính phủ quy định chi tiết một số điều của Luật Thương mại điện tử. (248/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

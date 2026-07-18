@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010496
+Số quyết định: 867/QĐ-UBND
+Tên thủ tục: Hỗ trợ phát triển kinh tế vườn hộ
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trồng trọt
+Trình tự thực hiện:
+    Bước 1: Ủy ban nhân dân cấp xã tiếp nhận kiểm tra và thẩm định hồ sơ:
+    - Ủy ban nhân dân cấp xã quyết định thành lập tổ thẩm định do Chủ tịch hoặc Phó chủ tịch Ủy ban nhân dân xã phụ trách lĩnh vực làm tổ trưởng, thành viên gồm: Trưởng thôn, cán bộ Phòng Kinh tế/Phòng Kinh tế, Hạ tầng và Đô thị; tổ chức chính trị xã hội nhận ủy thác của Phòng giao dịch Ngân hàng chính sách xã hội… để xác minh thẩm định điều kiện vay vốn của các hộ nghèo, cận nghèo.
+    - Trường hợp hồ sơ không hợp lệ, gửi văn bản tới chủ hộ và nêu rõ lý do Trường hợp hồ sơ hợp lệ, tổ thẩm định tham mưu cho Ủy ban nhân dân cấp xã lập danh sách gửi Phòng giao dịch Ngân hàng chính sách xã hội.
+    Bước 2: Căn cứ báo cáo Tờ trình của Ủy ban nhân dân cấp xã; Phòng giao dịch Ngân hàng chính sách xã hội phối hợp Ủy ban nhân dân cấp xã hoặc ủy quyền cho các tổ chức chính trị xã hội nhận ủy thác phối hợp thẩm định điều kiện vay vốn. Ngân hàng chính sách xã hội có trách nhiệm thông báo lại cho các hộ nghèo, cận nghèo có đơn vay vốn (đủ hay không đủ điều kiện được vay vốn) và hướng dẫn cho các hộ nghèo, cận nghèo lập hồ sơ vay vốn theo quy định của Phòng giao dịch Ngân hàng Chính sách xã hội.
+    Bước 3: Ủy ban nhân dân cấp xã trả kết quả cho các hộ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 30 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 30 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 30 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ
+
+Thành phần hồ sơ:
+    - Đơn đề nghị vay vốn của các hộ nghèo, cận nghèo
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản trả lời hoặc thông báo kết quả giải quyết của Phòng giao dịch Ngân hàng chính sách xã hội
+Căn cứ pháp lý:
+  * Nghị quyết số 58/2020/NQ-HĐND ngày 09/12/2020 của Hội đồng nhân dân tỉnh Hà Giang (trước sáp nhập) về chính sách đặc thù hỗ trợ phát triển kinh tế vườn hộ và phát triển bền vững cây cam sành trên địa bàn tỉnh giai đoạn 2021- 2025. (58/2020/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

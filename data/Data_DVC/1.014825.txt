@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014825
+Số quyết định: 617/QĐ-UBND
+Tên thủ tục: Công bố vùng nước neo đậu
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Chủ đầu tư nộp 01 bộ hồ sơ trực tiếp hoặc qua bưu chính hoặc trực tuyến, cụ thể như sau:
+    - Trực tiếp tại Bộ phận Một cửa:
+    + Trung tâm Phục vụ hành chính công Thành phố.
+    + Trung tâm Phục vụ hành chính công cấp xã.
+    - Trực tuyến tại Cổng Dịch vụ công quốc gia: https://dichvucong.gov.vn/.
+    b) Giải quyết TTHC:
+    Sở Xây dựng tiếp nhận, kiểm tra hồ sơ và xử lý như sau:
+    - Đối với vùng nước neo đậu trong vùng nước cảng biển thuộc địa giới hành chính Thành phố Hồ Chí Minh, trước khi có văn bản công bố, Sở Xây dựng lấy ý kiến của Cảng vụ Hàng hải bằng văn bản. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Sở Xây dựng, Cảng vụ Hàng hải có văn bản trả lời;
+    - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định hoặc kể từ ngày nhận được văn bản của Cảng vụ Hàng hải, Sở Xây dựng có văn bản công bố vùng nước neo đậu gửi đến chủ đầu tư, tổ chức, cá nhân có liên quan. Trường hợp không công bố phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định hoặc kể từ ngày nhận được văn bản của Cảng vụ Hàng hải (Đối với trường hợp vùng nước neo đậu trong vùng nước cảng biển thuộc địa giới hành chính Thành phố Hồ Chí Minh).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định hoặc kể từ ngày nhận được văn bản của Cảng vụ Hàng hải (Đối với trường hợp vùng nước neo đậu trong vùng nước cảng biển thuộc địa giới hành chính Thành phố Hồ Chí Minh).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định hoặc kể từ ngày nhận được văn bản của Cảng vụ Hàng hải (Đối với trường hợp vùng nước neo đậu trong vùng nước cảng biển thuộc địa giới hành chính Thành phố Hồ Chí Minh).
+
+Thành phần hồ sơ:
+    - Đơn đề nghị công bố vùng nước neo đậu theo Mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực hoặc bản sao và xuất trình bản chính để đối chiếu giấy chứng nhận quyền sử dụng đất của khu đất tiếp giáp bờ sông, kênh, rạch tại vị trí đề nghị thiết lập vùng nước neo đậu, thể hiện tọa độ ranh khu đất trên hệ tọa độ quốc gia VN-2000;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Sơ đồ mặt bằng vị trí dự kiến thiết lập vùng nước neo đậu: phải thể hiện địa danh (đơn vị hành chính cấp xã), vị trí công trình, vùng đất, vùng nước neo đậu, lý trình (km) sông, kênh, rạch, các công trình liền kề và kết cấu neo đậu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản công bố vùng nước neo đậu
+Căn cứ pháp lý:
+  * Nghị định số 84/2024/NĐ-CP về thí điểm phân cấp quản lý nhà nước một số lĩnh vực cho chính quyền Thành phố Hồ Chí Minh. (84/2024/NĐ-CP)
+  * thí điểm một số cơ chế, chính sách đặc thù phát triển Thành phố Hồ Chí Minh. (98/2023/QH15)
+  * Quy định mức thu, chế độ thu, nộp và quản lý lệ phí  cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà, tài sản gắn liền với đất trên địa bàn tỉnh Bà Rịa - Vũng Tàu (07/2024/NQ-HĐND)
+  * Quy định thủ tục công bố và công bố hoạt động vùng nước neo đậu thuộc địa giới hành chính Thành phố Hồ Chí Minh (93/2025/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

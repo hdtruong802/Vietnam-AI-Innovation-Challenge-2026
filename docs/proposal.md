@@ -255,8 +255,8 @@ sequenceDiagram
             PG-->>ORCH: Display-safe model output
         end
         ORCH->>+POL: Guidance + evidence + deterministic findings
-        Note over PG,POL: Raw identifier không tới external LLM; token map không vào log, DB, vector hoặc CaseSnapshot
-        Note over RULE,POL: Model không tạo/đổi finding hoặc quyết định hồ sơ hợp lệ; output quy phạm bắt buộc có citations
+        Note over PG,POL: Raw identifier không tới external LLM, token map không vào log, DB, vector hoặc CaseSnapshot
+        Note over RULE,POL: Model không tạo/đổi finding hoặc quyết định hồ sơ hợp lệ, output quy phạm bắt buộc có citations
         POL->>AUD: Ghi trust outcome đã redacted
         POL-->>-ORCH: GroundedResponse + trust state
     else Thiếu evidence / nguồn mâu thuẫn

@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010736
+Số quyết định: 973/QĐ-BNNMT
+Tên thủ tục: Tham vấn trong đánh giá tác động môi trường (cấp xã) (1.010736)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Môi trường
+Trình tự thực hiện:
+    Bước 1. Nộp hồ sơ
+    Tổ chức/cá nhân (chủ dự án đầu tư, cơ sở) gửi văn bản lấy ý kiến tham vấn và báo cáo đánh giá tác động môi trường tới Ủy ban nhân dân (UBND) cấp xã.
+    Bước 2. Kiểm tra hồ sơ
+    UBND cấp xã xem xét tính đầy đủ, hợp lệ của hồ sơ tham vấn theo quy định; trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ thì từ chối tiếp nhận.
+    Bước 3. Xử lý hồ sơ
+    - Ủy ban nhân dân cấp xã thực hiện niêm yết báo cáo đánh giá tác động môi trường kể từ khi nhận được báo cáo đánh giá tác động môi trường cho đến khi kết thúc hoạt động tham vấn cộng đồng dân cư, cá nhân;
+    - UBND cấp xã tổ chức họp tham vấn lấy ý kiến cộng đồng dân cư, cá nhân theo quy định trong thời hạn tối đa là 15 ngày kể từ ngày nhận được văn bản đề nghị tham vấn.
+    Bước 4. Phê duyệt
+    Ủy ban nhân dân cấp xã phản hồi bằng văn bản trong thời hạn không quá 15 ngày kể từ ngày nhận được văn bản tham vấn. Trường hợp không có phản hồi trong thời hạn quy định được coi là thống nhất với nội dung tham vấn.
+    Bước 5. Trả kết quả
+    Tổ chức, cá nhân nhận kết quả giải quyết thủ tục hành chính tại trụ sở cơ quan được giao nhiệm vụ giải quyết thủ tục hành chính của Ủy ban nhân dân cấp xã. Trường hợp đăng ký nhận kết quả trực tuyến thì thông qua Cổng dịch vụ công quốc gia (địa chỉ https://dichvucong.gov.vn) hoặc Cổng dịch vụ công của UBND cấp xã (nếu có).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Thời hạn kiểm tra về tính đầy đủ của hồ sơ: không quy định.
+- Thời hạn xử lý, trả kết quả: Tối đa 15 (mười lăm) ngày kể từ ngày nhận được văn bản đề nghị của chủ dự án đầu tư. Trường hợp không có văn bản trả lời trong thời hạn quy định được coi là thống nhất với nội dung tham vấn.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Thời hạn kiểm tra về tính đầy đủ của hồ sơ: không quy định.
+- Thời hạn xử lý, trả kết quả: Tối đa 15 (mười lăm) ngày kể từ ngày nhận được văn bản đề nghị của chủ dự án đầu tư. Trường hợp không có văn bản trả lời trong thời hạn quy định được coi là thống nhất với nội dung tham vấn.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Thời hạn kiểm tra về tính đầy đủ của hồ sơ: không quy định.
+- Thời hạn xử lý, trả kết quả: Tối đa 15 (mười lăm) ngày kể từ ngày nhận được văn bản đề nghị của chủ dự án đầu tư. Trường hợp không có văn bản trả lời trong thời hạn quy định được coi là thống nhất với nội dung tham vấn.
+
+Thành phần hồ sơ:
+    - 01 bản chính nội dung tham vấn trong quá trình thực hiện đánh giá tác động môi trường (Phụ lục VIa ban hành kèm theo Nghị định số 08/2022/NĐ-CP, được sửa đổi, bổ sung tại Nghị định số 05/2025/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo đánh giá tác động môi trường.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 01 bản chính văn bản lấy ý kiến tham vấn (mẫu quy định tại Phụ lục VI ban hành kèm theo Nghị định số 08/2022/NĐ-CP được sửa đổi, bổ sung tại Nghị định số 05/2025/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Đảng viên, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức Đảng, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: UBND cấp xã - tỉnh Quảng Trị
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Tổ chức/cá nhân (chủ dự án đầu tư, cơ sở) gửi văn bản lấy ý kiến tham vấn và báo cáo đánh giá tác động môi trường tới Ủy ban nhân dân (UBND) cấp xã.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Biên bản họp tham vấn cộng đồng dân cư, cá nhân chịu tác động trực tiếp, Văn bản của UBND cấp xã trả lời ý kiến tham vấn về quá trình thực hiện đánh giá tác động môi trường (nếu có).
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số điều của Thông tư số 02/2022/TT-BTNMT ngày 10 tháng 01 năm 2022 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết thi hành một số điều của Luật Bảo vệ môi trường (07/2025/TT-BTNMT)
+  * Nghị định số 08/2022/NĐ-CP (08/2022/NĐ-CP)
+  * Luật Bảo vệ môi trường số 72/2020/QH14 ngày 17 tháng 11 năm 2020 (72/2020/QH14)
+  * SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 08/2022/NĐ-CP NGÀY 10 THÁNG 01 NĂM 2022 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT BẢO VỆ MÔI TRƯỜNG (05/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: không quy định
+Từ khóa: Tham vấn trong đánh giá tác động môi trường (cấp xã) (1.010736)
+Mô tả: không quy định

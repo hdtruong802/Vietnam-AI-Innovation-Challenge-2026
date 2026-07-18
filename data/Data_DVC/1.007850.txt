@@ -1,0 +1,36 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007850
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan, kiểm tra, giám sát hải quan đối với hàng hoá trung chuyển tại cảng biển
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    + Bước 1: Doanh nghiệp kinh doanh dịch vụ trung chuyển thông báo cho cơ quan hải quan.
+    + Bước 2: Cơ quan hải quan thực hiện việc giám sát hải quan trong thời gian lưu giữ tại cảng.
+    + Bước 3: Xác nhận thanh khoản hàng trung chuyển của hải quan cửa khẩu nhập.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bảng kê hàng trung chuyển
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận của hải quan cửa khẩu tại bảng kê hàng trung chuyển
+Căn cứ pháp lý:
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

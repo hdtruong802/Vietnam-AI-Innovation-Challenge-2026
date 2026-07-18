@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012995
+Số quyết định: 2589/QĐ-BTC
+Tên thủ tục: Ghi nợ tiền sử dụng đất của hộ gia đình, cá nhân trong trường hợp được bố trí tái định cư
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tài chính đất đai
+Trình tự thực hiện:
+    Bước 1. Hộ gia đình, cá nhân nộp hồ sơ tại Văn phòng đăng ký đất đai hoặc cơ quan tài nguyên và môi trường.
+    Bước 2. Văn phòng đăng ký đất đai hoặc cơ quan có chức năng quản lý đất đai hoặc bộ phận một cửa liên thông giải quyết hồ sơ: Rà soát, kiểm tra hồ sơ và  Lập Phiếu chuyển thông tin gửi đến cơ quan thuế và các cơ quan liên quan (Phiếu chuyển có nội dung về đối tượng được ghi nợ, thời hạn sử dụng đất được ghi nợ);
+    Bước 3. Cơ quan thuế ban hành thông báo theo quy định gửi đến hộ gia đình, cá nhân, Văn phòng đăng ký đất đai hoặc cơ quan có chức năng quản lý đất đai hoặc bộ phận một cửa liên thông và cơ quan liên quan (nếu cần) trong thời hạn không quá 05 ngày làm việc kể từ ngày ra thông báo. Thông báo gồm các nội dung:
+    - Tổng số tiền sử dụng đất hộ gia đình, cá nhân phải nộp;
+    - Số tiền sử dụng đất không được ghi nợ (số tiền bồi thường, hỗ trợ về đất mà hộ gia đình, cá nhân được nhận);
+    - Số tiền sử dụng đất được ghi nợ = Tổng số tiền sử dụng đất phải nộp - Số tiền sử dụng đất không được ghi nợ.
+    Bước 4. Căn cứ Thông báo của cơ quan thuế, hộ gia đình, cá nhân nộp số tiền sử dụng đất không được ghi nợ (nếu có) vào ngân sách nhà nước theo thông báo của cơ quan thuế và nộp chứng từ tại Văn phòng đăng ký đất đai hoặc cơ quan có chức năng quản lý đất đai hoặc bộ phận một cửa liên thông để được cấp Giấy chứng nhận.
+    Bước 5. Hộ gia đình, cá nhân nhận Giấy chứng nhận
+    Căn cứ chứng từ mà hộ gia đình, cá nhân nộp, Văn phòng đăng ký đất đai trả Giấy chứng nhận cho hộ gia đình, cá nhân.
+    Giấy chứng nhận sẽ có nội dung về số tiền sử dụng đất ghi nợ và thời hạn ghi nợ).
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị ghi nợ tiền sử dụng đấ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ xin cấp Giấy chứng nhận: Quyết định giao đất tái định cư, phương án bồi thường, hỗ trợ, tái định cư do cơ quan Nhà nước có thẩm quyền phê duyệt
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy tờ chứng minh thuộc đối tượng được ghi nợ tiền sử dụng đất
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Chi nhánh Văn phòng đăng ký đất đai
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất trong đó có nội dung về số tiền sử dụng đất ghi nợ và thời hạn ghi nợ
+Căn cứ pháp lý:
+  * Nghị định số 103/2024/NĐ-CP ngày 30/7/2024 của Chính phủ quy định về tiền sử dụng đất, tiền thuê đất (103/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

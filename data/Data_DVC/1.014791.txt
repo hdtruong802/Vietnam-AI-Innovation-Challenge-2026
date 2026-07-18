@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014791
+Số quyết định: 5089/QĐ-UBND
+Tên thủ tục: Cấp phép thi công nút giao đối với đường địa phương đang khai thác
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    - Chủ đầu tư xây dựng nút giao đấu nối vào đường địa phương đang khai thác gửi 01 bộ hồ sơ đề nghị theo hình thức trực tiếp hoặc gửi gián tiếp (qua hệ thống bưu điện hoặc qua cổng dịch vụ công trực tuyến) đến cơ quan quản lý đường bộ (Sở Xây dựng, Ủy ban nhân dân cấp xã) qua Trung tâm Phục vụ hành chính công thành phố hoặc Trung tâm Phục vụ hành chính công cấp xã để được xem xét chấp thuận thiết kế nút giao hoặc chấp thuận thiết kế cùng thời điểm với cấp phép thi công nút giao đấu nối vào địa phương đang khai thác.
+    - Giải quyết thủ tục hành chính:
+    + Đối với trường hợp nộp trực tiếp, sau khi kiểm tra thành phần hồ sơ, nếu đủ thành phần theo quy định tại khoản 1 Điều này thì tiếp nhận hồ sơ và viết giấy tiếp nhận hồ sơ và hẹn trả kết quả; hướng dẫn tổ chức, cá nhân hoàn thiện hồ sơ đối với trường hợp không đủ thành phần hồ sơ;
+    +  Đối với trường hợp nộp gián tiếp, trong phạm vi 02 ngày làm việc kể từ ngày nhận được hồ sơ, kiểm tra thành phần hồ sơ, nếu hồ sơ không hợp lệ có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;
+    + Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền giải quyết thủ tục hành chính tiến hành xem xét hồ sơ, nếu đủ điều kiện thì có văn bản cấp phép thi công nút giao đấu nối vào đường địa phương đang khai thác theo quy định tại Mẫu số 4 Phụ lục ban hành kèm theo Quy định này, trường hợp không đủ điều kiện cấp phép thì phải có văn bản trả lời và nêu rõ lý do.
+    - Địa điểm tiếp nhận hồ sơ: Trung tâm Phục vụ hành chính công thành phố hoặc Trung tâm Phục vụ hành chính công cấp xã.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ
+quan có thẩm quyền giải quyết thủ tục hành chính tiến hành xem xét hồ sơ, nếu đủ
+điều kiện thì có văn bản cấp phép thi công nút giao đấu nối vào đường địa phương
+đang khai thác theo quy định tại Mẫu số 4 Phụ lục ban hành kèm theo Quy định này,
+trường hợp không đủ điều kiện cấp phép thì phải có văn bản trả lời và nêu rõ lý do.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ
+quan có thẩm quyền giải quyết thủ tục hành chính tiến hành xem xét hồ sơ, nếu đủ
+điều kiện thì có văn bản cấp phép thi công nút giao đấu nối vào đường địa phương
+đang khai thác theo quy định tại Mẫu số 4 Phụ lục ban hành kèm theo Quy định này,
+trường hợp không đủ điều kiện cấp phép thì phải có văn bản trả lời và nêu rõ lý do.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ
+quan có thẩm quyền giải quyết thủ tục hành chính tiến hành xem xét hồ sơ, nếu đủ
+điều kiện thì có văn bản cấp phép thi công nút giao đấu nối vào đường địa phương
+đang khai thác theo quy định tại Mẫu số 4 Phụ lục ban hành kèm theo Quy định này,
+trường hợp không đủ điều kiện cấp phép thì phải có văn bản trả lời và nêu rõ lý do.
+
+Thành phần hồ sơ:
+    - + Đơn đề nghị cấp phép thi công nút giao đấu nối vào đường địa phương đang khai thác theo quy định tại Mẫu số 3 Phụ lục ban hành kèm theo Quy định này; + Thuyết minh và bản vẽ biện pháp tổ chức thi công nút giao đấu nối vào đường địa phương đang khai thác; + Biện pháp bảo đảm giao thông đường bộ khi thi công xây dựng nút giao đấu nối
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Sở Xây dựng - TP. Hải Phòng
+Cơ quan có thẩm quyền: Sở Xây dựng - TP. Hải Phòng
+Địa chỉ tiếp nhận HS: - Trung tâm PVHCC thành phố: Trụ sở chính: số 18, đường Hoàng Diệu, phường Hồng Bàng, thành phố Hải Phòng hoặc điểm tiếp nhận: Số 1 đường Tôn Đức Thắng, phường Lê Thanh Nghị, thành phố Hải Phòng. 
+- Trung tâm PVHCC các xã, phường, đặc khu trên địa bàn thành phố
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thi công nút giao đối với đường địa phương đang khai thác
+Căn cứ pháp lý:
+  * quy định về quản lý, vận hành, khai thác, bảo trì kết cấu hạ tầng đường bộ và thẩm quyền quyết định xử lý tài sản kết cấu hạ tầng giao thông đường bộ trên địa bàn thành phố (187/2025/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115231
+Số quyết định: 3116/QĐ-BCA-C06.
+Tên thủ tục: Đăng ký mẫu con dấu mới
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đăng ký, quản lý con dấu
+Trình tự thực hiện:
+    - Bước 1: Cơ quan, tổ chức có nhu cầu đăng ký mẫu con dấu mới nộp hồ sơ về Công an cấp xã.
+    - Bước 2: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ
+    + Nếu hồ sơ hợp lệ và đủ thành phần thì tiếp nhận hồ sơ và gửi Giấy biên nhận hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) cho người được cơ quan, tổ chức cử liên hệ nộp hồ sơ.
+    + Nếu hồ sơ chưa đầy đủ thành phần hoặc không hợp lệ thì hướng dẫn và gửi Phiếu hướng dẫn hoàn thiện hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) cho người được cơ quan, tổ chức cử liên hệ nộp hồ sơ.
+    + Nếu hồ sơ không đủ điều kiện theo quy định tại Điều 5 Nghị định số 99/2016/NĐ-CP ngày 01/7/2016 của Chính phủ về quản lý và sử dụng con dấu thì không tiếp nhận hồ sơ, thông báo lý do từ chối và gửi Thông báo về việc từ chối giải quyết hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) cho người được cơ quan, tổ chức cử liên hệ nộp hồ sơ.
+    - Bước 3: Căn cứ ngày hẹn trả kết quả trên Giấy biên nhận hồ sơ, Công an cấp xã trả kết quả trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Nộp hồ sơ trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).
+- Nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Nộp hồ sơ trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).
+- Nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Nộp hồ sơ trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).
+- Nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+
+Thành phần hồ sơ:
+    - a) Đối với cơ quan có chức năng quản lý nhà nước, cơ quan chuyên môn:  - Văn bản đề nghị đăng ký mẫu con dấu của cơ quan, tổ chức, chức danh nhà nước; - Quyết định thành lập hoặc văn bản quy định về tổ chức, hoạt động của cơ quan có thẩm quyền.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Đối với tổ chức sự nghiệp: - Văn bản đề nghị đăng ký mẫu con dấu của cơ quan, tổ chức, chức danh nhà nước; - Quyết định thành lập hoặc văn bản quy định về tổ chức, hoạt động của cơ quan có thẩm quyền; - Giấy phép hoạt động do cơ quan có thẩm quyền cấp đối với tổ chức phải đăng ký về lĩnh vực hoạt động theo quy định của pháp luật.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Đối với tổ chức xã hội, tổ chức xã hội nghề nghiệp, tổ chức tôn giáo, quỹ xã hội, quỹ từ thiện, tổ chức phi chính phủ do Ủy ban nhân dân cấp xã thành lập hoặc cấp giấy phép hoạt động: - Văn bản đề nghị đăng ký mẫu con dấu của cơ quan, tổ chức, chức danh nhà nước; - Quyết định thành lập hoặc giấy phép hoạt động của cơ quan có thẩm quyền; - Điều lệ hoạt động của tổ chức đã được cơ quan có thẩm quyền phê duyệt.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Đối với tổ chức trực thuộc tổ chức xã hội, tổ chức xã hội nghề nghiệp, tổ chức tôn giáo, quỹ xã hội, quỹ từ thiện, tổ chức phi chính phủ do Ủy ban nhân dân cấp xã thành lập hoặc cấp giấy phép hoạt động: - Văn bản đề nghị đăng ký mẫu con dấu của cơ quan, tổ chức, chức danh nhà nước; - Quyết định thành lập hoặc giấy phép hoạt động của cơ quan có thẩm quyền; - Văn bản quy định về tổ chức, hoạt động do cơ quan có thẩm quyền cấp cho tổ chức theo quy định của pháp luật; - Giấy phép hoạt động do cơ quan có thẩm quyền cấp đối với tổ chức phải đăng ký về lĩnh vực hoạt động theo quy định của pháp luật.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Đối với tổ chức khác được thành lập, hoạt động theo quy định của pháp luật: Quyết định thành lập hoặc giấy phép hoạt động của cơ quan có thẩm quyền.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Hợp tác xã, Tổ chức nước ngoài, Công dân Việt Nam, Người nước ngoài, Doanh nghiệp
+Cơ quan thực hiện: Công an cấp Xã
+Cơ quan có thẩm quyền: Công an cấp Xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Con dấu và Giấy chứng nhận đăng ký mẫu con dấu
+Căn cứ pháp lý:
+  * Nghị định 99/2016/NĐ-CP (99/2016/NĐ-CP)
+  * Nghị định 56/2023/NĐ-CP (56/2023/NĐ-CP)
+  * Thông tư 15/2022/TT-BCA (15/2022/TT-BCA)
+
+Yêu cầu, điều kiện thực hiện: Cơ quan, tổ chức, chức danh nhà nước chỉ được sử dụng con dấu khi đã có quy định về việc được phép sử dụng con dấu trong văn bản quy phạm pháp luật hoặc quyết định của cơ quan có thẩm quyền; phải đăng ký mẫu con dấu trước khi sử dụng.
+Từ khóa: Không có thông tin
+Mô tả: Cơ quan, tổ chức, chức danh nhà nước chỉ được sử dụng con dấu khi đã có quy định về việc được phép sử dụng con dấu trong văn bản quy phạm pháp luật hoặc quyết định của cơ quan có thẩm quyền; phải đăng ký mẫu con dấu trước khi sử dụng.

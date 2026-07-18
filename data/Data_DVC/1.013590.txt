@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013590
+Số quyết định: 1909/QĐ-BQP
+Tên thủ tục: Thủ tục biên phòng cửa khẩu biên giới đất liền đối với Đoàn khách du lịch, Đoàn khách công vụ xuất cảnh, nhập cảnh
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý biên giới
+Trình tự thực hiện:
+  * Trực tuyến
+    - Bước 1: Chậm nhất 06 giờ trước khi Đoàn khách du lịch, Đoàn khách công vụ dự kiến đến cửa khẩu quốc tế, cửa khẩu chính, người làm thủ tục khai báo thông tin liên quan đến Đoàn khách du lịch, Đoàn khách công vụ theo mẫu biểu quy định trong hồ sơ thủ tục biên phòng điện tử và gửi cho Biên phòng cửa khẩu biên giới đất liền qua Cổng thông tin thủ tục biên phòng điện tử.
+    - Bước 2: Chậm nhất 03 giờ kể từ khi tiếp nhận khai báo của người làm thủ tục, Biên phòng cửa khẩu biên giới đất liền gửi Xác nhận hoàn thành khai báo thủ tục biên phòng điện tử đối với Đoàn khách du lịch, Đoàn khách công vụ cho người làm thủ tục qua Cổng thông tin thủ tục biên phòng điện tử.
+    - Bước 3: Khi Đoàn khách du lịch, Đoàn khách công vụ đến cửa khẩu quốc tế, cửa khẩu chính để xuất cảnh, nhập cảnh, người làm thủ tục phải xuất trình hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế cho Biên phòng cửa khẩu biên giới đất liền để thực hiện kiểm tra, kiểm soát, kiểm chứng xuất cảnh, nhập cảnh Việt Nam theo quy định.
+  * Trực tiếp
+    Bước 1: Ngay khi Đoàn khách công vụ, Đoàn khách du lịch, đến cửa khẩu quốc tế, cửa khẩu chính; người làm thủ tục phải nộp và xuất trình cho Biên phòng cửa khẩu biên giới đất liền các loại giấy tờ theo quy định;
+    - Bước 2: Biên phòng cửa khẩu biên giới đất liền kiểm tra tính hợp pháp, hợp lệ của các giấy tờ mà người làm thủ tục nộp và xuất trình; hoàn thành thủ tục xuất nhập cảnh cho Đoàn khách du lịch, Đoàn khách công vụ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Người làm thủ tục gửi hồ sơ và nhận kết quả qua mạng internet.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Người làm thủ tục nộp, xuất trình các loại giấy tờ (hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế) cho Biên phòng cửa khẩu biên giới đất liền để xuất, nhập cảnh theo quy định.
+Chậm nhất 30 phút kể từ khi tiếp nhận Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế của Đoàn khách du lịch, Đoàn khách công vụ thì Biên phòng cửa khẩu biên giới đất liền hoàn thành thủ tục xuất, nhập cảnh
+
+Thành phần hồ sơ:
+  [ Thành phần hồ sơ nộp ]
+    - Bản khai Đoàn khách du lịch, Đoàn khách công vụ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Thành phần hồ sơ xuất trình ]
+    - Hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế của hành khách.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Đội Thủ tục thuộc Biên phòng cửa khẩu biên giới đất liền
+Cơ quan có thẩm quyền: Đội Thủ tục thuộc Biên phòng cửa khẩu biên giới đất liền
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bản điện tử xác nhận hoàn thành khai báo thủ tục biên phòng điện tử đối với Đoàn khách du lịch, Đoàn khách công vụ của Biên phòng cửa khẩu biên giới đất liền gửi người làm thủ, cán bộ thủ tục biên phòng thực hiện kiểm chứng, cấp tạm trú, cấp thị thực (nếu có) cho hành khách
+Căn cứ pháp lý:
+  * Nghị định số 112/2014/NĐ-CP ngày 21/11/2014 của Chính phủ quy định về quản lý cửa khẩu biên giới đất liền được sửa đổi, bổ sung một số điều tại Nghị định số 34/2023/NĐ-CP ngày 16/6/2023 (112/2014/NĐ-CP)
+  * Quyết định 15/2019/QĐ-TTg - Về việc thực hiện thủ tục biên phòng điện tử tại các cửa khẩu do Bộ Quốc phòng quản lý (15/2019/QĐ-TTg)
+  * Quyết định số 31/2025/QĐ-TTg của Thủ tướng Chính phủ: Sửa đổi, bổ sung một số điều các Quyết định của Thủ tướng Chính phủ về thực hiện thủ tục biên phòng điện tử tại các cửa khẩu do Bộ Quốc phòng quản lý (31/2025/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

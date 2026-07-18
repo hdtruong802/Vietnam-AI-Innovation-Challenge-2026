@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010226
+Số quyết định: 987/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận cho chi nhánh ngân hàng nước ngoài áp dụng chính sách dự phòng rủi ro của ngân hàng nước ngoài để phân loại nợ, trích lập và sử dụng dự phòng để xử lý rủi ro
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Chi nhánh ngân hàng nước ngoài lập 01 bộ hồ sơ theo quy định gửi Ngân hàng Nhà nước.
+    + Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu chi nhánh ngân hàng nước ngoài bổ sung hồ sơ.
+    + Bước 3: Trong thời hạn 15 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ theo quy định tại khoản 2 Điều 16 Nghị định số 86/2024/NĐ-CP, Ngân hàng Nhà nước có văn bản chấp thuận hoặc không chấp thuận cho chi nhánh ngân hàng nước ngoài áp dụng chính sách dự phòng rủi ro của ngân hàng nước ngoài. Trường hợp không chấp thuận, Ngân hàng Nhà nước có văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 15 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 15 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - + Văn bản xác nhận của chi nhánh ngân hàng nước ngoài và tài liệu chứng minh đáp ứng đủ điều kiện quy định tại khoản 1 Điều 16 Nghị định số 86/2024/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +  Bản sao chính sách dự phòng rủi ro của ngân hàng nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản đề nghị Ngân hàng Nhà nước chấp thuận áp dụng chính sách dự phòng rủi ro của ngân hàng nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực, Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam/Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận hoặc không chấp thuận cho phép áp dụng chính sách dự phòng rủi ro của ngân hàng nước ngoài.
+Căn cứ pháp lý:
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+  * Luật Luật Ngân hàng Nhà nước (Luật số 46/2010/QH12)
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 31/2024/TT-NHNN của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về phân loại tài sản có trong hoạt động của ngân hàng thương mại, tổ chức tín dụng phi ngân hàng, chi nhánh ngân hàng nước ngoài (37/2025/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Nghị định quy định về mức trích, phương pháp trích lập dự phòng rủi ro,  việc sử dụng dự phòng để xử lý rủi ro trong hoạt động của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và trường hợp tổ chức tín dụng  phân bổ lãi phải thu phải thoái (Nghị định 86/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Chi nhánh ngân hàng nước ngoài được áp dụng chính sách dự phòng rủi ro của ngân hàng nước ngoài để phân loại nợ, trích lập và sử dụng dự phòng để xử lý rủi ro khi đáp ứng điều kiện 03 năm tài chính gần nhất trước thời điểm đề nghị Ngân hàng Nhà nước chấp thuận, tổng số tiền trích lập dự phòng cụ thể hằng năm được xác định theo chính sách dự phòng rủi ro của ngân hàng nước ngoài dự kiến áp dụng không thấp hơn tổng số tiền trích lập dự phòng rủi ro cụ thể hằng năm thực hiện theo quy định tại Nghị định số 86/2024/NĐ-CP.
+Từ khóa: Không có thông tin
+Mô tả: Chi nhánh ngân hàng nước ngoài được áp dụng chính sách dự phòng rủi ro của ngân hàng nước ngoài để phân loại nợ, trích lập và sử dụng dự phòng để xử lý rủi ro khi đáp ứng điều kiện 03 năm tài chính gần nhất trước thời điểm đề nghị Ngân hàng Nhà nước chấp thuận, tổng số tiền trích lập dự phòng cụ thể hằng năm được xác định theo chính sách dự phòng rủi ro của ngân hàng nước ngoài dự kiến áp dụng không thấp hơn tổng số tiền trích lập dự phòng rủi ro cụ thể hằng năm thực hiện theo quy định tại Nghị định số 86/2024/NĐ-CP.

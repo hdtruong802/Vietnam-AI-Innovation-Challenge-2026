@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012993
+Số quyết định: 2072/QĐ-BYT
+Tên thủ tục: Đăng ký hành nghề công tác xã hội tại Việt Nam đối với người nước ngoài, người Việt Nam định cư ở nước ngoài
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo trợ xã hội
+Trình tự thực hiện:
+    - Bước 1. Người nước ngoài, người Việt Nam định cư ở nước ngoài gửi 01 bộ hồ sơ theo quy định đến Uỷ ban nhân dân cấp tỉnh (trên địa bàn có trụ sở của các đơn vị, cơ sở có cung cấp dịch vụ công tác xã hội, cơ sở đào tạo, cơ sở giáo dục nghề nghiệp nơi người đăng ký hành nghề công tác xã hội làm việc, người hành nghề công tác xã hội độc lập).
+    - Bước 2. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ đề nghị, Uỷ ban nhân dân cấp tỉnh cấp giấy chứng nhận đăng ký hành nghề công tác xã hội (theo Mẫu số 06 tại Phụ lục ban hành kèm theo Nghị định số 110/2024/NĐ-CP); trường hợp không đủ điều kiện thì trong thời hạn không quá 03 ngày làm việc phải có văn bản trả lời, nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Năm (05) ngày làm việc, kể từ ngày nhận được hồ sơ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Năm (05) ngày làm việc, kể từ ngày nhận được hồ sơ theo quy định.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Năm (05) ngày làm việc, kể từ ngày nhận được hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+    - Tờ khai đăng ký hành nghề công tác xã hội (theo Mẫu số 07 tại Phụ lục ban hành kèm theo Nghị định số 110/2024/NĐ-CP);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy phép hành nghề công tác xã hội đã được cơ quan, tổ chức nước ngoài cấp và được hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Người nước ngoài
+Cơ quan thực hiện: Ủy ban nhân dân tỉnh và thành phố trực thuộc Trung ương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký hành nghề công tác xã hội (BYT)
+Căn cứ pháp lý:
+  * Nghị định số 147/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Y tế (147/2025/NĐ-CP)
+  * Về công tác xã hội (110/2024/NĐ-CP)
+  * Nghị định số 42/2025/NĐ-CP của Chính phủ: Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (42/2025/NĐ-CP)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Người nước ngoài, người Việt Nam định cư ở nước ngoài có giấy phép hành nghề công tác xã hội còn hiệu lực do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp được thừa nhận theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc thỏa thuận quốc tế mà Việt Nam là bên ký kết.
+Trừ những trường hợp sau đây thì không cần thực hiện thủ tục đăng ký hành nghề công tác xã hội: Người nước  ngoài, người Việt Nam định cư ở nước ngoài đã có giấy phép hành nghề công tác xã hội do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp thực hiện công tác xã hội tại Việt Nam cho đối tượng theo đợt, hợp tác đào tạo và thực hành công tác xã hội hoặc chuyển giao kỹ thuật chuyên môn trong thực hành công tác xã hội.
+Từ khóa: Không có thông tin
+Mô tả: Người nước ngoài, người Việt Nam định cư ở nước ngoài có giấy phép hành nghề công tác xã hội còn hiệu lực do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp được thừa nhận theo điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc thỏa thuận quốc tế mà Việt Nam là bên ký kết.
+Trừ những trường hợp sau đây thì không cần thực hiện thủ tục đăng ký hành nghề công tác xã hội: Người nước  ngoài, người Việt Nam định cư ở nước ngoài đã có giấy phép hành nghề công tác xã hội do cơ quan, tổ chức có thẩm quyền của nước ngoài cấp thực hiện công tác xã hội tại Việt Nam cho đối tượng theo đợt, hợp tác đào tạo và thực hành công tác xã hội hoặc chuyển giao kỹ thuật chuyên môn trong thực hành công tác xã hội.

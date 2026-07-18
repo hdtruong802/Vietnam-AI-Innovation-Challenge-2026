@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007999
+Số quyết định: 278/QĐ-BNNMT
+Tên thủ tục: Cấp phép nhập khẩu giống cây trồng chưa được cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành phục vụ nghiên cứu, khảo nghiệm, quảng cáo, triển lãm, trao đổi quốc tế (bao gồm cả giống cây trồng biến đổi gen được nhập khẩu với mục đích khảo nghiệm để đăng ký cấp Quyết định lưu hành giống cây trồng).
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trồng trọt
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân nộp 01 bộ hồ sơ đề nghị đến Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính bằng hình thức trực tiếp hoặc qua môi trường mạng hoặc qua dịch vụ bưu chính.
+    Bước 2: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp; trả lời bằng văn bản tính đầy đủ của hồ sơ trong 01 ngày làm việc đối với trường hợp nộp hồ sơ qua môi trường mạng hoặc qua dịch vụ bưu chính.
+    Bước 3: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính tổ chức thẩm định, trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cấp Giấy phép nhập khẩu giống cây trồng chưa được cấp quyết định công nhận lưu hành hoặc tự công bố lưu hành phục vụ nghiên cứu, khảo nghiệm, quảng cáo, triển lãm, trao đổi quốc tế (bao gồm cả giống cây trồng biến đổi gen được nhập khẩu với mục đích khảo nghiệm để đăng ký cấp Quyết định công nhận lưu hành giống cây trồng) theo Mẫu số 27 Phụ lục II ban hành kèm theo Thông tư số    07/2026/TT-BNNMT; trường hợp không cấp, trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Giấy chứng nhận an toàn sinh học, Giấy xác nhận thực vật biến đổi gen đủ điều kiện sử dụng làm thực phẩm, thức ăn chăn nuôi đối với trường hợp nhập  khẩu giống cây trồng biến đổi gen.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy xác nhận hoặc Giấy mời tham gia hội chợ, triển lãm của đơn vị tổ chức đối với trường hợp nhập khẩu để tham gia hội chợ, triển lãm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị nhập khẩu giống cây trồng theo Mẫu số 28 Phụ lục II ban hành kèm theo Thông tư số 07/2026/TT-BNNMT
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai kỹ thuật (mỗi giống chỉ nộp một lần khi nhập khẩu lần đầu) theo Mẫu số 29 Phụ lục II ban hành kèm theo Thông tư số 07/2026/TT-BNNMT
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép nhập khẩu giống cây trồng (theo Mẫu số 27 Phụ lục II ban hành kèm theo Thông tư số 07/2026/TT-BNNMT).
+Căn cứ pháp lý:
+  * Luật số 146/2025/QH15 ngày 11/12/2025 của Quốc hội sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường (146/2025/QH15)
+  * quy định chi tiết một số điều của Luật Bảo vệ và kiểm dịch thực vật, Luật Trồng trọt và sửa đổi, bổ sung một số điều của các thông tư trong lĩnh vực trồng trọt và bảo vệ thực vật (số 07/2026/TT-BNNMT)
+  * sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực trồng trọt và bảo vệ thực vật (Nghị định số 33/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

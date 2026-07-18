@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001540
+Số quyết định: 1728a/QĐ-NHNN
+Tên thủ tục: Thủ tục vay tái cấp vốn theo hình thức có bảo đảm bằng cầm cố giấy tờ có giá của tổ chức tín dụng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động tiền tệ
+Trình tự thực hiện:
+    - Bước 1:
+    Khi có nhu cầu vay cầm cố tại Ngân hàng Nhà nước, tổ chức tín dụng gửi hồ sơ tới Ngân hàng Nhà nước.
+    - Bước 2:
+    Căn cứ vào hồ sơ đề nghị vay cầm cố của tổ chức tín dụng, Ngân hàng Nhà nước xem xét đề nghị vay của tổ chức tín dụng.
+    - Bước 3:
+    Trong thời hạn tối đa 02 ngày làm việc kể từ ngày nhận được đủ hồ sơ hợp lệ, Ngân hàng Nhà nước thông báo bằng văn bản cho tổ chức tín dụng đề nghị vay về việc chấp thuận hay không chấp thuận cho vay cầm cố.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tình hình giao dịch của tổ chức tín dụng với Ngân hàng Nhà nước Việt Nam (theo Mẫu 04/NHNN-CC kèm theo Thông tư 17/2011/TT-NHNN);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy đề nghị vay vốn theo hình thức cho vay có bảo đảm bằng cầm cố giấy tờ có giá (theo Mẫu 01/NHNN-CC kèm theo Thông tư 17/2011/TT-NHNN ngày 18/8/2011 của Ngân hàng Nhà nước quy định về việc cho vay có bảo đảm bằng cầm cố giấy tờ có giá của Ngân hàng Nhà nước Việt Nam với các tổ chức tín dụng);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bảng cân đối kế toán của tổ chức tín dụng tại thời điểm gần nhất (bản chính).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bảng tính toán nhu cầu vay vốn VND từ Ngân hàng Nhà nước Việt Nam theo (theo Mẫu 05/NHNN-CC kèm theo Thông tư 17/2011/TT-NHNN);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Một số chỉ tiêu về nguồn vốn và sử dụng vốn bằng đồng Việt Nam (theo Mẫu 03/NHNN-CC kèm theo Thông tư 17/2011/TT-NHNN);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bảng kê các giấy tờ có giá đề nghị cầm cố để vay vốn tại Ngân hàng Nhà nước Việt Nam có xác nhận của tổ chức phát hành, đại lý phát hành hoặc tổ chức lưu ký (theo Mẫu 02a/NHNN-CC kèm theo Thông tư 17/2011/TT-NHNN);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo vay tái cấp vốn theo hình thức có bảo đảm bằng cầm cố giấy tờ có giá của tổ chức tín dụng
+Căn cứ pháp lý:
+  * Thông tư 37/2011/TT-NHNN (37/2011/TT-NHNN)
+  * Thông tư 17/2011/TT-NHNN (17/2011/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: + Là các tổ chức tín dụng quy định tại Điều 3 Thông tư 17/2011/TT-NHNN và không bị đặt vào tình trạng kiểm soát đặc biệt;
++ Có giấy tờ có giá đủ tiêu chuẩn và thuộc danh mục các giấy tờ có giá được sử dụng cầm cố vay vốn tại Ngân hàng Nhà nước theo quy định tại Điều 8 của Thông tư Thông tư 17/2011/TT-NHNN;
++ Có mục đích vay vốn phù hợp với mục tiêu điều hành chính sách tiền tệ của Ngân hàng Nhà nước trong từng thời kỳ;
++ Có hồ sơ đề nghị vay cầm cố tại Ngân hàng Nhà nước theo đúng quy định tại Điều 15 của Thông tư Thông tư 17/2011/TT-NHNN;
++ Không có nợ quá hạn tại Ngân hàng Nhà nước tại thời điểm đề nghị vay vốn;
++ Có cam kết về sử dụng tiền vay cầm cố đúng mục đích, trả nợ gốc và lãi cho Ngân hàng Nhà nước đúng thời gian quy định.
+Từ khóa: Không có thông tin
+Mô tả: + Là các tổ chức tín dụng quy định tại Điều 3 Thông tư 17/2011/TT-NHNN và không bị đặt vào tình trạng kiểm soát đặc biệt;
++ Có giấy tờ có giá đủ tiêu chuẩn và thuộc danh mục các giấy tờ có giá được sử dụng cầm cố vay vốn tại Ngân hàng Nhà nước theo quy định tại Điều 8 của Thông tư Thông tư 17/2011/TT-NHNN;
++ Có mục đích vay vốn phù hợp với mục tiêu điều hành chính sách tiền tệ của Ngân hàng Nhà nước trong từng thời kỳ;
++ Có hồ sơ đề nghị vay cầm cố tại Ngân hàng Nhà nước theo đúng quy định tại Điều 15 của Thông tư Thông tư 17/2011/TT-NHNN;
++ Không có nợ quá hạn tại Ngân hàng Nhà nước tại thời điểm đề nghị vay vốn;
++ Có cam kết về sử dụng tiền vay cầm cố đúng mục đích, trả nợ gốc và lãi cho Ngân hàng Nhà nước đúng thời gian quy định.

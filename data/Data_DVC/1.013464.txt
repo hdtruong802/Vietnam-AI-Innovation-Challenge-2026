@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013464
+Số quyết định: 1122/QĐ-UBND-2026-SXDdacthu
+Tên thủ tục: Cấp phép thi công nút giao đấu nối vào đường địa phương đang khai thác trên địa bàn tỉnh Đồng Tháp
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+  * Bước 1:  Nộp hồ sơ TTHC:
+    Chủ đầu tư dự án xây dựng nút giao nộp hồ sơ đề nghị cấp phép thi công nút giao đấu nối vào đường địa phương đang khai thác đến cơ quan có thẩm quyền:
+    - Sở Xây dựng: cấp phép thi công nút giao đối với hệ thống đường tỉnh và đường đô thị trùng với đường tỉnh và các tuyến đường khác được giao quản lý.
+    - Ủy ban nhân dân cấp xã: cấp phép thi công nút giao đối với các tuyến đường đô thị, các tuyến đường xã và các tuyến đường khác trên địa bàn được phân cấp quản lý (trừ khoản 1 Điều 3 Quyết định số 18/2026/QĐ-UBND).
+  * Bước 2:  Giải quyết TTHC:
+    -	 Đối với hồ sơ nộp trực tiếp, cơ quan có thẩm quyền thực hiện kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận và viết phiếu hẹn trả kết quả, nếu không đủ thì hướng dẫn chủ đầu tư hoàn thiện hồ sơ theo quy định.
+    -	 Đối với hồ sơ nộp gián tiếp, trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan có thẩm quyền thực hiện kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận, nếu không đủ có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện.
+    -	 Trong thời hạn 05 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền tiến hành xem xét hồ sơ, nếu đủ điều kiện thì cấp giấy phép thi công nút giao theo quy định tại mẫu số 04 Phụ lục ban hành kèm theo Quyết định số 18/2026/QĐ-UBND, trường hợp không chấp thuận thì phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị theo quy định tại mẫu số 03 Phụ lục ban hành kèm theo Quyết định số 18/2026/QĐ-UBND ngày 27/01/2026 của Ủy ban nhân dân tỉnh Đồng Tháp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thuyết minh và bản vẽ biện pháp tổ chức thi công nút giao vào địa phương đang khai thác; biện pháp bảo đảm giao thông đường bộ khi thi công xây dựng nút giao.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Sở Xây dựng tỉnh Đồng Tháp
+Cơ quan có thẩm quyền: Sở Xây dựng tỉnh Đồng Tháp
+Địa chỉ tiếp nhận HS: - Trung tâm Phục vụ hành chính công tỉnh Đồng Tháp, gồm:
++ Quầy số 06 - Số ĐT: 0273.3993844 tại địa chỉ: số 377, Hùng Vương, Phường Đạo Thạnh, tỉnh Đồng Tháp.
++ Quầy số 07, 08 - Số ĐT: 02773.898953, Chi nhánh Trung tâm Phục vụ Hành chính công tỉnh Đồng Tháp tại địa chỉ: số 10, đường Lê Thị Riêng, Phường Cao Lãnh, tỉnh Đồng Tháp.
+- Trung tâm Phục vụ hành chính công các xã, phường.
+- Thủ tục hành chính được thực hiện không phụ thuộc vào địa giới hành chính.
+- Thủ tục hành chính thực hiện tiếp nhận và trả kết quả qua dịch vụ bưu chính công ích.
+- Thủ tục hành chính thực hiện qua dịch vụ công trực tuyến một phần tại địa chỉ: dichvucong.gov.vn.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thi công nút giao vào đường địa phương đang khai thác.
+Căn cứ pháp lý:
+  * Luật số 35/2024/QH15 của Quốc hội: Luật Đường bộ (35/2024/QH15)
+  * Quy định trình tự, thủ tục hành chính về đất đai áp dụng trên địa bàn thành phố Đồng Nai (18/2026/QĐ - UBND)
+
+Yêu cầu, điều kiện thực hiện: Vị trí đấu nối được thiết kế, xây dựng tuân thủ quy chuẩn, tiêu chuẩn kỹ thuật; phù hợp với cấp đường và bảo đảm an toàn giao thông, năng lực thông hành của tuyến đường.
+Từ khóa: Cấp phép thi công nút giao đấu nối vào đường địa phương đang khai thác
+Mô tả: Vị trí đấu nối được thiết kế, xây dựng tuân thủ quy chuẩn, tiêu chuẩn kỹ thuật; phù hợp với cấp đường và bảo đảm an toàn giao thông, năng lực thông hành của tuyến đường.

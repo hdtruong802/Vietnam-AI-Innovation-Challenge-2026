@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009527
+Số quyết định: 3169/QĐ-BTC
+Tên thủ tục: Chấm dứt tự nguyện hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+  * Nộp hồ sơ
+    + Bước 1: Tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh nộp hồ sơ đề nghị chấm dứt tự nguyện hoạt động bù trừ, thanh toán giao dịch chứng khoán phái sinh.
+    + Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung danh mục hồ sơ theo quy định.
+    + Bước 3: Ủy ban Chứng khoán Nhà nước tiếp nhận và kiểm tra hồ sơ. Trường hợp danh mục hồ sơ chưa đầy đủ, hợp lệ hoặc chưa rõ ràng, UBCKNN có văn bản yêu cầu tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh bổ sung hồ sơ theo quy định.
+    + Bước 4: Trong thời hạn 07 (bẩy) ngày kể từ khi nhận đầy đủ hồ sơ hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản cho phép tiến hành các thủ tục chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước phải trả lời bằng văn bản và nêu rõ lý do.
+    + Bước 5: Sau khi tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh hoàn tất các thủ tục để chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh, tổ chức cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh nộp hồ sơ báo cáo Ủy ban Chứng khoán Nhà nước kết quả xử lý;
+    + Bước 6: Trong thời hạn 05 (năm) ngày Sau khi nhận được hồ sơ báo cáo kết quả sau khi thực hiện các thủ tục chấm dứt hoạt động, Ủy ban Chứng khoán Nhà nước ra quyết định thu hồi Giấy chứng nhận cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Trường hợp từ chối, Ủy ban Chứng khoán Nhà nước trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Hồ sơ báo cáo kết quả xử lý sau khi thực hiện các thủ tục chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh bao gồm: ]
+    - + Biên bản thanh lý, có xác nhận của thành viên bù trừ thay thế và tài liệu xác thực việc đã hoàn tất bàn giao toàn bộ tài khoản, tài sản ký quỹ của khách hàng cho thành viên thay thế (nếu có); + Quyết định rút tư cách thành viên bù trừ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản xác nhận đã thanh toán đầy đủ các khoản thuế, giá dịch vụ, các khoản nợ và các nghĩa vụ tài chính khác liên quan đến hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách khách hàng với đầy đủ thông tin nhận diện khách hàng, tài khoản giao dịch chứng khoán phái sinh, tài khoản ký quỹ và danh mục tài sản ký quỹ, vị thế trên từng tài khoản; lý do không thể tất toán, xử lý các tài khoản còn tồn (nếu chưa xử lý được);
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hồ sơ đề nghị chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh bao gồm: ]
+    - + Giấy đề nghị chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Nghị quyết của Đại hội đồng cổ đông, Hội đồng thành viên hoặc Quyết định của chủ sở hữu về việc chấm dứt hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh và thông qua phương án xử lý các vấn đề liên quan
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Phương án xử lý các hợp đồng cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh còn hiệu lực, bao gồm phương án xử lý các tài khoản và tài sản ký quỹ của khách hàng
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Không có thông tin
+Căn cứ pháp lý:
+  * Luật 54/2019/QH14 (54/2019/QH14)
+  * Nghị định 158/2020/NĐ-CP (158/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

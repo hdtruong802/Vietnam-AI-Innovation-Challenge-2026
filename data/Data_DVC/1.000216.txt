@@ -1,0 +1,40 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000216
+Số quyết định: 987/QĐ-NHNN
+Tên thủ tục: Thủ tục cấp Giấy phép thu, chi ngoại tệ và hoạt động ngoại hối khác (đối với doanh nghiệp kinh doanh trò chơi điện tử có thưởng) dành cho người nước ngoài
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Doanh nghiệp hoạt động kinh doanh trò chơi điện tử có thưởng lập và gửi 01 (một) bộ hồ sơ đến Ngân hàng Nhà nước Việt Nam
+    + Bước 2: Trong thời hạn 22 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước Việt Nam xem xét và cấp Giấy phép theo Mẫu số 05 quy định tại Phụ lục II ban hành kèm theo Nghị định số 121/2021/NĐ-CP. Trường hợp từ chối, Ngân hàng Nhà nước Việt Nam có văn bản thông báo rõ lý do.
+    Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước Việt Nam có văn bản yêu cầu doanh nghiệp bổ sung hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 22 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 22 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Quy chế quản lý, kiểm soát nội bộ đối với nguồn thu, chi ngoại tệ do người đại diện theo pháp luật của doanh nghiệp ký.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị cấp Giấy phép theo Mẫu số 04 quy định tại Phụ lục II ban hành kèm theo Nghị định số 121/2021/NĐ-CP ngày 27/12/2021;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam số 49, Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác, Văn bản từ chối cấp Giấy phép thu, chi ngoại tệ và hoạt động ngoại hối khác (đối với doanh nghiệp kinh doanh trò chơi điện tử có thưởng) dành cho người nước ngoài
+Căn cứ pháp lý:
+  * Nghị định 121/2021/NĐ-CP (121/2021/NĐ-CP)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

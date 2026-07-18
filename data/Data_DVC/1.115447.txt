@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115447
+Số quyết định: 1868/QĐ-UBND
+Tên thủ tục: Thu hồi Giấy chứng nhận đã cấp lần đầu không đúng quy định của pháp luật đất đai do người sử dụng đất, chủ sở hữu tài sản gắn liền với đất phát hiện và cấp lại Giấy chứng nhận sau khi thu hồi
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đất đai
+Trình tự thực hiện:
+  * Bước 1: Người đề nghị nộp hồ sơ đến Trung tâm Phục vụ hành chính công.
+    Trung tâm Phục vụ hành chính công tiếp nhận hồ sơ và chuyển hồ sơ đến Phòng Kinh tế/Phòng Kinh tế Hạ tầng và Đô thị.
+  * Bước 2: Phòng Kinh tế/Phòng Kinh tế Hạ tầng và Đô thị thực hiện:
+    - Thông báo cho Văn phòng đăng ký đất đai, Chi nhánh Văn phòng đăng ký đất đai chuyển hồ sơ cấp Giấy chứng nhận lần đầu để kiểm tra, xem xét và trình Chủ tịch Ủy ban nhân dân cấp xã quyết định thu hồi Giấy chứng nhận đã cấp không đúng quy định của pháp luật đất đai.
+    - Kiểm tra hồ sơ, xác định lại thông tin quy định tại điểm d khoản 2 Điều 152 Luật Đất đai theo đúng quy định của pháp luật đất đai tại thời điểm cấp Giấy chứng nhận.
+    - Trình Chủ tịch Ủy ban nhân dân cấp xã cấp Giấy chứng nhận (Đối với trường hợp cấp lại Giấy chứng nhận quyền sử dụng đất).
+  * Bước 3:
+    Chủ tịch Ủy ban nhân dân cấp xã ký Quyết định thu hồi Giấy chứng nhận quyền sử dụng đất; Ký cấp Giấy chứng nhận quyền sử dụng đất (Đối với trường hợp cấp lại Giấy chứng nhận quyền sử dụng đất.
+  * Bước 4: Phòng Kinh tế/Phòng Kinh tế Hạ tầng và Đô thị:
+    Chuyển Giấy chứng nhận quyền sử dụng đất đến Trung tâm hành chính công cấp xã để trả kết quả cho người sử dụng đất. Chuyển hồ sơ kèm theo bản sao Giấy chứng nhận đã cấp đến Chi nhánh Văn phòng đăng ký đất đai để cập nhật, chỉnh lý cơ sở dữ liệu đất đai, hồ sơ địa chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+    Mô tả: - Thời gian thu hồi Giấy chứng nhận đã cấp không quá 25 ngày làm việc.
+- Thời gian thực hiện đăng ký, cấp lại Giấy chứng nhận sau thu hồi không quá 20 ngày làm việc (trong đó thời gian cấp Giấy chứng nhận là không quá 03 ngày làm việc kể từ khi người sử dụng đất hoàn thành nghĩa vụ tài chính).
+Đối với các xã miền núi, vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện thu hồi Giấy chứng nhận đã cấp là không quá 35 ngày làm việc, thời gian cấp lại Giấy chứng nhận sau thu hồi là không quá 30 ngày làm việc.
+Thời gian trên không bao gồm thời gian cơ quan có thẩm quyền xác định nghĩa vụ tài chính về đất đai, thời gian thực hiện nghĩa vụ tài chính của người sử dụng đất, thời gian xem xét xử lý đối với trường hợp sử dụng đất có vi phạm pháp luật, thời gian trưng cầu giám định, thời gian niêm yết công khai, đăng tin trên phương tiện thông tin đại chúng…
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+    Mô tả: - Thời gian thu hồi Giấy chứng nhận đã cấp không quá 25 ngày làm việc.
+- Thời gian thực hiện đăng ký, cấp lại Giấy chứng nhận sau thu hồi không quá 20 ngày làm việc (trong đó thời gian cấp Giấy chứng nhận là không quá 03 ngày làm việc kể từ khi người sử dụng đất hoàn thành nghĩa vụ tài chính).
+Đối với các xã miền núi, vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện thu hồi Giấy chứng nhận đã cấp là không quá 35 ngày làm việc, thời gian cấp lại Giấy chứng nhận sau thu hồi là không quá 30 ngày làm việc.
+Thời gian trên không bao gồm thời gian cơ quan có thẩm quyền xác định nghĩa vụ tài chính về đất đai, thời gian thực hiện nghĩa vụ tài chính của người sử dụng đất, thời gian xem xét xử lý đối với trường hợp sử dụng đất có vi phạm pháp luật, thời gian trưng cầu giám định, thời gian niêm yết công khai, đăng tin trên phương tiện thông tin đại chúng…
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Luật phí và lệ phí và các văn bản quy phạm pháp luật hướng dẫn Luật phí và lệ phí.)
+    Mô tả: - Thời gian thu hồi Giấy chứng nhận đã cấp không quá 25 ngày làm việc.
+- Thời gian thực hiện đăng ký, cấp lại Giấy chứng nhận sau thu hồi không quá 20 ngày làm việc (trong đó thời gian cấp Giấy chứng nhận là không quá 03 ngày làm việc kể từ khi người sử dụng đất hoàn thành nghĩa vụ tài chính).
+Đối với các xã miền núi, vùng sâu, vùng xa, vùng có điều kiện kinh tế - xã hội khó khăn, vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn thì thời gian thực hiện thu hồi Giấy chứng nhận đã cấp là không quá 35 ngày làm việc, thời gian cấp lại Giấy chứng nhận sau thu hồi là không quá 30 ngày làm việc.
+Thời gian trên không bao gồm thời gian cơ quan có thẩm quyền xác định nghĩa vụ tài chính về đất đai, thời gian thực hiện nghĩa vụ tài chính của người sử dụng đất, thời gian xem xét xử lý đối với trường hợp sử dụng đất có vi phạm pháp luật, thời gian trưng cầu giám định, thời gian niêm yết công khai, đăng tin trên phương tiện thông tin đại chúng…
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị hỗ trợ (Mẫu 1).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Tổ chức nước ngoài
+Cơ quan thực hiện: Cơ quan chuyên môn về Nông nghiệp và Môi trường thuộc UBND cấp xã
+Cơ quan có thẩm quyền: Chủ tịch UBND cấp xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Văn phòng Đăng ký đất đai tỉnh
+Kết quả thực hiện: Giấy chứng nhận
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không quy định.
+Từ khóa: Không có thông tin
+Mô tả: Không quy định.

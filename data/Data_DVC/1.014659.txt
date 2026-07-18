@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014659
+Số quyết định: 248/QĐ-BKHCN
+Tên thủ tục: Thẩm định Báo cáo đánh giá an toàn trong thăm dò, khai thác, chế biến, đóng cửa mỏ khoáng sản có tính phóng xạ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: An toàn bức xạ và hạt nhân
+Trình tự thực hiện:
+    -Tổ chức, cá nhân có nhu cầu đề nghị thẩm định Báo cáo đánh giá an toàn trong thăm dò, khai thác, chế biến, đóng cửa mỏ khoáng sản có tính phóng xạ nộp 01 bộ hồ sơ đến Bộ phận tiếp nhận và trả kết quả của Bộ Khoa học và Công nghệ (Cục An toàn bức xạ và hạt nhân).
+    - Trường hợp nộp hồ sơ trực tiếp, Bộ phận tiếp nhận và trả kết quả của Bộ Khoa học và Công nghệ (Cục An toàn bức xạ và hạt nhân) phải kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thu phí, lệ phí (nếu có) đối với hồ sơ hợp lệ.
+    - Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc trực tuyến, Bộ phận tiếp nhận và trả kết quả của Bộ Khoa học và Công nghệ (Cục An toàn bức xạ và hạt nhân) trong thời hạn 03 ngày làm việc phải kiểm tra tính đầy đủ, hợp lệ của hồ sơ và thông báo thông báo bằng văn bản mức phí, lệ phí (nếu có) đối với hồ sơ hợp lệ (trường hợp tổ chức, cá nhân nộp nhiều hồ sơ cùng thời điểm, cơ quan tiếp nhận hồ sơ phát hành 01 bản thông báo mức phí, lệ phí cho tất cả hồ sơ) hoặc thông báo bằng văn bản yêu cầu sửa đổi, bổ sung hồ sơ nếu hồ sơ chưa đầy đủ, hợp lệ hoặc thông báo trực tuyến trên Cổng dịch vụ công quốc gia.
+    - Trong thời hạn 25 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ và phí, lệ phí (nếu có), Cục An toàn bức xạ và hạt nhân tổ chức thẩm định và trả kết quả thẩm định cho tổ chức, cá nhân bằng văn bản, trong đó nêu rõ bản Báo cáo đánh giá an toàn đáp ứng hoặc không đáp ứng các điều kiện an toàn. Trường hợp không đáp ứng các điều kiện an toàn phải nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Phí thẩm định: Chưa có quy định)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Phí thẩm định: Chưa có quy định)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Phí thẩm định: Chưa có quy định)
+
+Thành phần hồ sơ:
+    - 2. Báo cáo đánh giá an toàn được phân loại theo từng loại cơ sở tương ứng quy định tại Phụ lục IX của Nghị định số 332/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 1. Văn bản đề nghị thẩm định Báo cáo đánh giá an toàn trong thăm dò, khai thác, chế biến, đóng cửa mỏ khoáng sản có tính phóng xạ theo Mẫu số 12 Phụ lục VIII của Nghị định số 332/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cục An toàn bức xạ và hạt nhân
+Cơ quan có thẩm quyền: Cục An toàn bức xạ và hạt nhân
+Địa chỉ tiếp nhận HS: Bộ phận tiếp nhận và trả kết quả của Bộ Khoa học và Công nghệ, 113 Trần Duy Hưng, phường Yên Hòa, TP. Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt kết quả thẩm định Báo cáo đánh giá an toàn trong thăm dò, khai thác, chế biến, đóng cửa mỏ khoáng sản có tính phóng xạ
+Căn cứ pháp lý:
+  * Trang chủ Nghị định số 332/2025/NĐ-CP của Chính phủ (332/2025/NĐ-CP)
+  * Luật Năng lượng nguyên tử số 94/2025/QH15 ngày 27 tháng 6 năm 2025. (94/2025/QH15 ngày 27/6/2025)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Thẩm định Báo cáo đánh giá an toàn trong thăm dò, khai thác, chế biến, đóng cửa mỏ khoáng sản có tính phóng xạ
+Mô tả: Không có

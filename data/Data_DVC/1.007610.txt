@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007610
+Số quyết định: 1844/QĐ-BTC
+Tên thủ tục: Thủ tục cấp phát kinh phí đối với các tổ chức, đơn vị thuộc các Tập đoàn kinh tế, tổng công ty nhà nước
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tài chính doanh nghiệp
+Trình tự thực hiện:
+    - Bước 1: Các Tập đoàn kinh tế, tổng công ty nà nước rà soát, thẩm định tổng hợp số liệu đề nghị cấp kinh phí hỗ trợ đào tạo, kinh phí bảo hiểm và 20% kinh phí giảm khoán theo định mức lao động chung của các tổ chức, đơn vị trực thuộc, có văn bản báo cáo Bộ Tài chính.
+    - Bước 2: Bộ Tài chính thẩm định và cấp kinh phí bằng lệnh chi tiền cho các Tập đoàn kinh tế nhà nước, Tổng công ty nhà nước để chi trả cho tổ chức, đơn vị có sử dụng lao động là người dân tộc thiểu số theo quy định của Luật ngân sách nhà nước
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Hồ sơ hỗ trợ kinh phí đào tạo: ]
+    - 	Trường hợp đào tạo tại đơn vị: Quyết định của đơn vị tổ chức lớp học, số người đào tạo, ngành, nghề đào tạo, các chứng từ thanh toán liên quan đến việc tổ chức lớp học.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 	Trường hợp đào tạo tập trung tại các trường lớp dạy nghề: Hợp đồng đào tạo, thanh lý hợp đồng, chứng từ thanh toán tiền giữa đơn vị với các trường lớp dạy nghề.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ hỗ trợ kinh phí đóng bảo hiểm: Danh sách lao động là người dân tộc thiểu số, mức đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp có xác nhận của cơ quan bảo hiểm
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hồ sơ hỗ trợ 20% định mức lao động chung: Định mức lao động chung để giao khoán hoặc trả công cho lao động do cơ quan có thẩm quyền quyết định, danh sách lao động là người dân tộc thiểu số có mặt thường xuyên trong năm quyết toán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Cục Phát triển doanh nghiệp nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo của Bộ Tài chính về số kinh phí hỗ trợ
+Căn cứ pháp lý:
+  * Về việc hỗ trợ tổ chức, đơn vị sử dụng lao động là người dân tộc thiểu số tại khu vực miền núi, vùng đặc biệt khó khăn (42/2012/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008617
+Số quyết định: 1032/QĐ-TCHQ
+Tên thủ tục: Thủ tục tạm nhập hàng hóa tạm quản
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Người khai hải quan xuất trình sổ ATA và nộp các chứng từ trong bộ hồ sơ hải quan cho cơ quan hải quan.
+    Bước 2: Công chức hải quan tiếp nhận và kiểm tra hồ sơ hải quan do người khai hải quan nộp và xuất trình;
+    Trường hợp kết quả kiểm tra hồ sơ không phù hợp, từ chối thực hiện thủ tục hải quan theo quy định, trong thời hạn 02 giờ làm việc kể từ thời điểm kiểm tra hồ sơ và nêu rõ lý do. Đồng thời hướng dẫn người khai hải quan thực hiện thủ tục tạm nhập tái xuất theo quy định của pháp luật.
+    Trường hợp kết quả kiểm tra hồ sơ phù hợp, nhưng có nghi ngờ về thông tin trên sổ ATA và danh mục hàng kèm sổ ATA thì trong vòng 02 giờ kể từ khi tiếp nhận hồ sơ, Chi cục hải quan có văn bản đề nghị VCCI xác minh các thông tin nghi ngờ. Trong thời hạn 02 ngày kể từ ngày nhận được văn bản của Chi cục hải quan, VCCI có trách nhiệm xác minh và phản hồi cho Chi cục hải quan đề nghị; nếu kết quả xác minh của VCCI không phù hợp thì từ chối thực hiện thủ tục hải quan.
+    Trường hợp kết quả kiểm tra hồ sơ hoặc thông tin xác minh của VCCI phù hợp thì thực hiện kiểm tra thực tế hàng hóa trên cơ sở áp dụng quản lý rủi ro.
+    Trường hợp phải kiểm tra thực tế hàng hóa, nếu kết quả kiểm tra thực tế phù hợp với hồ sơ thì thực hiện Bước 3, nếu kết quả kiểm tra thực tế không phù hợp với hồ sơ thì từ chối thực hiện thủ tục tạm nhập theo sổ ATA;
+    Bước 3: Công chức hải quan thực hiện ghi và xác nhận các thông tin trên sổ ATA;
+    Bước 4: Công chức hải quan cập nhật thông tin sổ ATA vào Hệ thống xử lý dữ liệu điện tử hải quan, trường hợp chưa có Hệ thống xử lý dữ liệu điện tử hải quan thì cơ quan hải quan lưu bản chụp trang bìa sổ ATA và cuống màu trắng (Couter foil);
+    Bước 5: Công chức hải quan trả sổ ATA cho người khai hải quan, lưu phiếu nhập khẩu màu trắng (Importation Voucher) không bao gồm cuống phiếu
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Vận tải đơn hoặc các chứng từ vận tải khác có giá trị tương đương đối với trường hợp hàng hóa vận chuyển bằng đường biển, đường hàng không, đường sắt và vận tải đa phương thức
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Sổ ATA do VCCI cấp theo quy định;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản xác nhận của cơ quan có thẩm quyền về tổ chức hoặc tham dự sự kiện quy định tại khoản 7 Điều 3 Nghị định số 64/2020/NĐ-CP
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy phép tạm nhập, văn bản thông báo kết quả kiểm tra chuyên ngành theo quy định của pháp luật:
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận hàng hóa tạm nhập trên sổ ATA
+Căn cứ pháp lý:
+  * Nghị định số 64/2020/NĐ-CP ngày 10/6/2020 của Chính phủ hướng dẫn thực hiện cơ chế tạm quản theo Công ước Istanbul. (64/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

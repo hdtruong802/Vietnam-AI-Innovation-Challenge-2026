@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011020
+Số quyết định: 844/QĐ-BTC
+Tên thủ tục: Khai thuế đối với tổ chức khai thay và nộp thay cho cá nhân trong trường hợp cá nhân hợp tác kinh doanh với tổ chức, tổ chức chi trả cho cá nhân đạt doanh số, tổ chức là chủ sở hữu sàn giao dịch thương mại điện tử, tổ chức tại Việt Nam là đối tác của nhà cung cấp nền tảng số ở nước ngoài
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1.Tổ chức hợp tác kinh doanh với cá nhân; tổ chức chi trả các khoản thưởng, hỗ trợ đạt doanh số, khuyến mại, chiết khấu thanh toán, chi hỗ trợ bằng tiền hoặc không bằng tiền cho cá nhân chuẩn bị hồ sơ khai thuế và gửi đến cơ quan thuế chậm nhất là ngày thứ 20 (hai mươi) của tháng tiếp theo tháng phát sinh nghĩa vụ khai thuế thay nếu tổ chức khai thuế theo tháng hoặc chậm nhất là ngày cuối cùng của tháng đầu tiên của quý tiếp theo quý phát sinh nghĩa vụ khai thuế thay nếu tổ chức khai thuế theo quý.
+    + Bước 2. Cơ quan thuế tiếp nhận hồ sơ của người nộp thuế:
+    ++ Trường hợp hồ sơ được nộp trực tiếp tại Trung tâm Phục vụ hành chính công cấp tỉnh/cấp xã hoặc hồ sơ được gửi qua đường bưu chính: cơ quan thuế thực hiện tiếp nhận, giải quyết hồ sơ theo quy định.
+    ++ Trường hợp hồ sơ được nộp đến cơ quan thuế thông qua giao dịch điện tử, việc tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - ++ Phụ lục Bảng kê chi tiết cá nhân kinh doanh mẫu số 01-1/BK-CNKD (Kèm theo Tờ khai 01/CNKD áp dụng đối với tổ chức, cá nhân khai thuế thay, nộp thuế thay cho cá nhân; cá nhân hợp tác kinh doanh với tổ chức; tổ chức chi trả cho cá nhân đạt doanh số; tổ chức là chủ sở hữu sàn giao dịch thương mại điện tử; tổ chức tại Việt Nam là đối tác của nhà cung cấp nền tảng số ở nước ngoài) theo Phụ lục I - Danh mục hồ sơ khai thuế ban hành kèm theo Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ và Phụ lục II - Danh mục mẫu biểu ban hành kèm theo Thông tư số 40/2021/TT-BTC ngày 01/6/2021 của Bộ trưởng Bộ Tài chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ++ Tờ khai thuế đối với hộ kinh doanh, cá nhân kinh doanh mẫu số 01/CNKD theo Phụ lục I - Danh mục hồ sơ khai thuế ban hành kèm theo Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ và Phụ lục II - Danh mục mẫu biểu ban hành kèm theo Thông tư số 40/2021/TT-BTC ngày 01/6/2021 của Bộ trưởng Bộ Tài chính (đã được sửa đổi tại Thông tư số 40/2025/TT-BTC và Thông tư số 94/2025/TT-BTC).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ++ Bản sao hợp đồng hợp tác kinh doanh (nếu là lần khai thuế đầu tiên của hợp đồng). Cơ quan thuế có quyền yêu cầu xuất trình bản chính để đối chiếu, xác nhận tính chính xác của bản sao so với bản chính
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Thuế cơ sở, Thuế tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và sửa đổi, bổ sung một số mẫu biểu của Thông tư số 40/2021/TT-BTC ngày 01 tháng 6 năm 2021 của Bộ Tài chính hướng dẫn thuế giá trị gia tăng, thuế thu nhập cá nhân và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh (94/2025/TT-BTC)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * sửa đổi một số điều của Thông tư 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế (46/2024/TT-BTC)
+  * Nghị định số 125/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tài chính (125/2025/NĐ-CP)
+  * Nghị định số 91/2022/NĐ-CP sửa đổi bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (91/2022/NĐ-CP)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Nghị định số 122/2025/NĐ-CP của Chính phủ: Quy định về phân quyền, phân cấp trong lĩnh vực quản lý thuế (122/2025/NĐ-CP)
+  * Thông tư số 40/2025/TT-BCT (Thông tư số 40/2025/TT-BCT)
+  * Thông tư 100/2021/TT-BTC (100/2021/TT-BTC)
+  * Thông tư 40/2021/TT-BTC (40/2021/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

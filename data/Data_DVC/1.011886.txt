@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011886
+Số quyết định: 2776/QĐ-BKHCN
+Tên thủ tục: Cấp Giấy phép sử dụng băng tần sau khi chuyển nhượng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tần số vô tuyến điện
+Trình tự thực hiện:
+    - Tổ chức hoàn thiện hồ sơ đề nghị cấp giấy phép sử dụng băng tần sau khi chuyển nhượng theo quy định và nộp hồ sơ đến Bộ phận Một cửa của Bộ Khoa học và Công nghệ (Cục Tần số vô tuyến điện) hoặc Cổng dịch vụ công quốc gia.
+    - Cục Tần số vô tuyến điện tiếp nhận, kiểm tra tính hợp lệ của hồ sơ.
+    + Trường hợp hồ sơ chưa đầy đủ, chưa đúng quy định về thành phần hồ sơ thì trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan cấp giấy phép sử dụng tần số vô tuyến điện thông báo, hướng dẫn tổ chức bổ sung, hoàn thiện hồ sơ.
+    + Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Tần số vô tuyến điện cấp giấy phép sử dụng băng tần cho tổ chức đề nghị nhận chuyển nhượng theo Mẫu 2 mục II Phụ lục I.3.2 ban hành kèm theo Nghị quyết số 66.18/2026/NQ-CP; trường hợp từ chối cấp giấy phép có văn bản thông báo và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 ngày
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính) | 0 VNĐ (Theo quy định của Bộ Tài chính)
+    Mô tả: - 05 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. - Nộp trực tuyến trên Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 ngày
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính) | 0 VNĐ (Theo quy định của Bộ Tài chính)
+    Mô tả: - 05 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. - Nộp qua dịch vụ bưu chính về Bộ phận Một cửa của Bộ Khoa học và Công nghệ; (Địa chỉ Bộ phận Một cửa của Bộ Khoa học và Công nghệ: + Bộ phận Một cửa cơ sở 1 tại Tầng 1, Tòa nhà Cục Đổi mới Sáng tạo, số 113 đường Trần Duy Hưng, phường Yên Hòa, TP. Hà Nội; + Bộ phận Một cửa cơ sở 2 tại Tòa nhà số 1196 đường 3 tháng 2, Phường Bình Thới, TP. Hồ Chí Minh; + Bộ phận Một cửa cơ sở 3 tại Đại diện Văn phòng Bộ tại miền Trung, số 42 Trần Quốc Toản, TP. Đà Nẵng).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 ngày
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính) | 0 VNĐ (Theo quy định của Bộ Tài chính)
+    Mô tả: - 05 ngày kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định. - Nộp trực tiếp tại Bộ phận Một cửa của Bộ Khoa học và Công nghệ; (Địa chỉ Bộ phận Một cửa của Bộ Khoa học và Công nghệ: + Bộ phận Một cửa cơ sở 1 tại Tầng 1, Tòa nhà Cục Đổi mới Sáng tạo, số 113 đường Trần Duy Hưng, phường Yên Hòa, TP. Hà Nội; + Bộ phận Một cửa cơ sở 2 tại Tòa nhà số 1196 đường 3 tháng 2, Phường Bình Thới, TP. Hồ Chí Minh; + Bộ phận Một cửa cơ sở 3 tại Đại diện Văn phòng Bộ tại miền Trung, số 42 Trần Quốc Toản, TP. Đà Nẵng).
+
+Thành phần hồ sơ:
+    - Bản khai theo Mẫu 2 mục I Phụ lục I.3.2 ban hành kèm theo Nghị quyết số 66.18/2026/NQ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Tần số vô tuyến điện
+Cơ quan có thẩm quyền: Cục Tần số vô tuyến điện
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa của Bộ Khoa học và Công nghệ: + Bộ phận Một cửa cơ sở 1 tại Tầng 1, Tòa nhà Cục Đổi mới Sáng tạo, số 113 đường Trần Duy Hưng, phường Yên Hòa, TP. Hà Nội; + Bộ phận Một cửa cơ sở 2 tại Tòa nhà số 1196 đường 3 tháng 2, Phường Bình Thới, TP. Hồ Chí Minh; + Bộ phận Một cửa cơ sở 3 tại Đại diện Văn phòng Bộ tại miền Trung, số 42 Trần Quốc Toản, TP. Đà Nẵng.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép sử dụng băng tần.
+Căn cứ pháp lý:
+  * Thông tư số 11/2022/TT-BTC ngày 21/02/2022 của Bộ trưởng Bộ Tài chính (11/2022/TT-BTC)
+  * Nghị quyết số 66.18/2026/NQ-CP ngày 18 tháng 5 năm 2026 của Chính phủ về việc phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (66.18/2026/NQ-CP)
+  * Thông tư số 265/2016/TT-BTC (Thông tư số 265/2016/TT-BTC)
+  * Luật số 09/2022/QH15 của Quốc hội (09/2022/QH15)
+  * Nghị định số 63/2023/NĐ-CP của Chính phủ (63/2023/NĐ-CP)
+  * Nghị quyết số 66.16/2026/NQ-CP của Chính phủ ngày 07/04/2026 về việc Cắt giảm, đơn giản hóa thủ tục hành chính,quy định liên quan đến hoạt động sản xuất, kinh doanh (66.16/2026/NQ-CP)
+  * Luật Tần số vô tuyến điện (42/2009/QH12)
+
+Yêu cầu, điều kiện thực hiện: - Tổ chức nhận chuyển nhượng quyền sử dụng tần số vô tuyến điện phải có đủ điều kiện được cấp giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng phù hợp với băng tần, kênh tần số nhận chuyển nhượng theo quy định của pháp luật về viễn thông và phải kế thừa đầy đủ các nghĩa vụ của tổ chức chuyển nhượng.
+- Tổng độ rộng băng tần được phép sử dụng của tổ chức nhận chuyển nhượng quyền sử dụng tần số vô tuyến điện sau khi nhận chuyển nhượng không vượt quá giới hạn tổng độ rộng băng tần mà một tổ chức được phép sử dụng quy định tại quy hoạch băng tần.
+- Các bên tham gia chuyển nhượng quyền sử dụng tần số vô tuyến điện có trách nhiệm bảo đảm quyền và lợi ích hợp pháp của người sử dụng dịch vụ viễn thông theo hợp đồng sử dụng dịch vụ viễn thông đã giao kết.
+Từ khóa: Không có thông tin
+Mô tả: - Tổ chức nhận chuyển nhượng quyền sử dụng tần số vô tuyến điện phải có đủ điều kiện được cấp giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng phù hợp với băng tần, kênh tần số nhận chuyển nhượng theo quy định của pháp luật về viễn thông và phải kế thừa đầy đủ các nghĩa vụ của tổ chức chuyển nhượng.
+- Tổng độ rộng băng tần được phép sử dụng của tổ chức nhận chuyển nhượng quyền sử dụng tần số vô tuyến điện sau khi nhận chuyển nhượng không vượt quá giới hạn tổng độ rộng băng tần mà một tổ chức được phép sử dụng quy định tại quy hoạch băng tần.
+- Các bên tham gia chuyển nhượng quyền sử dụng tần số vô tuyến điện có trách nhiệm bảo đảm quyền và lợi ích hợp pháp của người sử dụng dịch vụ viễn thông theo hợp đồng sử dụng dịch vụ viễn thông đã giao kết.

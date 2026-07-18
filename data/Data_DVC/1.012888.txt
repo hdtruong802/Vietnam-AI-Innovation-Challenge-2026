@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012888
+Số quyết định: 903/QĐ-BXD
+Tên thủ tục: Công nhận Ban quản trị nhà chung cư
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Nhà ở và công sở
+Trình tự thực hiện:
+    - Trong thời hạn 10 ngày, kể từ ngày có biên bản bầu Ban quản trị hoặc thành viên Ban quản trị theo quy định (bao gồm trường hợp bầu Ban quản trị lần đầu, bầu Ban quản trị khi hết nhiệm kỳ, bầu Ban quản trị khi bị bãi nhiệm, miễn nhiệm, bầu Ban quản trị mới khi tách, nhập Ban quản trị), Ban quản trị có trách nhiệm nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến 01 bộ hồ sơ đề nghị công nhận Ban quản trị nhà chung cư quy định tại Điều 22 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng tại Ủy ban nhân dân cấp huyện nơi có nhà chung cư.
+    - Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đầy đủ hồ sơ đề nghị của Ban quản trị, Ủy ban nhân dân cấp huyện có trách nhiệm kiểm tra và ban hành quyết định công nhận Ban quản trị hoặc ủy quyền cho Ủy ban nhân dân cấp xã nơi có nhà chung cư kiểm tra hồ sơ và ban hành quyết định công nhận Ban quản trị.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không quy định.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không quy định.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không quy định.)
+
+Thành phần hồ sơ:
+  [ Hồ sơ gồm bản sao kèm bản chính đối chiếu hoặc bản sao được chứng thực hoặc bản sao điện tử có giá thị pháp lý các giấy tờ sau: ]
+    - 1. Đối với Ban quản trị được bầu tại Hội nghị nhà chung cư lần đầu thì hồ sơ đề nghị công nhận Ban quản trị bao gồm:
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Văn bản đề nghị của chủ đầu tư, trong đó nêu rõ tên Ban quản trị đã được Hội nghị nhà chung cư thông qua; nếu thành lập Ban quản trị của tòa nhà chung cư thì tên Ban quản trị được đặt theo tên hoặc số tòa nhà; nếu thành lập Ban quản trị của cụm nhà chung cư thì tên Ban quản trị do Hội nghị nhà chung cư quyết định.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Biên bản họp Hội nghị nhà chung cư về việc bầu Ban quản trị.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Danh sách các thành viên Ban quản trị, trong đó nêu chức danh Trưởng ban, Phó ban quản trị.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Quy chế hoạt động của Ban quản trị đã được Hội nghị nhà chung cư thông qua.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - 2. Trường hợp bầu lại Ban quản trị khi hết nhiệm kỳ, bầu Ban quản trị mới do bị miễn nhiệm, bãi nhiệm theo quy định hoặc bầu thay thế thành viên Ban quản trị, bầu thay thế Trưởng ban, bầu thay thế Phó ban quản trị không phải là đại diện của chủ đầu tư hoặc do chủ đầu tư không cử đại diện thay thế thì hồ sơ đề nghị công nhận Ban quản trị bao gồm:
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Văn bản đề nghị của Ban quản trị được bầu.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Danh sách các thành viên Ban quản trị, trong đó nêu chức danh Trưởng ban, Phó ban quản trị;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Bản gốc quyết định công nhận Ban quản trị;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Quy chế hoạt động của Ban quản trị đã được Hội nghị nhà chung cư thông qua (nếu có sửa đổi, bổ sung quy chế này)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Biên bản họp Hội nghị nhà chung cư về việc bầu lại, bầu thay thế Ban quản trị hoặc thành viên Ban quản trị hoặc bầu thay thế Trưởng ban, Phó ban quản trị; trường hợp bầu thay thế thành viên Ban quản trị theo hình thức xin ý kiến các chủ sở hữu căn hộ thì phải có biên bản theo quy định tại điểm b khoản 3 Điều 26 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - 3. Trường hợp tách Ban quản trị cụm nhà chung cư theo quy định tại khoản 2 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng thì hồ sơ đề nghị công nhận Ban quản trị được quy định như sau:
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Trường hợp đề nghị công nhận Ban quản trị của tòa nhà sau khi tách khỏi cụm nhà chung cư thì hồ sơ bao gồm các giấy tờ quy định tại khoản 1 Điều 22 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng kèm theo biên bản thống nhất tách khỏi cụm nhà chung cư của đại diện các chủ sở hữu nhà chung cư theo quy định tại điểm a khoản 2 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng; trường hợp thuộc diện quy định tại điểm c khoản 2 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT- BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng thì phải có thêm bản gốc quyết định công nhận Ban quản trị.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Trường hợp đề nghị công nhận Ban quản trị của cụm nhà chung cư sau khi có tòa nhà tách khỏi cụm thì hồ sơ bao gồm văn bản đề nghị của Ban quản trị cụm nhà chung cư, bản gốc quyết định công nhận Ban quản trị cụm nhà chung cư, danh sách các thành viên Ban quản trị cụm nhà chung cư còn lại (ghi rõ họ, tên và chức danh trong Ban quản trị); trường hợp phải bầu lại Trưởng ban quản trị cụm nhà chung cư theo quy định tại điểm b khoản 2 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng thì phải kèm theo biên bản họp Hội nghị nhà chung cư về việc bầu Trưởng ban và danh sách người được bầu.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - 4. Trường hợp nhập Ban quản trị theo quy định tại khoản 3 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng thì hồ sơ đề nghị công nhận Ban quản trị cụm nhà chung cư được quy định như sau: - - Trường hợp đề nghị công nhận Ban quản trị cụm nhà chung cư sau khi nhập các Ban quản trị của các tòa nhà thì hồ sơ bao gồm các giấy tờ quy định tại khoản 1 Điều 22 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng, biên bản đề nghị tập thể của đại diện các chủ sở hữu nhà chung cư theo quy định tại điểm a khoản 3 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng và bản gốc các quyết định công nhận các Ban quản trị tòa nhà chung cư.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Trường hợp đề nghị công nhận Ban quản trị cụm nhà chung cư do nhập Ban quản trị của tòa nhà vào Ban quản trị của cụm nhà chung cư thì hồ sơ bao gồm văn bản đề nghị của Ban quản trị cụm nhà chung cư kèm theo các biên bản họp quy định tại điểm b khoản 3 Điều 27 của Quy chế Quản lý, sử dụng nhà chung cư ban hành kèm theo Thông tư số 05/2024/TT-BXD ngày 31/7/2024 của Bộ trưởng Bộ Xây dựng, danh sách các thành viên Ban quản trị của cụm (bao gồm cả thành viên mới của tòa nhà nhập vào cụm) và bản gốc quyết định công nhận Ban quản trị tòa nhà, cụm nhà chung cư.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận Ban quản trị nhà chung cư.
+Căn cứ pháp lý:
+  * Luật Nhà ở số 27/2023/QH15 (27/2023/QH15)
+  * Nghị định số 95/2024/NĐ-CP ngày 24 tháng 7 năm 2024 của Chính phủ về quy định chi tiết một số điều của Luật Nhà ở; (95/2024/NĐ-CP)
+  * Thông tư số 05/2024/TT-BXD ngày 31 tháng 7 năm 2024 của Bộ trưởng Bộ Xây dựng về quy định chi tiết một số điều của Luật Nhà ở; (05/2024/TT-BXD)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

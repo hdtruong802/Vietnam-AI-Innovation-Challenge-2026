@@ -6,7 +6,6 @@ import re
 import unicodedata
 from dataclasses import dataclass
 
-
 NORMALIZER_VERSION = "vaic-normalizer-v1"
 _HORIZONTAL_SPACE = re.compile(r"[\t\v\f \u00a0\u2007\u202f]+")
 _MOJIBAKE_MARKERS = ("Ã", "Â", "Ä", "Æ", "á»", "áº")

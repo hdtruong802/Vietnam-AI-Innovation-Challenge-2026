@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.006622
+Số quyết định: 154/QĐ-BCT
+Tên thủ tục: Xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xúc tiến thương mại
+Trình tự thực hiện:
+    - Việc xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam được tổ chức định kỳ 02 năm một lần vào các năm chẵn.
+    - Doanh nghiệp nộp hồ sơ đăng ký xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam trước ngày 31 tháng 3 của năm xét chọn đến Bộ Công Thương (Cục Xúc tiến thương mại).
+    - Trong vòng 07 ngày làm việc kể từ ngày nhận được hồ sơ của doanh nghiệp, trường hợp hồ sơ không đầy đủ theo quy định tại khoản 2 Điều 1 Quyết định 03/2026/QĐ-TTg ngày 20 tháng 01 năm 2026 của Thủ tướng Chính phủ sửa đổi, bổ sung một số điều của Quy chế xây dựng, quản lý, thực hiện Chương trình Thương hiệu quốc gia Việt Nam ban hành kèm theo Quyết định số 30/2019/QĐ-TTg ngày 08 tháng 10 năm 2019 của Thủ tướng Chính phủ, Bộ Công Thương (Cục Xúc tiến thương mại) có trách nhiệm thông báo bằng văn bản (theo Mẫu số 02 Phụ lục ban hành kèm theo Quy chế) cho doanh nghiệp để bổ sung và hoàn chỉnh hồ sơ. Doanh nghiệp có trách nhiệm nộp bổ sung hồ sơ đầy đủ trước ngày 01 tháng 5 của năm xét chọn.
+    - Trước ngày 30 tháng 8 của năm xét chọn, Bộ Công Thương (Cục Xúc tiến thương mại) có trách nhiệm thông báo kết quả xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam tới các doanh nghiệp.
+    - Kết quả xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam có hiệu lực 02 năm kể từ ngày Bộ trưởng Bộ Công Thương ban hành quyết định công nhận danh sách sản phẩm đạt Thương hiệu quốc gia Việt Nam.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trước ngày 30 tháng 8 của năm xét chọn
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trước ngày 30 tháng 8 của năm xét chọn
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trước ngày 30 tháng 8 của năm xét chọn
+
+Thành phần hồ sơ:
+  [ Số lượng hồ sơ: 03 bộ ]
+    - - Bản sao báo cáo tài chính đã được kiểm toán của doanh nghiệp trong 2 năm liên tiếp trước năm xét chọn;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao tài liệu chứng minh căn cứ phát sinh, xác lập quyền sở hữu trí tuệ như sau: + Văn bằng bảo hộ các đối tượng sở hữu công nghiệp hoặc bằng bảo hộ giống cây trồng của sản phẩm đăng ký xét chọn còn hiệu lực do cơ quan nhà nước có thẩm quyền cấp; + Giấy chứng nhận đăng ký quyền tác giả hoặc Giấy chứng nhận đăng ký quyền liên quan còn hiệu lực do cơ quan nhà nước có thẩm quyền cấp hoặc tài liệu chứng minh liên quan đến quyền tác giả, quyền liên quan của sản phẩm đăng ký xét chọn (nếu có);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao giấy chứng nhận các giải thưởng về chất lượng, thương hiệu (nếu có).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Đăng ký tham gia xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam theo Mẫu số 01 Phụ lục ban hành kèm theo Quyết định số 03/QĐ-BCT
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao giấy chứng nhận hệ thống quản lý, công cụ cải tiến năng suất, chất lượng cơ bản và đặc thù theo ngành, lĩnh vực còn hiệu lực (ISO 9001, ISO 14001, ISO 22000, ISO/IEC 17025, SA 8000, ISO 45001, HACCP, GMP, VietGAP, GlobalG.A.P và các hệ thống quản lý khác);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao giấy tờ về chất lượng của sản phẩm đăng ký xét chọn còn hiệu lực theo quy định của pháp luật;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công văn thông báo kết quả xét chọn sản phẩm đạt Thương hiệu quốc gia Việt Nam
+Căn cứ pháp lý:
+  * Quyết định số 03/2026/QĐ-TTg ngày 20 tháng 01 năm 2026 (Quyết định số 03/2026/QĐ-TTg ngày 20 tháng 01 năm 2026)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

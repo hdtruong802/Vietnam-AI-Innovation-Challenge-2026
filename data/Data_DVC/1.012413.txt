@@ -1,0 +1,151 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012413
+Số quyết định: 3317/QĐ-BNNMT
+Tên thủ tục: Phê duyệt hoặc điều chỉnh Phương án tạm sử dụng rừng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Kiểm lâm
+Trình tự thực hiện:
+    1.1. Bước 1: Gửi hồ sơ
+    Chủ đầu tư dự án có văn bản đề nghị quyết định phê duyệt Phương án tạm sử dụng rừng hoặc điều chỉnh Phương án tạm sử dụng rừng gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường điện tử 01 bộ hồ sơ đến Sở Nông nghiệp và Môi trường.
+    Trường hợp hồ sơ không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Nông nghiệp và Môi trường trả lời bằng văn bản và nêu rõ lý do.
+    1.2. Bước 2: Xác minh, tổ chức thẩm định Phương án hoặc điều chỉnh Phương án tạm sử dụng rừng
+    Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Nông nghiệp và Môi trường: kiểm tra, xác minh về báo cáo thuyết minh và bản đồ hiện trạng rừng khu vực đề nghị tạm sử dụng rừng và tổ chức thẩm định Phương án tạm sử dụng rừng hoặc điều chỉnh Phương án tạm sử dụng rừng; trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định phê duyệt Phương án tạm sử dụng rừng hoặc điều chỉnh Phương án tạm sử dụng rừng
+    1.3. Bước 3: Xem xét, quyết định phê duyệt Phương án hoặc điều chỉnh Phương án tạm sử dụng rừng
+    (i) Trường hợp diện tích rừng tạm sử dụng thuộc phạm vi quản lý của chủ rừng là các đơn vị trực thuộc các bộ, ngành; thuộc khu vực quốc phòng:
+    Trong thời hạn 03 ngày làm việc kể từ ngày nhận được tờ trình và hồ sơ của Sở Nông nghiệp và Môi trường, Ủy ban nhân dân cấp tỉnh lấy ý kiến của bộ, ngành chủ quản, Bộ Quốc phòng.
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ lấy ý kiến của Ủy ban nhân dân cấp tỉnh, bộ, ngành chủ quản, Bộ Quốc phòng có ý kiến bằng văn bản gửi Ủy ban nhân dân cấp tỉnh.
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến của bộ, ngành chủ quản, Bộ Quốc phòng, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định phê duyệt Phương án tạm sử dụng rừng. Trường hợp không phê duyệt, Chủ tịch Ủy ban nhân dân cấp tỉnh trả lời bằng văn bản và nêu rõ lý do.
+    (ii) Trường hợp không phải lấy ý kiến của bộ, ngành chủ quản; Bộ Quốc phòng:
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được Tờ trình và hồ sơ của Sở Nông nghiệp và Môi trường, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định phê duyệt Phương án tạm sử dụng rừng hoặc điều chỉnh Phương án tạm sử dụng rừng. Trường hợp không phê duyệt, Chủ tịch Ủy ban nhân dân cấp tỉnh trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: (i) Trường hợp diện tích rừng tạm sử dụng thuộc phạm vi quản lý của chủ 
+rừng là các đơn vị trực thuộc các bộ, ngành; khu vực quốc phòng: 20 ngày làm 
+việc, kể từ ngày Sở Nông nghiệp và Môi trường nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: (i) Trường hợp diện tích rừng tạm sử dụng thuộc phạm vi quản lý của chủ 
+rừng là các đơn vị trực thuộc các bộ, ngành; khu vực quốc phòng: 20 ngày làm 
+việc, kể từ ngày Sở Nông nghiệp và Môi trường nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: (i) Trường hợp diện tích rừng tạm sử dụng thuộc phạm vi quản lý của chủ 
+rừng là các đơn vị trực thuộc các bộ, ngành; khu vực quốc phòng: 20 ngày làm 
+việc, kể từ ngày Sở Nông nghiệp và Môi trường nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: (ii) Trường hợp không phải lấy ý kiến của bộ, ngành chủ quản, Bộ Quốc 
+phòng: 12 ngày làm việc, kể từ ngày Sở Nông nghiệp và Môi trường nhận được hồ 
+sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: (ii) Trường hợp không phải lấy ý kiến của bộ, ngành chủ quản, Bộ Quốc 
+phòng: 12 ngày làm việc, kể từ ngày Sở Nông nghiệp và Môi trường nhận được hồ 
+sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: (ii) Trường hợp không phải lấy ý kiến của bộ, ngành chủ quản, Bộ Quốc 
+phòng: 12 ngày làm việc, kể từ ngày Sở Nông nghiệp và Môi trường nhận được hồ 
+sơ hợp lệ.
+
+Thành phần hồ sơ:
+  [ (ii) Hồ sơ Sở Nông nghiệp và Môi trường trình Chủ tịch Ủy ban nhân dân cấp tỉnh, gồm: ]
+    - - Bản chính báo cáo thuyết minh và bản đồ hiện trạng rừng khu vực đề nghị tạm sử dụng. Báo cáo thuyết minh thể hiện vị trí (lô, khoảnh, tiểu khu; địa danh hành chính), diện tích rừng theo loại rừng (rừng đặc dụng, rừng phòng hộ, rừng sản xuất), nguồn gốc hình thành (rừng tự nhiên, rừng trồng), trữ lượng, loài cây đối với rừng trồng; Bản đồ (hiện trạng rừng khu vực tạm sử dụng rừng tỷ lệ 1/5.000 thể hiện rõ vị trí (lô, khoảnh, tiểu khu; địa danh hành chính), phạm vi, ranh giới khu rừng đề nghị tạm sử dụng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo thẩm định của Sở Nông nghiệp và Môi trường
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Điều chỉnh Phương án tạm sử dụng rừng do chủ đầu tư lập theo Mẫu tại  Phụ lục II ban hành kèm theo Nghị định số 227/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản đề nghị điều chỉnh phê duyệt Phương án tạm sử dụng rừng của  chủ đầu tư dự án theo mẫu tại Phụ lục I ban hành kèm theo Nghị định số  227/2025/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích sử dụng khác của dự án hoặc bản sao quyết định chuyển mục đích sử dụng rừng sang mục đích khác của dự án. Trường hợp dự án không chuyển mục đích sử dụng rừng sang mục đích khác có bản sao quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư hoặc quyết định phê duyệt dự án đầu tư;
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ (ii) Trường hợp 2: Dự án có thay đổi nội dung Phương án tạm sử dụng rừng đã được phê duyệt không thuộc quy định tại trường hợp 1 nêu trên, hồ sơ bao gồm: ]
+    - * Hồ sơ chủ đầu tư dự án nộp đến Sở Nông nghiệp và Môi trường, gồm:
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Văn bản đề nghị điều chỉnh phê duyệt Phương án tạm sử dụng rừng của  chủ đầu tư dự án theo mẫu tại Phụ lục I ban hành kèm theo Nghị định số  227/2025/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Điều chỉnh Phương án tạm sử dụng rừng do chủ đầu tư lập theo Mẫu tại  Phụ lục II ban hành kèm theo Nghị định số 227/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích sử dụng khác của dự án hoặc bản sao quyết định chuyển mục đích sử dụng rừng sang mục đích khác của dự án. Trường hợp dự án không chuyển mục đích sử dụng rừng sang mục đích khác có bản sao quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư hoặc quyết định phê duyệt dự án đầu tư;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản chính báo cáo thuyết minh và bản đồ hiện trạng rừng khu vực đề nghị điều chỉnh tạm sử dụng rừng. Báo cáo thuyết minh thể hiện vị trí (lô, khoảnh, tiểu khu; địa danh hành chính), diện tích rừng theo loại rừng (rừng đặc dụng, rừng phòng hộ, rừng sản xuất), nguồn gốc hình thành (rừng tự nhiên, rừng trồng), trữ lượng, loài cây đối với rừng trồng; Bản đồ (hiện trạng rừng khu vực tạm sử dụng rừng tỷ lệ 1/5.000 thể hiện rõ vị trí (lô, khoảnh, tiểu khu; địa danh hành chính), phạm vi, ranh giới khu rừng đề nghị tạm sử dụng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ (iii) Hồ sơ Uỷ ban nhân dân cấp tỉnh gửi xin ý kiến bộ, ngành chủ quản đối với diện tích rừng tạm sử dụng thuộc phạm vi quản lý của chủ rừng là các đơn vị trực thuộc các bộ, ngành, gồm: ]
+    - - Văn bản đề nghị điều chỉnh phê duyệt Phương án tạm sử dụng rừng của  chủ đầu tư dự án theo mẫu tại Phụ lục I ban hành kèm theo Nghị định số  227/2025/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích sử dụng khác của dự án hoặc bản sao quyết định chuyển mục đích sử dụng rừng sang mục đích khác của dự án. Trường hợp dự án không chuyển mục đích sử dụng rừng sang mục đích khác có bản sao quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư hoặc quyết định phê duyệt dự án đầu tư;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Văn bản đề nghị của Uỷ ban nhân dân cấp tỉnh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo thẩm định của Sở Nông nghiệp và Môi trường;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính báo cáo thuyết minh và bản đồ hiện trạng rừng khu vực đề nghị tạm sử dụng. Báo cáo thuyết minh thể hiện vị trí (lô, khoảnh, tiểu khu; địa danh hành chính), diện tích rừng theo loại rừng (rừng đặc dụng, rừng phòng hộ, rừng sản xuất), nguồn gốc hình thành (rừng tự nhiên, rừng trồng), trữ lượng, loài cây đối với rừng trồng; Bản đồ (hiện trạng rừng khu vực tạm sử dụng rừng tỷ lệ 1/5.000 thể hiện rõ vị trí (lô, khoảnh, tiểu khu; địa danh hành chính), phạm vi, ranh giới khu rừng đề nghị tạm sử dụng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Điều chỉnh Phương án tạm sử dụng rừng do chủ đầu tư lập theo Mẫu tại  Phụ lục II ban hành kèm theo Nghị định số 227/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Hồ sơ Sở Nông nghiệp và Môi trường trình Chủ tịch Ủy ban nhân dân cấp tỉnh, gồm: ]
+    - Văn bản đề nghị điều chỉnh phê duyệt Phương án tạm sử dụng rừng của  chủ đầu tư dự án theo mẫu tại Phụ lục I ban hành kèm theo Nghị định số  227/2025/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính báo cáo thuyết minh và bản đồ hiện trạng rừng khu vực đề nghị điều chỉnh tạm sử dụng rừng. Báo cáo thuyết minh thể hiện vị trí (lô, khoảnh, tiểu khu; địa danh hành chính), diện tích rừng theo loại rừng (rừng đặc dụng, rừng phòng hộ, rừng sản xuất), nguồn gốc hình thành (rừng tự nhiên, rừng trồng), trữ lượng, loài cây đối với rừng trồng; Bản đồ (hiện trạng rừng khu vực tạm sử dụng rừng tỷ lệ 1/5.000 thể hiện rõ vị trí (lô, khoảnh, tiểu khu; địa danh hành chính), phạm vi, ranh giới khu rừng đề nghị tạm sử dụng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tờ trình của Sở Nông nghiệp và Môi trường;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Điều chỉnh Phương án tạm sử dụng rừng do chủ đầu tư lập theo Mẫu tại  Phụ lục II ban hành kèm theo Nghị định số 227/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích sử dụng khác của dự án hoặc bản sao quyết định chuyển mục đích sử dụng rừng sang mục đích khác của dự án. Trường hợp dự án không chuyển mục đích sử dụng rừng sang mục đích khác có bản sao quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư hoặc quyết định phê duyệt dự án đầu tư;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Báo cáo thẩm định của Sở Nông nghiệp và Môi trường.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Hồ sơ Uỷ ban nhân dân cấp tỉnh gửi xin ý kiến bộ, ngành chủ quản đối với diện tích rừng tạm sử dụng thuộc phạm vi quản lý của chủ rừng là các đơn vị trực thuộc các bộ, ngành, gồm: ]
+    - - Báo cáo thẩm định của Sở Nông nghiệp và Môi trường;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Điều chỉnh Phương án tạm sử dụng rừng do chủ đầu tư lập theo Mẫu tại  Phụ lục II ban hành kèm theo Nghị định số 227/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích sử dụng khác của dự án hoặc bản sao quyết định chuyển mục đích sử dụng rừng sang mục đích khác của dự án. Trường hợp dự án không chuyển mục đích sử dụng rừng sang mục đích khác có bản sao quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư hoặc quyết định phê duyệt dự án đầu tư;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Văn bản đề nghị điều chỉnh phê duyệt Phương án tạm sử dụng rừng của  chủ đầu tư dự án theo mẫu tại Phụ lục I ban hành kèm theo Nghị định số  227/2025/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản đề nghị của Uỷ ban nhân dân cấp tỉnh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính báo cáo thuyết minh và bản đồ hiện trạng rừng khu vực đề nghị điều chỉnh tạm sử dụng. Báo cáo thuyết minh thể hiện vị trí (lô, khoảnh, tiểu khu; địa danh hành chính), diện tích rừng theo loại rừng (rừng đặc dụng, rừng phòng hộ, rừng sản xuất), nguồn gốc hình thành (rừng tự nhiên, rừng trồng), trữ lượng, loài cây đối với rừng trồng; Bản đồ (hiện trạng rừng khu vực tạm sử dụng rừng tỷ lệ 1/5.000 thể hiện rõ vị trí (lô, khoảnh, tiểu khu; địa danh hành chính), phạm vi, ranh giới khu rừng đề nghị tạm sử dụng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ a) Trường hợp đề nghị phê duyệt Phương án tạm sử dụng rừng ]
+    - - Điều chỉnh Phương án tạm sử dụng rừng do chủ đầu tư lập theo Mẫu tại  Phụ lục II ban hành kèm theo Nghị định số 227/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính báo cáo thuyết minh và bản đồ hiện trạng rừng khu vực đề nghị tạm sử dụng. Báo cáo thuyết minh thể hiện vị trí (lô, khoảnh, tiểu khu; địa danh hành chính), diện tích rừng theo loại rừng (rừng đặc dụng, rừng phòng hộ, rừng sản xuất), nguồn gốc hình thành (rừng tự nhiên, rừng trồng), trữ lượng, loài cây đối với rừng trồng; Bản đồ (hiện trạng rừng khu vực tạm sử dụng rừng tỷ lệ 1/5.000 thể hiện rõ vị trí (lô, khoảnh, tiểu khu; địa danh hành chính), phạm vi, ranh giới khu rừng đề nghị tạm sử dụng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Hồ sơ chủ đầu tư dự án nộp đến Sở Nông nghiệp và Môi trường, gồm:
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Bản sao quyết định chủ trương chuyển mục đích sử dụng rừng sang mục đích sử dụng khác của dự án hoặc bản sao quyết định chuyển mục đích sử dụng rừng sang mục đích khác của dự án. Trường hợp dự án không chuyển mục đích sử dụng rừng sang mục đích khác có bản sao quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư hoặc quyết định phê duyệt dự án đầu tư;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Văn bản đề nghị phê duyệt Phương án tạm sử dụng rừng của chủ đầu tư dự  án theo mẫu tại Phụ lục I ban hành kèm theo Nghị định số 227/2025/NĐ-CP ngày  16/8/2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số  156/2018/NĐ-CP ngày 16/11/2018 của Chính phủ quy định chi tiết thi hành một số  điều của Luật Lâm nghiệp (sau đây gọi là Nghị định số 227/2025/NĐ-CP);
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b) Trường hợp đề nghị điều chỉnh quyết định phê duyệt Phương án tạm sử dụng rừng ]
+    - (i) Trường hợp 1: Dự án thay đổi vị trí, phạm vi tạm sử dụng rừng nhưng không thay đổi loại rừng, không làm tăng diện tích rừng so với tổng diện tích rừng đã được cơ quan có thẩm quyền phê duyệt và đảm bảo điều kiện quy định tại khoản 1 Điều 42a Nghị định số 156/2018/NĐ-CP được sửa đổi, bổ sung tại khoản 2 Điều 1 Nghị định số 27/2024/NĐ-CP, chủ đầu tư:
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Báo cáo Chủ tịch Uỷ ban nhân dân cấp tỉnh và chủ rừng về việc thay đổi vị trí, phạm vi tạm sử dụng rừng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt (hoặc điều  chỉnh) Phương án tạm sử dụng rừng.
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số điều của Nghị định số 156/2018/NĐ-CP ngày 16 tháng 11 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật Lâm nghiệp (227/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: có
+Từ khóa: Không có thông tin
+Mô tả: có

@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014912
+Số quyết định: 778/QĐ-BCA-A05
+Tên thủ tục: Cấp đổi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bảo vệ dữ liệu cá nhân
+Trình tự thực hiện:
+    - Bước 1: Tổ chức, doanh nghiệp có yêu cầu thực hiện thủ tục hành chính cấp đổi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: Tổ chức, doanh nghiệp có yêu cầu thực hiện thủ tục hành chính nộp hồ sơ về cơ quan có thẩm quyền cấp đổi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân.
+    - Bước 3: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đơn đề nghị theo quy định, cơ quan chuyên trách bảo vệ dữ liệu cá nhân xem xét, cấp đổi Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân; trường hợp không cấp phải có thông báo bằng văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trực tuyến: nộp trực tuyến qua Cổng dịch vụ công Bộ Công an. - Trực tiếp: tại Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an (Lô E2 khu đô thị mới Cầu Giấy, Dương Đình Nghệ, Cầu Giấy, Hà Nội). - Bưu chính: tiếp nhận hồ sơ qua dịch vụ bưu chính công ích.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trực tuyến: nộp trực tuyến qua Cổng dịch vụ công Bộ Công an. - Trực tiếp: tại Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an (Lô E2 khu đô thị mới Cầu Giấy, Dương Đình Nghệ, Cầu Giấy, Hà Nội). - Bưu chính: tiếp nhận hồ sơ qua dịch vụ bưu chính công ích.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trực tuyến: nộp trực tuyến qua Cổng dịch vụ công Bộ Công an. - Trực tiếp: tại Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an (Lô E2 khu đô thị mới Cầu Giấy, Dương Đình Nghệ, Cầu Giấy, Hà Nội). - Bưu chính: tiếp nhận hồ sơ qua dịch vụ bưu chính công ích.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp lại, cấp đổi Chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục an ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân
+Căn cứ pháp lý:
+  * Nghị định số 356/2025/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Bảo vệ dữ liệu cá nhân (356/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Tổ chức, doanh nghiệp yêu cầu cấp lại khi khi bị sai thông tin hoặc thay đổi nội dung Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân.
+Từ khóa: Không có thông tin
+Mô tả: Tổ chức, doanh nghiệp yêu cầu cấp lại khi khi bị sai thông tin hoặc thay đổi nội dung Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xử lý dữ liệu cá nhân.

@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001316
+Số quyết định: 1153/QĐ-NHNN
+Tên thủ tục: Thủ tục đóng tài khoản lưu ký giấy tờ có giá đối với Bảo hiểm tiền gửi Việt Nam, các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và các tổ chức khác theo quyết định của Thống đốc Ngân hàng Nhà nước
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động tiền tệ
+Trình tự thực hiện:
+    Bước 1: Bảo hiểm tiền gửi Việt Nam, các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài và các tổ chức khác theo quyết định của Thống đốc Ngân hàng Nhà nước (sau đây gọi tắt là thành viên) khi không có nhu cầu lưu ký giấy tờ có giá tại Ngân hàng Nhà nước hoặc trước khi chấm dứt tồn tại do chia, tách, sáp nhập, hợp nhất, giải thể hoặc phá sản lập 01 bộ hồ sơ gửi Ngân hàng Nhà nước.
+    Bước 2: Trong thời hạn 02 ngày làm việc kể từ ngày nhận được đề nghị của thành viên, Ngân hàng Nhà nước (Sở Giao dịch) đóng Tài khoản giấy tờ có giá lưu ký của thành viên và thông báo cho thành viên.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Giấy đề nghị đóng tài khoản giấy tờ có giá theo Mẫu số 04 tại Phụ lục ban hành kèm theo Thông tư số 09/2026/TT-NHNN ngày 19/05/2026.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Đóng tài khoản lưu ký giấy tờ có giá của thành viên.
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Thông tư  quy định về việc lưu ký và sử dụng giấy tờ có giá tại Ngân hàng Nhà nước Việt Nam (09/2026/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

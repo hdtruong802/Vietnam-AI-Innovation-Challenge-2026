@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014703
+Số quyết định: 1213/QĐ-BCT
+Tên thủ tục: cấp gia hạn Giấy phép xuất khẩu, nhập khẩu hóa chất cần kiểm soát đặc biệt nhóm 1
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hóa chất
+Trình tự thực hiện:
+    a) Giấy phép được gia hạn trong trường hợp hết thời hạn ghi trong Giấy phép xuất khẩu, nhập khẩu quy định tại điểm đ khoản 6 Điều 14 Nghị định số 26/2026/NĐ-CP nhưng việc xuất khẩu, nhập khẩu chưa thực hiện được hoặc thực hiện chưa xong. Giấy phép chỉ được gia hạn 01 lần;
+    b) Trước khi Giấy phép hết hạn tối thiểu 05 ngày làm việc, tổ chức, cá nhân có nhu cầu gia hạn Giấy phép phải lập 01 bộ hồ sơ đề nghị gia hạn Giấy phép gửi cơ quan có thẩm quyền cấp phép qua đường bưu chính hoặc nộp trực tiếp hoặc qua hệ thống dịch vụ công trực tuyến;
+    c) Hồ sơ đề nghị gia hạn Giấy phép bao gồm: Văn bản đề nghị gia hạn Giấy phép xuất khẩu, nhập khẩu;
+    d) Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền cấp phép kiểm tra, gia hạn Giấy phép cho tổ chức, cá nhân. Trường hợp không gia hạn Giấy phép, cơ quan có thẩm quyền cấp phép từ chối gia hạn trên hệ thống Cổng thông tin một cửa quốc gia và nêu rõ lý do;
+    đ) Giấy phép được gia hạn không quá 06 tháng kể từ ngày cấp phép gia hạn.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của pháp luật về phí và lệ phí)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của pháp luật về phí và lệ phí)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của pháp luật về phí và lệ phí)
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị gia hạn Giấy phép xuất khẩu, nhập khẩu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép xuất khẩu, nhập khẩu hoá chất cần kiểm soát đặc biệt nhóm 1
+Căn cứ pháp lý:
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Thông tư số 26/2026/TT-BCT ngày 20 tháng 5 năm 2026 của Bộ trưởng Bộ Công Thương sửa đổi bổ sung một số quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương. (26/2026/TT-BCT)
+  * Thông tư số 01/2026/TT-BCT của Bộ trưởng Bộ Công Thương quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất và Nghị định số 26/2026/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa. (01/2026/TT-BCT)
+  * Nghị định số 26/2026/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa; (26/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không quy định
+Từ khóa: Không có thông tin
+Mô tả: Không quy định

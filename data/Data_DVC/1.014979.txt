@@ -1,0 +1,90 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014979
+Số quyết định: 1272/QĐ-BTC
+Tên thủ tục: Hoàn nộp thừa các loại thuế đối với hộ kinh doanh, cá nhân kinh doanh
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    Bước 1:
+    + Hộ kinh doanh, cá nhân kinh doanh nộp thuế thu nhập cá nhân theo phương pháp thuế suất nhân (x) với doanh thu tính thuế nộp hồ sơ đề nghị hoàn thuế nộp thừa theo mẫu số 01/TKN-CNKD ban hành kèm theo Thông tư số     50/2026/TT-BTC ngày 13/5/2026 sửa đổi, bổ sung một số điều của Thông tư số 18/2026/TT-BTC.
+    + Hộ kinh doanh, cá nhân kinh doanh nộp thuế thu nhập cá nhân theo phương pháp thu nhập tính thuế nhân (x) với thuế suất nộp hồ sơ đề nghị hoàn thuế nộp thừa theo mẫu số 02/TNCN-CNKD-QTT ban hành kèm theo Thông tư số 18/2026/TT-BTC.
+    Bước 2: Cơ quan thuế tiếp nhận hồ sơ của người nộp thuế:
+    + Đề nghị hoàn thuế bằng hồ sơ giấy
+    Trường hợp người nộp thuế nộp hồ sơ đề nghị hoàn thuế bằng giấy tại trung tâm phục vụ hành chính công cấp xã, công chức thuế kiểm tra tính đầy đủ của hồ sơ theo quy định. Trường hợp hồ sơ chưa đầy đủ, công chức thuế đề nghị người nộp thuế hoàn thiện hồ sơ theo quy định. Trường hợp hồ sơ đầy đủ, công chức thuế gửi Thông báo về việc tiếp nhận hồ sơ theo mẫu số 01/TB-HT ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29 tháng 9 năm 2021 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ cho người nộp thuế và ghi sổ nhận hồ sơ trên hệ thống ứng dụng quản lý thuế.
+    Trường hợp người nộp thuế gửi hồ sơ qua đường bưu chính, công chức thuế đóng dấu tiếp nhận, ghi ngày nhận hồ sơ và ghi sổ hồ sơ trên hệ thống ứng dụng quản lý thuế.
+    Trong thời hạn ba (03) ngày làm việc kể từ ngày tiếp nhận hồ sơ đề nghị hoàn thuế, cơ quan thuế gửi Thông báo về việc  chấp nhận hồ sơ đề nghị hoàn thuế theo mẫu số 02/TB-HT hoặc Thông báo về việc hồ sơ không đúng thủ tục theo mẫu số 03/TB-HT ban hành kèm theo Thông tư số 80/2021/TT-BTC đối với hồ sơ gửi qua đường bưu chính.
+    + Đề nghị hoàn thuế bằng hồ sơ điện tử
+    Người nộp thuế gửi hồ sơ đề nghị hoàn thuế điện tử qua Hệ thống thông tin giải quyết thủ tục hành chính của ngành thuế; hoặc Cổng dịch vụ công quốc gia.
+    Hệ thống thông tin giải quyết thủ tục hành chính của ngành thuế; hoặc Cổng dịch vụ công quốc gia gửi thông báo tiếp nhận hoặc thông báo lý do không tiếp nhận hồ sơ theo mẫu số 01/TB-HT ban hành kèm theo phụ lục I Thông tư số 80/2021/TT-BTC cho người nộp thuế qua Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ chậm nhất 15 phút kể từ khi nhận được hồ sơ điện tử của người nộp thuế.
+    + Kiểm tra để chấp nhận hồ sơ:
+    ++ Hồ sơ được chấp nhận/không chấp nhận: Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ đề nghị hoàn thuế, cơ quan thuế gửi Thông báo chấp nhận/không chấp nhận hồ sơ đề nghị hoàn thuế theo mẫu số 02/TB-HT ban hành kèm theo phụ lục I Thông tư số 80/2021/TT-BTC cho người nộp thuế.
+    ++ Hồ sơ không đúng thủ tục: Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ đề nghị hoàn thuế, cơ quan thuế gửi Thông báo về việc hồ sơ không đúng thủ tục theo mẫu số 03/TB-HT ban hành kèm theo phụ lục I Thông tư số 80/2021/TT-BTC.
+    Bước 3: Giải quyết hồ sơ hoàn trả tiền nộp thừa
+    Cơ quan thuế thực hiện kiểm tra, giải quyết hồ sơ đề nghị hoàn thuế của NNT theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành:
+    Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ đề nghị hoàn thuế, cơ quan thuế gửi người nộp thuế Thông báo về việc không được hoàn thuế theo mẫu số 04/TB-HT ban hành kèm theo phụ lục I Thông tư số 80/2021/TT-BTC.
+    Trường hợp chưa đủ thông tin để xác định hồ sơ hoàn thuế của người nộp thuế thuộc đối tượng và trường hợp được hoàn thuế, cơ quan thuế lập Thông báo giải trình, bổ sung thông tin, tài liệu theo mẫu số 01/TB-BSTT-NNT ban hành kèm theo Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế gửi người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày cơ quan thuế tiếp nhận hồ sơ đề nghị hoàn thuế của người nộp thuế.
+    Trong thời hạn 10 ngày làm việc kể từ ngày cơ quan thuế ban hành Thông báo, người nộp thuế có trách nhiệm gửi văn bản giải trình hoặc bổ sung thông tin, tài liệu theo Thông báo của cơ quan thuế.
+    Hết thời hạn theo Thông báo của cơ quan thuế nhưng người nộp thuế không giải trình, bổ sung hồ sơ hoàn thuế; hoặc có văn bản giải trình, bổ sung nhưng không chứng minh được số thuế đã khai là đúng thì cơ quan thuế chuyển hồ sơ hoàn thuế sang diện kiểm tra trước hoàn thuế và gửi Thông báo về việc chuyển hồ sơ sang diện kiểm tra trước hoàn thuế theo mẫu số 05/TB-HT ban hành kèm theo phụ lục I Thông tư số 80/2021/TT-BTC cho người nộp thuế trong thời hạn 06 ngày làm việc kể từ ngày chấp nhận hồ sơ hoàn thuế.
+    Bước 4: Cơ quan thuế trả kết quả giải quyết hồ sơ đề nghị hoàn thuế:
+    Cơ quan thuế ban hành:
+    + Quyết định hoàn thuế theo mẫu số 01/QĐHT, Phụ lục số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa được hoàn trả theo mẫu số 01/PL-HTNT ban hành kèm theo phụ lục I Thông tư số 80/2021/TT-BTC trong trường hợp người nộp thuế không còn tiền thuế nợ.
+    + Hoặc Quyết định hoàn thuế kiêm bù trừ thu ngân sách nhà nước theo mẫu số 02/QĐHT, Phụ lục số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa được hoàn trả mẫu số 01/PL-HTNT, Phụ lục số tiền thuế, tiền chậm nộp, tiền phạt phải nộp được bù trừ 01/PL-BT ban hành kèm theo phụ lục I Thông tư số 80/2021/TT-BTC trong trường hợp người nộp thuế còn tiền thuế nợ hoặc người nộp thuế đề nghị bù trừ số thuế được hoàn trả với khoản nợ, khoản thu phát sinh của người nộp thuế khác.
+    + Thông báo về việc không được hoàn thuế theo mẫu số 04/TB-HT ban hành kèm theo phụ lục I Thông tư số 80/2021/TT-BTC trong trường hợp hồ sơ không thuộc diện được hoàn thuế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Đối với hồ sơ thuộc diện hoàn thuế trước: Chậm nhất 06 ngày làm việc kể từ ngày cơ quan quản lý thuế có thông báo bằng văn bản về việc chấp nhận hồ sơ và thời hạn giải quyết hồ sơ hoàn thuế.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Đối với hồ sơ thuộc diện kiểm tra trước hoàn thuế: Chậm nhất là 40 ngày kể từ ngày cơ quan quản lý thuế có thông báo bằng văn bản về việc chấp nhận hồ sơ và thời hạn giải quyết hồ sơ hoàn thuế.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Đối với hồ sơ thuộc diện hoàn thuế trước: Chậm nhất 06 ngày làm việc kể từ ngày cơ quan quản lý thuế có thông báo bằng văn bản về việc chấp nhận hồ sơ và thời hạn giải quyết hồ sơ hoàn thuế.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Đối với hồ sơ thuộc diện kiểm tra trước hoàn thuế: Chậm nhất là 40 ngày kể từ ngày cơ quan quản lý thuế có thông báo bằng văn bản về việc chấp nhận hồ sơ và thời hạn giải quyết hồ sơ hoàn thuế.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Đối với hồ sơ thuộc diện hoàn thuế trước: Chậm nhất 06 ngày làm việc kể từ ngày cơ quan quản lý thuế có thông báo bằng văn bản về việc chấp nhận hồ sơ và thời hạn giải quyết hồ sơ hoàn thuế.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Đối với hồ sơ thuộc diện kiểm tra trước hoàn thuế: Chậm nhất là 40 ngày kể từ ngày cơ quan quản lý thuế có thông báo bằng văn bản về việc chấp nhận hồ sơ và thời hạn giải quyết hồ sơ hoàn thuế.
+
+Thành phần hồ sơ:
+  [ Đối với hộ kinh doanh, cá nhân kinh doanh nộp thuế thu nhập cá nhân theo phương pháp thuế suất nhân (x) với doanh thu tính thuế ]
+    - Tờ khai thuế đối với hộ kinh doanh, cá nhân kinh doanh nộp thuế thu nhập cá nhân theo phương pháp thuế suất nhân (x) với doanh thu tính thuế (Mẫu số 01/TKN-CNKD Thông tư số 18/2026/TT-BTC sửa đổi, bổ sung bởi Thông tư số 50/2026))
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với hộ kinh doanh, cá nhân kinh doanh nộp thuế thu nhập cá nhân theo phương pháp thu nhập tính thuế nhân (x) với thuế suất ]
+    - Tờ khai thuế đối với hộ kinh doanh, cá nhân kinh doanh nộp thuế thu nhập cá nhân theo phương pháp thu nhập tính thuế nhân (x) với thuế suất (Mẫu số 02/QTT-TNCN-CNKD Thông tư số 18/2026/TT-BTC)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Thuế cơ sở, Thuế tỉnh, thành phố
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Phụ lục số tiền thuế, tiền chậm nộp, tiền phạt phải nộp được bù trừ  (Mẫu số 01/PL-BT), Quyết định hoàn thuế kiêm bù trừ thu Ngân sách nhà nước (02/QĐHT), quyết định hoàn thuế, Phụ lục số tiền thuế, tiền chậm nộp, tiền phạt nộp thừa được hoàn trả (Mẫu số 01/PL-HTNT), Thông báo về việc không được hoàn thuế (Mẫu số 04/TB-HT)
+Căn cứ pháp lý:
+  * sửa đổi một số điều của Thông tư 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế (46/2024/TT-BTC)
+  * Luật số 108/2025/QH15 của Quốc hội: Luật Quản lý thuế (108/2025/QH15)
+  * Thông tư số 50/2026/TT-BTC của Bộ Tài chính: Sửa đổi, bổ sung một số điều của Thông tư số 18/2026/TT-BTC ngày 05 tháng 3 năm 2026 của Bộ trưởng Bộ Tài chính quy định về hồ sơ, thủ tục quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh (50/2026/TT-BTC)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Nghị định số 68/2026/NĐ-CP ngày 05/3/2026 quy định về chính sách thuế và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh (68/2026/NĐ-CP)
+  * Thông tư số 18/2026/TT-BTC ngày 05/3/2026 quy định về hồ sơ, thủ tục quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh (18/2026/TT-BTC)
+  * Nghị định số 141/2026/NĐ-CP của Chính phủ: Sửa đổi, bổ sung một số điều của Nghị định số 68/2026/NĐ-CP quy định về chính sách thuế đối với hộ kinh doanh, cá nhân kinh doanh và Nghị định số 320/2025/NĐ-CP quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Thuế thu nhập doanh nghiệp (141/2026/NĐ-CP)
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Trường hợp người nộp thuế lựa chọn và gửi hồ sơ đến cơ quan thuế thông qua giao dịch điện tử thì phải tuân thủ đúng, đầy đủ các quy định và điều kiện thực hiện giao dịch điện tử trong lĩnh vực thuế tại Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế và Thông tư số 46/2024/TT-BTC ngày 09/07/2024 sửa đổi, bổ sung một số điều của Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế.
+Từ khóa: Không có thông tin
+Mô tả: Trường hợp người nộp thuế lựa chọn và gửi hồ sơ đến cơ quan thuế thông qua giao dịch điện tử thì phải tuân thủ đúng, đầy đủ các quy định và điều kiện thực hiện giao dịch điện tử trong lĩnh vực thuế tại Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế và Thông tư số 46/2024/TT-BTC ngày 09/07/2024 sửa đổi, bổ sung một số điều của Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn giao dịch điện tử trong lĩnh vực thuế.

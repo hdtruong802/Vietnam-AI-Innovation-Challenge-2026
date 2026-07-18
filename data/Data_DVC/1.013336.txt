@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013336
+Số quyết định: 1106/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận chuyển đổi loại hình tổ chức tín dụng phi ngân hàng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Tổ chức tín dụng phi ngân hàng lập 01 bộ hồ sơ đề nghị chấp thuận chuyển đổi loại hình theo quy định gửi Ngân hàng Nhà nước.
+    + Bước 2: Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức tín dụng phi ngân hàng bổ sung, hoàn thiện hồ sơ. Tổ chức tín dụng phi ngân hàng bổ sung, hoàn thiện hồ sơ trong thời hạn 30 ngày kể từ ngày Ngân hàng Nhà nước có văn bản yêu cầu bổ sung, hoàn thiện hồ sơ. Quá thời hạn này, tổ chức tín dụng phi ngân hàng phải nộp lại bộ hồ sơ theo quy định tại Thông tư số 62/2024/TT-NHNN (đã được sửa đổi, bổ sung) để Ngân hàng Nhà nước xem xét, chấp thuận.
+    + Bước 3: Trong thời hạn 21 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước có văn bản chấp thuận chuyển đổi loại hình tổ chức tín dụng phi ngân hàng theo mẫu quy định tại Phụ lục 07 ban hành kèm theo Thông tư số 62/2024/TT-NHNN (đã được sửa đổi, bổ sung); sửa đổi, bổ sung Giấy phép thành lập và hoạt động của tổ chức tín dụng phi ngân hàng và chấp thuận các nội dung khác (nếu có). Trường hợp không chấp thuận, Ngân hàng Nhà nước có văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 21 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 21 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - a) Văn bản của tổ chức tín dụng phi ngân hàng gửi Ngân hàng Nhà nước theo mẫu quy định tại Phụ lục 03 ban hành kèm theo Thông tư số 62/2024/TT-NHNN (đã được sửa đổi, bổ sung) đề nghị:  i) Chấp thuận chuyển đổi loại hình;  ii) Chấp thuận các nội dung khác (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Hồ sơ đề nghị Ngân hàng Nhà nước chấp thuận các nội dung quy định tại điểm a (ii) nêu trên thực hiện theo quy định của Ngân hàng Nhà nước và quy định của pháp luật có liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Văn bản của cấp có thẩm quyền quyết định của tổ chức tín dụng phi ngân hàng thông qua Phương án chuyển đổi loại hình; Điều lệ của tổ chức tín dụng phi ngân hàng chuyển đổi loại hình và các vấn đề khác liên quan đến chuyển đổi loại hình.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Phương án chuyển đổi loại hình theo quy định tại Điều 23 Thông tư số 62/2024/TT-NHNN (đã được sửa đổi, bổ sung).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Điều lệ tổ chức tín dụng phi ngân hàng chuyển đổi loại hình đã được cấp có thẩm quyền quyết định của tổ chức tín dụng phi ngân hàng thông qua.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Các quy định nội bộ về tổ chức và hoạt động đã được cấp có thẩm quyền quyết định của tổ chức tín dụng phi ngân hàng thông qua, tối thiểu bao gồm các quy định nội bộ quy định tại khoản 2 Điều 101 Luật các tổ chức tín dụng và các quy định sau đây (nếu có): (i) Quy định về tổ chức và hoạt động của Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát, người điều hành; (ii) Quy định về tổ chức và hoạt động của trụ sở chính, chi nhánh và các đơn vị phụ thuộc khác.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - g) Các văn bản khác chứng minh việc đáp ứng các điều kiện về chuyển đổi loại hình theo quy định tại Thông tư số 62/2024/TT-NHNN (đã được sửa đổi, bổ sung)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Trụ sở chính Ngân hàng Nhà nước Việt Nam 49, Lý Thái Tổ, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận chuyển đổi loại hình tổ chức tín dụng phi ngân hàng; sửa đổi, bổ sung Giấy phép thành lập và hoạt động của tổ chức tín dụng phi ngân hàng và chấp thuận các nội dung khác (nếu có), Văn bản từ chối chấp thuận chuyển đổi loại hình tổ chức tín dụng phi ngân hàng
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Thông tư số 62/2024/TT-NHNN ngày 31 tháng 12 năm 2024 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định điều kiện, hồ sơ, thủ tục chấp thuận việc tổ chức lại ngân hàng thương mại, tổ chức tín dụng phi ngân hàng (62/2024/TT-NHNN)
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 62/2024/TT-NHNN quy định điều kiện, hồ sơ, thủ tục chấp thuận việc tổ chức lại ngân hàng thương mại, tổ chức tín dụng phi ngân hàng (Thông tư 26/2025/TT-NHNN)
+  * Thông tư sửa đổi, bổ sung một số điều của một số Thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh,  đơn giản hóa thủ tục hành chính (Thông tư số 69/2025/TT-NHNN)
+  * phân cấp thực hiện thủ tục hành chính trong lĩnh vực thông tin tín dụng và sủa đổi, bổ sung một số điều của các Thông tư liên quan đến cắt giảm, đơn giản hóa, phân cấp thực hiện thủ tục hành chính trong lĩnh vực thành lập và hoạt động ngân hàng (11/2026/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Tổ chức tín dụng phi ngân hàng được chuyển đổi loại hình khi đáp ứng đầy đủ các điều kiện sau đây: 
+a) Tại thời điểm đề nghị, tổ chức tín dụng phi ngân hàng có số lượng và cơ cấu Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát; có bộ phận kiểm toán nội bộ và hệ thống kiểm soát nội bộ phù hợp với quy định tại Luật Các tổ chức tín dụng và hướng dẫn của Ngân hàng Nhà nước, đồng thời không bị khuyết Tổng Giám đốc.
+b) Trường hợp công ty tài chính chuyên ngành chuyển đổi loại hình thành công ty tài chính tổng hợp, ngoài các điều kiện quy định tại điểm a nêu trên phải đáp ứng các điều kiện sau:
+(i) Hoạt động kinh doanh có lãi liên tục ít nhất trong 02 năm liền kề trước năm đề nghị chuyển đổi loại hình và đến tháng liền kề trước thời điểm đề nghị chuyển đổi loại hình;
+(ii) Tuân thủ các hạn chế để bảo đảm an toàn trong hoạt động của tổ chức tín dụng phi ngân hàng theo quy định tại Luật Các tổ chức tín dụng và các hướng dẫn của Ngân hàng Nhà nước đối với các quy định này liên tục trong thời gian 12 tháng liền kề trước tháng đề nghị;
+(iii) Tuân thủ các quy định về phân loại tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động theo quy định của pháp luật liên tục trong các quý của năm liền kề trước năm đề nghị chuyển đổi loại hình và các quý đến thời điểm đề nghị chuyển đổi loại hình;
+(iv) Không bị xử phạt vi phạm hành chính trong lĩnh vực tiền tệ và ngân hàng trong thời hạn 12 tháng trở về trước tính từ thời điểm đề nghị chuyển đổi loại hình;
+(v)  Không thuộc đối tượng phải thực hiện biện pháp không được mở rộng phạm vi hoạt động.
+Từ khóa: Không có thông tin
+Mô tả: Tổ chức tín dụng phi ngân hàng được chuyển đổi loại hình khi đáp ứng đầy đủ các điều kiện sau đây: 
+a) Tại thời điểm đề nghị, tổ chức tín dụng phi ngân hàng có số lượng và cơ cấu Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát; có bộ phận kiểm toán nội bộ và hệ thống kiểm soát nội bộ phù hợp với quy định tại Luật Các tổ chức tín dụng và hướng dẫn của Ngân hàng Nhà nước, đồng thời không bị khuyết Tổng Giám đốc.
+b) Trường hợp công ty tài chính chuyên ngành chuyển đổi loại hình thành công ty tài chính tổng hợp, ngoài các điều kiện quy định tại điểm a nêu trên phải đáp ứng các điều kiện sau:
+(i) Hoạt động kinh doanh có lãi liên tục ít nhất trong 02 năm liền kề trước năm đề nghị chuyển đổi loại hình và đến tháng liền kề trước thời điểm đề nghị chuyển đổi loại hình;
+(ii) Tuân thủ các hạn chế để bảo đảm an toàn trong hoạt động của tổ chức tín dụng phi ngân hàng theo quy định tại Luật Các tổ chức tín dụng và các hướng dẫn của Ngân hàng Nhà nước đối với các quy định này liên tục trong thời gian 12 tháng liền kề trước tháng đề nghị;
+(iii) Tuân thủ các quy định về phân loại tài sản có, mức trích, phương pháp trích lập dự phòng rủi ro và việc sử dụng dự phòng để xử lý rủi ro trong hoạt động theo quy định của pháp luật liên tục trong các quý của năm liền kề trước năm đề nghị chuyển đổi loại hình và các quý đến thời điểm đề nghị chuyển đổi loại hình;
+(iv) Không bị xử phạt vi phạm hành chính trong lĩnh vực tiền tệ và ngân hàng trong thời hạn 12 tháng trở về trước tính từ thời điểm đề nghị chuyển đổi loại hình;
+(v)  Không thuộc đối tượng phải thực hiện biện pháp không được mở rộng phạm vi hoạt động.

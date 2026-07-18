@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010949
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Thay đổi kỳ tính thuế giá trị gia tăng từ tháng sang quý
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1. Người nộp thuế (NNT) đang thực hiện khai thuế giá trị gia tăng (GTGT), thuế thu nhập cá nhân (TNCN) theo tháng nếu đủ điều kiện khai thuế theo quý quy định tại khoản 1 Điều 9 Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ và lựa chọn chuyển sang khai thuế theo quý thì người nộp thuế lập hồ sơ đề nghị và gửi đến cơ quan thuế quản lý trực tiếp chậm nhất là 31 tháng 01 của năm bắt đầu khai thuế theo quý.
+    ++ Trường hợp NNT nộp hồ sơ qua giao dịch điện tử: NNT truy cập vào Cổng Dịch vụ công Quốc gia/Hệ thống thông tin giải quyết thủ tục hành chính để lập hồ sơ điện tử, ký điện tử và gửi đến cơ quan thuế.
+    ++ Trường hợp NNT nộp hồ sơ trực tiếp/qua bưu chính: NNT lập hồ sơ giấy, ký và gửi đến cơ quan thuế qua Trung tâm Phục vụ hành chính công cấp tỉnh/Trung tâm Phục vụ hành chính công cấp xã hoặc qua đường bưu chính.
+    + Bước 2. Cơ quan thuế tiếp nhận:
+    ++ Trường hợp hồ sơ được nộp qua giao dịch điện tử thì việc tiếp nhận và kiểm tra, chấp nhận hồ sơ thực hiện như sau:
+    +++ Tiếp nhận hồ sơ: Cổng Dịch vụ công Quốc gia/Hệ thống thông tin giải quyết thủ tục hành chính gửi thông báo cho NNT về việc tiếp nhận hồ sơ của NNT hoặc thông báo lý do không tiếp nhận hồ sơ của NNT chậm nhất 15 phút kể từ khi nhận được hồ sơ điện tử của NNT.
+    +++ Kiểm tra, chấp nhận hồ sơ: Cơ quan thuế kiểm tra hồ sơ và gửi thông báo cho NNT về việc chấp nhận hoặc không chấp nhận hồ sơ của NNT qua Cổng Dịch vụ công Quốc gia/Hệ thống thông tin giải quyết thủ tục hành chính chậm nhất 01 ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận hồ sơ điện tử của NNT.
+    ++ Trường hợp hồ sơ được nộp trực tiếp/qua bưu chính: cơ quan thuế thực hiện tiếp nhận, đóng dấu tiếp nhận hồ sơ của NNT (nếu hồ sơ đã đầy đủ, đúng quy định) hoặc hướng dẫn NNT hoàn thiện hồ sơ (nếu hồ sơ không đầy đủ, không đúng quy định).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị thay đổi kỳ tính thuế từ tháng sang quý mẫu số 01/ĐK-TĐKTT theo Danh mục hồ sơ khai thuế tại Phụ lục I ban hành kèm theo Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (sau đây gọi là Nghị định số 126/2020/NĐ-CP) và phụ lục II ban hành kèm theo Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế (sau đây gọi là Thông tư số 80/2021/TT-BTC);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Cán bộ, công chức, viên chức, Hợp tác xã, Người nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Thông tư số 40/2025/TT-BTC Sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý thuế để phân định thẩm quyền của chính quyền địa phương theo mô hình tổ chức chính quyền địa phương 02 cấp (40/2025/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

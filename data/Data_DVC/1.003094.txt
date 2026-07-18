@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003094
+Số quyết định: 1613/QĐ-BYT
+Tên thủ tục: Kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm nhập khẩu theo phương thức kiểm tra giảm
+Cấp thực hiện: Không có thông tin
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: An toàn thực phẩm
+Trình tự thực hiện:
+    Bước 1:
+    Khi làm thủ tục hải quan, chủ hàng có trách nhiệm nộp hồ sơ theo quy định tại khoản 1 Điều 18 Nghị định số 15/2018/NĐ-CP của Chính phủ;
+    Bước 2:
+    Cơ quan hải có trách nhiệm chọn ngẫu nhiên tối đa 5% trên tổng số lô hàng nhập khẩu thuộc diện kiểm tra giảm trong vòng 01 (một) năm để kiểm tra hồ sơ theo quy định.
+    Trong thời hạn 03 (ba) ngày làm việc, kể từ ngày nhận hồ sơ, cơ quan hải quan có trách nhiệm kiểm tra hồ sơ và thông quan hàng hóa. Trường hợp yêu cầu bổ sung hồ sơ thì phải nêu rõ lý do và căn cứ pháp lý của việc yêu cầu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 1500000 VNĐ (Phí : 1.500.000 đồng/lô hàng + (số mặt hàng x 100.000 nghìn đồng), tối đa 10.000.000 đồng/lô hàng Đồng)
+    Mô tả: Nộp trực tiếp tại cơ quan Hải quan cửa khẩu.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 1500000 VNĐ (Phí : 1.500.000 đồng/lô hàng + (số mặt hàng x 100.000 nghìn đồng), tối đa 10.000.000 đồng/lô hàng Đồng)
+    Mô tả: Nộp trực tiếp tại cơ quan Hải quan cửa khẩu.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 1500000 VNĐ (Phí : 1.500.000 đồng/lô hàng + (số mặt hàng x 100.000 nghìn đồng), tối đa 10.000.000 đồng/lô hàng Đồng)
+    Mô tả: Nộp trực tiếp tại cơ quan Hải quan cửa khẩu.
+
+Thành phần hồ sơ:
+    - Thông báo kết quả xác nhận thực phẩm đạt yêu cầu nhập khẩu liên tiếp theo phương thức kiểm tra thông thường hoặc bản sao chứng thực hoặc bản chính hợp pháp hóa lãnh sự một trong các Giấy chứng nhận GMP, HACCP, ISO 22000, IFS, BRC, FSSC 22000 hoặc tương đương còn hiệu lực tại thời điểm nộp;
+      Số lượng: Bản chính: 3, Bản sao: 0
+    - Trong trường hợp sản phẩm có nguồn gốc thủy sản và động vật trên cạn, trừ các sản phẩm đã qua chế biến, bao gói sẵn, thì phải có giấy chứng nhận đáp ứng các quy định về an toàn thực phẩm do cơ quan có thẩm quyền của nước xuất khẩu cấp (bản chính).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản tự công bố sản phẩm theo quy định;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Hải quan cửa khẩu
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông quan hàng hóa
+Căn cứ pháp lý:
+  * quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong công tác an toàn thực phẩm (67/2021/TT-BTC)
+  * Quy định chi tiết thi hành một số điều của Luật an toàn thực phẩm (15/2018/NĐ-CP)
+  * Luật An toàn thực phẩm (55/2010/QH12)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002127
+Số quyết định: 1272/QĐ-NHNN
+Tên thủ tục: Thủ tục đăng ký mẫu séc trắng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động thanh toán
+Trình tự thực hiện:
+    Bước 1: Trước khi in séc trắng để cung ứng cho khách hàng, tổ chức cung ứng séc lập hồ sơ đăng ký mẫu séc trắng theo quy định gửi Ngân hàng Nhà nước Việt Nam.
+    Bước 2: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ, Ngân hàng Nhà nước Việt Nam có văn bản xác nhận về việc đăng ký mẫu séc trắng của tổ chức cung ứng séc. Trường hợp từ chối, Ngân hàng Nhà nước Việt Nam trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Mẫu thiết kế của tờ séc trắng, gồm: kích thước, màu sắc, các yếu tố chi tiết của tờ séc trắng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao Giấy phép thành lập và hoạt động của tổ chức cung ứng séc:  Bản sao Giấy phép thành lập và hoạt động của tổ chức cung ứng séc phải được chứng thực theo quy định của pháp luật. Trường hợp không phải là bản sao được chứng thực hoặc bản sao được cấp từ sổ gốc, tổ chức cung ứng séc phải xuất trình bản chính để đối chiếu khi nộp hồ sơ. Ngân hàng Nhà nước Việt Nam có trách nhiệm chủ động khai thác, sử dụng thông tin đã có trên cơ sở dữ liệu chuyên ngành để thay thế thành phần hồ sơ giải quyết thủ tục hành chính. Trường hợp không khai thác được thông tin hoặc thông tin khai thác không đầy đủ, chính xác thì Ngân hàng Nhà nước Việt Nam yêu cầu tổ chức cung ứng séc bổ sung thành phần hồ sơ để giải quyết thủ tục hành chính.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy đề nghị đăng ký mẫu séc trắng theo Phụ lục 08 ban hành kèm theo Thông tư số 22/2015/TT-NHNN;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức nước ngoài
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa của Ngân hàng Nhà nước Việt Nam
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận về việc đăng ký mẫu séc trắng/ Văn bản từ chối.
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 22/2015/TT-NHNN quy định hoạt động cung ứng và sử dụng séc. (20/2026/TT-NHNN)
+  * Thông tư 22/2015/TT-NHNN (22/2015/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009372
+Số quyết định: 682/QĐ-BVHTTDL
+Tên thủ tục: Cấp, cấp lại giấy phép hoạt động báo in và báo điện tử
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Báo chí
+Trình tự thực hiện:
+  * Cấp, cấp lại giấy phép hoạt động báo in và báo điện tử
+    Cơ quan, tổ chức quy định tại Điều 14 Luật Báo chí, đủ điều kiện theo quy định tại Điều 17 Luật Báo chí, có nhu cầu hoạt động báo in và báo điện tử lập 01 bộ hồ sơ đề nghị cấp giấy phép hoạt động báo in và báo điện tử gửi trực tiếp, qua hệ thống bưu chính hoặc qua môi trường điện tử đến Bộ Văn hóa, Thể thao và Du lịch.
+    Cơ quan báo chí đang hoạt động báo in và báo điện tử có một hoặc hai giấy phép chuẩn bị hết hiệu lực, có nhu cầu tiếp tục hoạt động báo chí, cơ quan chủ quản báo chí lập 01 bộ hồ sơ đề nghị cấp giấy phép hoạt động báo in và báo điện tử gửi trực tiếp, qua hệ thống bưu chính hoặc qua môi trường điện tử đến Bộ Văn hóa, Thể thao và Du lịch .
+    Cơ quan báo chí đang hoạt động báo in hoặc báo điện tử có đủ điều kiện theo quy định tại Điều 17 Luật Báo chí, có nhu cầu thực hiện thêm loại hình báo chí khác, cơ quan chủ quản báo chí lập 01 bộ hồ sơ đề nghị cấp giấy phép hoạt động báo in và báo điện tử gửi trực tiếp, qua hệ thống bưu chính hoặc qua môi trường điện tử đến Bộ Văn hóa, Thể thao và Du lịch .
+    Cơ quan báo chí thực hiện cấp lại giấy phép hoạt động báo in và báo điện tử, cơ quan chủ quản báo chí lập 01 bộ hồ sơ đề nghị cấp lại giấy phép hoạt động báo in và báo điện tử gửi trực tiếp, qua hệ thống bưu chính hoặc qua môi trường điện tử đến Bộ Văn hóa, Thể thao và Du lịch.
+    Trong thời hạn 90 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Văn hóa, Thể thao và Du lịch có trách nhiệm cấp, cấp lại giấy phép hoạt động báo in và báo điện tử; trường hợp từ chối cấp phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 90 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 90 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 90 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Cấp, cấp lại giấy phép hoạt động báo in và báo điện tử ]
+    - Sơ yếu lý lịch người dự kiến là Tổng biên tập
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu trình bày tên gọi ấn phẩm báo in như quy định tại điểm đ khoản 1 Điều 5, mẫu trình bày giao diện trang chủ của báo điện tử như quy định tại điểm đ khoản 1 Điều 10 của Thông tư số 41/2020/TT-BTTTT ngày 24/12/2020 của Bộ trưởng Bộ Văn  hóa, Thể thao và Du lịch, có xác nhận của cơ quan, tổ chức đề nghị cấp giấy phép.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai đề nghị cấp giấy phép thực hiện hai loại hình báo chí
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách dự kiến nhân sự của cơ quan báo in và báo điện tử
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề án hoạt động (có chữ ký của người có thẩm quyền và đóng dấu hoặc ký số của cơ quan, tổ chức đề nghị cấp giấy phép) tổng hợp các nội dung của đề án quy định tại điểm b khoản 1 Điều 5 và của đề án quy định tại điểm b khoản 1 Điều 10 của Thông tư số 41/2020/TT-BTTTT ngày 24/12/2020 của Bộ trưởng Bộ Văn hóa Thể thao và Du lịch và các tài liệu kèm theo;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Báo chí
+Cơ quan có thẩm quyền: Bộ Văn hóa, Thể thao và Du lịch
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép hoạt động báo in và báo điện tử
+Căn cứ pháp lý:
+  * Luật báo chí (103/2016/QH13)
+  * Thông tư 41/2020/TT-BTTTT (41/2020/TT-BTTTT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

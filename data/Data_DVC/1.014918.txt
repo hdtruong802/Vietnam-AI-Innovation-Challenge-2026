@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014918
+Số quyết định: 2636/QĐ-BKHCN
+Tên thủ tục: Đề nghị kết thúc thử nghiệm có kiểm soát sản phẩm, dịch vụ ứng dụng công nghệ số (không gian, phạm vi, đối tượng thử nghiệm từ 02 tỉnh, thành phố trở lên)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công nghiệp công nghệ số, công nghệ thông tin, điện tử
+Trình tự thực hiện:
+    1. Hồ sơ đề nghị kết thúc thử nghiệm nộp cho Ủy ban nhân dân cấp tỉnh trước thời điểm đề xuất kết thúc tối thiểu 30 ngày. Hồ sơ được gửi qua đường bưu điện (dịch vụ bưu chính) hoặc nộp trực tiếp tới Trung tâm Phục vụ hành chính công cấp tỉnh hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+    2. Sau 11 ngày làm việc kể từ thời điểm nhận được hồ sơ đề nghị kết thúc thử nghiệm đầy đủ, hợp lệ, Ủy ban nhân dân cấp tỉnh xem xét, quyết định kết thúc thử nghiệm bằng Quyết định kết thúc thử nghiệm trước thời hạn sản phẩm, dịch vụ ứng dụng công nghệ số theo Mẫu TNCNS07 hoặc Quyết định chứng nhận hoàn thành thử nghiệm có kiểm soát sản phẩm, dịch vụ ứng dụng công nghệ số theo Mẫu TNCNS10 tại Phụ lục kèm theo Nghị định số 353/2025/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ trực tuyến qua hệ thống dịch vụ công trực tuyến: Cổng Dịch vụ công quốc gia (https://dichvucong.gov.vn).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Phục vụ hành chính công cấp tỉnh.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Phục vụ hành chính công cấp tỉnh.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị kết thúc thử nghiệm sản phẩm, dịch vụ ứng dụng công nghệ số (trước thời hạn hoặc chứng nhận hoàn thành thử nghiệm).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo kết quả hoạt động thử nghiệm có kiểm soát sản phẩm, dịch vụ ứng dụng công nghệ số.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định chứng nhận hoàn thành thử nghiệm có kiểm soát sản phẩm, dịch vụ ứng dụng công nghệ số., Quyết định kết thúc thử nghiệm trước thời hạn sản phẩm, dịch vụ ứng dụng công nghệ số
+Căn cứ pháp lý:
+  * Nghị quyết số 20/2026/NQ-CP của Chính phủ: Phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (Nghị quyết số 20/2026/NQ-CP)
+  * Luật số 93/2025/QH15 của Quốc hội: Luật Khoa học, công nghệ và đổi mới sáng tạo (93/2025/QH15)
+  * Quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Công nghiệp công nghệ số (353/2025/NĐ-CP)
+  * LUẬT CÔNG NGHIỆP CÔNG NGHỆ SỐ (71/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

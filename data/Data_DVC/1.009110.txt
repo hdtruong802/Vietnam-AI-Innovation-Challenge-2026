@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009110
+Số quyết định: 1075/QĐ-BTC
+Tên thủ tục: Thủ tục tạm dừng hoạt động/ hoạt động trở lại kho ngoại quan; kho bảo thuế; địa điểm thu gom hàng lẻ; kho xăng dầu; kho hàng không kéo dài; địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu tập trung; địa điểm tập kết, kiểm tra, giám sát tập trung đối với hàng bưu chính, chuyển phát nhanh; địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở khu vực biên giới; kho bãi, địa điểm trong khu vực cảng biển, cảng thủy nội địa, cảng hàng không quốc tế, ga đường sắt liên vận quốc tế đủ điều kiện tập kết, kiểm tra, giám sát hải quan
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1:  Doanh nghiệp gửi đề nghị tạm dừng lại của các kho bãi, địa điểm đến Cục Hải quan tỉnh, thành phố trong trường hợp doanh nghiệp tạm dừng hoạt động/hoạt động trở lại kho ngoại quan, kho bảo thuế; địa điểm thu gom hàng lẻ; kho xăng dầu; kho hàng không kéo dài; địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu tập trung; địa điểm tập kết, kiểm tra, giám sát tập trung đối với hàng bưu chính, chuyển phát nhanh; địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở khu vực biên giới; kho bãi, địa điểm trong khu vực cảng biển, cảng thủy nội địa, cảng hàng không quốc tế, ga đường sắt liên vận quốc tế đủ điều kiện tập kết, kiểm tra, giám sát hải quan
+    Bước 2: Cục Hải quan tỉnh thành phố kiểm tra, lập biên bản xác nhận lượng hàng tồn tại kho bãi, địa điểm và báo cáo Tổng cục Hải quan
+    Bước 3: Tổng cục Hải quan ra quyết định tạm dừng hoạt động.
+    Bước 4: Trong thời gian tạm dừng doanh nghiệp có nhu cầu hoạt động trở lại thông báo văn bản đến Cục Hải quan tỉnh thành phố
+    Bước 5: Cục Hải quan tỉnh, thành phố kiểm tra các điều kiện báo cáo Tổng cục Hải quan ra quyết định hoạt động trở lại của kho bãi, địa điểm.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị tạm dừng hoạt động hoặc xin hoạt động trở lại theo mẫu số 01 Phụ lục ban hành kèm theo Nghị định số 67/2020/NĐ-CP ngày 15/06/2020
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền: Cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định tạm dừng hoạt động/ hoạt động trở lại của kho ngoại quan; kho bảo thuế; địa điểm thu gom hàng lẻ; kho xăng dầu; kho hàng không kéo dài; địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu tập trung; địa điểm tập kết, kiểm tra, giám sát tập trung đối với hàng bưu chính, chuyển phát nhanh; địa điểm tập kết, kiểm tra, giám sát hàng hóa xuất khẩu, nhập khẩu ở khu vực biên giới; kho bãi, địa điểm trong khu vực cảng biển, cảng thủy nội địa, cảng hàng không quốc tế, ga đường sắt liên vận quốc tế đủ điều kiện tập kết, kiểm tra, giám sát hải quan
+Căn cứ pháp lý:
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Nghị định 68/2016/NĐ-CP (68/2016/NĐ-CP)
+  * Luật đầu tư (67/2014/QH13)
+  * Nghị định 67/2020/NĐ-CP (67/2020/NĐ-CP)
+  * Luật sửa đổi, bổ sung Điều 6 và Phụ lục 4 về Danh mục ngành, nghề đầu tư kinh doanh có điều kiện của Luật đầu tư (03/2016/QH14)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012907
+Số quyết định: 843/QĐ-BXD
+Tên thủ tục: Cấp lại chứng chỉ hành nghề môi giới bất động sản (trong trường hợp chứng chỉ bị cháy, bị mất, bị rách, bị hủy hoại do thiên tai hoặc lý do bất khả kháng khác)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Kinh doanh bất động sản
+Trình tự thực hiện:
+    - Người có chứng chỉ bị mất, bị rách, bị cháy, bị hủy hoại chứng chỉ do thiên tai hoặc lý do bất khả kháng khác nộp 01 bộ hồ sơ đến Sở Xây dựng.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ, Sở Xây dựng đã cấp chứng chỉ kiểm tra hồ sơ và cấp lại chứng chỉ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 200000 VNĐ (theo quy định của pháp luật về phí và lệ phí)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 200000 VNĐ (theo quy định của pháp luật về phí và lệ phí)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 200000 VNĐ (theo quy định của pháp luật về phí và lệ phí)
+
+Thành phần hồ sơ:
+    - Chứng chỉ cũ (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - 02 ảnh cỡ 4x6cm chụp trong thời gian 06 tháng tính đến ngày nộp hồ sơ;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Đơn xin cấp lại chứng chỉ có dán ảnh (theo mẫu tại Phụ lục XXVII Nghị định số 96/2024/NĐ-CP ngày 24/7/2024 của Chính phủ quy định chi tiết một số điều của Luật Kinh doanh bất động sản);
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Sở Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Chứng chỉ hành nghề môi giới bất động sản.
+Căn cứ pháp lý:
+  * Về xây dựng và quản lý Hệ thống thông tin, cơ sở dữ liệu về nhà ở và thị trường bất động sản (357/2025/NĐ-CP)
+  * quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng (144/2025/NĐ-CP)
+  * Quy định chi tiết một số điều của Luật Kinh doanh bất động sản (96/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

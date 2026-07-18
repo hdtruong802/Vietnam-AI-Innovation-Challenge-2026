@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000221
+Số quyết định: 1985/QĐ-NHNN
+Tên thủ tục: Thủ tục thông báo hạn mức chiết khấu giấy tờ có giá của NHNN đối với các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động tiền tệ
+Trình tự thực hiện:
+    Bước 1:
+    Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài gửi 01 bộ hồ sơ đề nghị thông báo hạn mức chiết khấu đến NHNN (chậm nhất vào ngày 15 tháng đầu tiên hàng quý).
+    Bước 2:
+    Ngân hàng Nhà nước xem xét, thẩm định hồ sơ.
+    Bước 3:
+    Sau khi xem xét, thẩm định hồ sơ, chậm nhất vào ngày 20 tháng đầu tiên hàng quý, trên cơ sở tổng hạn mức chiết khấu được phân bổ trong quý đối với lĩnh vực ưu tiên chiết khấu trong từng thời kỳ, NHNN thông báo hạn mức chiết khấu cho các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài có đề nghị.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Cấp mới và hủy mã khóa truy cập, mã chữ ký điện tử cho các chức danh tham gia nghiệp vụ chiết khấu của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài. Chậm nhất vào ngày 20 tháng đầu tiên hàng quý
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Chậm nhất vào ngày 20 tháng đầu tiên hàng quý . Qua fax
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Chậm nhất vào ngày 20 tháng đầu tiên hàng quý. Chậm nhất vào ngày 20 tháng đầu tiên hàng quý
+
+Thành phần hồ sơ:
+    - Bảng cân đối tài khoản kế toán của tháng gần nhất của các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy đề nghị Ngân hàng Nhà nước thông báo hạn mức chiết khấu (Mẫu số 01/NHNN-CK);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bảng kê các giấy tờ có giá đủ điều kiện chiết khấu tại Ngân hàng Nhà nước (Mẫu số 02/NHNN-CK).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức nước ngoài
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy thông báo hạn mức chiết khấu
+Căn cứ pháp lý:
+  * Thông tư 01/2022/TT-NHNN (01/2022/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,83 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003072
+Số quyết định: 1106/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận mua bán, chuyển nhượng phần vốn góp của tổ chức tín dụng phi ngân hàng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Tổ chức tín dụng phi ngân hàng lập hồ sơ gửi Ngân hàng Nhà nước;
+    + Bước 2: Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức tín dụng phi ngân hàng bổ sung hồ sơ;
+    + Bước 3: Trong thời hạn 21 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước có văn bản chấp thuận hoặc không chấp thuận đề nghị của tổ chức tín dụng phi ngân hàng. Trường hợp từ chối, Ngân hàng Nhà nước trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 21 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 21 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 21 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ * Hồ sơ đề nghị chấp thuận mua bán, chuyển nhượng phần vốn góp cho bên mua, bên nhận chuyển nhượng là thành viên góp vốn hiện tại của tổ chức tín dụng phi ngân hàng bao gồm các tài liệu sau đây: ]
+    - a) Văn bản đề nghị, trong đó tối thiểu bao gồm các nội dung: + Tên, địa chỉ trụ sở chính của bên bán, bên mua, bên chuyển nhượng và bên nhận chuyển nhượng; + Tỷ lệ chuyển nhượng phần vốn góp; tỷ lệ sở hữu và giá trị phần vốn góp của các thành viên góp vốn, thành viên góp vốn và người có liên quan trước và sau khi mua bán, chuyển nhượng phần vốn góp;  + Thời điểm dự kiến thực hiện mua bán, chuyển nhượng; + Lý do mua bán, chuyển nhượng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Văn bản của cấp có thẩm quyền quyết định của bên bán, bên chuyển nhượng và bên mua, bên nhận chuyển nhượng thông qua việc mua bán, chuyển nhượng phần vốn góp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Văn bản đề nghị mua, nhận chuyển nhượng phần vốn góp do người đại diện hợp pháp của bên mua, bên nhận chuyển nhượng ký;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Văn bản thỏa thuận, cam kết mua bán, chuyển nhượng phần vốn góp giữa bên bán, bên chuyển nhượng với bên mua, bên nhận chuyển nhượng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Cam kết sử dụng nguồn tiền hợp pháp của bên mua, bên nhận chuyển nhượng để mua, nhận chuyển nhượng phần vốn góp của tổ chức tín dụng phi ngân hàng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Báo cáo tài chính của bên mua, bên nhận chuyển nhượng năm liền kề trước năm đề nghị mua bán, chuyển nhượng phần vốn góp đã được kiểm toán bởi tổ chức kiểm toán độc lập theo quy định của pháp luật (trừ trường hợp bên mua, bên nhận chuyển nhượng là tổ chức tín dụng Việt Nam hoặc doanh nghiệp đã niêm yết trên thị trường chứng khoán Việt Nam). Trường hợp tại thời điểm nộp hồ sơ đề nghị chưa có báo cáo tài chính được kiểm toán thì nộp báo cáo tài chính chưa được kiểm toán và phải nộp báo cáo tài chính được kiểm toán ngay sau khi tổ chức kiểm toán phát hành báo cáo kiểm toán và phải chịu trách nhiệm về nội dung báo cáo tài chính đã nộp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Hồ sơ đề nghị chấp thuận mua bán, chuyển nhượng phần vốn góp cho bên mua, bên nhận chuyển nhượng là thành viên góp vốn mới gồm: ]
+    - a) Văn bản đề nghị, trong đó tối thiểu bao gồm các nội dung: + Tên, địa chỉ trụ sở chính của bên bán, bên mua, bên chuyển nhượng và bên nhận chuyển nhượng; + Tỷ lệ chuyển nhượng phần vốn góp; tỷ lệ sở hữu và giá trị phần vốn góp của các thành viên góp vốn, thành viên góp vốn và người có liên quan trước và sau khi mua bán, chuyển nhượng phần vốn góp;  + Thời điểm dự kiến thực hiện mua bán, chuyển nhượng; + Lý do mua bán, chuyển nhượng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Văn bản của cấp có thẩm quyền quyết định của bên bán, bên chuyển nhượng và bên mua, bên nhận chuyển nhượng thông qua việc mua bán, chuyển nhượng phần vốn góp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Văn bản đề nghị mua, nhận chuyển nhượng phần vốn góp do người đại diện hợp pháp của bên mua, bên nhận chuyển nhượng ký;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Văn bản thỏa thuận, cam kết mua bán, chuyển nhượng phần vốn góp giữa bên bán, bên chuyển nhượng với bên mua, bên nhận chuyển nhượng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Cam kết sử dụng nguồn tiền hợp pháp của bên mua, bên nhận chuyển nhượng để mua, nhận chuyển nhượng phần vốn góp của tổ chức tín dụng phi ngân hàng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Hồ sơ của thành viên góp vốn mới của tổ chức tín dụng phi ngân hàng như hồ sơ đối với thành viên sáng lập thành lập tổ chức tín dụng phi ngân hàng theo quy định của pháp luật có liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Hồ sơ đề nghị chấp thuận mua bán, chuyển nhượng phần vốn góp cho bên mua, bên nhận chuyển nhượng là chủ sở hữu mới gồm: ]
+    - a) Văn bản đề nghị, trong đó tối thiểu bao gồm các nội dung: + Tên, địa chỉ trụ sở chính của bên bán, bên mua, bên chuyển nhượng và bên nhận chuyển nhượng; + Tỷ lệ chuyển nhượng phần vốn góp; tỷ lệ sở hữu và giá trị phần vốn góp của các thành viên góp vốn, thành viên góp vốn và người có liên quan trước và sau khi mua bán, chuyển nhượng phần vốn góp;  + Thời điểm dự kiến thực hiện mua bán, chuyển nhượng; + Lý do mua bán, chuyển nhượng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Văn bản của cấp có thẩm quyền quyết định của bên bán, bên chuyển nhượng và bên mua, bên nhận chuyển nhượng thông qua việc mua bán, chuyển nhượng phần vốn góp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Văn bản đề nghị mua, nhận chuyển nhượng phần vốn góp do người đại diện hợp pháp của bên mua, bên nhận chuyển nhượng ký;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Văn bản thỏa thuận, cam kết mua bán, chuyển nhượng phần vốn góp giữa bên bán, bên chuyển nhượng với bên mua, bên nhận chuyển nhượng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Cam kết sử dụng nguồn tiền hợp pháp của bên mua, bên nhận chuyển nhượng để mua, nhận chuyển nhượng phần vốn góp của tổ chức tín dụng phi ngân hàng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Văn bản của cấp có thẩm quyền quyết định của bên bán, bên chuyển nhượng, bên mua, bên nhận chuyển nhượng thông qua nội dung phương án mua bán, chuyển nhượng phần vốn góp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - g) Phương án mua bán, chuyển nhượng phần vốn góp, trong đó bao gồm các nội dung tối thiểu sau đây: (i) Tên, địa chỉ và trang thông tin điện tử (nếu có) của tổ chức tín dụng phi ngân hàng; (ii) Thông tin của bên bán, bên chuyển nhượng, bên mua, bên nhận chuyển nhượng: Tên tổ chức, địa chỉ trụ sở chính, số Giấy phép thành lập hoặc số Giấy chứng nhận đăng ký doanh nghiệp hoặc văn bản tương đương, ngày cấp, nơi cấp; họ và tên, số căn cước hoặc số định danh cá nhân (đối với cá nhân có quốc tịch Việt Nam), số hộ chiếu hoặc giấy tờ có giá trị thay thế hộ chiếu, ngày cấp, nơi cấp (đối với cá nhân không có quốc tịch Việt Nam) của người đại diện hợp pháp của tổ chức; (iii) Lý do mua bán, chuyển nhượng phần vốn góp; (iv) Tóm tắt tình hình tài chính và kết quả hoạt động, việc đáp ứng các tỷ lệ bảo đảm an toàn trong hoạt động của tổ chức tín dụng phi ngân hàng trong năm liền kề trước năm nộp hồ sơ và tại thời điểm đề nghị mua bán, chuyển nhượng phần vốn góp; (v) Quyền lợi, nghĩa vụ của bên bán, bên chuyển nhượng, bên mua, bên nhận chuyển nhượng và các tổ chức, cá nhân có liên quan (nếu có); (vi) Giá chuyển nhượng, thời hạn, phương thức thanh toán; thời hạn bàn giao tổ chức tín dụng phi ngân hàng cho chủ sở hữu mới; (vii) Trách nhiệm của bên bán, bên chuyển nhượng và bên mua, bên nhận chuyển nhượng đối với chi phí phát sinh trong quá trình chuyển nhượng; (viii) Các phương án xử lý trong trường hợp bên tham gia mua bán, chuyển nhượng đơn phương hủy bỏ thỏa thuận mua bán, chuyển nhượng; (ix) Dự kiến về sơ đồ tổ chức, nhân sự, mạng lưới hoạt động và các vấn đề khác liên quan đến tổ chức và hoạt động của tổ chức tín dụng phi ngân hàng sau khi mua bán, chuyển nhượng phần vốn góp; (x) Phương án kinh doanh dự kiến trong 03 năm đầu của tổ chức tín dụng phi ngân hàng sau khi mua bán, chuyển nhượng, trong đó bao gồm tối thiểu các nội dung sau: Phân tích thị trường, chiến lược, mục tiêu và kế hoạch kinh doanh; các báo cáo tài chính dự kiến của từng năm (bảng cân đối kế toán; báo cáo kết quả kinh doanh, báo cáo lưu chuyển tiền tệ); các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động; các chỉ tiêu về hiệu quả hoạt động và thuyết minh khả năng thực hiện các chỉ tiêu tài chính trong từng năm; (xi) Biện pháp chuyển đổi, kết hợp hệ thống thông tin quản lý, kiểm soát nội bộ, kiểm toán nội bộ, hệ thống truyền dữ liệu để đảm bảo thông suốt hoạt động trong và sau khi mua bán, chuyển nhượng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - h) Hồ sơ của chủ sở hữu mới của tổ chức tín dụng phi ngân hàng như hồ sơ đối với chủ sở hữu thành lập tổ chức tín dụng phi ngân hàng theo quy định của pháp luật có liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận mua bán, chuyển nhượng phần vốn góp, văn bản từ chối
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * phân cấp thực hiện thủ tục hành chính trong lĩnh vực thông tin tín dụng và sủa đổi, bổ sung một số điều của các Thông tư liên quan đến cắt giảm, đơn giản hóa, phân cấp thực hiện thủ tục hành chính trong lĩnh vực thành lập và hoạt động ngân hàng (11/2026/TT-NHNN)
+  * Thông tư quy định về hồ sơ, thủ tục chấp thuận những thay đổi của tổ chức tín dụng phi ngân hàng (49/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

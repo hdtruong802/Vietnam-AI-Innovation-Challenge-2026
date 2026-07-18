@@ -1,0 +1,38 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009055
+Số quyết định: 1450/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan, giám sát hải quan đối với hàng hóa vận chuyển giữa kho chứa hàng miễn thuế và cửa hàng miễn thuế
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1:
+    - Trường hợp kho chứa hàng miễn thuế đặt trong khu vực cách ly, khu vực hạn chế khác với địa điểm đặt cửa hàng miễn thuế: Doanh nghiệp gửi thông tin hàng hóa về việc vận chuyển hàng hóa đến hệ thống xử lý dữ liệu trước khi thực hiện vận chuyển hàng hóa. Khi vận chuyển hàng hóa giữa kho chứa hàng miễn thuế và cửa hàng miễn thuế phải kèm theo chứng từ xuất kho.
+    - Trường hợp kho chứa hàng miễn thuế không đặt tại vị trí cùng với cửa hàng miễn thuế, không đặt trong khu cách ly, khu vực hạn chế: Doanh nghiệp gửi các thông tin (tên hàng, số lượng, tuyến đường vận chuyển) về việc vận chuyển hàng hóa đến hệ thống xử lý dữ liệu trước thực hiện vận chuyển hàng hóa, in 01 bản giấy về các thông tin về tên hàng, số lượng, tuyến đường vận chuyển dùng làm chứng từ lưu thông hàng hóa. Trong trường hợp thực hiện thủ công hoặc hệ thống xử lý dữ liệu điện tử gặp sự cố, thực hiện thông báo bằng văn bản về việc vận chuyển và chỉ được vận chuyển hàng hóa sau khi được cơ quan hải quan phê duyệt.
+    Bước 2:
+    - Trường hợp kho chứa hàng miễn thuế đặt trong khu vực cách ly, khu vực hạn chế khác với địa điểm đặt cửa hàng miễn thuế: Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế có trách nhiệm kiểm tra thực tế hàng hóa được vận chuyển theo nguyên tắc quản lý rủi ro hoặc có dấu hiệu vi phạm pháp luật.
+    - Trường hợp kho chứa hàng miễn thuế không đặt tại vị trí cùng với cửa hàng miễn thuế, không đặt trong khu cách ly, khu vực hạn chế: Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế thực hiện phê duyệt vận chuyển hàng hóa trên hệ thống xử lý dữ liệu điện tử ngay sau khi doanh nghiệp gửi đến hoặc văn bản do doanh nghiệp xuất trình. Niêm phong hàng hóa trước khi vận chuyển, ghi rõ số niêm phong hải quan trên bản giấy của doanh nghiệp. Khi hàng hóa vận chuyển đến địa điểm, Chi cục Hải quan quản lý cửa hàng miễn thuế, kho chứa hàng miễn thuế kiểm tra niêm phong, xác nhận trên văn bản của doanh nghiệp, thực hiện giám sát hàng hóa nhập vào kho chứa hàng miễn thuế hoặc cửa hàng miễn thuế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ - Trường hợp kho chứa hàng miễn thuế đặt trong khu vực cách ly, khu vực hạn chế khác với địa điểm đặt cửa hàng miễn thuế: gửi thông tin hàng hóa về việc vận chuyển hàng hóa qua hệ thống xử lý dữ liệu điện tử. - Trường hợp kho chứa hàng miễn thuế không đặt tại vị trí cùng với cửa hàng miễn thuế, không đặt trong khu cách ly, khu vực hạn chế: thông tin (tên hàng, số lượng, tuyến đường vận chuyển) về việc vận chuyển hàng hóa đến hệ thống xử lý dữ liệu điện tử và 01 bản giấy về các thông tin về tên hàng, số lượng, tuyến đường vận chuyển dùng làm chứng từ lưu thông hàng hóa * Số lượng hồ sơ: 01 bộ ]
+    - Thông tin hàng hóa
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Phê duyệt của Chi cục Hải quan trên hệ thống xử lý dữ liệu điện tử
+Căn cứ pháp lý:
+  * Về kinh doanh hàng miễn thuế (100/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

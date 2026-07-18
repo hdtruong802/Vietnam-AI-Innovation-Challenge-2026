@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007891
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hóa của người xuất cảnh, nhập cảnh và phương tiện xuất cảnh, nhập cảnh qua biên giới
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1:
+    Người khai hải quan (chủ hàng, người điều khiển phương tiện) phải khai báo hàng hóa xuất khẩu/nhập khẩu trên tờ khai hải quan hàng hóa xuất khẩu/nhập khẩu và khai báo phương tiện vận tải xuất cảnh/nhập cảnh trên tờ khai phương tiện xuất cảnh/nhập cảnh, đồng thời phải nộp và xuất trình tờ khai kèm hồ sơ hàng hóa, hồ sơ phương tiện liên quan và giấy phép điều khiển phương tiện phù hợp với loại phương tiện đang điều khiển cho Hải quan cửa khẩu để giải quyết thủ tục hải quan và thông quan theo quy định.
+    Bước 2:
+    Hải quan cửa khẩu tiếp nhận tờ khai và hồ sơ hàng hóa xuất khẩu/nhập khẩu, hồ sơ phương tiện xuất cảnh/nhập cảnh và giấy phép điều khiển phương tiện của Người khai hải quan; vào sổ đăng ký tờ khai và kiểm tra sự phù hợp giữa thực tế hàng hóa, phương tiện với khai báo của Người khai hải quan trên hồ sơ hàng hóa, phương tiện, giấy phép điều khiển phương tiện để giải quyết thủ tục hải quan và quyết định thông quan theo quy định của pháp luật.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (từ 20.000 đồng đối với hàng hóa xuất khẩu, nhập khẩu; 200.000 đồng đối với hàng quá cảnh)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (từ 20.000 đồng đối với hàng hóa xuất khẩu, nhập khẩu; 200.000 đồng đối với hàng quá cảnh)
+
+Thành phần hồ sơ:
+    - Tờ khai hải quan và hồ sơ liên quan
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông quan hàng hóa nhập khẩu, xuất khẩu
+Căn cứ pháp lý:
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Về đăng ký doanh nghiệp (43/2010/NĐ-CP)
+  * Quyết định 139/2009/QĐ-TTg - Sửa đổi, bổ sung một số điều của Quyết định số 254/2006/QĐ-TTg ngày 07 tháng 11 năm 2006 của Thủ tướng Chính phủ về việc quản lý hoạt động thương mại biên giới với các nước có chung biên giới (139/2009/QĐ-TTg)
+  * Thông tư liên tịch 01/2008/TTLT-BCT-BTC-BGTVT-BNN&PTNT-BYT-NHNN (01/2008/TTLT-BCT-BTC-BGTVT-BNN&PTNT-BYT-NHNN)
+  * Quyết định 254/2006/QĐ-TTg - Về việc quản lý hoạt động thương mại biên giớivới các nước có chung biên giới (254/2006/QĐ-TTg)
+  * Thông tư 13/2009/TT-BCT - Quy định xuất nhập khẩu hàng hóa qua các cửa khẩu phụ, lối mở biên giới nằm ngoài các Khu kinh tế cửa khẩu (13/2009/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

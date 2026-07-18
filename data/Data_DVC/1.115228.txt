@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115228
+Số quyết định: 3116/QĐ-BCA-C06.
+Tên thủ tục: Cấp lại Giấy chứng nhận đủ điều kiện về an ninh, trật tự đối với trường hợp cơ sở kinh doanh bị thu hồi không có thời hạn
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý ngành nghề đầu tư, kinh doanh có điều kiện về an ninh, trật tự
+Trình tự thực hiện:
+    - Bước 1: Tổ chức, cá nhân có nhu cầu đề nghị cấp lại Giấy chứng nhận đủ điều kiện về an ninh, trật tự (đối với trường hợp bị thu hồi không có thời hạn theo quy định của pháp luật) nộp hồ sơ về Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an.
+    - Bước 2: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ
+    + Nếu hồ sơ hợp lệ và đủ thành phần thì tiếp nhận hồ sơ và gửi Giấy biên nhận hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) cho người liên hệ nộp hồ sơ.
+    + Nếu hồ sơ chưa đầy đủ thành phần hoặc không hợp lệ thì hướng dẫn và gửi Phiếu hướng dẫn hoàn thiện hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) cho người liên hệ nộp hồ sơ.
+    + Nếu hồ sơ không đủ điều kiện hoặc không thuộc thẩm quyền giải quyết thì từ chối tiếp nhận hồ sơ và gửi thông báo lý do từ chối giải quyết hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) cho người liên hệ nộp hồ sơ.
+    - Bước 3: Căn cứ ngày hẹn trả kết quả trên Giấy biên nhận hồ sơ, Cục Cảnh sát quản lý hành chính về trật tự xã hội trả kết quả trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 300000 VNĐ ()
+    Mô tả: - Nộp hồ sơ trực tiếp tại bộ phận tiếp nhận hồ sơ của Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia/Ứng dụng định danh quốc gia (VNeID) (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).
+- Nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia/Ứng dụng định danh quốc gia (VNeID).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 300000 VNĐ ()
+    Mô tả: - Nộp hồ sơ trực tiếp tại bộ phận tiếp nhận hồ sơ của Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia/Ứng dụng định danh quốc gia (VNeID) (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).
+- Nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia/Ứng dụng định danh quốc gia (VNeID).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 300000 VNĐ ()
+    Mô tả: - Nộp hồ sơ trực tiếp tại bộ phận tiếp nhận hồ sơ của Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia/Ứng dụng định danh quốc gia (VNeID) (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).
+- Nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia/Ứng dụng định danh quốc gia (VNeID).
+
+Thành phần hồ sơ:
+  [ - Văn bản đề nghị cấp lại Giấy chứng nhận đủ điều kiện về an ninh, trật tự của cơ sở kinh doanh gửi cơ quan Công an có thẩm quyền (Mẫu số 03 tại Phụ lục I ban hành kèm theo Nghị định số 58/2026/NĐ-CP); ]
+    - - Văn bản đề nghị cấp lại Giấy chứng nhận đủ điều kiện về an ninh, trật tự của cơ sở kinh doanh gửi cơ quan Công an có thẩm quyền (Mẫu số 03 tại Phụ lục I ban hành kèm theo Nghị định số 58/2026/NĐ-CP); - Tài liệu hợp lệ các tài liệu bổ sung chứng minh đáp ứng đủ điều kiện để hoạt động kinh doanh (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Cơ quan có thẩm quyền: Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện về an ninh, trật tự
+Căn cứ pháp lý:
+  * Thông tư 23/2019/TT-BTC (23/2019/TT-BTC)
+  * Thông tư 42/2017/TT-BCA (42/2017/TT-BCA)
+  * Thông tư 218/2016/TT-BTC (218/2016/TT-BTC)
+  * Nghị định 96/2016/NĐ-CP (96/2016/NĐ-CP)
+  * Nghị định 56/2023/NĐ-CP (56/2023/NĐ-CP)
+  * Thông tư 15/2022/TT-BCA (15/2022/TT-BCA)
+
+Yêu cầu, điều kiện thực hiện: Đã đáp ứng điều kiện mà trước đó bị thu hồi Giấy chứng nhận đủ điều kiện về an ninh, trật tự không thời hạn theo quy định tại Điều 18 Nghị định số 96/2016/NĐ-CP và đảm bảo thời hạn được cấp lại theo quy định tại Điều 22 Nghị định này.
+Từ khóa: Không có thông tin
+Mô tả: Đã đáp ứng điều kiện mà trước đó bị thu hồi Giấy chứng nhận đủ điều kiện về an ninh, trật tự không thời hạn theo quy định tại Điều 18 Nghị định số 96/2016/NĐ-CP và đảm bảo thời hạn được cấp lại theo quy định tại Điều 22 Nghị định này.

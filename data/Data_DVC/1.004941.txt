@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004941
+Số quyết định: 2082/QĐ-BYT
+Tên thủ tục: Đăng ký nhận chăm sóc thay thế cho trẻ em đối với cá nhân, người đại diện gia đình nhận chăm sóc thay thế không phải là người thân thích của trẻ em
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trẻ em
+Trình tự thực hiện:
+    Bước 1. Cá nhân, gia đình có nguyện vọng và đủ điều kiện nhận trẻ em về chăm sóc thay thế theo quy định tại Khoản 2 Điều 63 Luật Trẻ em đăng ký với Chủ tịch Ủy ban nhân dân cấp xã nơi cư trú.
+    Bước 2. Chủ tịch Ủy ban nhân dân cấp xã lập và quản lý danh sách cá nhân, gia đình đăng ký nhận chăm sóc thay thế có đủ điều kiện.
+    Bước 3. Chủ tịch Ủy ban nhân dân cấp xã có trách nhiệm trong việc quản lý danh sách, điều phối việc lựa chọn cá nhân, gia đình nhận chăm sóc thay thế trên địa bàn khi có trường hợp trẻ em cần chăm sóc thay thế.
+    Bước 4. Người thân thích của trẻ em khi nhận chăm sóc thay thế không phải đăng ký theo quy định tại khoản 1 Điều 65 Luật Trẻ em nhưng phải thông báo với Chủ tịch Ủy ban nhân dân cấp xã nơi cư trú để ra quyết định giao chăm sóc thay thế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc kể từ ngày ban hành quyết định, Ủy ban nhân dân cấp xã tổ chức việc giao, nhận trẻ em cho cá nhân, gia đình nhận chăm sóc thay thế.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc kể từ ngày ban hành quyết định, Ủy ban nhân dân cấp xã tổ chức việc giao, nhận trẻ em cho cá nhân, gia đình nhận chăm sóc thay thế.
+
+Thành phần hồ sơ:
+    - Đơn đăng ký nhận  chăm sóc  thay thế
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Lý lịch tư pháp do cơ quan  có thẩm quyền cấp (đối  với cá nhân, người đại diện gia đình chăm sóc, thay thế là người nước ngoài)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy khám sức khỏe trong thời gian 06 tháng tính  đến ngày nộp hồ sơ do cơ quan y tế cấp theo quy định của pháp luật
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Ủy ban nhân dân cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Chủ tịch Ủy ban nhân dân cấp xã giao, nhận trẻ em cho cá nhân, gia đình nhận chăm sóc thay thế (BYT)
+Căn cứ pháp lý:
+  * Nghị định số 42/2025/NĐ-CP của Chính phủ: Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (42/2025/NĐ-CP)
+  * Nghị định số 147/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Y tế (147/2025/NĐ-CP)
+  * Nghị định 56/2017/NĐ-CP - Quy định chi tiết một số điều của Luật Trẻ em (56/2017/NĐ-CP)
+  * Luật Trẻ em (102/2016/QH13)
+
+Yêu cầu, điều kiện thực hiện: - Cá nhân, người đại diện gia đình là người cư trú tại Việt Nam; có sức khỏe và có năng lực hành vi dân sự đầy đủ; có tư cách đạo đức tốt; không bị hạn chế một số quyền của cha, mẹ đối với con chưa thành niên; không bị truy cứu trách nhiệm hình sự, xử lý vi phạm hành chính về các hành vi xâm hại trẻ em; không bị kết án về một trong các tội cố ý xâm phạm tính mạng, sức khỏe, nhân phẩm, danh dự của người khác, ngược đãi hoặc hành hạ ông bà, cha mẹ, vợ chồng, con, cháu, người có công nuôi dưỡng mình, dụ dỗ, ép buộc hoặc chứa chấp người chưa thành niên vi phạm pháp luật, mua, bán, đánh tráo, chiếm đoạt trẻ em.
+- Có chỗ ở và điều kiện kinh tế phù hợp, bảo đảm chăm sóc, nuôi dưỡng, giáo dục trẻ em.
+- Tự nguyện nhận chăm sóc trẻ em; có sự đồng thuận giữa các thành viên trong gia đình về việc nhận chăm sóc trẻ em; các thành viên trong gia đình không bị truy cứu trách nhiệm hình sự, xử lý vi phạm hành chính về các hành vi xâm hại trẻ em.
+- Người thân thích nhận trẻ em chăm sóc thay thế phải là người thành niên; các trường hợp khác phải hơn trẻ em từ 20 tuổi trở lên.
+- Cá nhân, người đại diện gia đình là người nước ngoài phải cư trú tại Việt Nam ít nhất 06 tháng và còn thời hạn cư trú tại Việt Nam ít nhất 12 tháng vào thời điểm đăng ký.
+Từ khóa: Không có thông tin
+Mô tả: - Cá nhân, người đại diện gia đình là người cư trú tại Việt Nam; có sức khỏe và có năng lực hành vi dân sự đầy đủ; có tư cách đạo đức tốt; không bị hạn chế một số quyền của cha, mẹ đối với con chưa thành niên; không bị truy cứu trách nhiệm hình sự, xử lý vi phạm hành chính về các hành vi xâm hại trẻ em; không bị kết án về một trong các tội cố ý xâm phạm tính mạng, sức khỏe, nhân phẩm, danh dự của người khác, ngược đãi hoặc hành hạ ông bà, cha mẹ, vợ chồng, con, cháu, người có công nuôi dưỡng mình, dụ dỗ, ép buộc hoặc chứa chấp người chưa thành niên vi phạm pháp luật, mua, bán, đánh tráo, chiếm đoạt trẻ em.
+- Có chỗ ở và điều kiện kinh tế phù hợp, bảo đảm chăm sóc, nuôi dưỡng, giáo dục trẻ em.
+- Tự nguyện nhận chăm sóc trẻ em; có sự đồng thuận giữa các thành viên trong gia đình về việc nhận chăm sóc trẻ em; các thành viên trong gia đình không bị truy cứu trách nhiệm hình sự, xử lý vi phạm hành chính về các hành vi xâm hại trẻ em.
+- Người thân thích nhận trẻ em chăm sóc thay thế phải là người thành niên; các trường hợp khác phải hơn trẻ em từ 20 tuổi trở lên.
+- Cá nhân, người đại diện gia đình là người nước ngoài phải cư trú tại Việt Nam ít nhất 06 tháng và còn thời hạn cư trú tại Việt Nam ít nhất 12 tháng vào thời điểm đăng ký.

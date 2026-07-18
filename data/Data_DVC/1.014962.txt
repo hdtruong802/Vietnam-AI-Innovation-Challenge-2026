@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014962
+Số quyết định: 1305/QĐ-BQP
+Tên thủ tục: Thủ tục cấp phép cho doanh nghiệp bảo vệ được thuê làm dịch vụ bảo vệ tàu quân sự nước ngoài đến Việt Nam để sửa chữa
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý biên giới
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp sửa chữa tàu quân sự nước ngoài gửi hồ sơ đề nghị cấp phép cho doanh nghiệp bảo vệ được làm dịch vụ bảo vệ tàu quân sự nước ngoài đến Việt Nam để sửa chữa đến Bộ Quốc phòng (qua Cục Bảo vệ an ninh Quân đội/Tổng cục Chính trị).
+    Bước 2: Bộ Quốc phòng tiếp nhận, kiểm tra hồ sơ, thực hiện cấp phép hoặc từ chối cấp phép cho doanh nghiệp bảo vệ thông qua doanh nghiệp sửa chữa tàu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Gửi hồ sơ trực tiếp.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Gửi hồ sơ trực tuyến trên Hệ thống thông tin giải quyết thủ tục hành chính Bộ Quốc phòng, Cổng Dịch vụ công quốc gia.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Gửi hồ sơ qua dịch vụ bưu chính (quân bưu).
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp phép cho doanh nghiệp bảo vệ được thuê làm dịch vụ bảo vệ tàu quân sự nước ngoài theo Mẫu số 02 Phụ lục ban hành kèm theo tại Thông tư số 15/2026/TT-BQP ngày 12/02/2026 (bản chính).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng dịch vụ bảo vệ (bản sao - có chứng thực)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Danh sách đề nghị cấp phép làm dịch vụ bảo vệ theo Mẫu số 03 tại Thông tư số 15/2026/TT-BQP ngày 12/02/2026 (bản chính)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Cục Bảo vệ an ninh - Tổng cục Chính trị
+Cơ quan có thẩm quyền: Bộ Quốc phòng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Bộ Quốc phòng
+Kết quả thực hiện: Công văn về việc cấp phép hoặc từ chối cấp phép của Bộ Quốc phòng.
+Căn cứ pháp lý:
+  * Nghị định quy định đối với tàu quân sự nước ngoài đến nước Cộng hòa xã hội chủ nghĩa Việt Nam và tàu quân sự nước Cộng hòa xã hội chủ nghĩa Việt Nam đi nước ngoài (234/2025/NĐ-CP ngày 27/8/2025 của Chính phủ)
+  * Quy định về trình tự, thủ tục cấp phép cho tàu quân sự nước ngoài đến Việt Nam và tàu quân sự Việt Nam đi nước ngoài; thủ tục nhập cảnh, xuất cảnh, chuyển cảng đối với tàu quân sự nước ngoài đến Việt Nam; nội dung và phạm vi bảo vệ của doanh nghiệp bảo vệ được thuê bảo vệ tàu quân sự nước ngoài đến Việt Nam để sửa chữa (15/2026/TT-BQP ngày 12/02/2026 của Bộ trưởng Bộ quốc phòng)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003676
+Số quyết định: 2069/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục đăng ký tổ chức lễ hội (thẩm quyền của UBND cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Văn hóa
+Trình tự thực hiện:
+    - Lễ hội phải đăng ký với Ủy ban nhân dân cấp tỉnh trước khi tổ chức gồm:
+    (1) Lễ hội văn hóa, lễ hội ngành nghề do cơ quan trung ương tổ chức (gọi chung là lễ hội cấp quốc gia) được tổ chức lần đầu.
+    (2) Lễ hội văn hóa, lễ hội ngành nghề có từ 02 tỉnh trở lên tham gia tổ chức (gọi chung là lễ hội cấp khu vực) được tổ chức lần đầu.
+    (3) Lễ hội có nguồn gốc từ nước ngoài được tổ chức lần đầu hoặc khôi phục sau thời gian gián đoạn từ 02 năm trở lên.
+    (4) Lễ hội truyền thống, lễ hội văn hóa, lễ hội ngành nghề cấp tỉnh được tổ chức lần đầu hoặc khôi phục sau thời gian gián đoạn từ 02 năm trở lên;
+    (5) Lễ hội truyền thống, lễ hội văn hóa, lễ hội ngành nghề có nhiều xã/phường thuộc một tỉnh, thành phố trực thuộc trung ương tham gia tổ chức (gọi chung là lễ hội cấp tỉnh) được tổ chức lần đầu hoặc khôi phục sau thời gian gián đoạn từ 02 năm trở lên.
+    - Đơn vị tổ chức lễ hội gửi trực tiếp, qua bưu điện hoặc trực tuyến 01 bộ hồ sơ đến cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh nơi tổ chức lễ hội trước ngày dự kiến tổ chức lễ hội ít nhất 20 ngày làm việc. Trường hợp lễ hội văn hóa, lễ hội ngành nghề có từ 02 tỉnh trở lên tham gia tổ chức thì các đơn vị tổ chức lễ hội thống nhất chọn đơn vị tổ chức lập hồ sơ gửi Ủy ban nhân dân cấp tỉnh nơi tổ chức lễ hội.
+    - Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ đúng theo quy định, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh có trách nhiệm thẩm định nội dung về sự đầy đủ, hợp pháp của hồ sơ; các chương trình, hoạt động trong khuôn khổ lễ hội; phương án bảo đảm an ninh trật tự, an toàn xã hội, phòng chống cháy nổ, bảo vệ môi trường.
+    - Trường hợp hoạt động lễ hội có nội dung liên quan đến các bộ, ngành trung ương hoặc các cơ quan, đơn vị ở địa phương, trong thời hạn 07 ngày làm việc, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh phải có văn bản xin ý kiến, tổng hợp, hoàn chỉnh hồ sơ và quyết định việc chấp thuận tổ chức hoạt động lễ hội.
+    - Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do. Chỉ được tổ chức lễ hội sau khi có văn bản chấp thuận của Ủy ban nhân dân cấp tỉnh.
+    - Trường hợp hồ sơ chưa đúng theo quy định tại Điều 10 Nghị định số 110/2018/NĐ-CP, trong 02 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận đăng ký phải có văn bản thông báo những nội dung cần bổ sung. Đơn vị tổ chức lễ hội bổ sung hồ sơ và thực hiện lại trình tự đăng ký theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 17 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 17 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 17 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Dự kiến thành phần Ban tổ chức lễ hội;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đăng ký nêu rõ tên lễ hội, sự cần thiết, thời gian, địa điểm, quy mô, nội dung hoạt động lễ hội, dự kiến thành phần số lượng khách mời;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đồng ý tổ chức lễ hội tại Việt Nam của Đại sứ quán hoặc Lãnh sự hoặc Tổng Lãnh sự quốc gia, vùng lãnh thổ và văn bản đồng ý của Bộ Ngoại giao (đối với lễ hội có nguồn gốc từ nước ngoài)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Các tài liệu hoặc văn bản chứng minh về nguồn gốc lễ hội (đối với lễ hội truyền thống).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phương án bảo đảm an ninh trật tự, an toàn xã hội, phòng chống cháy nổ, bảo vệ môi trường;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản trả lời về việc đăng ký tổ chức lễ hội (nếu không đồng ý)
+Căn cứ pháp lý:
+  * Nghị định số 110/2018/NĐ-CP (110/2018/NĐ-CP)
+  * Nghị định số 137/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực văn hóa, thể thao và du lịch. (137/2025/NĐ-CP)
+  * Nghị định quy định về phân quyền, phân cấp trong lĩnh vực văn hóa, thể thao và du lịch (138/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

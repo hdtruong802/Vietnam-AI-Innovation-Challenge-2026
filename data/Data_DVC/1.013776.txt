@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013776
+Số quyết định: 1040/QĐ-BCT
+Tên thủ tục: Chấp thuận đầu tư nước ngoài theo hình thức liên doanh sản xuất sản phẩm thuốc lá
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công nghiệp tiêu dùng
+Trình tự thực hiện:
+    + Các bên liên quan gửi hồ sơ dự án thành lập tổ chức kinh tế có vốn đầu tư nước ngoài, hợp đồng thành lập tổ chức kinh tế có vốn đầu tư nước ngoài kèm theo văn bản đề nghị về Bộ Công Thương;
+    + Trong thời gian 30 ngày làm việc kể từ ngày nhận đủ hồ sơ và văn bản đề nghị của doanh nghiệp, Bộ Công Thương xem xét quyết định. Trường hợp từ chối phải có văn bản trả lời doanh nghiệp;
+    + Sau khi có văn bản chấp thuận của Bộ Công Thương, các bên liên doanh mới được triển khai đăng ký thành lập liên doanh theo quy định của pháp luật hiện hành về đầu tư.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của pháp luật về phí, lệ phí hiện hành.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của pháp luật về phí, lệ phí hiện hành.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của pháp luật về phí, lệ phí hiện hành.)
+
+Thành phần hồ sơ:
+    - - Hồ sơ dự án
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Hợp đồng thành lập tổ chức kinh tế có vốn đầu tư nước ngoài
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Hồ sơ chứng minh nguồn gốc hợp pháp của máy móc, thiết bị chuyên ngành thuốc lá;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Kế hoạch sản xuất kinh doanh của doanh nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy phép sản xuất sản phẩm thuốc lá
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị thành lập tổ chức kinh tế có vốn đầu tư nước ngoài sản xuất sản phẩm thuốc lá
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao hồ sơ chứng minh đầu tư trồng hoặc liên kết đầu tư trồng cây thuốc lá.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Thuyết minh dự án + Trường hợp dự án được thực hiện lần đầu hoặc hoạt động độc lập: Báo cáo (dự án) đầu tư theo quy định hiện hành của pháp luật về đầu tư và xây dựng; + Trường hợp dự án đang sản xuất: Thuyết minh hiện trạng quy trình sản xuất, cơ sở vật chất (nhà xưởng), máy móc thiết bị chuyên ngành thuốc lá (Bảng kê danh mục máy móc, thiết bị cuốn điếu thuốc lá và đóng bao thuốc lá, năng lực từng công đoạn quy đổi ra bao 20 điếu, thiết bị đo lường, kiểm tra chất lượng…); công suất sản xuất; sản lượng sản xuất từng loại sản phẩm thuốc lá; phạm vi và mục tiêu hoạt động; phương án đầu tư máy móc thiết bị và xử lý các máy móc thiết bị được thay thế; hiệu quả của dự án; báo cáo kiểm toán độc lập năm gần nhất trước thời điểm nộp hồ sơ (hoặc báo cáo tài chính);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: văn bản chấp thuận của Bộ Công Thương
+Căn cứ pháp lý:
+  * sửa đổi, bổ sung một số điều của Nghị định số 67/2013/NĐ-CP ngày 27 tháng 6 năm 2013 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tác hại của thuốc lá về kinh doanh thuốc lá (106/2017/NĐ-CP)
+  * Sửa đổi, bổ sung một số điều của các Nghị định liên quan đến điều kiện đầu tư kinh doanh thuộc lĩnh vực quản lý nhà nước của Bộ Công Thương (17/2020/NĐ-CP)
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tác hại của thuốc lá về kinh doanh thuốc lá (67/2013/NĐ-CP)
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Nghị định số 146/2025/NĐ-CP (nghị định 146/2025)
+
+Yêu cầu, điều kiện thực hiện: 1. Đầu tư trên cơ sở liên doanh hợp tác với doanh nghiệp đã có Giấy phép sản xuất sản phẩm thuốc lá. Nhà nước chiếm tỷ lệ chi phối trong vốn điều lệ của doanh nghiệp (trong trường hợp đầu tư theo hình thức liên doanh);
+2. Đáp ứng các điều kiện cấp Giấy phép sản xuất sản phẩm thuốc lá;
+3. Được sự đồng ý của Bộ Công Thương.
+Từ khóa: Không có thông tin
+Mô tả: 1. Đầu tư trên cơ sở liên doanh hợp tác với doanh nghiệp đã có Giấy phép sản xuất sản phẩm thuốc lá. Nhà nước chiếm tỷ lệ chi phối trong vốn điều lệ của doanh nghiệp (trong trường hợp đầu tư theo hình thức liên doanh);
+2. Đáp ứng các điều kiện cấp Giấy phép sản xuất sản phẩm thuốc lá;
+3. Được sự đồng ý của Bộ Công Thương.

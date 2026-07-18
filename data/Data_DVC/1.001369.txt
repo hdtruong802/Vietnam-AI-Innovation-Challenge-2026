@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001369
+Số quyết định: 461/QĐ-BXD
+Tên thủ tục: Mở cảng hàng không, sân bay
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+    a) Nộp hồ sơ thủ tục hành chính:
+    Người khai thác cảng hàng không, sân bay gửi 01 bộ hồ sơ đề nghị mở cảng hàng không, sân bay trực tiếp, qua hệ thống bưu chính hoặc các hình thức phù hợp khác đến Bộ Xây dựng.
+    b) Giải quyết thủ tục hành chính:
+    Trong thời hạn 12 ngày, kể từ ngày nhận được đầy đủ hồ sơ đề nghị mở cảng hàng không, sân bay, Bộ Xây dựng tổ chức thẩm định, trình Thủ tướng Chính phủ quyết định mở cảng hàng không, sân bay. Trường hợp không chấp thuận mở cảng hàng không, sân bay, Bộ Xây dựng phải có văn bản trả lời người đề nghị, nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 12 ngày, kể từ ngày nhận được đầy đủ hồ sơ đề nghị mở cảng hàng không, sân bay, Bộ Xây dựng tổ chức thẩm định, trình Thủ tướng Chính phủ quyết định mở cảng hàng không, sân bay.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 12 ngày, kể từ ngày nhận được đầy đủ hồ sơ đề nghị mở cảng hàng không, sân bay, Bộ Xây dựng tổ chức thẩm định, trình Thủ tướng Chính phủ quyết định mở cảng hàng không, sân bay.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trong thời hạn 12 ngày, kể từ ngày nhận được đầy đủ hồ sơ đề nghị mở cảng hàng không, sân bay, Bộ Xây dựng tổ chức thẩm định, trình Thủ tướng Chính phủ quyết định mở cảng hàng không, sân bay.
+
+Thành phần hồ sơ:
+    - - Văn bản đề nghị, bao gồm các nội dung: Tên cảng hàng không, sân bay; vị trí, quy mô, loại hình cảng hàng không, sân bay; cấp sân bay;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - không, sân bay: 	+ Cảng hàng không, sân bay đã được cấp giấy chứng nhận đăng ký, giấy chứng nhận khai thác cảng hàng không, sân bay theo quy định; 	+ Cảng hàng không, sân bay đã được cơ quan nhà nước có thẩm quyền phê chuẩn vùng trời, đường bay và phương thức bay phục vụ khai thác sân bay.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Bộ Xây dựng
+Cơ quan có thẩm quyền: Thủ tướng Chính phủ
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định mở cảng hàng không, sân bay
+Căn cứ pháp lý:
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Nghị định 205/2026/NĐ-CP ngày 15/6/2026 của Chính phủ về cảng hàng không và bãi cất, hạ cánh. (205/2026/NĐ-CP)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Điều kiện cho phép mở cảng hàng không, sân bay:
+- Cảng hàng không, sân bay đã được cấp giấy chứng nhận đăng ký, giấy chứng nhận khai thác cảng hàng không, sân bay theo quy định;
+- Cảng hàng không, sân bay đã được cơ quan nhà nước có thẩm quyền phê chuẩn vùng trời, đường bay và phương thức bay phục vụ khai thác sân bay.
+Từ khóa: Không có thông tin
+Mô tả: Điều kiện cho phép mở cảng hàng không, sân bay:
+- Cảng hàng không, sân bay đã được cấp giấy chứng nhận đăng ký, giấy chứng nhận khai thác cảng hàng không, sân bay theo quy định;
+- Cảng hàng không, sân bay đã được cơ quan nhà nước có thẩm quyền phê chuẩn vùng trời, đường bay và phương thức bay phục vụ khai thác sân bay.

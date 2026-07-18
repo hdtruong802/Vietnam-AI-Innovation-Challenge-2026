@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001379
+Số quyết định: 1213/QĐ-BCT
+Tên thủ tục: Gia hạn thời gian quá cảnh hàng hóa của nước Cộng hòa nhân dân Trung Hoa qua lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    Bước 1:  Chủ hàng gửi 01 (một) bộ hồ sơ đến cơ quan có thẩm quyền giải quyết việc gia hạn thời gian quá cảnh hàng hóa;
+    Bước 2: Trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ, trong vòng 03 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan có thẩm quyền giải quyết việc gia hạn thời gian quá cảnh hàng hóa có văn bản gửi chủ hàng yêu cầu bổ sung, chỉnh sửa
+    Bước 3: Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền giải quyết việc gia hạn thời gian quá cảnh hàng hóa xem xét có văn bản chấp thuận việc gia hạn thời gian quá cảnh hàng hóa; Trường hợp không cho phép gia hạn thời gian quá cảnh hàng hóa, cơ quan có thẩm quyền giải quyết có văn bản trả lời chủ hàng và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Văn bản đề nghị gia hạn thời gian quá cảnh hàng hóa của chủ hàng: 01 (một) bản chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản xác nhận của cơ quan Hải quan về tình trạng lô hàng quá cảnh: 01 (một) bản chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy phép quá cảnh hàng hóa đã được cấp: 01 (một) bản sao (có ký xác nhận và đóng dấu sao y bản chính của chủ hàng);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Tờ khai Hải quan của lô hàng quá cảnh: 01 (một) bản sao (có ký xác nhận và đóng dấu sao y bản chính của chủ hàng).
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Cục Xuất nhập khẩu
+Cơ quan có thẩm quyền: Bộ Công thương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: văn bản Gia hạn thời gian quá cảnh hàng hóa của nước Cộng hòa nhân dân Trung Hoa qua lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam
+Căn cứ pháp lý:
+  * Thông tư số 26/2026/TT-BCT ngày 20 tháng 5 năm 2026 của Bộ trưởng Bộ Công Thương sửa đổi bổ sung một số quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương. (26/2026/TT-BCT)
+  * Quy định về quá cảnh hàng hóa của nước Cộng hòa Nhân dân Trung Hoa qua lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam (11/2015/TT-BCT)
+  * Sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương (38/2025/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003570
+Số quyết định: 123/QĐ-CHHĐTVN
+Tên thủ tục: Phê duyệt kế hoạch an ninh và cấp giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    Cá nhân, tổ chức có nhu cầu phê duyệt kế hoạch an ninh và cấp giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài nộp hồ sơ đến Cảng vụ Hàng hải/Cảng vụ Đường thủy nội địa
+  * b) Giải quyết TTHC:
+    Trong thời hạn 04 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định,
+    Cảng vụ thẩm định hồ sơ và báo cáo kết quả thẩm định gửi kèm 02 bộ hồ sơ đến
+    Cục Hàng hải và Đường thủy Việt Nam. Trong thời hạn 04 ngày làm việc, kể từ
+    ngày nhận đủ hồ sơ và báo cáo của Cảng vụ, Cục Hàng hải và Đường thủy nội địa Việt Nam phê duyệt đánh giá an ninh, kế hoạch an ninh và cấp giấy chứng nhận
+    phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài, xác
+    nhận hàng năm giấy chứng nhận phù hợp an ninh cảng thủy nội địa.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 14000000 VNĐ ()
+    Mô tả: Trong thời hạn 04 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định,
+Cảng vụ thẩm định hồ sơ và báo cáo kết quả thẩm định gửi kèm 02 bộ hồ sơ đến
+Cục Hàng hải và Đường thủy Việt Nam. Trong thời hạn 04 ngày làm việc, kể từ
+ngày nhận đủ hồ sơ và báo cáo của Cảng vụ, Cục Hàng hải và Đường thủy nội địa
+Việt Nam phê duyệt đánh giá an ninh, kế hoạch an ninh và cấp giấy chứng nhận
+phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài, xác
+nhận hàng năm giấy chứng nhận phù hợp an ninh cảng thủy nội địa.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 14000000 VNĐ ()
+    Mô tả: Trong thời hạn 04 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định,
+Cảng vụ thẩm định hồ sơ và báo cáo kết quả thẩm định gửi kèm 02 bộ hồ sơ đến
+Cục Hàng hải và Đường thủy Việt Nam. Trong thời hạn 04 ngày làm việc, kể từ
+ngày nhận đủ hồ sơ và báo cáo của Cảng vụ, Cục Hàng hải và Đường thủy nội địa
+Việt Nam phê duyệt đánh giá an ninh, kế hoạch an ninh và cấp giấy chứng nhận
+phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài, xác
+nhận hàng năm giấy chứng nhận phù hợp an ninh cảng thủy nội địa.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 14000000 VNĐ ()
+    Mô tả: Trong thời hạn 04 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định,
+Cảng vụ thẩm định hồ sơ và báo cáo kết quả thẩm định gửi kèm 02 bộ hồ sơ đến
+Cục Hàng hải và Đường thủy Việt Nam. Trong thời hạn 04 ngày làm việc, kể từ
+ngày nhận đủ hồ sơ và báo cáo của Cảng vụ, Cục Hàng hải và Đường thủy nội địa
+Việt Nam phê duyệt đánh giá an ninh, kế hoạch an ninh và cấp giấy chứng nhận
+phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài, xác
+nhận hàng năm giấy chứng nhận phù hợp an ninh cảng thủy nội địa.
+
+Thành phần hồ sơ:
+    - - Bản đánh giá an ninh đã được cơ quan có thẩm quyền phê duyệt;
+      Số lượng: Bản chính: 3, Bản sao: 0
+    - - Kế hoạch an ninh.
+      Số lượng: Bản chính: 3, Bản sao: 0
+    - - Đơn đề nghị phê duyệt kế hoạch an ninh và cấp giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài theo mẫu;
+      Số lượng: Bản chính: 3, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cục Đường thủy nội địa Việt Nam, Cục Hàng hải và Đường thủy Việt Nam, Cảng vụ Đường thủy nội địa, Cảng vụ hàng hải
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận phù hợp an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài, Giấy chứng nhận phê duyệt kế hoạch an ninh cảng thủy nội địa tiếp nhận phương tiện thủy nước ngoài
+Căn cứ pháp lý:
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực đường thủy nội địa và đường sắt (198/2016/TT-BTC)
+  * Quy định về quản lý hoạt động đường thủy nội địa (08/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

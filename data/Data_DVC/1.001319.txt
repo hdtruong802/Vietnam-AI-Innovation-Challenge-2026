@@ -1,0 +1,81 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001319
+Số quyết định: 1063/QĐ-BXD
+Tên thủ tục: Cấp mới Chứng chỉ đăng kiểm viên phương tiện giao thông đường bộ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đăng kiểm
+Trình tự thực hiện:
+  * Cấp mới Chứng chỉ đăng kiểm viên phương tiện giao thông đường bộ
+    a) Nộp hồ sơ TTHC:
+    Cá nhân đề nghị cấp mới chứng chỉ đăng kiểm viên gửi hồ sơ đến Bộ phận
+    Một cửa Cục Đăng kiểm Việt Nam hoặc Trung tâm Phục vụ hành chính công
+    hoặc trên Cổng dịch vụ công Quốc gia.
+    b) Giải quyết TTHC:
+    - Tiếp nhận hồ sơ
+    + Trường hợp nộp trực tiếp tại Bộ phận Một cửa của cơ quan có thẩm
+    quyền: trong ngày làm việc, cơ quan có thẩm quyền thực hiện việc hướng dẫn,
+    kiểm tra tính đầy đủ, hợp lệ của hồ sơ theo quy định; tiếp nhận đối với hồ sơ đạt
+    yêu cầu hoặc từ chối tiếp nhận đối với hồ sơ không đạt yêu cầu;
+    + Trường hợp nộp qua dịch vụ bưu chính: Trong thời hạn 03 ngày làm
+    việc kể từ ngày nhận được hồ sơ, cơ quan có thẩm quyền thực hiện việc kiểm tra
+    tính đầy đủ, hợp lệ của hồ sơ; tiếp nhận đối với hồ sơ đạt yêu cầu hoặc từ chối
+    tiếp nhận đối với hồ sơ không đạt yêu cầu, gửi văn bản từ chối kèm hồ sơ đã
+    nhận qua dịch vụ bưu chính;
+    + Trường hợp nộp trực tuyến tại Cổng dịch vụ công Quốc gia: Trong thời
+    hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan có thẩm quyền thực
+    hiện việc kiểm tra tính đầy đủ, hợp lệ của hồ sơ; tiếp nhận đối với hồ sơ đạt yêu
+    cầu hoặc từ chối tiếp nhận đối với hồ sơ không đạt yêu cầu.
+    - Xử lý hồ sơ
+    + Trường hợp hồ sơ đạt yêu cầu, trong thời hạn 05 (năm) ngày làm việc kể
+    từ ngày tiếp nhận hồ sơ, cơ quan có thẩm quyền thực hiện việc cấp mới chứng
+    chỉ đăng kiểm viên theo mẫu quy định tại Phụ lục VIII ban hành kèm theo
+    Thông tư số 22/2026/TT-BXD.
+    + Trường hợp hồ sơ không đạt yêu cầu, trong thời hạn 05 (năm) ngày làm
+    việc kể từ ngày tiếp nhận hồ sơ, cơ quan có thẩm quyền ban hành văn bản thông
+    báo gửi cá nhân theo mẫu quy định tại Phụ lục IX ban hành kèm theo Thông tư
+    số 22/2026/TT-BXD.
+    - Chứng chỉ đăng kiểm viên hoặc Thông báo từ chối cấp chứng chỉ được trả
+    bằng bản điện tử, trừ trường hợp cá nhân có nhu cầu nhận bản giấy (bản giấy
+    được trả trực tiếp hoặc qua dịch vụ bưu chính).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Chứng chỉ đăng kiểm viên phương tiện giao thông đường bộ ]
+    - Văn bản đề nghị cấp chứng chỉ đăng kiểm viên theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư số 22/2026/TT-BXD
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính Lý lịch chuyên môn theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư số 22/2026/TT-BXD
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính Thông báo kết quả kiểm tra nghiệp vụ đăng kiểm viên đạt yêu cầu theo mẫu quy định tại Phụ lục VI ban hành kèm theo Thông tư số 22/2026/TT-BXD
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Chứng chỉ đăng kiểm viên thực hiện công việc chuyên môn chứng nhận xe cải tạo ]
+    - Văn bản đề nghị cấp chứng chỉ đăng kiểm viên theo mẫu quy định tại Phụ lục I ban hành kèm theo Thông tư số 22/2026/TT-BXD
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính Lý lịch chuyên môn theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư số 22/2026/TT-BXD
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao Thông báo hoàn thành khóa tập huấn nghiệp vụ chứng nhận xe cơ giới cải tạo.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Cục Đăng kiểm Việt Nam
+Cơ quan có thẩm quyền: Cục Đăng kiểm Việt Nam
+Địa chỉ tiếp nhận HS: Cục Đăng kiểm Việt Nam - Số 18 Phạm Hùng, phường Từ Liêm, Thành phố Hà Nội và Sở Xây dựng các tỉnh, thành phố
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo từ chối cấp chứng chỉ đăng kiểm viên, Chứng chỉ đăng kiểm viên
+Căn cứ pháp lý:
+  * Thông tư quy định về tiêu chuẩn, tập huấn đăng kiểm viên; cấp mới, cấp lại, tạm đình chỉ và thu hồi chứng chỉ đăng kiểm viên phương tiện giao thông đường bộ (22/2026/TT-BXD)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Chứng chỉ đăng kiểm viên, đăng kiểm viên
+Mô tả: Không có thông tin

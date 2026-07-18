@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014230
+Số quyết định: 2096/QĐ-UBND
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất, kinh doanh thực phẩm thuộc thẩm quyền cấp của UBND cấp xã
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: An toàn thực phẩm
+Trình tự thực hiện:
+  * Tiếp nhận hồ sơ
+    Bước 1: Cơ sở nộp hồ sơ tại Bộ phận TN&TKQ - Trung tâm Phục vụ hành chính công cấp xã. Cán bộ TN&TKQ kiểm tra hồ sơ:
+    + Nếu hồ sơ đầy đủ, hợp lệ làm thủ tục tiếp nhận hồ sơ và hẹn ngày trả kết quả.
+    + Nếu hồ sơ chưa đầy đủ, hợp lệ thì yêu cầu bổ sung, hoàn thiện hồ sơ. Nếu không bổ sung, hoàn thiện được thì từ chối tiếp nhận hồ sơ.
+    - Bước 2: Trong thời hạn 15 ngày, kể từ ngày nhận đầy đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp xã có trách nhiệm thẩm định cấp Giấy chứng nhận; trường hợp không đủ điều kiện phê duyệt, Ủy ban nhân dân cấp xã trả lại hồ sơ cho tổ chức, cá nhân và thông báo lý do bằng văn bản.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ (Theo quy định)
+    Mô tả: 15 ngày làm việc
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ (Theo quy định)
+    Mô tả: 15 ngày làm việc
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ (Theo quy định)
+    Mô tả: 15 ngày làm việc
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp Giấy chứng nhận theo biểu mẫu SCTBM.ATTP.01.01
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản thuyết minh về cơ sở vật chất, trang thiết bị, dụng cụ bảo đảm điều kiện vệ sinh an toàn thực phẩm theo biểu mẫu BM.ATTP.01.02 đối với cơ sở sản xuất; biểu mẫu SCTBM.ATTP.01.03 đối với cơ sở kinh doanh hoặc cả biểu mẫu SCTBM.ATTP.01.02 và SCTBM.ATTP.01.03 đối với cơ sở vừa sản xuất vừa kinh doanh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy xác nhận đủ sức khỏe/Danh sách tổng hợp xác nhận đủ sức khỏe của chủ cơ sở và người trực tiếp sản xuất, kinh doanh thực phẩm do cơ sở khám bệnh, chữa bệnh đủ điều kiện cấp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy xác nhận kiến thức an toàn thực phẩm của chủ cơ sở và người trực tiếp sản xuất, kinh doanh thực phẩm (do chủ cơ sở tự thực hiện).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Hợp tác xã
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Sở Công Thương - Tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy xác nhận nội dung quảng cáo (Xác nhận nội dung quảng cáo đối với các sản phẩm dinh dưỡng y học, thực phẩm dùng cho chế độ ăn đặc biệt, sản phẩm dinh dưỡng dùng cho trẻ đến 36 tháng tuổi (trong trường hợp tổ chức, cá nhân lựa chọn nộp hồ sơ đăng ký bản công bố sản phẩm đến Bộ Y tế theo quy định tại Khoản 1 Điều 27 của Nghị định 15/2018/NĐ-CP ), Giấy xác nhận nội dung quảng cáo đối với sản phẩm dinh dưỡng y học, thực phẩm dùng cho chế độ ăn đặc biệt, sản phẩm dinh dưỡng dùng cho trẻ đến 36 tháng tuổi, Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm hoặc Văn bản từ chối cấp Giấy chứng nhận (nêu rõ lý do).
+Căn cứ pháp lý:
+  * Thông tư số 15/2026/TT-BCT (ban hành ngày 25/03/2026) sửa đổi, bổ sung Thông tư 38/2025/TT-BCT, đẩy mạnh phân cấp thủ tục hành chính tại Bộ Công Thương (Thông tư số 15/2026/TT-BCT)
+  * Sửa đổi, bổ sung một số điều của các Nghị định liên quan đến điều kiện đầu tư kinh doanh thuộc lĩnh vực quản lý nhà nước của Bộ Công Thương (17/2020/NĐ-CP)
+  * Ủy quyền cho Giám đốc Sở Công Thương, Trưởng Ban Quản lý Khu kinh tế tỉnh và UBND các xã, phường thực hiện một số nhiệm vụ, quyền hạn của UBND tỉnh trong lĩnh vực công nghiệp và thương mại (1998/QĐ-UBND)
+  * quy định về quản lý an toàn thực phẩm thuộc trách nhiệm của Bộ Công Thương (43/2018/TT-BCT)
+  * Quy định chi tiết thi hành một số điều của Luật an toàn thực phẩm (15/2018/NĐ-CP)
+  * Luật An toàn thực phẩm (55/2010/QH12)
+  * Thông tư 13/2020/TT-BCT (13/2020/TT-BCT)
+  * Nghị định 77/2016/NĐ-CP. (77/2016/NĐ-CP.)
+  * Thông tư số 43/2018/TT-BCT ngày 15/11/ 2018 của Bộ Công Thương quy định về quản lý an toàn thực phẩm thuộc trách nhiệm của Bộ Công Thương. (Thông tư số 43/2018/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

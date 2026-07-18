@@ -1,0 +1,96 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014998
+Số quyết định: 674/UBND
+Tên thủ tục: Thủ tục cấp đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+  * Tiếp nhận hồ sơ
+    1. Tiếp nhận hồ sơ:
+    - Tiếp nhận hồ sơ trực tiếp từ tổ
+    chức, cá nhân hoặc qua Dịch vụ
+    bưu chính công ích hoặc qua Cổng
+    dịch vụ công quốc gia:
+    https://dichvucong.gov.vn hoặc Hệ
+    thống thông tin giải quyết TTHC
+    tỉnh Hà Tĩnh:
+    https://dichvucong.hatinh.gov.vn
+    2. Cán bộ TN&TKQ kiểm tra hồ
+    sơ:
+    - Nếu hồ sơ chưa đầy đủ hoặc
+    không hợp lệ yêu cầu cá nhân bổ sung, hoàn thiện hồ sơ. Nếu không
+    bổ sung hoàn thiện hồ sơ được thì
+    từ chối tiếp nhận hồ sơ.
+    - Nếu hồ sơ đầy đủ, hợp lệ thì làm
+    thủ tục tiếp nhận hồ sơ, hẹn trả kết
+    quả cho cá nhân theo quy định.
+    Chuyển hồ sơ trực tiếp (nếu có) và
+    xử lý trên Hệ thống thông tin giải
+    quyết TTHC về Phòng Quản lý báo
+    chí và xuất bản (QLBCXB) xử lý.
+    Trực tiếp xử lý hoặc chuyển cho
+    chuyên viên xử lý.
+    Xem xét thẩm định, xử lý hồ sơ.
+    - Trường hợp hồ sơ không đủ điều
+    kiện: Dự thảo văn bản thông báo
+    không đủ điều kiện cấp Giấy chứng
+    nhận có nêu rõ lý do trình lãnh đạo
+    phòng xem xét ký nháy.
+    - Trường hợp hồ sơ đủ điều kiện thì
+    dự thảo Giấy chứng nhận đăng ký
+    thu tín hiệu truyền hình nước ngoài
+    trực tiếp từ vệ tinh trình lãnh đạo
+    phòng xem xét ký nháy.
+    Xem xét, trình lãnh đạo cơ quan
+    phê duyệt kết quả giải quyết
+    TTHC.
+    Phê duyệt kết quả giải quyết
+    TTHC.
+    Phát hành văn bản và trả kết quả
+    TTHC.
+    Trả kết quả cho tổ chức cá nhân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 12 ngày làm việc
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 12 ngày làm việc
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 12 ngày làm việc
+
+Thành phần hồ sơ:
+    - Tờ khai đăng ký theo mẫu do Bộ Thông tin và Truyền thông quy định;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực hoặc bản sao kèm bản gốc để đối chiếu các loại giấy tờ sau: Giấy phép thành lập hoặc văn bản pháp lý tương đương đối với các tổ chức quy định tại Khoản 2 Điều 29 Nghị định này; Thẻ thường trú hoặc giấy tờ pháp lý tương đương đối với hộ gia đình, cá nhân người nước ngoài quy định tại Khoản 3 Điều 29 Nghị định này; văn bản đăng ký hoạt động của khách sạn quy định tại Điểm b Khoản 4 Điều 29 Nghị định này; Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền đối với doanh nghiệp quy định tại Khoản 6 Điều 29 Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực hoặc bản sao kèm bản gốc để đối chiếu các loại giấy tờ sau: Giấy phép thành lập hoặc văn bản pháp lý tương đương đối với các tổ chức quy định tại Khoản 2 Điều 29 Nghị định này; Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đăng ký đầu tư (nếu có) đối với tổ chức, Thẻ thường trú hoặc giấy tờ pháp lý tương đương đối với hộ gia đình, cá nhân người nước ngoài quy định tại Khoản 3 Điều 29 Nghị định này; văn bản đăng ký hoạt động của khách sạn quy định tại Điểm b Khoản 4 Điều 29 Nghị định này; Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền đối với doanh nghiệp quy định tại Khoản 6 Điều 29 Nghị định này;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực hoặc bản sao kèm bản gốc để đối chiếu các loại giấy tờ sau: Giấy phép thành lập hoặc văn bản pháp lý tương đương đối với các tổ chức quy định tại Khoản 2 Điều 29 Nghị định này; Thẻ thường trú hoặc giấy tờ pháp lý tương đương đối với hộ gia đình, cá nhân người nước ngoài quy định tại Khoản 3 Điều 29 Nghị định này; văn bản đăng ký hoạt động của khách sạn quy định tại Điểm b Khoản 4 Điều 29 Nghị định này; Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền đối với doanh nghiệp quy định tại Khoản 6 Điều 29 Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực hoặc bản sao kèm bản gốc để đối chiếu văn bản thuê, mượn địa điểm lắp đặt thiết bị trong trường hợp thiết bị không được lắp đặt tại địa điểm ghi trong Giấy phép thành lập, Giấy chứng nhận đăng ký đầu tư, Giấy chứng nhận đăng ký doanh nghiệp, Thẻ thường trú, Giấy phép cung cấp dịch vụ phát thanh, truyền hình trả tiền;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch - Tỉnh Hà Tĩnh
+Cơ quan có thẩm quyền: UBND tỉnh Hà Tĩnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký thu tín hiệu truyền hình nước ngoài trực tiếp từ vệ tinh
+Căn cứ pháp lý:
+  * QUẢN LÝ, CUNG CẤP VÀ SỬ DỤNG DỊCH VỤ PHÁT THANH, TRUYỀN HÌNH (06/2016/NĐ-CP)
+  * Thông tư số 05/2023/TT-BTTTT sửa đổi, bổ sung một số điều của Thông tư số 19/2016/TT-BTTTT ngày 30/6/2016 (05/2023/TT-BTTTT)
+  * về việc thông qua phương án đơn giản hóa thủ tục hành chính trong lĩnh vực lưu thông hàng hóa trong nước thuộc phạm vi, chức năng quản lý của Sở Công Thương tỉnh Lai Châu (674/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

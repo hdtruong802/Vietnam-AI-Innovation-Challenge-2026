@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007919
+Số quyết định: 364/QĐ-BNNMT
+Tên thủ tục: Thẩm định thiết kế, dự toán công trình lâm sinh hoặc thẩm định điều chỉnh thiết kế, dự toán công trình lâm sinh sử dụng vốn đầu tư công đối với công trình lâm sinh thuộc dự án do Chủ tịch Ủy ban nhân dân cấp xã quyết định đầu tư
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Lâm nghiệp và Kiểm lâm
+Trình tự thực hiện:
+    a) Bước 1: Nộp, tiếp nhận hồ sơ
+    Chủ đầu tư nộp 01 bộ hồ sơ đến cơ quan chuyên môn về nông nghiệp và môi trường cấp xã (cơ quan chủ trì thẩm định) bằng cách thức trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến tại Cổng
+    Dịch vụ công Quốc gia;
+    Bộ phận tiếp nhận hồ sơ kiểm tra tính chính xác, đầy đủ của hồ sơ, trả lời ngay tính hợp lệ của hồ sơ đối với hồ sơ nộp trực tiếp, trong thời hạn 01 ngày làm việc đối với hồ sơ nộp qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công Quốc gia; trường hợp hồ sơ không hợp lệ thì thông báo bằng văn bản và nêu rõ lý do;
+    b) Bước 2: Thẩm định, Báo cáo kết quả thẩm định
+    Trong thời hạn 09 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn về nông nghiệp và môi trường cấp xã tổ chức thẩm định và hoàn thiện báo cáo kết quả thẩm định theo Mẫu số 15 Phụ lục ban hành kèm theo Nghị định số 58/2024/NĐ-CP; trả kết quả cho bộ phận tiếp nhận hồ sơ để thông báo kết quả thẩm định cho chủ đầu tư.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 9 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 9 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 9 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - .Bản sao quyết định phê duyệt dự án đầu tư hoặc kế hoạch vốn được giao đối với hoạt động sử dụng kinh phí ngân sách nhà nước và các tài liệu khác có liên quan
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tờ trình đề nghị phê duyệt thiết kế, dự toán theo Mẫu số 13 Phụ lục ban hành kèm theo Nghị định số 58/2024/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thuyết minh thiết kế bao gồm dự toán và bản đồ thiết kế công trình lâm sinh theo Mẫu số 14 Phụ lục ban hành kèm theo Nghị định số 58/2024/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Hợp tác xã, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Chủ tịch Ủy ban nhân dân xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Báo cáo kết quả thẩm định.
+Căn cứ pháp lý:
+  * Thông tư quy định phân cấp, phân định thẩm quyền quản lý nhà nước và một số nội dung trong lĩnh vực lâm nghiệp và kiểm lâm. (16/2025/TT-BNNMT)
+  * Quy định phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Nông nghiệp và Môi trường (Nghị định số 131/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

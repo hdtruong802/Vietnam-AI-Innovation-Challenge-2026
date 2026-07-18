@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000355
+Số quyết định: 1985/QĐ-NHNN
+Tên thủ tục: Thủ tục đề nghị chiết khấu giấy tờ có giá theo phương thức trực tiếp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động tiền tệ
+Trình tự thực hiện:
+    - Bước 1:
+    Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thông qua đại diện giao dịch gửi 01 bộ hồ sơ đề nghị chiết khấu đến NHNN (Sở Giao dịch) hoặc NHNN Khu vực được ủy quyền.
+    - Bước 2:
+    Ngân hàng Nhà nước (Sở Giao dịch) hoặc NHNN Khu vực được ủy quyền xem xét và thẩm định hồ sơ.
+    - Bước 3:
+    Trong thời gian tối đa 01 ngày làm việc kể từ khi nhận đầy đủ hồ sơ hợp lệ, NHNN (Sở Giao dịch) hoặc NHNN Khu vực được ủy quyền có văn bản thông báo cho các tổ chức tín dụng, chi nhánh ngân hàng nước ngoài về việc chấp thuận hoặc không chấp thuận
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Giấy đề nghị chiết khấu GTCG tại NHNN (Mẫu số 05/NHNN-CK);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo chấp thuận hoặc không chấp thuận chiết khấu giấy tờ có giá tại NHNN
+Căn cứ pháp lý:
+  * Thông tư 01/2022/TT-NHNN (01/2022/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

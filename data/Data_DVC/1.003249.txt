@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003249
+Số quyết định: 2527/QĐ-BKHCN
+Tên thủ tục: Gia hạn giấy phép thử nghiệm mạng và dịch vụ viễn thông
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    1. Doanh nghiệp được cấp giấy phép thử nghiệm mạng và dịch vụ viễn thông muốn gia hạn giấy phép gửi 01 bộ hồ sơ tới Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đặt trụ sở chính ít nhất 90 ngày trước ngày giấy phép hết hạn và chịu trách nhiệm về tính chính xác, trung thực của hồ sơ.
+    2. Ủy ban nhân dân cấp tỉnh xét tính hợp lệ của hồ sơ trong 05 ngày làm việc kể từ ngày nhận được hồ sơ. Trường hợp hồ sơ không hợp lệ, trong 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản cho doanh nghiệp.
+    3. Trường hợp hồ sơ hợp lệ, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh xét gia hạn giấy phép thử nghiệm mạng và dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền.
+    4. Trường hợp từ chối cấp gia hạn, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị gia hạn biết.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ Tài chính) | 500000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ Tài chính)
+    Mô tả: - Ủy ban nhân dân cấp tỉnh xét tính hợp lệ của hồ sơ trong 05 ngày làm việc kể từ ngày nhận được hồ sơ. Trường hợp hồ sơ không hợp lệ, trong 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản cho doanh nghiệp.
+- Trường hợp hồ sơ hợp lệ, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh xét gia hạn giấy phép thử nghiệm mạng và dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền.
+- Trường hợp từ chối cấp gia hạn, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị gia hạn biết.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ Tài chính) | 500000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ Tài chính)
+    Mô tả: - Ủy ban nhân dân cấp tỉnh xét tính hợp lệ của hồ sơ trong 05 ngày làm việc kể từ ngày nhận được hồ sơ. Trường hợp hồ sơ không hợp lệ, trong 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản cho doanh nghiệp.
+- Trường hợp hồ sơ hợp lệ, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh xét gia hạn giấy phép thử nghiệm mạng và dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền.
+- Trường hợp từ chối cấp gia hạn, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị gia hạn biết.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: 500000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ Tài chính) | 0 VNĐ ()
+    Mô tả: - Ủy ban nhân dân cấp tỉnh xét tính hợp lệ của hồ sơ trong 05 ngày làm việc kể từ ngày nhận được hồ sơ. Trường hợp hồ sơ không hợp lệ, trong 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản cho doanh nghiệp.
+- Trường hợp hồ sơ hợp lệ, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh xét gia hạn giấy phép thử nghiệm mạng và dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền.
+- Trường hợp từ chối cấp gia hạn, trong thời hạn 22 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị gia hạn biết.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị gia hạn giấy phép thử nghiệm mạng và dịch vụ viễn thông
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Báo cáo việc thực hiện giấy phép thử nghiệm mạng và dịch vụ viễn thông
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thử nghiệm mạng và dịch vụ viễn thông
+Căn cứ pháp lý:
+  * Quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng phí quyền hoạt động viễn thông, lệ phí cấp giấy phép kinh doanh dịch vụ viễn thông và giấy phép nghiệp vụ viễn thông (52/2025/TT-BTC)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Viễn thông (163/2024/NĐ-CP)
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

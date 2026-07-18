@@ -11,7 +11,6 @@ from typing import Any, Protocol
 from .normalization import NORMALIZER_VERSION
 from .parsing import PARSER_VERSION, ParsedSection
 
-
 CHUNKER_VERSION = "vaic-structure-chunker-v1"
 DEFAULT_TOKENIZER_ID = "heuristic-wordpunct-v1"
 DEFAULT_TARGET_TOKENS = 320
@@ -195,9 +194,7 @@ def _split_text_to_budget(
             if current:
                 pieces.append(current)
                 current = ""
-            pieces.extend(
-                _split_words_to_budget(candidate, prefix, token_counter, hard_maximum)
-            )
+            pieces.extend(_split_words_to_budget(candidate, prefix, token_counter, hard_maximum))
             continue
         merged = f"{current}\n{candidate}".strip() if current else candidate
         if current and token_counter.count(_payload(prefix, merged)) > hard_maximum:
@@ -227,9 +224,7 @@ def _units_from_section(
         parse_warnings=section.parse_warnings,
     )
     prefix = _context_prefix(metadata, base_unit)
-    parts = _split_text_to_budget(
-        section.text, prefix, token_counter, config.hard_maximum_tokens
-    )
+    parts = _split_text_to_budget(section.text, prefix, token_counter, config.hard_maximum_tokens)
     if len(parts) == 1:
         return [base_unit]
     units: list[_ChunkUnit] = []
@@ -301,9 +296,7 @@ def _should_merge(
     token_count = token_counter.count(_payload(_context_prefix(metadata, merged), merged.text))
     if token_count > config.hard_maximum_tokens:
         return False
-    current_tokens = token_counter.count(
-        _payload(_context_prefix(metadata, current), current.text)
-    )
+    current_tokens = token_counter.count(_payload(_context_prefix(metadata, current), current.text))
     return current_tokens < config.merge_threshold_tokens or token_count <= config.target_tokens
 
 
@@ -348,9 +341,7 @@ def build_evidence_chunks(
 
     merged_units: list[_ChunkUnit] = []
     for unit in units:
-        if merged_units and _should_merge(
-            merged_units[-1], unit, metadata, token_counter, config
-        ):
+        if merged_units and _should_merge(merged_units[-1], unit, metadata, token_counter, config):
             merged_units[-1] = _merge_units(merged_units[-1], unit)
         else:
             merged_units.append(unit)
@@ -364,9 +355,7 @@ def build_evidence_chunks(
             raise ValueError("chunk exceeds hard maximum token budget")
         chunks.append(
             EvidenceChunk(
-                chunk_id=_stable_chunk_id(
-                    unit, ordinal, token_counter.tokenizer_id, checksum
-                ),
+                chunk_id=_stable_chunk_id(unit, ordinal, token_counter.tokenizer_id, checksum),
                 source_id=metadata.source_id,
                 section_ids=unit.section_ids,
                 procedure_ids=metadata.procedure_ids,
@@ -416,8 +405,7 @@ def build_report(
 ) -> ChunkBuildReport:
     review_counts = Counter(chunk.review_status for chunk in chunks)
     output_manifest = "\n".join(
-        f"{chunk.chunk_id}:{chunk.content_checksum}:{chunk.token_count}"
-        for chunk in chunks
+        f"{chunk.chunk_id}:{chunk.content_checksum}:{chunk.token_count}" for chunk in chunks
     )
     output_manifest_checksum = _text_hash(output_manifest)
     identity = "|".join(

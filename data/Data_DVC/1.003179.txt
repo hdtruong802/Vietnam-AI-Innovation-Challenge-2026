@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003179
+Số quyết định: 1848/QĐ-BTP
+Tên thủ tục: Đăng ký lại việc nuôi con nuôi có yếu tố nước ngoài
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Nuôi con nuôi
+Trình tự thực hiện:
+    - Người có yêu cầu đăng ký lại việc nuôi con nuôi nộp Tờ khai đăng ký lại việc nuôi con nuôi cho Sở Tư pháp nơi cha mẹ nuôi và con nuôi thường trú hoặc nơi đã đăng ký việc nuôi con nuôi trước đây. Tờ khai phải có cam đoan của người yêu cầu đăng ký lại về tính trung thực của việc đăng ký nuôi con nuôi trước đó và có chữ ký của ít nhất hai người làm chứng.
+    Lưu ý: Sở Tư pháp giải thích rõ cho người có yêu cầu đăng ký lại việc nuôi con nuôi về trách nhiệm, hệ quả pháp lý của việc cam đoan không đúng sự thật. Trường hợp có cơ sở xác định nội dung cam đoan không đúng sự thật, Sở Tư pháp từ chối đăng ký lại việc nuôi con nuôi hoặc đề nghị cơ quan có thẩm quyền hủy bỏ kết quả đăng ký lại việc nuôi con nuôi.
+    - Sở Tư pháp trình Ủy ban nhân dân cấp tỉnh quyết định để Sở Tư pháp tiến hành các bước tiếp theo.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tờ khai đăng ký lại việc nuôi con nuôi. Tờ khai phải có cam đoan của người yêu cầu đăng ký lại về tính trung thực của việc đăng ký nuôi con nuôi trước đó và có chữ ký của ít nhất hai người làm chứng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Sở Tư pháp
+Cơ quan có thẩm quyền: Ủy ban Nhân dân tỉnh và thành phố trực thuộc trung ương.
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định nuôi con nuôi có yếu tố nước ngoài
+Căn cứ pháp lý:
+  * THÔNG TƯ  SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 10/2020/TT-BTP NGÀY 28 THÁNG 12 NĂM 2020 CỦA BỘ TRƯỞNG BỘ TƯ PHÁP BAN HÀNH, HƯỚNG DẪN VIỆC GHI CHÉP, SỬ DỤNG, QUẢN LÝ VÀ LƯU TRỮ SỔ, MẪU GIẤY TỜ, HỒ SƠ NUÔI CON NUÔI (07/2023/TT-BTP)
+  * Nghị định số 06/2025/NĐ-CP ngày 08 tháng 01 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định về nuôi con nuôi (06/2025/NĐ-CP)
+  * hướng dẫn lập dự toán, quản lý, sử dụng và quyết toán kinh phí ngân sách nhà nước bảo đảm cho công tác nuôi con nuôi và cấp, gia hạn, sửa đổi giấy phép hoạt động của tổ chức con nuôi nước ngoài tại Việt Nam (Thông tư số 267/2016/TT-BTC)
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định liên quan đến việc nộp xuất trình sổ hộ khẩu, sổ tạm trú giấy khi thực hiện thủ tục hành chính, cung cấp dịch vụ công (104/2022/NĐ-CP)
+  * BAN HÀNH, HƯỚNG DẪN VIỆC GHI CHÉP, SỬ DỤNG, QUẢN LÝ VÀ LƯU TRỮ SỔ, MẪU GIẤY TỜ, HỒ SƠ NUÔI CON NUÔI (10/2020/TT-BTP)
+  * Luật Nuôi con nuôi (52/2010/QH12)
+  * quy định chi tiết thi hành một số điều của Luật Nuôi con nuôi (Nghị định số 19/2011/NĐ-CP)
+  * Quy định lệ phí đăng ký nuôi con nuôi, lệ phí cấp giấy phép hoạt động của tổ chức con nuôi nước ngoài (Nghị định 114/2016/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Việc nuôi con nuôi đã được đăng ký tại cơ quan nhà nước có thẩm quyền của Việt Nam nhưng sổ hộ tịch và bản chính giấy tờ đăng ký nuôi con nuôi bị mất hoặc hư hỏng không sử dụng được;
+- Cha, mẹ nuôi và con nuôi đều còn sống vào thời điểm yêu cầu đăng ký lại.
+Từ khóa: Không có thông tin
+Mô tả: - Việc nuôi con nuôi đã được đăng ký tại cơ quan nhà nước có thẩm quyền của Việt Nam nhưng sổ hộ tịch và bản chính giấy tờ đăng ký nuôi con nuôi bị mất hoặc hư hỏng không sử dụng được;
+- Cha, mẹ nuôi và con nuôi đều còn sống vào thời điểm yêu cầu đăng ký lại.

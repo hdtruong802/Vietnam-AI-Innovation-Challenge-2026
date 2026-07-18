@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014356
+Số quyết định: 99/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận nguyên tắc chuyển đổi hình thức pháp lý tổ chức tín dụng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    - Bước 1: Tổ chức tín dụng lập 01 bộ hồ sơ đề nghị chấp thuận nguyên tắc chuyển đổi hình thức pháp lý theo quy định gửi Ngân hàng Nhà nước.
+    - Bước 2: Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức tín dụng bổ sung, hoàn thiện hồ sơ;
+    Tổ chức tín dụng bổ sung, hoàn thiện hồ sơ trong thời hạn 30 ngày kể từ ngày Ngân hàng Nhà nước có văn bản yêu cầu bổ sung, hoàn thiện hồ sơ. Quá thời hạn này, tổ chức tín dụng phải nộp lại bộ hồ sơ theo quy định để Ngân hàng Nhà nước xem xét, chấp thuận.
+    - Bước 3: Trong thời hạn 40 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước có văn bản chấp thuận nguyên tắc chuyển đổi hình thức pháp lý tổ chức tín dụng, chấp thuận danh sách nhân sự dự kiến. Trường hợp không chấp thuận, Ngân hàng Nhà nước có văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - c) Phương án chuyển đổi hình thức pháp lý theo quy định tại Điều 18 Thông tư số 62/2024/TT-NHNN (đã được sửa đổi, bổ sung),
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - h) Tài liệu chứng minh việc các nhân sự dự kiến đáp ứng đủ tiêu chuẩn, điều kiện đối với các chức danh thành viên Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát, Tổng giám đốc (Giám đốc) của tổ chức tín dụng chuyển đổi hình thức pháp lý theo quy định của Ngân hàng Nhà nước về thủ tục, hồ sơ chấp thuận danh sách dự kiến nhân sự của ngân hàng thương mại, tổ chức tín dụng phi ngân hàng và chi nhánh ngân hàng nước ngoài,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - i) Tài liệu, thông tin cung cấp cho nhà đầu tư, trong đó tối thiểu phải có các nội dung sau đây: điều kiện đối với cổ đông sáng lập, cổ đông lớn, cổ đông chiến lược, cổ đông là nhà đầu tư nước ngoài, chủ sở hữu, thành viên góp vốn nhận chuyển nhượng, thành viên góp vốn mới của tổ chức tín dụng chuyển đổi hình thức pháp lý,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Dự thảo các quy định nội bộ cơ bản về tổ chức và hoạt động của tổ chức tín dụng chuyển đổi hình thức pháp lý, tối thiểu bao gồm các quy định nội bộ quy định tại khoản 2 Điều 101 Luật các tổ chức tín dụng và các quy định sau đây: (i) Quy định về tổ chức và hoạt động của Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát, người điều hành; (ii) Quy định về tổ chức và hoạt động của trụ sở chính, chi nhánh và các đơn vị phụ thuộc khác,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - g) Danh sách nhân sự dự kiến được bầu, bổ nhiệm các chức danh thành viên Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát, Tổng giám đốc (Giám đốc) của tổ chức tín dụng chuyển đổi hình thức pháp lý,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Văn bản của cấp có thẩm quyền quyết định của tổ chức tín dụng thông qua Phương án chuyển đổi; dự thảo Điều lệ; danh sách nhân sự dự kiến được bầu, bổ nhiệm các chức danh thành viên Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát, Tổng Giám đốc (Giám đốc) của tổ chức tín dụng chuyển đổi hình thức pháp lý và các vấn đề khác liên quan đến chuyển đổi hình thức pháp lý,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Đơn đề nghị chấp thuận chuyển đổi hình thức pháp lý của tổ chức tín dụng theo mẫu quy định tại Phụ lục 02 ban hành kèm theo Thông tư số 62/2024/TT-NHNN (đã được sửa đổi, bổ sung),
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Dự thảo Điều lệ tổ chức tín dụng chuyển đổi hình thức pháp lý đã được cấp có thẩm quyền quyết định của tổ chức tín dụng thông qua,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Báo cáo tài chính trong 03 năm liền kề trước năm nộp hồ sơ đề nghị chấp thuận nguyên tắc chuyển đổi hình thức pháp lý được kiểm toán bởi tổ chức kiểm toán độc lập và không có ý kiến ngoại trừ. Trường hợp tại thời điểm nộp hồ sơ đề nghị chấp thuận nguyên tắc chuyển đổi hình thức pháp lý chưa có báo cáo tài chính của năm liền kề được kiểm toán thì nộp báo cáo tài chính chưa được kiểm toán. Tổ chức tín dụng phải nộp báo cáo tài chính được kiểm toán ngay sau khi tổ chức kiểm toán phát hành báo cáo kiểm toán. Tổ chức tín dụng phải chịu trách nhiệm về nội dung báo cáo tài chính đã nộp,
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam số 49, Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản không chấp thuận nguyên tắc chuyển đổi hình thức pháp lý tổ chức tín dụng, Văn bản chấp thuận nguyên tắc chuyển đổi hình thức pháp lý tổ chức tín dụng
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Thông tư sửa đổi, bổ sung một số điều của một số Thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh,  đơn giản hóa thủ tục hành chính (Thông tư số 69/2025/TT-NHNN)
+  * Thông tư số 62/2024/TT-NHNN ngày 31 tháng 12 năm 2024 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định điều kiện, hồ sơ, thủ tục chấp thuận việc tổ chức lại ngân hàng thương mại, tổ chức tín dụng phi ngân hàng (62/2024/TT-NHNN)
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 62/2024/TT-NHNN quy định điều kiện, hồ sơ, thủ tục chấp thuận việc tổ chức lại ngân hàng thương mại, tổ chức tín dụng phi ngân hàng (Thông tư 26/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: a) Đối với trường hợp tổ chức tín dụng chuyển đổi từ công ty trách nhiệm hữu hạn thành công ty cổ phần, phải đáp ứng đầy đủ các điều kiện sau đây:
+(i) Tổ chức tín dụng được chuyển đổi hình thức pháp lý phải đáp ứng điều kiện thực hiện chào bán cổ phiếu theo quy định của pháp luật có liên quan đối với trường hợp chào bán cổ phiếu lần đầu ra công chúng để chuyển đổi công ty trách nhiệm hữu hạn thành công ty cổ phần;
+(ii) Cổ đông sáng lập (nếu có), cổ đông lớn, cổ đông chiến lược của tổ chức tín dụng chuyển đổi hình thức pháp lý phải đáp ứng điều kiện theo quy định của pháp luật đối với cổ đông sáng lập của tổ chức tín dụng khi thành lập mới, trừ trường hợp cổ đông sáng lập, cổ đông lớn, cổ đông chiến lược là ngân hàng thương mại nhận chuyển giao bắt buộc đang thực hiện phương án chuyển giao bắt buộc;
+(iii) Cổ đông, cổ đông chiến lược là nhà đầu tư nước ngoài của tổ chức tín dụng chuyển đổi hình thức pháp lý phải đáp ứng điều kiện theo quy định của pháp luật về nhà đầu tư nước ngoài mua cổ phần của tổ chức tín dụng Việt Nam;
+(iv) Tổ chức, cá nhân mua cổ phần phải bảo đảm tuân thủ quy định của pháp luật về tỷ lệ sở hữu cổ phần và quy định về mua, nắm giữ cổ phiếu của tổ chức tín dụng khác (đối với trường hợp tổ chức mua cổ phần là ngân hàng thương mại). 
+b) Đối với trường hợp tổ chức tín dụng chuyển đổi từ công ty trách nhiệm hữu hạn một thành viên thành công ty trách nhiệm hữu hạn hai thành viên trở lên và ngược lại, tổ chức tín dụng chuyển đổi từ công ty cổ phần thành công ty trách nhiệm hữu hạn, phải đáp ứng đầy đủ các điều kiện sau đây:
+(i) Chủ sở hữu, thành viên góp vốn nhận chuyển nhượng, thành viên góp vốn mới của tổ chức tín dụng chuyển đổi hình thức pháp lý phải đáp ứng các điều kiện theo quy định của pháp luật đối với chủ sở hữu, thành viên sáng lập của tổ chức tín dụng khi thành lập mới;
+(ii) Thành viên góp vốn nhận chuyển nhượng, thành viên góp vốn mới của tổ chức tín dụng chuyển đổi hình thức pháp lý phải tuân thủ quy định của pháp luật về tỷ lệ phần vốn góp.
+Từ khóa: Không có thông tin
+Mô tả: a) Đối với trường hợp tổ chức tín dụng chuyển đổi từ công ty trách nhiệm hữu hạn thành công ty cổ phần, phải đáp ứng đầy đủ các điều kiện sau đây:
+(i) Tổ chức tín dụng được chuyển đổi hình thức pháp lý phải đáp ứng điều kiện thực hiện chào bán cổ phiếu theo quy định của pháp luật có liên quan đối với trường hợp chào bán cổ phiếu lần đầu ra công chúng để chuyển đổi công ty trách nhiệm hữu hạn thành công ty cổ phần;
+(ii) Cổ đông sáng lập (nếu có), cổ đông lớn, cổ đông chiến lược của tổ chức tín dụng chuyển đổi hình thức pháp lý phải đáp ứng điều kiện theo quy định của pháp luật đối với cổ đông sáng lập của tổ chức tín dụng khi thành lập mới, trừ trường hợp cổ đông sáng lập, cổ đông lớn, cổ đông chiến lược là ngân hàng thương mại nhận chuyển giao bắt buộc đang thực hiện phương án chuyển giao bắt buộc;
+(iii) Cổ đông, cổ đông chiến lược là nhà đầu tư nước ngoài của tổ chức tín dụng chuyển đổi hình thức pháp lý phải đáp ứng điều kiện theo quy định của pháp luật về nhà đầu tư nước ngoài mua cổ phần của tổ chức tín dụng Việt Nam;
+(iv) Tổ chức, cá nhân mua cổ phần phải bảo đảm tuân thủ quy định của pháp luật về tỷ lệ sở hữu cổ phần và quy định về mua, nắm giữ cổ phiếu của tổ chức tín dụng khác (đối với trường hợp tổ chức mua cổ phần là ngân hàng thương mại). 
+b) Đối với trường hợp tổ chức tín dụng chuyển đổi từ công ty trách nhiệm hữu hạn một thành viên thành công ty trách nhiệm hữu hạn hai thành viên trở lên và ngược lại, tổ chức tín dụng chuyển đổi từ công ty cổ phần thành công ty trách nhiệm hữu hạn, phải đáp ứng đầy đủ các điều kiện sau đây:
+(i) Chủ sở hữu, thành viên góp vốn nhận chuyển nhượng, thành viên góp vốn mới của tổ chức tín dụng chuyển đổi hình thức pháp lý phải đáp ứng các điều kiện theo quy định của pháp luật đối với chủ sở hữu, thành viên sáng lập của tổ chức tín dụng khi thành lập mới;
+(ii) Thành viên góp vốn nhận chuyển nhượng, thành viên góp vốn mới của tổ chức tín dụng chuyển đổi hình thức pháp lý phải tuân thủ quy định của pháp luật về tỷ lệ phần vốn góp.

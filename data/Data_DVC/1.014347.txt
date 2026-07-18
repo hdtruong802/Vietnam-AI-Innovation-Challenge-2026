@@ -1,0 +1,94 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014347
+Số quyết định: 530/QĐ-BNV
+Tên thủ tục: Hỗ trợ người lao động trong một số trường hợp rủi ro khi làm việc ở nước ngoài theo hợp đồng phải về nước trước thời hạn
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý lao động ngoài nước
+Trình tự thực hiện:
+    - Bước 1. Người lao động hoặc người được người lao động uỷ quyền hoặc người đại diện theo pháp luật của người lao động hoặc doanh nghiệp, tổ chức, cá nhân đưa đi gửi 01 bộ hồ sơ theo một trong các cách thức đến Quỹ Hỗ trợ việc làm ngoài nước.
+    - Bước 2. Trong thời gian 08 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Quỹ Hỗ trợ việc làm ngoài nước kiểm tra, đối chiếu hồ sơ và thực hiện hỗ trợ theo đề nghị của người lao động. Trường hợp không hỗ trợ phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính. 08 ngày làm việc (kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính. 08 ngày làm việc (kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tiếp, trực tuyến hoặc qua dịch vụ bưu chính. 08 ngày làm việc (kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ).
+
+Thành phần hồ sơ:
+  [ - Trường hợp Hỗ trợ Người lao động phải về nước trước hạn có nhu cầu được đào tạo chuyển đổi nghề: ]
+    - + Giấy đề nghị hỗ trợ (Mẫu theo Phụ lục III ban hành kèm theo Quyết định số 34/2025/QĐ-TTg ,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Danh sách người lao động đề nghị hỗ trợ (Mẫu theo Phụ lục II ban hành kèm theo Quyết định số 34/2025/QĐ-TTg) đối với trường hợp hồ sơ nộp thông qua doanh nghiệp, tổ chức, cá nhân đưa đi,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản uỷ quyền (ghi rõ nội dung ủy quyền) hoặc giấy tờ chứng minh quyền đại diện theo pháp luật theo quy định trong trường hợp người được uỷ quyền hoặc người đại diện theo pháp luật nộp hồ sơ,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Phiếu thu, biên lai thu tiền đào tạo nghề của cơ sở đào tạo nghề,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản sao chứng chỉ hoặc giấy chứng nhận hoàn thành khoá đào tạo nghề.
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ - Trường hợp Hỗ trợ người lao động phải về nước trước hạn vì người sử dụng lao động ở nước ngoài bị giải thể, phá sản hoặc thu hẹp sản xuất do thiên tai, dịch bệnh, bất ổn chính trị, chiến tranh, suy thoái kinh tế hoặc vì lý do bất khả kháng khác: ]
+    - + Bản sao hộ chiếu của người lao động .
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Bản sao văn bản thanh lý hợp đồng ký giữa doanh nghiệp, tổ chức, cá nhân đưa đi và người lao động, nêu rõ lý do về nước trước thời hạn; hoặc văn bản thông báo của người sử dụng lao động; hoặc văn bản của cơ quan đại diện Việt Nam ở nước sở tại theo đề nghị xác minh của người lao động về việc người sử dụng lao động chấm dứt hợp đồng với người lao động vì các lý do nêu trên .
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Văn bản uỷ quyền (ghi rõ nội dung ủy quyền) hoặc giấy tờ chứng minh quyền đại diện theo pháp luật theo quy định trong trường hợp người được uỷ quyền hoặc người đại diện theo pháp luật nộp hồ sơ .
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Danh sách người lao động đề nghị hỗ trợ (Mẫu theo Phụ lục II ban hành kèm theo Quyết định số 34/2025/QĐ-TTg) đối với trường hợp hồ sơ nộp thông qua doanh nghiệp, tổ chức, cá nhân đưa đi .
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy đề nghị về việc hỗ trợ rủi ro trong thời gian làm việc ở nước ngoài (Mẫu theo Phụ lục I ban hành kèm theo Quyết định số 34/2025/QĐ-TTg .
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp Hỗ trợ người lao động phải về nước trước thời hạn do bị tai nạn lao động, tai nạn rủi ro, ốm đau, bệnh tật đến mức không còn khả năng tiếp tục làm việc ở nước ngoài ]
+    - + Bản sao văn bản thanh lý hợp đồng ký giữa doanh nghiệp, tổ chức, cá nhân đưa đi và người lao động, nêu rõ lý do về nước trước thời hạn; hoặc văn bản thông báo của người sử dụng lao động về việc chấm dứt hợp đồng đối với người lao động vì các lý do nêu trên;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Văn bản uỷ quyền (ghi rõ nội dung ủy quyền) hoặc giấy tờ chứng minh quyền đại diện theo pháp luật theo quy định trong trường hợp người được uỷ quyền hoặc người đại diện theo pháp luật nộp hồ sơ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy đề nghị về việc hỗ trợ rủi ro trong thời gian làm việc ở nước ngoài (Mẫu theo Phụ lục I ban hành kèm theo Quyết định số 34/2025/QĐ-TTg
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản sao giấy khám sức khoẻ của người lao động hoặc giấy tờ khác chứng minh tình trạng bệnh tật, thương tật do cơ quan y tế nước sở tại cấp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Danh sách người lao động đề nghị hỗ trợ (Mẫu theo Phụ lục II ban hành kèm theo Quyết định số 34/2025/QĐ-TTg) đối với trường hợp hồ sơ nộp thông qua doanh nghiệp, tổ chức, cá nhân đưa đi.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản sao hộ chiếu của người lao động;
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ - Trường hợp Hỗ trợ người lao động phải về nước trước thời hạn do đơn phương chấm dứt hợp đồng lao động khi bị người sử dụng lao động ngược đãi, cưỡng bức lao động hoặc có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khoẻ hoặc bị quấy rối tình dục trong thời gian làm việc ở nước ngoài: ]
+    - + Văn bản uỷ quyền (ghi rõ nội dung ủy quyền) hoặc giấy tờ chứng minh quyền đại diện theo pháp luật theo quy định trong trường hợp người được uỷ quyền hoặc người đại diện theo pháp luật nộp hồ sơ  .
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Danh sách người lao động đề nghị hỗ trợ (Mẫu theo Phụ lục II ban hành kèm theo Quyết định số 34/2025/QĐ-TTg) đối với trường hợp hồ sơ nộp thông qua doanh nghiệp, tổ chức, cá nhân đưa đi  .
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản sao hộ chiếu của người lao động  .
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Bản sao văn bản thanh lý hợp đồng ký giữa doanh nghiệp, tổ chức, cá nhân đưa đi và người lao động, nêu rõ lý do về nước trước thời hạn; hoặc văn bản của cơ quan đại diện Việt Nam ở nước sở tại theo đề nghị xác minh của người lao động về vụ việc dẫn đến người lao động phải đơn phương chấm dứt hợp đồng lao động hoặc biên bản làm việc, biên bản vụ việc do cơ quan chức năng nước sở tại lập  .
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Giấy đề nghị về việc hỗ trợ rủi ro trong thời gian làm việc ở nước ngoài (Mẫu theo Phụ lục I ban hành kèm theo Quyết định số 34/2025/QĐ-TTg  .
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Nội vụ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hỗ trợ..
+Căn cứ pháp lý:
+  * VỀ QUỸ HỖ TRỢ VIỆC LÀM NGOÀI NƯỚC (34/2025/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Người lao động đáp ứng một trong các điều kiện sau:
+- Người lao động phải về nước trước thời hạn do bị tai nạn lao động, tai nạn rủi ro, ốm đau, bệnh tật đến mức không còn khả năng tiếp tục làm việc ở nước ngoài.
+- Người lao động phải về nước trước hạn vì người sử dụng lao động ở nước ngoài bị giải thể, phá sản hoặc thu hẹp sản xuất do thiên tai, dịch bệnh, bất ổn chính trị, chiến tranh, suy thoái kinh tế hoặc vì lý do bất khả kháng khác.
+- Người lao động phải về nước trước thời hạn do đơn phương chấm dứt hợp đồng lao động khi bị người sử dụng lao động ngược đãi, cưỡng bức lao động hoặc có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khoẻ hoặc bị quấy rối tình dục trong thời gian làm việc ở nước ngoài.
+- Người lao động phải về nước trước hạn quy định tại Điều 10, Điều 11, Điều 12 Quyết định số 34/2025/QĐ-TTg có nhu cầu được đào tạo chuyển đổi nghề.
+Từ khóa: Không có thông tin
+Mô tả: Người lao động đáp ứng một trong các điều kiện sau:
+- Người lao động phải về nước trước thời hạn do bị tai nạn lao động, tai nạn rủi ro, ốm đau, bệnh tật đến mức không còn khả năng tiếp tục làm việc ở nước ngoài.
+- Người lao động phải về nước trước hạn vì người sử dụng lao động ở nước ngoài bị giải thể, phá sản hoặc thu hẹp sản xuất do thiên tai, dịch bệnh, bất ổn chính trị, chiến tranh, suy thoái kinh tế hoặc vì lý do bất khả kháng khác.
+- Người lao động phải về nước trước thời hạn do đơn phương chấm dứt hợp đồng lao động khi bị người sử dụng lao động ngược đãi, cưỡng bức lao động hoặc có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khoẻ hoặc bị quấy rối tình dục trong thời gian làm việc ở nước ngoài.
+- Người lao động phải về nước trước hạn quy định tại Điều 10, Điều 11, Điều 12 Quyết định số 34/2025/QĐ-TTg có nhu cầu được đào tạo chuyển đổi nghề.

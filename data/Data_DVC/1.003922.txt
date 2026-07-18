@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003922
+Số quyết định: 1198/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp lại Giấy chứng nhận tổ chức giám định quyền tác giả, quyền liên quan
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Bản quyền tác giả
+Trình tự thực hiện:
+    - Trong trường hợp Giấy chứng nhận tổ chức giám định bị mất, hư hỏng hoặc có sự thay đổi về thông tin đã được ghi nhận trong Giấy chứng nhận tổ chức giám định; Tổ chức giám định có yêu cầu cấp lại Giấy chứng nhận tổ chức giám định nộp hồ sơ tới cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh nơi đã cấp Giấy chứng nhận.
+    - Thời hạn cấp lại là 12 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ hợp lệ yêu cầu cấp lại Giấy chứng nhận tổ chức giám định.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày cấp lại Giấy chứng nhận tổ chức giám định, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh thông báo đến Cục Bản quyền tác giả (Bộ Văn hóa, Thể thao và Du lịch) để ghi nhận, cập nhật vào Danh sách tổ chức giám định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tờ khai yêu cầu cấp lại Giấy chứng nhận tổ chức giám định quyền tác giả, quyền liên quan theo Mẫu số 01 tại Phụ lục IV Nghị quyết số 18/2026/NQ-CP ngày 29/4/2026
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tờ hợp pháp chứng minh sự thay đổi thông tin, trong trường hợp đề nghị cấp lại do thay đổi thông tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản gốc hoặc bản sao có chứng thực hoặc bản sao từ sổ gốc quyết định tuyển dụng hoặc hợp đồng lao động hoặc hợp đồng làm việc giữa tổ chức và giám định viên làm việc cho tổ chức, trong trường hợp có sự thay đổi so với nội dung ghi trong Giấy chứng nhận tổ chức giám định đã được cấp; trường hợp nộp hồ sơ trực tuyến thì nộp bản sao điện tử hoặc bản chứng thực điện tử
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Giấy chứng nhận tổ chức giám định đã cấp bị hư hỏng hoặc Giấy chứng nhận tổ chức giám định đã cấp trong trường hợp có thay đổi thông tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận Tổ chức giám định quyền tác giả, quyền liên quan
+Căn cứ pháp lý:
+  * Nghị quyết số 18/2026/NQ-CP ngày 29/4/2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, cắt giảm điều kiện đầu tư kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (18/2026/NQ-CP)
+  * Nghị định số 134/2026/NĐ-CP ngày 06 tháng 4 năm 2026 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 17/2023/NĐ-CP ngày 26 tháng 4 năm 2023 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Sở hữu trí tuệ về quyền tác giả, quyền liên quan (134/2026/NĐ-CP)
+  * sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ (131/2025/QH15)
+  * 07/2022/QH15 - Luật sửa đổi, bổ sung một số điều của Luật Sở hữu trí tuệ (07/2022/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

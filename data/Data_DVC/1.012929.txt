@@ -1,0 +1,79 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012929
+Số quyết định: 780/QĐ-BNV
+Tên thủ tục: THỦ TỤC THÀNH LẬP HỘI (CẤP TỈNH).
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý nhà nước về hội, quỹ
+Trình tự thực hiện:
+    - Bước 1: Ban vận động thành lập hội có phạm vi hoạt động trong tỉnh gửi hồ sơ xin thành lập hội đến Ủy ban nhân dân cấp tỉnh (Sở Nội vụ).
+    - Bước 2: Cán bộ tiếp nhận hồ sơ xem xét hồ sơ và đề nghị bổ sung trong trường hợp hồ sơ chưa đầy đủ và hợp pháp. Trường hợp từ chối tiếp nhận, giải quyết hồ sơ phải nêu rõ lý do.
+    - Bước 3: Kể từ ngày nhận hồ sơ đầy đủ và hợp pháp, Sở Nội vụ nghiên cứu, thẩm định hồ sơ xin phép thành lập hội và thực hiện quy trình lấy ý kiến các cơ quan có liên quan, tổng hợp các ý kiến góp ý, đề nghị bổ sung hồ sơ (nếu có).
+    - Bước 4: Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định cho phép thành lập hội. Trường hợp không đồng ý phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 60 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 60 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 60 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Dự thảo điều lệ hội (theo mẫu);;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản chứng minh quyền sử dụng hợp pháp nơi dự kiến đặt trụ sở của hội theo quy định của pháp luật (bản chính hoặc bản sao có chứng thực);;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Ý kiến đồng ý của cơ quan có thẩm quyền theo quy định về phân cấp quản lý cán bộ đối với cán bộ, công chức, viên chức tham gia làm trưởng ban vận động thành lập hội (bản chính);;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị thành lập hội (theo mẫu);;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Quyết định công nhận ban vận động thành lập hội kèm theo danh sách thành viên ban vận động thành lập hội (bản chính);
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Bản cam kết đảm bảo kinh phí hoạt động trong nhiệm kỳ lần thứ nhất của hội nếu được thành lập (bản gốc).;;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Sơ yếu lý lịch cá nhân theo mẫu và phiếu lý lịch tư pháp số 1 (bản chính) của trưởng ban vận động thành lập hội không quá 06 tháng tính đến ngày nộp hồ sơ;;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Danh sách và đơn đăng ký tham gia thành lập hội của tổ chức, công dân Việt Nam đăng ký tham gia thành lập hội (bản gốc);;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản kê khai tài sản thành lập hội (bản gốc) của ban vận động thành lập hội tự nguyện đóng góp (nếu có);;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Hợp tác xã
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cho phép thành lập hội.
+Căn cứ pháp lý:
+  * Nghị định số 126/2024/NĐ-CP của Chính phủ: Quy định về tổ chức, hoạt động và quản lý hội (126/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: a) Chủ tịch Ủy ban nhân dân cấp tỉnh cho phép thành lập đối với hội có phạm vi hoạt động trong tỉnh.
+	b) Điều kiện thành lập hội:
+	- Tên gọi của hội: Viết bằng tiếng Việt hoặc phiên âm theo tiếng Việt, nếu không phiên âm ra được tiếng Việt thì dùng tiếng nước ngoài; tên gọi riêng của hội có thể được phiên âm, dịch ra tiếng dân tộc thiểu số, tiếng nước ngoài phù hợp với quy định của pháp luật; Phù hợp với tôn chỉ, mục đích, phạm vi, lĩnh vực hoạt động chính của hội; Không trùng lặp toàn bộ tên gọi hoặc gây nhầm lẫn, bao trùm tên gọi với các hội khác đã được thành lập hợp pháp trước đó; Không vi phạm đạo đức xã hội, thuần phong mỹ tục và truyền thống văn hóa dân tộc.
+- Có mục đích hoạt động không trái với pháp luật, không trùng lặp về tên gọi và lĩnh vực hoạt động chính với hội đã được thành lập hợp pháp trước đó trên cùng địa bàn lãnh thổ;
+	- Có điều lệ;
+	- Có trụ sở;
+	- Hội có phạm vi hoạt động trong tỉnh có ít nhất năm mươi công dân, tổ chức trong tỉnh có đủ điều kiện, tự nguyện, có đơn đăng ký tham gia thành lập hội;
+	- Hiệp hội của các tổ chức kinh tế có hội viên là đại diện các tổ chức kinh tế có tư cách pháp nhân ở Việt Nam có phạm vi hoạt động trong tỉnh có ít nhất năm đại diện pháp nhân trong tỉnh cùng ngành nghề hoặc cùng lĩnh vực hoạt động có đủ điều kiện, tự nguyện, có đơn đăng ký tham gia thành lập hiệp hội;
+- Có tài sản để đảm bảo hoạt động của hội.
+	c) Phải có Ban vận động thành lập hội được Chủ tịch Ủy ban nhân dân cấp tỉnh công nhận.
+d) Trong thời hạn 60 ngày kể từ ngày quyết định cho phép thành lập hội có hiệu lực, Ban vận động thành lập hội phải tổ chức đại hội.
+	đ) Nếu quá thời hạn trên ban vận động thành lập hội không tổ chức đại hội, thì trong thời hạn 15 ngày kể từ ngày hết thời hạn tổ chức đại hội, ban vận động thành lập hội có văn bản gửi cơ quan nhà nước đã quyết định cho phép thành lập hội đề nghị gia hạn. Thời gian gia hạn không quá 30 ngày, nếu quá thời gian được gia hạn mà ban vận động thành lập hội không tổ chức đại hội thì quyết định cho phép thành lập hội hết hiệu lực. Hội bị thu hồi quyết định cho phép thành lập sẽ không được thành lập lại trong thời hạn 03 năm kể từ ngày bị thu hồi quyết định cho phép thành lập, nếu có nhu cầu tiếp tục thành lập hội, ban vận động thành lập hội phải xin phép thành lập lại hội, trình tự thủ tục như mới bắt đầu.
+Từ khóa: Không có thông tin
+Mô tả: a) Chủ tịch Ủy ban nhân dân cấp tỉnh cho phép thành lập đối với hội có phạm vi hoạt động trong tỉnh.
+	b) Điều kiện thành lập hội:
+	- Tên gọi của hội: Viết bằng tiếng Việt hoặc phiên âm theo tiếng Việt, nếu không phiên âm ra được tiếng Việt thì dùng tiếng nước ngoài; tên gọi riêng của hội có thể được phiên âm, dịch ra tiếng dân tộc thiểu số, tiếng nước ngoài phù hợp với quy định của pháp luật; Phù hợp với tôn chỉ, mục đích, phạm vi, lĩnh vực hoạt động chính của hội; Không trùng lặp toàn bộ tên gọi hoặc gây nhầm lẫn, bao trùm tên gọi với các hội khác đã được thành lập hợp pháp trước đó; Không vi phạm đạo đức xã hội, thuần phong mỹ tục và truyền thống văn hóa dân tộc.
+- Có mục đích hoạt động không trái với pháp luật, không trùng lặp về tên gọi và lĩnh vực hoạt động chính với hội đã được thành lập hợp pháp trước đó trên cùng địa bàn lãnh thổ;
+	- Có điều lệ;
+	- Có trụ sở;
+	- Hội có phạm vi hoạt động trong tỉnh có ít nhất năm mươi công dân, tổ chức trong tỉnh có đủ điều kiện, tự nguyện, có đơn đăng ký tham gia thành lập hội;
+	- Hiệp hội của các tổ chức kinh tế có hội viên là đại diện các tổ chức kinh tế có tư cách pháp nhân ở Việt Nam có phạm vi hoạt động trong tỉnh có ít nhất năm đại diện pháp nhân trong tỉnh cùng ngành nghề hoặc cùng lĩnh vực hoạt động có đủ điều kiện, tự nguyện, có đơn đăng ký tham gia thành lập hiệp hội;
+- Có tài sản để đảm bảo hoạt động của hội.
+	c) Phải có Ban vận động thành lập hội được Chủ tịch Ủy ban nhân dân cấp tỉnh công nhận.
+d) Trong thời hạn 60 ngày kể từ ngày quyết định cho phép thành lập hội có hiệu lực, Ban vận động thành lập hội phải tổ chức đại hội.
+	đ) Nếu quá thời hạn trên ban vận động thành lập hội không tổ chức đại hội, thì trong thời hạn 15 ngày kể từ ngày hết thời hạn tổ chức đại hội, ban vận động thành lập hội có văn bản gửi cơ quan nhà nước đã quyết định cho phép thành lập hội đề nghị gia hạn. Thời gian gia hạn không quá 30 ngày, nếu quá thời gian được gia hạn mà ban vận động thành lập hội không tổ chức đại hội thì quyết định cho phép thành lập hội hết hiệu lực. Hội bị thu hồi quyết định cho phép thành lập sẽ không được thành lập lại trong thời hạn 03 năm kể từ ngày bị thu hồi quyết định cho phép thành lập, nếu có nhu cầu tiếp tục thành lập hội, ban vận động thành lập hội phải xin phép thành lập lại hội, trình tự thủ tục như mới bắt đầu.

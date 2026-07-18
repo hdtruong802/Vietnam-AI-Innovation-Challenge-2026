@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013235
+Số quyết định: 1077/QĐ-BXD
+Tên thủ tục: Cấp lại giấy phép xây dựng đối với công trình cấp đặc biệt, cấp I, cấp II (công trình không theo tuyến/theo tuyến trong đô thị/tín ngưỡng, tôn giáo/tượng đài, tranh hoành tráng/sửa chữa, cải tạo/theo giai đoạn cho công trình không theo tuyến/theo giai đoạn cho công trình theo tuyến trong đô thị/dự án)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động xây dựng
+Trình tự thực hiện:
+    - Chủ đầu tư nộp 02 bộ hồ sơ đề nghị cấp lại giấy phép xây dựng cho Trung tâm phục vụ hành chính công hoặc Bộ phận tiếp nhận và trả kết quả giải quyết thủ tục hành chính của Sở Xây dựng hoặc Ban Quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế theo phân cấp, ủy quyền của Ủy ban nhân dân cấp tỉnh.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền có trách nhiệm xem xét cấp lại giấy phép xây dựng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Hội đồng nhân dân cấp tỉnh)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Hội đồng nhân dân cấp tỉnh)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Hội đồng nhân dân cấp tỉnh)
+
+Thành phần hồ sơ:
+    - - Bản chính giấy phép xây dựng đã được cấp (đối với trường hợp bị rách, nát).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị điều chỉnh, gia hạn, cấp lại giấy phép xây dựng, trong đó giải trình rõ lý do đề nghị cấp lại theo Mẫu số 02 Phụ lục II Nghị định số 175/2024/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ban Quản lý Khu chế xuất- Khu công nghiệp, Bộ phận Một cửa Sở Xây dựng, Ban QLDA đầu tư xây dựng khu kinh tế, Ban Quản lý Khu công nghệ cao
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép xây dựng được cấp lại theo quy định
+Căn cứ pháp lý:
+  * Nghị định số 175/2024/NĐ-CP của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Xây dựng về quản lý hoạt động xây dựng (175/2024/NĐ-CP)
+  * sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Xây dựng (14/2026/NĐ-CP)
+  * Luật số 62/2020/QH14 của Quốc hội: Luật sửa đổi, bổ sung một số điều của Luật Xây dựng (62/2020/QH14)
+  * quy định chi tiết một số điều và biện pháp thi hành luật phòng cháy, chữa cháy và cứu nạn, cứu hộ (105/2025/NĐ-CP)
+  * quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng (144/2025/NĐ-CP)
+  * Luật Xây dựng (50/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,35 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007746
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục thuê kho bên ngoài Doanh nghiệp chế xuất để lưu giữ nguyên liệu, sản phẩm của Doanh nghiệp chế xuất, quản lý hải quan đối với hàng hóa đưa vào, đưa ra kho
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    + Bước 1: Doanh nghiệp chế xuất (DNCX) gửi văn bản tới Chi cục Hải quan quản lý DNCX kèm theo thông tin về địa điểm, vị trí, diện tích, các điều kiện về cơ sở hạ tầng, cơ chế quản lý giám sát hàng hóa đưa vào, đưa ra kho, thời gian thuê kho;
+    + Bước 2: Căn cứ đề nghị của DNCX, Chi cục Hải quan quản lý DNCX thực hiện kiểm tra hiện trạng kho, đối chiếu với điều kiện quy định tại điểm a khoản này để xem xét, quyết định cho DNCX được thuê kho bên ngoài DNCX hoặc báo cáo nếu vượt thẩm quyền.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Gửi văn bản tới Chi cục Hải quan quản lý DNCX
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định được phép thuê kho
+Căn cứ pháp lý:
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

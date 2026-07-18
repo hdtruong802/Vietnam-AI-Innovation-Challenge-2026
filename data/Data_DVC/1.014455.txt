@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014455
+Số quyết định: 3659/QĐ-BKHCN
+Tên thủ tục: Đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ đặc biệt, nhiệm khoa học và công nghệ cấp quốc gia, cấp bộ và nhiệm vụ khoa học và công nghệ do các quỹ của Nhà nước trong lĩnh vực khoa học và công nghệ cấp Trung ương, cấp bộ tài trợ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    - Bước 1:
+    + Đối với kết quả thực hiện nhiệm vụ khoa học và công nghệ không có nhu cầu đăng ký bảo hộ quyền sở hữu công nghiệp hoặc đã đăng ký bảo hộ quyền sở hữu công nghiệp trước khi nghiệm thu chính thức
+    Trong thời hạn 30 ngày kể từ khi nhiệm vụ khoa học và công nghệ được nghiệm thu chính thức, tổ chức, cá nhân chủ trì nhiệm vụ khoa học và công nghệ đặc biệt, cấp quốc gia, cấp bộ, nhiệm vụ khoa học và công nghệ cấp cơ sở sử dụng ngân sách nhà nước thuộc phạm vi quản lý của Bộ Khoa học và Công nghệ và nhiệm vụ khoa học và công nghệ do các quỹ của Nhà nước trong lĩnh vực khoa học và công nghệ cấp Trung ương, cấp bộ tài trợ phải thực hiện đăng ký và giao nộp kết quả thực hiện nhiệm vụ tại Cục Thông tin, Thống kê thuộc Bộ Khoa học và Công nghệ.
+    + Đối với kết quả thực hiện nhiệm vụ khoa học và công nghệ đăng ký bảo hộ quyền sở hữu công nghiệp sau khi nghiệm thu chính thức
+    Trong thời gian 05 ngày làm việc kể từ khi nộp đơn đăng ký bảo hộ quyền sở hữu công nghiệp, nhưng không muộn hơn 60 ngày kể từ ngày được nghiệm thu chính thức, tổ chức, cá nhân chủ trì nhiệm vụ khoa học và công nghệ đặc biệt, cấp quốc gia, cấp bộ, nhiệm vụ khoa học và công nghệ cấp cơ sở thuộc phạm vi quản lý của Bộ Khoa học và Công nghệ có sử dụng ngân sách nhà nước, nhiệm vụ khoa học và công nghệ do các quỹ của Nhà nước trong lĩnh vực khoa học và công nghệ cấp Trung ương, cấp bộ tài trợ có trách nhiệm thực hiện đăng ký và giao nộp kết quả thực hiện nhiệm vụ tại Cục Thông tin, Thống kê thuộc Bộ Khoa học và Công nghệ.
+    - Bước 2. Cục Thông tin, Thống kê có trách nhiệm tiếp nhận, kiểm tra tính đầy đủ và hợp lệ của hồ sơ theo quy định, cấp Giấy tiếp nhận hồ sơ và hẹn trả kết quả tới tổ chức, cá nhân chủ trì thực hiện nhiệm vụ khoa học và công nghệ. Trường hợp hồ sơ không đầy đủ, hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, Cục Thông tin, Thống kê có trách nhiệm thông báo yêu cầu bổ sung tới tổ chức, cá nhân chủ trì thực hiện nhiệm vụ khoa học và công nghệ. Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Thông tin, Thống kê có trách nhiệm cấp 01 Giấy chứng nhận đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ cho tổ chức chủ trì nhiệm vụ khoa học và công nghệ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Hồ sơ nộp trực tuyến trên Hệ thống thông tin giải quyết thủ tục hành chính của Bộ Khoa học và Công nghệ. Hồ sơ đăng ký phải sử dụng định dạng Portable Document (.pdf), sử dụng phông chữ tiếng Việt Unicode (Time New Roman) theo tiêu chuẩn Việt Nam (TCVN 6909:2001), được ký số hoặc số hóa từ bản giấy, bảo đảm tính đầy đủ, toàn vẹn, chính xác các nội dung theo bản giấy. - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Thông tin, Thống kê có trách nhiệm cấp 01 Giấy chứng nhận đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ cho tổ chức chủ trì nhiệm vụ khoa học và công nghệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Hồ sơ đăng ký được gửi qua đường bưu chính về Cục Thông tin, Thống kê - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Thông tin, Thống kê có trách nhiệm cấp 01 Giấy chứng nhận đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ cho tổ chức chủ trì nhiệm vụ khoa học và công nghệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Hồ sơ đăng ký được nộp trực tiếp tại Cục Thông tin, Thống kê. - Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cục Thông tin, Thống kê có trách nhiệm cấp 01 Giấy chứng nhận đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ cho tổ chức chủ trì nhiệm vụ khoa học và công nghệ.
+
+Thành phần hồ sơ:
+    - Phiếu mô tả công nghệ theo Mẫu 8 tại Phụ lục ban hành kèm theo Thông tư số 14/2014/TT-BKHCN đối với nhiệm vụ khoa học và công nghệ mà sản phẩm bao gồm quy trình công nghệ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đăng ký bảo hộ quyền sở hữu công nghiệp (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản xác nhận về sự thỏa thuận của các tác giả về việc sắp xếp thứ tự tên trong danh sách tác giả thực hiện nhiệm vụ (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 01 bản dữ liệu điều tra, khảo sát, bản đồ, bản vẽ, ảnh, tài liệu đa phương tiện, phần mềm (bao gồm mã nguồn và dữ liệu) và các tài liệu khác (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Phiếu đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước theo Mẫu 5 tại Phụ lục ban hành kèm theo Thông tư số 11/2023/TT-BKHCN
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo tổng hợp kết quả thực hiện nhiệm vụ có xác nhận hợp pháp của tổ chức chủ trì nhiệm vụ về việc đã hoàn thiện kết quả thực hiện nhiệm vụ sau khi nghiệm thu chính thức
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản họp Hội đồng đánh giá, nghiệm thu chính thức kết quả thực hiện nhiệm vụ khoa học và công nghệ
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Báo cáo tóm tắt kết quả thực hiện nhiệm vụ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Cục Thông tin, Thống kê
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Cục Thông tin, Thống kê. Số 24 phố Lý Thường Kiệt, phường Cửa Nam, thành phố Hà Nội.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ sử dụng ngân sách nhà nước
+Căn cứ pháp lý:
+  * Luật Khoa học và công nghệ (29/2013/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Đăng ký kết quả thực hiện nhiệm vụ khoa học và công nghệ đặc biệt, nhiệm khoa học và công nghệ cấp quốc gia, cấp bộ và nhiệm vụ khoa học và công nghệ do các quỹ của Nhà nước trong lĩnh vực khoa học và công nghệ cấp Trung ương, cấp bộ tài trợ
+Mô tả: Không có thông tin

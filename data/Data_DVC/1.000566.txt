@@ -1,0 +1,68 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000566
+Số quyết định: 753/QĐ-BKHCN
+Tên thủ tục: Thủ tục đăng ký tham gia tuyển chọn, giao trực tiếp nhiệm vụ khoa học và công nghệ cấp Bộ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    - Bước 1: Gửi hồ sơ đăng ký tham gia tuyển chọn
+    Tổ chức, cá nhân đủ điều kiện tham gia tuyển chọn gửi hồ sơ đăng ký tham gia tuyển chọn thực hiện nhiệm vụ khoa học và công nghệ về Văn thư Bộ Khoa học và Công nghệ. Hồ sơ phải nộp đúng hạn theo thông báo tuyển chọn, ngày nhận hồ sơ được tính là ngày ghi của dấu bưu điện (trường hợp gửi qua bưu điện) hoặc dấu đến của Văn thư Bộ (trường hợp gửi trực tiếp). Khi chưa hết thời hạn nộp hồ sơ, tổ chức, cá nhân đăng ký tham gia tuyển chọn có quyền rút hồ sơ, thay hồ sơ mới, bổ sung hoặc sửa đổi hồ sơ đã gửi đến cơ quan tuyển chọn. Mọi bổ sung và sửa đổi phải nộp trong thời hạn quy định và là bộ phận cấu thành của hồ sơ.
+    Bước 2: Mở hồ sơ
+    Trong thời hạn 07 ngày làm việc kể từ ngày kết thúc thời hạn nhận hồ sơ đăng ký tuyển chọn,  Văn phòng Bộ thực hiện việc mở, kiểm tra và xác nhận tính hợp lệ của hồ sơ với sự tham dự của đại diện các cơ quan liên quan (nếu cần), đại diện tổ chức, cá nhân đăng ký tham gia tuyển chọn. Kết quả mở hồ sơ được ghi thành biên bản.
+    Bước 3: Hội đồng tư vấn tuyển chọn, giao trực tiếp nhiệm vụ KH&CN
+    - Bộ trưởng Bộ Khoa học và Công nghệ (trên cơ sở đề xuất của Văn phòng Bộ) quyết định thành lập các Hội đồng tư vấn tuyển chọn, giao trực tiếp thực hiện nhiệm vụ khoa học và công nghệ
+    - Kết quả họp Hội đồng được thông báo cho các tổ chức, cá nhân đăng ký tuyển chọn, giao trực tiếp nhiệm vụ khoa học và công nghệ ngay sau khi kết thúc phiên họp. Tổ chức, cá nhân được đề nghị trúng tuyển, giao trực tiếp thực hiện nhiệm vụ khoa học và công nghệ có trách nhiệm hoàn thiện hồ sơ theo ý kiến của Hội đồng trong thời hạn 07 ngày làm việc sau khi họp Hội đồng, có xác nhận của Chủ tịch hội đồng và các ủy viên phản biện gửi về Văn phòng Bộ, Bộ Khoa học và Công nghệ.
+    - Sau khi Tổ chức, cá nhân hoàn thiện lại Thuyết minh, Bộ Khoa học và Công nghệ tổ chức thẩm định kinh phí. Kết quả thẩm định được thông báo cho tổ chức, cá nhân đăng ký tuyển chọn, giao trực tiếp nhiệm vụ khoa học và công nghệ ngay sau khi kết thúc phiên họp thẩm định.
+    Chủ nhiệm và tổ chức chủ trì nhiệm vụ khoa học và công nghệ hoàn thiện hồ sơ theo biên bản thẩm định và gửi về Văn phòng Bộ trong thời hạn 07 ngày làm việc kể từ ngày nhận được ý kiến thẩm định.
+    Bước 4: Phê duyệt danh mục nhiệm vụ khoa học và công nghệ đặt hàng
+    Trong vòng 07 ngày làm việc kể từ khi nhận được hồ sơ nhiệm vụ khoa học và công nghệ được hoàn thiện theo ý kiến của Hội đồng và Tổ thẩm định, Văn phòng Bộ trình Bộ trưởng Bộ Khoa học và Công nghệ phê duyệt: tên nhiệm vụ khoa học và công nghệ, tổ chức chủ trì, cá nhân chủ nhiệm, thời gian thực hiện, kinh phí và phương thức khoán chi thực hiện nhiệm vụ khoa học và công nghệ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 56 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 56 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 56 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Kết quả tra cứu thông tin về các nhiệm vụ khoa học và công nghệ có liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản chứng minh năng lực huy động vốn từ nguồn khác (đối với nhiệm vụ có yêu cầu).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Lý lịch khoa học của cá nhân đăng ký chủ nhiệm và các cá nhân đăng ký tham gia nghiên cứu chính nhiệm vụ khoa học và công nghệ, có xác nhận của cơ quan quản lý nhân sự.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Thuyết minh nhiệm vụ khoa học và công nghệ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Đơn đăng ký chủ trì thực hiện nhiệm vụ khoa học và công nghệ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản sao Giấy chứng nhận đăng ký hoạt động khoa học và công nghệ của tổ chức đăng ký chủ trì nhiệm vụ khoa học và công nghệ (nếu có).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Tóm tắt hoạt động khoa học và công nghệ của tổ chức đăng ký chủ trì thực hiện nhiệm vụ khoa học và công nghệ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản xác nhận về sự đồng ý của tổ chức và cá nhân đăng ký phối hợp thực hiện nhiệm vụ khoa học và công nghệ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Lý lịch khoa học của chuyên gia trong nước; lý lịch khoa học của chuyên gia nước ngoài (áp dụng đối với trường hợp thuyết minh nhiệm vụ khoa học và công nghệ có nội dung thuê chuyên gia khoa học).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo giá tài sản, trang thiết bị, nguyên vật liệu cần mua sắm để thực hiện nhiệm vụ khoa học và công nghệ (trong trường hợp thuyết minh nhiệm vụ khoa học và công nghệ có nội dung mua, thuê tài sản, trang thiết bị, nguyên vật liệu).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Đảng viên, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức Đảng, Hợp tác xã, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Bộ Khoa học và Công nghệ phê duyệt: tên nhiệm vụ khoa học và công nghệ, tổ chức chủ trì, cá nhân chủ nhiệm, thời gian thực hiện, kinh phí và phương thức khoán chi thực hiện nhiệm vụ khoa học và công nghệ cấp Bộ
+Căn cứ pháp lý:
+  * Luật Khoa học và công nghệ (29/2013/QH13)
+  * Nghị định 08/2014/NĐ-CP (08/2014/NĐ-CP)
+  * Thông tư 33/2014/TT-BKHCN (33/2014/TT-BKHCN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008888
+Số quyết định: 1856/QĐ-BTP
+Tên thủ tục: Cấp lại Giấy phép thành lập của Trung tâm trọng tài, Chi nhánh, Văn phòng đại diện của Tổ chức trọng tài nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trọng tài thương mại
+Trình tự thực hiện:
+    - Khi Giấy phép thành lập bị mất, rách, nát, cháy hoặc bị tiêu hủy, Trung tâm trọng tài, Chi nhánh, Văn phòng đại diện của Tổ chức trọng tài nước ngoài tại Việt Nam nộp trực tiếp hoặc gửi qua dịch vụ bưu chính văn bản đề nghị cấp lại Giấy phép thành lập Trung tâm trọng tài Chi nhánh, Văn phòng đại diện của Tổ chức trọng tài nước ngoài tại Việt Nam đến Sở Tư pháp nơi Trung tâm trọng tài, Chi nhánh, Văn phòng đại diện của Tổ chức trọng tài nước ngoài tại Việt Nam đặt trụ sở hoặc trực tuyến trên Cổng dịch vụ công quốc gia.
+    - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ đề nghị cấp lại Giấy phép thành lập, Sở Tư pháp thẩm định, trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét cấp lại Giấy phép thành lập.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Sở Tư pháp, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định cấp lại Giấy phép thành lập Trung tâm trọng tài, Chi nhánh, Văn phòng đại diện của Tổ chức trọng tài nước ngoài tại Việt Nam; trường hợp từ chối phải thông báo bằng văn bản và nêu rõ lý do.
+    Người yêu cầu nhận kết quả tại Sở Tư pháp nơi mình nộp hồ sơ hoặc qua dịch vụ bưu chính, trừ trường hợp pháp luật có quy định khác.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Phí thẩm định)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Phí thẩm định)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Phí thẩm định)
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp lại Giấy phép thành lập Trung tâm trọng tài, Chi nhánh, Văn phòng đại diện của Tổ chức trọng tài nước ngoài tại Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài
+Cơ quan thực hiện: Chủ tịch ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cấp lại Giấy phép thành lập Trung tâm trọng tài, Chi nhánh, Văn phòng đại diện của Tổ chức trọng tài nước ngoài tại Việt Nam.
+Căn cứ pháp lý:
+  * Thông tư số 08/2025/TT-BTP ngày 12/6/2025 của Bộ trưởng Bộ Tư pháp quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp và phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (08/2025/TT-BTP)
+  * Nghị định số 121/2025/NĐ-CP ngày 11/6/2025 của Chính phủ quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (121/2025/NĐ-CP)
+  * Luật 54/2010/QH12 - Trọng tài thương mại (54/2010/QH12)
+  * Nghị định 63/2011/NĐ-CP - Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Trọng tài thương mại (63/2011/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

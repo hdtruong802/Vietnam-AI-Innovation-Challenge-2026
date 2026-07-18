@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014566
+Số quyết định: 4245/QĐ-BTC
+Tên thủ tục: Đăng ký tạm ngừng kinh doanh, tiếp tục kinh doanh trước thời hạn đã đăng ký, chấm dứt kinh doanh của tổ chức khoa học và công nghệ, chi nhánh của tổ chức khoa học và công nghệ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Khoa học công nghệ
+Trình tự thực hiện:
+  * * Trường hợp đăng ký trực tiếp hoặc qua dịch vụ bưu chính:
+    - Trường hợp tổ chức khoa học và công nghệ, chi nhánh của tổ chức khoa học công nghệ tạm ngừng kinh doanh hoặc tiếp tục kinh doanh trước thời hạn đã đăng ký, tổ chức khoa học và công nghệ trực tiếp hoặc ủy quyền cho cá nhân, tổ chức, đơn vị dịch vụ bưu chính thực hiện thủ tục nộp hồ sơ tại Cơ quan đăng ký kinh doanh nơi tổ chức khoa học và công nghệ, chi nhánh của tổ chức khoa học và công nghệ đặt trụ sở chậm nhất 03 ngày làm việc trước ngày tạm ngừng kinh doanh hoặc tiếp tục kinh doanh trước thời hạn đã đăng ký.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ * Trường hợp nộp hồ sơ đăng ký kinh doanh của tổ chức khoa học và công nghệ bằng bản giấy, người được ủy quyền thực hiện thủ tục không có số định danh cá nhân thì kèm theo hồ sơ đăng ký kinh doanh phải có: ]
+    - (i) Bản sao hộ chiếu hoặc hộ chiếu nước ngoài hoặc các giấy tờ có giá trị thay thế hộ chiếu nước ngoài còn hiệu lực của người được ủy quyền thực hiện thủ tục đăng ký kinh doanh.
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ * Trường hợp việc kết nối giữa Cơ sở dữ liệu về đăng ký kinh doanh của tổ chức khoa học và công nghệ với Cơ sở dữ liệu quốc gia về dân cư bị gián đoạn thì hồ sơ đăng ký kinh doanh phải kèm theo: ]
+    - Bản sao thẻ Căn cước hoặc thẻ Căn cước công dân hoặc hộ chiếu hoặc hộ chiếu nước ngoài hoặc các giấy tờ có giá trị thay thế hộ chiếu nước ngoài còn hiệu lực của người được ủy quyền thực hiện thủ tục đăng ký kinh doanh.
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ * Trường hợp ủy quyền thực hiện thủ tục:  Tổ chức khoa học và công nghệ có thể ủy quyền cho cá nhân, tổ chức, đơn vị dịch vụ bưu chính thực hiện thủ tục đăng ký kinh doanh theo quy định sau đây: - Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký kinh doanh, kèm theo hồ sơ phải có: ]
+    - (i) Văn bản ủy quyền cho cá nhân thực hiện thủ tục (không bắt buộc phải công chứng, chứng thực).
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ - Trường hợp ủy quyền cho tổ chức thực hiện thủ tục đăng ký kinh doanh, kèm theo hồ sơ đăng ký kinh doanh phải có: ]
+    - (ii) Giấy giới thiệu hoặc văn bản phân công nhiệm vụ của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký kinh doanh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Bản sao hợp đồng ủy quyền cho tổ chức thực hiện thủ tục liên quan đến đăng ký kinh doanh;
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ - Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký kinh doanh thì khi thực hiện thủ tục đăng ký kinh doanh, nhân viên bưu chính phải nộp: ]
+    - (i) Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký kinh doanh
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ - Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký kinh doanh thì hồ sơ phải có: ]
+    - (ii) Giấy giới thiệu hoặc văn bản phân công nhiệm vụ của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký kinh doanh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Bản sao hợp đồng ủy quyền cho tổ chức thực hiện thủ tục liên quan đến đăng ký kinh doanh;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Người ủy quyền và người được ủy quyền thực hiện thủ tục đăng ký kinh doanh chịu trách nhiệm trước pháp luật về tính hợp pháp, trung thực và chính xác của việc ủy quyền.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ c1) Hồ sơ đăng ký tạm ngừng kinh doanh, tiếp tục kinh doanh trước thời hạn đã đăng ký của tổ chức khoa học và công nghệ, chi nhánh của tổ chức khoa học và công nghệ bao gồm: ]
+    - (i) Giấy đề nghị đăng ký tạm ngừng kinh doanh /tiếp tục kinh doanh trước thời hạn đã đăng ký.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Tài chính các tỉnh, thành phố, Ban quản lý khu công nghiệp, khu kinh tế, khu chế xuất, khu công nghệ cao các tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: :                    Quyết định phê duyệt của UBND cấp tỉnh kèm theo thuyết minh Kế hoạch phát triển nhà ở của địa phương.
+Căn cứ pháp lý:
+  * Nghị định số 262/2025/NĐ-CP ngày 14 tháng 10 năm 2025 của Chính phủ Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Khoa học, công nghệ và đổi mới sáng tạo về thông tin, thống kê, đánh giá, chuyển đổi số và các vấn đề chung (262/2025/NĐ-CP)
+  * Nghị định số 263/2025/NĐ-CP ngày 14/10/2025 của Chính phủ quy định chi tiết và hướng dẫn một số điều của Luật Khoa học, công nghệ và đổi mới sáng tạo về cơ chế tự chủ, tự chịu trách nhiệm của tổ chức khoa học và công nghệ công lập, nhân lực, nhân tài và giải thưởng trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo (263/2025/NĐ-CP)
+  * Thông tư về đăng ký kinh doanh của tổ chức khoa học và công nghệ (Thông tư số 119/2025/TT-BTC.)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

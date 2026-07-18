@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014949
+Số quyết định: 814/QĐ-BNNMT
+Tên thủ tục: Cấp, cấp lại Giấy phép xuất khẩu giống thủy sản có tên trong Danh mục loài thủy sản cấm xuất khẩu hoặc Danh mục loài thủy sản xuất khẩu có điều kiện nhưng không đáp ứng điều kiện vì mục đích nghiên cứu khoa học, hợp tác quốc tế
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thủy sản
+Trình tự thực hiện:
+    a) Gửi hồ sơ
+    Tổ chức, cá nhân gửi hồ sơ đến Bộ phận Một cửa Bộ Nông nghiệp và Môi trường qua các hình thức sau đây:
+    - Trực tiếp tại Bộ phận Một cửa hoặc Thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua uỷ quyền theo quy định của pháp luật đến Bộ phận Một cửa;
+    (Các thành phần hồ sơ là bản gốc hoặc bản chính hoặc bản sao y hoặc bản sao chứng thực. Tổ chức, cá nhân có thể nộp bản sao y và mang bản chính đến đối chiếu tại thời điểm nộp hồ sơ thay vì nộp bản sao chứng thực trong trường hợp nộp hồ sơ theo cách thức Trực tiếp tại Bộ phận Một cửa).
+    - Trực tuyến tại Cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia.
+    (Các thành phần hồ sơ là bản gốc được xác lập trên môi trường điện tử hoặc bản gốc, bản chính được scan theo quy định).
+    b) Trả lời về tính đầy đủ của hồ sơ
+    Cơ quan có thẩm quyền giải quyết thủ tục hành chính trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp Trực tiếp tại Bộ phận Một cửa; trả lời tính đầy đủ của hồ sơ trong 01 ngày làm việc đối với trường hợp Thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua uỷ quyền theo quy định của pháp luật đến Bộ phận Một cửa.
+    c)Thẩm định hồ sơ và cấp giấy phép
+    * Đối với trường hợp cấp mới: Trong thời hạn 07 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ, Cục Thủy sản và Kiểm ngư tổ chức thẩm định hồ sơ, cấp giấy phép xuất khẩu cho tổ chức, cá nhân theo Mẫu số 04 Phụ lục VII ban hành kèm theo Thông tư số 16/2026/TT-BNNMT. Trường hợp không cấp phép xuất khẩu thì phải có văn bản thông báo và nêu rõ lý do cho tổ chức, cá nhân.
+    * Đối với trường hợp cấp lại (trong trường hợp giấy phép xuất khẩu giống thủy sản được cấp bản giấy bị mất hoặc bị hỏng hoặc giấy phép có thay đổi địa chỉ của tổ chức, cá nhân xuất khẩu): Trong thời hạn 02 ngày làm việc kể từ ngày nhận được đơn đề nghị, Cục Thủy sản và Kiểm ngư cấp lại giấy phép theo Mẫu số 04 Phụ lục VII ban hành kèm theo Thông tư số 16/2026/TT-BNNMT. Trường hợp không cấp lại giấy phép, phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: đối với cấp mới là 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ; cấp lại trong thời hạn 02 ngày làm việc kể từ ngày nhận được đơn đề nghị
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: đối với cấp mới là 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ; cấp lại trong thời hạn 02 ngày làm việc kể từ ngày nhận được đơn đề nghị
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: đối với cấp mới là 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ; cấp lại trong thời hạn 02 ngày làm việc kể từ ngày nhận được đơn đề nghị
+
+Thành phần hồ sơ:
+  [ a) Đối với cấp mới ]
+    - - Đơn đề nghị cấp phép xuất khẩu giống thủy sản theo Mẫu số 03 Phụ lục VII ban hành kèm theo Thông tư số 16/2026/TT-BNNMT
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tài liệu chứng minh xuất khẩu giống thủy sản vì mục đích nghiên cứu khoa học, hợp tác quốc tế
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b) Đối với cấp lại ]
+    - - Đơn đề nghị cấp phép xuất khẩu giống thủy sản theo Mẫu số 03 Phụ lục VII ban hành kèm theo Thông tư số 16/2026/TT-BNNMT
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Thuỷ sản và Kiểm ngư - Bộ NN và MT
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép xuất khẩu giống thủy sản theo Mẫu số 04 Phụ lục VII ban hành kèm theo Thông tư số 16/2026/TT-BNNMT
+Căn cứ pháp lý:
+  * Luật Đất đai ngày 18/01/2024; (31/2024/QH15)
+  * sửa đổi bổ sung một số điều của 15 Luật trong lĩnh vực Nông nghiệp và Môi trường (146/2025/QH15)
+  * Quy định về quản lý giống thủy sản, thức ăn thủy sản, sản phẩm xử lý môi trường nuôi trồng thủy sản (16/2026/TT-BNNMT)
+  * Luật số 43/2024/QH15 ngày 29/6/2024 (43/2024/QH15)
+  * Luật Thủy sản (18/2017/QH14)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

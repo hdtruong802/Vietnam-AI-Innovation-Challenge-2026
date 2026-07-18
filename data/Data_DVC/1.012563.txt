@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012563
+Số quyết định: 4864/QĐ-BCA-C06
+Tên thủ tục: Khai thác thông tin người gốc Việt Nam chưa xác định được quốc tịch trong Cơ sở dữ liệu quốc gia về dân cư (thực hiện tại cấp xã)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Cấp, quản lý căn cước
+Trình tự thực hiện:
+    Bước 1: Cá nhân chuẩn bị đầy đủ hồ sơ theo quy định của pháp luật.
+    Bước 2: Nộp hồ sơ tại Công an cấp xã nơi công dân đăng ký thường trú hoặc tạm trú hoặc nơi ở hiện tại đối với trường hợp không đủ điều kiện đăng ký thường trú, đăng ký tạm trú.
+    Bước 3: Cán bộ tiếp nhận hồ sơ kiểm tra tính pháp lý và nội dung hồ sơ.
+    - Trường hợp hồ sơ đầy đủ, hợp lệ thì tiếp nhận hồ sơ và cấp giấy hẹn trả kết quả (Mẫu CC02 ban hành kèm theo Thông tư số 17/2024/TT-BCA ngày 15/5/2024 của Bộ Công an).
+    - Trường hợp hồ sơ không đầy đủ thì hướng dẫn người đề nghị bổ sung, hoàn thiện hồ sơ; trường hợp hồ sơ không hợp lệ thì từ chối tiếp nhận và nêu rõ lý do, thông báo về việc từ chối giải quyết thủ tục về căn cước (Mẫu CC03 ban hành kèm theo Thông tư số 17/2024/TT-BCA ngày 15/5/2024 của Bộ Công an).
+    Bước 4: Người đề nghị nhận văn bản trả lời tại Công an cấp xã nơi tiếp nhận đề nghị, văn bản điện tử hoặc dịch vụ bưu chính  phát đến địa chỉ theo yêu cầu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Áp dụng mức thu theo mức phí quy định tại Thông tư số 48/2022/TT-BTC ngày 03/8/2022 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí khai thác và sử dụng thông tin trong Cơ sở dữ liệu quốc gia về dân cư.)
+    Mô tả: - Nộp hồ sơ qua dịch vụ bưu chính (nếu có); - Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của pháp luật).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Áp dụng mức thu theo mức phí quy định tại Thông tư số 48/2022/TT-BTC ngày 03/8/2022 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí khai thác và sử dụng thông tin trong Cơ sở dữ liệu quốc gia về dân cư.)
+    Mô tả: - Nộp hồ sơ trực tiếp tại Công an cấp xã nơi công dân đăng ký thường trú hoặc tạm trú hoặc nơi ở hiện tại đối với trường hợp không đủ điều kiện đăng ký thường trú, đăng ký tạm trú. - Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của pháp luật).
+
+Thành phần hồ sơ:
+  [ Trong phiếu nêu rõ lý do cần khai thác, sử dụng thông tin, thời gian khai thác, thông tin cần khai thác và cam đoan về việc chịu trách nhiệm trong sử dụng thông tin khi được cung cấp ]
+    - Phiếu đề nghị giải quyết thủ tục về căn cước (Mẫu DC02 ban hành kèm theo Thông tư số 17/2024/TT-BCA của Bộ Công an)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Xuất trình giấy tờ hợp lệ chứng minh thông tin người đến nộp hồ sơ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Công an cấp Xã
+Cơ quan có thẩm quyền: Công an cấp Xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Phiếu cung cấp thông tin trong cơ sở dữ liệu quốc gia về dân cư, cơ sở dữ liệu căn cước bằng văn bản giấy hoặc văn bản điện tử (Mẫu DC03 ban hành kèm theo Thông tư số 17/2024/TT-BCA của Bộ Công an)
+Căn cứ pháp lý:
+  * Nghị định của Chính phủ: Quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước (70/2024/NĐ-CP)
+  * Thông tư quy định quy định về quy trình cấp, cấp đổi, cấp lại thẻ căn cước, giấy chứng nhận căn cước (18/2024/TT-BCA)
+  * Thông tư 16/2024/TT-BCA quy định về mẫu thẻ căn cước, mẫu giấy chứng nhận căn cước (16/2024/TT-BCA)
+  * Thông tư quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước (17/2024/TT-BCA)
+  * Luật Căn cước (26/2023/QH15)
+  * Thông tư số 48/2022/TT-BTC của Bộ Tài chính: Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí khai thác và sử dụng thông tin trong Cơ sở dữ liệu quốc gia về dân cư (48/2022/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Trường hợp khai thác thông tin của người bị mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi theo quy định của Bộ luật Dân sự, người dưới 14 tuổi, người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của cơ quan quản lý căn cước và một trong những người đại diện hợp pháp, người thừa kế theo quy định tại khoản 9 Điều 10 Luật Căn cước.
+Từ khóa: Không có thông tin
+Mô tả: Trường hợp khai thác thông tin của người bị mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi theo quy định của Bộ luật Dân sự, người dưới 14 tuổi, người bị tuyên bố mất tích, người đã chết phải được sự đồng ý của cơ quan quản lý căn cước và một trong những người đại diện hợp pháp, người thừa kế theo quy định tại khoản 9 Điều 10 Luật Căn cước.

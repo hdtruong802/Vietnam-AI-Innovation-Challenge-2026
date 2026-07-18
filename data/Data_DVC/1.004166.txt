@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004166
+Số quyết định: 647/QĐ-BXD
+Tên thủ tục: Công bố mở cảng dầu khí ngoài khơi
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Chủ đầu tư gửi trên Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc trực tiếp 01 bộ hồ sơ đến Cục Hàng hải và Đường thủy Việt Nam.
+    b) Giải quyết TTHC:
+    - Cục Hàng hải và Đường thủy Việt Nam tiếp nhận hồ sơ, trường hợp hồ sơ chưa hợp lệ thì hướng dẫn chủ đầu tư hoàn thiện hồ sơ theo quy định. Trường hợp hồ sơ hợp lệ, chậm nhất 01 ngày làm việc, Cục Hàng hải và Đường thủy Việt Nam có văn bản lấy ý kiến của Ủy ban nhân dân cấp tỉnh nơi có cảng dầu khí ngoài khơi. Chậm nhất 01 ngày kể từ khi nhận được ý kiến của Ủy ban nhân dân cấp tỉnh nơi có cảng dầu khí ngoài khơi, Cục Hàng hải và Đường thủy Việt Nam có văn bản đề nghị Bộ Xây dựng công bố cảng dầu khí ngoài khơi kèm theo hồ sơ theo quy định.
+    Chậm nhất 01 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng công bố mở cảng dầu khí ngoài khơi và gửi cho chủ đầu tư thông qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến hoặc chủ đầu tư đến nhận trực tiếp tại Bộ Xây dựng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Chậm nhất 01 ngày làm việc, Cục Hàng hải và Đường thủy Việt Nam có văn bản lấy ý kiến của Ủy ban nhân dân cấp tỉnh nơi có cảng dầu khí ngoài khơi. 
+- Chậm nhất 01 ngày kể từ khi nhận được ý kiến của Ủy ban nhân dân cấp tỉnh nơi có cảng dầu khí ngoài khơi, Cục Hàng hải và Đường thủy Việt Nam có văn bản đề nghị Bộ Xây dựng công bố cảng dầu khí ngoài khơi kèm theo hồ sơ theo quy định.
+- Chậm nhất 01 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng công bố mở cảng dầu khí ngoài khơi.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Chậm nhất 01 ngày làm việc, Cục Hàng hải và Đường thủy Việt Nam có văn bản lấy ý kiến của Ủy ban nhân dân cấp tỉnh nơi có cảng dầu khí ngoài khơi. 
+- Chậm nhất 01 ngày kể từ khi nhận được ý kiến của Ủy ban nhân dân cấp tỉnh nơi có cảng dầu khí ngoài khơi, Cục Hàng hải và Đường thủy Việt Nam có văn bản đề nghị Bộ Xây dựng công bố cảng dầu khí ngoài khơi kèm theo hồ sơ theo quy định.
+- Chậm nhất 01 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng công bố mở cảng dầu khí ngoài khơi.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Chậm nhất 01 ngày làm việc, Cục Hàng hải và Đường thủy Việt Nam có văn bản lấy ý kiến của Ủy ban nhân dân cấp tỉnh nơi có cảng dầu khí ngoài khơi. 
+- Chậm nhất 01 ngày kể từ khi nhận được ý kiến của Ủy ban nhân dân cấp tỉnh nơi có cảng dầu khí ngoài khơi, Cục Hàng hải và Đường thủy Việt Nam có văn bản đề nghị Bộ Xây dựng công bố cảng dầu khí ngoài khơi kèm theo hồ sơ theo quy định.
+- Chậm nhất 01 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng công bố mở cảng dầu khí ngoài khơi.
+
+Thành phần hồ sơ:
+  [ a) Thành phần hồ sơ: ]
+    - - Bản chính hoặc biểu mẫu điện tử Văn bản đề nghị công bố mở cảng dầu khí ngoài khơi;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hoặc bản sao điện tử Quyết định phê duyệt kế hoạch ứng phó sự cố tràn dầu đối với cảng dầu khí ngoài khơi.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng
+Cơ quan có thẩm quyền: Bộ Xây dựng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về việc mở cảng biển, cảng dầu khí ngoài khơi.
+Căn cứ pháp lý:
+  * Bộ luật Hàng hải Việt Nam (95/2015/QH13)
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực hàng hải (34/2025/NĐ-CP)
+  * Nghị định quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng (33/2025/NĐ-CP)
+  * Nghị định quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải (58/2017/NĐ-CP)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

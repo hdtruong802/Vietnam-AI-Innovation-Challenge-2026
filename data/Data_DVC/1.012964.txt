@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012964
+Số quyết định: 1181/QĐ-BGDĐT
+Tên thủ tục: Thành lập hoặc cho phép thành lập trường trung học cơ sở, trường phổ thông có nhiều cấp học có cấp học cao nhất là trung học cơ sở
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giáo dục trung học
+Trình tự thực hiện:
+    a) Tổ chức, cá nhân gửi 01 bộ hồ sơ quy định tại khoản 2 Điều 18 Nghị định 142/2024/NĐ-CP qua cổng dịch vụ công trực tuyến hoặc bưu chính hoặc trực tiếp đến Ủy ban nhân dân cấp xã;
+    b) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ, nếu hồ sơ không hợp lệ thì Ủy ban nhân cấp xã thông báo bằng văn bản những nội dung cần chỉnh sửa, bổ sung cho cơ quan, tổ chức, cá nhân;
+    c) Trong thời hạn 25 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp xã tổ chức thẩm định các điều kiện thành lập hoặc cho phép thành lập trường trung học; nếu đủ điều kiện thì Chủ tịch Ủy ban nhân dân cấp xã quyết định việc thành lập hoặc cho phép thành lập trường trung học cơ sở; nếu chưa đủ điều kiện thì thông báo bằng văn bản cho cơ quan, tổ chức, cá nhân đề nghị thành lập hoặc cho phép thành lập trường và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tờ trình đề nghị thành lập hoặc cho phép thành lập trường (theo Mẫu số 01 Phụ lục II kèm theo Nghị định 142/2025/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề án thành lập hoặc cho phép thành lập trường (theo Mẫu số 02 Phụ lục II kèm theo Nghị định 142/2025/NĐ-CP). Trường hợp trường trung học cơ sở, trường phổ thông có nhiều cấp học có cấp học cao nhất là trung học cơ sở chuyển địa điểm hoạt động giáo dục: Trong đề án (theo Mẫu số 02 Phụ lục II kèm theo Nghị định số 142/2025/NĐ-CP), trường trung học phải cam kết kế thừa các quyền, nghĩa vụ và trách nhiệm của trường trung học đề nghị chuyển địa điểm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Chủ tịch UBND cấp xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Chủ tịch Ủy ban nhân dân cấp xã về việc thành lập hoặc cho phép thành lập trường trung học cơ sở (theo Mẫu số 10 Phụ lục II ban hành kèm theo Nghị định số 142/2025/NĐ-CP); Quyết định của Chủ tịch Ủy ban nhân dân cấp xã về việc cho phép thành lập cơ sở giáo dục phổ thông có vốn đầu tư nước ngoài có cấp học cao nhất là trung học cơ sở (theo Mẫu số 15 Phụ lục ban hành kèm theo Nghị định số 124/2024/NĐ-CP) được công bố công khai trên các phương tiện thông tin đại chúng.
+Căn cứ pháp lý:
+  * Nghị quyết số 23/2026/NQ-CP của Chính phủ: Về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính và cắt giảm điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Giáo dục và Đào tạo (23/2026/NQ-CP)
+  * Nghị định số 142/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương hai cấp trong lĩnh vực quản lý nhà nước của Bộ Giáo dục và Đào tạo (Nghị định số 142/2025/NĐ-CP)
+  * Nghị định quy định điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục (125/2024/NĐ-CP)
+  * Nghị quyết số 66.16/2026/NQ-CP của Chính phủ ngày 07/04/2026 về việc Cắt giảm, đơn giản hóa thủ tục hành chính,quy định liên quan đến hoạt động sản xuất, kinh doanh (66.16/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Có đề án thành lập hoặc cho phép thành lập trường trung học cơ sở phù hợp với quy hoạch của tỉnh và các quy hoạch liên quan của địa phương nơi trường đặt trụ sở, được lập theo Mẫu số 02 Phụ lục II ban hành kèm theo Nghị định số 142/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương hai cấp trong lĩnh vực quản lý nhà nước của Bộ Giáo dục và Đào tạo.
+Từ khóa: Không có thông tin
+Mô tả: Có đề án thành lập hoặc cho phép thành lập trường trung học cơ sở phù hợp với quy hoạch của tỉnh và các quy hoạch liên quan của địa phương nơi trường đặt trụ sở, được lập theo Mẫu số 02 Phụ lục II ban hành kèm theo Nghị định số 142/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương hai cấp trong lĩnh vực quản lý nhà nước của Bộ Giáo dục và Đào tạo.

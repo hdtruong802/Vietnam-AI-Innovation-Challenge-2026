@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014731
+Số quyết định: 87/QĐ-BCT
+Tên thủ tục: Thủ tục cấp Giấy phép xuất khẩu, nhập khẩu hóa chất cần kiểm soát đặc biệt nhóm 2
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hóa chất
+Trình tự thực hiện:
+    a) Tổ chức, cá nhân đề nghị cấp Giấy phép xuất khẩu, nhập khẩu hóa chất cần kiểm soát đặc biệt lập 01 bộ hồ sơ quy định tại khoản 6 Điều 14 Nghị định số 26/2026/NĐ-CP gửi qua đường bưu chính hoặc nộp trực tiếp hoặc qua hệ thống dịch vụ công trực tuyến đến cơ quan có thẩm quyền cấp phép quy định tại khoản 4, khoản 5 Điều 14 Nghị định số 26/2026/NĐ-CP;
+    b) Trường hợp hồ sơ chưa đầy đủ và hợp lệ, trong vòng 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, cơ quan có thẩm quyền cấp phép thông báo để tổ chức, cá nhân bổ sung, hoàn chỉnh hồ sơ. Thời gian hoàn chỉnh hồ sơ không tính vào thời gian cấp phép quy định tại điểm c khoản 6 Điều 14 Nghị định số 26/2026/NĐ-CP;
+    c) Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền cấp phép kiểm tra hồ sơ và cấp Giấy phép xuất khẩu, nhập khẩu hóa chất cần kiểm soát đặc biệt. Trường hợp không cấp Giấy phép, cơ quan có thẩm quyền cấp phép từ chối cấp phép và nêu rõ lý do;
+    d) Trường hợp xuất khẩu hóa chất cần kiểm soát đặc biệt là tiền chất công nghiệp thuộc Phụ lục III của Nghị định quy định các danh mục hóa chất thuộc phạm vi điều chỉnh của Luật Hóa chất từ Việt Nam sang nước ngoài phải có văn bản chấp thuận của Bộ Công an.
+    Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền cấp phép kiểm tra hồ sơ và gửi Bộ Công an những thông tin về tên, địa chỉ tổ chức đề nghị cấp phép xuất khẩu; tên gọi, hàm lượng, số lượng tiền chất; tên, địa chỉ tổ chức nhập khẩu; tên cửa khẩu có hàng xuất khẩu đi qua để ra thông báo tiền xuất khẩu đối với lô hàng cho cơ quan chức năng của nước nhập khẩu. Trường hợp Bộ Công an không thông qua yêu cầu thông báo tiền xuất khẩu thì cơ quan cấp phép từ chối cấp phép và nêu rõ lý do;
+    đ) Giấy phép xuất khẩu, nhập khẩu hóa chất cần kiểm soát đặc biệt có thời hạn 06 tháng kể từ ngày cấp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - b) Hóa  đơn thương mại bản gốc và bản dịch tiếng Việt có xác thực của tổ chức trong trường hợp hóa đơn thương mại được phát hành bằng tiếng nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Giấy  phép kinh doanh hóa chất cần kiểm soát đặc biệt đối với trường hợp tổ chức kinh doanh hóa chất cần kiểm soát đặc biệt xuất khẩu, nhập khẩu để phục vụ mục đích kinh doanh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Giấy  phép sản xuất hóa chất cần kiểm soát đặc biệt đối với trường hợp tổ chức sản xuất hóa chất cần kiểm soát đặc biệt xuất khẩu hóa chất do chính tổ chức đó sản xuất;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Phiếu  an toàn hóa chất;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Văn  bản đề nghị cấp Giấy phép xuất khẩu, nhập khẩu hóa chất cần kiểm soát đặc biệt;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - g) Trường  hợp xuất khẩu hóa chất cần kiểm soát đặc biệt là hóa chất Bảng 3 thuộc Phụ lục III của Nghị định quy định các danh mục hóa chất thuộc phạm vi điều chỉnh của Luật Hóa chất phải có bản sao Giấy chứng nhận sử dụng cuối cùng của cơ quan có thẩm quyền của nước nhập khẩu không phải là Quốc gia thành viên của Công ước Cấm vũ khí hóa học.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Báo  cáo về tình hình xuất khẩu, nhập khẩu, mua bán và sử dụng, tồn trữ hóa chất cần kiểm soát đặc biệt nhóm 1 theo các Giấy phép đã được cấp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép xuất khẩu, nhập khẩu hoá chất cần kiểm soát đặc biệt nhóm 2
+Căn cứ pháp lý:
+  * Thông tư số 01/2026/TT-BCT của Bộ trưởng Bộ Công Thương quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất và Nghị định số 26/2026/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa. (01/2026/TT-BCT)
+  * Nghị định số 26/2026/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa; (26/2026/NĐ-CP)
+  * Luật số 69/2025/QH15 của Quốc hội: Luật Hóa chất (69/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

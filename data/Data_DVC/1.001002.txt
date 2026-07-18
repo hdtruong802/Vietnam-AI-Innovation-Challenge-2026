@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001002
+Số quyết định: 3174/QĐ-BNG
+Tên thủ tục: Gia hạn Thẻ phóng viên nước ngoài cho phóng viên thường trú tại Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Báo chí
+Trình tự thực hiện:
+    Nộp hồ sơ
+    Phóng viên thường trú có yêu cầu gia hạn Thẻ phóng viên nước ngoài nộp hoặc gửi hồ sơ tới Bộ Ngoại giao
+    Thẩm định hồ sơ
+    Bộ Ngoại giao thẩm định hồ sơ và gia hạn Thẻ phóng viên nước ngoài. Trường hợp từ chối gia hạn, Bộ Ngoại giao có thông báo bằng văn bản.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 03 ngày làm việc kể từ khi nhận đủ hồ sơ đề nghị
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 03 ngày làm việc kể từ khi nhận đủ hồ sơ đề nghị
+
+Thành phần hồ sơ:
+    - Thẻ phóng viên nước ngoài của phóng viên thường trú
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản thông báo tiếp tục cử phóng viên thường trú tại Việt Nam của người có thẩm quyền của cơ quan báo chí nước ngoài theo mẫu do Bộ Ngoại giao ban hành
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chụp hộ chiếu của phóng viên thường trú.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Vụ Thông tin Báo chí - Bộ Ngoại giao
+Cơ quan có thẩm quyền: Bộ Ngoại giao
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thẻ phóng viên nước ngoài
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: 1.	Chậm nhất 15 ngày làm việc trước khi Thẻ phóng viên nước ngoài hết hạn, phóng viên thường trú phải làm thủ tục gia hạn Thẻ phóng viên nước ngoài.
+2.	Thẻ phóng viên nước ngoài có giá trị không quá 12 tháng, phù hợp với thời hạn thị thực nhập – xuất cảnh của phóng viên.
+3.	Trường hợp từ chối, Bộ Ngoại giao thông báo bằng văn bản cho phóng viên nước ngoài.
+Từ khóa: Không có thông tin
+Mô tả: 1.	Chậm nhất 15 ngày làm việc trước khi Thẻ phóng viên nước ngoài hết hạn, phóng viên thường trú phải làm thủ tục gia hạn Thẻ phóng viên nước ngoài.
+2.	Thẻ phóng viên nước ngoài có giá trị không quá 12 tháng, phù hợp với thời hạn thị thực nhập – xuất cảnh của phóng viên.
+3.	Trường hợp từ chối, Bộ Ngoại giao thông báo bằng văn bản cho phóng viên nước ngoài.

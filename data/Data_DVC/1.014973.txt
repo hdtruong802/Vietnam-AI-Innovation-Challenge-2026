@@ -1,0 +1,94 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014973
+Số quyết định: 1174/QĐ-UBND
+Tên thủ tục: Hỗ trợ đầu tư phát triển du lịch cộng đồng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Du lịch
+Trình tự thực hiện:
+    - Bước 1: Cá nhân, hộ gia đình, tổ chức, doanh nghiệp gửi 01 bộ hồ sơ trực tiếp hoặc trực tuyến hoặc qua dịch vụ bưu chính công ích đến Trung tâm Phục vụ hành chính công thành phố Huế.
+    - Bước 2: Trong thời hạn 15 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ, Sở Du lịch chủ trì phối hợp với Sở Tài chính và các cơ quan, đơn vị liên quan tiến hành kiểm tra hồ sơ, thẩm định, nghiệm thu khối lượng, kinh phí đã đầu tư và trình Ủy ban nhân dân thành phố Huế ban hành Quyết định hỗ trợ.
+    Trường hợp hồ sơ không đảm bảo điều kiện hỗ trợ thì ban hành văn bản từ chối và nêu rõ lý do.
+    - Bước 3: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ trình, Ủy ban nhân dân thành phố ban hành Quyết định hỗ trợ.
+    - Bước 4: Thủ tục cấp phát kinh phí
+    Sau khi Quyết định hỗ trợ của Ủy ban nhân dân thành phố có hiệu lực, trong thời gian 05 ngày làm việc, Sở Tài chính, Ủy ban nhân dân phường/xã chuyển kinh phí hỗ trợ trực tiếp cho cá nhân, hộ gia đình, tổ chức, doanh nghiệp theo nội dung được phê duyệt.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp trực tuyến trên Cổng Dịch vụ công quốc gia (https://dichvucong.gov.vn).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp trực tiếp tại Trung tâm Phục vụ hành chính công thành phố Huế.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp qua dịch vụ bưu chính tại Trung tâm Phục vụ hành chính công thành phố Huế.
+
+Thành phần hồ sơ:
+  [ Đối với hỗ trợ xây dựng phòng lưu trú tại cơ sở lưu trú trong dân (homestay): ]
+    - Đơn đề nghị hỗ trợ của cá nhân, hộ gia đình, tổ chức, doanh nghiệp (Mẫu số 01).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản đề nghị nghiệm thu, thanh toán (Mẫu số 05).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản cam kết duy trì hoạt động kinh doanh du lịch của cá nhân, hộ gia đình, tổ chức, doanh nghiệp với chính quyền địa phương (Mẫu số 04).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với hỗ trợ đóng mới thuyền phục vụ du lịch cộng đồng ]
+    - Hợp đồng đóng mới thuyền và khái toán kèm theo hoặc chứng từ chứng minh giá trị thuyền.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy đăng ký tàu/thuyền
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị hỗ trợ của cá nhân, hộ gia đình, tổ chức, doanh nghiệp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản đề nghị nghiệm thu, thanh toán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản cam kết duy trì hoạt động kinh doanh du lịch của cá nhân, hộ gia đình, tổ chức, doanh nghiệp với chính quyền địa phương (Mẫu số 04).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Sở Du lịch  - Thành phố Huế
+Cơ quan có thẩm quyền: UBND Thành phố Huế
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công thành phố, số 01 Lê Lai thành phố Huế
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Sở Tài chính - Thành phố Huế
+Kết quả thực hiện: Quyết định hỗ trợ của Ủy ban nhân dân thành phố
+Căn cứ pháp lý:
+  * Nghị quyết 02/2026/NQ-HĐND quy định chính sách hỗ trợ phát triển du lịch cộng đồng trên địa bàn thành phố Huế giai đoạn 2026 - 2030 (02/2026/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: a) Đối với điểm du lịch đề nghị hỗ trợ
++ Phù hợp với quy hoạch, định hướng phát triển du lịch của thành phố và địa phương; 
++ Có tài nguyên du lịch (văn hóa hoặc tự nhiên) có khả năng khai thác phục vụ phát triển du lịch cộng đồng, trong đó có ít nhất 01 yếu tố tài nguyên đặc trưng, bao gồm: 
+•	Tài nguyên văn hóa (di tích lịch sử, lễ hội, làng nghề, ẩm thực, sinh hoạt cộng đồng…); 
+•	Tài nguyên tự nhiên (cảnh quan, hệ sinh thái, đầm phá, rừng, núi, biển…); 
++ Có điều kiện tổ chức hoạt động du lịch hoặc khả năng phát triển sản phẩm, dịch vụ du lịch gắn với cộng đồng dân cư địa phương;
++ Đáp ứng các tiêu chí ưu tiên theo quy định, như: Đã có hạ tầng hoặc dịch vụ du lịch cần nâng cấp, hoàn thiện; Có hoạt động du lịch cộng đồng đang hình thành hoặc phát triển; 
++ Có khả năng liên kết tour, tuyến du lịch; Có doanh nghiệp lữ hành đưa khách đến khai thác.
+b) Đối với cá nhân, hộ gia đình, tổ chức, doanh nghiệp có tham gia hoạt động du lịch cộng đồng tại địa phương và được cơ quan có thẩm quyền công nhận đủ điều kiện kinh doanh dịch vụ du lịch theo quy định.
+- Điều kiện cụ thể: 
+a) Đối với hỗ trợ xây dựng, cải tạo phòng lưu trú tại cơ sở lưu trú trong dân (homestay)
++ Phòng lưu trú được xây dựng mới hoặc cải tạo, sửa chữa phải đáp ứng các tiêu chuẩn theo quy định của pháp luật hiện hành 
++ Mỗi cơ sở chỉ được hỗ trợ tối đa 03 phòng theo quy định của Nghị quyết. 
+b) Đối với hỗ trợ đóng mới thuyền phục vụ du lịch cộng đồng
++ Phương tiện có sức chở tối thiểu từ 07 người trở lên và được đăng kiểm, đăng ký theo quy định của pháp luật hiện hành. 
++ Phải sử dụng thuyền để tham gia các tour, tuyến du lịch đường thủy.
++ Mỗi đối tượng chỉ được hỗ trợ 01 lần theo quy định của Nghị quyết
+Từ khóa: Không có thông tin
+Mô tả: a) Đối với điểm du lịch đề nghị hỗ trợ
++ Phù hợp với quy hoạch, định hướng phát triển du lịch của thành phố và địa phương; 
++ Có tài nguyên du lịch (văn hóa hoặc tự nhiên) có khả năng khai thác phục vụ phát triển du lịch cộng đồng, trong đó có ít nhất 01 yếu tố tài nguyên đặc trưng, bao gồm: 
+•	Tài nguyên văn hóa (di tích lịch sử, lễ hội, làng nghề, ẩm thực, sinh hoạt cộng đồng…); 
+•	Tài nguyên tự nhiên (cảnh quan, hệ sinh thái, đầm phá, rừng, núi, biển…); 
++ Có điều kiện tổ chức hoạt động du lịch hoặc khả năng phát triển sản phẩm, dịch vụ du lịch gắn với cộng đồng dân cư địa phương;
++ Đáp ứng các tiêu chí ưu tiên theo quy định, như: Đã có hạ tầng hoặc dịch vụ du lịch cần nâng cấp, hoàn thiện; Có hoạt động du lịch cộng đồng đang hình thành hoặc phát triển; 
++ Có khả năng liên kết tour, tuyến du lịch; Có doanh nghiệp lữ hành đưa khách đến khai thác.
+b) Đối với cá nhân, hộ gia đình, tổ chức, doanh nghiệp có tham gia hoạt động du lịch cộng đồng tại địa phương và được cơ quan có thẩm quyền công nhận đủ điều kiện kinh doanh dịch vụ du lịch theo quy định.
+- Điều kiện cụ thể: 
+a) Đối với hỗ trợ xây dựng, cải tạo phòng lưu trú tại cơ sở lưu trú trong dân (homestay)
++ Phòng lưu trú được xây dựng mới hoặc cải tạo, sửa chữa phải đáp ứng các tiêu chuẩn theo quy định của pháp luật hiện hành 
++ Mỗi cơ sở chỉ được hỗ trợ tối đa 03 phòng theo quy định của Nghị quyết. 
+b) Đối với hỗ trợ đóng mới thuyền phục vụ du lịch cộng đồng
++ Phương tiện có sức chở tối thiểu từ 07 người trở lên và được đăng kiểm, đăng ký theo quy định của pháp luật hiện hành. 
++ Phải sử dụng thuyền để tham gia các tour, tuyến du lịch đường thủy.
++ Mỗi đối tượng chỉ được hỗ trợ 01 lần theo quy định của Nghị quyết

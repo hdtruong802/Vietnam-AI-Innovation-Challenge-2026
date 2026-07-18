@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014952
+Số quyết định: 1878/QĐ-BNNMT
+Tên thủ tục: Cấp mã số định danh cơ sở chăn nuôi
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chăn nuôi
+Trình tự thực hiện:
+    Trình tự thực hiện:
+    - Bước 1. Đăng nhập hệ thống
+    Chủ cơ sở chăn nuôi lập tài khoản để đăng nhập Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi tại địa chỉ tên miền csdlchannuoi.mae.gov.vn (nhập mã số doanh nghiệp hoặc mã số thuế hoặc số định danh hoặc số căn cước công dân của chủ cơ sở chăn nuôi).
+    - Bước 2. Thực hiện kê khai
+    Chủ cơ sở thực hiện kê khai hoạt động chăn nuôi theo biểu mẫu Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi.
+    - Bước 3. Cấp mã số định danh cơ sở chăn nuôi
+    * Trường hợp kê khai hoạt động chăn nuôi áp dụng với tất cả các cơ sở chăn nuôi thuộc đối tượng phải kê khai chăn nuôi: Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi tự động cấp mã số định danh cho cơ sở ngay khi hoàn thành kê khai hoạt động chăn nuôi trên Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi.
+    * Trường hợp cơ sở chăn nuôi thuộc đối tượng phải kê khai chăn nuôi, cơ sở hoạt động chăn nuôi khác gồm: cơ sở chăn nuôi không thuộc đối tượng phải kê khai chăn nuôi, cơ sở thu gom, giết mổ, pha lóc, sơ chế, chế biến, kinh doanh sản phẩm chăn nuôi, cơ sở kinh doanh chăn nuôi khác thực hiện kê khai để đăng ký truy xuất nguồn gốc sản phẩm chăn nuôi trên Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi; Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi tự động cấp mã số định danh cho cơ sở trong thời hạn 01 ngày làm việc kể từ khi hoàn thành kê khai trên Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi trên cơ sở kiểm tra, đối chiếu và xác nhận thông tin của Cơ quan quản lý nhà nước về chăn nuôi và thú y được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thủ tục hành chính trên Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi.
+    - Bước 4. Mã số do Hệ thống cấp được thông báo trên tài khoản và gửi đến thư điện tử của tổ chức, cá nhân. Trường hợp từ chối cấp, phải nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 0 OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Ngay khi hoàn thành kê khai hoạt động chăn nuôi trên Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi (đối với tất cả các cơ sở chăn nuôi thuộc đối tượng phải kê khai chăn nuôi).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - 01 ngày làm việc kể từ khi hoàn thành kê khai trên Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi (đối với cơ sở chăn nuôi không thuộc đối tượng phải kê khai chăn nuôi, cơ sở thu gom, giết mổ, pha lóc, sơ chế, chế biến, kinh doanh sản phẩm chăn nuôi, cơ sở kinh doanh chăn nuôi khác).
+
+Thành phần hồ sơ:
+    - Mẫu kê khai hoạt động chăn nuôi quy định tại Phụ lục III Thông tư số 23/2019/TT-BNNPTNT ngày 30 tháng 11 năm 2019 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn hướng dẫn một số điều của Luật Chăn nuôi về hoạt động chăn nuôi (được sửa đổi, bổ sung tại Thông tư số 18/2023/TT-BNNPTNT ngày 15 tháng 12 năm 2023 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Đảng viên, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Mã số cơ sở chăn nuôi.
+Căn cứ pháp lý:
+  * Quy định về chăn nuôi động vật khác thuộc Danh mục động vật khác được phép chăn nuôi và truy xuất nguồn gốc sản phẩm chăn nuôi. (66/2025/TT-BNNMT)
+  * sửa đổi, bổ sung một số Thông tư liên quan phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính thuộc phạm vi quản lý nhà nước của Bộ Nông nghiệp và Môi trường (Thông tư số 22/2026/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

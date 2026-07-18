@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003784
+Số quyết định: 999/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục thông báo nhập khẩu văn hóa phẩm (trừ di vật, cổ vật) không nhằm mục đích kinh doanh cấp tỉnh
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động mua bán quốc tế chuyên ngành văn hóa
+Trình tự thực hiện:
+    - Cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh (Sở Văn hóa, Thể thao và Du lịch/ Sở Văn hóa và Thể thao) có thẩm quyền tiếp nhận Thông báo nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh trong các trường hợp quy định tại khoản 1, khoản 2 Điều 8 Nghị định số 32/2012/NĐ-CP ngày 12 tháng 4 năm 2012 của Chính phủ về quản lý xuất nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh, được sửa đổi, bổ sung bởi khoản 6 Điều 1 Nghị định số 31/2025/NĐ-CP ngày 24 tháng 2 năm 2025 của Chính phủ. Các văn hóa phẩm gồm:
+    + Tác phẩm mỹ thuật, tác phẩm mỹ thuật ứng dụng, tác phẩm nhiếp ảnh không nhằm mục đích kinh doanh;
+    + Bản ghi âm, ghi hình về nghệ thuật biểu diễn không nhằm mục đích kinh.
+    - Cá nhân, tổ chức có văn hóa phẩm (trừ di vật, cổ vật) nhập khẩu trong các trường hợp trên nộp 01 bộ hồ sơ thông báo nhập khẩu văn hóa phẩm không nhằm mục đích kinh doanh đến Sở VHTTDL/Sở VHTT.
+    - Sở VHTTDL/Sở VHTT khi tiếp nhận Thông báo có trách nhiệm kiểm tra nội dung văn hóa phẩm theo quy định tại khoản 1 Điều 6 Nghị định số 32/2012/NĐ-CP và cấp ngay Giấy biên nhận thông báo nhập khẩu văn hóa phẩm cho người nộp hồ sơ theo Phụ lục IV kèm theo Nghị định số 31/2025/NĐ-CP.
+    - Trường hợp phát hiện văn hóa phẩm cấm xuất khẩu, cấm nhập khẩu theo quy định tại khoản 1 Điều 6 Nghị định 32/2012/NĐ-CP, trong thời hạn 02 ngày làm việc, kể từ ngày nhận hồ sơ đúng theo quy định, Sở VHTTDL/Sở VHTT gửi cho cơ quan Hải quan và cá nhân, tổ chức Thông báo dừng nhập khẩu văn hóa phẩm theo Phụ lục V kèm theo Nghị định 31/2025/NĐ-CP.
+    - Giấy biên nhận thông báo nhập khẩu văn hóa phẩm mà không có Thông báo dừng nhập khẩu văn hóa phẩm của Sở VHTTDL/Sở VHTT là căn cứ để cơ quan Hải quan làm thủ tục nhập khẩu văn hóa phẩm.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: - OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Cấp ngay Giấy biên nhận thông báo nhập khẩu văn hóa phẩm cho người nộp hồ sơ.
+- Trường hợp phát hiện văn hóa phẩm cấm nhập khẩu, trong thời hạn 02 ngày làm việc, kể từ ngày cấp Giấy biên nhận, Sở VHTTDL/Sở VHTT gửi cho cơ quan Hải quan và cá nhân, tổ chức Thông báo dừng nhập khẩu văn hóa phẩm.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: - OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Cấp ngay Giấy biên nhận thông báo nhập khẩu văn hóa phẩm cho người nộp hồ sơ.
+- Trường hợp phát hiện văn hóa phẩm cấm nhập khẩu, trong thời hạn 02 ngày làm việc, kể từ ngày cấp Giấy biên nhận, Sở VHTTDL/Sở VHTT gửi cho cơ quan Hải quan và cá nhân, tổ chức Thông báo dừng nhập khẩu văn hóa phẩm.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: - OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Cấp ngay Giấy biên nhận thông báo nhập khẩu văn hóa phẩm cho người nộp hồ sơ.
+- Trường hợp phát hiện văn hóa phẩm cấm nhập khẩu, trong thời hạn 02 ngày làm việc, kể từ ngày cấp Giấy biên nhận, Sở VHTTDL/Sở VHTT gửi cho cơ quan Hải quan và cá nhân, tổ chức Thông báo dừng nhập khẩu văn hóa phẩm.
+
+Thành phần hồ sơ:
+    - (2) 01 ảnh chụp mặt trước, chính giữa văn hóa phẩm; đối với tác phẩm điêu khắc bổ sung 01 ảnh chụp từng mặt: bên trái, bên phải và phía sau tác phẩm, có chú thích, kích thước ảnh nhỏ nhất 13 x 18 cm, được in trên giấy hoặc ghi vào thiết bị lưu trữ di động (đối với trường hợp nộp trực tiếp hoặc nộp qua bưu chính) hoặc ảnh định dạng số (đối với trường hợp nộp qua môi trường điện tử, nộp qua Cổng thông tin một cửa quốc gia). Bản dịch công chứng chi tiết nội dung đối với bản ghi âm, ghi hình có sử dụng tiếng nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (1) Thông báo nhập khẩu văn hóa phẩm theo Phụ lục III kèm theo Nghị định 31/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (3) Bản sao vận đơn hoặc giấy báo nhận hàng (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo dừng nhập khẩu văn hóa phẩm, Giấy biên nhận thông báo nhập khẩu văn hóa phẩm
+Căn cứ pháp lý:
+  * Nghị định 32/2012/NĐ-CP (32/2012/NĐ-CP)
+  * Nghị quyết số 18/2026/NQ-CP ngày 29/4/2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, cắt giảm điều kiện đầu tư kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (18/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

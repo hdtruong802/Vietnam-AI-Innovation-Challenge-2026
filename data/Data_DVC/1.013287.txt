@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013287
+Số quyết định: 2618/QĐ-UBND
+Tên thủ tục: Hỗ trợ chi phí thuê nhân lực tại các doanh nghiệp là đối tác chiến lược trong lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo trên địa bàn thành phố Đà Nẵng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công nghiệp công nghệ số, công nghệ thông tin, điện tử
+Trình tự thực hiện:
+    1. Doanh nghiệp nộp hồ sơ về Sở Khoa học và Công nghệ.
+    2. Sau khi tiếp nhận đầy đủ hồ sơ hợp lệ, Sở Khoa học và Công nghệ thành lập Hội đồng thẩm định để tiến hành thẩm định hồ sơ.
+    3. Hội đồng thẩm định tổ chức thẩm định và báo cáo kết quả thẩm định gửi Sở Khoa học và Công nghệ.
+    4. Sở Khoa học và Công nghệ báo cáo UBND thành phố quyết định hỗ trợ.
+    5. UBND thành phố ra quyết định hỗ trợ.
+    6. Sở Khoa học và Công nghệ trả kết quả cho doanh nghiệp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đơn đề nghị hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản công nhận/chứng nhận là đối tác chiến lược trong lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo của cấp có thẩm quyền (Trường hợp Sở Khoa học và Công nghệ tra cứu, khai thác được thông tin từ Cơ sở dữ liệu đã có, tổ chức, doanh nghiệp không phải nộp thành phần hồ sơ này)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hợp đồng ký kết giữa nhân lực với đối tác chiến lược
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ chứng minh nhân lực đạt điều kiện tại điểm b, Khoản 1, Điều 5 Quy định ban hành kèm theo Nghị quyết số 21/2026/NQ-HĐND
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Sao kê tài khoản ngân hàng
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: UBND Thành phố Đà Nẵng, Sở Khoa học và Công nghệ TP.Đà Nẵng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công thành phố Đà Nẵng
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hành chính
+Căn cứ pháp lý:
+  * Quy định chính sách phát triển nguồn nhân lực lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo trên địa bàn thành phố Đà Nẵng (21/2026/NQ-HĐND (thành phố Đà Nẵng))
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

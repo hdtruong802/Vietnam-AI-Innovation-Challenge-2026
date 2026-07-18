@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009526
+Số quyết định: 3169/QĐ-BTC
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+  * Nộp hồ sơ
+    + Bước 1: Công ty chứng khoán, ngân hàng thương mại, chi nhánh ngân hàng nước ngoài nộp hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh.
+    + Bước 2: UBCKNN (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, UBCKNN hướng dẫn bổ sung danh mục hồ sơ theo quy định.
+    + Bước 3: Ủy ban Chứng khoán Nhà nước tiếp nhận và kiểm tra hồ sơ. Trường hợp hồ sơ chưa đầy đủ, hợp lệ hoặc chưa rõ ràng, Ủy ban Chứng khoán Nhà nước có văn bản yêu cầu ngân hàng thương mại, chi nhánh ngân hàng nước ngoài bổ sung hoặc giải trình.
+    + Bước 4: Trong thời hạn 15 (mười lăm) ngày kể từ khi nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban Chứng khoán Nhà nước cấp Giấy chứng nhận cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Trường hợp từ chối, UBCKNN trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Quy trình kiểm soát nội bộ, quy trình quản trị rủi ro cho hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh. Tài liệu thành phần hồ sơ được miễn trừ trong trường hợp tài liệu đó đã được gửi tới Ủy ban Chứng khoán Nhà nước theo quy định về báo cáo và công bố thông tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Quyết định của Đại hội đồng cổ đông hoặc Hội đồng thành viên hoặc chủ sở hữu công ty về việc thực hiện hoạt động cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán; Thành phần hồ sơ trong thủ tục hành chính này được miễn trừ trong trường hợp tài liệu đó đã được gửi tới Ủy ban Chứng khoán Nhà nước theo quy định về báo cáo và công bố thông tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo tỷ lệ an toàn tài chính trong 12 tháng gần nhất (đối với công ty chứng khoán) hoặc tài liệu chứng minh đáp ứng yêu cầu về tỷ lệ an toàn vốn tối thiểu (đối với ngân hàng thương mại, chi nhánh ngân hàng nước ngoài)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Báo cáo tài chính của 02 năm tài chính gần nhất được kiểm toán và báo cáo tài chính bán niên gần nhất được soát xét (trường hợp đề nghị cấp Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh sau ngày 30 tháng 6)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Văn bản từ chối (nêu rõ lý do)., Giấy chứng nhận đủ điều kiện cung cấp dịch vụ bù trừ, thanh toán giao dịch chứng khoán phái sinh
+Căn cứ pháp lý:
+  * Nghị định 158/2020/NĐ-CP (158/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

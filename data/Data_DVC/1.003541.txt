@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003541
+Số quyết định: 1204/QĐ-BGTVT
+Tên thủ tục: Thủ tục đăng ký quyền sở hữu tàu bay
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * Nộp hồ sơ thủ tục hành chính:
+    Chủ sở hữu tàu bay đề nghị đăng ký quyền sở hữu tàu bay gửi hồ sơ đến Cục Hàng không Việt Namvà phải chịu trách nhiệm về tính chính xác, trung thực của các thông tin ghi trong hồ sơ.
+  * Giải quyết thủ tục hành chính:
+    Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Namthực hiện việc cấp Giấy chứng nhận đăng ký quyền sở hữu tàu bay theo Mẫu số 07 quy định tại Phụ lục ban hành kèm theo Nghị định số 68/2015/NĐ-CP ngày 18/08/2015; trường hợp không cấp, Cục Hàng không Việt Namphải trả lời người đề nghị bằng văn bản và nêu rõ lý do.
+    Trường hợp hồ sơ chưa đầy đủ, trong thời hạn 01 ngày làm việc, kể từ ngày nhận hồ sơ, Cục Hàng không Việt Namcó văn bản hướng dẫn người đề nghị đăng ký hoàn chỉnh hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 1500000 VNĐ (đồng/lần (Lệ phí đăng ký quyền sở hữu tàu bay) (Miễn kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư 40/2026/TT-BTC)
+    Mô tả: - Nộp hồ sơ trực tiếp; hoặc - Qua dịch vụ bưu chính; hoặc - Hình thức phù hợp khác. 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 1500000 VNĐ (đồng/lần (Lệ phí đăng ký quyền sở hữu tàu bay) (Miễn kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư 40/2026/TT-BTC)
+    Mô tả: - Nộp hồ sơ trực tiếp; hoặc - Qua dịch vụ bưu chính; hoặc - Hình thức phù hợp khác. 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 1500000 VNĐ (đồng/lần (Lệ phí đăng ký quyền sở hữu tàu bay) (Miễn kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư 40/2026/TT-BTC)
+    Mô tả: - Nộp hồ sơ trực tiếp; hoặc - Qua dịch vụ bưu chính; hoặc - Hình thức phù hợp khác. 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định
+
+Thành phần hồ sơ:
+    - - Bản sao từ sổ gốc hoặc bản sao có chứng thực hoặc bản sao chụp từ bản chính hoặc bản sao xuất trình bản chính để đối chiếu hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính giấy tờ, tài liệu chứng minh tư cách pháp lý của người đề nghị đăng ký trong trường hợp người đề nghị là tổ chức, cá nhân Việt Nam. 	Trường hợp giấy tờ, tài liệu chứng minh tư cách pháp lý của người đề nghị đăng ký do cơ quan nước ngoài có thẩm quyền cấp thì các giấy tờ, tài liệu này phải được hợp pháp hóa lãnh sự theo quy định của pháp luật, trừ trường hợp được miễn hợp pháp hóa lãnh sự theo Điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo nguyên tắc có đi có lạic) Bản sao có chứng thực (hoặc bản sao kèm bản gốc để đối chiếu) giấy tờ hợp pháp chứng minh về sở hữu tàu bay;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao kèm bản chính để đối chiếu hoặc bản sao do chính cơ quan, tổ chức hoặc cá nhân đã lập bản chính xác thực hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính giấy tờ hợp pháp chứng minh về sở hữu tàu bay; trường hợp chuyển quyền sở hữu tàu bay phải có thêm giấy tờ chứng minh quyền sở hữu của chủ sở hữu cũ
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tờ khai theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Giấy chứng nhận đăng ký quyền sở hữu tàu bay
+Căn cứ pháp lý:
+  * Quy định đăng ký quốc tịch và đăng ký các quyền đối với tàu bay (68/2015/NĐ-CP)
+  * Nghị định 64/2022/NĐ-CP (64/2022/NĐ-CP)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.008526
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Khai cổ tức, lợi nhuận được chia cho phần vốn nhà nước tại công ty cổ phần, công ty trách nhiệm hữu hạn hai thành viên trở lên
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1: Người nộp thuế chuẩn bị số liệu, lập hồ sơ và gửi đến cơ quan thuế, chậm nhất là ngày thứ 10 (mười) kể từ ngày phát sinh nghĩa vụ nộp cổ tức, lợi nhuận (ngày được nhận cổ tức, lợi nhuận) được chia cho phần vốn nhà nước tại công ty cổ phần, công ty trách nhiệm hữu hạn hai thành viên trở.
+    + Bước 2 : Cơ quan thuế thực hiện tiếp nhận:
+    ++ Cơ quan quản lý thuế tiếp nhận hồ sơ khai thuế, thông báo về việc tiếp nhận hồ sơ khai thuế; trường hợp hồ sơ không hợp pháp, không đầy đủ, không đúng mẫu quy định thì thông báo cho người nộp thuế trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ.
+    ++ Trường hợp tiếp nhận hồ sơ khai thuế điện tử, cơ quan thuế thực hiện tiếp nhận, kiểm tra, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế:
+    +++ Cổng thông tin điện tử của Tổng cục Thuế gửi thông báo tiếp nhận việc người nộp thuế đã nộp hồ sơ hoặc thông báo lý do không tiếp nhận hồ sơ cho người nộp thuế qua Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ (Cổng dịch vụ công quốc gia đối với các thủ tục hành chính đã toàn trình và được tích hợp, kết nối với Cổng dịch vụ công của Bộ Tài chính theo quy định về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính/các Hệ thống thông tin điện tử, hệ thống thông tin giải quyết thủ tục hành chính của Cục Thuế, Cổng thông tin của tổ chức cung cấp dịch vụ T-VAN theo quy định) chậm nhất 15 phút kể từ khi nhận được hồ sơ khai thuế điện tử của người nộp thuế.
+    +++ Cơ quan thuế thực hiện kiểm tra, giải quyết hồ sơ khai thuế của người nộp thuế theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành, gửi thông báo chấp nhận/không chấp nhận hồ sơ đến Cổng thông tin điện tử mà người nộp thuế lựa chọn lập và gửi hồ sơ chậm nhất 01 ngày làm việc kể từ ngày ghi trên thông báo tiếp nhận nộp hồ sơ khai thuế điện tử.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tờ khai cổ tức được chia cho phần vốn nhà nước tại công ty cổ phần, công ty trách nhiệm hữu hạn 2 thành viên trở lên có vốn nhà nước ban hành kèm theo Phụ lục 1 Danh mục hồ sơ khai thuế Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế và Thông tư số 80/2021/TT-BTC ngày 29/9/2021 của Bộ Tài chính hướng dẫn thi hành một số điều của Luật Quản lý thuế và Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế mẫu số 01/CTLNDC.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Chi cục Thuế doanh nghiệp lớn - Cục Thuế
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hồ sơ gửi đến cơ quan thuế không có kết quả giải quyết
+Căn cứ pháp lý:
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Luật số 69/2014/QH13 của Quốc hội: LUẬT QUẢN LÝ, SỬ DỤNG VỐN NHÀ NƯỚC ĐẦU TƯ VÀO SẢN XUẤT, KINH DOANH TẠI DOANH NGHIỆP (69/2014/QH13)
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Thông tư 80/2021/TT-BTC (80/2021/TT-BTC)
+  * Nghị định 91/2015/NĐ-CP (91/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

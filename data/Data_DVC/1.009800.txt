@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009800
+Số quyết định: 936/QĐ-BTC
+Tên thủ tục: Thông báo tỷ lệ sở hữu nước ngoài tối đa, thông báo thay đổi tỷ lệ sở hữu nước ngoài tối đa tại công ty đại chúng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+    + Bước 1: Công ty đại chúng nộp hồ sơ thông báo tỷ lệ sở hữu nước ngoài tối đa, hồ sơ thông báo thay đổi tỷ lệ sở hữu nước ngoài tối đa tại công ty đại chúng.
+    + Bước 2: Ủy ban Chứng khoán Nhà nước (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, Ủy ban Chứng khoán Nhà nước hướng dẫn bổ sung danh mục hồ sơ theo quy định.
+    + Bước 3: Ủy ban Chứng khoán Nhà nước tiếp nhận và kiểm tra hồ sơ. Trường hợp hồ sơ chưa hợp lệ, trong thời hạn 07 ngày làm việc Ủy ban Chứng khoán Nhà nước có văn bản gửi công ty đại chúng nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    + Bước 4: Trong thời hạn 07 ngày làm việc kể từ khi nhận được hồ sơ hợp lệ, Ủy ban Chứng khoán Nhà nước có văn bản thông báo về việc nhận đầy đủ hồ sơ thông báo tỷ lệ sở hữu nước ngoài tối đa hoặc hồ sơ thông báo thay đổi tỷ lệ sở hữu nước ngoài tối đa tại công ty đại chúng; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Thành phần hồ sơ: ]
+    - + Giấy thông báo tỷ lệ sở hữu nước ngoài tối đa tại công ty đại chúng hoặc Giấy thông báo thay đổi tỷ lệ sở hữu nước ngoài tối đa tại công ty đại chúng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + 1 Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy phép thành lập và hoạt động hoặc Giấy xác nhận thay đổi nội dung đăng ký doanh nghiệp (trong đó có nội dung về ngành nghề đăng ký kinh doanh) hoặc tài liệu của cơ quan nhà nước có thẩm quyền xác nhận ngành nghề đăng ký kinh doanh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Trường hợp công ty đại chúng là doanh nghiệp cổ phần hóa theo quy định tại khoản 2 Điều 139 Nghị định số 155/2020/NĐ-CP được sửa đổi, bổ sung theo Nghị định số 245/2025/NĐ-CP thì bổ sung văn bản của cấp có thẩm quyền phê duyệt đề án cổ phần hóa, trong đó có nội dung về tỷ lệ sở hữu nước ngoài tối đa của công ty (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Nghị quyết Đại hội đồng cổ đông đối với trường hợp công ty đại chúng thuộc trường hợp quy định tại điểm b khoản 4 Điều 3 Nghị định số 245/2025/NĐ-CP. Công ty đại chúng không phải nộp tài liệu theo quy định tại các điểm b, c khoản 1, điểm b khoản 2 Điều 142 Nghị định số 155/2020/NĐ-CP được sửa đổi, bổ sung theo Nghị định số 245/2025/NĐ-CP trong trường hợp các tài liệu này đã được công bố trên Hệ thống công bố thông tin của Ủy ban Chứng khoán Nhà nước hoặc thông tin về ngành nghề đăng ký kinh doanh của công ty đại chúng đã được đăng tải trên Cổng thông tin quốc gia về đăng ký doanh nghiệp Trong trường hợp khai thác được Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy phép thành lập và hoạt động hoặc Giấy xác nhận thay đổi nội dung đăng ký doanh nghiệp trên cơ sở dữ liệu quốc gia về doanh nghiệp thì không yêu cầu tổ chức, cá nhân, doanh nghiệp nộp bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy phép thành lập và hoạt động hoặc Giấy xác nhận thay đổi nội dung đăng ký doanh nghiệp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Văn bản từ chối (nêu rõ lý do)., Văn bản thông báo về việc nhận đầy đủ hồ sơ thông báo tỷ lệ sở hữu nước ngoài tối đa hoặc hồ sơ thông báo thay đổi tỷ lệ sở hữu nước ngoài tối đa tại công ty đại chúng.
+Căn cứ pháp lý:
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Nghị định 155/2020/NĐ-CP (155/2020/NĐ-CP)
+  * Luật 54/2019/QH14 (54/2019/QH14)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

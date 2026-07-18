@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014352
+Số quyết định: 1091/QĐ-BNV
+Tên thủ tục: Thủ tục tuyển chọn chuyên gia
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Lao động
+Trình tự thực hiện:
+    Bước 1: Công bố nhu cầu tuyển chọn chuyên gia
+    Cơ quan, tổ chức, đơn vị được giao chủ trì thực hiện chương trình, nhiệm vụ, dự án khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số công bố nhu cầu tuyển chọn chuyên gia, bao gồm: vị trí chuyên gia, yêu cầu nhiệm vụ, tiêu chí, thời hạn tiếp nhận hồ sơ.
+    Bước 2:  Đề cử, ứng cử và tiếp nhận hồ sơ
+    - Các cơ quan, tổ chức, đơn vị có nhu cầu tuyển chọn chuyên gia chủ động tìm kiếm, phát hiện ứng viên;
+    - Cá nhân tự ứng cử;
+    - Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài và cộng đồng người Việt Nam định cư ở nước ngoài đề cử ứng viên;
+    - Các cơ quan, tổ chức, chuyên gia trong và ngoài nước đề cử ứng viên.
+    Bước 3:  Kiểm tra tính hợp lệ của hồ sơ
+    Cơ quan, tổ chức, đơn vị có nhu cầu tuyển chọn chuyên gia kiểm tra tính hợp lệ của hồ sơ quy định tại khoản 3 Điều 4 Nghị định số 249/2025/NĐ-CP. Trường hợp ứng viên đáp ứng tiêu chí quy định tại Điều 3 Nghị định số 249/2025/NĐ-CP thì có thư mời ứng viên đến ký hợp đồng lao động; trường hợp cần thiết thì phỏng vấn trước khi ký hợp đồng lao động.
+    Bước 4: Phỏng vấn (nếu cần thiết)
+    Bước 5: Ký kết hợp đồng lao động
+    Hợp đồng lao động có thời hạn đối với chuyên gia phải ghi rõ nội dung nhiệm vụ; thời hạn làm việc; cơ chế làm việc; quyền và nghĩa vụ; trách nhiệm; chế độ, chính sách; chấm dứt hợp đồng; cơ chế giải quyết tranh chấp (nếu có) và các nội dung khác có liên quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không quy định)
+
+Thành phần hồ sơ:
+    - - Dự thảo kế hoạch, đề án triển khai chương trình, nhiệm vụ, dự án khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số theo yêu cầu của vị trí chuyên gia.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Văn bản đề cử hoặc tự ứng cử;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Lý lịch khoa học (trong đó nêu rõ năng lực chuyên môn, kinh nghiệm, thành tích nổi bật) của ứng viên;
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hợp đồng lao động.
+Căn cứ pháp lý:
+  * Luật Tổ chức Chính phủ 2025 (63/2025/QH15)
+  * Luật số 93/2025/QH15 của Quốc hội: Luật Khoa học, công nghệ và đổi mới sáng tạo (93/2025/QH15)
+  * Luật Cán bộ, Công chức (80/2025/QH15)
+  * Luật sửa đổi, bổ sung một số điều của Luật Cán bộ, công chức và Luật Viên chức ngày 25 tháng 11 năm 2019 của Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam (52/2019/QH14)
+  * Quy định cơ chế, chính sách thu hút chuyên gia khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số (249/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Đáp ứng tiêu chí tuyển chọn chuyên gia quy định tại khoản 2 và khoản 3 Điều 3 Nghị định số 249/2025/NĐ-CP, cụ thể:
+“2. Tiêu chí chung:
+a) Chủ trì hoặc tham gia thực hiện nhiệm vụ khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số, ưu tiên các ngành công nghệ chiến lược trong danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược do cấp có thẩm quyền ban hành, có đóng góp thiết thực cho sự phát triển của quốc gia, khu vực và quốc tế;
+b) Có lý lịch rõ ràng, có đạo đức tốt;
+c) Có mong muốn cống hiến cho sự phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số của Việt Nam.
+3. Đồng thời đáp ứng một trong các tiêu chí cụ thể sau đây:
+a) Là tác giả hoặc đồng tác giả sáng chế được cấp văn bằng bảo hộ quyền sở hữu trí tuệ đã được ứng dụng, chuyển giao tạo ra sản phẩm có giá trị thực tiễn; hoặc có chuyên môn sâu, giàu kinh nghiệm trong ngành, lĩnh vực phù hợp với nhiệm vụ thực hiện tại Việt Nam và đang công tác tại bộ phận nghiên cứu của viện nghiên cứu, trường đại học hoặc doanh nghiệp uy tín ở nước ngoài;
+b) Là tác giả hoặc đồng tác giả công trình nghiên cứu khoa học và công nghệ xuất sắc, đã đạt giải thưởng quốc tế hoặc đã được ứng dụng rộng rãi mang lại hiệu quả thiết thực và phù hợp với chương trình, nhiệm vụ, dự án khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số dự kiến tham gia;
+c) Có bằng tiến sĩ từ các trường đại học trong nhóm 200 đại học hàng đầu thế giới theo các bảng xếp hạng quốc tế uy tín và có thời gian tối thiểu 05 năm giảng dạy, nghiên cứu khoa học, phát triển công nghệ tại cơ sở nghiên cứu, đào tạo có uy tín ở nước ngoài thuộc chuyên ngành phù hợp với chương trình, nhiệm vụ, dự án khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số dự kiến tham gia;
+d) Có bằng tiến sĩ và đã có ít nhất 05 năm làm việc tại vị trí nghiên cứu khoa học trong chương trình, dự án hợp tác quốc tế về khoa học, công nghệ hoặc trong bộ phận nghiên cứu của doanh nghiệp có uy tín ở nước ngoài;
+đ) Có tối thiểu 10 bài báo quốc tế đăng trên các tạp chí danh tiếng hoặc là thành viên hội đồng khoa học của các tạp chí uy tín hoặc tham gia hướng dẫn thành công ít nhất 02 nghiên cứu sinh tiến sĩ;
+e) Trường hợp ứng viên không đáp ứng tiêu chí quy định tại các điểm a, b, c, d và đ khoản này thì cơ quan, tổ chức, đơn vị có nhu cầu tuyển chọn chuyên gia quyết định việc tuyển chọn chuyên gia triển khai thực hiện chương trình, nhiệm vụ, dự án khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số và chịu trách nhiệm về quyết định đó.”.
+Từ khóa: Không có thông tin
+Mô tả: Đáp ứng tiêu chí tuyển chọn chuyên gia quy định tại khoản 2 và khoản 3 Điều 3 Nghị định số 249/2025/NĐ-CP, cụ thể:
+“2. Tiêu chí chung:
+a) Chủ trì hoặc tham gia thực hiện nhiệm vụ khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số, ưu tiên các ngành công nghệ chiến lược trong danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược do cấp có thẩm quyền ban hành, có đóng góp thiết thực cho sự phát triển của quốc gia, khu vực và quốc tế;
+b) Có lý lịch rõ ràng, có đạo đức tốt;
+c) Có mong muốn cống hiến cho sự phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số của Việt Nam.
+3. Đồng thời đáp ứng một trong các tiêu chí cụ thể sau đây:
+a) Là tác giả hoặc đồng tác giả sáng chế được cấp văn bằng bảo hộ quyền sở hữu trí tuệ đã được ứng dụng, chuyển giao tạo ra sản phẩm có giá trị thực tiễn; hoặc có chuyên môn sâu, giàu kinh nghiệm trong ngành, lĩnh vực phù hợp với nhiệm vụ thực hiện tại Việt Nam và đang công tác tại bộ phận nghiên cứu của viện nghiên cứu, trường đại học hoặc doanh nghiệp uy tín ở nước ngoài;
+b) Là tác giả hoặc đồng tác giả công trình nghiên cứu khoa học và công nghệ xuất sắc, đã đạt giải thưởng quốc tế hoặc đã được ứng dụng rộng rãi mang lại hiệu quả thiết thực và phù hợp với chương trình, nhiệm vụ, dự án khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số dự kiến tham gia;
+c) Có bằng tiến sĩ từ các trường đại học trong nhóm 200 đại học hàng đầu thế giới theo các bảng xếp hạng quốc tế uy tín và có thời gian tối thiểu 05 năm giảng dạy, nghiên cứu khoa học, phát triển công nghệ tại cơ sở nghiên cứu, đào tạo có uy tín ở nước ngoài thuộc chuyên ngành phù hợp với chương trình, nhiệm vụ, dự án khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số dự kiến tham gia;
+d) Có bằng tiến sĩ và đã có ít nhất 05 năm làm việc tại vị trí nghiên cứu khoa học trong chương trình, dự án hợp tác quốc tế về khoa học, công nghệ hoặc trong bộ phận nghiên cứu của doanh nghiệp có uy tín ở nước ngoài;
+đ) Có tối thiểu 10 bài báo quốc tế đăng trên các tạp chí danh tiếng hoặc là thành viên hội đồng khoa học của các tạp chí uy tín hoặc tham gia hướng dẫn thành công ít nhất 02 nghiên cứu sinh tiến sĩ;
+e) Trường hợp ứng viên không đáp ứng tiêu chí quy định tại các điểm a, b, c, d và đ khoản này thì cơ quan, tổ chức, đơn vị có nhu cầu tuyển chọn chuyên gia quyết định việc tuyển chọn chuyên gia triển khai thực hiện chương trình, nhiệm vụ, dự án khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số và chịu trách nhiệm về quyết định đó.”.

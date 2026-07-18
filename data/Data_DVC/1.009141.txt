@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009141
+Số quyết định: 2298/QĐ-UBND
+Tên thủ tục: Cấp mới/cấp lại Giấy chứng nhận số nhà 
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động xây dựng
+Trình tự thực hiện:
+    Bước 1: Cá nhân nộp hồ sơ tại Trung tâm phục vụ hành chính công cấp xã.
+    Bước 2:  Trung tâm phục vụ hành chính công cấp xã kiểm tra tính hợp lệ và đầy đủ của các giấy tờ có trong hồ sơ và chuyển cho Phòng Kinh tế hoặc Phòng Kinh tế, Hạ tầng và Đô thị thuộc UBND cấp xã.
+    Bước 3: Công chức chuyên môn kiểm tra, xử lý hồ sơ, trình lãnh đạo UBND cấp xã phê duyệt Giấy chứng nhận số nhà và chuyển cho Trung tâm phục vụ hành chính công cấp xã trả cho công dân, tổ chức.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp giấy chứng nhận số nhà
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công thành phố/ Trung tâm Phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận biển số nhà.
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng liên quan đến sắp xếp tổ chức bộ máy, thực hiện chính quyền địa phương hai cấp và phân cấp cho chính quyền địa phương. (09/2025/TT-BXD)
+  * Về việc công bố danh mục thủ tục hành chính và thủ tục  hành chính thuộc phạm vi chức năng quản lý nhà nước của  Sở Xây dựng thành phố Đà Nẵng (2298/QĐ-UBND)
+  * Quy định đánh số và gắn biển số nhà, công trình xây dựng do Bộ trưởng Bộ Xây dựng ban hành (08/2024/TT-BXD)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

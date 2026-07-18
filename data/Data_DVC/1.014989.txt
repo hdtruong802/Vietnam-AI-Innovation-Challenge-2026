@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014989
+Số quyết định: 2580
+Tên thủ tục: Thủ tục sửa đổi, bổ sung Giấy chứng nhận đủ điều kiện hoạt động dịch vụ đánh giá công nghệ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    a) Doanh nghiệp, tổ chức đăng ký hoạt động dịch vụ đánh giá công nghệ nộp hồ sơ trực tuyến trên Cổng dịch vụ công quốc gia, trực tiếp hoặc gửi qua dịch vụ bưu chính 01 bộ hồ sơ đề nghị cấp Giấy chứng nhận đủ điều kiện hoạt động dịch vụ đánh giá công nghệ đến Bộ phận một cửa của Ủy ban nhân dân cấp tỉnh nơi cấp đăng ký kinh doanh (đối với doanh nghiệp) hoặc Ủy ban nhân dân cấp tỉnh nơi đăng ký thành lập (đối với tổ chức);
+    b) Trường hợp hồ sơ không đầy đủ, không hợp lệ theo quy định, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh có trách nhiệm thông báo bằng văn bản đến tổ chức nộp hồ sơ;
+    c) Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ theo quy định, Ủy ban nhân dân cấp tỉnh có trách nhiệm cấp Giấy chứng nhận đủ điều kiện hoạt động dịch vụ đánh giá công nghệ cho tổ chức; trường hợp từ chối cấp phải trả lời bằng văn bản, nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp trực tiếp tại Trung tâm Phục vụ hành chính công cấp tỉnh (Ủy ban nhân dân cấp tỉnh).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp trực tuyến tại Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn) hoặc ứng dụng định danh quốc gia.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp qua dịch vụ bưu chính tới Trung tâm Phục vụ hành chính công cấp tỉnh (Ủy ban nhân dân cấp tỉnh).
+
+Thành phần hồ sơ:
+    - Đơn đề nghị sửa đổi, bổ sung Giấy chứng nhận đủ điều kiện hoạt động dịch vụ đánh giá công nghệ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách sửa đổi, bổ sung các chuyên gia đánh giá công nghệ, trong đó gồm thông tin về: tên, năm sinh, trình độ, lĩnh vực đào tạo, số năm công tác trong lĩnh vực công nghệ cần đánh giá, kèm theo các tài liệu liên quan đối với mỗi chuyên gia đánh giá công nghệ gồm: Thỏa thuận hợp tác giữa chuyên gia với tổ chức; bản sao bằng cấp theo quy định tại khoản 2 Điều 56 của Nghị định này; tóm tắt quá trình công tác, kinh nghiệm hoạt động đánh giá công nghệ và tài liệu chứng minh kinh nghiệm hoạt động đánh giá công nghệ của chuyên gia. Danh sách chuyên gia đánh giá công nghệ bổ sung, sửa đổi của tổ chức và tóm tắt kinh nghiệm hoạt động đánh giá công nghệ của chuyên gia đánh giá công nghệ bổ sung, sửa đổi.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Giấy chứng nhận đủ điều kiện hoạt động dịch vụ đánh giá công nghệ
+Căn cứ pháp lý:
+  * Nghị định số 101/2026/NĐ-CP ngày 31 tháng 3 năm 2026 của Chính phủ quy định chi tiết một số điều và biện pháp để hướng dẫn thi hành Luật Chuyển giao công nghệ (101/2026/NĐ-CP)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29/4/2026 của Chính phủ ban hành Nghị quyết phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Thông tư số 09/2026/TT-BKHCN ngày 31 tháng 3 năm 2026 của Bộ trưởng Bộ Khoa học và Công nghệ quy định biểu mẫu phục vụ thẩm định công nghệ, đăng ký, cấp phép chuyển giao công nghệ, chứng nhận đủ điều kiện hoạt động dịch vụ đánh giá, giám định công nghệ và báo cáo tình hình thực hiện (09/2026/TT-BKHCN)
+
+Yêu cầu, điều kiện thực hiện: Trường hợp bổ sung lĩnh vực công nghệ đánh giá, phải có ít nhất 02 chuyên gia có trình độ đại học trở lên chuyên ngành đào tạo phù hợp với lĩnh vực công nghệ cần đánh giá, có kinh nghiệm làm việc từ 01 năm trở lên trong lĩnh vực công nghệ cần đánh giá.
+Từ khóa: Không có thông tin
+Mô tả: Trường hợp bổ sung lĩnh vực công nghệ đánh giá, phải có ít nhất 02 chuyên gia có trình độ đại học trở lên chuyên ngành đào tạo phù hợp với lĩnh vực công nghệ cần đánh giá, có kinh nghiệm làm việc từ 01 năm trở lên trong lĩnh vực công nghệ cần đánh giá.

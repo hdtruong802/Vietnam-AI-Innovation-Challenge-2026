@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013366
+Số quyết định: 364/QĐ-UBND
+Tên thủ tục: Chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Trước khi phê duyệt thiết kế nút giao đấu nối với đường địa phương đang khai thác, Chủ đầu tư dự án gửi hồ sơ đề nghị đến cơ quan có thẩm quyền:
+    - Sở Xây dựng chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác đối với đường tỉnh và các tuyến hoặc đoạn tuyến đường khác do Ủy ban nhân dân tỉnh giao quản lý;
+    - Ủy ban nhân dân cấp xã chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác đối với các tuyến đường thuộc phạm vi quản lý và các tuyến hoặc đoạn tuyến đường khác do Ủy ban nhân dân tỉnh giao quản lý.
+    b) Giải quyết TTHC:
+    - Đối với hồ sơ nộp trực tiếp, cơ quan có thẩm quyền thực hiện kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận và viết phiếu hẹn trả kết quả, nếu không đủ thì hướng dẫn chủ đầu tư hoàn thiện hồ sơ theo quy định;
+    - Đối với hồ sơ nộp gián tiếp, trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan có thẩm quyền kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận, nếu không đủ, có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;
+    - Trong thời hạn 05 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền tiến hành xem xét hồ sơ, nếu đủ điều kiện thì có văn bản chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác, trường hợp không chấp thuận thì phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh/cấp xã
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ gián tiếp qua cổng dịch vụ công trực tuyến
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ gián tiếp qua hệ thống bưu điện
+
+Thành phần hồ sơ:
+  Không có thông tin thành phần hồ sơ.
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Sở Xây dựng - Tỉnh Đắk Lắk
+Cơ quan có thẩm quyền: Sở Xây dựng - Tỉnh Đắk Lắk
+Địa chỉ tiếp nhận HS: Nộp hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công tỉnh/cấp xã hoặc gián tiếp (qua hệ thống bưu điện hoặc qua cổng dịch vụ công trực tuyến)
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác
+Căn cứ pháp lý:
+  * ban hành Quy định về quản lý đường đô thị, đường huyện, đường xã, đường thôn và kết nối giao thông đường địa phương trên địa bàn tỉnh Đắk Lắk. (10/2025/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: Không có yêu cầu điều kiện
+Từ khóa: Không có thông tin
+Mô tả: Không có yêu cầu điều kiện

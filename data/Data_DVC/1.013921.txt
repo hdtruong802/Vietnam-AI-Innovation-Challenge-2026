@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013921
+Số quyết định: 647/QĐ-BNV
+Tên thủ tục: Sử dụng tài liệu lưu trữ tại lưu trữ lịch sử của nhà nước
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Văn thư và Lưu trữ nhà nước
+Trình tự thực hiện:
+    - Bước 1: Độc giả có nhu cầu sử dụng tài liệu lưu trữ điền các thông tin vào Phiếu đăng ký sử dụng tài liệu và cung cấp các văn bản liên quan về mục đích sử dụng, đối tượng ưu tiên (nếu có).
+    - Bước 2: Người đứng đầu lưu trữ lịch sử của Nhà nước ở trung ương xem xét, phê duyệt Phiếu đăng ký sử dụng tài liệu lưu trữ của độc giả.
+    - Bước 3: Độc giả điền thông tin vào Phiếu yêu cầu đọc tài liệu lưu trữ hoặc Phiếu yêu cầu sao và xác thực tài liệu lưu trữ.
+    - Bước 4: Người đứng đầu lưu trữ lịch sử của Nhà nước ở trung ương xem xét, phê duyệt Phiếu yêu cầu đọc tài liệu lưu trữ hoặc Phiếu yêu cầu sao và xác thực tài liệu lưu trữ của độc giả.
+    Đối với tài liệu lưu trữ tiếp cận có điều kiện, người đứng đầu lưu trữ lịch sử của Nhà nước ở trung ương quyết định việc sử dụng tài liệu lưu trữ của độc giả sau khi có sự phê duyệt của cơ quan tham mưu quản lý nhà nước về lưu trữ.
+    - Bước 5: Độc giả nhận tài liệu theo Phiếu yêu cầu đã được phê duyệt.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Thời hạn cung cấp tài liệu chậm nhất là 01 ngày làm việc kể từ ngày tiếp nhận Phiếu yêu cầu đọc tài liệu lưu trữ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: chậm nhất là 02 ngày làm việc kể từ ngày tiếp nhận Phiếu yêu cầu sao và xác thực tài liệu lưu trữ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với tài liệu lưu trữ tiếp cận có điều kiện, thời hạn cung cấp tài liệu chậm nhất là 07 ngày làm việc kể từ ngày tiếp nhận Phiếu yêu cầu đọc tài liệu lưu trữ, Phiếu yêu cầu sao và xác thực tài liệu lưu trữ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thời hạn cung cấp tài liệu chậm nhất là 01 ngày làm việc kể từ ngày tiếp nhận Phiếu yêu cầu đọc tài liệu lưu trữ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: chậm nhất là 02 ngày làm việc kể từ ngày tiếp nhận Phiếu yêu cầu sao và xác thực tài liệu lưu trữ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với tài liệu lưu trữ tiếp cận có điều kiện, thời hạn cung cấp tài liệu chậm nhất là 07 ngày làm việc kể từ ngày tiếp nhận Phiếu yêu cầu đọc tài liệu lưu trữ, Phiếu yêu cầu sao và xác thực tài liệu lưu trữ.
+
+Thành phần hồ sơ:
+    - - Phiếu yêu cầu đọc tài liệu lưu trữ hoặc Phiếu yêu cầu sao và xác thực tài liệu lưu trữ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy giới thiệu hoặc văn bản đề nghị của cơ quan, tổ chức nơi công tác (trường hợp sử dụng vì mục đích công tác)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản liên quan về mục đích sử dụng, đối tượng ưu tiên (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Phiếu đăng ký sử dụng tài liệu lưu trữ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Các hồ sơ, văn bản, tài liệu được cung cấp.
+Căn cứ pháp lý:
+  * Luật Lưu trữ (33/2024/QH15)
+  * quy định chi tiết một số điều của Luật Lưu trữ (06/2025/TT-BNV)
+  * Quy định nghiệp vụ lữu trữ tài liệu lưu trữ số (05/2025/TT-BNV)
+  * Thông tư (275/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: - Độc giả đến sử dụng tài liệu tại lưu trữ lịch sử của Nhà nước ở trung ương phải xuất trình một trong các giấy tờ sau: thẻ căn cước, thẻ Căn cước công dân, Căn cước điện tử, hộ chiếu hoặc giấy tờ có dán ảnh do cơ quan nhà nước có thẩm quyền cấp; trường hợp sử dụng tài liệu để phục vụ công tác phải có giấy giới thiệu hoặc văn bản đề nghị của cơ quan, tổ chức nơi công tác.
+- Độc giả sử dụng tài liệu lưu trữ trực tuyến phải khai báo thông tin để lưu trữ lịch sử của Nhà nước ở trung ương cấp tài khoản độc giả, thông tin khai báo gồm: họ và tên, số định danh cá nhân/số thẻ Căn cước công dân hoặc số hộ chiếu, thư điện tử, cơ quan công tác, số điện thoại liên hệ, đối tượng ưu tiên (nếu có).
+Từ khóa: Không có thông tin
+Mô tả: - Độc giả đến sử dụng tài liệu tại lưu trữ lịch sử của Nhà nước ở trung ương phải xuất trình một trong các giấy tờ sau: thẻ căn cước, thẻ Căn cước công dân, Căn cước điện tử, hộ chiếu hoặc giấy tờ có dán ảnh do cơ quan nhà nước có thẩm quyền cấp; trường hợp sử dụng tài liệu để phục vụ công tác phải có giấy giới thiệu hoặc văn bản đề nghị của cơ quan, tổ chức nơi công tác.
+- Độc giả sử dụng tài liệu lưu trữ trực tuyến phải khai báo thông tin để lưu trữ lịch sử của Nhà nước ở trung ương cấp tài khoản độc giả, thông tin khai báo gồm: họ và tên, số định danh cá nhân/số thẻ Căn cước công dân hoặc số hộ chiếu, thư điện tử, cơ quan công tác, số điện thoại liên hệ, đối tượng ưu tiên (nếu có).

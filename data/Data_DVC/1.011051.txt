@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011051
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Đề nghị chuyển số lượng tem còn tồn khi sáp nhập, chia, tách/chuyển cơ quan thuế quản lý tem điện tử thuốc lá hoặc tem điện tử rượu sản xuất để tiêu thụ trong nước
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1: Tổ chức, cá nhân chia, tách, sáp nhập hoặc chuyển cơ quan thuế quản lý có nhu cầu tiếp tục sử dụng số tem còn tồn, truy cập vào Cổng thông tin điện tử mà người nộp thuế lựa chọn (Hệ thống thông tin giải quyết các thủ tục hành chính ngành Thuế/Cổng Dịch vụ công quốc gia) để đăng ký điều chỉnh số tem còn tồn tại tổ chức, cá nhân chia, tách, sáp nhập sang tên, Mã số thuế của Tổ chức, cá nhân sau chia, tách, sáp nhập theo Mẫu số 06/TEM, Phụ lục 3 ban hành kèm theo Thông tư số 23/2021/TT-BTC ngày 30/03/2021 của Bộ Tài chính hướng dẫn việc in, phát hành, quản lý và sử dụng tem điện tử rượu và tem điện tử thuốc lá.
+    + Bước 2. Cơ quan thuế tiếp nhận hồ sơ của người nộp thuế:
+    Cơ quan thuế thực hiện tiếp nhận, kiểm tra, chấp nhận, giải quyết hồ sơ (và trả kết quả, nếu có kết quả) trong vòng 01 ngày làm việc thông qua Cổng thông tin điện tử mà người nộp thuế lựa chọn để lập và gửi hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Mẫu số 06/TEM ban hành kèm theo Thông tư số 23/2021/TT-BTC
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức, Tổ chức Đảng, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Đảng viên
+Cơ quan thực hiện: Thuế tỉnh, thành phố, Thuế cơ sở
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo chấp nhận/không chấp nhận hồ sơ đăng ký, sử dụng tem điện tử (Mẫu số 02/TB/TEM), Thông báo bổ sung hồ sơ của cơ quan thuế trong trường hợp không được chấp thuận
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số điều của Thông tư số 23/2021/TT-BTC ngày 30 tháng 3 năm 2021 của Bộ trưởng Bộ Tài chính hướng dẫn việc in, phát hành, quản lý và sử dụng tem điện tử rượu và tem điện tử thuốc lá (31/2025/TT-BTC)
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống tác hại của thuốc lá về kinh doanh thuốc lá (67/2013/NĐ-CP)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Thông tư 23/2021/TT-BTC (23/2021/TT-BTC)
+  * Luật 67/2006/QH11 (67/2006/QH11)
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Luật 51/2005/QH11 (51/2005/QH11)
+  * Nghị định 105/2017/NĐ-CP (105/2017/NĐ-CP)
+  * Nghị định 123/2020/NĐ-CP (123/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

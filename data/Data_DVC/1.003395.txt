@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003395
+Số quyết định: 5891/QĐ-BNNMT
+Tên thủ tục: Kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm có nguồn gốc thực vật xuất khẩu
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trồng trọt và Bảo vệ thực vật
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân nộp 01 bộ hồ sơ đề nghị kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm có nguồn gốc thực vật xuất khẩu đến Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính bằng hình thức trực tiếp hoặc môi trường mạng hoặc qua dịch vụ bưu chính.
+    Bước 2: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp; trả lời tính đầy đủ của hồ sơ trong 01 ngày làm việc đối với trường hợp nộp hồ sơ qua môi trường mạng hoặc qua dịch vụ bưu chính bằng văn bản;
+    Bước 3: Trong thời hạn 01 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan chuyên môn được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính phải kiểm tra hồ sơ lô hàng.
+    Bước 4: Trong thời hạn không quá 01 ngày làm việc, kể từ ngày nhận được hồ sơ trình của Cơ quan chuyên môn được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính, Chủ tịch Ủy ban nhân dân cấp tỉnh ban hành Thông báo kết quả kiểm tra thực phẩm có nguồn gốc thực vật xuất khẩu hoặc Giấy chứng nhận theo yêu cầu của nước nhập khẩu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Giấy đăng ký kiểm tra thực phẩm có nguồn gốc thực vật xuất khẩu (theo Mẫu số 39 Phụ lục I ban hành kèm theo Thông tư số 12/2025/TT-BNNMT)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tiếp nhận đăng ký bản công bố sản phẩm đối với sản phẩm quy định tại Điều 6 Nghị định số 15/2018/NĐ-CP trong lô hàng gồm nhiều mặt hàng thuộc thẩm quyền quản lý của từ hai bộ trở lên quy định tại khoản 2 Điều 23 Nghị định số 15/2018/NĐ-CP.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Một trong các giấy tờ sau (chỉ nộp khi đăng ký kiểm tra lần đầu):  Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm đối với cơ sở sản xuất kinh doanh thực phẩm thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm; Giấy chứng nhận Thực hành nông nghiệp tốt (GAP), Thực hành sản xuất tốt (GMP), Hệ thống phân tích mối nguy và điểm kiểm soát tới hạn (HACCP), Hệ thống quản lý an toàn thực phẩm (ISO 22000), Tiêu chuẩn thực phẩm quốc tế (IFS), Tiêu chuẩn toàn cầu về an toàn thực phẩm (BRC), Chứng nhận hệ thống an toàn thực phẩm (FSSC 22000) hoặc tương đương đối với cơ sở không thuộc diện cấp Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm quy định tại điểm k khoản 1 Điều 12 Nghị định số 15/2018/NĐ-CP ngày 02 tháng 02 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật An toàn thực phẩm (sau đây gọi là Nghị định số 15/2018/NĐ-CP); Bản cam kết sản xuất, kinh doanh thực phẩm nông lâm thủy sản an toàn đối với cơ sở quy định tại điểm a, b, c, d, đ khoản 1 Điều 12 Nghị định số 15/2018/NĐ-CP (theo Mẫu số 40 Phụ lục I ban hành kèm theo Thông tư số 12/2025/TT-BNNMT).
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: -Thông báo kết quả kiểm tra thực phẩm có nguồn gốc thực vật xuất khẩu, Hoặc theo yêu cầu của nước nhập khẩu
+Căn cứ pháp lý:
+  * Quy định chi tiết thi hành một số điều của Luật an toàn thực phẩm (15/2018/NĐ-CP)
+  * Luật An toàn thực phẩm (55/2010/QH12)
+  * Thông tư Quy định phân cấp, phân định thẩm quyền  quản lý nhà nước trong lĩnh vực trồng trọt và bảo vệ thực vật (12/2025/TT-BNNMT)
+  * quy định Kiểm tra nhà nước về an toàn thực phẩm đối với thực phẩm có nguồn gốc thực vật xuất khẩu (44/2018/TT-BNNPTNT)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 15/2023/TT-BNNPTNTngày 15 tháng 12 năm 2023 của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn bãi bỏ các thông tư do Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn ban hành và Thông tư số 12/2025/TT-BNNMT ngày 19 tháng 6 năm 2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường quy định phân cấp, phân định thẩm quyền quản lý nhà nước trong lĩnh vực trồng trọt  và bảo vệ thực vật (77/2025/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

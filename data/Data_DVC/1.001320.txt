@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001320
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục bổ sung nội dung cung cấp thông tin tờ khai hải quan điện tử
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Đầu mối đăng ký của bên sử dụng thông tin gửi 01 bản chính văn bản đến Tổng cục Hải quan theo Mẫu số 01 Phụ lục II Quy chế ban hành kèm theo Quyết định số 33/2016/QĐ-TTg  này để đề nghị bổ sung nội dung cung cấp thông tin tờ khai hải quan điện tử;
+    Trong thời hạn không quá 02 ngày làm việc kể từ khi nhận được văn bản đề nghị, Tổng cục Hải quan thực hiện việc bổ sung nội dung cung cấp thông tin tờ khai hải quan điện tử và thông báo kết quả cho đầu mối đăng ký của bên sử dụng thông tin bằng văn bản, trường hợp có các chỉ tiêu thông tin không được chấp nhận bổ sung thì phải nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Công văn đề nghị bổ sung nội dung cung cấp thông tin tờ khai hải quan điện tử theo Mẫu số 01 Phụ lục II Quy chế ban hành kèm theo Quyết định số 33/2016/QĐ-TTg
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền: Cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công văn thông báo kết quả cho đầu mối đăng ký của bên sử dụng thông tin
+Căn cứ pháp lý:
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Luật 51/2005/QH11 (51/2005/QH11)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quyết định 33/2016/QĐ-TTg - Ban hành Quy chế cung cấp, sử dụng thông tin tờ khai hải quan điện tử (33/2016/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

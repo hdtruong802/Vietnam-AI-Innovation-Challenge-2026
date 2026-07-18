@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009461
+Số quyết định: 123/QĐ-CHHĐTVN
+Tên thủ tục: Thông báo luồng đường thủy nội địa chuyên dùng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    Tổ chức, cá nhân có luồng chuyên dùng gửi đơn đề nghị công bố thông báo luồng đến cơ quan có thẩm quyền sau:
+    - Cục Hàng hải và Đường thủy Việt Nam: thông báo lần đầu luồng chuyên dùng nối với luồng quốc gia;
+    - Chi cục hàng hải và đường thủy: thông báo định kỳ, thường xuyên, và đột xuất luồng chuyên dùng nối với luồng quốc gia;
+    - Sở Xây dựng, Sở Giao thông công chánh TP Hồ Chí Minh: thông báo lần đầu, định kỳ, thường xuyên và đột xuất luồng chuyên dùng nối với luồng địa phương.
+  * b) Giải quyết TTHC:
+    Trong thời gian 03 ngày làm việc, kể từ ngày nhận được báo cáo của tổ chức, cá nhân có luồng chuyên dùng, cơ quan có trách nhiệm thông báo kiểm tra số liệu, thông báo luồng đường thủy nội địa.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị công bố thông báo luồng theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Xây dựng, Cục Hàng hải và Đường thủy Việt Nam, Sở Giao thông công chánh - TP.HCM, Chi cục Hàng hải và Đường thuỷ phía Bắc, Chi cục Hàng hải và Đường thuỷ phía Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo luồng đường thủy nội địa (thường xuyên hoặc đột xuất), Thông báo luồng đường thủy nội địa (lần đầu), Thông báo luồng đường thủy nội địa (định kỳ)
+Căn cứ pháp lý:
+  * Quy định về quản lý hoạt động đường thủy nội địa (08/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

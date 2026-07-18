@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115307
+Số quyết định: 645/QĐ-BNV
+Tên thủ tục: Điều chỉnh thông tin đăng ký lao động trong trường hợp thay đổi tình trạng từ người có việc làm sang người thất nghiệp
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Việc làm
+Trình tự thực hiện:
+    Bước 1. Người lao động truy cập vào Sàn giao dịch việc làm quốc gia
+    (https://www.vieclam.gov.vn) hoặc trên ứng dụng định danh điện tử VNeID,
+    chọn mục đăng ký, điều chỉnh thông tin đăng ký lao động và điền vào Tờ khai
+    điện tử quy định tại khoản 1 Điều 6 Nghị định số 318/2025/NĐ-CP.
+    Bước 2. Hệ thống đăng ký lao động tiếp nhận, xử lý và trả kết quả đăng ký
+    thành công ngay sau khi người lao động hoàn thành Tờ khai điện tử, nếu đăng
+    ký không thành công hệ thống phản hồi lý do.
+    Bước 3. Thông tin điều chỉnh thông tin đăng ký lao động của người lao
+    động được cập nhật, đồng bộ vào cơ sở dữ liệu về người lao động.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: trực tuyến qua Sàn giao dịch việc làm quốc gia
+(https://www.vieclam.gov.vn) hoặc trên ứng dụng định danh điện tử VNeID. ngay sau khi người lao động hoàn thành Tờ khai
+điện tử.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: trực tuyến qua Sàn giao dịch việc làm quốc gia
+(https://www.vieclam.gov.vn) hoặc trên ứng dụng định danh điện tử VNeID. ngay sau khi người lao động hoàn thành Tờ khai
+điện tử.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: trực tuyến qua Sàn giao dịch việc làm quốc gia
+(https://www.vieclam.gov.vn) hoặc trên ứng dụng định danh điện tử VNeID. ngay sau khi người lao động hoàn thành Tờ khai
+điện tử.
+
+Thành phần hồ sơ:
+    - Tờ khai điện tử đăng ký, điều chỉnh thông tin đăng ký lao động (tại phụ lục kèm theo Nghị định số 318/2025/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Bộ Nội vụ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Hệ thống đăng ký lao động trả kết quả đăng ký thành công ngay sau khi người lao động hoàn thành Tờ khai điện tử., - Nếu đăng ký không thành công hệ thống phản hồi lý do.
+Căn cứ pháp lý:
+  * Quy định chi tiết một số điều của Luật Việc làm về đăng ký lao động và hệ thống thông tin thị trường lao động (318/2025/NĐ-CP)
+  * Luật Việc làm (74/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: thay đổi tình trạng từ người có việc làm sang người thất nghiệp.
+- Thời gian thực hiện: Từ ngày 01/01/2027.
+Từ khóa: Không có thông tin
+Mô tả: thay đổi tình trạng từ người có việc làm sang người thất nghiệp.
+- Thời gian thực hiện: Từ ngày 01/01/2027.

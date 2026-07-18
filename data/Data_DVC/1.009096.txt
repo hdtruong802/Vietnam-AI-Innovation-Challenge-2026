@@ -1,0 +1,88 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009096
+Số quyết định: 2902/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với tàu biển  xuất cảnh, nhập cảnh, quá cảnh, chuyển cảng
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Bước 1: Người khai hải quan tạo lập thông tin và gửi lên Cổng thông tin một cửa quốc gia
+    - Bước 2: Cơ quan hải quan tiếp nhận, khai thác thông tin trên Cổng thông tin một cửa quốc gia hoặc thông tin từ hồ sơ giấy để làm thủ tục xuất cảnh, nhập cảnh, quá cảnh
+    + Trường hợp thông tin khai đầy đủ các chỉ tiêu theo quy định thì cơ quan Hải quan gửi thông báo chấp nhận nội dung khai hải quan thông qua Cổng thông tin một cửa quốc gia.
+    Trường hợp thông tin khai hải quan chưa đầy đủ thì cơ quan Hải quan thông báo lý do chưa tiếp nhận và yêu cầu người khai hải quan khai bổ sung thông qua Cổng thông tin một cửa quốc gia;
+    + Trường hợp có cơ sở xác định trên tàu biển có hàng hóa buôn lậu hoặc vận chuyển trái phép, Chi cục trưởng Chi cục Hải quan quyết định kiểm tra thực tế tàu biển hoặc thực hiện các biện pháp nghiệp vụ khác theo quy định của pháp luật;
+    + Trường hợp người khai hải quan nộp hồ sơ giấy: Cơ quan hải quan nơi giải quyết thủ tục tàu xuất cảnh/nhập cảnh tiếp nhận hồ sơ, kiểm tra các chứng từ thuộc bộ hồ sơ quy định tại Nghị định số 58/2017/NĐ-CP ngày 10/5/2017 của Chính phủ quy định chi tiết Luật Hàng hải. Nếu hồ sơ chưa đầy đủ thì yêu cầu người khai hải quan bổ sung theo quy định.
+    Ngay sau khi hệ thống được khắc phục, người khai hải quan cập nhật thông tin chứng từ điện tử lên Cổng thông tin một cửa quốc gia.
+    + Tạm dừng làm thủ tục hải quan cho tàu biển xuất cảnh/nhập cảnh:
+    ++ Trường hợp có yêu cầu bằng văn bản tạm dừng làm thủ tục hải quan từ các cơ quan chức năng khác như Cảng vụ hàng hải, Tòa án, cơ quan Công an, Biên phòng, cơ quan kiểm dịch, cơ quan Hải quan nơi làm thủ tục tàu biển nhập cảnh, xuất cảnh phối hợp với các cơ quan chức năng xử lý theo quy định.
+    ++ Cơ quan hải quan tạm dừng làm thủ tục hải quan với tàu biển vận chuyển hàng hóa gây ô nhiễm môi trường của Hãng tàu không thực hiện việc vân chuyển hàng hóa lưu giữ tại cảng biển gây ô nhiễm môi trường, hàng hóa không đủ điều kiện tập kết tại cảng ra khỏi lãnh thổ Việt Nam theo quy định tại điểm c khoản 3 hoặc điểm c khoản 4 Điều 68 Nghị định 08/2015/NĐ-CP được sửa đổi bổ sung tại Nghị định 167/2025/NĐ-CP.
+  * Thơì hạn cung cấp hồ sơ
+    + Tàu nhập cảnh: Chậm nhất 08 giờ trước khi tàu dự kiến cập cảng đối với hồ sơ tại điểm b, c, d, e nêu trên; chậm nhất 12 giờ trước khi tàu dự kiến cập cảng với hồ sơ tại điểm a, g, h, i nêu trên đối với tàu biển có hành trình dưới 5 ngày hoặc chậm nhất 24 giờ trước khi tàu dự kiến cập cảng đối với tàu biển có hành trình khác.
+    Thời hạn nộp hồ sơ sửa đổi bổ sung: các chứng từ quy định tại điểm a, b, c, d, e nêu trên được thực hiện trước hoặc ngay sau khi tàu dự kiến cập cảng. Các chứng từ quy định tại điểm g, h, i nêu trên được thực hiện trước khi đưa hàng hoá ra khỏi khu vực giám sát hải quan
+    + Tàu xuất cảnh: Chậm nhất 01 giờ trước khi tàu dự kiến rời cảng.
+    Thời hạn sửa đổi bổ sung: Trong thời hạn 24 giờ kể từ khi tàu rời cảng
+    + Tàu chuyển cảng: Phiếu chuyển hồ sơ tàu chuyển cảng và chứng từ liên quan của tàu nhập cảnh được thực hiện trước khi tàu dự kiến cập cảng tiếp theo.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ (Lệ phí đối với phương tiện quá cảnh đường thủy (tàu): 500.000 đồng/phương tiện.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 500 VNĐ (Lệ phí đối với phương tiện quá cảnh đường thủy (tàu):)
+
+Thành phần hồ sơ:
+  [ Đối với tàu biển nhập cảnh ]
+    - Bản khai chung
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hàng hóa nguy hiểm trong trường hợp tàu biển vận chuyển hàng hóa nguy hiểm
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hàng hóa trường hợp tàu biển vận chuyển hàng hóa
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách hành khách trong trường hợp tàu biển vận chuyển hành khách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hành lý thuyền viên, nhân viên làm việc trên tàu biển
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông tin về vận đơn: vận đơn chủ (master bill of lading), vận đơn thứ cấp (house bill of lading) trong trường hợp tàu biển vận chuyển hàng hóa
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai dự trữ của tàu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách thuyền viên
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với tàu biển quá cảnh ]
+    - Khi làm thủ tục nhập cảnh đối với tàu biển quá cảnh, người khai hải quan nộp hồ sơ hải quan theo quy định như với thủ tục nhập cảnh; khi làm thủ tục xuất cảnh, nếu có sự thay đổi về các chứng từ khi nhập cảnh, người khai hải quan nộp hồ sơ hải quan gồm các chứng từ đã có sự thay đổi so với lúc nhập cảnh
+      Số lượng: Bản chính: 0, Bản sao: 0
+  [ Đối với tàu biển xuất cảnh ]
+    - Danh sách thuyền viên
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hàng hóa nguy hiểm trong trường hợp tàu biển vận chuyển hàng hóa nguy hiểm
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai dự trữ của tàu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hành lý thuyền viên, nhân viên làm việc trên tàu biển
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách hành khách trong trường hợp tàu biển vận chuyển hành khách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai chung
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hàng hóa trong trường hợp tàu biển vận chuyển hàng hóa
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Hải quan cửa khẩu
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo hoàn thành thủ tục hải quan tàu
+Căn cứ pháp lý:
+  * Thông tư số 274/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí hải quan và lệ phí hàng hóa, phương tiện quá cảnh. (274/2016/TT-BTC)
+  * Nghị định 59/2018/NĐ-CP (59/2018/NĐ-CP)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Nghị định số 167/2025/NĐ-CP ngày 30/6/2025 của Chính phủ (167/2025)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Thông tư 50/2018/TT-BTC (50/2018/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

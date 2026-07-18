@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003537
+Số quyết định: 753/QĐ-BNNMT
+Tên thủ tục: Cấp giấy phép khảo nghiệm thuốc thú y
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thú y
+Trình tự thực hiện:
+    Bước 1: Gửi hồ sơ
+    Tổ chức, cá nhân  có nhu cầu đề nghị cấp Giấy phép khảo nghiệm thuốc thú y chuẩn bị hồ sơ và nộp đến Cục Chăn nuôi và Thú y.
+    Cục Chăn nuôi và Thú y tiếp nhận và kiểm tra thành phần, tính hợp lệ của hồ sơ theo quy định.
+    Bước 2: Thẩm định hồ sơ, cấp Giấy phép khảo nghiệm thuốc thú y
+    Trong thời hạn 17 (mười bảy) ngày, kể từ ngày nhận được hồ sơ đầy đủ, hợp lệ, Cục Chăn nuôi và Thú y thẩm định hồ sơ và cấp Giấy phép khảo nghiệm thuốc thú y nếu hồ sơ đạt yêu cầu; trường hợp không cấp, trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 17 ngày
+    Phí, lệ phí: 1350000 VNĐ (Thẩm định hồ sơ khảo nghiệm thuốc thú y, thuốc thú y thủy sản: 1.350.000 đồng/1 loại thuốcệm thuốc thú y, thuốc thú y thủy sản: 1.350.000 đồng/loại thuốc) | 1350000 VNĐ (Thẩm định kết quả khảo nghiệm thuốc thú y, thuốc thú y thủy sản: 1.350.000 đồng/1 loại thuốc)
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 17 ngày
+    Phí, lệ phí: 1350000 VNĐ (Thẩm định hồ sơ khảo nghiệm thuốc thú y, thuốc thú y thủy sản: 1.350.000 đồng/1 loại thuốc.) | 1350000 VNĐ (Thẩm định kết quả khảo nghiệm thuốc thú y, thuốc thú y thủy sản: 1.350.000 đồng/1 loại thuốc)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 17 ngày
+    Phí, lệ phí: 1350000 VNĐ (Thẩm định hồ sơ khảo nghiệm thuốc thú y, thuốc thú y thủy sản: 1.350.000 đồng/1 loại thuốc) | 1350000 VNĐ (Thẩm định kết quả khảo nghiệm thuốc thú y, thuốc thú y thủy sản: 1.350.000 đồng/1 loại thuốc)
+
+Thành phần hồ sơ:
+    - Tài liệu kỹ thuật của từng loại thuốc khảo nghiệm bao gồm:
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Phiếu phân tích chất lượng sản phẩm của cơ quan kiểm nghiệm thuốc   thú y được chỉ định tại Việt Nam cấp (bản chính hoặc bản chụp có đóng dấu           xác nhận của cơ sở đăng ký)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Phiếu phân tích chất lượng sản phẩm của nhà sản xuất (bản chính hoặc bản chụp có đóng dấu xác nhận của cơ sở đăng ký)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đăng ký cấp giấy phép khảo nghiệm thuốc thú y theo mẫu quy định tại Phụ lục XV ban hành kèm theo Thông tư 13/2016/TT-BNNPTNT
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Thông tin kỹ thuật về độ an toàn và hiệu lực của sản phẩm;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hợp đồng khảo nghiệm giữa cơ sở đăng ký và cơ sở khảo nghiệm (bản chính hoặc bản sao có đóng dấu xác nhận của cơ sở đăng ký)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Thông tin kỹ thuật về chất lượng của sản phẩm;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Tóm tắt đặc tính của sản phẩm theo mẫu quy định tại Phụ lục VIII ban hành kèm theo Thông tư 13/2016/TT-BNNPTNT;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Đề cương khảo nghiệm;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo kết quả đánh giá cơ sở đủ điều kiện khảo nghiệm
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Chăn nuôi và Thú y - Bộ NN và MT
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép khảo nghiệm thuốc thú y
+Căn cứ pháp lý:
+  * Luật Thú y (Luật 79/2015/QH13)
+  * Sửa đổi, bổ sung một số Nghị định quy định về điều kiện đầu tư, kinh doanh trong lĩnh vực nông nghiệp (123/2018/NĐ-CP)
+  * Thông tư số 101/2020/TT-BTC ngày 23/11/2020 của Bộ trưởng Bộ Tài chính quy định về mức thu, chế độ thu, nộp, quản lý phí, lệ phí trong công tác thú y (101/2020/TT-BTC)
+  * Quy định mức thu, chế độ thu, nộp, quản lý phí, lệ phí trong công tác thú y (101/2020/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: - Người phụ trách kỹ thuật của tổ chức khảo nghiệm phải có Chứng chỉ hành nghề thú y.
+- Người lao động có trình độ chuyên môn phù hợp và đã được tập huấn về khảo nghiệm thuốc thú y.
+- Không trực tiếp đứng tên đăng ký hoặc không được nhận ủy quyền đứng tên đăng ký thuốc thú y tại Việt Nam.
+- Nơi chăn nuôi, nuôi trồng thủy sản đáp ứng các điều kiện sau đây:
++ Có chuồng hoặc ao, bể nuôi động vật với diện tích đảm bảo mật độ nuôi phù hợp với yêu cầu khảo nghiệm;
++ Có số lượng động vật đáp ứng khảo nghiệm theo quy định của Bộ Nông nghiệp và Môi trường; có nơi riêng biệt để nuôi động vật thí nghiệm, có hệ thống xử lý chất thải, nước thải, có khi vực để xử lý xác động vật, bệnh phẩm.
++ Nơi sản xuất, chế biến và kho chứa thức ăn chăn nuôi phải tách biệt với nơi để hóa chất độc hại và có biện pháp phòng chống côn trùng, động vật gây hại.
+- Cơ sở phải tự thực hiện hoặc có hợp đồng thuê cơ sở kiểm nghiệm thuốc thú y đủ điều kiện để phục vụ việc khảo nghiệm theo quy định.
+Từ khóa: Không có thông tin
+Mô tả: - Người phụ trách kỹ thuật của tổ chức khảo nghiệm phải có Chứng chỉ hành nghề thú y.
+- Người lao động có trình độ chuyên môn phù hợp và đã được tập huấn về khảo nghiệm thuốc thú y.
+- Không trực tiếp đứng tên đăng ký hoặc không được nhận ủy quyền đứng tên đăng ký thuốc thú y tại Việt Nam.
+- Nơi chăn nuôi, nuôi trồng thủy sản đáp ứng các điều kiện sau đây:
++ Có chuồng hoặc ao, bể nuôi động vật với diện tích đảm bảo mật độ nuôi phù hợp với yêu cầu khảo nghiệm;
++ Có số lượng động vật đáp ứng khảo nghiệm theo quy định của Bộ Nông nghiệp và Môi trường; có nơi riêng biệt để nuôi động vật thí nghiệm, có hệ thống xử lý chất thải, nước thải, có khi vực để xử lý xác động vật, bệnh phẩm.
++ Nơi sản xuất, chế biến và kho chứa thức ăn chăn nuôi phải tách biệt với nơi để hóa chất độc hại và có biện pháp phòng chống côn trùng, động vật gây hại.
+- Cơ sở phải tự thực hiện hoặc có hợp đồng thuê cơ sở kiểm nghiệm thuốc thú y đủ điều kiện để phục vụ việc khảo nghiệm theo quy định.

@@ -1,0 +1,34 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014954
+Số quyết định: 1878/QĐ-BNNMT
+Tên thủ tục: Cấp lại mã số định danh cơ sở chăn nuôi
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Chăn nuôi
+Trình tự thực hiện:
+    Trình tự thực hiện:
+    - Bước 1. Trong thời hạn 06 tháng kể từ thời điểm thu hồi mã số định danh cơ sở chăn nuôi, tổ chức, cá nhân thực hiện khắc phục và gửi báo cáo trên Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi tại địa chỉ tên miền csdlchannuoi.mae.gov.vn.
+    - Bước 2. Hệ thống cơ sở dữ liệu quốc gia về chăn nuôi tự động cấp lại mã số định danh cơ sở chăn nuôi và thông báo đến thư điện tử của tổ chức, cá nhân trên cơ sở kiểm tra, xác nhận thông tin của Cơ quan quản lý nhà nước về chăn nuôi và thú y được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thủ tục hành chính. Trường hợp từ chối cấp, phải nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  Không có thông tin thành phần hồ sơ.
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: cấp lại mã số định danh cơ sở chăn nuôi.
+Căn cứ pháp lý:
+  * Quy định về chăn nuôi động vật khác thuộc Danh mục động vật khác được phép chăn nuôi và truy xuất nguồn gốc sản phẩm chăn nuôi. (66/2025/TT-BNNMT)
+  * sửa đổi, bổ sung một số Thông tư liên quan phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính thuộc phạm vi quản lý nhà nước của Bộ Nông nghiệp và Môi trường (Thông tư số 22/2026/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

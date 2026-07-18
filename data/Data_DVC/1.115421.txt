@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115421
+Số quyết định: 1617/QĐ-BCT
+Tên thủ tục: Sửa đổi, bổ sung giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thương mại điện tử
+Trình tự thực hiện:
+    1. Việc nộp và nhận kết quả hồ sơ cấp phép, sửa đổi, bổ sung giấy phép, thu hồi giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại được thực hiện trực tuyến tại Cổng dịch vụ công quốc gia.
+    2. Tổ chức cung cấp dịch vụ có trách nhiệm theo dõi địa chỉ thư điện tử và tài khoản đã đăng ký với Cổng dịch vụ công quốc gia để cập nhật trạng thái hồ sơ và sửa đổi, bổ sung thông tin theo yêu cầu.
+    3. Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại thực hiện thủ tục sửa đổi, bổ sung giấy phép trong thời hạn 20 ngày làm việc kể từ ngày thay đổi một trong những thông tin sau đây: người chịu trách nhiệm quản lý hoạt động cung cấp dịch vụ; thông tin Giấy chứng nhận đăng ký doanh nghiệp (đối với doanh nghiệp) hoặc Quyết định thành lập (đối với tổ chức); nội dung công khai về quy chế chứng thực; nội dung đề án cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại.
+    4. Quy trình sửa đổi, bổ sung giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại thực hiện theo 02 bước sau đây:
+    Bước 1. Đăng nhập Cổng dịch vụ công quốc gia, thực hiện sửa đổi, bổ sung giấy phép theo mẫu và đính kèm tài liệu (nếu có) theo quy định.
+    Bước 2. Trong thời hạn 30 ngày kể từ khi nộp hồ sơ đầy đủ, hợp lệ, tổ chức nhận phản hồi về một trong các nội dung sau đây:
+    - Hồ sơ đủ điều kiện cấp phép, cơ quan có thẩm quyền sửa đổi, bổ sung giấy phép theo Mẫu số 07 tại Phụ lục II của Nghị định số 248/2026/NĐ-CP, thời hạn của giấy phép thay đổi là thời hạn còn lại của giấy phép đã được cấp. Thông tin tổ chức cung cấp dịch vụ được công khai tại Hệ thống quản lý hoạt động thương mại điện tử đã kết nối với Cổng dịch vụ công quốc gia. Tổ chức nhận biểu tượng xác nhận điện tử đã cấp phép để gắn trên nền tảng số đó. Khi chọn biểu tượng này, người sử dụng được dẫn về thông tin công bố tại Hệ thống quản lý hoạt động thương mại điện tử.
+    - Yêu cầu làm rõ thông tin hồ sơ sửa đổi, bổ sung giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại. Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử trong thương mại thực hiện lại Bước 1 của Mục này.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - a) Tờ khai thông tin theo Mẫu số 03 tại Phụ lục II của Nghị định số 248/2026/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Tài liệu chứng minh lý do sửa đổi, bổ sung giấy phép (đối với trường hợp thay đổi các nội dung đã được cấp phép).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp các giấy tờ, tài liệu nêu trên đã có dữ liệu điện tử bảo đảm giá trị pháp lý và có thể khai thác thông qua kết nối, chia sẻ giữa Hệ thống thông tin giải quyết thủ tục hành chính với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, hệ thống thông tin dùng chung, Cổng dịch vụ công quốc gia thì không phải cung cấp lại.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép kinh doanh dịch vụ chứng thực hợp đồng điện tử trong thương mại sửa đổi, bổ sung, thời hạn của giấy phép thay đổi là thời hạn còn lại của giấy phép đã được cấp. Thông tin tổ chức cung cấp dịch vụ được công khai tại Hệ thống quản lý hoạt động thương mại điện tử đã kết nối với Cổng dịch vụ công quốc gia. Tổ chức nhận biểu tượng xác nhận điện tử đã cấp phép để gắn trên nền tảng số đó.
+Căn cứ pháp lý:
+  * Nghị định số 248/2026/NĐ-CP ngày 30 tháng 6 năm 2026 của Chính phủ quy định chi tiết một số điều của Luật Thương mại điện tử. (248/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

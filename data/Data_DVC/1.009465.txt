@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009465
+Số quyết định: 123/QĐ-CHHĐTVN
+Tên thủ tục: Chấp thuận phương án bảo đảm an toàn giao thông
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    Trước khi thi công công trình (công trình xây dựng: Công trình phục vụ nhiệm vụ quốc phòng, an ninh; Kè, đập thủy lợi, cầu, bến phà; Phong điện, nhiệt điện, thủy điện; Công trình vượt qua luồng trên không hoặc dưới đáy luồng; Công trình khác ảnh hưởng đến an toàn giao thông trên đường thủy nội địa.), tổ chức hoạt động (hoạt động thi công công trình (bao gồm hoạt động nạo vét vùng nước cảng, bến thủy nội địa, khu neo đậu); khai thác tài nguyên, khoáng sản; Khu vực nuôi trồng thủy sản, hải sản (bè cá, lồng cá, đăng, đáy cá, bãi nuôi trồng thủy sản, hải sản); tổ chức hoạt động vui chơi, giải trí, diễn tập, thể thao, lễ hội; họp chợ, làng nghề, thực hành đào tạo nghề; Các hoạt động khác ảnh hưởng đến an toàn giao thông trên đường thủy nội địa), chủ đầu tư hoặc tổ chức, cá nhân gửi hồ sơ đến cơ quan sau để đề nghị chấp thuận:
+    - Cục Hàng hải và Đường thủy Việt Nam chấp thuận phương án bảo đảm an toàn giao thông đối với công trình, hoạt động bảo đảm quốc phòng, an ninh trên đường thủy nội địa quốc gia, đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia.
+    - Chi cục Hàng hải và Đường thủy khu vực chấp thuận phương án bảo đảm an toàn giao thông đối với công trình, hoạt động trên đường thủy nội địa quốc gia; đường thủy nội địa chuyên dùng nối với đường thủy nội địa quốc gia, vùng nước chưa được tổ chức quản lý nhưng có hoạt động vận tải tiếp giáp với hành lang bảo vệ luồng quốc gia, trừ trường hợp quy định thuộc thẩm quyền của Cục Hàng hải và Đường thủy Việt Nam và Cảng vụ.
+    - Sở Xây dựng chấp thuận phương án bảo đảm an toàn giao thông đối với công trình, hoạt động trên đường thủy nội địa địa phương; đường thủy nội địa chuyên dùng nối với đường thủy nội địa địa phương, vùng nước chưa được tổ chức quản lý nhưng có hoạt động vận tải trên địa bàn tỉnh, thành phố trực thuộc trung ương, trừ trường hợp quy định tại điểm d khoản này. Căn cứ tình hình thực tế, Sở Xây dựng trình Ủy ban nhân dân cấp tỉnh ủy quyền, phân cấp cho Ủy ban nhân dân cấp xã chấp thuận phương án bảo đảm an toàn giao thông;
+    - Cảng vụ chấp thuận phương án bảo đảm an toàn giao thông đối với hoạt động sửa chữa, cải tạo nâng cấp và hoạt động khác trong vùng nước cảng, bến thủy nội địa, khu neo đậu thuộc phạm vi quản lý.
+  * b) Giải quyết TTHC:
+    Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được đủ hồ sơ theo quy định, cơ quan có thẩm có văn bản chấp thuận phương án bảo đảm an toàn giao thông gửi cho chủ đầu tư hoặc tổ chức, cá nhân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Phương án bảo đảm an toàn giao thông;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao bản vẽ bố trí mặt bằng tổng thể của công trình, phạm vi khu vực tổ chức thi công công trình, tổ chức hoạt động.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Đơn đề nghị chấp thuận phương án bảo đảm an toàn giao thông theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Phương án thi công, thời gian, tiến độ thi công công trình, tổ chức hoạt động;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Chi cục Hàng hải và Đường thuỷ phía Bắc, Chi cục Hàng hải và Đường thuỷ phía Nam, Cục Hàng hải và Đường thủy Việt Nam, Cảng vụ Đường thủy nội địa, Cảng vụ hàng hải, Sở Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận phương án bảo đảm an toàn giao thông.
+Căn cứ pháp lý:
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng (140/2025/NĐ-CP)
+  * Quy định về quản lý hoạt động đường thủy nội địa (08/2021/NĐ-CP)
+  * sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Xây dựng (14/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

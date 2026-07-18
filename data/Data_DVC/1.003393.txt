@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003393
+Số quyết định: 1204/QĐ-BGTVT
+Tên thủ tục: Thủ tục xóa đăng ký văn bản IDERA
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * Nộp hồ sơ thủ tục hành chính:
+    Người được chỉ định trong văn bản IDERA đề nghị xóa đăng ký văn bản IDERA gửi hồ sơ trực tiếp, qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức khác đến Cục Hàng không Việt Namvà phải chịu trách nhiệm về tính trung thực, chính xác của các thông tin ghi trong hồ sơ.
+  * Giải quyết thủ tục hành chính:
+    Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Namcấp xác nhận xóa đăng ký trong tờ khai xóa đăng ký văn bản IDERA và trả lại 01 tờ khai cho người đề nghị; trường hợp không cấp, Cục Hàng không Việt Namphải trả lời người đề nghị bằng văn bản và nêu rõ lý do.
+    Trường hợp hồ sơ chưa đầy đủ, trong thời hạn một (01) ngày làm việc, kể từ ngày nhận hồ sơ, Cục Hàng không Việt Namcó văn bản hướng dẫn người đề nghị đăng ký hoàn chỉnh hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định
+
+Thành phần hồ sơ:
+    - - Bản sao từ sổ gốc hoặc bản sao có chứng thực hoặc bản sao chụp từ bản chính hoặc bản sao xuất trình bản chính để đối chiếu hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính giấy tờ chứng minh tư cách pháp lý của người đề nghị đăng ký trong trường hợp người đề nghị là tổ chức, cá nhân Việt Nam. Trường hợp giấy tờ, tài liệu chứng minh tư cách pháp lý của người đề nghị đăng ký văn bản IDERA do cơ quan nước ngoài có thẩm quyền cấp thì các giấy tờ, tài liệu này phải được hợp pháp hóa lãnh sự theo quy định của pháp luật, trừ trường hợp được miễn hợp pháp hóa lãnh sự theo Điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo nguyên tắc có đi có lại.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 02 tờ khai xóa đăng ký văn bản IDERA theo Mẫu;
+      Số lượng: Bản chính: 2, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận của Cục Hàng không Việt Nam trong Tờ khai xóa đăng ký văn bản IDERA
+Căn cứ pháp lý:
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Quy định đăng ký quốc tịch và đăng ký các quyền đối với tàu bay (68/2015/NĐ-CP)
+  * Nghị định 64/2022/NĐ-CP (64/2022/NĐ-CP)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

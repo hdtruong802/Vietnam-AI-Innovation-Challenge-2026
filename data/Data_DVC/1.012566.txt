@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012566
+Số quyết định: 4864/QĐ-BCA-C06
+Tên thủ tục: Xác nhận số chứng minh nhân dân 09 số, số định danh cá nhân (thực hiện tại cấp xã)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Cấp, quản lý căn cước
+Trình tự thực hiện:
+    - Bước 1: Công dân đã được cấp thẻ căn cước có nhu cầu được xác nhận số chứng minh nhân dân 09 số, số định danh cá nhân chuẩn bị hồ sơ theo quy định.
+    - Bước 2: Nộp hồ sơ tại Công an cấp xã nơi công dân đăng ký thường trú hoặc tạm trú hoặc nơi ở hiện tại đối với trường hợp không đủ điều kiện đăng ký thường trú, đăng ký tạm trú hoặc đăng ký cấp giấy xác nhận số chứng minh nhân dân 09 số, số định danh cá nhân trên Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an, ứng dụng định danh quốc gia (lựa chọn nơi thực hiện thủ tục là Công an cấp xã nơi cư trú);
+    - Bước 3:
+    + Công an cấp xã nơi tiếp nhận đề nghị có trách nhiệm kiểm tra, xác minh và xác nhận thông tin về số chứng minh nhân dân 09 số, số định danh cá nhân đã hủy đối với trường hợp thông tin số chứng minh nhân dân 09 số đã được cập nhật vào Cơ sở dữ liệu quốc gia về dân cư.
+    + Trường hợp thông tin số chứng minh nhân dân 09 số chưa được cập nhật vào Cơ sở dữ liệu quốc gia về dân cư thì trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ, Công an cấp xã nơi tiếp nhận đề nghị có trách nhiệm kiểm tra, xác minh và cấp xác nhận số chứng minh nhân dân 09 số, số định danh cá nhân.
+    + Trường hợp thông tin không chính xác thì từ chối cấp và nêu rõ lý do, thông báo về việc từ chối giải quyết thủ tục về căn cước (mẫu CC03 ban hành kèm theo Thông tư số 17/2024/TT-BCA ngày 15/5/2024 của Bộ Công an).
+    - Bước 4: Nhận kết quả bằng văn bản giấy tại Công an cấp xã, nhận văn bản điện tử hoặc trả qua dịch vụ bưu chính đến địa chỉ theo yêu cầu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Chưa quy định.)
+    Mô tả: - Nộp hồ sơ trực tuyến thông qua Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an, Ứng dụng định danh quốc gia. - Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của pháp luật). Thời hạn giải quyết: - 03 ngày làm việc đối với trường hợp thông tin số chứng minh nhân dân 09 số đã có trong Cơ sở dữ liệu quốc gia về dân cư; - 07 ngày làm việc đối với trường hợp thông tin số chứng minh nhân dân 09 số chưa có trong Cơ sở dữ liệu quốc gia về dân cư;
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Chưa quy định.)
+    Mô tả: - Nộp hồ sơ qua dịch vụ bưu chính (nếu có). - Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của pháp luật). Thời hạn giải quyết: - 03 ngày làm việc đối với trường hợp thông tin số chứng minh nhân dân 09 số đã có trong Cơ sở dữ liệu quốc gia về dân cư; - 07 ngày làm việc đối với trường hợp thông tin số chứng minh nhân dân 09 số chưa có trong Cơ sở dữ liệu quốc gia về dân cư;
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Chưa quy định.)
+    Mô tả: - Nộp hồ sơ trực tiếp tại tại Công an cấp xã nơi công dân đăng ký thường trú hoặc tạm trú hoặc nơi ở hiện tại đối với trường hợp không đủ điều kiện đăng ký thường trú, đăng ký tạm trú - Thời gian tiếp nhận hồ sơ: Giờ hành chính các ngày làm việc từ thứ 2 đến thứ 6 hàng tuần (trừ các ngày nghỉ lễ, tết theo quy định của pháp luật). Thời hạn giải quyết: - 03 ngày làm việc đối với trường hợp thông tin số chứng minh nhân dân 09 số đã có trong Cơ sở dữ liệu quốc gia về dân cư; - 07 ngày làm việc đối với trường hợp thông tin số chứng minh nhân dân 09 số chưa có trong Cơ sở dữ liệu quốc gia về dân cư;
+
+Thành phần hồ sơ:
+    - Phiếu đề nghị giải quyết thủ tục về căn cước (Mẫu DC02 ban hành kèm theo Thông tư số 17/2024/TT-BCA của Bộ Công an)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng minh nhân dân 09 số (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Công an cấp Xã
+Cơ quan có thẩm quyền: Công an cấp Xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy xác nhận số chứng minh nhân dân 09 số, số định danh cá nhân (mẫu CC04 ban hành kèm theo Thông tư số 17/2024/TT-BCA ngày 15/5/2024 của Bộ Công an)
+Căn cứ pháp lý:
+  * Thông tư quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước (17/2024/TT-BCA)
+  * Thông tư 16/2024/TT-BCA quy định về mẫu thẻ căn cước, mẫu giấy chứng nhận căn cước (16/2024/TT-BCA)
+  * Luật Căn cước (26/2023/QH15)
+  * Nghị định của Chính phủ: Quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước (70/2024/NĐ-CP)
+  * Thông tư quy định quy định về quy trình cấp, cấp đổi, cấp lại thẻ căn cước, giấy chứng nhận căn cước (18/2024/TT-BCA)
+
+Yêu cầu, điều kiện thực hiện: Không.
+Từ khóa: Không có thông tin
+Mô tả: Không.

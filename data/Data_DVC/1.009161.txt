@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009161
+Số quyết định: 2298/QĐ-UBND
+Tên thủ tục: Cấp giấy phép thi công các công trình sửa chữa, cải tạo nâng cấp đường bộ (UBND cấp xã)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giao thông vận tải
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cơ quan hoàn thiện hồ sơ theo hướng dẫn;
+    Bước 2: Trung tâm phục vụ hành chính công cấp xã tiếp nhận hồ sơ; kiểm tra tính hợp lệ và đầy đủ của các giấy tờ có trong hồ sơ, yêu cầu bổ sung, hoàn thiện nếu hồ sơ chưa đầy đủ, chưa hợp lệ và chuyển cho phòng Chuyên môn.
+    Bước 3: Công chức chuyên môn Phòng Chuyên môn thụ lý hồ sơ, kiểm tra trình lãnh đạo phòng, trình lãnh đạo UBND cấp xã ký và chuyển giấy phép cho Trung tâm phục vụ hành chính công cấp xã để giao cho tổ chức, cơ quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - 1. Đơn đề nghị cấp giấy phép thi công của tổ chức cá nhân thi công;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2. Quyết định công nhận đơn vị thi công và cho phép khởi công công trình của cơ quan có thẩm quyền;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ thiết kế kỹ thuật và thiết kế tổ chức thi công hoặc hồ sơ thiết kế kỹ thuật thi công phải được cơ quan quản lý đường bộ có thẩm quyền chấp thuận bằng văn bản và được cấp có thẩm quyền phê duyệt;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4. Văn bản giải trình biện pháp đảm bảo an toàn công trình giao thông đường bộ và các công trình hạ tầng kỹ thuật khác hiện có trên đường bộ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 5. Văn bản giải trình biện pháp bảo đảm an toàn giao thông trong suốt thời gian thi công có xác nhận của ban quản lý dự án (trường hợp các công trình đơn giản, không có thiết kế tổ chức thi công);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 6. Báo cáo đánh giá tác động môi trường do Sở Tài nguyên và Môi trường thẩm định (đối với công trình quy định lập báo cáo đánh giá tác động môi trường) hoặc biện pháp bảo đảm vệ sinh môi trường (đối với công trình không quy định lập báo cáo đánh giá tác động môi trường);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 7. Báo cáo thẩm định an toàn giao thông được cấp có thẩm quyền phê duyệt (đối với công trình cải tạo nâng cấp đường bộ).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm phục vụ hành chính công cấp xã
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép.
+Căn cứ pháp lý:
+  * Hướng dẫn thực hiện một số điều của Nghị định số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ (50/2015/TT-BGTVT)
+  * Quyết định số 05/2013/QĐ-UBND ngày 25/01/2013 của UBND thành phố Đà Nẵng về việc Ban hành Quy định thi công trên đường bộ đang khai thác thuộc địa bàn thành phố Đà Nẵng (05/2013/QĐ-UBND)
+  * 100/2013/NĐ-CP (Nghị định số 100/2013/NĐ-CP)
+  * Giao thông đường bộ (23/2008/QH12)
+  * Quyết định số 18/2015/QĐ-UBND ngày 27/7/2015 của UBND thành phố Đà Nẵng ban hành Quy định về hoàn trả kết cấu hạ tầng giao thông đường bộ đối với các dự án thi công trên đường bộ đang khai thác trên địa bàn thành phố Đà Nẵng.	27/07/2015	11/08/2015	Ủy ban nhân dân cấp tỉnh (18/2015/QĐ-UBND DANANG)
+  * Nghị định 111/2010/NĐ-CP (111/2010/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có.
+Từ khóa: đường bộ. thi công
+Mô tả: Không có.

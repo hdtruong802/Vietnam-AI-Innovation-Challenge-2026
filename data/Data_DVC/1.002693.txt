@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002693
+Số quyết định: 1813/QĐ-BXD
+Tên thủ tục: Cấp giấy phép chặt hạ, dịch chuyển cây xanh
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hạ tầng kỹ thuật
+Trình tự thực hiện:
+    1. Gửi hồ sơ xin cấp phép:  Gửi hồ sơ đề nghị cấp giấy phép chặt hạ, dịch chuyển cây xanh tới cơ quan được phân cấp quản lý cây xanh theo quy định của Uỷ ban nhân dân cấp tỉnh.
+    2. Xem xét và cấp giấy phép: Sau khi nhận đủ hồ sơ hợp lệ cơ quan được phân cấp quản lý cây xanh cấp giấy phép theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 20 ngày làm việc đối với trường hợp đề chặt hạ, dịch chuyển có cây xanh thuộc danh mục cây xanh cần bảo tồn
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 20 ngày làm việc đối với trường hợp đề chặt hạ, dịch chuyển có cây xanh thuộc danh mục cây xanh cần bảo tồn
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 20 ngày làm việc đối với trường hợp đề chặt hạ, dịch chuyển có cây xanh thuộc danh mục cây xanh cần bảo tồn
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp giấy phép chặt hạ, dịch chuyển cây xanh theo Mẫu số 01 Phụ lục I của Nghị định số 258/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Ảnh chụp hiện trạng cây xanh đô thị cần chặt hạ, dịch chuyển
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép chặt hạ, dịch chuyển cây xanh
+Căn cứ pháp lý:
+  * Luật Quy hoạch đô thị và nông thôn số 47/2024/QH15 (47/2024/QH15)
+  * Về quản lý công viên, cây xanh, mặt nước (258/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Hồ sơ đề nghị cấp phép phải bảo đảm hợp lệ, đầy đủ thành phần hồ sơ.
+- Cây xanh được cấp phép chặt hạ, dịch chuyển khi bảo đảm các điều kiện quy định tại khoản 1, 3 Điều 27 Nghị định số 258/2025/NĐ-CP ngày 09/10/2025 của Chính phủ về quản lý công viên, cây xanh, mặt nước.
+Từ khóa: Không có thông tin
+Mô tả: - Hồ sơ đề nghị cấp phép phải bảo đảm hợp lệ, đầy đủ thành phần hồ sơ.
+- Cây xanh được cấp phép chặt hạ, dịch chuyển khi bảo đảm các điều kiện quy định tại khoản 1, 3 Điều 27 Nghị định số 258/2025/NĐ-CP ngày 09/10/2025 của Chính phủ về quản lý công viên, cây xanh, mặt nước.

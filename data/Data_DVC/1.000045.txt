@@ -1,0 +1,94 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000045
+Số quyết định: 01/QĐ-BNNMT
+Tên thủ tục: Xác nhận bảng kê lâm sản
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Kiểm lâm
+Trình tự thực hiện:
+  * a) Bước 1: Nộp hồ sơ
+    Chủ lâm sản hoặc tổ chức, cá nhân được chủ lâm sản ủy quyền nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc qua môi trường điện tử 01 bộ hồ sơ tương ứng với từng loại lâm sản đề nghị xác nhận. Trường hợp nộp hồ sơ qua môi trường điện tử, thực hiện theo quy định pháp luật về thực hiện thủ tục hành chính trên môi trường điện tử.
+  * b) Bước 2: Tiếp nhận hồ sơ
+    Trong thời hạn 01 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan Kiểm lâm sở tại xem xét tính hợp lệ của thành phần hồ sơ; trường hợp hồ sơ không hợp lệ theo quy định, thông báo bằng văn bản và nêu rõ lý do.
+  * c) Bước 3: Thẩm định và trả kết quả
+    Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan Kiểm lâm sở tại xác nhận Bảng kê lâm sản, lâm sản tồn vào sổ theo quy định tại điểm h khoản 6 Điều 5 Thông tư số 26/2025/TT-BNNMT, được sửa đổi, bổ sung tại điểm a khoản 2 Điều 20 Thông tư số 84/2025/TT-BNNMT ngày 31 tháng 12 năm 2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường quy định chi tiết một số nội dung của Luật Lâm nghiệp và sửa đổi, bổ sung một số Thông tư trong lĩnh vực lâm nghiệp và kiểm lâm, đối với trường hợp nộp hồ sơ bằng bản giấy.
+  * Trường hợp cần xác minh nguồn gốc lâm sản:
+    + Trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan Kiểm lâm sở tại thông báo cho chủ lâm sản về việc xác minh;
+    + Trong thời hạn 02 ngày làm việc kể từ ngày thông báo, cơ quan Kiểm lâm sở tại tiến hành xác minh, lập Biên bản xác minh theo Mẫu số 05 Phụ lục II ban hành kèm theo Thông tư số 26/2025/TT-BNNMT và hoàn thành xác nhận Bảng kê lâm sản đồng thời xác nhận lâm sản tồn vào sổ quy định tại điểm h khoản 6 Điều 5 Thông tư số 26/2025/TT-BNNMT, được sửa đổi, bổ sung tại điểm a khoản 2 Điều 20 Thông tư số 84/2025/TT-BNNMT ngày 31 tháng 12 năm 2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường quy định chi tiết một số nội dung của Luật Lâm nghiệp và sửa đổi, bổ sung một số Thông tư trong lĩnh vực lâm nghiệp và kiểm lâm; trường hợp có nhiều nội dung phức tạp, việc xác minh và xác nhận được thực hiện không quá 03 ngày làm việc. Trường hợp không xác nhận thì trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp không phải xác minh: trong thời hạn 02 ngày làm việc.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp không phải xác minh: trong thời hạn 02 ngày làm việc.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp cần xác minh nguồn gốc lâm sản: trong thời hạn 03 ngày làm việc.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp cần xác minh nguồn gốc lâm sản mà có nhiều nội dung phức 
+tạp: trong thời hạn 04 ngày làm việc.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp cần xác minh nguồn gốc lâm sản: trong thời hạn 03 ngày làm việc.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp cần xác minh nguồn gốc lâm sản mà có nhiều nội dung phức 
+tạp: trong thời hạn 04 ngày làm việc.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp không phải xác minh: trong thời hạn 02 ngày làm việc.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trường hợp cần xác minh nguồn gốc lâm sản: trong thời hạn 03 ngày làm việc.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp cần xác minh nguồn gốc lâm sản mà có nhiều nội dung phức 
+tạp: trong thời hạn 04 ngày làm việc.
+
+Thành phần hồ sơ:
+    - - Bản chính Sổ theo dõi hoạt động sản xuất, chế biến mẫu vật loài nguy cấp, quý, hiếm, động vật, thực vật hoang dã nguy cấp thuộc Phụ lục CITES đối với cơ sở sản xuất, chế biến theo Mẫu số 29 Phụ lục II ban hành kèm theo Thông tư số 85/2025/TT-BNNMT.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính Đơn đề nghị xác nhận Bảng kê lâm sản theo Mẫu số 03 Phụ lục II ban hành kèm theo Thông tư số 26/2025/TT-BNNMT
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính Sổ theo dõi nhập, xuất lâm sản đối với chủ lâm sản là tổ chức, hộ kinh doanh xuất bán lâm sản theo Mẫu số 04 Phụ lục II ban hành kèm theo Thông tư số 26/2025/TT-BNNMT đối với trường hợp lâm sản là thực vật rừng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao hồ sơ lâm sản nhập khẩu quy định tại Điều 9 Thông tư số 26/2025/TT-BNNMT đối với trường hợp chủ lâm sản nhập khẩu bán hoặc chuyển giao quyền sở hữu. Trường hợp chủ lâm sản tạo mã phản hồi nhanh (QR) chứa đựng hồ sơ lâm sản trong Bảng kê lâm sản thì không phải nộp thành phần hồ sơ này;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao hồ sơ lâm sản sau xử lý tịch thu theo quy định tại Điều 10 Thông tư số 26/2025/TT-BNNMT đối với trường hợp chủ lâm sản mua trực tiếp từ cơ quan được giao xử lý tài sản, bán, chuyển giao quyền sở hữu lần kế tiếp. Trường hợp chủ lâm sản tạo mã phản hồi nhanh (QR) chứa đựng hồ sơ lâm sản trong Bảng kê lâm sản thì không phải nộp thành phần hồ sơ này;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao Bảng kê lâm sản mua bán, chuyển giao quyền sở hữu liền kề trước đó. Trường hợp chủ lâm sản tạo mã phản hồi nhanh (QR) chứa đựng hồ sơ lâm sản trong Bảng kê lâm sản thì không phải nộp thành phần hồ sơ này;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao hồ sơ nguồn gốc lâm sản đối với trường hợp xác nhận theo đề nghị của tổ chức, cá nhân quy định tại điểm đ khoản 3 Điều 5 Thông tư số 26/2025/TT-BNNMT;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao Phương án khai thác đối với trường hợp xác nhận bảng kê lâm sản sau khai thác. Trường hợp chủ lâm sản tạo mã phản hồi nhanh (QR) chứa đựng hồ sơ lâm sản trong Bảng kê lâm sản thì không phải nộp thành phần hồ sơ này;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản chính Sổ theo dõi nuôi, trồng đối với chủ cơ sở nuôi động vật, trồng thực vật thuộc Danh mục loài nguy cấp, quý, hiếm, động vật, thực vật thuộc Phụ lục CITES, động vật rừng thông thường theo Mẫu số 10 Phụ lục II ban hành kèm theo Thông tư số 85/2025/TT-BNNMT;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính Bảng kê lâm sản theo quy định tại Mẫu số 01 Phụ lục II ban hành kèm theo Thông tư số 26/2025/TT-BNNMT;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Chi cục Kiểm lâm
+Cơ quan có thẩm quyền: Chi cục Kiểm lâm
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bảng kê lâm sản được xác nhận
+Căn cứ pháp lý:
+  * Thông tư 26/2025/TT-BNNMT ngày 24 tháng 6 năm 2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường (26/2025/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

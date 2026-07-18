@@ -1,0 +1,81 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.011893
+Số quyết định: 2527/QĐ-BKHCN
+Tên thủ tục: Cấp giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng, loại mạng viễn thông công cộng có sử dụng băng tần số vô tuyến điện
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+  * Trường hợp doanh nghiệp trúng đấu giá quyền sử dụng tần số vô tuyến điện
+    Trong thời hạn 10 ngày làm việc kể từ ngày tổ chức đã nộp đủ các khoản tài chính quy định tại khoản 1 Điều 23 Nghị định số 63/2023/NĐ-CP đúng theo quy định, tổ chức được cấp giấy phép kinh doanh dịch vụ viễn thông.
+  * Trường hợp doanh nghiệp trúng tuyển thi tuyển quyền sử dụng tần số vô tuyến điện
+    Trong thời hạn 10 ngày làm việc kể từ ngày kết thúc thời hạn nộp tiền cấp quyền sử dụng tần số vô tuyến điện theo quy định tại điểm a khoản 3 Điều 54 Nghị định số 63/2023/NĐ-CP, tổ chức đã nộp đủ các khoản tiền quy định tại khoản 3 Điều này được cấp giấy phép kinh doanh dịch vụ viễn thông và giấy phép sử dụng băng tần.
+  * Trường hợp doanh nghiệp quy định tại điểm d khoản 4 Điều 18 Luật Tần số vô tuyến điện được sửa đổi, bổ sung tại khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Tần số vô tuyến điện
+    a) Doanh nghiệp đề nghị cấp giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng phải gửi 01 bộ hồ sơ tới Bộ phận Một cửa của Bộ Khoa học và Công nghệ (Cục Viễn thông) và phải chịu trách nhiệm về tính chính xác, trung thực của hồ sơ.
+    b) Bộ Khoa học và Công nghệ (Cục Viễn thông) xét tính hợp lệ của hồ sơ trong 05 ngày làm việc kể từ ngày nhận được hồ sơ.
+    Trường hợp hồ sơ không hợp lệ, trong 05 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Viễn thông thông báo bằng văn bản cho doanh nghiệp.
+    Trường hợp hồ sơ hợp lệ, trong thời hạn 10 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) xét cấp giấy phép kinh doanh dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền.
+    Trường hợp từ chối cấp phép, trong thời hạn 10 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị cấp phép biết.
+    c) Trường hợp doanh nghiệp được cấp giấy phép kinh doanh dịch vụ viễn thông, Bộ Khoa học và Công nghệ (Cục Viễn thông) có trách nhiệm gửi Bộ Công an một bản sao để phối hợp kiểm soát, bảo đảm an ninh thông tin.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính, cụ thể như sau: - Phí thiết lập mạng viễn thông công cộng: nộp theo quy định tại khoản 2 Điều 5, Mục I.2 Biểu mức thu phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông. - Phí dịch vụ viễn thông: nộp theo quy định tại khoản 1 Điều 5, Mục I.1 Biểu mức thu phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông. - Lệ phí: 1.000.000 đồng/giấy phép.) | 50000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ Tài chính)
+    Mô tả: 1. Trường hợp doanh nghiệp trúng đấu giá quyền sử dụng tần số vô tuyến điện: 
+10 ngày làm việc kể từ ngày tổ chức đã nộp đủ các khoản tài chính quy định tại khoản 1 Điều 23 Nghị định số 63/2023/NĐ-CP đúng theo quy định 
+2. Trường hợp doanh nghiệp trúng tuyển thi tuyển quyển sử dụng tần số vô tuyến điện: 
+10 ngày làm việc kể từ ngày kết thúc thời hạn nộp tiền cấp quyền sử dụng tần số vô tuyến điện theo quy định tại điểm a khoản 3 Điều 54 Nghị định số 63/2023/NĐ-CP
+3. Trường hợp doanh nghiệp quy định tại điểm d khoản 4 Điều 18 Luật Tần số vô tuyến điện được sửa đổi, bổ sung tại khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Tần số vô tuyến điện
+10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính, cụ thể như sau: - Lệ phí: 1.000.000 đồng/giấy phép. - Phí thiết lập mạng viễn thông công cộng: nộp theo quy định tại khoản 2 Điều 5, Mục I.2 Biểu mức thu phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông. - Phí dịch vụ viễn thông: nộp theo quy định tại khoản 1 Điều 5, Mục I.1 Biểu mức thu phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông.) | 50000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ Tài chính)
+    Mô tả: 1. Trường hợp doanh nghiệp trúng đấu giá quyền sử dụng tần số vô tuyến điện: 
+10 ngày làm việc kể từ ngày tổ chức đã nộp đủ các khoản tài chính quy định tại khoản 1 Điều 23 Nghị định số 63/2023/NĐ-CP đúng theo quy định 
+2. Trường hợp doanh nghiệp trúng tuyển thi tuyển quyển sử dụng tần số vô tuyến điện: 
+10 ngày làm việc kể từ ngày kết thúc thời hạn nộp tiền cấp quyền sử dụng tần số vô tuyến điện theo quy định tại điểm a khoản 3 Điều 54 Nghị định số 63/2023/NĐ-CP
+3. Trường hợp doanh nghiệp quy định tại điểm d khoản 4 Điều 18 Luật Tần số vô tuyến điện được sửa đổi, bổ sung tại khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Tần số vô tuyến điện
+10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính, cụ thể như sau: - Lệ phí: 1.000.000 đồng/giấy phép. - Phí thiết lập mạng viễn thông công cộng: nộp theo quy định tại khoản 2 Điều 5, Mục I.2 Biểu mức thu phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông. - Phí dịch vụ viễn thông: nộp theo quy định tại khoản 1 Điều 5, Mục I.1 Biểu mức thu phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông.) | 50000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ Tài chính)
+    Mô tả: 1. Trường hợp doanh nghiệp trúng đấu giá quyền sử dụng tần số vô tuyến điện: 
+10 ngày làm việc kể từ ngày tổ chức đã nộp đủ các khoản tài chính quy định tại khoản 1 Điều 23 Nghị định số 63/2023/NĐ-CP đúng theo quy định 
+2. Trường hợp doanh nghiệp trúng tuyển thi tuyển quyển sử dụng tần số vô tuyến điện: 
+10 ngày làm việc kể từ ngày kết thúc thời hạn nộp tiền cấp quyền sử dụng tần số vô tuyến điện theo quy định tại điểm a khoản 3 Điều 54 Nghị định số 63/2023/NĐ-CP
+3. Trường hợp doanh nghiệp quy định tại điểm d khoản 4 Điều 18 Luật Tần số vô tuyến điện được sửa đổi, bổ sung tại khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Tần số vô tuyến điện
+10 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Báo cáo về việc nộp đủ các khoản tài chính quy định tại khoản 1 và khoản 2 Điều 23 Nghị định số 63/2023/NĐ-CP (đối với doanh nghiệp trúng đấu giá quyền sử dụng tần số vô tuyến điện)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo về việc nộp đủ các khoản tiền quy định tại khoản 3, khoản 4 Điều 30 Nghị định số 63/2023/NĐ-CP (đối với doanh nghiệp trúng tuyển thi tuyển quyền sử dụng tần số vô tuyến điện)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị cấp giấy phép kinh doanh dịch vụ viễn thông theo Mẫu số 04 tại phụ lục ban hành kèm theo Nghị định số 163/2024/NĐ-CP (đối với doanh nghiệp quy định tại điểm d khoản 4 Điều 18 Luật Tần số vô tuyến điện được sửa đổi, bổ sung tại khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Tần số vô tuyến điện)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hợp lệ giấy chứng nhận đăng ký doanh nghiệp (hoặc giấy chứng nhận hoặc giấy phép tương đương hợp lệ khác theo quy định của pháp luật về doanh nghiệp) bao gồm bản sao được cấp từ sổ gốc hoặc bản sao có chứng thực hoặc bản do cơ quan, tổ chức có thẩm quyền in từ các văn bản điện tử từ cơ sở dữ liệu quốc gia đối với trường hợp thông tin gốc được lưu trữ trên cơ sở dữ liệu quốc gia hoặc bản sao đối chiếu với bản chính. Cơ quan tiếp nhận, giải quyết thủ tục hành chính có trách nhiệm chủ động khai thác, sử dụng thông tin đã có trong các cơ sở dữ liệu được cơ quan chủ quản cơ sở dữ liệu công bố để thay thế thành phần hồ sơ giải quyết thủ tục hành chính. Trường hợp không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, chính xác thì cơ quan có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính gửi ngay văn bản để yêu cầu cá nhân, tổ chức bổ sung thành phần hồ sơ và nêu rõ lý do. Thời gian yêu cầu và bổ sung hồ sơ không tính vào thời hạn giải quyết thủ tục hành chính. (đối với doanh nghiệp quy định tại điểm d khoản 4 Điều 18 Luật Tần số vô tuyến điện được sửa đổi, bổ sung tại khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Tần số vô tuyến điện)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực quyết định của cấp có thẩm quyền về sử dụng băng tần để phát triển kinh tế kết hợp với nhiệm vụ quốc phòng, an ninh theo quy định của pháp luật về tần số vô tuyến điện (đối với doanh nghiệp quy định tại điểm d khoản 4 Điều 18 Luật Tần số vô tuyến điện được sửa đổi, bổ sung tại khoản 6 Điều 1 Luật sửa đổi, bổ sung một số điều của Luật Tần số vô tuyến điện).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp
+Cơ quan thực hiện: Cục Tần số vô tuyến điện, Cục Viễn thông
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa của Bộ Khoa học và Công nghệ
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng
+Căn cứ pháp lý:
+  * Luật Tần số vô tuyến điện (42/2009/QH12)
+  * Sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quân lý nhà nước của Bộ Khoa học và Công nghệ (15/2026/NĐ-CP)
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Viễn thông (163/2024/NĐ-CP)
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+  * Quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng phí quyền hoạt động viễn thông, lệ phí cấp giấy phép kinh doanh dịch vụ viễn thông và giấy phép nghiệp vụ viễn thông (52/2025/TT-BTC)
+  * Luật số 09/2022/QH15 của Quốc hội (09/2022/QH15)
+  * Nghị định số 63/2023/NĐ-CP của Chính phủ (63/2023/NĐ-CP)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29/4/2026 của Chính phủ ban hành Nghị quyết phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

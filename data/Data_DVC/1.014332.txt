@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014332
+Số quyết định: 2922/QĐ-BYT
+Tên thủ tục: Cấp lại Giấy chứng sinh
+Cấp thực hiện: Không có thông tin
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Dân số, Bà mẹ - Trẻ em
+Trình tự thực hiện:
+    Bước 1. Người mẹ hoặc người cha của trẻ hoặc người được cha, mẹ trẻ ủy quyền trực tiếp nộp hồ sơ đề nghị cấp lại giấy chứng sinh theo quy định tại khoản 2 Điều 4 Thông tư số 22/2025/TT-BYT ngày 28/6/2025 của Bộ trưởng Bộ Y tế cho cơ sở khám bệnh, chữa bệnh nơi đã cấp giấy chứng sinh cho trẻ lần đầu và xuất trình giấy tờ tùy thân hợp lệ có số định danh cá nhân hoặc hộ chiếu của người mẹ để đối chiếu. Trường hợp người đề nghị không phải là người mẹ đã sinh ra trẻ thì phải xuất trình giấy ủy quyền hợp pháp.
+    Bước 2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ sở khám bệnh, chữa bệnh có trách nhiệm cấp lại giấy chứng sinh cho trẻ. Trường hợp không xác minh được thông tin của người mẹ hoặc thông tin không chính xác thì không cấp lại giấy chứng sinh.
+    Mã số giấy chứng sinh cấp lại phải sử dụng mã số của giấy chứng sinh cũ đã cấp. Giấy chứng sinh cấp lại được lưu tại cơ sở khám bệnh, chữa bệnh cùng hồ sơ đề nghị cấp lại giấy chứng sinh.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 03 ngày làm việc kể từ ngày nhận được giấy tờ hợp lệ.
+
+Thành phần hồ sơ:
+    - Giấy tờ chứng minh liên quan đến nội dung nhầm lẫn hoặc còn thiếu đối với trường hợp cấp lại do nhầm lẫn, thiếu thông  tin.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tờ tùy thân hợp lệ có số định danh cá  nhân hoặc hộ chiếu của người mẹ để đối chiếu. Trường hợp người đề nghị không phải là người mẹ đã sinh ra trẻ thì phải xuất trình giấy ủy quyền hợp pháp.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Giấy chứng sinh đã cấp đối với trường hợp bị nhầm lẫn, thiếu thông tin,  rách, nát; (trừ trường hợp đề nghị cấp lại do mất)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai đề nghị cấp lại Giấy chứng sinh theo mẫu quy định tại Phụ lục III  ban hành kèm theo Thông tư số 22/2025/TT-BYT ngày 28/6/2025 của Bộ trưởng Bộ Y tế;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Người nước ngoài, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Cơ sở khám bệnh, chữa bệnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng sinh theo mẫu Phụ lục I kèm theo Thông tư số 22/2025/TT-BYT ngày 28/6/2025 của Bộ trưởng Bộ Y tế (bản giấy hoặc bản điện tử có ký số).
+Căn cứ pháp lý:
+  * Nghị định số 123/2015/NĐ-CP ngày 15/11/2015 của  Chính phủ quy định chi tiết một số điều và biện pháp thi  hành Luật Hộ tịch (123/2015/NĐ-CP)
+  * Nghị định quy định việc thực hiện liên thông điện tử 02 nhóm thủ tục hành chính: Đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi; đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai táng phí, tử tuất (63/2024/NĐ-CP)
+  * Thông tư số 22/2025/TT-BYT ngày 28/06/2025 QUY ĐỊNH CẤP VÀ SỬ DỤNG GIẤY CHỨNG SINH (22/2025/TT-BYT)
+
+Yêu cầu, điều kiện thực hiện: Các trường hợp được cấp lại giấy chứng sinh: giấy chứng sinh đã được cấp có nhầm lẫn, thiếu thông tin; giấy chứng sinh bị mất, rách, nát.
+Từ khóa: Không có thông tin
+Mô tả: Các trường hợp được cấp lại giấy chứng sinh: giấy chứng sinh đã được cấp có nhầm lẫn, thiếu thông tin; giấy chứng sinh bị mất, rách, nát.

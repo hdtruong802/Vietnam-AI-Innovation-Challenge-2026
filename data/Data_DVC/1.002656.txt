@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002656
+Số quyết định: 55/QĐ-BXD
+Tên thủ tục: Cấp Giấy phép tạm thời cho tàu biển mang cờ quốc tịch Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC
+    - Tổ chức, cá nhân gửi hồ sơ đề nghị cấp Giấy phép tạm thời mang cờ quốc tịch Việt Namcho tàu biển (hoặc tàu công vụ, tàu ngầm, tàu lặn, kho chứa nổi và giàn di động)đến một trong các Cơ quan đại diện của Việt Nam nơi mua tàu hoặc nơi bàn giao tàu.
+    b) Giải quyết TTHC
+    Cơ quan đại diện của Việt Nam tiếp nhận hồ sơ, thực hiện theo quy trình sau:
+    - Trường hợp nộp hồ sơ trực tiếp, nếu hồ sơ chưa hợp lệ thì hướng dẫn ngay cho tổ chức, cá nhân hoàn thiện hồ sơ; nếu hồ sơ hợp lệ thì vào sổ theo dõi, cấp giấy biên nhận hồ sơ và hẹn trả kết quả đúng thời gian quy định;
+    - Trường hợp nhận hồ sơ qua đường bưu chính, nếu hồ sơ không hợp lệ, chậm nhất 02 ngày làm việc, kể từ ngày nhận hồ sơ, Cơ quan đại diện của Việt Nam hướng dẫn hoàn thiện hồ sơ theo quy định;
+    - Chậm nhất 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan đại diện của Việt Nam cấp Giấy phép tạm thời mang cờ quốc tịch Việt Nam và trả trực tiếp hoặc gửi qua hệ thống bưu chính; trường hợp không cấp giấy phép phải trả lời bằng văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Hợp đồng mua, bán tàu biển hoặc hợp đồng đóng mới tàu biển hoặc các bằng chứng khác có giá trị pháp lý tương đương chứng minh quyền sở hữu đối với tàu biển (bản sao có chứng thực kèm bản chính để đối chiếu);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tờ khai đăng ký tàu biển theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp chủ tàu là tổ chức nước ngoài thì nộp giấy phép thành lập chi nhánh hoặc văn phòng đại diện tại Việt Nam (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Giấy chứng nhận dung tích tàu biển hiện có (bản sao có chứng thực);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Trường hợp đăng ký tàu biển công vụ, chủ tàu nộp Quyết định thành lập cơ quan, đơn vị của cấp có thẩm quyền (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu) thay Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã (bản sao có chứng thực hoặc bản sao kèm bản chính để đối chiếu).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Biên bản nghiệm thu bàn giao tàu đối với trường hợp nhận tàu đóng mới ở nước ngoài để đưa tàu về Việt Nam (bản sao kèm bản chính để đối chiếu);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy chứng nhận xóa đăng ký đối với trường hợp tàu biển đã qua sử dụng (bản sao kèm bản chính để đối chiếu);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Trường hợp chủ tàu là cá nhân người nước ngoài thì nộp hộ chiếu (bản sao kèm bản chính để đối chiếu)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Giấy chứng nhận phân cấp tàu biển hiện có (bản sao có chứng thực);
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cơ quan đại diện Việt Nam nơi mua tàu hoặc nơi bàn giao tàu
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép tạm thời mang cờ quốc tịch Việt Nam
+Căn cứ pháp lý:
+  * Về đăng ký, xóa đăng ký và mua, bán, đóng mới tàu biển (171/2016/NĐ-CP)
+  * Nghị định sửa đổi, bổ sung một số điều của Nghị định số 171/2016/NĐ-CP ngày 27 tháng 12 năm 2016 của Chính phủ về đăng ký, xóa đăng ký và mua, bán, đóng mới tàu biển (sau đây gọi tắt là Nghị định số 171/2016/NĐ-CP). (86/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

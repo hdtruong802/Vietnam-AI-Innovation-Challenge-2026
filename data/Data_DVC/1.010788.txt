@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010788
+Số quyết định: 556/QĐ-BNV
+Tên thủ tục: Công nhận và giải quyết chế độ ưu đãi người hoạt động cách mạng
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+  * Đối với người hoạt động cách mạng trước ngày 01 tháng 01 năm 1945
+    Bước 1: Cá nhân viết bản khai theo Mẫu số 01 Phụ lục I Nghị định số 131/2021/NĐ-CP gửi trên Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công kèm theo một trong các giấy tờ quy định tại Điều 5 Nghị định số 131/2021/NĐ-CP.
+    Bước 2: Ủy ban nhân dân cấp xã trong thời gian 05 ngày làm việc kể từ ngày nhận đủ giấy tờ theo Bước 1, có trách nhiệm xác nhận bản khai và gửi đầy đủ giấy tờ đến cơ quan có thẩm quyền quy định tại Điều 6 Nghị định số 131/2021/NĐ-CP.
+    Bước 3: Cơ quan có thẩm quyền trong thời gian 10 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm xem xét, ban hành quyết định công nhận theo Mẫu số 49 Phụ lục I Nghị định số 131/2021/NĐ-CP và chuyển hồ sơ đến Sở Nội vụ nơi người hưởng trợ cấp thường trú để giải quyết chế độ ưu đãi.
+    Bước 4: Sở Nội vụ trong thời gian 03 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, có trách nhiệm ban hành quyết định cấp giấy chứng nhận người hoạt động cách mạng trước ngày 01 tháng 01 năm 1945 và trợ cấp, phụ cấp ưu đãi theo Mẫu số 50 Phụ lục I Nghị định số 131/2021/NĐ-CP; đồng thời thực hiện việc cấp giấy chứng nhận theo Mẫu số 102 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+  * Đối với người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945
+    Bước 1: Cá nhân viết bản khai theo Mẫu số 02 Phụ lục I Nghị định số 131/2021/NĐ-CP gửi Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công kèm theo một trong các giấy tờ quy định tại Điều 10 Nghị định số 131/2021/NĐ-CP.
+    Bước 2: Ủy ban nhân dân cấp xã trong thời gian 05 ngày làm việc kể từ ngày nhận đủ giấy tờ theo Bước 1, có trách nhiệm xác nhận bản khai và gửi đầy đủ giấy tờ đến cơ quan có thẩm quyền quy định tại Điều 11 Nghị định số 131/2021/NĐ-CP.
+    Bước 3: Cơ quan có thẩm quyền trong thời gian 10 ngày làm việc kể từ ngày nhận đủ giấy tờ, có trách nhiệm xem xét, ban hành quyết định công nhận theo Mẫu số 49 Phụ lục I Nghị định số 131/2021/NĐ-CP và chuyển hồ sơ đến Sở Nội vụ nơi người hưởng trợ cấp thường trú để giải quyết chế độ ưu đãi.
+    Bước 4: Sở Nội vụ trong thời gian 03 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, có trách nhiệm ban hành quyết định cấp giấy chứng nhận người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945 và trợ cấp, phụ cấp ưu đãi theo Mẫu số 50 Phụ lục I Nghị định số 131/2021/NĐ-CP; đồng thời thực hiện việc cấp giấy chứng nhận theo Mẫu số 102 Phụ lục I Nghị định số 131/2021/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp. 18 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định
+(Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp. 18 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định
+(Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tiếp. 18 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định
+(Thời gian cụ thể được quy định tại từng bước của quy trình thực hiện).
+
+Thành phần hồ sơ:
+    - b) Đối với người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945: - Bản khai theo Mẫu số 02 Phụ lục I Nghị định số 131/2021/NĐ-CP. - Người còn sống hoặc người đã hy sinh, từ trần từ ngày 01 tháng 01 năm 1995 trở về sau thì căn cứ vào bản sao được chứng thực từ một trong các giấy tờ có ghi nhận thời gian tham gia hoạt động cách mạng sau: + Lý lịch của cán bộ, đảng viên khai từ năm 1969 trở về trước do cơ quan, tổ chức có thẩm quyền quản lý. + Lý lịch đảng viên khai năm 1975, 1976 theo Thông tri số 297/TT-TW ngày 20 tháng 4 năm 1974 của Ban Bí thư Trung ương Đảng (khóa III) đối với người hoạt động cách mạng do cơ quan, tổ chức để thất lạc lý lịch khai từ năm 1969 trở về trước hoặc người hoạt động cách mạng được kết nạp vào Đảng sau năm 1969 hoặc người hoạt động liên tục ở các chiến trường B, C, K từ năm 1954 đến ngày 30 tháng 4 năm 1975. - Người đã hy sinh, từ trần từ trước ngày 01 tháng 01 năm 1995 thì căn cứ một trong các giấy tờ có ghi nhận thời gian tham gia hoạt động cách mạng sau: + Bản sao được chứng thực từ lý lịch theo quy định tại khoản 1 Điều 10 Nghị định số 131/2021/NĐ-CP, từ hồ sơ khen thưởng Huân chương Hồ Chí Minh, Huân chương Độc lập hoặc từ hồ sơ, tài liệu đang lưu giữ tại cơ quan lưu trữ của Đảng, Nhà nước, bảo tàng lịch sử từ cấp huyện trở lên. + Bản trích lục hồ sơ liệt sĩ. + Lịch sử đảng bộ từ cấp xã trở lên được các cơ quan có thẩm quyền thẩm định, phê duyệt và cấp phép xuất bản.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - a) Đối với người hoạt động cách mạng trước ngày 01 tháng 01 năm 1945: - Bản khai theo Mẫu số 01 Phụ lục I Nghị định số 131/2021/NĐ-CP. - Người còn sống hoặc người đã hy sinh, từ trần sau ngày 30 tháng 6 năm 1999 thì căn cứ vào bản sao được chứng thực từ một trong các giấy tờ có ghi nhận thời gian tham gia hoạt động cách mạng sau: + Lý lịch của cán bộ, đảng viên khai từ năm 1962 trở về trước do cơ quan, tổ chức có thẩm quyền quản lý. + Lý lịch khai trong Cuộc vận động bảo vệ Đảng theo Chỉ thị số 90-CT/TW ngày 01 tháng 3 năm 1965 của Ban Bí thư Trung ương Đảng (khóa III). + Lý lịch đảng viên khai năm 1975, 1976 theo Thông tri số 297/TT-TW ngày 20 tháng 4 năm 1974 của Ban Bí thư Trung ương Đảng (khóa III) đối với người hoạt động cách mạng được kết nạp vào Đảng sau năm 1969 hoặc người hoạt động liên tục ở các chiến trường B, C, K từ năm 1954 đến ngày 30 tháng 4 năm 1975. - Người đã hy sinh, từ trần từ ngày 30 tháng 6 năm 1999 trở về trước thì căn cứ một trong các giấy tờ có ghi nhận thời gian tham gia hoạt động cách mạng sau: + Bản sao được chứng thực từ lý lịch theo quy định tại khoản 1 Điều 5 Nghị định 131/2021/NĐ-CP, từ hồ sơ khen thưởng Huân chương Sao vàng, Huân chương Hồ Chí Minh, Huân chương Độc lập hoặc từ hồ sơ, tài liệu đang lưu giữ tại cơ quan lưu trữ của Đảng, Nhà nước, bảo tàng lịch sử từ cấp huyện trở lên. + Bản trích lục hồ sơ liệt sĩ. + Lịch sử đảng bộ từ cấp xã trở lên được các cơ quan có thẩm quyền thẩm định, phê duyệt và cấp phép xuất bản.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Tổng cục Chính trị, Sở Nội vụ, Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Quyết định công nhận. - Quyết định cấp giấy chứng nhận và trợ cấp, phụ cấp ưu đãi. - Giấy chứng nhận người có công
+Căn cứ pháp lý:
+  * QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THI HÀNH PHÁP LỆNH ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Nghị định số 131/2021/NĐ-CP)
+  * ƯU ĐÃI NGƯỜI CÓ CÔNG VỚI CÁCH MẠNG (Pháp lệnh số: 02/2020/UBTVQH14)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+
+Yêu cầu, điều kiện thực hiện: Đối với người hoạt động cách mạng trước ngày 01 tháng 01 năm 1945
+- Người hoạt động cách mạng theo quy định tại khoản 1 Điều 8 Pháp lệnh là người được các cơ quan, tổ chức có thẩm quyền công nhận khi có một trong các điều kiện, tiêu chuẩn sau:
++ Đã tham gia một tổ chức cách mạng hoặc đã thực sự hoạt động cách mạng dưới sự lãnh đạo của Đảng trước ngày 01 tháng 01 năm 1945.
++ Được kết nạp hoặc được kết nạp lại vào Đảng Cộng sản Đông Dương trước ngày 19 tháng Tám năm 1945.
+Đối với người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945
+- Người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945 là người được cơ quan, tổ chức có thẩm quyền công nhận khi có một trong các điều kiện quy định tại khoản 1 Điều 11 Pháp lệnh.
+- Danh mục ngày khởi nghĩa tại các địa phương theo quy định tại Phụ lục II Nghị định số 131/2021/NĐ-CP.
+Không xem xét công nhận là người hoạt động cách mạng trước ngày 01 tháng 01 năm 1945, người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945 đối với người bị khai trừ ra khỏi Đảng.
+Từ khóa: Không có thông tin
+Mô tả: Đối với người hoạt động cách mạng trước ngày 01 tháng 01 năm 1945
+- Người hoạt động cách mạng theo quy định tại khoản 1 Điều 8 Pháp lệnh là người được các cơ quan, tổ chức có thẩm quyền công nhận khi có một trong các điều kiện, tiêu chuẩn sau:
++ Đã tham gia một tổ chức cách mạng hoặc đã thực sự hoạt động cách mạng dưới sự lãnh đạo của Đảng trước ngày 01 tháng 01 năm 1945.
++ Được kết nạp hoặc được kết nạp lại vào Đảng Cộng sản Đông Dương trước ngày 19 tháng Tám năm 1945.
+Đối với người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945
+- Người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945 là người được cơ quan, tổ chức có thẩm quyền công nhận khi có một trong các điều kiện quy định tại khoản 1 Điều 11 Pháp lệnh.
+- Danh mục ngày khởi nghĩa tại các địa phương theo quy định tại Phụ lục II Nghị định số 131/2021/NĐ-CP.
+Không xem xét công nhận là người hoạt động cách mạng trước ngày 01 tháng 01 năm 1945, người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945 đối với người bị khai trừ ra khỏi Đảng.

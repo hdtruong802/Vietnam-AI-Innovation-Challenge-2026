@@ -1,0 +1,85 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014767
+Số quyết định: 75/QĐ-NHNN
+Tên thủ tục: Thủ tục xác nhận việc đáp ứng các yêu cầu khai trương hoạt động/hoạt động tại địa điểm mới khi thay đổi địa điểm đặt trụ sở chi nhánh, phòng giao dịch của ngân hàng hợp tác xã/phòng giao dịch của quỹ tín dụng nhân dân
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    * Trình tự xác nhận việc đáp ứng các yêu cầu khai trương hoạt động chi nhánh, phòng giao dịch của ngân hàng hợp tác xã/phòng giao dịch của quỹ tín dụng nhân dân:
+    + Bước 1: Ngân hàng hợp tác xã/quỹ tín dụng nhân dân gửi văn bản báo cáo Ngân hàng Nhà nước chi nhánh Khu vực nơi đặt trụ sở chi nhánh, phòng giao dịch theo quy định chậm nhất 10 ngày làm việc trước ngày dự kiến khai trương hoạt động chi nhánh, phòng giao dịch;
+    + Bước 2: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được báo cáo của ngân hàng hợp tác xã/quỹ tín dụng nhân dân, Ngân hàng Nhà nước chi nhánh Khu vực:
+    (i) Kiểm tra việc đáp ứng các yêu cầu khai trương hoạt động chi nhánh, phòng giao dịch của ngân hàng hợp tác xã quy định tại khoản 1, khoản 2 Điều 15 Thông tư số 53/2025/TT-NHNN/phòng giao dịch của quỹ tín dụng nhân dân quy định tại khoản 1 Điều 33 Thông tư số 53/2025/TT-NHNN;
+    (ii) Có biên bản xác nhận việc đáp ứng hoặc không đáp ứng các yêu cầu về khai trương hoạt động của chi nhánh, phòng giao dịch của ngân hàng hợp tác xã/phòng giao dịch của quỹ tín dụng nhân dân.
+    * Trình tự xác nhận việc đáp ứng các yêu cầu hoạt động tại địa điểm mới khi thay đổi địa điểm đặt trụ sở chi nhánh, phòng giao dịch của ngân hàng hợp tác xã/phòng giao dịch của quỹ tín dụng nhân dân:
+    + Bước 1: Ngân hàng hợp tác xã/quỹ tín dụng nhân dân gửi văn bản báo cáo Ngân hàng Nhà nước chi nhánh Khu vực theo quy định chậm nhất 10 ngày làm việc trước ngày dự kiến hoạt động tại địa điểm được chấp thuận.
+    + Bước 2: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được báo cáo của ngân hàng hợp tác xã/quỹ tín dụng nhân dân, Ngân hàng Nhà nước chi nhánh Khu vực:
+    (i) Kiểm tra việc đáp ứng các yêu cầu hoạt động tại địa điểm mới khi thay đổi địa điểm đặt trụ sở chi nhánh, phòng giao dịch của ngân hàng hợp tác xã quy định tại khoản 1, khoản 2 Điều 15 Thông tư số 53/2025/TT-NHNN/phòng giao dịch của quỹ tín dụng nhân dân quy định tại khoản 1 Điều 33 Thông tư số 53/2025/TT-NHNN;
+    (ii) Có biên bản xác nhận việc đáp ứng hoặc không đáp ứng các yêu cầu để được hoạt động tại địa điểm mới.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - * Đối với xác nhận việc đáp ứng các yêu cầu hoạt động tại địa điểm mới khi thay đổi địa điểm đặt trụ sở chi nhánh, phòng giao dịch của ngân hàng hợp tác xã/phòng giao dịch của quỹ tín dụng nhân dân:
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - * Đối với xác nhận việc đáp ứng các yêu cầu khai trương hoạt động chi nhánh, phòng giao dịch của ngân hàng hợp tác xã/phòng giao dịch của quỹ tín dụng nhân dân:
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản báo cáo của ngân hàng hợp tác xã theo quy định tại khoản 3 Điều 15 Thông tư số 53/2025/TT-NHNN/quỹ tín dụng nhân dân theo quy định tại khoản 2 Điều 33 Thông tư số 53/2025/TT-NHNN;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản báo cáo của ngân hàng hợp tác xã theo quy định tại khoản 6 Điều 19 Thông tư số 53/2025/TT-NHNN/quỹ tín dụng nhân dân theo quy định tại khoản 4 Điều 35 Thông tư số 53/2025/TT-NHNN.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Biên bản xác nhận việc đáp ứng hoặc không đáp ứng các yêu cầu về khai trương hoạt động/hoạt động tại địa điểm mới khi thay đổi địa điểm đặt trụ sở chi nhánh, phòng giao dịch của ngân hàng hợp tác xã/phòng giao dịch của quỹ tín dụng nhân dân.
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Thông tư quy định về mạng lưới hoạt động của tổ chức tín dụng là hợp tác xã (53/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: - Yêu cầu khai trương hoạt động/hoạt động tại địa điểm mới khi thay đổi địa điểm đặt trụ sở chi nhánh của ngân hàng hợp tác xã:
++ Có quyền sở hữu hoặc sử dụng hợp pháp trụ sở chi nhánh; trụ sở phải đảm bảo lưu trữ chứng từ, thuận tiện và an toàn cho giao dịch, tài sản, có đầy đủ hệ thống đảm bảo an ninh, bảo vệ, hệ thống cấp điện, liên lạc duy trì liên tục, đáp ứng yêu cầu phòng, chống cháy nổ;
++ Trụ sở chi nhánh có kho tiền đảm bảo an toàn theo tiêu chuẩn quy định của Ngân hàng Nhà nước. Trường hợp ngân hàng hợp tác xã hiện có nhiều hơn 01 chi nhánh trên cùng địa bàn tỉnh, thành phố đã được Ngân hàng Nhà nước chấp thuận trước ngày Thông tư số 53/2025/TT-NHNN có hiệu lực thi hành, ngân hàng hợp tác xã phải có tối thiểu 01 chi nhánh có kho tiền theo tiêu chuẩn quy định của Ngân hàng Nhà nước và phải chịu trách nhiệm chuyển tiền của các chi nhánh không có kho tiền về chi nhánh có kho tiền theo quy định nội bộ của ngân hàng hợp tác xã; 
++ Có hệ thống công nghệ thông tin kết nối trực tuyến với trụ sở chính, đảm bảo hệ thống công nghệ thông tin, cơ sở dữ liệu hoạt động liên tục, an toàn, bảo mật cho các hoạt động nghiệp vụ; 
++ Có đầy đủ nhân sự điều hành gồm Giám đốc chi nhánh và đội ngũ cán bộ nghiệp vụ. Giám đốc chi nhánh không được đồng thời đảm nhiệm chức vụ, thực hiện công việc khác tại ngân hàng hợp tác xã;
++ Giám đốc chi nhánh đáp ứng tiêu chuẩn, điều kiện theo quy định của Thống đốc Ngân hàng Nhà nước về ngân hàng hợp tác xã, việc trích nộp, quản lý và sử dụng Quỹ bảo đảm an toàn hệ thống quỹ tín dụng nhân dân.
+- Yêu cầu khai trương hoạt động/hoạt động tại địa điểm mới khi thay đổi địa điểm đặt trụ sở phòng giao dịch của ngân hàng hợp tác xã:
++ Có quyền sở hữu hoặc sử dụng hợp pháp trụ sở phòng giao dịch; trụ sở phải đảm bảo thuận tiện và an toàn cho giao dịch, tài sản, có đầy đủ hệ thống đảm bảo an ninh, bảo vệ, hệ thống cấp điện, liên lạc duy trì liên tục, đáp ứng yêu cầu phòng, chống cháy nổ;
++ Phòng giao dịch tối thiểu phải có két sắt đảm bảo an toàn; 
++ Có hệ thống công nghệ thông tin kết nối trực tuyến với chi nhánh quản lý, đảm bảo hệ thống công nghệ thông tin, cơ sở dữ liệu hoạt động liên tục, an toàn, bảo mật cho các hoạt động nghiệp vụ;
++ Có đầy đủ nhân sự điều hành gồm Giám đốc phòng giao dịch và đội ngũ cán bộ nghiệp vụ. Giám đốc phòng giao dịch không được đồng thời đảm nhiệm chức vụ, thực hiện công việc khác tại ngân hàng hợp tác xã;
++ Giám đốc phòng giao dịch đáp ứng tiêu chuẩn, điều kiện đối với Giám đốc chi nhánh theo quy định của Thống đốc Ngân hàng Nhà nước về ngân hàng hợp tác xã, việc trích nộp, quản lý và sử dụng Quỹ bảo đảm an toàn hệ thống quỹ tín dụng nhân dân.
+- Yêu cầu khai trương hoạt động/hoạt động tại địa điểm mới khi thay đổi địa điểm đặt trụ sở phòng giao dịch của quỹ tín dụng nhân dân:
++ Có quyền sở hữu hoặc sử dụng hợp pháp trụ sở phòng giao dịch; trụ sở phải thuận tiện và an toàn cho giao dịch, tài sản, có đầy đủ hệ thống đảm bảo an ninh, bảo vệ, hệ thống cấp điện, liên lạc duy trì liên tục, đáp ứng yêu cầu phòng, chống cháy nổ;
++ Có két sắt đảm bảo an toàn;
+(iii) Có hệ thống công nghệ thông tin kết nối trực tuyến với trụ sở chính, đảm bảo hệ thống công nghệ thông tin, cơ sở dữ liệu hoạt động liên tục, an toàn, bảo mật cho các hoạt động nghiệp vụ; 
++ Có đầy đủ nhân sự điều hành tối thiểu gồm Giám đốc phòng giao dịch và đội ngũ cán bộ nghiệp vụ. Giám đốc phòng giao dịch không được đồng thời đảm nhiệm chức vụ, thực hiện công việc khác tại quỹ tín dụng nhân dân;
++ Giám đốc phòng giao dịch phải đáp ứng tiêu chuẩn, điều kiện đối với Giám đốc chi nhánh theo quy định của Thống đốc Ngân hàng Nhà nước về quỹ tín dụng nhân dân.
+Từ khóa: Không có thông tin
+Mô tả: - Yêu cầu khai trương hoạt động/hoạt động tại địa điểm mới khi thay đổi địa điểm đặt trụ sở chi nhánh của ngân hàng hợp tác xã:
++ Có quyền sở hữu hoặc sử dụng hợp pháp trụ sở chi nhánh; trụ sở phải đảm bảo lưu trữ chứng từ, thuận tiện và an toàn cho giao dịch, tài sản, có đầy đủ hệ thống đảm bảo an ninh, bảo vệ, hệ thống cấp điện, liên lạc duy trì liên tục, đáp ứng yêu cầu phòng, chống cháy nổ;
++ Trụ sở chi nhánh có kho tiền đảm bảo an toàn theo tiêu chuẩn quy định của Ngân hàng Nhà nước. Trường hợp ngân hàng hợp tác xã hiện có nhiều hơn 01 chi nhánh trên cùng địa bàn tỉnh, thành phố đã được Ngân hàng Nhà nước chấp thuận trước ngày Thông tư số 53/2025/TT-NHNN có hiệu lực thi hành, ngân hàng hợp tác xã phải có tối thiểu 01 chi nhánh có kho tiền theo tiêu chuẩn quy định của Ngân hàng Nhà nước và phải chịu trách nhiệm chuyển tiền của các chi nhánh không có kho tiền về chi nhánh có kho tiền theo quy định nội bộ của ngân hàng hợp tác xã; 
++ Có hệ thống công nghệ thông tin kết nối trực tuyến với trụ sở chính, đảm bảo hệ thống công nghệ thông tin, cơ sở dữ liệu hoạt động liên tục, an toàn, bảo mật cho các hoạt động nghiệp vụ; 
++ Có đầy đủ nhân sự điều hành gồm Giám đốc chi nhánh và đội ngũ cán bộ nghiệp vụ. Giám đốc chi nhánh không được đồng thời đảm nhiệm chức vụ, thực hiện công việc khác tại ngân hàng hợp tác xã;
++ Giám đốc chi nhánh đáp ứng tiêu chuẩn, điều kiện theo quy định của Thống đốc Ngân hàng Nhà nước về ngân hàng hợp tác xã, việc trích nộp, quản lý và sử dụng Quỹ bảo đảm an toàn hệ thống quỹ tín dụng nhân dân.
+- Yêu cầu khai trương hoạt động/hoạt động tại địa điểm mới khi thay đổi địa điểm đặt trụ sở phòng giao dịch của ngân hàng hợp tác xã:
++ Có quyền sở hữu hoặc sử dụng hợp pháp trụ sở phòng giao dịch; trụ sở phải đảm bảo thuận tiện và an toàn cho giao dịch, tài sản, có đầy đủ hệ thống đảm bảo an ninh, bảo vệ, hệ thống cấp điện, liên lạc duy trì liên tục, đáp ứng yêu cầu phòng, chống cháy nổ;
++ Phòng giao dịch tối thiểu phải có két sắt đảm bảo an toàn; 
++ Có hệ thống công nghệ thông tin kết nối trực tuyến với chi nhánh quản lý, đảm bảo hệ thống công nghệ thông tin, cơ sở dữ liệu hoạt động liên tục, an toàn, bảo mật cho các hoạt động nghiệp vụ;
++ Có đầy đủ nhân sự điều hành gồm Giám đốc phòng giao dịch và đội ngũ cán bộ nghiệp vụ. Giám đốc phòng giao dịch không được đồng thời đảm nhiệm chức vụ, thực hiện công việc khác tại ngân hàng hợp tác xã;
++ Giám đốc phòng giao dịch đáp ứng tiêu chuẩn, điều kiện đối với Giám đốc chi nhánh theo quy định của Thống đốc Ngân hàng Nhà nước về ngân hàng hợp tác xã, việc trích nộp, quản lý và sử dụng Quỹ bảo đảm an toàn hệ thống quỹ tín dụng nhân dân.
+- Yêu cầu khai trương hoạt động/hoạt động tại địa điểm mới khi thay đổi địa điểm đặt trụ sở phòng giao dịch của quỹ tín dụng nhân dân:
++ Có quyền sở hữu hoặc sử dụng hợp pháp trụ sở phòng giao dịch; trụ sở phải thuận tiện và an toàn cho giao dịch, tài sản, có đầy đủ hệ thống đảm bảo an ninh, bảo vệ, hệ thống cấp điện, liên lạc duy trì liên tục, đáp ứng yêu cầu phòng, chống cháy nổ;
++ Có két sắt đảm bảo an toàn;
+(iii) Có hệ thống công nghệ thông tin kết nối trực tuyến với trụ sở chính, đảm bảo hệ thống công nghệ thông tin, cơ sở dữ liệu hoạt động liên tục, an toàn, bảo mật cho các hoạt động nghiệp vụ; 
++ Có đầy đủ nhân sự điều hành tối thiểu gồm Giám đốc phòng giao dịch và đội ngũ cán bộ nghiệp vụ. Giám đốc phòng giao dịch không được đồng thời đảm nhiệm chức vụ, thực hiện công việc khác tại quỹ tín dụng nhân dân;
++ Giám đốc phòng giao dịch phải đáp ứng tiêu chuẩn, điều kiện đối với Giám đốc chi nhánh theo quy định của Thống đốc Ngân hàng Nhà nước về quỹ tín dụng nhân dân.

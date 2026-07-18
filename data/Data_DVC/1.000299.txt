@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000299
+Số quyết định: 3783/QĐ-BCT
+Tên thủ tục: Cấp Giấy chứng nhận đủ điều kiện kinh doanh xuất khẩu gạo
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    Thương nhân nộp hồ sơ đến Bộ Công Thương - 54 Hai Bà Trưng, Hà Nội
+    Bộ Công Thương kiểm tra tính hợp lệ, đầy đủ của hồ sơ
+    Trường hợp hồ sơ đầy đủ, hợp lệ, Bộ Công Thương tiến hành thẩm tra nội dung hồ sơ. Nếu hồ sơ đáp ứng đủ điều kiện, Bộ Công Thương cấp Giấy chứng nhận đủ điều kiện kinh doanh xuất khẩu gạo cho thương nhân theo mẫu quy định tại Nghị định số 107/2018/NĐ-CP của Chính phủ. Trường hợp không cấp Giấy chứng nhận, trong thời hạn 7 ngày làm việc, kể từ ngày nhận được hồ sơ, Bộ Công Thương phải trả lời thương nhân bằng văn bản và nêu rõ lý do
+    Giấy chứng nhận có thời hạn hiệu lực là 05 năm, kể từ ngày cấp. Khi Giấy chứng nhận hết hiệu lực, thương nhân phải đề nghị cấp Giấy chứng nhận mới để được tiếp tục kinh doanh xuất khẩu gạo
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Cơ quan giải quyết Thủ tục hành chính khai thác, sử dụng thông tin đã có trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp để thay thế thành phần hồ sơ Bản sao giấy chứng nhận đăng ký doanh nghiệp.  Trường hợp Cơ quan giải quyết TTHC không khai thác được hoặc khai thác không đầy đủ dữ liệu doanh nghiệp trên Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp, Cơ quan giải quyết TTHC yêu cầu doanh nghiệp bổ sung Bản sao Giấy chứng nhận đăng ký doanh nghiệp theo quy định tại Điều 8 Nghị quyết 66.7/2025/NQ-CP ngày 15/11/2025 của Chính phủ quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Hợp đồng thuê kho chứa, cơ sở xay, xát, chế biến thóc, gạo (đối với trường hợp thương nhân thuê kho chứa, cơ sở xay, xát, chế biến) hoặc giấy tờ chứng minh quyền sử dụng đất, quyền sở hữu kho chứa, cơ sở xay, xát, chế biến (đối với trường hợp kho chứa, cơ sở xay, xát, chế biến thuộc sở hữu của thương nhân): 1 (một) bản sao, có xác nhận và đóng dấu sao y bản chính của thương nhân
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Trường hợp nộp hồ sơ trực tiếp tại trụ sở Bộ Công Thương, thương nhân có thể nộp bản chụp các giấy tờ, tài liệu quy định tại điểm b, điểm c khoản 2 Điều 6 Nghị định số 107/2018/NĐ-CP và xuất trình kèm theo bản chính để đối chiếu
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Thành phần hồ sơ, bao gồm: - Đơn đề nghị Cấp giấy chứng nhận đủ điều kiện kinh doanh xuất khẩu gạo: 1 (một) bản chính. (Mẫu số 01 quy định tại Phụ lục kèm theo Nghị định số 107/2018/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp, Giấy chứng nhận đầu tư: 1 (một) bản sao, có xác nhận và đóng dấu sao y bản chính của thương nhân
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Cục Xuất nhập khẩu
+Cơ quan có thẩm quyền: Bộ Công thương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện kinh doanh xuất khẩu gạo
+Căn cứ pháp lý:
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * quy định về kinh doanh xuất khẩu gạo (107/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: 1. Thương nhân được thành lập, đăng ký kinh doanh theo quy định của pháp luật được kinh doanh xuất khẩu gạo khi đáp ứng các điều kiện sau:
+
+- Có ít nhất 01 kho chuyên dùng để chứa thóc, gạo phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về kho chứa thóc, gạo do cơ quan có thẩm quyền ban hành theo quy định của Luật tiêu chuẩn và quy chuẩn kỹ thuật; 
+- Có ít nhất 01 cơ sở xay, xát hoặc cơ sở chế biến thóc, gạo phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về kho chứa và cơ sở xay, xát, chế biến thóc, gạo do cơ quan có thẩm quyền ban hành theo quy định của Luật tiêu chuẩn và quy chuẩn kỹ thuật.
+2. Kho chứa, cơ sở xay, xát, chế biến thóc, gạo có thể thuộc sở hữu của thương nhân hoặc do thương nhân thuê của tổ chức, cá nhân khác, có hợp đồng thuê bằng văn bản theo quy định của pháp luật với thời hạn thuê tối thiểu 05 năm.
+- Thương nhân có Giấy chứng nhận không được cho thuê, cho thuê lại kho chứa, cơ sở xay, xát, chế biến thóc, gạo đã được kê khai để chứng mình việc đáp ứng điều kiện kinh doanh trong đơn đề nghị cấp Giấy chứng nhận của mình được thương nhân khác sử dụng vào mục đích xin cấp Giấy chứng nhận.
+Từ khóa: Không có thông tin
+Mô tả: 1. Thương nhân được thành lập, đăng ký kinh doanh theo quy định của pháp luật được kinh doanh xuất khẩu gạo khi đáp ứng các điều kiện sau:
+
+- Có ít nhất 01 kho chuyên dùng để chứa thóc, gạo phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về kho chứa thóc, gạo do cơ quan có thẩm quyền ban hành theo quy định của Luật tiêu chuẩn và quy chuẩn kỹ thuật; 
+- Có ít nhất 01 cơ sở xay, xát hoặc cơ sở chế biến thóc, gạo phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật quốc gia về kho chứa và cơ sở xay, xát, chế biến thóc, gạo do cơ quan có thẩm quyền ban hành theo quy định của Luật tiêu chuẩn và quy chuẩn kỹ thuật.
+2. Kho chứa, cơ sở xay, xát, chế biến thóc, gạo có thể thuộc sở hữu của thương nhân hoặc do thương nhân thuê của tổ chức, cá nhân khác, có hợp đồng thuê bằng văn bản theo quy định của pháp luật với thời hạn thuê tối thiểu 05 năm.
+- Thương nhân có Giấy chứng nhận không được cho thuê, cho thuê lại kho chứa, cơ sở xay, xát, chế biến thóc, gạo đã được kê khai để chứng mình việc đáp ứng điều kiện kinh doanh trong đơn đề nghị cấp Giấy chứng nhận của mình được thương nhân khác sử dụng vào mục đích xin cấp Giấy chứng nhận.

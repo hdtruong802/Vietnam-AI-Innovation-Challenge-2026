@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013802
+Số quyết định: 1859/QĐ-BTP
+Tên thủ tục: Phê duyệt Điều lệ Hiệp hội công chứng viên Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công chứng
+Trình tự thực hiện:
+    - Trong thời hạn 10 ngày làm việc kể từ ngày Điều lệ được Đại hội đại biểu công chứng viên toàn quốc thông qua, Hội đồng công chứng viên toàn quốc lập 01 bộ hồ sơ đề nghị phê duyệt Điều lệ, nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử về Bộ Tư pháp.
+    - Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ trưởng Bộ Tư pháp ban hành quyết định phê duyệt Điều lệ sau khi có ý kiến thống nhất của Bộ trưởng Bộ Nội vụ; trường hợp từ chối phải thông báo bằng văn bản có nêu rõ lý do. Thời hạn quy định tại khoản này không bao gồm thời hạn lấy ý kiến thống nhất của Bộ trưởng Bộ Nội vụ về dự thảo Điều lệ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ (Không quy định)
+    Mô tả: Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ (không bao gồm thời hạn lấy ý kiến thống nhất của Bộ trưởng Bộ Nội vụ về dự thảo Điều lệ).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ (Không quy định)
+    Mô tả: Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ (không bao gồm thời hạn lấy ý kiến thống nhất của Bộ trưởng Bộ Nội vụ về dự thảo Điều lệ).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ (Không quy định)
+    Mô tả: Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ (không bao gồm thời hạn lấy ý kiến thống nhất của Bộ trưởng Bộ Nội vụ về dự thảo Điều lệ).
+
+Thành phần hồ sơ:
+    - Dự thảo Điều lệ Hiệp hội công chứng viên Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Nghị quyết của Đại hội đại biểu công chứng viên toàn quốc về việc thông qua Điều lệ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị Bộ trưởng Bộ Tư pháp phê duyệt Điều lệ, trong đó nêu rõ nội dung cơ bản của dự thảo Điều lệ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Tư pháp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Điều lệ Hiệp hội công chứng viên Việt Nam được phê duyệt
+Căn cứ pháp lý:
+  * Nghị định số 104/2025/NĐ-CP ngày 15/5/2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Công chứng (104/2025/NĐ-CP)
+  * Luật Công chứng năm 2024 (46/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: - Đại hội đại biểu công chứng viên toàn quốc thông qua Điều lệ Hiệp hội công chứng viên Việt Nam. 
+- Điều lệ của Hiệp hội công chứng viên Việt Nam bao gồm những nội dung chủ yếu sau đây:
++ Tôn chỉ, mục đích và biểu tượng của Hiệp hội công chứng viên Việt Nam;
++ Quyền, nghĩa vụ của hội viên Hiệp hội công chứng viên Việt Nam;
++ Mối quan hệ giữa Hiệp hội công chứng viên Việt Nam và Hội công chứng viên;
++ Thủ tục gia nhập, rút tên khỏi danh sách hội viên của Hội công chứng viên, khai trừ tư cách hội viên;
++ Nhiệm kỳ, cơ cấu tổ chức, thể thức bầu, miễn nhiệm, bãi nhiệm, nhiệm vụ, quyền hạn của các cơ quan của Hiệp hội công chứng viên Việt Nam, Hội công chứng viên;
++ Mối quan hệ phối hợp giữa các Hội công chứng viên trong việc thực hiện các nhiệm vụ, quyền hạn theo quy định;
++ Cơ cấu, nhiệm vụ, quyền hạn của Đại hội đại biểu công chứng viên toàn quốc, Đại hội toàn thể công chứng viên của Hội công chứng viên; trình tự, thủ tục tiến hành Đại hội của Hiệp hội công chứng viên Việt Nam, Hội công chứng viên;
++ Việc ban hành nội quy của Hội công chứng viên;
++ Tài chính của Hiệp hội công chứng viên Việt Nam, Hội công chứng viên;
++ Khen thưởng, kỷ luật hội viên và giải quyết khiếu nại, tố cáo;
++ Nghĩa vụ báo cáo của Hiệp hội công chứng viên Việt Nam, Hội công chứng viên;
++ Quan hệ với cơ quan, tổ chức khác.
+- Trường hợp Điều lệ Hiệp hội công chứng viên Việt Nam bị từ chối phê duyệt thì Hội đồng công chứng viên toàn quốc phải sửa đổi nội dung Điều lệ hoặc tổ chức lại Đại hội để thông qua Điều lệ theo đúng quy định của pháp luật.
+Trong thời hạn 10 ngày làm việc kể từ ngày Điều lệ sửa đổi, bổ sung được thông qua, Hội đồng công chứng viên toàn quốc gửi Bộ Tư pháp Điều lệ sửa đổi, bổ sung để xem xét, phê duyệt. Việc phê duyệt Điều lệ sửa đổi, bổ sung được thực hiện theo quy định của Điều này.
+Từ khóa: Không có thông tin
+Mô tả: - Đại hội đại biểu công chứng viên toàn quốc thông qua Điều lệ Hiệp hội công chứng viên Việt Nam. 
+- Điều lệ của Hiệp hội công chứng viên Việt Nam bao gồm những nội dung chủ yếu sau đây:
++ Tôn chỉ, mục đích và biểu tượng của Hiệp hội công chứng viên Việt Nam;
++ Quyền, nghĩa vụ của hội viên Hiệp hội công chứng viên Việt Nam;
++ Mối quan hệ giữa Hiệp hội công chứng viên Việt Nam và Hội công chứng viên;
++ Thủ tục gia nhập, rút tên khỏi danh sách hội viên của Hội công chứng viên, khai trừ tư cách hội viên;
++ Nhiệm kỳ, cơ cấu tổ chức, thể thức bầu, miễn nhiệm, bãi nhiệm, nhiệm vụ, quyền hạn của các cơ quan của Hiệp hội công chứng viên Việt Nam, Hội công chứng viên;
++ Mối quan hệ phối hợp giữa các Hội công chứng viên trong việc thực hiện các nhiệm vụ, quyền hạn theo quy định;
++ Cơ cấu, nhiệm vụ, quyền hạn của Đại hội đại biểu công chứng viên toàn quốc, Đại hội toàn thể công chứng viên của Hội công chứng viên; trình tự, thủ tục tiến hành Đại hội của Hiệp hội công chứng viên Việt Nam, Hội công chứng viên;
++ Việc ban hành nội quy của Hội công chứng viên;
++ Tài chính của Hiệp hội công chứng viên Việt Nam, Hội công chứng viên;
++ Khen thưởng, kỷ luật hội viên và giải quyết khiếu nại, tố cáo;
++ Nghĩa vụ báo cáo của Hiệp hội công chứng viên Việt Nam, Hội công chứng viên;
++ Quan hệ với cơ quan, tổ chức khác.
+- Trường hợp Điều lệ Hiệp hội công chứng viên Việt Nam bị từ chối phê duyệt thì Hội đồng công chứng viên toàn quốc phải sửa đổi nội dung Điều lệ hoặc tổ chức lại Đại hội để thông qua Điều lệ theo đúng quy định của pháp luật.
+Trong thời hạn 10 ngày làm việc kể từ ngày Điều lệ sửa đổi, bổ sung được thông qua, Hội đồng công chứng viên toàn quốc gửi Bộ Tư pháp Điều lệ sửa đổi, bổ sung để xem xét, phê duyệt. Việc phê duyệt Điều lệ sửa đổi, bổ sung được thực hiện theo quy định của Điều này.

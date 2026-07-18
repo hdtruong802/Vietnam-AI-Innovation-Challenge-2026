@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.012568
+Số quyết định: 1752/QĐ-BCT
+Tên thủ tục: Giao tài sản kết cấu hạ tầng chợ do cấp xã quản lý
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tài sản kết cấu hạ tầng chợ do Nhà nước đầu tư, quản lý
+Trình tự thực hiện:
+    - Chủ đầu tư dự án (đối với tài sản kết cấu hạ tầng chợ được đầu tư xây dựng mới), đơn vị chủ trì quản lý tài sản (đối với tài sản kết cấu hạ tầng chợ được xác lập quyền sở hữu toàn dân theo quy định tại Điều 106 Luật Quản lý, sử dụng tài sản công) có văn bản kèm theo hồ sơ về tài sản gửi Ủy ban nhân dân cấp xã.
+    - Ủy ban nhân dân cấp xã xem xét, quyết định giao tài sản.
+    - Kể từ ngày có Quyết định giao tài sản kết cấu hạ tầng chợ của Ủy ban nhân dân cấp xã, các cơ quan, đơn vị có liên quan thực hiện việc bàn giao, tiếp nhận tài sản.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Danh mục tài sản đề nghị giao (tên tài sản, địa chỉ, loại hình công trình, năm xây dựng, năm đưa vào sử dụng, diện tích, số điểm kinh doanh tại chợ, giá trị tài sản, đánh giá tình trạng tài sản – nếu có): 01 bản chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản đề nghị được giao tài sản: 01 bản chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Quyết định xác lập quyền sở hữu toàn dân (đối với tài sản được xác lập quyền sở hữu toàn dân theo quy định tại Điều 106 Luật Quản lý, sử dụng tài sản công): 01 bản chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tờ trình của chủ đầu tư dự án/đơn vị chủ trì quản lý tài sản về việc giao tài sản cho đối tượng quản lý: 01 bản chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Quyết định phê duyệt dự án đầu tư xây dựng: 01 bản chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy tờ khác có liên quan (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Biên bản nghiệm thu đưa tài sản vào sử dụng (đối với tài sản được đầu tư xây dựng mới): 01 bản chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Hồ sơ hoàn công (đối với công trình đầu tư xây dựng mới)
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định giao tài sản, Bàn giao, tiếp nhận tài sản kết cấu hạ tầng chợ do Nhà nước đầu tư, quản lý
+Căn cứ pháp lý:
+  * Nghị định số 60/2024/NĐ-CP (60/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

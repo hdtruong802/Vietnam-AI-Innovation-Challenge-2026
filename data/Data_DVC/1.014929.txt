@@ -1,0 +1,100 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014929
+Số quyết định: 698/QĐ-UBND
+Tên thủ tục: Hỗ trợ, ưu đãi doanh nghiệp tham gia chuỗi cung ứng bán dẫn
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+  * 1. Tiếp nhận và kiểm tra hồ sơ:
+    a) Tổ chức, doanh nghiệp nộp 01 bộ hồ sơ qua Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh hoặc nộp trực tiếp tại Bộ phận một cửa tại Trung tâm hành chính công tỉnh hoặc qua dịch vụ bưu chính. Thành phần, số lượng hồ sơ theo quy định tại Điều 7 Quy định này.
+    b) Nội dung thực hiện: Tiếp nhận hồ sơ đề nghị hỗ trợ của tổ chức, doanh nghiệp; Trong thời hạn 01 ngày, Sở Khoa học và Công nghệ kiểm tra tính hợp lệ, đầy đủ của hồ sơ. Trường hợp hồ sơ chưa hợp lệ, Sở Khoa học và Công nghệ thông báo bằng văn bản để nhà đầu tư bổ sung, hoàn thiện.
+    c) Thời gian thực hiện: 02 ngày, kể từ ngày tiếp nhận hồ sơ.
+  * 2. Thành lập Hội đồng thẩm định
+    a) Cơ quan thực hiện: Sở Khoa học và Công nghệ.
+    b) Nội dung thực hiện: Lập Tờ trình đề nghị Chủ tịch Ủy ban nhân dân tỉnh quyết định thành lập Hội đồng thẩm định; Chủ tịch Ủy ban nhân dân tỉnh ban hành Quyết định thành lập Hội đồng; thành phần Hội đồng: Đại diện Sở Khoa học và Công nghệ (Chủ tịch Hội đồng), Sở Tài chính (Phó Chủ tịch Hội đồng), các chuyên gia kỹ thuật và đơn vị có liên quan.
+    c) Thời gian thực hiện: 07 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * 3. Tổ chức thẩm định hồ sơ
+    a) Cơ quan tổ chức: Hội đồng thẩm định.
+    b) Nội dung thực hiện: Nghiên cứu hồ sơ, đánh giá các tiêu chí theo quy định; họp thẩm định và kết luận dự án đủ/không đủ điều kiện hỗ trợ; lập biên bản và gửi kết quả về Sở Khoa học và Công nghệ.
+    c) Thời gian thực hiện: 08 ngày, kể từ khi Hội đồng được thành lập.
+  * 4. Tổng hợp và trình Ủy ban nhân dân tỉnh.
+    a) Cơ quan thực hiện: Sở Khoa học và Công nghệ
+    b) Nội dung thực hiện: Tổng hợp kết quả thẩm định; lập báo cáo, đề xuất Ủy ban nhân dân tỉnh xem xét hỗ trợ cho dự án.
+    c) Thời gian thực hiện: 03 ngày, kể từ ngày nhận được biên bản và kết quả thẩm định của Hội đồng thẩm định.
+  * 5. Ủy ban nhân dân tỉnh xem xét, quyết định
+    a) Cơ quan thực hiện: Ủy ban nhân dân tỉnh.
+    b) Nội dung thực hiện: Xem xét đề xuất hỗ trợ từ Sở Khoa học và Công nghệ.
+    c) Thời gian thực hiện: 05 ngày, kể từ khi nhận đề xuất của Sở Khoa học và Công nghệ.
+  * 6. Thông báo kết quả và triển khai hỗ trợ
+    a) Cơ quan thực hiện: Sở Khoa học và Công nghệ.
+    b) Nội dung: Thông báo chính thức cho tổ chức, doanh nghiệp về kết quả hỗ trợ.
+    c) Thời gian thực hiện: 03 ngày, kể từ ngày nhận được Quyết định của Ủy ban
+    nhân dân tỉnh.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 28 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 28 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 28 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị xác nhận dự án thuộc đối tượng hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (1) Văn bản đề nghị hỗ trợ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu, hồ sơ, chứng từ chứng minh tổ chức, doanh nghiệp đáp ứng tiêu chí và điều kiện hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Ủy ban nhân dân cấp tỉnh
+Căn cứ pháp lý:
+  * Quy định chính sách đặc thù cho phát triển công nghiệp bán dẫn; hỗ trợ, ưu đãi doanh nghiệp tham gia chuỗi cung ứng bán dẫn. (Nghị quyết 21/2025/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: 1. Dự án thiết kế chip bán dẫn được xem xét hỗ trợ khi đáp ứng các điều kiện sau:
+a) Có tổng mức đầu tư từ 40 tỷ đồng trở lên; phù hợp với định hướng phát triển ngành công nghiệp công nghệ số, công nghiệp bán dẫn của quốc gia và của tỉnh; có năng lực thiết kế chip, vi mạch tích hợp, sở hữu hoặc sử dụng công cụ EDA, IP nền tảng.
+b) Có kỹ sư, chuyên gia chuyên ngành thiết kế vi mạch, điện tử, công nghệ thông tin; đội ngũ quản lý dự án có kinh nghiệm trong lĩnh vực nghiên cứu, thiết kế hoặc phát triển sản phẩm công nghệ cao.
+c) Có sản phẩm mẫu, thiết kế IP, nền tảng mô phỏng hoặc giải pháp thiết kế chip cụ thể; có kế hoạch thương mại hóa hoặc ứng dụng trong các lĩnh vực công nghiệp, quốc phòng, nông nghiệp, đô thị thông minh, AI, IoT.
+d) Có hợp tác nghiên cứu, đào tạo hoặc chuyển giao công nghệ với viện, trường, doanh nghiệp trong, ngoài nước; dự án có tác động thúc đẩy hình thành chuỗi cung ứng, hệ sinh thái công nghiệp bán dẫn tại tỉnh.
+đ) Có phương án tài chính khả thi, khả năng duy trì hoạt động ổn định, tái đầu tư và mở rộng quy mô; cam kết báo cáo, giám sát, công khai kết quả sử dụng nguồn hỗ trợ theo quy định.
+2. Dự án sản xuất sản phẩm phụ trợ trực tiếp trong công nghiệp bán dẫn được xem xét hỗ trợ khi đáp ứng các điều kiện sau:
+a) Có tổng mức đầu tư từ 40 tỷ đồng trở lên; phù hợp các chiến lược, chương trình phát triển công nghiệp công nghệ số và công nghiệp bán dẫn; sản phẩm, công nghệ của dự án nằm trong danh mục được khuyến khích đầu tư phát triển theo Luật Công nghiệp công nghệ số. 
+b) Có năng lực nghiên cứu, thiết kế hoặc sản xuất trong lĩnh vực vi mạch, điện tử; có kỹ sư, chuyên gia chuyên ngành điện tử, công nghệ thông tin, vật liệu bán dẫn hoặc cơ điện tử; đội ngũ quản lý có kinh nghiệm triển khai dự án công nghệ cao.
+c) Dự án có mục tiêu thúc đẩy hình thành chuỗi cung ứng, tăng tỷ lệ nội địa hóa hoặc hỗ trợ trực tiếp các dự án thiết kế, sản xuất, đóng gói, kiểm thử chip bán dẫn trong nước; có hợp tác với doanh nghiệp, viện nghiên cứu, trường đại học trong và ngoài nước.
+d) Dự án tạo việc làm cho lao động kỹ thuật cao, góp phần nâng cao năng lực cạnh tranh công nghiệp của tỉnh, chuyển giao công nghệ tiên tiến hoặc có sản phẩm có khả năng thay thế nhập khẩu.
+đ) Có phương án tài chính khả thi, khả năng duy trì hoạt động ổn định, tái đầu tư và mở rộng quy mô; cam kết báo cáo, giám sát, công khai kết quả sử dụng nguồn hỗ trợ theo quy định.
+3. Dự án sản xuất thiết bị điện tử được xem xét hỗ trợ khi đáp ứng các điều kiện sau:
+a) Có tổng mức đầu tư từ 40 tỷ đồng trở lên, phù hợp với các chiến lược, chương trình phát triển công nghiệp công nghệ số và công nghiệp bán dẫn.
+b) Có năng lực thiết kế, sản xuất hoặc lắp ráp thiết bị điện tử, thiết bị viễn thông, thiết bị IoT, cảm biến, thiết bị tự động hóa hoặc thiết bị tích hợp chip bán dẫn; có kỹ sư, chuyên gia trong các lĩnh vực điện tử, công nghệ thông tin, tự động hóa, cơ điện tử, hoặc kỹ thuật điều khiển.
+c) Sản phẩm có yếu tố ứng dụng công nghệ bán dẫn hoặc chip thiết kế trong nước; có mục tiêu tăng tỷ lệ nội địa hóa, thay thế nhập khẩu hoặc liên kết trực tiếp với doanh nghiệp thiết kế, sản xuất, đóng gói, kiểm thử chip bán dẫn; có hợp tác nghiên cứu, phát triển hoặc sản xuất với doanh nghiệp, viện nghiên cứu, trường đại học trong và ngoài nước.
+d) Dự án có hợp đồng nguyên tắc với đối tác, hoặc văn bản ghi nhớ hợp tác với tổ chức, doanh nghiệp trong chuỗi giá trị sản xuất thiết bị điện tử.
+đ) Dự án có phương án tài chính khả thi, kế hoạch thương mại hóa rõ ràng, khả năng duy trì hoạt động ổn định, mở rộng quy mô, tái đầu tư; có cam kết báo cáo, giám sát, công khai kết quả sử dụng nguồn hỗ trợ theo quy định.
+Từ khóa: Không có thông tin
+Mô tả: 1. Dự án thiết kế chip bán dẫn được xem xét hỗ trợ khi đáp ứng các điều kiện sau:
+a) Có tổng mức đầu tư từ 40 tỷ đồng trở lên; phù hợp với định hướng phát triển ngành công nghiệp công nghệ số, công nghiệp bán dẫn của quốc gia và của tỉnh; có năng lực thiết kế chip, vi mạch tích hợp, sở hữu hoặc sử dụng công cụ EDA, IP nền tảng.
+b) Có kỹ sư, chuyên gia chuyên ngành thiết kế vi mạch, điện tử, công nghệ thông tin; đội ngũ quản lý dự án có kinh nghiệm trong lĩnh vực nghiên cứu, thiết kế hoặc phát triển sản phẩm công nghệ cao.
+c) Có sản phẩm mẫu, thiết kế IP, nền tảng mô phỏng hoặc giải pháp thiết kế chip cụ thể; có kế hoạch thương mại hóa hoặc ứng dụng trong các lĩnh vực công nghiệp, quốc phòng, nông nghiệp, đô thị thông minh, AI, IoT.
+d) Có hợp tác nghiên cứu, đào tạo hoặc chuyển giao công nghệ với viện, trường, doanh nghiệp trong, ngoài nước; dự án có tác động thúc đẩy hình thành chuỗi cung ứng, hệ sinh thái công nghiệp bán dẫn tại tỉnh.
+đ) Có phương án tài chính khả thi, khả năng duy trì hoạt động ổn định, tái đầu tư và mở rộng quy mô; cam kết báo cáo, giám sát, công khai kết quả sử dụng nguồn hỗ trợ theo quy định.
+2. Dự án sản xuất sản phẩm phụ trợ trực tiếp trong công nghiệp bán dẫn được xem xét hỗ trợ khi đáp ứng các điều kiện sau:
+a) Có tổng mức đầu tư từ 40 tỷ đồng trở lên; phù hợp các chiến lược, chương trình phát triển công nghiệp công nghệ số và công nghiệp bán dẫn; sản phẩm, công nghệ của dự án nằm trong danh mục được khuyến khích đầu tư phát triển theo Luật Công nghiệp công nghệ số. 
+b) Có năng lực nghiên cứu, thiết kế hoặc sản xuất trong lĩnh vực vi mạch, điện tử; có kỹ sư, chuyên gia chuyên ngành điện tử, công nghệ thông tin, vật liệu bán dẫn hoặc cơ điện tử; đội ngũ quản lý có kinh nghiệm triển khai dự án công nghệ cao.
+c) Dự án có mục tiêu thúc đẩy hình thành chuỗi cung ứng, tăng tỷ lệ nội địa hóa hoặc hỗ trợ trực tiếp các dự án thiết kế, sản xuất, đóng gói, kiểm thử chip bán dẫn trong nước; có hợp tác với doanh nghiệp, viện nghiên cứu, trường đại học trong và ngoài nước.
+d) Dự án tạo việc làm cho lao động kỹ thuật cao, góp phần nâng cao năng lực cạnh tranh công nghiệp của tỉnh, chuyển giao công nghệ tiên tiến hoặc có sản phẩm có khả năng thay thế nhập khẩu.
+đ) Có phương án tài chính khả thi, khả năng duy trì hoạt động ổn định, tái đầu tư và mở rộng quy mô; cam kết báo cáo, giám sát, công khai kết quả sử dụng nguồn hỗ trợ theo quy định.
+3. Dự án sản xuất thiết bị điện tử được xem xét hỗ trợ khi đáp ứng các điều kiện sau:
+a) Có tổng mức đầu tư từ 40 tỷ đồng trở lên, phù hợp với các chiến lược, chương trình phát triển công nghiệp công nghệ số và công nghiệp bán dẫn.
+b) Có năng lực thiết kế, sản xuất hoặc lắp ráp thiết bị điện tử, thiết bị viễn thông, thiết bị IoT, cảm biến, thiết bị tự động hóa hoặc thiết bị tích hợp chip bán dẫn; có kỹ sư, chuyên gia trong các lĩnh vực điện tử, công nghệ thông tin, tự động hóa, cơ điện tử, hoặc kỹ thuật điều khiển.
+c) Sản phẩm có yếu tố ứng dụng công nghệ bán dẫn hoặc chip thiết kế trong nước; có mục tiêu tăng tỷ lệ nội địa hóa, thay thế nhập khẩu hoặc liên kết trực tiếp với doanh nghiệp thiết kế, sản xuất, đóng gói, kiểm thử chip bán dẫn; có hợp tác nghiên cứu, phát triển hoặc sản xuất với doanh nghiệp, viện nghiên cứu, trường đại học trong và ngoài nước.
+d) Dự án có hợp đồng nguyên tắc với đối tác, hoặc văn bản ghi nhớ hợp tác với tổ chức, doanh nghiệp trong chuỗi giá trị sản xuất thiết bị điện tử.
+đ) Dự án có phương án tài chính khả thi, kế hoạch thương mại hóa rõ ràng, khả năng duy trì hoạt động ổn định, mở rộng quy mô, tái đầu tư; có cam kết báo cáo, giám sát, công khai kết quả sử dụng nguồn hỗ trợ theo quy định.

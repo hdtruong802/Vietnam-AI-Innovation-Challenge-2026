@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003593
+Số quyết định: 31/QĐ-BNNMT
+Tên thủ tục: Cấp giấy xác nhận nguyên liệu thủy sản khai thác
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thủy sản
+Trình tự thực hiện:
+    a) Tổ chức, cá nhân nộp 01 bộ hồ sơ đề nghị Xác nhận nguyên liệu thủy sản khai thác trong nước theo quy định đến Tổ chức quản lý cảng cá được chỉ định xác nhận nguồn gốc nguyên liệu thủy sản từ khai thác.
+    - Trường hợp nộp hồ sơ theo hình thức trực tiếp tại Bộ phận Một cửa hoặc thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật thì các thành phần hồ sơ là bản sao kèm theo bản chính để thực hiện xác nhận đối với phần nguyên liệu thủy sản chưa sử dụng sử dụng hết;
+    - Trường hợp nộp hồ sơ theo hình thức trực tuyến tại Cổng Dịch vụ công quốc gia thì các thành phần hồ sơ là bản gốc được xác lập trên môi trường điện tử hoặc bản chính được scan theo quy định và gửi bản chính đến Tổ chức quản lý cảng cá được chỉ định xác nhận nguồn gốc nguyên liệu thủy sản từ khai thác nơi nộp hồ sơ để thực hiện xác nhận đối với phần nguyên liệu thủy sản chưa sử dụng sử dụng hết.
+    b) Tổ chức quản lý cảng cá được chỉ định xác nhận nguồn gốc nguyên liệu thủy sản từ khai thác trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp tại Bộ phận Một cửa; trả lời bằng văn bản về tính đầy đủ của hồ sơ trong 01 ngày làm việc kể từ ngày tiếp nhận hồ sơ đối với trường hợp nộp hồ sơ thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật và hình thức trực tuyến tại Cổng Dịch vụ công quốc gia.
+    c) Trong thời hạn 01 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ, tổ chức quản lý cảng cá thẩm định thông tin đề nghị xác nhận về khối lượng, thành phần loài thủy sản bốc dỡ tại cảng với Sổ theo dõi tàu cá cập cảng bốc dỡ thủy sản, vùng và thời gian khai thác với hành trình của tàu trong hệ thống giám sát tàu cá và cấp Giấy xác nhận nguyên liệu thủy sản khai thác theo Mẫu số 01 Phụ lục III ban hành kèm theo Thông tư 81/2025/TT-BNNMT ngày 31/12/2025. Trường hợp không cấp giấy xác nhận, tổ chức quản lý cảng cá trả lời bằng văn bản và nêu rõ lý do.
+    Trường hợp chưa xác nhận hết khối lượng thủy sản trong giấy biên nhận sản phẩm thủy sản khai thác bốc dỡ, tổ chức quản lý cảng cá trả lại bản chính lượng nguyên liệu còn lại cho tổ chức, cá nhân đề nghị. Trường hợp xác nhận hết khối lượng thủy sản, tổ chức quản lý cảng cá thu bản chính giấy biên nhận và lưu hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Nộp 150.000 đồng + (số tấn thủy sản x 15.000 đồng/tấn); Tối đa 700.000 đồng/lần theo Thông tư số 118/2018/TT-BTC ngày 28/11/2018 (thực hiện từ ngày 15/01/2019))
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Nộp 150.000 đồng + (số tấn thủy sản x 15.000 đồng/tấn); Tối đa 700.000 đồng/lần theo Thông tư số 118/2018/TT-BTC ngày 28/11/2018 (thực hiện từ ngày 15/01/2019))
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Nộp 150.000 đồng + (số tấn thủy sản x 15.000 đồng/tấn); Tối đa 700.000 đồng/lần theo Thông tư số 118/2018/TT-BTC ngày 28/11/2018 (thực hiện từ ngày 15/01/2019))
+
+Thành phần hồ sơ:
+    - - Giấy biên nhận sản phẩm thủy sản khai thác bốc dỡ được tổ chức quản lý cảng cá cấp theo Mẫu số 01 Phụ lục II ban hành kèm theo Thông tư 81/2025/TT-BNNMT ngày 31/12/2025
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Giấy xác nhận nguyên liệu thủy sản khai thác theo Mẫu số 01 Phụ lục III ban hành kèm theo Thông tư 81/2025/TT-BNNMT ngày 31/12/2025 đã kê khai đầu đủ thông tin
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy xác nhận nguyên liệu thủy sản khai thác
+Căn cứ pháp lý:
+  * Luật (Luật 18/2017/QH14)
+  * Luật sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường (Luật số 146/2025/QH15)
+  * Quy định ghi, nộp báo cáo, nhật ký khai thác thủy sản; kiểm tra tàu cá và giám sát sản lượng thủy sản tại cảng cá; danh sách tàu cá khai thác thủy sản bất hợp pháp; xác nhận nguyên liệu, chứng nhận nguồn gốc thủy sản khai thác (Thông tư số 81/2025/TT-BNNMT)
+  * Thông tư số 118/2018/TT-BTC (118/2018/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

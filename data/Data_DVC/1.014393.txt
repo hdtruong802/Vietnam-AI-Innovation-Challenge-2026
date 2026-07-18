@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014393
+Số quyết định: 3212/QĐ-BKHCN.
+Tên thủ tục: Công nhận trung tâm nghiên cứu và phát triển (Sở Khoa học và Công nghệ)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    a) Tổ chức có nhu cầu đề nghị công nhận trung tâm nghiên cứu và phát triển gửi 01 bộ hồ sơ về Sở Khoa học và Công nghệ thông qua hệ thống dịch vụ công trực tuyến, nộp trực tiếp hoặc gửi qua đường bưu điện;
+    b) Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Sở Khoa học và Công nghệ kiểm tra tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ chưa đầy đủ hoặc không hợp lệ, phải có văn bản yêu cầu sửa đổi, bổ sung;
+    c) Trong thời hạn 30 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Khoa học và Công nghệ thành lập Hội đồng tư vấn công nhận trung tâm nghiên cứu và phát triển, tiến hành thẩm định và cấp giấy công nhận trung tâm nghiên cứu và phát triển. Trường hợp từ chối, phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Danh sách nhân lực của tổ chức
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu minh chứng mức chi hoặc cam kết chi cho hoạt động nghiên cứu khoa học và phát triển công nghệ của tổ chức
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Văn bản đề nghị công nhận trung tâm nghiên cứu và phát triển, nêu rõ mục tiêu, lĩnh vực hoạt động chính và cam kết tuân thủ các quy định của pháp luật của tổ chức
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu minh chứng kết quả nghiên cứu được ứng dụng, chuyển giao, thương mại hoá trong 05 năm gần nhất của tổ chức; hoặc tài liệu xác nhận việc nộp đơn đăng ký sáng chế, giải pháp hữu ích được cơ quan có thẩm quyền tiếp nhận theo quy định pháp luật
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao hợp lệ các tài liệu sau: quyết định thành lập, điều lệ tổ chức và hoạt động của tổ chức
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Khoa học và Công nghệ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy công nhận trung tâm nghiên cứu và phát triển
+Căn cứ pháp lý:
+  * Luật số 93/2025/QH15 của Quốc hội: Luật Khoa học, công nghệ và đổi mới sáng tạo (93/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

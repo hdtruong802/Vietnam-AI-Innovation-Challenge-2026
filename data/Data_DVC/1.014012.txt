@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014012
+Số quyết định: 2527/QĐ-BKHCN
+Tên thủ tục: Phân bổ mã mạng di động H2H, số dịch vụ giải đáp thông tin, số dịch vụ tin nhắn ngắn theo phương thức đấu giá
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    1. Người trúng đấu giá mã mạng di động H2H, số dịch vụ giải đáp thông tin, số dịch vụ tin nhắn ngắn nộp 01 bộ hồ sơ đề nghị phân bổ mã, số viễn thông tới Ủy ban nhân dân cấp tỉnh nơi tổ chức, doanh nghiệp đặt trụ sở chính.
+    2. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh thẩm định, ban hành quyết định phân bổ mã, số viễn thông trúng đấu giá.
+    3. Trường hợp từ chối phân bổ mã, số viễn thông, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh có văn bản trả lời, nêu rõ lý do từ chối.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 350000 VNĐ (theo quy định tại Thông tư số 55/2025/TT-BTC ngày 25 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng lệ phí phân bổ và phí sử dụng mã, số viễn thông.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 350000 VNĐ (Theo quy định tại Thông tư số 55/2025/TT-BTC ngày 25 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng lệ phí phân bổ và phí sử dụng mã, số viễn thông.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 350000 VNĐ (theo quy định tại Thông tư số 55/2025/TT-BTC ngày 25 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng lệ phí phân bổ và phí sử dụng mã, số viễn thông.)
+
+Thành phần hồ sơ:
+    - Đơn đề nghị phân bổ mã, số viễn thông theo Mẫu số 31 tại phụ lục I ban hành kèm theo Nghị quyết số 20/2026/NQ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu theo quy định tại điểm b khoản 1 Điều 6 Nghị định này (áp dụng đối với tổ chức, doanh nghiệp); bản sao thẻ căn cước công dân hoặc thẻ căn cước (áp dụng đối với cá nhân). Cơ quan tiếp nhận, giải quyết thủ tục hành chính có trách nhiệm chủ động khai thác, sử dụng thông tin đã có trong các cơ sở dữ liệu được cơ quan chủ quản cơ sở dữ liệu công bố để thay thế thành phần hồ sơ giải quyết thủ tục hành chính. Đối với căn cước công dân hoặc căn cước thì cơ quan giải quyết thủ tục hành chính thực hiện việc khai thác các thông tin, giấy tờ này từ Cơ sở dữ liệu quốc gia về dân cư. Trường hợp không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, chính xác thì cơ quan có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính gửi ngay văn bản để yêu cầu cá nhân, tổ chức bổ sung thành phần hồ sơ và nêu rõ lý do. Thời gian yêu cầu và bổ sung hồ sơ không tính vào thời hạn giải quyết thủ tục hành chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phân bổ mã, số viễn thông theo Mẫu số 32 tại phụ lục I ban hành kèm theo Nghị quyết số 20/2026/NQ-CP
+Căn cứ pháp lý:
+  * Nghị quyết số 20/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quân lý nhà nước của Bộ Khoa học và Công nghệ (15/2026/NĐ-CP)
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+  * Thông tư 55/2025/TT-BTC quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng lệ phí phân bổ và phí sử dụng mã, số viễn thông. (55/2025/TT-BTC)
+  * Nghị định số 115/2025/NĐ-CP ngày 03/6/2025 của Chính phủ quy định chi tiết một số điều của Luật Viễn thông về quản lý kho số viễn thông, tài nguyên Internet; việc bồi thường khi nhà nước thu hồi mã, số viễn thông, tài nguyên Internet; đấu giá quyền sử dụng mã, số viễn thông, tên miền quốc gia Việt Nam “.vn”. (115/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

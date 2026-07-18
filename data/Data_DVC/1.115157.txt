@@ -1,0 +1,72 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115157
+Số quyết định: 1402/QĐ-BTC
+Tên thủ tục: Thủ tục thanh toán, quyết toán vốn ngân sách nhà nước để cấp bù lãi suất cho các ngân hàng thương mại thực hiện các chính sách tín dụng ưu đãi của Nhà nước
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Định chế tài chính
+Trình tự thực hiện:
+    + Bước 1: Trước ngày 20 của tháng đầu tiên hằng quý, ngân hàng thương mại gửi Ngân hàng Nhà nước Việt Nam hồ sơ đề nghị thanh toán số tiền cấp bù lãi suất đã thực hiện, riêng hồ sơ của quý IV hằng năm gửi trước ngày 05 tháng 01 năm kế tiếp.
+    + Bước 2: Trường hợp hồ sơ đề nghị của ngân hàng thương mại chưa hợp lệ, Ngân hàng Nhà nước Việt Nam gửi thông báo bằng văn bản cho ngân hàng thương mại trong vòng 05 ngày làm việc để hoàn thiện hồ sơ. Trong vòng 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước Việt Nam rà soát, tổng hợp số tiền đề nghị thanh toán của ngân hàng thương mại.
+    + Bước 3: Ngân hàng Nhà nước Việt Nam lập hồ sơ đề nghị thanh toán cấp bù lãi suất cho các ngân hàng thương mại và gửi Kho bạc Nhà nước.
+    + Bước 4: Kho bạc Nhà nước tiếp nhận, kiểm tra các thông tin trên hồ sơ đề nghị thanh toán của Ngân hàng Nhà nước Việt Nam, trong phạm vi kế hoạch vốn đầu tư công hằng năm được giao, phạm vi tồn quỹ ngân sách để làm thủ tục thanh toán cho ngân hàng thương mại.
+    Trường hợp Kho bạc Nhà nước từ chối đề nghị thanh toán, Kho bạc Nhà nước gửi thông báo từ chối chấp thuận thanh toán khoản chi ngân sách nhà nước (trong đó nêu rõ lý do từ chối) cho Ngân hàng Nhà nước Việt Nam.
+    + Bước 5: Ngân hàng thương mại có trách nhiệm lập hồ sơ quyết toán cấp bù lãi suất, trong đó xác định chính xác số tiền cấp bù lãi suất cho từng khách hàng và tổng hợp chung của cả ngân hàng thương mại gửi Ngân hàng Nhà nước Việt Nam.
+    + Bước 6: Ngân hàng Nhà nước Việt Nam kiểm tra về tính đầy đủ, khớp đúng của các số liệu tại hồ sơ quyết toán vốn ngân sách nhà nước để cấp bù lãi suất theo năm ngân sách của từng ngân hàng thương mại, thực hiện xét duyệt quyết toán theo quy định tại khoản 2 Điều 69 Luật Ngân sách nhà nước, Điều 32 Nghị định số 73/2026/NĐ-CP ngày 10 tháng 3 năm 2026 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Ngân sách nhà nước và ra thông báo xét duyệt quyết toán vốn ngân sách nhà nước để cấp bù lãi suất cho các ngân hàng thương mại theo năm ngân sách.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: + Thanh toán vốn ngân sách nhà nước để cấp bù lãi suất: 
+Trường hợp hồ sơ đề nghị của ngân hàng thương mại chưa hợp lệ, Ngân hàng Nhà nước Việt Nam gửi thông báo bằng văn bản cho ngân hàng thương mại trong vòng 05 ngày làm việc để hoàn thiện hồ sơ. Trong vòng 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước Việt Nam rà soát, tổng hợp số tiền đề nghị thanh toán của ngân hàng thương mại.
+Trong vòng 02 ngày làm việc kể từ ngày Kho bạc Nhà nước nhận đủ hồ sơ đề nghị thanh toán của Ngân hàng Nhà nước Việt Nam.
++ Quyết toán vốn ngân sách nhà nước để cấp bù lãi suất: Thực hiện theo quy định tại khoản 2 Điều 69 Luật Ngân sách nhà nước, Điều 32 Nghị định số 73/2026/NĐ-CP ngày 10 tháng 3 năm 2026 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Ngân sách nhà nước.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: + Thanh toán vốn ngân sách nhà nước để cấp bù lãi suất: 
+Trường hợp hồ sơ đề nghị của ngân hàng thương mại chưa hợp lệ, Ngân hàng Nhà nước Việt Nam gửi thông báo bằng văn bản cho ngân hàng thương mại trong vòng 05 ngày làm việc để hoàn thiện hồ sơ. Trong vòng 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước Việt Nam rà soát, tổng hợp số tiền đề nghị thanh toán của ngân hàng thương mại.
+Trong vòng 02 ngày làm việc kể từ ngày Kho bạc Nhà nước nhận đủ hồ sơ đề nghị thanh toán của Ngân hàng Nhà nước Việt Nam.
++ Quyết toán vốn ngân sách nhà nước để cấp bù lãi suất: Thực hiện theo quy định tại khoản 2 Điều 69 Luật Ngân sách nhà nước, Điều 32 Nghị định số 73/2026/NĐ-CP ngày 10 tháng 3 năm 2026 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Ngân sách nhà nước.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: + Thanh toán vốn ngân sách nhà nước để cấp bù lãi suất: 
+Trường hợp hồ sơ đề nghị của ngân hàng thương mại chưa hợp lệ, Ngân hàng Nhà nước Việt Nam gửi thông báo bằng văn bản cho ngân hàng thương mại trong vòng 05 ngày làm việc để hoàn thiện hồ sơ. Trong vòng 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước Việt Nam rà soát, tổng hợp số tiền đề nghị thanh toán của ngân hàng thương mại.
+Trong vòng 02 ngày làm việc kể từ ngày Kho bạc Nhà nước nhận đủ hồ sơ đề nghị thanh toán của Ngân hàng Nhà nước Việt Nam.
++ Quyết toán vốn ngân sách nhà nước để cấp bù lãi suất: Thực hiện theo quy định tại khoản 2 Điều 69 Luật Ngân sách nhà nước, Điều 32 Nghị định số 73/2026/NĐ-CP ngày 10 tháng 3 năm 2026 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Ngân sách nhà nước.
+
+Thành phần hồ sơ:
+  [ Hồ sơ thanh toán vốn ngân sách nhà nước để cấp bù lãi suất ]
+    - Văn bản đề nghị thanh toán số tiền cấp bù lãi suất, trong đó ghi rõ số tiền ngân hàng thương mại đã hỗ trợ lãi suất cho khách hàng, số tiền đề nghị thanh toán cấp bù lãi suất, tài khoản nhận tiền của ngân hàng thương mại.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo về tình hình thực hiện hỗ trợ lãi suất đối với khách hàng của ngân hàng thương mại theo mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định số 157/2026/NĐ-CP của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bảng kê chứng từ chứng minh khách hàng đã được hỗ trợ lãi suất theo mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 157/2026/NĐ-CP của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hồ sơ quyết toán vốn ngân sách nhà nước để cấp bù lãi suất ]
+    - Công văn về việc quyết toán cấp bù lãi suất, trong đó ghi rõ số tiền ngân hàng thương mại đã hỗ trợ lãi suất cho khách hàng, số tiền hỗ trợ lãi suất đã thu hồi, số tiền ngân sách nhà nước đã thanh toán, số tiền đề nghị quyết toán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo tổng hợp số liệu đề nghị quyết toán cấp bù lãi suất của ngân hàng thương mại đã được kiểm toán bởi kiểm toán độc lập hoặc Kiểm toán nhà nước.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bảng kê chứng từ chứng minh khách hàng đã được hỗ trợ lãi suất trong năm quyết toán.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Kho bạc Nhà nước - Bộ tài chính, Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Kho bạc Nhà nước - Bộ tài chính, Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Ngân hàng Nhà nước Việt Nam
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Chứng từ báo Nợ của Kho bạc Nhà nước gửi Ngân hàng Nhà nước Việt Nam, Thông báo xét duyệt quyết toán vốn ngân sách nhà nước để cấp bù lãi suất theo năm ngân sách của Ngân hàng Nhà nước Việt Nam.
+Căn cứ pháp lý:
+  * Luật Ngân sách nhà nước số 89/2025/QH15 (89/2025/QH15)
+  * quy định chi tiết và hướng dẫn thi hành một số điều của Luật Ngân sách nhà nước. (73/2026/NĐ-CP)
+  * Về thanh toán, quyết toán vốn ngân sách nhà nước để cấp bù lãi suất cho các ngân hàng thương mại thực hiện các chính sách tín dụng ưu đãi của Nhà nước. (157/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: + Các khoản vay được cấp bù lãi suất phải đáp ứng đầy đủ các điều kiện được cấp bù lãi suất theo quy định của pháp luật, có đầy đủ chứng từ hợp pháp.
++ Ngân hàng thương mại chịu trách nhiệm về tính hợp lệ, chính xác của hồ sơ, số liệu đề nghị thanh toán số tiền cấp bù lãi suất, hồ sơ, số liệu quyết toán cấp bù lãi suất theo quy định của pháp luật.
+Từ khóa: Không có thông tin
+Mô tả: + Các khoản vay được cấp bù lãi suất phải đáp ứng đầy đủ các điều kiện được cấp bù lãi suất theo quy định của pháp luật, có đầy đủ chứng từ hợp pháp.
++ Ngân hàng thương mại chịu trách nhiệm về tính hợp lệ, chính xác của hồ sơ, số liệu đề nghị thanh toán số tiền cấp bù lãi suất, hồ sơ, số liệu quyết toán cấp bù lãi suất theo quy định của pháp luật.

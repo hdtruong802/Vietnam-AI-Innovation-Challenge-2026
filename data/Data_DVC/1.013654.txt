@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013654
+Số quyết định: 1913/QĐ-BTC
+Tên thủ tục: Thông báo phát hành biên lai đặt in/tự in.
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Trường hợp (1) Thông báo phát hành lần đầu:
+    - Tổ chức thu phí, lệ phí trước khi sử dụng biên lai đặt in, tự in phải lập Thông báo phát hành biên lai và gửi đến cơ quan quản lý thuế quản lý trực tiếp hoặc cơ quan quản lý thuế nơi người nộp thuế đóng trụ sở. Thông báo phát hành biên lai gửi cơ quan quản lý thuế theo phương thức điện tử.
+    - Thông báo phát hành biên lai gồm cả biên lai mẫu phải được niêm yết rõ ràng tại tổ chức thu phí, lệ phí và tổ chức được ủy quyền hoặc ủy nhiệm thu phí, lệ phí trong suốt thời gian sử dụng biên lai;
+  * Trường hợp (2) Thông báo phát hành từ lần thứ 2 trở đi:
+    - Trường hợp tổ chức thu thuế, phí, lệ phí khi phát hành biên lai từ lần thứ hai trở đi, nếu không có sự thay đổi về nội dung và hình thức biên lai đã thông báo phát hành với cơ quan thuế thì không phải gửi kèm biên lai mẫu;
+    - Thông báo phát hành biên lai và biên lai mẫu phải được gửi đến cơ quan quản lý thuế chậm nhất 05 ngày làm việc trước khi tổ chức kinh doanh bắt đầu sử dụng biên lai.
+    - Thông báo phát hành biên lai thực hiện theo Mẫu số 02/PH-BLG Phụ lục IA ban hành kèm theo Nghị định số 123/2020/NĐ-CP.
+    + Bước 2: Tổ chức gửi hồ sơ tới cơ quan thuế quản lý trực tiếp
+    + Bước 3: Cơ quan quản lý thuế tiếp nhận hồ sơ thông báo phát hành.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Biên lai mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu 02/PH-BLG Thông báo phát hành biên lai theo Phụ lục IA ban hành kèm theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định về hóa đơn, chứng từ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực, Hải quan khu vực/ hải quan cửa khẩu, Hải quan cửa khẩu, Cục Hải quan tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cổng thông tin điện tử của Cục Hải quan gửi phản hồi tự động về việc xác nhận người nộp thuế đã gửi thành công và thông báo về thời điểm tiếp nhận chính thức hồ sơ, tài liệu của người nộp thuế, Văn bản thông báo của cơ quan quản lý thuế đối với tổ chức thu thuế, phí, lệ phí trong trường hợp cơ quan quản lý thuế phát hiện Thông báo phát hành biên lai không bảo đảm nội dung theo quy định
+Căn cứ pháp lý:
+  * Nghị định số 70/2025/NĐ-CP ngày ngày 20 tháng 3 năm 2025 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ. (70/2025/NĐ-CP)
+  * Nghị định 123/2020/NĐ-CP (123/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115245
+Số quyết định: 1271/QĐ-NHNN
+Tên thủ tục: Thủ tục cấp đổi Giấy phép thành lập và hoạt động của ngân hàng hợp tác xã
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    - Bước 1: Ngân hàng hợp tác xã có nhu cầu cấp đổi Giấy phép lập 01 bộ hồ sơ theo quy định gửi Ngân hàng Nhà nước.
+    - Bước 2: Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ của ngân hàng hợp tác xã, Ngân hàng Nhà nước thực hiện việc cấp đổi Giấy phép (bao gồm cả bổ sung nội dung hoạt động đồng thời với cấp đổi Giấy phép) theo đề nghị cho ngân hàng hợp tác xã. Trường hợp từ chối, Ngân hàng Nhà nước trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 100000 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 100000 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 100000 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp đổi Giấy phép theo mẫu quy định tại Phụ lục 05 ban hành kèm theo Thông tư số 27/2024/TT-NHNN (đã được sửa đổi, bổ sung)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Nghị quyết của Đại hội thành viên nhất trí thông qua đề nghị việc bổ sung nội dung hoạt động vào Giấy phép
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phương án triển khai nội dung hoạt động, tối thiểu bao gồm các nội dung: Mô tả nội dung, quy trình thực hiện, phân tích hiệu quả và biện pháp phòng ngừa, kiểm soát rủi ro, kế hoạch triển khai thực hiện;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quy định nội bộ về quy trình triển khai nghiệp vụ đảm bảo quản lý và kiểm soát rủi ro phát sinh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh việc đáp ứng điều kiện liên quan đến nội dung hoạt động đề nghị theo quy định của pháp luật (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: 49 Lý Thái Tổ, Hoàn Kiếm, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Ngân hàng Nhà nước Việt Nam
+Kết quả thực hiện: Giấy phép cấp đổi Giấy phép thành lập và hoạt động Ngân hàng Hợp tác xã Việt Nam theo mẫu tại Phụ lục 01 ban hành kèm theo Thông tư số 27/2024/TT-NHNN (đã được sửa đổi, bổ sung) hoặc văn bản từ chối.
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép thành lập và hoạt động của tổ chức tín dụng; giấy phép thành lập chi nhánh ngân hàng nước ngoài, văn phòng đại diện của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng; giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán cho các tổ chức không phải là ngân hàng (150/2016/TT-BTC)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 27/2024/TT-NHNN quy định về ngân hàng hợp tác xã, việc trích nộp, quản lý và sử dụng Quỹ bảo đảm an toàn hệ thống quỹ tín dụng nhân dân được sửa đổi, bổ sung bởi Thông tư số 28/2025/TT-NHNN (10/2026/TT-NHNN)
+  * Thông tư quy định về ngân hàng hợp tác xã, việc trích nộp, quản lý và sử dụng Quỹ bảo đảm an toàn hệ thống quỹ tín dụng nhân dân (Thông tư số 27/2024/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014118
+Số quyết định: 2278/QĐ-BYT
+Tên thủ tục: Công bố, công bố lại giá bán buôn thuốc dự kiến đối với thuốc kê đơn
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Dược phẩm
+Trình tự thực hiện:
+    Bước 1: Đối tượng thực hiện công bố, công bố lại thực hiện công bố, công bố lại giá bán buôn thuốc dự kiến đối với thuốc kê đơn. Khi thực hiện công bố, công bố lại, đối tượng thực hiện công bố nộp Bảng công bố, công bố lại giá bán buôn thuốc dự kiến theo mẫu quy định trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến về Bộ Y tế (Cục Quản lý Dược: đối với thuốc hóa dược, thuốc dược liệu, vắc xin, sinh phẩm; Cục Quản lý Y, Dược cổ truyền: đối với thuốc cổ truyền).
+    Bước 2: Bộ Y tế tổ chức thực hiện tiếp nhận Bảng công bố, công bố lại giá bán buôn thuốc dự kiến. Trường hợp Bảng công bố, công bố lại giá bán buôn thuốc dự kiến đúng theo mẫu quy định, đầy đủ thông tin và đối tượng thực hiện công bố hoàn thành việc nộp phí theo quy định, trong thời hạn 01 ngày làm việc, Bộ Y tế trả Phiếu tiếp nhận theo Mẫu số 03 tại Phụ lục VII ban hành kèm theo Nghị định số 163/2025/NĐ-CP. Trường hợp Bảng công bố, công bố lại giá bán buôn thuốc dự kiến không đúng theo mẫu quy định hoặc chưa đầy đủ thông tin, trong thời hạn 01 ngày làm việc, Bộ Y tế trả lại Bảng công bố cho đối tượng thực hiện công bố đã nộp và ghi rõ lý do trả lại.
+    Bước 3: Trong thời hạn 07 ngày làm việc kể từ ngày tiếp nhận đủ hồ sơ, Bộ Y tế (Cục Quản lý Dược: đối với thuốc hóa dược, thuốc dược liệu, vắc xin, sinh phẩm; Cục Quản lý Y, Dược cổ truyền: đối với thuốc cổ truyền) tổ chức rà soát thông tin thuốc tại Bảng công bố, công bố lại giá bán buôn thuốc dự kiến căn cứ giấy đăng ký lưu hành thuốc hoặc giấy phép nhập khẩu thuốc và công khai giá bán buôn thuốc dự kiến công bố, công bố lại trên Cổng thông tin điện tử của Bộ Y tế. Trường hợp không công khai giá bán buôn thuốc dự kiến công bố, công bố lại, Bộ Y tế trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính)
+    Mô tả: kể từ ngày tiếp nhận đủ hồ sơ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính)
+    Mô tả: kể từ ngày tiếp nhận đủ hồ sơ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính)
+    Mô tả: kể từ ngày tiếp nhận đủ hồ sơ
+
+Thành phần hồ sơ:
+    - 1. Bảng công bố giá bán buôn thuốc dự kiến thuốc nhập khẩu vào Việt Nam và thuốc sản xuất trong nước theo Mẫu số 01 tại Phụ lục VII ban hành kèm theo Nghị định số 163/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - 2. Bảng công bố lại giá bán buôn thuốc dự kiến thuốc nhập khẩu vào Việt Nam và thuốc sản xuất trong nước theo Mẫu số 02 tại Phụ lục VII ban hành kèm theo Nghị định số 163/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Số  lượng  hồ  sơ: 01 bộ
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Hợp tác xã, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Bộ Y tế
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công khai giá bán buôn thuốc dự kiến công bố, công bố lại trên Cổng thông tin điện tử của Bộ Y tế hoặc văn bản trả lời nêu rõ lý do không công khai giá bán buôn thuốc dự kiến công bố, công bố lại
+Căn cứ pháp lý:
+  * Luật 105/2016/QH13 Dược (105/2016/QH13)
+  * Luật số 44/2024/QH15 (44/2024/QH15)
+  * Nghị định của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật dược (163/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

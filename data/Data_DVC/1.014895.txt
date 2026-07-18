@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014895
+Số quyết định: 1263/QĐ-BKHCN
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đăng ký hoạt động chứng nhận sản phẩm, hệ thống quản lý.
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+    Bước 1: Tổ chức chứng nhận nộp 01 bộ hồ sơ đăng ký theo hình thức dịch vụ công trực tuyến qua Cổng dịch vụ công quốc gia. Cổng dịch vụ công quốc gia được kết nối, chia sẻ dữ liệu với Cơ sở dữ liệu quốc gia về tiêu chuẩn, đo lường, chất lượng.
+    Trường hợp Cổng dịch vụ công quốc gia bị lỗi hoặc thủ tục hành chính này chưa hoàn thiện hạ tầng Dịch vụ công trực tuyến, tổ chức chứng nhận nộp hồ sơ bản giấy theo quy định tại Nghị định số 22/2026/NĐ-CP theo hình thức nộp trực tiếp hoặc thông qua dịch vụ bưu chính tới Trung tâm phục vụ hành chính công cấp tỉnh.
+    Bước 2: Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét ký cấp mới Giấy chứng nhận đăng ký hoạt động chứng nhận cho tổ chức chứng nhận:
+    - Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan chuyên môn được Chủ tịch Ủy ban nhân dân cấp tỉnh phân cấp, ủy quyền thông báo yêu cầu tổ chức chứng nhận sửa đổi, bổ sung.
+    - Trường hợp hồ sơ đầy đủ và hợp lệ, trong thời hạn 07 ngày làm việc, kể từ khi nhận được hồ sơ, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét ký cấp mới Giấy chứng nhận đăng ký hoạt động chứng nhận cho tổ chức chứng nhận theo Mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP.
+    Trước khi Giấy chứng nhận hết thời hạn hiệu lực 90 ngày, nếu có nhu cầu tiếp tục tham gia hoạt động chứng nhận, tổ chức chứng nhận phải lập 01 bộ hồ sơ như đối với trường hợp cấp mới quy định tại khoản 2 Điều 51 Nghị định số 22/2026/NĐ-CP và gửi về cơ quan tiếp nhận hồ sơ theo quy định tại khoản 1 Điều 51 Nghị định số 22/2026/NĐ-CP. Trường hợp chuyên gia đánh giá của tổ chức chứng nhận có hồ sơ tại các lần đăng ký cấp trước đó vẫn đáp ứng điều kiện quy định tại Nghị định số 22/2026/NĐ-CP, tổ chức chứng nhận có văn bản gửi kèm theo bảo lưu hồ sơ nhân sự của chuyên gia đánh giá, không phải nộp các chứng chỉ, tài liệu liên quan đối với mỗi chuyên gia đánh giá theo quy định tại điểm b khoản 2 Điều 51 Nghị định số 22/2026/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tài liệu chứng minh năng lực hoạt động chứng nhận đáp ứng các yêu cầu quy định tại khoản 2 Điều 50 Nghị định số 22/2026/NĐ-CP, cụ thể như sau: - Trường hợp tổ chức chứng nhận đã được tổ chức công nhận quy định tại Điều 58 Nghị định số 22/2026/NĐ-CP hoặc tổ chức công nhận thành lập tại nước ngoài quy định tại Điều 62 Nghị định số 22/2026/NĐ-CP công nhận đối với toàn bộ phạm vi đăng ký chứng nhận: tổ chức chứng nhận nộp bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận. - Trường hợp tổ chức chứng nhận đã được tổ chức công nhận quy định tại Điều 58 Nghị định số 22/2026/NĐ-CP hoặc tổ chức công nhận thành lập tại nước ngoài quy định tại Điều 62 Nghị định số 22/2026/NĐ-CP công nhận nhưng phạm vi đăng ký hoạt động chứng nhận rộng hơn phạm vi được công nhận: tổ chức chứng nhận nộp bản sao Chứng chỉ công nhận kèm theo phạm vi được công nhận và bản công bố năng lực chứng nhận phù hợp với các yêu cầu của tiêu chuẩn quốc gia TCVN ISO/IEC 17065 hoặc tiêu chuẩn quốc tế ISO/IEC 17065 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế áp dụng trong lĩnh vực chứng nhận sản phẩm chuyên ngành  (đối với tổ chức chứng nhận sản phẩm), tiêu chuẩn quốc gia TCVN ISO/IEC 17021-1 hoặc tiêu chuẩn quốc tế ISO/IEC 17021-1 (đối với tổ chức chứng nhận hệ thống quản lý) đối với phạm vi chưa được công nhận theo Mẫu số 17 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP. - Trường hợp tổ chức chứng nhận chưa được công nhận: tổ chức chứng nhận nộp bản công bố năng lực chứng nhận phù hợp với các yêu cầu của tiêu chuẩn quốc gia TCVN ISO/IEC 17065 hoặc tiêu chuẩn quốc tế ISO/IEC 17065 hoặc tiêu chuẩn quốc gia, tiêu chuẩn quốc tế áp dụng trong lĩnh vực chứng nhận sản phẩm chuyên ngành (đối với tổ chức chứng nhận sản phẩm), Tiêu chuẩn quốc gia TCVN ISO/IEC 17021-1 hoặc tiêu chuẩn quốc tế ISO/IEC 17021-1 (đối với tổ chức chứng nhận hệ thống quản lý) theo Mẫu số 17 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu Giấy chứng nhận và Dấu chứng nhận
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Các chứng chỉ, tài liệu liên quan đối với mỗi chuyên gia gồm: bản sao Quyết định tuyển dụng hoặc Hợp đồng lao động; bản sao các bằng cấp, chứng chỉ theo quy định tại các khoản 3 Điều 50 Nghị định số 22/2026/NĐ-CP; tóm tắt kinh nghiệm hoạt động đánh giá theo Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP và tài liệu chứng minh kinh nghiệm hoạt động đánh giá của chuyên gia đánh giá
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đăng ký hoạt động chứng nhận theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký hoạt động chứng nhận (theo Mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP)
+Căn cứ pháp lý:
+  * Nghị định quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Tiêu chuẩn và quy chuẩn kỹ thuật (Nghị định số 22/2026/NĐ-CP)
+  * Luật số 70/2025/QH15 của Quốc hội: Luật sửa đổi, bổ sung một số điều của Luật Tiêu chuẩn và quy chuẩn kỹ thuật (70/2025/QH15)
+  * Luật Tiêu chuẩn và quy chuẩn kỹ thuật (68/2006/QH11)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

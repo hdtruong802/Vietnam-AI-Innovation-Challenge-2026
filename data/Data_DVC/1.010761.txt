@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.010761
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Đề nghị kết nối để phối hợp thu nộp ngân sách nhà nước (NSNN)/Thay đổi, bổ sung thông tin kết nối/Ngừng kết nối
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1.
+    a) Các ngân hàng và tổ chức cung ứng dịch vụ trung gian thanh toán tại khoản 4 Điều 2 Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính lập văn bản đề nghị kết nối (kèm theo các hồ sơ, tài liệu chứng minh hệ thống đáp ứng tiêu chuẩn kết nối)/Thay đổi, bổ sung thông tin kết nối/Ngừng kết nối và gửi đến Cục Thuế.
+    b) Các tổ chức có hợp đồng ủy nhiệm thu với cơ quan quản lý thuế đáp ứng các tiêu chuẩn kỹ thuật theo công khai của Cục Thuế lập văn bản đề nghị kết nối (kèm theo các hồ sơ, tài liệu chứng minh) và gửi đến Cục Thuế.
+    Thời hạn nộp hồ sơ:
+    ++ Chậm nhất là 10 ngày làm việc kể từ ngày phát sinh thay đổi, bổ sung thông tin liên quan đến thỏa thuận đã ký với Cục Thuế (đối với trường hợp thay đổi, bổ sung thông tin liên quan đến thỏa thuận đã ký với ngân hàng và tổ chức cung ứng dịch vụ trung gian thanh toán);
+    ++ Trước thời hạn đề nghị ngừng/tạm ngừng cung cấp dịch vụ 30 ngày, tổ chức tham gia kết nối (ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán) phải trao đổi và thống nhất với Cục Thuế bằng văn bản (đối với trường hợp tạm ngừng/ngừng cung cấp dịch vụ).
+    + Bước 2. Cục Thuế thực hiện tiếp nhận:
+    ++ Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế, công chức thuế tiếp nhận và đóng dấu tiếp nhận hồ sơ, ghi thời gian nhận hồ sơ, ghi nhận số lượng tài liệu trong hồ sơ và ghi vào sổ văn thư của cơ quan thuế;
+    ++ Trường hợp hồ sơ được gửi qua đường bưu chính, công chức thuế đóng dấu ghi ngày nhận hồ sơ và ghi vào sổ văn thư của cơ quan thuế;
+    ++ Trường hợp hồ sơ gửi qua Cổng thông tin điện tử của Cục Thuế thì Cổng thông tin điện tử của Cục Thuế tiếp nhận hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ (i) Đối với ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán: a)  Trường hợp (1) Đề nghị kết nối để phối hợp thu nộp NSNN của ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán với cơ quan thuế: ]
+    - Hồ sơ, tài liệu chứng minh (nếu có) về việc đáp ứng các tiêu chuẩn kỹ thuật theo công khai của Cục Thuế
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Văn bản đề nghị kết nối với Cổng thông tin điện tử của Cục Thuế theo mẫu số 01/KNNT-TĐT ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ (ii) Đối với tổ chức có hợp đồng ủy nhiệm thu với cơ quan quản lý thuế: a)  Trường hợp (1) Đề nghị kết nối để phối hợp thu nộp NSNN của tổ chức có hợp đồng ủy nhiệm thu với cơ quan quản lý thuế: ]
+    - Văn bản đề nghị kết nối với Cổng thông tin điện tử của Cục Thuế mẫu số 01/KNNT-TĐT ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ, tài liệu chứng minh (nếu có) về việc đáp ứng các tiêu chuẩn kỹ thuật theo yêu cầu của Cục Thuế
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ b) Trường hợp (2) Thay đổi, bổ sung thông tin kết nối đã ký thỏa thuận với ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán ]
+    - ++ Văn bản đề nghị thay đổi, bổ sung thông tin liên quan đến thông tin kết nối đã cung cấp theo mẫu số 01/KNNT-TĐT ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - ++ Các tài liệu kèm theo
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ b) Trường hợp (2) Tạm ngừng/chấm dứt kết nối với Cổng thông tin điện tử của Cục Thuế: ]
+    - Trường hợp tạm ngừng: là văn bản tạm dừng hợp đồng ủy nhiệm thu theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Trường hợp chấm dứt kết nối: không quy định (thực hiện khi đã hết hạn hợp đồng ủy nhiệm thu và không gia hạn hợp đồng đó hoặc ký mới hợp đồng)
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ c) Trường hợp (3) Tạm ngừng/ngừng kết nối với Cổng thông tin điện tử của Cục Thuế: ]
+    - Văn bản tạm ngừng cung cấp dịch vụ hoặc Văn bản ngừng cung cấp dịch vụ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấm dứt thỏa thuận kết nối với ngân hàng hoặc tổ chức cung cấp dịch vụ trung gian thanh toán, Văn bản thỏa thuận về việc truyền nhận, sử dụng dữ liệu giữa tổ chức ủy nhiệm thu và Cục Thuế, Văn bản thỏa thuận bổ sung thống nhất giữa ngân hàng hoặc tổ chức cung cấp dịch vụ trung gian thanh toán và Cục Thuế, Thông báo về việc hồ sơ đề nghị kết nối với Cổng thông tin điện tử của Cục Thuế đảm bảo/không đảm bảo kết nối với Cổng thông tin điện tử của Cục Thuế; hoặc yêu cầu bổ sung thông tin (Mẫu 01/TBKN-TĐT), Văn bản thỏa thuận kết nối giữa ngân hàng hoặc tổ chức cung cấp dịch vụ trung gian thanh toán và Cục Thuế
+Căn cứ pháp lý:
+  * Thông tư số 40/2025/TT-BTC Sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý thuế để phân định thẩm quyền của chính quyền địa phương theo mô hình tổ chức chính quyền địa phương 02 cấp (40/2025/TT-BTC)
+  * QUY ĐỊNH VỀ MẪU THẺ, TRÌNH TỰ, THỦ TỤC CẤP MỚI, CẤP LẠI THẺ GIÁM ĐỊNH VIÊN TƯ PHÁP (11/2020/NĐ-CP)
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Nghị định 165/2018/NĐ-CP (165/2018/NĐ-CP)
+  * Nghị định 130/2018/NĐ-CP (130/2018/NĐ-CP)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Nghị định 45/2020/NĐ-CP (45/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

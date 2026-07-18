@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001133
+Số quyết định: 1547/QĐ-BNG
+Tên thủ tục: Cấp, cấp lại, gia hạn Thẻ phóng viên nước ngoài cho phóng viên thường trú tại Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Báo chí
+Trình tự thực hiện:
+  * Thẩm định hồ sơ
+    Trong thời hạn 03 ngày làm việc kể từ khi nhận được hồ sơ đề nghị, Bộ Ngoại giao hoàn thành việc cấp, cấp lại hoặc gia hạn Thẻ phóng viên nước ngoài. Trong trường hợp từ chối cấp, cấp lại hoặc gia hạn Thẻ phóng viên nước ngoài, Bộ Ngoại giao thông báo bằng văn bản cho phóng viên nước ngoài
+  * Nộp hồ sơ
+    Phóng viên thường trú có đề nghị cấp, cấp lại, gia hạn Thẻ phóng viên nước ngoài gửi 01 bộ hồ sơ đề nghị trực tiếp hoặc qua dịch vụ bưu chính đến Bộ Ngoại giao hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.
+    Chậm nhất 15 ngày làm việc trước khi Thẻ phóng viên nước ngoài hết hạn, phóng viên thường trú phải làm thủ tục gia hạn Thẻ phóng viên nước ngoài nếu được Bộ Ngoại giao cho phép tiếp tục làm phóng viên thường trú. Phóng viên thường trú có đề nghị gia hạn Thẻ phóng viên nước ngoài gửi 01 bộ hồ sơ đề nghị gia hạn thẻ trực
+    tiếp hoặc qua dịch vụ bưu chính đến Bộ Ngoại giao;
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 03 ngày làm việc kể từ khi nhận đủ hồ sơ đề nghị
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 03 ngày làm việc kể từ khi nhận đủ hồ sơ đề nghị
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Bản chụp hộ chiếu của phóng viên thường trú.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Văn bản đề nghị cấp mới/cấp lại/Gia hạn Thẻ phóng viên nước ngoài của phóng viên thường trú theo mẫu do Bộ Ngoại giao ban hành.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 02 ảnh chân dung 03 cm x 04 cm của phóng viên thường trú.
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Văn bản đề nghị cử phóng viên thường trú của người đứng đầu cơ quan báo chí nước ngoài hoặc người được người đứng đầu cơ quan báo chí nước ngoài ủy quyền theo mẫu do Bộ Ngoại giao ban hành.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thẻ phóng viên nước ngoài (trong trường hợp thẻ bị hỏng).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thẻ phóng viên nước ngoài (trường hợp xin gia hạn thẻ phóng viên nước ngoài)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Bộ Ngoại giao, Vụ Thông tin Báo chí - Bộ Ngoại giao
+Cơ quan có thẩm quyền: Bộ Ngoại giao
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thẻ phóng viên nước ngoài
+Căn cứ pháp lý:
+  * Luật báo chí (103/2016/QH13)
+  * Nghị định 88/2012/NĐ-CP (88/2012/NĐ-CP)
+  * Thông tư 06/2012/TT-BNG (06/2012/TT-BNG)
+  * Thông tư quy định về phân cấp thực hiện một số nhiệm vụ, quyền hạn trong lĩnh vực  quản lý nhà nước của Bộ Tài chính (31/2026/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

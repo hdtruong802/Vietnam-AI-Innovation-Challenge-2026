@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014142
+Số quyết định: 1176/QĐ-BQP
+Tên thủ tục: Thủ tục tham gia hoạt động công nghiệp quốc phòng, an ninh của cơ sở huy động trong các lĩnh vực đào tạo, bồi dưỡng nguồn nhân lực; cung cấp sản phẩm, dịch vụ về quản trị doanh nghiệp, an toàn thông tin, công nghệ cao, công nghệ chiến lược
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Công nghiệp quốc phòng
+Trình tự thực hiện:
+    Bước 1: Cơ quan, đơn vị, doanh nghiệp thuộc Bộ Quốc phòng căn cứ nhiệm vụ, kế hoạch sản xuất kinh doanh được cấp có thẩm quyền phê duyệt thông báo bằng văn bản về nhu cầu hợp tác đến các tổ chức, doanh nghiệp kèm theo các điều kiện quy định.
+    Bước 2: Tổ chức, doanh nghiệp nộp hồ sơ cho các cơ quan, đơn vị, doanh nghiệp thuộc Bộ Quốc phòng có nhu cầu.
+    Bước 3: Trong thời hạn 20 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan, đơn vị, doanh nghiệp thẩm định, đánh giá việc đáp ứng điều kiện tham gia của tổ chức, doanh nghiệp, báo cáo cơ quan, đơn vị, doanh nghiệp cấp trên trực thuộc Bộ Quốc phòng.
+    Bước 4: Trong thời hạn 07 ngày kể từ ngày nhận được báo cáo, cơ quan, đơn vị, doanh nghiệp trực thuộc Bộ Quốc phòng xem xét, quyết định.
+    Bước 5: Trong thời hạn 05 ngày, kể từ ngày cơ quan, đơn vị, doanh nghiệp trực thuộc Bộ Quốc phòng quyết định, cơ quan đơn vị, doanh nghiệp quy định thông báo kết quả cho tổ chức, doanh nghiệp bằng văn bản.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 32 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 32 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 32 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị tham gia hoạt động công nghiệp quốc phòng, an ninh theo Mẫu số 02 Phụ lục ban hành kèm theo Nghị định số 99/2025/NĐ-CP ngày 06 tháng 5 năm 2025 của Chính phủ quy định chi tiết một số điều của Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao quyết định thành lập kèm theo văn bản quy định về chức năng, nhiệm vụ đối với tổ chức hoặc giấy chứng nhận đăng ký doanh nghiệp kèm theo giấy phép hoạt động, giấy phép kinh doanh đối với doanh nghiệp
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tài liệu chứng minh năng lực cơ sở vật chất, nhân lực, trang thiết bị, kinh nghiệm của tổ chức, doanh nghiệp tương ứng với lĩnh vực tham gia
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Quốc phòng
+Cơ quan có thẩm quyền: Bộ Quốc phòng
+Địa chỉ tiếp nhận HS: Bộ Công an, Bộ Quốc phòng
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo kết quả thẩm định, đánh giá, lựa chọn cơ sở huy động tham gia hoạt động công nghiệp quốc phòng, an ninh
+Căn cứ pháp lý:
+  * Nghị định số 99/2025/NĐ-CP ngày 06 tháng 5 năm 2025 của Chính phủ quy định chi tiết một số điều của Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp (Nghị định số 99/2025/NĐ-CP)
+  * Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp (38/2024/QH15)
+  * Nghị định số 60/2026/NĐ-CP của Chính phủ: Quy định về tổ hợp công nghiệp an ninh quốc gia (60/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Cơ sở huy động tham gia hoạt động công nghiệp quốc phòng, an ninh lĩnh vực đào tạo, bồi dưỡng nguồn nhân lực phải đáp ứng các điều kiện quy định tại Điều 3 Nghị định số 99/2025/NĐ-CP ngày 06 tháng 5 năm 2025 của Chính phủ quy định chi tiết một số điều của Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp và các điều kiện sau:
++ Có ngành, nghề đào tạo phù hợp với nhu cầu của công nghiệp quốc phòng, an ninh.
++ Có cơ sở vật chất, trang thiết bị phục vụ giảng dạy, nghiên cứu, thực hành; đội ngũ giảng viên, giáo viên có trình độ chuyên môn, kinh nghiệm giảng dạy, nghiên cứu phù hợp với ngành nghề cần đào tạo, bồi dưỡng nguồn nhân lực phục vụ công nghiệp quốc phòng, an ninh và đáp ứng điều kiện theo quy định của pháp luật về giáo dục, giáo dục nghề nghiệp, dạy nghề.
+- Cơ sở huy động tham gia hoạt động cung cấp sản phẩm, dịch vụ về quản trị doanh nghiệp, an toàn thông tin, công nghệ cao, công nghệ chiến lược phải đáp ứng các điều kiện quy định tại Điều 3 Nghị định số 99/2025/NĐ-CP ngày 06 tháng 5 năm 2025 của Chính phủ quy định chi tiết một số điều của Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp và các điều kiện sau:
++ Đối với doanh nghiệp phải đủ điều kiện đầu tư, kinh doanh ngành, nghề cung cấp sản phẩm, dịch vụ tương ứng lĩnh vực tham gia theo quy định của pháp luật.
++ Đối với tổ chức không phải là doanh nghiệp phải có chức năng cung cấp sản phẩm, dịch vụ tương ứng lĩnh vực tham gia.
++ Đã cung cấp sản phẩm hoặc dịch vụ cho các tổ chức, doanh nghiệp có quy mô tổ chức hoặc quy mô sản xuất tương đương trở lên với các tổ chức, doanh nghiệp có nhu cầu cung cấp.
+Từ khóa: Không có thông tin
+Mô tả: - Cơ sở huy động tham gia hoạt động công nghiệp quốc phòng, an ninh lĩnh vực đào tạo, bồi dưỡng nguồn nhân lực phải đáp ứng các điều kiện quy định tại Điều 3 Nghị định số 99/2025/NĐ-CP ngày 06 tháng 5 năm 2025 của Chính phủ quy định chi tiết một số điều của Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp và các điều kiện sau:
++ Có ngành, nghề đào tạo phù hợp với nhu cầu của công nghiệp quốc phòng, an ninh.
++ Có cơ sở vật chất, trang thiết bị phục vụ giảng dạy, nghiên cứu, thực hành; đội ngũ giảng viên, giáo viên có trình độ chuyên môn, kinh nghiệm giảng dạy, nghiên cứu phù hợp với ngành nghề cần đào tạo, bồi dưỡng nguồn nhân lực phục vụ công nghiệp quốc phòng, an ninh và đáp ứng điều kiện theo quy định của pháp luật về giáo dục, giáo dục nghề nghiệp, dạy nghề.
+- Cơ sở huy động tham gia hoạt động cung cấp sản phẩm, dịch vụ về quản trị doanh nghiệp, an toàn thông tin, công nghệ cao, công nghệ chiến lược phải đáp ứng các điều kiện quy định tại Điều 3 Nghị định số 99/2025/NĐ-CP ngày 06 tháng 5 năm 2025 của Chính phủ quy định chi tiết một số điều của Luật Công nghiệp quốc phòng, an ninh và động viên công nghiệp và các điều kiện sau:
++ Đối với doanh nghiệp phải đủ điều kiện đầu tư, kinh doanh ngành, nghề cung cấp sản phẩm, dịch vụ tương ứng lĩnh vực tham gia theo quy định của pháp luật.
++ Đối với tổ chức không phải là doanh nghiệp phải có chức năng cung cấp sản phẩm, dịch vụ tương ứng lĩnh vực tham gia.
++ Đã cung cấp sản phẩm hoặc dịch vụ cho các tổ chức, doanh nghiệp có quy mô tổ chức hoặc quy mô sản xuất tương đương trở lên với các tổ chức, doanh nghiệp có nhu cầu cung cấp.

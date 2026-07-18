@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.000480
+Số quyết định: 987/QĐ-NHNN
+Tên thủ tục: Thủ tục chuyển đổi Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác(đối với doanh nghiệp kinh doanh casino)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Doanh nghiệp gửi 02 (hai) bộ hồ sơ qua đường bưu điện hoặc nộp trực tiếp cho Ngân hàng Nhà nước Khu vực trên địa bàn nơi doanh nghiệp đặt điểm kinh doanh casino.
+    + Bước 2: Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận hồ sơ, Ngân hàng Nhà nước Khu vực chịu trách nhiệm kiểm tra tính đầy đủ và hợp lệ của bộ hồ sơ và gửi 01 bộ hồ sơ đến Ngân hàng Nhà nước kèm theo ý kiến đánh giá bằng văn bản của Ngân hàng Nhà nước Khu vực về thành phần hồ sơ.
+    + Bước 3: Trong thời hạn 30 (ba mươi) ngày kể từ ngày nhận được đầy đủ hồ sơ theo quy định, Ngân hàng Nhà nước xem xét và cấp lại, điều chỉnh, gia hạn Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác. Trong trường hợp từ chối, Ngân hàng Nhà nước thông báo bằng văn bản nêu rõ lý do từ chối gửi doanh nghiệp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị chuyển đổi Giấy phép
+      Số lượng: Bản chính: 0, Bản sao: 2
+    - Quy chế quản lý, kiểm soát nội bộ đối với nguồn thu, chi ngoại tệ do người đại diện theo pháp luật của doanh nghiệp ký
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Báo cáo tình hình thực hiện thu, chi ngoại tệ và các hoạt động ngoại hối khác liên quan đến hoạt động kinh doanh casino kể từ khi được Ngân hàng Nhà nước Việt Nam cấp văn bản chấp thuận
+      Số lượng: Bản chính: 2, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực, Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam/Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác/ Văn bản từ chối
+Căn cứ pháp lý:
+  * Về kinh doanh casino (03/2017/NĐ-CP)
+  * Hướng dẫn về quản lý ngoại hối đối với hoạt động kinh doanh casino (10/2017/TT-NHNN)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

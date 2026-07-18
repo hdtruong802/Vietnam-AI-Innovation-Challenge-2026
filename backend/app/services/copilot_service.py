@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import uuid
+
 from app.catalog import CANONICAL_PROCEDURES, is_known_procedure
 from app.models.checklist import ChecklistRequest, ChecklistResponse
 from app.models.common import ReviewGate, TrustState
@@ -12,7 +14,13 @@ from app.models.intake import (
 )
 from app.models.procedure import ProcedurePack
 from app.models.validation import ValidationRequest, ValidationResponse
-from app.ports import AuditSink, ProcedureRepository, RecommendationProvider, RetrievalProvider
+from app.ports import (
+    AuditSink,
+    LLMProvider,
+    ProcedureRepository,
+    RecommendationProvider,
+    RetrievalProvider,
+)
 from app.services.rule_engine import RuleEngine
 from app.services.trust_policy import TrustPolicy
 
@@ -26,6 +34,7 @@ class CopilotService:
         audit_sink: AuditSink,
         rule_engine: RuleEngine,
         trust_policy: TrustPolicy,
+        llm_provider: LLMProvider | None = None,
     ) -> None:
         self._procedure_repository = procedure_repository
         self._recommendation_provider = recommendation_provider
@@ -33,6 +42,7 @@ class CopilotService:
         self._audit_sink = audit_sink
         self._rule_engine = rule_engine
         self._trust_policy = trust_policy
+        self._llm_provider = llm_provider
 
     async def list_procedures(self):
         return await self._procedure_repository.list_procedures()
@@ -173,6 +183,7 @@ class CopilotService:
 
         findings = self._rule_engine.validate(pack, request.form_data)
         verdict = "needs_fix" if self._rule_engine.has_errors(findings) else "pass_preliminary"
+        explanations = await self._explain_findings_if_available(findings, request.form_data)
         await self._audit_sink.emit(
             "application_validate",
             {
@@ -186,12 +197,29 @@ class CopilotService:
             procedure_id=request.procedure_id,
             verdict=verdict,
             findings=findings,
+            explanations=explanations,
             summary_message=(
                 "Hồ sơ đạt kiểm tra sơ bộ theo các quy tắc đã duyệt."
                 if verdict == "pass_preliminary"
                 else "Phát hiện thông tin cần sửa trước khi kiểm tra lại."
             ),
         )
+
+    async def _explain_findings_if_available(
+        self, findings: list, form_data: dict
+    ) -> dict[str, str]:
+        """Best-effort: LLM chỉ diễn giải finding đã có, không đổi verdict.
+
+        Dùng session_id tạm/độc lập cho mỗi lần gọi vì ValidationRequest
+        không có session_id công khai; PII Guard tokenize form_data trước
+        khi rời trusted boundary và session bị hủy ngay sau khi dùng.
+        """
+        if not findings or self._llm_provider is None:
+            return {}
+        if not await self._llm_provider.is_available():
+            return {}
+        ephemeral_session_id = f"validate-{uuid.uuid4().hex}"
+        return await self._llm_provider.explain_findings(ephemeral_session_id, form_data, findings)
 
     @staticmethod
     def _ensure_version(pack: ProcedurePack | None, requested_version: str | None) -> None:

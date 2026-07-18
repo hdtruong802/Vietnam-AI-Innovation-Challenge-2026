@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001613
+Số quyết định: 1474/QĐ-BTC
+Tên thủ tục: Giải quyết hưởng bảo hiểm xã hội một lần
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thực hiện chính sách BHXH
+Trình tự thực hiện:
+  * Bước 1. Lập, nộp hồ sơ
+    NLĐ lập hồ sơ theo quy định tại mục 9.3 (Thành phần hồ sơ) và nộp cho cơ quan BHXH.
+  * Bước 2.
+    Cơ quan BHXH tiếp nhận hồ sơ và giải quyết theo quy định.
+  * Bước 3. Nhận kết quả giải quyết
+    NLĐ nhận kết quả giải quyết, gồm: Quyết định về việc hưởng BHXH một lần; Bản quá trình đóng BHXH; Tiền trợ cấp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ (Trường hợp không quy định là bản chính thì có thể nộp bản sao hợp lệ. Trường hợp nộp hồ sơ trực tuyến: thành phần hồ sơ quy định là bản sao nhưng NLĐ có thể nộp bản chính điện tử). ]
+    - Trường hợp không quy định rõ bản chính thì có thể nộp bản sao hợp lệ
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ 1. Trường hợp hưởng BHXH một lần ]
+    - d) Trường hợp bị mắc những bệnh nguy hiểm đến tính mạng như: Ung thư, bại liệt, xơ gan cổ chướng, phong, lao nặng, nhiễm HIV đã chuyển sang giai đoạn AIDS thì có thêm trích sao/tóm tắt hồ sơ bệnh án thể hiện tình trạng không tự phục vụ được; nếu bị mắc các bệnh khác thì thay bằng Biên bản giám định mức suy giảm từ 81% KNLĐ trở lên của Hội đồng GĐYK thể hiện tình trạng không tự phục vụ được.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - b) Đơn đề nghị (Mẫu số 14-HSB)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Trường hợp thanh toán phí GĐYK thì có thêm hóa đơn, chứng từ thu phí giám định kèm theo bản chính bảng kê các nội dung giám định của cơ sở thực hiện GĐYK.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Đối với người ra nước ngoài để định cư phải nộp thêm bản sao Giấy xác nhận của cơ quan có thẩm quyền về việc thôi quốc tịch Việt Nam hoặc bản dịch tiếng Việt được chứng thực hoặc công chứng một trong các giấy tờ sau đây: - Hộ chiếu do nước ngoài cấp. - Thị thực của cơ quan nước ngoài có thẩm quyền cấp có xác nhận việc cho phép nhập cảnh với lý do định cư ở nước ngoài. - Giấy tờ xác nhận về việc đang làm thủ tục nhập quốc tịch nước ngoài; giấy tờ xác nhận hoặc thẻ thường trú, cư trú có thời hạn từ 05 năm trở lên của cơ quan nước ngoài có thẩm quyền cấp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - e) Bản chính Bản khai cá nhân về thời gian, địa bàn phục vụ trong Quân đội có hưởng phụ cấp khu vực (Mẫu số 04B – HBQP ban hành kèm theo Thông tư số 136/2020/TT-BQP ngày 29/10/2020) đối với người có thời gian phục vụ trong Quân đội trước ngày 01/01/2007 tại địa bàn có hưởng phụ cấp khu vực mà sổ BHXH không thể hiện đầy đủ thông tin làm căn cứ tính phụ cấp khu vực.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Sổ BHXH
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 2. Đối với người lao động là công dân nước ngoài làm việc tại Việt Nam hưởng BHXH một lần ]
+    - Hồ sơ như nêu tại nội dung 1a, 1b, 1d, 1đ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Bảo hiểm xã hội cấp Tỉnh, Bảo hiểm xã hội cấp huyện
+Cơ quan có thẩm quyền: Bảo hiểm xã hội cấp Tỉnh, Bảo hiểm xã hội cấp huyện
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bản quá trình đóng BHXH, Tiền trợ cấp, Quyết định về việc hưởng BHXH một lần
+Căn cứ pháp lý:
+  * Thông tư 01/2016/TT-BLĐTBXH (01/2016/TT-BLĐTBXH)
+  * BAN HÀNH QUY TRÌNH GIẢI QUYẾT HƯỞNG CÁC CHẾ ĐỘ BẢO HIỂM XÃ HỘI, CHI TRẢ CÁC CHẾ ĐỘ BẢO HIỂM XÃ HỘI, BẢO HIỂM THẤT NGHIỆP (2222/QĐ-BHXH)
+  * Thông tư 56/2017/TT-BYT (56/2017/TT-BYT)
+  * Nghị định 115/2015/NĐ-CP (115/2015/NĐ-CP)
+  * Nghị định 143/2018/NĐ-CP (143/2018/NĐ-CP)
+  * Thông tư liên tịch 105/2016/TTLT-BQP-BCA-BLĐTBXH (105/2016/TTLT-BQP-BCA-BLĐTBXH)
+  * Nghị định 166/2016/NĐ-CP-Quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp (166/2016/NĐ-CP)
+  * LUẬT  Bảo hiểm xã hội (58/2014/QH13)
+  * Về việc thực hiện chính sách hưởng bảo hiểm xã hội một lần đối với người lao động (93/2015/QH13)
+  * Thông tư 136/2020/TT-BQP (136/2020/TT-BQP)
+  * Nghị định 134/2015/NĐ-CP (134/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

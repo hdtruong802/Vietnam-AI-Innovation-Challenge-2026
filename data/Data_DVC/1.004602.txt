@@ -1,0 +1,97 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004602
+Số quyết định: 1225/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp giấy phép kinh doanh dịch vụ lữ hành quốc tế
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Du lịch
+Trình tự thực hiện:
+    - Doanh nghiệp đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế nộp 01 bộ hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Bộ Văn hóa, Thể thao và Du lịch (qua Cục Du lịch Quốc gia Việt Nam) hoặc trực tuyến trên Cổng Dịch vụ công Quốc gia.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định, Bộ Văn hóa, Thể thao và Du lịch (Cục Du lịch Quốc gia Việt Nam) thẩm định, cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế cho doanh nghiệp và thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh nơi doanh nghiệp có trụ sở; trường hợp từ chối, phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Mức giảm áp dụng theo Thông tư số 64/2025/TT-BTC ngày 30 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính đến hết ngày 31/12/2026)
+    Mô tả: Kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Mức giảm áp dụng theo Thông tư số 64/2025/TT-BTC ngày 30 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính đến hết ngày 31/12/2026)
+    Mô tả: Kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Mức giảm áp dụng theo Thông tư số 64/2025/TT-BTC ngày 30 tháng 6 năm 2025 của Bộ trưởng Bộ Tài chính đến hết ngày 31/12/2026)
+    Mô tả: Kể từ ngày nhận được hồ sơ đầy đủ, đúng quy định.
+
+Thành phần hồ sơ:
+    - Bản gốc Giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành quốc tế (đối với trường hợp doanh nghiệp đề nghị cấp giấy phép kinh doanh dịch vụ lữ hành lần đầu hoặc thay đổi phạm vi kinh doanh dịch vụ lữ hành quốc tế)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư do cơ quan nhà nước có thẩm quyền cấp
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao quyết định bổ nhiệm hoặc hợp đồng lao động giữa doanh nghiệp kinh doanh dịch vụ lữ hành với người phụ trách kinh doanh dịch vụ lữ hành (đối với trường hợp doanh nghiệp đề nghị cấp giấy phép lữ hành lần đầu)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế (theo Mẫu số 07 ban hành kèm theo Phụ lục I.9 Nghị quyết số 66.18/2026/NQ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao bằng tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành của người phụ trách kinh doanh dịch vụ lữ hành; hoặc bản sao bằng tốt nghiệp cao đẳng trở lên chuyên ngành khác và bản sao chứng chỉ nghiệp vụ điều hành du lịch quốc tế. Văn bằng do cơ sở đào tạo nước ngoài cấp phải được công nhận theo quy định của pháp luật về giáo dục, giáo dục đại học và giáo dục nghề nghiệp (đối với trường hợp doanh nghiệp đề nghị cấp giấy phép lữ hành lần đầu)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy phép kinh doanh dịch vụ lữ hành quốc tế bản gốc đã được cấp (đối với trường hợp doanh nghiệp thay đổi Giấy chứng nhận đăng ký doanh nghiệp hoặc thay đổi phạm vi kinh doanh lữ hành quốc tế)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Du lịch Quốc gia Việt Nam - Bộ Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Cục Du lịch Quốc gia Việt Nam - Bộ Văn hóa, Thể thao và Du lịch
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép kinh doanh dịch vụ lữ hành quốc tế
+Căn cứ pháp lý:
+  * Thông tư số 13/2019/TT-BVHTTDL (13/2019/TT-BVHTTDL)
+  * Thông tư số 33/2018/TT-BTC (06/2017/TT-BVHTTDL)
+  * Thông tư của Bộ trưởng Bộ VHTTDL (04/2024/TT-BVHTTDL)
+  * Nghị định số 168/2017/NĐ-CP (168/2017/NĐ-CP)
+  * Luật 09/2017/QH14 (09/2017/QH14)
+  * Nghị quyết số 66.18/2026/NQ-CP của Chính phủ: Phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (66.18/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: (1) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;
+(2) Ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng thương mại, ngân hàng hợp tác xã hoặc chi nhánh ngân hàng nước ngoài thành lập và hoạt động tại Việt Nam:
+- Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam: 250.000.000đ (Hai trăm năm mươi triệu đồng);
+- Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài: 500.000.000đ (Năm trăm triệu đồng);
+- Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài: 500.000.000đ (Năm trăm triệu đồng).
+(3) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế.
+- Người phụ trách kinh doanh dịch vụ lữ hành là người giữ một trong các chức danh sau: chủ tịch hội đồng quản trị; chủ tịch hội đồng thành viên; chủ tịch công ty; chủ doanh nghiệp tư nhân; tổng giám đốc; giám đốc hoặc phó giám đốc; trưởng bộ phận kinh doanh dịch vụ lữ hành.
+- Chuyên ngành về lữ hành được thể hiện trên bằng tốt nghiệp của một trong các ngành, nghề, chuyên ngành sau đây:
+(3.1) Quản trị dịch vụ du lịch và lữ hành;
+(3.2) Quản trị lữ hành;
+(3.3) Điều hành tour du lịch;
+(3.4) Marketing du lịch;
+(3.5) Du lịch;
+(3.6) Du lịch lữ hành;
+(3.7) Quản lý và kinh doanh du lịch; 
+(3.8) Quản trị du lịch MICE;
+(3.9) Đại lý lữ hành; 
+(3.10) Hướng dẫn du lịch;
+(3.11) Ngành, nghề, chuyên ngành có thể hiện một trong các cụm từ “du lịch”, “lữ hành”, “hướng dẫn du lịch” do cơ sở giáo dục ở Việt Nam đào tạo và cấp bằng tốt nghiệp trước thời điểm Thông tư số 06/2017/TT-BVHTTDL có hiệu lực (ngày 01 tháng 02 năm 2018);
+(3.12) Ngành, nghề, chuyên ngành có thể hiện một trong các cụm từ “du lịch”, “lữ hành”, “hướng dẫn du lịch” do cơ sở đào tạo nước ngoài đào tạo và cấp bằng tốt nghiệp. 
+Trường hợp bằng tốt nghiệp không thể hiện các ngành, nghề, chuyên ngành quy định tại điểm (3.11) và (3.12) thì bổ sung bảng điểm tốt nghiệp hoặc phụ lục văn bằng thể hiện ngành, nghề, chuyên ngành, trong đó có một trong các cụm từ “du lịch”, “lữ hành”, “hướng dẫn du lịch”.
+Từ khóa: Không có thông tin
+Mô tả: (1) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;
+(2) Ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng thương mại, ngân hàng hợp tác xã hoặc chi nhánh ngân hàng nước ngoài thành lập và hoạt động tại Việt Nam:
+- Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam: 250.000.000đ (Hai trăm năm mươi triệu đồng);
+- Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài: 500.000.000đ (Năm trăm triệu đồng);
+- Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài: 500.000.000đ (Năm trăm triệu đồng).
+(3) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế.
+- Người phụ trách kinh doanh dịch vụ lữ hành là người giữ một trong các chức danh sau: chủ tịch hội đồng quản trị; chủ tịch hội đồng thành viên; chủ tịch công ty; chủ doanh nghiệp tư nhân; tổng giám đốc; giám đốc hoặc phó giám đốc; trưởng bộ phận kinh doanh dịch vụ lữ hành.
+- Chuyên ngành về lữ hành được thể hiện trên bằng tốt nghiệp của một trong các ngành, nghề, chuyên ngành sau đây:
+(3.1) Quản trị dịch vụ du lịch và lữ hành;
+(3.2) Quản trị lữ hành;
+(3.3) Điều hành tour du lịch;
+(3.4) Marketing du lịch;
+(3.5) Du lịch;
+(3.6) Du lịch lữ hành;
+(3.7) Quản lý và kinh doanh du lịch; 
+(3.8) Quản trị du lịch MICE;
+(3.9) Đại lý lữ hành; 
+(3.10) Hướng dẫn du lịch;
+(3.11) Ngành, nghề, chuyên ngành có thể hiện một trong các cụm từ “du lịch”, “lữ hành”, “hướng dẫn du lịch” do cơ sở giáo dục ở Việt Nam đào tạo và cấp bằng tốt nghiệp trước thời điểm Thông tư số 06/2017/TT-BVHTTDL có hiệu lực (ngày 01 tháng 02 năm 2018);
+(3.12) Ngành, nghề, chuyên ngành có thể hiện một trong các cụm từ “du lịch”, “lữ hành”, “hướng dẫn du lịch” do cơ sở đào tạo nước ngoài đào tạo và cấp bằng tốt nghiệp. 
+Trường hợp bằng tốt nghiệp không thể hiện các ngành, nghề, chuyên ngành quy định tại điểm (3.11) và (3.12) thì bổ sung bảng điểm tốt nghiệp hoặc phụ lục văn bằng thể hiện ngành, nghề, chuyên ngành, trong đó có một trong các cụm từ “du lịch”, “lữ hành”, “hướng dẫn du lịch”.

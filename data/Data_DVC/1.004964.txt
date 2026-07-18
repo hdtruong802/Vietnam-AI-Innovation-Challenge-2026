@@ -1,0 +1,64 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.004964
+Số quyết định: 1025/QĐ-BNV
+Tên thủ tục: Giải quyết chế độ trợ cấp một lần đối với người được cử làm chuyên gia sang giúp Lào, Căm-pu-chi-a
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    Bước 1: Người hưởng trợ cấp hoặc thân nhân người hưởng trợ cấp nộp 01 bộ hồ sơ theo quy định cho Ủy ban nhân dân (UBND) cấp xã nơi người lập Tờ khai đăng ký thường trú.
+    Bước 2: UBND cấp xã:
+    (i) Hướng dẫn người hưởng trợ cấp hoặc thân nhân người hưởng trợ cấp lập hồ sơ theo quy định;
+    (ii) Kiểm tra tính hợp lệ của hồ sơ; chuyển trả hồ sơ không hợp lệ cho người nộp hoàn thiện;
+    (iii) Hàng tháng tiếp nhận hồ sơ hợp lệ của người hưởng trợ cấp hoặc thân nhân người hưởng trợ cấp có đăng ký thường trú tại địa phương; tổng hợp, lập danh sách đề nghị người hưởng trợ cấp theo Mẫu số 16 Phụ lục I ban hành kèm theo Thông tư số 09/2025/TT-BNV xong trước ngày 10 hàng tháng;
+    (iv) Công khai danh sách người hưởng trợ cấp trong thời hạn 10 ngày kể từ ngày tổng hợp xong danh sách đề nghị người hưởng trợ cấp; tiếp nhận ý kiến có liên quan đến người hưởng trợ cấp hoặc thân nhân người hưởng trợ cấp trong thời gian công khai danh sách; thông báo lại nội dung ý kiến phản ánh liên quan cho người hưởng trợ cấp hoặc thân nhân người hưởng trợ cấp; tổng hợp ý kiến báo cáo UBND cấp tỉnh xem xét, quyết định;
+    đ) Gửi danh sách kèm theo hồ sơ của người hưởng trợ cấp về UBND cấp tỉnh thông qua Sở Nội vụ trong thời hạn 05 ngày làm việc kể từ ngày hết hạn công khai danh sách đề nghị người hưởng trợ cấp.
+    Bước 3: UBND cấp tỉnh chỉ đạo Sở Nội vụ
+    a) Tiếp nhận danh sách và hồ sơ của người hưởng trợ cấp do UBND cấp xã lập, có giấy bàn giao, tiếp nhận hồ sơ;
+    b) Kiểm tra tính hợp lệ của hồ sơ; chuyển trả hồ sơ không hợp lệ cho UBND cấp xã để chuyển trả người nộp hồ sơ hoàn thiện;
+    c) Thẩm định hồ sơ người hưởng trợ cấp; tổng hợp, trình Chủ tịch UBND cấp tỉnh quyết định về việc giải quyết chế độ trợ cấp một lần đối với người được cử làm chuyên gia sang giúp Lào, Căm-pu-chi-a theo Mẫu số 04 kèm theo Danh sách người hưởng trợ cấp theo Mẫu số 05 ban hành kèm theo Thông tư liên tịch số 17/2014/TTLT-BLĐTBXH-BTC (được sửa đổi, bổ sung tại Thông tư số 08/2023/TT-BLĐTBXH) trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận danh sách và hồ sơ người hưởng trợ cấp của UBND cấp xã.
+    d) Gửi quyết định và danh sách đối tượng hưởng trợ cấp cho các cơ quan, tổ chức, cá nhân có liên quan để thực hiện, đồng thời gửi về Bộ Nội vụ (01 bản) để theo dõi, kiểm tra.
+    đ) Lưu trữ hồ sơ người hưởng trợ cấp một lần theo quy định;
+    e) Chủ trì kiểm tra việc thực hiện chế độ trợ cấp một lần theo Quyết định số 57/2013/QĐ-TTg ngày 14/10/2013 về trợ cấp một lần đối với người được cử làm chuyên gia sang giúp Lào và Căm-pu-chi-a và giải quyết những vướng mắc, phát sinh tại địa phương.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: số ngày cụ thể được thể hiện chi tiết tại các bước của trình tự thực hiện
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: số ngày cụ thể được thể hiện chi tiết tại các bước của trình tự thực hiện
+
+Thành phần hồ sơ:
+    - (3) Quyết định nghỉ hưu (bản chính hoặc bản sao của cơ quan có thẩm quyền) đối với người đã nghỉ hưu hoặc Quyết định nghỉ việc do mất sức lao động (bản chính hoặc bản sao của cơ quan có thẩm quyền) đối với người nghỉ việc do mất sức lao động của cơ quan có thẩm quyền mà tại Quyết định chưa có khoản trợ cấp theo quy định tại Khoản 7 Điều 2 Quyết định số 87-CT ngày 01 tháng 3 năm 1985 của Chủ tịch Hội đồng Bộ trưởng về chế độ, chính sách đối với cán bộ sang giúp Lào và Căm-pu-chi-a. Trường hợp thất lạc Quyết định nghỉ hưu hoặc Quyết định nghỉ việc do mất sức lao động thì người hưởng trợ cấp liên hệ với cơ quan Bảo hiểm xã hội cấp tỉnh nơi hưởng lương hưu hoặc hưởng trợ cấp mất sức lao động để sao lại Quyết định nghỉ hưu hoặc Quyết định nghỉ việc do mất sức lao động.,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (4) Quyết định nghỉ việc chờ hưởng chế độ hưu trí đối với người nghỉ việc chờ hưởng chế độ hưu trí, Quyết định thôi việc đối với người đã thôi việc của cơ quan, đơn vị, doanh nghiệp nơi người hưởng trợ cấp nghỉ việc chờ hưởng chế độ hưu trí hoặc thôi việc và hồ sơ lý lịch khai trước khi nghỉ việc chờ hưởng chế độ hưu trí hoặc thôi việc có xác nhận của cơ quan quản lý (bản chính hoặc bản sao của cơ quan có thẩm quyền). Trường hợp không có Quyết định nghỉ việc chờ hưởng chế độ hưu trí thì thay thế bằng Giấy chứng nhận chờ hưởng chế độ hưu trí của cơ quan Bảo hiểm xã hội cấp tỉnh hoặc Sổ Bảo hiểm xã hội đã được cơ quan Bảo hiểm xã hội cấp tỉnh chốt sổ. Trường hợp không có Quyết định thôi việc thì thay thế bằng Quyết định chấm dứt hợp đồng lao động của cơ quan, đơn vị, doanh nghiệp nơi người hưởng trợ cấp thôi việc.,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (1) Tờ khai của người hưởng trợ cấp (01 bản) lập theo Mẫu số 18 tại Phụ lục ban hành kèm theo Thông tư số 08/2023/TT-BLĐTBXH ngày 29/8/2023. Trường hợp người hưởng trợ cấp đã chết thì thân nhân trực tiếp của người hưởng trợ cấp lập Tờ khai của thân nhân người hưởng trợ cấp (01 bản) theo Mẫu số 19 tại Phụ lục ban hành kèm theo Thông tư số 08/2023/TT-BLĐTBXH ngày 29/8/2023. Trường hợp người hưởng trợ cấp đã chết có từ 02 thân nhân trực tiếp trở lên thì người đứng tên lập Tờ khai phải có Giấy ủy quyền hợp pháp của các thân nhân trực tiếp còn lại. Thân nhân trực tiếp của người hưởng trợ cấp bao gồm: vợ hoặc chồng, con đẻ, con nuôi, bố đẻ, mẹ đẻ hoặc người nuôi dưỡng hợp pháp của người hưởng trợ cấp.,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (2) Quyết định cử đi và Quyết định về nước của cơ quan có thẩm quyền (bản chính hoặc bản sao của cơ quan có thẩm quyền) đối với người được cử làm chuyên gia sang giúp Lào giai đoạn từ ngày 01 tháng 5 năm 1975 đến ngày 31 tháng 12 năm 1988, sang giúp Căm-pu-chi-a giai đoạn từ ngày 01 tháng 01 năm 1979 đến ngày 31 tháng 8 năm 1989. Trường hợp người hưởng trợ cấp bị thất lạc hoặc không có đủ Quyết định cử đi, Quyết định về nước nêu trên thì phải có Giấy xác nhận thời gian làm chuyên gia tại Lào, Căm-pu-chi-a theo quy định sau đây: i) Đối với người hưởng trợ cấp đang công tác tại cơ quan, tổ chức, đơn vị của Đảng, Nhà nước, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội thì Giấy xác nhận thời gian làm chuyên gia tại Lào, Căm-pu-chi-a của đối tượng phải do thủ trưởng cơ quan, tổ chức, đơn vị đang công tác căn cứ vào hồ sơ quản lý ký, đóng dấu xác nhận. ii) Đối với người hưởng trợ cấp không thuộc đối tượng quy định tại điểm a nêu trên thì phải có Giấy xác nhận thời gian làm chuyên gia tại Lào, Căm-pu-chi-a lập theo Mẫu số 02 ban hành kèm theo Thông tư liên tịch số 17/2014/TTLT-BLĐTBXH-BTC do thủ trưởng cơ quan, đơn vị trực tiếp cử đi ký, đóng dấu xác nhận. Trường hợp người hưởng trợ cấp do nhiều cơ quan, đơn vị khác nhau cử đi thì phải có Giấy xác nhận thời gian làm chuyên gia tại Lào, Căm-pu-chi-a do thủ trưởng của các cơ quan, đơn vị trực tiếp cử đi ký, đóng dấu xác nhận. Trường hợp cơ quan có thẩm quyền xác nhận đã sáp nhập hoặc giải thể thì thủ trưởng cơ quan, đơn vị mới được thành lập sau sáp nhập hoặc thủ trưởng cơ quan, đơn vị cấp trên trực tiếp của cơ quan đã giải thể xác nhận.,
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Nội vụ, Ủy ban Nhân dân xã, phường, thị trấn., Chủ tịch ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hưởng hưởng trợ cấp một lần.
+Căn cứ pháp lý:
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Quy định về phân định thẩm quyền và phân cấp thực hiện nhiệm vụ quản lý nhà nước trong lĩnh vực nội vụ (09/2025/TT-BNV)
+  * Pháp lệnh ưu đãi người có công với cách mạng (02/2020/UBTVQH14)
+  * Sửa đổi, bổ sung, bãi bỏ một số điều của các Thông tư, Thông tư liên tịch có quy định liên quan đến việc nộp, xuất trình sổ hộ khẩu giấy, sổ tạm trú giấy hoặc giấy tờ có yêu cầu xác nhận nơi cư trú khi thực hiện thủ tục hành chính thuộc lĩnh vực quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội (08/2023/TT-BLĐTBXH)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+  * Thông tư liên tịch 17/2014/TTLT-BLĐTBXH-BTC - Hướng dẫn thực hiện trợ cấp một lần đối với người được cử làm chuyên gia sang giúp Lào và Căm-pu-chi-a theo Quyết định số 57/2013/QĐ-TTg ngày 14 tháng 10 năm 2013 của Thủ tướng Chính phủ (17/2014/TTLT-BLĐTBXH-BTC)
+  * Quyết định 57/2013/QĐ-TTg - Về trợ cấp một lần đối với người được cử làm chuyên gia sang giúp Lào và Căm-pu-chi-a (57/2013/QĐ-TTg)
+  * Quyết định số 62/2015/QĐ-TTg (62/2015/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

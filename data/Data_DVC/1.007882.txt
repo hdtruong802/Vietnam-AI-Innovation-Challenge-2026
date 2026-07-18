@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.007882
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hóa bán tại cửa hàng miễn thuế , nhưng được đưa vào bán ở thị trường nội địa
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    + Bước 1: Thương nhân kinh doanh bán hàng miễn thuế nộp hồ sơ cho cơ quan hải quan.
+    + Bước 2: Cơ quan hải quan tiếp nhận hồ sơ và kiểm tra hồ sơ theo quy định
+    + Bước 3: Cơ quan hải quan thu thuế và lệ phí theo quy định xác nhận trả tờ khai cho thương nhân.
+    + Bước 4: Phúc tập và lưu giữ hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20 VNĐ (20.000 vnđ / tờ khai)
+
+Thành phần hồ sơ:
+    - + Vận tải đơn: 01 bản sao chụp từ bản gốc hoặc bản chính của các bản vận tải đơn có ghi chữ copy;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Văn bản đề nghị (01 bản chính)
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - +Hợp đồng mua bán hàng hóa hoặc các giấy tờ có giá trị pháp lý tương đương hợp đồng: 01 bản sao
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Tuỳ trường hợp cụ thể dưới đây, bộ hồ sơ hải quan được bổ sung thêm các chứng từ sau: + Giấy phép của Bộ Thương mại (đối với hàng nhập khẩu có điều kiện). + Trường hợp hàng hoá có nhiều chủng loại hoặc đóng gói không đồng nhất Bản kê chi tiết hàng hoá: 01 bản chính và 01 bản sao; + Trường hợp hàng hoá nhập khẩu thuộc diện phải kiểm tra nhà nước về chất lượng: Giấy đăng ký kiểm tra nhà nước về chất lượng hàng hoá hoặc Giấy thông báo miễn kiểm tra nhà nước về chất lượng do cơ quan quản lý nhà nước có thẩm quyền cấp 01 bản chính; + Trường hợp hàng hoá được giải phóng hàng trên cơ sở kết quả giám định: Chứng thư giám định: 01 bản chính. + Trường hợp hàng hoá thuộc diện phải khai Tờ khai trị giá: Tờ khai trị giá hàng nhập khẩu: 01 bản chính; + Trường hợp hàng hoá phải có giấy phép nhập khẩu theo quy định của pháp luật: Giấy phép nhập khẩu của cơ quan quản lý Nhà nước có thẩm quyền: 01 bản ( là bản chính nếu nhập khẩumột lần hoặc bản sao khi nhập khẩu nhiều lần và phải xuất trình bản chính để đối chiếu); + Trường hợp chủ hàng có yêu cầu được hưởng thuế suất thuế nhập khẩu ưu đãi đặc biệt: Giấy chứng nhận xuất xứ hàng hoá ( C/O): 01 bản gốc và 01 bản sao thứ 3. Nếu hàng hoá nhập khẩu có tổng trị giá lô hàng ( FOB) không vượt quá 200 USD thì không phải nộp hoặc xuất trình C/O; Riêng về thuốc lá phải tái xuất không được chuyển tiêu thụ nội địa.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Tờ khai hải quan: 02 bản chính
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - + Hoá đơn thương mại: 01 bản chính, và 01 bản sao;
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp nhận
+Căn cứ pháp lý:
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

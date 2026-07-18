@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.009092
+Số quyết định: 2902/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với phương tiện thuỷ nội địa xuất cảnh, nhập cảnh và phương tiện qua lại khu vực cửa khẩu biên giới để giao nhận hàng hoá
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Người khai hải quan khai và ký tên vào tờ khai phương tiện vận tải đường thủy tạm nhập - tái xuất, tờ khai phương tiện tạm xuất - tái nhập; nộp, xuất trình các giấy tờ liên quan đến phương tiện vận tải.
+    Trường hợp khi tái xuất hoặc tái nhập mà người khai hải quan không xuất trình được tờ khai tạm nhập - tái xuất, tờ khai tạm xuất - tái nhập có xác nhận của Chi cục Hải quan cửa khẩu thì phải giải trình và khai báo lại trên tờ khai tạm nhập - tái xuất, tờ khai tạm xuất - tái nhập.
+    Bước 2: Cơ quan hải quan tiếp nhận hồ sơ hải quan; thực hiện quản lý rủi ro để kiểm tra hồ sơ, kiểm tra thực tế, xác nhận tạm nhập, tái xuất hoặc tạm xuất, tái nhập đối với phương tiện vận tải đường thủy nội địa nhập cảnh, xuất cảnh.
+    Trường hợp hồ sơ, giấy tờ chưa đầy đủ, hợp lệ thì từ chối tiếp nhận đăng ký hồ sơ, thông báo rõ lý do không tiếp nhận và những thiếu sót cần bổ sung cho người khai hải quan.
+    Trường hợp hồ sơ đầy đủ, hợp lệ thì in tờ khai phương tiện vận tải đường thủy tạm nhập - tái xuất, tờ khai phương tiện vận tải đường thủy nội địa tạm xuất - tái nhập từ hệ thống, đóng dấu công chức hải quan tiếp nhận và dấu “VIET NAM CUSTOMS” theo mẫu do Cục trưởng Cục Hải quan ban hành lên tờ khai, giao cho người khai hải quan để làm thủ tục khi tái nhập hoặc tái xuất; lưu hồ sơ tờ khai do người khai hải quan nộp khi làm thủ tục tái nhập hoặc tái xuất;
+    Trong quá trình giám sát, trường hợp xác định có dấu hiệu buôn lậu, vận chuyển trái phép hàng hóa, cơ quan hải quan thực hiện các biện pháp kiểm tra, ngăn chặn, tạm giữ, khám xét theo quy định của pháp luật.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 500 VNĐ (đối với phương tiện quá cảnh đường thuỷ)
+
+Thành phần hồ sơ:
+  [ Hồ sơ hải quan nhập cảnh đối với phương tiện vận tải đường thủy nội địa nước ngoài tạm nhập và phương tiện vận tải đường thủy nội địa Việt Nam tái nhập ]
+    - Tờ khai phương tiện vận tải đường thủy tạm nhập - tái xuất: Nộp 01 bản chính hoặc Tờ khai phương tiện vận tải đường sông tạm xuất - tái nhập có xác nhận tạm nhập của Chi cục Hải quan cửa khẩu làm thủ tục tạm xuất
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách hành khách trong trường hợp phương tiện vận tải đường thủy vận chuyển hành khách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hàng hóa trong trường hợp phương tiện vận tải đường thủy vận chuyển hàng hóa
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách thuyền viên, nhân viên làm việc trên phương tiện vận tải đường thủy (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy phép vận tải đường thủy qua biên giới của cơ quan có thẩm quyền
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản khai hành lý thuyền viên, nhân viên làm việc trên phương tiện vận tải đường thủy
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản kê nguyên liệu, vật dụng dự trữ trên phương tiện vận tải đường thủy
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hồ sơ hải quan xuất cảnh đối với phương tiện vận tải đường thủy nội địa nước ngoài tái xuất và phương tiện vận tải đường thủy nội địa Việt Nam tạm xuất ]
+    - Tờ khai phương tiện vận tải đường thủy tạm xuất - tái nhập: Nộp 01 bản chính hoặc Tờ khai phương tiện vận tải đường thủy tạm nhập - tái xuất có xác nhận tạm nhập của Chi cục Hải quan cửa khẩu làm thủ tục tạm nhập
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách hành khách trong trường hợp phương tiện vận tải đường thủy vận chuyển hành khách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hàng hóa trong trường hợp phương tiện vận tải đường thủy vận chuyển hàng hóa
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản khai hành lý thuyền viên, nhân viên làm việc trên phương tiện vận tải đường thủy
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản kê nguyên liệu, vật dụng dự trữ trên tầu theo mẫu quy định của Bộ Tài chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy phép vận tải đường thủy qua biên giới của cơ quan có thẩm quyền
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Người nước ngoài, Tổ chức nước ngoài
+Cơ quan thực hiện: Hải quan cửa khẩu
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận thông quan
+Căn cứ pháp lý:
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí hải quan và lệ phí hàng hóa, phương tiện vận tải quá cảnh (14/2021/TT-BTC)
+  * Nghị định số 167/2025/NĐ-CP ngày 30/6/2025 của Chính phủ (167/2025)
+  * Thông tư 50/2018/TT-BTC (50/2018/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

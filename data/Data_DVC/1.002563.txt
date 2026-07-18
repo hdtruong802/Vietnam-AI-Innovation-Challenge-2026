@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.002563
+Số quyết định: 517/QĐ-BTP
+Tên thủ tục: Sáp nhập công ty luật nước ngoài
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Luật sư
+Trình tự thực hiện:
+    Một hoặc nhiều công ty luật trách nhiệm hữu hạn 100% vốn nước ngoài có thể sáp nhập vào một công ty luật trách nhiệm hữu hạn 100% vốn nước ngoài khác.
+    Một hoặc nhiều công ty luật trách nhiệm hữu hạn dưới hình thức liên doanh có thể sáp nhập vào một công ty luật trách nhiệm hữu hạn dưới hình thức liên doanh khác.
+    Một hoặc nhiều công ty luật hợp danh giữa tổ chức hành nghề luật sư nước ngoài và công ty luật hợp danh Việt Nam có thể thỏa thuận sáp nhập vào một công ty luật hợp danh giữa tổ chức hành nghề luật sư nước ngoài và công ty luật hợp danh Việt Nam khác.
+    Các công ty luật nước ngoài bị sáp nhập lập 01 bộ hồ sơ sáp nhập công ty luật gửi trực tiếp hoặc qua dịch vụ bưu chính đến Cục Bổ trợ tư pháp, Bộ Tư pháp.
+    Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Cục trưởng Cục Bổ trợ tư pháp, Bộ Tư pháp quyết định chấp thuận việc sáp nhập, trường hợp từ chối phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản chính Hợp đồng sáp nhập công ty luật, trong đó phải quy định rõ về thủ tục, thời hạn và điều kiện sáp nhập; phương án sử dụng lao động; việc kế thừa toàn bộ quyền, nghĩa vụ của các công ty luật bị sáp nhập
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị sáp nhập công ty luật
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính Giấy phép thành lập của các công ty luật bị sáp nhập
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Bổ trợ tư pháp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định việc chấp thuận sáp nhập công ty luật nước ngoài
+Căn cứ pháp lý:
+  * Nghị định sửa đổi, bổ sung một số nghị định để cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh  thuộc phạm vi quản lý của Bộ Tư pháp (18/2026/NĐ-CP)
+  * Thông tư số 08/2025/TT-BTP ngày 12/6/2025 của Bộ trưởng Bộ Tư pháp quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp và phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (08/2025/TT-BTP)
+  * Nghị định 123/2013/NĐ-CP (123/2013/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: không
+Từ khóa: Không có thông tin
+Mô tả: không

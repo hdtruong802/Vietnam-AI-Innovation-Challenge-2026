@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001074
+Số quyết định: 99/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận Phương án hỗ trợ tài chính cho khách hàng vay của Công ty Quản lý tài sản của các tổ chức tín dụng Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Công ty Quản lý tài sản lập 01 bộ hồ sơ đề nghị chấp thuận Phương án đầu tư, cung cấp tài chính, Phương án bảo lãnh cho khách hàng vay vay vốn của tổ chức tín dụng, chi nhánh ngân hàng nước gửi Ngân hàng Nhà nước.
+    + Bước 2: Trong thời hạn 10 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị chấp thuận Phương án hỗ trợ tài chính cho khách hàng vay theo quy định, Ngân hàng Nhà nước xem xét, có văn bản gửi Công ty Quản lý tài sản về việc chấp thuận hoặc không chấp thuận. Trường hợp không chấp thuận, văn bản gửi Công ty Quản lý tài sản phải nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Nghị quyết của Hội đồng thành viên của Công ty Quản lý tài sản thông qua Phương án hỗ trợ tài chính cho khách hàng vay kèm theo Phương án hỗ trợ tài chính cho khách hàng vay.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản đề nghị chấp thuận Phương án hỗ trợ tài chính cho khách hàng vay do người đại diện hợp pháp của Công ty Quản lý tài sản ký;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam số 49 Lý Thái Tổ, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận Phương án hỗ trợ tài chính cho khách hàng vay, Văn bản không chấp thuận Phương án hỗ trợ tài chính cho khách hàng vay
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Thông tư sửa đổi, bổ sung một số điều của một số Thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh,  đơn giản hóa thủ tục hành chính (Thông tư số 69/2025/TT-NHNN)
+  * Thông tư 19/2013/TT-NHNN (19/2013/TT-NHNN)
+  * Thông tư sửa đổi, bổ sung một số Điều của Thông tư số 19/2013/TT-NHNN ngày 06 tháng 9 năm 2013 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về việc mua, bán và xử lý nợ xấu của Công ty Quản lý tài sản của các tổ chức tín dụng Việt Nam (03/2024/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: + Công ty Quản lý tài sản xem xét đầu tư, cung cấp tài chính khi khách hàng vay đáp ứng được các điều kiện sau đây:
+(i) Khách hàng vay có khả năng phục hồi tốt hoặc có phương án sản xuất kinh doanh, dự án đầu tư có hiệu quả;
+(ii) Có các biện pháp bảo đảm thu hồi vốn phù hợp cho các khoản đầu tư, cung cấp tài chính;
+(iii) Phương án đầu tư, cung cấp tài chính bảo đảm sự an toàn và có tính khả thi, trong đó phân tích, đánh giá mức độ rủi ro, hiệu quả kinh tế của khoản đầu tư, cung cấp tài chính, bảo lãnh; nguồn vốn để triển khai; khả năng thu hồi vốn; biện pháp thu hồi vốn; biện pháp bảo đảm an toàn vốn và xử lý rủi ro phát sinh;
+(iv) Điều kiện khác theo quy định của Công ty Quản lý tài sản.
++ Khách hàng vay được Công ty Quản lý tài sản xem xét, bảo lãnh vay vốn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài  khi đáp ứng được các điều kiện sau đây:
+(i) Khách hàng vay có khả năng phục hồi tốt hoặc có phương án sản xuất kinh doanh, dự án đầu tư mới có hiệu quả;
+(ii) Khách hàng vay có tài sản bảo đảm hợp pháp cho việc bảo lãnh vay vốn;
+(iii) Phương án bảo lãnh cho khách hàng vay vay vốn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài bảo đảm sự an toàn và có tính khả thi, trong đó phân tích, đánh giá mức độ rủi ro, hiệu quả kinh tế của khoản đầu tư, cung cấp tài chính, bảo lãnh; nguồn vốn để triển khai; khả năng thu hồi vốn; biện pháp thu hồi vốn; biện pháp bảo đảm an toàn vốn và xử lý rủi ro phát sinh;
+(iv) Điều kiện khác theo quy định của Công ty Quản lý tài sản.
+Từ khóa: Không có thông tin
+Mô tả: + Công ty Quản lý tài sản xem xét đầu tư, cung cấp tài chính khi khách hàng vay đáp ứng được các điều kiện sau đây:
+(i) Khách hàng vay có khả năng phục hồi tốt hoặc có phương án sản xuất kinh doanh, dự án đầu tư có hiệu quả;
+(ii) Có các biện pháp bảo đảm thu hồi vốn phù hợp cho các khoản đầu tư, cung cấp tài chính;
+(iii) Phương án đầu tư, cung cấp tài chính bảo đảm sự an toàn và có tính khả thi, trong đó phân tích, đánh giá mức độ rủi ro, hiệu quả kinh tế của khoản đầu tư, cung cấp tài chính, bảo lãnh; nguồn vốn để triển khai; khả năng thu hồi vốn; biện pháp thu hồi vốn; biện pháp bảo đảm an toàn vốn và xử lý rủi ro phát sinh;
+(iv) Điều kiện khác theo quy định của Công ty Quản lý tài sản.
++ Khách hàng vay được Công ty Quản lý tài sản xem xét, bảo lãnh vay vốn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài  khi đáp ứng được các điều kiện sau đây:
+(i) Khách hàng vay có khả năng phục hồi tốt hoặc có phương án sản xuất kinh doanh, dự án đầu tư mới có hiệu quả;
+(ii) Khách hàng vay có tài sản bảo đảm hợp pháp cho việc bảo lãnh vay vốn;
+(iii) Phương án bảo lãnh cho khách hàng vay vay vốn của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài bảo đảm sự an toàn và có tính khả thi, trong đó phân tích, đánh giá mức độ rủi ro, hiệu quả kinh tế của khoản đầu tư, cung cấp tài chính, bảo lãnh; nguồn vốn để triển khai; khả năng thu hồi vốn; biện pháp thu hồi vốn; biện pháp bảo đảm an toàn vốn và xử lý rủi ro phát sinh;
+(iv) Điều kiện khác theo quy định của Công ty Quản lý tài sản.

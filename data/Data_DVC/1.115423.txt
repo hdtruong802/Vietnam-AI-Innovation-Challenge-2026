@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.115423
+Số quyết định: 918/QĐ-TTPVHCC
+Tên thủ tục: Thủ tục cho phép thử nghiệm có kiểm soát
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    Tham vấn trước khi nộp hồ sơ: Tổ chức, doanh nghiệp có nhu cầu thử nghiệm có kiểm soát: Trước khi nộp hồ sơ chính thức, tổ chức có thể tham vấn Sở Khoa học và Công nghệ. Trong thời hạn 10 ngày kể từ ngày nhận được đề nghị tham vấn, Sở Khoa học và Công nghệ có trách nhiệm trả lời về nội dung đề nghị tham vấn.
+    Nộp hồ sơ:
+    - Tổ chức, doanh nghiệp nộp 01 bộ hồ sơ đến Các Chi nhánh - Trung tâm phục vụ hành chính công Thành phố.
+    - Trường hợp nộp hồ sơ trực tiếp hoặc tiếp nhận qua đường bưu chính, Các Chi nhánh - Trung tâm phục vụ hành chính công Thành phố nhận hồ sơ và  kiểm tra tính đầy đủ, hợp lệ của hồ sơ. Trong thời gian 0,5 ngày kể từ thời điểm nhận hồ sơ đầy đủ Trung tâm Phục vụ hành chính công chuyển về Sở Khoa học và Công nghệ (cơ quan tiếp nhận).
+    - Trường hợp nộp hồ sơ trực tuyến, Các Chi nhánh - Trung tâm phục vụ hành chính công Thành phố nhận và kiểm tra tính đầy đủ, hợp lệ sau đó chuyển về Sở Khoa học và Công nghệ (cơ quan tiếp nhận) thời gian chuyển hồ sơ không quá 0,5 ngày kể từ khi Hệ thống thông tin giải quyết thủ tục hành chính tiếp nhận hồ sơ.
+    - Trong thời hạn 05 ngày kể từ ngày nhận được hồ sơ, Sở Khoa học và Công nghệ (cơ quan tiếp nhận) có văn bản trả lời về tính đầy đủ của hồ sơ;
+    Trong thời hạn 10 ngày kể từ ngày cơ quan tiếp nhận có văn bản yêu cầu bổ sung thành phần hồ sơ, tổ chức đăng ký tham gia thử nghiệm phải gửi bổ sung đầy đủ thành phần hồ sơ theo yêu cầu. Quá thời hạn nêu trên, cơ quan tiếp nhận có văn bản trả lại hồ sơ;
+    - Trong thời hạn 30 ngày kể từ ngày nhận được đầy đủ hồ sơ, cơ quan cơ quan tiếp nhận phối hợp với các cơ quan có liên quan tổ chức thẩm định các nội dung đề xuất của đơn vị theo thuyêt minh hồ sơ. Cơ quan được lấy ý kiến có trách nhiệm trả lời bằng văn bản đầy đủ các nội dung theo đề nghị;
+    Trường hợp dự án đăng ký thử nghiệm có kiểm soát có tính chất phức tạp, liên quan đến nhiều lĩnh vực hoặc cần đánh giá kỹ thuật chuyên sâu, thời hạn thẩm định có thể gia hạn không quá 15 ngày. Trong thời gian này, nếu hồ sơ đề nghị thử nghiệm cần phải giải trình, làm rõ thì cơ quan thẩm định có văn bản yêu cầu tổ chức thử nghiệm giải trình. Cơ quan thẩm định trả lại hồ sơ đề nghị đăng ký thử nghiệm có kiểm soát nếu tổ chức thực hiện thử nghiệm không có văn bản giải trình, làm rõ theo yêu cầu;
+    - Sau khi hoàn tất việc thẩm định hồ sơ đề nghị thử nghiệm, trong thời gian 07 ngày cơ quan thẩm định tham mưu, trình Ủy ban nhân dân Thành phố xem xét, quyết định;
+    - Trong thời gian 07 ngày kể từ ngày nhận được Tờ trình của cơ quan thẩm định, Ủy ban nhân dân Thành phố ban hành Quyết định cho phép thử nghiệm có kiểm soát và quy chế thử nghiệm có kiểm soát theo Mẫu số 02 và Mẫu số 12 tại Phụ lục I ban hành kèm theo Nghị quyết số 26/2026/NQ-HĐND
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 49 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 49 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, phù hợp với tiêu chí và điều kiện lựa chọn của thử nghiệm có kiểm soát
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 49 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 49 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, phù hợp với tiêu chí và điều kiện lựa chọn của thử nghiệm có kiểm soát
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 49 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 49 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, phù hợp với tiêu chí và điều kiện lựa chọn của thử nghiệm có kiểm soát
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cho phép thử nghiệm có kiểm soát theo Mẫu số 01 tại Phụ lục I ban hành kèm theo Nghị quyết này ban hành kèm theo Nghị quyết số 26/2026/NQ-HĐND.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Kế hoạch thử nghiệm có kiểm soát theo Đề cương tại Phụ lục II ban hành kèm theo Nghị quyết số 26/2026/NQ-HĐND
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo đánh giá tác động; báo cáo đánh giá lợi ích, tính mới, giá trị mới, đổi mới sáng tạo theo Đề cương tại Phụ lục II ban hành kèm theo Nghị quyết số 26/2026/NQ-HĐND
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề cương tại Phụ lục II ban hành kèm theo Nghị quyết số 26/2026/NQ-HĐND
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề cương tại Phụ lục II ban hành kèm theo Nghị quyết số 26/2026/NQ-HĐND
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Cam kết của tổ chức đề nghị thử nghiệm theo Đề cương tại Phụ lục II ban hành kèm theo Nghị quyết số 26/2026/NQ-HĐND.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Các Chi nhánh – Trung tâm Phục vụ hành chính công Thành phố
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cho phép thử nghiệm có kiểm soát; tài trợ, hỗ trợ ( nếu có) và quy chế thử nghiệm có kiểm soát theo Mẫu số 02 và Mẫu số 12 tại Phụ lục I ban hành kèm theo Nghị quyết số 26/2026/NQ-HĐND
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Tổ chức, doanh nghiệp thực hiện thử nghiệm có kiểm soát về Công nghệ, quy trình, giải pháp, sản phẩm, dịch vụ, mô hình kinh doanh mới và các mô hình khác được xem xét thử nghiệm có kiểm soát khi đáp ứng các điều kiện sau đây: 
+1. Có tính đổi mới sáng tạo, góp phần phát triển kinh tế - xã hội của Thành phố; không thuộc lĩnh vực quốc phòng, an ninh và không xâm phạm an ninh quốc gia, trật tự an toàn xã hội; 
+2. Pháp luật chưa quy định, chưa cho phép thực hiện hoặc quy định hiện hành của pháp luật không phù hợp với đặc điểm, tính năng mới của sản phẩm thử nghiệm tạo ra khoảng trống hoặc rào cản pháp lý khiến sản phẩm không triển khai trên thực tế; 
+3. Tổ chức, doanh nghiệp, cơ quan, đơn vị đề xuất thử nghiệm đáp ứng đầy đủ điều kiện về kỹ thuật, công nghệ, nhân lực để thực hiện và kiểm soát được quá trình thử nghiệm theo quyết định cho phép của Ủy ban nhân dân Thành phố; 
+4. Phương án thử nghiệm được xây dựng với mục tiêu, quy trình triển khai, đánh giá kết quả cụ thể; quản lý rủi ro và có các biện pháp phòng ngừa, khắc phục rủi ro; bảo vệ quyền lợi người tham gia và các tổ chức, cá nhân có liên quan trong quá trình thử nghiệm.
+Từ khóa: Hoạt động khoa học và công nghệ
+Mô tả: Tổ chức, doanh nghiệp thực hiện thử nghiệm có kiểm soát về Công nghệ, quy trình, giải pháp, sản phẩm, dịch vụ, mô hình kinh doanh mới và các mô hình khác được xem xét thử nghiệm có kiểm soát khi đáp ứng các điều kiện sau đây: 
+1. Có tính đổi mới sáng tạo, góp phần phát triển kinh tế - xã hội của Thành phố; không thuộc lĩnh vực quốc phòng, an ninh và không xâm phạm an ninh quốc gia, trật tự an toàn xã hội; 
+2. Pháp luật chưa quy định, chưa cho phép thực hiện hoặc quy định hiện hành của pháp luật không phù hợp với đặc điểm, tính năng mới của sản phẩm thử nghiệm tạo ra khoảng trống hoặc rào cản pháp lý khiến sản phẩm không triển khai trên thực tế; 
+3. Tổ chức, doanh nghiệp, cơ quan, đơn vị đề xuất thử nghiệm đáp ứng đầy đủ điều kiện về kỹ thuật, công nghệ, nhân lực để thực hiện và kiểm soát được quá trình thử nghiệm theo quyết định cho phép của Ủy ban nhân dân Thành phố; 
+4. Phương án thử nghiệm được xây dựng với mục tiêu, quy trình triển khai, đánh giá kết quả cụ thể; quản lý rủi ro và có các biện pháp phòng ngừa, khắc phục rủi ro; bảo vệ quyền lợi người tham gia và các tổ chức, cá nhân có liên quan trong quá trình thử nghiệm.

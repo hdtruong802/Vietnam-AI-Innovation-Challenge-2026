@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003406
+Số quyết định: 1204/QĐ-BGTVT
+Tên thủ tục: Thủ tục xóa đăng ký quyền sở hữu tàu bay
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * Nộp hồ sơ thủ tục hành chính:
+    Chủ sở hữu tàu bay đề nghị xóa đăng ký quyền sở hữu tàu bay gửi hồ sơ trực tiếp, qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức khác đến Cục Hàng không Việt Namvà phải chịu trách nhiệm về tính chính xác và trung thực của các thông tin trong hồ sơ.
+  * Giải quyết thủ tục hành chính:
+    Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam thực hiện việc cấp Giấy chứng nhận xóa đăng ký quyền sở hữu tàu bay theo Mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định số 68/2015/NĐ-CP ngày 18/8/2015; thu hồi Giấy chứng nhận quyền sở hữu tàu bay đã cấp, trừ trường hợp Giấy chứng nhận quyền sở hữu tàu bay bị mất. Trường hợp không cấp, Cục Hàng không Việt Nam phải trả lời người đề nghị bằng văn bản và nêu rõ lý do.
+    Trường hợp hồ sơ chưa đầy đủ, trong thời hạn 01 ngày làm việc, kể từ ngày nhận hồ sơ, Cục Hàng không Việt Nam có văn bản hướng dẫn người đề nghị xóa đăng ký hoàn chỉnh hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 1500000 VNĐ (đồng/lần(Lệ phí đăng ký các quyền tàu bay (Miễn lệ phí từ ngày 07/4/2026 đến 30/6/2026 theo quy định tại Thông tư 40/2026/TT-BTC)
+    Mô tả: - Nộp hồ sơ trực tiếp; hoặc
+- Qua hệ thống bưu chính; hoặc
+- Trên môi trường điện tử; hoặc
+- Các hình thức phù hợp khác.
+03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 1500000 VNĐ (đồng/lần(Lệ phí đăng ký các quyền tàu bay (Miễn lệ phí từ ngày 07/4/2026 đến 30/6/2026 theo quy định tại Thông tư 40/2026/TT-BTC)
+    Mô tả: - Nộp hồ sơ trực tiếp; hoặc
+- Qua hệ thống bưu chính; hoặc
+- Trên môi trường điện tử; hoặc
+- Các hình thức phù hợp khác.
+03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 1500000 VNĐ (đồng/lần(Lệ phí đăng ký các quyền tàu bay (Miễn lệ phí từ ngày 07/4/2026 đến 30/6/2026 theo quy định tại Thông tư 40/2026/TT-BTC)
+
+Thành phần hồ sơ:
+    - Tờ khai theo Mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao từ sổ gốc hoặc bản sao có chứng thực hoặc bản sao chụp từ bản chính hoặc bản sao xuất trình bản chính để đối chiếu hoặc bản sao điện tử từ sổ gốc hoặc bản sao điện tử có chứng thực từ bản chính giấy tờ, tài liệu chứng minh tư cách pháp lý của người đề nghị xóa đăng ký trong trường hợp người đề nghị là tổ chức, cá nhân Việt Nam; Trường hợp giấy tờ, tài liệu chứng minh tư cách pháp lý của người đề nghị xóa đăng ký do cơ quan nước ngoài có thẩm quyền cấp thì các giấy tờ, tài liệu này phải được hợp pháp hóa lãnh sự theo quy định của pháp luật, trừ trường hợp được miễn hợp pháp hóa lãnh sự theo Điều ước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên hoặc theo nguyên tắc có đi có lại.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Giấy chứng nhận xóa đăng ký quyền sở hữu tàu bay
+Căn cứ pháp lý:
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * Nghị định 64/2022/NĐ-CP (64/2022/NĐ-CP)
+  * Quy định đăng ký quốc tịch và đăng ký các quyền đối với tàu bay (68/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

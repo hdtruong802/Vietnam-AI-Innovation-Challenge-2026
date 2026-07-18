@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.001804
+Số quyết định: 987/QĐ-NHNN
+Tên thủ tục: Thủ tục đăng ký thay đổi giao dịch ngoại hối liên quan đến đầu tư ra nước ngoài trong hoạt động dầu khí
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Nhà đầu tư gửi 01 bộ hồ sơ đăng ký thay đổi giao dịch ngoại hối đến Ngân hàng Nhà nước Khu vực nơi nhà đầu tư là tổ chức có trụ sở chính trên địa bàn hoặc nhà đầu tư là cá nhân đăng ký thường trú trên địa bàn.
+    + Bước 2: Trường hợp hồ sơ chưa đầy đủ, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước Khu vực có văn bản yêu cầu nhà đầu tư bổ sung hồ sơ.
+    + Bước 3: Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ, Ngân hàng Nhà nước Khu vực xác nhận hoặc từ chối xác nhận đăng ký thay đổi giao dịch ngoại hối liên quan đến đầu tư ra nước ngoài trong hoạt động dầu khí dưới hình thức văn bản điện tử hoặc văn bản giấy gửi nhà đầu tư. Trường hợp từ chối xác nhận đăng ký giao dịch ngoại hối, Ngân hàng Nhà nước Khu vực phải nêu rõ lý do và có văn bản điện tử hoặc văn bản giấy gửi nhà đầu tư.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đăng ký giao dịch ngoại hối theo Mẫu số 02 tại Phụ lục kèm theo Nghị định 132/2024/NĐ-CP;..
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính xác nhận của tổ chức tín dụng được phép nơi nhà đầu tư đang mờ tài khoản vốn đầu tư về số dư trên tài khoản này; số tiền đã chuyển ra nước ngoài và số tiền đã chuyển về Việt Nam đến thời điểm phát sinh thay đổi;.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận đăng ký thay đổi giao dịch ngoại hối liên quan đến đầu tư ra nước ngoài trong hoạt động dầu khí, Văn bản từ chối xác nhận đăng ký thay đổi giao dịch ngoại hối
+Căn cứ pháp lý:
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+  * Nghị định quy định về đầu tư ra nước ngoài trong hoạt động dầu khí. (132/2024/NĐ-CP)
+  * Thông tư hướng dẫn về quản lý ngoại hối đối với đầu tư ra nước ngoài trong hoạt động dầu khí. (40/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

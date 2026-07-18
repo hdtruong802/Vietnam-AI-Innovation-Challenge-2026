@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.013955
+Số quyết định: 2075/QĐ-BKHCN
+Tên thủ tục: Thủ tục đăng ký dự kiểm tra nghiệp vụ đại diện sở hữu công nghiệp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Sở hữu trí tuệ
+Trình tự thực hiện:
+    Bước 1: Tiếp nhận hồ sơ
+    Cá nhân đăng ký dự kiểm tra nghiệp vụ đại diện sở hữu công nghiệp nộp 01 bộ hồ sơ đăng ký dự kiểm tra cho Ủy ban nhân dân cấp tỉnh.
+    Bước 2: Xử lý hồ sơ
+    Hồ sơ đăng ký dự kiểm tra được Ủy ban nhân dân cấp tỉnh xử lý trong thời hạn 20 ngày kể từ ngày nhận hồ sơ theo trình tự như sau:
+    - Trường hợp hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh thông báo cho người nộp hồ sơ về việc đủ điều kiện tham dự kỳ kiểm tra, đồng thời thông báo về dự kiến thời gian, địa điểm, lịch kiểm tra;
+    - Trường hợp hồ sơ không hợp lệ, Ủy ban nhân dân cấp tỉnh thông báo các thiếu sót của hồ sơ và ấn định thời hạn 30 ngày kể từ ngày ra thông báo để người nộp hồ sơ sửa chữa thiếu sót;
+    - Trường hợp người nộp hồ sơ không sửa chữa thiếu sót hoặc sửa chữa thiếu sót không đạt yêu cầu, Ủy ban nhân dân cấp tỉnh ra quyết định từ chối chấp nhận đơn đăng ký dự kiểm tra, trong đó nêu rõ lý do từ chối.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 300000 VNĐ (Phí thẩm định hồ sơ kiểm tra nghiệp vụ đại diện sở hữu công nghiệp (mỗi môn))
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 150000 VNĐ (Phí phúc tra kiểm tra kết quả nghiệp vụ đại diện sở hữu công nghiệp (mỗi môn))
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 150000 VNĐ (Phí phúc tra kiểm tra kết quả nghiệp vụ đại diện sở hữu công nghiệp (mỗi môn))
+
+Thành phần hồ sơ:
+    - .Bản sao giấy chứng nhận tốt nghiệp khóa đào tạo pháp luật về sở hữu công nghiệp được Bộ Khoa học và Công nghệ công nhận quy định tại Điều 62 Nghị định số 65/2023/NĐ-CP (xuất trình bản chính để đối chiếu, trừ trường hợp bản sao đã được chứng thực); hoặc bản sao quyết định tuyển dụng hoặc hợp đồng lao động và tài liệu khác (có xác nhận của cơ quan, tổ chức nơi công tác) chứng minh thời gian ít nhất 05 năm trực tiếp làm công tác thẩm định đơn đăng ký sở hữu công nghiệp tại cơ quan quốc gia hoặc quốc tế về sở hữu công nghiệp hoặc công tác pháp luật về sở hữu công nghiệp quy định tại điểm d khoản 2 Điều 155 của Luật Sở hữu trí tuệ, bao gồm công tác thanh tra, kiểm tra, kiểm sát, xét xử, pháp chế, tư vấn pháp luật, quản lý nhà nước về sở hữu công nghiệp; nghiên cứu khoa học (có chức danh nghiên cứu viên) và giảng dạy về sở hữu công nghiệp (xuất trình bản chính để đối chiếu, trừ trường hợp bản sao đã được chứng thực)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản sao bằng cử nhân hoặc văn bằng trình độ tương đương quy định tại điểm c khoản 2 Điều 155 của Luật Sở hữu trí tuệ (xuất trình bản chính để đối chiếu, trừ trường hợp bản sao đã được chứng thực)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Tờ khai đăng ký dự kiểm tra, làm theo Mẫu số 09 tại Phụ lục III.2 ban hành kèm theo Nghị định số 133/2025/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản sao chứng từ nộp phí, lệ phí (trường hợp nộp phí, lệ phí qua dịch vụ bưu chính hoặc nộp trực tiếp vào tài khoản của cơ quan quản lý nhà nước về quyền sở hữu công nghiệp)....
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - 02 ảnh 3 x 4 (cm)
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo đủ điều kiện tham dự kỳ kiểm tra, Quyết định từ chối chấp nhận đơn đăng ký dự kiểm tra
+Căn cứ pháp lý:
+  * Quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ (133/2025/NĐ-CP)
+  * Luật Sở hữu trí tuệ (50/2005/QH11)
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Sở hữu trí tuệ về sở hữu công nghiệp, bảo vệ quyền sở hữu công nghiệp, quyền đối với giống cây trồng và quản lý nhà nước về sở hữu trí tuệ được sửa đổi, bổ sung bởi các  Nghị định số 15/2026/NĐ-CP ngày 14 tháng 01 năm 2026, Nghị định số 33/2026/NĐ-CP ngày 21 tháng 01 năm 2026 và Nghị định số 100/2026/NĐ-CP ngày 31 tháng 3 năm 2026 (65/2023/NĐ-CP)
+  * Thông tư 263/2016/TT-BTC-Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí sở hữu công nghiệp (263/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Điều kiện đăng ký dự kỳ kiểm tra nghiệp vụ đại diện sở hữu công nghiệp:
+- Là công dân Việt Nam, có năng lực hành vi dân sự đầy đủ;
+- Thường trú tại Việt Nam;
+- Có bằng cử nhân hoặc văn bằng trình độ tương đương đối với trường hợp hành nghề trong lĩnh vực nhãn hiệu, chỉ dẫn địa lý, tên thương mại, chống cạnh tranh không lành mạnh, bí mật kinh doanh; có bằng cử nhân hoặc văn bằng trình độ tương đương chuyên ngành khoa học tự nhiên hoặc khoa học kỹ thuật đối với trường hợp hành nghề trong lĩnh vực sáng chế, kiểu dáng công nghiệp, thiết kế bố trí;
+- Đã trực tiếp làm công tác pháp luật về sở hữu công nghiệp từ năm năm trở lên hoặc đã trực tiếp làm công tác thẩm định các loại đơn đăng ký sở hữu công nghiệp tại cơ quan quốc gia hoặc quốc tế về sở hữu công nghiệp từ năm năm trở lên hoặc đã tốt nghiệp khóa đào tạo pháp luật về sở hữu công nghiệp được cơ quan có thẩm quyền công nhận;
+- Không phải là công chức, viên chức, người lao động đang làm việc tại cơ quan nhà nước có thẩm quyền xác lập và bảo vệ quyền sở hữu công nghiệp.
+Từ khóa: Không có thông tin
+Mô tả: Điều kiện đăng ký dự kỳ kiểm tra nghiệp vụ đại diện sở hữu công nghiệp:
+- Là công dân Việt Nam, có năng lực hành vi dân sự đầy đủ;
+- Thường trú tại Việt Nam;
+- Có bằng cử nhân hoặc văn bằng trình độ tương đương đối với trường hợp hành nghề trong lĩnh vực nhãn hiệu, chỉ dẫn địa lý, tên thương mại, chống cạnh tranh không lành mạnh, bí mật kinh doanh; có bằng cử nhân hoặc văn bằng trình độ tương đương chuyên ngành khoa học tự nhiên hoặc khoa học kỹ thuật đối với trường hợp hành nghề trong lĩnh vực sáng chế, kiểu dáng công nghiệp, thiết kế bố trí;
+- Đã trực tiếp làm công tác pháp luật về sở hữu công nghiệp từ năm năm trở lên hoặc đã trực tiếp làm công tác thẩm định các loại đơn đăng ký sở hữu công nghiệp tại cơ quan quốc gia hoặc quốc tế về sở hữu công nghiệp từ năm năm trở lên hoặc đã tốt nghiệp khóa đào tạo pháp luật về sở hữu công nghiệp được cơ quan có thẩm quyền công nhận;
+- Không phải là công chức, viên chức, người lao động đang làm việc tại cơ quan nhà nước có thẩm quyền xác lập và bảo vệ quyền sở hữu công nghiệp.

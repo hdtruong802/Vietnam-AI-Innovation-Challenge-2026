@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.003425
+Số quyết định: 4082/QĐ-BCA-QLXNC
+Tên thủ tục: Kiểm tra, xét duyệt nhân sự, cấp phép nhập cảnh cho người nước ngoài, người Việt Nam định cư ở nước ngoài nhập cảnh vào Việt Nam tại Cục Quản lý xuất nhập cảnh, Bộ Công an
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Quản lý xuất nhập cảnh
+Trình tự thực hiện:
+    Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật
+    Bước 2: Nộp hồ sơ:
+    * Cơ quan, tổ chức, cá nhân mời bảo lãnh người nước ngoài nộp hồ sơ vào giờ hành chính các ngày làm việc trong tuần tại một trong hai trụ sở của Cục Quản lý xuất nhập cảnh, Bộ Công an:
+    + Số 69 đường Mạc Thái Tổ, phường Yên Hòa, thành phố Hà Nội
+    + Số 333-335-337 đường Nguyễn Trãi, phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh
+    *Cán bộ tiếp nhận hồ sơ kiểm tra tính pháp lý và nội dung hồ sơ:
+    + Nếu hồ sơ đã đầy đủ, hợp lệ thì tiếp nhận hồ sơ, in và cấp giấy hẹn trả kết quả cho người nộp hồ sơ
+    + Nếu hồ sơ thiếu hoặc không hợp lệ thì cán bộ tiếp nhận hồ sơ hướng dẫn để người nộp hồ sơ hoàn chỉnh
+    * Thời gian tiếp nhận hồ sơ: Từ thứ 2 đến hết sáng thứ 7 hàng tuần (trừ ngày Tết, ngày lễ)
+    Bước 3: Trả kết quả:
+    + Người đến nhận kết quả trực tiếp nhận kết quả tại Cục Quản lý xuất nhập cảnh. Khi đến nhận kết quả mang theo giấy hẹn trả kết quả, giấy tờ tùy thân để kiểm tra, đối chiếu
+    + Trường hợp không đồng ý xét duyệt nhân sự, cấp phép nhập cảnh thì trả lời bằng văn bản và nêu rõ lý do
+    + Thời gian trả kết quả: Từ thứ 2 đến sáng thứ 7 hàng tuần (trừ ngày Tết, ngày lễ)
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tiếp nộp hồ sơ và nhận kết quả tại Cục Quản lý xuất nhập cảnh, Bộ Công an. + Không quá 05 ngày làm việc, kể từ khi nhận đủ hồ sơ đối với trường hợp người nước ngoài nhận thị thực tại cơ quan có thẩm quyền cấp thị thực của Việt Nam ở nước ngoài. + Không quá 03 ngày làm việc kể từ khi nhận đủ hồ sơ đối với trường hợp người nước ngoài được nhận thị thực tại cửa khẩu quốc tế quy định tại các điểm a, b, c, d khoản 1 Điều 18 Luật số 47/2014/QH13 ngày 16/6/2014. + Không quá 12 giờ làm việc kể từ khi nhận đủ hồ sơ đối với các trường hợp được nhận thị thực tại cửa khẩu quốc tế quy định tại điểm đ, e khoản 1 Điều 18 Luật số 47/2014/QH13 ngày 16/6/2014.
+
+Thành phần hồ sơ:
+  [ Đối với cá nhân (bảo lãnh cho thân nhân): ]
+    - Đơn bảo lãnh cho thân nhân là người nước ngoài nhập cảnh Việt Nam (mẫu NA3) ban hành kèm theo Thông tư số 22/2023/TT-BCA ngày 30/6/2023 của Bộ công an.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với cơ quan, tổ chức: ]
+    - Công văn đề nghị xét duyệt, kiểm tra nhân sự người người ngoài nhập cảnh (NA2).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cục quản lý xuất nhập cảnh
+Cơ quan có thẩm quyền: Cục quản lý xuất nhập cảnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công văn trả lời đề nghị xét duyệt nhân sự người nước ngoài nhập cảnh (NB1), Công văn trả lời đề nghị cấp thị thực tại cửa khẩu quốc tế (NB3), Công văn trả lời đề nghị kiểm tra nhân sự người nước ngoài nhập cảnh (NB2)
+Căn cứ pháp lý:
+  * Luật Xuất cảnh, nhập cảnh của công dân Việt Nam và Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam sửa đổi 2023 (23/2023/QH15)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Nghị quyết số 222/2025/QH15 (222/2025/QH15)
+  * Thông tư 31/2015/TT-BCA (31/2015/TT-BCA)
+  * Quy định mẫu giấy tờ liên quan đến việc nhập cảnh, xuất cảnh, cư trú của người nước ngoài tại Việt Nam (04/2015/TT-BCA)
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Nghị định số 327/2025/NĐ-CP ngày 18/12/2025 của Chính phủ quy định về chính sách nhập cảnh, xuất cảnh, cư trú đối với người nước ngoài tại Trung tâm tài chính quốc tế tại Việt Nam (327/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

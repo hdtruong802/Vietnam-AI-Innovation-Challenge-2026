@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 1.014580
+Số quyết định: 1869/QĐ-UBND
+Tên thủ tục: Chính sách hỗ trợ hợp tác quốc tế giữa các cơ sở đào tạo trên địa bàn tỉnh hợp tác với các cơ sở đào tạo quốc tế
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Giáo dục nghề nghiệp (G07-LĐ06)
+Trình tự thực hiện:
+    Bước 1. Chậm nhất 05 ngày làm việc, kể từ ngày hoàn thành quy trình xây dựng, thẩm định, ban hành chương trình đào tạo hoặc kể từ ngày kết thúc khóa học, Thủ trưởng cơ sở đào tạo rà soát, tổng hợp, nộp 01 bộ hồ sơ trực tiếp hoặc qua đường bưu chính hoặc hình thức điện tử theo quy định tại khoản 5 Điều 7 Nghị quyết 113/2025/NQ-HĐND về Sở Giáo dục và Đào tạo.
+    Bước 2. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ, Sở Giáo dục và Đào tạo có trách nhiệm thẩm định hồ sơ; quyết định phê duyệt kinh phí hỗ trợ cho cơ sở đào tạo (Mẫu số 10 quy định tại Phụ lục III kèm theo Nghị quyết 113/2025/NQ-HĐND).
+    Trường hợp không hỗ trợ thì trong thời hạn 05 ngày làm việc, Sở Giáo dục và Đào tạo có trách nhiệm thông báo bằng văn bản và nêu rõ lý do không hỗ trợ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc, kể từ ngày nhận hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+  [ . Hỗ trợ công chức, viên chức, giảng viên, chuyên gia quốc tế đối với cơ sở đào tạo công lập không trực thuộc tỉnh nhưng có trụ sở đóng trên địa bàn tỉnh, cơ sở đào tạo ngoài công lập ]
+    - - Văn bản đề nghị hỗ trợ chi phí lưu trú/chi phí và vé máy bay (Mẫu số 09 quy định tại Phụ lục III kèm theo Nghị quyết 113/2025/NQ-HĐND
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Quyết định cử đi đào tạo, trao đổi, hợp tác liên kết đào tạo ở nước ngoài của cơ quan có thẩm quyền
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Hợp đồng đào tạo, trao đổi, hợp tác liên kết đào tạo;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Biên lai hoặc phiếu thu thuê phòng nghỉ, mua vé máy bay theo thực tế;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao thị thực visa nhập cảnh..
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ Xây dựng chương trình đào tạo liên kết, song bằng đối với cơ sở đào tạo công lập không trực thuộc tỉnh nhưng có trụ sở đóng trên địa bàn tỉnh, cơ sở đào tạo ngoài công lập ]
+    - - Văn bản đề nghị hỗ trợ chi phí xây dựng chương trình đào tạo (Mẫu số 08 quy định tại Phụ lục III kèm theo Nghị quyết 113/2025/NQ-HĐND
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Quyết định thẩm định, ban hành chương trình đào tạo; Chương trình đào tạo
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Biên lai (hóa đơn), chứng từ chi phí
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện: Sở Giáo dục và Đào tạo tỉnh Bắc Ninh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công tỉnh Bắc Ninh
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: .Quyết định phê duyệt kinh phí hỗ trợ của Giám đốc Sở Giáo dục và Đào tạo hoặc văn bản trả lời nêu rõ lý do không hỗ trợ.
+Căn cứ pháp lý:
+  * Nghị quyết 113/2025/NQ-HĐND  Ban hành Quy định chính sách hỗ trợ đào tạo nghề, đào tạo nhân lực phục vụ công nghiệp bán dẫn, trí tuệ nhân tạo, công nghệ số trên địa bàn tỉnh Bắc Ninh, giai đoạn 2025-2030 (113/2025/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: - Cơ sở đào tạo có đề nghị xây dựng chương trình đào tạo liên kết, song bằng trình độ cao đẳng trở lên, được cơ quan chủ quản phê duyệt trước khi thực hiện quy trình xây dựng, thẩm định và ban hành chương trình theo quy định của pháp luật; có chương trình đào tạo liên kết, song bằng trình độ cao đẳng trở lên được phê duyệt; 
+- Giảng viên, chuyên gia quốc tế có hợp đồng hợp tác liên kết đào tạo chương trình song bằng với cơ sở đào tạo trong tỉnh; giảng dạy các ngành, nhóm ngành (quy định tại Phụ lục I kèm theo Nghị quyết 113/2025/NQ-HĐND) tại các cơ sở đào tạo trong tỉnh;
+- Công chức quản lý nhà nước về GDNN, viên chức của các cơ sở đào tạo trực thuộc tỉnh được cơ quan có thẩm quyền cử đi trao đổi, hợp tác liên kết đào tạo các ngành, nghề (quy định tại Phụ lục I kèm theo Nghị quyết 113/2025/NQ-HĐND) ở nước ngoài.
+Từ khóa: Không có thông tin
+Mô tả: - Cơ sở đào tạo có đề nghị xây dựng chương trình đào tạo liên kết, song bằng trình độ cao đẳng trở lên, được cơ quan chủ quản phê duyệt trước khi thực hiện quy trình xây dựng, thẩm định và ban hành chương trình theo quy định của pháp luật; có chương trình đào tạo liên kết, song bằng trình độ cao đẳng trở lên được phê duyệt; 
+- Giảng viên, chuyên gia quốc tế có hợp đồng hợp tác liên kết đào tạo chương trình song bằng với cơ sở đào tạo trong tỉnh; giảng dạy các ngành, nhóm ngành (quy định tại Phụ lục I kèm theo Nghị quyết 113/2025/NQ-HĐND) tại các cơ sở đào tạo trong tỉnh;
+- Công chức quản lý nhà nước về GDNN, viên chức của các cơ sở đào tạo trực thuộc tỉnh được cơ quan có thẩm quyền cử đi trao đổi, hợp tác liên kết đào tạo các ngành, nghề (quy định tại Phụ lục I kèm theo Nghị quyết 113/2025/NQ-HĐND) ở nước ngoài.
