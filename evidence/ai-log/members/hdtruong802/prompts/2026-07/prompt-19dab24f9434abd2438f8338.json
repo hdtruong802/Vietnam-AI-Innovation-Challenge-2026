@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "record_type": "prompt_event",
+  "prompt_id": "prompt-19dab24f9434abd2438f8338",
+  "occurred_at": "2026-07-18T03:42:05.294128Z",
+  "captured_at": "2026-07-18T03:42:05.294779Z",
+  "member_id": "hdtruong802",
+  "tool": "codex",
+  "event": "UserPrompt",
+  "prompt": "ti?p t?c th?c hi?n",
+  "prompt_preview": "ti?p t?c th?c hi?n",
+  "model": null,
+  "task_record": "local-20260718-gcp-backend-deploy",
+  "branch": "chore/local-20260718-gcp-backend-deploy",
+  "workspace_fingerprint": "29aa416e0bb250a6b4670ada7dbae02bdeb972e36fb01db0ae28310d10af8a5d",
+  "source": {
+    "session_hash": "70f4c4f1ec235906df4697a54e37a5b6acf480ac6a91c04bf549cfa6b6934024",
+    "adapter": "manual",
+    "adapter_version": "1"
+  },
+  "sanitization": {
+    "redacted": false,
+    "categories": []
+  },
+  "capture_warnings": []
+}

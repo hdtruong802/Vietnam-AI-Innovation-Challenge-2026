@@ -8,6 +8,7 @@
 - Mọi response có thể được hiểu là hướng dẫn mang `trust_state`, `procedure_version`, `source_refs`, `last_verified_at`, `review_gate` và `fixture_mode`.
 - Chỉ pack `approved` có source, checksum và metadata hiệu lực mới có thể trả `verified_guidance`.
 - `PROCEDURE_DATA_MODE=fixture` chỉ phục vụ local integration. Mọi response fixture trả `official_review_required`; không dùng cho hướng dẫn thật hoặc production.
+- Runtime production demo dùng `PROCEDURE_DATA_MODE=disabled`, `RAG_MODE=disabled` và `LLM_MODE=disabled`. `/health` trả `degraded`; catalog chỉ là ba summary `unavailable`; checklist/validation không được trả fixture, rule finding hoặc `verified_guidance`.
 - Backend không lưu transcript/form draft. `SessionContext` là state có cấu trúc do client gửi lại, không chứa full chat history.
 
 ## Routes
@@ -15,7 +16,7 @@
 | Method | Path | Mục đích |
 | --- | --- | --- |
 | `GET` | `/health` | Liveness, version và trạng thái capability. |
-| `GET` | `/v1/procedures` | Procedure summary/version/readiness. |
+| `GET` | `/v1/procedures` | Procedure summary/version/readiness; khi runtime disabled chỉ trả catalog `unavailable`. |
 | `POST` | `/v1/procedures/recommend` | Nhận diện thủ tục từ `need_text`. |
 | `POST` | `/v1/intake/turn` | Một lượt intake stateless. |
 | `POST` | `/v1/procedures/{procedure_id}/checklist` | Checklist, steps và form schema. |
@@ -48,6 +49,7 @@ Mọi lỗi ứng dụng trả:
 - `503`: adapter bắt buộc gặp lỗi kỹ thuật.
 - `429`: in-memory demo rate limit khi `RATE_LIMIT_ENABLED=true`; thay bằng adapter hạ tầng trước public scale-out.
 - Thiếu/mâu thuẫn/chưa duyệt evidence là response `200` fail-closed với `official_review_required`, không phải `verified_guidance`.
+- Disabled runtime không fallback sang fixture. `POST /v1/procedures/recommend` không trả candidate fixture; checklist/validation của ba ID MVP trả trạng thái fail-closed và không có hướng dẫn/rule thực tế.
 
 ## Adapter handoff
 
