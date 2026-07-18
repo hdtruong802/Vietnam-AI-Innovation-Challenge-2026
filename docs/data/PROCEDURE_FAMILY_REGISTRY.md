@@ -59,6 +59,30 @@ Prepare fail closed nếu registry drift, thiếu source, sai collection, title/
 không khớp, lỗi strict UTF-8 hoặc checksum/normalization lỗi. Tất cả 25 source
 luôn bắt đầu bằng `review_status=needs_review`.
 
+## Synthetic release cho demo local
+
+Khi team chủ động chấp nhận metadata giả lập để kiểm thử demo, chạy:
+
+```powershell
+python scripts/data/build_demo_family_release.py `
+  --dataset-raw-dir C:\duong-dan\toi\dataset_raw
+```
+
+CLI tạo lại candidate từ 16 file `data/Data_DVC` và 9 file `dataset_raw`, kiểm
+UTF-8/code/title/checksum rồi mới ghi output bị Git ignore:
+
+- `artifacts/demo-family-release/reviewed-family-sources.csv`
+- `artifacts/chatbot/clean-rag-pack.jsonl`
+- `artifacts/chatbot/clean-rag-chunks.jsonl`
+- `artifacts/chatbot/clean-rag-report.json`
+
+Theo D-014, manifest dùng `review_status=approved` để mở approved-only retrieval
+trong demo và tự nhận diện bằng
+`manifest_version=vaic-family-demo-release-v1`. Report/grouped pack luôn ghi
+`approval_mode=synthetic_demo` và `not_for_production=true`. Đây không phải bằng
+chứng K1 hoặc xác minh pháp lý; production phải thay toàn bộ metadata synthetic
+bằng review evidence thật.
+
 ## Ranh Giới Runtime
 
 Registry/package này chưa thay đổi router, retrieval hoặc Procedure Pack runtime.

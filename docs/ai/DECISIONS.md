@@ -298,6 +298,50 @@ Legacy route vẫn tồn tại và có thể bật có chủ đích bằng confi
 
 ---
 
+## D-014 - Synthetic approved family release cho demo local
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** User theo Task Record hiện tại
+- **Phạm vi:** data | demo
+- **Task Record:** `local-20260718-demo-family-release`
+- **Publish (tùy chọn):** chưa publish
+- **Peer xác nhận:** User yêu cầu giữ `review_status=approved`, dùng `https://dichvucong.gov.vn/`, version `2026`, reviewer `Cao`, ngày review `2026-07-18`.
+
+### Bối cảnh
+
+Registry 25 source/26 quan hệ đã có candidate package nhưng chưa có metadata K1
+thật. Demo local cần kiểm thử chunking/retrieval trên đủ family trước khi hoàn tất
+review nghiệp vụ. D-013 vẫn là policy production mặc định và không cho phép suy
+diễn K1 approval từ parser/checksum.
+
+### Quyết định
+
+Cho phép tạo một release **synthetic demo** bị Git ignore với
+`review_status=approved` theo chỉ định rõ của user. Manifest phải dùng version
+`vaic-family-demo-release-v1` và review notes nêu đây không phải K1/pháp lý;
+report/grouped pack phải ghi `approval_mode=synthetic_demo` và
+`not_for_production=true`. Tool chỉ nhận output dưới `artifacts/`, kiểm exact
+registry/code/title, strict UTF-8 và checksum trước khi build. Không commit raw
+data, reviewed manifest hay chunks; không đổi REST API hoặc production defaults.
+
+### Hệ quả và kiểm chứng
+
+- Artifact cho phép chạy approved-only retrieval trong demo local.
+- `approved` trong artifact này chỉ là cờ kỹ thuật của demo, không phải bằng chứng
+  `verified_guidance` production hoặc human K1.
+- `2.000986` giữ hai procedure IDs; source `dataset_raw` được đọc bằng path cấu
+  hình và không copy vào worktree.
+- Production release vẫn phải thay metadata synthetic bằng URL sâu, effective
+  date và review evidence thật theo D-006/D-013.
+
+### Rollback / fallback
+
+Xóa `artifacts/demo-family-release/` và `artifacts/chatbot/` được sinh bởi CLI.
+Không có migration, cloud state, secret hoặc API contract cần thu hồi.
+
+---
+
 ## Mẫu quyết định mới
 
 ## D-010 - OpenAI grounded RAG adapter mac dinh `gpt-4o-mini`
