@@ -7,7 +7,7 @@
 - Status: `handoff`
 - Owner tam thoi: Codex
 - Base ref: `cao` / `f01f8f3`
-- Branch/worktree: `feature/local-20260719-phase6-golden-eval` / dedicated worktree
+- Branch/worktree: integrated into local `cao`; feature worktree retained as a recovery point
 - Risk: `isolated` (evaluation assets only; no runtime/API changes)
 - AI Log: chua bat; khong capture prompt trong task nay
 
@@ -50,5 +50,5 @@
   - Backend + evaluation regression: `69 passed`, one Starlette dependency deprecation warning.
   - Golden CLI: expected exit `1`; routing `48/60` (`0.80`), false routes `4`, missed routes `8`, false verified `0`, fail-closed trust errors `18`, demo/HTTP errors `0`.
   - Full-tree repo guard is blocked by pre-existing `.codex/hooks.json` and `.cursor/hooks.json` in base; staged guard is required for task diff.
-- Resource release: release after commit/fast-forward; no port/server/cloud resource was claimed.
+- Resource release: released after fast-forward to local `cao`; no port/server/cloud resource was claimed.
 - Publish: khong push/PR trong task nay.
