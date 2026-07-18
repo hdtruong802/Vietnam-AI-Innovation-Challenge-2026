@@ -58,6 +58,21 @@ class Settings(BaseSettings):
     rag_source_freeze_date: str = "2026-07-17"
     rag_top_k: int = Field(default=5, ge=1, le=50)
     rag_min_confidence: float = Field(default=0.12, ge=0, le=1)
+
+    # --- Semantic search (xem docs/proposal.md D-005) ---
+    # "keyword"  — BM25-style TF-IDF cosine (luon co, khong can API key/model).
+    # "semantic" — chi dung dense embedding.
+    # "hybrid"   — ket hop: final = (1-alpha)*keyword + alpha*dense.
+    #              Tu dong fallback alpha=0 neu embedding khong kha dung.
+    rag_retrieval_mode: Literal["keyword", "semantic", "hybrid"] = "hybrid"
+    rag_semantic_weight: float = Field(default=0.7, ge=0.0, le=1.0)
+    # Model HuggingFace (dung voi sentence-transformers, KHONG can API key).
+    # Default: vietnamese-bi-encoder — duoc train cho information retrieval tieng Viet.
+    # Override: RAG_EMBEDDING_MODEL=sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+    rag_embedding_model: str = "bkai-foundation-models/vietnamese-bi-encoder"
+    rag_embedding_batch_size: int = Field(default=64, ge=1, le=512)
+    # Provider: "local" (sentence-transformers), "openai" (API), "auto" (local dau, roi openai).
+    rag_embedding_provider: Literal["local", "openai", "auto"] = "auto"
     pii_token_ttl_seconds: int = Field(default=1_800, ge=1)
 
     model_config = SettingsConfigDict(env_file=ENV_FILES, extra="ignore")
