@@ -99,6 +99,15 @@ const LotusFlowerPattern = ({ className }: { className?: string }) => (
   </svg>
 );
 
+const VNGovLogo = ({ className = "w-8 h-8" }: { className?: string }) => (
+  <svg className={className} viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M50 85 C25 80, 20 55, 18 45 C35 48, 45 65, 50 78 C55 65, 65 48, 82 45 C80 55, 75 80, 50 85 Z" fill="#0D1B3D" />
+    <path d="M48 70 C40 50, 22 35, 15 32 C28 25, 45 35, 48 55 Z" fill="#F97316" />
+    <path d="M52 70 C60 50, 78 35, 85 32 C72 25, 55 35, 52 55 Z" fill="#F97316" />
+    <path d="M50 15 L52 23 L60 25 L52 27 L50 35 L48 27 L40 25 L48 23 Z" fill="#FDBA40" />
+  </svg>
+);
+
 export default function Home() {
   // State variables
   const [sessionId, setSessionId] = useState<string>("");
@@ -620,7 +629,7 @@ export default function Home() {
 
           <div className="max-w-6xl mx-auto text-center relative z-10">
             <h3 className="text-xl font-serif font-extrabold text-primary">Lợi ích khi sử dụng dịch vụ công trực tuyến</h3>
-            
+
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mt-8 font-sans">
               <div className="flex flex-col items-center p-4">
                 <div className="w-14 h-14 rounded-full bg-card-bg border border-border-slate text-accent flex items-center justify-center text-2xl shadow-sm mb-4">⏱️</div>
@@ -648,7 +657,7 @@ export default function Home() {
         {/* Footer */}
         <footer className="bg-brand-red text-white/90 py-12 px-6 md:px-12 shrink-0 border-t border-border-slate/20 relative overflow-hidden font-sans">
           <TrongDongPattern className="absolute w-[300px] h-[300px] -bottom-10 -right-10 text-white/5 pointer-events-none" />
-          
+
           <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-8 relative z-10 text-xs">
             <div className="space-y-4">
               <div className="flex items-center gap-3">
@@ -734,53 +743,44 @@ export default function Home() {
   }
 
   return (
-    <div className="flex flex-col h-screen bg-neutral-bg text-primary font-sans antialiased pl-[env(safe-area-inset-left)] pr-[env(safe-area-inset-right)] pb-[env(safe-area-inset-bottom)]">
+    <div className="flex flex-col h-screen bg-background text-foreground font-sans antialiased pl-[env(safe-area-inset-left)] pr-[env(safe-area-inset-right)] pb-[env(safe-area-inset-bottom)]">
       {/* 1. Navbar */}
-      <header className="flex items-center justify-between px-6 pr-[max(1.5rem,env(safe-area-inset-right))] pl-[max(1.5rem,env(safe-area-inset-left))] py-4 bg-card-bg border-b border-border-slate shadow-sm shrink-0 relative overflow-hidden">
-        {/* Subtle top decoration bar */}
-        <div className="absolute top-0 left-0 w-full h-[3px] bg-gradient-to-r from-amber-500 via-red-500 to-amber-600" />
-        <div className="flex items-center gap-4 relative z-10">
-          {/* Vietnam styled Emblem SVG */}
-          <div className="relative flex items-center justify-center w-11 h-11 rounded-full border border-amber-300/40 bg-amber-50/50 shadow-inner shrink-0">
-            <svg className="w-9 h-9" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <circle cx="50" cy="50" r="46" fill="#DA251D" stroke="#D97706" strokeWidth="2"/>
-              <path d="M50 20L58.2 41.5H81L62.6 55.4L69.6 77L50 63.5L30.4 77L37.4 55.4L19 41.5H41.8L50 20Z" fill="#FFFF00"/>
-              <circle cx="50" cy="50" r="28" stroke="#FFFF00" strokeWidth="1" strokeDasharray="3 3" opacity="0.6"/>
-              <path d="M22 65 C32 80, 68 80, 78 65" stroke="#FFFF00" strokeWidth="1.5" strokeLinecap="round" opacity="0.8"/>
-            </svg>
-          </div>
-          <div>
-            <h1 className="text-md md:text-lg font-serif font-bold leading-tight tracking-tight text-primary">
-              CỔNG DỊCH VỤ CÔNG QUỐC GIA
-            </h1>
-            <p className="text-[10px] uppercase font-bold text-accent tracking-widest font-sans">Trợ lý tiền kiểm hồ sơ thông minh</p>
+      <header className="flex items-center justify-between px-6 pr-[max(1.5rem,env(safe-area-inset-right))] pl-[max(1.5rem,env(safe-area-inset-left))] py-4 bg-card-bg border-b border-border-slate shadow-sm shrink-0 relative z-20">
+        <div className="flex items-center gap-3">
+          <VNGovLogo className="w-7 h-7" />
+          <div className="flex items-center gap-2">
+            <span className="text-md font-bold font-sans tracking-tight text-[#0D1B3D] dark:text-white">
+              VN<span className="text-[#F97316]">Gov</span> Copilot
+            </span>
+            <span className="text-zinc-300 dark:text-zinc-700 font-light">|</span>
+            <span className="text-[10px] font-bold text-foreground/60 font-sans tracking-wide">Trợ lý AI cho dịch vụ công</span>
           </div>
         </div>
 
-        <div className="flex items-center gap-4 relative z-10">
+        <div className="flex items-center gap-3">
           <button
             onClick={() => setView("landing")}
-            className="flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-border-slate bg-neutral-bg hover:bg-neutral-bg/85 text-xs font-bold text-primary transition-all duration-200"
+            className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full border border-border-slate bg-neutral-bg hover:bg-neutral-bg/85 text-xs font-bold text-primary transition-all duration-200"
           >
             ← Quay lại Trang chủ
           </button>
-          <div className="flex items-center gap-1.5">
-            <span
-              className={`w-2 h-2 rounded-full ${
-                backendHealth === "online"
-                  ? "bg-success animate-pulse"
-                  : backendHealth === "offline"
-                  ? "bg-error"
-                  : "bg-warning"
-              }`}
-            />
-            <span className="text-xs font-medium text-zinc-600">
-              {backendHealth === "online"
-                ? "Hệ thống kết nối"
-                : backendHealth === "offline"
-                ? "Backend Ngoại tuyến"
-                : "Đang kiểm tra kết nối..."}
-            </span>
+
+          <button
+            onClick={() => handleOpenComingSoon("Liên kết với Cổng DVC Quốc gia.")}
+            className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-border-slate bg-card-bg hover:bg-neutral-bg text-xs font-bold text-foreground/80 transition-all"
+          >
+            <span className="w-2 h-2 rounded-full bg-brand-red" />
+            Dịch vụ công quốc gia
+          </button>
+
+          <div className="flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-emerald-50 dark:bg-emerald-950/20 border border-emerald-200/40 text-emerald-600 dark:text-emerald-400">
+            <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
+            <span className="text-[10px] font-bold">Hệ thống kết nối</span>
+          </div>
+
+          {/* User profile */}
+          <div className="w-8 h-8 rounded-full bg-neutral-bg border border-border-slate flex items-center justify-center font-bold text-xs text-primary shadow-sm cursor-pointer" onClick={() => handleOpenComingSoon("Tài khoản người dùng đang đăng nhập.")}>
+            NT
           </div>
         </div>
       </header>
@@ -855,16 +855,16 @@ export default function Home() {
                     msg.role === "user" ? "ml-auto items-end" : "mr-auto items-start"
                   }`}
                 >
-                  <span className="text-[10px] font-bold text-zinc-400 mb-1">
-                    {msg.role === "user" ? "CÔNG DÂN" : "TRỢ LÝ VNGOV"}
+                  <span className="text-[10px] font-bold text-foreground/50 mb-1 flex items-center gap-1">
+                    {msg.role === "user" ? "CÔNG DÂN" : "🤖 TRỢ LÝ VNGOV"}
                   </span>
 
                   {/* Bubble */}
                   <div
-                    className={`px-4 py-3 rounded-xl text-sm leading-relaxed shadow-sm ${
+                    className={`px-4 py-3 rounded-xl text-sm leading-relaxed shadow-sm relative ${
                       msg.role === "user"
                         ? "bg-accent text-white rounded-br-none font-sans font-medium"
-                        : "bg-card-bg border border-border-slate/80 text-primary rounded-bl-none font-sans"
+                        : "bg-card-bg border border-border-slate text-primary rounded-bl-none font-sans"
                     }`}
                   >
                     <p className="whitespace-pre-line font-medium leading-relaxed">{msg.content}</p>
@@ -895,7 +895,7 @@ export default function Home() {
 
               {/* Dynamic Empty State suggestions */}
               {messages.length === 1 && (
-                <div className="pt-2">
+                <div className="pt-2 text-left">
                   <span className="text-xs font-bold text-zinc-500 block mb-2">Chọn nhanh dịch vụ công hỗ trợ:</span>
                   <div className="space-y-2">
                     <button
@@ -948,122 +948,200 @@ export default function Home() {
           </div>
         </aside>
 
-        {/* Right Column (60% width) - Contains Form Input & Validation */}
+        {/* Right Column (60% width) - Stepper Progress and Form/AI Result split layout */}
         <main
           className={`${
             activeMobileTab === "form" ? "flex" : "hidden"
           } md:flex flex-col flex-1 bg-neutral-bg overflow-y-auto p-6`}
         >
           {checklist ? (
-            <div className="max-w-xl mx-auto w-full space-y-6">
-              {/* Form Sheet container */}
-              <div className="bg-card-bg border border-border-slate rounded-lg p-6 shadow-sm">
-                <div className="border-b border-border-slate pb-4 mb-6">
-                  <span className="text-[10px] font-bold text-accent tracking-wider uppercase block">TỜ KHAI ĐIỆN TỬ SƠ BỘ</span>
-                  <h2 className="text-lg font-bold text-primary">{checklist.procedure_name}</h2>
-                  <p className="text-xs text-zinc-500 mt-1">Vui lòng hoàn thành các trường dưới đây để trợ lý tiền kiểm tra.</p>
-                </div>
+            <div className="max-w-4xl mx-auto w-full">
+              <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
 
-                <div className="space-y-4">
-                  {checklist.form_schema && checklist.form_schema.properties &&
-                    Object.entries(checklist.form_schema.properties).map(([key, prop]) => {
-                      const isRequired = checklist.form_schema.required?.includes(key);
-                      const hasError = validationResponse?.findings.some(f => f.field === key && f.level === "error");
-                      const errorMsg = validationResponse?.findings.find(f => f.field === key && f.level === "error")?.message;
+                {/* Stepper Progress Left Panel (5/12 width) */}
+                <div className="lg:col-span-5 space-y-6 text-left">
+                  {/* Step progress card */}
+                  <div className="flex items-center gap-4 p-4 bg-card-bg border border-border-slate rounded-xl shadow-sm">
+                    <div className="relative w-12 h-12 flex items-center justify-center rounded-full border-2 border-accent text-accent font-bold text-xs bg-accent/5">
+                      {currentProcedureId ? "2/5" : "0/5"}
+                    </div>
+                    <div>
+                      <h4 className="text-xs font-extrabold text-primary">
+                        {currentProcedureId ? "Hồ sơ của bạn đang hình thành" : "Hồ sơ chưa bắt đầu"}
+                      </h4>
+                      <p className="text-[10px] text-foreground/60 font-semibold mt-0.5">
+                        {currentProcedureId ? "2 / 5 bước hoàn thành" : "0 / 5 bước hoàn thành"}
+                      </p>
+                    </div>
+                  </div>
 
-                      return (
-                        <div key={key} className="flex flex-col">
-                          <label
-                            htmlFor={`input-${key}`}
-                            className="text-xs font-bold text-primary mb-1.5"
-                          >
-                            {prop.title} {isRequired && <span className="text-error">*</span>}
-                          </label>
-                          <input
-                            id={`input-${key}`}
-                            type={prop.format === "date" ? "date" : "text"}
-                            value={formData[key] || ""}
-                            onChange={(e) => handleInputChange(key, e.target.value)}
-                            onFocus={() => setActiveField(key)}
-                            onBlur={() => setActiveField(null)}
-                            aria-required={isRequired ? "true" : "false"}
-                            aria-invalid={hasError ? "true" : "false"}
-                            aria-describedby={hasError ? `error-${key}` : undefined}
-                            className={`px-3 py-2 border rounded-md text-sm transition-all focus:outline-none focus:border-accent ${
-                              hasError ? "border-error bg-error-bg/10" : "border-border-slate bg-white"
-                            }`}
-                          />
-                          {hasError && (
-                            <span id={`error-${key}`} className="text-[11px] font-semibold text-error mt-1">
-                              ⚠️ {errorMsg}
-                            </span>
-                          )}
-                        </div>
-                      );
-                    })}
-                </div>
-
-                <div className="mt-8 pt-6 border-t border-border-slate flex gap-3">
-                  <button
-                    onClick={handlePreCheck}
-                    disabled={isValidating}
-                    className="flex-1 py-2.5 bg-accent text-white text-sm font-semibold rounded-md hover:bg-accent-hover transition-all disabled:opacity-50 flex items-center justify-center gap-2 min-h-[44px]"
-                  >
-                    {isValidating ? "Đang xử lý..." : "🔍 Bắt đầu tiền kiểm hồ sơ"}
-                  </button>
-                </div>
-              </div>
-
-              {/* Validation Response Panel */}
-              {validationResponse && (
-                <div className={`border rounded-lg p-5 shadow-sm ${
-                  validationResponse.is_valid
-                    ? "bg-success-bg border-success-border"
-                    : "bg-error-bg border-error-border"
-                }`}>
-                  <h3 className={`text-sm font-bold flex items-center gap-2 ${
-                    validationResponse.is_valid ? "text-success" : "text-error"
-                  }`}>
-                    {validationResponse.is_valid ? "✅ HỒ SƠ ĐỦ ĐIỀU KIỆN SƠ BỘ" : "⚠️ PHÁT HIỆN LỖI KÊ KHAI HỒ SƠ"}
-                  </h3>
-
-                  <p className="text-xs text-zinc-700 mt-2 font-medium leading-relaxed">
-                    {validationResponse.summary}
-                  </p>
-
-                  {validationResponse.findings && validationResponse.findings.length > 0 && (
-                    <div className="mt-4 pt-4 border-t border-zinc-200/50 space-y-2">
-                      <span className="text-[10px] font-bold text-zinc-500 uppercase tracking-wider block mb-1">
-                        Chi tiết các phát hiện:
-                      </span>
-                      <div className="space-y-2">
-                        {validationResponse.findings.map((finding, idx) => (
-                          <div key={idx} className={`p-3 rounded-lg text-xs leading-relaxed ${
-                            finding.level === "error"
-                              ? "bg-white border border-error-border text-error"
-                              : finding.level === "warning"
-                              ? "bg-white border border-warning-border text-warning"
-                              : "bg-white border border-zinc-200 text-zinc-700"
-                          }`}>
-                            <div className="font-bold flex items-center gap-1.5">
-                              <span className={`w-2 h-2 rounded-full ${
-                                finding.level === "error" ? "bg-error" : "bg-warning"
-                              }`} />
-                              {finding.level === "error" ? "Sai sót bắt buộc sửa" : "Cảnh báo cần lưu ý"}
-                            </div>
-                            <p className="mt-1 font-medium">{finding.message}</p>
-                            {finding.citation && (
-                              <span className="block mt-2 text-[10px] font-semibold text-zinc-500">
-                                Luật trích dẫn: <a href={finding.citation.url} target="_blank" rel="noreferrer" className="underline">{finding.citation.title} ({finding.citation.ref_code})</a>
-                              </span>
-                            )}
-                          </div>
-                        ))}
+                  {/* Vertical Timeline stepper */}
+                  <div className="bg-card-bg border border-border-slate rounded-xl p-5 shadow-sm space-y-5">
+                    <div className="flex items-start gap-3">
+                      <div className="w-5 h-5 rounded-full bg-emerald-500 text-white flex items-center justify-center text-[10px] font-bold">✓</div>
+                      <div>
+                        <h5 className="text-xs font-bold text-emerald-600">1. Xác định thủ tục</h5>
+                        <p className="text-[9px] text-foreground/50 mt-0.5 font-medium">Đã xác định đúng thủ tục AI gợi ý</p>
                       </div>
                     </div>
-                  )}
+
+                    <div className="flex items-start gap-3">
+                      <div className="w-5 h-5 rounded-full bg-accent text-white flex items-center justify-center text-[10px] font-bold">2</div>
+                      <div>
+                        <h5 className="text-xs font-bold text-primary">2. Thông tin cá nhân</h5>
+                        <p className="text-[9px] text-foreground/50 mt-0.5 font-medium">Khai báo dữ liệu nhân thân của công dân</p>
+                      </div>
+                    </div>
+
+                    <div className="flex items-start gap-3">
+                      <div className="w-5 h-5 rounded-full bg-neutral-bg text-foreground/40 flex items-center justify-center text-[10px] font-bold">3</div>
+                      <div>
+                        <h5 className="text-xs font-bold text-foreground/45">3. Thông tin cha, mẹ</h5>
+                        <p className="text-[9px] text-foreground/50 mt-0.5 font-medium">Khai báo quan hệ gia đình liên quan</p>
+                      </div>
+                    </div>
+
+                    <div className="flex items-start gap-3">
+                      <div className="w-5 h-5 rounded-full bg-neutral-bg text-foreground/40 flex items-center justify-center text-[10px] font-bold">4</div>
+                      <div>
+                        <h5 className="text-xs font-bold text-foreground/45">4. Giấy tờ đính kèm</h5>
+                        <p className="text-[9px] text-foreground/50 mt-0.5 font-medium">Tải lên các tài liệu chứng thực hành chính</p>
+                      </div>
+                    </div>
+
+                    <div className="flex items-start gap-3">
+                      <div className="w-5 h-5 rounded-full bg-neutral-bg text-foreground/40 flex items-center justify-center text-[10px] font-bold">5</div>
+                      <div>
+                        <h5 className="text-xs font-bold text-foreground/45">5. Kiểm tra trước khi nộp</h5>
+                        <p className="text-[9px] text-foreground/50 mt-0.5 font-medium">Rà soát tính hợp lệ và tiền kiểm lỗi pháp lý</p>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Privacy secure notice */}
+                  <div className="flex items-center gap-2.5 p-3 bg-neutral-bg/60 border border-border-slate rounded-xl text-[10px] text-foreground/60 font-semibold shadow-inner">
+                    <span>🛡️</span>
+                    <span>Dữ liệu được mã hóa và bảo vệ theo tiêu chuẩn của Chính phủ.</span>
+                  </div>
                 </div>
-              )}
+
+                {/* Intake Form & Side panels (7/12 width) */}
+                <div className="lg:col-span-7 space-y-6">
+                  {/* Form intake sheet */}
+                  <div className="bg-card-bg border border-border-slate rounded-xl p-5 shadow-sm space-y-4">
+                    <div className="border-b border-border-slate pb-3 mb-3 flex justify-between items-center text-left">
+                      <div>
+                        <span className="text-[8px] font-bold text-accent tracking-wider uppercase block">TỜ KHAI ĐIỆN TỬ SƠ BỘ</span>
+                        <h3 className="text-sm font-bold text-primary">{checklist.procedure_name}</h3>
+                      </div>
+                      <button
+                        onClick={handlePreCheck}
+                        disabled={isValidating}
+                        className="px-4 py-2 bg-accent text-white text-xs font-bold rounded-lg hover:bg-accent-hover transition-all shadow-sm flex items-center gap-1.5"
+                      >
+                        {isValidating ? "Đang quét..." : "🔍 Tiền kiểm"}
+                      </button>
+                    </div>
+
+                    {/* Dynamic form inputs list */}
+                    <div className="space-y-3.5 max-h-[280px] overflow-y-auto pr-1">
+                      {checklist.form_schema && checklist.form_schema.properties &&
+                        Object.entries(checklist.form_schema.properties).map(([key, prop]) => {
+                          const isRequired = checklist.form_schema.required?.includes(key);
+                          const hasError = validationResponse?.findings.some(f => f.field === key && f.level === "error");
+                          const errorMsg = validationResponse?.findings.find(f => f.field === key && f.level === "error")?.message;
+
+                          return (
+                            <div key={key} className="flex flex-col text-left">
+                              <label htmlFor={`input-${key}`} className="text-[11px] font-bold text-primary mb-1">
+                                {prop.title} {isRequired && <span className="text-error">*</span>}
+                              </label>
+                              <input
+                                id={`input-${key}`}
+                                type={prop.format === "date" ? "date" : "text"}
+                                value={formData[key] || ""}
+                                onChange={(e) => handleInputChange(key, e.target.value)}
+                                onFocus={() => setActiveField(key)}
+                                onBlur={() => setActiveField(null)}
+                                aria-required={isRequired ? "true" : "false"}
+                                aria-invalid={hasError ? "true" : "false"}
+                                className={`px-3 py-2 border rounded-lg text-xs transition-all focus:outline-none focus:border-accent ${
+                                  hasError ? "border-error bg-error-bg/10" : "border-border-slate bg-card-bg text-foreground"
+                                }`}
+                              />
+                              {hasError && <span className="text-[10px] font-bold text-error mt-0.5">⚠️ {errorMsg}</span>}
+                            </div>
+                          );
+                        })}
+                    </div>
+                  </div>
+
+                  {/* AI Recommendations ("KẾT QUẢ AI GỢI Ý") */}
+                  <div className="bg-card-bg border border-border-slate rounded-xl p-5 shadow-sm space-y-4 text-left">
+                    <div className="flex items-center gap-2 border-b border-border-slate pb-2">
+                      <span className="text-base">✨</span>
+                      <h4 className="text-xs font-bold text-primary uppercase tracking-wider">Kết quả AI gợi ý</h4>
+                    </div>
+                    <div className="grid grid-cols-2 gap-4 text-[10px]">
+                      <div className="space-y-1">
+                        <span className="text-foreground/50 block font-semibold">Thủ tục:</span>
+                        <span className="font-bold text-primary">{checklist.procedure_name}</span>
+                      </div>
+                      <div className="space-y-1">
+                        <span className="text-foreground/50 block font-semibold">Cơ quan tiếp nhận:</span>
+                        <span className="font-bold text-primary">UBND cấp xã / phường</span>
+                      </div>
+                      <div className="space-y-1">
+                        <span className="text-foreground/50 block font-semibold">Thời gian giải quyết:</span>
+                        <span className="font-bold text-primary">Trong ngày làm việc</span>
+                      </div>
+                      <div className="space-y-1">
+                        <span className="text-foreground/50 block font-semibold">Lệ phí hành chính:</span>
+                        <span className="font-bold text-primary">Miễn phí hoàn toàn</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* Collected info ("THÔNG TIN ĐÃ XÁC ĐỊNH") */}
+                  <div className="bg-card-bg border border-border-slate rounded-xl p-5 shadow-sm space-y-3 text-left">
+                    <div className="flex items-center justify-between border-b border-border-slate pb-2">
+                      <div className="flex items-center gap-2">
+                        <span className="text-base">📋</span>
+                        <h4 className="text-xs font-bold text-primary uppercase tracking-wider">Thông tin đã xác định</h4>
+                      </div>
+                      <span className="px-2 py-0.5 bg-accent/10 text-accent font-bold text-[9px] rounded-full">
+                        {Object.values(formData).filter(Boolean).length} mục
+                      </span>
+                    </div>
+                    <div className="space-y-2 text-[10px] max-h-[140px] overflow-y-auto">
+                      {Object.entries(formData).map(([key, value]) => {
+                        const prop = checklist.form_schema.properties[key];
+                        return (
+                          <div key={key} className="flex justify-between items-center py-1 border-b border-border-slate/30 last:border-0 font-medium">
+                            <span className="text-foreground/50">{prop?.title}:</span>
+                            <span className={value ? "font-bold text-primary" : "italic text-foreground/30"}>
+                              {value || "Chưa xác định"}
+                            </span>
+                          </div>
+                        );
+                      })}
+                    </div>
+                  </div>
+
+                  {/* Pre-check Results details */}
+                  {validationResponse && (
+                    <div className={`border rounded-xl p-4 shadow-sm text-left ${
+                      validationResponse.is_valid ? "bg-emerald-50 dark:bg-emerald-950/15 border-emerald-200 text-emerald-600" : "bg-red-50 dark:bg-red-950/15 border-red-200 text-red-600"
+                    }`}>
+                      <h5 className="text-xs font-bold flex items-center gap-2">
+                        {validationResponse.is_valid ? "✅ HỒ SƠ ĐỦ ĐIỀU KIỆN SƠ BỘ" : "⚠️ PHÁT HIỆN LỖI KÊ KHAI"}
+                      </h5>
+                      <p className="text-[10px] mt-1.5 leading-relaxed font-semibold">{validationResponse.summary}</p>
+                    </div>
+                  )}
+
+                </div>
+              </div>
             </div>
           ) : (
             <div className="flex-1 flex flex-col items-center justify-center p-8 md:p-12 bg-card-bg border border-border-slate rounded-2xl max-w-2xl mx-auto w-full shadow-md my-auto relative overflow-hidden transition-all duration-300 hover:shadow-lg">
@@ -1072,7 +1150,7 @@ export default function Home() {
               <LotusFlowerPattern className="absolute w-[180px] h-[180px] -bottom-10 -left-10 text-accent/5 dark:text-accent/5 pointer-events-none" />
 
               {/* Emblem / Logo Icon */}
-              <div className="relative flex items-center justify-center w-20 h-20 rounded-full bg-amber-50 dark:bg-amber-950/20 text-accent mb-6 shadow-inner border border-amber-200/40">
+              <div className="relative flex items-center justify-center w-20 h-20 rounded-full bg-orange-50 dark:bg-zinc-800 text-accent mb-6 shadow-inner border border-border-slate">
                 <TrongDongPattern className="absolute inset-0 w-full h-full text-accent/10 dark:text-accent/20 animate-[spin_120s_linear_infinite]" />
                 <span className="text-4xl relative z-10">🏛️</span>
               </div>
@@ -1081,7 +1159,7 @@ export default function Home() {
               <h2 className="text-2xl font-serif font-bold text-primary tracking-tight text-center relative z-10">
                 Trợ Lý Tiền Kiểm & Hướng Dẫn Kê Khai
               </h2>
-              <p className="text-xs text-zinc-500 mt-3 max-w-md text-center leading-relaxed font-sans relative z-10">
+              <p className="text-xs text-zinc-500 mt-3 max-w-md text-center leading-relaxed font-sans relative z-10 font-medium">
                 Hệ thống hỗ trợ công dân chuẩn bị hồ sơ hành chính công trực tuyến theo đúng quy định pháp lý, tự động rà soát sai sót bằng bộ luật thực tế trước khi nộp chính thức.
               </p>
 

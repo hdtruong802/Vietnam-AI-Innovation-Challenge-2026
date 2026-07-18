@@ -1,28 +1,29 @@
 ---
-name: AI Procedure Copilot
-description: Hệ thống trợ lý hướng dẫn và tiền kiểm hồ sơ hành chính công phong cách di sản Việt Nam (Heritage style)
+name: VNGov AI Copilot
+description: Hệ thống trợ lý hướng dẫn và tiền kiểm hồ sơ hành chính công phong cách hiện đại VNGov (Navy & Orange)
 colors:
-  primary: "#2E1A16"       # Deep Terracotta (Chữ chính & Header)
-  neutral-bg: "#FAF6F0"    # Ivory Cream (Màu nền body)
-  accent: "#B45309"        # Refined Bronze Gold (CTA chính & Link)
-  warning: "#D97706"       # Amber (Cảnh báo vàng)
-  error: "#DC2626"         # Red (Lỗi đỏ)
-  success: "#16A34A"       # Green (Đạt chuẩn xanh)
+  primary: "#0D1B3D"       # Deep Navy (Chữ chính, Header, Logo)
+  neutral-bg: "#F8FAFC"    # Clean Off-white (Màu nền body)
+  accent: "#F97316"        # Brand Orange (CTA chính, Link, Progress active)
+  accent-light: "#FDBA40"  # Warm Gold (Màu nhấn phụ)
+  warning: "#F59E0B"       # Amber (Cảnh báo vàng)
+  error: "#EF4444"         # Red (Lỗi đỏ)
+  success: "#10B981"       # Green (Đạt chuẩn xanh)
 typography:
   display:
-    fontFamily: "Lora, Georgia, serif"
+    fontFamily: "Geist Sans, Inter, sans-serif"
     fontSize: "clamp(2rem, 5vw, 3rem)"
-    fontWeight: 700
+    fontWeight: 800
     lineHeight: 1.2
   body:
-    fontFamily: "Inter, sans-serif"
-    fontSize: "1rem"
+    fontFamily: "Geist Sans, Inter, sans-serif"
+    fontSize: "0.875rem"
     fontWeight: 400
     lineHeight: 1.6
 rounded:
-  sm: "4px"
-  md: "8px"
-  lg: "12px"
+  sm: "6px"
+  md: "10px"
+  lg: "16px"
 spacing:
   sm: "8px"
   md: "16px"
@@ -32,92 +33,61 @@ components:
     backgroundColor: "{colors.accent}"
     textColor: "#FFFFFF"
     rounded: "{rounded.md}"
-    padding: "12px 24px"
+    padding: "10px 20px"
   card:
-    backgroundColor: "#FFFDFB"
+    backgroundColor: "#FFFFFF"
     rounded: "{rounded.lg}"
-    padding: "24px"
+    padding: "20px"
 ---
 
-# Design System: AI Procedure Copilot (Heritage Version)
+# Design System: VNGov AI Copilot (Navy & Orange)
 
 ## 1. Overview
 
-**Creative North Star: "The Digital Registry Bureau - Heritage & Culture Edition"**
+**Creative North Star: "VNGov Digital Assistant - Modern Civic Product"**
 
-Hệ thống thiết kế kết hợp hài hòa giữa tính **thực dụng (utilitarian)** của cổng dịch vụ công trực tuyến và **bản sắc văn hóa di sản Việt Nam**. Chúng tôi sử dụng các họa tiết hoa văn truyền thống như Trống đồng Đông Sơn và Hoa sen xanh/hồng kết hợp với bảng màu di sản ấm áp nhằm mang lại cảm giác trang trọng, đáng tin cậy và gần gũi với người dân Việt Nam.
+Hệ thống thiết kế mới của **VNGov** hướng tới một giải pháp công nghệ dịch vụ hành chính công **hiện đại, năng động, và đáng tin cậy**, sử dụng hai tông màu thương hiệu chính là **Xanh Navy đậm (`#0D1B3D`)** và **Cam thương hiệu (`#F97316`)**, kết hợp biểu tượng **Hoa sen cách điệu hình chữ V** (đại diện cho Việt Nam và sự vươn lên phát triển).
 
 **Key Characteristics:**
-- **Dual-View Layout:** Hỗ trợ màn hình trang chủ cổng dịch vụ công đẹp mắt truyền thống và chuyển cảnh sang không gian Trợ lý tiền kiểm hồ sơ (Copilot Workspace) 2 cột tinh tế.
-- **Họa tiết Vector Văn hóa:** Nhúng trực tiếp các hình vẽ Trống đồng Đông Sơn xoay vô cực và Hoa sen cách điệu bằng SVG để đảm bảo tải cực nhanh và sắc nét.
-- **Độ rộng văn bản tối ưu:** Dòng văn bản giới hạn ở mức dễ đọc (65-75ch).
+- **Dual-View Layout:** Hỗ trợ giao diện trang chủ Landing Page giới thiệu năng lực sản phẩm và giao diện workspace 2 cột của Trợ lý AI Copilot.
+- **Brand Geometry:** Sử dụng các đường nét bo góc mềm mại vừa phải (`rounded-xl` / 12px), giao diện phẳng tinh giản với bóng mờ siêu nhỏ, giữ giao diện sạch sẽ tối ưu cho đọc biểu mẫu.
+- **Cultural Texture:** Giữ các họa tiết Trống đồng Đông Sơn và Hoa sen truyền thống làm hình nền chìm (opacity < 5%) để tạo nét thanh tao Việt Nam mà không làm ảnh hưởng đến trải nghiệm đọc thông tin.
 
 ## 2. Colors
 
-Bảng màu di sản Việt Nam (Heritage palette) với độ tương phản cao, hỗ trợ toàn diện chế độ sáng/tối (System Dark Mode).
+Bảng màu thương hiệu VNGov mới, hỗ trợ toàn diện chế độ sáng/tối (System Dark Mode).
 
 ### Primary & Foreground
-- **Deep Terracotta** (#2E1A16 / #F5EFEB trong Dark Mode): Màu đất nung đậm cho văn bản và tiêu đề chính.
+- **Deep Navy** (#0D1B3D / #F8FAFC trong Dark Mode): Màu xanh hải quân đậm biểu thị sự vững chãi, tin cậy và chuyên nghiệp.
 
 ### Neutral
-- **Ivory Cream** (#FAF6F0 / #1C0F0B trong Dark Mode): Màu nền giấy mỹ thuật ngà nhẹ nhàng, thanh tao.
-- **Soft Warm Clay** (#EADBC8 / #3D251E trong Dark Mode): Màu viền nhẹ nhàng phân chia nội dung.
-- **Ivory White** (#FFFDFB / #261611 trong Dark Mode): Màu nền cho các thẻ card, container biểu mẫu và khung chat.
+- **Clean Off-white** (#F8FAFC / #0A0F1D trong Dark Mode): Màu nền dịu mắt, tránh mỏi mắt cho người dân khi thao tác lâu.
+- **Soft Slate Border** (#E2E8F0 / #1E293B trong Dark Mode): Màu viền phân chia các trường dữ liệu và thẻ.
+- **Pure White Surface** (#FFFFFF / #111827 trong Dark Mode): Nền của các thẻ card biểu mẫu và khung chat.
 
 ### Accent
-- **Bronze Gold** (#B45309 / #F59E0B trong Dark Mode): Màu nhấn vàng đồng thau cổ kính dùng cho nút bấm chính và biểu tượng quan trọng.
-
-### Semantic
-- **Amber Warning** (#D97706): Chỉ định các cảnh báo thiếu thông tin hoặc cần lưu ý.
-- **Red Error** (#DC2626): Chỉ định các lỗi định dạng hoặc mâu thuẫn bắt buộc phải sửa.
-- **Green Success** (#16A34A): Chỉ định các trường dữ liệu và hồ sơ đã đạt kiểm tra sơ bộ.
+- **Brand Orange** (#F97316): Tông màu cam nổi bật biểu thị sự thân thiện, hướng ngoại, sử dụng cho các nút hành động chính (CTA) và trạng thái hiện tại.
+- **Warm Gold** (#FDBA40): Tông màu phụ hỗ trợ trang trí và cảnh báo.
 
 ---
 
 ## 3. Typography
 
-**Display Font:** Lora (Google Fonts Serif) - Mang lại sự trang trọng và tính pháp lý của cơ quan nhà nước.
-**Body Font:** Inter / Geist Sans (Sans-serif) - Mang lại sự sạch sẽ, trực quan cho các ô nhập liệu và nhãn form.
-
-### Hierarchy
-- **Display** (700, Lora, clamp(2rem, 5vw, 3rem), 1.2): Tiêu đề trang chính và chào hỏi đầu trang.
-- **Headline** (600, Lora, 1.5rem, 1.3): Tiêu đề các phần lớn (Checklist, Form).
-- **Title** (600, Inter, 1.125rem, 1.4): Tên trường thông tin và các đề mục nhỏ.
-- **Body** (400, Inter, 1rem, 1.6): Văn bản hướng dẫn, mô tả hồ sơ.
-- **Label** (500, Inter, 0.875rem, 1.2): Nhãn phụ, ngày tháng, và trích dẫn nguồn luật.
+**Font Family:** Geist Sans / Inter / System-ui - Phông chữ Sans-serif hiện đại giúp tối ưu hóa khả năng hiển thị biểu mẫu số trên mọi thiết bị.
 
 ---
 
-## 4. Elevation & Shapes
-
-- **Corner Style:** Các thẻ và khung giao diện chính dùng bo góc mềm mại `rounded-xl` (12px) hoặc `rounded-2xl` (16px) để tạo phong cách thân thiện, bay bổng.
-- **Flat-ish Design:** Sử dụng màu nền phân lớp (ivory white trên nền ivory cream) kết hợp viền đất sét nhạt để phân tách chiều sâu, hạn chế dùng đổ bóng lớn gây cảm giác bồng bềnh phi thực tế.
-
----
-
-## 5. Components
+## 4. Components
 
 ### Buttons
-- **Primary:** Sử dụng màu đỏ đất đô (#7C1E14) hoặc vàng đồng (#B45309), chữ trắng (#FFFFFF), góc bo 8px.
-- **Hover / Focus:** Hover tăng độ tương phản, hiển thị vòng focus-visible.
+- **Primary Action:** Nền cam thương hiệu `#F97316`, chữ trắng, bo góc 10px.
+- **Secondary Action:** Nền Navy `#0D1B3D` hoặc viền mảnh `#E2E8F0`.
 
 ### Chat Bubbles
-- **User Bubble:** Màu nền vàng đồng (#B45309), chữ trắng.
-- **Assistant Bubble:** Nền trắng ngà (#FFFDFB), viền đất sét nhạt, chữ nâu đất.
+- **User Bubble:** Màu cam thương hiệu `#F97316`, chữ trắng, góc bo tròn hướng lên góc phải.
+- **Assistant Bubble:** Nền trắng `#FFFFFF`, viền mảnh slate `#E2E8F0`, chữ tối màu.
 
-### Form Inputs
-- Nền trắng, viền đất sét nhạt (#EADBC8), focus chuyển sang vàng đồng thau với vòng sáng nhẹ 2px.
+### Stepper Progress
+- Vòng tròn hiển thị tỷ lệ tiến độ dạng `2/5` màu cam.
+- Cột mốc hoàn thành có tick xanh lá `#10B981`, cột mốc hiện tại có màu cam `#F97316`, các cột mốc tiếp theo có màu xám nhạt.
 
----
-
-## 6. Do's and Don'ts
-
-### Do:
-- **Do** Luôn giữ liên kết trích dẫn luật định hành chính bên cạnh các hồ sơ.
-- **Do** Đảm bảo độ tương phản màu văn bản trên nền kem luôn đạt WCAG AA.
-- **Do** Sử dụng họa tiết Trống đồng và Hoa sen với độ mờ cao (opacity < 10%) để làm nền trang trí, không gây nhiễu chữ đọc.
-
-### Don't:
-- **Don't** Sử dụng chữ gradient nhiều màu hoặc các hiệu ứng kính mờ (glassmorphism) mặc định.
-- **Don't** Dùng góc bo thẻ card quá lớn (>16px) gây cảm giác giống đồ chơi trẻ em.
-- **Don't** Thay đổi bảng màu di sản ấm áp sang các tông lạnh xanh dương kiểu SaaS thông thường.

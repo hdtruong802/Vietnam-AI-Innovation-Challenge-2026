@@ -40,3 +40,27 @@ Use `--output artifacts/chunking/phase2-sections.jsonl` only when a local parsed
 artifact is needed. The CLI rejects output paths outside the ignored `artifacts/`
 directory. Phase 1 annotations remain `needs_review`, so the reported boundary F1
 is diagnostic until K1 confirms the labels.
+
+## Phase 3 diagnostic chunk build
+
+The deterministic chunk builder consumes Phase 2 parser output and keeps fixture
+chunks in `needs_review` status. It enforces the 450-token hard maximum with the
+standard-library heuristic tokenizer and does not create an embedding or index:
+
+```powershell
+python scripts/data/build_chunking_fixtures.py
+```
+
+Use `--output artifacts/chunking/phase3-chunks.jsonl --report-output artifacts/chunking/phase3-report.json`
+only for ignored local artifacts. The CLI rejects output paths outside
+`artifacts/`.
+
+## Phase 4 keyword retrieval smoke
+
+The keyword retrieval baseline filters to `approved` chunks only. Current Phase 1
+fixtures remain `needs_review`, so the smoke command should fail closed with
+`official_review_required` instead of returning evidence:
+
+```powershell
+python scripts/data/evaluate_keyword_retrieval.py
+```
