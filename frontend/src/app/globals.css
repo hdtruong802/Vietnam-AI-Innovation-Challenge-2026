@@ -1,8 +1,34 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FAF6F0; /* Soft warm ivory cream background */
+  --foreground: #2E1A16; /* Deep terracotta brown text */
+
+  --color-primary-raw: #2E1A16;
+  --color-neutral-bg-raw: #F4ECE1; /* Rich cream-apricot tint */
+  --color-accent-raw: #B45309; /* Refined bronze gold accent */
+  --color-accent-hover-raw: #7C2D12; /* Deep terracotta red-brown */
+
+  --color-warning-raw: #D97706;
+  --color-warning-bg-raw: #FFFBEB;
+  --color-warning-border-raw: #FDE68A;
+
+  --color-error-raw: #DC2626;
+  --color-error-bg-raw: #FEF2F2;
+  --color-error-border-raw: #FEE2E2;
+
+  --color-success-raw: #16A34A;
+  --color-success-bg-raw: #F0FDF4;
+  --color-success-border-raw: #DCFCE7;
+
+  --color-border-slate-raw: #EADBC8; /* Soft warm clay border */
+  --color-card-bg-raw: #FFFDFB; /* Soft warm ivory white */
+
+  /* Heritage brand custom styles */
+  --color-brand-red-raw: #7C1E14;
+  --color-brand-red-hover-raw: #5F160E;
+  --color-hero-start-raw: #EBB865;
+  --color-hero-end-raw: #E4A84B;
 }
 
 @theme inline {
@@ -10,17 +36,66 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-serif: var(--font-lora);
+
+  --color-primary: var(--color-primary-raw);
+  --color-neutral-bg: var(--color-neutral-bg-raw);
+  --color-accent: var(--color-accent-raw);
+  --color-accent-hover: var(--color-accent-hover-raw);
+  --color-warning: var(--color-warning-raw);
+  --color-warning-bg: var(--color-warning-bg-raw);
+  --color-warning-border: var(--color-warning-border-raw);
+  --color-error: var(--color-error-raw);
+  --color-error-bg: var(--color-error-bg-raw);
+  --color-error-border: var(--color-error-border-raw);
+  --color-success: var(--color-success-raw);
+  --color-success-bg: var(--color-success-bg-raw);
+  --color-success-border: var(--color-success-border-raw);
+  --color-border-slate: var(--color-border-slate-raw);
+  --color-card-bg: var(--color-card-bg-raw);
+
+  /* Heritage brand theme bindings */
+  --color-brand-red: var(--color-brand-red-raw);
+  --color-brand-red-hover: var(--color-brand-red-hover-raw);
+  --color-hero-start: var(--color-hero-start-raw);
+  --color-hero-end: var(--color-hero-end-raw);
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #1C0F0B; /* Deep charcoal-brown */
+    --foreground: #F5EFEB;
+
+    --color-primary-raw: #F5EFEB;
+    --color-neutral-bg-raw: #2B1813;
+    --color-accent-raw: #F59E0B; /* Rich bright gold for visibility */
+    --color-accent-hover-raw: #D97706;
+
+    --color-warning-raw: #F59E0B;
+    --color-warning-bg-raw: #3A230F;
+    --color-warning-border-raw: #78350F;
+
+    --color-error-raw: #EF4444;
+    --color-error-bg-raw: #3E0E0E;
+    --color-error-border-raw: #7F1D1D;
+
+    --color-success-raw: #22C55E;
+    --color-success-bg-raw: #092F1F;
+    --color-success-border-raw: #064E3B;
+
+    --color-border-slate-raw: #3D251E;
+    --color-card-bg-raw: #261611;
+
+    /* Heritage brand dark mode shifts */
+    --color-brand-red-raw: #5F160E;
+    --color-brand-red-hover-raw: #450F0A;
+    --color-hero-start-raw: #3A230F;
+    --color-hero-end-raw: #20110C;
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-lora), var(--font-geist-sans), Georgia, serif;
 }

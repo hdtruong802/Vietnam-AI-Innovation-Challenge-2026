@@ -24,6 +24,7 @@ Decision Log lưu các quyết định liên lane hoặc khó đảo ngược: s
 | D-008 | Accepted | Web-first delivery và portal integration pathway | `local-20260717-web-first-portal-scope` | 2026-07-17 |
 | D-009 | Accepted | AI Log prompt-only, provider-neutral và liên kết theo commit | `local-20260717-ai-log` | 2026-07-17 |
 | D-010 | Proposed | Fast merge gate và release artifact provider-neutral | `local-20260718-ci-cd-optimization` | 2026-07-18 |
+| D-011 | Accepted | Structure-aware chunking contract cho ba procedure pack MVP | `local-20260718-chunking-phase-0`, `local-20260718-chunking-phase-1` | 2026-07-18 |
 
 ---
 
@@ -223,6 +224,54 @@ Repository guard trước đây chạy full bootstrap scan và Git range scan tr
 ### Rollback / fallback
 
 Revert workflow, guard helper và release-manifest changes để quay về repository guard cũ. Không có external deploy state để thu hồi.
+
+---
+
+## D-011 — Structure-aware chunking contract cho ba procedure pack MVP
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** Codex theo Task Record hiện tại
+- **Phạm vi:** data | shared logical schema | RAG
+- **Task Record:** `local-20260718-chunking-phase-0`
+- **Publish (tùy chọn):** chưa publish
+- **Peer xác nhận:** Người dùng/repository peer xác nhận ngày 2026-07-18 để triển khai Phase 1 trực tiếp trên `cao`
+
+### Bối cảnh
+
+Corpus local có 5.652 file TXT nhưng raw document không tự động là nguồn đã duyệt. Mẫu phân tầng cho thấy tài liệu có cấu trúc field/bullet và nhiều dòng dài, nên fixed-size character chunking có nguy cơ cắt giữa trường, claim và căn cứ pháp lý. Proposal yêu cầu approved-only RAG, metadata hiệu lực, K1/K2 review và fail-closed; runtime hiện chưa có ingestion/chunking contract chung.
+
+Proposal đang tham chiếu D-006 đến D-008 nhưng các entry đó chưa có trong Decision Log hiện tại. D-011 được dùng để tránh chiếm các ID đã được tham chiếu (bao gồm D-009 vốn đã dùng cho AI Log); D-006 đến D-008 được giữ reserved và không tái sử dụng. Việc phục hồi nội dung lịch sử của các Decision này là task tài liệu riêng, không chặn fixture-only Phase 1.
+
+### Lựa chọn đã cân nhắc
+
+1. Whole-document retrieval — ít preprocessing nhưng context lớn, khó filter claim/citation và dễ trộn phiên bản.
+2. Fixed token windows với overlap — đơn giản nhưng cắt structure và nhân bản claim/citation không kiểm soát.
+3. Structure-aware parsing rồi áp token budget — cần parser/fixtures nhưng giữ provenance, hierarchy và legal basis để review/test.
+
+### Quyết định
+
+Chọn phương án 3 theo contract tại `docs/ai/CHUNKING_CONTRACT.md`:
+
+- Chỉ allowlist nguồn cho ba procedure pack MVP; không index toàn corpus.
+- Dùng lifecycle `staging -> parsed -> needs_review -> approved`, có `rejected` và `stale`; chỉ `approved` được retrieval.
+- Logical contract gồm `SourceDocument`, `ParsedSection`, `EvidenceChunk` và `ChunkBuildReport`.
+- Chunk target 250–350 tokens, hard maximum 450 tokens đã gồm prefix; không overlap theo phần trăm.
+- `TokenCounter` provider-neutral và tokenizer ID là một phần build identity.
+- Baseline là structured filter + keyword; vector/pgvector chỉ qua Decision riêng nếu golden set chứng minh cần thiết.
+- Không thay public API, dependency, database hoặc runtime schema trong Decision proposal này.
+
+### Hệ quả và kiểm chứng
+
+- Phase 1 phải tạo fixtures có section boundaries và parser deterministic trước khi build chunk.
+- Chỉ source/chunk có provenance, hiệu lực và review state hợp lệ mới được phát hành.
+- Chunk build phải reproducible; đổi source, parser, chunker hoặc tokenizer buộc version/rebuild.
+- Gate đánh giá gồm section-boundary F1 >= 95%, hard-cap pass 100%, citation coverage 100%, stale/future leakage 0 và Retrieval Recall@5 >= 95%.
+- Acceptance hiện chỉ cấp quyền triển khai fixtures, annotations và validator/test Phase 1; chưa cấp quyền thay runtime schema/dependency/index.
+
+### Rollback / fallback
+
+Không sửa raw corpus. Mọi parsed/chunk/index artifact có thể bỏ và build lại từ approved source snapshot. Nếu structure-aware retrieval không vượt baseline trên golden set, fallback về structured procedure lookup + keyword trên approved sections, không đưa whole corpus vào LLM.
 
 ---
 

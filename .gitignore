@@ -65,3 +65,12 @@ Thumbs.db
 .impeccable/cache/
 .impeccable/live/
 .impeccable/*.png
+
+# Local-only material for internal team presentation and notes.
+.temp_docs/
+.cursor/
+.agents/
+.github/
+
+dataset_raw/
+data_raw
