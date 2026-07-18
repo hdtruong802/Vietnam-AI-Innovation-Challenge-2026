@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "record_type": "prompt_event",
+  "prompt_id": "prompt-8828fd3b2520728d57d78a94",
+  "occurred_at": "2026-07-17T17:54:32.088621Z",
+  "captured_at": "2026-07-17T17:54:32.089661Z",
+  "member_id": "hdtruong802",
+  "tool": "codex",
+  "event": "UserPrompt",
+  "prompt": "th?c hi?n plan",
+  "prompt_preview": "th?c hi?n plan",
+  "model": null,
+  "task_record": "local-20260718-backend-api-foundation",
+  "branch": "feature/local-20260718-backend-api-foundation",
+  "workspace_fingerprint": "29aa416e0bb250a6b4670ada7dbae02bdeb972e36fb01db0ae28310d10af8a5d",
+  "source": {
+    "session_hash": "2ec450996e8b82f247f5f1ea885ebb786c7673af3eb1463b4b049173d00f983d",
+    "adapter": "manual",
+    "adapter_version": "1"
+  },
+  "sanitization": {
+    "redacted": false,
+    "categories": []
+  },
+  "capture_warnings": []
+}

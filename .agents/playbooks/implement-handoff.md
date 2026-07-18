@@ -13,6 +13,7 @@
 - Với thay đổi shared, có peer confirmation và Decision Log trước khi implement.
 - Không thêm secret, raw data, binary/model lớn hoặc dependency không cần cho MVP.
 - Chạy test/lint/build phù hợp; khi stack chưa chốt, mô tả kiểm tra thủ công và giới hạn của nó.
+- Nếu worktree dùng AI Log, chạy `onboard` một lần và `doctor --strict`; chỉ bind source coding-agent thuộc repo hiện tại hoặc dùng manual stdin. Kiểm tra `status` trước commit, không đưa raw session/source path vào evidence và không coi hook là quyền tự push.
 
 ## Bàn giao
 
@@ -26,6 +27,7 @@ Files, API và resources đã chạm:
 Kiểm tra đã chạy + kết quả:
 Risk / rollback / phần chưa kiểm tra:
 Resource claims đã release:
+AI-Log ID + tools/capture status (nếu đã bật):
 Việc tiếp theo hoặc handoff cho peer:
 ```
 

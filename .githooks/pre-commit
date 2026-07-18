@@ -1,0 +1,7 @@
+#!/bin/sh
+python scripts/ai_log/ai_log.py hook pre-commit
+status=$?
+if [ "$status" -ne 0 ]; then
+  echo "AI Log warning: capture failed unexpectedly; commit continues without blocking." >&2
+fi
+exit 0

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "format": "prompt-only",
+  "supportedTools": [
+    "codex",
+    "claude",
+    "cursor",
+    "antigravity"
+  ],
+  "allowedEvents": [
+    "UserPrompt"
+  ],
+  "forbiddenContent": [
+    "assistant_response",
+    "system_prompt",
+    "developer_instruction",
+    "tool_call",
+    "tool_output",
+    "chain_of_thought",
+    "session_transcript",
+    "screenshot",
+    "absolute_source_path"
+  ],
+  "captureFailure": "warn-and-commit",
+  "stateDirectory": ".ai-log",
+  "maxPromptCharacters": 100000,
+  "historyEnforcement": {
+    "mode": "policy-presence",
+    "enabled": true,
+    "exemptMergeCommits": true
+  },
+  "dashboard": "deferred",
+  "organizerComplianceGap": "Prompt-only evidence does not replace desktop session files or screenshots when those artifacts are mandatory."
+}

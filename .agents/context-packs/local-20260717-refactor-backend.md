@@ -56,4 +56,3 @@
   - Thư mục `backend/` và các thư mục/file con bên trong.
 - Claims đã release: Đã giải phóng toàn bộ files/resources đã claim.
 - Việc tiếp theo hoặc peer có thể tiếp nhận: Phát triển logic validation hoàn chỉnh cho 3 thủ tục.
-

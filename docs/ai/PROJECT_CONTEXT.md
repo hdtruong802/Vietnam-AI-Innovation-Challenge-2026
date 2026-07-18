@@ -1,111 +1,151 @@
 # Project Context — AI Procedure Copilot
 
-> Trạng thái: Active
+> Trạng thái: ba MVP đã chốt; D-005 scaffold được chấp thuận; năng lực trust/RAG/deploy trong D-006 vẫn `Proposed`.
 >
 > Cập nhật gần nhất: 2026-07-17
 >
-> Người cập nhật: Antigravity
-> Issue/Decision liên quan: D-005
+> Decision liên quan: D-005, D-006, D-007, D-008, D-009 và D-010
 
-Tài liệu này là context sản phẩm tối thiểu cho tất cả thành viên và agent.
+Tài liệu này là context sản phẩm tối thiểu cho mọi thành viên và coding agent. Nó phân biệt rõ phần đã có trong source với kiến trúc mục tiêu chưa được xác nhận bằng implementation/evidence.
 
 ## Bài toán và người dùng
 
-- **Đề bài / challenge:** AI-guided public service procedures
-- **Vấn đề cần giải quyết:** Khi thực hiện thủ tục hành chính (đăng ký khai sinh, thường trú, hộ kinh doanh), công dân gặp 3 cản trở: không biết cần chuẩn bị gì, kê khai sai thông tin mà chỉ biết sau khi cán bộ duyệt, hỗ trợ một cửa quá tải.
-- **Người dùng chính:** Công dân làm thủ tục lần đầu, người lớn tuổi, cá nhân chuẩn bị thành lập hộ kinh doanh.
-- **Bối cảnh sử dụng:** Chuẩn bị hồ sơ trực tuyến trước khi nộp cổng dịch vụ công trực tuyến.
-- **Insight hoặc bằng chứng:** Khó khăn lớn nhất không phải thiếu ô chat, mà là thiếu quy trình chuẩn bị hồ sơ cá nhân hóa, kiểm tra và truy nguyên nguồn quy phạm.
-- **Giá trị khác biệt trong một câu:** VNGov là trợ lý hướng dẫn và kiểm tra deterministic hồ sơ dịch vụ công dựa trên quy định pháp luật hiện hành và có trích dẫn nguồn cụ thể.
+- **Đề bài:** AI-guided public service procedures.
+- **Tổ chức:** National Institute for Digital Technologies and Digital Transformation (NIDit).
+- **Lĩnh vực:** Chính phủ Thông minh.
+- **Vấn đề:** công dân chưa biết thủ tục, giấy tờ, biểu mẫu và nơi thực hiện; chỉ phát hiện thiếu/sai/xung đột sau khi cán bộ kiểm tra; kênh hỗ trợ quá tải gây nhiều lần đi lại.
+- **Người dùng trực tiếp:** công dân làm thủ tục lần đầu, người lớn tuổi, người ít hiểu ngôn ngữ hành chính, người dùng dịch vụ công trực tuyến và người đăng ký thành lập hộ kinh doanh.
+- **Người dùng gián tiếp:** cán bộ một cửa, tổng đài hỗ trợ, đơn vị vận hành portal và cơ quan quản lý thủ tục.
+- **Giá trị khác biệt:** Procedure Copilot biến nhu cầu tự nhiên thành checklist có nguồn, form phù hợp tình huống và kiểm tra sơ bộ theo quy tắc trước khi nộp.
+
+Nguồn dữ liệu mục tiêu là thủ tục, biểu mẫu và văn bản công khai từ [Cổng Dịch vụ công Quốc gia](https://dichvucong.gov.vn/) cùng nguồn chính thức có thẩm quyền. `raw.md` chỉ là phân tích nội bộ, không phải căn cứ pháp lý.
 
 ## MVP và giới hạn
 
-## MVP phải demo được
+### Ba procedure pack phải demo
 
-1. **Guided Intake:** Nhận mô tả nhu cầu bằng tiếng Việt tự nhiên, hỏi làm rõ, hiển thị checklist thủ tục cá nhân hóa có trích dẫn nguồn.
-2. **Pre-submission Checking:** Phát hiện trường thiếu, sai định dạng, mâu thuẫn chéo trên form kê khai hoặc giấy tờ đính kèm; hiển thị lỗi "đỏ - vàng - xanh" kèm gợi ý sửa.
-3. **Integration Widget:** Widget chat có thể nhúng trực tiếp vào các portal hiện có thông qua iframe.
+1. Đăng ký khai sinh.
+2. Đăng ký thường trú.
+3. Đăng ký thành lập hộ kinh doanh.
 
-### Tiêu chí thành công
+Mỗi pack phải có clarification tree, checklist, quy trình, form schema, validation rules, citations và golden cases với mức hoàn thiện tương đương. D-007 là nguồn scope hiện hành; D-005 không phải quyết định phạm vi MVP.
 
-- **Demo end-to-end thành công khi:** Người dùng có thể mô tả nhu cầu, nhận hướng dẫn, điền form và nhận feedback lỗi chính xác trên 3 thủ tục MVP.
-- **Chỉ số hoặc tín hiệu đánh giá:** Khớp tối thiểu 90% trên 30 golden cases, 100% citation coverage cho quy phạm trong pack.
-- **Thời gian phản hồi/chất lượng tối thiểu:** P95 response cho validation < 1s, AI turn < 5s.
+### Ba năng lực bắt buộc
 
-### Không làm trong hackathon
+1. **Guided intake:** hiểu nhu cầu, hỏi làm rõ, đưa checklist cá nhân hóa và hướng dẫn từng bước có nguồn.
+2. **Pre-submission checking:** phát hiện thiếu trường, sai định dạng và xung đột bằng schema/rules; gợi ý sửa trước khi nộp.
+3. **Seamless integration:** một web app độc lập và đường tích hợp portal qua widget/iframe cùng REST API; không cần cài ứng dụng riêng.
 
-- Tích hợp thật với Cơ sở dữ liệu dân cư quốc gia.
-- OCR tự động quét giấy tờ nâng cao.
-- Auto-submit hồ sơ thật lên Cổng DVCQG.
+### Happy path
 
-## User flow và demo path
+```text
+Mô tả nhu cầu
+  -> xác định thủ tục và hỏi làm rõ
+  -> checklist cá nhân hóa có nguồn
+  -> hướng dẫn từng bước
+  -> form theo trường hợp
+  -> kiểm tra thiếu/sai/xung đột
+  -> báo cáo việc cần sửa hoặc đạt kiểm tra sơ bộ
+```
 
-| Bước | Người dùng làm gì | Hệ thống phản hồi gì | Fallback nếu lỗi |
+Kết quả quy phạm chỉ có ba trust state:
+
+- `verified_guidance`: đủ nguồn và dữ kiện trong phạm vi pack đã review.
+- `need_more_information`: cần người dùng cung cấp thêm dữ kiện.
+- `official_review_required`: ngoại lệ, nguồn mâu thuẫn/hết hiệu lực hoặc ngoài phạm vi pack.
+
+“Đạt kiểm tra sơ bộ” không phải phê duyệt hành chính và không bảo đảm cơ quan tiếp nhận chấp thuận hồ sơ.
+
+### Thành phần đã có và chưa có
+
+- D-005 đã chấp thuận scaffold `frontend/` và `backend/`. Backend hiện có API foundation gồm health, list/recommend/intake/checklist/validate, typed trust/error contract, deterministic rule engine và dev fixture fail-closed; frontend vẫn là khung giao diện khởi tạo. Đây chưa phải bằng chứng rằng Procedure Pack thật, widget, RAG, external AI hay deploy đã hoàn thành.
+- D-006 vẫn đề xuất RAG/knowledge release, provider-neutral LLM, approved data adapter, PII boundary hoàn chỉnh, widget contract và topology deploy. Backend chỉ tạo port/fallback để các capability này tích hợp sau Task Record, peer review và evidence riêng.
+
+### Tiêu chí thành công đề xuất
+
+- Public URL chạy luồng nhập nhu cầu, hướng dẫn và kiểm tra thông tin; không phải mockup.
+- Ba procedure pack có citations, version/freshness metadata và cùng contract.
+- Ít nhất 30 golden cases phủ happy path, thiếu giấy tờ, sai định dạng, xung đột, ngoại lệ, mơ hồ và ngoài phạm vi.
+- Có system diagram, model/API documentation, one-page summary và pilot roadmap.
+- KPI trong proposal là **target phải đo**, không phải kết quả đã đạt.
+
+### Ngoài MVP
+
+- Native mobile app, mobile-specific flow, PWA install flow và app-store release.
+- OCR/tải giấy tờ, voice, đa ngôn ngữ, analytics vận hành và trợ lý cán bộ.
+- Tự động nộp hồ sơ, tích hợp CSDL dân cư hoặc hệ thống nghiệp vụ thật.
+
+## User flow và fallback
+
+| Bước | Người dùng làm gì | Hệ thống phản hồi | Fallback |
 | --- | --- | --- | --- |
-| 1 | Nhập nhu cầu (ví dụ: "Tôi muốn làm khai sinh cho con") | Gợi ý thủ tục "Đăng ký khai sinh", hiển thị các câu hỏi làm rõ (jurisdiction, mối quan hệ) | Trả về danh mục chung của 3 thủ tục chính |
-| 2 | Trả lời câu hỏi làm rõ | Hiển thị checklist giấy tờ cần thiết, các bước thực hiện và form điền tương ứng | Hiển thị checklist đầy đủ nhất (không cá nhân hóa) |
-| 3 | Điền thông tin vào form | Chạy validation engine để quét lỗi định dạng, logic chéo, thiếu trường và hiển thị cảnh báo đỏ-vàng-xanh | Trả về kết quả kiểm tra deterministic cơ bản (required fields) |
+| 1 | Mô tả nhu cầu bằng tiếng Việt tự nhiên. | Đề xuất thủ tục và hỏi làm rõ. | `need_more_information` hoặc `official_review_required`. |
+| 2 | Trả lời câu hỏi về trường hợp cụ thể. | Checklist, nguồn và bước thực hiện. | Chỉ dẫn kênh chính thức thay vì tự điền khoảng trống. |
+| 3 | Điền form bằng dữ liệu demo hoặc dữ liệu phiên. | Rule engine báo thiếu/sai/xung đột và cách sửa. | Không dùng LLM để quyết định tính hợp lệ. |
+| 4 | Sửa và kiểm tra lại. | Báo việc cần sửa hoặc đạt kiểm tra sơ bộ. | Chuyển `official_review_required` cho ngoại lệ/ngoài pack. |
 
-- **Happy path bắt buộc:** Nhập nhu cầu -> Trả lời câu hỏi làm rõ -> Xem checklist -> Điền biểu mẫu -> Nhận kết quả kiểm tra tiền kiểm.
-- **Demo data/seed cố định:** 30 golden cases cho 3 thủ tục MVP.
-- **Điều không được hứa hẹn trong demo:** Hoàn thành nộp hồ sơ thật hoặc lấy thông tin từ hệ thống thật của chính phủ.
+- **Demo data:** chỉ dùng dữ liệu giả/synthetic, không dùng hồ sơ hoặc dữ liệu người thật.
+- **Không hứa hẹn:** nộp hồ sơ tự động, kết quả phê duyệt, truy cập CSDL dân cư thật hoặc tư vấn pháp lý đầy đủ.
 
-## Quyết định kỹ thuật tối thiểu
+## Quyết định kỹ thuật và trạng thái
 
-| Hạng mục | Quyết định hiện tại | Chủ sở hữu tạm thời / Issue | Trạng thái |
-| --- | --- | --- | --- |
-| Frontend | Next.js (App Router, TS, Tailwind) | Antigravity | Accepted |
-| Backend/API | Python (FastAPI, Uvicorn) | Antigravity | Accepted |
-| AI/model/provider | Provider-neutral adapter | Antigravity | Proposed |
-| Data/storage | Neon Postgres (pgvector) | Antigravity | Proposed |
-| Deploy/demo runtime | Vercel (FE), Render (BE) | Antigravity | Proposed |
-| Kiểm thử/check command | pytest, validate_repo.py | Antigravity | Accepted |
-
-Mọi lựa chọn ảnh hưởng shared API, dependency, deploy hoặc demo flow phải có entry trong `DECISIONS.md`.
+| Hạng mục | Trạng thái hiện tại | Decision |
+| --- | --- | --- |
+| Frontend web | Next.js scaffold trong `frontend/`; UI product/widget chưa hoàn tất | D-005 Accepted; D-008 Accepted |
+| Backend/API | FastAPI integration foundation trong `backend/`; sáu routes, typed trust/error metadata, deterministic rules và dev fixture có sẵn; external data/RAG/LLM adapter chưa có | D-005 Accepted; D-006 Proposed |
+| AI/model/provider | Provider-neutral adapter và provider cụ thể `TBD` | D-006 Proposed |
+| Data/RAG | Curated procedure packs, structured/vector retrieval và release governance chưa có evidence runtime | D-006 Proposed |
+| Deploy/demo runtime | Chưa provision URL, hosting, secret hoặc CD | D-006 Proposed |
+| Application checks | Lệnh bootstrap có sẵn; lint/test/build ứng dụng cần được xác minh theo Task Record | D-005 / task follow-up |
 
 ## Lệnh chuẩn
 
-Chỉ điền lệnh đã chạy được; không ghi lệnh suy đoán.
+Chỉ dùng lệnh trong manifest hoặc có evidence local. Không xem việc có lệnh là bằng chứng capability product đã hoàn thiện.
 
-```bash
-# Prerequisites
-- Python >= 3.13
-- Node >= 24.0
-
-# Install
-# Backend
-cd backend && pip install -r requirements.txt
-# Frontend
-cd frontend && npm install
-
-# Run locally
-# Backend (chạy tại port 8000)
-cd backend && uvicorn main:app --port 8000 --reload
-# Frontend (chạy tại port 3000)
-cd frontend && npm run dev
-
-# Check / test
+```powershell
+# Bootstrap guard
 python scripts/ci/validate_repo.py
+
+# Backend (chạy trong backend/ sau khi cài dependencies)
+uvicorn main:app --port 8000 --reload
+python -m pytest -q
+black --check .
+flake8 .
+
+# Frontend (chạy trong frontend/ sau khi cài dependencies)
+npm run dev
 ```
 
-## Interface ownership tạm thời
+Lệnh cài dependency, lint/test/build và kết quả chạy phải được ghi vào Task Record/handoff của task tương ứng. Không đưa secret vào command, prompt hay log.
 
-| Interface / boundary | Consumer | Owner tạm thời | Contract / Decision | Trạng thái |
-| --- | --- | --- | --- | --- |
-| API REST V1 | Frontend Next.js | Antigravity | D-005 / docs/ai/ARCHITECTURE.md | Proposed |
+## Interface hiện có và interface mục tiêu
 
-Owner trong bảng chỉ sở hữu việc phối hợp contract hiện tại, không phải vai trò cố định hay quyền cao hơn peer.
+| Boundary | Consumer | Trạng thái |
+| --- | --- | --- |
+| `GET /health` | Smoke check | Có trong backend scaffold |
+| `/v1/procedures`, `/v1/procedures/recommend`, `/v1/intake/turn`, `/v1/procedures/{id}/checklist`, `/v1/applications/validate` | Web UI / demo consumer | Contract foundation có trong backend; `verified_guidance` chỉ hợp lệ sau pack approved/K1, còn dev fixture luôn fail closed |
+| Widget / standalone web app -> REST API | Portal host, web UI | Web-first direction được D-008 chấp thuận; embed contract chưa hoàn tất |
+| Orchestrator -> approved procedure pack | Retrieval/checklist/validation | D-006 Proposed |
+| LLM adapter -> provider | Orchestrator | D-006 Proposed; không gửi raw PII |
 
-## Priorities, rủi ro và blocker
+Owner là trách nhiệm tạm thời trong Task Record, không phải chức danh cố định.
 
-| Ưu tiên | Việc / Issue | Rủi ro hoặc blocker | Mitigation / fallback |
+## Rubric và ưu tiên
+
+| Ưu tiên | Việc | Rủi ro | Mitigation / fallback |
 | --- | --- | --- | --- |
-| P0 | Khởi tạo khung dự án | Không chạy được local do môi trường | Đảm bảo code chạy độc lập và không phụ thuộc thư viện native nặng |
-| P0 | API Contracts | Thay đổi cấu hình API giữa chừng gây vỡ FE | Khóa API contracts trong ARCHITECTURE.md trước khi dev sâu |
-| P1 | UI/Widget | Trình duyệt chặn iframe hoặc xung đột CSS | Sử dụng Web Component để bọc iframe |
+| P0 | Source freeze và procedure-pack accuracy | Nguồn cũ/mâu thuẫn | Metadata hiệu lực, human review, fail closed. |
+| P0 | Vertical slice guided intake -> checklist -> validation | Scope phân tán | Làm khai sinh trước, sau đó áp cùng contract cho hai pack còn lại. |
+| P0 | Public demo + evidence | Network/provider/deploy lỗi | Smoke check, synthetic seed và rehearsal có fallback. |
+| P1 | Widget/headless API integration | CSS/auth/CORS ở portal host | Iframe isolation, static-host embed test và failure UI. |
+| P1 | UX web cho người không kỹ thuật | Ngôn ngữ hành chính khó hiểu hoặc container portal hạn chế | Plain Vietnamese, form theo bước, keyboard/focus/contrast, browser zoom và portal-container review. |
+| P2 | Mở rộng sau MVP | Scope creep | Giữ các feature ngoài MVP trong roadmap. |
+
+Rubric chính thức được ánh xạ trong `team_docs/proposal.md`: Technical 20, AI-Native Architecture 20, Business Viability 20, AI-Native UX 15, Safety/Grounding/Trust 15, Presentation/Demo/Defensibility 10.
 
 ## Cập nhật context
 
-- Cập nhật tài liệu này khi MVP, demo flow, lệnh chạy, stack, shared contract hoặc rủi ro quan trọng đổi.
-- Liên kết Issue/PR/Decision tương ứng thay vì ghi lại các chi tiết mâu thuẫn ở nhiều nơi.
-- Mọi agent phải coi giá trị `TBD` là điều cần làm rõ, không phải quyền tự chọn một giải pháp lớn.
+- Data/source freeze mục tiêu: 2026-07-17. Nguồn có hiệu lực tương lai không được dùng như quy định hiện hành.
+- Cập nhật tài liệu này khi MVP, user flow, application commands, shared contract hoặc risk quan trọng đổi.
+- Mọi chi tiết chưa xác minh là `TBD`; hướng dẫn thiếu nguồn phải chuyển `official_review_required`.
+- Thay đổi D-006 cần peer confirmation và Decision mới hoặc cập nhật trạng thái theo protocol.

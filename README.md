@@ -1,13 +1,17 @@
 # Vietnam AI Innovation Challenge 2026
 
-> Không gian làm việc chung cho team 5 người xây dựng sản phẩm AI-native tại hackathon.
+> Không gian làm việc chung cho team 6 người xây dựng sản phẩm AI-native tại hackathon.
 
 ## Trạng thái
 
 - Nhánh tích hợp: `dev`
 - Bản demo/release ổn định: `main`
-- Đề bài, MVP và stack: sẽ được chốt trong 90 phút đầu sau khi nhận đề
+- Đề bài và ba MVP hiện hành: đã chốt tại [Project Context](docs/ai/PROJECT_CONTEXT.md) theo D-007
+- Delivery surface: web-first theo D-008 — standalone web app, widget/iframe và headless API; không có mobile/native deliverable
+- D-005 đã chấp thuận scaffold Next.js/FastAPI; D-010 đề xuất fast CI và provider-neutral release artifact. RAG, trust policy, widget hoàn chỉnh và live deploy topology vẫn `Proposed` trong D-006, chưa provision
+- AI Log đa-agent: prompt-only, local source binding và commit trailers theo D-009; không lưu transcript/session đầy đủ
 - Nơi theo dõi công việc: Task Record cục bộ; GitHub Issue chỉ được tạo sau khi team chọn publish
+- Bootstrap nền đã được merge qua PR #1 và #2; workflow guard có trong `main`, nhưng run status, labels, branch protection và required checks chưa được xác minh bằng quyền GitHub hợp lệ
 
 ## Bắt đầu tại đây
 
@@ -28,12 +32,15 @@ Context pack tối thiểu gồm [Project context](docs/ai/PROJECT_CONTEXT.md), 
 | [Project context](docs/ai/PROJECT_CONTEXT.md) | Chốt bài toán, MVP, scope và lệnh chạy. |
 | [Architecture](docs/ai/ARCHITECTURE.md) | Ghi thành phần, interface và thay đổi xuyên lane. |
 | [Decision log](docs/ai/DECISIONS.md) | Quyết định về shared API, dependency, deploy hoặc demo flow. |
-| [Team roster](docs/ai/TEAM.md) | Khai báo 5 người, lane chính và lane backup. |
+| [Team roster](docs/ai/TEAM.md) | Khai báo 6 người, lane chính và lane backup. |
 | [Demo runbook](docs/ai/DEMO.md) | Chuẩn bị demo, fallback và checklist nộp bài. |
 | [Deployment contract](docs/ai/DEPLOYMENT.md) | Chốt hosting, environments, rollback và điều kiện bật CD. |
 | [Secrets & data](docs/ai/SECRETS_AND_DATA.md) | Bảo vệ khóa, dữ liệu và nguồn tài nguyên bên thứ ba. |
 | [Product design context](docs/PRODUCT.md) | Adapter thiết kế tối thiểu cho UI; source of truth vẫn là Project Context. |
 | [Design audit workflow](docs/design/README.md) | Chạy Impeccable CLI advisory, review report và quản lý waiver hẹp. |
+| [Cẩm nang bootstrap](team_docs/TEAM_BOOTSTRAP_OVERVIEW.md) | Giới thiệu capability, cách dùng và giới hạn hiện tại cho thành viên mới. |
+| [Proposal](team_docs/proposal.md) / [Kiến trúc trình bày](team_docs/kientruc.md) | Đề xuất sản phẩm, rubric và kiến trúc vendor-neutral của team. |
+| [Phân công 48 giờ](team_docs/phancong.md) | Backlog sáu lane, data lifecycle, gates và ownership ngang hàng. |
 
 ## Coding agents
 
@@ -61,22 +68,32 @@ dev (demo candidate) -> PR/release check -> main (stable demo, khi được publ
 
 ## Quality gate
 
-`repository-guard` là CI guard hiện tại: nó kiểm tra bootstrap artifacts, Markdown links nội bộ, file policy và contract CI bằng Python standard library. Trước khi workflow được publish, chạy local:
+`repository-guard` kiểm tra bootstrap artifacts, Markdown links nội bộ, file policy, AI Log history và application checks theo vùng diff. Payload `data/**` không bị content-scan trong fast path; data metadata được kiểm riêng. Luôn chạy local trước handoff:
 
 ```powershell
 python scripts/ci/validate_repo.py
 ```
+
+Onboard AI Log một lần cho từng clone/worktree (không tự quét home và không tự push):
+
+```text
+python scripts/ai_log/ai_log.py onboard --member member-1 --task local-YYYYMMDD-slug --tool codex --source <explicit-json-or-jsonl-source>
+python scripts/ai_log/ai_log.py doctor --strict
+```
+
+Source binary/SQLite hoặc chưa có adapter dùng `--manual`, rồi nhập từng prompt bằng `record --stdin`. Onboard sinh hook ignored ở `.ai-log/hooks/`; mỗi `git commit` tự stage evidence trong namespace của member và thêm trailer, còn `git push` luôn thủ công. Xem contract, fallback đa-agent và giới hạn compliance tại [AI Log](evidence/ai-log/README.md).
 
 Trước khi commit hoặc publish sau này, dùng scope Git-aware phù hợp:
 
 ```powershell
 python scripts/ci/validate_repo.py --staged
 python scripts/ci/validate_repo.py --range dev...HEAD
+python scripts/ci/validate_data.py --range dev...HEAD
 ```
 
 Các lệnh chỉ báo file/line; không in giá trị token/secret. `.env` hợp lệ khi bị Git ignore, nhưng sẽ bị chặn nếu được stage hoặc nằm trong phạm vi Git cần kiểm tra.
 
-Khi workflow đã có trên GitHub và chạy xanh trên branch đích, `repository-guard` trở thành required status check. Issue scaffold đầu tiên vẫn phải bổ sung lint/test/build CI riêng cho stack thực tế; CD chỉ được bật sau khi [Deployment contract](docs/ai/DEPLOYMENT.md) hoàn tất. Không có hướng dẫn nào ở đây tự tạo workflow, Issue, PR, push hoặc thay đổi repository settings.
+Chỉ sau khi xác minh workflow chạy xanh trên branch đích và branch protection đã áp dụng thì mới được coi `repository-guard` là required status check. `dev` có thể sinh release candidate checksum-verified; promote trên `main` là thủ công và chưa phải deploy thật. Live CD chỉ được bật sau khi [Deployment contract](docs/ai/DEPLOYMENT.md), D-010 và provider/secret/rollback contract được peer xác nhận. Không có hướng dẫn nào ở đây tự tạo Issue, PR, push hoặc thay đổi repository settings.
 
 Xem [GitHub branch rules](.github/BRANCH_RULES.md), [labels](.github/LABELS.md), [repository settings](.github/repository-settings.json), và templates trong [`.github/`](.github/).
 

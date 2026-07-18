@@ -1,19 +1,24 @@
-from fastapi import APIRouter, HTTPException, Path
-from typing import List
-from app.models.checklist import ChecklistResponse, ChecklistRequest
-from app.services.procedure_service import ProcedureService
+from fastapi import APIRouter, Depends, Path
 
-router = APIRouter(prefix="/v1")
+from app.dependencies import get_copilot_service
+from app.models.checklist import ChecklistRequest, ChecklistResponse
+from app.models.procedure import ProcedureSummary
+from app.services.copilot_service import CopilotService
 
-@router.get("/procedures")
-def get_procedures():
-    return ProcedureService.list_procedures()
+router = APIRouter(prefix="/v1/procedures", tags=["procedures"])
 
-@router.post("/procedures/{id}/checklist", response_model=ChecklistResponse)
-def get_checklist(
-    id: str = Path(..., description="Procedure ID"),
-    request: ChecklistRequest = None
-):
-    if not ProcedureService.get_procedure(id):
-        raise HTTPException(status_code=404, detail="Procedure pack not found")
-    return ProcedureService.get_checklist(id)
+
+@router.get("", response_model=list[ProcedureSummary])
+async def get_procedures(
+    service: CopilotService = Depends(get_copilot_service),
+) -> list[ProcedureSummary]:
+    return await service.list_procedures()
+
+
+@router.post("/{procedure_id}/checklist", response_model=ChecklistResponse)
+async def get_checklist(
+    request: ChecklistRequest,
+    procedure_id: str = Path(..., min_length=1, max_length=120),
+    service: CopilotService = Depends(get_copilot_service),
+) -> ChecklistResponse:
+    return await service.checklist(procedure_id, request)

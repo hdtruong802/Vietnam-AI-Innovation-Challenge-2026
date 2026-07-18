@@ -1,0 +1,2 @@
+#!/bin/sh
+python scripts/ai_log/ai_log.py hook prepare-commit-msg "$@"
