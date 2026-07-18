@@ -16,6 +16,7 @@ import type {
   FeedbackContext,
   FeedbackReasonCode,
   FormFieldValue,
+  IntakeRequest,
   PersistedProcedureCaseState,
   ProcedureCaseState,
 } from "./procedureCase.types";
@@ -131,6 +132,34 @@ export function useProcedureCase(
     [fixtureState],
   );
 
+  const selectStaticProcedure = useCallback(
+    async (procedureId: string) => {
+      const { sessionId, sessionContext } = stateRef.current;
+      if (stateRef.current.isBusy) return;
+      await requestIntake({
+        session_id: sessionId,
+        message: "Người dùng chọn thủ tục từ danh sách MVP.",
+        session_context: sessionContext,
+        turn_type: "procedure_select",
+        selected_procedure_id: procedureId,
+      });
+    },
+    [requestIntake],
+  );
+
+  const sendMessage = useCallback(async (rawText: string) => {
+    const text = rawText.trim().slice(0, INPUT_MAX_LENGTH);
+    if (!text || stateRef.current.isBusy) return;
+
+    dispatch({ type: "SEND_MESSAGE", text });
+    await requestIntake({
+      session_id: stateRef.current.sessionId,
+      message: text,
+      session_context: stateRef.current.sessionContext,
+      turn_type: "free_text",
+    });
+  }, [requestIntake]);
+
   const fetchChecklist = useCallback(async () => {
     if (fixtureState) return;
     const { sessionId, sessionContext } = stateRef.current;
@@ -146,6 +175,7 @@ export function useProcedureCase(
         {
           clarification_answers: sessionContext.clarification_answers,
           procedure_version: sessionContext.procedure_version ?? undefined,
+          session_context: sessionContext,
         },
         controller.signal,
       );
@@ -225,6 +255,7 @@ export function useProcedureCase(
           procedure_id: checklist.procedure_id,
           procedure_version: sessionContext.procedure_version ?? checklist.procedure_version ?? undefined,
           form_data: formDraft,
+          session_context: sessionContext,
         },
         controller.signal,
       );
@@ -290,7 +321,7 @@ export function useProcedureCase(
     if (mountHandoffDone.current) return;
     mountHandoffDone.current = true;
     if (initialProcedureId) {
-      selectStaticProcedure(initialProcedureId);
+      void selectStaticProcedure(initialProcedureId);
     } else if (initialMessage) {
       void sendMessage(initialMessage);
     }

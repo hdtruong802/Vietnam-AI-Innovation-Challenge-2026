@@ -39,6 +39,9 @@ Chỉ dùng tên biến và placeholder vô hại trong `.env.example`. Không c
 - Chỉ pack đã human-review mới phục vụ `verified_guidance`. Nguồn thiếu, cũ hoặc mâu thuẫn phải chuyển `official_review_required`.
 - License/quyền tái sử dụng và attribution của từng nguồn/biểu mẫu phải được xác minh trước khi lưu bản sao hoặc phát hành dataset.
 - Không scrape vượt điều khoản/rate limit; ingestion mechanism cụ thể là `TBD` và cần Task Record.
+- Quy trình local cho ba source canonical được mô tả tại
+  [`docs/data/K1_REVIEW_RUNBOOK.md`](../data/K1_REVIEW_RUNBOOK.md). Candidate
+  manifest luôn bắt đầu ở `needs_review`; validator không thay thế human K1.
 
 ## Data minimization cho application đề xuất
 

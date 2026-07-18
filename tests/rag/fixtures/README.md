@@ -82,27 +82,27 @@ publication task allows them.
 
 ## Phase 7 approved pack build
 
-Create a local approved-source manifest template from rows marked `approved`:
+Create a local candidate manifest from parser-boundary rows marked `approved`:
 
 ```powershell
 python scripts/data/prepare_approved_source_manifest.py --output artifacts/chunking/approved-sources-template.csv
 ```
 
-Fill the blank provenance columns (`title`, `authority`, `jurisdiction`,
-`source_ref`, `document_version`, and effective dates where applicable), then
-build approved chunks:
+That annotation only approves chunk boundaries; it is not K1 content/legal
+approval. A reviewer must fill provenance, permission/effective/verification
+dates, `reviewed_by`, `reviewed_at`, and explicitly change `review_status` from
+`needs_review` to `approved`. Then build approved chunks:
 
 ```powershell
 python scripts/data/build_approved_rag_pack.py --approved-manifest artifacts/chunking/approved-sources-template.csv --output artifacts/chunking/approved-chunks.jsonl --report-output artifacts/chunking/approved-report.json
 ```
 
-For chatbot/demo use without official citation URLs, build a clearly marked local
-clean pack directly from K1-approved fixture rows:
+The chatbot clean-pack wrapper also requires that explicitly reviewed manifest;
+it no longer invents local K1 provenance:
 
 ```powershell
-python scripts/data/build_demo_clean_rag_pack.py
+python scripts/data/build_demo_clean_rag_pack.py --approved-manifest artifacts/chunking/approved-sources-reviewed.csv
 ```
 
-This writes `artifacts/chatbot/clean-rag-chunks.jsonl`, a flat JSONL file that is
-ready for a chatbot loader. Its `source_refs` use `local-k1-fixture://...`
-instead of official URLs.
+This writes `artifacts/chatbot/clean-rag-chunks.jsonl` only after the manifest
+passes the approved-source gate. Candidate or incomplete manifests fail closed.

@@ -5,12 +5,7 @@ from typing import Protocol
 
 from openai import OpenAI, OpenAIError
 
-from app.config import (
-    OPENAI_API_KEY,
-    OPENAI_BASE_URL,
-    OPENAI_MODEL,
-    OPENAI_TIMEOUT_SECONDS,
-)
+from app.config import get_settings
 from app.models.rag import EvidenceHit, GroundedAnswerResponse
 from app.services.rag_service import RAGService
 
@@ -36,15 +31,18 @@ class OpenAILLMClient:
     def __init__(
         self,
         *,
-        api_key: str = OPENAI_API_KEY,
-        model: str = OPENAI_MODEL,
-        base_url: str = OPENAI_BASE_URL,
-        timeout_seconds: float = OPENAI_TIMEOUT_SECONDS,
+        api_key: str | None = None,
+        model: str | None = None,
+        base_url: str | None = None,
+        timeout_seconds: float | None = None,
     ) -> None:
-        self.api_key = api_key
-        self.model = model
-        self.base_url = base_url
-        self.timeout_seconds = timeout_seconds
+        settings = get_settings()
+        self.api_key = settings.openai_api_key if api_key is None else api_key
+        self.model = settings.openai_model if model is None else model
+        self.base_url = settings.openai_base_url if base_url is None else base_url
+        self.timeout_seconds = (
+            settings.openai_timeout_seconds if timeout_seconds is None else timeout_seconds
+        )
 
     def complete_grounded_answer(
         self,
@@ -75,7 +73,9 @@ class OpenAILLMClient:
                         "hãy nói cần chuyển cán bộ hoặc nguồn chính thức xem lại. "
                         "Không thêm căn cứ ngoài evidence. Mỗi ý quan trọng phải gắn "
                         "mã nguồn đúng dạng [ma_chunk], ví dụ [abc123]. Không viết "
-                        "[chunk_id: abc123]."
+                        "[chunk_id: abc123]. Không tự suy ra rằng người dùng thuộc "
+                        "trường hợp lưu động, đăng ký lại, có yếu tố nước ngoài hoặc "
+                        "một trường hợp đặc biệt khác khi câu hỏi chưa nêu rõ."
                     ),
                 },
                 {
@@ -109,6 +109,8 @@ def _build_grounded_prompt(*, query: str, evidence: list[EvidenceHit]) -> str:
         "EVIDENCE ĐÃ DUYỆT:\n" + "\n\n".join(evidence_blocks) + "\n\nYÊU CẦU TRẢ LỜI:\n"
         "- Trả lời ngắn gọn bằng tiếng Việt có dấu.\n"
         "- Chỉ sử dụng thông tin trong EVIDENCE.\n"
+        "- Chỉ trả lời đúng nội dung được hỏi; không thêm cảnh báo hoặc trường hợp ngoại lệ không liên quan.\n"
+        "- Nếu evidence chỉ nói về một biến thể đặc biệt mà câu hỏi chưa xác định, hãy hỏi lại để làm rõ thay vì áp dụng biến thể đó.\n"
         "- Nếu có cảnh báo hoặc ràng buộc quan trọng, nêu rõ và dẫn [ma_chunk].\n"
         "- Citation phải dùng đúng mã chunk thực tế, ví dụ [abc123], không dùng nhãn [chunk_id: abc123].\n"
         "- Không khẳng định điều không có trong EVIDENCE.\n"
@@ -132,6 +134,7 @@ class GroundedRAGAnswerService:
         top_k: int = 5,
         llm_client: LLMClient | None = None,
     ) -> GroundedAnswerResponse:
+        configured_model = get_settings().openai_model
         evidence_result = RAGService.search_evidence(
             query=query,
             procedure_id=procedure_id,
@@ -141,7 +144,7 @@ class GroundedRAGAnswerService:
             return GroundedAnswerResponse(
                 status=OFFICIAL_REVIEW_REQUIRED,
                 reason=evidence_result.reason or "no_evidence",
-                model=OPENAI_MODEL,
+                model=configured_model,
                 citations=[],
                 evidence=evidence_result.hits,
                 store_path=evidence_result.store_path,
@@ -158,7 +161,7 @@ class GroundedRAGAnswerService:
             return GroundedAnswerResponse(
                 status=OFFICIAL_REVIEW_REQUIRED,
                 reason=str(exc) or "llm_provider_error",
-                model=OPENAI_MODEL,
+                model=configured_model,
                 citations=_citations_from_hits(evidence_result.hits),
                 evidence=evidence_result.hits,
                 store_path=evidence_result.store_path,

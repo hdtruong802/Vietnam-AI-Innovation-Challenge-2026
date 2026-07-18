@@ -25,6 +25,18 @@ class NormalizationTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             document.line_span(0, 1)
 
+    def test_valid_vietnamese_does_not_trigger_mojibake_warning(self) -> None:
+        document = normalize_document(
+            "Đăng ký thường trú tại xã, phường; cơ quan có thẩm quyền."
+        )
+
+        self.assertNotIn("possible_mojibake", document.warnings)
+
+    def test_common_utf8_as_latin1_sequences_trigger_mojibake_warning(self) -> None:
+        document = normalize_document("Thá»§ tá»¥c Ä‘Äƒng kÃ½")
+
+        self.assertIn("possible_mojibake", document.warnings)
+
 
 class ParserTests(unittest.TestCase):
     def test_parser_covers_document_with_stable_sections(self) -> None:

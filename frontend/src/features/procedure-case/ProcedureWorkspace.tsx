@@ -37,7 +37,6 @@ const PROGRESS_STAGES: { id: number; label: string }[] = [
 
 interface ProcedureWorkspaceProps {
   onGoLanding: () => void;
-  onOpenComingSoon: (text: string) => void;
   initialMessage?: string;
   initialProcedureId?: string;
   /** Preview-only: seeds state from a fixture and makes the workspace
@@ -51,7 +50,6 @@ interface ProcedureWorkspaceProps {
 
 export default function ProcedureWorkspace({
   onGoLanding,
-  onOpenComingSoon,
   initialMessage,
   initialProcedureId,
   fixtureState,

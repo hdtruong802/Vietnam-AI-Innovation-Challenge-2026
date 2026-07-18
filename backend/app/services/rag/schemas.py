@@ -24,7 +24,7 @@ class EvidenceChunk(BaseModel):
     source_title: str
     source_ref: str = Field(..., description="Ma quyet dinh / van ban phap ly lam citation")
     source_url: Optional[str] = None
-    last_verified_at: str
+    last_verified_at: Optional[str] = None
     score: float = Field(0.0, description="Diem lexical relevance, chua chuan hoa xac suat")
 
 

@@ -45,7 +45,7 @@ def answer_with_grounded_llm(request: GroundedAnswerRequest):
 
 @router.get("/rag/answer", response_model=GroundedAnswerResponse)
 def answer_with_grounded_llm_get(
-    query: str = Query(..., description="Vietnamese user query"),
+    query: str = Query("", description="Vietnamese user query"),
     procedure_id: str | None = Query(None, description="Procedure ID filter"),
     top_k: int = Query(5, ge=1, le=10, description="Maximum evidence chunks"),
 ):

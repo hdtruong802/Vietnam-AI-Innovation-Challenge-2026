@@ -11,6 +11,7 @@ from app.models.common import Citation, ClarifyingQuestion, FindingSeverity
 
 class ReviewStatus(str, Enum):
     APPROVED = "approved"
+    NEEDS_REVIEW = "needs_review"
     FIXTURE = "fixture"
     UNAVAILABLE = "unavailable"
     CONFLICT = "conflict"

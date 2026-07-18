@@ -3,6 +3,7 @@ from functools import lru_cache
 from pathlib import Path
 from typing import List, Optional
 
+from app.config import get_settings
 from app.models.rag import EvidenceHit, EvidenceSearchResponse
 from app.rag.chunking import EvidenceChunk
 from app.rag.retrieval import (
@@ -60,7 +61,24 @@ class RAGService:
         procedure_id: Optional[str] = None,
         top_k: int = 5,
     ) -> EvidenceSearchResponse:
+        if not get_settings().legacy_rag_enabled:
+            return EvidenceSearchResponse(
+                status="blocked",
+                reason="legacy_rag_disabled",
+                hits=[],
+                store_path=str(DEFAULT_CLEAN_CHUNKS_PATH),
+                loaded_chunks=0,
+            )
+
         chunks = _cached_chunks()
+        if not query.strip():
+            return EvidenceSearchResponse(
+                status="blocked",
+                reason="query_required",
+                hits=[],
+                store_path=str(DEFAULT_CLEAN_CHUNKS_PATH),
+                loaded_chunks=len(chunks),
+            )
         rag_procedure_id = (
             RUNTIME_TO_RAG_PROCEDURE_IDS.get(procedure_id, procedure_id) if procedure_id else None
         )

@@ -42,6 +42,14 @@ def approved_birth_pack() -> ProcedurePack:
         rule.model_copy(update={"source_ref_ids": [official_source.ref_id]})
         for rule in fixture.validation_rules
     ]
+    required_documents = [
+        document.model_copy(update={"source_ref_ids": [official_source.ref_id]})
+        for document in fixture.required_documents
+    ]
+    optional_documents = [
+        document.model_copy(update={"source_ref_ids": [official_source.ref_id]})
+        for document in fixture.optional_documents
+    ]
     return fixture.model_copy(
         update={
             "version": "approved-test-v1",
@@ -50,6 +58,8 @@ def approved_birth_pack() -> ProcedurePack:
             "source_refs": [official_source],
             "last_verified_at": date.today(),
             "validation_rules": rules,
+            "required_documents": required_documents,
+            "optional_documents": optional_documents,
         }
     )
 
@@ -64,8 +74,9 @@ def test_health_reports_fixture_capability(client: TestClient) -> None:
     response = client.get("/health")
 
     assert response.status_code == 200
-    assert response.json()["status"] == "ok"
+    assert response.json()["status"] == "degraded"
     assert response.json()["capabilities"]["procedure_data"] == "fixture"
+    assert response.json()["capabilities"]["procedure_guidance"] == "fixture"
 
 
 def test_procedures_list_only_the_three_mvp_ids(client: TestClient) -> None:
@@ -181,97 +192,55 @@ def test_approved_adapter_enables_deterministic_precheck() -> None:
     assert valid.json()["findings"] == []
 
 
-def test_prototype_intake_actions_return_stateless_journey_read_models() -> None:
-    settings = Settings(app_env="test", procedure_data_mode="fixture")
+def test_candidate_source_exposes_cited_checklist_but_keeps_precheck_closed() -> None:
+    settings = Settings(app_env="test", procedure_data_mode="rag", rag_mode="disabled")
     container = build_container(settings)
-    container.procedure_repository = ApprovedProcedureRepository(approved_birth_pack())
-    container.recommendation_provider = FixtureRecommendationProvider()
-    prototype_client = TestClient(create_app(settings=settings, container=container))
-
-    selected = prototype_client.post(
-        "/v1/intake/turn",
-        json={
-            "session_id": "synthetic-session",
-            "message": "Tôi chọn đăng ký khai sinh",
-            "turn_type": "procedure_select",
-            "selected_procedure_id": "dang-ky-khai-sinh",
-        },
+    candidate_pack = approved_birth_pack().model_copy(
+        update={
+            "version": "candidate-test-v1",
+            "review_status": ReviewStatus.NEEDS_REVIEW,
+            "last_verified_at": None,
+        }
     )
-    assert selected.status_code == 200
-    selected_body = selected.json()
-    assert selected_body["trust_state"] == "need_more_information"
-    assert selected_body["journey"]["total_steps"] == 5
-    assert selected_body["next_action"]["code"] == "answer_clarifications"
+    container.procedure_repository = ApprovedProcedureRepository(candidate_pack)
+    candidate_client = TestClient(create_app(settings=settings, container=container))
 
-    answered = prototype_client.post(
-        "/v1/intake/turn",
-        json={
-            "session_id": "synthetic-session",
-            "message": "Xác nhận",
-            "turn_type": "clarification_answer",
-            "clarification_answer": {
-                "question_id": "fixture-confirm-scenario",
-                "value": "Xác nhận",
-            },
-            "session_context": selected_body["proposed_session_context"],
-        },
-    )
-    assert answered.status_code == 200
-    answered_body = answered.json()
-    assert answered_body["trust_state"] == "verified_guidance"
-    assert answered_body["procedure_card"]["procedure_id"] == "dang-ky-khai-sinh"
-    assert answered_body["confirmed_facts"][0]["key"] == "fixture-confirm-scenario"
-    assert answered_body["next_action"]["code"] == "confirm_procedure"
-
-    checklist = prototype_client.post(
+    checklist = candidate_client.post(
         "/v1/procedures/dang-ky-khai-sinh/checklist",
-        json={
-            "session_context": answered_body["proposed_session_context"],
-            "clarification_answers": {"fixture-confirm-scenario": "Xác nhận"},
-        },
+        json={"clarification_answers": {}},
     )
+    validation = candidate_client.post(
+        "/v1/applications/validate",
+        json={"procedure_id": "dang-ky-khai-sinh", "form_data": {}},
+    )
+
     assert checklist.status_code == 200
-    assert checklist.json()["procedure_card"]["name"]
-    assert checklist.json()["journey"]["steps"][0]["status"] == "complete"
+    assert checklist.json()["trust_state"] == "official_review_required"
+    assert checklist.json()["fixture_mode"] is False
+    assert checklist.json()["source_refs"]
+    assert checklist.json()["required_documents"]
+    assert all(item["source_ref_ids"] for item in checklist.json()["required_documents"])
+    assert checklist.json()["steps"] == []
+    assert checklist.json()["form_schema"] == {}
+    assert checklist.json()["procedure_card"] is None
+    assert validation.status_code == 200
+    assert validation.json()["trust_state"] == "official_review_required"
+    assert validation.json()["verdict"] is None
 
 
-def test_intake_rejects_unknown_fields_and_non_pending_answers(
-    client: TestClient,
-) -> None:
-    unknown_field = client.post(
-        "/v1/procedures/recommend",
-        json={"need_text": "khai sinh", "unexpected": "not accepted"},
-    )
-    non_pending = client.post(
-        "/v1/intake/turn",
-        json={
-            "session_id": "synthetic-session",
-            "message": "Câu trả lời",
-            "turn_type": "clarification_answer",
-            "clarification_answer": {"question_id": "unknown", "value": "value"},
-            "session_context": {"procedure_id": "dang-ky-khai-sinh"},
-        },
-    )
-
-    assert unknown_field.status_code == 422
-    assert unknown_field.json()["error"]["code"] == "request_validation_failed"
-    assert non_pending.status_code == 422
-    assert non_pending.json()["error"]["code"] == "clarification_question_not_pending"
-
-
-def test_openapi_exposes_base_and_rag_public_routes(client: TestClient) -> None:
+def test_openapi_exposes_current_public_routes(client: TestClient) -> None:
     paths = client.get("/openapi.json").json()["paths"]
 
     assert set(paths) == {
         "/",
         "/health",
+        "/v1/applications/validate",
+        "/v1/intake/turn",
         "/v1/procedures",
         "/v1/procedures/{procedure_id}/checklist",
         "/v1/procedures/recommend",
-        "/v1/intake/turn",
-        "/v1/applications/validate",
-        "/v1/rag/search",
         "/v1/rag/answer",
+        "/v1/rag/search",
     }
 
 
@@ -317,8 +286,12 @@ def test_production_disabled_is_degraded_and_never_exposes_fixture_data() -> Non
     assert health.json()["environment"] == "production"
     assert health.json()["capabilities"] == {
         "procedure_data": "disabled",
+        "procedure_guidance": "unavailable",
         "rag": "disabled",
+        "rag_ready": "false",
         "llm": "disabled",
+        "llm_ready": "false",
+        "legacy_rag": "disabled",
     }
     assert catalog.status_code == 200
     assert len(catalog.json()) == 3

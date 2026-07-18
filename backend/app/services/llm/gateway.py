@@ -2,7 +2,7 @@
 
 - Dung `openai` SDK nhung tro `base_url` theo `AI_BASE_URL` de tuong thich
   bat ky provider OpenAI-compatible nao (khong lock-in mot vendor).
-- Neu thieu `AI_API_KEY` hoac goi model loi/timeout, gateway KHONG bao gio
+- Neu thieu `AI_API_KEY`/`OPENAI_API_KEY` hoac goi model loi/timeout, gateway KHONG bao gio
   bia noi dung quy pham: chuyen sang fallback templating deterministic
   dua tren evidence/finding da co, giu nguyen tinh fail-closed cua he thong.
 - Khong nhan raw PII: caller (Orchestrator) phai tokenize truoc khi goi
@@ -52,16 +52,16 @@ class LLMGateway:
             return cls._client
         cls._client_initialized = True
         settings = get_settings()
-        if not settings.ai_api_key:
+        if not settings.effective_ai_api_key:
             cls._client = None
             return None
         try:
             from openai import OpenAI
 
             cls._client = OpenAI(
-                api_key=settings.ai_api_key,
-                base_url=settings.ai_base_url,
-                timeout=settings.ai_timeout_seconds,
+                api_key=settings.effective_ai_api_key,
+                base_url=settings.effective_ai_base_url,
+                timeout=settings.effective_ai_timeout_seconds,
             )
         except Exception:  # pragma: no cover - defensive, missing/broken SDK
             logger.warning("LLM Gateway: khong the khoi tao client, dung fallback offline.")
@@ -80,14 +80,14 @@ class LLMGateway:
         settings = get_settings()
         try:
             response = client.chat.completions.create(
-                model=settings.ai_model,
+                model=settings.effective_ai_model,
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_payload},
                 ],
                 response_format={"type": "json_object"},
                 temperature=0.2,
-                timeout=settings.ai_timeout_seconds,
+                timeout=settings.effective_ai_timeout_seconds,
             )
             content = response.choices[0].message.content
             return json.loads(content)

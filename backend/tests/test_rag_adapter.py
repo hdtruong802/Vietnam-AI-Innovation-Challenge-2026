@@ -47,7 +47,7 @@ def rag_client() -> TestClient:
 
 @requires_source_data
 @pytest.mark.anyio
-async def test_repository_lists_three_mvp_procedures_as_approved():
+async def test_repository_lists_three_mvp_procedures_as_needing_review():
     repository = RagProcedureRepository()
     summaries = await repository.list_procedures()
 
@@ -56,7 +56,7 @@ async def test_repository_lists_three_mvp_procedures_as_approved():
         "dang-ky-thuong-tru",
         "dang-ky-ho-kinh-doanh",
     }
-    assert all(item.review_status == ReviewStatus.APPROVED for item in summaries)
+    assert all(item.review_status == ReviewStatus.NEEDS_REVIEW for item in summaries)
 
 
 @requires_source_data
@@ -66,11 +66,11 @@ async def test_repository_pack_has_grounded_source_refs_and_checksum():
     pack = await repository.get_procedure("dang-ky-thuong-tru")
 
     assert pack is not None
-    assert pack.review_status == ReviewStatus.APPROVED
+    assert pack.review_status == ReviewStatus.NEEDS_REVIEW
     assert pack.checksum
     assert pack.source_refs
     assert pack.required_documents
-    assert pack.last_verified_at is not None
+    assert pack.last_verified_at is None
 
 
 @requires_source_data
@@ -86,19 +86,44 @@ async def test_recommendation_provider_matches_accented_vietnamese():
 
 
 @requires_source_data
+@pytest.mark.anyio
+@pytest.mark.parametrize(
+    "need_text",
+    [
+        "xin chào",
+        "tôi muốn đăng ký",
+        "tôi muốn đăng ký kết hôn",
+        "tôi cần khai tử",
+        "tôi muốn làm hộ chiếu",
+        "đăng ký tạm trú",
+        "thành lập công ty cổ phần",
+    ],
+)
+async def test_recommendation_provider_abstains_out_of_scope(need_text: str):
+    provider = RagRecommendationProvider()
+
+    assert await provider.recommend(need_text, SessionContext()) == []
+
+
+@requires_source_data
 def test_health_reports_rag_capability(rag_client: TestClient):
     response = rag_client.get("/health")
 
     assert response.status_code == 200
+    assert response.json()["status"] == "degraded"
     assert response.json()["capabilities"] == {
         "procedure_data": "rag",
+        "procedure_guidance": "needs_review",
         "rag": "rag",
+        "rag_ready": "true",
         "llm": "gateway",
+        "llm_ready": "false",
+        "legacy_rag": "disabled",
     }
 
 
 @requires_source_data
-def test_checklist_endpoint_is_verified_guidance_with_real_sources(
+def test_checklist_endpoint_requires_official_review_for_candidate_sources(
     rag_client: TestClient,
 ):
     response = rag_client.post(
@@ -107,7 +132,7 @@ def test_checklist_endpoint_is_verified_guidance_with_real_sources(
 
     assert response.status_code == 200
     body = response.json()
-    assert body["trust_state"] == "verified_guidance"
+    assert body["trust_state"] == "official_review_required"
     assert body["fixture_mode"] is False
     assert body["source_refs"]
     assert body["required_documents"]
@@ -122,11 +147,11 @@ def test_recommend_endpoint_uses_real_evidence(rag_client: TestClient):
     assert response.status_code == 200
     body = response.json()
     assert body["candidates"][0]["procedure_id"] == "dang-ky-thuong-tru"
-    assert body["trust_state"] == "need_more_information"
+    assert body["trust_state"] == "official_review_required"
 
 
 @requires_source_data
-def test_validate_endpoint_keeps_deterministic_verdict_and_adds_explanation(
+def test_validate_endpoint_does_not_issue_verdict_for_candidate_sources(
     rag_client: TestClient,
 ):
     response = rag_client.post(
@@ -136,11 +161,9 @@ def test_validate_endpoint_keeps_deterministic_verdict_and_adds_explanation(
 
     assert response.status_code == 200
     body = response.json()
-    assert body["trust_state"] == "verified_guidance"
-    assert body["verdict"] == "needs_fix"
-    assert body["findings"]
-    # Khong co AI_API_KEY trong moi truong test -> LLM offline -> explanations
-    # rong (fail-closed cho phan diendjis giai, KHONG anh huong finding/verdict).
+    assert body["trust_state"] == "official_review_required"
+    assert body["verdict"] is None
+    assert body["findings"] == []
     assert body["explanations"] == {}
 
 

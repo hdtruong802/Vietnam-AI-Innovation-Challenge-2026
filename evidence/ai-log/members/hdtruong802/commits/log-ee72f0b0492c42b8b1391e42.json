@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "record_type": "commit_evidence",
+  "ai_log_id": "log-ee72f0b0492c42b8b1391e42",
+  "created_at": "2026-07-18T16:13:45.041728Z",
+  "member_id": "hdtruong802",
+  "branch": "feature/local-20260718-seeded-auth",
+  "parent_commit": "47d9850c066748699ea867dff4059bfba361e370",
+  "task_records": [
+    "local-20260718-main-ci-api-integration"
+  ],
+  "prompt_ids": [],
+  "tools": [],
+  "capture_status": "warning",
+  "warnings": [
+    "manual_prompt_required"
+  ],
+  "operation": "commit",
+  "replaces_ai_log": null
+}

@@ -19,6 +19,7 @@ export type ProcedureCaseAction =
   | { type: "INTAKE_REQUEST_STARTED" }
   | { type: "INTAKE_RESPONSE_RECEIVED"; response: IntakeResponse }
   | { type: "INTAKE_REQUEST_FAILED"; kind: ApiFailureKind }
+  | { type: "SESSION_CONTEXT_UPDATED"; sessionContext: ProcedureCaseState["sessionContext"] }
   | { type: "CONFIRM_U1" }
   | { type: "REJECT_U1" }
   | { type: "SUBMIT_CLARIFICATION_ANSWER"; questionId: string; value: string }
@@ -135,10 +136,10 @@ function applyAction(
 
     case "INTAKE_RESPONSE_RECEIVED": {
       const response = action.response;
-      const sessionContext = {
-        ...response.proposed_session_context,
-        clarification_answers: state.sessionContext.clarification_answers,
-      };
+      // The API returns the proposed client-owned context after each turn.
+      // Do not merge stale client answers back in: that can bypass a newly
+      // derived pending-question list or review acknowledgement.
+      const sessionContext = response.proposed_session_context;
       const transcript = [
         ...state.transcript,
         { role: "assistant" as const, content: response.message_plain, sourceRefs: response.source_refs },
@@ -171,10 +172,29 @@ function applyAction(
         return { ...base, flow: "official_review_required" };
       }
       if (response.detected_procedure_id && response.procedure) {
+        const hasConfirmedProcedure = sessionContext.acknowledged_review_gates?.includes("U1");
+        if (hasConfirmedProcedure) {
+          const unanswered = filterUnansweredQuestions(
+            response.clarifying_questions,
+            sessionContext.clarification_answers,
+          );
+          if (unanswered.length > 0) {
+            return {
+              ...base,
+              activeClarifyingQuestions: unanswered,
+              currentQuestionIndex: 0,
+              flow: "clarifying",
+            };
+          }
+          return { ...base, flow: "checklist_loading" };
+        }
         return { ...base, flow: "procedure_review" };
       }
       return { ...base, flow: "identifying_procedure" };
     }
+
+    case "SESSION_CONTEXT_UPDATED":
+      return { ...state, isBusy: false, sessionContext: action.sessionContext };
 
     case "INTAKE_REQUEST_FAILED":
       if (action.kind === "aborted") return { ...state, isBusy: false };
@@ -335,6 +355,7 @@ function applyAction(
         ...state,
         isBusy: false,
         lastValidationResponse: response,
+        sessionContext: response.proposed_session_context ?? state.sessionContext,
         trustMetadata,
         flow,
         availability: { backendReachable: true, aiPathAvailable: state.availability.aiPathAvailable, degradeReason: null },
@@ -377,7 +398,12 @@ function applyAction(
       return {
         ...fresh,
         sessionId: persisted.sessionId,
-        sessionContext: persisted.sessionContext,
+        sessionContext: {
+          ...fresh.sessionContext,
+          ...persisted.sessionContext,
+          acknowledged_review_gates: persisted.sessionContext.acknowledged_review_gates ?? [],
+          reviewed_document_ids: persisted.sessionContext.reviewed_document_ids ?? [],
+        },
         transcript: persisted.transcript.length > 0 ? persisted.transcript : fresh.transcript,
         answeredQuestions: persisted.answeredQuestions,
         checklist: persisted.checklist,

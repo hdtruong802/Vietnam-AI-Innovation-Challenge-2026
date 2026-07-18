@@ -54,11 +54,35 @@ class AppContainer:
 
     @property
     def capabilities(self) -> dict[str, str]:
+        source_available = self.settings.rag_source_path.is_dir() and any(
+            self.settings.rag_source_path.glob("*.txt")
+        )
+        procedure_guidance = {
+            "fixture": "fixture",
+            "rag": "needs_review" if source_available else "unavailable",
+            "external": "unavailable",
+            "disabled": "unavailable",
+        }[self.settings.procedure_data_mode]
+        rag_ready = self.settings.rag_mode == "rag" and source_available
+        llm_ready = self.settings.llm_mode == "gateway" and bool(self.settings.effective_ai_api_key)
         return {
             "procedure_data": self.settings.procedure_data_mode,
+            "procedure_guidance": procedure_guidance,
             "rag": self.settings.rag_mode,
+            "rag_ready": "true" if rag_ready else "false",
             "llm": self.settings.llm_mode,
+            "llm_ready": "true" if llm_ready else "false",
+            "legacy_rag": "enabled" if self.settings.legacy_rag_enabled else "disabled",
         }
+
+    @property
+    def is_ready(self) -> bool:
+        capabilities = self.capabilities
+        return (
+            capabilities["procedure_guidance"] == "ready"
+            and capabilities["rag_ready"] == "true"
+            and capabilities["llm_ready"] == "true"
+        )
 
 
 def build_container(settings: Settings) -> AppContainer:

@@ -31,7 +31,7 @@ export default function LandingHero({ searchQuery, onSearchQueryChange, onSearch
         <div className="max-w-[620px] text-left">
           <h1 className="text-3xl md:text-5xl font-sans font-bold text-white leading-[1.18] tracking-tight drop-shadow-md">
             Kết nối, cung cấp thông tin và dịch vụ công mọi lúc, mọi nơi
-          </h1>
+          </h2>
           <p className="text-xs md:text-sm text-white/90 mt-4 max-w-xl leading-relaxed font-medium">
             Cổng Dịch vụ công Quốc gia là cầu nối giữa cơ quan nhà nước và người dân, doanh nghiệp trên môi trường số.
           </p>
@@ -45,12 +45,12 @@ export default function LandingHero({ searchQuery, onSearchQueryChange, onSearch
               value={searchQuery}
               onChange={(e) => onSearchQueryChange(e.target.value)}
               placeholder="Bạn cần tìm dịch vụ công nào?"
-              className="flex-1 px-4 py-3 bg-transparent text-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-gov-red/40 rounded-lg text-foreground placeholder-foreground/50 font-medium"
+              className="flex-1 px-4 py-3 bg-transparent text-sm focus:outline-none text-foreground placeholder-foreground/50 font-medium"
             />
             <button
               type="submit"
               aria-label="Tìm kiếm"
-              className="px-4 py-3 aspect-square bg-gov-red text-white rounded-lg hover:bg-gov-red-hover transition-all flex items-center justify-center gap-2 text-xs font-bold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/70"
+              className="px-5 py-3 bg-gov-red text-white rounded-lg hover:bg-gov-red-hover transition-all flex items-center justify-center gap-2 text-xs font-bold"
             >
               <svg viewBox="0 0 20 20" fill="none" className="w-4 h-4" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="9" cy="9" r="6.5" stroke="currentColor" strokeWidth="1.8" />
@@ -60,6 +60,18 @@ export default function LandingHero({ searchQuery, onSearchQueryChange, onSearch
           </form>
         </div>
       </div>
+
+      {/* Floating Lotuses at the bottom corner edges */}
+      <Image
+        src={hoaSen}
+        alt=""
+        className="absolute bottom-[-15%] left-[-6%] w-[180px] md:w-[320px] h-auto object-contain pointer-events-none z-10 animate-float-lotus"
+      />
+      <Image
+        src={hoaSen}
+        alt=""
+        className="absolute bottom-[-15%] right-[-6%] w-[180px] md:w-[320px] h-auto object-contain pointer-events-none z-10 animate-float-lotus [animation-delay:3s]"
+      />
     </section>
   );
 }

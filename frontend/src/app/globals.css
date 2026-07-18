@@ -3,6 +3,10 @@
 :root {
   --background: #F8FAFC; /* Clean off-white background */
   --foreground: #333333; /* Dark slate-gray text */
+  /* System stacks avoid a build-time dependency on external font hosts. */
+  --font-geist-sans: "Segoe UI", Roboto, Arial, sans-serif;
+  --font-geist-mono: "Cascadia Mono", Consolas, monospace;
+  --font-lora: Georgia, "Times New Roman", serif;
 
   --color-primary-raw: #0D1B3D; /* Corporate Deep Navy */
   --color-neutral-bg-raw: #F1F5F9; /* Neutral slate tint */
@@ -30,7 +34,7 @@
   --color-hero-start-raw: #FFF7ED; /* Soft warm peach-cream start */
   --color-hero-end-raw: #F8FAFC; /* Flows into background */
 
-  /* Cổng DVCQG landing page theme (D-012): scoped to the public marketing
+  /* Cổng DVCQG landing page theme (D-015): scoped to the public marketing
      landing page only, kept separate from the VNGov Copilot Navy & Orange
      tokens above which still drive the app/copilot view. */
   --color-gov-red-raw: #A6231C; /* Deep vermillion, matches reference footer/CTA */
@@ -68,7 +72,7 @@
   --color-hero-start: var(--color-hero-start-raw);
   --color-hero-end: var(--color-hero-end-raw);
 
-  /* Cổng DVCQG landing page bindings (D-012) */
+  /* Cổng DVCQG landing page bindings (D-015) */
   --color-gov-red: var(--color-gov-red-raw);
   --color-gov-red-hover: var(--color-gov-red-hover-raw);
   --color-gov-gold: var(--color-gov-gold-raw);
@@ -176,7 +180,7 @@ body {
 @keyframes fadeInUp {
   from {
     opacity: 0;
-    transform: translateY(20px);
+    transform: translateY(16px);
   }
   to {
     opacity: 1;
@@ -187,7 +191,7 @@ body {
 @keyframes scaleIn {
   from {
     opacity: 0;
-    transform: scale(0.96);
+    transform: scale(0.97);
   }
   to {
     opacity: 1;
@@ -200,21 +204,12 @@ body {
     transform: translateY(0) scale(1);
   }
   50% {
-    transform: translateY(-8px) scale(1.02);
-  }
-}
-
-@keyframes pulseGold {
-  0%, 100% {
-    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
-  }
-  50% {
-    box-shadow: 0 20px 25px -5px rgba(217, 119, 6, 0.25), 0 10px 10px -5px rgba(217, 119, 6, 0.15);
+    transform: translateY(-8px) scale(1.01);
   }
 }
 
 .animate-fade-in-up {
-  animation: fadeInUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 
 .animate-scale-in {
@@ -225,15 +220,10 @@ body {
   animation: floatLotus 6s ease-in-out infinite;
 }
 
-.animate-pulse-gold {
-  animation: pulseGold 4s infinite;
+.hover-lift {
+  transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.25s ease, border-color 0.25s ease;
 }
 
-/* Hover effects for premium feeling */
-.hover-lift {
-  transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.3s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.3s ease;
-}
 .hover-lift:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 20px 25px -5px rgba(124, 30, 20, 0.08), 0 10px 10px -5px rgba(124, 30, 20, 0.03);
+  transform: translateY(-4px);
 }

@@ -18,8 +18,25 @@ def _sample_chunk():
 
 
 def _offline(monkeypatch) -> None:
-    monkeypatch.setattr("app.services.llm.gateway.get_settings", lambda: Settings(ai_api_key=""))
+    monkeypatch.setattr(
+        "app.services.llm.gateway.get_settings",
+        lambda: Settings(_env_file=None, ai_api_key="", openai_api_key=""),
+    )
     LLMGateway.reset()
+
+
+def test_gateway_config_supports_legacy_openai_env_names():
+    settings = Settings(
+        _env_file=None,
+        ai_api_key="",
+        openai_api_key="legacy-key",
+        openai_model="gpt-4o-mini-test",
+        openai_timeout_seconds=11,
+    )
+
+    assert settings.effective_ai_api_key == "legacy-key"
+    assert settings.effective_ai_model == "gpt-4o-mini-test"
+    assert settings.effective_ai_timeout_seconds == 11
 
 
 def test_gateway_is_offline_without_api_key(monkeypatch):

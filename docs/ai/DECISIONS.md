@@ -26,9 +26,12 @@ Decision Log lưu các quyết định liên lane hoặc khó đảo ngược: s
 | D-010 | Proposed | Fast merge gate và release artifact provider-neutral | `local-20260718-ci-cd-optimization` | 2026-07-18 |
 | D-011 | Proposed | RAG in-process (không pgvector), LLM Gateway OpenAI-compatible với offline fallback, PII Guard regex in-memory, tích hợp vào CopilotService/ports adapter | `local-20260718-rag-llm-guardrail` | 2026-07-18 |
 | D-012 | Accepted | Cloud Run backend demo foundation, production-disabled | `local-20260718-gcp-backend-deploy` | 2026-07-18 |
-| D-013 | Accepted | Prototype read models cho sáu route base và hai route RAG additive | `local-20260718-prototype-api-contract` | 2026-07-18 |
-| D-014 | Accepted | Structure-aware chunking contract cho ba procedure pack MVP | `local-20260718-chunking-phase-0`, `local-20260718-chunking-phase-1` | 2026-07-18 |
+| D-013 | Accepted | Production hardening local, fail closed trước K1 | `local-20260718-production-hardening-p0` | 2026-07-18 |
+| D-014 | Accepted | Synthetic approved family release cho demo local | `local-20260718-demo-family-release` | 2026-07-18 |
 | D-015 | Accepted | Ngoại lệ bảng màu đỏ-vàng cho landing page marketing, tách biệt VNGov Copilot Navy & Orange | `local-20260718-landing-page-red-gold` | 2026-07-18 |
+| D-016 | Accepted | Direct web-to-API integration, production fail-closed before K1 | `local-20260718-main-ci-api-integration` | 2026-07-18 |
+| D-017 | Cancelled, superseded by D-018 | Account-based demo login proposal; not implemented | `local-20260718-seeded-auth` | 2026-07-18 |
+| D-018 | Accepted | One-click client-side demo gate, no account or backend auth | `local-20260718-seeded-auth` | 2026-07-18 |
 
 ---
 
@@ -273,7 +276,158 @@ Nếu retrieval lexical không đủ chất lượng cho demo, đặt lại `pro
 
 ---
 
-## D-014 — Structure-aware chunking contract cho ba procedure pack MVP
+## D-012 — Cloud Run backend demo foundation, production-disabled
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** User-requested deployment task
+- **Phạm vi:** deploy / security / demo
+- **Task Record:** `local-20260718-gcp-backend-deploy`
+- **Peer xác nhận:** `hdtruong802` (user), 2026-07-18
+
+### Bối cảnh
+
+Backend FastAPI theo D-005 cần một pathway public demo độc lập với frontend. D-006 đã chấp thuận target architecture, nhưng data/RAG/LLM chưa được triển khai. Deploy khi fixture còn chạy hoặc không có rollback sẽ tạo rủi ro hướng dẫn sai và chi phí không kiểm soát.
+
+### Lựa chọn đã cân nhắc
+
+1. Chờ toàn bộ product stack/deploy topology: ít rủi ro, nhưng chưa có đường chuẩn bị backend demo độc lập.
+2. Deploy mọi capability ngay: nhanh hơn bề ngoài nhưng vi phạm fail-closed và mở rộng sang data/AI/storage.
+3. Chuẩn bị Cloud Run backend-only, production-disabled: container/API có public demo pathway nhưng không có procedure data, RAG, LLM, database hoặc secret.
+
+### Quyết định
+
+Chấp thuận lựa chọn 3. Dùng Cloud Run `asia-southeast1` với Artifact Registry Docker repository `vngov-backend` cùng region, service `vngov-api`, image tag full commit SHA immutable và deploy bằng digest. Runtime là 1 vCPU/512 MiB, request-based, `min-instances=0`, `max-instances=1`, timeout 20 giây, public demo access và user-managed service account `vngov-api-runtime` không có role/secret.
+
+Runtime phải có `APP_ENV=production`, `PROCEDURE_DATA_MODE=disabled`, `RAG_MODE=disabled`, `LLM_MODE=disabled`, CORS rỗng và rate limit 60 request/60 giây. `/health` phải `degraded`; không route nào được trả fixture, procedure guidance đã xác minh hoặc raw PII. Không tạo Secret Manager, Cloud SQL, Cloud Storage, Vertex AI, vector DB, VPC connector, NAT hay CD workflow trong scope này.
+
+### Hệ quả và kiểm chứng
+
+- D-012 không thay thế D-006. Cả hai đã được peer xác nhận; billing/credit, IAM, local/container smoke và candidate smoke vẫn là gate chặn provisioning hoặc traffic.
+- Build từ `backend/`, container chạy non-root và lắng nghe `PORT`; local lint/test/container smoke là gate.
+- Với service đã có stable revision, deploy candidate `--no-traffic`, smoke `/health`, `/openapi.json`, `/docs` và fail-closed contract trước khi chuyển 100% traffic. Cloud Run không hỗ trợ `--no-traffic` khi tạo service đầu tiên: bootstrap revision phải private/authenticated-only, smoke bằng identity token, rồi mới mở public access.
+- Ghi image digest, revision, URL, timestamp, smoke result và rollback revision vào handoff; tạo budget alert 10/25/50/80/100% của 1,000,000 VND sau billing review.
+
+### Rollback / fallback
+
+Nếu candidate smoke hoặc 5xx lỗi, không chuyển traffic; deploy sau rollback traffic về revision stable trước. Nếu bootstrap smoke lần đầu lỗi, không mở public access và dùng backend local làm fallback. Nếu billing/credit, IAM hoặc smoke không đạt, dừng ở artifact/runbook local.
+
+---
+
+## D-013 — Production hardening local, fail closed trước K1
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** User và Codex theo review hệ thống chatbot
+- **Phạm vi:** API | data | model/provider | demo
+- **Task Record:** `local-20260718-production-hardening-p0`
+- **Publish (tùy chọn):** chưa publish
+- **Peer xác nhận:** User chọn lộ trình Option 3, loại CI/CD/cloud và cho phép Codex review tài liệu kỹ thuật; xác nhận này không phải K1 human/legal approval.
+
+### Bối cảnh
+
+Hai RAG stack đang cùng tồn tại. Stack legacy đọc artifact từng được gắn approved tự động và có source lẫn ngoài phạm vi. Stack D-011 đọc nguồn thô rồi tự gắn `approved`/`last_verified_at` theo ngày freeze dù `PROJECT_CONTEXT.md` ghi rõ chưa qua K1. Lexical recommendation cũng luôn chọn một trong ba thủ tục cho greeting, câu chung và nhiều intent ngoài phạm vi, tạo precheck false-positive.
+
+### Quyết định
+
+- Nguồn trực tiếp chỉ là candidate: chỉ chấp nhận đúng cặp tên/mã canonical `1.001193`, `1.004222`, `1.001612`, gắn `needs_review`, không có `last_verified_at` và không tạo `verified_guidance`/verdict trước K1.
+- Thêm intent gate xác định rõ ba thủ tục; greeting, câu chung, nhiều intent hoặc intent ngoài phạm vi phải abstain.
+- Giữ nguyên URL/schema `/v1/rag/search` và `/v1/rag/answer`, nhưng khóa stack legacy mặc định bằng `LEGACY_RAG_ENABLED=false`. Chỉ bật lại có chủ đích sau khi artifact được review.
+- `Settings` đọc `.env` root và backend; gateway mới ưu tiên `AI_*` và fallback `OPENAI_*`. Health tách liveness khỏi readiness và báo `degraded` khi guidance chưa approved, RAG/LLM chưa sẵn sàng.
+- Task này chỉ harden local runtime; không triển khai CI/CD, cloud, deploy, gọi provider trả phí hoặc sửa dữ liệu thô.
+
+### Hệ quả và kiểm chứng
+
+Luồng hiện tại an toàn hơn nhưng chưa phải sản phẩm hoàn thiện: trước K1, UI phải hiển thị `official_review_required` thay vì checklist/precheck chắc chắn. Contract REST giữ nguyên; enum/capability chỉ được mở rộng. Test dùng source local và fake/offline provider, không gọi OpenAI thật.
+
+### Rollback / fallback
+
+Legacy route vẫn tồn tại và có thể bật có chủ đích bằng config sau review artifact. Revert D-013 sẽ khôi phục hành vi cũ nhưng đồng thời khôi phục rủi ro auto-approved và false-positive, nên không phải fallback demo được khuyến nghị.
+
+---
+
+## D-014 - Synthetic approved family release cho demo local
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** User theo Task Record hiện tại
+- **Phạm vi:** data | demo
+- **Task Record:** `local-20260718-demo-family-release`
+- **Publish (tùy chọn):** chưa publish
+- **Peer xác nhận:** User yêu cầu giữ `review_status=approved`, dùng `https://dichvucong.gov.vn/`, version `2026`, reviewer `Cao`, ngày review `2026-07-18`.
+
+### Bối cảnh
+
+Registry 25 source/26 quan hệ đã có candidate package nhưng chưa có metadata K1
+thật. Demo local cần kiểm thử chunking/retrieval trên đủ family trước khi hoàn tất
+review nghiệp vụ. D-013 vẫn là policy production mặc định và không cho phép suy
+diễn K1 approval từ parser/checksum.
+
+### Quyết định
+
+Cho phép tạo một release **synthetic demo** bị Git ignore với
+`review_status=approved` theo chỉ định rõ của user. Manifest phải dùng version
+`vaic-family-demo-release-v1` và review notes nêu đây không phải K1/pháp lý;
+report/grouped pack phải ghi `approval_mode=synthetic_demo` và
+`not_for_production=true`. Tool chỉ nhận output dưới `artifacts/`, kiểm exact
+registry/code/title, strict UTF-8 và checksum trước khi build. Không commit raw
+data, reviewed manifest hay chunks; không đổi REST API hoặc production defaults.
+
+### Hệ quả và kiểm chứng
+
+- Artifact cho phép chạy approved-only retrieval trong demo local.
+- `approved` trong artifact này chỉ là cờ kỹ thuật của demo, không phải bằng chứng
+  `verified_guidance` production hoặc human K1.
+- `2.000986` giữ hai procedure IDs; source `dataset_raw` được đọc bằng path cấu
+  hình và không copy vào worktree.
+- Production release vẫn phải thay metadata synthetic bằng URL sâu, effective
+  date và review evidence thật theo D-006/D-013.
+
+### Rollback / fallback
+
+Xóa `artifacts/demo-family-release/` và `artifacts/chatbot/` được sinh bởi CLI.
+Không có migration, cloud state, secret hoặc API contract cần thu hồi.
+
+---
+
+## D-017 — Đề xuất đăng nhập tài khoản cho demo (đã dừng)
+
+- **Trạng thái:** Superseded by D-018
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** hdtruong802 / Codex
+- **Phạm vi:** API / dependency / deploy / demo — không triển khai
+- **Task Record:** `local-20260718-seeded-auth`
+- **Peer xác nhận:** user — dừng phương án này trước khi tạo resource hay account.
+
+### Kết quả
+
+Phương án bị dừng trước khi tạo resource, user, credential, migration hoặc public API. D-018 thay thế bằng demo gate client-side không có account/backend auth.
+
+---
+
+## D-018 — Demo gate client-side một chạm
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** hdtruong802 / Codex
+- **Phạm vi:** UI / demo / privacy
+- **Task Record:** `local-20260718-seeded-auth`
+- **Peer xác nhận:** user — xác nhận dừng toàn bộ tạo tài khoản và dùng nút “Vào demo ngay”.
+
+### Quyết định
+
+- Modal login giữ form username/password để định hướng UX, nhưng form không gọi API và thông báo tài khoản chưa mở trong demo.
+- CTA “Vào demo ngay” tạo `sessionStorage` local cho profile cố định `demo-guest` / `Khách demo`, rồi mở Copilot.
+- Session chỉ tồn tại trong tab; logout xóa session và quay về landing. Không lưu PII, mật khẩu, token, transcript hay draft lên backend.
+- Backend Cloud Run không đổi: không thêm endpoint auth, database, secret, JWT, Cloud Run Job hay Cloud SQL. Data/RAG/LLM vẫn disabled và fail-closed.
+
+### Rollback / giới hạn
+
+Xóa demo session để quay về landing. Đây là gate UX cho demo, không phải xác thực/bảo mật; auth thật cần Decision, privacy review và scope mới.
+
+---
+
+## Mẫu quyết định mới
 
 - **Trạng thái:** Accepted
 - **Ngày:** 2026-07-18
@@ -321,7 +475,7 @@ Không sửa raw corpus. Mọi parsed/chunk/index artifact có thể bỏ và bu
 
 ---
 
-## D-013 — Prototype read models và RAG routes additive
+## D-018 — Prototype read models và RAG routes additive
 
 - **Trạng thái:** Accepted
 - **Ngày:** 2026-07-18
@@ -386,6 +540,40 @@ Bổ sung ngày 2026-07-18: thêm scoped token `--portal-page`/`--portal-surface
 ### Rollback / fallback
 
 Xoá token `gov-*`/`portal-*` khỏi `globals.css` và revert các component trong `frontend/src/app/components/landing/` về bản Navy & Orange trước đó nếu cần đồng bộ lại với `docs/DESIGN.md`.
+
+---
+
+## D-016 — Tích hợp direct web-to-API, giữ production fail-closed trước K1
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** hdtruong802 / Codex
+- **Phạm vi:** API / deploy / demo / CI
+- **Task Record:** `local-20260718-main-ci-api-integration`
+- **Peer xác nhận:** user — xác nhận ba pack K1 là hướng mục tiêu, kết nối direct API + CORS và dừng nếu CI/CORS/trust không đạt.
+
+### Bối cảnh
+
+`main` có frontend web mới và Cloud Run backend công khai, nhưng CI đang lỗi ở repository policy, metadata dữ liệu, Black và lockfile frontend. Backend production hiện đúng chủ đích ở trạng thái `degraded`: procedure data, RAG và LLM đều disabled. Candidate/synthetic demo artifact theo D-014 không thay thế bằng chứng K1 hoặc căn cứ pháp lý đã duyệt.
+
+### Quyết định
+
+- Giữ nguyên sáu route `/v1` hiện có; chỉ đồng bộ trường DTO additive đã có trong D-013 giữa frontend và backend.
+- Web frontend gọi trực tiếp Cloud Run API qua `NEXT_PUBLIC_API_BASE_URL`; CORS runtime chỉ allowlist chính xác `https://vngov.vercel.app`, không dùng `*`.
+- Production tiếp tục `PROCEDURE_DATA_MODE=disabled`, `RAG_MODE=disabled`, `LLM_MODE=disabled` cho đến khi ba Procedure Pack có nguồn sâu, ngày hiệu lực, quyền sử dụng và K1 reviewer evidence thật.
+- Khi backend trả `official_review_required`, frontend không được trình bày checklist, form, citation hoặc pre-check fixture như guidance đã xác minh.
+- Sửa CI theo fail-fast scope hiện có; Vercel Git integration được để deploy production sau khi `main` có build xanh, không thêm CD/provider credential vào repo.
+
+### Hệ quả và kiểm chứng
+
+- UI có thể xác nhận kết nối health/CORS và luồng fallback an toàn ngay cả khi knowledge capability disabled.
+- Cần kiểm tra frontend build từ lockfile, backend formatting/tests, repository/data guards, health response production/degraded và preflight của đúng origin trước publish/deploy.
+- Vercel project owner cần đặt `NEXT_PUBLIC_API_BASE_URL=https://vngov-api-j53prjslqa-as.a.run.app` trong Production Environment nếu chưa có; đây là public URL, không phải secret.
+- Evidence ngày 2026-07-18: Cloud Run revision `vngov-api-00008-hez` nhận 100% traffic sau smoke `health` và preflight từ `https://vngov.vercel.app`; origin ngoài allowlist bị từ chối. Revision `vngov-api-00002-hav` được giữ làm rollback target.
+
+### Rollback / fallback
+
+Revert các trường frontend additive nếu consumer incompatibility; chuyển Cloud Run về revision trước nếu CORS/smoke lỗi. Giữ UI ở `official_review_required` và backend disabled nếu K1 chưa hoàn tất.
 
 ---
 

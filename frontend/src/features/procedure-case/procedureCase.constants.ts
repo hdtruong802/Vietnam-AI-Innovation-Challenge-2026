@@ -5,8 +5,14 @@ import type { FeedbackReasonCode } from "./procedureCase.types";
 // contract has no per-response official_channel_url field.
 export const OFFICIAL_PORTAL_URL = "https://dichvucong.gov.vn/";
 
+const CLOUD_RUN_API_BASE_URL = "https://vngov-api-j53prjslqa-as.a.run.app";
+
+// The explicit environment variable always wins. The production fallback keeps
+// the public Vercel build usable while its owner configures project variables;
+// local development continues to use the local FastAPI port by default.
 export const API_BASE_URL =
-  process.env.NEXT_PUBLIC_API_BASE_URL ?? "http://localhost:8000";
+  process.env.NEXT_PUBLIC_API_BASE_URL ??
+  (process.env.NODE_ENV === "production" ? CLOUD_RUN_API_BASE_URL : "http://localhost:8000");
 
 export const INPUT_MAX_LENGTH = 500;
 export const FEEDBACK_NOTE_MAX_LENGTH = 200;

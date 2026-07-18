@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "record_type": "prompt_event",
+  "prompt_id": "prompt-f1f1b30f9a7e4905837520eb",
+  "occurred_at": "2026-07-18T13:20:18.095538Z",
+  "captured_at": "2026-07-18T13:20:18.095741Z",
+  "member_id": "hdtruong802",
+  "tool": "codex",
+  "event": "UserPrompt",
+  "prompt": "Fix the backend checklist contract for cited candidate sources while retaining official review and fail-closed validation, then push the verified fix to dev.",
+  "prompt_preview": "Fix the backend checklist contract for cited candidate sources while retaining official review and fail-closed validation, then push the verified fix to dev.",
+  "model": null,
+  "task_record": "local-20260718-main-ci-api-integration",
+  "branch": "fix/local-20260718-main-ci-api-integration",
+  "workspace_fingerprint": "29aa416e0bb250a6b4670ada7dbae02bdeb972e36fb01db0ae28310d10af8a5d",
+  "source": {
+    "session_hash": "230538d8645bcddb904919b584a8caaf000984379d41a640306620482a63f9d3",
+    "adapter": "manual",
+    "adapter_version": "1"
+  },
+  "sanitization": {
+    "redacted": false,
+    "categories": []
+  },
+  "capture_warnings": []
+}
