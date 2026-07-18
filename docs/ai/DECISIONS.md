@@ -25,7 +25,7 @@ Decision Log lưu các quyết định liên lane hoặc khó đảo ngược: s
 | D-009 | Accepted | AI Log prompt-only, provider-neutral và liên kết theo commit | `local-20260717-ai-log` | 2026-07-17 |
 | D-010 | Proposed | Fast merge gate và release artifact provider-neutral | `local-20260718-ci-cd-optimization` | 2026-07-18 |
 | D-012 | Accepted | Cloud Run backend demo foundation, production-disabled | `local-20260718-gcp-backend-deploy` | 2026-07-18 |
-| D-013 | Accepted | Prototype-driven stateless API read models for the six existing v1 routes | `local-20260718-prototype-api-contract` | 2026-07-18 |
+| D-013 | Accepted | Prototype read models cho sáu route base và hai route RAG additive | `local-20260718-prototype-api-contract` | 2026-07-18 |
 | D-011 | Proposed | RAG in-process (không pgvector), LLM Gateway OpenAI-compatible với offline fallback, PII Guard regex in-memory, tích hợp vào CopilotService/ports adapter | `local-20260718-rag-llm-guardrail` | 2026-07-18 |
 
 ---
@@ -271,7 +271,7 @@ Nếu retrieval lexical không đủ chất lượng cho demo, đặt lại `pro
 
 ---
 
-## D-013 — Prototype-driven stateless API read models
+## D-013 — Prototype read models và RAG routes additive
 
 - **Trạng thái:** Accepted
 - **Ngày:** 2026-07-18
@@ -286,7 +286,7 @@ Prototype web cần hiển thị luồng chat, tiến trình năm bước, proce
 
 ### Quyết định
 
-Mở rộng **additive** DTO của sáu route hiện hữu với journey năm bước, procedure card, confirmed facts, review/next action và turn type cho intake. `SessionContext` là structured state do browser giữ và gửi lại; backend không lưu transcript, form draft hay PII. Input DTO từ client dùng `extra=forbid`.
+Mở rộng **additive** DTO của sáu route base với journey năm bước, procedure card, confirmed facts, review/next action và turn type cho intake. Đồng thời công khai hai route RAG additive: `/v1/rag/search` và `/v1/rag/answer`; chúng chỉ trả evidence approved hoặc diễn giải grounded có citation, và fail closed khi thiếu evidence/key hoặc provider lỗi. `SessionContext` là structured state do browser giữ và gửi lại; backend không lưu transcript, form draft hay PII. Input DTO từ client dùng `extra=forbid`.
 
 Không thêm route, auth, upload/OCR, support ticket, portal integration, database, dependency hoặc provider. Deterministic Rule Engine vẫn là nguồn duy nhất tạo finding/verdict. Nội dung hướng dẫn/card/checklist chỉ được hiển thị đầy đủ khi Procedure Pack được verified; fixture hoặc runtime disabled giữ fail-closed.
 

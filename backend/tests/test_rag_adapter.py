@@ -98,7 +98,9 @@ def test_health_reports_rag_capability(rag_client: TestClient):
 
 
 @requires_source_data
-def test_checklist_endpoint_is_verified_guidance_with_real_sources(rag_client: TestClient):
+def test_checklist_endpoint_is_verified_guidance_with_real_sources(
+    rag_client: TestClient,
+):
     response = rag_client.post(
         "/v1/procedures/dang-ky-khai-sinh/checklist", json={"clarification_answers": {}}
     )
@@ -143,7 +145,9 @@ def test_validate_endpoint_keeps_deterministic_verdict_and_adds_explanation(
 
 
 @pytest.mark.anyio
-async def test_gateway_llm_provider_never_changes_finding_and_clears_session(monkeypatch):
+async def test_gateway_llm_provider_never_changes_finding_and_clears_session(
+    monkeypatch,
+):
     provider = GatewayLLMProvider()
     monkeypatch.setattr("app.adapters.rag_llm.LLMGateway.is_online", classmethod(lambda cls: True))
 

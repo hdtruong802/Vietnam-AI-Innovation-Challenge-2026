@@ -9,7 +9,13 @@ from dataclasses import dataclass
 NORMALIZER_VERSION = "vaic-normalizer-v1"
 _HORIZONTAL_SPACE = re.compile(r"[\t\v\f \u00a0\u2007\u202f]+")
 _MOJIBAKE_MARKERS = ("Ã", "Â", "Ä", "Æ", "á»", "áº")
-_NAVIGATION_MARKERS = ("trang chủ", "đăng nhập", "dịch vụ công", "chuyển đến nội dung", "menu")
+_NAVIGATION_MARKERS = (
+    "trang chủ",
+    "đăng nhập",
+    "dịch vụ công",
+    "chuyển đến nội dung",
+    "menu",
+)
 
 
 @dataclass(frozen=True, slots=True)

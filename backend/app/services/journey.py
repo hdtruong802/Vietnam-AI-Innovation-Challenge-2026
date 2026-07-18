@@ -84,7 +84,9 @@ def _default_stages(pack: ProcedurePack) -> list[JourneyStageDefinition]:
     question_ids = [question.id for question in pack.intake_questions]
     return [
         JourneyStageDefinition(
-            id="procedure", title="Xác định thủ tục", description="Xác nhận thủ tục phù hợp."
+            id="procedure",
+            title="Xác định thủ tục",
+            description="Xác nhận thủ tục phù hợp.",
         ),
         JourneyStageDefinition(
             id="personal-information",

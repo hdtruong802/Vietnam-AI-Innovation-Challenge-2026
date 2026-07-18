@@ -21,6 +21,8 @@
 | `POST` | `/v1/intake/turn` | Một lượt intake stateless. |
 | `POST` | `/v1/procedures/{procedure_id}/checklist` | Checklist, steps và form schema. |
 | `POST` | `/v1/applications/validate` | Deterministic pre-check. |
+| `GET`, `POST` | `/v1/rag/search` | Tìm evidence approved/deterministic cho demo; không có hit thì fail closed. |
+| `GET`, `POST` | `/v1/rag/answer` | Diễn giải grounded từ evidence; thiếu evidence/key hoặc provider lỗi thì `official_review_required`. |
 
 `POST /v1/intake/turn` nhận `session_id`, `message` tối đa 500 ký tự và optional `session_context`. Không gửi `messages[]` hay transcript đầy đủ.
 
@@ -30,7 +32,7 @@
 
 ## Prototype flow read models (D-013)
 
-Không thêm route mới. Frontend dùng sáu route hiện hữu, sau đó render các trường additive bên dưới nếu chúng xuất hiện trong response.
+Frontend dùng sáu route guided-intake/pre-check và hai route RAG additive. Các route RAG chỉ trả evidence hoặc diễn giải grounded có citation; chúng không thay deterministic validation, trust state hay official review.
 
 ### Intake turn
 

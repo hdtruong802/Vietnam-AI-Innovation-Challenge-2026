@@ -51,7 +51,8 @@ def test_recommend_procedure_top1(query_text, expected_procedure_id):
 def test_retrieve_returns_grounded_evidence_with_citations():
     evidence = RetrievalService.retrieve(
         RetrievalQuery(
-            text="giấy chứng sinh thủ tục đăng ký khai sinh", procedure_id="dang-ky-khai-sinh"
+            text="giấy chứng sinh thủ tục đăng ký khai sinh",
+            procedure_id="dang-ky-khai-sinh",
         )
     )
 

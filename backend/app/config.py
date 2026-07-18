@@ -4,7 +4,7 @@ from functools import lru_cache
 from pathlib import Path
 from typing import Literal
 
-from pydantic import Field
+from pydantic import AliasChoices, Field
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 BACKEND_ROOT = Path(__file__).resolve().parent.parent
@@ -27,26 +27,28 @@ class Settings(BaseSettings):
     rate_limit_enabled: bool = False
     rate_limit_requests: int = Field(default=60, ge=1, le=10_000)
     rate_limit_window_seconds: int = Field(default=60, ge=1, le=3_600)
-
-    # --- AI / LLM Gateway (provider-neutral, xem docs/proposal.md muc 5 va D-006) ---
-    # De trong ai_api_key khi demo offline: LLMGateway se fallback deterministic,
-    # khong goi model va khong bia noi dung quy pham.
     ai_provider: str = ""
-    ai_model: str = "gpt-4o-mini"
-    ai_api_key: str = ""
-    ai_base_url: str | None = None
-    ai_timeout_seconds: float = Field(default=8.0, gt=0)
-
-    # --- RAG / Knowledge (in-process, xem D-006) ---
+    ai_model: str = Field(
+        default="gpt-4o-mini", validation_alias=AliasChoices("AI_MODEL", "OPENAI_MODEL")
+    )
+    ai_api_key: str = Field(
+        default="", validation_alias=AliasChoices("AI_API_KEY", "OPENAI_API_KEY")
+    )
+    ai_base_url: str | None = Field(
+        default=None, validation_alias=AliasChoices("AI_BASE_URL", "OPENAI_BASE_URL")
+    )
+    ai_timeout_seconds: float = Field(
+        default=8.0,
+        gt=0,
+        validation_alias=AliasChoices("AI_TIMEOUT_SECONDS", "OPENAI_TIMEOUT_SECONDS"),
+    )
     rag_source_dir: str = DEFAULT_RAG_SOURCE_DIR
     rag_source_freeze_date: str = "2026-07-17"
     rag_top_k: int = Field(default=5, ge=1, le=50)
     rag_min_confidence: float = Field(default=0.12, ge=0, le=1)
-
-    # --- Guardrail / PII Guard (session-scoped, in-memory, xem D-006) ---
     pii_token_ttl_seconds: int = Field(default=1_800, ge=1)
 
-    model_config = SettingsConfigDict(env_file=".env", extra="ignore")
+    model_config = SettingsConfigDict(env_file=".env", extra="ignore", populate_by_name=True)
 
     @property
     def allowed_origins(self) -> list[str]:
@@ -60,3 +62,12 @@ class Settings(BaseSettings):
 @lru_cache
 def get_settings() -> Settings:
     return Settings()
+
+
+# Compatibility exports for the additive RAG/LLM modules from `dev`.
+_settings = get_settings()
+ALLOWED_ORIGINS = _settings.allowed_origins
+OPENAI_API_KEY = _settings.ai_api_key
+OPENAI_MODEL = _settings.ai_model
+OPENAI_BASE_URL = _settings.ai_base_url or ""
+OPENAI_TIMEOUT_SECONDS = _settings.ai_timeout_seconds

@@ -11,7 +11,12 @@ from app.models.common import (
     SessionContext,
     StrictRequestModel,
 )
-from app.models.procedure import ChecklistItem, FormSection, ProcedureCard, ProcedureStep
+from app.models.procedure import (
+    ChecklistItem,
+    FormSection,
+    ProcedureCard,
+    ProcedureStep,
+)
 
 
 class ChecklistRequest(StrictRequestModel):

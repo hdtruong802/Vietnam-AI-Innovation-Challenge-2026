@@ -5,7 +5,12 @@ import unicodedata
 from datetime import date
 
 from app.catalog import CANONICAL_PROCEDURES
-from app.models.common import Citation, ClarifyingQuestion, FindingSeverity, SessionContext
+from app.models.common import (
+    Citation,
+    ClarifyingQuestion,
+    FindingSeverity,
+    SessionContext,
+)
 from app.models.procedure import (
     ChecklistItem,
     ProcedureCandidate,

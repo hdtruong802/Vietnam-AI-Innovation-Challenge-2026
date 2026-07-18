@@ -88,7 +88,13 @@ def _parse_freeze_date() -> date:
 
 def _record_checksum(record: SourceRecord) -> str:
     payload = "|".join(
-        [record.file_name, record.name, record.documents, record.steps, record.legal_basis_raw]
+        [
+            record.file_name,
+            record.name,
+            record.documents,
+            record.steps,
+            record.legal_basis_raw,
+        ]
     )
     return hashlib.sha256(payload.encode("utf-8")).hexdigest()[:16]
 
@@ -98,7 +104,9 @@ def _primary_citation(record: SourceRecord) -> Citation:
         entry = record.legal_basis[0]
         ref_id = (entry.get("ref_code") or entry["title"])[:120]
         return Citation(
-            ref_id=ref_id, title=entry["title"][:240], url_or_ref="https://dichvucong.gov.vn"
+            ref_id=ref_id,
+            title=entry["title"][:240],
+            url_or_ref="https://dichvucong.gov.vn",
         )
     ref_id = (record.procedure_code or record.decision_no or record.file_name)[:120]
     return Citation(ref_id=ref_id, title=record.name[:240], url_or_ref="https://dichvucong.gov.vn")
@@ -219,7 +227,11 @@ _BIRTH_FORM_SCHEMA = {
     "type": "object",
     "properties": {
         "ho_ten_tre": {"type": "string", "title": "Họ và tên trẻ", "minLength": 2},
-        "ngay_sinh_tre": {"type": "string", "title": "Ngày sinh của trẻ", "format": "date"},
+        "ngay_sinh_tre": {
+            "type": "string",
+            "title": "Ngày sinh của trẻ",
+            "format": "date",
+        },
         "ho_ten_cha": {"type": "string", "title": "Họ và tên cha"},
         "ho_ten_me": {"type": "string", "title": "Họ và tên mẹ"},
     },

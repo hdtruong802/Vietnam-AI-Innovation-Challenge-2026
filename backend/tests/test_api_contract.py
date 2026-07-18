@@ -87,7 +87,10 @@ def test_recommend_and_intake_support_accented_vietnamese(client: TestClient) ->
     )
     intake = client.post(
         "/v1/intake/turn",
-        json={"session_id": "synthetic-session", "message": "Tôi muốn đăng ký thường trú"},
+        json={
+            "session_id": "synthetic-session",
+            "message": "Tôi muốn đăng ký thường trú",
+        },
     )
 
     assert recommend.status_code == 200
@@ -118,7 +121,9 @@ def test_fixture_checklist_and_precheck_fail_closed(client: TestClient) -> None:
     assert validation.json()["trust_state"] == "official_review_required"
 
 
-def test_unknown_procedure_and_invalid_body_use_safe_error_envelope(client: TestClient) -> None:
+def test_unknown_procedure_and_invalid_body_use_safe_error_envelope(
+    client: TestClient,
+) -> None:
     unknown = client.post(
         "/v1/applications/validate",
         json={"procedure_id": "unknown", "form_data": {}},
@@ -230,7 +235,9 @@ def test_prototype_intake_actions_return_stateless_journey_read_models() -> None
     assert checklist.json()["journey"]["steps"][0]["status"] == "complete"
 
 
-def test_intake_rejects_unknown_fields_and_non_pending_answers(client: TestClient) -> None:
+def test_intake_rejects_unknown_fields_and_non_pending_answers(
+    client: TestClient,
+) -> None:
     unknown_field = client.post(
         "/v1/procedures/recommend",
         json={"need_text": "khai sinh", "unexpected": "not accepted"},
@@ -252,16 +259,19 @@ def test_intake_rejects_unknown_fields_and_non_pending_answers(client: TestClien
     assert non_pending.json()["error"]["code"] == "clarification_question_not_pending"
 
 
-def test_openapi_exposes_exactly_six_public_routes(client: TestClient) -> None:
+def test_openapi_exposes_base_and_rag_public_routes(client: TestClient) -> None:
     paths = client.get("/openapi.json").json()["paths"]
 
     assert set(paths) == {
+        "/",
         "/health",
         "/v1/procedures",
         "/v1/procedures/{procedure_id}/checklist",
         "/v1/procedures/recommend",
         "/v1/intake/turn",
         "/v1/applications/validate",
+        "/v1/rag/search",
+        "/v1/rag/answer",
     }
 
 
@@ -288,7 +298,10 @@ def test_production_disabled_is_degraded_and_never_exposes_fixture_data() -> Non
     )
     intake = production_client.post(
         "/v1/intake/turn",
-        json={"session_id": "production-disabled-test", "message": "Tôi muốn đăng ký khai sinh"},
+        json={
+            "session_id": "production-disabled-test",
+            "message": "Tôi muốn đăng ký khai sinh",
+        },
     )
     checklist = production_client.post(
         "/v1/procedures/dang-ky-khai-sinh/checklist",

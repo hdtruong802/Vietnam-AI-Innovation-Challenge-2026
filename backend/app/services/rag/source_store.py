@@ -172,7 +172,9 @@ def parse_source_file(path: Path) -> Optional[SourceRecord]:
 
 
 @lru_cache(maxsize=1)
-def load_approved_records(source_dir: Optional[str] = None) -> Dict[str, List[SourceRecord]]:
+def load_approved_records(
+    source_dir: Optional[str] = None,
+) -> Dict[str, List[SourceRecord]]:
     """Nap va loc source theo allowlist. Ket qua duoc cache trong process
     (tuong duong 'Approved release' step trong RAG lifecycle) vi day la
     tap tin tinh, khong doi trong luc server chay.

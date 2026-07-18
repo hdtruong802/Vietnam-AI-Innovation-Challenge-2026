@@ -13,7 +13,7 @@ from app.dependencies import AppContainer, build_container
 from app.models.common import APIError, ErrorEnvelope
 from app.models.errors import AppError
 from app.rate_limit import InMemoryRateLimiter
-from app.routers import health, intake, procedures, validation
+from app.routers import health, intake, procedures, rag, validation
 
 
 def _error_response(
@@ -116,10 +116,20 @@ def create_app(settings: Settings | None = None, container: AppContainer | None 
         )
         return _error_response(request, exc.status_code, code, message)
 
+    @app.get("/")
+    def root() -> dict[str, str]:
+        return {
+            "service": "AI Procedure Copilot API",
+            "status": "ok",
+            "docs": "/docs",
+            "health": "/health",
+        }
+
     app.include_router(health.router)
     app.include_router(procedures.router)
     app.include_router(intake.router)
     app.include_router(validation.router)
+    app.include_router(rag.router)
     return app
 
 

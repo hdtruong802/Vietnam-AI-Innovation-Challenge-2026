@@ -65,7 +65,13 @@ def main(argv: list[str] | None = None) -> int:
         f"quarantined={registry.quarantined_count} status={result.status} "
         f"reason={result.reason or 'none'} hits={len(result.hits)}"
     )
-    return 0 if result.status == "blocked" and result.reason == "official_review_required" else 1
+    if registry.approved_count == 0:
+        return (
+            0
+            if result.status == "blocked" and result.reason == "official_review_required"
+            else 1
+        )
+    return 0 if result.status == "ok" and result.hits else 1
 
 
 if __name__ == "__main__":

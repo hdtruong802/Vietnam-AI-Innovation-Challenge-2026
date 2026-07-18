@@ -4,7 +4,13 @@ import uuid
 
 from app.catalog import CANONICAL_PROCEDURES, is_known_procedure
 from app.models.checklist import ChecklistRequest, ChecklistResponse
-from app.models.common import IntakeTurnType, NextAction, ReviewGate, SessionContext, TrustState
+from app.models.common import (
+    IntakeTurnType,
+    NextAction,
+    ReviewGate,
+    SessionContext,
+    TrustState,
+)
 from app.models.errors import AppError
 from app.models.intake import (
     IntakeRequest,
@@ -21,7 +27,11 @@ from app.ports import (
     RecommendationProvider,
     RetrievalProvider,
 )
-from app.services.journey import build_confirmed_facts, build_journey, build_procedure_card
+from app.services.journey import (
+    build_confirmed_facts,
+    build_journey,
+    build_procedure_card,
+)
 from app.services.rule_engine import RuleEngine
 from app.services.trust_policy import TrustPolicy
 
@@ -116,7 +126,9 @@ class CopilotService:
         ]
         if metadata.trust_state == TrustState.VERIFIED_GUIDANCE and missing_questions:
             metadata = self._trust_policy.metadata_for(
-                pack, ReviewGate.U1_PROCEDURE_CONFIRMATION, TrustState.NEED_MORE_INFORMATION
+                pack,
+                ReviewGate.U1_PROCEDURE_CONFIRMATION,
+                TrustState.NEED_MORE_INFORMATION,
             )
 
         verified = metadata.trust_state == TrustState.VERIFIED_GUIDANCE
@@ -218,7 +230,12 @@ class CopilotService:
             request.session_context, candidate.procedure_id if candidate else None, pack
         )
         return await self._build_intake_response(
-            request, recommendation, candidate, pack, context, recommendation.clarifying_questions
+            request,
+            recommendation,
+            candidate,
+            pack,
+            context,
+            recommendation.clarifying_questions,
         )
 
     async def _intake_selection(self, request: IntakeRequest) -> IntakeResponse:
@@ -249,7 +266,12 @@ class CopilotService:
             ),
         )
         return await self._build_intake_response(
-            request, recommendation, candidate, pack, context, recommendation.clarifying_questions
+            request,
+            recommendation,
+            candidate,
+            pack,
+            context,
+            recommendation.clarifying_questions,
         )
 
     async def _intake_answer(self, request: IntakeRequest) -> IntakeResponse:
@@ -393,7 +415,7 @@ class CopilotService:
         return context.model_copy(
             update={
                 "procedure_id": procedure_id,
-                "procedure_version": pack.version if pack else context.procedure_version,
+                "procedure_version": (pack.version if pack else context.procedure_version),
                 "clarification_answers": merged_answers,
                 "pending_question_ids": pending,
             }

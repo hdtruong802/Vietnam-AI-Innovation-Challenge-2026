@@ -61,7 +61,9 @@ class ParserTests(unittest.TestCase):
             "fixture-2",
         )
         self.assertEqual(["authority", "authority"], [s.section_type for s in sections])
-        self.assertEqual([(1, 1), (2, 2)], [(s.start_line, s.end_line) for s in sections])
+        self.assertEqual(
+            [(1, 1), (2, 2)], [(s.start_line, s.end_line) for s in sections]
+        )
 
 
 if __name__ == "__main__":
