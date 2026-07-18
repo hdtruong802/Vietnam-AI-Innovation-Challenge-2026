@@ -222,6 +222,10 @@ export interface FeedbackEntry {
 
 export interface ProcedureCaseState {
   flow: FlowState;
+  // Last flow value that was not "degraded"/"official_review_required".
+  // Overlay states use this to keep the progress rail/right pane on the
+  // stage the user was actually at, instead of regressing to step 1.
+  lastStableFlow: FlowState;
   availability: AvailabilityState;
   sessionId: string;
   sessionContext: SessionContext;
@@ -250,4 +254,5 @@ export type PersistedProcedureCaseState = Pick<
   | "formDraft"
   | "lastValidationResponse"
   | "flow"
+  | "lastStableFlow"
 >;

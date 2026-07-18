@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { FEEDBACK_NOTE_MAX_LENGTH, FEEDBACK_REASONS } from "../procedureCase.constants";
 import type { FeedbackContext, FeedbackReasonCode } from "../procedureCase.types";
+import { ThumbsDownIcon, ThumbsUpIcon } from "../icons";
 
 interface FeedbackControlsProps {
   context: FeedbackContext;
@@ -17,7 +18,7 @@ export default function FeedbackControls({ context, onSubmit }: FeedbackControls
 
   if (submitted) {
     return (
-      <p className="text-[10px] font-semibold text-foreground/50">Cảm ơn bạn đã gửi phản hồi.</p>
+      <p className="text-[10px] font-semibold text-[var(--vg-text-muted)]">Cảm ơn bạn đã gửi phản hồi.</p>
     );
   }
 
@@ -37,26 +38,26 @@ export default function FeedbackControls({ context, onSubmit }: FeedbackControls
   };
 
   return (
-    <div className="space-y-2 pt-2 border-t border-border-slate/60">
+    <div className="space-y-2 pt-2 border-t border-[var(--vg-border)]">
       <div className="flex items-center gap-2">
-        <span className="text-[10px] font-bold text-foreground/50 uppercase tracking-wide">
+        <span className="text-[10px] font-bold text-[var(--vg-text-muted)] uppercase tracking-wide">
           {context === "checklist" ? "Checklist này có hữu ích không?" : "Kết quả tiền kiểm này có hữu ích không?"}
         </span>
         <button
           type="button"
           onClick={() => handleVote("up")}
           aria-label="Hữu ích"
-          className="px-2 py-1 rounded-lg border border-border-slate hover:border-accent hover:bg-neutral-bg text-sm focus-visible:ring-2 focus-visible:ring-accent outline-none"
+          className="p-1.5 rounded-lg border border-[var(--vg-border)] hover:border-[var(--vg-accent)] hover:bg-[var(--vg-surface-subtle)] focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none"
         >
-          👍
+          <ThumbsUpIcon className="w-3.5 h-3.5" />
         </button>
         <button
           type="button"
           onClick={() => handleVote("down")}
           aria-label="Không hữu ích"
-          className="px-2 py-1 rounded-lg border border-border-slate hover:border-accent hover:bg-neutral-bg text-sm focus-visible:ring-2 focus-visible:ring-accent outline-none"
+          className="p-1.5 rounded-lg border border-[var(--vg-border)] hover:border-[var(--vg-accent)] hover:bg-[var(--vg-surface-subtle)] focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none"
         >
-          👎
+          <ThumbsDownIcon className="w-3.5 h-3.5" />
         </button>
       </div>
 
@@ -70,8 +71,8 @@ export default function FeedbackControls({ context, onSubmit }: FeedbackControls
                 onClick={() => setReason(r.code)}
                 className={`px-2.5 py-1 rounded-full border text-[10px] font-semibold transition-all ${
                   reason === r.code
-                    ? "border-accent bg-accent/10 text-accent"
-                    : "border-border-slate text-foreground/60 hover:border-accent"
+                    ? "border-[var(--vg-accent)] bg-[var(--vg-accent-soft)] text-[var(--vg-accent)]"
+                    : "border-[var(--vg-border)] text-[var(--vg-text-muted)] hover:border-[var(--vg-accent)]"
                 }`}
               >
                 {r.label}
@@ -84,15 +85,15 @@ export default function FeedbackControls({ context, onSubmit }: FeedbackControls
             maxLength={FEEDBACK_NOTE_MAX_LENGTH}
             placeholder="Góp ý thêm (không bắt buộc)"
             rows={2}
-            className="w-full px-2.5 py-1.5 border border-border-slate bg-card-bg rounded-md text-[11px] focus:outline-none focus:border-accent"
+            className="w-full px-2.5 py-1.5 border border-[var(--vg-border)] bg-[var(--vg-surface)] rounded-md text-[11px] focus:outline-none focus:border-[var(--vg-accent)]"
           />
           <div className="flex items-center justify-between">
-            <span className="text-[9px] text-foreground/40">{note.length}/{FEEDBACK_NOTE_MAX_LENGTH}</span>
+            <span className="text-[9px] text-[var(--vg-text-muted)]">{note.length}/{FEEDBACK_NOTE_MAX_LENGTH}</span>
             <button
               type="button"
               onClick={handleSubmitDown}
               disabled={!reason}
-              className="px-3 py-1.5 bg-accent text-white text-[10px] font-bold rounded-md hover:bg-accent-hover transition-all disabled:opacity-50"
+              className="px-3 py-1.5 bg-[var(--vg-accent)] text-white text-[10px] font-bold rounded-md hover:bg-[var(--vg-accent-hover)] transition-all disabled:bg-zinc-200 disabled:text-zinc-400"
             >
               Gửi phản hồi
             </button>

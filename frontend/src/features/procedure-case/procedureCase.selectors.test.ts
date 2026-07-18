@@ -3,11 +3,13 @@ import { createInitialState } from "./procedureCaseReducer";
 import {
   resolveCitations,
   selectAvailabilityBanner,
+  selectCanRenderForm,
   selectCanRunPrecheck,
   selectGroupedChecklist,
-  selectStepperProgress,
+  selectProgressStage,
+  selectRightPaneMode,
 } from "./procedureCase.selectors";
-import type { ChecklistResponse, ProcedureCaseState } from "./procedureCase.types";
+import type { ChecklistResponse, FlowState, ProcedureCaseState } from "./procedureCase.types";
 
 function checklistResponse(): ChecklistResponse {
   return {
@@ -57,18 +59,94 @@ describe("selectGroupedChecklist", () => {
   });
 });
 
-describe("selectStepperProgress", () => {
-  it("maps each flow state to a stage in the fixed 5-step, procedure-agnostic sequence", () => {
+describe("selectProgressStage", () => {
+  const EXPECTED_STAGE: Record<Exclude<FlowState, "degraded" | "official_review_required">, number> = {
+    idle: 1,
+    identifying_procedure: 1,
+    procedure_review: 1,
+    clarifying: 2,
+    checklist_loading: 3,
+    checklist_review: 3,
+    form_editing: 4,
+    validating: 5,
+    needs_fix: 5,
+    pass_preliminary: 6,
+  };
+
+  it("maps every non-overlay flow state to its stage in the 6-stage rail", () => {
     const base = createInitialState("s1");
-    expect(selectStepperProgress({ ...base, flow: "clarifying" })).toEqual({
-      current: 2,
-      total: 5,
-      label: "Làm rõ thông tin",
-    });
-    expect(selectStepperProgress({ ...base, flow: "checklist_review" }).current).toBe(3);
-    expect(selectStepperProgress({ ...base, flow: "form_editing" }).current).toBe(4);
-    expect(selectStepperProgress({ ...base, flow: "needs_fix" }).current).toBe(5);
-    expect(selectStepperProgress({ ...base, flow: "pass_preliminary" }).current).toBe(5);
+    for (const [flow, expectedId] of Object.entries(EXPECTED_STAGE) as [FlowState, number][]) {
+      expect(selectProgressStage({ ...base, flow, lastStableFlow: flow }).id, `flow=${flow}`).toBe(expectedId);
+      expect(selectProgressStage({ ...base, flow, lastStableFlow: flow }).total).toBe(6);
+    }
+  });
+
+  it("resolves degraded/official_review_required via lastStableFlow instead of regressing to stage 1", () => {
+    const base = createInitialState("s1");
+    // Regression case: a user mid form_editing whose backend goes
+    // unreachable must keep showing stage 4 ("Tờ khai"), not stage 1 —
+    // this is the fix for the stale-form-at-step-1 bug.
+    expect(
+      selectProgressStage({ ...base, flow: "degraded", lastStableFlow: "form_editing" }).id,
+    ).toBe(4);
+    expect(
+      selectProgressStage({ ...base, flow: "official_review_required", lastStableFlow: "validating" }).id,
+    ).toBe(5);
+  });
+});
+
+describe("selectRightPaneMode", () => {
+  const EXPECTED_MODE: Record<Exclude<FlowState, "degraded" | "official_review_required">, string> = {
+    idle: "empty",
+    identifying_procedure: "empty",
+    procedure_review: "procedure_review",
+    clarifying: "clarifying",
+    checklist_loading: "checklist_loading",
+    checklist_review: "checklist_review",
+    form_editing: "form",
+    validating: "form",
+    needs_fix: "form",
+    pass_preliminary: "form",
+  };
+
+  it("maps every non-overlay flow state to its exact right-pane mode", () => {
+    const base = createInitialState("s1");
+    for (const [flow, expectedMode] of Object.entries(EXPECTED_MODE) as [FlowState, string][]) {
+      expect(selectRightPaneMode({ ...base, flow, lastStableFlow: flow }).mode, `flow=${flow}`).toBe(expectedMode);
+    }
+  });
+
+  it("official_review_required always renders official_review regardless of checklist data", () => {
+    const state = { ...createInitialState("s1"), flow: "official_review_required" as const, checklist: checklistResponse() };
+    expect(selectRightPaneMode(state).mode).toBe("official_review");
+  });
+
+  it("degraded preserves the last stable pane mode and flags degraded:true", () => {
+    const state = {
+      ...createInitialState("s1"),
+      flow: "degraded" as const,
+      lastStableFlow: "form_editing" as const,
+      checklist: checklistResponse(),
+    };
+    const view = selectRightPaneMode(state);
+    expect(view.mode).toBe("form");
+    expect(view.degraded).toBe(true);
+  });
+
+  it("no-form-before-U2: checklist_review never renders the form pane even with a populated checklist", () => {
+    const state = { ...createInitialState("s1"), flow: "checklist_review" as const, checklist: checklistResponse() };
+    expect(selectRightPaneMode(state).mode).toBe("checklist_review");
+    expect(selectCanRenderForm(state)).toBe(false);
+  });
+
+  it("selectCanRenderForm is true only from form_editing onward", () => {
+    const base = createInitialState("s1");
+    for (const flow of ["form_editing", "validating", "needs_fix", "pass_preliminary"] as const) {
+      expect(selectCanRenderForm({ ...base, flow, lastStableFlow: flow }), `flow=${flow}`).toBe(true);
+    }
+    for (const flow of ["idle", "identifying_procedure", "procedure_review", "clarifying", "checklist_loading", "checklist_review"] as const) {
+      expect(selectCanRenderForm({ ...base, flow, lastStableFlow: flow }), `flow=${flow}`).toBe(false);
+    }
   });
 });
 

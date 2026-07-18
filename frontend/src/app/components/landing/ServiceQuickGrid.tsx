@@ -16,7 +16,7 @@ export default function ServiceQuickGrid({ onGoCopilot, onComingSoon }: ServiceQ
   ];
 
   return (
-    <section className="-mt-14 relative z-20 shrink-0">
+    <section className="-mt-[18px] relative z-20 shrink-0">
       <div className="portal-container bg-[#fffdf9] border border-border-slate rounded-2xl shadow-xl p-6 md:p-8 grid grid-cols-2 md:grid-cols-6 gap-6 md:gap-0 md:divide-x md:divide-border-slate/60 text-center">
         {items.map(({ icon: Icon, label, onClick }) => (
           <button

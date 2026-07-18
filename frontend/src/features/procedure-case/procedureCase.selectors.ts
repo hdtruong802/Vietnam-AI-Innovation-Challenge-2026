@@ -28,26 +28,96 @@ export function selectGroupedChecklist(state: ProcedureCaseState): GroupedCheckl
   return grouped;
 }
 
-const STAGE_LABELS: Record<FlowState, { step: number; label: string }> = {
-  idle: { step: 1, label: "Xác định thủ tục" },
-  identifying_procedure: { step: 1, label: "Xác định thủ tục" },
-  procedure_review: { step: 1, label: "Xác định thủ tục" },
-  clarifying: { step: 2, label: "Làm rõ thông tin" },
-  checklist_loading: { step: 3, label: "Checklist hồ sơ" },
-  checklist_review: { step: 3, label: "Checklist hồ sơ" },
-  form_editing: { step: 4, label: "Điền tờ khai" },
-  validating: { step: 5, label: "Kiểm tra sơ bộ" },
-  needs_fix: { step: 5, label: "Kiểm tra sơ bộ" },
-  pass_preliminary: { step: 5, label: "Kiểm tra sơ bộ" },
-  official_review_required: { step: 5, label: "Kiểm tra sơ bộ" },
-  degraded: { step: 1, label: "Xác định thủ tục" },
+// FlowState values that are cross-cutting overlays (can interrupt either
+// capability, not a stage of their own) — excluded from the stage/pane
+// tables below and resolved via state.lastStableFlow instead.
+type StableFlowState = Exclude<FlowState, "degraded" | "official_review_required">;
+
+export interface ProgressStage {
+  id: 1 | 2 | 3 | 4 | 5 | 6;
+  label: string;
+}
+
+const PROGRESS_STAGES: Record<StableFlowState, ProgressStage> = {
+  idle: { id: 1, label: "Nhu cầu" },
+  identifying_procedure: { id: 1, label: "Nhu cầu" },
+  procedure_review: { id: 1, label: "Nhu cầu" },
+  clarifying: { id: 2, label: "Điều kiện" },
+  checklist_loading: { id: 3, label: "Giấy tờ" },
+  checklist_review: { id: 3, label: "Giấy tờ" },
+  form_editing: { id: 4, label: "Tờ khai" },
+  validating: { id: 5, label: "Kiểm tra" },
+  needs_fix: { id: 5, label: "Kiểm tra" },
+  pass_preliminary: { id: 6, label: "Hoàn tất" },
 };
 
-export const STEPPER_TOTAL_STEPS = 5;
+export const PROGRESS_STAGE_COUNT = 6;
 
-export function selectStepperProgress(state: ProcedureCaseState): { current: number; total: number; label: string } {
-  const { step, label } = STAGE_LABELS[state.flow];
-  return { current: step, total: STEPPER_TOTAL_STEPS, label };
+/**
+ * Progress-rail stage. degraded/official_review_required are overlays, not
+ * stages: they resolve through lastStableFlow so the rail doesn't regress to
+ * step 1 while the user's real in-progress data (checklist/form) is still
+ * on screen — this is the fix for the stale-form-at-step-1 regression.
+ */
+export function selectProgressStage(state: ProcedureCaseState): ProgressStage & { total: number } {
+  const flow: StableFlowState =
+    state.flow === "degraded" || state.flow === "official_review_required"
+      ? (state.lastStableFlow as StableFlowState)
+      : (state.flow as StableFlowState);
+  return { ...(PROGRESS_STAGES[flow] ?? PROGRESS_STAGES.idle), total: PROGRESS_STAGE_COUNT };
+}
+
+export type RightPaneMode =
+  | "empty"
+  | "procedure_review"
+  | "clarifying"
+  | "checklist_loading"
+  | "checklist_review"
+  | "form"
+  | "official_review";
+
+const RIGHT_PANE_MODES: Record<StableFlowState, RightPaneMode> = {
+  idle: "empty",
+  identifying_procedure: "empty",
+  procedure_review: "procedure_review",
+  clarifying: "clarifying",
+  checklist_loading: "checklist_loading",
+  checklist_review: "checklist_review",
+  form_editing: "form",
+  validating: "form",
+  needs_fix: "form",
+  pass_preliminary: "form",
+};
+
+export interface RightPaneView {
+  mode: RightPaneMode;
+  /** true when the current flow is the "degraded" overlay on top of `mode`. */
+  degraded: boolean;
+}
+
+/**
+ * Explicit allow-list of which right-pane mode each FlowState renders.
+ * Deliberately does NOT branch on `state.checklist` truthiness: checklist
+ * data already exists during checklist_review (before U2), so a
+ * checklist-truthy check would leak the form pane one step early.
+ */
+export function selectRightPaneMode(state: ProcedureCaseState): RightPaneView {
+  if (state.flow === "official_review_required") return { mode: "official_review", degraded: false };
+  if (state.flow === "degraded") {
+    const stableMode = RIGHT_PANE_MODES[state.lastStableFlow as StableFlowState] ?? "empty";
+    return { mode: stableMode, degraded: true };
+  }
+  return { mode: RIGHT_PANE_MODES[state.flow as StableFlowState], degraded: false };
+}
+
+/** Form must never render before U2 confirmation (flow >= form_editing). */
+export function selectCanRenderForm(state: ProcedureCaseState): boolean {
+  return selectRightPaneMode(state).mode === "form";
+}
+
+/** Precheck panel is only mounted once the form pane itself is mounted. */
+export function selectCanRenderPrecheck(state: ProcedureCaseState): boolean {
+  return selectRightPaneMode(state).mode === "form";
 }
 
 export function selectChecklistCounts(state: ProcedureCaseState) {

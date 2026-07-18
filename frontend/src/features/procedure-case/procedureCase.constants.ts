@@ -23,9 +23,24 @@ export const FEEDBACK_REASONS: { code: FeedbackReasonCode; label: string }[] = [
 ];
 
 export const STATIC_PROCEDURES = [
-  { procedure_id: "dang-ky-khai-sinh", label: "👶 Đăng ký khai sinh" },
-  { procedure_id: "dang-ky-thuong-tru", label: "🏠 Đăng ký thường trú" },
-  { procedure_id: "dang-ky-ho-kinh-doanh", label: "💼 Đăng ký thành lập hộ kinh doanh" },
+  {
+    procedure_id: "dang-ky-khai-sinh",
+    label: "Đăng ký khai sinh",
+    description: "Thủ tục đăng ký khai sinh cho trẻ em",
+    icon: "birth",
+  },
+  {
+    procedure_id: "dang-ky-thuong-tru",
+    label: "Đăng ký thường trú",
+    description: "Thủ tục đăng ký thường trú tại nơi cư trú",
+    icon: "residence",
+  },
+  {
+    procedure_id: "dang-ky-ho-kinh-doanh",
+    label: "Đăng ký thành lập hộ kinh doanh",
+    description: "Thủ tục đăng ký thành lập hộ kinh doanh",
+    icon: "business",
+  },
 ] as const;
 
 export const GUIDANCE_DISCLAIMER =

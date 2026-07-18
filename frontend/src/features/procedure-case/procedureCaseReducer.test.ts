@@ -263,6 +263,64 @@ describe("procedureCaseReducer — needs_fix to validating re-run loop", () => {
   });
 });
 
+describe("procedureCaseReducer — lastStableFlow preservation", () => {
+  it("keeps lastStableFlow and in-progress data intact when a health check fails mid form_editing", () => {
+    let state = procedureCaseReducer(createInitialState("s1"), {
+      type: "CHECKLIST_RESPONSE_RECEIVED",
+      response: checklistResponse(),
+    });
+    state = procedureCaseReducer(state, { type: "CONFIRM_U2" });
+    state = procedureCaseReducer(state, { type: "UPDATE_FORM_FIELD", key: "child_name", value: "An" });
+    expect(state.flow).toBe("form_editing");
+    expect(state.lastStableFlow).toBe("form_editing");
+
+    state = procedureCaseReducer(state, { type: "HEALTH_CHECK_RESULT", ok: false });
+
+    expect(state.flow).toBe("degraded");
+    // Regression guard: the reducer must not wipe real user data on a
+    // transient outage — only the presentation layer (selectors) should
+    // react to `degraded`, via lastStableFlow.
+    expect(state.lastStableFlow).toBe("form_editing");
+    expect(state.checklist).not.toBeNull();
+    expect(state.formDraft).toEqual({ child_name: "An" });
+  });
+
+  it("updates lastStableFlow on every non-overlay transition", () => {
+    let state = procedureCaseReducer(createInitialState("s1"), {
+      type: "INTAKE_RESPONSE_RECEIVED",
+      response: intakeResponse(),
+    });
+    expect(state.lastStableFlow).toBe("procedure_review");
+    state = procedureCaseReducer(state, { type: "CONFIRM_U1" });
+    expect(state.lastStableFlow).toBe("clarifying");
+  });
+
+  it("official_review_required does not overwrite lastStableFlow either", () => {
+    const state = procedureCaseReducer(
+      { ...createInitialState("s1"), flow: "form_editing", lastStableFlow: "form_editing" },
+      {
+        type: "VALIDATION_RESPONSE_RECEIVED",
+        response: validationResponse({ trust_state: "official_review_required", verdict: null }),
+      },
+    );
+    expect(state.flow).toBe("official_review_required");
+    expect(state.lastStableFlow).toBe("form_editing");
+  });
+
+  it("a healthy reconnect clears degraded and lastStableFlow already reflects the resumed stage", () => {
+    let state = procedureCaseReducer(createInitialState("s1"), {
+      type: "CHECKLIST_RESPONSE_RECEIVED",
+      response: checklistResponse(),
+    });
+    state = procedureCaseReducer(state, { type: "CONFIRM_U2" });
+    state = procedureCaseReducer(state, { type: "HEALTH_CHECK_RESULT", ok: false });
+    expect(state.flow).toBe("degraded");
+    state = procedureCaseReducer(state, { type: "HEALTH_CHECK_RESULT", ok: true });
+    expect(state.flow).toBe("form_editing");
+    expect(state.lastStableFlow).toBe("form_editing");
+  });
+});
+
 describe("procedureCaseReducer — session reset", () => {
   it("RESET_SESSION returns a fresh initial state with a new session id", () => {
     let state = procedureCaseReducer(createInitialState("s1"), {

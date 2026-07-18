@@ -134,6 +134,39 @@ body {
   margin-inline: auto;
 }
 
+/* VNGov Copilot workspace scope — warm civic palette (light-theme only for
+   this hackathon). Scoped under .copilot-workspace, kept separate from
+   :root/@theme tokens and from .portal-home so neither surface repoints the
+   other. */
+.copilot-workspace {
+  --vg-canvas: #FBF8F2;
+  --vg-surface: #FFFDF9;
+  --vg-surface-subtle: #F7F1E9;
+
+  --vg-border: #E8D9CB;
+  --vg-border-strong: #D5C1AF;
+
+  --vg-text: #25201C;
+  --vg-text-secondary: #655B53;
+  --vg-text-muted: #8A817A;
+
+  --vg-accent: #B52B23;
+  --vg-accent-hover: #962018;
+  --vg-accent-soft: #FCEDEA;
+
+  --vg-gold: #D8942F;
+  --vg-gold-soft: #FFF1DB;
+
+  --vg-success: #23865F;
+  --vg-success-soft: #EAF6F0;
+
+  --vg-warning: #B46E15;
+  --vg-warning-soft: #FFF4DF;
+
+  --vg-error: #C63D36;
+  --vg-error-soft: #FCECEA;
+}
+
 @media (max-width: 640px) {
   .portal-container {
     width: calc(100% - 32px);

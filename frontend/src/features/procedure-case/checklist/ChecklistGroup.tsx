@@ -15,7 +15,7 @@ export default function ChecklistGroup({ title, items, sourceRefs, activeField }
 
   return (
     <div>
-      <h3 className="text-xs font-bold text-zinc-400 uppercase tracking-wider mb-2">
+      <h3 className="text-xs font-bold text-[var(--vg-text-muted)] uppercase tracking-wider mb-2">
         {title} ({items.length})
       </h3>
       <div className="space-y-3">

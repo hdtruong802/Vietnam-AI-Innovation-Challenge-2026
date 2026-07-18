@@ -1,6 +1,7 @@
 "use client";
 
 import type { Finding, FormFieldValue, FormSchemaProperty } from "../procedureCase.types";
+import { AlertTriangleIcon, InfoCircleIcon } from "../icons";
 
 interface FormFieldRendererProps {
   fieldKey: string;
@@ -33,8 +34,8 @@ export default function FormFieldRenderer({
     "aria-required": isRequired,
     "aria-invalid": hasError,
     "aria-describedby": finding ? errorId : undefined,
-    className: `px-3 py-2 border rounded-lg text-xs transition-all focus:outline-none focus:border-accent focus-visible:ring-2 focus-visible:ring-accent ${
-      hasError ? "border-error bg-error-bg/10" : "border-border-slate bg-card-bg text-foreground"
+    className: `px-3 py-2 border rounded-lg text-xs transition-all focus:outline-none focus:border-[var(--vg-accent)] focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] ${
+      hasError ? "border-[var(--vg-error)] bg-[var(--vg-error-soft)]" : "border-[var(--vg-border)] bg-[var(--vg-surface)] text-[var(--vg-text)]"
     }`,
   };
 
@@ -81,16 +82,17 @@ export default function FormFieldRenderer({
 
   return (
     <div className="flex flex-col text-left">
-      <label htmlFor={inputId} className="text-[11px] font-bold text-primary mb-1">
-        {property.title} {isRequired && <span className="text-error">*</span>}
+      <label htmlFor={inputId} className="text-[11px] font-bold text-[var(--vg-text)] mb-1">
+        {property.title} {isRequired && <span className="text-[var(--vg-error)]">*</span>}
       </label>
       {control}
       {finding && (
         <span
           id={errorId}
-          className={`text-[10px] font-bold mt-0.5 ${hasError ? "text-error" : "text-warning"}`}
+          className={`inline-flex items-center gap-1 text-[10px] font-bold mt-0.5 ${hasError ? "text-[var(--vg-error)]" : "text-[var(--vg-warning)]"}`}
         >
-          {hasError ? "⚠️" : "ℹ️"} {finding.message}
+          {hasError ? <AlertTriangleIcon className="w-3 h-3 shrink-0" /> : <InfoCircleIcon className="w-3 h-3 shrink-0" />}
+          {finding.message}
         </span>
       )}
     </div>

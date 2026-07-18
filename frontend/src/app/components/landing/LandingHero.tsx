@@ -10,7 +10,7 @@ interface LandingHeroProps {
 
 export default function LandingHero({ searchQuery, onSearchQueryChange, onSearchSubmit }: LandingHeroProps) {
   return (
-    <section className="relative min-h-[430px] md:min-h-[460px] flex items-center py-12 md:py-16 overflow-hidden shrink-0 bg-gradient-to-r from-[#263417] via-[#3e4b1d] to-[#af7610]">
+    <section className="relative min-h-[490px] md:min-h-[520px] flex items-center py-12 md:py-16 overflow-hidden shrink-0 bg-gradient-to-r from-[#263417] via-[#3e4b1d] to-[#af7610]">
       <Image
         src={trongDong}
         alt=""
@@ -24,7 +24,7 @@ export default function LandingHero({ searchQuery, onSearchQueryChange, onSearch
       <Image
         src={hoaSen}
         alt=""
-        className="absolute z-20 bottom-0 left-0 w-full h-[110px] md:h-[150px] object-cover object-bottom pointer-events-none select-none"
+        className="absolute z-20 bottom-0 left-0 w-full h-auto object-contain object-bottom pointer-events-none select-none"
       />
 
       <div className="portal-container relative z-30">

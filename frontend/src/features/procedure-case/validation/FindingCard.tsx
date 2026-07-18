@@ -2,11 +2,24 @@
 
 import { useState } from "react";
 import type { Finding } from "../procedureCase.types";
+import { AlertCircleIcon, AlertTriangleIcon, InfoCircleIcon } from "../icons";
 
-const SEVERITY_STYLE: Record<Finding["severity"], { icon: string; className: string; label: string }> = {
-  error: { icon: "⚠️", className: "border-error-border bg-error-bg/10 text-error", label: "LỖI" },
-  warning: { icon: "❗", className: "border-warning-border bg-warning-bg/10 text-warning", label: "CẢNH BÁO" },
-  info: { icon: "ℹ️", className: "border-border-slate bg-neutral-bg text-primary", label: "THÔNG TIN" },
+const SEVERITY_STYLE: Record<Finding["severity"], { Icon: typeof AlertTriangleIcon; className: string; label: string }> = {
+  error: {
+    Icon: AlertTriangleIcon,
+    className: "border-[var(--vg-error)]/30 bg-[var(--vg-error-soft)] text-[var(--vg-error)]",
+    label: "LỖI",
+  },
+  warning: {
+    Icon: AlertCircleIcon,
+    className: "border-[var(--vg-warning)]/30 bg-[var(--vg-warning-soft)] text-[var(--vg-warning)]",
+    label: "CẢNH BÁO",
+  },
+  info: {
+    Icon: InfoCircleIcon,
+    className: "border-[var(--vg-border)] bg-[var(--vg-surface-subtle)] text-[var(--vg-text)]",
+    label: "THÔNG TIN",
+  },
 };
 
 interface FindingCardProps {
@@ -21,7 +34,7 @@ export default function FindingCard({ finding }: FindingCardProps) {
     <div className={`p-3.5 border rounded-lg ${style.className}`}>
       <div className="flex items-start justify-between gap-2">
         <h5 className="text-xs font-bold flex items-center gap-1.5">
-          <span aria-hidden="true">{style.icon}</span>
+          <style.Icon className="w-3.5 h-3.5 shrink-0" />
           {finding.field_id ?? "Chung"}
         </h5>
         <span className="shrink-0 text-[9px] font-bold uppercase tracking-wide opacity-70">{style.label}</span>
@@ -35,7 +48,7 @@ export default function FindingCard({ finding }: FindingCardProps) {
             type="button"
             onClick={() => setShowFix((v) => !v)}
             aria-expanded={showFix}
-            className="text-[10px] font-bold underline hover:no-underline focus-visible:ring-2 focus-visible:ring-accent rounded outline-none"
+            className="text-[10px] font-bold underline hover:no-underline focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] rounded outline-none"
           >
             Xem cách sửa
           </button>

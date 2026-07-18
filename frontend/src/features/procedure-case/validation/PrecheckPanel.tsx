@@ -26,22 +26,22 @@ export default function PrecheckPanel({
   onFeedback,
 }: PrecheckPanelProps) {
   return (
-    <div className="bg-card-bg border border-border-slate rounded-xl p-5 shadow-sm space-y-4 text-left">
+    <div className="bg-[var(--vg-surface)] border border-[var(--vg-border)] rounded-xl p-5 space-y-4 text-left">
       <div className="flex justify-between items-center">
-        <h3 className="text-xs font-bold text-primary uppercase tracking-wider">Kiểm tra sơ bộ (U3)</h3>
+        <h3 className="text-xs font-bold text-[var(--vg-text)] uppercase tracking-wider">Kiểm tra sơ bộ</h3>
         <button
           type="button"
           onClick={onRunPrecheck}
           disabled={!canRunPrecheck || isBusy}
-          className="px-4 py-2 bg-accent text-white text-xs font-bold rounded-lg hover:bg-accent-hover transition-all shadow-sm flex items-center gap-1.5 disabled:opacity-50"
+          className="px-4 py-2 bg-[var(--vg-accent)] text-white text-xs font-bold rounded-lg hover:bg-[var(--vg-accent-hover)] transition-all disabled:bg-zinc-200 disabled:text-zinc-400"
         >
-          {flow === "validating" ? "Đang quét..." : "🔍 Tiền kiểm"}
+          {flow === "validating" ? "Đang quét..." : "Tiền kiểm"}
         </button>
       </div>
 
       {flow === "needs_fix" && lastValidationResponse && (
         <div className="space-y-2.5">
-          <p className="text-[10px] font-semibold text-foreground/60">{lastValidationResponse.summary_message}</p>
+          <p className="text-[10px] font-semibold text-[var(--vg-text-secondary)]">{lastValidationResponse.summary_message}</p>
           {lastValidationResponse.findings.map((finding, i) => (
             <FindingCard key={`${finding.field_id ?? "general"}-${i}`} finding={finding} />
           ))}
