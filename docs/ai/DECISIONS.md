@@ -35,6 +35,7 @@ Decision Log lưu các quyết định liên lane hoặc khó đảo ngược: s
 | D-019 | Accepted | Demo K1 simulation toggle + form schema cụ thể cho thường trú/hộ kinh doanh | `local-20260718-rag-llm-guardrail` | 2026-07-18 |
 | D-020 | Accepted | Demo gate client-side một chạm, không account/backend auth | `local-20260718-seeded-auth` | 2026-07-18 |
 | D-021 | Accepted | Waiver hẹp cho hai commit lịch sử thiếu AI Log | `local-20260719-pr32-merge-readiness` | 2026-07-19 |
+| D-022 | Accepted | Giao diện demo light-only, không phụ thuộc system theme | `local-20260719-light-only-theme` | 2026-07-19 |
 
 ---
 
@@ -446,6 +447,37 @@ PR #32 bị chặn bởi history guard: hai non-merge commit đã có `policy.js
 ### Rollback / fallback
 
 Xóa hai entry exemption và revert logic guard để khôi phục strict history enforcement. Không có runtime, cloud state, secret hay dữ liệu người dùng cần thu hồi.
+
+---
+
+## D-022 — Giao diện demo light-only, không phụ thuộc system theme
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-19
+- **Người đề xuất:** Codex theo yêu cầu người dùng
+- **Phạm vi:** UI / design / accessibility
+- **Task Record:** `local-20260719-light-only-theme`
+- **Peer xác nhận:** Người dùng đã chọn light-only trong phiên làm việc ngày 2026-07-19.
+
+### Bối cảnh
+
+`globals.css` đổi token `background`, `foreground`, `primary` và surface theo `prefers-color-scheme: dark`, trong khi Portal và một số dialog vẫn dùng nền sáng cố định. Trên máy đặt system dark, text semantic vì thế chuyển gần trắng trên card trắng và không đọc được.
+
+### Quyết định
+
+- Demo Portal và Copilot dùng một palette light duy nhất, kể cả khi system preference là dark.
+- `:root` khai báo `color-scheme: light`; không giữ dark-token override và không thêm utility `dark:` hoặc theme toggle.
+- Portal tiếp tục dùng token scoped `--portal-*`; text phụ/placeholder trên surface sáng phải dùng token đọc được thay vì opacity thấp của foreground.
+- Dark theme chỉ được xem xét lại bằng Decision, Context Pack, bộ token hoàn chỉnh và contrast review cho cả Portal/Copilot.
+
+### Hệ quả và kiểm chứng
+
+- Kiểm tra `npm run test`, `npm run lint`, `npm run typecheck`, `npm run build`.
+- Kiểm tra Portal, login dialog và Copilot ở browser với `prefers-color-scheme` light/dark; rendering phải như nhau về palette, không có text sáng trên surface sáng.
+
+### Rollback / fallback
+
+Revert thay đổi D-022 và CSS để quay lại behavior cũ theo system preference. Không ảnh hưởng API, auth, backend, dữ liệu hay deploy runtime.
 
 ---
 

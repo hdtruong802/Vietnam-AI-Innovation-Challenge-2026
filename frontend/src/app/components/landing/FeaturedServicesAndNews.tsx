@@ -130,9 +130,9 @@ export default function FeaturedServicesAndNews({ onSelectProcedure, onGoCopilot
                   </span>
                   <div className="flex-1 min-w-0">
                     <h4 className="text-[15px] font-semibold text-gov-red">{proc.title}</h4>
-                    <p className="text-base text-foreground/50 font-medium mt-0.5">{proc.description}</p>
+                    <p className="text-base text-[var(--portal-muted)] font-medium mt-0.5">{proc.description}</p>
                   </div>
-                  <ArrowRightIcon className="w-4 h-4 text-foreground/40 group-hover:text-gov-red transition-colors shrink-0" />
+                  <ArrowRightIcon className="w-4 h-4 text-[var(--portal-muted)] group-hover:text-gov-red transition-colors shrink-0" />
                 </div>
               );
             })}
@@ -172,9 +172,9 @@ export default function FeaturedServicesAndNews({ onSelectProcedure, onGoCopilot
               >
                 <div className="flex items-start justify-between gap-2">
                   <h4 className="text-base font-semibold text-foreground leading-snug group-hover:text-gov-red">{item.title}</h4>
-                  <ArrowRightIcon className="w-4 h-4 text-foreground/40 group-hover:text-gov-red transition-colors shrink-0 mt-0.5" />
+                  <ArrowRightIcon className="w-4 h-4 text-[var(--portal-muted)] group-hover:text-gov-red transition-colors shrink-0 mt-0.5" />
                 </div>
-                <span className="text-sm text-foreground/50 block mt-1 font-medium">{item.date}</span>
+                <span className="text-sm text-[var(--portal-muted)] block mt-1 font-medium">{item.date}</span>
               </div>
             ))}
           </div>

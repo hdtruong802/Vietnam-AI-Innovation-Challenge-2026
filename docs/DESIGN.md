@@ -50,6 +50,10 @@ VNGov spans two registers that belong to one civic product family but are styled
 
 Both share a civic design language — warm paper surfaces, restrained crimson/gold accents, borders over shadows, no gradients or glassmorphism — without sharing CSS variables. Neither mode repoints the other's tokens; there is no global `:root`/`@theme` civic palette.
 
+### Runtime theme policy
+
+The public demo is **light-only**. Its visual tokens and native browser controls must remain light even when the operating system reports `prefers-color-scheme: dark`; `:root` therefore declares `color-scheme: light` and has no dark-token override. Do not add `dark:` utilities or a theme switch to Portal or Copilot views. A future dark theme requires a separate Decision, Context Pack, complete token set, and contrast review for both modes.
+
 > **Provenance note:** this document previously described a Deep-Navy/Brand-Orange (`#0D1B3D`/`#F97316`) palette for the Copilot workspace, matching what `frontend/src/app/globals.css` implemented at the time. That content was never backed by an Accepted Decision Log entry — it was implementation drift that this document mirrored rather than governed. This revision replaces it with the warm civic (`--vg-*`) palette below as the authoritative spec for Copilot Workspace Mode.
 
 ## 2. Colors — Copilot Workspace Mode

@@ -83,7 +83,7 @@ export default function LandingHero({ searchQuery, onSearchQueryChange, onSearch
               value={searchQuery}
               onChange={(e) => onSearchQueryChange(e.target.value)}
               placeholder="Bạn cần tìm dịch vụ công nào?"
-              className="flex-1 px-4 py-3 bg-transparent text-base focus:outline-none focus-visible:ring-2 focus-visible:ring-gov-red/40 rounded-lg text-foreground placeholder-foreground/50 font-medium"
+              className="flex-1 px-4 py-3 bg-transparent text-base focus:outline-none focus-visible:ring-2 focus-visible:ring-gov-red/40 rounded-lg text-foreground placeholder:text-[var(--portal-muted)] font-medium"
             />
             <button
               type="submit"

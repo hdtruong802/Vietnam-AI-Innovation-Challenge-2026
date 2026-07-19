@@ -1,6 +1,9 @@
 @import "tailwindcss";
 
 :root {
+  /* D-022: The public demo is intentionally light-only. Do not let the
+     operating-system preference recolor browser controls or design tokens. */
+  color-scheme: light;
   --background: #F8FAFC; /* Clean off-white background */
   --foreground: #333333; /* Dark slate-gray text */
   /* System stacks avoid a build-time dependency on external font hosts. */
@@ -79,39 +82,6 @@
   --color-gov-cream: var(--color-gov-cream-raw);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0A0F1D; /* Deep dark navy */
-    --foreground: #F8FAFC;
-
-    --color-primary-raw: #F8FAFC;
-    --color-neutral-bg-raw: #1E293B;
-    --color-accent-raw: #F97316;
-    --color-accent-hover-raw: #EA580C;
-
-    --color-warning-raw: #F59E0B;
-    --color-warning-bg-raw: #241A10;
-    --color-warning-border-raw: #453215;
-
-    --color-error-raw: #EF4444;
-    --color-error-bg-raw: #2D1414;
-    --color-error-border-raw: #4C1D1D;
-
-    --color-success-raw: #10B981;
-    --color-success-bg-raw: #0D2D20;
-    --color-success-border-raw: #0A4730;
-
-    --color-border-slate-raw: #1E293B;
-    --color-card-bg-raw: #111827;
-
-    /* Dark Mode brand adjustments */
-    --color-brand-red-raw: #F97316;
-    --color-brand-red-hover-raw: #EA580C;
-    --color-hero-start-raw: #1F1410;
-    --color-hero-end-raw: #0A0F1D;
-  }
-}
-
 body {
   background: var(--background);
   color: var(--foreground);
@@ -122,11 +92,14 @@ body {
    separate from the VNGov Copilot Navy & Orange tokens above. Only
    applies inside .portal-home; never touches :root/@theme. */
 .portal-home {
+  /* Keep semantic Tailwind utilities stable inside the portal as well. */
+  --background: #fffaf1;
+  --foreground: #29231e;
   --portal-page: #fffaf1;
   --portal-surface: #fffdf9;
   --portal-border: #eadfce;
   --portal-text: #29231e;
-  --portal-muted: #82786f;
+  --portal-muted: #655b53;
   --portal-red: #aa281d;
   --portal-red-dark: #7f2118;
   --portal-orange: #e77b32;
