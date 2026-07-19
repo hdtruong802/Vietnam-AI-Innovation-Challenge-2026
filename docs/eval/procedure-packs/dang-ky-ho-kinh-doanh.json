@@ -1,0 +1,204 @@
+{
+  "schema_version": "vaic-procedure-pack-v1",
+  "procedure_id": "dang-ky-ho-kinh-doanh",
+  "name": "Đăng ký thành lập hộ kinh doanh",
+  "version": "business-pack-v1.0.0",
+  "review_status": "approved",
+  "approval_mode": "human_k1",
+  "not_for_production": false,
+  "source_snapshot_id": "fb479c07d3cd75b369f31511a4c99a04a49db62a10a1988ce8be38150de56794",
+  "effective_from": "2026-07-19",
+  "effective_to": null,
+  "last_verified_at": "2026-07-19",
+  "scope": {
+    "included_cases": [
+      "Đăng ký thành lập hộ kinh doanh theo thủ tục 1.001612 trên trang ngành dọc được reviewer chọn",
+      "Chủ hộ tự nộp trực tiếp hoặc trực tuyến",
+      "Hộ kinh doanh do một cá nhân hoặc các thành viên hộ gia đình đăng ký",
+      "Precheck thành phần hồ sơ và điều kiện được trang nguồn nêu rõ"
+    ],
+    "excluded_cases": [
+      "Nộp qua bưu chính hoặc ủy quyền cho bên thứ ba vì trang nguồn được chọn không mô tả đầy đủ hồ sơ ủy quyền",
+      "Thay đổi, cấp lại, hiệu đính hoặc chấm dứt hộ kinh doanh",
+      "Thành lập doanh nghiệp",
+      "Field-level validation của Giấy đề nghị khi attachment chính thức chưa được snapshot/review"
+    ]
+  },
+  "source_policy": {
+    "primary_url": "https://vpcp.dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-nganh-doc.html?ma_thu_tuc=1.001612",
+    "page_variant": "vertical_sector_detail_selected_by_human_k1",
+    "registry_url_alignment": "alternate_official_url_selected_by_reviewer",
+    "form_schema_scope": "pre_submission_readiness",
+    "form_asset_status": "official_application_attachment_unavailable_http_503_during_review",
+    "out_of_scope_behavior": "official_review_required"
+  },
+  "aliases": ["đăng ký hộ kinh doanh", "thành lập hộ kinh doanh", "mở hộ kinh doanh"],
+  "trust_policy": {
+    "default_state": "need_more_information",
+    "release_eligible": true,
+    "verified_guidance_when": "Người nộp là chủ hộ, critical fields đã có và rules không còn finding",
+    "official_review_required_when": "filing_capacity=authorized_representative hoặc yêu cầu ngoài included_cases"
+  },
+  "intake_questions": [
+    {
+      "id": "BUS-Q-001",
+      "field": "submission_method",
+      "question": "Bạn dự định nộp trực tiếp hay trực tuyến?",
+      "answer_type": "single_select",
+      "options": ["direct", "online"],
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Cách thức thực hiện: trực tiếp và trực tuyến"}
+    },
+    {
+      "id": "BUS-Q-002",
+      "field": "filing_capacity",
+      "question": "Người nộp là chủ hộ hay người được ủy quyền?",
+      "answer_type": "single_select",
+      "options": ["owner", "authorized_representative"],
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Điều kiện hồ sơ trực tuyến: chủ hộ hoặc người được ủy quyền ký xác thực"}
+    },
+    {
+      "id": "BUS-Q-003",
+      "field": "founder_type",
+      "question": "Hộ kinh doanh do một cá nhân hay các thành viên hộ gia đình đăng ký?",
+      "answer_type": "single_select",
+      "options": ["individual", "family_members"],
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ: cá nhân và trường hợp các thành viên hộ gia đình đăng ký"}
+    },
+    {
+      "id": "BUS-Q-004",
+      "field": "business_activity_not_prohibited",
+      "question": "Ngành, nghề dự kiến đăng ký có thuộc ngành, nghề bị cấm đầu tư kinh doanh không?",
+      "answer_type": "boolean",
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Yêu cầu, điều kiện: ngành nghề không bị cấm"}
+    },
+    {
+      "id": "BUS-Q-005",
+      "field": "business_name_compliant",
+      "question": "Tên hộ kinh doanh đã đáp ứng quy định về đặt tên chưa?",
+      "answer_type": "boolean",
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Yêu cầu, điều kiện: tên hộ kinh doanh"}
+    },
+    {
+      "id": "BUS-Q-006",
+      "field": "fee_payment_ready",
+      "question": "Bạn đã sẵn sàng nộp đủ lệ phí theo mức địa phương chưa?",
+      "answer_type": "boolean",
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Yêu cầu, điều kiện: nộp đủ lệ phí"}
+    },
+    {
+      "id": "BUS-Q-007",
+      "field": "online_submission_ready",
+      "question": "Nếu nộp trực tuyến, hồ sơ điện tử đã đầy đủ, khớp hồ sơ giấy, có thông tin liên hệ và được ký số chưa?",
+      "answer_type": "boolean",
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Yêu cầu chấp thuận hồ sơ qua mạng thông tin điện tử"}
+    }
+  ],
+  "checklist_items": [
+    {
+      "id": "BUS-DOC-001",
+      "label": "Giấy đề nghị đăng ký hộ kinh doanh",
+      "required_when": "Luôn áp dụng",
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ mục (i)"}
+    },
+    {
+      "id": "BUS-DOC-002",
+      "label": "Bản sao giấy tờ pháp lý của chủ hộ kinh doanh",
+      "required_when": "Luôn áp dụng",
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ mục (ii)"}
+    },
+    {
+      "id": "BUS-DOC-003",
+      "label": "Bản sao giấy tờ pháp lý của các thành viên hộ gia đình đăng ký",
+      "required_when": "founder_type=family_members",
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ mục (ii)"}
+    },
+    {
+      "id": "BUS-DOC-004",
+      "label": "Bản sao biên bản họp thành viên hộ gia đình về việc thành lập hộ kinh doanh",
+      "required_when": "founder_type=family_members",
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ mục (iii)"}
+    },
+    {
+      "id": "BUS-DOC-005",
+      "label": "Bản sao văn bản ủy quyền của các thành viên hộ gia đình cho một thành viên làm chủ hộ",
+      "required_when": "founder_type=family_members",
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ mục (iv)"}
+    },
+    {
+      "id": "BUS-DOC-006",
+      "label": "Bộ hồ sơ điện tử đầy đủ, tên file phù hợp, thông tin khớp hồ sơ giấy và có số điện thoại/email",
+      "required_when": "submission_method=online",
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Yêu cầu chấp thuận hồ sơ qua mạng"}
+    },
+    {
+      "id": "BUS-DOC-007",
+      "label": "Chữ ký số của chủ hộ trên hồ sơ điện tử",
+      "required_when": "submission_method=online và filing_capacity=owner",
+      "critical": true,
+      "source": {"source_id": "1.001612", "locator": "Trường hợp đăng ký qua mạng sử dụng chữ ký số; yêu cầu xác thực hồ sơ"}
+    }
+  ],
+  "steps": [
+    {"id": "BUS-STEP-001", "label": "Kiểm tra phạm vi và điều kiện", "description": "Xác nhận người nộp, loại người thành lập, ngành nghề, tên và lệ phí.", "source": {"source_id": "1.001612", "locator": "Yêu cầu, điều kiện thực hiện"}},
+    {"id": "BUS-STEP-002", "label": "Chuẩn bị hồ sơ", "description": "Chuẩn bị Giấy đề nghị, giấy tờ pháp lý và tài liệu gia đình nếu áp dụng.", "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ"}},
+    {"id": "BUS-STEP-003", "label": "Nộp hồ sơ", "description": "Nộp tại Cơ quan đăng ký kinh doanh cấp xã hoặc qua mạng bằng chữ ký số.", "source": {"source_id": "1.001612", "locator": "Trình tự thực hiện: trực tiếp và qua mạng"}},
+    {"id": "BUS-STEP-004", "label": "Theo dõi và nhận kết quả", "description": "Nhận giấy biên nhận; nếu đủ điều kiện nhận Giấy chứng nhận, nếu chưa đủ nhận thông báo sửa đổi/bổ sung.", "source": {"source_id": "1.001612", "locator": "Trình tự thực hiện và Kết quả giải quyết"}}
+  ],
+  "form_schema": {
+    "type": "object",
+    "x_schema_scope": "pre_submission_readiness_only",
+    "x_form_asset_status": "pending_official_application_attachment_snapshot",
+    "required": ["submission_method", "filing_capacity", "founder_type", "application_form_available", "owner_legal_document_copy_available", "business_activity_not_prohibited", "business_name_compliant", "fee_payment_ready"],
+    "properties": {
+      "submission_method": {"type": "string", "enum": ["direct", "online"], "source": {"source_id": "1.001612", "locator": "Cách thức thực hiện"}},
+      "filing_capacity": {"type": "string", "enum": ["owner", "authorized_representative"], "source": {"source_id": "1.001612", "locator": "Chữ ký số của chủ hộ hoặc người được ủy quyền"}},
+      "founder_type": {"type": "string", "enum": ["individual", "family_members"], "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ"}},
+      "application_form_available": {"type": "boolean", "source": {"source_id": "1.001612", "locator": "Giấy đề nghị đăng ký hộ kinh doanh"}},
+      "owner_legal_document_copy_available": {"type": "boolean", "source": {"source_id": "1.001612", "locator": "Giấy tờ pháp lý của chủ hộ"}},
+      "family_legal_document_copies_available": {"type": "boolean", "source": {"source_id": "1.001612", "locator": "Giấy tờ pháp lý của thành viên hộ gia đình"}},
+      "family_meeting_minutes_available": {"type": "boolean", "source": {"source_id": "1.001612", "locator": "Biên bản họp thành viên hộ gia đình"}},
+      "family_authorization_available": {"type": "boolean", "source": {"source_id": "1.001612", "locator": "Văn bản ủy quyền của thành viên hộ gia đình"}},
+      "business_activity_not_prohibited": {"type": "boolean", "source": {"source_id": "1.001612", "locator": "Điều kiện ngành nghề"}},
+      "business_name_compliant": {"type": "boolean", "source": {"source_id": "1.001612", "locator": "Điều kiện tên hộ kinh doanh"}},
+      "fee_payment_ready": {"type": "boolean", "source": {"source_id": "1.001612", "locator": "Điều kiện lệ phí"}},
+      "online_submission_ready": {"type": "boolean", "source": {"source_id": "1.001612", "locator": "Yêu cầu hồ sơ qua mạng"}}
+    },
+    "additionalProperties": false
+  },
+  "validation_rules": [
+    {"rule_id": "BUS-RULE-001", "type": "required", "field_path": "application_form_available", "severity": "critical", "message": "Hồ sơ cần Giấy đề nghị đăng ký hộ kinh doanh.", "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ mục (i)"}},
+    {"rule_id": "BUS-RULE-002", "type": "required", "field_path": "owner_legal_document_copy_available", "severity": "critical", "message": "Hồ sơ cần bản sao giấy tờ pháp lý của chủ hộ.", "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ mục (ii)"}},
+    {"rule_id": "BUS-RULE-003", "type": "conditional_required", "field_path": "family_legal_document_copies_available", "when": {"field": "founder_type", "equals": "family_members"}, "severity": "critical", "message": "Cần giấy tờ pháp lý của các thành viên hộ gia đình.", "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ mục (ii)"}},
+    {"rule_id": "BUS-RULE-004", "type": "conditional_required", "field_path": "family_meeting_minutes_available", "when": {"field": "founder_type", "equals": "family_members"}, "severity": "critical", "message": "Cần biên bản họp thành viên hộ gia đình.", "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ mục (iii)"}},
+    {"rule_id": "BUS-RULE-005", "type": "conditional_required", "field_path": "family_authorization_available", "when": {"field": "founder_type", "equals": "family_members"}, "severity": "critical", "message": "Cần văn bản ủy quyền của các thành viên cho một thành viên làm chủ hộ.", "source": {"source_id": "1.001612", "locator": "Thành phần hồ sơ mục (iv)"}},
+    {"rule_id": "BUS-RULE-006", "type": "field_compare", "field_path": "business_activity_not_prohibited", "operator": "equals", "expected": true, "severity": "critical", "message": "Ngành nghề đăng ký không được thuộc ngành nghề bị cấm.", "source": {"source_id": "1.001612", "locator": "Yêu cầu, điều kiện thực hiện"}},
+    {"rule_id": "BUS-RULE-007", "type": "field_compare", "field_path": "business_name_compliant", "operator": "equals", "expected": true, "severity": "critical", "message": "Tên hộ kinh doanh cần đáp ứng quy định.", "source": {"source_id": "1.001612", "locator": "Yêu cầu, điều kiện thực hiện"}},
+    {"rule_id": "BUS-RULE-008", "type": "field_compare", "field_path": "fee_payment_ready", "operator": "equals", "expected": true, "severity": "critical", "message": "Cần nộp đủ lệ phí đăng ký hộ kinh doanh.", "source": {"source_id": "1.001612", "locator": "Yêu cầu, điều kiện thực hiện"}},
+    {"rule_id": "BUS-RULE-009", "type": "conditional_required", "field_path": "online_submission_ready", "when": {"field": "submission_method", "equals": "online"}, "severity": "critical", "message": "Hồ sơ trực tuyến phải đầy đủ, chính xác, có thông tin liên hệ và được ký số.", "source": {"source_id": "1.001612", "locator": "Yêu cầu chấp thuận hồ sơ qua mạng"}},
+    {"rule_id": "BUS-RULE-010", "type": "field_compare", "field_path": "filing_capacity", "operator": "equals", "expected": "owner", "severity": "critical", "message": "Ủy quyền cho bên thứ ba nằm ngoài phạm vi pack đã duyệt và cần official review.", "source": {"source_id": "1.001612", "locator": "Hồ sơ qua mạng có thể do người được ủy quyền ký nhưng trang nguồn không liệt kê đầy đủ hồ sơ ủy quyền"}}
+  ],
+  "authority": "Ủy ban nhân dân cấp xã / Cơ quan đăng ký kinh doanh cấp xã",
+  "processing_time": "03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ",
+  "fee": "Theo mức do Hội đồng nhân dân cấp tỉnh quyết định; nguồn được chọn không hiển thị một số tiền cố định",
+  "source_refs": ["1.001612"],
+  "approval": {
+    "reviewed_by": "Duyen",
+    "reviewer_role": "Evaluator/PM",
+    "reviewer_organization": "none",
+    "reviewed_at": "2026-07-19",
+    "review_notes": "Human K1 selected and approved the official vertical-sector page. Approval covers owner-filed direct/online pre-submission readiness. Third-party authorization, postal filing and field-level application-form validation fail closed."
+  }
+}

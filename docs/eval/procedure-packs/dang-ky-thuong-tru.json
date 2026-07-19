@@ -1,0 +1,191 @@
+{
+  "schema_version": "vaic-procedure-pack-v1",
+  "procedure_id": "dang-ky-thuong-tru",
+  "name": "Đăng ký thường trú",
+  "version": "residence-pack-v1.0.0",
+  "review_status": "approved",
+  "approval_mode": "human_k1",
+  "not_for_production": false,
+  "source_snapshot_id": "fb479c07d3cd75b369f31511a4c99a04a49db62a10a1988ce8be38150de56794",
+  "effective_from": "2026-07-19",
+  "effective_to": null,
+  "last_verified_at": "2026-07-19",
+  "scope": {
+    "included_cases": [
+      "Đăng ký thường trú theo thủ tục 1.004222 trên trang ngành dọc được reviewer chọn",
+      "Nhánh chỗ ở thuộc sở hữu, quan hệ nhân thân và thuê/mượn/ở nhờ",
+      "Nộp trực tiếp hoặc trực tuyến",
+      "Precheck tờ khai, đồng ý của chủ hộ/chủ sở hữu và chứng cứ theo từng nhánh"
+    ],
+    "excluded_cases": [
+      "Đăng ký tạm trú, xóa đăng ký thường trú hoặc thủ tục liên thông",
+      "Nhánh phương tiện, cơ sở trợ giúp, cơ sở tín ngưỡng/tôn giáo hoặc đơn vị đóng quân",
+      "Trường hợp quốc tịch/nhập cảnh phức tạp ngoài lựa chọn CT01/CT02",
+      "Field-level validation của CT01/CT02 khi attachment chính thức chưa được snapshot/review"
+    ]
+  },
+  "source_policy": {
+    "primary_url": "https://vpcp.dichvucong.gov.vn/p/home/dvc-chi-tiet-thu-tuc-nganh-doc.html?ma_thu_tuc=1.004222",
+    "page_variant": "vertical_sector_detail_selected_by_human_k1",
+    "registry_url_alignment": "alternate_official_url_selected_by_reviewer",
+    "form_schema_scope": "pre_submission_readiness",
+    "form_asset_status": "official_CT01_CT02_attachments_unavailable_http_503_during_review",
+    "out_of_scope_behavior": "official_review_required"
+  },
+  "aliases": ["đăng ký thường trú", "nhập hộ khẩu", "chuyển thường trú"],
+  "trust_policy": {
+    "default_state": "need_more_information",
+    "release_eligible": true,
+    "verified_guidance_when": "Tất cả critical fields của một included branch đã có và rules không còn finding",
+    "official_review_required_when": "residence_basis=special_other hoặc yêu cầu ngoài included_cases"
+  },
+  "intake_questions": [
+    {
+      "id": "RES-Q-001",
+      "field": "submission_method",
+      "question": "Bạn dự định nộp hồ sơ trực tiếp hay trực tuyến?",
+      "answer_type": "single_select",
+      "options": ["direct", "online"],
+      "critical": true,
+      "source": {"source_id": "1.004222", "locator": "Cách thức thực hiện: trực tiếp và trực tuyến"}
+    },
+    {
+      "id": "RES-Q-002",
+      "field": "residence_basis",
+      "question": "Bạn đăng ký tại chỗ ở thuộc sở hữu, theo quan hệ nhân thân, thuê/mượn/ở nhờ hay trường hợp đặc biệt khác?",
+      "answer_type": "single_select",
+      "options": ["owned", "family_relationship", "rented_borrowed", "special_other"],
+      "critical": true,
+      "source": {"source_id": "1.004222", "locator": "Thành phần hồ sơ: các nhóm trường hợp đăng ký thường trú"}
+    },
+    {
+      "id": "RES-Q-003",
+      "field": "applicant_profile",
+      "question": "Bạn dùng CT01 thông thường hay thuộc trường hợp người Việt Nam định cư ở nước ngoài cần CT02?",
+      "answer_type": "single_select",
+      "options": ["ct01_standard", "ct02_overseas_vietnamese"],
+      "critical": true,
+      "source": {"source_id": "1.004222", "locator": "Thành phần hồ sơ: CT01 và CT02 cho người Việt Nam định cư ở nước ngoài"}
+    },
+    {
+      "id": "RES-Q-004",
+      "field": "population_database_ready",
+      "question": "Thông tin công dân đã được thu thập, cập nhật trong CSDL quốc gia về dân cư và CSDL cư trú chưa?",
+      "answer_type": "boolean",
+      "critical": true,
+      "source": {"source_id": "1.004222", "locator": "Yêu cầu, điều kiện thực hiện"}
+    },
+    {
+      "id": "RES-Q-005",
+      "field": "branch_evidence_data_available",
+      "question": "Cơ quan có thể khai thác dữ liệu chứng minh chỗ ở, quan hệ hoặc diện tích áp dụng cho nhánh của bạn không?",
+      "answer_type": "boolean",
+      "critical": true,
+      "source": {"source_id": "1.004222", "locator": "Trình tự bước 3 và Thành phần hồ sơ: khai thác dữ liệu, yêu cầu giấy tờ khi không khai thác được"}
+    },
+    {
+      "id": "RES-Q-006",
+      "field": "fee_exempt",
+      "question": "Bạn có thuộc trường hợp được miễn lệ phí không?",
+      "answer_type": "boolean",
+      "critical": false,
+      "source": {"source_id": "1.004222", "locator": "Cách thức thực hiện: mức phí và trường hợp miễn phí"}
+    }
+  ],
+  "checklist_items": [
+    {
+      "id": "RES-DOC-001",
+      "label": "Tờ khai CT01 hoặc CT02 phù hợp",
+      "required_when": "Luôn áp dụng theo applicant_profile",
+      "critical": true,
+      "source": {"source_id": "1.004222", "locator": "Thành phần hồ sơ: CT01/CT02"}
+    },
+    {
+      "id": "RES-DOC-002",
+      "label": "Giấy tờ hoặc dữ liệu chứng minh sở hữu chỗ ở hợp pháp",
+      "required_when": "residence_basis=owned và dữ liệu không khai thác được",
+      "critical": true,
+      "source": {"source_id": "1.004222", "locator": "Nhánh chỗ ở hợp pháp thuộc quyền sở hữu"}
+    },
+    {
+      "id": "RES-DOC-003",
+      "label": "Ý kiến đồng ý trong tờ khai hoặc văn bản đồng ý riêng của chủ hộ/chủ sở hữu/người được ủy quyền",
+      "required_when": "residence_basis=family_relationship hoặc rented_borrowed",
+      "critical": true,
+      "source": {"source_id": "1.004222", "locator": "Nhánh chỗ ở không thuộc sở hữu: yêu cầu ý kiến đồng ý"}
+    },
+    {
+      "id": "RES-DOC-004",
+      "label": "Giấy tờ hoặc dữ liệu chứng minh quan hệ nhân thân",
+      "required_when": "residence_basis=family_relationship và dữ liệu không khai thác được",
+      "critical": true,
+      "source": {"source_id": "1.004222", "locator": "Nhánh đăng ký theo quan hệ nhân thân"}
+    },
+    {
+      "id": "RES-DOC-005",
+      "label": "Hợp đồng/văn bản thuê, mượn hoặc cho ở nhờ được công chứng/chứng thực",
+      "required_when": "residence_basis=rented_borrowed",
+      "critical": true,
+      "source": {"source_id": "1.004222", "locator": "Nhánh thuê, mượn, ở nhờ"}
+    },
+    {
+      "id": "RES-DOC-006",
+      "label": "Giấy tờ hoặc dữ liệu chứng minh đủ diện tích nhà ở",
+      "required_when": "residence_basis=rented_borrowed và dữ liệu không khai thác được",
+      "critical": true,
+      "source": {"source_id": "1.004222", "locator": "Nhánh thuê, mượn, ở nhờ: điều kiện diện tích"}
+    },
+    {
+      "id": "RES-DOC-007",
+      "label": "Giấy tờ chứng minh thuộc diện miễn lệ phí",
+      "required_when": "fee_exempt=true và thông tin miễn chưa có trong cơ sở dữ liệu",
+      "critical": false,
+      "source": {"source_id": "1.004222", "locator": "Cách thức thực hiện: trường hợp miễn phí"}
+    }
+  ],
+  "steps": [
+    {"id": "RES-STEP-001", "label": "Xác định căn cứ và tờ khai", "description": "Chọn nhánh cư trú và CT01/CT02 phù hợp.", "source": {"source_id": "1.004222", "locator": "Trình tự bước 1; Thành phần hồ sơ"}},
+    {"id": "RES-STEP-002", "label": "Chuẩn bị chứng cứ theo nhánh", "description": "Chuẩn bị đồng ý và giấy tờ chỉ áp dụng cho nhánh đã chọn.", "source": {"source_id": "1.004222", "locator": "Thành phần hồ sơ theo từng trường hợp"}},
+    {"id": "RES-STEP-003", "label": "Nộp và tiếp nhận hồ sơ", "description": "Nộp trực tiếp tại Công an cấp xã hoặc trực tuyến; cơ quan kiểm tra, khai thác và xác minh dữ liệu.", "source": {"source_id": "1.004222", "locator": "Trình tự bước 2-3; Cách thức thực hiện"}},
+    {"id": "RES-STEP-004", "label": "Nộp lệ phí và nhận kết quả", "description": "Nộp lệ phí nếu áp dụng và theo phiếu hẹn để nhận thông báo kết quả.", "source": {"source_id": "1.004222", "locator": "Trình tự bước 4-5"}}
+  ],
+  "form_schema": {
+    "type": "object",
+    "x_schema_scope": "pre_submission_readiness_only",
+    "x_form_asset_status": "pending_CT01_CT02_attachment_snapshot",
+    "required": ["submission_method", "residence_basis", "applicant_profile", "population_database_ready", "branch_evidence_data_available", "declaration_form_available", "fee_exempt"],
+    "properties": {
+      "submission_method": {"type": "string", "enum": ["direct", "online"], "source": {"source_id": "1.004222", "locator": "Cách thức thực hiện"}},
+      "residence_basis": {"type": "string", "enum": ["owned", "family_relationship", "rented_borrowed", "special_other"], "source": {"source_id": "1.004222", "locator": "Thành phần hồ sơ theo trường hợp"}},
+      "applicant_profile": {"type": "string", "enum": ["ct01_standard", "ct02_overseas_vietnamese"], "source": {"source_id": "1.004222", "locator": "CT01/CT02"}},
+      "population_database_ready": {"type": "boolean", "source": {"source_id": "1.004222", "locator": "Yêu cầu, điều kiện thực hiện"}},
+      "branch_evidence_data_available": {"type": "boolean", "source": {"source_id": "1.004222", "locator": "Khai thác dữ liệu và giấy tờ thay thế"}},
+      "declaration_form_available": {"type": "boolean", "source": {"source_id": "1.004222", "locator": "CT01/CT02"}},
+      "branch_evidence_document_available": {"type": "boolean", "source": {"source_id": "1.004222", "locator": "Giấy tờ chứng minh theo từng nhánh"}},
+      "owner_consent_available": {"type": "boolean", "source": {"source_id": "1.004222", "locator": "Ý kiến đồng ý của chủ hộ/chủ sở hữu"}},
+      "rental_contract_available": {"type": "boolean", "source": {"source_id": "1.004222", "locator": "Hợp đồng/văn bản thuê, mượn, ở nhờ"}},
+      "fee_exempt": {"type": "boolean", "source": {"source_id": "1.004222", "locator": "Mức phí và miễn phí"}}
+    },
+    "additionalProperties": false
+  },
+  "validation_rules": [
+    {"rule_id": "RES-RULE-001", "type": "required", "field_path": "declaration_form_available", "severity": "critical", "message": "Cần có CT01 hoặc CT02 phù hợp.", "source": {"source_id": "1.004222", "locator": "Thành phần hồ sơ: CT01/CT02"}},
+    {"rule_id": "RES-RULE-002", "type": "field_compare", "field_path": "population_database_ready", "operator": "equals", "expected": true, "severity": "critical", "message": "Thông tin công dân cần được cập nhật trong các cơ sở dữ liệu cư trú theo điều kiện thủ tục.", "source": {"source_id": "1.004222", "locator": "Yêu cầu, điều kiện thực hiện"}},
+    {"rule_id": "RES-RULE-003", "type": "conditional_required", "field_path": "branch_evidence_document_available", "when": {"field": "branch_evidence_data_available", "equals": false}, "severity": "critical", "message": "Khi không khai thác được dữ liệu, cần giấy tờ chứng minh phù hợp nhánh.", "source": {"source_id": "1.004222", "locator": "Trình tự bước 3 và Thành phần hồ sơ"}},
+    {"rule_id": "RES-RULE-004", "type": "conditional_required", "field_path": "owner_consent_available", "when": {"field": "residence_basis", "equals": "family_relationship"}, "severity": "critical", "message": "Nhánh quan hệ nhân thân cần ý kiến đồng ý phù hợp.", "source": {"source_id": "1.004222", "locator": "Nhánh chỗ ở không thuộc sở hữu: ý kiến đồng ý"}},
+    {"rule_id": "RES-RULE-005", "type": "conditional_required", "field_path": "owner_consent_available", "when": {"field": "residence_basis", "equals": "rented_borrowed"}, "severity": "critical", "message": "Nhánh thuê/mượn/ở nhờ cần ý kiến đồng ý phù hợp.", "source": {"source_id": "1.004222", "locator": "Nhánh thuê, mượn, ở nhờ: ý kiến đồng ý"}},
+    {"rule_id": "RES-RULE-006", "type": "conditional_required", "field_path": "rental_contract_available", "when": {"field": "residence_basis", "equals": "rented_borrowed"}, "severity": "critical", "message": "Nhánh thuê/mượn/ở nhờ cần hợp đồng hoặc văn bản được công chứng/chứng thực.", "source": {"source_id": "1.004222", "locator": "Nhánh thuê, mượn, ở nhờ"}},
+    {"rule_id": "RES-RULE-007", "type": "field_compare", "field_path": "residence_basis", "operator": "not_equals", "expected": "special_other", "severity": "critical", "message": "Nhánh đặc biệt ngoài phạm vi pack cần cơ quan chính thức xem xét.", "source": {"source_id": "1.004222", "locator": "Các nhánh phương tiện, trợ giúp, tôn giáo và đơn vị đóng quân"}}
+  ],
+  "authority": "Công an cấp xã",
+  "processing_time": "07 ngày làm việc",
+  "fee": "20.000 đồng khi nộp trực tiếp; 10.000 đồng khi nộp trực tuyến; miễn phí đối với trường hợp thuộc diện miễn theo nguồn",
+  "source_refs": ["1.004222"],
+  "approval": {
+    "reviewed_by": "Duyen",
+    "reviewer_role": "Evaluator/PM",
+    "reviewer_organization": "none",
+    "reviewed_at": "2026-07-19",
+    "review_notes": "Human K1 selected and approved the official vertical-sector page for this pack. Approval is limited to the three included residence branches and pre-submission readiness fields; special branches and CT01/CT02 field-level validation fail closed."
+  }
+}

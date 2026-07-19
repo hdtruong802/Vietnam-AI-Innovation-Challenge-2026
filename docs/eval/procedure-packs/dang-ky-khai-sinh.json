@@ -1,0 +1,193 @@
+{
+  "schema_version": "vaic-procedure-pack-v1",
+  "procedure_id": "dang-ky-khai-sinh",
+  "name": "Thủ tục đăng ký khai sinh",
+  "version": "birth-pack-v1.0.0",
+  "review_status": "approved",
+  "approval_mode": "human_k1",
+  "not_for_production": false,
+  "source_snapshot_id": "fb479c07d3cd75b369f31511a4c99a04a49db62a10a1988ce8be38150de56794",
+  "effective_from": "2026-07-19",
+  "effective_to": null,
+  "last_verified_at": "2026-07-19",
+  "scope": {
+    "included_cases": [
+      "Đăng ký khai sinh thông thường theo thủ tục 1.001193",
+      "Nộp trực tiếp, trực tuyến hoặc qua bưu chính",
+      "Precheck hình thức nộp, tư cách người đăng ký, chứng cứ về việc sinh, cư trú, ủy quyền và lệ phí"
+    ],
+    "excluded_cases": [
+      "Đăng ký lại khai sinh",
+      "Đăng ký khai sinh có yếu tố nước ngoài",
+      "Đăng ký khai sinh lưu động hoặc thủ tục liên thông",
+      "Trẻ bị bỏ rơi, mang thai hộ hoặc chưa xác định cha/mẹ",
+      "Field-level validation của mẫu tờ khai khi attachment chính thức chưa được snapshot/review"
+    ]
+  },
+  "source_policy": {
+    "primary_url": "https://vpcp.dichvucong.gov.vn/p/home/dvc-tthc-thu-tuc-hanh-chinh-chi-tiet.html?ma_thu_tuc=1774",
+    "page_variant": "canonical_detail",
+    "form_schema_scope": "pre_submission_readiness",
+    "form_asset_status": "official_attachment_unavailable_http_503_during_review",
+    "out_of_scope_behavior": "official_review_required"
+  },
+  "aliases": ["đăng ký khai sinh", "làm giấy khai sinh", "khai sinh cho con"],
+  "trust_policy": {
+    "default_state": "need_more_information",
+    "release_eligible": true,
+    "verified_guidance_when": "Tất cả critical fields đã có, special_case=false và checklist/rules áp dụng không còn thiếu",
+    "official_review_required_when": "special_case=true hoặc yêu cầu ngoài included_cases"
+  },
+  "intake_questions": [
+    {
+      "id": "BIRTH-Q-001",
+      "field": "submission_method",
+      "question": "Bạn dự định nộp hồ sơ trực tiếp, trực tuyến hay qua bưu chính?",
+      "answer_type": "single_select",
+      "options": ["direct", "online", "postal"],
+      "critical": true,
+      "source": {"source_id": "1.001193", "locator": "Cách thức thực hiện: ba hình thức trực tiếp, trực tuyến và dịch vụ bưu chính"}
+    },
+    {
+      "id": "BIRTH-Q-002",
+      "field": "applicant_capacity",
+      "question": "Bạn đăng ký với tư cách cha/mẹ, ông bà/người thân/người nuôi dưỡng có trách nhiệm đăng ký, hay người được ủy quyền?",
+      "answer_type": "single_select",
+      "options": ["parent", "statutory_relative_or_caregiver", "authorized_representative"],
+      "critical": true,
+      "source": {"source_id": "1.001193", "locator": "Trình tự thực hiện: trách nhiệm đăng ký trong 60 ngày; Lưu ý về người thân và ủy quyền"}
+    },
+    {
+      "id": "BIRTH-Q-003",
+      "field": "birth_evidence_type",
+      "question": "Chứng cứ về việc sinh là dữ liệu Giấy chứng sinh điện tử đã khai thác được, Giấy chứng sinh, văn bản người làm chứng hay giấy cam đoan?",
+      "answer_type": "single_select",
+      "options": ["electronic_birth_record", "birth_certificate", "witness_statement", "birth_affidavit"],
+      "critical": true,
+      "source": {"source_id": "1.001193", "locator": "Thành phần hồ sơ: Giấy chứng sinh, chứng cứ thay thế và ngoại lệ dữ liệu điện tử"}
+    },
+    {
+      "id": "BIRTH-Q-004",
+      "field": "residence_data_available",
+      "question": "Cơ quan có thể khai thác được thông tin nơi cư trú không?",
+      "answer_type": "boolean",
+      "critical": true,
+      "source": {"source_id": "1.001193", "locator": "Giấy tờ phải xuất trình: chứng minh cư trú khi không khai thác được dữ liệu"}
+    },
+    {
+      "id": "BIRTH-Q-005",
+      "field": "registration_timing",
+      "question": "Bạn đăng ký trong hạn hay không đúng hạn?",
+      "answer_type": "single_select",
+      "options": ["timely", "late"],
+      "critical": true,
+      "source": {"source_id": "1.001193", "locator": "Cách thức thực hiện: lệ phí đăng ký đúng hạn và không đúng hạn"}
+    },
+    {
+      "id": "BIRTH-Q-006",
+      "field": "fee_exemption_category",
+      "question": "Bạn có thuộc gia đình có công, hộ nghèo hoặc là người khuyết tật không?",
+      "answer_type": "single_select",
+      "options": ["none", "meritorious_family", "poor_household", "person_with_disability"],
+      "critical": false,
+      "source": {"source_id": "1.001193", "locator": "Cách thức thực hiện: các trường hợp miễn lệ phí"}
+    },
+    {
+      "id": "BIRTH-Q-007",
+      "field": "special_case",
+      "question": "Trường hợp có trẻ bị bỏ rơi, mang thai hộ, chưa xác định cha/mẹ hoặc giấy tờ nước ngoài không?",
+      "answer_type": "boolean",
+      "critical": true,
+      "source": {"source_id": "1.001193", "locator": "Trình tự, Thành phần hồ sơ và Lưu ý: các trường hợp đặc biệt"}
+    }
+  ],
+  "checklist_items": [
+    {
+      "id": "BIRTH-DOC-001",
+      "label": "Tờ khai đăng ký khai sinh hoặc mẫu hộ tịch điện tử tương tác",
+      "required_when": "Luôn áp dụng; chọn mẫu theo submission_method",
+      "critical": true,
+      "source": {"source_id": "1.001193", "locator": "Thành phần hồ sơ > Bao gồm: tờ khai giấy và mẫu điện tử tương tác"}
+    },
+    {
+      "id": "BIRTH-DOC-002",
+      "label": "Giấy chứng sinh; nếu không có thì văn bản người làm chứng hoặc giấy cam đoan",
+      "required_when": "birth_evidence_type != electronic_birth_record",
+      "critical": true,
+      "source": {"source_id": "1.001193", "locator": "Giấy tờ phải nộp: chứng cứ về việc sinh và ngoại lệ dữ liệu điện tử"}
+    },
+    {
+      "id": "BIRTH-DOC-003",
+      "label": "Giấy tờ tùy thân còn giá trị của người yêu cầu",
+      "required_when": "Nộp trực tiếp và thông tin không được khai thác đầy đủ",
+      "critical": false,
+      "source": {"source_id": "1.001193", "locator": "Giấy tờ phải xuất trình: giấy tờ tùy thân khi làm trực tiếp"}
+    },
+    {
+      "id": "BIRTH-DOC-004",
+      "label": "Giấy tờ chứng minh nơi cư trú",
+      "required_when": "residence_data_available = false",
+      "critical": true,
+      "source": {"source_id": "1.001193", "locator": "Giấy tờ phải xuất trình: chứng minh cư trú khi không khai thác được dữ liệu"}
+    },
+    {
+      "id": "BIRTH-DOC-005",
+      "label": "Văn bản ủy quyền; người thân thuộc nhóm được miễn chứng thực không phải chứng thực văn bản",
+      "required_when": "applicant_capacity = authorized_representative",
+      "critical": true,
+      "source": {"source_id": "1.001193", "locator": "Giấy tờ phải nộp: văn bản ủy quyền và ngoại lệ chứng thực"}
+    },
+    {
+      "id": "BIRTH-DOC-006",
+      "label": "Bản sao có chứng thực các giấy tờ phải xuất trình",
+      "required_when": "submission_method = postal",
+      "critical": true,
+      "source": {"source_id": "1.001193", "locator": "Giấy tờ phải xuất trình: hồ sơ qua bưu chính phải gửi bản sao có chứng thực"}
+    }
+  ],
+  "steps": [
+    {"id": "BIRTH-STEP-001", "label": "Xác định phạm vi và chuẩn bị hồ sơ", "description": "Xác định tư cách người đăng ký, hình thức nộp và giấy tờ điều kiện.", "source": {"source_id": "1.001193", "locator": "Trình tự thực hiện và Thành phần hồ sơ"}},
+    {"id": "BIRTH-STEP-002", "label": "Nộp hồ sơ", "description": "Nộp trực tiếp, trực tuyến hoặc qua bưu chính theo kênh đã chọn.", "source": {"source_id": "1.001193", "locator": "Cách thức thực hiện"}},
+    {"id": "BIRTH-STEP-003", "label": "Bổ sung hoặc xác nhận thông tin", "description": "Bổ sung hồ sơ nếu thiếu; với hồ sơ trực tuyến, kiểm tra và xác nhận biểu mẫu điện tử.", "source": {"source_id": "1.001193", "locator": "Trình tự thực hiện: tiếp nhận, bổ sung và xác nhận biểu mẫu điện tử"}},
+    {"id": "BIRTH-STEP-004", "label": "Nhận kết quả", "description": "Nhận Giấy khai sinh sau khi thông tin được ghi nhận và ký theo thẩm quyền.", "source": {"source_id": "1.001193", "locator": "Trình tự thực hiện; Kết quả thực hiện: Giấy khai sinh"}}
+  ],
+  "form_schema": {
+    "type": "object",
+    "x_schema_scope": "pre_submission_readiness_only",
+    "x_form_asset_status": "pending_official_attachment_snapshot",
+    "required": ["submission_method", "applicant_capacity", "birth_evidence_type", "residence_data_available", "registration_timing", "fee_exemption_category", "special_case", "application_form_available"],
+    "properties": {
+      "submission_method": {"type": "string", "enum": ["direct", "online", "postal"], "source": {"source_id": "1.001193", "locator": "Cách thức thực hiện"}},
+      "applicant_capacity": {"type": "string", "enum": ["parent", "statutory_relative_or_caregiver", "authorized_representative"], "source": {"source_id": "1.001193", "locator": "Trình tự và Lưu ý về người đăng ký/ủy quyền"}},
+      "birth_evidence_type": {"type": "string", "enum": ["electronic_birth_record", "birth_certificate", "witness_statement", "birth_affidavit"], "source": {"source_id": "1.001193", "locator": "Giấy tờ phải nộp: chứng cứ về việc sinh"}},
+      "residence_data_available": {"type": "boolean", "source": {"source_id": "1.001193", "locator": "Giấy tờ chứng minh cư trú"}},
+      "residence_document_available": {"type": "boolean", "source": {"source_id": "1.001193", "locator": "Giấy tờ chứng minh cư trú"}},
+      "authorization_document_available": {"type": "boolean", "source": {"source_id": "1.001193", "locator": "Văn bản ủy quyền"}},
+      "postal_certified_copies_available": {"type": "boolean", "source": {"source_id": "1.001193", "locator": "Hồ sơ gửi qua bưu chính"}},
+      "registration_timing": {"type": "string", "enum": ["timely", "late"], "source": {"source_id": "1.001193", "locator": "Lệ phí đăng ký khai sinh đúng hạn/không đúng hạn"}},
+      "fee_exemption_category": {"type": "string", "enum": ["none", "meritorious_family", "poor_household", "person_with_disability"], "source": {"source_id": "1.001193", "locator": "Các trường hợp miễn lệ phí"}},
+      "application_form_available": {"type": "boolean", "source": {"source_id": "1.001193", "locator": "Tờ khai giấy hoặc mẫu điện tử tương tác"}},
+      "special_case": {"type": "boolean", "source": {"source_id": "1.001193", "locator": "Các trường hợp đặc biệt trong Trình tự/Thành phần hồ sơ"}}
+    },
+    "additionalProperties": false
+  },
+  "validation_rules": [
+    {"rule_id": "BIRTH-RULE-001", "type": "required", "field_path": "application_form_available", "severity": "critical", "message": "Cần có tờ khai phù hợp hình thức nộp.", "source": {"source_id": "1.001193", "locator": "Thành phần hồ sơ > Bao gồm"}},
+    {"rule_id": "BIRTH-RULE-002", "type": "required", "field_path": "birth_evidence_type", "severity": "critical", "message": "Cần xác định chứng cứ về việc sinh hoặc dữ liệu điện tử tương ứng.", "source": {"source_id": "1.001193", "locator": "Giấy chứng sinh và chứng cứ thay thế"}},
+    {"rule_id": "BIRTH-RULE-003", "type": "conditional_required", "field_path": "residence_document_available", "when": {"field": "residence_data_available", "equals": false}, "severity": "critical", "message": "Cần giấy tờ chứng minh cư trú khi không khai thác được dữ liệu.", "source": {"source_id": "1.001193", "locator": "Giấy tờ chứng minh cư trú"}},
+    {"rule_id": "BIRTH-RULE-004", "type": "conditional_required", "field_path": "authorization_document_available", "when": {"field": "applicant_capacity", "equals": "authorized_representative"}, "severity": "critical", "message": "Người được ủy quyền cần văn bản ủy quyền phù hợp.", "source": {"source_id": "1.001193", "locator": "Văn bản ủy quyền"}},
+    {"rule_id": "BIRTH-RULE-005", "type": "conditional_required", "field_path": "postal_certified_copies_available", "when": {"field": "submission_method", "equals": "postal"}, "severity": "critical", "message": "Hồ sơ bưu chính cần bản sao có chứng thực của giấy tờ phải xuất trình.", "source": {"source_id": "1.001193", "locator": "Hồ sơ gửi qua bưu chính"}},
+    {"rule_id": "BIRTH-RULE-006", "type": "field_compare", "field_path": "special_case", "operator": "equals", "expected": false, "severity": "critical", "message": "Trường hợp đặc biệt nằm ngoài phạm vi pack và cần cơ quan chính thức xem xét.", "source": {"source_id": "1.001193", "locator": "Các trường hợp đặc biệt"}}
+  ],
+  "authority": "Ủy ban nhân dân cấp xã",
+  "processing_time": "Ngay trong ngày tiếp nhận; nếu nhận sau 15 giờ mà không giải quyết được ngay thì trả trong ngày làm việc tiếp theo",
+  "fee": "Miễn đối với đăng ký đúng hạn và các nhóm miễn nêu trong nguồn; đăng ký không đúng hạn theo mức HĐND cấp tỉnh quy định",
+  "source_refs": ["1.001193"],
+  "approval": {
+    "reviewed_by": "Duyen",
+    "reviewer_role": "Evaluator/PM",
+    "reviewer_organization": "none",
+    "reviewed_at": "2026-07-19",
+    "review_notes": "Human K1 approved for the explicit pre-submission readiness scope. Field-level validation of the official form attachment is excluded until the attachment is snapshotted and reviewed."
+  }
+}
