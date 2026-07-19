@@ -346,7 +346,11 @@ export function useProcedureCase(
         created_at: new Date().toISOString(),
       };
       dispatch({ type: "RECORD_FEEDBACK", entry });
-      await submitFeedback(entry);
+      try {
+        await submitFeedback(entry);
+      } catch {
+        // Feedback is best-effort and must never interrupt the procedure flow.
+      }
     },
     [fixtureState],
   );

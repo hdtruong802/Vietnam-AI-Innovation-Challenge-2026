@@ -12,6 +12,15 @@ __pycache__/
 htmlcov/
 tests/
 *.log
+artifacts/
+data_raw/
+dataset_raw/
+Data_DVC/
+*.bin
+*.onnx
+*.pt
+*.pth
+*.safetensors
 
 # Source files not needed by the runtime image
 .git/

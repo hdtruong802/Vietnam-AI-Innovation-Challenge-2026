@@ -36,6 +36,7 @@ export interface TrustMetadata {
   last_verified_at: string | null;
   review_gate: ReviewGate | null;
   fixture_mode: boolean;
+  demo_mode: boolean;
 }
 
 export interface SessionContext {
@@ -227,6 +228,7 @@ export interface ProcedureSummary {
   version: string | null;
   review_status: string;
   fixture_mode: boolean;
+  demo_mode: boolean;
 }
 
 // --- Frontend-only case state ---

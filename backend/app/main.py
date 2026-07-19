@@ -13,7 +13,7 @@ from app.dependencies import AppContainer, build_container
 from app.models.common import APIError, ErrorEnvelope
 from app.models.errors import AppError
 from app.rate_limit import InMemoryRateLimiter
-from app.routers import health, intake, procedures, rag, validation
+from app.routers import feedback, health, intake, procedures, rag, validation
 
 
 def _error_response(
@@ -137,22 +137,29 @@ def create_app(
 
     @app.get("/")
     def root():
-        return {
+        endpoints = {
             "service": "AI Procedure Copilot API",
             "status": "ok",
             "docs": "/docs",
             "health": "/health",
-            "rag_search_get": "/v1/rag/search?query=giay%20chung%20sinh&procedure_id=dang-ky-khai-sinh&top_k=3",
-            "rag_search_post": "/v1/rag/search",
-            "rag_answer_get": "/v1/rag/answer?query=giay%20chung%20sinh&procedure_id=dang-ky-khai-sinh&top_k=3",
-            "rag_answer_post": "/v1/rag/answer",
+            "intake_turn": "/v1/intake/turn",
         }
+        if runtime_settings.legacy_rag_enabled:
+            endpoints.update(
+                {
+                    "legacy_rag_search": "/v1/rag/search",
+                    "legacy_rag_answer": "/v1/rag/answer",
+                }
+            )
+        return endpoints
 
     app.include_router(health.router)
     app.include_router(procedures.router)
     app.include_router(intake.router)
     app.include_router(validation.router)
-    app.include_router(rag.router)
+    app.include_router(feedback.router)
+    if runtime_settings.legacy_rag_enabled:
+        app.include_router(rag.router)
     return app
 
 

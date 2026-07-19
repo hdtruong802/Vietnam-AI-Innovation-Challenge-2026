@@ -22,7 +22,11 @@ export default function OfficialReviewCard({ message, trustMetadata }: OfficialR
         <h3 className="text-sm font-bold text-[var(--vg-error)]">Cần cơ quan có thẩm quyền xem xét</h3>
       </div>
 
-      <TrustBadge trustState="official_review_required" fixtureMode={trustMetadata?.fixture_mode} />
+      <TrustBadge
+        trustState="official_review_required"
+        fixtureMode={trustMetadata?.fixture_mode}
+        demoMode={trustMetadata?.demo_mode}
+      />
 
       <p className="text-xs text-[var(--vg-text-secondary)] leading-relaxed font-medium">{message}</p>
 

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "record_type": "commit_evidence",
+  "ai_log_id": "log-b58b88ce6f5d49a685c22fff",
+  "created_at": "2026-07-19T01:42:52.657359Z",
+  "member_id": "hdtruong802",
+  "branch": "fix/local-20260719-pr38-black",
+  "parent_commit": "1fc6e57084ff50734cbadedb3a70dee815b95275",
+  "task_records": [
+    "local-20260719-pr38-ci"
+  ],
+  "prompt_ids": [
+    "prompt-3b192a4f308fa17afa8c3f46"
+  ],
+  "tools": [
+    "codex"
+  ],
+  "capture_status": "manual",
+  "warnings": [],
+  "operation": "commit",
+  "replaces_ai_log": null
+}

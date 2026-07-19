@@ -26,7 +26,12 @@ export default function PreliminaryPassState({
         Đã vượt qua kiểm tra sơ bộ
       </h5>
       <p className="text-[10px] leading-relaxed font-semibold text-[var(--vg-success)]">{summaryMessage}</p>
-      <TrustBadge trustState={trustMetadata?.trust_state ?? null} fixtureMode={trustMetadata?.fixture_mode} />
+      <TrustBadge
+        trustState={trustMetadata?.trust_state ?? null}
+        fixtureMode={trustMetadata?.fixture_mode}
+        demoMode={trustMetadata?.demo_mode}
+      />
+
       <button
         type="button"
         onClick={onConfirmU3}

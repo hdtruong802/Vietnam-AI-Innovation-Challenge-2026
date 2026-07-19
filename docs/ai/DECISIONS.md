@@ -36,6 +36,10 @@ Decision Log lưu các quyết định liên lane hoặc khó đảo ngược: s
 | D-020 | Accepted | Demo gate client-side một chạm, không account/backend auth | `local-20260718-seeded-auth` | 2026-07-18 |
 | D-021 | Accepted | Waiver hẹp cho hai commit lịch sử thiếu AI Log | `local-20260719-pr32-merge-readiness` | 2026-07-19 |
 | D-022 | Accepted | Giao diện demo light-only, không phụ thuộc system theme | `local-20260719-light-only-theme` | 2026-07-19 |
+| D-023 | Accepted | Hiển thị checklist fixture trong demo nhưng không cấp verified guidance | `local-20260718-safe-demo-checklist` | 2026-07-18 |
+| D-024 | Accepted | Demo-approved MVP không được giả mạo K1 | `local-20260719-demo-phases-0-5` | 2026-07-19 |
+| D-025 | Accepted | Deterministic intake guard và conservative typo routing cho ba MVP | `local-20260719-phase6-1-intent-router` | 2026-07-19 |
+| D-026 | Accepted | Legacy RAG opt-in và backend container demo offline an toàn | `local-20260719-phase7-legacy-rag-docker` | 2026-07-19 |
 
 ---
 
@@ -394,6 +398,98 @@ Không có migration, cloud state, secret hoặc API contract cần thu hồi.
 
 ---
 
+## D-023 — Hiển thị checklist fixture trong demo nhưng không cấp verified guidance
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-18
+- **Người đề xuất:** User và Codex
+- **Phạm vi:** API | demo | UI
+- **Task Record:** `local-20260718-safe-demo-checklist`
+- **Peer xác nhận:** User chọn Option 1: hiển thị checklist/form mẫu, giữ cảnh báo và không xác minh nguồn
+
+### Bối cảnh
+
+D-013 buộc pack chưa qua K1 trả `official_review_required`; implementation hiện tại đồng thời xóa checklist/form và frontend chuyển thẳng sang màn hình chặn. Điều này an toàn nhưng làm luồng demo U2/U3 không thể thao tác dù fixture đã được gắn `fixture_mode=true` và nội dung chỉ là dữ liệu kiểm thử.
+
+### Quyết định
+
+Cho phép response checklist mang `fixture_mode=true` chứa checklist, steps và form schema của fixture để kiểm thử luồng giao diện. Response vẫn phải là `official_review_required`, `last_verified_at=null`, không được hiển thị badge "Đã xác minh nguồn", không được tạo verdict tiền kiểm và phải ghi rõ dữ liệu mẫu không phải yêu cầu hồ sơ thật. Pack RAG/disabled chưa approved không được hưởng ngoại lệ này.
+
+Không thêm endpoint hoặc đổi request schema. Frontend dùng tổ hợp `fixture_mode=true` và `official_review_required` để render checklist/form demo; mọi response official-review khác vẫn chặn như D-013.
+
+### Hệ quả và kiểm chứng
+
+- Demo có thể đi qua checklist/form của ba fixture pack mà không giả mạo K1.
+- Test backend phải chứng minh fixture có nội dung nhưng trust vẫn official-review; candidate RAG vẫn không phát nội dung.
+- Test frontend phải chứng minh fixture official-review vào `checklist_review`, còn non-fixture official-review vẫn vào màn hình chặn.
+
+### Rollback / fallback
+
+Revert task commit để quay lại hành vi strip toàn bộ fixture content. Không có migration, data release hoặc secret cần thu hồi.
+
+---
+
+## D-024 — Demo-approved MVP không được giả mạo K1
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-19
+- **Người đề xuất:** User và Codex tiếp nhận handoff từ Claude
+- **Phạm vi:** API | data | model/provider | demo
+- **Task Record:** `local-20260719-demo-phases-0-5`
+- **Peer xác nhận:** User xác nhận chỉ ba pack MVP được dùng như dữ liệu demo đã kiểm thử, không gọi là K1
+
+### Bối cảnh
+
+Commit `5a91f09` thêm ba pack giàu nội dung với `demo_pack=true` nhưng dùng `review_status=approved`, `last_verified_at` và có thể phát `verified_guidance`. Đây là phê duyệt kỹ thuật cho trình diễn, không có manifest/evidence human K1. Frontend tại base chưa hiểu `demo_mode`, nên bật mode này có thể hiển thị nhầm "Đã xác minh nguồn".
+
+### Quyết định
+
+- Thêm lifecycle riêng `review_status=demo_approved` cho đúng ba pack MVP. Trạng thái này không thỏa điều kiện K1 của `TrustPolicy` và không phát `verified_guidance` hoặc `last_verified_at` như nguồn chính thức.
+- `demo_mode=true` là cờ additive bắt buộc trên mọi response từ demo pack. UI phải hiển thị watermark thường trực "Đã kiểm thử cho demo MVP" và "Không phải K1"; nếu nhận nhầm `demo_mode + verified_guidance`, UI vẫn hạ badge về official review.
+- Demo mode được phép render checklist, procedure card, steps, form schema và chạy RuleEngine deterministic để diễn tập. Verdict/finding chỉ là kết quả mô phỏng và response vẫn mang `official_review_required`; LLM chỉ diễn giải finding, không đổi verdict.
+- Feedback API chỉ nhận metadata giới hạn; không persist/log session ID, note hoặc form data. LLM gateway mặc định disabled, dùng env local/secret manager và có kill switch bằng `LLM_MODE=disabled` hoặc thiếu key.
+- Không bật legacy RAG, không deploy và không gọi provider thật trong task Phase 0-5.
+
+### Hệ quả và kiểm chứng
+
+- A6/backend tests phải chứng minh `false_verified=0` cho demo nhưng checklist/precheck vẫn hoạt động.
+- Frontend tests phải chứng minh watermark xuất hiện ở intake/checklist/precheck và badge verified không thể xuất hiện trong demo mode.
+- Gateway enabled/disabled phải giữ nguyên findings/verdict; fallback không gửi raw PII.
+- `POST /v1/feedback` là route additive; OpenAPI contract và strict validation được test.
+
+### Rollback / fallback
+
+Đặt `PROCEDURE_DATA_MODE=fixture`, `LLM_MODE=disabled` hoặc revert task commit. Không có migration, secret, cloud state hay raw data cần thu hồi.
+
+---
+
+## D-025 — Deterministic intake guard và conservative typo routing
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-19
+- **Người đề xuất:** User và Codex theo kết quả Phase 6
+- **Phạm vi:** API behavior | intent routing | demo safety
+- **Task Record:** `local-20260719-phase6-1-intent-router`
+- **Peer xác nhận:** User yêu cầu triển khai Phase 6.1 sau khi golden gate đạt 48/60
+
+### Bối cảnh
+
+Phase 6 ghi nhận tám typo bị bỏ sót, bốn near-intent bị route quá rộng và 18 câu greeting/out-of-scope/near-intent trả `need_more_information` thay vì fail-closed. `false_verified` vẫn bằng 0. Matcher hiện tại chỉ kiểm tra alias substring nên không biểu diễn được disposition trước retrieval.
+
+### Quyết định
+
+- Chạy deterministic guard trước recommendation cho greeting, out-of-scope và unsupported near-intent. Các nhóm này không gọi retrieval/LLM; greeting trả `need_more_information`, còn out-of-scope/near-intent trả `official_review_required`.
+- Câu không đủ dữ kiện nhưng không khớp guard tiếp tục trả `need_more_information`.
+- Demo recommendation dùng exact alias trước, sau đó mới dùng standard-library similarity trên alias nhiều từ với threshold và margin bảo thủ. Không fuzzy-match alias một từ.
+- Public endpoint/model không đổi. TrustPolicy, Procedure Pack, checklist, rule engine và ranh giới K1 của D-024 không đổi.
+- Golden corpus Phase 6 được giữ nguyên làm acceptance gate: routing 60/60, không false/missed/wrong route, fail-closed error bằng 0 và `false_verified` bằng 0.
+
+### Rollback / fallback
+
+Revert task commit để quay lại exact substring matcher và baseline Phase 6. Không có dependency, migration, secret, data release hoặc cloud state cần thu hồi.
+
+---
+
 ## D-020 — Demo gate client-side một chạm
 
 - **Trạng thái:** Accepted
@@ -478,6 +574,8 @@ Xóa hai entry exemption và revert logic guard để khôi phục strict histor
 ### Rollback / fallback
 
 Revert thay đổi D-022 và CSS để quay lại behavior cũ theo system preference. Không ảnh hưởng API, auth, backend, dữ liệu hay deploy runtime.
+
+---
 
 ---
 
@@ -695,3 +793,86 @@ Revert các trường frontend additive nếu consumer incompatibility; chuyển
 ### Rollback / fallback
 <Cách quay lại hoặc cách demo nếu phương án lỗi.>
 ```
+
+---
+
+## D-026 - Legacy RAG opt-in and offline-safe backend container
+
+- **Trang thai:** Accepted
+- **Ngay:** 2026-07-19
+- **Nguoi de xuat:** User va Codex
+- **Pham vi:** API | deploy artifact | demo | safety
+- **Task Record:** `local-20260719-phase7-legacy-rag-docker`
+- **Peer xac nhan:** User chon Phase 7 Option 1
+
+### Boi canh
+
+D-013 cong khai hai route RAG additive, nhung frontend hien tai da dung mot flow
+canonical qua `/v1/intake/turn`. Backend van mount va quang ba hai route legacy
+ngay ca khi `LEGACY_RAG_ENABLED=false`, lam tang public surface va tao hai runtime
+flow co the lech nhau. Docker image hien chua khai bao ro demo/offline defaults va
+chua co container healthcheck.
+
+### Quyet dinh
+
+- Giu source code legacy RAG de debug, nhung chi mount router khi
+  `LEGACY_RAG_ENABLED=true`.
+- Khi flag la `false` (default), `/v1/rag/search` va `/v1/rag/answer` tra 404,
+  khong xuat hien trong OpenAPI va khong duoc quang ba o root response.
+- Frontend tiep tuc chi dung `/v1/intake/turn`; khong them compatibility fallback
+  sang legacy RAG.
+- Backend container mac dinh chay `PROCEDURE_DATA_MODE=demo_pack`,
+  `RAG_MODE=disabled`, `LLM_MODE=disabled`, `LEGACY_RAG_ENABLED=false`, bang
+  non-root user va co healthcheck dung Python standard library.
+- Image chi copy runtime backend code va locked dependencies. Khong copy `.env`,
+  raw corpus, generated RAG artifacts, tests, model assets hoac secrets; khong goi
+  provider va khong tai model trong build/smoke cua task nay.
+
+### He qua va kiem chung
+
+- Default public API co mot conversation flow canonical va fail closed.
+- Local developer van co the bat legacy endpoints mot cach co chu dich bang env
+  flag va restart backend.
+- Contract tests phai kiem tra ca hai trang thai flag; Docker contract phai kiem
+  tra offline defaults, healthcheck, non-root user va build context allowlist.
+- Docker runtime smoke chi chay khi daemon va base image local san sang, khong pull.
+
+### Rollback / fallback
+
+Dat `LEGACY_RAG_ENABLED=true` cho debug local, hoac revert task commit de quay lai
+mount router vo dieu kien. Khong co migration, secret, provider hay cloud state can
+thu hoi.
+
+---
+
+## D-027 — Giữ AI Log strict cho commit mới, miễn có audit cho legacy PR #38
+
+- **Trạng thái:** Accepted
+- **Ngày:** 2026-07-19
+- **Người đề xuất:** Codex theo yêu cầu người dùng
+- **Phạm vi:** process | tooling | CI
+- **Task Record:** `local-20260719-pr38-ci`
+- **Publish (tùy chọn):** PR #38
+- **Peer xác nhận:** Người dùng xác nhận trực tiếp trong phiên ngày 2026-07-19
+
+### Bối cảnh
+
+PR #38 chứa mười commit non-merge được tạo trước khi branch đó dùng AI Log repository-scoped. Vì `policy.json` đã hiện diện từ base, policy-presence enforcement đánh nhầm các commit legacy này và chặn merge.
+
+### Lựa chọn đã cân nhắc
+
+1. Viết lại lịch sử để thêm trailer/evidence — rủi ro cao, không cần thiết cho demo.
+2. Tắt history enforcement — làm mất kiểm soát cho mọi commit mới.
+3. Liệt kê chính xác mười SHA legacy với lý do trong policy — giữ enforcement nghiêm ngặt cho phần lịch sử còn lại.
+
+### Quyết định
+
+Chọn phương án 3. `exemptCommitOids` chỉ thêm mười SHA đã được CI liệt kê; merge commit vẫn dùng exemption có sẵn. Commit mới phải tiếp tục có `AI-Log` trailer và evidence hợp lệ.
+
+### Hệ quả và kiểm chứng
+
+`python scripts/ci/validate_repo.py --range origin/main...HEAD` phải pass, trong khi một commit mới thiếu trailer vẫn bị guard phát hiện trong test fixture. Không thay đổi API/runtime hoặc xóa lịch sử.
+
+### Rollback / fallback
+
+Revert commit sửa policy để khôi phục enforcement trước đó; nếu có commit legacy khác, đánh giá và thêm Decision/peer confirmation riêng thay vì miễn theo wildcard.

@@ -29,15 +29,19 @@ class TrustPolicy:
             and bool(pack.checksum)
             and is_current
         )
-        trust_state = requested_state if can_verify else TrustState.OFFICIAL_REVIEW_REQUIRED
+        if pack.demo_pack and requested_state == TrustState.NEED_MORE_INFORMATION:
+            trust_state = TrustState.NEED_MORE_INFORMATION
+        else:
+            trust_state = requested_state if can_verify else TrustState.OFFICIAL_REVIEW_REQUIRED
 
         return TrustMetadata(
             trust_state=trust_state,
             procedure_version=pack.version,
             source_refs=pack.source_refs,
-            last_verified_at=pack.last_verified_at,
+            last_verified_at=pack.last_verified_at if can_verify and not pack.demo_pack else None,
             review_gate=review_gate,
             fixture_mode=pack.review_status == ReviewStatus.FIXTURE,
+            demo_mode=pack.demo_pack,
         )
 
     def needs_more_information(self, review_gate: ReviewGate | None = None) -> TrustMetadata:

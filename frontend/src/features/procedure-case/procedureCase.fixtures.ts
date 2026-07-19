@@ -54,6 +54,7 @@ function baseTrust() {
     last_verified_at: "2026-07-17",
     review_gate: null,
     fixture_mode: true,
+    demo_mode: false,
   };
 }
 

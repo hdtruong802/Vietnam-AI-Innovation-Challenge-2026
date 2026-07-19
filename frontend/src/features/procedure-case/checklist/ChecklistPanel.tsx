@@ -33,12 +33,21 @@ export default function ChecklistPanel({
     <div className="flex-1 flex flex-col overflow-y-auto p-5 space-y-6 bg-[var(--vg-surface)]">
       <div className="border-b border-[var(--vg-border)] pb-4 shrink-0 space-y-2">
         <span className="text-[10px] font-bold text-[var(--vg-accent)] tracking-wider uppercase">
-          Cơ sở pháp lý & Tài liệu
+          {checklist.fixture_mode || checklist.demo_mode ? "Checklist & biểu mẫu demo" : "Cơ sở pháp lý & Tài liệu"}
         </span>
         <h2 className="text-base font-bold text-[var(--vg-text)]">{checklist.procedure_name}</h2>
-        <TrustBadge trustState={checklist.trust_state} fixtureMode={checklist.fixture_mode} />
-        {checklist.fixture_mode && (
-          <p className="text-[10px] text-[var(--vg-text-muted)] font-medium">{checklist.message_plain}</p>
+        <TrustBadge
+          trustState={checklist.trust_state}
+          fixtureMode={checklist.fixture_mode}
+          demoMode={checklist.demo_mode}
+        />
+        {(checklist.fixture_mode || checklist.demo_mode) && (
+          <p
+            role="status"
+            className="rounded-md border border-amber-200 bg-amber-50 px-3 py-2 text-xs font-semibold leading-relaxed text-amber-900"
+          >
+            {checklist.message_plain}
+          </p>
         )}
       </div>
 
@@ -83,7 +92,12 @@ export default function ChecklistPanel({
 
       <FeedbackControls context="checklist" onSubmit={onFeedback} />
       <GuidanceDisclaimer />
-      <ChecklistReviewActions canConfirm={canConfirmU2} onConfirm={onConfirmU2} />
+      <ChecklistReviewActions
+        canConfirm={canConfirmU2}
+        fixtureMode={checklist.fixture_mode}
+        demoMode={checklist.demo_mode}
+        onConfirm={onConfirmU2}
+      />
     </div>
   );
 }

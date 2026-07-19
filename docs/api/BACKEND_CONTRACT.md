@@ -8,7 +8,11 @@
 - Mọi response có thể được hiểu là hướng dẫn mang `trust_state`, `procedure_version`, `source_refs`, `last_verified_at`, `review_gate` và `fixture_mode`.
 - Chỉ pack `approved` có source, checksum và metadata hiệu lực mới có thể trả `verified_guidance`.
 - `PROCEDURE_DATA_MODE=fixture` chỉ phục vụ local integration. Mọi response fixture trả `official_review_required`; không dùng cho hướng dẫn thật hoặc production.
-- Runtime production demo dùng `PROCEDURE_DATA_MODE=disabled`, `RAG_MODE=disabled` và `LLM_MODE=disabled`. `/health` trả `degraded`; catalog chỉ là ba summary `unavailable`; checklist/validation không được trả fixture, rule finding hoặc `verified_guidance`.
+- Backend image mac dinh la demo offline: `PROCEDURE_DATA_MODE=demo_pack`,
+  `RAG_MODE=disabled`, `LLM_MODE=disabled` va `LEGACY_RAG_ENABLED=false`.
+  Demo pack luon tra `official_review_required` va khong duoc coi la K1.
+- Cloud Run backend-only theo D-012 van phai override
+  `PROCEDURE_DATA_MODE=disabled`; catalog khi do chi la ba summary `unavailable`.
 - Backend không lưu transcript/form draft. `SessionContext` là state có cấu trúc do client gửi lại, không chứa full chat history.
 
 ## Routes
@@ -21,8 +25,8 @@
 | `POST` | `/v1/intake/turn` | Một lượt intake stateless. |
 | `POST` | `/v1/procedures/{procedure_id}/checklist` | Checklist, steps và form schema. |
 | `POST` | `/v1/applications/validate` | Deterministic pre-check. |
-| `GET`, `POST` | `/v1/rag/search` | Tìm evidence approved/deterministic cho demo; không có hit thì fail closed. |
-| `GET`, `POST` | `/v1/rag/answer` | Diễn giải grounded từ evidence; thiếu evidence/key hoặc provider lỗi thì `official_review_required`. |
+| `GET`, `POST` | `/v1/rag/search` | Legacy local-debug route; chi mount khi `LEGACY_RAG_ENABLED=true`. |
+| `GET`, `POST` | `/v1/rag/answer` | Legacy local-debug route; chi mount khi `LEGACY_RAG_ENABLED=true`. |
 
 `POST /v1/intake/turn` nhận `session_id`, `message` tối đa 500 ký tự và optional `session_context`. Không gửi `messages[]` hay transcript đầy đủ.
 
@@ -32,7 +36,9 @@
 
 ## Prototype flow read models (D-018)
 
-Frontend dùng sáu route guided-intake/pre-check và hai route RAG additive. Các route RAG chỉ trả evidence hoặc diễn giải grounded có citation; chúng không thay deterministic validation, trust state hay official review.
+Frontend dung sau route guided-intake/pre-check, voi `/v1/intake/turn` la flow
+hoi thoai canonical. Hai route RAG additive cua D-018 nay la legacy opt-in theo
+D-026, khong xuat hien trong OpenAPI mac dinh va khong duoc frontend fallback sang.
 
 ### Intake turn
 

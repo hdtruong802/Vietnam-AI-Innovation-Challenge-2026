@@ -41,6 +41,8 @@ def rag_client() -> TestClient:
         procedure_data_mode="rag",
         rag_mode="rag",
         llm_mode="gateway",
+        openai_api_key="",
+        **{"AI_API_KEY": ""},
     )
     return TestClient(create_app(settings=settings))
 
@@ -156,7 +158,13 @@ def test_checklist_endpoint_requires_official_review_for_candidate_sources(
     assert body["trust_state"] == "official_review_required"
     assert body["fixture_mode"] is False
     assert body["source_refs"]
+    # D-016 (web-to-API): candidate NEEDS_REVIEW packs may expose their cited
+    # document checklist for review, but steps/form/precheck stay locked.
     assert body["required_documents"]
+    assert all(item["source_ref_ids"] for item in body["required_documents"])
+    assert body["steps"] == []
+    assert body["form_schema"] == {}
+    assert body["procedure_card"] is None
 
 
 @requires_source_data

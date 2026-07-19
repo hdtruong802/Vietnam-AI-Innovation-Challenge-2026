@@ -24,7 +24,7 @@ class Settings(BaseSettings):
     )
     max_intake_chars: int = Field(default=500, ge=1, le=2_000)
     max_body_bytes: int = Field(default=65_536, ge=1_024, le=1_048_576)
-    procedure_data_mode: Literal["fixture", "disabled", "external", "rag"] = "fixture"
+    procedure_data_mode: Literal["fixture", "disabled", "external", "rag", "demo_pack"] = "fixture"
     rag_mode: Literal["disabled", "external", "rag"] = "disabled"
     llm_mode: Literal["disabled", "external", "gateway"] = "disabled"
     legacy_rag_enabled: bool = False

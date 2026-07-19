@@ -83,6 +83,8 @@ Scaffold đã có, nhưng chưa có evidence chung rằng product flow/local che
 ```text
 Backend start: `cd backend; uvicorn main:app --port 8000 --reload`
 Frontend start: `cd frontend; npm run dev`
+Canonical conversation API: `POST /v1/intake/turn`
+Legacy RAG debug: set `LEGACY_RAG_ENABLED=true` and restart; disabled by default
 Application test/build: theo manifest và Task Record; chưa có evidence chung
 Deploy smoke: TBD
 Demo seed/reset: TBD
@@ -95,6 +97,12 @@ Demo seed/reset: TBD
 | Deterministic validation | Bắt đúng lỗi seed, không LLM verdict | `TBD` | `TBD` |
 | Provider failure | Guidance seed/rules vẫn giải thích được | `TBD` | `TBD` |
 | Fresh startup/deploy | Public URL và health pass | `TBD` | `TBD` |
+
+Phase 7 local evidence (2026-07-19): default OpenAPI omits both legacy RAG routes,
+explicit opt-in restores them, backend/evaluation regression is `90 passed`, and
+the 60-case golden gate reports `false_verified=0`. Static Docker contract is
+`2 passed`; container build/runtime smoke remains unverified because the local
+Docker daemon was not running, and no image pull was attempted.
 
 ## Fallback matrix
 

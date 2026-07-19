@@ -139,11 +139,6 @@ export async function listProcedures(): Promise<ProcedureSummary[]> {
   return (await res.json()) as ProcedureSummary[];
 }
 
-// No backend feedback endpoint exists yet (FR-8). This stub keeps the call
-// site shape stable so wiring a real POST later is a one-line swap; it must
-// not attempt a network call to a URL that doesn't exist.
 export async function submitFeedback(entry: FeedbackEntry): Promise<void> {
-  // TODO: no backend endpoint yet — logs locally only; swap body for a real
-  // POST /v1/feedback (or similar) once available.
-  console.debug("[procedure-case] feedback recorded (local only)", entry);
+  await postJson<{ status: "accepted" }>("/v1/feedback", entry);
 }
