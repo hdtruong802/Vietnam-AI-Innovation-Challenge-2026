@@ -110,7 +110,7 @@ export default function FeaturedServicesAndNews({ onSelectProcedure, onGoCopilot
             <span className="w-9 h-9 rounded-full bg-[#fff2dc] text-gov-red flex items-center justify-center shrink-0">
               <DocCheckIcon className="w-[18px] h-[18px]" />
             </span>
-            <h3 className="text-2xl-plus font-sans font-semibold text-primary text-balance">Dịch vụ công nổi bật</h3>
+            <h3 className="text-2xl font-sans font-semibold text-primary text-balance">Dịch vụ công nổi bật</h3>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-6 divide-y divide-border-slate md:divide-y-0 font-sans">
@@ -155,7 +155,7 @@ export default function FeaturedServicesAndNews({ onSelectProcedure, onGoCopilot
               <span className="w-9 h-9 rounded-full bg-[#fff2dc] text-gov-red flex items-center justify-center shrink-0">
                 <GuideBookIcon className="w-[18px] h-[18px]" />
               </span>
-              <h3 className="text-2xl-plus font-sans font-semibold text-primary text-balance">Cập nhật mới nhất</h3>
+              <h3 className="text-2xl font-sans font-semibold text-primary text-balance">Cập nhật mới nhất</h3>
             </div>
             <button onClick={() => onComingSoon("Kho văn bản tin tức đang được đồng bộ.")} className="text-sm font-bold text-gov-red hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gov-red/40 rounded-sm">Xem tất cả</button>
           </div>

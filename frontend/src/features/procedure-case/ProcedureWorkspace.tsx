@@ -100,11 +100,11 @@ export default function ProcedureWorkspace({
           <Image src={vngovSymbol} alt="Biểu tượng VNGov" className="w-9 h-9 shrink-0 object-contain" priority unoptimized />
           <Image src={portalLogo} alt="Cổng dịch vụ công Quốc gia" className="h-7 w-auto hidden sm:block" priority />
           <span className="text-[var(--vg-border-strong)] font-light text-lg hidden sm:inline">|</span>
-          <div className="flex items-center gap-2 min-w-0">
-            <span className="text-base font-bold tracking-tight text-[var(--vg-text)] truncate">
+          <div className="flex flex-col min-w-0 leading-tight">
+            <span className="text-base font-bold tracking-tight text-[var(--vg-accent)] truncate">
               VNGov Copilot
             </span>
-            <span className="text-2xs font-semibold text-[var(--vg-text-muted)] hidden md:inline">
+            <span className="text-2xs font-semibold text-[var(--vg-text-muted)] hidden md:block truncate">
               Trợ lý AI cho dịch vụ công
             </span>
           </div>
@@ -113,21 +113,21 @@ export default function ProcedureWorkspace({
         <div className="flex items-center gap-2.5 shrink-0">
           <button
             onClick={onGoLanding}
-            className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full border border-[var(--vg-border)] bg-[var(--vg-surface)] hover:bg-[var(--vg-surface-subtle)] text-xs font-bold text-[var(--vg-accent)] transition-all"
+            className="flex items-center gap-1.5 px-3.5 py-2 rounded-lg border border-[var(--vg-border)] bg-[var(--vg-surface)] hover:bg-[var(--vg-surface-subtle)] text-sm font-bold text-[var(--vg-accent)] transition-all focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none"
           >
             ← Quay lại Trang chủ
           </button>
 
           <button
             onClick={actions.resetSession}
-            className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-[var(--vg-border)] bg-[var(--vg-surface)] hover:bg-[var(--vg-surface-subtle)] text-xs font-semibold text-[var(--vg-text-secondary)] transition-all"
+            className="hidden md:flex items-center gap-1.5 px-3 py-2 rounded-lg border border-[var(--vg-border)] bg-[var(--vg-surface)] hover:bg-[var(--vg-surface-subtle)] text-sm font-semibold text-[var(--vg-text-secondary)] transition-all focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none"
           >
             Xóa dữ liệu phiên
           </button>
 
           <div
             role="status"
-            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full border text-2xs font-bold transition-colors duration-200 ${
+            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full border text-xs font-bold transition-colors duration-200 ${
               state.availability.backendReachable
                 ? "bg-[var(--vg-success-soft)] border-[var(--vg-success)]/30 text-[var(--vg-success)]"
                 : "bg-[var(--vg-error-soft)] border-[var(--vg-error)]/30 text-[var(--vg-error)]"
@@ -140,12 +140,12 @@ export default function ProcedureWorkspace({
           </div>
 
           <div className="hidden text-right sm:block">
-            <p className="text-xs font-bold text-[var(--vg-accent)]">{user?.display_name ?? "Người dùng"}</p>
+            <p className="text-sm font-bold text-[var(--vg-accent)]">{user?.display_name ?? "Người dùng"}</p>
             <button
               type="button"
               onClick={onLogout}
               disabled={avatarDisabled}
-              className="text-2xs font-semibold text-[var(--vg-text-muted)] hover:text-[var(--vg-error)] disabled:opacity-40 disabled:cursor-not-allowed"
+              className="text-xs font-semibold text-[var(--vg-text-muted)] hover:text-[var(--vg-error)] disabled:opacity-40 disabled:cursor-not-allowed rounded focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none"
             >
               Đăng xuất
             </button>
@@ -157,7 +157,7 @@ export default function ProcedureWorkspace({
             disabled={avatarDisabled}
             aria-label="Đăng xuất"
             title={avatarDisabled ? "Không khả dụng trong chế độ xem trước" : undefined}
-            className="w-8 h-8 rounded-full bg-[var(--vg-surface-subtle)] border border-[var(--vg-border)] flex items-center justify-center font-bold text-xs text-[var(--vg-accent)] hover:bg-[var(--vg-gold-soft)] transition-all disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-[var(--vg-surface-subtle)]"
+            className="w-8 h-8 rounded-full bg-[var(--vg-surface-subtle)] border border-[var(--vg-border)] flex items-center justify-center font-bold text-xs text-[var(--vg-accent)] hover:bg-[var(--vg-gold-soft)] transition-all disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-[var(--vg-surface-subtle)] focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none"
           >
             {(user?.display_name ?? "ND").slice(0, 2).toUpperCase()}
           </button>

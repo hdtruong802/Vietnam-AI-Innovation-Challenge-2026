@@ -1,6 +1,7 @@
 import Image from "next/image";
 import trongDong from "@/image/trong_dong.png";
 import hoaSen from "@/image/hoa_sen.png";
+import { AiBadge } from "./icons";
 
 interface LandingHeroProps {
   searchQuery: string;
@@ -88,8 +89,9 @@ export default function LandingHero({ searchQuery, onSearchQueryChange, onSearch
             <button
               type="submit"
               aria-label="Tìm kiếm"
-              className="px-4 py-3 aspect-square bg-gov-red text-white rounded-lg hover:bg-gov-red-hover transition-all flex items-center justify-center gap-2 text-sm font-bold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/70"
+              className="relative px-4 py-3 aspect-square bg-gov-red text-white rounded-lg hover:bg-gov-red-hover transition-all flex items-center justify-center gap-2 text-sm font-bold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/70"
             >
+              <AiBadge className="absolute -top-1.5 -right-1.5" />
               <svg viewBox="0 0 20 20" fill="none" className="w-4 h-4" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="9" cy="9" r="6.5" stroke="currentColor" strokeWidth="1.8" />
                 <path d="M14 14L18 18" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" />

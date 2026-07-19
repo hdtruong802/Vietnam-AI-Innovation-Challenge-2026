@@ -19,7 +19,7 @@ export default function LandingFooter({ onComingSoon }: LandingFooterProps) {
             <Image src={vngovSymbol} alt="Biểu tượng VNGov" className="w-10 h-10 shrink-0 object-contain" unoptimized />
             <div>
               <h4 className="font-sans font-bold text-sm text-white">CỔNG DỊCH VỤ CÔNG QUỐC GIA</h4>
-              <p className="text-sm uppercase font-bold text-gov-gold tracking-wider">Kết nối, cung cấp thông tin và dịch vụ công mọi lúc, mọi nơi</p>
+              <p className="text-xs font-bold text-gov-gold">Kết nối, cung cấp thông tin và dịch vụ công mọi lúc, mọi nơi</p>
             </div>
           </div>
           <div className="space-y-2 text-white/85 font-medium">

@@ -23,7 +23,7 @@ export default function LandingHeader({
       <div className="w-full bg-amber-50 border-b border-amber-200 text-center text-2xs md:text-xs font-medium text-amber-800 px-4 py-1">
         Sản phẩm thử nghiệm tại VAIC 2026 – không phải cổng dịch vụ công chính thức.
       </div>
-      <div className="max-w-[1440px] mx-auto flex items-center justify-between gap-6 px-6 md:px-12 py-5">
+      <div className="max-w-[1440px] mx-auto flex items-center justify-between gap-6 px-6 md:px-12 py-3">
         <div className="flex items-center gap-3 relative z-10">
           <Image src={vngovSymbol} alt="Biểu tượng VNGov" className="w-11 h-11 md:w-12 md:h-12 shrink-0 object-contain" priority unoptimized />
           <Image
