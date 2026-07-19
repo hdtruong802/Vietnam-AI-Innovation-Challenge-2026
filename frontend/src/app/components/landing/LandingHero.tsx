@@ -1,6 +1,7 @@
 import Image from "next/image";
 import trongDong from "@/image/trong_dong.png";
 import hoaSen from "@/image/hoa_sen.png";
+import { AiBadge } from "./icons";
 
 interface LandingHeroProps {
   searchQuery: string;
@@ -65,12 +66,12 @@ export default function LandingHero({ searchQuery, onSearchQueryChange, onSearch
 
       <div className="portal-container relative z-30">
         <div className="max-w-[620px] text-left">
-          <h1 className="text-3xl md:text-5xl font-sans font-bold text-white leading-[1.18] tracking-tight drop-shadow-md">
+          <h1 className="text-3xl md:text-5xl font-sans font-bold text-white leading-[1.18] tracking-tight drop-shadow-md text-balance">
             Kết nối, cung cấp<br />
             thông tin và dịch vụ công<br />
             mọi lúc, mọi nơi
           </h1>
-          <p className="text-sm md:text-base text-white/90 mt-4 max-w-xl leading-relaxed font-medium">
+          <p className="text-sm md:text-base text-white/90 mt-4 max-w-xl leading-relaxed font-medium text-pretty">
             Cổng Dịch vụ công Quốc gia là cầu nối giữa cơ quan nhà nước và người dân, doanh nghiệp trên môi trường số.
           </p>
 
@@ -88,8 +89,9 @@ export default function LandingHero({ searchQuery, onSearchQueryChange, onSearch
             <button
               type="submit"
               aria-label="Tìm kiếm"
-              className="px-4 py-3 aspect-square bg-gov-red text-white rounded-lg hover:bg-gov-red-hover transition-all flex items-center justify-center gap-2 text-sm font-bold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/70"
+              className="relative px-4 py-3 aspect-square bg-gov-red text-white rounded-lg hover:bg-gov-red-hover transition-all flex items-center justify-center gap-2 text-sm font-bold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-white/70"
             >
+              <AiBadge className="absolute -top-1.5 -right-1.5" />
               <svg viewBox="0 0 20 20" fill="none" className="w-4 h-4" xmlns="http://www.w3.org/2000/svg">
                 <circle cx="9" cy="9" r="6.5" stroke="currentColor" strokeWidth="1.8" />
                 <path d="M14 14L18 18" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" />

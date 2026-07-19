@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "record_type": "commit_evidence",
+  "ai_log_id": "log-8311298f2d214d45927eb854",
+  "created_at": "2026-07-19T03:26:42.011778Z",
+  "member_id": "nmhongtram",
+  "branch": "tram",
+  "parent_commit": "08425c5fabe4616152777ab3497981f1b3579585",
+  "task_records": [
+    "local-20260718-ai-log-onboard"
+  ],
+  "prompt_ids": [],
+  "tools": [],
+  "capture_status": "no_new_prompt",
+  "warnings": [],
+  "operation": "commit",
+  "replaces_ai_log": null
+}

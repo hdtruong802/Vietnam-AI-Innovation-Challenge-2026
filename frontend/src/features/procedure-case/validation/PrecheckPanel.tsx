@@ -1,6 +1,7 @@
 "use client";
 
 import type { FeedbackReasonCode, Finding, FlowState, TrustMetadata, ValidationResponse } from "../procedureCase.types";
+import { SpinnerIcon } from "../icons";
 import FindingCard from "./FindingCard";
 import PreliminaryPassState from "./PreliminaryPassState";
 
@@ -43,8 +44,9 @@ export default function PrecheckPanel({
           type="button"
           onClick={onRunPrecheck}
           disabled={!canRunPrecheck || isBusy}
-          className="px-4 py-2 bg-[var(--vg-accent)] text-white text-xs font-bold rounded-lg hover:bg-[var(--vg-accent-hover)] transition-all disabled:bg-zinc-200 disabled:text-zinc-400"
+          className="flex items-center gap-1.5 px-4 py-2 bg-[var(--vg-accent)] text-white text-xs font-bold rounded-lg hover:bg-[var(--vg-accent-hover)] transition-all disabled:bg-zinc-200 disabled:text-zinc-400"
         >
+          {flow === "validating" && <SpinnerIcon className="w-3.5 h-3.5 animate-vg-spin" />}
           {flow === "validating" ? "Đang quét..." : "Tiền kiểm"}
         </button>
       </div>

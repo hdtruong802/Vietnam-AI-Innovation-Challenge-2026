@@ -21,7 +21,7 @@ export default function CopilotPreviewClient({ fixtureKey }: CopilotPreviewClien
        * that without touching ProcedureWorkspace's production sizing. */}
       <nav
         aria-label="Chọn fixture để xem trước"
-        className="fixed top-2 right-2 z-50 flex flex-wrap justify-end gap-1 max-w-[80vw] p-1.5 rounded-lg bg-zinc-900/90 backdrop-blur-sm text-[10px] shadow-lg"
+        className="fixed top-2 right-2 z-50 flex flex-wrap justify-end gap-1 max-w-[80vw] p-1.5 rounded-lg bg-zinc-900/90 backdrop-blur-sm text-2xs shadow-lg"
       >
         <span className="w-full text-center font-bold uppercase tracking-wider text-zinc-400 px-1">
           Dev preview — read-only

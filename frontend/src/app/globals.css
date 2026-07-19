@@ -1,5 +1,14 @@
 @import "tailwindcss";
 
+/* Font-weight convention (applies across Portal and Copilot Workspace):
+   - font-bold: primary headings (h1-h4), key/value answer text, primary CTA
+     buttons, active tab state.
+   - font-semibold: secondary labels, inactive/default tab state, card
+     sub-headings, list item titles.
+   - font-medium: body copy, descriptions, paragraph text.
+   font-extrabold (landing footer) and font-light (one decorative separator)
+   are deliberate isolated exceptions, not part of this convention. */
+
 :root {
   /* D-022: The public demo is intentionally light-only. Do not let the
      operating-system preference recolor browser controls or design tokens. */
@@ -7,9 +16,9 @@
   --background: #F8FAFC; /* Clean off-white background */
   --foreground: #333333; /* Dark slate-gray text */
   /* System stacks avoid a build-time dependency on external font hosts. */
-  --font-geist-sans: "Segoe UI", Roboto, Arial, sans-serif;
-  --font-geist-mono: "Cascadia Mono", Consolas, monospace;
-  --font-lora: Georgia, "Times New Roman", serif;
+  --font-ui-sans: "Segoe UI", Roboto, Arial, sans-serif;
+  --font-ui-mono: "Cascadia Mono", Consolas, monospace;
+  --font-ui-serif: Georgia, "Times New Roman", serif;
 
   --color-primary-raw: #0D1B3D; /* Corporate Deep Navy */
   --color-neutral-bg-raw: #F1F5F9; /* Neutral slate tint */
@@ -49,9 +58,21 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-  --font-serif: var(--font-lora);
+  --font-sans: var(--font-ui-sans);
+  --font-mono: var(--font-ui-mono);
+  --font-serif: var(--font-ui-serif);
+
+  /* Formalizes the untokenized micro-text tier (was text-[9px]/[10px]/[11px]) */
+  --text-2xs: 0.6875rem; /* 11px */
+  --text-2xs--line-height: 1rem;
+
+  /* Snaps the landing page's text-[15px] one-off (between sm/14px and base/16px) */
+  --text-2sm: 0.9375rem; /* 15px */
+  --text-2sm--line-height: 1.375rem;
+
+  /* Snaps the landing page's text-[26px] one-off (between xl/20px and 2xl/24px) */
+  --text-2xl-plus: 1.625rem; /* 26px */
+  --text-2xl-plus--line-height: 2rem;
 
   --color-primary: var(--color-primary-raw);
   --color-neutral-bg: var(--color-neutral-bg-raw);
@@ -206,9 +227,89 @@ body {
   animation: drumSpin 100s linear infinite;
 }
 
+/* Copilot Workspace motion primitives (product register: 150-250ms,
+   state-conveying only — no page-load choreography). */
+@keyframes vgReveal {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes vgPop {
+  from {
+    opacity: 0;
+    transform: scale(0.85);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes vgSpin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-vg-reveal {
+  animation: vgReveal 0.2s cubic-bezier(0.25, 1, 0.5, 1) both;
+}
+
+.animate-vg-pop {
+  animation: vgPop 0.15s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+.animate-vg-spin {
+  animation: vgSpin 0.7s linear infinite;
+}
+
+/* Portal "coming soon" modal entrance (ComingSoonModal.tsx already
+   references these class names; previously undefined — no animation
+   played). */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes scaleUp {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.2s ease-out both;
+}
+
+.animate-scale-up {
+  animation: scaleUp 0.25s cubic-bezier(0.25, 1, 0.5, 1) both;
+}
+
 @media (prefers-reduced-motion: reduce) {
-  .animate-drum-spin {
-    animation: none;
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
   }
 }
 

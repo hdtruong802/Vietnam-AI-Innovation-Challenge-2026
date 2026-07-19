@@ -40,21 +40,31 @@ export function resolveDisplayedTrustState(
 
 export default function TrustBadge({ trustState, fixtureMode, demoMode }: TrustBadgeProps) {
   if (!trustState) return null;
-  const variant = VARIANTS[resolveDisplayedTrustState(trustState, fixtureMode, demoMode)];
+  const displayedTrustState = resolveDisplayedTrustState(trustState, fixtureMode, demoMode);
+  const variant = VARIANTS[displayedTrustState];
 
   return (
     <div className="inline-flex items-center gap-1.5 flex-wrap">
       <span
-        className={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-xl border text-[10px] font-bold ${variant.className}`}
+        key={displayedTrustState}
+        className={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-xl border text-2xs font-bold transition-colors duration-200 animate-vg-reveal ${variant.className}`}
       >
         <variant.Icon className="w-3.5 h-3.5" />
         <span>{variant.label}</span>
       </span>
       {fixtureMode && (
-        <span className="inline-flex items-center gap-1 px-2 py-1 rounded-xl border border-[var(--vg-border)] bg-[var(--vg-surface-subtle)] text-[10px] font-bold text-[var(--vg-text-muted)]">
+        <span className="inline-flex items-center gap-1 px-2 py-1 rounded-xl border border-[var(--vg-border)] bg-[var(--vg-surface-subtle)] text-2xs font-bold text-[var(--vg-text-muted)]">
           <FlaskIcon className="w-3.5 h-3.5" />
           <span>Chế độ demo dữ liệu mẫu</span>
         </span>
+      )}
+      {demoMode && (
+        <>
+          <span className="inline-flex items-center gap-1 px-2 py-1 rounded-lg border border-amber-300 bg-amber-50 text-2xs font-bold text-amber-900">
+            <span>Đã kiểm thử cho demo MVP</span>
+          </span>
+          <span className="text-2xs font-bold text-error">Không phải K1</span>
+        </>
       )}
     </div>
   );

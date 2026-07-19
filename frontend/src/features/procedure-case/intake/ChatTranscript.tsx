@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useState } from "react";
 import type { TranscriptMessage } from "../procedureCase.types";
 import SourceDrawer from "../trust/SourceDrawer";
 
@@ -30,6 +30,9 @@ function AssistantIcon() {
 
 export default function ChatTranscript({ messages }: ChatTranscriptProps) {
   const endRef = useRef<HTMLDivElement>(null);
+  // Messages present on mount (e.g. a restored session) render without an
+  // entrance animation; only ones arriving afterward are "new".
+  const [initialSeenCount] = useState(() => messages.length);
 
   useEffect(() => {
     endRef.current?.scrollIntoView({ behavior: "smooth" });
@@ -40,11 +43,13 @@ export default function ChatTranscript({ messages }: ChatTranscriptProps) {
       {messages.map((msg, index) => (
         <div
           key={index}
-          className={`flex items-start gap-2 max-w-[90%] ${msg.role === "user" ? "ml-auto flex-row-reverse" : "mr-auto"}`}
+          className={`flex items-start gap-2 max-w-[90%] ${msg.role === "user" ? "ml-auto flex-row-reverse" : "mr-auto"} ${
+            index >= initialSeenCount ? "animate-vg-reveal" : ""
+          }`}
         >
           {msg.role === "assistant" && <AssistantIcon />}
           <div className={`flex flex-col ${msg.role === "user" ? "items-end" : "items-start"}`}>
-            <span className="text-[10px] font-bold text-[var(--vg-text-muted)] mb-1">
+            <span className="text-2xs font-bold text-[var(--vg-text-muted)] mb-1">
               {msg.role === "user" ? "Công dân" : "Trợ lý VNGov"}
             </span>
             <div

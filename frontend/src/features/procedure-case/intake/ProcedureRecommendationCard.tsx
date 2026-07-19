@@ -20,7 +20,7 @@ export default function ProcedureRecommendationCard({
   return (
     <div className="mx-4 mb-3 p-4 bg-[var(--vg-surface)] border border-[var(--vg-border-strong)] rounded-xl space-y-3 text-left">
       <div>
-        <span className="text-[10px] font-bold text-[var(--vg-accent)] tracking-wider uppercase">
+        <span className="text-2xs font-bold text-[var(--vg-accent)] tracking-wider uppercase">
           Thủ tục được đề xuất
         </span>
         <h4 className="text-sm font-bold text-[var(--vg-text)] mt-0.5">{candidate.name}</h4>

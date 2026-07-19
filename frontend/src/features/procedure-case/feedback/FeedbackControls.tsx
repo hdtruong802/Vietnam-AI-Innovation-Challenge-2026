@@ -18,7 +18,7 @@ export default function FeedbackControls({ context, onSubmit }: FeedbackControls
 
   if (submitted) {
     return (
-      <p className="text-[10px] font-semibold text-[var(--vg-text-muted)]">Cảm ơn bạn đã gửi phản hồi.</p>
+      <p className="text-2xs font-semibold text-[var(--vg-text-muted)]">Cảm ơn bạn đã gửi phản hồi.</p>
     );
   }
 
@@ -40,7 +40,7 @@ export default function FeedbackControls({ context, onSubmit }: FeedbackControls
   return (
     <div className="space-y-2 pt-2 border-t border-[var(--vg-border)]">
       <div className="flex items-center gap-2">
-        <span className="text-[10px] font-bold text-[var(--vg-text-muted)] uppercase tracking-wide">
+        <span className="text-2xs font-bold text-[var(--vg-text-muted)] uppercase tracking-wide">
           {context === "checklist" ? "Checklist này có hữu ích không?" : "Kết quả tiền kiểm này có hữu ích không?"}
         </span>
         <button
@@ -69,7 +69,7 @@ export default function FeedbackControls({ context, onSubmit }: FeedbackControls
                 key={r.code}
                 type="button"
                 onClick={() => setReason(r.code)}
-                className={`px-2.5 py-1 rounded-full border text-[10px] font-semibold transition-all ${
+                className={`px-2.5 py-1 rounded-full border text-2xs font-semibold transition-all ${
                   reason === r.code
                     ? "border-[var(--vg-accent)] bg-[var(--vg-accent-soft)] text-[var(--vg-accent)]"
                     : "border-[var(--vg-border)] text-[var(--vg-text-muted)] hover:border-[var(--vg-accent)]"
@@ -85,15 +85,15 @@ export default function FeedbackControls({ context, onSubmit }: FeedbackControls
             maxLength={FEEDBACK_NOTE_MAX_LENGTH}
             placeholder="Góp ý thêm (không bắt buộc)"
             rows={2}
-            className="w-full px-2.5 py-1.5 border border-[var(--vg-border)] bg-[var(--vg-surface)] rounded-md text-[11px] focus:outline-none focus:border-[var(--vg-accent)]"
+            className="w-full px-2.5 py-1.5 border border-[var(--vg-border)] bg-[var(--vg-surface)] rounded-md text-2xs focus:outline-none focus:border-[var(--vg-accent)]"
           />
           <div className="flex items-center justify-between">
-            <span className="text-[9px] text-[var(--vg-text-muted)]">{note.length}/{FEEDBACK_NOTE_MAX_LENGTH}</span>
+            <span className="text-2xs text-[var(--vg-text-muted)]">{note.length}/{FEEDBACK_NOTE_MAX_LENGTH}</span>
             <button
               type="button"
               onClick={handleSubmitDown}
               disabled={!reason}
-              className="px-3 py-1.5 bg-[var(--vg-accent)] text-white text-[10px] font-bold rounded-md hover:bg-[var(--vg-accent-hover)] transition-all disabled:bg-zinc-200 disabled:text-zinc-400"
+              className="px-3 py-1.5 bg-[var(--vg-accent)] text-white text-2xs font-bold rounded-md hover:bg-[var(--vg-accent-hover)] transition-all disabled:bg-zinc-200 disabled:text-zinc-400"
             >
               Gửi phản hồi
             </button>

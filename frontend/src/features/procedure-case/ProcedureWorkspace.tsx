@@ -105,14 +105,14 @@ export default function ProcedureWorkspace({
         <div className="flex items-center gap-2.5 shrink-0">
           <button
             onClick={onGoLanding}
-            className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full border border-[var(--vg-border)] bg-[var(--vg-surface)] hover:bg-[var(--vg-surface-subtle)] text-xs font-bold text-[var(--vg-accent)] transition-all"
+            className="flex items-center gap-1.5 px-3.5 py-2 rounded-lg border border-[var(--vg-border)] bg-[var(--vg-surface)] hover:bg-[var(--vg-surface-subtle)] text-sm font-bold text-[var(--vg-accent)] transition-all focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none"
           >
             ← Quay lại Trang chủ
           </button>
 
           <button
             onClick={actions.resetSession}
-            className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-[var(--vg-border)] bg-[var(--vg-surface)] hover:bg-[var(--vg-surface-subtle)] text-xs font-semibold text-[var(--vg-text-secondary)] transition-all"
+            className="hidden md:flex items-center gap-1.5 px-3 py-2 rounded-lg border border-[var(--vg-border)] bg-[var(--vg-surface)] hover:bg-[var(--vg-surface-subtle)] text-sm font-semibold text-[var(--vg-text-secondary)] transition-all focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none"
           >
             Xóa đoạn chat
           </button>
@@ -232,7 +232,7 @@ export default function ProcedureWorkspace({
             </button>
           </div>
 
-          <div className={`${activeLeftTab === "chat" ? "flex" : "hidden"} flex-col flex-1 overflow-hidden bg-[var(--vg-surface)]`}>
+          <div className={`${activeLeftTab === "chat" ? "flex animate-vg-reveal" : "hidden"} flex-col flex-1 overflow-hidden bg-[var(--vg-surface)]`}>
             <ChatTranscript messages={state.transcript} />
 
             {paneView.mode === "procedure_review" && state.lastIntakeResponse?.procedure && (
@@ -263,7 +263,7 @@ export default function ProcedureWorkspace({
             />
           </div>
 
-          <div className={`${activeLeftTab === "checklist" ? "flex" : "hidden"} flex-col flex-1 overflow-y-auto bg-[var(--vg-surface)]`}>
+          <div className={`${activeLeftTab === "checklist" ? "flex animate-vg-reveal" : "hidden"} flex-col flex-1 overflow-y-auto bg-[var(--vg-surface)]`}>
             {state.checklist ? (
               <ChecklistPanel
                 state={state}
@@ -302,7 +302,7 @@ export default function ProcedureWorkspace({
                   <>
                   <div className="bg-[var(--vg-surface)] border border-[var(--vg-border)] rounded-xl p-5 space-y-4">
                     <div className="border-b border-[var(--vg-border)] pb-3 mb-3 text-left">
-                      <span className="text-[10px] font-bold text-[var(--vg-accent)] tracking-wider uppercase block">
+                      <span className="text-2xs font-bold text-[var(--vg-accent)] tracking-wider uppercase block">
                         {state.checklist.fixture_mode || state.checklist.demo_mode
                           ? "Biểu mẫu demo MVP"
                           : "Tờ khai"}

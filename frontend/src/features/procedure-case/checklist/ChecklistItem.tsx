@@ -40,13 +40,13 @@ export default function ChecklistItem({ item, sourceRefs, isHighlighted }: Check
 
   return (
     <div
-      className={`p-3.5 border rounded-lg transition-all duration-300 ${
+      className={`p-3.5 border rounded-lg transition-[border-color,background-color,box-shadow] duration-200 ${
         isHighlighted ? "border-[var(--vg-accent)] bg-[var(--vg-accent-soft)] ring-1 ring-[var(--vg-accent)]" : style.border
       }`}
     >
       <div className="flex items-start justify-between gap-2">
         <h4 className={`text-xs font-bold ${style.text}`}>{item.label}</h4>
-        <span className={`shrink-0 inline-flex items-center px-1.5 py-0.5 rounded text-[9px] font-bold border ${style.badge}`}>
+        <span className={`shrink-0 inline-flex items-center px-1.5 py-0.5 rounded text-2xs font-bold border ${style.badge}`}>
           {KIND_LABEL[item.kind]}
         </span>
       </div>

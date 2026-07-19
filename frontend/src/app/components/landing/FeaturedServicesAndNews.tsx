@@ -110,7 +110,7 @@ export default function FeaturedServicesAndNews({ onSelectProcedure, onGoCopilot
             <span className="w-9 h-9 rounded-full bg-[#fff2dc] text-gov-red flex items-center justify-center shrink-0">
               <DocCheckIcon className="w-[18px] h-[18px]" />
             </span>
-            <h3 className="text-[26px] font-sans font-semibold text-primary">Dịch vụ công nổi bật</h3>
+            <h3 className="text-2xl font-sans font-semibold text-primary text-balance">Dịch vụ công nổi bật</h3>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 md:gap-x-6 divide-y divide-border-slate md:divide-y-0 font-sans">
@@ -129,7 +129,7 @@ export default function FeaturedServicesAndNews({ onSelectProcedure, onGoCopilot
                     <Icon className="w-[18px] h-[18px]" />
                   </span>
                   <div className="flex-1 min-w-0">
-                    <h4 className="text-[15px] font-semibold text-gov-red">{proc.title}</h4>
+                    <h4 className="text-2sm font-semibold text-gov-red">{proc.title}</h4>
                     <p className="text-base text-[var(--portal-muted)] font-medium mt-0.5">{proc.description}</p>
                   </div>
                   <ArrowRightIcon className="w-4 h-4 text-[var(--portal-muted)] group-hover:text-gov-red transition-colors shrink-0" />
@@ -155,7 +155,7 @@ export default function FeaturedServicesAndNews({ onSelectProcedure, onGoCopilot
               <span className="w-9 h-9 rounded-full bg-[#fff2dc] text-gov-red flex items-center justify-center shrink-0">
                 <GuideBookIcon className="w-[18px] h-[18px]" />
               </span>
-              <h3 className="text-[26px] font-sans font-semibold text-primary">Cập nhật mới nhất</h3>
+              <h3 className="text-2xl font-sans font-semibold text-primary text-balance">Cập nhật mới nhất</h3>
             </div>
             <button onClick={() => onComingSoon("Kho văn bản tin tức đang được đồng bộ.")} className="text-sm font-bold text-gov-red hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gov-red/40 rounded-sm">Xem tất cả</button>
           </div>
@@ -171,7 +171,7 @@ export default function FeaturedServicesAndNews({ onSelectProcedure, onGoCopilot
                 onKeyDown={(e) => handleRowKeyDown(e, item.onClick)}
               >
                 <div className="flex items-start justify-between gap-2">
-                  <h4 className="text-base font-semibold text-foreground leading-snug group-hover:text-gov-red">{item.title}</h4>
+                  <h4 className="text-base font-semibold text-foreground leading-snug text-pretty group-hover:text-gov-red">{item.title}</h4>
                   <ArrowRightIcon className="w-4 h-4 text-[var(--portal-muted)] group-hover:text-gov-red transition-colors shrink-0 mt-0.5" />
                 </div>
                 <span className="text-sm text-[var(--portal-muted)] block mt-1 font-medium">{item.date}</span>

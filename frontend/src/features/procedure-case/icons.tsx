@@ -23,6 +23,14 @@ export function CheckCircleIcon({ className = "w-4 h-4", stroke = "currentColor"
   );
 }
 
+export function SpinnerIcon({ className = "w-4 h-4 animate-vg-spin", stroke = "currentColor" }: IconProps) {
+  return (
+    <svg {...base} className={className} stroke={stroke}>
+      <path d="M12 3a9 9 0 1 0 9 9" />
+    </svg>
+  );
+}
+
 export function AlertTriangleIcon({ className = "w-4 h-4", stroke = "currentColor" }: IconProps) {
   return (
     <svg {...base} className={className} stroke={stroke}>

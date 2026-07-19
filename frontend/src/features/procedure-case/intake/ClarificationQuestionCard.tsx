@@ -76,10 +76,10 @@ export default function ClarificationQuestionCard({
         className="p-4 bg-[var(--vg-surface)] border border-[var(--vg-border)] rounded-xl space-y-3 text-left"
       >
         <div>
-          <span className="text-[10px] font-bold text-[var(--vg-accent)] tracking-wider uppercase">
+          <span className="text-2xs font-semibold text-[var(--vg-accent)] tracking-wider uppercase">
             Câu hỏi {currentIndex + 1}/{questions.length}
           </span>
-          <h4 id={headingId} className="text-sm font-bold text-[var(--vg-text)] mt-0.5">
+          <h4 id={headingId} className="text-sm font-bold text-[var(--vg-text)] mt-0.5 text-pretty">
             {question.prompt}
             {question.required && <span className="text-[var(--vg-error)]"> *</span>}
           </h4>

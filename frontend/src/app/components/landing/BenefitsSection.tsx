@@ -25,7 +25,7 @@ export default function BenefitsSection() {
       />
 
       <div className="portal-container text-center relative z-10">
-        <h3 className="text-[26px] font-sans font-semibold text-primary">Lợi ích khi sử dụng dịch vụ công trực tuyến</h3>
+        <h3 className="text-2xl-plus font-sans font-semibold text-primary text-balance">Lợi ích khi sử dụng dịch vụ công trực tuyến</h3>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mt-8 max-w-4xl mx-auto font-sans">
           {BENEFITS.map(({ icon: Icon, label }) => (

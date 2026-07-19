@@ -34,7 +34,7 @@ export default function FormFieldRenderer({
     "aria-required": isRequired,
     "aria-invalid": hasError,
     "aria-describedby": finding ? errorId : undefined,
-    className: `px-3 py-2 border rounded-lg text-xs transition-all focus:outline-none focus:border-[var(--vg-accent)] focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] ${
+    className: `px-3 py-2 border rounded-lg text-xs transition-[border-color,background-color] duration-200 focus:outline-none focus:border-[var(--vg-accent)] focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] ${
       hasError ? "border-[var(--vg-error)] bg-[var(--vg-error-soft)]" : "border-[var(--vg-border)] bg-[var(--vg-surface)] text-[var(--vg-text)]"
     }`,
   };
@@ -98,14 +98,14 @@ export default function FormFieldRenderer({
 
   return (
     <div className="flex flex-col text-left">
-      <label htmlFor={inputId} className="text-[11px] font-bold text-[var(--vg-text)] mb-1">
+      <label htmlFor={inputId} className="text-2xs font-bold text-[var(--vg-text)] mb-1">
         {property.title} {isRequired && <span className="text-[var(--vg-error)]">*</span>}
       </label>
       {control}
       {finding && (
         <span
           id={errorId}
-          className={`inline-flex items-center gap-1 text-[10px] font-bold mt-0.5 ${hasError ? "text-[var(--vg-error)]" : "text-[var(--vg-warning)]"}`}
+          className={`inline-flex items-center gap-1 text-2xs font-bold mt-0.5 animate-vg-reveal ${hasError ? "text-[var(--vg-error)]" : "text-[var(--vg-warning)]"}`}
         >
           {hasError ? <AlertTriangleIcon className="w-3 h-3 shrink-0" /> : <InfoCircleIcon className="w-3 h-3 shrink-0" />}
           {finding.message}

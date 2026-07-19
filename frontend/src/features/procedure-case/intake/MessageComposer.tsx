@@ -89,7 +89,7 @@ export default function MessageComposer({
             <button
               type="button"
               onClick={onCancel}
-              className="px-4 py-2 bg-[var(--vg-surface)] border border-[var(--vg-border)] text-[var(--vg-text)] text-sm font-semibold rounded-lg hover:bg-[var(--vg-surface-subtle)] transition-all"
+              className="px-4 py-2 bg-[var(--vg-surface)] border border-[var(--vg-border)] text-[var(--vg-text)] text-sm font-semibold rounded-lg hover:bg-[var(--vg-surface-subtle)] transition-all animate-vg-reveal"
             >
               Hủy
             </button>
@@ -97,14 +97,14 @@ export default function MessageComposer({
             <button
               type="submit"
               disabled={!input.trim() || overLimit}
-              className="px-4 py-2 bg-[var(--vg-accent)] text-white text-sm font-semibold rounded-lg hover:bg-[var(--vg-accent-hover)] transition-all disabled:bg-zinc-200 disabled:text-zinc-400"
+              className="px-4 py-2 bg-[var(--vg-accent)] text-white text-sm font-semibold rounded-lg hover:bg-[var(--vg-accent-hover)] transition-all disabled:bg-zinc-200 disabled:text-zinc-400 animate-vg-reveal"
             >
               Gửi
             </button>
           )}
         </div>
         <span
-          className={`text-[10px] font-semibold self-end ${overLimit ? "text-[var(--vg-error)]" : "text-[var(--vg-text-muted)]"}`}
+          className={`text-2xs font-semibold self-end ${overLimit ? "text-[var(--vg-error)]" : "text-[var(--vg-text-muted)]"}`}
         >
           {input.length}/{INPUT_MAX_LENGTH}
         </span>

@@ -147,3 +147,11 @@ export const HeartShieldIcon = ({ className = "w-5 h-5" }: IconProps) => (
     <path d="M12 15.5s-2.8-1.7-2.8-3.7a1.6 1.6 0 012.8-1 1.6 1.6 0 012.8 1c0 2-2.8 3.7-2.8 3.7z" stroke="currentColor" strokeWidth="1.4" strokeLinejoin="round" />
   </svg>
 );
+
+export const AiBadge = ({ className = "" }: IconProps) => (
+  <span
+    className={`inline-flex items-center justify-center px-1 h-4 min-w-[18px] rounded-full bg-gov-gold text-[#3d2a00] text-[9px] font-extrabold leading-none tracking-tight ring-2 ring-white shadow-sm pointer-events-none select-none ${className}`}
+  >
+    AI
+  </span>
+);
