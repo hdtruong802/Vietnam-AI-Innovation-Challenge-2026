@@ -1,0 +1,39 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.003467
+Số quyết định: 2536/QĐ-BXD
+Tên thủ tục: Điều chỉnh công bố tải trọng, khổ giới hạn của đường bộ và trạng thái kỹ thuật đường ngang
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+  * Giải quyết TTHC
+    + Chủ đầu tư dự án đầu tư xây dựng công trình đường bộ; doanh nghiệp đầu tư xây dựng và quản lý khai thác công trình đường bộ gửi số liệu về UBND cấp tỉnh.
+    + Khu Quản lý đường bộ; UBND cấp tỉnh; Chủ đầu tư dự án đầu tư xây dựng công trình đường bộ, doanh nghiệp đầu tư xây dựng và quản lý khai thác công trình đường bộ gửi số liệu về tải trọng, khổ giới hạn của đường bộ về Cục Đường bộ Việt Nam.
+    + Cục Đường sắt Việt Nam gửi số liệu về trạng thái kỹ thuật đường ngang của mạng lưới đường sắt về Cục Đường bộ Việt Nam.
+    + Ủy ban nhân dân cấp tỉnh (đối với đường bộ do địa phương quản lý) công bố, cập nhật trên Trang thông tin điện tử của Ủy ban nhân dân cấp tỉnh, Cục Đường bộ Việt Nam cập nhật tải trọng, khổ giới hạn của đường bộ và trạng thái kỹ thuật của đường ngang trong phạm vi cả nước trên Trang thông tin điện tử của Cục Đường bộ Việt Nam.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trực tuyến (hệ thống liên thông quản lý văn bản)
+- 5 ngày làm việc kể từ ngày nhận được số liệu
+- Không quy định về phí, lệ phí
+
+Thành phần hồ sơ:
+    - Văn bản của các Khu Quản lý đường bộ; Cục Đường sắt Việt Nam; UBND cấp tỉnh; Chủ đầu tư dự án đầu tư xây dựng công trình đường bộ, doanh nghiệp đầu tư xây dựng và quản lý khai thác công trình đường bộ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Cục Đường bộ Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công bố tải trọng, khổ giới hạn của đường bộ và tình trạng kỹ thuật đường ngang trên Trang thông tin điện tử của Cục Đường bộ Việt Nam
+Căn cứ pháp lý:
+  * Quy định về tải trọng, khổ giới hạn của đường bộ; lưu hành xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích trên đường bộ; hàng siêu trường, siêu trọng, vận chuyển hàng siêu trường, siêu trọng; xếp hàng hóa trên phương tiện giao thông đường bộ; cấp giấy phép lưu hành cho xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích, xe vận chuyển hàng siêu trường, siêu trọng trên đường bộ (12/2025/TT-BXD)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

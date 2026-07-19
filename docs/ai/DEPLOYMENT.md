@@ -1,8 +1,8 @@
 # Deployment contract
 
-> Trạng thái: backend production-disabled đã live trên Cloud Run và public smoke pass ngày 2026-07-18. Web app có public host tại `https://vngov.vercel.app`; source production mới chỉ có hiệu lực sau khi CI xanh và merge vào `main`. D-018 dùng demo gate client-side, không cần database, secret hoặc backend auth. RAG, LLM và procedure data vẫn chưa bật.
+> Trạng thái: backend production-disabled đã live trên Cloud Run và public smoke pass ngày 2026-07-18. Web app có public host tại `https://vngov.vercel.app`; source production mới chỉ có hiệu lực sau khi CI xanh và merge vào `main`. D-020 dùng demo gate client-side, không cần database, secret hoặc backend auth. RAG, LLM và procedure data vẫn chưa bật.
 >
-> Decision liên quan: D-005 (`Accepted`, scaffold), D-008 (`Accepted`, web-first), D-006 (`Accepted`, capability/deploy target), D-010 (`Proposed`, CI/release artifact), D-012 (`Accepted`, Cloud Run backend-only) và D-018 (`Accepted`, demo gate client-side)
+> Decision liên quan: D-005 (`Accepted`, scaffold), D-008 (`Accepted`, web-first), D-006 (`Accepted`, capability/deploy target), D-010 (`Proposed`, CI/release artifact), D-012 (`Accepted`, Cloud Run backend-only), D-020 (`Accepted`, demo gate client-side) và D-026 (`Accepted`, legacy RAG opt-in/offline demo image)
 >
 > Người phối hợp tạm thời: `TBD` theo Task Record deploy
 
@@ -14,13 +14,19 @@ D-012 thêm một đường deploy **backend-only** để tạo public demo API,
 
 D-006 và D-012 đã có peer confirmation. Chỉ provision khi billing/credit đúng project, IAM tối thiểu và local/container smoke pass. Runbook thao tác thủ công, candidate không traffic và rollback nằm tại [Cloud Run backend-only runbook](../runbooks/cloud-run-backend.md).
 
+D-026 thay image default thanh demo offline (`demo_pack`, RAG/LLM/legacy RAG
+disabled) de MVP chay duoc khong can secret. Cloud Run D-012 khong ke thua
+procedure profile nay: lenh deploy/runbook bat buoc override
+`PROCEDURE_DATA_MODE=disabled` va `LEGACY_RAG_ENABLED=false`. Phase 7 khong deploy
+lai revision, khong sua traffic va khong tao secret.
+
 ## Topology đề xuất
 
 | Hạng mục | Giá trị đề xuất | Trạng thái / điều kiện |
 | --- | --- | --- |
 | Standalone web app/widget | Web UI + Web Component/iframe trên public web host | Web app live tại `https://vngov.vercel.app`; widget/portal sandbox vẫn `TBD` |
 | Backend/API | FastAPI trên Cloud Run theo D-012; production-disabled | Live: [`vngov-api`](https://vngov-api-j53prjslqa-as.a.run.app), public smoke pass; chưa có data/RAG/LLM |
-| Database/auth | Không thuộc demo hiện tại | D-018 `Accepted`; không provision database, secret hoặc backend auth |
+| Database/auth | Không thuộc demo hiện tại | D-020 `Accepted`; không provision database, secret hoặc backend auth |
 | Demo environment | Một public web URL + API URL | Web URL và API URL đã có; knowledge capability vẫn fail-closed |
 | Preview environment | `TBD` | Chỉ tạo nếu phục vụ review nhanh hơn chi phí vận hành |
 | Health/smoke | `GET /health` + key user flow | Public smoke pass cho production-disabled API ngày 2026-07-18 |

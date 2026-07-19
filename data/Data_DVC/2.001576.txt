@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001576
+Số quyết định: 1869/QĐ-BNNMT
+Tên thủ tục: Công nhận tiến bộ kỹ thuật
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Khoa học và Công nghệ
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân có nhu cầu đăng ký công nhận tiến bộ kỹ thuật (sau đây viết tắt là tổ chức, cá nhân đăng ký) nộp 01 bộ hồ sơ đến cơ quan có thẩm quyền quy định tại khoản 2 Điều 8 Thông tư số 22/2026/TT-BNNMT ngày 19/5/2026 bằng hình thức trực tiếp hoặc hình thức trực tuyến tại Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính.
+    Bước 2: Tiếp nhận, kiểm tra hồ sơ
+    Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan có thẩm quyền kiểm tra và thông báo bằng văn bản cho tổ chức, cá nhân đăng ký về một trong các trường hợp: chấp nhận hồ sơ hợp lệ; yêu cầu bổ sung, hoàn thiện hồ sơ hoặc từ chối nếu hồ sơ không hợp lệ. Thời gian bổ sung, hoàn thiện hồ sơ không tính vào thời gian thẩm định.
+    Bước 3: Thẩm định hồ sơ
+    a) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ cơ quan có thẩm quyền thành lập hội đồng tư vấn đánh giá, thẩm định tiến bộ kỹ thuật (sau đây viết tắt là hội đồng). Thành phần, phương thức, trình tự thẩm định của hội đồng thực hiện theo quy định tại Điều 6 Thông tư số 04/2018/TT-BNNPTNT ngày 03/5/2018;
+    b) Trong thời hạn 07 ngày làm việc, kể từ ngày ký Quyết định thành lập hội đồng, cơ quan có thẩm quyền tổ chức họp thẩm định hồ sơ đề nghị công nhận tiến bộ kỹ thuật;
+    c) Trong thời hạn 03 ngày làm việc, kể từ ngày họp hội đồng cơ quan có thẩm quyền thông báo bằng văn bản về kết quả họp Hội đồng và các nội dung cần hoàn thiện (nếu có) đến tổ chức, cá nhân đăng ký;
+    d) Trong thời hạn 30 ngày làm việc, kể từ ngày nhận được thông báo, tổ chức, cá nhân đăng ký hoàn thiện hồ sơ gửi về cơ quan có thẩm quyền. Quá thời hạn nêu trên nếu tổ chức không hoàn thiện hồ sơ, cơ quan có thẩm quyền sẽ hủy hồ sơ đăng ký công nhận tiến bộ kỹ thuật.
+    Bước 4: Công nhận tiến bộ kỹ thuật
+    a) Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ hoàn thiện (nếu có), cơ quan có thẩm quyền xem xét, ban hành Quyết định công nhận tiến bộ kỹ thuật theo Mẫu số 8 ban hành kèm theo Thông tư số 22/2026/TT-BNNMT ngày 19/5/2026;
+    b) Trong thời hạn 03 ngày làm việc, kể từ ngày ban hành, cơ quan có thẩm quyền đăng tải Quyết định công nhận tiến bộ kỹ thuật trên cổng thông tin điện tử của đơn vị.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 23 WORKING_DAY
+    Phí, lệ phí: 
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 23 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 23 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị công nhận tiến bộ kỹ thuật theo Mẫu số 1 ban hành kèm theo Thông tư số 04/2018/TT-BNNPTNT ngày 03/5/2018
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo kết quả nghiên cứu tiến bộ kỹ thuật theo Mẫu số 2 ban hành kèm theo Thông tư số 04/2018/TT-BNNPTNT ngày 03/5/2018
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản nhận xét ứng dụng tiến bộ kỹ thuật trong sản xuất của tối thiểu 03 tổ chức hoặc cá nhân theo Mẫu số 3 ban hành kèm theo Thông tư số 04/2018/TT-BNNPTNT ngày 03/5/2018. Bản nhận xét của cá nhân phải được cơ quan hoặc địa phương nơi cá nhân sinh sống hoặc công tác xác nhận.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Thủy sản và Kiểm ngư - Bộ Nông nghiệp và Môi trường, Cục Quản lý Đê điều và Phòng, Chống thiên tai - Bộ NN và MT, Cục Trồng trọt và Bảo vệ thực vật - Bộ NN và MT, Cục Lâm nghiệp và Kiểm lâm - Bộ NN và MT, Cục Chất lượng, Chế biến và Phát triển thị trường - Bộ NN và MT, Cục Quản lý và Xây dựng công trình thuỷ lợi -  Bộ NN và MT, Cục Kinh tế hợp tác và Phát triển nông thôn - Bộ NN và MT, Cục Chăn nuôi và Thú y - Bộ NN và MT
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận tiến bộ kỹ thuật
+Căn cứ pháp lý:
+  * Thông tư 04/2018/TT-BNNPTNT (04/2018/TT-BNNPTNT)
+  * Thông tư số 22/2026/TT-BNNMT ngày 19 tháng 5 năm 2026 của Bộ trưởng Bộ Nông nghiệp và Môi trường sửa đổi, bổ sung một số thông tư liên quan phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính thuộc phạm vi quản lý của bộ nông nghiệp và môi trường. (22/2026/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: - Tiêu chí đối với tiến bộ kỹ thuật công nhận lần đầu:
++ Có tính mới, tính sáng tạo, tính ổn định và khả năng cạnh tranh cao;
++ Đảm bảo chất lượng, giảm thiểu tác động đến môi trường, có triển vọng mở rộng sản xuất.
+- Tiêu chí đối với tiến bộ kỹ thuật tương tự tiến bộ kỹ thuật đã được công nhận phải đáp ứng các tiêu chí quy định tại khoản 1 Điều này và có hiệu quả kinh tế cao hơn ít nhất 10% so với tiến bộ kỹ thuật tương tự đã được công nhận.
+Từ khóa: Không có thông tin
+Mô tả: - Tiêu chí đối với tiến bộ kỹ thuật công nhận lần đầu:
++ Có tính mới, tính sáng tạo, tính ổn định và khả năng cạnh tranh cao;
++ Đảm bảo chất lượng, giảm thiểu tác động đến môi trường, có triển vọng mở rộng sản xuất.
+- Tiêu chí đối với tiến bộ kỹ thuật tương tự tiến bộ kỹ thuật đã được công nhận phải đáp ứng các tiêu chí quy định tại khoản 1 Điều này và có hiệu quả kinh tế cao hơn ít nhất 10% so với tiến bộ kỹ thuật tương tự đã được công nhận.

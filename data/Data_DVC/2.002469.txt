@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002469
+Số quyết định: 418/QĐ-BNNMT
+Tên thủ tục: Chứng nhận Nhãn sinh thái Việt Nam (2.002469)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Môi trường
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ
+    - Tổ chức/cá nhân (chủ dự án đầu tư, cơ sở) lựa chọn nộp hồ sơ thông qua một trong các hình thức sau:
+    + Trực tiếp tại Bộ phận Một cửa tại trụ sở Bộ Nông nghiệp và Môi trường (địa chỉ số 10 Tôn Thất Thuyết, phường Cầu Giấy, Hà Nội);
+    + Thông qua dịch vụ bưu chính công ích; qua dịch vụ bưu chính chuyển phát của tổ chức, cá nhân hoặc qua ủy quyền thực hiện TTHC theo quy định của pháp luật;
+    + Trực tuyến: thông qua Cổng dịch vụ công quốc gia tại địa chỉ https://dichvucong.gov.vn hoặc Ứng dụng định danh quốc gia.
+    - Đối với các dự án đầu tư thuộc bí mật nhà nước về quốc phòng, an ninh: nộp hồ sơ theo quy định của Bộ Quốc phòng, Bộ Công an.
+    Bước 2: Tiếp nhận hồ sơ
+    Cơ quan thẩm định kiểm tra tính đầy đủ và hợp lệ của hồ sơ theo quy định của pháp luật, trường hợp hồ sơ chưa đầy đủ, chưa hợp lệ thì từ chối tiếp nhận; trường hợp hồ sơ đã bảo đảm tính đầy đủ, hợp lệ thì thực hiện tiếp nhận và gửi giấy tiếp nhận hồ sơ và hẹn trả kết quả tới tổ chức/cá nhân.
+    Bước 3: Thẩm định hồ sơ
+    Thẩm định hồ sơ sau khi nhận hồ sơ đầy đủ, hợp lệ
+    Sau khi nhận được hồ sơ đầy đủ, hợp lệ, cơ quan được giao đánh giá của Bộ Nông nghiệp và Môi trường tổ chức đánh giá theo trình tự sau:
+    + Thành lập hội đồng đánh giá;
+    + Tiến hành khảo sát thực tế (tùy từng trường hợp nếu thấy cần thiết);
+    + Họp hội đồng đánh giá hồ sơ; trong trường hợp cần thiết, tiến hành trưng cầu giám định để đánh giá sự phù hợp với bộ tiêu chí Nhãn sinh thái Việt Nam.
+    Bước 4. Phê duyệt
+    - Cơ quan thẩm định ban hành Quyết định chứng nhận Nhãn sinh thái Việt Nam cho tổ chức, cá nhân có đề nghị. Trường hợp kết quả đánh giá sản phẩm, dịch vụ không đáp ứng bộ tiêu chí Nhãn sinh thái Việt Nam, Cơ quan thẩm định thông báo bằng văn bản cho tổ chức, cá nhân biết và nêu rõ lý do không chứng nhận Nhãn sinh thái Việt Nam.
+    Bước 5. Trả kết quả
+    Tổ chức, cá nhân nhận kết quả giải quyết TTHC theo thời gian, địa điểm ghi trên giấy tiếp nhận hồ sơ và hẹn trả kết quả trực tiếp tại Bộ phận Một cửa tại trụ sở Bộ Nông nghiệp và Môi trường (địa chỉ số 10 Tôn Thất Thuyết, phường Cầu Giấy, Hà Nội). Trường hợp đăng ký nhận kết quả trực tuyến thì thông qua Cổng dịch vụ công quốc gia (địa chỉ https://dichvucong.gov.vn) hoặc Ứng dụng định danh quốc gia.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 18 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 18 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 18 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - 01 bản chính Văn bản đề nghị chứng nhận Nhãn sinh thái Việt Nam đối với sản phẩm, dịch vụ thân thiện với môi trường (mẫu quy định tại Phụ lục XXXII ban hành kèm theo Nghị định số 08/2022/NĐ-CP, được sửa đổi, bổ sung tại Nghị định số 05/2025/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - 01 bản sao có chứng thực Bản vẽ hoặc bản chụp kiểu dáng công nghiệp có kích cỡ 21 cm x 29 cm và thuyết minh các thông số kỹ thuật của sản phẩm.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - 01 bản chính Báo cáo sản phẩm, dịch vụ đáp ứng tiêu chí Nhãn sinh thái Việt Nam (mẫu quy định tại Phụ lục XXXIII ban hành kèm theo Nghị định số 08/2022/NĐ-CP, được sửa đổi, bổ sung tại Nghị định số 05/2025/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - 01 bản sao có chứng thực Kết quả thử nghiệm sản phẩm có thời hạn không quá 06 (sáu) tháng, tính đến ngày Bộ Nông nghiệp và Môi trường nhận được hồ sơ đăng ký hợp lệ kèm theo mẫu sản phẩm đăng ký chứng nhận. Việc thử nghiệm sản phẩm phải được tiến hành bởi các tổ chức thử nghiệm đáp ứng quy định tại Điều 149 Nghị định số 08/2022/NĐ-CP
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức Đảng, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức, Đảng viên, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Bộ Nông nghiệp và Môi trường
+Cơ quan có thẩm quyền: Bộ Nông nghiệp và Môi trường
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo về việc sản phẩm, dịch vụ không đáp ứng bộ tiêu chí Nhãn sinh thái Việt Nam., - Quyết định chứng nhận Nhãn sinh thái Việt Nam đối với sản phẩm, dịch vụ thân thiện với môi trường
+Căn cứ pháp lý:
+  * Nghị định số 08/2022/NĐ-CP (08/2022/NĐ-CP)
+  * SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 08/2022/NĐ-CP NGÀY 10 THÁNG 01 NĂM 2022 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT BẢO VỆ MÔI TRƯỜNG (05/2025/NĐ-CP)
+  * Thông tư số 02/2022/TT-BTNMT (02/2022/TT-BTNMT)
+  * Luật Bảo vệ môi trường số 72/2020/QH14 ngày 17 tháng 11 năm 2020 (72/2020/QH14)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 02/2022/TT-BTNMT ngày 10 tháng 01 năm 2022 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định chi tiết thi hành một số điều của Luật Bảo vệ môi trường (07/2025/TT-BTNMT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

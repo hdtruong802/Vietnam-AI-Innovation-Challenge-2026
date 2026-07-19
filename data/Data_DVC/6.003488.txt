@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.003488
+Số quyết định: 2536/QĐ-BXD
+Tên thủ tục: Công bố quyết định tình huống khẩn cấp về thiên tai đối với hệ thống quốc lộ, đường bộ cao tốc
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+  * Đối với tuyến đường bộ thuộc thẩm quyền của Bộ Xây dựng
+    - Cục Đường bộ Việt Nam, Ban chỉ huy phòng thủ dân sự hoặc cơ quan chuyên môn khác thuộc Bộ Xây dựng tham mưu Bộ trưởng Bộ Xây dựng.
+    - Cục Đường bộ Việt Nam tổng hợp Báo cáo Bộ Xây dựng (Khu Quản lý đường bộ/Sở Xây dựng báo cáo: nêu phạm vi ảnh hưởng của thiên tai hoặc sự cố; hư hỏng kết cấu hạ tầng giao thông đường bộ do ảnh hưởng của thiên tai; mức độ hư hỏng đối với công trình; thiệt hại hoặc nguy cơ gây thiệt hại có thể xảy về Bộ Xây dựng và Cục Đường bộ Việt Nam sau khi có thiên tai xảy ra)
+  * Đối với tuyến đường bộ thuộc thẩm quyền của ủy ban nhân dân cấp tỉnh
+    Ban chỉ huy phòng thủ dân sự cấp tỉnh hoặc cơ quan chuyên môn của Ủy ban nhân dân cấp tỉnh tham mưu Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định công bố tình huống khẩn cấp về thiên tai
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trực tuyến (hệ thống liên thông quản lý văn bản)
+- Thời hạn giải quyết: căn cứ quy chế về công tác văn thư tại cơ quan, đơn vị có thẩm quyền giải quyết 
+- Không quy định phí, lệ phí
+
+Thành phần hồ sơ:
+  [ Đối với tuyến đường bộ thuộc thẩm quyền của Bộ Xây dựng ]
+    - Dự báo của Trung tâm Dự báo khí tượng thủy văn quốc gia
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản của Khu Quản lý đường bộ/Sở Xây dựng gửi Cục Đường bộ Việt Nam. Nội dung bao gồm thông tin, Thời điểm bắt đầu, diễn biến, phạm vi ảnh hưởng của thiên tai hoặc sự cố; hư hỏng kết cấu hạ tầng giao thông đường bộ do ảnh hưởng của thiên tai; mức độ hư hỏng đối với công trình; thiệt hại hoặc nguy cơ gây thiệt hại có thể xảy ra
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản của Cục Đường bộ Việt Nam báo cáo Bộ Xây dựng
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với tuyến đường bộ thuộc thẩm quyền của UBND cấp tỉnh ]
+    - Văn bản Ban chỉ huy phòng thủ dân sự hoặc cơ quan chuyên môn thuộc UBND cấp tỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Dự báo của Trung tâm Dự báo khí tượng thủy văn quốc gia
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Bộ Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công bố tình huống khẩn cấp về thiên tai đối với hệ thống quốc lộ và đường bộ cao tốc
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số Điều của Thông tư số 36/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và hoạt động của bến xe, bãi đỗ xe, trạm dừng nghỉ, điểm dừng xe trên đường bộ; quy định trình tự, thủ tục đưa bến xe, trạm dừng nghỉ vào khai thác, Thông tư số 40/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về công tác phòng, chống, khắc phục hậu quả thiên tai trong lĩnh vực đường bộ; Thông tư số 41/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về quản lý, vận hành, khai thác và bảo trì kết cấu hạ tầng đường bộ, Thông tư số 22/2014/TT-BGTVT ngày 06 tháng 6 năm 2014 của Bộ trưởng Bộ Giao thông vận tải hướng dẫn xây dựng quy trình vận hành, khai thác bến phà, bến khách ngang sông sử dụng phà một lưỡi chở hành khách và xe ô tô. (72/2025/TT-BXD)
+  * Quy định về phòng, chống, khắc phục hậu quả lụt thiên tai trong lĩnh vực đường bộ (40/2024/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

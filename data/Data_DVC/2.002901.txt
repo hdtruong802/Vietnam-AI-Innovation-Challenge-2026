@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002901
+Số quyết định: 1615./QĐ-UBND
+Tên thủ tục: Hỗ trợ dự án khởi nghiệp sáng tạo trong công nghiệp công nghệ số
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Công nghiệp công nghệ số, công nghệ thông tin, điện tử
+Trình tự thực hiện:
+    Bước 1: Tổ chức/doanh nghiệp gửi 01 bộ hồ sơ đề nghị hỗ trợ về Bộ phận Tiếp nhận và Trả kết quả của Sở Khoa học và Công nghệ tại Trung tâm Phục vụ hành chính công tỉnh. Cách thức nộp hồ sơ theo hình thức trực tiếp hoặc gián tiếp (qua hệ thống bưu điện hoặc qua cổng dịch vụ công trực tuyến).
+    Bước 2: Sở Khoa học và Công nghệ thực hiện tiếp nhận, kiểm tra hồ sơ và xử lý như sau:
+    - Đối với trường hợp nộp trực tiếp, sau khi kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận hồ sơ và viết phiếu hẹn trả kết quả; hướng dẫn tổ chức/doanh nghiệp hoàn thiện hồ sơ đối với trường hợp hồ sơ không đủ;
+    - Đối với trường hợp nộp gián tiếp qua hệ thống bưu điện, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan có thẩm quyền kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận, nếu không đủ có văn bản thông báo đến tổ chức/doanh nghiệp để bổ sung, hoàn thiện. Đối với trường hợp nộp trực tuyến, trong thời hạn không quá 08 giờ làm việc kể từ thời điểm nhận được hồ sơ, cơ quan có thẩm quyền thực hiện kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận, nếu không đủ có văn bản thông báo đến tổ chức/doanh nghiệp để bổ sung, hoàn thiện.
+    Bước 3: Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Khoa học và Công nghệ chủ trì, thành lập Hội đồng thẩm định hồ sơ. Chủ tịch Hội đồng thẩm định là lãnh đạo Sở Khoa học và Công nghệ, các thành viên là lãnh đạo Sở Tài chính và các sở ngành liên quan, lãnh đạo Ủy ban nhân dân cấp xã nơi có dự án triển khai; các ngành, lĩnh vực chuyên môn và chuyên gia độc lập hoặc thành phần khác (nếu cần thiết). Hội đồng thẩm định tổ chức thẩm định, nếu hồ sơ đủ điều kiện, Sở Khoa học và Công nghệ trình Chủ tịch Ủy ban nhân dân tỉnh phê duyệt. Trường hợp hồ sơ không đủ điều kiện theo quy định, thì trong vòng 05 ngày làm việc kể từ khi thẩm định, Sở Khoa học và Công nghệ phải có văn bản trả lời và nêu rõ lý do cho tổ chức/doanh nghiệp biết.
+    Bước 4: Trong thời hạn 10 ngày làm việc sau khi nhận được tờ trình đề nghị phê duyệt dự án, Chủ tịch Ủy ban nhân dân tỉnh quyết định hoặc ủy quyền cho người đứng đầu cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh phê duyệt dự án thuộc phạm vi quản lý.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Tổ chức/doanh nghiệp nộp hồ sơ trực tiếp đến Trung tâm Phục vụ hành chính công tỉnh.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Tổ chức/doanh nghiệp truy cập Cổng Dịch vụ công quốc gia (http://dichvucong.gov.vn) và thực hiện đăng ký/đăng nhập tài khoản, xác thực định danh điện tử, chọn dịch vụ công, nộp hồ sơ trực tuyến theo hướng dẫn.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Tổ chức/doanh nghiệp gửi qua dịch vụ BCCI (bưu chính công ích) đến Trung tâm Phục vụ hành chính công tỉnh.
+
+Thành phần hồ sơ:
+    - 
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Khoa học và Công nghệ tỉnh Tuyên Quang
+Cơ quan có thẩm quyền: UBND tỉnh Tuyên Quang
+Địa chỉ tiếp nhận HS: Điểm tiếp nhận số 1: Số 156 đường Trần Hưng Đạo, phường Minh Xuân, tỉnh Tuyên Quang;
+Điểm tiếp nhận số 2: Số 519, đường Nguyễn Trãi, phường Hà Giang 1, tỉnh Tuyên Quang.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Sở Tài chính tỉnh Tuyên Quang
+Kết quả thực hiện: QUYẾT ĐỊNH PHÊ DUYỆT KINH PHÍ HỖ TRỢ DỰ ÁN KHỞI NGHIỆP SÁNG TẠO TRONG CÔNG NGHIỆP CÔNG NGHỆ SỐ
+Căn cứ pháp lý:
+  * QUY ĐỊNH TIÊU CHÍ, ĐIỀU KIỆN, TRÌNH TỰ, THỦ TỤC, NỘI DUNG VÀ MỨC HỖ TRỢ TỪ NGÂN SÁCH ĐỊA PHƯƠNG CHO CÁC DỰ ÁN, DOANH NGHIỆP HOẠT ĐỘNG TRONG LĨNH VỰC CÔNG NGHIỆP CÔNG NGHỆ SỐ TRÊN ĐỊA BÀN TỈNH TUYÊN QUANG (37/2025/NQ-HĐND.)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000630
+Số quyết định: 1075a/QĐ-NHNN
+Tên thủ tục: Thủ tục cấp mã ngân hàng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hoạt động công nghệ thông tin ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Khi có nhu cầu cấp mã ngân hàng, các tổ chức có hoạt động báo cáo, trao đổi dữ liệu điện tử liên quan đến Ngân hàng Nhà nước gửi đề nghị cấp mã ngân hàng đến Ngân hàng Nhà nước.
+    + Bước 2: Ngân hàng Nhà nước Việt Nam (Cục Công nghệ thông tin) phối hợp với các đơn vị liên quan xem xét, thẩm định hồ sơ cấp mã ngân hàng.
+    + Bước 3: Ngân hàng Nhà nước Việt Nam (Cục Công nghệ thông tin) gửi kết quả cho đơn vị đề nghị và có Thông báo điện tử về việc cấp mã ngân hàng trên Cổng Dịch vụ công quốc gia. Trường hợp từ chối cấp mã ngân hàng, Cục Công nghệ thông tin thông báo lý do từ chối cho đơn vị đề nghị cấp mã ngân hàng theo phương thức đơn vị gửi hồ sơ đề nghị.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Phương thức điện tử qua Hệ thống dịch vụ công (áp dụng đối với thủ tục cấp mã ngân hàng cho các đơn vị phụ thuộc, quỹ tín dụng nhân dân, Kho bạc nhà nước các cấp);
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Văn bản giấy nộp trực tiếp tại Bộ phận Một cửa hoặc gửi qua dịch vụ bưu chính (áp dụng đối với các tổ chức lần đầu đề nghị và chưa có mã ngân hàng);
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Văn bản giấy nộp trực tiếp tại Bộ phận Một cửa hoặc gửi qua dịch vụ bưu chính (áp dụng đối với các tổ chức lần đầu đề nghị và chưa có mã ngân hàng);
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp mã ngân hàng theo Phụ lục số 01.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Ngân hàng Nhà nước Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản từ chối, Thông báo điện tử về việc cấp mã ngân hàng
+Căn cứ pháp lý:
+  * Thông tư 17/2015/TT-NHNN (17/2015/TT-NHNN)
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 17/2015/TT-NHNN ngày 21 tháng 10 năm 2015 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định về hệ thống mã ngân hàng dùng trong hoạt động, nghiệp vụ ngân hàng (Thông tư 18/2023/TT-NHNN)
+  * sửa đổi, bổ sung một số điều của Thông tư số 17/2015/TT-NHNN (11/2025/TT-NHNN)
+  * sửa đổi, bổ sung một số điều của Thông tư số 17/2015/TT-NHNN (18/2026/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

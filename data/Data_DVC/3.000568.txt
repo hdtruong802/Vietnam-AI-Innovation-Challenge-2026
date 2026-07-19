@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000568
+Số quyết định: 1122/QĐ-BCT
+Tên thủ tục: Thủ tục thực hiện chấm dứt thực hiện hợp đồng nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo trong quá trình triển khai
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Quản lý nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách nhà nước của Bộ Công Thương
+Trình tự thực hiện:
+    - Tổ chức chủ trì lập hồ sơ đề nghị chấm dứt thực hiện nhiệm vụ theo quy định kèm theo công văn đề nghị gửi đến cơ quan quản lý nhiệm vụ.
+    - Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị chấm dứt thực hiện nhiệm vụ của tổ chức chủ trì, cơ quan quản lý nhiệm vụ gửi văn bản thông báo tạm dừng thực hiện nhiệm vụ đến tổ chức chủ trì. Sau khi nhận được văn bản thông báo tạm dừng của cơ quan quản lý nhiệm vụ, tổ chức chủ trì phải ngừng toàn bộ các hoạt động liên quan đến nhiệm vụ.
+    - Trong thời hạn 15 ngày sau khi nhận được hồ sơ đề nghị chấm dứt thực hiện nhiệm vụ, cơ quan quản lý nhiệm vụ tổ chức đánh giá kết quả thực hiện theo quy định.
+    - Văn bản thông báo về kết quả đánh giá được gửi cho tổ chức chủ trì trong thời gian không quá 45 ngày kể từ thời điểm nhận được hồ sơ đánh giá hợp lệ.
+    - Trong thời gian 30 ngày kể từ ngày có Kết quả đánh giá nhiệm vụ, cơ quan quản lý nhiệm vụ ban hành quyết định chấm dứt thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 75 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Tối đa 75 ngày (kể từ ngày nhận đủ hồ sơ hợp lệ)
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 75 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Tối đa 75 ngày (kể từ ngày nhận đủ hồ sơ hợp lệ)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 75 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Tối đa 75 ngày (kể từ ngày nhận đủ hồ sơ hợp lệ)
+
+Thành phần hồ sơ:
+    - Công văn đề nghị chấm dứt thực hiện nhiệm vụ theo biểu mẫu BM-24 tại Phụ lục ban hành kèm theo Thông tư số 36/2025/TT- BKHCN và Hồ sơ đề nghị chấm dứt thực hiện nhiệm vụ (gồm: Nhật ký nhiệm vụ (nhật ký thí nghiệm, nhật ký sử dụng vật tư, nguyên vật liệu), tài liệu chứng minh quá trình thực hiện nhiệm vụ; Tài liệu xác nhận và minh chứng liên quan đến kết quả, sản phẩm của nhiệm vụ (công bố, xuất bản, đào tạo, kết quả kiểm định/khảo nghiệm/kiểm nghiệm, chuyển giao kết quả); Số liệu điều tra, khảo sát, phân tích và các tài liệu chuyên môn liên quan (nếu có); Báo cáo tài chính, tình hình sử dụng kinh phí thực hiện nhiệm vụ; Đối với nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo trong khuôn khổ hợp tác quốc tế: hồ sơ, tài liệu cần có báo cáo đánh giá của đối tác về quá trình, kết quả và triển vọng hợp tác trong tương lai; báo cáo kết quả thực hiện đến thời điểm đề nghị chấm dứt; báo cáo sản phẩm (nếu có); tài liệu khác có liên quan (nếu có) gửi đến cơ quan quản lý nhiệm vụ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Đề nghị chấm dứt thực hiện nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo theo Biểu mẫu BM-24 tại Phụ lục ban hành kèm theo Thông tư số 36/2025/TT-BKHCN
+Căn cứ pháp lý:
+  * Thông tư số 36/2025/TT-BKHCN ngày 26 tháng 11 năm 2025 của Bộ trưởng Bộ Khoa học và Công nghệ quy định khung về trình tự, thủ tục xây dựng, thẩm định, ban hành, quản lý, tổ chức thực hiện chương trình khoa học, công nghệ và đổi mới sáng tạo và quy định về trình tự, thủ tục xét tài trợ, đặt hàng, ký hợp đồng, tổ chức thực hiện, chấm dứt thực hiện, thanh lý hợp đồng giao nhiệm vụ và đánh giá đối với nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo (36/2025/TT-BKHCN)
+  * Thông tư số 25/2026/TT-BCT ngày 11 tháng 5 năm 2026 của Bộ trưởng Bộ Công Thương quy định quản lý chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo sử dụng ngân sách nhà nước của Bộ Công Thương. (25/2026/TT-BCT)
+  * Nghị định số 267/2025/NĐ-CP ngày 14/10/2025 của Chính phủ quy định chi tiết và hướng dẫn một số điều của Luật Khoa học, công nghệ và đổi mới sáng tạo về chương trình, nhiệm vụ khoa học, công nghệ và đổi mới sáng tạo và một số quy định về thúc đẩy hoạt động nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo (267/2025/NĐ-CP)
+  * Luật số 93/2025/QH15 của Quốc hội: Luật Khoa học, công nghệ và đổi mới sáng tạo (93/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không yêu cầu, điều kiện thực hiện thủ tục hành chính
+Từ khóa: Không có thông tin
+Mô tả: Không yêu cầu, điều kiện thực hiện thủ tục hành chính

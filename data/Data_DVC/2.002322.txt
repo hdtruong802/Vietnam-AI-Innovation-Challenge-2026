@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002322
+Số quyết định: 1032/QĐ-TCHQ
+Tên thủ tục: Thủ tục cấp sổ tạm quản hàng hóa (sổ ATA)
+Cấp thực hiện: Không có thông tin
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Chủ sổ nộp hồ sơ đến VCCI đề nghị cấp sổ tạm quản;
+    Bước 2: VCCI kiểm tra hồ sơ cấp sổ tạm quản.
+    - Trường hợp hồ sơ đầy đủ, hợp lệ, VCCI thực hiện cấp sổ ATA trong thời hạn 7 ngày làm việc kể từ ngày nhận được hồ sơ của chủ sổ ATA.
+    - Trường hợp cần đối chiếu thông tin hàng hóa chủ sổ đã khai khi đề nghị cấp sổ ATA, VCCI thực hiện kiểm thực tế hàng hóa trước khi cấp sổ ATA.
+    - Trường hợp hồ sơ không đầy đủ, hợp lệ hoặc kết quả kiểm tra thực tế hàng hóa không phù hợp, chậm nhất 01 ngày làm việc kể từ ngày nhận hồ sơ hoặc kết thúc việc kiểm tra thực tế hàng hóa, VCCI có văn bản yêu cầu chủ sổ làm rõ hoặc cung cấp bỏ sung thông tin, chứng từ theo quy định;
+    Bước 3: Chủ sổ nộp chi phí cấp sổ ATA;
+    Bước 4: VCCI cấp sổ ATA cho chủ sổ
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Giấy ủy quyền theo mẫu số 03/GUQ trong trường hợp người đề nghị cấp sổ ATA không phải là chủ sổ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị cấp sổ ATA
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản xác nhận của cơ quan có thẩm quyền về tổ chức hoặc tham dự sự kiện
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Thư bảo lãnh do tổ chức tín dụng, chi nhánh ngân hàng nước ngoài phát hành hoặc giấy nộp tiền cho VCCI
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đăng ký mẫu chữ ký của người được ủy quyền ký đơn đề nghị cấp sổ ATA và mẫu con dấu của doanh nghiệp (đối với trường hợp đề nghị cấp sổ ATA lần đầu)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các chứng từ có liên quan: Chứng từ thể hiện trị giá lô hàng, giấy chứng nhận xuất xứ (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Mẫu sổ ATA đã được khai (đánh máy) đầy đủ các thông tin tại mặt trước và mặt sau của trang bìa theo mẫu sổ ATA
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp
+Cơ quan thực hiện: Trung tâm Thông tin Công nghiệp và Thương mại
+Cơ quan có thẩm quyền: Trung tâm Thông tin Công nghiệp và Thương mại
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Sổ ATA
+Căn cứ pháp lý:
+  * Nghị định số 64/2020/NĐ-CP ngày 10/6/2020 của Chính phủ hướng dẫn thực hiện cơ chế tạm quản theo Công ước Istanbul. (64/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

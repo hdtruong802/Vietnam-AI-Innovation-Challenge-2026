@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000570
+Số quyết định: 1198/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục xác nhận thay đổi thông tin đăng ký hoạt động in (cấp xã)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+    - Trong thời hạn 05 ngày làm việc kể từ ngày có một trong các thay đổi về thông tin đã được xác nhận, cơ sở in (là hộ kinh doanh) phải gửi hồ sơ thay đổi thông tin đăng ký hoạt động in đến cơ quan quản lý về hoạt động in ở địa phương (Phòng chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp xã) đề nghị cấp lại giấy xác nhận đăng ký hoạt động in.
+    - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ thay đổi thông tin đăng ký hoạt động của cơ sở in, cơ quan quản lý về hoạt động in ở địa phương có trách nhiệm cấp giấy xác nhận đăng ký hoạt động in và cập nhật thông tin vào cơ sở dữ liệu quốc gia về hoạt động in; trường hợp không cấp giấy xác nhận đăng ký hoạt động in phải có văn bản trả lời nêu rõ lý do.
+    Trường hợp hồ sơ thay đổi thông tin đăng ký hoạt động in không đúng thành phần quy định phải thông báo bằng văn bản cho cơ sở in và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+    - Tờ khai thay đổi thông tin đăng ký hoạt động cơ sở in (Mẫu số 11 Phụ lục 04 kèm theo Nghị quyết 18/2026/NQ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã, Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy xác nhận đăng ký hoạt động in
+Căn cứ pháp lý:
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định có quy định thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (116/2026/NĐ-CP)
+  * Nghị định số 72/2022/NĐ-CP ngày 04 tháng 10 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 60/2014/NĐ-CP ngày 19 tháng 6 năm 2014 của Chính phủ quy định về hoạt động in và Nghị định số 25/2018/NĐ-CP ngày 28 tháng 02 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 60/2014/NĐ-CP ngày 19 tháng 6 năm 2014 của Chính phủ quy định về hoạt động in (72/2022//NĐ-CP)
+  * Nghị quyết số 18/2026/NQ-CP ngày 29/4/2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, cắt giảm điều kiện đầu tư kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (18/2026/NQ-CP)
+  * Nghị định 60/2014/NĐ-CP (60/2014/NĐ-CP)
+  * Nghị định 25/2018/NĐ-CP (25/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

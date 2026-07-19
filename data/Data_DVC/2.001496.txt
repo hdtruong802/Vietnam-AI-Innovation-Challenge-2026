@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001496
+Số quyết định: 1122/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục phê duyệt nội dung tác phẩm mỹ thuật, tác phẩm nhiếp ảnh nhập khẩu nhằm mục đích kinh doanh
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Mỹ thuật, nhiếp ảnh, triển lãm
+Trình tự thực hiện:
+    - Thương nhân đề nghị phê duyệt nội dung tác phẩm nhập khẩu nộp 01 bộ hồ sơ bằng hình thức trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên Cổng Dịch vụ công quốc gia đến cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh (Sở Văn hóa và Thể thao/Sở Văn hóa, Thể thao và Du lịch).
+    - Trong thời hạn 05 (năm) ngày làm việc kể từ ngày nhận được hồ sơ, nếu hồ sơ chưa đầy đủ, hợp lệ, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh có văn bản thông báo cho Thương nhân đề nghị bổ sung đầy đủ hồ sơ hợp lệ.
+    - Trong thời hạn 07 (bảy) ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh có văn bản trả lời kết quả phê duyệt nội dung tác phẩm nhập khẩu. Trường hợp không phê duyệt nội dung tác phẩm, cơ quan chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp tỉnh phải trả lời bằng văn bản và nêu rõ lý do.
+    - Văn bản phê duyệt nội dung tác phẩm là căn cứ để thương nhân làm thủ tục nhập khẩu tại hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 300000 VNĐ (Đối với 10 tác phẩm mỹ thuật đầu tiên) | 270000 VNĐ (Đối với tác phẩm mỹ thuật thứ 11 tới tác phẩm số 49) | 240000 VNĐ (Đối với tác phẩm mỹ thuật thứ 50 trở đi) | 100000 VNĐ (Đối với 10 tác phẩm nhiếp ảnh đầu tiên) | 90000 VNĐ (Đối với tác phẩm thứ 11 tới tác phẩm nhiếp ảnhsố 49) | 80000 VNĐ (Đối với tác phẩm nhiếp ảnh thứ 50 trở đi)
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 300000 VNĐ (Đối với 10 tác phẩm mỹ thuật đầu tiên) | 270000 VNĐ (Đối với tác phẩm mỹ thuật thứ 11 tới tác phẩm số 49) | 240000 VNĐ (Đối với tác phẩm mỹ thuật thứ 50 trở đi) | 100000 VNĐ (Đối với 10 tác phẩm nhiếp ảnh đầu tiên) | 90000 VNĐ (Đối với tác phẩm thứ 11 tới tác phẩm nhiếp ảnhsố 49) | 80000 VNĐ (Đối với tác phẩm nhiếp ảnh thứ 50 trở đi)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 300000 VNĐ (Đối với 10 tác phẩm mỹ thuật đầu tiên) | 270000 VNĐ (Đối với tác phẩm mỹ thuật thứ 11 tới tác phẩm số 49) | 240000 VNĐ (Đối với tác phẩm mỹ thuật thứ 50 trở đi) | 100000 VNĐ (Đối với 10 tác phẩm nhiếp ảnh đầu tiên) | 90000 VNĐ (Đối với tác phẩm thứ 11 tới tác phẩm nhiếp ảnhsố 49) | 80000 VNĐ (Đối với tác phẩm nhiếp ảnh thứ 50 trở đi)
+
+Thành phần hồ sơ:
+    - Đơn đề nghị phê duyệt nội dung tác phẩm mỹ thuật, tác phẩm nhiếp ảnh nhập khẩu theo Mẫu số 10 Danh mục kèm theo Phụ lục Thông tư số 09/2026/TT-BVHTTDL
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hình ảnh tác phẩm nhập khẩu, nêu rõ chất liệu, kích thước
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản phê duyệt nội dung tác phẩm mỹ thuật, tác phẩm nhiếp ảnh nhập khẩu
+Căn cứ pháp lý:
+  * Thông tư số 09/2026/TT-BVHTTDL ngày 29 tháng 4 năm 2026 của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định về phân cấp thủ tục hành chính thuộc thẩm quyền của Bộ Văn hóa, Thể thao và Du lịch. (09/2026/TT-BVHTTDL)
+  * Thông tư 28/2014/TT-BVHTTDL (28/2014/TT-BVHTTDL)
+  * Thông tư của Bộ trưởng Bộ VHTTDL SĐBS quy định đến các giấy tờ công dân (13/2023/TT-BVHTTDL)
+  * Thông tư số 26/2018/TT-BVHTTDL (26/2018/TT-BVHTTDL)
+  * Thông tư số 260/2016/TT-BTC (260/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

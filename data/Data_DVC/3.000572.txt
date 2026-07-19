@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000572
+Số quyết định: 1198/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục khai báo hoạt động phát hành xuất bản phẩm điện tử
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+    - Cơ quan, tổ chức, cá nhân hoạt động phát hành xuất bản phẩm điện tử đáp ứng các yêu cầu quy định tại khoản V, phần B mục 3 Phụ lục I.9 ban hành kèm theo Nghị quyết số 66.18/2026/NQ-CP ngày 18/5/2026 của Chính phủ phải thực hiện khai báo hoạt động phát hành xuất bản phẩm điện tử với Cục Xuất bản, In và Phát hành.
+    - Trong thời gian 03 ngày làm việc, kể từ ngày tiếp nhận được hồ sơ khai báo hoạt động phát hành xuất bản phẩm điện tử, Cục Xuất bản, In và Phát hành phải xác nhận khai báo; trường hợp không xác nhận khai báo phải có văn bản trả lời nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+    - Tờ khai hoạt động phát hành xuất bản phẩm điện tử (theo Mẫu số 12 ban hành kèm theo Phụ lục I.9 tại Nghị quyết số 66.18/2026/NQ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Xuất bản, in và phát hành - Bộ Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận khai báo hoạt động phát hành xuất bản phẩm điện tử.
+Căn cứ pháp lý:
+  * Nghị quyết số 66.18/2026/NQ-CP của Chính phủ: Phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (66.18/2026/NQ-CP)
+  * Nghị định 195/2013/NĐ-CP (195/2013/NĐ-CP)
+  * 23/2023/TT-BTTTT (23/2023/TT-BTTTT)
+  * Thông tư 01/2020/TT-BTTTT (01/2020/TT-BTTTT)
+  * Nghị định số 150/2018/NĐ-CP (Nghị định số 150/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Cơ quan, tổ chức, cá nhân hoạt động phát hành xuất bản phẩm điện tử phải đáp ứng các yêu cầu sau:
+- Có máy chủ đặt tại Việt Nam;
+- Có tên miền Internet Việt Nam theo quy định của pháp luật;
+- Có biện pháp kỹ thuật đảm bảo an toàn, an ninh thông tin; ngăn chặn sao chép; can thiệp bất hợp pháp vào nội dung xuất bản phẩm;
+- Có giải pháp kỹ thuật theo quy định về kiểm soát bản quyền số đối với nhà cung cấp nội dung, các kênh phân phối nội dung;
+- Có xác nhận khai báo hoạt động phát hành xuất bản phẩm điện tử của Bộ Văn hóa, Thể thao và Du lịch về hoạt động phát hành xuất bản phẩm điện tử.
+Từ khóa: Không có thông tin
+Mô tả: Cơ quan, tổ chức, cá nhân hoạt động phát hành xuất bản phẩm điện tử phải đáp ứng các yêu cầu sau:
+- Có máy chủ đặt tại Việt Nam;
+- Có tên miền Internet Việt Nam theo quy định của pháp luật;
+- Có biện pháp kỹ thuật đảm bảo an toàn, an ninh thông tin; ngăn chặn sao chép; can thiệp bất hợp pháp vào nội dung xuất bản phẩm;
+- Có giải pháp kỹ thuật theo quy định về kiểm soát bản quyền số đối với nhà cung cấp nội dung, các kênh phân phối nội dung;
+- Có xác nhận khai báo hoạt động phát hành xuất bản phẩm điện tử của Bộ Văn hóa, Thể thao và Du lịch về hoạt động phát hành xuất bản phẩm điện tử.

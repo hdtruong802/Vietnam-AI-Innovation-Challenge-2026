@@ -1,0 +1,36 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000108
+Số quyết định: 2638/QĐ-BTC
+Tên thủ tục: Thủ tục kích hoạt tài khoản (đã khóa) người sử dụng Cổng thông tin một cửa quốc gia
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Người khai có văn bản gửi Tổng cục Hải quan, nêu rõ thông tin tài khoản, lý do đề nghị kích hoạt tài khoản, thời điểm kích hoạt.
+    Tổng cục Hải quan thực hiện kích hoạt lại tài khoản đã khóa
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản nêu rõ thông tin tài khoản, lý do đề nghị kích hoạt tài khoản, thời điểm kích hoạt.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền: Cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo về việc kích hoạt tài khoản đã khóa.
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

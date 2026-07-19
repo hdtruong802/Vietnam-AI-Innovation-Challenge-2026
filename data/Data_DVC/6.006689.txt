@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.006689
+Số quyết định: 2827/QĐ-BGDĐT
+Tên thủ tục: Thủ tục chấp thuận việc dạy và học tiếng nói, chữ viết của dân tộc thiểu số trong các cơ sở giáo dục phổ thông và trung tâm giáo dục thường xuyên
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Giáo dục dân tộc
+Trình tự thực hiện:
+    - Trên cơ sở nguyện vọng của người dân tộc thiểu số, Sở Giáo dục và Đào tạo tổng hợp, lập báo cáo về việc đảm bảo các điều kiện và đưa tiếng dân tộc thiểu số vào dạy học và đề nghị Ủy ban nhân dân cấp tỉnh xem xét đưa tiếng dân tộc thiểu số vào dạy học.
+    - Trong thời hạn 30 ngày làm việc kể từ ngày nhận được đề nghị của Sở Giáo dục và Đào tạo, Ủy ban nhân dân cấp tỉnh xem xét, đánh giá việc đáp ứng các điều kiện về tổ chức dạy học tiếng dân tộc thiểu số theo quy định của pháp luật. Nếu đủ điều kiện, Chủ tịch Ủy ban nhân dân cấp tỉnh ra quyết định về việc dạy học tiếng dân tộc thiểu số trên địa bàn. Trường hợp không đủ điều kiện thì thông báo cho Sở Giáo dục và Đào tạo và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - - Công văn đề nghị về việc dạy học tiếng dân tộc thiểu số của UBND cấp tỉnh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo tổng hợp nguyện vọng, nhu cầu học tiếng dân tộc thiểu số; cơ sở vật chất, thiết bị dạy học; kế hoạch triển khai, tổ chức dạy học; đội ngũ giáo viên dạy học tiếng dân tộc thiểu số;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về việc dạy học tiếng dân tộc thiểu số trên địa bàn
+Căn cứ pháp lý:
+  * Thông tư 32/2021/TT-BGDĐT (32/2021/TT-BGDĐT)
+
+Yêu cầu, điều kiện thực hiện: a) Người dân tộc thiểu số ở địa phương có nguyện vọng, nhu cầu học tiếng dân tộc thiểu số trong các cơ sở giáo dục. 
+b) Có bộ chữ tiếng dân tộc thiểu số là bộ chữ cổ truyền đã được lưu hành và sử dụng rộng rãi trong cộng đồng dân tộc, được cơ quan chuyên môn xác định và được UBND cấp tỉnh phê chuẩn hoặc bộ chữ được Chính phủ ban hành. Đối với các tiếng dân tộc thiểu số có nhiều bộ chữ, việc lựa chọn bộ chữ để dạy học do Bộ GDĐT quyết định. 
+c) Có chương trình tiếng dân tộc thiểu số do Bộ GDĐT ban hành, sách giáo khoa tiếng dân tộc thiểu số được Bộ GDĐT phê duyệt.
+d) Có đội ngũ giáo viên dạy tiếng dân tộc thiểu số đạt trình độ chuẩn được đào tạo của cấp học tương ứng theo quy định tại Điều 72 Luật Giáo dục 2019. Trường hợp thiếu giáo viên đạt chuẩn có thể sử dụng người đủ điều kiện dạy học ở cấp học và có chứng chỉ bồi dưỡng giáo viên dạy tiếng dân tộc thiểu số. 
+đ) Có sở vật chất tại các lớp dạy học tiếng dân tộc thiểu số được trang bị như các lớp học thông thường khác, đáp ứng được chương trình giáo dục phổ thông. Thiết bị dạy học tiếng dân tộc thiểu số được trang bị theo quy định của Bộ Giáo dục và Đào tạo về danh mục thiết bị dạy học tối thiểu cho từng chương trình dạy học tiếng dân tộc thiểu số.
+Từ khóa: Không có thông tin
+Mô tả: a) Người dân tộc thiểu số ở địa phương có nguyện vọng, nhu cầu học tiếng dân tộc thiểu số trong các cơ sở giáo dục. 
+b) Có bộ chữ tiếng dân tộc thiểu số là bộ chữ cổ truyền đã được lưu hành và sử dụng rộng rãi trong cộng đồng dân tộc, được cơ quan chuyên môn xác định và được UBND cấp tỉnh phê chuẩn hoặc bộ chữ được Chính phủ ban hành. Đối với các tiếng dân tộc thiểu số có nhiều bộ chữ, việc lựa chọn bộ chữ để dạy học do Bộ GDĐT quyết định. 
+c) Có chương trình tiếng dân tộc thiểu số do Bộ GDĐT ban hành, sách giáo khoa tiếng dân tộc thiểu số được Bộ GDĐT phê duyệt.
+d) Có đội ngũ giáo viên dạy tiếng dân tộc thiểu số đạt trình độ chuẩn được đào tạo của cấp học tương ứng theo quy định tại Điều 72 Luật Giáo dục 2019. Trường hợp thiếu giáo viên đạt chuẩn có thể sử dụng người đủ điều kiện dạy học ở cấp học và có chứng chỉ bồi dưỡng giáo viên dạy tiếng dân tộc thiểu số. 
+đ) Có sở vật chất tại các lớp dạy học tiếng dân tộc thiểu số được trang bị như các lớp học thông thường khác, đáp ứng được chương trình giáo dục phổ thông. Thiết bị dạy học tiếng dân tộc thiểu số được trang bị theo quy định của Bộ Giáo dục và Đào tạo về danh mục thiết bị dạy học tối thiểu cho từng chương trình dạy học tiếng dân tộc thiểu số.

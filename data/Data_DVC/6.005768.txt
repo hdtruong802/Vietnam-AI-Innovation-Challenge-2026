@@ -1,0 +1,40 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.005768
+Số quyết định: 2267./QĐ-BXD
+Tên thủ tục: Thẩm định, phê duyệt hồ sơ khắc phục hậu quả thiên tai, sự cố đối với công trình đường sắt bước 1
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Đường sắt
+Trình tự thực hiện:
+    Trong thời hạn 30 ngày kể từ khi hoàn thành công tác cứu chữa bước 1, doanh nghiệp quản lý tài sản đường sắt quốc gia tổng hợp, hoàn thiện hồ sơ về khắc phục thiên tai, sự cố đối với công trình đường sắt bước 1 trình Cục Đường sắt Việt Nam phê duyệt.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Tờ trình đề nghị thẩm định, phê duyệt hồ sơ khắc phục hậu quả thiên tai, sự cố đối với công trình đường sắt bước 1
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu liên quan đến công tác khắc phục hậu quả thiên tai, sự cố công trình đường sắt
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ thiết kế hoặc phương án kỹ thuật sửa chữa, gia cố, khôi phục công trình đường sắt bước 1 đã được phê duyệt
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ quản lý chất lượng sửa chữa, gia cố, khôi phục công trình đường sắt
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ dự toán
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Cục Đường sắt Việt Nam
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt hồ sơ cứu chữa, khắc phục hậu quả thiên tai, sự cố bước 1 đối với công trình đường sắt
+Căn cứ pháp lý:
+  * Thông tư số 34/2025/TT-BXD ngày 14/11/2025 của Bộ trưởng Bộ Xây dựng quy định về quản lý, khai thác kết cấu hạ tầng đường sắt (34/2025/TT-BXD)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

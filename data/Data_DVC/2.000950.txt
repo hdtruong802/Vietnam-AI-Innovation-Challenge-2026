@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000950
+Số quyết định: QĐ2338-BTP
+Tên thủ tục: Thủ tục công nhận tổ trưởng tổ hòa giải (cấp xã)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hòa giải ở cơ sở
+Trình tự thực hiện:
+  * công nhận tổ trưởng tổ hòa giải:
+    Trong thời hạn 05 ngày, kể từ ngày tổ chức cuộc họp bầu tổ trưởng tổ hòa giải, Trưởng ban công tác Mặt trận làm văn bản đề nghị công nhận tổ trưởng tổ hòa giải kèm theo biên bản kiểm phiếu hoặc biên bản về kết quả biểu quyết về việc bầu tổ trưởng tổ hòa giải, gửi Chủ tịch Ủy ban nhân dân cấp xã. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị công nhận tổ trưởng tổ hòa giải, Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Biên bản kiểm phiếu hoặc biên bản về kết quả biểu quyết về việc bầu tổ trưởng tổ hòa giải.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị công nhận tổ trưởng tổ hòa giải.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Chủ tịch UBND cấp xã
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận tổ trưởng tổ hòa giải
+Căn cứ pháp lý:
+  * Công bố thủ tục hành chính được chuẩn hóa trong lĩnh vực hòa giải ở cơ sở thuộc phạm vi chức năng quản lý của Bộ Tư pháp (Quyết định số 2338/QĐ-BTP)
+  * Luật Hòa giải ở cơ sở năm 2013 (35/2013/QH13)
+  * Hướng dẫn phối hợp thực hiện một số quy định của pháp luật về hòa giải ở cơ sở (01/2014/NQLT-CP-UBTƯMTTQVN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

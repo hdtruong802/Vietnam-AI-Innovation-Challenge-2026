@@ -1,0 +1,99 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000129
+Số quyết định: 1040/QĐ-BCT
+Tên thủ tục: Điều chỉnh Giấy phép thành lập Chi nhánh của thương nhân nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thương mại quốc tế
+Trình tự thực hiện:
+    Trong thời hạn 60 ngày làm việc kể từ ngày có sự thay đổi quy định tại Điều 15 Nghị định 07/2016/NĐ-CP, thương nhân nước ngoài phải làm thủ tục điều chỉnh Giấy phép thành lập Chi nhánh.
+    Thương nhân nước ngoài nộp hồ sơ trực tiếp hoặc qua đường bưu điện hoặc trực tuyến (nếu đủ điều kiện áp dụng) đến Cơ quan cấp Giấy phép.
+    Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan cấp Giấy phép kiểm tra và yêu cầu bổ sung nếu hồ sơ chưa đầy đủ, hợp lệ. Việc yêu cầu bổ sung hồ sơ được thực hiện tối đa một lần trong suốt quá trình giải quyết hồ sơ.
+    Trừ trường hợp quy định tại Khoản 5 Điều 17 Nghị định 07/2016/NĐ-CP, trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan cấp Giấy phép cấp Giấy phép điều chỉnh hoặc không điều chỉnh Giấy phép thành lập Chi nhánh. Trường hợp không điều chỉnh phải có văn bản nêu rõ lý do.
+    Trường hợp việc điều chỉnh nội dung hoạt động của Chi nhánh dẫn đến Chi nhánh thuộc trường hợp quy định tại Khoản 5 Điều 8 Nghị định 07/2016/NĐ-CP và trường hợp việc điều chỉnh nội dung hoạt động của Chi nhánh chưa được quy định tại văn bản quy phạm pháp luật chuyên ngành, Cơ quan cấp Giấy phép gửi văn bản lấy ý kiến của Bộ quản lý chuyên ngành trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản của Cơ quan cấp Giấy phép, Bộ quản lý chuyên ngành có văn bản nêu rõ ý kiến đồng ý hoặc không đồng ý điều chỉnh Giấy phép thành lập Chi nhánh. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến của Bộ quản lý chuyên ngành, Cơ quan cấp Giấy phép điều chỉnh hoặc không điều chỉnh Giấy phép thành lập Chi nhánh cho thương nhân nước ngoài. Trường hợp không điều chỉnh phải có văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc (trường hợp không phải xin ý kiến Bộ quản lý chuyên ngành); 13 ngày làm việc (trường hợp phải xin ý kiến Bộ quản lý chuyên ngành)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc (trường hợp không phải xin ý kiến Bộ quản lý chuyên ngành); 13 ngày làm việc (trường hợp phải xin ý kiến Bộ quản lý chuyên ngành)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc (trường hợp không phải xin ý kiến Bộ quản lý chuyên ngành); 13 ngày làm việc (trường hợp phải xin ý kiến Bộ quản lý chuyên ngành)
+
+Thành phần hồ sơ:
+  [ Trường hợp Thay đổi địa chỉ đặt trụ sở của Chi nhánh (Các tài liệu phải được cơ quan đại diện ngoại giao, cơ quan lãnh sự của Việt Nam ở nước ngoài chứng nhận hoặc hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam) ]
+    - Bản sao biên bản ghi nhớ hoặc thỏa thuận thuê địa điểm hoặc bản sao tài liệu chứng minh thương nhân có quyền khai thác, sử dụng địa điểm để đặt trụ sở Chi nhánh
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - bản sao tài liệu về địa điểm dự kiến đặt trụ sở Chi nhánh theo quy định tại Điều 28 Nghị định 07/2016/NĐ-CP và quy định pháp luật có liên quan
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị điều chỉnh Giấy phép thành lập Chi nhánh theo mẫu của Bộ Công Thương do đại diện có thẩm quyền của thương nhân nước ngoài ký
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính Giấy phép thành lập Chi nhánh
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp thay đổi người đứng đầu của Chi nhánh (Các tài liệu chứng minh nội dung thay đổi (đối với trường hợp văn bản của thương nhân nước ngoài cử/bổ nhiệm người đứng đầu mới của Văn phòng đại diện, Chi nhánh bằng tiếng nước ngoài và bản sao hộ chiếu của người đứng đầu mới của Chi nhánh là người nước ngoài) phải dịch ra tiếng Việt và chứng thực theo quy định của pháp luật Việt Nam) ]
+    - Văn bản của thương nhân nước ngoài cử/bổ nhiệm người đứng đầu mới của Chi nhánh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tờ chứng minh người đứng đầu cũ của Chi nhánh đã thực hiện nghĩa vụ thuế thu nhập cá nhân đến thời điểm thay đổi
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hộ chiếu hoặc giấy chứng minh nhân dân hoặc thẻ căn cước công dân (nếu là người Việt Nam) hoặc bản sao hộ chiếu (nếu là người nước ngoài) của người đứng đầu mới của Chi nhánh
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị điều chỉnh Giấy phép thành lập Chi nhánh theo mẫu của Bộ Công Thương do đại diện có thẩm quyền của thương nhân nước ngoài ký
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính Giấy phép thành lập Chi nhánh
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp thay đổi nội dung hoạt động của thương nhân nước ngoài có liên quan trực tiếp đến nội dung hoạt động của Chi nhánh tại Việt Nam (Các tài liệu phải được cơ quan đại diện ngoại giao, cơ quan lãnh sự của Việt Nam ở nước ngoài chứng nhận hoặc hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam) ]
+    - Bản sao tài liệu pháp lý do cơ quan có thẩm quyền cấp chứng minh sự thay đổi nội dung hoạt động của thương nhân nước ngoài
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị điều chỉnh Giấy phép thành lập Chi nhánh theo mẫu của Bộ Công Thương do đại diện có thẩm quyền của thương nhân nước ngoài ký
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính Giấy phép thành lập Chi nhánh
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp thay đổi tên gọi hoặc địa chỉ hoặc trụ sở của thương nhân nước ngoài (Các tài liệu phải được cơ quan đại diện ngoại giao, cơ quan lãnh sự của Việt Nam ở nước ngoài chứng nhận hoặc hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam) ]
+    - Bản sao tài liệu pháp lý do cơ quan có thẩm quyền cấp chứng minh sự thay đổi tên gọi hoặc địa chỉ đặt trụ sở của thương nhân nước ngoài
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị điều chỉnh Giấy phép thành lập Chi nhánh theo mẫu của Bộ Công Thương do đại diện có thẩm quyền của thương nhân nước ngoài ký
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính Giấy phép thành lập Chi nhánh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị điều chỉnh Giấy phép thành lập Chi nhánh theo mẫu của Bộ Công Thương do đại diện có thẩm quyền của thương nhân nước ngoài ký
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính Giấy phép thành lập Chi nhánh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính Giấy phép thành lập Chi nhánh
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người nước ngoài
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: GIẤY PHÉP ĐIỀU CHỈNH THÀNH LẬP CHI NHÁNH CỦA THƯƠNG NHÂN NƯỚC NGOÀI TẠI VIỆT NAM
+Căn cứ pháp lý:
+  * Nghị định số 146/2025/NĐ-CP (nghị định 146/2025)
+  * Thông tư số 11/2016/TT-BCT (11/2016/TT-BCT)
+  * Sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương (38/2025/TT-BCT)
+  * Nghị định số 07/2016/NĐ-CP (07/2016/NĐ-CP)
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Thương nhân nước ngoài phải làm thủ tục điều chỉnh Giấy phép thành lập Chi nhánh trong những trường hợp sau:
+(i) Thay đổi tên gọi hoặc địa chỉ đặt trụ sở của thương nhân nước ngoài.
+(ii) Thay đổi nội dung hoạt động của thương nhân nước ngoài có liên quan trực tiếp đến nội dung hoạt động của Chi nhánh tại Việt Nam.
+(iii) Thay đổi người đứng đầu của Chi nhánh.
+(iv) Thay đổi tên gọi của Chi nhánh.
+(v) Thay đổi nội dung hoạt động của Chi nhánh.
+(vi) Thay đổi địa chỉ đặt trụ sở của Chi nhánh.
+Từ khóa: Không có thông tin
+Mô tả: Thương nhân nước ngoài phải làm thủ tục điều chỉnh Giấy phép thành lập Chi nhánh trong những trường hợp sau:
+(i) Thay đổi tên gọi hoặc địa chỉ đặt trụ sở của thương nhân nước ngoài.
+(ii) Thay đổi nội dung hoạt động của thương nhân nước ngoài có liên quan trực tiếp đến nội dung hoạt động của Chi nhánh tại Việt Nam.
+(iii) Thay đổi người đứng đầu của Chi nhánh.
+(iv) Thay đổi tên gọi của Chi nhánh.
+(v) Thay đổi nội dung hoạt động của Chi nhánh.
+(vi) Thay đổi địa chỉ đặt trụ sở của Chi nhánh.

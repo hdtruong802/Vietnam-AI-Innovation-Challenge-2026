@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000737
+Số quyết định: 2669/QĐ-BKHCN
+Tên thủ tục: Thủ tục điều chỉnh nội dung của quyết định phê duyệt mẫu phương tiện đo
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+    Bước 1: Tổ chức đề nghị lập một (01) bộ hồ sơ đề nghị điều chỉnh và gửi trên Cổng dịch vụ công quốc gia, trực tiếp hoặc qua dịch vụ bưu chính đến Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia.
+    Bước 2: Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia tiếp nhận hồ sơ, xem xét, thẩm định theo quy định:
+    a) Trường hợp hồ sơ không hợp lệ theo quy định hoặc phải thực hiện việc phê duyệt mẫu mới, trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ, Ủy ban thông báo cho cơ sở những nội dung cần bổ sung, sửa đổi hoặc hướng dẫn việc phê duyệt mẫu mới.
+    b) Trường hợp hồ sơ hợp lệ theo quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ, Ủy ban ban hành quyết định điều chỉnh theo quy định  đối với nội dung điều chỉnh.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Công văn đề nghị điều chỉnh nội dung của quyết định phê duyệt mẫu, trong đó nêu rõ đề nghị điều chỉnh thời hạn hiệu lực của quyết định phê duyệt mẫu hoặc các nội dung quy định tại điểm a, điểm b, điểm c, điểm d khoản 2 Điều 13 Thông tư số 23/2013/TT-BKHCN
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các tài liệu liên quan đến nội dung đối với trường hợp đề nghị điều chỉnh nội dung quy định tại điểm a, điểm b, điểm c, điểm d khoản 2 Điều 13 Thông tư số 23/2013/TT-BKHCN
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt mẫu phương tiện đo
+Căn cứ pháp lý:
+  * Sửa đổi các văn bản quy phạm pháp luật thuộc thẩm quyền của Bộ trưởng Bộ Khoa học và Công nghệ liên quan đến Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia (07/2024/TT-BKHCN)
+  * Luật Đo lường (04/2011/QH13)
+  * Thông tư 23/2013/TT-BKHCN (23/2013/TT-BKHCN)
+  * sửa đổi, bổ sung, bãi bỏ một số điều của các văn bản quy phạm pháp luật của Bộ trưởng Bộ Khoa học và Công nghệ ban hành trong lĩnh vực tiêu chuẩn đo lường chất lượng (04/2026/TT-BKHCN)
+  * Thông tư 07/2019/TT-BKHCN (07/2019/TT-BKHCN)
+  * sửa đổi, bổ sung một số thông tư trong lĩnh vực tiêu chuẩn đo lường chất lượng để thực hiện cắt giảm, đơn giản hóa thủ tục hành chính và phù hợp với pháp luật về đầu tư kinh doanh (22/2026/TT-BKHCN)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

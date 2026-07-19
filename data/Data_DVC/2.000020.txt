@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000020
+Số quyết định: 2628/QĐ-BTC
+Tên thủ tục: Thủ tục điện tử đối với tàu biển đã nhập cảnh ở một cảng biển của Việt Nam sau đó đến cảng biển, cảng thủy nội địa khác và phương tiện thủy nội địa Việt Nam, Campuchia nhập cảnh, xuất cảnh tại cảng biển, cảng thủy nội địa Việt Nam
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Người khai hải quan tạo lập thông tin và gửi lên Cổng thông tin một cửa quốc gia (đối với các chứng từ khai báo, xuất trình đã được khai báo điện tử) và xuất trình các bản khai (đối với các chứng từ phải xuất trình bản giấy).
+    Bước 2:  Các cơ quan quản lý tại cảng tiếp nhận, khai thác thông tin để hoàn thành thủ tục cho phương tiện.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Hồ sơ đối với phương tiện thủy nội địa Việt Nam, Campuchia nhập cảnh tại cảng biển, cảng thủy nội địa Việt Nam thông qua Cơ chế một cửa quốc gia ]
+    - b. Các chứng từ phải nộp và xuất trình  b.1) Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện thủy nội địa còn hiệu lực.  b.2) Giấy chứng nhận kiểm dịch thực vật (đối với hàng hóa thuộc diện kiểm dịch thực vật).  b.3) Giấy chứng nhận kiểm dịch động vật của nước xuất hàng (đối với hàng hóa thuộc diện kiểm dịch động vật).  b.4) Các giấy tờ liên quan đến hàng hóa chở trên tàu.  b.5) Giấy chứng nhận đăng ký phương tiện thủy nội địa (hoặc bản sao có xác nhận của tổ chức tín dụng trong trường hợp phương tiện đang cầm cố, thế chấp).  b.6) Bằng hoặc giấy chứng nhận khả năng chuyên môn, chứng chỉ chuyên môn của thuyền viên, người lái phương tiện.  b.7) Bản sao giấy chứng nhận bảo hiểm trách nhiệm dân sự của người kinh doanh vận tải hàng hóa dễ cháy, dễ nổ đối với người thứ ba; bản sao giấy chứng nhận bảo hiểm trách nhiệm dân sự bắt buộc của người kinh doanh vận tải hành khách đối với hành khách.  b.8) Giấy phép vận tải thủy qua biên giới Việt Nam - Campuchia.  b.9) Giấy chứng nhận chuyên môn của thuyền viên.  b.10) Hộ chiếu thuyền viên, hộ chiếu của hành khách.  b.11) Chứng nhận tiêm chủng quốc tế của thuyền viên, hành khách (trong trường hợp xuất phát hoặc đi qua vùng có dịch hoặc bị nghi ngờ mắc bệnh hoặc tác nhân gây bệnh truyền nhiễm).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a. Chứng từ khai báo theo phương thức điện tử thông qua Cơ chế một cửa quốc gia:  a.1) Giấy phép rời cảng cuối cùng.  a.2) Danh sách thuyền viên với đầy đủ thông tin về chức danh.  a.3) Danh sách hành khách.  a.4) Bản khai hàng hóa, hợp đồng vận chuyển hoặc hóa đơn xuất kho hoặc giấy vận chuyển hàng hóa.  a.5) Bản khai kiểm dịch thực vật (đối với hàng hóa thuộc diện kiểm dịch thực vật).  a.6) Bản khai kiểm dịch động vật (đối với hàng hóa thuộc diện kiểm dịch động vật).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hồ sơ đối với phương tiện thủy nội địa Việt Nam, Campuchia xuất cảnh tại cảng biển, cảng thủy nội địa Việt Nam thông qua Cơ chế một cửa quốc gia ]
+    - b. Các chứng từ phải nộp và xuất trình  b.1) Các giấy tờ liên quan đến hàng hóa chở trên tàu.  b.2) Giấy chứng nhận kiểm dịch động vật (trong trường hợp nước nhập cảnh tiếp theo yêu cầu).  b.3) Giấy chứng nhận kiểm dịch thực vật (nếu có).  b.4) Chứng từ xác nhận việc nộp phí, lệ phí, tiền phạt hoặc thanh toán các khoản nợ theo quy định của pháp luật.  b.5) Giấy tờ liên quan tới những thay đổi so với giấy tờ khi làm thủ tục cho phương tiện vào cảng biển và cảng thủy nội địa.  b.6) Giấy chứng nhận chuyên môn của thuyền viên.  b.7) Hộ chiếu thuyền viên, hộ chiếu của hành khách.  b.8) Chứng nhận tiêm chủng quốc tế của thuyền viên, hành khách (trong trường hợp xuất phát hoặc đi qua vùng có dịch hoặc bị nghi ngờ mắc bệnh hoặc tác nhân gây bệnh truyền nhiễm).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a. Chứng từ khai báo theo phương thức điện tử thông qua Cổng thông tin một cửa quốc gia.  a.1) Thông báo phương tiện rời cảng.  a.2) Danh sách thuyền viên với đầy đủ chức danh.  a.3) Danh sách hành khách (đối với phương tiện chở hành khách).  a.4) Bản khai hàng hóa, hợp đồng vận chuyển hoặc hóa đơn xuất kho hoặc giấy vận chuyển (đối với phương tiện chờ hàng hóa).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Thủ tục điện tử đối với tàu biển đã nhập cảnh ở một cảng biển của Việt Nam sau đó đến cảng biển, cảng thủy nội địa khác ]
+    - b.1) Giấy chứng nhận đăng ký tàu biển (nếu có thay đổi so với khi nhập cảnh).  b.2) Các giấy chứng nhận về an toàn kỹ thuật của tàu theo quy định (nếu có thay đổi so với khi nhập cảnh).  b.3) Chứng chỉ chuyên môn của thuyền viên theo quy định (nếu có thay đổi so với khi nhập cảnh).  b.4) Hộ chiếu thuyền viên hoặc giấy tờ có giá trị thay hộ chiếu của thuyền viên.  b.5) Sổ thuyền viên hoặc giấy tờ có giá trị tương đương (nếu có thay đổi so với khi nhập cảnh).  b.6) Các giấy tờ liên quan đến hàng hóa chở trên tàu.  b.7) Trường hợp tàu mang cờ nước ngoài (tàu có quốc tịch nước ngoài), người làm thủ tục nộp cho cơ quan kiểm dịch y tế cảng đến hồ sơ chuyển cảng do cơ quan kiểm dịch y tế cảng rời lập./.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Chứng từ khai báo theo phương thức điện tử thông qua Cổng thông tin một cửa quốc gia:  a.1) Thông báo tàu đến.  a.2)  Xác báo tàu đến.  a.3) Bản khai chung.  a.4) Danh sách thuyền viên.  a.5) Danh sách hành khách (nếu có).  a.6) Giấy phép rời cảng.  a.7) Bản khai hàng hóa.  a.8) Bản khai hàng hóa nguy hiểm (nếu có).  a.9) Vận đơn thứ cấp.  a.10) Bản khai vũ khí và vật liệu nổ (nếu có).  a.11) Bản khai người trốn trên tàu (nếu có).  a.12) Bản khai dự trữ của tàu (nếu có thay đổi so với khi nhập cảnh).  a.13) Bản khai hành lý thuyền viên (nếu có thay đổi so với khi nhập cảnh).b. Chứng từ phải nộp và xuất trình: (bản chính đối với chứng từ xuất trình dạng giấy)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận hoàn thành thủ tục hải quan
+Căn cứ pháp lý:
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Về quản lý, bảo vệ an ninh, trật tự tại cửa khẩu cảng biển (50/2008/NĐ-CP)
+  * Về quản lý cảng biển và luồng hàng hải (21/2012/NĐ-CP)
+  * Nghị định 103/2010/NĐ-CP (103/2010/NĐ-CP)
+  * Nghị định 24/2015/NĐ-CP (24/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

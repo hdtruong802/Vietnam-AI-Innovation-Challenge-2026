@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.003491
+Số quyết định: 2536/QĐ-BXD
+Tên thủ tục: Công bố quyết định kết thúc tình huống khẩn cấp về thiên tai đối với hệ thống quốc lộ và đường bộ cao tốc.
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+  * Đối với tuyến đường bộ thuộc thẩm quyền của Bộ Xây dựng
+    - Cục Đường bộ Việt Nam, Ban chỉ huy phòng thủ dân sự hoặc cơ quan chuyên môn khác thuộc Bộ Xây dựng tham
+    mưu Bộ trưởng Bộ Xây dựng.
+    - Cục Đường bộ Việt Nam tổng hợp Báo cáo Bộ Xây dựng (Khu Quản lý đường bộ báo cáo về Cục Đường bộ Việt Nam về các đơn vị thực hiện thi công xây dựng công trình khẩn cấp, khắc phục hậu quả thiên tai, bảo đảm giao thông theo tình huống khẩn cấp về thiên tai trên hệ thống quốc lộ của các đợt mưa theo Quyết định Công bố tình
+    huống khẩn cấp về thiên tai đã thi công xong tại hiện trường).
+  * Đối với tuyên đường bộ thuộc thẩm quyền của UBND cấp tỉnh
+    Ban chỉ huy phòng thủ dân sự cấp tỉnh hoặc cơ quan chuyên môn của Ủy ban nhân dân cấp tỉnh tham mưu Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định công bố kết thúc tình huống khẩn cấp về thiên tai
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trực tuyến (hệ thống liên thông quản lý văn bản)
+- Thời gian giải quyết: Căn cứ quy chế về công tác văn thư của cơ quan, đơn vị có thẩm quyền
+- không quy định phí, lệ phí
+
+Thành phần hồ sơ:
+  [ Đối với tuyến đường bộ thuộc thẩm quyền của Bộ Xây dựng ]
+    - Văn bản của Khu QLĐB gửi Cục Đường bộ Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản của Cục Đường bộ Việt Nam gửi Bộ Xây dựng: Nội dung bao gồm Chủ đầu tư đã kết thúc thi công xây dựng công trình khẩn cấp, khắc phục hậu quả thiên tai, bảo đảm giao thông theo tình huống khẩn cấp về thiên tai trên hệ thống quốc lộ của các đợt mưa theo Quyết định Công bố tình huống khẩn cấp về thiên tai
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với tuyến đường bộ thuộc thẩm quyền của UBND cấp tỉnh ]
+    - Văn bản Ban chỉ huy phòng thủ dân sự hoặc cơ quan chuyên môn thuộc UBND cấp tỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Bộ Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công bố kết thúc tình huống khẩn cấp về thiên tai đối với hệ thống quốc lộ và đường bộ cao tốc.
+Căn cứ pháp lý:
+  * Quy định về phòng, chống, khắc phục hậu quả lụt thiên tai trong lĩnh vực đường bộ (40/2024/TT-BGTVT)
+  * Thông tư sửa đổi, bổ sung một số Điều của Thông tư số 36/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và hoạt động của bến xe, bãi đỗ xe, trạm dừng nghỉ, điểm dừng xe trên đường bộ; quy định trình tự, thủ tục đưa bến xe, trạm dừng nghỉ vào khai thác, Thông tư số 40/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về công tác phòng, chống, khắc phục hậu quả thiên tai trong lĩnh vực đường bộ; Thông tư số 41/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về quản lý, vận hành, khai thác và bảo trì kết cấu hạ tầng đường bộ, Thông tư số 22/2014/TT-BGTVT ngày 06 tháng 6 năm 2014 của Bộ trưởng Bộ Giao thông vận tải hướng dẫn xây dựng quy trình vận hành, khai thác bến phà, bến khách ngang sông sử dụng phà một lưỡi chở hành khách và xe ô tô. (72/2025/TT-BXD)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

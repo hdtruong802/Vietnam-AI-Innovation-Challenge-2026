@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000402
+Số quyết định: 1842/QĐ-BCA
+Tên thủ tục: Chấp thuận doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế của Việt Nam được tổ chức cho người nước ngoài đưa xe cơ giới nước ngoài vào Việt Nam du lịch
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Bảo đảm trật tự, an toàn giao thông đường bộ
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế của Việt Nam gửi hồ sơ gửi đến Cục Cảnh sát giao thông.
+    Bước 2: Cục Cảnh sát giao thông tiếp nhận hồ sơ, kiểm tra và xử lý hồ sơ.
+    Bước 3: Trả kết quả.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị chấp thuận kèm theo danh sách người  điều khiển và thông tin về xe cơ giới.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao giấy phép kinh doanh dịch vụ lữ hành quốc tế đối với doanh nghiệp lần đầu xin chấp thuận được tổ chức cho khách du lịch nước ngoài đưa xe cơ giới nước ngoài vào tham gia giao thông tại Việt Nam theo quy định tại điểm b, khoản 1 Điều 33 Nghị định 151/2024/NĐ-CP ngày 15/11/2024 của Chính phủ.  Lưu ý: Trường hợp giấy phép kinh doanh dịch vụ lữ hành quốc tế được khai thác thông qua kết nối, chia sẻ thì gửi văn bản quy định tại điểm a, khoản 1 Điều 33 Nghị định 151/2024/NĐ-CP ngày 15/11/2024 của Chính phủ.  - Số lượng hồ sơ: 01 (một) bộ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Cục cảnh sát giao thông
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận hoặc văn bản không chấp thuận được tổ chức cho khách du lịch nước ngoài đưa xe cơ giới nước ngoài vào tham gia giao thông tại Việt Nam
+Căn cứ pháp lý:
+  * Luật Trật tự, an toàn giao thông đường bộ (36/2024/QH15)
+  * Nghị định số 151/2024/NĐ-CP của Chính phủ: Quy định chi tiết một số điều và biện pháp thi hành Luật Trật tự, an toàn giao thông đường bộ (151/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Theo quy định tại khoản 1 Điều 32 Nghị định 151/2024/NĐ-CP ngày 15/11/2024 của Chính phủ, cụ thể: Xe cơ giới nước ngoài do người nước ngoài đưa vào Việt Nam du lịch bao gồm: xe ô tô chở người có tay lái ở bên phải hoặc có tay lái ở bên trái chở người đến 08 chỗ (không kể chỗ của người lái xe), xe ô tô nhà ở lưu động
+Từ khóa: Không có thông tin
+Mô tả: Theo quy định tại khoản 1 Điều 32 Nghị định 151/2024/NĐ-CP ngày 15/11/2024 của Chính phủ, cụ thể: Xe cơ giới nước ngoài do người nước ngoài đưa vào Việt Nam du lịch bao gồm: xe ô tô chở người có tay lái ở bên phải hoặc có tay lái ở bên trái chở người đến 08 chỗ (không kể chỗ của người lái xe), xe ô tô nhà ở lưu động

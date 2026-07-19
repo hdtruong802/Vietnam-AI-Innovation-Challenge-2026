@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000823
+Số quyết định: 524/QĐ-BTP
+Tên thủ tục: Đăng ký hoạt động văn phòng giám định tư pháp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Giám định tư pháp
+Trình tự thực hiện:
+    Trong thời hạn 01 năm, kể từ ngày Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định cho phép thành lập, Văn phòng giám định tư pháp đăng ký hoạt động tại Sở Tư pháp.
+    Trong thời hạn 30 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp chủ trì, phối hợp với cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh quản lý về lĩnh vực giám định tư pháp kiểm tra việc đáp ứng các điều kiện theo Đề án thành lập quy định tại điểm d khoản 2 Điều 16 của Luật và cấp Giấy đăng ký hoạt động; trường hợp từ chối thì phải thông báo bằng văn bản và nêu rõ lý do, đồng thời báo cáo Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định thu hồi Quyết định cho phép thành lập.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị đăng ký hoạt động
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao quyết định cho phép thành lập Văn phòng giám định tư pháp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quy chế tổ chức, hoạt động của Văn phòng giám định tư pháp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tờ chứng minh có đủ điều kiện bảo đảm hoạt động của Văn phòng giám định tư pháp theo Đề án thành lập quy định tại điểm d khoản 2 Điều 16 của Luật giám định tư pháp
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Tư pháp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy đăng ký hoạt động văn phòng giám định tư pháp
+Căn cứ pháp lý:
+  * Luật Giám định tư pháp năm 2012 (13/2012/QH13)
+  * Luật sửa đổi, bổ sung một số điều của Luật Giám định tư pháp năm 2020 (56/2020/QH14)
+  * Nghị định số 157/2020/NĐ-CP ngày 31/12/2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 85/2013/NĐ-CP ngày 29/7/2013 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Giám định tư pháp (157/2020/NĐ-CP)
+  * Nghị định số 85/2013/NĐ-CP ngày 29/7/2013 của Chính phủ quy định chi tiết và biện pháp thi hành Luật Giám định tư pháp (85/2013/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Trong thời hạn 01 năm, kể từ ngày Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định cho phép thành lập, Văn phòng giám định tư pháp đăng ký hoạt động tại Sở Tư pháp.
+Sau thời hạn 01 năm, kể từ ngày Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định cho phép thành lập, Văn phòng giám định tư pháp không đăng ký hoạt động thì Quyết định cho phép thành lập Văn phòng giám định tư pháp hết hiệu lực.
+Từ khóa: Không có thông tin
+Mô tả: Trong thời hạn 01 năm, kể từ ngày Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định cho phép thành lập, Văn phòng giám định tư pháp đăng ký hoạt động tại Sở Tư pháp.
+Sau thời hạn 01 năm, kể từ ngày Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định cho phép thành lập, Văn phòng giám định tư pháp không đăng ký hoạt động thì Quyết định cho phép thành lập Văn phòng giám định tư pháp hết hiệu lực.

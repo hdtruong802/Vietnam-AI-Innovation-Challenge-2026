@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002633
+Số quyết định: 1708/QĐ-BTC
+Tên thủ tục: Đăng ký dự thi cấp thẻ thẩm định viên về giá
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Quản lý giá
+Trình tự thực hiện:
+    Bước 1: Thí sinh lập Phiếu đăng ký dự thi trực tuyến tại Cổng dịch vụ công trực tuyến của Bộ Tài chính hoặc thí sinh nộp trực tiếp 01 (một) bộ hồ sơ đăng ký dự thi tới Văn phòng Hội đồng thi, nộp phí dự thi theo quy định tại Điều 3 Thông tư số 34/2024/TT-BTC.
+    Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày kết thúc nhận hồ sơ, trên cơ sở kết quả rà soát điều kiện dự thi của Hội đồng thi thẩm định viên về giá (sau đây gọi là Hội đồng thi), Cục Quản lý giá (Bộ Tài chính) hoặc đơn vị theo phân cấp của Bộ Tài chính thông báo cho các thí sinh nộp hồ sơ chưa đầy đủ hoặc có nội dung kê khai chưa chính xác; trong thời hạn 05 ngày làm việc kể từ ngày có thông báo của Cục Quản lý giá (Bộ Tài chính) hoặc đơn vị theo phân cấp của Bộ Tài chính, thí sinh phải hoàn thiện hồ sơ đúng hạn.
+    Bước 3: Trong thời hạn 20 ngày kể từ ngày kết thúc nhận hồ sơ, Cục Quản lý giá (Bộ Tài chính) hoặc đơn vị theo phân cấp của Bộ Tài chính thông báo các thí sinh đủ điều kiện dự thi thông qua Cổng dịch vụ công trực tuyến của Bộ Tài chính và đăng tải trên Cổng thông tin điện tử của Bộ Tài chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 330000 VNĐ (Người dự thi phải nộp chi phí dự thi theo thông báo của Hội đồng thi. Chi phí dự thi được nộp bằng tiền mặt hoặc thông qua thanh toán điện tử theo hướng dẫn của Hội đồng thi. (330.000 VNĐ / Môn thi))
+
+Thành phần hồ sơ:
+  [ Đối với người chưa có thẻ thẩm định viên về giá, hồ sơ đăng ký dự thi gồm: ]
+    - đ) 02 (hai) ảnh màu (4x6cm) chụp trong thời gian 06 tháng tính đến thời điểm nộp hồ sơ.
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - b) Bản sao chứng thực chứng chỉ đào tạo nghiệp vụ thẩm định giá phù hợp với lĩnh vực chuyên môn dự thi do cơ quan, tổ chức có chức năng đào tạo về thẩm định giá cấp, trừ trường hợp có giấy tờ nêu tại điểm c khoản 1 Điều này;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - d) Bản sao chứng thực bằng tốt nghiệp đại học trở lên (của chuyên ngành khác với chuyên ngành giá, thẩm định giá), trừ trường hợp có bản sao chứng thực bằng tốt nghiệp đại học trở lên của chuyên ngành giá hoặc thẩm định giá;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - c) Bản sao chứng thực bằng tốt nghiệp cao đẳng trở lên về chuyên ngành giá hoặc thẩm định giá (nếu không có bản sao chứng thực chứng chỉ đào tạo nghiệp vụ thẩm định giá nêu tại điểm b khoản 1 Điều này). Trong trường hợp bằng tốt nghiệp cao đẳng trở lên không ghi rõ chuyên ngành giá hoặc thẩm định giá thì thí sinh nộp thêm bản sao chứng thực bảng điểm có thể hiện đã học các chuyên ngành trên;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - a) Phiếu đăng ký dự thi có dán ảnh theo mẫu quy định tại Phụ lục I kèm theo Thông tư này;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với người đã có thẻ thẩm định viên về giá lĩnh vực thẩm định giá tài sản có nhu cầu thi thẻ thẩm định viên về giá lĩnh vực thẩm định giá doanh nghiệp, hồ sơ đăng ký dự thi gồm: ]
+    - 02 (hai) ảnh màu (4x6cm) chụp trong thời gian 06 tháng tính đến thời điểm nộp hồ sơ.
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Bản sao thẻ thẩm định viên về giá lĩnh vực thẩm định giá tài sản
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Phiếu đăng ký dự thi có dán ảnh theo mẫu quy định tại Phụ lục I kèm theo Thông tư số 34/2024/TT-BTC;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo thí sinh đủ điều kiện dự thi, Thông báo về hồ sơ chưa đầy đủ hoặc có nội dung kê khai chưa chính xác
+Căn cứ pháp lý:
+  * Luật Giá 16/2023/QH15 (16/2023/QH15)
+  * Thông tư 34/2024/TT-BTC (34/2024/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

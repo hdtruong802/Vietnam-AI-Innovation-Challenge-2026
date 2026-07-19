@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.006590
+Số quyết định: 497/QĐ-BXD
+Tên thủ tục: Công nhận đăng kiểm viên đường sắt và đăng kiểm viên đường sắt bậc
+cao
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Đăng kiểm
+Trình tự thực hiện:
+    + Cục trưởng Cục Đăng kiểm Việt Nam quyết định thành lập Hội đồng đánh giá Đăng kiểm viên đường sắt và quy định cụ thể quy chế làm việc của Hội đồng.
+    + Hội đồng lập Chương trình sát hạch, nội dung sát hạch cụ thể cho Đăng kiểm viên đường sắt.
+    + Hội đồng tổ chức sát hạch nghiệp vụ của Đăng kiểm viên đường sắt và lập báo cáo đánh giá.
+    + Cục trưởng Cục Đăng kiểm Việt Nam quyết định công nhận và công nhận lại Đăng kiểm viên đường sắt trên cơ sở kết quả đánh giá của Hội đồng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đơn đề nghị công nhận/công nhận lại đăng kiểm viên đường sắt/đăng kiểm  viên đường sắt bậc cao
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử  Bằng tốt nghiệp đại học
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Lý lịch chuyên môn của người được đề nghị công nhận Đăng kiểm viên theo mẫu (bản chính);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hợp pháp văn bằng, chứng chỉ: mỗi thứ 01 bản.  -Bằng tốt nghiệp Đại học, Cao đẳng hoặc Trung học theo yêu cầu của ngạch cần tuyển dụng;  -Chứng chỉ Ngoại ngữ trình độ B trở lên;  -Chứng chỉ Tin học Văn phòng;  -Chứng chỉ Quản lý Nhà nước (nếu có).  (Khi nộp hồ sơ dự tuyển thí sinh chỉ cần nộp bản sao các văn bằng, chứng chỉ và bản sao các giấy tờ liên quan khác không cần công chứng hoặc chứng nhận của cơ quan có thẩm quyền nhưng phải ghi cam đoan trên bản sao là được sao từ bản chính, do người dự tuyển ký tên và chịu trách nhiệm)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Cục Đăng kiểm Việt Nam
+Cơ quan có thẩm quyền: Cục Đăng kiểm Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận/công nhận lại đăng kiểm viên đường sắt/đăng kiểm  viên đường sắt bậc cao
+Căn cứ pháp lý:
+  * Nghị định quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng (33/2025/NĐ-CP)
+  * Thông tư quy định về tiêu chuẩn Đăng kiểm viên đường sắt và yêu cầu đối với cơ sở vật chất, kỹ thuật của tổ chức đăng kiểm đường sắt. (19/2018/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

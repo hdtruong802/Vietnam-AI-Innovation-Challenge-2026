@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000164
+Số quyết định: 01/QĐCB
+Tên thủ tục: Đăng ký nhận các thông báo, văn bản tố tụng bằng phương tiện điện tử
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Tòa án
+Trình tự thực hiện:
+    Bước 1. Đăng ký nhận các thông báo, văn bản tố tụng bằng phương tiện điện tử.
+    Trường hợp thực hiện trực tuyến, Cá nhân, tổ chức đăng nhập Cổng Dịch vụ công Quốc gia/Cổng Dịch vụ công của Tòa án nhân dân, lựa chọn và tiến hành đăng ký nhận thông báo, văn bản tố tụng.
+    Bước 2. Cơ quan Tòa án thông báo các văn bản tố tụng bằng phương tiện điện tử. Căn cứ thông báo, nếu là thông báo nộp tiền tạm ứng án phí thì cá nhân, tổ chức đến Cơ quan Thi hành án nộp tiền tạm ứng án phí.
+    Trường hợp thực hiện trực tuyến, căn cứ trên thông báo tống đạt hoặc tin nhắn SMS (nếu có) về việc Tòa án gửi thông báo nộp tiền tạm ứng án phí, cá nhân, tổ chức chọn mục thanh toán trực tuyến án phí và thực hiện thanh toán trực tuyến.
+    Bước 3. Cá nhân, tổ chức nộp biên lai thu tiền tạm ứng đến Cơ quan Tòa án. Cơ quan Tòa án tiến hành thụ lý vụ án.
+    Trường hợp thực hiện trực tuyến, hệ thống thanh toán trực tuyến sẽ tự động chuyển biên lai thu tạm ứng án phí, lệ phí Tòa án đến Cơ quan Tòa án để thụ lý vụ án và có thông báo đến cá nhân, tổ chức.
+    Bước 4. Nhận tài liệu, thông báo văn bản tố tụng trực tuyến trên hệ thống hoặc theo địa chỉ đã đăng ký.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Giấy tờ phải nộp ]
+    - Đăng ký nhận thông báo, văn bản tố tụng bằng phương tiện điện tử
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông tin vụ/việc
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Tòa án nhân dân tối cao, Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương
+Cơ quan có thẩm quyền: Tòa án nhân dân khu vực, Tòa án nhân dân, Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Tòa án nhân dân khu vực
+Kết quả thực hiện: Văn bản tố tụng của Tòa án theo tiến trình giải quyết
+Căn cứ pháp lý:
+  * Nghị quyết 56/2010/QH12 (56/2010/QH12)
+  * Nghị quyết 02/2012/NQ-HĐTP (02/2012/NQ-HĐTP)
+  * Nghị quyết 110/2015/QH13 (110/2015/QH13)
+  * Lệnh 21/2014/L-CTN (21/2014/L-CTN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

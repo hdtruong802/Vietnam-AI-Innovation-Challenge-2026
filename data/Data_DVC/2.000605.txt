@@ -1,0 +1,91 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000605
+Số quyết định: 1474/QĐ-BTC
+Tên thủ tục: Giải quyết hưởng lương hưu, trợ cấp hàng tháng đối với cán bộ xã
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thực hiện chính sách BHXH
+Trình tự thực hiện:
+  * Bước 1. Lập, nộp hồ sơ
+    1. NLĐ đang đóng BHXH: lập hồ sơ theo quy định tại mục 10.3.1 (Thành phần hồ sơ); nộp cho cho đơn vị SDLĐ. Đơn vị SDLĐ tiếp nhận, lập và nộp hồ sơ theo quy định cho cơ quan BHXH nơi đơn vị đóng BHXH.
+    2. Người đang tham gia BHXH tự nguyện, người bảo lưu thời gian đóng BHXH: lập hồ sơ theo quy định tại mục 10.3.2 (Thành phần hồ sơ); nộp cho cơ quan BHXH.
+    3. NLĐ có Quyết định hoặc Giấy chứng nhận chờ đủ điều kiện về tuổi đời để hưởng lương hưu hoặc hưởng trợ cấp hàng tháng theo Nghị định số 09/1998/NĐ-CP: lập hồ sơ theo quy định tại mục 10.3.3 (Thành phần hồ sơ); nộp cho cơ quan BHXH.
+  * Bước 2.
+    Cơ quan BHXH tiếp nhận hồ sơ và giải quyết theo quy định.
+  * Bước 3. Nhận kết quả giải quyết
+    1. Đơn vị SDLĐ: Nhận kết quả giải quyết từ cơ quan BHXH để trả cho NLĐ nêu tại điểm 1 Bước 1 Mục 10.1 gồm:  Quyết định về việc hưởng chế độ hưu trí hàng tháng; Bản quá trình đóng BHXH; Thông báo về việc chi trả lương hưu, trợ cấp BHXH đối với trường hợp di chuyển hưởng chế độ  BHXH tại huyện/tỉnh khác; Thẻ BHYT.
+    2. Người lao động:
+    - Nhận tiền lương hưu, trợ cấp BHXH hàng tháng
+    - Người lao động nêu tại điểm 2, 3 Bước 1 Mục 10.1: nhận Quyết định về việc hưởng chế độ hưu trí hàng tháng; Bản quá trình đóng BHXH; Thông báo về việc chi trả lương hưu, trợ cấp BHXH đối với trường hợp di chuyển hưởng chế độ  BHXH tại huyện/tỉnh khác; Thẻ BHYT.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ 1. Trường hợp đang tham gia BHXH bắt buộc tại đơn vị SDLĐ (Trường hợp không quy định là bản chính thì có thể nộp bản sao hợp lệ. Trường hợp nộp hồ sơ trực tuyến: thành phần hồ sơ quy định là bản sao nhưng NLĐ có thể nộp bản chính điện tử). ]
+    - d) Bản chính Bản khai cá nhân về thời gian, địa bàn phục vụ trong Quân đội có hưởng phụ cấp khu vực (Mẫu số 04B – HBQP ban hành kèm theo Thông tư số 136/2020/TT-BQP ngày 29/10/2020) đối với người có thời gian phục vụ trong Quân đội trước ngày 01/01/2007 tại địa bàn có hưởng phụ cấp khu vực mà sổ BHXH không thể hiện đầy đủ thông tin làm căn cứ tính phụ cấp khu vực.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Bản chính Biên bản giám định mức suy giảm KNLĐ của Hội đồng GĐYK (trường hợp NLĐ đã có biên bản GĐYK để hưởng các chính sách khác trước đó mà đủ điều kiện hưởng thì có thể thay bằng bản sao) đối với người nghỉ hưu do suy giảm KNLĐ hoặc bản sao Giấy chứng nhận bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp (tương đương mức suy giảm KNLĐ 61%) đối với người bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Sổ BHXH
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Quyết định nghỉ việc hưởng chế độ hưu trí theo mẫu ban hành kèm theo Nghị định số 46/2010/NĐ-CP hoặc bản chính Quyết định nghỉ việc hưởng chế độ hưu trí (mẫu số 12-HSB) hoặc Văn bản chấm dứt hợp đồng lao động hưởng chế độ hưu trí
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 2. Trường hợp đang tham gia BHXH tự nguyện, bảo lưu thời gian đóng BHXH (gồm cả người đang chấp hành hình phạt tù, người xuất cảnh trái phép trở về nước định cư hợp pháp, người được Tòa án hủy quyết định tuyên bố mất tích) (Trường hợp không quy định là bản chính thì có thể nộp bản sao hợp lệ. Trường hợp nộp hồ sơ trực tuyến: thành phần hồ sơ quy định là bản sao nhưng NLĐ có thể nộp bản chính điện tử). ]
+    - a) Sổ BHXH
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Trường hợp đang chấp hành hình phạt mà thời gian bắt đầu chấp hành hình phạt tù từ ngày 01/01/2016 trở đi thì có thêm bản chính Giấy ủy quyền (mẫu số 13-HSB).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Trường hợp xuất cảnh trái phép trở về thì có thêm bản sao văn bản của cơ quan nhà nước có thẩm quyền về việc trở về nước định cư hợp pháp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - g) Trường hợp mất tích trở về thì có thêm bản sao Quyết định có hiệu lực pháp luật của Tòa án hủy bỏ quyết định tuyên bố mất tích.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - b) Bản chính Đơn đề nghị
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - h) Bản chính Bản khai cá nhân về thời gian, địa bàn phục vụ trong Quân đội có hưởng phụ cấp khu vực (Mẫu số 04B – HBQP ban hành kèm theo Thông tư số 136/2020/TT-BQP ngày 29/10/2020) đối với người có thời gian phục vụ trong Quân đội trước ngày 01/01/2007 tại địa bàn có hưởng phụ cấp khu vực mà sổ BHXH không thể hiện đầy đủ thông tin làm căn cứ tính phụ cấp khu vực.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - i) Hóa đơn, chứng từ thu phí giám định kèm theo bảng kê các nội dung giám định của cơ sở thực hiện GĐYK (trường hợp thanh toán phí GĐYK)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - đ) Trường hợp đã chấp hành xong hình phạt tù giam từ ngày 01/01/1995 đến trước ngày 01/01/2016 thì có thêm bản sao của một trong các giấy tờ sau: Giấy chứng nhận chấp hành xong hình phạt tù hoặc Giấy đặc xá tha tù trước thời hạn hoặc Quyết định miễn hoặc tạm hoãn chấp hành hình phạt tù.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - c) Bản chính Biên bản giám định mức suy giảm KNLĐ của Hội đồng GĐYK (trường hợp NLĐ đã có biên bản GĐYK để hưởng các chính sách khác trước đó mà đủ điều kiện hưởng thì có thể thay bằng bản sao) đối với người nghỉ hưu do suy giảm KNLĐ hoặc bản sao Giấy chứng nhận bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp (tương đương mức suy giảm KNLĐ 61%) đối với người bị nhiễm HIV/AIDS do tai nạn rủi ro nghề nghiệp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 3. Đối với người có Quyết định hoặc Giấy chứng nhận chờ đủ điều kiện về tuổi đời để hưởng lương hưu hoặc hưởng trợ cấp hàng tháng theo Nghị định số 09/1998/NĐ-CP (Trường hợp không quy định là bản chính thì có thể nộp bản sao hợp lệ. Trường hợp nộp hồ sơ trực tuyến: thành phần hồ sơ quy định là bản sao nhưng NLĐ có thể nộp bản chính điện tử). ]
+    - b) Hồ sơ đối với từng trường hợp cụ thể như nêu tại nội dung 2c, 2d, 2.đ, 2.e, 2.g, 2.h, 2.i
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - a) Bản chính Quyết định hoặc bản chính Giấy chứng nhận chờ đủ điều kiện về tuổi đời để hưởng lương hưu hoặc chờ hưởng trợ cấp hàng tháng theo Nghị định số 09/1998/NĐ-CP; trường hợp bị mất giấy tờ trên thì có thêm bản chính Đơn đề nghị (mẫu số 14-HSB) nêu rõ lý do bị mất.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp không quy định rõ bản chính thì có thể nộp bản sao hợp lệ
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Bảo hiểm xã hội cấp Tỉnh, Bảo hiểm xã hội cấp huyện
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Tiền lương hưu, trợ cấp BHXH, Quyết định về việc hưởng trợ cấp hàng tháng đối với cán bộ xã, phường, thị trấn, Thẻ BHYT, Thông báo về việc chi trả lương hưu, trợ cấp BHXH, Quyết định về việc hưởng chế độ hưu trí hàng tháng, Bản quá trình đóng BHXH (mẫu số 04-HSB)
+Căn cứ pháp lý:
+  * Bộ Luật lao động (45/2019/QH14)
+  * Nghị định 134/2015/NĐ-CP (134/2015/NĐ-CP)
+  * Thông tư 01/2016/TT-BLĐTBXH (01/2016/TT-BLĐTBXH)
+  * BAN HÀNH QUY TRÌNH GIẢI QUYẾT HƯỞNG CÁC CHẾ ĐỘ BẢO HIỂM XÃ HỘI, CHI TRẢ CÁC CHẾ ĐỘ BẢO HIỂM XÃ HỘI, BẢO HIỂM THẤT NGHIỆP (2222/QĐ-BHXH)
+  * Thông tư 56/2017/TT-BYT (56/2017/TT-BYT)
+  * Nghị định 115/2015/NĐ-CP (115/2015/NĐ-CP)
+  * Nghị định 143/2018/NĐ-CP (143/2018/NĐ-CP)
+  * Thông tư 26/2017/TT-BLĐTBXH (26/2017/TT-BLĐTBXH)
+  * Nghị định 166/2016/NĐ-CP-Quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp (166/2016/NĐ-CP)
+  * LUẬT  Bảo hiểm xã hội (58/2014/QH13)
+  * Thông tư 136/2020/TT-BQP (136/2020/TT-BQP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

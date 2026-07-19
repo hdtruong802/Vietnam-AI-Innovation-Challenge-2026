@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000399
+Số quyết định: 3116/QĐ-BCA-C06
+Tên thủ tục: Cấp lại Giấy phép sử dụng vũ khí thể thao
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo
+Trình tự thực hiện:
+    - Bước 1: Cơ quan, tổ chức, doanh nghiệp chuẩn bị văn bản theo quy định của pháp luật.
+    - Bước 2: Cơ quan, tổ chức, doanh nghiệp nộp văn bản trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) hoặc nộp văn bản trực tiếp hoặc gửi qua đường bưu chính đến Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an cấp tỉnh.
+    - Bước 3: Khi tiếp nhận văn bản, cơ quan có thẩm quyền kiểm tra tính pháp lý, nội dung văn bản:
+    + Trường hợp văn bản đạt yêu cầu: Cán bộ tiếp nhận văn bản trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) phải thông báo thời gian trả kết quả cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    Cán bộ tiếp nhận văn bản nộp qua đường bưu chính hoặc trực tiếp phải thông báo bằng văn bản thời gian trả kết quả cho cơ quan, tổ chức, doanh nghiệp đề nghị biết và nhập vào hệ thống phần mềm quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo.
+    + Trường hợp văn bản chưa đầy đủ thông tin: Cán bộ tiếp nhận văn bản trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) phải thông báo thông tin còn thiếu cho cơ quan, tổ chức, doanh nghiệp đề nghị biết để bổ sung, hoàn thiện.
+    Cán bộ tiếp nhận văn bản qua đường bưu chính hoặc trực tiếp phải trả văn bản hoặc thông báo bằng văn bản cho cơ quan, tổ chức, doanh nghiệp đề nghị để bổ sung, hoàn thiện.
+    + Văn bản không đạt yêu cầu: Cán bộ tiếp nhận văn bản nộp trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) không tiếp nhận và thông báo trả lời trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) lý do không tiếp nhận cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    Cán bộ tiếp nhận văn bản nộp qua đường bưu chính hoặc trực tiếp, không tiếp nhận và thông báo trả lời trực tiếp hoặc bằng văn bản, nêu rõ lý do không tiếp nhận cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    - Bước 4: Căn cứ ngày hẹn trả kết quả trên Giấy biên nhận văn bản, Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an cấp tỉnh trả kết quả trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 10000 VNĐ (10.000 đồng/giấy)
+    Mô tả: Nộp văn bản trên cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) hoặc gửi qua đường Bưu chính hoặc nộp trực tiếp tại Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an cấp tỉnh.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 10000 VNĐ ()
+    Mô tả: Nộp văn bản trên cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) hoặc gửi qua đường Bưu chính hoặc nộp trực tiếp tại Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an cấp tỉnh.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 10000 VNĐ ()
+    Mô tả: Nộp văn bản trên cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) hoặc gửi qua đường Bưu chính hoặc nộp trực tiếp tại Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an cấp tỉnh.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp lại giấy phép sử dụng vũ khí thể thao phải ghi rõ tên, địa chỉ cơ quan, tổ chức, doanh nghiệp; lý do đề nghị cấp lại; số lượng, chủng loại, nhãn hiệu, số hiệu, ký hiệu từng loại vũ khí thể thao; họ tên, số định danh cá nhân hoặc số hộ chiếu của người đến liên hệ. Trường hợp mất, hư hỏng giấy phép sử dụng vũ khí thể thao thì văn bản đề nghị phải nêu rõ lý do mất, hư hỏng và kết quả xử lý.  * Lưu ý: Trường hợp trực tiếp nộp hồ sơ thì văn bản đề nghị bổ sung họ tên, số định danh cá nhân hoặc số hộ chiếu của người đến liên hệ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Phòng cảnh sát quản lý hành chính về trật tự xã hội
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép sử dụng vũ khí thể thao
+Căn cứ pháp lý:
+  * Thông tư 23/2019/TT-BTC (23/2019/TT-BTC)
+  * Thông tư quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (75/2024/TT-BCA)
+  * Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (42/2024/QH15)
+  * Thông tư quy định về biểu mẫu và trình tự cấp giấy phép, thông báo đăng ký khai báo, chứng nhận, chứng chỉ về vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ; thông báo xác nhận khai báo vũ khí thô sơ (77/2024/TT-BCA)
+
+Yêu cầu, điều kiện thực hiện: Cấp lại giấy phép sử dụng vũ khí thể thao đối với các trường hợp thay đổi thông tin về cơ quan, tổ chức, doanh nghiệp hoặc mất, hư hỏng giấy phép sử dụng cho đối tượng được trang bị vũ khí thể thao theo quy định tại khoản 1 Điều 24 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 ngày 29/6/2024); cụ thể: 
+“1. Đối tượng được trang bị vũ khí thể thao bao gồm:
+a) Quân đội nhân dân;
+b) Dân quân tự vệ;
+c) Cảnh sát biển;
+d) Công an nhân dân; 
+đ) Câu lạc bộ, cơ sở đào tạo, huấn luyện thể thao có giấy phép hoạt động;
+e) Trung tâm giáo dục quốc phòng và an ninh;
+g) Cơ quan, tổ chức, doanh nghiệp khác được thành lập, cấp phép hoạt động trong luyện tập, thi đấu thể thao.”.
+Từ khóa: Không có thông tin
+Mô tả: Cấp lại giấy phép sử dụng vũ khí thể thao đối với các trường hợp thay đổi thông tin về cơ quan, tổ chức, doanh nghiệp hoặc mất, hư hỏng giấy phép sử dụng cho đối tượng được trang bị vũ khí thể thao theo quy định tại khoản 1 Điều 24 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 ngày 29/6/2024); cụ thể: 
+“1. Đối tượng được trang bị vũ khí thể thao bao gồm:
+a) Quân đội nhân dân;
+b) Dân quân tự vệ;
+c) Cảnh sát biển;
+d) Công an nhân dân; 
+đ) Câu lạc bộ, cơ sở đào tạo, huấn luyện thể thao có giấy phép hoạt động;
+e) Trung tâm giáo dục quốc phòng và an ninh;
+g) Cơ quan, tổ chức, doanh nghiệp khác được thành lập, cấp phép hoạt động trong luyện tập, thi đấu thể thao.”.

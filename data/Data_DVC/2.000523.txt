@@ -1,0 +1,38 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000523
+Số quyết định: 4093/QĐ-NHNN
+Tên thủ tục: Thủ tục đăng ký hạn mức tự doanh tạm thời
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    Bước 1: Trong thời gian Thủ tướng Chính phủ chưa phê duyệt tổng hạn mức đầu tư gián tiếp ra nước ngoài trong năm, khi có nhu cầu tiếp tục thực hiện hoạt động đầu tư gián tiếp ra nước ngoài, trước ngày 31 tháng 3 hàng năm, tổ chức tự doanh gửi đơn đăng ký hạn mức tự doanh tạm thời (theo mẫu tại Phụ lục số 08); tổ chức nhận ủy thác gửi đơn đăng ký hạn mức nhận ủy thác đầu tư tạm thời (theo mẫu tại Phụ lục số 10) qua đường bưu điện hoặc nộp trực tiếp tại Ngân hàng Nhà nước để đăng ký hạn mức tự doanh/ hạn mức nhận ủy thác tạm thời.
+    Bước 2: Thời hạn kiểm tra tính đầy đủ của hồ sơ là 03 (ba) ngày làm việc kể từ khi Bộ phận Một cửa của Ngân hàng Nhà nước tiếp nhận hồ sơ theo phương thức trực tiếp hoặc qua dịch vụ bưu chính.
+    Bước 3: Trong thời hạn 04 (bốn) ngày làm việc kể từ ngày nhận được đơn đăng ký hạn mức tự doanh tạm thời/ hạn mức nhận ủy thác tạm thời, trường hợp đủ điều kiện giải quyết, Ngân hàng Nhà nước có văn bản xác nhận. Trường hợp chưa đủ điều kiện giải quyết, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức tự doanh/ tổ chức nhận ủy thác bổ sung, hoàn thiện hồ sơ. Trường hợp từ chối xác nhận hạn mức tự doanh tạm thời/ hạn mức nhận ủy thác tạm thời, Ngân hàng Nhà nước có văn bản nêu rõ lý do
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đăng ký hạn mức tự doanh tạm thời (theo mẫu tại Phụ lục số 08 Thông tư số 10/2016/TT-NHNN được sửa đổi, bổ sung tại Thông tư số 78/2025/TT-NHNN);) Hoặc Đơn đăng ký hạn mức nhận ủy thác tạm thời (theo mẫu tại Phụ lục số 10 Thông tư số 10/2016/TT-NHNN được sửa đổi, bổ sung tại Thông tư số 78/2025/TT-NHNN).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận đăng ký hạn mức nhận ủy thác tạm thời, Văn bản xác nhận đăng ký hạn mức tự doanh tạm thời
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung, bãi bỏ một số quy định tại các văn bản quy phạm pháp luật trong lĩnh vực quản lý ngoại hối đối với các giao dịch vốn để thực thi phương án cắt giảm, đơn giản hóa thủ tục hành chính (78/2025/TT-NHNN)
+  * Nghị định 135/2015/NĐ-CP (135/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

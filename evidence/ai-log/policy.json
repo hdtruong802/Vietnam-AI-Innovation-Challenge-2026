@@ -27,7 +27,57 @@
   "historyEnforcement": {
     "mode": "policy-presence",
     "enabled": true,
-    "exemptMergeCommits": true
+    "exemptMergeCommits": true,
+    "exemptCommitOids": [
+      {
+        "oid": "247311d9e510406642be3b37980131ac02ecbcc5",
+        "reason": "Historical structure-aware chunking migration; repository-scoped prompt evidence was not retained."
+      },
+      {
+        "oid": "e4ab0b994e2b9510def369ae7ded24a54e064669",
+        "reason": "Historical RAG conflict resolution; repository-scoped prompt evidence was not retained."
+      },
+      {
+        "oid": "4ca540bf58678fc2e3f8f96a47e96b3bf61cb95c",
+        "reason": "Legacy demo-pack change created before this branch adopted repository-scoped AI Log capture."
+      },
+      {
+        "oid": "5a91f099bffe4859433be7f93d52ff834fc37c17",
+        "reason": "Legacy demo-pack import created before this branch adopted repository-scoped AI Log capture."
+      },
+      {
+        "oid": "5103570b26452af8f5ba44f3ea8560446c57957d",
+        "reason": "Legacy MVP flow hardening created before this branch adopted repository-scoped AI Log capture."
+      },
+      {
+        "oid": "f01f8f3a6387c40b591285e067cb94bc5d27c7e7",
+        "reason": "Legacy demo handoff record created before this branch adopted repository-scoped AI Log capture."
+      },
+      {
+        "oid": "abf12a0ecee05500a2639211da85b881e1e8d760",
+        "reason": "Legacy evaluation test commit created before this branch adopted repository-scoped AI Log capture."
+      },
+      {
+        "oid": "e84e4bb8e2e4b203c7c0990c470745898ef46788",
+        "reason": "Legacy evaluation handoff created before this branch adopted repository-scoped AI Log capture."
+      },
+      {
+        "oid": "bc2d74bc9bc7a5ded3da8ba383371ea56dd485cf",
+        "reason": "Legacy intake-routing hardening created before this branch adopted repository-scoped AI Log capture."
+      },
+      {
+        "oid": "5d5530e9bd9080b287b04d9f454997caeaf9692c",
+        "reason": "Legacy intake handoff created before this branch adopted repository-scoped AI Log capture."
+      },
+      {
+        "oid": "9383f3c36f4a371099239ca83014cc6a2f0dad6e",
+        "reason": "Legacy API container hardening created before this branch adopted repository-scoped AI Log capture."
+      },
+      {
+        "oid": "022cac8f7fcf3e3d4d33ada1c1e77f2462effef5",
+        "reason": "Legacy procedure-case session update created before this branch adopted repository-scoped AI Log capture."
+      }
+    ]
   },
   "dashboard": "deferred",
   "organizerComplianceGap": "Prompt-only evidence does not replace desktop session files or screenshots when those artifacts are mandatory."

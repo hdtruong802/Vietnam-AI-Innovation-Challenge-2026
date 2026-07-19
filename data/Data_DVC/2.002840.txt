@@ -1,0 +1,40 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002840
+Số quyết định: 143/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục hỗ trợ sáng tác tác phẩm văn học (cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Văn học
+Trình tự thực hiện:
+    - Trong thời hạn 80 ngày làm việc kể từ ngày thông báo được hỗ trợ đề cương tác phẩm, tác giả hoàn thành tác phẩm và gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc gửi trực tuyến qua Cổng dịch vụ công quốc gia 01 bản của tác phẩm đến cơ quan ban hành thông báo (Ủy ban nhân dân cấp tỉnh)
+    - Trong thời hạn 30 ngày làm việc kể từ ngày kết thúc nhận tác phẩm, Ủy ban nhân dân cấp tỉnh quyết định lựa chọn tác phẩm trên cơ sở tư vấn của Hội đồng thẩm định để hỗ trợ tác phẩm. Trường hợp tác phẩm không được lựa chọn để hỗ trợ, Ủy ban nhân dân cấp tỉnh trả lời bằng văn bản cho tác giả và nêu rõ lý do.
+    - Ủy ban nhân dân cấp tỉnh quyết định nghiệm thu và công bố danh sách tác phẩm, tác giả được hỗ trợ trên các phương tiện thông tin đại chúng trong thời hạn 10 ngày làm việc kể từ ngày có quyết định nghiệm thu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 120 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 120 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 120 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - 01 bản tác phẩm văn học (đối với tác phẩm viết bằng tiếng nước ngoài phải kèm theo bản dịch tiếng Việt Nam).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hỗ trợ sáng tác tác phẩm văn học.
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

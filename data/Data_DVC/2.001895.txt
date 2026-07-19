@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001895
+Số quyết định: 3713/QD-BTP
+Tên thủ tục: Cấp Giấy xác nhận là người gốc Việt Nam
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Quốc tịch
+Trình tự thực hiện:
+    - Người có yêu cầu cấp Giấy xác nhận là người gốc Việt Nam nộp hồ sơ tại tại Sở Tư pháp (nếu đang cư trú ở trong nước) hoặc cơ quan đại diện Việt Nam ở nước ngoài (nếu đang cư trú ở nước ngoài) vào thời điểm nộp hồ sơ.
+    Trường hợp người có yêu cầu cư trú tại quốc gia hoặc vùng lãnh thổ không có cơ quan đại diện thì nộp hồ sơ tại cơ quan đại diện kiêm nhiệm hoặc cơ quan đại diện thuận tiện nhất.
+    - Đối với các giấy tờ chứng minh nhân thân, chứng minh gốc Việt Nam sau đây, người yêu cầu có thể cung cấp thông tin về giấy tờ (số, ngày cấp, nơi cấp) để cơ quan thụ lý hồ sơ khai thác, sử dụng thông tin trong Cơ sở dữ liệu hộ tịch điện tử, Cơ sở dữ liệu quốc gia về dân cư thay cho giấy tờ phải nộp:
+    + Giấy tờ chứng minh nhân thân là Chứng minh nhân dân hoặc Căn cước công dân hoặc Thẻ Căn cước hoặc Giấy chứng nhận căn cước;
+    + Giấy tờ được cấp trước đây để chứng minh người đó đã từng có quốc tịch Việt Nam mà khi sinh ra quốc tịch của họ được xác định theo nguyên tắc huyết thống hoặc giấy tờ để chứng minh người đó khi sinh ra có cha mẹ hoặc ông bà nội, ông bà ngoại đã từng có quốc tịch Việt Nam là Giấy khai sinh hoặc Trích lục khai sinh.
+    - Cơ quan thụ lý hồ sơ có trách nhiệm khai thác trong Cơ sở dữ liệu hộ tịch điện tử, Cơ sở dữ liệu quốc gia về dân cư trên cơ sở thông tin do người dân cung cấp. Trường hợp không khai thác được hoặc thông tin khai thác được không đầy đủ, không chính xác thì thực hiện như sau:
+    + Trường hợp người yêu cầu nộp hồ sơ trực tuyến trên Cổng Dịch vụ công quốc gia, không muộn hơn 08 giờ làm việc kể từ khi Hệ thống thông tin giải quyết thủ tục hành chính tiếp nhận hồ sơ, cơ quan thụ lý có thông báo cho người yêu cầu để bổ sung, hoàn thiện hồ sơ. Việc thông báo được thực hiện bằng một hoặc nhiều phương thức: gửi đến tài khoản cá nhân trên Cổng Dịch vụ công quốc gia; gửi tin nhắn hoặc liên hệ qua số điện thoại, hộp thư điện tử do người yêu cầu cung cấp.
+    + Trường hợp người yêu cầu nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính, không quá 01 ngày làm việc kể từ khi nhận được hồ sơ, cơ quan thụ lý có văn bản gửi cho người yêu cầu để bổ sung, hoàn thiện hồ sơ.
+    - Trong thời hạn 05 ngày làm việc, kể từ ngày thụ lý hồ sơ, cơ quan thụ lý hồ sơ có trách nhiệm xem xét, kiểm tra thông tin trong hồ sơ, giấy tờ do người yêu cầu xuất trình và có văn bản gửi cơ quan Công an cấp tỉnh (nếu nộp hồ sơ tại Sở Tư pháp) hoặc Bộ Công an (nếu nộp hồ sơ tại cơ quan đại diện) xác minh về nhân thân của người có yêu cầu. Thời hạn xác minh và trả lời kết quả xác minh là 45 ngày; trường hợp phức tạp thì có thể kéo dài thêm nhưng không quá 60 ngày.
+    - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được kết quả xác minh, nếu thấy có đủ cơ sở để xác định người đó có nguồn gốc Việt Nam, cơ quan thụ lý hồ sơ ghi vào Sổ cấp Giấy xác nhận là người gốc Việt Nam; người đứng đầu cơ quan ký và cấp Giấy xác nhận là người gốc Việt Nam theo mẫu quy định cho người yêu cầu.
+    Nếu không có cơ sở để cấp Giấy xác nhận là người gốc Việt Nam, cơ quan thụ lý hồ sơ thông báo bằng văn bản cho người yêu cầu biết.
+    - Kết quả giải quyết các việc về quốc tịch được trả trực tiếp, trực tuyến hoặc gửi qua dịch vụ bưu chính cho người yêu cầu.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 20 VNĐ (Nếu nộp hồ sơ tại Cơ quan đại diện Việt Nam ở nước ngoài)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Miễn phí đối với: người di cư từ Lào được phép cư trú xin xác nhận là người gốc Việt Nam theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; kiều bào Việt Nam tại các nước láng giềng có chung đường biên giới đất liền với Việt Nam có hoàn cảnh kinh tế khó khăn, có xác nhận của Ủy ban nhân dân cấp xã.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Miễn phí đối với: người di cư từ Lào được phép cư trú xin xác nhận là người gốc Việt Nam theo quy định của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên; kiều bào Việt Nam tại các nước láng giềng có chung đường biên giới đất liền với Việt Nam có hoàn cảnh kinh tế khó khăn, có xác nhận của Ủy ban nhân dân cấp xã.)
+
+Thành phần hồ sơ:
+    - Trường hợp không có bất kỳ giấy tờ nào theo quy định thì tùy từng hoàn cảnh cụ thể, có thể nộp bản sao giấy tờ về nhân thân, quốc tịch, hộ tịch do chế độ cũ ở miền Nam cấp trước ngày 30 tháng 4 năm 1975; giấy tờ do chính quyền cũ ở Hà Nội cấp từ năm 1911 đến năm 1956; giấy bảo lãnh của Hội đoàn người Việt Nam ở nước ngoài nơi người đó đang cư trú, trong đó xác nhận người đó có gốc Việt Nam; giấy bảo lãnh của người có quốc tịch Việt Nam, trong đó xác nhận người đó có gốc Việt Nam; giấy tờ do cơ quan có thẩm quyền của nước ngoài cấp trong đó ghi quốc tịch Việt Nam hoặc quốc tịch gốc Việt Nam.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tờ khai đề nghị xác nhận là người gốc Việt Nam kèm 02 ảnh 4x6 chụp chưa quá 6 tháng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tờ được cấp trước đây để chứng minh người đó đã từng có quốc tịch Việt Nam mà khi sinh ra quốc tịch của họ được xác định theo nguyên tắc huyết thống hoặc giấy tờ để chứng minh người đó khi sinh ra có cha mẹ hoặc ông bà nội, ông bà ngoại đã từng có quốc tịch Việt Nam. (Trường hợp giấy tờ chứng minh là Giấy khai sinh hoặc Trích lục khai sinh, người yêu cầu chỉ nộp trong trường hợp cơ quan thụ lý không khai thác được thông tin trong Cơ sở dữ liệu hộ tịch điện tử hoặc thông tin khai thác được không đầy đủ, không chính xác).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy tờ về nhân thân của người đó như giấy Chứng minh nhân dân, thẻ Căn cước công dân, thẻ căn cước, căn cước điện tử, giấy tờ cư trú, thẻ tạm trú, giấy thông hành, giấy tờ có giá trị đi lại quốc tế hoặc giấy tờ xác nhận về nhân thân có dán ảnh do cơ quan có thẩm quyền cấp. (Đối với Chứng minh nhân dân, thẻ Căn cước công dân, thẻ căn cước hoặc Giấy chứng nhận căn cước, người yêu cầu chỉ nộp trong trường hợp cơ quan thụ lý không khai thác được thông tin trong Cơ sở dữ liệu quốc gia về dân cư hoặc thông tin khai thác được không đầy đủ, không chính xác).
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Người nước ngoài, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Sở Tư pháp
+Cơ quan có thẩm quyền: Sở Tư pháp
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy  xác nhận là người gốc Việt Nam
+Căn cứ pháp lý:
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực ngoại giao áp dụng tại các Cơ quan đại diện Việt Nam ở nước ngoài (264/2016/TT-BTC)
+  * Thông tư số 12/2025/TT-BTP của Bộ Tư pháp: Ban hành, hướng dẫn sử dụng, quản lý mẫu sổ quốc tịch và mẫu giấy tờ về quốc tịch (12/2025/TT-BTP)
+  * LUẬT QUỐC TỊCH VIỆT NAM (24/2008/QH12)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Nghị định số 191/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Quốc tịch Việt Nam. (191/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

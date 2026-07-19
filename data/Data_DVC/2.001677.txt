@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001677
+Số quyết định: 821/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp Quyết định phát hành trò chơi điện tử G1 trên mạng 
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+    -  Doanh nghiệp gửi 01 bộ hồ sơ đề nghị cấp Quyết định phát hành trò chơi điện tử G1 trên mạng tới Bộ Văn hóa, Thể thao và Du lịch (VHTTDL).
+    - Trong thời hạn 20 ngày, kể từ ngày nhận được hồ sơ hợp lệ, Bộ VHTTDL (Cục Phát thanh, truyền hình và thông tin điện tử) tiến hành tổ chức thẩm định trò chơi. Trường hợp đáp ứng đầy đủ điều kiện, Bộ VHTTDL (Cục Phát thanh, truyền hình và thông tin điện tử) xem xét, cấp Quyết định phát hành trò chơi điện tử G1 trên mạng cho doanh nghiệp theo Mẫu số 35 tại Phụ lục ban hành kèm theo Nghị định số 147/2024/NĐ-CP và gửi cho doanh nghiệp một đoạn mã (thể hiện biểu tượng trò chơi điện tử G1 đã được cấp phép phát hành) qua địa chỉ thư điện tử của doanh nghiệp.
+    Trường hợp từ chối, Bộ VHTTDL (Cục Phát thanh, truyền hình và thông tin điện tử) có văn bản trả lời và nêu rõ lý do.
+    - Doanh nghiệp được cấp Quyết định thực hiện gắn đoạn mã đã được cấp vào nội dung mô tả trò chơi điện tử trên kho ứng dụng (nếu có) và trang thông tin điện tử cung cấp trò chơi điện tử. Đoạn mã được liên kết đến mục số liệu cấp phép trên Cổng thông tin điện tử của Bộ VHTTDL (Cục Phát thanh, truyền hình và thông tin điện tử).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 5000000 VNĐ (Phí thẩm định nội dung, kịc bản trò chơi điện tử trên mạng)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 5000000 VNĐ (Phí thẩm định nội dung, kịc bản trò chơi điện tử trên mạng)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 5000000 VNĐ (Phí thẩm định nội dung, kịc bản trò chơi điện tử trên mạng)
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp quyết định phát hành trò chơi điện tử G1 trên mạng theo Mẫu số 34 tại Phụ lục ban hành kèm theo Nghị định số 147/2024/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tờ, tài liệu, bằng chứng chứng minh quyền sở hữu trí tuệ đối với trò chơi theo quy định tại Luật Sở hữu trí tuệ; văn bản thỏa thuận cho doanh nghiệp được phát hành trò chơi tại Việt Nam. Đối với trò chơi được đối tác nước ngoài nhượng quyền phát hành, phải có hợp pháp hóa lãnh sự tại nước sở tại kèm theo văn bản thỏa thuận cho doanh nghiệp được phát hành tại Việt Nam (văn bản, giấy tờ bằng tiếng nước ngoài phải dịch sang tiếng Việt có chứng thực theo quy định của pháp luật về chứng thực).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề án phát hành trò chơi điện tử G1 trên mạng có xác nhận của người đại diện theo pháp luật của doanh nghiệp hoặc người đứng đầu doanh nghiệp đề nghị cấp Quyết định, bao gồm các nội dung sau: a) Tên, nguồn gốc, xuất xứ của trò chơi; Nội dung, kịch bản trò chơi đáp ứng quy định tại điểm b, khoản 1 Điều 43 Nghị định 147/2024/NĐ-CP và bao gồm: Hệ thống nhân vật, hệ thống nhiệm vụ, bản đồ (sơ đồ), hệ thống đơn vị ảo, vật phẩm ảo, điểm thưởng, âm thanh, hình ảnh, hoạt động tương tác, thực hiện các nhiệm vụ của các nhân vật, hoạt động đối kháng giữa các nhân vật với nhau (bao gồm hình ảnh nhân vật, vũ khí, tính năng....); phiên bản phát hành; kết quả phân loại độ tuổi người chơi; b) Thông tin về dịch vụ hỗ trợ thanh toán trong trò chơi điện tử trên mạng của doanh nghiệp, các hình thức thanh toán cho trò chơi và thu tiền của người chơi.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thiết bị lưu trữ/tài liệu điện tử thể hiện các hình ảnh, hoạt động, âm thanh đặc trưng trong trò chơi: Đăng ký tài khoản; bản đồ, sơ đồ; một số tuyến nhân vật, vật phẩm, đồ trang bị cho nhân vật; hoạt động đối kháng đặc trưng giữa các nhân vật đang làm nhiệm vụ; hoạt động quản lý nội dung trao đổi, chia sẻ của người chơi trong trò chơi và trên diễn đàn của trò chơi (nếu có); hiển thị thông tin về phân loại độ tuổi, thông tin khuyến cáo.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Cục Phát thanh, truyền hình và thông tin điện tử
+Cơ quan có thẩm quyền: Bộ Văn hóa, Thể thao và Du lịch
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phát hành trò chơi điện tử G1 trên mạng
+Căn cứ pháp lý:
+  * Nghị định số 147/2024/NĐ-CP của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng (147/2024/NĐ-CP)
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định có quy định thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (116/2026/NĐ-CP)
+  * Thông tư 290/2016/TT-BTC (290/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Doanh nghiệp được cấp Quyết định phát hành trò chơi điện tử G1 trên mạng khi có đủ các điều kiện sau:
+- Có Giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng còn thời hạn tối thiểu 06 tháng;
+- Nội dung, kịch bản trò chơi điện tử không vi phạm các quy định tại Điều 8 Luật An ninh mạng và quy định về sở hữu trí tuệ; không mô phỏng các trò chơi có thưởng trong các cơ sở kinh doanh casino, các trò chơi sử dụng hình ảnh lá bài; không có các hình ảnh, âm thanh, ngôn ngữ miêu tả cụ thể các hành động sau: Khủng bố, giết người, tra tấn người, ngược đãi, xâm hại, buôn bán phụ nữ và trẻ em; kích động tự tử, bạo lực; khiêu dâm, dung tục trái với truyền thống đạo đức, văn hóa, thuần phong mỹ tục của dân tộc; xuyên tạc, phá hoại truyền thống lịch sử; vi phạm chủ quyền và sự toàn vẹn lãnh thổ; sử dụng ma túy, uống rượu, hút thuốc lá; đánh bạc và các hành vi vi phạm pháp luật khác;
+- Trò chơi điện tử trên mạng có kết quả phân loại trò chơi theo độ tuổi phù hợp với nội dung, kịch bản trò chơi theo quy định tại khoản 1, khoản 2 Điều 38 Nghị định 147/2024/NĐ-CP.
+Từ khóa: Không có thông tin
+Mô tả: Doanh nghiệp được cấp Quyết định phát hành trò chơi điện tử G1 trên mạng khi có đủ các điều kiện sau:
+- Có Giấy phép cung cấp dịch vụ trò chơi điện tử G1 trên mạng còn thời hạn tối thiểu 06 tháng;
+- Nội dung, kịch bản trò chơi điện tử không vi phạm các quy định tại Điều 8 Luật An ninh mạng và quy định về sở hữu trí tuệ; không mô phỏng các trò chơi có thưởng trong các cơ sở kinh doanh casino, các trò chơi sử dụng hình ảnh lá bài; không có các hình ảnh, âm thanh, ngôn ngữ miêu tả cụ thể các hành động sau: Khủng bố, giết người, tra tấn người, ngược đãi, xâm hại, buôn bán phụ nữ và trẻ em; kích động tự tử, bạo lực; khiêu dâm, dung tục trái với truyền thống đạo đức, văn hóa, thuần phong mỹ tục của dân tộc; xuyên tạc, phá hoại truyền thống lịch sử; vi phạm chủ quyền và sự toàn vẹn lãnh thổ; sử dụng ma túy, uống rượu, hút thuốc lá; đánh bạc và các hành vi vi phạm pháp luật khác;
+- Trò chơi điện tử trên mạng có kết quả phân loại trò chơi theo độ tuổi phù hợp với nội dung, kịch bản trò chơi theo quy định tại khoản 1, khoản 2 Điều 38 Nghị định 147/2024/NĐ-CP.

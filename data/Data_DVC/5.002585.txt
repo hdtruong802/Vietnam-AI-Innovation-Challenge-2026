@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 5.002585
+Số quyết định: 497/QĐ-BXD
+Tên thủ tục: Quyết định thiết lập, điều chỉnh, hủy bỏ đường hàng không
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: CENTRAL_REGULATION
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * Đối với trường hợp thiết lập, hủy bỏ đường hàng không
+    Đối với trường hợp thiết lập, hủy bỏ đường hàng không: Bộ Xây dựng chủ trì,
+    phối hợp với Bộ Quốc phòng xây dựng phương án thiết lập, hủy bỏ đường hàng
+    không; đề xuất với Tổ chức Hàng không dân dụng quốc tế (ICAO) sửa đổi kế
+    hoạch không vận khu vực đối với đường hàng không quốc tế. Trên cơ sở phương
+    án thiết lập, hủy bỏ đường hàng không, Bộ Quốc phòng chủ trì trình Thủ tướng
+    Chính phủ quyết định thiết lập, hủy bỏ đường hàng không.
+  * Đối với trường hợp điều chỉnh đường hàng không
+    Bộ Xây dựng xác định, điều
+    chỉnh thông số chi tiết các đường hàng không đã được thiết lập trên cơ sở ý kiến
+    thống nhất của Bộ Quốc phòng. Cục Hàng không Việt Nam công bố thông số chi
+    tiết của các đường hàng không được thiết lập, điều chỉnh và việc hủy bỏ đường
+    hàng không trong Tập thông báo tin tức hàng không (AIP) của Việt Nam
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: gửi qua hệ thống quản lý văn phòng điện tử Portal Office của Cục HKVN (không quy định thời gian giải quyết)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trực tiếp tại Cục HKVN (không quy định thời gian giải quyết)
+
+Thành phần hồ sơ:
+    - Phương án thiết lập, hủy bỏ đường hàng không.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phương án điều chỉnh thông số chi tiết các đường hàng không.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Bộ Xây dựng, Bộ Quốc phòng
+Cơ quan có thẩm quyền: Thủ tướng Chính phủ
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thiết lập, hủy bỏ đường hàng không, Quyết định công bố thông số chi tiết của các đường hàng không được thiết lập, điều chỉnh.
+Căn cứ pháp lý:
+  * Nghị định quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng (33/2025/NĐ-CP)
+  * Quy định chi tiết về quản lý hoạt động bay (125/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

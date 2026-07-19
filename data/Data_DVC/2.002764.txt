@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002764
+Số quyết định: 6225/QĐ-BQP
+Tên thủ tục: Thủ tục giải quyết chế độ trợ cấp khó khăn đột xuất đối với thân nhân của hạ sĩ quan, binh sĩ tại ngũ
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Chính sách BQP
+Trình tự thực hiện:
+    Bước 1: Hạ sĩ quan, binh sĩ làm bản khai đề nghị trợ cấp khó khăn đột xuất. Ủy ban nhân dân xã, phường, thị trấn nơi gia đình cư trú xác nhận bản khai; trường hợp nếu thân nhân của hạ sĩ quan, binh sĩ có các loại giấy tờ như: Giấy xác nhận của Ủy ban nhân dân cấp xã về mức độ thiệt hại vật chất khi bị sập nhà, trôi nhà, cháy nhà hoặc phải di dời chỗ ở hoặc thân nhân ốm đau dài ngày từ một tháng trở lên; giấy ra viện của cơ sở y tế nơi thân nhân điều trị; giấy báo tử của thân nhân hy sinh; giấy chứng tử của thân nhân từ trần hoặc mất tích hoặc xác nhận của Ủy ban nhân dân cấp xã gửi cho hạ sĩ quan, binh sĩ thì bản khai đề nghị trợ cấp khó khăn đột xuất kèm theo các loại giấy đó, không phải xin xác nhận của Ủy ban nhân dân cấp xã, nộp cho cán bộ đại đội, tiểu đoàn hoặc tương đương.
+    Bước 2: Cấp đại đội, tiểu đoàn hoặc tương đương tiếp nhận bản khai và các loại giấy tờ, kiểm tra và đề nghị cấp trên trực tiếp.
+    Bước 3: Cấp trung đoàn hoặc tương đương xem xét, quyết định trợ cấp khó khăn đột xuất cho hạ sĩ quan, binh sĩ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản khai đề nghị trợ cấp khó khăn đột xuất
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Cấp đại đội, tiểu đoàn hoặc tương đương
+Cơ quan có thẩm quyền: Cấp trung đoàn hoặc tương đương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định trợ cấp
+Căn cứ pháp lý:
+  * Thông tư số 13/2024/TT-BQP ngày 18/3/2024 của Bộ trưởng Bộ Quốc phòng sửa đổi, bổ sung một số điều của các văn bản quy phạm pháp luật thuộc thẩm quyền ban hành của Bộ trưởng Bộ Quốc phòng liên quan đến việc kê khai thông tin cá nhân khi thực hiện thủ tục hành chính (13)
+  * Nghị định quy định chế độ, chính sách đối với hạ sĩ quan, binh sĩ phục vụ tại ngũ, xuất ngũ và thân nhân của hạ sĩ quan, binh sĩ tại ngũ (27/2016/NĐ-CP)
+  * Nghĩa vụ quân sự (78/2015/QH13)
+  * Hướng dẫn thực hiện một số điều của Nghị định số 27/2016/NĐ-CP ngày 06 tháng 4 năm 2016 của Chính phủ quy định một số chế độ, chính sách đối với hạ sĩ quan, binh sĩ phục vụ tại ngũ, xuất ngũ và thân nhân của hạ sĩ quan, binh sĩ tại ngũ. (95/2016/TT-BQP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

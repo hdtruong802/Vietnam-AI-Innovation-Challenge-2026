@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002620
+Số quyết định: 2017/QĐ-BCT
+Tên thủ tục: Thông báo về việc thực hiện hoạt động bán hàng không tại địa điểm giao dịch thường xuyên
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: bảo vệ quyền lợi người tiêu dùng
+Trình tự thực hiện:
+    - Tổ chức, cá nhân kinh doanh thực hiện thông báo đến Ủy ban nhân dân cấp xã tại nơi tổ chức bán sản phẩm, hàng hóa, cung cấp dịch vụ.
+    - Hồ sơ thông báo phải được gửi đến Ủy ban nhân dân cấp xã tối thiểu 03 ngày làm việc trước khi thực hiện hoạt động (căn cứ theo ngày Ủy ban nhân dân cấp xã nhận ghi trên vận đơn bưu điện hoặc các hình thức có giá trị tương đương trong trường hợp gửi qua đường bưu điện, căn cứ theo ngày ghi trên giấy tiếp nhận hồ sơ trong trường hợp nộp trực tiếp, căn cứ theo thời gian ghi nhận trên hệ thống thư điện tử hoặc căn cứ theo ngày ghi nhận trên hệ thống trong trường hợp nộp qua hệ thống dịch vụ công trực tuyến).
+    - Trường hợp sửa đổi, bổ sung nội dung hoạt động đã được thông báo đến Ủy ban nhân dân cấp xã trước đó, tổ chức, cá nhân kinh doanh thực hiện thông báo sửa đổi, bổ sung nội dung hoạt động đến Ủy ban nhân dân cấp xã nơi đã thông báo.
+    Uỷ ban nhân dân cấp xã công khai đầy đủ nội dung thông báo của tổ chức, cá nhân kinh doanh bằng hình thức phù hợp để người tiêu dùng tại địa bàn được biết. Việc công khai được thực hiện trước và trong thời gian thực hiện hoạt động bán hàng, cung cấp dịch vụ của tổ chức, cá nhân kinh doanh tại địa bàn.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: không quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: không quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: không quy định
+
+Thành phần hồ sơ:
+    - +) Lần đầu: 01 Thông báo thực hiện bán hàng không tại địa điểm giao dịch thường xuyên theo Mẫu số 10 Phụ lục ban hành kèm theo Nghị định số 55/2024/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +) Trường hợp sửa đổi bổ sung thông báo: 01 thông báo sửa đổi, bổ sung theo Mẫu số 11 Phụ lục ban hành kèm theo Nghị định số 55/2024/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Uỷ ban Nhân dân cấp xã, phường, thị trấn
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Tổ chức, cá nhân kinh doanh thực hiện hoạt động bán hàng không tại địa điểm giao dịch thường xuyên sau khi thông báo.
+Căn cứ pháp lý:
+  * Quy định chi tiết một số điều của Luật Bảo vệ quyền lợi người tiêu dùng (55/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Tổ chức, cá nhân kinh doanh theo quy định tại Luật Bảo vệ quyền lợi người tiêu dùng. 
+- Thực hiện hoạt động bán hàng không tại địa điểm giao dịch thường xuyên.
+Từ khóa: Không có thông tin
+Mô tả: - Tổ chức, cá nhân kinh doanh theo quy định tại Luật Bảo vệ quyền lợi người tiêu dùng. 
+- Thực hiện hoạt động bán hàng không tại địa điểm giao dịch thường xuyên.

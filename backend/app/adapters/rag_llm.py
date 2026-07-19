@@ -42,6 +42,100 @@ _GENERIC_FORM_SCHEMA = {
     "required": ["ho_ten_nguoi_khai"],
 }
 
+# Field xap xi theo ten mau chinh thuc duoc dan trong nguon RAG (xem D-019):
+# - thuong tru: "Tờ khai thay đổi thông tin cư trú (mẫu CT01, TT 53/2025/TT-BCA)"
+#   (data/Data_DVC/1.004222.txt).
+# - ho kinh doanh: "Giấy đề nghị đăng ký hộ kinh doanh" (data/Data_DVC/1.001612.txt).
+# Noi dung mau CT01/Giay de nghi day du KHONG nam trong data/Data_DVC hien co
+# (chi co ten/so hieu mau) nen field list la uoc luong theo cau truc mau pho
+# bien, CHUA duoc procedure-research lane xac minh tung field/label voi ban
+# mau chinh thuc. Pack van o `needs_review` (xem pack_builder._demo_k1_status)
+# nen KHONG duoc coi la form da approved cho production.
+_RESIDENCE_FORM_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "ho_ten_nguoi_de_nghi": {
+            "type": "string",
+            "title": "Họ và tên người đề nghị",
+            "minLength": 2,
+        },
+        "so_dinh_danh_ca_nhan": {
+            "type": "string",
+            "title": "Số định danh cá nhân/CCCD",
+            "pattern": r"^[0-9]{12}$",
+        },
+        "ngay_sinh": {
+            "type": "string",
+            "title": "Ngày, tháng, năm sinh",
+            "format": "date",
+        },
+        "dia_chi_de_nghi_thuong_tru": {
+            "type": "string",
+            "title": "Địa chỉ nơi đề nghị đăng ký thường trú",
+            "minLength": 5,
+        },
+        "ho_ten_chu_ho": {
+            "type": "string",
+            "title": "Họ và tên chủ hộ (nơi đến)",
+        },
+        "quan_he_voi_chu_ho": {
+            "type": "string",
+            "title": "Quan hệ với chủ hộ",
+        },
+        "so_dien_thoai": {"type": "string", "title": "Số điện thoại liên hệ"},
+    },
+    "required": [
+        "ho_ten_nguoi_de_nghi",
+        "so_dinh_danh_ca_nhan",
+        "dia_chi_de_nghi_thuong_tru",
+        "ho_ten_chu_ho",
+        "quan_he_voi_chu_ho",
+    ],
+}
+
+_BUSINESS_HOUSEHOLD_FORM_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "ten_ho_kinh_doanh": {
+            "type": "string",
+            "title": "Tên hộ kinh doanh",
+            "minLength": 2,
+        },
+        "dia_chi_dia_diem_kinh_doanh": {
+            "type": "string",
+            "title": "Địa chỉ địa điểm kinh doanh",
+            "minLength": 5,
+        },
+        "nganh_nghe_kinh_doanh": {
+            "type": "string",
+            "title": "Ngành, nghề kinh doanh",
+        },
+        "ho_ten_chu_ho_kinh_doanh": {
+            "type": "string",
+            "title": "Họ và tên chủ hộ kinh doanh",
+            "minLength": 2,
+        },
+        "so_cccd_chu_ho_kinh_doanh": {
+            "type": "string",
+            "title": "Số CCCD/CMND của chủ hộ kinh doanh",
+            "pattern": r"^([0-9]{9}|[0-9]{12})$",
+        },
+        "von_kinh_doanh": {"type": "string", "title": "Số vốn kinh doanh (VNĐ)"},
+    },
+    "required": [
+        "ten_ho_kinh_doanh",
+        "dia_chi_dia_diem_kinh_doanh",
+        "nganh_nghe_kinh_doanh",
+        "ho_ten_chu_ho_kinh_doanh",
+        "so_cccd_chu_ho_kinh_doanh",
+    ],
+}
+
+_PACK_FORM_SCHEMAS: dict[str, dict] = {
+    "dang-ky-thuong-tru": _RESIDENCE_FORM_SCHEMA,
+    "dang-ky-ho-kinh-doanh": _BUSINESS_HOUSEHOLD_FORM_SCHEMA,
+}
+
 _PACK_ALIASES: dict[str, list[str]] = {
     "dang-ky-thuong-tru": ["thuong tru", "ho khau", "residence", "chuyen ho khau"],
     "dang-ky-ho-kinh-doanh": [
@@ -93,7 +187,7 @@ def _build_pack(procedure_id: str) -> ProcedurePack | None:
     return build_procedure_pack_from_evidence(
         procedure_id,
         aliases=_PACK_ALIASES.get(procedure_id, []),
-        form_schema=_GENERIC_FORM_SCHEMA,
+        form_schema=_PACK_FORM_SCHEMAS.get(procedure_id, _GENERIC_FORM_SCHEMA),
     )
 
 

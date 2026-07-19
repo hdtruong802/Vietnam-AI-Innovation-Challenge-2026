@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000150
+Số quyết định: 710/QĐ-BTC
+Tên thủ tục: Thủ tục giảm bảo lãnh nhiều hành trình thông qua Hệ thống ACTS
+Cấp thực hiện: Không có thông tin
+Loại thủ tục: OTHER
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Thủ tục giảm bảo lãnh nhiều hành trình thông qua Hệ thống ACTS
+    Bước 1: Người khai hải quan có yêu cầu được giảm bảo lãnh đối chiếu với các quy định tại khoản 1, khoản 2 Điều 27 Nghị định số 46/2020/NĐ-CP ngày 09/4/2020, có văn bản đề nghị giảm bảo lãnh theo mẫu do Bộ Tài chính ban hành gửi cơ quan hải quan nơi đăng ký tờ khai quá cảnh hải quan lần đầu có sử dụng bảo lãnh thông qua Hệ thống ACTS
+    Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị giảm bảo lãnh, cơ quan hải quan kiểm tra, đối chiếu các quy định tại khoản 1, khoản 2 Điều 24 Nghị định số 46/2020/NĐ-CP và thông báo cho người khai hải quan về việc được giảm hoặc không được giảm bảo lãnh theo mẫu do Bộ Tài chính ban hành
+    Trường hợp đủ điều kiện được giảm bảo lãnh, cơ quan hải quan cập nhật thông tin thông qua Hệ thống ACTS để người khai hải quan khai số GRN trên tờ khai quá cảnh hải quan.
+    Bước 3: Hệ thống ACTS tự động cấp số tham chiếu giảm bảo lãnh để người khai hải quan khai trên tờ khai quá cảnh hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Thủ tục giảm bảo lãnh nhiều hành trình thông qua Hệ thống ACTS ]
+    - Văn bản đề nghị giảm bảo lãnh theo Mẫu số 08/TBMBL Phụ lục VI  ban hành kèm theo Thông tư số 42/2020/TT-BTC ngày 22/05/2020 của Bộ Tài chính: 01 bản chính
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Số tham chiếu bảo lãnh GRN do Hệ thống tự động cấp được gửi tới người khai hải quan
+Căn cứ pháp lý:
+  * Nghị định số 46/2020/NĐ-CP (46/2020)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

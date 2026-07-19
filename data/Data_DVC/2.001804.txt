@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001804
+Số quyết định: 498/QĐ-BNNMT
+Tên thủ tục: Phê duyệt phương án, cắm mốc chỉ giới phạm vi bảo vệ công trình thủy lợi do Chủ tịch UBND cấp tỉnh phê duyệt
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thủy lợi
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ: Tổ chức, cá nhân nộp 01 bộ hồ sơ trực tiếp tại Trung tâm phục vụ hành chính công cấp tỉnh (sau đây gọi tắt là Bộ phận Một cửa) hoặc qua dịch vụ bưu chính hoặc qua ủy quyền theo quy định của pháp luật hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+    Bước 2: Hoàn chỉnh hồ sơ:
+    Cơ quan tiếp nhận hồ sơ trả lời ngay tính đầy đủ của hồ sơ đối với trường hợp nộp trực tiếp; trả lời bằng văn bản trong thời hạn 01 ngày làm việc nếu hồ sơ chưa đầy đủ đối với trường hợp nộp qua dịch vụ bưu chính hoặc trực tuyến tại Cổng dịch vụ quốc gia. Trường hợp cơ quan tiếp nhận hồ sơ sau 16 giờ thì văn bản trả lời được gửi trong ngày làm việc tiếp theo.
+    Bước 3: Xem xét hồ sơ và trình phê duyệt.
+    Trong thời hạn 18 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan tiếp nhận tổ chức thẩm định và trình cấp có thẩm quyền xem xét phê duyệt. Trường hợp không đủ điều kiện phê duyệt, cơ quan tiếp nhận thông báo bằng văn bản và trả lại hồ sơ cho tổ chức, cá nhân đề nghị phê duyệt để bổ sung, hoàn thiện.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 18 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 18 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 18 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 18 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định
+
+Thành phần hồ sơ:
+    - - Tờ trình đề nghị phê duyệt của tổ chức, cá nhân lập hồ sơ phương án cắm mốc chỉ giới
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao chụp quyết định giao thực hiện nhiệm vụ chủ đầu tư đối với công trình xây dựng mới, quyết định giao cho tổ chức, cá nhân khai thác công trình thủy lợi hoặc Hợp đồng khai thác công trình thủy lợi
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Quyết định phê duyệt thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công của công trình thủy lợi hoặc quyết định phê duyệt liên quan có chỉ tiêu thiết kế công trình
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Thuyết minh hồ sơ phương án cắm mốc chỉ giới, gồm các nội dung: + Căn cứ lập hồ sơ phương án cắm mốc chỉ giới; + Đánh giá hiện trạng khu vực cắm mốc chỉ giới; + Số lượng mốc chỉ giới cần cắm; phương án định vị mốc chỉ giới; khoảng cách các mốc chỉ giới; các mốc tham chiếu (nếu có); + Phương án huy động nhân lực, vật tư, vật liệu thi công, giải phóng mặt bằng; + Tiến độ cắm mốc, bàn giao mốc chỉ giới; + Tổ chức thực hiện.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản vẽ, sơ đồ phương án cắm mốc chỉ giới thể hiện phạm vi bảo vệ công trình, vị trí, tọa độ của các mốc chỉ giới, mốc tham chiếu (nếu có) trên nền bản đồ hiện trạng công trình thủy lợi
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Dự toán kinh phí cắm mốc chỉ giới, trừ các công trình xây dựng mới và sửa chữa do Bộ Nông nghiệp và Môi trường quyết định phê duyệt chủ trương đầu tư.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt phương án, điều chỉnh phương án cắm mốc chỉ giới phạm vi bảo vệ công trình thủy lợi trên địa bàn UBND tỉnh quản lý
+Căn cứ pháp lý:
+  * Luật 08/2017/QH14 (08/2017/QH14)
+  * Thông tư số 08/2026/TT-BNNMT ngày 26/01/2026 (08/2026)
+  * Luật số 146/2025/QH15 ngày 11/12/2025 của Quốc hội sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường (146/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

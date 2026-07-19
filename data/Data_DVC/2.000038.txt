@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000038
+Số quyết định: 2628/QĐ-BTC
+Tên thủ tục: Thủ tục đối với hàng hóa nhập khẩu hoặc hàng hóa xuất khẩu đóng ghép với hàng hóa quá cảnh gửi qua dịch vụ chuyển phát nhanh quốc tế
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Doanh nghiệp kinh doanh dịch vụ chuyển phát nhanh quốc tế chuẩn bị hồ sơ.
+    Bước 2: Chi cục Hải quan nơi hàng hóa được vận chuyển đi tiếp nhận và kiểm tra điều kiện đóng ghép theo quy định tại khoản 1 Điều 18 Thông tư 191/2015/TT-BTC:
+    - Trường hợp không phù hợp: không chấp nhận việc đóng ghép, hoặc hướng dẫn bổ sung;
+    - Trường hợp phù hợp thì phê duyệt văn bản đề nghị đóng ghép; giám sát việc chia tách, đóng ghép và thực hiện quy định khoản 3 Điều 17 Thông tư 191/2015/TT-BTC. Ghi cùng 01 số hiệu niêm phong hải quan trên Thông báo phê duyệt khai báo vận chuyển, hoặc trên Bản kê hàng hóa (nếu có) của hàng hóa quá cảnh và hàng hóa nhập khẩu hoặc xuất khẩu đóng ghép;
+    - Ghi cùng 01 số hiệu niêm phong hải quan trên Thông báo phê duyệt khai báo vận chuyển, hoặc trên Bản kê hàng hóa (nếu có) của hàng quá cảnh và hành nhập khẩu hoặc xuất khẩu đóng ghép.
+    Bước 3: Chi cục Hải quan nơi hàng đến thực hiện đối chiếu tình trạng niêm phong; cập nhật thông tin hàng hóa đến vào Hệ thống. Phản hồi thông tin đến Chi cục Hải quan nơi đăng ký tờ khai vận chuyển độc lập. Lưu trữ Hồ sơ theo quy định; kiểm tra tờ khai vận chuyển độc lập được ghi tại tiêu chí “Ghi chú 2” trên tờ khai vận chuyển độc lập đóng ghép để xác nhận 02 tờ khai trên hệ thống theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị đóng ghép hàng xuất khẩu hoặc nhập khẩu với hàng quá cảnh
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Trường hợp được cơ quan Hải quan chấp nhận, khai báo tờ khai vận chuyển độc lập theo quy định tại Điều 17 Thông tư 191/2015/TT-BTC thì thực hiện:  + Trường hợp hàng hóa quá cảnh đóng ghép với hàng hóa xuất khẩu và thực xuất tại cùng cửa khẩu, khai trên 01 tờ khai vận chuyển độc lập;  + Trường hợp hàng hóa quá cảnh đóng ghép với hàng hóa nhập khẩu, khai trên 02 tờ khai vận chuyển độc lập. Khi hàng hóa quá cảnh đến điểm đích, người khai hải quan khai tiếp tờ khai vận chuyển độc lập để vận chuyển hàng hóa ra cửa khẩu xuất.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Tờ khai nhập khẩu đã hoàn thành thủ tục hải quan
+Căn cứ pháp lý:
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Nghị định số 187/2013/NĐ-CP (187/2013/NĐ-CP)
+  * Thông tư 191/2015/TT-BTC (191/2015/TT-BTC)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Quy định chi tiết thi hành một số nội dung của Luật Bưu chính (47/2011/NĐ-CP)
+  * Luật 49/2010/QH12 (49/2010/QH12)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

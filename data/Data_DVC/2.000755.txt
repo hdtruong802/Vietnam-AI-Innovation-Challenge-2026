@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000755
+Số quyết định: 1474/QĐ-BTC
+Tên thủ tục: Giải quyết hưởng trợ cấp một lần đối với người đang hưởng lương hưu, trợ cấp BHXH hàng tháng ra nước ngoài để định cư và công dân nước ngoài đang hưởng lương hưu, trợ cấp BHXH hàng tháng không còn cư trú ở Việt Nam
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thực hiện chính sách BHXH
+Trình tự thực hiện:
+  * Bước 1. Lập, nộp hồ sơ
+    Người hưởng lập hồ sơ theo quy định tại mục 11.3 (Thành phần hồ sơ) và nộp cho cơ quan BHXH nơi đang chi trả lương hưu, trợ cấp BHXH hàng tháng.
+  * Bước 2.
+    Cơ quan BHXH tiếp nhận hồ sơ và giải quyết theo quy định.
+  * Bước 3. Nhận kết quả giải quyết
+    Người hưởng nhận Quyết định về việc hưởng trợ cấp một lần và tiền trợ cấp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Đối với công dân nước ngoài đang hưởng lương hưu, trợ cấp BHXH hàng tháng không còn cư trú ở Việt Nam ]
+    - Bản chính Đơn đề nghị (mẫu 14-HSB)
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với người đang hưởng lương hưu, trợ cấp BHXH hàng tháng ra nước ngoài định cư ]
+    - Bản sao Giấy xác nhận của cơ quan có thẩm quyền về việc thôi quốc tịch Việt Nam hoặc bản dịch tiếng Việt được chứng thực của một trong các giấy tờ sau: - Hộ chiếu do nước ngoài cấp. - Thị thực của cơ quan nước ngoài có thẩm quyền cấp; giấy tờ xác nhận về việc đang làm thủ tục nhập quốc tịch nước ngoài. - Giấy tờ xác nhận hoặc thẻ thường trú, cư trú có thời hạn từ 05 năm trở lên của cơ quan nước ngoài có thẩm quyền cấp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản chính Đơn đề nghị (mẫu 14-HSB)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Bảo hiểm xã hội cấp Tỉnh, Bảo hiểm xã hội cấp huyện
+Cơ quan có thẩm quyền: Bảo hiểm xã hội cấp Tỉnh, Bảo hiểm xã hội cấp huyện
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Tiền trợ cấp, Quyết định về việc hưởng trợ cấp một lần
+Căn cứ pháp lý:
+  * Thông tư 01/2016/TT-BLĐTBXH (01/2016/TT-BLĐTBXH)
+  * BAN HÀNH QUY TRÌNH GIẢI QUYẾT HƯỞNG CÁC CHẾ ĐỘ BẢO HIỂM XÃ HỘI, CHI TRẢ CÁC CHẾ ĐỘ BẢO HIỂM XÃ HỘI, BẢO HIỂM THẤT NGHIỆP (2222/QĐ-BHXH)
+  * Nghị định 115/2015/NĐ-CP (115/2015/NĐ-CP)
+  * Nghị định 166/2016/NĐ-CP-Quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp (166/2016/NĐ-CP)
+  * LUẬT  Bảo hiểm xã hội (58/2014/QH13)
+  * Nghị định 134/2015/NĐ-CP (134/2015/NĐ-CP)
+  * Nghị định 143/2018/NĐ-CP (143/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

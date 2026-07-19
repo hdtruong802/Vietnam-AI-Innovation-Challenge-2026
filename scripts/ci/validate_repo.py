@@ -192,6 +192,8 @@ AI_LOG_FORBIDDEN_KEYS = {
     "transcript",
 }
 AI_LOG_TRAILER = re.compile(r"^AI-Log:\s*(log-[0-9a-f]{24})\s*$", re.MULTILINE)
+GIT_OID = re.compile(r"^[0-9a-f]{40}$")
+CONFLICT_MARKER = re.compile(r"^(?:<<<<<<< .+|=======|>>>>>>> .+)$", re.MULTILINE)
 AI_LOG_EMAIL = re.compile(r"(?<![\w.+-])[\w.+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}(?![\w.-])")
 AI_LOG_IDENTIFIER = re.compile(r"(?<!\d)(?:\+?84\s?)?\d{10,12}(?!\d)")
 AI_LOG_USER_PATH = re.compile(r"(?i)(?:\b[A-Z]:\\Users\\[^\\\s]+|/(?:home|Users)/[^/\s]+)")
@@ -478,12 +480,35 @@ def validate_ai_log_policy(root: Path, errors: list[str]) -> None:
     if policy.get("captureFailure") != "warn-and-commit":
         errors.append("AI Log capture failure policy must be warn-and-commit.")
     enforcement = policy.get("historyEnforcement")
-    if not isinstance(enforcement, dict) or enforcement != {
-        "mode": "policy-presence",
-        "enabled": True,
-        "exemptMergeCommits": True,
-    }:
+    expected_enforcement_keys = {"mode", "enabled", "exemptMergeCommits", "exemptCommitOids"}
+    if not isinstance(enforcement, dict) or set(enforcement) != expected_enforcement_keys:
+        errors.append("AI Log history enforcement must declare its exact scoped-exception contract.")
+    elif (
+        enforcement.get("mode") != "policy-presence"
+        or enforcement.get("enabled") is not True
+        or enforcement.get("exemptMergeCommits") is not True
+    ):
         errors.append("AI Log history enforcement must use policy-presence and exempt merge commits.")
+    else:
+        exemptions = enforcement.get("exemptCommitOids")
+        if not isinstance(exemptions, list):
+            errors.append("AI Log history exemptions must be a list.")
+        else:
+            seen_oids: set[str] = set()
+            for exemption in exemptions:
+                if not isinstance(exemption, dict) or set(exemption) != {"oid", "reason"}:
+                    errors.append("Each AI Log history exemption must contain only oid and reason.")
+                    continue
+                oid = exemption.get("oid")
+                reason = exemption.get("reason")
+                if not isinstance(oid, str) or not GIT_OID.fullmatch(oid):
+                    errors.append("AI Log history exemption oid must be a full lowercase Git SHA.")
+                elif oid in seen_oids:
+                    errors.append("AI Log history exemption oids must be unique.")
+                else:
+                    seen_oids.add(oid)
+                if not isinstance(reason, str) or not reason.strip():
+                    errors.append("AI Log history exemption reason must be non-empty.")
 
     for relative_path in (
         "evidence/ai-log/schemas/prompt-event.schema.json",
@@ -587,13 +612,30 @@ def validate_ai_log_records(root: Path, errors: list[str]) -> None:
 
 def validate_ai_log_history(root: Path, value: str, errors: list[str]) -> None:
     base, range_head = parse_range(value)
+    resolved_head = resolve_commit(root, range_head)
+    exemptions: set[str] = set()
+    try:
+        head_policy = json.loads(
+            read_revision_file(root, resolved_head, Path("evidence/ai-log/policy.json")).decode("utf-8")
+        )
+        configured_exemptions = head_policy.get("historyEnforcement", {}).get("exemptCommitOids", [])
+        if isinstance(configured_exemptions, list):
+            exemptions = {
+                entry["oid"]
+                for entry in configured_exemptions
+                if isinstance(entry, dict) and isinstance(entry.get("oid"), str) and GIT_OID.fullmatch(entry["oid"])
+            }
+    except (GuardError, UnicodeDecodeError, json.JSONDecodeError):
+        pass
     commits_output = run_git(
         root,
-        ["rev-list", "--reverse", f"{resolve_commit(root, base)}..{resolve_commit(root, range_head)}"],
+        ["rev-list", "--reverse", f"{resolve_commit(root, base)}..{resolved_head}"],
         "listing AI Log range commits",
     )
     for raw_commit in commits_output.splitlines():
         commit = raw_commit.decode("ascii", errors="strict")
+        if commit in exemptions:
+            continue
         try:
             policy = json.loads(
                 read_revision_file(root, commit, Path("evidence/ai-log/policy.json")).decode("utf-8")
@@ -679,6 +721,10 @@ def validate_file_content(
     except UnicodeDecodeError:
         errors.append(f"Text file is not valid UTF-8: {display(relative_path)}")
         return
+
+    for line_number, line in enumerate(text.splitlines(), start=1):
+        if CONFLICT_MARKER.match(line):
+            errors.append(f"Unresolved Git conflict marker in {display(relative_path)}:{line_number}")
 
     if relative_path.suffix.lower() not in {".md", ".mdc"}:
         for line_number, line in enumerate(text.splitlines(), start=1):

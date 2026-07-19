@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000527
+Số quyết định: 7886/QĐ-BCA
+Tên thủ tục: Đăng ký cai nghiện ma  túy tự nguyện
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Tổ chức cai nghiên ma túy và quản lý sau cai nghiện
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ
+    - Người nghiện ma túy, người đại diện hợp pháp của người nghiện ma túy từ đủ 12 tuổi đến dưới 18 tuổi nộp 01 bộ hồ sơ theo quy định tại Khoản 4 Điều 28 Nghị định số 116/2021/NĐ-CP tại điểm tiếp nhận đăng ký cai nghiện của Ủy ban nhân dân cấp xã nơi cư trú và xuất trình bản chính giấy tờ tùy thân để đối chiếu.
+    - Đối với trường hợp người bị cơ quan có thẩm quyền xác định là nghiện ma túy thì trong thời hạn 05 ngày làm việc, kể từ ngày có kết quả xác định nghiện ma túy của cơ quan có thẩm quyền, người nghiện ma túy từ đủ 12 tuổi trở lên (sau đây gọi tắt là người nghiện ma túy) phải đăng ký cai nghiện ma túy tự nguyện hoặc đăng ký điều trị nghiện các chất dạng thuốc phiện bằng thuốc thay thế tại Ủy ban nhân dân cấp xã nơi người đó cư trú. Trường hợp, người không có nơi cư trú ổn định thì đăng ký tại Ủy ban nhân dân cấp xã nơi người đó có hành vi vi phạm pháp luật.
+    Bước 2: Tiếp nhận hồ sơ
+    - Công an cấp xã tham mưu Chủ tịch Ủy ban nhân dân cùng cấp bố trí địa điểm, nhân sự tiếp nhận hồ sơ, hướng dẫn việc đăng ký cai nghiện tự nguyện.
+    - Địa điểm tiếp nhận đăng ký cai nghiện tự nguyện phải có trang thiết bị cần thiết cho việc đón tiếp, lưu hồ sơ đăng ký.
+    - Người tiếp nhận kiểm tra hồ sơ, đối chiếu giấy tờ tùy thân và vào sổ đăng ký cai nghiện ma túy tự nguyện theo Mẫu số 23 Phụ lục II Nghị định số 116/2021/NĐ-CP. Trường hợp hồ sơ chưa hợp lệ, người tiếp nhận hướng dẫn người đăng ký hoàn thiện, bổ sung hồ sơ đăng ký cai nghiện tự nguyện.
+    Bước 3: Tổ chức thẩm định, quyết định cai nghiện ma túy tự nguyện/ không quyết định cai nghiện ma túy tự nguyện.
+    - Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận đăng ký cai nghiện tự nguyện Công an cấp xã có trách nhiệm giúp Chủ tịch Ủy ban nhân dân cùng cấp thẩm định hồ sơ đăng ký cai nghiện, trình Chủ tịch Ủy ban nhân dân cấp xã quyết định cai nghiện ma túy tự nguyện tại gia đình, cộng đồng. Trường hợp không quyết định cho cai nghiện ma túy tự nguyện tại gia đình, cộng đồng phải trả lời bằng văn bản và nêu rõ lý do.
+    - Quyết định cai nghiện ma túy tự nguyện tại gia đình, cộng đồng, theo Mẫu số 24 Phụ lục II Nghị định số 116/2021/NĐ-CP phải được gửi cho cá nhân, gia đình người cai nghiện, các đơn vị cung cấp dịch vụ cai nghiện ma túy tại gia đình, cộng đồng và các tổ chức, cá nhân có liên quan để thực hiện.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại địa điểm tiếp nhận đăng ký cai nghiện của Ủy ban nhân dân cấp xã. 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại địa điểm tiếp nhận đăng ký cai nghiện của Ủy ban nhân dân cấp xã. 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp tại địa điểm tiếp nhận đăng ký cai nghiện của Ủy ban nhân dân cấp xã. 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Bản sao Phiếu kết  quả xác định tình trạng nghiện ma túy của cơ quan có thẩm quyền;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Đăng ký cai nghiện ma túy tự nguyện của người nghiện hoặc người đại diện hợp pháp theo Mẫu  số 22 Phụ lục II Nghị định số 116/2021/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản phôtô một trong các loại giấy tờ tùy thân: căn cước công dân hoặc thẻ căn cước, hộ chiếu, giấy khai sinh  (đối với người từ đủ 12 tuổi đến dưới 18 tuổi) của người nghiện ma túy.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Chủ tịch UBND cấp xã
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Chủ tịch Ủy ban nhân dân cấp xã về việc cai nghiện ma túy tự nguyện  tại gia đình, cộng đồng.
+Căn cứ pháp lý:
+  * QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT PHÒNG, CHỐNG MA TÚY, LUẬT XỬ LÝ VI PHẠM HÀNH CHÍNH VỀ CAI NGHIỆN MA TÚY VÀ QUẢN LÝ SAU CAI NGHIỆN MA TÚY (116/2021/NĐ-CP)
+  * Luật Phòng, chống ma túy số 73/2021/QH14 (73/2021/QH14)
+  * Nghị định số 184/2025/NĐ-CP của Chính phủ: Quy định phân định thẩm quyền khi tổ chức chính quyền địa phương 02 cấp và sửa đổi, bổ sung một số điều của các Nghị định của Chính phủ trong lĩnh vực an ninh, trật tự (184/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

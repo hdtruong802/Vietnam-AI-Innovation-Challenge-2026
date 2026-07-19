@@ -1,0 +1,39 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 5.003829
+Số quyết định: 2827/QĐ-BGDĐT
+Tên thủ tục: Sáp nhập, chia, tách trường phổ thông dân tộc nội trú
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: CENTRAL_REGULATION
+Lĩnh vực: Giáo dục dân tộc
+Trình tự thực hiện:
+    Sở Giáo dục và Đào tạo chủ trì, phối hợp với các cơ quan có liên quan xây dựng đề án sáp nhập, chia, tách trường phổ thông dân tộc nội trú; lập hồ sơ theo quy định tại điểm c khoản này trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định.
+    Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét các điều kiện sáp nhập, chia, tách trường; nếu đủ điều kiện thì quyết định sáp nhập, chia, tách trường phổ thông dân tộc nội trú; nếu chưa đủ điều kiện thì thông báo bằng văn bản cho các cơ quan có liên quan và nêu rõ lý do.
+    Quyết định sáp nhập, chia, tách trường phổ thông dân tộc nội trú (theo Mẫu số 10 Phụ lục II kèm theo Nghị định 124/2025/NĐ-CP) được công bố công khai trên các phương tiện thông tin đại chúng.
+    Trong thời hạn 05 ngày làm việc, kể từ ngày Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định sáp nhập, chia, tách trường, Giám đốc Sở Giáo dục và Đào tạo quyết định cho phép trường phổ thông dân tộc nội trú được thành lập sau khi sáp nhập, chia, tách hoạt động giáo dục.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Không quy định cách thức thực hiện
+
+Thành phần hồ sơ:
+    - Tờ trình đề nghị sáp nhập, chia, tách trung tâm (theo Mẫu số 04 Phụ lục II kèm theo Nghị định 142/2025/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Đề án sáp nhập, chia, tách trường (theo Mẫu số 05 Phụ lục II kèm theo Nghị định 142/2025/NĐ-CP ).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định sáp nhập, chia, tách trường phổ thông dân tộc nội trú của Chủ tịch Uỷ ban nhân dân tỉnh.
+Căn cứ pháp lý:
+  * Nghị định quy định điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục (125/2024/NĐ-CP)
+  * Nghị định số 142/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương hai cấp trong lĩnh vực quản lý nhà nước của Bộ Giáo dục và Đào tạo (Nghị định số 142/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Trường phổ thông dân tộc nội trú được sáp nhập, chia, tách khi bảo đảm các yêu cầu quy định tại khoản 1 Điều 51 của Luật Giáo dục.
+Từ khóa: Không có thông tin
+Mô tả: Trường phổ thông dân tộc nội trú được sáp nhập, chia, tách khi bảo đảm các yêu cầu quy định tại khoản 1 Điều 51 của Luật Giáo dục.

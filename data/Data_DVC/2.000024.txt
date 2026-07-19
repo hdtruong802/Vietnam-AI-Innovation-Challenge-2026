@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000024
+Số quyết định: 2915/QĐ-BTC
+Tên thủ tục: Thông báo thành lập quỹ đầu tư khởi nghiệp sáng tạo (cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hỗ trợ doanh nghiệp nhỏ và vừa
+Trình tự thực hiện:
+    - Trong vòng 05 ngày làm việc kể từ ngày quỹ đầu tư khởi nghiệp sáng tạo được thành lập, công ty thực hiện quản lý quỹ phải gửi thông báo về việc thành lập quỹ tới cơ quan đăng ký kinh doanh nơi công ty đặt trụ sở chính trước khi quỹ hoạt động.
+    Thông báo thành lập quỹ đầu tư khởi nghiệp sáng tạo theo Mẫu 01a và 01b tại Phụ lục kèm theo Nghị định số 38/2018/NĐ-CP ngày 11 tháng 3 năm 2018 của Chính phủ quy định các mẫu văn bản sử dụng trong thông báo thành lập và hoạt động của quỹ đầu tư khởi nghiệp sáng tạo.
+    - Cơ quan đăng ký kinh doanh có trách nhiệm xem xét tính hợp lệ của thông báo và các tài liệu kèm theo trong thời hạn 15 ngày làm việc, kể từ ngày nhận được thông báo.
+    Trường hợp thông báo và các tài liệu kèm theo là hợp lệ, cơ quan đăng ký kinh doanh có văn bản gửi công ty thực hiện quản lý quỹ về việc thành lập quỹ hợp lệ. Trường hợp thông báo và tài liệu kèm theo không hợp lệ theo quy định tại Nghị định số 38/2018/NĐ-CP ngày 11 tháng 3 năm 2018 của Chính phủ thì cơ quan đăng ký kinh doanh gửi văn bản cho công ty thực hiện quản lý quỹ biết và phải nêu rõ lý do, các yêu cầu sửa đổi, bổ sung (nếu có)..
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không có)
+
+Thành phần hồ sơ:
+    - đ) Bản sao có chứng thực chứng minh nhân dân, hộ chiếu, thẻ căn cước đối với nhà đầu tư là cá nhân; quyết định thành lập, giấy chứng nhận đăng ký doanh nghiệp hoặc tài liệu tương đương khác đối với nhà đầu tư là tổ chức;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - b) Điều lệ quỹ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Hợp đồng thuê công ty thực hiện quản lý quỹ (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biểu mẫu 1b
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Thông báo thành lập quỹ đầu tư khởi nghiệp sáng tạo theo Mẫu số 01a và Mẫu số 01b tại Phụ lục kèm theo của Nghị định số 38/2018/NĐ-CP ngày 11 tháng 3 năm 2018 của Chính phủ quy định các mẫu văn bản sử dụng trong thông báo thành lập và hoạt động của quỹ đầu tư khởi nghiệp sáng tạo.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Biên bản họp và quyết định của Đại hội đồng cổ đông hoặc Hội đồng quản trị, quyết định của Hội đồng thành viên hoặc của chủ sở hữu phù hợp với quy định tại Điều lệ công ty của nhà đầu tư là tổ chức góp vốn về việc tham gia góp vốn vào quỹ, về việc cử người đại diện Phần vốn góp theo ủy quyền kèm theo hồ sơ cá nhân của người này.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Giấy xác nhận của ngân hàng về quy mô vốn đã góp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện: Sở Tài chính các tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo về việc sửa đổi, bổ sung hồ sơ đăng ký doanh nghiệp, Văn bản gửi công ty thực hiện quản lý quỹ về việc thành lập quỹ hợp lệ và hồ sơ doanh nghiệp được cập nhật thông tin trên Cổng thông tin quốc gia về đăng ký doanh nghiệp
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

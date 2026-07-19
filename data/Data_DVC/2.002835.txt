@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002835
+Số quyết định: 248/QĐ-BNNMT
+Tên thủ tục: Đăng ký khai thác nước mặt, nước biển, đăng ký sử dụng mặt nước, đào hồ, ao, sông, suối, kênh, mương, rạch
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Tài nguyên nước
+Trình tự thực hiện:
+    - Bước 1: Nộp hồ sơ:
+    Tổ chức, cá nhân nộp 01 tờ khai đề nghị đăng ký cho Ủy ban nhân dân cấp tỉnh hoặc cho Ủy ban nhân dân cấp xã bằng hình thức trực tiếp tại Bộ phận Một cửa hoặc thông qua dịch vụ bưu chính hoặc qua uỷ quyền theo quy định của pháp luật hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+    - Bước 2: Tiếp nhận, kiểm tra hồ sơ:
+    Bộ phận Một cửa có trách nhiệm tiếp nhận tờ khai và chuyển tờ khai cho Sở Nông nghiệp và Môi trường kiểm tra thông tin.
+    Trường hợp tổ chức, cá nhân nộp tờ khai cho Ủy ban nhân dân cấp xã thì Ủy ban nhân dân cấp xã có trách nhiệm gửi tờ khai đăng ký cho Sở Nông nghiệp và Môi trường.
+    - Bước 3: Xác nhận tờ khai:
+    Kể từ ngày nhận tờ khai, Sở Nông nghiệp và Môi trường có trách nhiệm tổ chức kiểm tra nội dung tờ khai, trình Chủ tịch Ủy ban nhân dân cấp tỉnh xác nhận.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tờ khai đăng kí công trình khai thác nước biển theo Mẫu 18, Phụ lục I kèm theo Nghị định số 23/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai đăng ký công trình khai thác nước mặt theo Mẫu 15, Phụ lục I kèm theo Nghị định số 23/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai đào hồ, ao, sông, suối, kênh, mương, rạch để tạo không gian thu, trữ nước, dẫn nước, tạo cảnh quan theo Mẫu 17, Phụ lục I kèm theo Nghị định số 23/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai đăng ký sử dụng mặt nước theo Mẫu 16, Phụ lục I kèm theo Nghị định số 23/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Nông nghiệp và Môi trường Thành phố Hà Nội
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Kết quả của thủ tục Đăng ký khai thác nước mặt, nước biển, đăng ký sử dụng mặt nước, đào hồ, ao, sông, suối, kênh, mương, rạch theo Mẫu 32, Mẫu 33 và Mẫu 34 tại Phụ lục I kèm theo Nghị định số 23/2026/NĐ-CP.
+Căn cứ pháp lý:
+  * Nghị định 23/2026/NĐ-CP ngày 17/01/2026 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực tài nguyên nước. (NĐ 23/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

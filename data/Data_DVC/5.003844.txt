@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 5.003844
+Số quyết định: 2827/QĐ-BGDĐT
+Tên thủ tục: Sáp nhập, chia, tách trung tâm giáo dục thường xuyên, trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên công lập
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: CENTRAL_REGULATION
+Lĩnh vực: Giáo dục thường xuyên
+Trình tự thực hiện:
+    Sở Giáo dục và Đào tạo chủ trì, phối hợp với Sở Nội vụ xây dựng hồ sơ đề nghị sáp nhập, chia, tách trung tâm trình Chủ tịch Ủy ban nhân dân cấp tỉnh xem xét, quyết định;
+    Trong thời hạn 15 ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định việc sáp nhập, chia, tách trung tâm.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Tờ trình đề nghị sáp nhập, chia, tách trung tâm (theo Mẫu số 04 Phụ lục II kèm theo Nghị định 142/2025/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề án sáp nhập, chia, tách trung tâm (theo Mẫu số 05 Phụ lục II kèm theo Nghị định 142/2025/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định sáp nhập, chia, tách trung tâm giáo dục thường xuyên, trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên công lập.
+Căn cứ pháp lý:
+  * Nghị định quy định điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục (125/2024/NĐ-CP)
+  * Nghị định số 142/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương hai cấp trong lĩnh vực quản lý nhà nước của Bộ Giáo dục và Đào tạo (Nghị định số 142/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Trung tâm được sáp nhập, chia, tách khi bảo đảm các yêu cầu sau đây:
+a) Bảo đảm quyền, lợi ích của nhà giáo và người học.
+b) Góp phần nâng cao chất lượng và hiệu quả giáo dục.
+c) Trung tâm được hình thành sau khi sáp nhập, chia, tách phải đáp ứng các điều kiện quy định tại Điều 32 Nghị định số 125/2024/NĐ-CP:
+- Có địa điểm, cơ sở vật chất, phòng học, phòng chức năng, thiết bị dạy học đáp ứng yêu cầu của các chương trình giáo dục thường xuyên thực hiện tại trung tâm;
+- Có chương trình, tài liệu giảng dạy và học tập đáp ứng yêu cầu của các chương trình giáo dục thường xuyên thực hiện tại trung tâm theo quy định của Bộ Giáo dục và Đào tạo;
+- Có đội ngũ cán bộ quản lý, giáo viên, nhân viên và người lao động đủ về số lượng và đạt tiêu chuẩn bảo đảm thực hiện chương trình giáo dục thường xuyên theo quy định của Bộ Giáo dục và Đào tạo;
+- Có dự thảo quy chế tổ chức và hoạt động của trung tâm.
+Đối với trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên, ngoài việc đáp ứng các điều kiện trên thì phải đáp ứng các điều kiện tương ứng để tổ chức thực hiện chương trình đào tạo nghề trình độ sơ cấp theo quy định của pháp luật về giáo dục nghề nghiệp.
+Từ khóa: Không có thông tin
+Mô tả: Trung tâm được sáp nhập, chia, tách khi bảo đảm các yêu cầu sau đây:
+a) Bảo đảm quyền, lợi ích của nhà giáo và người học.
+b) Góp phần nâng cao chất lượng và hiệu quả giáo dục.
+c) Trung tâm được hình thành sau khi sáp nhập, chia, tách phải đáp ứng các điều kiện quy định tại Điều 32 Nghị định số 125/2024/NĐ-CP:
+- Có địa điểm, cơ sở vật chất, phòng học, phòng chức năng, thiết bị dạy học đáp ứng yêu cầu của các chương trình giáo dục thường xuyên thực hiện tại trung tâm;
+- Có chương trình, tài liệu giảng dạy và học tập đáp ứng yêu cầu của các chương trình giáo dục thường xuyên thực hiện tại trung tâm theo quy định của Bộ Giáo dục và Đào tạo;
+- Có đội ngũ cán bộ quản lý, giáo viên, nhân viên và người lao động đủ về số lượng và đạt tiêu chuẩn bảo đảm thực hiện chương trình giáo dục thường xuyên theo quy định của Bộ Giáo dục và Đào tạo;
+- Có dự thảo quy chế tổ chức và hoạt động của trung tâm.
+Đối với trung tâm giáo dục nghề nghiệp - giáo dục thường xuyên, ngoài việc đáp ứng các điều kiện trên thì phải đáp ứng các điều kiện tương ứng để tổ chức thực hiện chương trình đào tạo nghề trình độ sơ cấp theo quy định của pháp luật về giáo dục nghề nghiệp.

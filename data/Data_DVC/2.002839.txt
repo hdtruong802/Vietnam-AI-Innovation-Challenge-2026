@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002839
+Số quyết định: 143/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục lựa chọn đề cương để hỗ trợ viết, sáng tác tác phẩm văn học (cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Văn học
+Trình tự thực hiện:
+    - Hằng năm, Ủy ban nhân dân cấp tỉnh ban hành kế hoạch hỗ trợ tác giả viết, sáng tác tác phẩm văn học và thông báo trên các phương tiện thông tin đại chúng, cổng thông tin điện tử, bao gồm: Chủ đề, đề tài viết, sáng tác tác phẩm văn học; yêu cầu về thông tin cá nhân của tác giả tham gia; kinh phí hỗ trợ và thời gian thực hiện hỗ trợ.
+    - Trong thời hạn 40 ngày làm việc kể từ ngày thông báo, tác giả tham gia nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc nộp trực tuyến qua Cổng dịch vụ công quốc gia 01 đề cương tác phẩm kèm theo đề xuất mức kinh phí hỗ trợ đến cơ quan ban hành thông báo.
+    - Trường hợp đề cương không đúng với yêu cầu tại thông báo, trong thời hạn 05 ngày làm việc kể từ ngày nhận được đề cương, cơ quan có thẩm quyền hỗ trợ trả lời tác giả bằng văn bản và nêu rõ lý do.
+    - Trường hợp hồ sơ đủ điều kiện, trong thời hạn 30 ngày làm việc kể từ ngày kết thúc nhận đề cương theo thông báo, Ủy ban nhân dân cấp tỉnh quyết định lựa chọn đề cương tác phẩm trên cơ sở tư vấn của Hội đồng thẩm định để hỗ trợ viết, sáng tác tác phẩm và thông báo đến tác giả.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 70 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 70 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 70 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản đề xuất mức kinh phí hỗ trợ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề cương tác phẩm văn học (đối với đề cương tác phẩm văn học viết bằng tiếng nước ngoài phải kèm theo bản dịch tiếng Việt Nam).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh, Sở Văn hóa, Thể thao và Du lịch - Tỉnh Phú Thọ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định lựa chọn đề cương tác phẩm để hỗ trợ viết, sáng tác tác phẩm.
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

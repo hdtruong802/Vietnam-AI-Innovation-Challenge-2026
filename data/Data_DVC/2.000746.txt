@@ -1,0 +1,39 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000746
+Số quyết định: 1474/QĐ-BTC
+Tên thủ tục: Nghiệm thu hoàn thành các hạng mục đầu tư hoặc toàn bộ dự án được hỗ trợ đầu tư theo Nghị định số 57/2018/NĐ-CP ngày 17/4/2018 của Chính phủ (cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Đầu tư vào nông nghiệp, nông thôn
+Trình tự thực hiện:
+    - Bước 1: Doanh nghiệp và nhà thầu (nếu có) tự nghiệm thu và tự chịu trách nhiệm về tính chính xác của nội dung nghiệm thu.
+    - Bước 2: Sau khi hoàn thành tự nghiệm thu, doanh nghiệp có văn bản đề nghị Sở Nông nghiệp và Môi trường chủ trì nghiệm thu xác nhận khối lượng hoàn thành hạng mục đầu tư hoặc toàn bộ dự án.
+    - Bước 3: Trong thời hạn 05 ngày kể từ ngày nhận được văn bản đề nghị của doanh nghiệp, Sở Nông nghiệp và Môi trường chủ trì mời các cơ quan liên quan tham gia Hội đồng nghiệm thu. Hội đồng nghiệm thu tổ chức nghiệm thu xác nhận khối lượng hoàn thành hạng mục đầu tư hoặc toàn bộ dự án và lập Biên bản nghiệm thu theo mẫu số 05 quy định tại Phụ lục II ban hành kèm theo Nghị định số 57/2018/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không có)
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị nghiệm thu hạng mục đầu tư hoặc toàn bộ dự án được hỗ trợ: Do doanh nghiệp lập căn cứ nội dụng cụ thể của hạng mục đầu tư hoặc toàn bộ dự án đề nghị nghiệm thu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Quyết định giao vốn của cơ quan có thẩm quyền gửi Kho bạc Nhà nước để được giải ngân khoản hỗ trợ trong vòng 05 ngày làm việc.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Sở Nông nghiệp và Môi trường Thành phố Hải Phòng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Biên bản nghiệm thu (Mẫu số 05 Phụ lục II Nghị định số 57/2018/NĐ-CP)
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

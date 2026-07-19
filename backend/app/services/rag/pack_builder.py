@@ -11,8 +11,10 @@ from __future__ import annotations
 
 import hashlib
 import re
+from datetime import date
 from typing import List, Optional
 
+from app.config import get_settings
 from app.models.common import Citation, ClarifyingQuestion, FindingSeverity
 from app.models.procedure import (
     ChecklistItem,
@@ -96,9 +98,30 @@ def _primary_citation(record: SourceRecord) -> Citation:
     return Citation(ref_id=ref_id, title=record.name[:240], url_or_ref="https://dichvucong.gov.vn")
 
 
+def _demo_k1_status(
+    default_version: str, demo_version: str
+) -> tuple[ReviewStatus, date | None, str]:
+    """Xem D-013/D-019: mac dinh (`rag_demo_k1_approved=False`) giu dung fail-
+    closed cua D-013 - tra ve `needs_review`/khong co `last_verified_at`.
+    CHI khi flag demo duoc bat tuong minh (chi danh cho demo cuc bo, KHONG
+    duoc bat tren production) moi tra ve `approved` + ngay freeze, va version
+    doi thanh `demo-k1-simulated-...` de khong the nham voi K1 nguoi thuc."""
+
+    if not get_settings().rag_demo_k1_approved:
+        return ReviewStatus.NEEDS_REVIEW, None, default_version
+    return ReviewStatus.APPROVED, date.fromisoformat(get_source_freeze_date()), demo_version
+
+
 def _required_field_rules(
     procedure_id: str, form_schema: dict, citation_ref_id: str
 ) -> List[ValidationRule]:
+    """Sinh validation rules deterministic tu JSON Schema cua form:
+    REQUIRED cho field trong `required` (giu nguyen thu tu/rule_id `REQ-N`
+    de tuong thich voi rule_id da dung trong test), STRING_PATTERN neu field
+    co `pattern`, DATE_FORMAT neu field co `format: date` (xem D-019: form
+    schema cu the hon cho thuong tru/ho kinh doanh can validate dinh dang,
+    khong chi kiem truong bat buoc)."""
+
     properties = form_schema.get("properties", {})
     required_field_ids = list(form_schema.get("required", []))
     rules: List[ValidationRule] = []
@@ -115,6 +138,34 @@ def _required_field_rules(
                 source_ref_ids=[citation_ref_id],
             )
         )
+    for idx, (field_id, field_def) in enumerate(properties.items(), start=1):
+        label = field_def.get("title", field_id)
+        pattern = field_def.get("pattern")
+        if pattern:
+            rules.append(
+                ValidationRule(
+                    rule_id=f"{procedure_id.upper()}-FORMAT-{idx}",
+                    type=ValidationRuleType.STRING_PATTERN,
+                    field_id=field_id,
+                    severity=FindingSeverity.ERROR,
+                    message=f"{label} chưa đúng định dạng quy định.",
+                    fix_hint="Kiểm tra lại định dạng của trường này (ví dụ đủ số chữ số).",
+                    params={"pattern": pattern},
+                    source_ref_ids=[citation_ref_id],
+                )
+            )
+        if field_def.get("format") == "date":
+            rules.append(
+                ValidationRule(
+                    rule_id=f"{procedure_id.upper()}-DATE-{idx}",
+                    type=ValidationRuleType.DATE_FORMAT,
+                    field_id=field_id,
+                    severity=FindingSeverity.ERROR,
+                    message=f"{label} chưa đúng định dạng ngày (YYYY-MM-DD).",
+                    fix_hint="Nhập ngày theo định dạng YYYY-MM-DD.",
+                    source_ref_ids=[citation_ref_id],
+                )
+            )
     return rules
 
 
@@ -193,14 +244,19 @@ def build_procedure_pack_from_evidence(
             for entry in rag_citations
         ]
 
+    review_status, last_verified_at, version = _demo_k1_status(
+        f"candidate-{get_source_freeze_date()}",
+        f"demo-k1-simulated-{get_source_freeze_date()}",
+    )
+
     return ProcedurePack(
         procedure_id=procedure_id,
         name=PROCEDURE_DISPLAY_NAME.get(procedure_id, record.name),
         jurisdiction="Theo phân cấp quy định tại nguồn thủ tục (xem source_refs).",
         authority=record.authority_org or record.implementing_org or None,
-        version=f"candidate-{get_source_freeze_date()}",
-        review_status=ReviewStatus.NEEDS_REVIEW,
-        last_verified_at=None,
+        version=version,
+        review_status=review_status,
+        last_verified_at=last_verified_at,
         checksum=_record_checksum(record),
         source_refs=source_refs,
         intake_questions=intake_questions or [],
@@ -265,14 +321,19 @@ def build_birth_registration_pack() -> ProcedurePack:
     primary_ref_id = source_refs[0].ref_id
     secondary_ref_id = source_refs[1].ref_id if len(source_refs) > 1 else primary_ref_id
 
+    review_status, last_verified_at, version = _demo_k1_status(
+        f"candidate-curated-{get_source_freeze_date()}",
+        f"demo-k1-simulated-curated-{get_source_freeze_date()}",
+    )
+
     return ProcedurePack(
         procedure_id="dang-ky-khai-sinh",
         name="Đăng ký khai sinh",
         jurisdiction="Cấp xã/phường/thị trấn",
         authority="Ủy ban nhân dân cấp xã",
-        version=f"candidate-curated-{get_source_freeze_date()}",
-        review_status=ReviewStatus.NEEDS_REVIEW,
-        last_verified_at=None,
+        version=version,
+        review_status=review_status,
+        last_verified_at=last_verified_at,
         checksum="curated-birth-v1",
         source_refs=source_refs,
         intake_questions=[],

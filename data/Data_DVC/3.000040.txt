@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000040
+Số quyết định: 1154/QĐ-BTC
+Tên thủ tục: Thủ tục cấp Giấy chứng nhận đủ điều kiện kinh doanh đặt cược bóng đá quốc tế
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Định chế tài chính
+Trình tự thực hiện:
+    + Doanh nghiệp nộp hồ sơ đề nghị gia hạn Giấy chứng nhận đủ điều kiện kinh doanh đến Bộ Tài chính để kiểm tra tính đầy đủ và hợp lệ của hồ sơ.
+    + Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn năm (05) ngày, kể từ ngày nhận được hồ sơ, Bộ Tài chính có văn bản thông báo để doanh nghiệp bổ sung, hoàn thiện hồ sơ.
+    + Trong thời hạn mười lăm (15) ngày, kể từ ngày nhận được hồ sơ hợp lệ, Bộ Tài chính gửi hồ sơ lấy ý kiến các cơ quan có liên quan gồm: Bộ Văn hóa, Thể thao và Du lịch, Bộ Công an và Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đăng ký đầu tư xây dựng trường đua.
+    + Trong thời hạn ba mươi (30) ngày, kể từ ngày gửi hồ sơ lấy ý kiến các cơ quan có liên quan nêu trên, Bộ Tài chính thành lập đoàn công tác liên ngành gồm: Bộ Văn hóa, Thể thao và Du lịch, Bộ Công an và Ủy ban nhân dân cấp tỉnh nơi doanh nghiệp đăng ký đầu tư xây dựng trường đua kiểm tra thực địa tại trường đua, địa bàn kinh doanh đặt cược và trụ sở chính của doanh nghiệp xin gia hạn Giấy chứng nhận đủ điều kiện kinh doanh đặt cược.
+    + Trong thời hạn mười lăm (15) ngày, kể từ ngày kết thúc kiểm tra thực địa, cơ quan được lấy ý kiến phải có ý kiến bằng văn bản gửi Bộ Tài chính và chịu trách nhiệm về những nội dung được lấy ý kiến.
+    + Sau khi nhận được ý kiến tham gia của các cơ quan có liên quan nêu trên, Bộ Tài chính tổng hợp ý kiến và xem xét, quyết định việc gia hạn hoặc không gia hạn Giấy chứng nhận đủ điều kiện kinh doanh đặt cược đua ngựa, đặt cược đua chó.
+    + Trong thời hạn sáu mươi (60) ngày, kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Tài chính xem xét và gia hạn Giấy chứng nhận đủ điều kiện kinh doanh đặt cược đua ngựa, đặt cược đua chó. Trường hợp từ chối gia hạn Giấy chứng nhận đủ điều kiện kinh doanh đặt cược đua ngựa, đặt cược đua chó, Bộ Tài chính thông báo bằng văn bản cho doanh nghiệp và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 60 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến trên Cổng dịch vụ công quốc gia.
+
+Thành phần hồ sơ:
+    - Tài liệu, hồ sơ chứng minh doanh nghiệp đáp ứng đủ điều kiện theo quy định tại khoản 2 Điều 39 Nghị định số 06/2017/NĐ-CP.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao Giấy chứng nhận đăng ký đầu tư hoặc văn bản quyết định chủ trương đầu tư kinh doanh đặt cược bóng đá quốc tế được cơ quan quản lý nhà nước có thẩm quyền cấp theo quy định của pháp luật về đầu tư.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Đơn xin cấp Giấy chứng nhận đủ điều kiện kinh doanh đặt cược;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Doanh nghiệp không phải nộp thành phần hồ sơ trong trường hợp cơ quan tiếp nhận, giải quyết thủ tục hành chính khai thác được thông tin từ các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành.  Trường hợp không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, không chính xác thì cơ quan, người có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính yêu cầu cá nhân, tổ chức bổ sung thành phần hồ sơ để giải quyết thủ tục hành chính; đồng thời đề nghị cá nhân, tổ chức thực hiện cập nhật, điều chỉnh thông tin trong các cơ sở dữ liệu theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Bản sao Giấy chứng nhận đăng ký doanh nghiệp được cơ quan quản lý nhà nước có thẩm quyền cấp theo quy định của pháp luật về doanh nghiệp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Dự thảo Thể lệ đặt cược và quy định nội bộ về phòng, chống rửa tiền.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện kinh doanh dịch vụ đặt cược đua ngựa/đua chó/thí điểm bóng đá quốc tế
+Căn cứ pháp lý:
+  * Thông tư quy định về phân cấp thực hiện một số nhiệm vụ, quyền hạn trong lĩnh vực  quản lý nhà nước của Bộ Tài chính (31/2026/TT-BTC)
+  * Nghị định số 06/2017/NĐ-CP (Nghị định số 06/2017/NĐ-CP)
+  * Nghị định 151/2018/NĐ-CP (151/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: + Doanh nghiệp được lựa chọn thí điểm kinh doanh đặt cược bóng đá quốc tế theo quy định tại Điều 38 của Nghị định số 06/2017/NĐ-CP trước khi tổ chức hoạt động kinh doanh đặt cược bóng đá quốc tế phải xin cấp Giấy chứng nhận đủ điều kiện kinh doanh đặt cược bóng đá quốc tế.
++ Doanh nghiệp phải chuẩn bị sẵn sàng về cơ sở vật chất và kỹ thuật phục vụ cho quá trình kinh doanh, trong đó hệ thống công nghệ, thiết bị kỹ thuật, phần mềm kinh doanh bảo đảm hiện đại, đồng bộ, có thể dễ dàng nâng cấp, vận hành chính xác, an toàn, ổn định.
+Từ khóa: Không có thông tin
+Mô tả: + Doanh nghiệp được lựa chọn thí điểm kinh doanh đặt cược bóng đá quốc tế theo quy định tại Điều 38 của Nghị định số 06/2017/NĐ-CP trước khi tổ chức hoạt động kinh doanh đặt cược bóng đá quốc tế phải xin cấp Giấy chứng nhận đủ điều kiện kinh doanh đặt cược bóng đá quốc tế.
++ Doanh nghiệp phải chuẩn bị sẵn sàng về cơ sở vật chất và kỹ thuật phục vụ cho quá trình kinh doanh, trong đó hệ thống công nghệ, thiết bị kỹ thuật, phần mềm kinh doanh bảo đảm hiện đại, đồng bộ, có thể dễ dàng nâng cấp, vận hành chính xác, an toàn, ổn định.

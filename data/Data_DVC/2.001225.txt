@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001225
+Số quyết định: 1458/QĐ-BTP
+Tên thủ tục: Phê duyệt Trang thông tin đấu giá trực tuyến
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Đấu giá tài sản
+Trình tự thực hiện:
+    Tổ chức hành nghề đấu giá tài sản, tổ chức mà Nhà nước sở hữu 100% vốn điều lệ do ngân hàng Nhà nước Việt Nam thành lập để xử lý nợ xấu của tổ chức tín dụng lập 01 bộ hồ sơ, gửi trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm phục vụ hành chính công tỉnh, thành phố nơi tổ chức hành nghề đấu giá tài sản, tổ chức mà Nhà nước sở hữu 100% vốn điều lệ do Ngân hàng Nhà nước Việt Nam thành lập để xử lý nợ xấu của tổ chức tín dụng có trụ sở hoặc trực tuyến trên Cổng dịch vụ công quốc gia.
+    Trong thời hạn 80 ngày, kể từ ngày nhận được Đề án hợp lệ theo quy định tại khoản 1 Điều 4 Nghị định số 18/2026/NĐ-CP ngày 14/01/2026 của Chính phủ sửa đổi, bổ sung một số nghị định để cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Tư pháp, Giám đốc Sở Tư pháp xem xét, phê duyệt trang thông tin đấu giá trực tuyến; trường hợp từ chối thì thông báo bằng văn bản và nêu rõ lý do. Kết quả phê duyệt trang thông tin đấu giá trực tuyến trả cho tổ chức là bản giấy, bản điện tử và có giá trị như nhau.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 80 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 80 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 80 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị phê duyệt trang thông tin đấu giá trực tuyến
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề án xây dựng Trang thông tin đấu giá trực tuyến
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Giám đốc Sở Tư pháp
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt Trang thông tin đấu giá trực tuyến
+Căn cứ pháp lý:
+  * Luật sửa đổi, bổ sung một số điều của Luật Đấu giá tài sản năm 2024 (37/2024/QH15)
+  * Nghị định sửa đổi, bổ sung một số nghị định để cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh  thuộc phạm vi quản lý của Bộ Tư pháp (18/2026/NĐ-CP)
+  * Luật Đấu giá tài sản năm 2016 (01/2016/QH14)
+  * Nghị định số 172/2024/NĐ-CP ngày 27/12/2024 quy định chi tiết một số điều của Luật Đấu giá tài sản số 01/2016/QH14 được sửa đổi, bổ sung một số điều theo Luật số 37/2024/QH15 (172/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Đề án xây dựng trang thông tin đấu giá trực tuyến phải mô tả được các yêu cầu, điều kiện của trang thông tin đấu giá trực tuyến như sau:
+- Yêu cầu
++ Công khai, minh bạch, không hạn chế truy cập và tiếp cận thông tin;
++ Thời gian trên Cổng Đấu giá tài sản quốc gia, trang thông tin đấu giá trực tuyến là thời gian thực và thời gian chuẩn theo tiêu chuẩn quốc tế (GMT) trong đấu giá trực tuyến;
++ Hoạt động ổn định, liên tục và phải bảo đảm an toàn hệ thống thông tin;
++ Bảo đảm an toàn, bảo mật thông tin của người tham gia đấu giá, tài khoản truy cập;
++ Đáp ứng các yêu cầu về hạ tầng kỹ thuật, tiêu chuẩn công nghệ thông tin để kết nối, tích hợp và chia sẻ dữ liệu thông qua nền tảng tích hợp, chia sẻ dữ liệu;
++ Đáp ứng yêu cầu về hạ tầng kỹ thuật, cơ sở vật chất và đội ngũ nhân sự cần thiết cho việc vận hành Cổng Đấu giá tài sản quốc gia, trang thông tin đấu giá trực tuyến.
+- Điều kiện
++ Đạt cấp độ 3 theo quy định pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ;
++ Bảo đảm việc mỗi cá nhân, tổ chức được đăng ký duy nhất một tài khoản tham gia đấu giá, trả giá;
++ Bảo đảm việc tham gia trả giá, hiển thị giá đã trả bằng mã số riêng của người tham gia đấu giá;
++ Hiển thị công khai thời điểm đăng ký tham gia đấu giá, thời điểm truy cập tài khoản tham dự phiên đấu giá, thời điểm bắt đầu và kết thúc phiên đấu giá;
++ Hiển thị công khai, trung thực các lần trả giá, giá đã trả của người tham gia đấu giá theo mã số riêng, giá trả cao nhất; ghi lại và truy xuất được toàn bộ thông tin của cuộc đấu giá, phiên đấu giá;
++ Hiển thị liên tục giá khởi điểm của tài sản đấu giá, mức giá cao nhất đã trả đối với phương thức trả giá lên và mức giá bằng giá khởi điểm hoặc giá đã giảm thấp nhất đối với phương thức đặt giá xuống trong suốt phiên đấu giá để những người tham gia đấu giá có thể xem được;
++ Bảo đảm người tham gia đấu giá không thể nộp hồ sơ tham gia đấu giá sau thời điểm kết thúc nộp hồ sơ và không thể thực hiện việc trả giá sau thời điểm kết thúc cuộc đấu giá.
+Từ khóa: Không có thông tin
+Mô tả: Đề án xây dựng trang thông tin đấu giá trực tuyến phải mô tả được các yêu cầu, điều kiện của trang thông tin đấu giá trực tuyến như sau:
+- Yêu cầu
++ Công khai, minh bạch, không hạn chế truy cập và tiếp cận thông tin;
++ Thời gian trên Cổng Đấu giá tài sản quốc gia, trang thông tin đấu giá trực tuyến là thời gian thực và thời gian chuẩn theo tiêu chuẩn quốc tế (GMT) trong đấu giá trực tuyến;
++ Hoạt động ổn định, liên tục và phải bảo đảm an toàn hệ thống thông tin;
++ Bảo đảm an toàn, bảo mật thông tin của người tham gia đấu giá, tài khoản truy cập;
++ Đáp ứng các yêu cầu về hạ tầng kỹ thuật, tiêu chuẩn công nghệ thông tin để kết nối, tích hợp và chia sẻ dữ liệu thông qua nền tảng tích hợp, chia sẻ dữ liệu;
++ Đáp ứng yêu cầu về hạ tầng kỹ thuật, cơ sở vật chất và đội ngũ nhân sự cần thiết cho việc vận hành Cổng Đấu giá tài sản quốc gia, trang thông tin đấu giá trực tuyến.
+- Điều kiện
++ Đạt cấp độ 3 theo quy định pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ;
++ Bảo đảm việc mỗi cá nhân, tổ chức được đăng ký duy nhất một tài khoản tham gia đấu giá, trả giá;
++ Bảo đảm việc tham gia trả giá, hiển thị giá đã trả bằng mã số riêng của người tham gia đấu giá;
++ Hiển thị công khai thời điểm đăng ký tham gia đấu giá, thời điểm truy cập tài khoản tham dự phiên đấu giá, thời điểm bắt đầu và kết thúc phiên đấu giá;
++ Hiển thị công khai, trung thực các lần trả giá, giá đã trả của người tham gia đấu giá theo mã số riêng, giá trả cao nhất; ghi lại và truy xuất được toàn bộ thông tin của cuộc đấu giá, phiên đấu giá;
++ Hiển thị liên tục giá khởi điểm của tài sản đấu giá, mức giá cao nhất đã trả đối với phương thức trả giá lên và mức giá bằng giá khởi điểm hoặc giá đã giảm thấp nhất đối với phương thức đặt giá xuống trong suốt phiên đấu giá để những người tham gia đấu giá có thể xem được;
++ Bảo đảm người tham gia đấu giá không thể nộp hồ sơ tham gia đấu giá sau thời điểm kết thúc nộp hồ sơ và không thể thực hiện việc trả giá sau thời điểm kết thúc cuộc đấu giá.

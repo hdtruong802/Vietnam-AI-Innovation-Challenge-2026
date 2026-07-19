@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.006575
+Số quyết định: 308/QĐ-BXD
+Tên thủ tục: Công nhận đô thị loại II, loại III
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Phát triển đô thị
+Trình tự thực hiện:
+    - Ủy ban nhân dân cấp tỉnh giao cơ quan chuyên môn thuộc tỉnh tổ chức lập đề án công nhận loại đô thị có phạm vi ranh giới nhiều hơn 01 đơn vị hành chính cấp xã hoặc giao Ủy ban nhân dân cấp xã tổ chức lập đề án công nhận loại đô thị trong trường hợp công nhận loại đô thị có phạm vi ranh giới trong 01 đơn vị hành chính cấp xã đó;
+    trường hợp thuê đơn vị tư vấn lập đề án thì thực hiện theo pháp luật về đấu thầu.
+    - Đơn vị lập đề án tổ chức khảo sát, lập đề án và báo cáo đánh giá trình độ phát triển đô thị. Trường hợp đơn vị lập đề án không phải là Sở Xây dựng thì sau khi hoàn thành dự thảo thuyết minh đề án, đơn vị lập đề án gửi lấy ý kiến của Sở Xây dựng về dự thảo thuyết minh đề án; trong thời hạn tối đa 07 ngày làm việc kể từ ngày nhận
+    được văn bản đề nghị, Sở Xây dựng có trách nhiệm gửi văn bản góp ý. Trong thời hạn tối đa 07 ngày làm việc, kể từ ngày nhận được văn bản của Sở Xây dựng, đơn vị lập đề án phải hoàn thiện dự thảo thuyết minh đề án.
+    - Trong thời hạn tối đa 05 ngày làm việc, kể từ ngày nhận được thuyết minh đề án đã được hoàn thiện, Sở Xây dựng có trách nhiệm rà soát hồ sơ; nếu hồ sơ đủ điều kiện thì gửi hồ sơ cho Ủy ban nhân dân cấp tỉnh để tổ chức thẩm định.
+    - Trong thời hạn tối đa 05 ngày làm việc, kể từ ngày nhận được hồ sơ theo quy định, Ủy ban nhân dân cấp tỉnh ban hành quyết định thành lập Hội đồng thẩm định liên ngành để tổ chức thẩm định đề án.
+    - Trong thời hạn tối đa 30 ngày làm việc, kể từ ngày ban hành quyết định thành lập, Hội đồng thẩm định thực hiện thẩm định và báo cáo Ủy ban nhân dân cấp tỉnh.
+    - Trong thời hạn tối đa 10 ngày làm việc, kể từ ngày nhận được hồ sơ của Hội đồng thẩm định liên ngành, Ủy ban nhân dân cấp tỉnh xem xét, trình Hội đồng nhân dân cấp tỉnh thông qua đề án.
+    - Trong thời hạn tối đa 05 ngày làm việc, kể từ ngày có Nghị quyết của Hội đồng nhân dân cấp tỉnh thông qua đề án, Chủ tịch Ủy ban nhân dân cấp tỉnh ban hành quyết định công nhận đô thị loại II hoặc loại III.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 69 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 69 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 69 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+  Không có thông tin thành phần hồ sơ.
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận đô thị loại II hoặc loại III
+Căn cứ pháp lý:
+  * QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT VỀ PHÂN LOẠI ĐÔ THỊ (Nghị định số 35/2026/NĐ-CP)
+  * Về phân loại đô thị (Nghị quyết số 111/2025/UBTVQH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

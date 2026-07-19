@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000375
+Số quyết định: 1211/QĐ-BCA
+Tên thủ tục: Phê duyệt chương trình, quy chế an ninh hàng không, chấp thuận chương trình an ninh hàng không hãng hàng không nước ngoài
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Bảo đảm an ninh hàng không
+Trình tự thực hiện:
+    a) Nộp hồ sơ thủ tục hành chính:
+    Doanh nghiệp, đơn vị có chương trình, quy chế an ninh hàng không gửi 01 bộ hồ sơ (hồ sơ bằng tiếng Việt đối với doanh nghiệp Việt Nam, hồ sơ bằng tiếng Anh đối với hãng hàng không nước ngoài) trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc gửi trên môi trường điện tử đến Cục Quản lý xuất nhập cảnh
+    b) Giải quyết thủ tục hành chính:
+    - Trường hợp hồ sơ chưa đầy đủ theo quy định, trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ, Cục Quản lý xuất nhập cảnh có văn bản gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc trên môi trường điện tử yêu cầu doanh nghiệp, đơn vị đề nghị phê duyệt bổ sung hồ sơ.
+    - Trường hợp nhận được đầy đủ hồ sơ theo quy định, trong thời hạn 10 ngày làm việc tính từ ngày nhận đủ hồ sơ, Cục Quản lý xuất nhập cảnh có trách nhiệm thẩm định hồ sơ, xem xét tổ chức kiểm tra thực tế nếu cần (trường hợp cần kiểm tra thực tế, Cục Quản lý xuất nhập cảnh có văn bản thông báo gửi đến doanh nghiệp, đơn vị đề nghị phê duyệt nêu rõ lý do, thời gian kiểm tra trong thời hạn giải quyết thủ tục hành chính).
+    + Nếu chương trình, quy chế an ninh hàng không đủ điều kiện phê duyệt, chấp thuận, Cục Quản lý xuất nhập cảnh ban hành quyết định phê duyệt hoặc chấp thuận. Quyết định phê duyệt được gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc trên môi trường điện tử;
+    + Nếu chương trình, quy chế an ninh hàng không chưa đủ điều kiện phê duyệt, chấp thuận, Cục Quản lý xuất nhập cảnh ban hành văn bản gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc trên môi trường điện tử nêu rõ lý do chưa phê duyệt, chấp thuận.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Doanh nghiệp, đơn vị có chương trình an ninh hàng không gửi 01 bộ hồ sơ (hồ sơ bằng tiếng Việt đối với doanh nghiệp Việt Nam) ]
+    - Văn bản đề nghị theo mẫu quy định tại Phụ lục VI ban hành kèm theo Thông tư số 14/2026/TT-BCA ngày 03 tháng 02 năm 2026 của Bộ trưởng Bộ Công an quy định chi tiết Chương trình An ninh hàng không và kiểm soát chất lượng An ninh hàng không Việt Nam;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Dự thảo chương trình an ninh hàng không.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hãng hàng không nước ngoài khai thác thương mại đến và đi từ Việt Nam gửi 01 bộ hồ sơ (bằng tiếng Việt hoặc tiếng Anh) ]
+    - Văn bản đề nghị theo mẫu quy định tại Phụ lục VI ban hành kèm theo Thông tư số 14/2026/TT-BCA ngày 03 tháng 02 năm 2026 của Bộ trưởng Bộ Công an quy định chi tiết Chương trình An ninh hàng không và kiểm soát chất lượng An ninh hàng không Việt Nam;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Chương trình an ninh hàng không của hãng hàng không nước ngoài được phê duyệt bởi Nhà chức trách hàng không nơi hãng hàng không đặt trụ sở chính;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quy trình an ninh hàng không bổ sung đối với hoạt động khai thác của hãng hàng không tại Việt Nam được xây dựng theo đề cương quy định tại Phụ lục XXIV ban hành kèm theo Thông tư số 14/2026/TT-BCA ngày 03 tháng 02 năm 2026 của Bộ trưởng Bộ Công an quy định chi tiết Chương trình An ninh hàng không và kiểm soát chất lượng An ninh hàng không Việt Nam.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục quản lý xuất nhập cảnh
+Cơ quan có thẩm quyền: Cục quản lý xuất nhập cảnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt hoặc chấp thuận
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số điều của Thông tư số 13/2019/TT-BGTVT ngày 29 tháng 3 năm 2019 của Bộ trưởng Bộ Giao thông vận tải quy định chi tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh hàng  không Việt Nam và Thông tư số 41/2020/TT-BGTVT ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 13/2019/TT-BGTVT ngày 29 tháng 3 năm 2019 quy định chi  tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh  hàng không Việt Nam (42/2023/TT-BGTVT)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Quy định chi tiết Chương trình an ninh hàng không và kiểm soát chất lượng an ninh hàng không Việt Nam (13/2019/TT-BGTVT)
+  * Về an ninh hàng không (92/2015/NĐ-CP)
+  * Thông tư 41/2020/TT-BGTVT (41/2020/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

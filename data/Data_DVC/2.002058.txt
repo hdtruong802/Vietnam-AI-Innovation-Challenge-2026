@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002058
+Số quyết định: 1474/QĐ-BTC
+Tên thủ tục: Xác nhận chuyên gia (cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Đầu tư bằng vốn hỗ trợ phát triển chính thức (ODA) và viện trợ không hoàn lại không thuộc hỗ trợ phát triển chính thức
+Trình tự thực hiện:
+    Bước 1: Chuyên gia người nước ngoài cung cấp thông tin cần thiết cho Chủ dự án.
+    Bước 2: Trong vòng 30 ngày làm việc kể từ khi hợp đồng chuyên gia có hiệu lực, Chủ dự án gửi Cơ quan chủ quản công văn đề nghị xác nhận chuyên gia kèm theo hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không có)
+
+Thành phần hồ sơ:
+    - - Bản cam kết không mang quốc tịch Việt Nam của chuyên gia.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản chấp thuận của Bên Việt Nam và Bên nước ngoài trong trường hợp có sự thay đổi và bổ sung so với danh sách chuyên gia, tư vấn trong tài liệu đấu thầu đã được cấp có thẩm quyền phê duyệt.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản gốc hoặc bản sao (có chứng thực) các tài liệu sau: (i) Quyết định phê duyệt kết quả đấu thầu dịch vụ tư vấn (cá nhân hoặc nhóm chuyên gia); (ii) Tài liệu đấu thầu đã được cấp có thẩm quyền phê duyệt (bao gồm phần danh sách tư vấn).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao hộ chiếu (có chứng thực) của chuyên gia và các thành viên trong gia đình chuyên gia, trong đó có trang thị thực nhập cảnh Việt Nam (nếu có) và trang đóng dấu xuất nhập cảnh của cơ quan quản lý xuất nhập cảnh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao hợp đồng tư vấn của chuyên gia (cá nhân hoặc Nhóm chuyên gia) ký với nhà thầu, cơ quan có thẩm quyền Bên Việt Nam hoặc Bên nước ngoài.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cơ quan chủ quản
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận của cơ quan chủ quản các chương trình, dự án ODA.
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

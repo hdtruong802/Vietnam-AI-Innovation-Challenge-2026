@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000327
+Số quyết định: 01/QĐ-BCT
+Tên thủ tục: Gia hạn Giấy phép thành lập Văn phòng đại diện của thương nhân nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thương mại quốc tế
+Trình tự thực hiện:
+    1. Hồ sơ gia hạn  Giấy phép thành lập Văn phòng đại diện phải được nộp trong thời hạn ít nhất 30 ngày trước khi Giấy phép hết hạn.
+    2. Thương nhân nước ngoài nộp hồ sơ trực tiếp hoặc qua đường bưu điện hoặc trực tuyến (nếu đủ điều kiện áp dụng) đến Cơ quan cấp Giấy phép.
+    3. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan cấp Giấy phép kiểm tra và yêu cầu bổ sung nếu hồ sơ chưa đầy đủ, hợp lệ. Việc yêu cầu bổ sung hồ sơ được thực hiện tối đa một lần trong suốt quá trình giải quyết hồ sơ.
+    4. Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan cấp Giấy phép gia hạn  Giấy phép thành lập Văn phòng đại diện. Trường hợp không gia hạn phải có văn bản nêu rõ lý do.
+    5. Trường hợp việc gia hạn  Giấy phép thành lập Văn phòng đại diện chưa được quy định tại văn bản quy phạm pháp luật chuyên ngành, Cơ quan cấp Giấy phép gửi văn bản lấy ý kiến của Bộ quản lý chuyên ngành trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản của Cơ quan cấp Giấy phép, Bộ quản lý chuyên ngành có văn bản nêu rõ ý kiến đồng ý hoặc không đồng ý gia hạn  Giấy phép thành lập Văn phòng đại diện. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến của Bộ quản lý chuyên ngành, Cơ quan cấp Giấy phép gia hạn hoặc không gia hạn  Giấy phép thành lập Văn phòng đại diện cho thương nhân nước ngoài. Trường hợp không gia hạn phải có văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ
+
+Thành phần hồ sơ:
+    - Giấy đăng ký kinh doanh hoặc giấy tờ có giá trị tương đương của thương nhân nước ngoài
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị gia hạn giấy phép thành lập văn phòng đại diện của thương nhân nước ngoài tại Việt Nam theo mẫu của Bộ Công Thương do đại diện có thẩm quyền của thương nhân nước ngoài ký
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo tài chính có kiểm toán hoặc văn bản xác nhận tình hình thực hiện nghĩa vụ thuế hoặc tài chính trong năm tài chính gần nhất hoặc giấy tờ có giá trị tương đương do cơ quan, tổ chức có thẩm quyền nơi thương nhân nước ngoài thành lập cấp hoặc xác nhận, chứng minh sự tồn tại và hoạt động của thương nhân nước ngoài trong năm tài chính gần nhất
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy phép thành lập Văn phòng đại diện của thương nhân nước ngoài tại Việt Nam
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Người nước ngoài
+Cơ quan thực hiện: Văn phòng Ban chỉ đạo liên ngành hội nhập quốc tế về kinh tế, Sở Công thương, Ban Quản lý Khu công nghệ cao, Ban Quản lý Khu chế xuất- Khu công nghiệp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: GIẤY PHÉP THÀNH LẬP VĂN PHÒNG ĐẠI DIỆN CỦA THƯƠNG NHÂN NƯỚC NGOÀI TẠI VIỆT NAM
+Căn cứ pháp lý:
+  * Thông tư số 11/2016/TT-BCT (11/2016/TT-BCT)
+  * Thông tư số 11/2016/TT-BCT (11/2016/TT-BCT)
+  * Nghị định số 07/2016/NĐ-CP (07/2016/NĐ-CP)
+  * Thông tư số 11/2016/TT-BCT (11/2016/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Thương nhân nước ngoài được gia hạn Giấy phép thành lập Văn phòng đại diện khi hết thời hạn quy định trong Giấy phép, trừ trường hợp có hành vi vi phạm thuộc các trường hợp bị thu hồi  Giấy phép thành lập Văn phòng đại diện theo quy định tại Điều 44 Nghị định 07/2016/NĐ-CP.
+Từ khóa: Không có thông tin
+Mô tả: Thương nhân nước ngoài được gia hạn Giấy phép thành lập Văn phòng đại diện khi hết thời hạn quy định trong Giấy phép, trừ trường hợp có hành vi vi phạm thuộc các trường hợp bị thu hồi  Giấy phép thành lập Văn phòng đại diện theo quy định tại Điều 44 Nghị định 07/2016/NĐ-CP.

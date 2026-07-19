@@ -69,6 +69,7 @@ class TrustMetadata(BaseModel):
     last_verified_at: date | None = None
     review_gate: ReviewGate | None = None
     fixture_mode: bool = False
+    demo_mode: bool = False
 
 
 class RegulatoryResponse(TrustMetadata):

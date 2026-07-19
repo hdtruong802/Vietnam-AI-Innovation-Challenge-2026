@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000655
+Số quyết định: 2002/QĐ-BYT
+Tên thủ tục: Công bố cơ sở đủ điều kiện tiêm chủng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Phòng bệnh
+Trình tự thực hiện:
+    Trước khi thực hiện hoạt động tiêm chủng, cơ sở tiêm chủng phải gửi văn bản thông báo đủ điều kiện tiêm chủng theo mẫu tại Phụ lục I ban hành kèm theo Nghị định số 104/2016/NĐ-CP ngày 01/7/2016 cho Sở Y tế nơi cơ sở tiêm chủng đặt trụ sở
+    Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được thông báo đủ điều kiện tiêm chủng, Sở Y tế phải đăng tải thông tin về tên, địa chỉ, người đứng đầu cơ sở đã công bố đủ điều kiện tiêm chủng trên Trang thông tin điện tử của Sở Y tế (thời điểm tính ngày phải công bố thông tin được xác định theo dấu công văn đến của Sở Y tế)
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cơ sở được thực hiện hoạt động tiêm chủng sau khi đã thực hiện việc công bố đủ điều kiện tiêm chủng
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cơ sở được thực hiện hoạt động tiêm chủng sau khi đã thực hiện việc công bố đủ điều kiện tiêm chủng
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cơ sở được thực hiện hoạt động tiêm chủng sau khi đã thực hiện việc công bố đủ điều kiện tiêm chủng
+
+Thành phần hồ sơ:
+    - Văn bản thông báo đủ điều kiện tiêm chủng theo mẫu quy định tại Phụ lục ban hành kèm theo Nghị định số 104/2016/NĐ-CP ngày 01/7/2016.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Sở Y tế
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công bố thông tin trên trang thông tin điện tử
+Căn cứ pháp lý:
+  * Luật đầu tư (67/2014/QH13)
+  * NGHỊ ĐỊNH 155/2018/NĐ-CP SỬA ĐỔI QUY ĐỊNH LIÊN QUAN ĐẾN ĐIỀU KIỆN KINH DOANH THUỘC BỘ Y TẾ (155/2018/NĐ-CP)
+  * Luật Phòng, chống bệnh truyền nhiễm 2007 (03/2007/QH12)
+  * Nghị định 104/2016/NĐ-CP (104/2016/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Điều 9. Điều kiện đối với cơ sở tiêm chủng cố định
+
+1. Cơ sở vật chất: Khu vực tiêm chủng phải bảo đảm che được mưa, nắng, kín gió và thông thoáng và bố trí theo nguyên tắc một chiều từ đón tiếp, hướng dẫn, tư vấn, khám sàng lọc, thực hiện tiêm chủng, theo dõi và xử trí phản ứng sau tiêm chủng.
+
+2. Trang thiết bị:
+
+a) Có tủ lạnh, phích vắc xin hoặc hòm lạnh, các thiết bị theo dõi nhiệt độ tại nơi bảo quản và trong quá trình vận chuyển vắc xin;
+
+c) Có hộp chống sốc, phác đồ chống sốc treo tại nơi theo dõi, xử trí phản ứng sau tiêm chủng theo quy định của Bộ trưởng Bộ Y tế;
+
+3. Nhân sự: 
+
+a) Số Điều 15 của Nghị định số 155/2018/NĐ-CP, có hiệu lực kể từ ngày 12 tháng 11 năm 2018.sâu, vùng xa, vùng đặc biệt khó khăn phải có tối thiểu 02 nhân viên có trình độ từ trung cấp chuyên ngành y trở lên, trong đó có ít nhất 01 nhân viên có trình độ chuyên môn từ y sỹ trở lên;
+
+b) Nhân viên y tế tham gia hoạt động tiêm chủng phải được tập huấn chuyên môn về tiêm chủng. Nhân viên trực tiếp thực hiện khám sàng lọc, tư vấn, theo dõi, xử trí phản ứng sau tiêm chủng phải có trình độ chuyên môn từ y sỹ trở lên; nhân viên thực hành tiêm chủng có trình độ từ trung cấp Y học hoặc trung cấp Điều dưỡng – Hộ sinh trở lên
+Từ khóa: Không có thông tin
+Mô tả: Điều 9. Điều kiện đối với cơ sở tiêm chủng cố định
+
+1. Cơ sở vật chất: Khu vực tiêm chủng phải bảo đảm che được mưa, nắng, kín gió và thông thoáng và bố trí theo nguyên tắc một chiều từ đón tiếp, hướng dẫn, tư vấn, khám sàng lọc, thực hiện tiêm chủng, theo dõi và xử trí phản ứng sau tiêm chủng.
+
+2. Trang thiết bị:
+
+a) Có tủ lạnh, phích vắc xin hoặc hòm lạnh, các thiết bị theo dõi nhiệt độ tại nơi bảo quản và trong quá trình vận chuyển vắc xin;
+
+c) Có hộp chống sốc, phác đồ chống sốc treo tại nơi theo dõi, xử trí phản ứng sau tiêm chủng theo quy định của Bộ trưởng Bộ Y tế;
+
+3. Nhân sự: 
+
+a) Số Điều 15 của Nghị định số 155/2018/NĐ-CP, có hiệu lực kể từ ngày 12 tháng 11 năm 2018.sâu, vùng xa, vùng đặc biệt khó khăn phải có tối thiểu 02 nhân viên có trình độ từ trung cấp chuyên ngành y trở lên, trong đó có ít nhất 01 nhân viên có trình độ chuyên môn từ y sỹ trở lên;
+
+b) Nhân viên y tế tham gia hoạt động tiêm chủng phải được tập huấn chuyên môn về tiêm chủng. Nhân viên trực tiếp thực hiện khám sàng lọc, tư vấn, theo dõi, xử trí phản ứng sau tiêm chủng phải có trình độ chuyên môn từ y sỹ trở lên; nhân viên thực hành tiêm chủng có trình độ từ trung cấp Y học hoặc trung cấp Điều dưỡng – Hộ sinh trở lên

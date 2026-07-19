@@ -1,0 +1,77 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002604
+Số quyết định: 1507/QĐ-BCT
+Tên thủ tục: Cấp Giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam.
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Xúc tiến thương mại
+Trình tự thực hiện:
+    +) Tổ chức xúc tiến thương mại nước ngoài thành lập Văn phòng đại diện tại Việt Nam gửi 01 bộ hồ sơ đề nghị cấp Giấy phép đến Sở Công Thương tỉnh, thành phố trực thuộc trung ương (cơ quan cấp giấy phép) nơi dự kiến đặt trụ sở của Văn phòng đại diện.
+    +) Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan cấp Giấy phép xem xét, cấp Giấy phép thành lập Văn phòng đại diện cho tổ chức xúc tiến thương mại nước ngoài theo Mẫu số 02 tại Phụ lục ban hành kèm theo Nghị định số 14/2024/NĐ-CP, trường hợp không cấp, cơ quan cấp Giấy phép phải có văn bản trả lời và nêu rõ lý do. Trong trường hợp phải xin ý kiến Bộ Công an, Bộ Quốc phòng theo quy định tại khoản 8 Điều 26 Nghị định số 28/208/NĐ-CP (được sửa đổi tại điểm e khoản 1 Điều 1 Nghị định số 14/2024/NĐ-CP) thì thời hạn giải quyết là 40 ngày kể từ ngày nhận đủ hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thời hạn thực hiện:
+- 40 ngày kể từ ngày nhận được đủ hồ sơ trong trường hợp phải xin ý kiến Bộ Công an, Bộ Quốc phòng.
+-
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn thực hiện:
+- 40 ngày kể từ ngày nhận được đủ hồ sơ trong trường hợp phải xin ý kiến Bộ Công an, Bộ Quốc phòng.
+- Nộp trực tuyến các thành phần hồ sơ điện tử có giá trị pháp lý qua Cổng Dịch vụ công quốc gia hoặc Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 40 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời hạn thực hiện:
+- 40 ngày kể từ ngày nhận được đủ hồ sơ trong trường hợp phải xin ý kiến Bộ Công an, Bộ Quốc phòng.
+- Thông qua hệ thống dịch vụ bưu chính.
+
+Thành phần hồ sơ:
+    - -Các loại tài liệu nêu tại dấu (+) thứ 2, 3, 4, 5, 6,7 phải được dịch ra tiếng Việt; Các tài liệu nêu tại dấu (+) thứ 2, 3, 4, 7 phải được hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Bản sao Điều lệ hoặc quy chế hoạt động của tổ chức xúc tiến thương mại nước ngoài;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Báo cáo tình hình hoạt động của tổ chức xúc tiến thương mại nước ngoài trong 01 năm gần nhất;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản bổ nhiệm và lý lịch của người đứng đầu của các nhân sự thuộc Văn phòng đại diện tại Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản sao Giấy phép thành lập hoặc giấy tờ có giá trị tương đương;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Văn bản đề nghị cấp Giấy phép thành lập Văn phòng đại diện theo Mẫu số 01 ban hành kèm theo Nghị định số 14/2024/NĐ-CP sửa đổi, bổ sung Nghị định số 28/2018/NĐ-CP ngày 01 tháng 3 năm 2018 của Chính phủ Quy định chi tiết Luật Quản lý ngoại thương về một số biện pháp phát triển ngoại thương do đại diện có thẩm quyền của tổ chức xúc tiến thương mại nước ngoài ký;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Điều lệ hoặc quy chế hoạt động dự kiến của Văn phòng đại diện tại Việt Nam;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản của cơ quan nhà nước có thẩm quyền của nước ngoài cho phép tổ chức xúc tiến thương mại thành lập Văn phòng đại diện tại Việt Nam hoặc văn bản, tài liệu chứng minh về quyền thành lập Văn phòng đại diện tại nước ngoài của tổ chức;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài
+Cơ quan thực hiện: Sở Công Thương tỉnh, thành phố trực thuộc trung ương.
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản không cấp phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam, Giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam.
+Căn cứ pháp lý:
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Nghị định số 14/2024/NĐ-CP (14/2024/NĐ-CP)
+  * Nghị định số 230/2026/NĐ-CP ngày 25/6/2026 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 28/2018/NĐ-CP ngày 01/3/2018 của Chính phủ quy định chi tiết Luật quản lý ngoại thương về một số biện pháp phát triển ngoại thương đã được sửa đổi, bổ sung theo Nghị định số 14/2024/NĐ-CP ngày 07/02/2024 của Chính phủ; (230/2026/NĐ-CP)
+  * Quy định chi tiết Luật Quản lý ngoại thương về một số biện pháp phát triển ngoại thương (28/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: không có
+Từ khóa: Không có thông tin
+Mô tả: không có

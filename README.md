@@ -10,7 +10,7 @@
 - Delivery surface: web-first theo D-008 — standalone web app, widget/iframe và headless API; không có mobile/native deliverable
 - D-005 đã chấp thuận scaffold Next.js/FastAPI; D-010 đề xuất fast CI và provider-neutral release artifact. RAG, trust policy, widget hoàn chỉnh và live deploy topology vẫn `Proposed` trong D-006, chưa provision
 - AI Log đa-agent: prompt-only, local source binding và commit trailers theo D-009; không lưu transcript/session đầy đủ
-- D-018 dùng demo gate client-side: nút “Vào demo ngay” tạo session theo tab cho `Khách demo`; không có tài khoản, database, token hay backend auth trong phạm vi demo hiện tại.
+- D-020 dùng demo gate client-side: nút “Vào demo ngay” tạo session theo tab cho `Khách demo`; không có tài khoản, database, token hay backend auth trong phạm vi demo hiện tại.
 - Nơi theo dõi công việc: Task Record cục bộ; GitHub Issue chỉ được tạo sau khi team chọn publish
 - Bootstrap nền đã được merge qua PR #1 và #2; workflow guard có trong `main`, nhưng run status, labels, branch protection và required checks chưa được xác minh bằng quyền GitHub hợp lệ
 

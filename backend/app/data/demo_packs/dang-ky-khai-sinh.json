@@ -1,0 +1,279 @@
+{
+  "procedure_id": "dang-ky-khai-sinh",
+  "name": "Đăng ký khai sinh",
+  "jurisdiction": "Cấp xã",
+  "authority": "Ủy ban nhân dân cấp xã (tiếp nhận qua Trung tâm Phục vụ hành chính công)",
+  "version": "demo-approved-20260718",
+  "review_status": "demo_approved",
+  "last_verified_at": null,
+  "checksum": "demo-khai-sinh-20260718",
+  "demo_pack": true,
+  "processing_time": "Trong ngày làm việc; nộp sau 15 giờ thì trả kết quả vào ngày làm việc tiếp theo",
+  "fee": "0 VNĐ (miễn lệ phí theo biểu phí công bố tại nguồn thủ tục)",
+  "source_refs": [
+    {
+      "ref_id": "1.001193-DVC",
+      "title": "Chi tiết thủ tục Đăng ký khai sinh — mã 1.001193 (Quyết định 163/QĐ-BTP)",
+      "url_or_ref": "https://dichvucong.gov.vn"
+    },
+    {
+      "ref_id": "LUAT-60-2014-QH13",
+      "title": "Luật Hộ tịch số 60/2014/QH13",
+      "url_or_ref": "https://chinhphu.vn"
+    },
+    {
+      "ref_id": "ND-123-2015",
+      "title": "Nghị định 123/2015/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Hộ tịch",
+      "url_or_ref": "https://chinhphu.vn"
+    },
+    {
+      "ref_id": "ND-87-2020",
+      "title": "Nghị định 87/2020/NĐ-CP về Cơ sở dữ liệu hộ tịch điện tử, đăng ký hộ tịch trực tuyến",
+      "url_or_ref": "https://chinhphu.vn"
+    }
+  ],
+  "aliases": ["khai sinh", "giay khai sinh", "sinh con", "moi sinh", "em be", "birth"],
+  "intake_questions": [
+    {
+      "id": "q_hinh_thuc_nop",
+      "prompt": "Bạn dự định nộp hồ sơ theo hình thức nào?",
+      "options": [
+        "Trực tiếp tại Trung tâm Phục vụ hành chính công",
+        "Trực tuyến qua Cổng dịch vụ công",
+        "Gửi qua bưu chính"
+      ],
+      "why": "Hình thức nộp quyết định bạn dùng tờ khai giấy hay mẫu hộ tịch điện tử tương tác."
+    },
+    {
+      "id": "q_ket_hon",
+      "prompt": "Cha mẹ của trẻ đã đăng ký kết hôn chưa?",
+      "options": ["Đã đăng ký kết hôn", "Chưa đăng ký kết hôn"],
+      "why": "Nếu đã kết hôn, cơ quan hộ tịch tra cứu Giấy chứng nhận kết hôn để xác định quan hệ cha, mẹ, con."
+    },
+    {
+      "id": "q_nguoi_dang_ky",
+      "prompt": "Ai là người trực tiếp đi đăng ký khai sinh?",
+      "options": [
+        "Cha hoặc mẹ của trẻ",
+        "Ông, bà hoặc người thân thích khác",
+        "Người được ủy quyền khác"
+      ],
+      "why": "Người không phải cha, mẹ hoặc người thân thích cần văn bản ủy quyền được chứng thực."
+    }
+  ],
+  "required_documents": [
+    {
+      "id": "to-khai-khai-sinh",
+      "label": "Tờ khai đăng ký khai sinh theo mẫu",
+      "kind": "required",
+      "description": "Nộp bản chính nếu nộp trực tiếp hoặc qua bưu chính; nếu nộp trực tuyến thì cung cấp thông tin theo mẫu hộ tịch điện tử tương tác trên Cổng dịch vụ công.",
+      "source_ref_ids": ["1.001193-DVC", "ND-87-2020"]
+    },
+    {
+      "id": "giay-chung-sinh",
+      "label": "Giấy chứng sinh",
+      "kind": "required",
+      "description": "Bản chính do cơ sở y tế nơi trẻ sinh ra cấp. Nếu không có Giấy chứng sinh thì nộp văn bản của người làm chứng xác nhận về việc sinh; nếu không có người làm chứng thì phải có giấy cam đoan về việc sinh.",
+      "source_ref_ids": ["1.001193-DVC", "ND-123-2015"]
+    },
+    {
+      "id": "giay-to-tuy-than",
+      "label": "Giấy tờ tùy thân của người đi đăng ký",
+      "kind": "required",
+      "description": "Hộ chiếu, Thẻ căn cước, Căn cước công dân hoặc giấy tờ khác có dán ảnh còn giá trị sử dụng. Có thể chỉ cần cung cấp số định danh cá nhân để cơ quan tra cứu qua Cơ sở dữ liệu quốc gia về dân cư.",
+      "source_ref_ids": ["1.001193-DVC"]
+    }
+  ],
+  "optional_documents": [
+    {
+      "id": "van-ban-uy-quyen",
+      "label": "Văn bản ủy quyền (nếu ủy quyền đăng ký)",
+      "kind": "conditional",
+      "description": "Văn bản ủy quyền được chứng thực nếu ủy quyền thực hiện việc đăng ký khai sinh. Nếu người được ủy quyền là ông, bà, cha, mẹ, con, vợ, chồng, anh, chị, em ruột của người ủy quyền thì không phải chứng thực.",
+      "source_ref_ids": ["1.001193-DVC"]
+    },
+    {
+      "id": "giay-chung-nhan-ket-hon",
+      "label": "Thông tin Giấy chứng nhận kết hôn của cha mẹ",
+      "kind": "optional",
+      "description": "Nếu cha mẹ đã đăng ký kết hôn, cung cấp thông tin để cơ quan hộ tịch tra cứu, xác thực trên Cơ sở dữ liệu hộ tịch điện tử nhằm xác định quan hệ cha, mẹ, con.",
+      "source_ref_ids": ["1.001193-DVC"]
+    },
+    {
+      "id": "giay-to-cu-tru",
+      "label": "Giấy tờ chứng minh thông tin cư trú",
+      "kind": "conditional",
+      "description": "Chỉ cần khi cơ quan đăng ký hộ tịch không khai thác được thông tin nơi cư trú theo các phương thức tại khoản 2 Điều 14 Nghị định 104/2022/NĐ-CP.",
+      "source_ref_ids": ["1.001193-DVC"]
+    },
+    {
+      "id": "bien-ban-tre-bi-bo-roi",
+      "label": "Biên bản về việc trẻ bị bỏ rơi",
+      "kind": "conditional",
+      "description": "Trường hợp đăng ký khai sinh cho trẻ em bị bỏ rơi thì phải có biên bản do cơ quan có thẩm quyền lập.",
+      "source_ref_ids": ["1.001193-DVC"]
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": "Chuẩn bị hồ sơ",
+      "detail": "Chuẩn bị tờ khai, Giấy chứng sinh và giấy tờ tùy thân; xác định nộp trực tiếp, trực tuyến hay qua bưu chính."
+    },
+    {
+      "order": 2,
+      "title": "Nộp hồ sơ",
+      "detail": "Nộp tại Trung tâm Phục vụ hành chính công nơi cư trú của cha hoặc mẹ, hoặc nộp trực tuyến qua Cổng dịch vụ công quốc gia / Ứng dụng định danh quốc gia."
+    },
+    {
+      "order": 3,
+      "title": "Tiếp nhận và thẩm tra",
+      "detail": "Cán bộ kiểm tra tính đầy đủ, hợp lệ của hồ sơ; nếu thiếu sẽ được thông báo bổ sung. Công chức tư pháp - hộ tịch thẩm tra, ghi Sổ đăng ký khai sinh và lấy Số định danh cá nhân từ Cơ sở dữ liệu quốc gia về dân cư."
+    },
+    {
+      "order": 4,
+      "title": "Nhận kết quả",
+      "detail": "Nhận Giấy khai sinh (bản giấy hoặc bản điện tử). Nộp hồ sơ sau 15 giờ thì trả kết quả vào ngày làm việc tiếp theo. Lưu ý: đăng ký khai sinh trong 60 ngày kể từ ngày sinh con."
+    }
+  ],
+  "form_schema": {
+    "type": "object",
+    "properties": {
+      "ho_ten_tre": { "type": "string", "title": "Họ và tên trẻ", "minLength": 2 },
+      "gioi_tinh_tre": { "type": "string", "title": "Giới tính của trẻ" },
+      "ngay_sinh_tre": { "type": "string", "format": "date", "title": "Ngày sinh của trẻ" },
+      "noi_sinh": { "type": "string", "title": "Nơi sinh (cơ sở y tế / địa phương)" },
+      "ho_ten_me": { "type": "string", "title": "Họ và tên mẹ" },
+      "cccd_me": { "type": "string", "title": "Số định danh cá nhân/CCCD của mẹ" },
+      "co_thong_tin_cha": { "type": "boolean", "title": "Có thông tin về cha?" },
+      "ho_ten_cha": { "type": "string", "title": "Họ và tên cha (nếu có)" },
+      "cccd_cha": { "type": "string", "title": "Số định danh cá nhân/CCCD của cha (nếu có)" },
+      "ngay_dang_ky": { "type": "string", "format": "date", "title": "Ngày dự kiến đi đăng ký" }
+    },
+    "required": ["ho_ten_tre", "ngay_sinh_tre", "noi_sinh", "ho_ten_me", "cccd_me"]
+  },
+  "validation_rules": [
+    {
+      "rule_id": "KS-REQ-01",
+      "type": "required",
+      "field_id": "ho_ten_tre",
+      "severity": "error",
+      "message": "Họ và tên trẻ là bắt buộc trong tờ khai đăng ký khai sinh.",
+      "fix_hint": "Nhập đầy đủ họ và tên dự định đặt cho trẻ.",
+      "source_ref_ids": ["1.001193-DVC"]
+    },
+    {
+      "rule_id": "KS-REQ-02",
+      "type": "required",
+      "field_id": "ngay_sinh_tre",
+      "severity": "error",
+      "message": "Ngày sinh của trẻ là bắt buộc.",
+      "fix_hint": "Nhập ngày sinh theo Giấy chứng sinh.",
+      "source_ref_ids": ["1.001193-DVC"]
+    },
+    {
+      "rule_id": "KS-REQ-03",
+      "type": "required",
+      "field_id": "noi_sinh",
+      "severity": "error",
+      "message": "Nơi sinh là thông tin bắt buộc trong nội dung khai sinh.",
+      "fix_hint": "Nhập tên cơ sở y tế hoặc địa phương nơi trẻ sinh ra.",
+      "source_ref_ids": ["LUAT-60-2014-QH13"]
+    },
+    {
+      "rule_id": "KS-REQ-04",
+      "type": "required",
+      "field_id": "ho_ten_me",
+      "severity": "error",
+      "message": "Họ và tên mẹ là bắt buộc.",
+      "fix_hint": "Nhập họ và tên mẹ theo giấy tờ tùy thân.",
+      "source_ref_ids": ["LUAT-60-2014-QH13"]
+    },
+    {
+      "rule_id": "KS-REQ-05",
+      "type": "required",
+      "field_id": "cccd_me",
+      "severity": "error",
+      "message": "Số định danh cá nhân/CCCD của mẹ là bắt buộc để tra cứu Cơ sở dữ liệu quốc gia về dân cư.",
+      "fix_hint": "Nhập đúng 12 chữ số trên thẻ Căn cước/CCCD của mẹ.",
+      "source_ref_ids": ["1.001193-DVC"]
+    },
+    {
+      "rule_id": "KS-FMT-01",
+      "type": "date_format",
+      "field_id": "ngay_sinh_tre",
+      "severity": "error",
+      "message": "Ngày sinh của trẻ phải theo định dạng ngày hợp lệ (YYYY-MM-DD).",
+      "fix_hint": "Chọn lại ngày sinh từ ô chọn ngày.",
+      "source_ref_ids": ["1.001193-DVC"]
+    },
+    {
+      "rule_id": "KS-FMT-02",
+      "type": "date_not_future",
+      "field_id": "ngay_sinh_tre",
+      "severity": "error",
+      "message": "Ngày sinh của trẻ không thể là ngày trong tương lai.",
+      "fix_hint": "Kiểm tra lại ngày sinh theo Giấy chứng sinh.",
+      "source_ref_ids": ["1.001193-DVC"]
+    },
+    {
+      "rule_id": "KS-FMT-03",
+      "type": "date_format",
+      "field_id": "ngay_dang_ky",
+      "severity": "error",
+      "message": "Ngày dự kiến đi đăng ký phải theo định dạng ngày hợp lệ (YYYY-MM-DD).",
+      "fix_hint": "Chọn lại ngày từ ô chọn ngày.",
+      "source_ref_ids": ["1.001193-DVC"]
+    },
+    {
+      "rule_id": "KS-PAT-01",
+      "type": "string_pattern",
+      "field_id": "cccd_me",
+      "severity": "error",
+      "message": "Số định danh cá nhân/CCCD của mẹ phải gồm đúng 12 chữ số.",
+      "fix_hint": "Nhập lại 12 chữ số, không chứa khoảng trắng hoặc ký tự khác.",
+      "params": { "pattern": "^\\d{12}$" },
+      "source_ref_ids": ["1.001193-DVC"]
+    },
+    {
+      "rule_id": "KS-PAT-02",
+      "type": "string_pattern",
+      "field_id": "cccd_cha",
+      "severity": "error",
+      "message": "Số định danh cá nhân/CCCD của cha (nếu khai) phải gồm đúng 12 chữ số.",
+      "fix_hint": "Nhập lại 12 chữ số hoặc để trống nếu chưa có thông tin cha.",
+      "params": { "pattern": "^\\d{12}$" },
+      "source_ref_ids": ["1.001193-DVC"]
+    },
+    {
+      "rule_id": "KS-CON-01",
+      "type": "conditional_required",
+      "field_id": "ho_ten_cha",
+      "severity": "error",
+      "message": "Bạn xác nhận có thông tin về cha nên cần khai họ và tên cha.",
+      "fix_hint": "Nhập họ và tên cha, hoặc bỏ chọn ô \"Có thông tin về cha\" nếu phần khai về cha để trống.",
+      "params": { "when": { "field_id": "co_thong_tin_cha", "equals": true } },
+      "source_ref_ids": ["LUAT-60-2014-QH13"]
+    },
+    {
+      "rule_id": "KS-CMP-01",
+      "type": "field_compare",
+      "field_id": "ngay_dang_ky",
+      "severity": "error",
+      "message": "Ngày đi đăng ký không thể trước ngày sinh của trẻ (mâu thuẫn dữ liệu chéo).",
+      "fix_hint": "Kiểm tra lại hai trường ngày sinh và ngày dự kiến đi đăng ký.",
+      "params": { "other_field": "ngay_sinh_tre", "operator": "gte" },
+      "source_ref_ids": ["1.001193-DVC"]
+    },
+    {
+      "rule_id": "KS-TYP-01",
+      "type": "type",
+      "field_id": "co_thong_tin_cha",
+      "severity": "warning",
+      "message": "Trường \"Có thông tin về cha\" phải là giá trị lựa chọn có/không.",
+      "fix_hint": "Dùng ô đánh dấu để chọn có hoặc không.",
+      "params": { "expected": "boolean" },
+      "source_ref_ids": ["1.001193-DVC"]
+    }
+  ]
+}

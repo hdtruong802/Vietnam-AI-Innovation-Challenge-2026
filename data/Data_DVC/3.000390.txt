@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000390
+Số quyết định: 3116/QĐ-BCA-C06
+Tên thủ tục: Đăng ký khai báo công cụ hỗ trợ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo
+Trình tự thực hiện:
+    - Bước 1: Cơ quan, tổ chức, doanh nghiệp chuẩn bị văn bản theo quy định của pháp luật.
+    - Bước 2: Cơ quan, tổ chức, doanh nghiệp nộp văn bản trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) hoặc nộp văn bản trực tiếp hoặc gửi qua đường bưu chính đến Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an; Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an tỉnh.
+    - Bước 3: Khi tiếp nhận văn bản, cơ quan có thẩm quyền kiểm tra tính pháp lý, nội dung văn bản:
+    + Trường hợp văn bản đạt yêu cầu: Cán bộ tiếp nhận văn bản trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) phải thông báo thời gian trả kết quả cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    Cán bộ tiếp nhận văn bản nộp qua đường bưu chính hoặc trực tiếp phải thông báo bằng văn bản thời gian trả kết quả cho cơ quan, tổ chức, doanh nghiệp đề nghị biết và nhập vào hệ thống phần mềm quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo.
+    + Trường hợp văn bản chưa đầy đủ thông tin: Cán bộ tiếp nhận văn bản trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) phải hướng dẫn bằng văn bản và gửi hướng dẫn trên cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) cho cơ quan, tổ chức, doanh nghiệp đề nghị biết để bổ sung, hoàn thiện.
+    Cán bộ tiếp nhận văn bản qua đường bưu chính hoặc trực tiếp phải trả văn bản hoặc thông báo bằng văn bản cho cơ quan, tổ chức, doanh nghiệp đề nghị để bổ sung, hoàn thiện văn bản.
+    + Văn bản không đạt yêu cầu: Cán bộ tiếp nhận văn bản nộp trên cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) không tiếp nhận và thông báo trả lời trên trên cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) lý do không tiếp nhận cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    Cán bộ tiếp nhận văn bản nộp qua đường bưu chính hoặc trực tiếp, không tiếp nhận và thông báo trả lời trực tiếp hoặc bằng văn bản, nêu rõ lý do không tiếp nhận cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    - Bước 4: Căn cứ ngày hẹn trả kết quả trên Giấy biên nhận văn bản, Cục Cảnh sát quản lý hành chính về trật tự xã hội, Phòng Cảnh sát quản lý hành chính về trật tự xã trả kết quả trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp văn bản trên cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) hoặc gửi qua đường Bưu chính hoặc nộp trực tiếp tại Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an, Phòng Cảnh sát Quản lý hành chính về trật tự xã hội Công an tỉnh
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp văn bản trên cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) hoặc gửi qua đường Bưu chính hoặc nộp trực tiếp tại Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an, Phòng Cảnh sát Quản lý hành chính về trật tự xã hội Công an tỉnh
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Nộp văn bản trên cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) hoặc gửi qua đường Bưu chính hoặc nộp trực tiếp tại Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an, Phòng Cảnh sát Quản lý hành chính về trật tự xã hội Công an tỉnh
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị, trong đó ghi rõ tên, địa chỉ  cơ quan, tổ chức, doanh nghiệp, lý do, số lượng, chủng loại, nước sản xuất, nhãn hiệu, số hiệu, ký hiệu công cụ hỗ trợ, số giấy phép trang bị công cụ hỗ trợ; bản sao hóa đơn, phiếu xuất kho hoặc giấy tờ chứng minh nguồn gốc, xuất xứ hợp pháp. Trường hợp công cụ hỗ trợ là động vật nghiệp vụ, văn bản đề nghị bổ sung loại, tên, màu lông, tính biệt, cơ sở huấn luyện.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Phòng cảnh sát quản lý hành chính về trật tự xã hội, Cục cảnh sát quản lý hành chính về trật tự, xã hội
+Cơ quan có thẩm quyền: Phòng cảnh sát quản lý hành chính về trật tự xã hội, Cục Cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo đăng ký khai báo công cụ hỗ trợ
+Căn cứ pháp lý:
+  * Thông tư quy định về biểu mẫu và trình tự cấp giấy phép, thông báo đăng ký khai báo, chứng nhận, chứng chỉ về vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ; thông báo xác nhận khai báo vũ khí thô sơ (77/2024/TT-BCA)
+  * Thông tư quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (75/2024/TT-BCA)
+  * Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (42/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000147
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thủ tục bảo lãnh hàng hóa quá cảnh thông qua Hệ thống ACTS
+Cấp thực hiện: Không có thông tin
+Loại thủ tục: OTHER
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Thủ tục bảo lãnh hàng hóa quá cảnh thông qua Hệ thống ACTS
+    Bước 1: Trước khi đăng ký tờ khai quá cảnh hải quan, người khai hải quan lựa chọn hình thức bảo lãnh một hành trình hoặc bảo lãnh nhiều hành trình và nộp thư bảo lãnh của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài cho cơ quan hải quan nơi đăng ký tờ khai.
+    Bước 2: Cơ quan hải quan nơi đăng ký tờ khai quá cảnh hải quan kiểm tra, theo dõi, xử lý bảo lãnh như sau:
+    a) Trường hợp người bảo lãnh đáp ứng đủ các điều kiện theo quy định, thư bảo lãnh hợp lệ thì chấp nhận thư bảo lãnh và cập nhật dữ liệu thông qua Hệ thống ACTS. Hệ thống tự động cấp số tham chiếu bảo lãnh (viết tắt là GRN) để người khai hải quan khai báo trên tờ khai quá cảnh hải quan;
+    b) Trường hợp người bảo lãnh không đáp ứng đủ các điều kiện theo quy định tại khoản 6 Điều 24 Nghị định số 46/2020/NĐ-CP, thư bảo lãnh không hợp lệ theo quy định tại khoản 5 Điều 24 Nghị định số 46/2020/NĐ-CP thì cơ quan hải quan thông báo cho người khai hải quan biết;
+    c) Trường hợp nghi ngờ tính trung thực của thư bảo lãnh hoặc bảo lãnh đang trong quá trình sử dụng nhưng không còn đáp ứng các điều kiện theo quy định thì cơ quan hải quan tạm dừng, thu hồi bảo lãnh và có văn bản trao đổi với người bảo lãnh để xác minh.
+    Nếu kết quả xác minh chứng minh thư bảo lãnh hợp lệ thì cơ quan hải quan thực hiện theo quy định tại điểm a khoản này.
+    Nếu kết quả xác minh chứng minh thư bảo lãnh không hợp lệ thì cơ quan hải quan thực hiện hủy bỏ bảo lãnh theo quy định tại Điều 28 Nghị định này;
+    d) Trường hợp người khai hải quan đề nghị sửa đổi thông tin bảo lãnh thì việc cập nhật, sửa đổi chỉ được thực hiện trước khi cơ quan hải quan điểm đi phê duyệt tờ khai quá cảnh hải quan;
+    Bước 3: Hệ thống ACTS tự động cấp số tham chiếu bảo lãnh để người khai hải quan khai trên tờ khai quá cảnh hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Thủ tục bảo lãnh hàng hóa quá cảnh thông qua Hệ thống ACTS ]
+    - Thư bảo lãnh: 01 bản chính;  Đối với bảo lãnh nhiều hành trình, người khai hải quan nộp bản chính khi đăng ký tờ khai quá cảnh hải quan lần đầu có sử dụng bảo lãnh đó;
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Số tham chiếu bảo lãnh GRN do Hệ thống tự động cấp được gửi tới người khai hải quan
+Căn cứ pháp lý:
+  * Nghị định số 46/2020/NĐ-CP (46/2020)
+  * Luật Hải quan 2014 (54)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

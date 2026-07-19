@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000563
+Số quyết định: 2432/QĐ-BKHCN
+Tên thủ tục: Thủ tục cấp sửa đổi, bổ sung Giấy chứng nhận đăng ký hoạt động chứng nhận Halal
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+  * Trường hợp hồ sơ không đầy đủ theo quy định
+    Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ, Bộ Khoa học và Công nghệ thông báo yêu cầu tổ chức chứng nhận sửa đổi, bổ sung.
+  * Trường hợp hồ sơ đầy đủ và hợp lệ
+    Trong thời hạn 07 ngày làm việc, kể từ khi nhận được hồ sơ, Bộ Khoa học và Công nghệ xem xét cấp Giấy chứng nhận đăng ký hoạt động chứng nhận Halal cho tổ chức chứng nhận theo Mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp trực tiếp tại Bộ phận Một cửa của Bộ Khoa học và Công nghệ tại 113 Trần Duy Hưng, phường Yên Hòa, Hà Nội.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ, qua thuê dịch vụ của doanh nghiệp, cá nhân hoặc qua ủy quyền theo quy định của pháp luật.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp trực tuyến qua Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn)
+
+Thành phần hồ sơ:
+    - Đơn đăng ký bổ sung, sửa đổi hoạt động chứng  nhận Halal
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ đối với chuyên gia bổ sung
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Chứng chỉ công nhận đối với sản phẩm, dịch vụ đăng ký bổ sung
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký hoạt động chứng nhận (theo Mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định số 22/2026/NĐ-CP)
+Căn cứ pháp lý:
+  * quy định về quản lý chất lượng và chính sách phát triển sản phẩm, dịch vụ Halal. (127/2026/NĐ-CP)
+  * Nghị định số 22/2026/NĐ-CP ngày 16/01/2026 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Tiêu chuẩn và quy chuẩn kỹ thuật (22/2026/NĐ-CP)
+  * Luật Tiêu chuẩn và quy chuẩn kỹ thuật (68/2006/QH11)
+  * Luật số 70/2025/QH15 của Quốc hội: Luật sửa đổi, bổ sung một số điều của Luật Tiêu chuẩn và quy chuẩn kỹ thuật (70/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: - Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong Tiêu chuẩn quốc gia TCVN 13888 hoặc tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn quốc gia của các nước Hồi giáo tương đương về yêu cầu đối với tổ chức chứng nhận Halal được công nhận đối với sản phẩm, dịch vụ đăng ký bổ sung. 
+- Có ít nhất 02 chuyên gia đánh giá chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn) là người Hồi giáo đáp ứng các điều kiện sau: 
++ Có trình độ tốt nghiệp đại học trở lên; 
++ Được đào tạo và cấp chứng chỉ hoàn thành khóa đào tạo về chuyên gia đánh giá chứng nhận Hệ thống quản lý chất lượng hoặc hệ thống quản lý an toàn thực phẩm hoặc chuyên gia đánh giá chứng nhận sản phẩm tại cơ sở đào tạo do Bộ 
+Khoa học và Công nghệ công bố hoặc thừa nhận theo quy định của pháp luật; 
++ Được tổ chức ban hành tiêu chuẩn hoặc tổ chức tôn giáo Hồi giáo được pháp luật Việt Nam công nhận cấp chứng chỉ hoàn thành khóa đào tạo về kiến thức yêu cầu Halal theo tiêu chuẩn tương ứng đối với sản phẩm, dịch vụ Halal đăng ký.
+Từ khóa: Không có thông tin
+Mô tả: - Có hệ thống quản lý và năng lực hoạt động đáp ứng các yêu cầu quy định trong Tiêu chuẩn quốc gia TCVN 13888 hoặc tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn quốc gia của các nước Hồi giáo tương đương về yêu cầu đối với tổ chức chứng nhận Halal được công nhận đối với sản phẩm, dịch vụ đăng ký bổ sung. 
+- Có ít nhất 02 chuyên gia đánh giá chính thức của tổ chức (viên chức hoặc lao động ký hợp đồng có thời hạn từ 12 tháng trở lên hoặc lao động ký hợp đồng không xác định thời hạn) là người Hồi giáo đáp ứng các điều kiện sau: 
++ Có trình độ tốt nghiệp đại học trở lên; 
++ Được đào tạo và cấp chứng chỉ hoàn thành khóa đào tạo về chuyên gia đánh giá chứng nhận Hệ thống quản lý chất lượng hoặc hệ thống quản lý an toàn thực phẩm hoặc chuyên gia đánh giá chứng nhận sản phẩm tại cơ sở đào tạo do Bộ 
+Khoa học và Công nghệ công bố hoặc thừa nhận theo quy định của pháp luật; 
++ Được tổ chức ban hành tiêu chuẩn hoặc tổ chức tôn giáo Hồi giáo được pháp luật Việt Nam công nhận cấp chứng chỉ hoàn thành khóa đào tạo về kiến thức yêu cầu Halal theo tiêu chuẩn tương ứng đối với sản phẩm, dịch vụ Halal đăng ký.

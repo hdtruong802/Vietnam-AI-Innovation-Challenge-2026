@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001757
+Số quyết định: 2527/QĐ-BKHCN
+Tên thủ tục: Cấp giấy phép lắp đặt cáp viễn thông trên biển
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    1. Tổ chức đề nghị cấp giấy phép lắp đặt cáp viễn thông trên biển phải gửi 01 bộ hồ sơ bản gốc và 04 bộ hồ sơ bản sao tới Bộ Khoa học và Công nghệ (Cục Viễn thông) và phải chịu trách nhiệm về tính chính xác, trung thực của hồ sơ đề nghị cấp phép.
+    2. Bộ Khoa học và Công nghệ (Cục Viễn thông) tiếp nhận và xét tính hợp lệ của hồ sơ trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ; gửi hồ sơ lấy ý kiến các Bộ: Quốc phòng, Ngoại giao, Nông nghiệp và Môi trường, Công Thương và các cơ quan, tổ chức có liên quan trong thời hạn 05 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ. Trong thời hạn 20 ngày làm việc kể từ ngày nhận được hồ sơ lấy ý kiến, các cơ quan, tổ chức được lấy ý kiến phải có trách nhiệm trả lời bằng văn bản. Văn bản trả lời phải nêu rõ đồng ý cấp phép theo nội dung hồ sơ nhận được hoặc đồng ý cấp phép kèm theo các điều kiện, biện pháp thực hiện mà tổ chức đề nghị cấp phép phải đáp ứng hoặc thực hiện bổ sung để được cấp phép.
+    3. Trong thời hạn 16 ngày làm việc kể từ ngày nhận được đầy đủ ý kiến trả lời của các cơ quan, tổ chức được lấy ý kiến, Bộ Khoa học và Công nghệ (Cục Viễn thông) xét cấp giấy phép lắp đặt cáp viễn thông trên biển theo thẩm quyền.
+    4. Trường hợp từ chối cấp giấy phép, Bộ Khoa học và Công nghệ (Cục Viễn thông) có trách nhiệm trả lời bằng văn bản và nêu rõ lý do từ chối cho tổ chức đề nghị cấp giấy phép biết.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 51 ngày
+    Phí, lệ phí: 1000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính, cụ thể như sau: - Lệ Phí: 1.000.000 đông/giấy phép.) | 1000000 VNĐ (- Phí lắp đặt cáp viễn thông trên biển: Lắp đặt cáp viễn thông trên biển, bao gồm cả hoạt động khảo sát, lắp đặt, sửa chữa cáp viễn thông trên biển trước ngày chính thức khai thác tuyến cáp (nộp một lần cho toàn bộ thời hạn giấy phép, bao gồm cả thời gian gia hạn): 1.000.000 USD)
+    Mô tả: - Bộ KHCN (Cục Viễn thông) tiếp nhận và xét tính hợp lệ của hồ sơ trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ; 
+- Gửi hồ sơ lấy ý kiến các Bộ: Quốc phòng, Ngoại giao, Tài nguyên và Môi trường, Công Thương và các cơ quan, tổ chức có liên quan trong thời hạn 05 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ. 
+- Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ lấy ý kiến, các cơ quan, tổ chức được lấy ý kiến phải có trách nhiệm trả lời bằng văn bản.
+-16 ngày làm việc kể từ ngày nhận được đầy đủ ý kiến trả lời của các cơ quan, tổ chức được lấy ý kiến, Bộ Khoa học và Công nghệ (Cục Viễn thông) xét cấp giấy phép lắp đặt cáp viễn thông trên biển theo thẩm quyền
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 51 ngày
+    Phí, lệ phí: 1000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính, cụ thể như sau: - Lệ Phí: 1.000.000 đông/giấy phép.) | 1000000 VNĐ (- Phí lắp đặt cáp viễn thông trên biển: Lắp đặt cáp viễn thông trên biển, bao gồm cả hoạt động khảo sát, lắp đặt, sửa chữa cáp viễn thông trên biển trước ngày chính thức khai thác tuyến cáp (nộp một lần cho toàn bộ thời hạn giấy phép, bao gồm cả thời gian gia hạn): 1.000.000 USD)
+    Mô tả: - Bộ KHCN (Cục Viễn thông) tiếp nhận và xét tính hợp lệ của hồ sơ trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ; 
+- Gửi hồ sơ lấy ý kiến các Bộ: Quốc phòng, Ngoại giao, Tài nguyên và Môi trường, Công Thương và các cơ quan, tổ chức có liên quan trong thời hạn 05 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ. 
+- Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ lấy ý kiến, các cơ quan, tổ chức được lấy ý kiến phải có trách nhiệm trả lời bằng văn bản.
+-16 ngày làm việc kể từ ngày nhận được đầy đủ ý kiến trả lời của các cơ quan, tổ chức được lấy ý kiến, Bộ Khoa học và Công nghệ (Cục Viễn thông) xét cấp giấy phép lắp đặt cáp viễn thông trên biển theo thẩm quyền
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 51 ngày
+    Phí, lệ phí: 1000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính, cụ thể như sau: - Lệ Phí: 1.000.000 đông/giấy phép.) | 1000000 VNĐ (- Phí lắp đặt cáp viễn thông trên biển: Lắp đặt cáp viễn thông trên biển, bao gồm cả hoạt động khảo sát, lắp đặt, sửa chữa cáp viễn thông trên biển trước ngày chính thức khai thác tuyến cáp (nộp một lần cho toàn bộ thời hạn giấy phép, bao gồm cả thời gian gia hạn): 1.000.000 USD.)
+    Mô tả: - Bộ KHCN (Cục Viễn thông) tiếp nhận và xét tính hợp lệ của hồ sơ trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ; 
+- Gửi hồ sơ lấy ý kiến các Bộ: Quốc phòng, Ngoại giao, Tài nguyên và Môi trường, Công Thương và các cơ quan, tổ chức có liên quan trong thời hạn 05 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ. 
+- Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ lấy ý kiến, các cơ quan, tổ chức được lấy ý kiến phải có trách nhiệm trả lời bằng văn bản.
+-16 ngày làm việc kể từ ngày nhận được đầy đủ ý kiến trả lời của các cơ quan, tổ chức được lấy ý kiến, Bộ Khoa học và Công nghệ (Cục Viễn thông) xét cấp giấy phép lắp đặt cáp viễn thông trên biển theo thẩm quyền
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp giấy phép lắp đặt cáp viễn thông trên biển theo Mẫu số 12 tại Phụ lục ban hành kèm theo Nghị định số 163/2024/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 4
+    - Bản sao hợp lệ giấy tờ pháp lý của tổ chức đề nghị cấp phép (quyết định thành lập, giấy phép hoạt động hoặc giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký đầu tư đối với nhà đầu tư nước ngoài hoặc tài liệu tương đương khác theo quy định của pháp luật về đầu tư và pháp luật về doanh nghiệp) bao gồm bản sao được cấp từ sổ gốc hoặc bản sao có chứng thực hoặc bản do cơ quan, tổ chức có thẩm quyền in từ các văn bản điện tử từ cơ sở dữ liệu quốc gia đối với trường hợp thông tin gốc được lưu trữ trên cơ sở dữ liệu quốc gia hoặc bản sao đối chiếu với bản chính
+      Số lượng: Bản chính: 1, Bản sao: 4
+    - Bản sao điều lệ hoạt động của tổ chức, văn bản quy định cơ cấu tổ chức chung hoặc hình thức liên kết, hoạt động chung giữa các thành viên
+      Số lượng: Bản chính: 1, Bản sao: 4
+    - Đề án lắp đặt cáp viễn thông trên biển bao gồm các nội dung chính sau: các văn bản pháp lý liên quan đến phê duyệt đầu tư tuyến cáp (nếu có); tổng quan về tổ chức đề nghị cấp phép; sự cần thiết đầu tư tuyến cáp; hiện trạng mạng lưới, nhu cầu phát triển thị trường, xác định rõ tính chất, mục tiêu và phạm vi của tuyến cáp; hình thức đầu tư, tổng vốn đầu tư, tỷ lệ góp vốn của các thành viên, tỷ lệ sở hữu dung lượng, các trạm cập bờ trên toàn tuyến cáp; thông số kỹ thuật của tuyến cáp (tổng chiều dài toàn tuyến, tổng chiều dài trong vùng biển Việt Nam, tọa độ điểm vào, tọa độ điểm ra vùng biển của Việt Nam); dự kiến tọa độ tuyến cáp đề nghị lắp đặt, đường đi của tuyến cáp phải trình bày trên bản đồ thể hiện đúng chủ quyền lãnh thổ, biên giới quốc gia, địa giới hành chính của Việt Nam theo quy định pháp luật đo đạc và bản đồ (bản đồ hành chính Việt Nam tỷ lệ 1:9.000.000); số đôi sợi, công nghệ sử dụng, dung lượng thiết kế, dung lượng trang bị; kế hoạch thi công (lịch trình chi tiết và phương án thi công để thực hiện việc khảo sát, dọn dẹp, chạy neo, kiểm tra sau rải và chôn lấp); dự kiến thời điểm bắt đầu khảo sát, thời điểm bắt đầu lắp đặt, ngày chính thức khai thác một phần hoặc toàn bộ tuyến cáp; kế hoạch bảo dưỡng tuyến cáp trong vùng biển Việt Nam trong 05 năm đầu kể từ ngày chính thức khai thác một phần hoặc toàn bộ tuyến cáp; phương án đảm bảo an toàn cho phương tiện, con người trong quá trình thi công, đảm bảo an toàn, an ninh cho các đảo nhân tạo, thiết bị, công trình trên biển tại vùng biển tuyến cáp đi qua; phương án đảm bảo an ninh, môi trường biển trong quá trình khảo sát, thi công tuyến cáp và các vấn đề liên quan đến khảo sát biển, hoạt động ngầm dưới biển; cam kết về việc đảm bảo an toàn và bồi thường cho các đảo nhân tạo, thiết bị, công trình trên biển của Việt Nam nếu do lỗi của tàu, thuyền vào khảo sát, lắp đặt, bảo dưỡng, sửa chữa, thu hồi tuyến cáp gây ra hư hỏng các đảo nhân tạo, thiết bị, công trình trên biển này.
+      Số lượng: Bản chính: 1, Bản sao: 4
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Viễn thông
+Cơ quan có thẩm quyền: Bộ Khoa học và Công nghệ
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa của Bộ Khoa học và Công nghệ
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép lắp đặt cáp viễn thông trên biển (Biểu mẫu số 30NĐ163/2024/NĐ-CP)
+Căn cứ pháp lý:
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Viễn thông (163/2024/NĐ-CP)
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Quy định việc phân cấp thẩm quyền cấp, gia hạn, cấp lại, sửa đổi, bổ sung, thu hồi giấy phép viễn thông, yêu cầu chấm dứt hoạt động cung cấp dịch vụ viễn thông (13/2025/TT-BKHCN)
+  * Sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (15/2026/NĐ-CP)
+  * Quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ (133/2025/NĐ-CP)
+  * Quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng phí quyền hoạt động viễn thông, lệ phí cấp giấy phép kinh doanh dịch vụ viễn thông và giấy phép nghiệp vụ viễn thông (52/2025/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: 1. Cam kết tuân thủ quy định của pháp luật Việt Nam;
+2. Cam kết không gây ô nhiễm môi trường biển;
+3. Cam kết không thực hiện hoạt động khác ngoài việc khảo sát, lắp đặt, bảo dưỡng, sửa chữa, thu hồi tuyến cáp viễn thông;
+4. Có đề án lắp đặt cáp viễn thông trên biển phù hợp với quy hoạch hạ tầng thông tin và truyền thông, quy định của pháp luật về quốc phòng, an ninh, bảo vệ môi trường và quy định khác của pháp luật có liên quan;
+5. Cam kết chịu sự kiểm tra, kiểm soát, hướng dẫn của cơ quan nhà nước có thẩm quyền khi khảo sát, lắp đặt, bảo dưỡng, sửa chữa, thu hồi tuyến cáp trong vùng biển Việt Nam và chịu mọi chi phí cho hoạt động kiểm tra, kiểm soát, hướng dẫn.
+Từ khóa: Không có thông tin
+Mô tả: 1. Cam kết tuân thủ quy định của pháp luật Việt Nam;
+2. Cam kết không gây ô nhiễm môi trường biển;
+3. Cam kết không thực hiện hoạt động khác ngoài việc khảo sát, lắp đặt, bảo dưỡng, sửa chữa, thu hồi tuyến cáp viễn thông;
+4. Có đề án lắp đặt cáp viễn thông trên biển phù hợp với quy hoạch hạ tầng thông tin và truyền thông, quy định của pháp luật về quốc phòng, an ninh, bảo vệ môi trường và quy định khác của pháp luật có liên quan;
+5. Cam kết chịu sự kiểm tra, kiểm soát, hướng dẫn của cơ quan nhà nước có thẩm quyền khi khảo sát, lắp đặt, bảo dưỡng, sửa chữa, thu hồi tuyến cáp trong vùng biển Việt Nam và chịu mọi chi phí cho hoạt động kiểm tra, kiểm soát, hướng dẫn.

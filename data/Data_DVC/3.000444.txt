@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000444
+Số quyết định: 1859/QĐ-BTP
+Tên thủ tục: Công nhận hoàn thành tập sự  hành nghề công chứng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Công chứng
+Trình tự thực hiện:
+    - Trong thời hạn 30 ngày kể từ ngày kết thúc thời gian tập sự, người tập sự lập 01 bộ hồ sơ đề nghị công nhận hoàn thành tập sự, nộp trực tiếp hoặc qua dịch vụ bưu chính hoặc trực tuyến trên môi trường điện tử đến Sở Tư pháp nơi đăng ký tập sự.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Tư pháp ra quyết định công nhận hoàn thành tập sự hành nghề công chứng; trường hợp từ chối thì phải trả lời bằng văn bản có nêu rõ lý do.
+    Trong trường hợp thông tin trong hồ sơ chưa đầy đủ, chưa thống nhất hoặc cần xác minh, Sở Tư pháp yêu cầu người tập sự giải trình, bổ sung thông tin hoặc Sở Tư pháp tiến hành xác minh thông tin. Thời hạn quy định tại khoản này được tính từ ngày Sở Tư pháp nhận được kết quả giải trình, bổ sung hoặc xác minh thông tin.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Văn bản đề nghị công nhận hoàn thành tập sự;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao có chứng thực hoặc bản sao điện tử báo cáo kết quả tập sự, Sổ nhật ký tập sự
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận hoàn thành tập sự hành nghề công chứng hoặc văn bản từ chối có nêu rõ lý do.
+Căn cứ pháp lý:
+  * Thông tư 06/2025/TT-BTP quy định về tập sự hành nghề công chứng (06/2025/TT-BTP)
+
+Yêu cầu, điều kiện thực hiện: Người tập sự được công nhận hoàn thành tập sự khi đáp ứng các điều kiện sau đây:
+a) Người tập sự có đủ điều kiện tập sự và không thuộc các trường hợp không được đăng ký tập sự; 
+b) Công chứng viên hướng dẫn tập sự đủ điều kiện hướng dẫn tập sự và không thuộc các trường hợp phải thay đổi công chứng viên hướng dẫn tập sự trong quá trình hướng dẫn tập sự; 
+c) Người tập sự hoàn thành thời gian tập sự; có Báo cáo kết quả tập sự, Sổ nhật ký tập sự đáp ứng các yêu cầu quy định tại Thông tư này và biểu mẫu kèm theo, không sao chép của người khác và nộp đúng thời hạn; trường hợp nộp sau thời hạn quy định do sự kiện bất khả kháng hoặc trở ngại khách quan thì phải có giấy tờ chứng minh;
+d) Người tập sự thực hiện đầy đủ các nghĩa vụ khác của người tập sự.
+Từ khóa: Không có thông tin
+Mô tả: Người tập sự được công nhận hoàn thành tập sự khi đáp ứng các điều kiện sau đây:
+a) Người tập sự có đủ điều kiện tập sự và không thuộc các trường hợp không được đăng ký tập sự; 
+b) Công chứng viên hướng dẫn tập sự đủ điều kiện hướng dẫn tập sự và không thuộc các trường hợp phải thay đổi công chứng viên hướng dẫn tập sự trong quá trình hướng dẫn tập sự; 
+c) Người tập sự hoàn thành thời gian tập sự; có Báo cáo kết quả tập sự, Sổ nhật ký tập sự đáp ứng các yêu cầu quy định tại Thông tư này và biểu mẫu kèm theo, không sao chép của người khác và nộp đúng thời hạn; trường hợp nộp sau thời hạn quy định do sự kiện bất khả kháng hoặc trở ngại khách quan thì phải có giấy tờ chứng minh;
+d) Người tập sự thực hiện đầy đủ các nghĩa vụ khác của người tập sự.

@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000094
+Số quyết định: 2770/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với nhập khẩu nguyên liệu để sản xuất, chế biến xăng, dầu
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    - Bước 1: Doanh nghiệp gửi hồ sơ đề nghị làm thủ tục hải quan đối với nguyên liệu nhập khẩu để sản xuất, chế biến xăng dầu.
+    - Bước 2: Trong thời hạn bảy làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Chi cục Hải quan thực hiện: Kiểm tra hồ sơ; kiểm tra danh mục, điều kiện nhập khẩu. Nếu phù hợp thì chấp nhận danh mục, không phù hợp thì yêu cầu sửa đổi, bổ sung cho người khai hải quan bằng phiếu yêu cầu nghiệp vụ.
+    - Bước 3: Doanh nghiệp đăng ký tờ khai hải quan nhập khẩu trên tờ khai nhập khẩu và thống nhất với nguyên liệu vật tư trong danh mục đã được cơ quan hải quan chấp nhận.
+    - Bước 4: Cơ quan hải quan tiếp nhận hồ sơ; kiểm tra điều kiện và đăng ký tờ khai hải quan; kiểm tra hồ sơ  hoặc hàng hoá và thông quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Tờ khai hải quan nhập khẩu: 02 bản chính;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Hợp đồng mua nguyên liệu hoặc giấy tờ có giá trị pháp lý tương đương hợp đồng mua nguyên liệu: 01 bản chụp có đóng dấu xác nhận của doanh nghiệp;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Vận đơn hoặc các chứng từ vận tải khác có giá trị tương đương theo quy định của pháp luật: 01 bản chụp có đóng dấu xác nhận của doanh nghiệp;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Trường hợp thương nhân làm thủ tục lần đầu tại Chi cục Hải quan thì nộp thêm các giấy tờ sau: - Giấy phép kinh doanh xuất khẩu, nhập khẩu xăng dầu do Bộ Công Thương cấp: 01 bản chụp có đóng dấu xác nhận của doanh nghiệp; - Bản hạn mức nhập khẩu xăng dầu tối thiểu hàng năm do Bộ Công Thương cấp (đối với xăng dầu nhập khẩu): 01 bản chụp có đóng dấu xác nhận của doanh nghiệp.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Hợp đồng bán xăng dầu (Hợp đồng khung; Hợp đồng nguyên tắc (nếu có) và Phụ lục hợp đồng (nếu có): 01 bản chụp có đóng dấu xác nhận của doanh nghiệp;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Hóa đơn thương mại: 01 bản chính;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Bản đăng ký kế hoạch sản xuất, pha chế, nhập khẩu nguyên liệu và tiêu thụ  sản phẩm xăng dầu của thương nhân có xác nhận  của Bộ Công Thương: 01 bản chụp từ bản chính có đóng dấu xác nhận của doanh nghiệp.
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận thông quan
+Căn cứ pháp lý:
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Luật 78/2006/QH11 (78/2006/QH11)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

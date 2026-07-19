@@ -1,0 +1,190 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001242
+Số quyết định: 2871/QĐ-NHNN
+Tên thủ tục: Thủ tục đề nghị cấp Giấy phép thành lập và hoạt động ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài sau khi chấp thuận nguyên tắc.
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    - Bước 1: Trong thời hạn 60 ngày kể từ ngày nhận được văn bản chấp thuận nguyên tắc thành lập ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài, Ban trù bị lập các văn bản bổ sung theo quy định tại Điều 10, khoản 7 Điều 13 Thông tư số 56/2024/TT-NHNN và gửi Ngân hàng Nhà nước. Quá thời hạn nêu trên, Ngân hàng Nhà nước không nhận được hoặc nhận được không đầy đủ các văn bản bổ sung thì văn bản chấp thuận nguyên tắc đương nhiên không còn giá trị.
+    - Bước 2: Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đầy đủ các văn bản bổ sung, Ngân hàng Nhà nước xác nhận bằng văn bản về việc đã nhận đầy đủ văn bản bổ sung.
+    - Bước 3: Trong thời hạn 30 ngày kể từ ngày nhận đầy đủ các văn bản bổ sung, Ngân hàng Nhà nước tiến hành cấp Giấy phép theo quy định. Trường hợp không cấp Giấy phép, Ngân hàng Nhà nước có văn bản trả lời Ban trù bị, trong đó nêu rõ lý do không cấp Giấy phép.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 140000000 VNĐ ((Từ ngày 01/07/2025 đến hết ngày 31/12/2026, mức lệ phí bằng 50% mức phí nêu trên theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/06/2025 của Bộ trưởng Bộ Tài chính quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân.))
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 140000000 VNĐ ((Từ ngày 01/07/2025 đến hết ngày 31/12/2026, mức lệ phí bằng 50% mức phí nêu trên theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/06/2025 của Bộ trưởng Bộ Tài chính quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân.))
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 140000000 VNĐ ((Từ ngày 01/07/2025 đến hết ngày 31/12/2026, mức lệ phí bằng 50% mức phí nêu trên theo quy định tại Thông tư 64/2025/TT-BTC ngày 30/06/2025 của Bộ trưởng Bộ Tài chính quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân.))
+
+Thành phần hồ sơ:
+  [ Sau khi nhận được văn bản chấp thuận nguyên tắc, Ban trù bị phải nộp bổ sung các văn bản sau: ]
+    - a) Điều lệ của Ngân hàng đã được Hội đảng thành viên thông qua;
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - e) Văn bản của cơ quan có thẩm quyền của nước nơi tổ chức tín dụng nước ngoài đặt trụ sở chính đánh giá chủ sở hữu, thành viên sáng lập là tổ chức tín dụng nước ngoài đáp ứng các điều kiện quy định tại Luật Các tổ chức tín dụng và các văn bản hướng dẫn từ thời điểm nộp hồ sơ đề nghị cấp Giấy phép đến thời điểm nộp bổ sung văn bản;
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - đ) Báo cáo của thành viên sáng lập là ngân hàng thương mại trong nước về việc đáp ứng các điều kiện quy định tại Luật Các tổ chức tín dụng và các văn bản hướng dẫn từ thời điểm nộp hồ sơ đề nghị cấp Giấy phép đến thời điểm nộp bổ sung văn bản;
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - g) Ngoài các thành phần hồ sơ quy định tại điểm a, b, c, d, đ, e, Ban trù bị thành lập ngân hàng 100% vốn nước ngoài là công ty trách nhiệm hữu hạn một thành viên phải nộp bổ sung các văn bản sau: (i) Quyết định của chủ sở hữu về việc bổ nhiệm Chủ tịch hội đồng thành viên, thành viên Hội đồng thành viên, thành viên Ban kiểm soát, Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó Giám đốc), Kế toán trưởng; (ii) Biên bản họp Ban kiểm soát về việc bầu chức danh Trưởng Ban kiểm soát
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - h) Ngoài các thành phần hồ sơ quy định tại điểm a, b, c, d, đ, e khoản 7 Điều 13 Thông tư số 56/2024/TT-NHNN, Ban trù bị thành lập ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài là công ty trách nhiệm hữu hạn hai thành viên trở lên phải nộp bổ sung các văn bản sau: (i) Biên bản cuộc họp Thành viên góp vốn đầu tiên; (ii) Biên bản họp Hội đồng thành viên thông qua các nội dung về việc bầu chức danh Chủ tịch Hội đồng thành viên; Biên bản họp Ban kiểm soát về việc bầu chức danh Trưởng Ban Kiểm soát; (iii) Quyết định của Hội đồng thành viên về việc bổ nhiệm chức danh Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó Giám đốc), Kế toán trưởng;
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - c) Văn bản chứng minh quyền sở hữu hoặc quyền sử dụng hợp pháp trụ sở chính của ngân hàng thương mại;
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - i) Các văn bản khác có liên quan đến cấp Giấy phép. - Danh mục tài liệu. Trường hợp các giấy tờ là bản sao mà không phải là bản sao có chứng thực, bản sao được cấp từ số gốc thì phải xuất trình kèm theo bản chính để đối chiếu, người đổi chiều chịu trách nhiệm về tính chính xác của bản sao so với bản chính.
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - b) Văn bản của một ngân hàng thương mại nơi Ban trù bị mở tài khoản góp vốn xác nhận số tiền góp vốn của các thành viên sáng lập;
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - d) Các quy định nội bộ về tổ chức và hoạt động của ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài quy định tại điểm i khoản 3 Điều 11 Thông tư số 56/2024/TT-NHNN đã được Hội đồng thành viên thông qua;
+      Số lượng: Bản chính: 2, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thành lập và hoạt động ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài
+Căn cứ pháp lý:
+  * Thông tư  Sửa đổi, bổ sung một số điều của các Thông tư quy định hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài, tổ chức tín dụng phi ngân hàng (Thông tư số 12/2025/TT-NHNN)
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+  * quy định hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài, văn phòng đại diện nước ngoài (Thông tư 56/2024/TT-NHNN)
+  * Quy định mức thu, chế độ thu, nộp lệ phí cấp giấy phép thành lập và hoạt động của tổ chức tín dụng; giấy phép thành lập chi nhánh ngân hàng nước ngoài, văn phòng đại diện của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng; giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán cho các tổ chức không phải là ngân hàng (150/2016/TT-BTC)
+  * Nghị định quy định điều kiện cấp Giấy phép đối với quỹ tín dụng nhân dân, tổ chức tài chính vi mô và điều kiện đối với chủ sở hữu của tổ chức tín dụng là công ty trách nhiệm hữu hạn một thành viên, cổ đông sáng lập, thành viên sáng lập. (Nghị định 162/2024/NĐ-CP)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: - Có vốn điều lệ, vốn được cấp tối thiểu bằng mức vốn pháp định.
+- Chủ sở hữu của tổ chức tín dụng là công ty trách nhiệm hữu hạn một thành viên, cổ đông sáng lập, thành viên sáng lập là pháp nhân đang hoạt động hợp pháp và có đủ năng lực tài chính để tham gia góp vốn; cổ đông sáng lập, thành viên sáng lập là cá nhân có năng lực hành vi dân sự đầy đủ và có cam kết đủ khả năng tài chính để góp vốn.
+- Người quản lý, người điều hành, thành viên Ban kiểm soát có đủ các tiêu chuẩn, điều kiện theo quy định tại Điều 41 của Luật các tổ chức tín dụng.
+- Có Điều lệ phù hợp với quy định của Luật này và quy định khác của pháp luật có liên quan.
+- Đề án thành lập, phương án kinh doanh khả thi, bảo đảm không gây ảnh hưởng đến sự an toàn, ổn định của hệ thống tổ chức tín dụng, không tạo ra sự độc quyền hoặc hạn chế cạnh tranh hoặc cạnh tranh không lành mạnh trong hệ thống tổ chức tín dụng.
+- Tổ chức tín dụng nước ngoài được phép thực hiện hoạt động ngân hàng theo quy định của pháp luật của nước nơi tổ chức tín dụng nước ngoài đặt trụ sở chính.
+- Hoạt động dự kiến thực hiện tại Việt Nam phải là hoạt động mà tổ chức tín dụng nước ngoài đang được phép thực hiện tại nước nơi tổ chức tín dụng nước ngoài đặt trụ sở chính.
+- Tổ chức tín dụng nước ngoài đáp ứng các điều kiện về tổng tài sản có và tình hình tài chính theo quy định của Thống đốc Ngân hàng Nhà nước, đáp ứng các quy định về bảo đảm an toàn hoạt động theo quy định của nước nơi tổ chức tín dụng nước ngoài đặt trụ sở chính.
+- Tổ chức tín dụng nước ngoài phải có văn bản cam kết hỗ trợ về tài chính, công nghệ, quản trị, điều hành, hoạt động cho tổ chức tín dụng liên doanh, tổ chức tín dụng 100% vốn nước ngoài; bảo đảm tổ chức tín dụng này duy trì giá trị thực của vốn điều lệ không thấp hơn mức vốn pháp định và thực hiện các quy định về hạn chế để bảo đảm an toàn trong hoạt động theo quy định của Luật Các tổ chức tín dụng.
+- Cơ quan có thẩm quyền của nước nơi tổ chức tín dụng nước ngoài đặt trụ sở chính đã ký kết thỏa thuận với Ngân hàng Nhà nước về thanh tra, giám sát hoạt động ngân hàng, trao đổi thông tin giám sát an toàn ngân hàng và có văn bản cam kết giám sát hợp nhất theo thông lệ quốc tế đối với hoạt động của tổ chức tín dụng nước ngoài.
+* Điều kiện đối với chủ sở hữu:
+- Không vi phạm nghiêm trọng các quy định về hoạt động ngân hàng và các quy định pháp luật khác của nước nơi tổ chức tín dụng đặt trụ sở chính trong vòng 05 năm liên tiếp liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
+- Có kinh nghiệm hoạt động quốc tế, được các tổ chức xếp hạng tín nhiệm quốc tế xếp hạng như sau:
++ Thứ hạng tín nhiệm từ mức AA- trở lên (theo Standard & Poor’s hoặc Fitch Ratings) hoặc từ mức Aa3 trở lên (theo Moody’s) đến thời điểm gần nhất tính từ thời điểm nộp hồ sơ đề nghị cấp Giấy phép. Trường hợp tổ chức xếp hạng tín nhiệm quốc tế có thang thứ hạng tín nhiệm khác thang thứ hạng tín nhiệm của Standard & Poor’s hoặc Moody’s hoặc Fitch Ratings thì mức xếp hạng tín nhiệm không thấp hơn mức xếp hạng tương ứng của Standard & Poor’s hoặc Moody’s hoặc Fitch Ratings;
++ Triển vọng của thứ hạng tín nhiệm quy định tại điểm a khoản này từ mức ổn định trở lên.
+- Kinh doanh có lãi trong 05 năm liên tiếp liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
+- Có tổng tài sản có ít nhất tương đương 10 tỷ đô la Mỹ vào cuối năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép;
+- Được cơ quan có thẩm quyền của nước nơi tổ chức tín dụng đặt trụ sở chính đánh giá đảm bảo tỷ lệ an toàn vốn, các tỷ lệ bảo đảm an toàn khác, tuân thủ đầy đủ các quy định về quản trị rủi ro và trích lập dự phòng đầy đủ theo quy định của nước nơi tổ chức tín dụng đặt trụ sở chính vào năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
+- Không phải là chủ sở hữu, thành viên sáng lập, cổ đông chiến lược của tổ chức tín dụng Việt Nam khác.
+- Thành viên sáng lập của ngân hàng liên doanh là ngân hàng thương mại Việt Nam phải đáp ứng các điều kiện quy định tại khoản 1, khoản 4 Điều 4 Nghị định của Chính phủ về điều kiện cấp phép của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài. 
+- Trong thời hạn 05 năm kể từ ngày được cấp Giấy phép, các thành viên sáng lập phải cùng nhau sở hữu 100% vốn điều lệ của ngân hàng 100% vốn nước ngoài.
+* Điều kiện đối với thành viên sáng lập của ngân hàng liên doanh:
+- Thành viên sáng lập của ngân hàng liên doanh là tổ chức tín dụng nước ngoài phải đáp ứng các điều kiện quy định tại khoản 1, 2, 3, 4, 5, 6 Điều 5 Nghị định 162/2024/NĐ-CP ngày 20/12/2024 như sau:
++ Không vi phạm nghiêm trọng các quy định về hoạt động ngân hàng và các quy định pháp luật khác của nước nơi tổ chức tín dụng đặt trụ sở chính trong vòng 05 năm liên tiếp liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
++ Có kinh nghiệm hoạt động quốc tế, được các tổ chức xếp hạng tín nhiệm quốc tế xếp hạng như sau:
+(i) Thứ hạng tín nhiệm từ mức AA- trở lên (theo Standard & Poor’s hoặc Fitch Ratings) hoặc từ mức Aa3 trở lên (theo Moody’s) đến thời điểm gần nhất tính từ thời điểm nộp hồ sơ đề nghị cấp Giấy phép. Trường hợp tổ chức xếp hạng tín nhiệm quốc tế có thang thứ hạng tín nhiệm khác thang thứ hạng tín nhiệm của Standard & Poor’s hoặc Moody’s hoặc Fitch Ratings thì mức xếp hạng tín nhiệm không thấp hơn mức xếp hạng tương ứng của Standard & Poor’s hoặc Moody’s hoặc Fitch Ratings;
+(ii) Triển vọng của thứ hạng tín nhiệm quy định tại điểm a khoản này từ mức ổn định trở lên.
++ Kinh doanh có lãi trong 05 năm liên tiếp liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
++ Có tổng tài sản có ít nhất tương đương 10 tỷ đô la Mỹ vào cuối năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép.
++ Được cơ quan có thẩm quyền của nước nơi tổ chức tín dụng đặt trụ sở chính đánh giá đảm bảo tỷ lệ an toàn vốn, các tỷ lệ bảo đảm an toàn khác, tuân thủ đầy đủ các quy định về quản trị rủi ro và trích lập dự phòng đầy đủ theo quy định của nước nơi tổ chức tín dụng đặt trụ sở chính vào năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
++ Không phải là chủ sở hữu, thành viên sáng lập, cổ đông chiến lược của tổ chức tín dụng Việt Nam khác.
+- Thành viên sáng lập của ngân hàng liên doanh là ngân hàng thương mại Việt Nam phải đáp ứng các điều kiện đối với ngân hàng thương mại quy định tại khoản 1, 4  Điều 4 Nghị định 162/2024/NĐ-CP ngày 20/12/2024 như sau:
++  Không phải là cổ đông sáng lập, chủ sở hữu, thành viên sáng lập, cổ đông chiến lược của tổ chức tín dụng khác.
++ Ngoài các điều kiện quy định tại khoản 1, 2 Điều 4 Nghị định 162/2024/NĐ-CP ngày 20/12/2024 , cổ đông sáng lập là tổ chức phải đáp ứng các điều kiện sau:
+(i) Được thành lập theo pháp luật Việt Nam;
+(ii) Không được dùng vốn huy động, vốn vay của tổ chức, cá nhân khác để góp vốn, không được sử dụng nguồn vốn do phát hành trái phiếu doanh nghiệp để góp vốn; không được góp vốn dưới tên của cá nhân, pháp nhân khác dưới mọi hình thức, trừ trường hợp ủy thác góp vốn, mua cổ phần;
+(iii) Thực hiện đầy đủ các nghĩa vụ về thuế và bảo hiểm xã hội đến thời điểm nộp hồ sơ đề nghị cấp Giấy phép;
+(iv) Có vốn chủ sở hữu tối thiểu 500 tỷ đồng trong 05 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép;
+(v) Kinh doanh có lãi trong 05 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép;
+(vi) Trường hợp là doanh nghiệp hoạt động trong ngành nghề kinh doanh có yêu cầu vốn pháp định, phải đảm bảo vốn chủ sở hữu trừ đi vốn pháp định tối thiểu bằng số vốn góp cam kết theo số liệu từ báo cáo tài chính đã được kiểm toán của năm liền kề thời điểm nộp hồ sơ đề nghị cấp Giấy phép;
+(vii) Trường hợp là doanh nghiệp nhà nước, phải được phép tham gia góp vốn theo quy định của pháp luật;
+(viii) Trường hợp là tổ chức được cấp Giấy phép thành lập và hoạt động trong lĩnh vực ngân hàng, chứng khoán, bảo hiểm phải tuân thủ việc góp vốn theo các quy định của pháp luật về ngân hàng, chứng khoán, bảo hiểm;
+(ix) Không bị kết án về các tội phạm quy định tại Bộ luật Hình sự trong 02 (hai) năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép;
+(x) Trường hợp là ngân hàng thương mại:
+Có tổng tài sản tối thiểu là 100.000 tỷ đồng, tuân thủ đầy đủ các quy định về quản trị rủi ro và trích lập dự phòng đầy đủ theo quy định tại thời điểm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép;
+Không vi phạm các tỷ lệ về đảm bảo an toàn trong hoạt động ngân hàng theo quy định của Ngân hàng Nhà nước trong năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép;
+Tuân thủ điều kiện, giới hạn mua, nắm giữ cổ phiếu của tổ chức tín dụng theo quy định tại khoản 8 Điều 111 Luật Các tổ chức tín dụng;
+Đảm bảo tỷ lệ an toàn vốn tối thiểu sau khi góp vốn thành lập ngân hàng thương mại cổ phần;
+Không bị xử phạt vi phạm hành chính trong lĩnh vực tiền tệ và hoạt động ngân hàng và không bị kết án về các tội phạm quy định tại Bộ luật Hình sự trong 02 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
+- Thành viên sáng lập của ngân hàng liên doanh là doanh nghiệp không phải ngân hàng phải đáp ứng các điều kiện sau:
+(i) Được thành lập theo pháp luật Việt Nam hoặc pháp luật nước ngoài;
+(ii) Phải được cấp có thẩm quyền chấp thuận bằng văn bản cho phép tham gia góp vốn vào ngân hàng liên doanh đối với trường hợp là doanh nghiệp Nhà nước;
+(iii) Trường hợp là doanh nghiệp được cấp Giấy phép thành lập và hoạt động trong lĩnh vực ngân hàng, chứng khoán, bảo hiểm, phải tuân thủ việc góp vốn theo các quy định của pháp luật về ngân hàng, chứng khoán, bảo hiểm;
+(iv) Có vốn chủ sở hữu tối thiểu 1.000 tỷ đồng, tổng tài sản tối thiểu 2.000 tỷ đồng trong 03 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép đối với phần vốn góp từ trên 1% đến dưới 5% vốn điều lệ của ngân hàng liên doanh hoặc có vốn chủ sở hữu tối thiểu 200 tỷ đồng, tổng tài sản tối thiểu 400 tỷ đồng trong 03 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép đối với phần vốn góp từ 1% vốn điều lệ trở xuống của ngân hàng liên doanh;
+(v) Đối với doanh nghiệp hoạt động trong ngành nghề kinh doanh có yêu cầu vốn pháp định, phải đảm bảo vốn chủ sở hữu trừ đi vốn pháp định tối thiểu bằng số vốn góp cam kết theo số liệu từ báo cáo tài chính đã được kiểm toán độc lập và không có ý kiến ngoại trừ của đơn vị kiểm toán của năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép;
+(vi) Kinh doanh có lãi trong 03 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép;
+(vii) Không được dùng vốn huy động, vốn vay của tổ chức, cá nhân khác để góp vốn;
+(viii) Thực hiện đầy đủ các nghĩa vụ về thuế và bảo hiểm xã hội đến thời điểm nộp hồ sơ đề nghị cấp Giấy phép;
+(ix) Không phải là cổ đông sáng lập, chủ sở hữu, thành viên sáng lập, cổ đông chiến lược của tổ chức tín dụng khác được thành lập và hoạt động tại Việt Nam;
+(x) Không bị xử phạt vi phạm hành chính trong lĩnh vực tiền tệ và hoạt động ngân hàng và không bị kết án về các tội phạm quy định tại Bộ luật Hình sự trong 02 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
+- Trong thời hạn 05 năm kể từ ngày được cấp Giấy phép, các thành viên sáng lập phải cùng nhau sở hữu 100% vốn điều lệ của ngân hàng liên doanh.
+* Điều kiện về tổng tài sản có và tình hình tài chính đối với tổ chức tín dụng nước ngoài khi đề nghị cấp Giấy phép thành lập ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài 
+Khi đề nghị cấp Giấy phép, tổ chức tín dụng nước ngoài là thành viên sáng lập của ngân hàng liên doanh, chủ sở hữu của ngân hàng 100% vốn nước ngoài phải đáp ứng các điều kiện về tổng tài sản có và tình hình tài chính sau đây:
+a) Có tổng tài sản có ít nhất tương đương 10 tỷ đô la Mỹ vào cuối năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung đề nghị cấp Giấy phép;
+b) Kinh doanh có lãi trong 05 năm liên tiếp liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung đề nghị cấp Giấy phép.
+Từ khóa: Không có thông tin
+Mô tả: - Có vốn điều lệ, vốn được cấp tối thiểu bằng mức vốn pháp định.
+- Chủ sở hữu của tổ chức tín dụng là công ty trách nhiệm hữu hạn một thành viên, cổ đông sáng lập, thành viên sáng lập là pháp nhân đang hoạt động hợp pháp và có đủ năng lực tài chính để tham gia góp vốn; cổ đông sáng lập, thành viên sáng lập là cá nhân có năng lực hành vi dân sự đầy đủ và có cam kết đủ khả năng tài chính để góp vốn.
+- Người quản lý, người điều hành, thành viên Ban kiểm soát có đủ các tiêu chuẩn, điều kiện theo quy định tại Điều 41 của Luật các tổ chức tín dụng.
+- Có Điều lệ phù hợp với quy định của Luật này và quy định khác của pháp luật có liên quan.
+- Đề án thành lập, phương án kinh doanh khả thi, bảo đảm không gây ảnh hưởng đến sự an toàn, ổn định của hệ thống tổ chức tín dụng, không tạo ra sự độc quyền hoặc hạn chế cạnh tranh hoặc cạnh tranh không lành mạnh trong hệ thống tổ chức tín dụng.
+- Tổ chức tín dụng nước ngoài được phép thực hiện hoạt động ngân hàng theo quy định của pháp luật của nước nơi tổ chức tín dụng nước ngoài đặt trụ sở chính.
+- Hoạt động dự kiến thực hiện tại Việt Nam phải là hoạt động mà tổ chức tín dụng nước ngoài đang được phép thực hiện tại nước nơi tổ chức tín dụng nước ngoài đặt trụ sở chính.
+- Tổ chức tín dụng nước ngoài đáp ứng các điều kiện về tổng tài sản có và tình hình tài chính theo quy định của Thống đốc Ngân hàng Nhà nước, đáp ứng các quy định về bảo đảm an toàn hoạt động theo quy định của nước nơi tổ chức tín dụng nước ngoài đặt trụ sở chính.
+- Tổ chức tín dụng nước ngoài phải có văn bản cam kết hỗ trợ về tài chính, công nghệ, quản trị, điều hành, hoạt động cho tổ chức tín dụng liên doanh, tổ chức tín dụng 100% vốn nước ngoài; bảo đảm tổ chức tín dụng này duy trì giá trị thực của vốn điều lệ không thấp hơn mức vốn pháp định và thực hiện các quy định về hạn chế để bảo đảm an toàn trong hoạt động theo quy định của Luật Các tổ chức tín dụng.
+- Cơ quan có thẩm quyền của nước nơi tổ chức tín dụng nước ngoài đặt trụ sở chính đã ký kết thỏa thuận với Ngân hàng Nhà nước về thanh tra, giám sát hoạt động ngân hàng, trao đổi thông tin giám sát an toàn ngân hàng và có văn bản cam kết giám sát hợp nhất theo thông lệ quốc tế đối với hoạt động của tổ chức tín dụng nước ngoài.
+* Điều kiện đối với chủ sở hữu:
+- Không vi phạm nghiêm trọng các quy định về hoạt động ngân hàng và các quy định pháp luật khác của nước nơi tổ chức tín dụng đặt trụ sở chính trong vòng 05 năm liên tiếp liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
+- Có kinh nghiệm hoạt động quốc tế, được các tổ chức xếp hạng tín nhiệm quốc tế xếp hạng như sau:
++ Thứ hạng tín nhiệm từ mức AA- trở lên (theo Standard & Poor’s hoặc Fitch Ratings) hoặc từ mức Aa3 trở lên (theo Moody’s) đến thời điểm gần nhất tính từ thời điểm nộp hồ sơ đề nghị cấp Giấy phép. Trường hợp tổ chức xếp hạng tín nhiệm quốc tế có thang thứ hạng tín nhiệm khác thang thứ hạng tín nhiệm của Standard & Poor’s hoặc Moody’s hoặc Fitch Ratings thì mức xếp hạng tín nhiệm không thấp hơn mức xếp hạng tương ứng của Standard & Poor’s hoặc Moody’s hoặc Fitch Ratings;
++ Triển vọng của thứ hạng tín nhiệm quy định tại điểm a khoản này từ mức ổn định trở lên.
+- Kinh doanh có lãi trong 05 năm liên tiếp liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
+- Có tổng tài sản có ít nhất tương đương 10 tỷ đô la Mỹ vào cuối năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép;
+- Được cơ quan có thẩm quyền của nước nơi tổ chức tín dụng đặt trụ sở chính đánh giá đảm bảo tỷ lệ an toàn vốn, các tỷ lệ bảo đảm an toàn khác, tuân thủ đầy đủ các quy định về quản trị rủi ro và trích lập dự phòng đầy đủ theo quy định của nước nơi tổ chức tín dụng đặt trụ sở chính vào năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
+- Không phải là chủ sở hữu, thành viên sáng lập, cổ đông chiến lược của tổ chức tín dụng Việt Nam khác.
+- Thành viên sáng lập của ngân hàng liên doanh là ngân hàng thương mại Việt Nam phải đáp ứng các điều kiện quy định tại khoản 1, khoản 4 Điều 4 Nghị định của Chính phủ về điều kiện cấp phép của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài. 
+- Trong thời hạn 05 năm kể từ ngày được cấp Giấy phép, các thành viên sáng lập phải cùng nhau sở hữu 100% vốn điều lệ của ngân hàng 100% vốn nước ngoài.
+* Điều kiện đối với thành viên sáng lập của ngân hàng liên doanh:
+- Thành viên sáng lập của ngân hàng liên doanh là tổ chức tín dụng nước ngoài phải đáp ứng các điều kiện quy định tại khoản 1, 2, 3, 4, 5, 6 Điều 5 Nghị định 162/2024/NĐ-CP ngày 20/12/2024 như sau:
++ Không vi phạm nghiêm trọng các quy định về hoạt động ngân hàng và các quy định pháp luật khác của nước nơi tổ chức tín dụng đặt trụ sở chính trong vòng 05 năm liên tiếp liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
++ Có kinh nghiệm hoạt động quốc tế, được các tổ chức xếp hạng tín nhiệm quốc tế xếp hạng như sau:
+(i) Thứ hạng tín nhiệm từ mức AA- trở lên (theo Standard & Poor’s hoặc Fitch Ratings) hoặc từ mức Aa3 trở lên (theo Moody’s) đến thời điểm gần nhất tính từ thời điểm nộp hồ sơ đề nghị cấp Giấy phép. Trường hợp tổ chức xếp hạng tín nhiệm quốc tế có thang thứ hạng tín nhiệm khác thang thứ hạng tín nhiệm của Standard & Poor’s hoặc Moody’s hoặc Fitch Ratings thì mức xếp hạng tín nhiệm không thấp hơn mức xếp hạng tương ứng của Standard & Poor’s hoặc Moody’s hoặc Fitch Ratings;
+(ii) Triển vọng của thứ hạng tín nhiệm quy định tại điểm a khoản này từ mức ổn định trở lên.
++ Kinh doanh có lãi trong 05 năm liên tiếp liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
++ Có tổng tài sản có ít nhất tương đương 10 tỷ đô la Mỹ vào cuối năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép.
++ Được cơ quan có thẩm quyền của nước nơi tổ chức tín dụng đặt trụ sở chính đánh giá đảm bảo tỷ lệ an toàn vốn, các tỷ lệ bảo đảm an toàn khác, tuân thủ đầy đủ các quy định về quản trị rủi ro và trích lập dự phòng đầy đủ theo quy định của nước nơi tổ chức tín dụng đặt trụ sở chính vào năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
++ Không phải là chủ sở hữu, thành viên sáng lập, cổ đông chiến lược của tổ chức tín dụng Việt Nam khác.
+- Thành viên sáng lập của ngân hàng liên doanh là ngân hàng thương mại Việt Nam phải đáp ứng các điều kiện đối với ngân hàng thương mại quy định tại khoản 1, 4  Điều 4 Nghị định 162/2024/NĐ-CP ngày 20/12/2024 như sau:
++  Không phải là cổ đông sáng lập, chủ sở hữu, thành viên sáng lập, cổ đông chiến lược của tổ chức tín dụng khác.
++ Ngoài các điều kiện quy định tại khoản 1, 2 Điều 4 Nghị định 162/2024/NĐ-CP ngày 20/12/2024 , cổ đông sáng lập là tổ chức phải đáp ứng các điều kiện sau:
+(i) Được thành lập theo pháp luật Việt Nam;
+(ii) Không được dùng vốn huy động, vốn vay của tổ chức, cá nhân khác để góp vốn, không được sử dụng nguồn vốn do phát hành trái phiếu doanh nghiệp để góp vốn; không được góp vốn dưới tên của cá nhân, pháp nhân khác dưới mọi hình thức, trừ trường hợp ủy thác góp vốn, mua cổ phần;
+(iii) Thực hiện đầy đủ các nghĩa vụ về thuế và bảo hiểm xã hội đến thời điểm nộp hồ sơ đề nghị cấp Giấy phép;
+(iv) Có vốn chủ sở hữu tối thiểu 500 tỷ đồng trong 05 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép;
+(v) Kinh doanh có lãi trong 05 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép;
+(vi) Trường hợp là doanh nghiệp hoạt động trong ngành nghề kinh doanh có yêu cầu vốn pháp định, phải đảm bảo vốn chủ sở hữu trừ đi vốn pháp định tối thiểu bằng số vốn góp cam kết theo số liệu từ báo cáo tài chính đã được kiểm toán của năm liền kề thời điểm nộp hồ sơ đề nghị cấp Giấy phép;
+(vii) Trường hợp là doanh nghiệp nhà nước, phải được phép tham gia góp vốn theo quy định của pháp luật;
+(viii) Trường hợp là tổ chức được cấp Giấy phép thành lập và hoạt động trong lĩnh vực ngân hàng, chứng khoán, bảo hiểm phải tuân thủ việc góp vốn theo các quy định của pháp luật về ngân hàng, chứng khoán, bảo hiểm;
+(ix) Không bị kết án về các tội phạm quy định tại Bộ luật Hình sự trong 02 (hai) năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép;
+(x) Trường hợp là ngân hàng thương mại:
+Có tổng tài sản tối thiểu là 100.000 tỷ đồng, tuân thủ đầy đủ các quy định về quản trị rủi ro và trích lập dự phòng đầy đủ theo quy định tại thời điểm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép;
+Không vi phạm các tỷ lệ về đảm bảo an toàn trong hoạt động ngân hàng theo quy định của Ngân hàng Nhà nước trong năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép;
+Tuân thủ điều kiện, giới hạn mua, nắm giữ cổ phiếu của tổ chức tín dụng theo quy định tại khoản 8 Điều 111 Luật Các tổ chức tín dụng;
+Đảm bảo tỷ lệ an toàn vốn tối thiểu sau khi góp vốn thành lập ngân hàng thương mại cổ phần;
+Không bị xử phạt vi phạm hành chính trong lĩnh vực tiền tệ và hoạt động ngân hàng và không bị kết án về các tội phạm quy định tại Bộ luật Hình sự trong 02 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
+- Thành viên sáng lập của ngân hàng liên doanh là doanh nghiệp không phải ngân hàng phải đáp ứng các điều kiện sau:
+(i) Được thành lập theo pháp luật Việt Nam hoặc pháp luật nước ngoài;
+(ii) Phải được cấp có thẩm quyền chấp thuận bằng văn bản cho phép tham gia góp vốn vào ngân hàng liên doanh đối với trường hợp là doanh nghiệp Nhà nước;
+(iii) Trường hợp là doanh nghiệp được cấp Giấy phép thành lập và hoạt động trong lĩnh vực ngân hàng, chứng khoán, bảo hiểm, phải tuân thủ việc góp vốn theo các quy định của pháp luật về ngân hàng, chứng khoán, bảo hiểm;
+(iv) Có vốn chủ sở hữu tối thiểu 1.000 tỷ đồng, tổng tài sản tối thiểu 2.000 tỷ đồng trong 03 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép đối với phần vốn góp từ trên 1% đến dưới 5% vốn điều lệ của ngân hàng liên doanh hoặc có vốn chủ sở hữu tối thiểu 200 tỷ đồng, tổng tài sản tối thiểu 400 tỷ đồng trong 03 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép đối với phần vốn góp từ 1% vốn điều lệ trở xuống của ngân hàng liên doanh;
+(v) Đối với doanh nghiệp hoạt động trong ngành nghề kinh doanh có yêu cầu vốn pháp định, phải đảm bảo vốn chủ sở hữu trừ đi vốn pháp định tối thiểu bằng số vốn góp cam kết theo số liệu từ báo cáo tài chính đã được kiểm toán độc lập và không có ý kiến ngoại trừ của đơn vị kiểm toán của năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép;
+(vi) Kinh doanh có lãi trong 03 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép;
+(vii) Không được dùng vốn huy động, vốn vay của tổ chức, cá nhân khác để góp vốn;
+(viii) Thực hiện đầy đủ các nghĩa vụ về thuế và bảo hiểm xã hội đến thời điểm nộp hồ sơ đề nghị cấp Giấy phép;
+(ix) Không phải là cổ đông sáng lập, chủ sở hữu, thành viên sáng lập, cổ đông chiến lược của tổ chức tín dụng khác được thành lập và hoạt động tại Việt Nam;
+(x) Không bị xử phạt vi phạm hành chính trong lĩnh vực tiền tệ và hoạt động ngân hàng và không bị kết án về các tội phạm quy định tại Bộ luật Hình sự trong 02 năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung để được xem xét cấp Giấy phép.
+- Trong thời hạn 05 năm kể từ ngày được cấp Giấy phép, các thành viên sáng lập phải cùng nhau sở hữu 100% vốn điều lệ của ngân hàng liên doanh.
+* Điều kiện về tổng tài sản có và tình hình tài chính đối với tổ chức tín dụng nước ngoài khi đề nghị cấp Giấy phép thành lập ngân hàng liên doanh, ngân hàng 100% vốn nước ngoài 
+Khi đề nghị cấp Giấy phép, tổ chức tín dụng nước ngoài là thành viên sáng lập của ngân hàng liên doanh, chủ sở hữu của ngân hàng 100% vốn nước ngoài phải đáp ứng các điều kiện về tổng tài sản có và tình hình tài chính sau đây:
+a) Có tổng tài sản có ít nhất tương đương 10 tỷ đô la Mỹ vào cuối năm liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung đề nghị cấp Giấy phép;
+b) Kinh doanh có lãi trong 05 năm liên tiếp liền kề trước năm nộp hồ sơ đề nghị cấp Giấy phép và đến thời điểm nộp hồ sơ bổ sung đề nghị cấp Giấy phép.

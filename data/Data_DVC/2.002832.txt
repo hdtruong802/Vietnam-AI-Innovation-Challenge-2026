@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002832
+Số quyết định: 96/QĐ-BTC
+Tên thủ tục: Điều chỉnh Giấy phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+    + Bước 1: Tổ chức cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa nộp hồ sơ điều chỉnh Giấy phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa.
+    + Bước 2: Ủy ban Chứng khoán Nhà nước (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục hồ sơ chưa đầy đủ, Ủy ban Chứng khoán Nhà nước hướng dẫn bổ sung danh mục hồ sơ theo quy định.
+    + Bước 3: Trong thời hạn 07 (bẩy) ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Bộ Tài chính  điều chỉnh Giấy phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Trường hợp giảm vốn điều lệ, hồ sơ kèm theo báo cáo vốn chủ sở hữu sau khi giảm được kiểm toán bởi tổ chức kiểm toán được chấp thuận;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Trường hợp tăng vốn điều lệ, hồ sơ kèm theo xác nhận của tổ chức kiểm toán được chấp thuận về khoản vốn tăng thêm hoặc báo cáo tài chính tại thời điểm sau khi tổ chức cung cấp dịch vụ tài sản mã hóa hoàn thành việc tăng vốn điều lệ đã được kiểm toán bởi tổ chức kiểm toán được chấp thuận;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Trường hợp thay đổi tên công ty, địa chỉ đặt trụ sở chính, vốn điều lệ, hồ sơ kèm theo Quyết định của Đại hội đồng cổ đông, Hội đồng thành viên hoặc chủ sở hữu công ty về việc thay đổi tên công ty, địa chỉ đặt trụ sở chính, vốn điều lệ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Trường hợp thay đổi địa chỉ trụ sở chính, hồ sơ kèm theo tài liệu bao gồm: Bản thuyết minh cơ sở vật chất theo Mẫu số 04 Phụ lục ban hành kèm Nghị Quyết 05/2025/NQ-CP, kèm theo giấy tờ chứng minh quyền sở hữu trụ sở, quyền sử dụng trụ sở hoặc hợp đồng thuê trụ sở quy định tại khoản 4 Điều 9 Nghị Quyết số 05/2025/NQ-CP; Văn bản thẩm định của Bộ công an đối với hồ sơ đề xuất an toàn hệ thống thông tin cấp độ 4 của tổ chức đăng ký quy định tại  khoản 7 Điều 9  Nghị quyết số 05/2025/NQ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Trường hợp thay đổi người đại diện theo pháp luật mà không thay đổi chức danh, hồ sơ kèm theo Quyết định của Hội đồng quản trị, Hội đồng thành viên, chủ sở hữu công ty thông qua việc bổ nhiệm, miễn nhiệm Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên, Chủ tịch công ty hoặc Tổng giám đốc (Giám đốc) kèm theo Bản thông tin cá nhân theo Mẫu số 06 Phụ lục ban hành kèm theo Nghị quyết số 05/2025/NQ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản đề nghị điều chỉnh Giấy phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa theo Mẫu số 08 Phụ lục ban hành kèm theo Nghị quyết số 05/2025/NQ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Trường hợp thay đổi thông tin, chức danh của người đại diện theo pháp luật, hồ sơ kèm theo Quyết định của Đại hội đồng cổ đông, Hội đồng thành viên hoặc chủ sở hữu công ty thông qua thay đổi chức danh của người đại diện theo pháp luật, Điều lệ công ty sửa đổi (trường hợp thay đổi chức danh) và các tài liệu quy định tại điểm e khoản 1 Điều 11 Nghị quyết số 05/2025/NQ-CP (tài liệu bao gồm : Quyết định của Hội đồng quản trị, Hội đồng thành viên, chủ sở hữu công ty thông qua việc bổ nhiệm, miễn nhiệm Chủ tịch Hội đồng quản trị, chủ tịch Hội đồng thành viên, chủ tịch công ty hoặc Tổng Giám đốc (Giám đốc) kèm theo Bản thông tin cá nhân theo Mẫu số 06 Phục lục ban hành kèm theo Nghị Quyết 05/2025/NQ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo lý do từ chối của Bộ Tài chính, Giấy phép điều chỉnh Giấy phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa
+Căn cứ pháp lý:
+  * Về việc triển khai thí điểm thị trường tài sản mã hóa tại Việt Nam (05/2025/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

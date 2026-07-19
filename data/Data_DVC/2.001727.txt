@@ -1,0 +1,38 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001727
+Số quyết định: 682/QĐ-BVHTTDL
+Tên thủ tục: Khai báo nhập khẩu thiết bị in
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+    - Trước khi nhập khẩu thiết bị in (trừ máy in phun, máy in laser đơn màu hoặc đa màu có tốc độ in từ 60 tờ/phút (khổ A4) trở xuống hoặc có khổ in từ A3 trở xuống và máy in kim), tổ chức, cá nhân gửi hồ sơ khai báo nhập khẩu thiết bị in đến Cục Xuất bản, In và Phát hành (Bộ Văn hóa, Thể thao và Du lịch) qua Cổng thông tin một cửa quốc gia.
+    - Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định, Cục Xuất bản, In và Phát hành phải cấp giấy xác nhận khai báo nhập khẩu thiết bị in; trường hợp không cấp giấy giấy xác nhận khai báo nhập khẩu thiết bị in phải có văn bản trả lời nêu rõ lý do
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không có)
+
+Thành phần hồ sơ:
+    - (1) Tờ khai nhập khẩu thiết bị in (Mẫu số 04 Phụ lục kèm theo Nghị định số 72/2022/NĐ-CP);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (2) Tài liệu thể hiện thông số kỹ thuật và công nghệ chế bản, in và gia công sau in của từng loại thiết bị.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Cục Xuất bản, In và Phát hành
+Cơ quan có thẩm quyền: Cục Xuất bản, In và Phát hành
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy xác nhận khai báo nhập khẩu thiết bị in
+Căn cứ pháp lý:
+  * Nghị định 25/2018/NĐ-CP (25/2018/NĐ-CP)
+  * Nghị định 60/2014/NĐ-CP (60/2014/NĐ-CP)
+  * Nghị định số 72/2022/NĐ-CP ngày 04 tháng 10 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 60/2014/NĐ-CP ngày 19 tháng 6 năm 2014 của Chính phủ quy định về hoạt động in và Nghị định số 25/2018/NĐ-CP ngày 28 tháng 02 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 60/2014/NĐ-CP ngày 19 tháng 6 năm 2014 của Chính phủ quy định về hoạt động in (72/2022//NĐ-CP)
+  * Thông tư số 11/2024/TT-BTTTT của Bộ Thông tin và Truyền thông: Sửa đổi, bổ sung một số điều của Thông tư số 03/2015/TT-BTTTT ngày 06 tháng 3 năm 2015 của Bộ trưởng Bộ Thông tin và Truyền thông quy định chi tiết và hướng dẫn thi hành một số điều, khoản của Nghị định số 60/2014/NĐ-CP ngày 19 tháng 6 năm 2014 của Chính phủ quy định về hoạt động in, Thông tư số 05/2016/TT-BTTTT ngày 01 tháng 3 năm 2016 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về quản lý và sử dụng mã số sách tiêu chuẩn quốc tế, Thông tư số 22/2018/TT-BTTTT ngày 28 tháng 12 năm 2018 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành Danh mục hàng hóa nhập khẩu, xuất khẩu trong lĩnh vực in, phát hành xuất bản phẩm và Thông tư số 09/2013/TT-BTTTT ngày 08 tháng 4 năm 2013 của Bộ trưởng Bộ Thông tin và Truyền thông ban hành Danh mục sản phẩm phần mềm và phần cứng, điện tử (được sửa đổi, bổ sung bởi Thông tư số 20/2021/TT-BTTTT ngày 03 tháng 12 năm 2021 của Bộ trưởng Bộ Thông tin và Truyền thông) (11/2024/TT-BTTTT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

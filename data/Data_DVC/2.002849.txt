@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002849
+Số quyết định: 1847/QĐ-BNNMT
+Tên thủ tục: Chuyển quyền sở hữu hạn ngạch phát thải khí nhà kính, tín chỉ các-bon ngoài hệ thống giao dịch các-bon 
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Biến đổi khí hậu
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ
+    Cơ quan, tổ chức nộp 01 bộ hồ sơ chuyển quyền sở hữu hạn ngạch phát thải khí nhà kính, tín chỉ các-bon ngoài hệ thống giao dịch các-bon đến Chủ tịch Ủy ban nhân dân cấp tỉnh theo một trong các hình thức:
+    - Trực tiếp hoặc gửi qua dịch vụ bưu chính đến Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện (sau đây gọi tắt là Bộ phận Một cửa).
+    - Trực tuyến qua Cổng dịch vụ công quốc gia tại địa chỉ http://dichvucong.gov.vn hoặc qua Ứng dụng định danh quốc gia.
+    Bước 2: Kiểm tra tính hợp lệ của hồ sơ
+    Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện thông báo cho cơ quan, tổ chức về tính hợp lệ của hồ sơ.
+    Trường hợp hồ sơ không hợp lệ, cơ quan, tổ chức hoàn thiện hồ sơ trong thời hạn không quá 05 ngày làm việc kể từ ngày có thông báo.
+    Bước 3: Chuyển quyền sở hữu hoặc từ chối chuyển quyền sở hữu hạn ngạch phát thải khí nhà kính, tín chỉ các-bon và trả kết quả
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện xem xét, cập nhật quyền sở hữu trên Hệ thống đăng ký quốc gia và thông báo kết quả bằng văn theo Mẫu số 04 tại Phụ lục II ban hành kèm theo Thông tư số 22/2026/TT-BNNMT ngày 19 tháng 05 năm 2026 của Bộ trưởng Bộ Nông nghiệp và Môi trường.
+    Trường hợp từ chối, Bộ Nông nghiệp và Môi trường trả lại hồ sơ cho cơ quan, tổ chức và thông báo rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trực tuyến qua Cổng dịch vụ công quốc gia tại địa chỉ http://dichvucong.gov.vn hoặc Ứng dụng định danh quốc gia.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trực tiếp đến Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện (sau đây gọi tắt là Bộ phận Một cửa).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Gửi qua dịch vụ bưu chính đến Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện (sau đây gọi tắt là Bộ phận Một cửa).
+
+Thành phần hồ sơ:
+    - Đơn đề nghị chuyển quyền sở hữu hạn ngạch phát thải khí nhà kính, tín chỉ các-bon
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các tài liệu chứng minh việc chia, tách, hợp nhất, sáp nhập, giải thể của cơ quan, tổ chức trong trường hợp chia, tách, hợp nhất, sáp nhập, giải thể của cơ quan, tổ chức trong trường hợp chia, tách, hợp nhất, sáp nhập, giải thể cơ quan, tổ chức
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản án hoặc quyết định của tòa án; phán quyết hoặc quyết định của trọng tài (nếu có); quyết định thi hành án của cơ quan có thẩm quyền theo quy định của pháp luật (nếu có), trong đó có thông tin về việc chuyển quyền sở hữu hạn ngạch phát thải khí nhà kính, tín chỉ các-bon (trong trường hợp chuyển quyền sở hữu theo bản án hoặc quyết định của tòa án hoặc phán quyết, quyết định của trọng tài hoặc quyết định thi hành án của cơ quan có thẩm quyền theo quy định của pháp luật)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Văn bản thỏa thuận của các tổ chức liên quan thống nhất việc chuyển quyền sở hữu hạn ngạch phát thải khí nhà kính, tín chỉ các-bon (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao thực hiện.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyền sở hữu hạn ngạch phát thải khí nhà, tín chỉ các-bon trên Hệ thống đăng ký quốc gia về hạn ngạch phát thải khí nhà kính và tín chỉ các-bon của cơ quan, tổ chức
+Căn cứ pháp lý:
+  * Thông tư số 22/2026/TT-BNNMT ngày 19 tháng 5 năm 2026 của Bộ trưởng Bộ Nông nghiệp và Môi trường sửa đổi, bổ sung một số thông tư liên quan phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính thuộc phạm vi quản lý của bộ nông nghiệp và môi trường. (22/2026/TT-BNNMT)
+  * QUY ĐỊNH QUẢN LÝ, VẬN HÀNH HỆ THỐNG ĐĂNG KÝ QUỐC GIA VỀ HẠN NGẠCH PHÁT THẢI KHÍ NHÀ KÍNH VÀ TÍN CHỈ CÁC-BON (11/2026/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Cơ quan, tổ chức sở hữu hạn ngạch phát thải khí nhà, tín chỉ các-bon có tài khoản đăng ký trên Hệ thống đăng ký quốc gia về hạn ngạch phát thải khí nhà kính và tín chỉ các-bon có nhu cầu chuyển quyền sở hữu hạn ngạch phát thải khí nhà kính, tín chỉ các-bon ngoài hệ thống giao dịch các-bon gửi hồ sơ tới Chủ tịch Ủy ban nhân dân cấp tỉnh từ ngày 01 tháng 8 năm 2026.
+Từ khóa: Không có thông tin
+Mô tả: Cơ quan, tổ chức sở hữu hạn ngạch phát thải khí nhà, tín chỉ các-bon có tài khoản đăng ký trên Hệ thống đăng ký quốc gia về hạn ngạch phát thải khí nhà kính và tín chỉ các-bon có nhu cầu chuyển quyền sở hữu hạn ngạch phát thải khí nhà kính, tín chỉ các-bon ngoài hệ thống giao dịch các-bon gửi hồ sơ tới Chủ tịch Ủy ban nhân dân cấp tỉnh từ ngày 01 tháng 8 năm 2026.

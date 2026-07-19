@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000380
+Số quyết định: 1211/QĐ-BCA
+Tên thủ tục: Cấp lại Giấy phép cung cấp dịch vụ bảo đảm an ninh hàng không tại cảng hàng không, sân bay
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Bảo đảm an ninh hàng không
+Trình tự thực hiện:
+    a) Nộp hồ sơ thủ tục hành chính:
+    Cá nhân, tổ chức đề nghị cấp lại Giấy phép cung cấp dịch vụ hàng không tại cảng hàng không, sân bay phải gửi hồ sơ trực tiếp hoặc qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức khác đến Cục Quản lý xuất nhập cảnh và phải chịu trách nhiệm về tính chính xác, trung thực của các thông tin trong hồ sơ.
+    b) Giải quyết thủ tục hành chính:
+    - Đối với giấy phép cấp lại do thay đổi nội dung: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, Cục Quản lý xuất nhập cảnh cấp lại Giấy phép cung cấp dịch vụ hàng không tại cảng hàng không, sân bay; trường hợp không cấp phải gửi văn bản trả lời người đề nghị và nêu rõ lý do.
+    - Đối với giấy phép cấp lại do bị mất, rách, hỏng: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đề nghị, Cục Quản lý xuất nhập cảnh có trách nhiệm xem xét, quyết định cấp lại.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (a) Cung cấp dịch vụ tại cảng hàng không quốc tế: - Cấp lại do thay đổi nội dung: 30.000.000 đồng; - Cấp lại do bị mất, rách, hỏng: 5.000.000 đồng.  b) Cung cấp dịch vụ tại cảng hàng không khác: - Cấp lại do thay đổi nội dung: 20.000.000 đồng; - Cấp lại do bị mất, rách, hỏng: 5.000.000 đồng.)
+    Mô tả: - Đối với giấy phép cấp lại do thay đổi nội dung: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (a) Cung cấp dịch vụ tại cảng hàng không quốc tế: - Cấp lại do thay đổi nội dung: 30.000.000 đồng; - Cấp lại do bị mất, rách, hỏng: 5.000.000 đồng.  b) Cung cấp dịch vụ tại cảng hàng không khác: - Cấp lại do thay đổi nội dung: 20.000.000 đồng; - Cấp lại do bị mất, rách, hỏng: 5.000.000 đồng.)
+    Mô tả: - Đối với giấy phép cấp lại do thay đổi nội dung: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (a) Cung cấp dịch vụ tại cảng hàng không quốc tế: - Cấp lại do thay đổi nội dung: 30.000.000 đồng; - Cấp lại do bị mất, rách, hỏng: 5.000.000 đồng.  b) Cung cấp dịch vụ tại cảng hàng không khác: - Cấp lại do thay đổi nội dung: 20.000.000 đồng; - Cấp lại do bị mất, rách, hỏng: 5.000.000 đồng.)
+    Mô tả: - Đối với giấy phép cấp lại do thay đổi nội dung: Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (a) Cung cấp dịch vụ tại cảng hàng không quốc tế: - Cấp lại do thay đổi nội dung: 30.000.000 đồng; - Cấp lại do bị mất, rách, hỏng: 5.000.000 đồng.  b) Cung cấp dịch vụ tại cảng hàng không khác: - Cấp lại do thay đổi nội dung: 20.000.000 đồng; - Cấp lại do bị mất, rách, hỏng: 5.000.000 đồng.)
+    Mô tả: - Đối với giấy phép cấp lại do bị mất, rách, hỏng: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đề nghị.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (a) Cung cấp dịch vụ tại cảng hàng không quốc tế: - Cấp lại do thay đổi nội dung: 30.000.000 đồng; - Cấp lại do bị mất, rách, hỏng: 5.000.000 đồng.  b) Cung cấp dịch vụ tại cảng hàng không khác: - Cấp lại do thay đổi nội dung: 20.000.000 đồng; - Cấp lại do bị mất, rách, hỏng: 5.000.000 đồng.)
+    Mô tả: - Đối với giấy phép cấp lại do bị mất, rách, hỏng: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đề nghị.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (a) Cung cấp dịch vụ tại cảng hàng không quốc tế: - Cấp lại do thay đổi nội dung: 30.000.000 đồng; - Cấp lại do bị mất, rách, hỏng: 5.000.000 đồng.  b) Cung cấp dịch vụ tại cảng hàng không khác: - Cấp lại do thay đổi nội dung: 20.000.000 đồng; - Cấp lại do bị mất, rách, hỏng: 5.000.000 đồng.)
+    Mô tả: - Đối với giấy phép cấp lại do bị mất, rách, hỏng: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được đề nghị.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp giấy phép (theo mẫu)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao các tài liệu có liên quan đến việc thay đổi nội dung giấy phép (nếu có).
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Cục quản lý xuất nhập cảnh
+Cơ quan có thẩm quyền: Cục quản lý xuất nhập cảnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép cung cấp dịch vụ hàng không tại cảng hàng không, sân bay.
+Căn cứ pháp lý:
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * về kinh doanh vận chuyển hàng không và hoạt động hàng không chung (30/2013/NĐ-CP)
+  * Sửa đổi Nghị định 30/2013/NĐ-CP về kinh doanh vận chuyển hàng không và hoạt động hàng không chung và Nghị định 92/2016/NĐ-CP quy định về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng (15/2024/NĐ-CP)
+  * Nghị định 64/2022/NĐ-CP (64/2022/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

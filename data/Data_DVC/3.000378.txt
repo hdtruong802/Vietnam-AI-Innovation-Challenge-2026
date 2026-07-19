@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000378
+Số quyết định: 1211/QĐ-BCA
+Tên thủ tục: Cấp lại giấy chứng nhận cơ sở đủ điều kiện đào tạo, huấn luyện nghiệp vụ nhân viên an ninh hàng không
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Bảo đảm an ninh hàng không
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Cơ sở đào tạo, huấn luyện nghiệp vụ nhân viên an ninh hàng không gửi hồ sơ đề nghị cấp lại Giấy chứng nhận cơ sở đủ điều kiện đào tạo, huấn luyện nghiệp vụ nhân viên hàng không trực tiếp hoặc qua hệ thống bưu chính hoặc các hình thức phù hợp khác đến Cục Quản lý xuất nhập cảnh.
+    b) Giải quyết TTHC:
+    - Trường hợp cấp lại giấy chứng nhận do bị mất, rách, hỏng: Trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ đầy đủ theo quy định, Cục Quản lý xuất nhập cảnh cấp lại giấy chứng nhận hoặc thông báo từ chối cấp bằng văn bản, nêu rõ lý do.
+    - Trường hợp sửa đổi, bổ sung nội dung giấy chứng nhận: Trong thời hạn 15 ngày kể từ ngày nhận hồ sơ đầy đủ theo quy định, Cục Quản lý xuất nhập cảnh thẩm định hồ sơ, kiểm tra đánh giá thực tế cơ sở; yêu cầu người đề nghị giải trình bổ sung các nội dung liên quan; cấp lại giấy chứng nhận hoặc thông báo từ chối cấp lại giấy chứng nhận bằng văn bản, nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ (- Cấp lại do thay đổi nội dung: 15.000.000 đồng/lần - Cấp lại do mất, rách, hỏng 2.400.000 đồng/lần)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (- Cấp lại do thay đổi nội dung: 15.000.000 đồng/lần - Cấp lại do mất, rách, hỏng 2.400.000 đồng/lần)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (- Cấp lại do thay đổi nội dung: 15.000.000 đồng/lần - Cấp lại do mất, rách, hỏng 2.400.000 đồng/lần)
+
+Thành phần hồ sơ:
+    - Các tài liệu liên quan đến việc thay đổi nội dung giấy chứng nhận (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị theo mẫu quy định tại Phụ lục ban hành kèm theo Nghị định 89/2019/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục quản lý xuất nhập cảnh
+Cơ quan có thẩm quyền: Cục quản lý xuất nhập cảnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận cơ sở đủ điều kiện đào tạo, huấn luyện nghiệp vụ nhân viên an ninh hàng không
+Căn cứ pháp lý:
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Quy định về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng (92/2016/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

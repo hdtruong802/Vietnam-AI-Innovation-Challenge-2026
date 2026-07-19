@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002873
+Số quyết định: 1181/QĐ-BGDĐT
+Tên thủ tục: Cho phép thành lập phân hiệu của cơ sở giáo dục đại học nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Giáo dục, đào tạo với nước ngoài
+Trình tự thực hiện:
+    a) Nhà đầu tư gửi 01 bộ hồ sơ theo quy định trực tuyến qua Cổng Dịch vụ công quốc gia hoặc qua VNeid hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Giáo dục và Đào tạo;
+    b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, cơ quan tiếp nhận hồ sơ có trách nhiệm kiểm tra tính hợp lệ của hồ sơ và gửi hồ sơ xin ý kiến của các cơ quan, đơn vị có liên quan;
+    c) Trường hợp hồ sơ không đầy đủ theo quy định, trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc qua thư điện tử cho nhà đầu tư;
+    d) Trong thời hạn 10 ngày làm việc kể từ ngày nhận được công văn xin ý kiến của cơ quan tiếp nhận hồ sơ, cơ quan, đơn vị được hỏi ý kiến phải có văn bản trả lời;
+    đ) Trong thời hạn 30 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ lập báo cáo thẩm định hồ sơ, trình cấp có thẩm quyền theo quy xem xét, quyết định cho phép thành lập cơ sở giáo dục có vốn đầu tư nước ngoài theo Mẫu số 15 tại Phụ lục ban hành kèm theo Nghị định số 124/2024/NĐ-CP;
+    e) Trường hợp hồ sơ không được chấp thuận, trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến của cấp có thẩm quyền, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản gửi trực tiếp hoặc qua dịch vụ bưu điện cho nhà đầu tư, trong đó nêu rõ lý do.
+    Sau thời hạn 04 năm kể từ ngày quyết định cho phép thành lập có hiệu lực, nếu phân hiệu của cơ sở giáo dục nước ngoài tại Việt Nam không được cho phép hoạt động giáo dục thì quyết định cho phép thành lập phân hiệu của cơ sở giáo dục nước ngoài tại Việt Nam hết hiệu lực.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cho phép thành lập phân hiệu của cơ sở giáo dục nước ngoài tại Việt Nam theo Mẫu số 13 tại Phụ lục ban hành kèm theo Nghị định số 124/2024/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực hoặc bản sao kèm theo bản gốc để đối chiếu của giấy chứng nhận đăng ký đầu tư. Trường hợp cơ quan có thẩm quyền khai thác, chia sẻ được dữ liệu từ Cơ sở dữ liệu chuyên ngành thì cá nhân, tổ chức không phải cung cấp thành phần hồ sơ này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề án thành lập phân hiệu của cơ sở giáo dục nước ngoài tại Việt Nam theo Mẫu số 14 tại Phụ lục ban hành kèm theo Nghị định số 124/2024/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao có chứng thực hoặc bản sao kèm theo bản gốc để đối chiếu của văn bản chấp thuận cho thuê đất của Ủy ban nhân dân cấp tỉnh đối với trường hợp xây dựng cơ sở vật chất hoặc thỏa thuận về nguyên tắc thuê cơ sở vật chất sẵn có phù hợp với quy định tại khoản 5 Điều 36 Nghị định số 86/2018/NĐ-CP và các giấy tờ pháp lý liên quan. Trường hợp cơ quan có thẩm quyền khai thác được dữ liệu từ cơ sở dữ liệu của địa phương hoặc của cơ quan nhà nước thì cá nhân, tổ chức không phải cung cấp thành phần hồ sơ này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Kế hoạch về cơ sở vật chất của cơ sở giáo dục hoặc dự án đầu tư xây dựng cơ sở vật chất, bao gồm phần thuyết minh và thiết kế chi tiết cơ sở giáo dục;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản chứng minh năng lực tài chính theo mức vốn đầu tư tại điều kiện Cho phép thành lập phân hiệu của cơ sở giáo dục đại học nước ngoài tại Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông tin về vị trí xếp hạng thuộc nhóm 500 cơ sở giáo dục đại học hàng đầu thế giới
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản kiểm định chất lượng của cơ sở giáo dục đại học nước ngoài xin thành lập phân hiệu còn hiệu lực hoặc văn bản của cơ quan có thẩm quyền của nước ngoài cho phép đào tạo và cấp văn bằng
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Bộ Giáo dục và Đào tạo
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bộ trưởng Bộ Giáo dục và Đào tạo cho phép thành lập phân hiệu của cơ sở giáo dục đại học nước ngoài tại Việt Nam.
+Căn cứ pháp lý:
+  * Nghị định số 86/2018/NĐ-CP của Chính phủ: Quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục (86/2018/nđ-cp)
+  * Nghị định số 124/2024/NĐ-CP ngày 05 tháng 10 năm 2024 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 86/2018/NĐ-CP ngày 06 tháng 6 năm 2018 của Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục (124/2024/NĐ-CP)
+  * Nghị quyết số 23/2026/NQ-CP của Chính phủ: Về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính và cắt giảm điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Giáo dục và Đào tạo (23/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Điều kiện cho phép thành lập phân hiệu của cơ sở giáo dục đại học nước ngoài tại Việt Nam: Vốn đầu tư:
+Dự án đầu tư thành lập phân hiệu của cơ sở giáo dục đại học nước ngoài tại Việt Nam phải có vốn đầu tư tối thiểu là 500 tỷ đồng (không bao gồm các chi phí sử dụng đất). Đến thời điểm thẩm định cho phép thành lập phân hiệu của cơ sở giáo dục đại học, giá trị đầu tư phải thực hiện được trên 250 tỷ đồng.
+Từ khóa: Không có thông tin
+Mô tả: Điều kiện cho phép thành lập phân hiệu của cơ sở giáo dục đại học nước ngoài tại Việt Nam: Vốn đầu tư:
+Dự án đầu tư thành lập phân hiệu của cơ sở giáo dục đại học nước ngoài tại Việt Nam phải có vốn đầu tư tối thiểu là 500 tỷ đồng (không bao gồm các chi phí sử dụng đất). Đến thời điểm thẩm định cho phép thành lập phân hiệu của cơ sở giáo dục đại học, giá trị đầu tư phải thực hiện được trên 250 tỷ đồng.

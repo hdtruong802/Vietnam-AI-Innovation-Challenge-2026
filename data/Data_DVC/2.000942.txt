@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000942
+Số quyết định: 858/QĐ-BTP
+Tên thủ tục: Cấp bản sao có chứng thực từ bản chính giao dịch đã được chứng thực
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Chứng thực
+Trình tự thực hiện:
+    + Người yêu cầu cấp bản sao có chứng thực từ bản chính giao dịch phải xuất trình các giấy tờ theo quy định.
+    + Người thực hiện chứng thực kiểm tra giấy tờ do người yêu cầu cấp bản sao có chứng thực từ bản chính giao dịch xuất trình.
+    + Việc cấp bản sao có chứng thực từ bản chính giao dịch đã được chứng thực được thực hiện tại cơ quan lưu trữ giao dịch.
+    + Cơ quan thực hiện chứng thực tiến hành chụp từ bản chính giao dịch đang được lưu trữ và thực hiện chứng thực như sau:
+    * Ghi đầy đủ lời chứng theo mẫu quy định;
+    * Ký, ghi rõ họ tên, đóng dấu của cơ quan, tổ chức thực hiện chứng thực và ghi vào sổ chứng thực.
+    Đối với bản sao có từ 02 (hai) trang trở lên thì ghi lời chứng vào trang cuối, nếu bản sao có từ 02 (hai) tờ trở lên thì phải đóng dấu giáp lai.
+    Mỗi bản sao được chứng thực từ một bản chính giấy tờ, văn bản hoặc nhiều bản sao được chứng thực từ một bản chính giấy tờ, văn bản trong cùng một thời điểm được ghi một số chứng thực.
+    + Không yêu cầu người yêu cầu chứng thực nộp, xuất trình bản chính thức hoặc bản sao các giấy tờ, tài liệu mà các thông tin trong các giấy tờ, tài liệu đã có dữ liệu trong các cơ sở dữ liệu được cơ quan chủ quản cơ sở dữ liệu công bố.
+    + Người thực hiện chứng thực khai thác, sử dụng thông tin đã có trong các cơ sở dữ liệu để thay thế thành phần hồ sơ giải quyết thủ tục hành chính. Trường hợp không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, không chính xác thì cơ quan, người có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính yêu cầu cá nhân, tổ chức bổ sung thành phần hồ sơ để giải quyết thủ tục hành chính; đồng thời đề nghị cá nhân, tổ chức thực hiện cập nhật, điều chỉnh thông tin trong các cơ sở dữ liệu theo quy định của pháp luật.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 2000 VNĐ (2.000 đồng/trang; từ trang thứ 3 trở lên thu 1.000 đồng/trang, tối đa thu không quá 200.000 đồng/bản. Trang là căn cứ để thu phí được tính theo trang của bản chính.)
+
+Thành phần hồ sơ:
+    - Người yêu cầu chứng thực xuất trình một trong các giấy tờ sau: Căn cước điện tử; bản chính hoặc bản sao của Thẻ căn cước công dân hoặc Thẻ căn cước hoặc Giấy chứng nhận căn cước hoặc Hộ chiếu hoặc giấy tờ xuất nhập cảnh hoặc giấy tờ có giá trị đi lại quốc tế còn giá trị sử dụng (Không yêu cầu người yêu cầu chứng thực xuất trình giấy tờ này khi cơ quan giải quyết thủ tục hành chính khai thác được thông tin về Thẻ căn cước công dân hoặc Thẻ căn cước hoặc Giấy chứng nhận căn cước trên Cơ sở dữ liệu quốc gia về dân cư).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bản sao giao dịch được chứng thực
+Căn cứ pháp lý:
+  * Về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký và chứng thực hợp đồng, giao dịch (23/2015/NĐ-CP)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Nghị định số 280/2025/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 23/2015/NĐ-CP về cấp bản sao từ sổ gốc, chứng thực bản sao từ bản chính, chứng thực chữ ký và chứng thực hợp đồng, giao dịch, được sửa đổi, bổ sung bởi Nghị định số 07/2025/NĐ-CP (280/2025/NĐ-CP)
+  * Thông tư 01/2020/TT-BTP (01/2020/TT-BTP)
+  * Thông tư 	226/2016/TT-BTC (226/2016/TT-BTC)
+  * sửa đổi, bổ sung một số nghị định để cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh
+thuộc phạm vi quản lý của Bộ Tư pháp. (18/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không.
+Từ khóa: Không có thông tin
+Mô tả: Không.

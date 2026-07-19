@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000517
+Số quyết định: 1213/QĐ-BCT
+Tên thủ tục: Cấp phép tiêu thụ hàng hóa quá cảnh
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Xuất nhập khẩu
+Trình tự thực hiện:
+    Bước 1: Chủ hàng gửi hồ sơ đề nghị cho phép tiêu thụ hàng hóa quá cảnh đến Ủy ban nhân dân cấp tỉnh
+    Bước 2: Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Ủy ban nhân dân cấp tỉnh xem xét cấp phép tiêu thụ hàng hóa quá cảnh.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Giấy phép quá cảnh hàng hóa đã được cấp nếu là hàng hóa quá cảnh theo giấy phép: 01 bản sao (có ký xác nhận và đóng dấu sao y bản chính của chủ hàng).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Tài liệu chứng minh trường hợp bất khả kháng đối với hàng hóa quá cảnh xin được tiêu thụ tại Việt Nam.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Đơn đề nghị cho phép tiêu thụ hàng hóa quá cảnh theo mẫu quy định: 01 bản chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản cho phép tiêu thụ hàng hóa quá cảnh
+Căn cứ pháp lý:
+  * Thông tư số 26/2026/TT-BCT ngày 20 tháng 5 năm 2026 của Bộ trưởng Bộ Công Thương sửa đổi bổ sung một số quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương. (26/2026/TT-BCT)
+  * Thông tư số 27/2014/TT-BCT quy định về quá cảnh hàng hóa của Vương quốc Campuchia qua lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam (9423/QĐ-BCT)
+  * Thông tư số 24/2024/TT-BCT (Thông tư số 24/2024/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: kHÔNG
+Từ khóa: Không có thông tin
+Mô tả: kHÔNG

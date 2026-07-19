@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000116
+Số quyết định: 4488/QĐ-BTC
+Tên thủ tục: Thủ tục hoàn trả các khoản thu ngân sách nhà nước qua KBNN
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Kho bạc Nhà nước
+Trình tự thực hiện:
+  * Trường hợp hoàn trả bằng tiền mặt tại KBNN
+    -KBNN nhận lệnh hoàn trả khoản thu ngân sách nhà nước từ cơ quan nhà nước có thẩm quyền quyết định hoàn trả chuyển đến.
+    - Cá nhân mang theo chứng minh nhân dân hoặc giấy chứng minh, chứng nhận của lực lượng vũ trang hoặc thẻ căn cước công dân hoặc hộ chiếu và giấy ủy quyền nhận tiền hoàn trả của người được hoàn trả các khoản thu ngân sách nhà nước (đối với trường hợp ủy quyền) đến KBNN để thực hiện thủ tục nhận tiền hoàn trả.
+    -KBNN kiểm tra tính hợp pháp, hợp lệ của lệnh hoàn trả khoản thu ngân sách nhà nước; đối chiếu với các thông tin trên chứng minh nhân dân hoặc giấy chứng minh, chứng nhận của lực lượng vũ trang hoặc thẻ căn cước công dân hoặc hộ chiếu và giấy ủy quyền nhận tiền hoàn trả của người được hoàn trả các khoản thu ngân sách nhà nước (đối với trường hợp ủy quyền) để thực hiện hoàn trả.
+  * Trường hợp hoàn trả theo phương thức thanh toán không dùng tiền mặt
+    -KBNN nhận lệnh hoàn trả khoản thu ngân sách nhà nước hoặc lệnh hoàn trả kiêm bù trừ thu ngân sách nhà nước do cơ quan nhà nước có thẩm quyền quyết định hoàn trả chuyển đến.
+    -KBNN kiểm tra tính hợp pháp, hợp lệ của lệnh hoàn trả khoản thu ngân sách nhà nước hoặc lệnh hoàn trả kiêm bù trừ thu ngân sách nhà nước; thực hiện hạch toán hoàn trả, hạch toán bù trừ thu ngân sách nhà nước và chuyển tiền hoàn trả các khoản thu ngân sách nhà nước vào tài khoản của người nộp ngân sách nhà nước theo thông tin do cơ quan nhà nước có thẩm quyền quyết định hoàn trả chuyển đến.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: 0 VNĐ (Không)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ (Không)
+
+Thành phần hồ sơ:
+  [ Trường hợp hoàn trả bằng tiền mặt trực tiếp tại KBNN cho cá nhân ]
+    - Chứng minh nhân dân hoặc giấy chứng minh, chứng nhận của lực lượng vũ trang hoặc thẻ căn cước công dân hoặc hộ chiếu còn hạn sử dụng xuất trình tại Kho bạc Nhà nước khi làm thủ tục
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao y bản chính giấy ủy quyền nhận tiền hoàn trả của người được hoàn trả các khoản thu ngân sách nhà nước (đối với trường hợp ủy quyền).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp hoàn trả qua tài khoản của người được hoàn trả ]
+    - Kho bạc Nhà nước thực hiện hoàn trả vào tài khoản của người được hoàn trả theo lệnh hoàn trả của cơ quan nhà nước có thẩm quyền quyết định hoàn trả
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Kho bạc nhà nước các cấp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Chứng từ hoàn trả thu ngân sách nhà nước của KBNN có chữ ký xác nhận đã nhận đủ tiền của người nhận tiền, KBNN hoặc ngân hàng hoặc tổ chức cung ứng dịch vụ trung gian thanh toán báo Có cho tổ chức, cá nhân được hoàn trả các khoản thu ngân sách nhà nước
+Căn cứ pháp lý:
+  * QUY ĐỊNH VỀ MẪU THẺ, TRÌNH TỰ, THỦ TỤC CẤP MỚI, CẤP LẠI THẺ GIÁM ĐỊNH VIÊN TƯ PHÁP (11/2020/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

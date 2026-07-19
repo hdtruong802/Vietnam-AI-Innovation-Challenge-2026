@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001734
+Số quyết định: 1781/QĐ-BCT
+Tên thủ tục: Đăng ký dán nhãn năng lượng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Năng lượng
+Trình tự thực hiện:
+    Trước khi đưa phương tiện, thiết bị ra thị trường, doanh nghiệp sản xuất, nhập khẩu phương tiện, thiết bị đó phải lập 01 bộ hồ sơ đăng ký dán nhãn năng lượng và gửi về Cục Đổi mới sáng tạo Chuyển đổi xanh và Khuyến công, Bộ Công Thương.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Kết quả thử nghiệm do tổ chức thử nghiệm cấp cho model sản phẩm;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy công bố dán nhãn năng lượng cho phương tiện, thiết bị sử dụng năng lượng, trong đó nêu rõ doanh nghiệp đăng ký dán nhãn so sánh hay nhãn xác nhận theo mẫu tại Phụ lục 1;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tài liệu chứng minh phòng thử nghiệm nước ngoài đã đáp ứng đủ điều kiện (Đối với trường hợp việc thử nghiệm dán nhãn năng lượng được thực hiện bởi tổ chức thử nghiệm nước ngoài);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Mẫu nhãn năng lượng dự kiến.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Cục Đổi mới sáng tạo
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Không có thông tin
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương (38/2025/TT-BCT)
+  * Luật Chất lượng sản phẩm, hàng hoá (05/2007/QH12)
+  * Luật Tiêu chuẩn và quy chuẩn kỹ thuật (68/2006/QH11)
+  * Quy định chi tiết và biện pháp thi hành Luật Sử dụng năng lượng tiết kiệm và hiệu quả (21/2011/NĐ-CP)
+  * Thủ tục cấp bổ sung, sửa đổi Giấy chứng nhận đăng ký hoạt động giám định (Nghị định 107/2016/NĐ-CP)
+  * Luật 50/2010/QH12  Sử dụng năng lượng tiết kiệm và hiệu quả (Luật 50/2010/QH12)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

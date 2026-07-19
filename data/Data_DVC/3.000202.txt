@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000202
+Số quyết định: 514/QĐ-UBND
+Tên thủ tục: Hỗ trợ sau đầu tư cho các dự án đầu tư theo Nghị quyết số 01/2022/NQ-HĐND của Hội đồng nhân dân tỉnh về việc ban hành Quy định một số chính sách hỗ trợ đầu tư trên địa bàn tỉnh Thừa Thiên Huế
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Đầu tư tại Việt nam
+Trình tự thực hiện:
+    - Hàng năm, Sở Tài chính thành phố Huế phối hợp với Ban Quản lý Khu Kinh tế, công nghiệp thành phố, UBND các xã, phường và các cơ quan liên quan rà soát, lập danh sách các dự án đầu tư hoàn thành có nhu cầu để xây dựng kế hoạch hỗ trợ.
+    - Các dự án đầu tư hoàn thành và nghiệm thu đưa vào sử dụng, sản xuất và kinh doanh, đáp ứng điều kiện của Nghị quyết, gửi 02 bộ hồ sơ đến Bộ phận Tiếp nhận và trả kết quả của Sở Tài chính thành phố Huế tại Trung tâm Phục vụ hành chính công thành phố.
+    - Trong thời hạn 20 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ, Sở Tài chính thành phố Huế lập biên bản kiểm tra đủ điều kiện hỗ trợ (Mẫu số 4), chủ trì phối hợp với các sở chuyên ngành xây dựng và các cơ quan có liên quan thẩm định hồ sơ đề nghị hỗ trợ (Mẫu số 2) trình Ủy ban nhân dân thành phố xem xét Quyết định hỗ trợ.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày hoàn thành việc thẩm định hồ sơ đề nghị hỗ trợ, Ủy ban nhân dân thành phố quyết định ban hành Quyết định hỗ trợ (Mẫu số 3). Trường hợp hồ sơ không đảm bảo điều kiện hỗ trợ thì ban hành văn bản từ chối và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 25 ngày làm việc.
+Trong đó: 20 ngày làm việc tại Sở Tài chính; 05 ngày làm việc tại UBND thành phố.
+- Nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính công ích tại Trung tâm Phục vụ hành chính công thành phố (Số 01 Lê Lai, phường Thuận Hoá, thành phố Huế);
+- Nộp trực tuyến qua Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 25 ngày làm việc.
+Trong đó: 20 ngày làm việc tại Sở Tài chính; 05 ngày làm việc tại UBND thành phố.
+- Nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính công ích tại Trung tâm Phục vụ hành chính công thành phố (Số 01 Lê Lai, phường Thuận Hoá, thành phố Huế);
+- Nộp trực tuyến qua Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 25 ngày làm việc.
+Trong đó: 20 ngày làm việc tại Sở Tài chính; 05 ngày làm việc tại UBND thành phố.
+- Nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính công ích tại Trung tâm Phục vụ hành chính công thành phố (Số 01 Lê Lai, phường Thuận Hoá, thành phố Huế);
+- Nộp trực tuyến qua Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn).
+
+Thành phần hồ sơ:
+    - Bản đề nghị hỗ trợ (Mẫu số 01)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản sao Giấy chứng nhận đăng ký Doanh nghiệp/Hợp tác xã/Hộ kinh doanh cá thể
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản sao quyết định chấp thuận chủ trương đầu tư đồng thời chấp thuận nhà đầu tư; quyết định chấp thuận chủ trương đầu tư; quyết định chấp thuận nhà đầu tư (nếu có); giấy chứng nhận đăng ký đầu tư (nếu có) của cơ quan nhà nước có thẩm quyền
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Dự án đầu tư do nhà đầu tư lập
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Hồ sơ thiết kế, dự toán được nhà đầu tư phê duyệt
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Hồ sơ thiết kế, dự toán được nhà đầu tư phê duyệt
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản sao các văn bản về điều kiện sản xuất, kinh doanh theo quy định hiện hành (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Chứng từ, hóa đơn tài chính hợp pháp.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Tài chính - Thành phố Huế
+Cơ quan có thẩm quyền: UBND Thành phố Huế
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công thành phố (Số 01 Lê Lai, phường Thuận Hoá, thành phố Huế)
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hỗ trợ đầu tư của Uỷ ban nhân dân tỉnh (Mẫu số 03)
+Căn cứ pháp lý:
+  * Ban hành quy định một số chính sách hỗ trợ đầu tư trên địa bàn tỉnh Thừa Thiên Huế (01/2022/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

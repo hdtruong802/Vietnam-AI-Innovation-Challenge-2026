@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002239
+Số quyết định: 1014/QĐ-BTC
+Tên thủ tục: Bán hàng DTQG theo phương thức trực tiếp rộng rãi cho mọi đối tượng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Dự trữ
+Trình tự thực hiện:
+  * TTHC bán hàng DTQG theo phương thức bán trực tiếp cho mọi đối tượng áp dụng trong trường hợp bán thóc, muối ăn; vật tư, thiết bị cứu hộ, cứu nạn, vật tư thông dụng động viên công nghiệp (sau 02 cuộc bán đấu giá không thành) dự trữ quốc gia do Bộ Tài chính (Tổng cục Dự trữ Nhà nước) trực tiếp quản lý.
+    Bước 1: Thông báo công khai kế hoạch bán hàng DTQG
+    Căn cứ vào Quyết định của Tổng cục trưởng Tổng cục Dự trữ Nhà nước về việc phê duyệt Kế hoạch bán hàng DTQG theo phương thức bán trực tiếp rộng rãi cho mọi đối tượng, Cục DTNN khu vực thông báo kế hoạch bán hàng dự trữ quốc gia trên báo (03 kỳ liên tiếp) hoặc trên đài truyền hình (03 lần liên tiếp) của địa phương và tại điểm kho bán hàng; trên Trang thông tin điện tử của Bộ Tài chính, của Tổng cục Dự trữ Nhà nước. Nội dung kế hoạch thông báo gồm:
+    - Danh mục, quy cách, số lượng;
+    - Tình trạng chất lượng;
+    - Điểm kho xuất bán hàng;
+    - Giá bán;
+    - Thời điểm mở cửa kho;
+    - Thời điểm kết thúc bán.
+    Bước 2: Đơn vị DTQG thực hiện quy trình bán hàng DTQG, cụ thể:
+    - Tổ chức kiểm tra chất lượng hàng trước khi xuất bán;
+    - Mở kho xuất bán hàng đúng thời gian quy định;
+    - Thu tiền bán hàng trước, xuất hàng sau;
+    - Mở sổ theo dõi xuất kho, ghi chép hóa đơn, chứng từ theo quy định, đối chiếu tiền, hàng trong ngày;
+    - Thực hiện chế độ báo cáo xuất bán hàng dự trữ quốc gia theo quy định.
+    Trường hợp bán hàng DTQG thông qua hợp đồng, Cục DTNN KV ký kết hợp đồng mua bán hàng dự trữ quốc gia; tổ chức giao hàng cho cá nhân, tổ chức mua hàng DTQG tại cửa kho DTQG sau khi nhận tiền thanh toán cho việc mua hàng; Thanh lý hợp đồng sau khi hai bên hoàn thành nghĩa vụ quy định tại hợp đồng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ (Đối với người mua hàng) ]
+    - - Biên bản thanh lý hợp đồng (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Phiếu thu tiền;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Hợp đồng mua, bán (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Cục Dự trữ Nhà nước khu vực, Chi cục Dự trữ Nhà nước
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hàng dự trữ quốc gia được bán theo đúng kế hoạch được Tổng cục trưởng Tổng cục DTNN phê duyệt
+Căn cứ pháp lý:
+  * Luật dự trữ quốc gia (22/2012/QH13)
+  * Thông tư 89/2015/TT-BTC (89/2015/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

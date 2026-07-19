@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000343
+Số quyết định: 1025/QĐ-BCA
+Tên thủ tục: Sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Đảm bảo an toàn thông tin, an ninh mạng
+Trình tự thực hiện:
+    Việc sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng được thực hiện trong trường hợp doanh nghiệp đã được cấp Giấy phép thay đổi tên, thay đổi người đại diện theo pháp luật hoặc thay đổi, bổ sung sản phẩm, dịch vụ an toàn thông tin mạng mà mình cung cấp.
+    Bước 1: Doanh nghiệp đăng nhập hệ thống dịch vụ công Bộ Công an bằng tài khoản dịch vụ công hoặc bằng tài khoản định danh VNeID mức 2.
+    Bước 2: Doanh nghiệp tìm kiếm, lựa chọn thủ tục hành chính Cấp giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng (trừ trường hợp cấp phép kinh doanh dịch vụ kiểm tra, đánh giá an toàn thông tin hoặc dịch vụ bảo mật thông tin không sử dụng mật mã dân sự) (mã thủ tục hành chính: 3.000343) và chọn Nộp trực tuyến.
+    Bước 3: Người nộp hồ sơ kê khai chính xác, đầy đủ, trung thực Thông tin tài khoản nộp hồ sơ (hệ thống tự điền nếu đăng nhập bằng tài khoản định danh mức 2), Thông tin chủ hồ sơ (tổ chức, cá nhân, doanh nghiệp) và chọn sang bước tiếp theo.
+    Bước 4: Người nộp hồ sơ căn cứ thành phần hồ sơ cần nộp để tải lên hệ thống các tài liệu tương ứng và chọn sang bước tiếp theo.
+    Bước 5: Hệ thống thông báo lệ phí của thủ tục hành chính.
+    - Chọn hình thức nhận kết quả: Nhận kết quả trực tuyến, nhận kết quả qua dịch vụ bưu chính hoặc nhận kết quả trực tiếp tại Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao.
+    - Chọn hình thức thanh toán: Trực tuyến qua dịch vụ công, chuyển khoản hoặc thanh toán trực tiếp tại Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao.
+    - Điền thông tin đăng ký hoàn tiền.
+    - Xác nhận thông tin kê khai là chính xác và sang bước tiếp theo.
+    Bước 6: Hệ thống thông báo nộp hồ sơ thành công, thông báo mã hồ sơ, tình trạng hồ sơ đang chờ tiếp nhận. Người nộp hồ sơ xác nhận thông tin.
+    Bước 7: Cán bộ xử lý tiếp nhận hồ sơ, kiểm tra tính hợp lệ của hồ sơ và gửi thông báo tới người nộp trong vòng 02 ngày làm việc.
+    + Nếu thành phần hồ sơ chưa hợp lệ: doanh nghiệp sẽ nhận được thông báo, yêu cầu bổ sung, giải trình và tiếp tục nộp bổ sung hồ sơ.
+    + Nếu thành phần hồ sơ đã hợp lệ: doanh nghiệp sẽ nhận thông báo hồ sơ hợp lệ, thời gian dự kiến nhận giấy phép.
+    + Trường hợp từ chối cấp thì phải thông báo bằng văn bản và nêu rõ lí do.
+    Bước 8:  Cán bộ xử lý trong thời hạn 07 ngày kể từ ngày nhận hồ sơ đầy đủ, hợp lệ. Hệ thống gửi thông báo về thanh toán phí cho doanh nghiệp. Doanh nghiệp sau khi hoàn thành việc thanh toán sẽ nhận được Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ (Căn cứ pháp lý: Thông tư 269/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí và lệ phí thuộc lĩnh vực an toàn thông tin.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ (Căn cứ pháp lý: Thông tư 269/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí và lệ phí thuộc lĩnh vực an toàn thông tin.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 ngày
+    Phí, lệ phí: 0 VNĐ (Căn cứ pháp lý: Thông tư 269/2016/TT-BTC ngày 14/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí và lệ phí thuộc lĩnh vực an toàn thông tin.)
+
+Thành phần hồ sơ:
+    - Báo cáo mô tả chi tiết nội  dung đề nghị sửa đổi, bổ sung
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các tài liệu khác có liên  quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị sửa đổi, bổ sung Giấy phép kinh doanh sản phẩm, dịch  vụ an toàn thông tin mạng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Cục an ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao
+Cơ quan có thẩm quyền: Cục an ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép kinh doanh sản phẩm, dịch vụ an toàn thông tin mạng.
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

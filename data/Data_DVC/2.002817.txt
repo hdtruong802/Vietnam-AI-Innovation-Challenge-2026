@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002817
+Số quyết định: 3697/QĐ-BCT
+Tên thủ tục: Cấp lại Giấy phép thành lập Sở giao dịch hàng hóa trong Trung tâm tài chính quốc tế tại Việt Nam
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Sở giao dịch hàng hóa
+Trình tự thực hiện:
+    - Doanh nghiệp nộp 01 bộ hồ sơ đề nghị cấp lại Giấy phép thành lập về Cơ quan điều hành tại các thành phố theo một trong ba cách: gửi trực tiếp hoặc qua đường bưu điện hoặc qua Hệ thống hành chính một cửa điện tử tại Trung tâm tài chính quốc tế;
+    - Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, Cơ quan điều hành tại các thành phố quyết định cấp lại Giấy phép thành lập.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Doanh nghiệp nộp 01 bộ hồ sơ đề nghị cấp lại Giấy phép thành lập về Cơ quan điều hành tại các thành phố theo một trong ba cách: gửi trực tiếp hoặc qua đường bưu điện hoặc qua Hệ thống hành chính một cửa điện tử tại Trung tâm tài chính quốc tế.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Doanh nghiệp nộp 01 bộ hồ sơ đề nghị cấp lại Giấy phép thành lập về Cơ quan điều hành tại các thành phố theo một trong ba cách: gửi trực tiếp hoặc qua đường bưu điện hoặc qua Hệ thống hành chính một cửa điện tử tại Trung tâm tài chính quốc tế.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Doanh nghiệp nộp 01 bộ hồ sơ đề nghị cấp lại Giấy phép thành lập về Cơ quan điều hành tại các thành phố theo một trong ba cách: gửi trực tiếp hoặc qua đường bưu điện hoặc qua Hệ thống hành chính một cửa điện tử tại Trung tâm tài chính quốc tế.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp lại Giấy phép thành lập theo Mẫu số 03.GĐN tại Phụ lục I kèm theo Nghị định 330/2025/NĐ-CP ngày 18/12/2025.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ban Quản lý Khu kinh tế
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thành lập Sở giao dịch hàng hóa được cấp lại trong trường hợp: mất, bị rách hoặc bị hư hỏng dưới hình thức khác; có sai sót, nhầm lẫn.
+Căn cứ pháp lý:
+  * Nghị quyết số 222/2025/QH15 (222/2025/QH15)
+  * Nghị định số 330/2025/NĐ-CP của Chính phủ: Về thành lập và hoạt động của Sở giao dịch hàng hóa trong Trung tâm tài chính quốc tế tại Việt Nam (18/12/2025)
+
+Yêu cầu, điều kiện thực hiện: Không quy định
+Từ khóa: Không có thông tin
+Mô tả: Không quy định

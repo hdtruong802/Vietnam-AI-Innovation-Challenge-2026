@@ -1,0 +1,270 @@
+{
+  "procedure_id": "dang-ky-thuong-tru",
+  "name": "Đăng ký thường trú",
+  "jurisdiction": "Cấp xã",
+  "authority": "Công an cấp xã",
+  "version": "demo-approved-20260718",
+  "review_status": "demo_approved",
+  "last_verified_at": null,
+  "checksum": "demo-thuong-tru-20260718",
+  "demo_pack": true,
+  "processing_time": "07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ",
+  "fee": "20.000 VNĐ nộp trực tiếp; 10.000 VNĐ nộp trực tuyến (miễn cho một số đối tượng theo Thông tư 75/2022/TT-BTC)",
+  "source_refs": [
+    {
+      "ref_id": "1.004222-DVC",
+      "title": "Chi tiết thủ tục Đăng ký thường trú — mã 1.004222 (Quyết định 1523/QĐ-BCA-C06)",
+      "url_or_ref": "https://dichvucong.gov.vn"
+    },
+    {
+      "ref_id": "LUAT-68-2020-QH14",
+      "title": "Luật Cư trú số 68/2020/QH14",
+      "url_or_ref": "https://chinhphu.vn"
+    },
+    {
+      "ref_id": "ND-154-2024",
+      "title": "Nghị định 154/2024/NĐ-CP quy định chi tiết một số điều và biện pháp thi hành Luật Cư trú",
+      "url_or_ref": "https://chinhphu.vn"
+    },
+    {
+      "ref_id": "TT-53-2025-BCA",
+      "title": "Thông tư 53/2025/TT-BCA (biểu mẫu CT01, CT02 trong đăng ký, quản lý cư trú)",
+      "url_or_ref": "https://chinhphu.vn"
+    },
+    {
+      "ref_id": "TT-75-2022-BTC",
+      "title": "Thông tư 75/2022/TT-BTC quy định mức thu, chế độ thu, nộp và quản lý lệ phí đăng ký cư trú",
+      "url_or_ref": "https://chinhphu.vn"
+    }
+  ],
+  "aliases": [
+    "thuong tru",
+    "ho khau",
+    "nhap khau",
+    "nhap ho khau",
+    "chuyen ho khau",
+    "cu tru",
+    "residence"
+  ],
+  "intake_questions": [
+    {
+      "id": "q_hinh_thuc_cho_o",
+      "prompt": "Chỗ ở bạn muốn đăng ký thường trú thuộc trường hợp nào?",
+      "options": [
+        "Chỗ ở thuộc sở hữu của tôi",
+        "Thuê, mượn, ở nhờ",
+        "Về ở với người thân (chủ hộ đồng ý)",
+        "Trường hợp khác"
+      ],
+      "why": "Mỗi trường hợp có giấy tờ chứng minh chỗ ở/quan hệ khác nhau theo Điều 20, Điều 21 Luật Cư trú."
+    },
+    {
+      "id": "q_hinh_thuc_nop",
+      "prompt": "Bạn dự định nộp hồ sơ theo hình thức nào?",
+      "options": ["Trực tiếp tại Công an cấp xã", "Trực tuyến qua Cổng dịch vụ công"],
+      "why": "Lệ phí khác nhau theo hình thức nộp: 20.000đ trực tiếp, 10.000đ trực tuyến."
+    }
+  ],
+  "required_documents": [
+    {
+      "id": "to-khai-ct01",
+      "label": "Tờ khai thay đổi thông tin cư trú (mẫu CT01)",
+      "kind": "required",
+      "description": "Bản chính theo mẫu CT01 ban hành kèm Thông tư 53/2025/TT-BCA. Công dân Việt Nam định cư ở nước ngoài không có hộ chiếu Việt Nam còn giá trị dùng mẫu CT02.",
+      "source_ref_ids": ["TT-53-2025-BCA", "1.004222-DVC"]
+    }
+  ],
+  "optional_documents": [
+    {
+      "id": "giay-to-cho-o-hop-phap",
+      "label": "Giấy tờ chứng minh chỗ ở hợp pháp",
+      "kind": "conditional",
+      "description": "Chỉ cần xuất trình khi cơ quan không khai thác được thông tin từ Cơ sở dữ liệu quốc gia (đất đai, dân cư, cư trú). Giấy tờ theo khoản 2 Điều 5 Nghị định 154/2024/NĐ-CP.",
+      "source_ref_ids": ["ND-154-2024"]
+    },
+    {
+      "id": "hop-dong-thue-muon",
+      "label": "Hợp đồng thuê, mượn, ở nhờ được công chứng/chứng thực",
+      "kind": "conditional",
+      "description": "Trường hợp đăng ký thường trú vào chỗ ở hợp pháp do thuê, mượn, ở nhờ; kèm thông tin chứng minh đủ diện tích nhà ở bình quân theo quy định của Hội đồng nhân dân tỉnh.",
+      "source_ref_ids": ["1.004222-DVC", "ND-154-2024"]
+    },
+    {
+      "id": "giay-to-quan-he-nhan-than",
+      "label": "Giấy tờ chứng minh quan hệ nhân thân với chủ hộ",
+      "kind": "conditional",
+      "description": "Trường hợp về ở với người thân theo khoản 2 Điều 20 Luật Cư trú và không khai thác được thông tin trong Cơ sở dữ liệu hộ tịch điện tử/dân cư (ví dụ: giấy khai sinh, giấy chứng nhận kết hôn).",
+      "source_ref_ids": ["LUAT-68-2020-QH14", "ND-154-2024"]
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "title": "Chuẩn bị hồ sơ",
+      "detail": "Chuẩn bị tờ khai CT01 và giấy tờ theo trường hợp chỗ ở của bạn (sở hữu, thuê/mượn/ở nhờ, về ở với người thân)."
+    },
+    {
+      "order": 2,
+      "title": "Nộp hồ sơ đến Công an cấp xã",
+      "detail": "Nộp trực tiếp tại Công an cấp xã nơi đăng ký thường trú hoặc trực tuyến qua Cổng dịch vụ công."
+    },
+    {
+      "order": 3,
+      "title": "Tiếp nhận và kiểm tra",
+      "detail": "Cán bộ đối chiếu thông tin khai báo với Cơ sở dữ liệu quốc gia về dân cư/cư trú. Hồ sơ đủ điều kiện: cấp Phiếu tiếp nhận và hẹn trả kết quả (mẫu CT04); không đủ điều kiện: cấp Phiếu từ chối (mẫu CT06) có nêu lý do."
+    },
+    {
+      "order": 4,
+      "title": "Nộp lệ phí",
+      "detail": "Nộp lệ phí đăng ký thường trú theo quy định (20.000đ trực tiếp / 10.000đ trực tuyến, trừ đối tượng miễn)."
+    },
+    {
+      "order": 5,
+      "title": "Nhận kết quả",
+      "detail": "Theo ngày hẹn trên Phiếu tiếp nhận, nhận thông báo kết quả giải quyết đăng ký cư trú. Thông tin thường trú được cập nhật vào Cơ sở dữ liệu về cư trú."
+    }
+  ],
+  "form_schema": {
+    "type": "object",
+    "properties": {
+      "ho_ten": { "type": "string", "title": "Họ và tên người đăng ký", "minLength": 2 },
+      "so_dinh_danh": { "type": "string", "title": "Số định danh cá nhân/CCCD" },
+      "ngay_sinh": { "type": "string", "format": "date", "title": "Ngày sinh" },
+      "dia_chi_thuong_tru_moi": { "type": "string", "title": "Địa chỉ đăng ký thường trú mới" },
+      "hinh_thuc_cho_o": {
+        "type": "string",
+        "title": "Trường hợp chỗ ở (khai đúng như câu trả lời làm rõ)"
+      },
+      "ho_ten_chu_ho": { "type": "string", "title": "Họ và tên chủ hộ (nếu về ở với người thân)" },
+      "quan_he_voi_chu_ho": {
+        "type": "string",
+        "title": "Quan hệ với chủ hộ (nếu về ở với người thân)"
+      },
+      "dien_tich_binh_quan": {
+        "type": "number",
+        "title": "Diện tích nhà ở bình quân (m²/người, nếu thuê/mượn/ở nhờ)"
+      },
+      "ngay_chuyen_den": { "type": "string", "format": "date", "title": "Ngày chuyển đến chỗ ở mới" }
+    },
+    "required": ["ho_ten", "so_dinh_danh", "dia_chi_thuong_tru_moi", "hinh_thuc_cho_o"]
+  },
+  "validation_rules": [
+    {
+      "rule_id": "TT-REQ-01",
+      "type": "required",
+      "field_id": "ho_ten",
+      "severity": "error",
+      "message": "Họ và tên người đăng ký là bắt buộc trong tờ khai CT01.",
+      "fix_hint": "Nhập họ và tên theo giấy tờ tùy thân.",
+      "source_ref_ids": ["TT-53-2025-BCA"]
+    },
+    {
+      "rule_id": "TT-REQ-02",
+      "type": "required",
+      "field_id": "so_dinh_danh",
+      "severity": "error",
+      "message": "Số định danh cá nhân/CCCD là bắt buộc để đối chiếu Cơ sở dữ liệu quốc gia về dân cư.",
+      "fix_hint": "Nhập đúng 12 chữ số trên thẻ Căn cước/CCCD.",
+      "source_ref_ids": ["1.004222-DVC"]
+    },
+    {
+      "rule_id": "TT-REQ-03",
+      "type": "required",
+      "field_id": "dia_chi_thuong_tru_moi",
+      "severity": "error",
+      "message": "Địa chỉ đăng ký thường trú mới là bắt buộc.",
+      "fix_hint": "Nhập đầy đủ số nhà, đường/thôn, xã/phường, tỉnh/thành phố.",
+      "source_ref_ids": ["TT-53-2025-BCA"]
+    },
+    {
+      "rule_id": "TT-REQ-04",
+      "type": "required",
+      "field_id": "hinh_thuc_cho_o",
+      "severity": "error",
+      "message": "Cần xác định trường hợp chỗ ở để biết giấy tờ phải nộp kèm.",
+      "fix_hint": "Chọn một trong các trường hợp: sở hữu, thuê/mượn/ở nhờ, về ở với người thân.",
+      "source_ref_ids": ["LUAT-68-2020-QH14"]
+    },
+    {
+      "rule_id": "TT-PAT-01",
+      "type": "string_pattern",
+      "field_id": "so_dinh_danh",
+      "severity": "error",
+      "message": "Số định danh cá nhân/CCCD phải gồm đúng 12 chữ số.",
+      "fix_hint": "Nhập lại 12 chữ số, không chứa khoảng trắng hoặc ký tự khác.",
+      "params": { "pattern": "^\\d{12}$" },
+      "source_ref_ids": ["1.004222-DVC"]
+    },
+    {
+      "rule_id": "TT-FMT-01",
+      "type": "date_format",
+      "field_id": "ngay_sinh",
+      "severity": "error",
+      "message": "Ngày sinh phải theo định dạng ngày hợp lệ (YYYY-MM-DD).",
+      "fix_hint": "Chọn lại ngày sinh từ ô chọn ngày.",
+      "source_ref_ids": ["TT-53-2025-BCA"]
+    },
+    {
+      "rule_id": "TT-FMT-02",
+      "type": "date_not_future",
+      "field_id": "ngay_sinh",
+      "severity": "error",
+      "message": "Ngày sinh không thể là ngày trong tương lai.",
+      "fix_hint": "Kiểm tra lại ngày sinh theo giấy tờ tùy thân.",
+      "source_ref_ids": ["TT-53-2025-BCA"]
+    },
+    {
+      "rule_id": "TT-FMT-03",
+      "type": "date_format",
+      "field_id": "ngay_chuyen_den",
+      "severity": "error",
+      "message": "Ngày chuyển đến phải theo định dạng ngày hợp lệ (YYYY-MM-DD).",
+      "fix_hint": "Chọn lại ngày từ ô chọn ngày.",
+      "source_ref_ids": ["TT-53-2025-BCA"]
+    },
+    {
+      "rule_id": "TT-TYP-01",
+      "type": "type",
+      "field_id": "dien_tich_binh_quan",
+      "severity": "error",
+      "message": "Diện tích nhà ở bình quân phải là một con số (m²/người).",
+      "fix_hint": "Nhập số, ví dụ 8 hoặc 10.5; không nhập chữ.",
+      "params": { "expected": "number" },
+      "source_ref_ids": ["ND-154-2024"]
+    },
+    {
+      "rule_id": "TT-CON-01",
+      "type": "conditional_required",
+      "field_id": "ho_ten_chu_ho",
+      "severity": "error",
+      "message": "Trường hợp về ở với người thân cần khai họ và tên chủ hộ.",
+      "fix_hint": "Nhập họ và tên chủ hộ nơi bạn chuyển đến.",
+      "params": {
+        "when": { "field_id": "hinh_thuc_cho_o", "equals": "Về ở với người thân (chủ hộ đồng ý)" }
+      },
+      "source_ref_ids": ["LUAT-68-2020-QH14"]
+    },
+    {
+      "rule_id": "TT-CON-02",
+      "type": "conditional_required",
+      "field_id": "quan_he_voi_chu_ho",
+      "severity": "error",
+      "message": "Trường hợp về ở với người thân cần khai quan hệ với chủ hộ (vợ/chồng, con, cha mẹ...).",
+      "fix_hint": "Nhập quan hệ nhân thân với chủ hộ để đối chiếu điều kiện tại khoản 2 Điều 20 Luật Cư trú.",
+      "params": {
+        "when": { "field_id": "hinh_thuc_cho_o", "equals": "Về ở với người thân (chủ hộ đồng ý)" }
+      },
+      "source_ref_ids": ["LUAT-68-2020-QH14"]
+    },
+    {
+      "rule_id": "TT-CMP-01",
+      "type": "field_compare",
+      "field_id": "ngay_chuyen_den",
+      "severity": "error",
+      "message": "Ngày chuyển đến không thể trước ngày sinh (mâu thuẫn dữ liệu chéo).",
+      "fix_hint": "Kiểm tra lại hai trường ngày sinh và ngày chuyển đến.",
+      "params": { "other_field": "ngay_sinh", "operator": "gte" },
+      "source_ref_ids": ["1.004222-DVC"]
+    }
+  ]
+}

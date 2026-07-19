@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001580
+Số quyết định: 461/QĐ-BXD
+Tên thủ tục: Tàu biển đang đóng hoặc sửa chữa, hoán cải chạy thử
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Chậm nhất 02 giờ trước khi tàu biển đang đóng hoặc sửa chữa, hoán cải chạy thử người làm thủ tục nộp, xuất trình cho Cảng vụ hàng hải/ Cảng vụ đường thủy nội địa các giấy tờ, tài liệu theo quy định.
+    b) Giải quyết TTHC:
+    - Chậm nhất 01 giờ kể từ khi người làm thủ tục đã nộp, xuất trình đủ các giấy tờ theo quy định, Cảng vụ hàng hải/ Cảng vụ đường thủy nội địa cấp Giấy phép chạy thử; trường hợp chưa hoàn thành thủ tục phải thông báo và nêu rõ lý do, cách thức giải quyết.
+    - Trường hợp tàu biển được cấp Giấy phép chạy thử nhưng quá 24 giờ không chạy thử thì phải làm lại thủ tục chạy thử theo quy định.
+    - Trường hợp tàu thuyền chạy thử từ vùng nước cảng biển này tới vùng nước cảng biển khác thì Giấy phép chạy thử được thay thế bằng Giấy phép rời cảng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ (Lệ phí: Phí bảo đảm hàng hải:  (tàu thuyền chạy thử sau khi sửa chữa, đóng mới mà không xếp, dỡ hàng hóa, không đón, trả khách áp dụng mức thu bằng 70% mức thu quy định tại Điều 8 và Điều 13 Thông tư số 261/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính;)  Lệ phí: Lệ phí ra, vào cảng biển  (theo quy định tại Thông tư số 261/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính)  Lệ phí: tàu thuyền chạy thử sau khi sửa chữa, đóng mới mà không xếp, dỡ hàng hóa, không đón, trả khách áp dụng mức thu bằng 70% mức thu quy định tại Điều 9 và Điều 14 Thông tư số 261/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính  (Phí sử dụng vị trí neo, đậu tại khu nước, vùng nước)  Lệ phí: tàu thuyền chạy thử sau khi sửa chữa, đóng mới mà không xếp, dỡ hàng hóa, không đón, trả khách áp dụng mức thu bằng 70% mức thu quy định tại Điều 7 và Điều 12 Thông tư số 261/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính;  (Phí trọng tải tàu, thuyền:))
+    Mô tả: Chậm nhất 01 giờ, kể từ khi người làm thủ tục đã nộp, xuất trình đủ các giấy tờ theo quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ (Lệ phí: Phí bảo đảm hàng hải:  (tàu thuyền chạy thử sau khi sửa chữa, đóng mới mà không xếp, dỡ hàng hóa, không đón, trả khách áp dụng mức thu bằng 70% mức thu quy định tại Điều 8 và Điều 13 Thông tư số 261/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính;)  Lệ phí: Lệ phí ra, vào cảng biển  (theo quy định tại Thông tư số 261/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính)  Lệ phí: tàu thuyền chạy thử sau khi sửa chữa, đóng mới mà không xếp, dỡ hàng hóa, không đón, trả khách áp dụng mức thu bằng 70% mức thu quy định tại Điều 9 và Điều 14 Thông tư số 261/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính  (Phí sử dụng vị trí neo, đậu tại khu nước, vùng nước)  Lệ phí: tàu thuyền chạy thử sau khi sửa chữa, đóng mới mà không xếp, dỡ hàng hóa, không đón, trả khách áp dụng mức thu bằng 70% mức thu quy định tại Điều 7 và Điều 12 Thông tư số 261/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính;  (Phí trọng tải tàu, thuyền:))
+    Mô tả: Chậm nhất 01 giờ, kể từ khi người làm thủ tục đã nộp, xuất trình đủ các giấy tờ theo quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: 0 VNĐ (Lệ phí: theo quy định tại Thông tư số 261/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính  (Lệ phí ra, vào cảng biển:)  Lệ phí: tàu thuyền chạy thử sau khi sửa chữa, đóng mới mà không xếp, dỡ hàng hóa, không đón, trả khách áp dụng mức thu bằng 70% mức thu quy định tại Điều 7 và Điều 12 Thông tư số 261/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính  (Phí trọng tải tàu, thuyền)  Lệ phí: tàu thuyền chạy thử sau khi sửa chữa, đóng mới mà không xếp, dỡ hàng hóa, không đón, trả khách áp dụng mức thu bằng 70% mức thu quy định tại Điều 8 và Điều 13 Thông tư số 261/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính  (Phí bảo đảm hàng hải)  Lệ phí: tàu thuyền chạy thử sau khi sửa chữa, đóng mới mà không xếp, dỡ hàng hóa, không đón, trả khách áp dụng mức thu bằng 70% mức thu quy định tại Điều 9 và Điều 14 Thông tư số 261/2016/TT-BTC ngày 14/11/2016 của Bộ trưởng Bộ Tài chính;  (Phí sử dụng vị trí neo, đậu tại khu nước, vùng nước))
+    Mô tả: Chậm nhất 01 giờ, kể từ khi người làm thủ tục đã nộp, xuất trình đủ các giấy tờ theo quy định
+
+Thành phần hồ sơ:
+  [ Các giấy tờ phải nộp (bản chính) gồm: ]
+    - Giấy đề nghị chạy thử tàu trong đó nêu rõ lý do di chuyển, nơi đến và thời gian chạy thử
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách thuyền viên
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách người đi theo tàu (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Các giấy tờ phải xuất trình (bản chính), bao gồm: ]
+    - Chứng chỉ chuyên môn thuyền viên
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phương án lai dắt tàu trong trường hợp tàu chạy thử không sử dụng máy của tàu
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Văn phòng đại diện Cảng vụ Hàng hải, Cảng vụ hàng hải, Cảng vụ đường thủy nội địa
+Cơ quan có thẩm quyền: Văn phòng đại diện Cảng vụ Hàng hải, Cảng vụ hàng hải, Cảng vụ đường thủy nội địa
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép chạy thử
+Căn cứ pháp lý:
+  * Nghị định quy định chi tiết một số điều của Bộ luật Hàng hải Việt Nam về quản lý hoạt động hàng hải (58/2017/NĐ-CP)
+  * Bộ luật Hàng hải Việt Nam (95/2015/QH13)
+  * Quy định về phí, lệ phí hàng hải và biểu mức thu phí, lệ phí hàng hải (261/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000450
+Số quyết định: 01/QĐ-BCT
+Tên thủ tục: Cấp lại Giấy phép thành lập Văn phòng đại diện của thương nhân nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thương mại quốc tế
+Trình tự thực hiện:
+    1. Thương nhân nước ngoài thực hiện thủ tục cấp lại Giấy phép thành lập Văn phòng đại diện đối với trường hợp quy định tại Khoản 1 Điều 18 Nghị định 07/2016/NĐ-CP trong thời hạn 30 ngày kể từ ngày thông báo về việc chấm dứt hoạt động Văn phòng đại diện tại nơi chuyển đi. Quá thời hạn nêu trên, thương nhân nước ngoài phải thực hiện thủ tục cấp Giấy phép thành lập Văn phòng đại diện theo quy định tại Điều 10 và Điều 11 Nghị định 07/2016/NĐ-CP.
+    2. Thương nhân nước ngoài nộp hồ sơ trực tiếp hoặc qua đường bưu điện hoặc trực tuyến (nếu đủ điều kiện áp dụng) đến Cơ quan cấp Giấy phép.
+    3. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan cấp Giấy phép kiểm tra và yêu cầu bổ sung nếu hồ sơ chưa đầy đủ, hợp lệ. Việc yêu cầu bổ sung hồ sơ được thực hiện tối đa một lần trong suốt quá trình giải quyết hồ sơ.
+    4. Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Cơ quan cấp Giấy phép cấp lại Giấy phép thành lập Văn phòng đại diện. Trường hợp không cấp lại phải có văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Trường hợp cấp lại theo quy định tại Khoản 1 Điều 18 Nghị định 07/2016/NĐ-CP, hồ sơ 01 bộ bao gồm: ]
+    - Đơn đề nghị cấp lại Giấy phép thành lập Văn phòng đại diện theo mẫu của Bộ Công Thương do đại diện có thẩm quyền của thương nhân nước ngoài ký
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông báo về việc chấm dứt hoạt động Văn phòng đại diện gửi Cơ quan cấp Giấy phép nơi chuyển đi theo quy định tại Điểm a Khoản 1 Điều 36 Nghị định 07/2016/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy phép thành lập Văn phòng đại diện của thương nhân nước ngoài tại Việt Nam
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tài liệu về địa điểm dự kiến đặt trụ sở Văn phòng đại diện nơi chuyển đến theo quy định tại Điểm e Khoản 1 Điều 10 Nghị định 07/2016/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp cấp lại theo quy định tại Khoản 2 Điều 18 Nghị định 07/2016/NĐ-CP, hồ sơ 01 bộ bao gồm: ]
+    - Đơn đề nghị cấp lại Giấy phép thành lập Chi nhánh theo mẫu của Bộ Công Thương do đại diện có thẩm quyền của thương nhân nước ngoài ký
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người nước ngoài, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Ban Quản lý Khu công nghệ cao, Ban Quản lý Khu chế xuất- Khu công nghiệp, Văn phòng Ban chỉ đạo liên ngành hội nhập quốc tế về kinh tế, Sở Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: GIẤY PHÉP THÀNH LẬP VĂN PHÒNG ĐẠI DIỆN CỦA THƯƠNG NHÂN NƯỚC NGOÀI TẠI VIỆT NAM
+Căn cứ pháp lý:
+  * Thông tư số 11/2016/TT-BCT (11/2016/TT-BCT)
+  * Nghị định số 07/2016/NĐ-CP (07/2016/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: định biểu mẫu thực hiện Nghị định số 07/2016/NĐ-CP ngày 25 tháng 01 năm 2016 của Chính phủ quy định chi tiết Luật Thương mại về Văn phòng đại diện, Chi nhánh của thương nhân nước ngoài tại Việt Nam
+Từ khóa: Không có thông tin
+Mô tả: định biểu mẫu thực hiện Nghị định số 07/2016/NĐ-CP ngày 25 tháng 01 năm 2016 của Chính phủ quy định chi tiết Luật Thương mại về Văn phòng đại diện, Chi nhánh của thương nhân nước ngoài tại Việt Nam

@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 5.003846
+Số quyết định: 2827/QĐ-BGDĐT
+Tên thủ tục: Công nhận xã đạt chuẩn phổ cập giáo dục, xóa mù chữ 
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: CENTRAL_REGULATION
+Lĩnh vực: Giáo dục và Đào tạo thuộc hệ thống giáo dục quốc dân
+Trình tự thực hiện:
+    a) Bước 1: Đơn vị cấp xã lập hồ sơ đề nghị Uỷ ban nhân dân cấp tỉnh kiểm tra công nhận xã đạt chuẩn phổ cập giáo dục, xoá mù chữ.
+    b) Bước 2: Uỷ ban nhân dân cấp tỉnh xem xét hồ sơ và kiểm tra đơn vị cấp xã.
+    c) Bước 3: Uỷ ban nhân dân cấp tỉnh ra quyết định công nhận đạt chuẩn phổ cập giáo dục, xoá mù chữ đối với xã nếu đủ tiêu chuẩn theo quy định tại Nghị định số 20/2014/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 HOUR
+    Phí, lệ phí: Không có thông tin
+    Mô tả: không quy định
+
+Thành phần hồ sơ:
+  [ Hồ sơ đề nghị công nhận xã đạt chuẩn bao gồm ]
+    - a) Phiếu điều tra phổ cập giáo dục, xóa mù chữ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Sổ theo dõi phổ cập giáo dục, xóa mù chữ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Danh sách trẻ em hoàn thành chương trình giáo dục mầm non (đối với phổ cập giáo dục mầm non); danh sách học sinh hoàn thành chương trình giáo dục tiểu học (đối với phổ cập giáo dục tiểu học); danh sách học sinh tốt nghiệp trung học cơ sở; danh sách học sinh có chứng chỉ nghề (đối với phổ cập giáo dục trung học cơ sở); danh sách học viên được công nhận biết chữ theo các mức độ (đối với xóa mù chữ).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Báo cáo quá trình thực hiện và kết quả phổ cập giáo dục hoặc xóa mù chữ kèm theo các biểu thống kê.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản tự kiểm tra phổ cập giáo dục hoặc xóa mù chữ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận đạt chuẩn phổ cập giáo dục, xóa mù chữ đối với xã.
+Căn cứ pháp lý:
+  * Nghị định số 142/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương hai cấp trong lĩnh vực quản lý nhà nước của Bộ Giáo dục và Đào tạo (Nghị định số 142/2025/NĐ-CP)
+  * Về phổ cập giáo dục, xóa mù chữ (20/2014/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

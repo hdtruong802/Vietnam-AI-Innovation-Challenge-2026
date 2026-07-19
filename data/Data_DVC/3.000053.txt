@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000053
+Số quyết định: 1734/QĐ-BTC
+Tên thủ tục: Chuyển nhượng, chuyển giao cổ phần, vốn góp của đối tượng được bảo lãnh
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Quản lý nợ
+Trình tự thực hiện:
+    Bước 1. Đối tượng được bảo lãnh gửi văn bản đề nghị Bộ Tài chính chấp thuận về việc chuyển nhượng, chuyển giao phần vốn góp của Đối tượng được bảo lãnh.
+    Bước 2. Bộ Tài chính báo cáo Thủ tướng Chính phủ. Bộ Tài chính xem xét, báo cáo Thủ tướng Chính phủ phê duyệt việc chuyển nhượng, chuyển giao cổ phần, vốn góp của Đối tượng được bảo lãnh trong vòng 15 ngày làm việc nếu người nhận chuyển nhượng, chuyển giao cổ phần, vốn góp đáp ứng tiêu chí về năng lực tài chính ít nhất bằng cổ đông chuyển nhượng, chuyển giao của Đối tượng được bảo lãnh.
+    Bước 3. Bộ Tài chính trả lời bằng văn bản cho Đối tượng được bảo lãnh sau khi nhận được ý kiến của Thủ tướng Chính phủ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - c) Báo cáo tài chính 03 năm gần nhất của Người nhận chuyển nhượng, chuyển giao đã được kiểm toán của kiểm toán nhà nước hoặc kiểm toán độc lập (bản sao có chứng thực);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - a) Công văn đề nghị chuyển nhượng, chuyển giao của Đối tượng được bảo lãnh, trong đó nêu rõ: Tên Người chuyển nhượng, chuyển giao; Tên Người nhận chuyển nhượng, chuyển giao; lý do chuyển nhượng, chuyển giao (bản gốc);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Ý kiến chấp thuận, không phản đối bằng văn bản của Người nhận bảo lãnh (bản sao có chứng thực) về việc chuyển nhượng, chuyển giao cổ phần, vốn góp của Đối tượng được bảo lãnh.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - d) Cam kết bằng văn bản của Người nhận chuyển nhượng, chuyển giao về việc kế thừa mọi trách nhiệm và nghĩa vụ của Người chuyển nhượng, chuyển giao tương ứng với cổ phần, vốn góp nhận chuyển nhượng, chuyển giao (bản gốc).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Tài liệu chứng minh năng lực của Người nhận chuyển nhượng, chuyển giao (bản sao có chứng thực);
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản ý kiến chấp thuận hoặc từ chối của Bộ Tài chính về việc chuyển nhượng, chuyển giao cổ phần, vốn góp của Đối tượng được bảo lãnh
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "record_type": "prompt_event",
+  "prompt_id": "prompt-3b192a4f308fa17afa8c3f46",
+  "occurred_at": "2026-07-19T01:42:07.553516Z",
+  "captured_at": "2026-07-19T01:42:07.553688Z",
+  "member_id": "hdtruong802",
+  "tool": "codex",
+  "event": "UserPrompt",
+  "prompt": "Apply the exact Black formatter output to resolve the remaining backend CI failure in PR #38 without force-pushing.",
+  "prompt_preview": "Apply the exact Black formatter output to resolve the remaining backend CI failure in PR #38 without force-pushing.",
+  "model": null,
+  "task_record": "local-20260719-pr38-ci",
+  "branch": "fix/local-20260719-pr38-black",
+  "workspace_fingerprint": "29aa416e0bb250a6b4670ada7dbae02bdeb972e36fb01db0ae28310d10af8a5d",
+  "source": {
+    "session_hash": "9fad80e0f1f3ed2c5830ac07de955979cc5f6d1da4c67a107fe75dd71e46cb21",
+    "adapter": "manual",
+    "adapter_version": "1"
+  },
+  "sanitization": {
+    "redacted": false,
+    "categories": []
+  },
+  "capture_warnings": []
+}

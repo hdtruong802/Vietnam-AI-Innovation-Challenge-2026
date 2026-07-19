@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002667
+Số quyết định: 1474/QĐ-BTC
+Tên thủ tục: Đăng ký lại chi nhánh, văn phòng đại diện, địa điểm kinh doanh của công ty nhà nước và công ty con chưa chuyển đổi
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Chuyển đổi công ty nhà nước được thành lập và hoạt động theo Luật Doanh nghiệp nhà nước thành công ty trách nhiệm hữu hạn một thành viên tổ chức và hoạt động theo quy định tại Luật Doanh nghiệp
+Trình tự thực hiện:
+    - Trường hợp công ty nhà nước, công ty con chưa chuyển đổi có chi nhánh, văn phòng đại diện, địa điểm kinh doanh, công ty trách nhiệm hữu hạn một thành viên sau chuyển đổi có trách nhiệm đăng ký lại chi nhánh, văn phòng đại diện, địa điểm kinh doanh theo quy định tại Nghị định số 89/2024/NĐ-CP.
+    - Kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp, công ty trách nhiệm hữu hạn một thành viên gửi hồ sơ đăng ký lại chi nhánh, văn phòng đại diện, địa điểm kinh doanh đến Cơ quan đăng ký kinh doanh cấp tỉnh nơi đặt chi nhánh, văn phòng đại diện, địa điểm kinh doanh.
+    - Cơ quan đăng ký kinh doanh có trách nhiệm xem xét tính hợp lệ của hồ sơ và cấp Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, cập nhật thông tin về địa điểm kinh doanh trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp. Trường hợp doanh nghiệp có nhu cầu, Cơ quan đăng ký kinh doanh cấp Giấy chứng nhận đăng ký địa điểm kinh doanh cho doanh nghiệp. Trường hợp từ chối cấp Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, Cơ quan đăng ký kinh doanh có trách nhiệm thông báo bằng văn bản cho doanh nghiệp và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định tại Thông tư số 47/2019/TT-BTC ngày 05/8/2019 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí cung cấp thông tin doanh nghiệp, lệ phí đăng ký doanh nghiệp.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định tại Thông tư số 47/2019/TT-BTC ngày 05/8/2019 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí cung cấp thông tin doanh nghiệp, lệ phí đăng ký doanh nghiệp.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định tại Thông tư số 47/2019/TT-BTC ngày 05/8/2019 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí cung cấp thông tin doanh nghiệp, lệ phí đăng ký doanh nghiệp.)
+
+Thành phần hồ sơ:
+    - - Quyết định chuyển đổi, trong đó bao gồm thông tin về chi nhánh, văn phòng đại diện, địa điểm kinh doanh được đăng ký lại theo quy định tại Nghị định này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao các giấy tờ sau đây: + Giấy tờ pháp lý của cá nhân người đứng đầu chi nhánh, văn phòng đại diện, địa điểm kinh doanh của công ty trách nhiệm hữu hạn một thành viên;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Giấy chứng nhận đăng ký thuế của chi nhánh, văn phòng đại diện của công ty nhà nước, công ty con chưa chuyển đổi.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Thông báo về việc đăng ký lại chi nhánh, văn phòng đại diện, địa điểm kinh doanh do người đại diện theo pháp luật của công ty trách nhiệm hữu hạn một thành viên ký (theo mẫu quy định tại Phụ lục IV ban hành kèm theo Nghị định này).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện, địa điểm kinh doanh của công ty nhà nước, công ty con chưa chuyển đổi hoặc các giấy tờ có giá trị pháp lý tương đương. Trường hợp nội dung đăng ký hoạt động chi nhánh, văn phòng đại điển, địa điểm kinh doanh đã được ghi nhận trên giấy chứng nhận đăng ký kinh doanh của công ty nhà nước, công ty con chưa chuyển đổi hoặc các giấy tờ có giá trị pháp lý tương đương, doanh nghiệp nộp giấy chứng nhận đăng ký kinh doành của công ty nhà nước, công ty con chưa chuyển đổi hoặc các giấy tờ có giá trị pháp lý tương đương thay cho loại giấy tờ này;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Cơ quan đại diện chủ sở hữu
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký hoạt động chi nhánh, văn phòng đại diện
+Căn cứ pháp lý:
+  * Luật Doanh nghiệp (59/2020/QH14)
+  * Nghị định số 89/2024/NĐ-CP của Chính phủ: Về chuyển đổi công ty nhà nước được thành lập và hoạt động theo Luật Doanh nghiệp nhà nước thành công ty trách nhiệm hữu hạn một thành viên tổ chức và hoạt động theo quy định tại Luật Doanh nghiệp (89/2024/NĐ-CP)
+  * Luật số 69/2014/QH13 của Quốc hội: LUẬT QUẢN LÝ, SỬ DỤNG VỐN NHÀ NƯỚC ĐẦU TƯ VÀO SẢN XUẤT, KINH DOANH TẠI DOANH NGHIỆP (69/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

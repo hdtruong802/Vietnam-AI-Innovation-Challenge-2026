@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000393
+Số quyết định: 3116/QĐ-BCA-C06
+Tên thủ tục: Cấp Giấy phép trang bị, giấy phép sử dụng vũ khí, công cụ hỗ trợ để triển lãm, trưng bày hoặc làm đạo cụ trong hoạt động văn hóa, nghệ thuật
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo
+Trình tự thực hiện:
+    - Bước 1: Cơ quan, tổ chức, doanh nghiệp chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: Cơ quan, tổ chức, doanh nghiệp nộp hồ sơ trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) hoặc nộp hồ sơ trực tiếp hoặc gửi qua đường bưu chính đến Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an cấp tỉnh.
+    - Bước 3: Khi tiếp nhận hồ sơ, cơ quan có thẩm quyền kiểm tra tính pháp lý, nội dung hồ sơ:
+    + Trường hợp hồ sơ đạt yêu cầu: Cán bộ tiếp nhận hồ sơ trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) phải thông báo thời gian trả kết quả cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    Cán bộ tiếp nhận hồ sơ nộp qua đường bưu chính hoặc trực tiếp phải thông báo bằng văn bản thời gian trả kết quả cho cơ quan, tổ chức, doanh nghiệp đề nghị biết và nhập vào hệ thống phần mềm quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo.
+    + Trường hợp hồ sơ thiếu thủ tục: Cán bộ tiếp nhận hồ sơ trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) phải thông báo thủ tục còn thiếu cho cơ quan, tổ chức, doanh nghiệp đề nghị biết để bổ sung, hoàn thiện.
+    Cán bộ tiếp nhận hồ sơ qua đường bưu chính hoặc trực tiếp phải trả hồ sơ hoặc thông báo bằng văn bản cho cơ quan, tổ chức, doanh nghiệp đề nghị để bổ sung, hoàn thiện hồ sơ.
+    + Hồ sơ không đạt yêu cầu: Cán bộ tiếp nhận hồ sơ nộp trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) không tiếp nhận và thông báo trả lời trên Cổng dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) lý do không tiếp nhận cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    Cán bộ tiếp nhận hồ sơ nộp qua đường bưu chính hoặc trực tiếp, không tiếp nhận và thông báo trả lời trực tiếp hoặc bằng văn bản, nêu rõ lý do không tiếp nhận cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    - Bước 4: Căn cứ ngày hẹn trả kết quả trên Giấy biên nhận hồ sơ, Phòng Cảnh sát quản lý hành chính về trật tự xã hội trả kết quả trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 10000 VNĐ (10.000 đồng/khẩu-chiếc.)
+    Mô tả: Nộp hồ sơ trên cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) hoặc gửi qua đường Bưu chính hoặc nộp trực tiếp tại Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an cấp tỉnh.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 10000 VNĐ (10.000 đồng/khẩu-chiếc.)
+    Mô tả: Nộp hồ sơ trên cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) hoặc gửi qua đường Bưu chính hoặc nộp trực tiếp tại Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an cấp tỉnh.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 10000 VNĐ (10.000 đồng/khẩu-chiếc.)
+    Mô tả: Nộp hồ sơ trên cổng Dịch vụ công quốc gia hoặc Ứng dụng định danh quốc gia (VNeID) hoặc gửi qua đường Bưu chính hoặc nộp trực tiếp tại Phòng Cảnh sát quản lý hành chính về trật tự xã hội Công an cấp tỉnh.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị, trong đó ghi rõ tên, địa chỉ của bảo tàng, đơn vị biểu diễn nghệ thuật, cơ sở điện ảnh sản xuất phim có nhu cầu trang bị; tổ chức, doanh nghiệp bán vũ khí, công cụ hỗ trợ; lý do; số lượng, chủng loại, nhãn hiệu vũ khí, công cụ hỗ trợ; họ tên, số định danh cá nhân hoặc số hộ chiếu của người đại diện theo pháp luật.  * Lưu ý: Đối với trường hợp trực tiếp nộp hồ sơ thì văn bản đề nghị bổ sung họ tên, số định danh cá nhân hoặc số hộ chiếu của người đến liên hệ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Phòng cảnh sát quản lý hành chính về trật tự xã hội
+Cơ quan có thẩm quyền: Phòng cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép trang bị, giấy phép sử dụng vũ khí, công cụ hỗ trợ để triển lãm, trưng bày hoặc làm đạo cụ trong hoạt động văn hóa, nghệ thuật
+Căn cứ pháp lý:
+  * Thông tư quy định về biểu mẫu và trình tự cấp giấy phép, thông báo đăng ký khai báo, chứng nhận, chứng chỉ về vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ; thông báo xác nhận khai báo vũ khí thô sơ (77/2024/TT-BCA)
+  * Thông tư 23/2019/TT-BTC (23/2019/TT-BTC)
+  * Thông tư quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (75/2024/TT-BCA)
+  * Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (42/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Theo quy định tại khoản 2 Điều 14 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 ngày 29/6/2024); cụ thể:
+"2. Bảo tàng, đơn vị biểu diễn nghệ thuật, cơ sở điện ảnh sản xuất phim được sử dụng vũ khí, công cụ hỗ trợ đã làm mất tính năng, tác dụng để triển lãm, trưng bày hoặc làm đạo cụ trong hoạt động văn hóa, nghệ thuật.".
+Từ khóa: Không có thông tin
+Mô tả: Theo quy định tại khoản 2 Điều 14 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 ngày 29/6/2024); cụ thể:
+"2. Bảo tàng, đơn vị biểu diễn nghệ thuật, cơ sở điện ảnh sản xuất phim được sử dụng vũ khí, công cụ hỗ trợ đã làm mất tính năng, tác dụng để triển lãm, trưng bày hoặc làm đạo cụ trong hoạt động văn hóa, nghệ thuật.".

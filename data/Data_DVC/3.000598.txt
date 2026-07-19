@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000598
+Số quyết định: 1653/QĐ-UBND
+Tên thủ tục: Thủ tục đăng ký lắp đặt sử dụng nước sạch
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Nước
+Trình tự thực hiện:
+    - Sau khi tiếp nhận hồ sơ đầy đủ, hợp lệ, đơn vị cấp nước phối hợp với khách hàng khảo sát, thống nhất vị trí lắp đặt, ký xác nhận hồ sơ kỹ thuật, dự toán chi phí lắp đặt đồng hồ.
+    - Công ty Cổ phần Nước sạch Lai Châu thực hiện thi công đấu nối cấp nước; nghiệm thu, bàn giao công trình cho khách hàng tại hiện trường.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Tại Trung tâm Phục vụ hành chính công tỉnh Lai Châu (Địa chỉ: Tầng 1, Toà nhà số 2, Khu hợp khối các đơn vị sự nghiệp tỉnh Lai Châu, phường Tân Phong, tỉnh Lai Châu; Điện thoại: 02133.796.888).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trực tuyến một phần qua Cổng Dịch vụ công quốc gia tại địa chỉ: https://dichvucong.gov.vn.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Qua dịch vụ bưu chính
+
+Thành phần hồ sơ:
+  [ Khách hàng là hộ gia đình ]
+    - Giấy tờ chứng minh nhà, đất hợp pháp (Giấy chứng nhận quyền sử dụng đất, hợp đồng chuyển nhượng, hợp đồng cho thuê nhà, đất ở,...)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng chuyển nhượng Quyền sử dụng đất quyền sở hữu nhà ở và tài sản khác gắn liền với đất (hoặc Hợp đồng mua bán nhà đất có xác nhận của chính quyền địa phương nơi cư trú)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị đấu nối nước sạch và hợp đồng dịch vụ cấp nước (theo mẫu)
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Khách hàng là cơ quan, tổ chức, doanh nghiệp ]
+    - Đơn đề nghị đấu nối nước sạch và hợp đồng dịch vụ cấp nước (tổ chức)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quyết định thành lập đối với cơ quan, tổ chức; Giấy chứng nhận đăng ký kinh doanh đối với doanh nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng nhận quyền sở hữu nhà, quyền sử dụng đất của cơ quan, tổ chức, doanh nghiệp tại địa chỉ đề nghị cấp nước (trường hợp thuê trụ sở, thuê đất: Hợp đồng thuê nhà đất và văn bản của chủ sở hữu nhà đất ủy quyền về việc lắp đặt đồng hồ đo nước)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Người nước ngoài
+Cơ quan thực hiện: Công ty Cổ phần Nước sạch Lai Châu
+Cơ quan có thẩm quyền: Công ty Cổ phần Nước sạch Lai Châu
+Địa chỉ tiếp nhận HS: - Trực tiếp: Tại Trung tâm Phục vụ hành chính công tỉnh Lai Châu (Địa chỉ: Tầng 1, Toà nhà số 2, Khu hợp khối các đơn vị sự nghiệp tỉnh Lai Châu, phường Tân Phong, tỉnh Lai Châu; Điện thoại: 02133.796.888).
+- Trực tuyến một phần qua Cổng Dịch vụ công quốc gia tại địa chỉ: https://dichvucong.gov.vn. 
+- Qua hệ thống bưu chính công ích.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hợp đồng dịch vụ cấp nước.
+Căn cứ pháp lý:
+  * Nghị định 124/2011/NĐ-CP (124/2011/NĐ-CP)
+  * Nghị định 117/2007/NĐ-CP (117/2007/NĐ-CP)
+  * Hướng dẫn xác định đơn giá nhân công trong quản lý chi phí đầu tư xây dựng (05/2016/TT-BXD)
+
+Yêu cầu, điều kiện thực hiện: - Không cấp nước đối với trường hợp đất trống; cơ quan, nhà không có người ở; không thỏa thuận đấu nối được với đại diện đầu tư ban đầu; vị trí đặt đồng hồ không đảm bảo quản lý, khu vực chưa có quy hoạch cấp nước, mạng lưới cấp nước.
+- Đối với khu di dân giải phóng mặt bằng, nhà tạm trong khu giải phóng mặt bằng, nhà trong khu vực chưa có quy hoạch: UBND phường/xã phối hợp với đơn vị cấp nước xem xét để đáp ứng nhu cầu cấp thiết của người dân.
+- Trường hợp khách hàng sử dụng nước ở quá xa đường ống phân phối và nằm ngoài vùng phục vụ của đơn vị cấp nước thì phải có sự thỏa thuận giữa hai bên.
+Từ khóa: Không có thông tin
+Mô tả: - Không cấp nước đối với trường hợp đất trống; cơ quan, nhà không có người ở; không thỏa thuận đấu nối được với đại diện đầu tư ban đầu; vị trí đặt đồng hồ không đảm bảo quản lý, khu vực chưa có quy hoạch cấp nước, mạng lưới cấp nước.
+- Đối với khu di dân giải phóng mặt bằng, nhà tạm trong khu giải phóng mặt bằng, nhà trong khu vực chưa có quy hoạch: UBND phường/xã phối hợp với đơn vị cấp nước xem xét để đáp ứng nhu cầu cấp thiết của người dân.
+- Trường hợp khách hàng sử dụng nước ở quá xa đường ống phân phối và nằm ngoài vùng phục vụ của đơn vị cấp nước thì phải có sự thỏa thuận giữa hai bên.

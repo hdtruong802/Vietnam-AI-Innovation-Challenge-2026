@@ -125,8 +125,12 @@ def test_fixture_checklist_and_precheck_fail_closed(client: TestClient) -> None:
     assert checklist.status_code == 200
     assert checklist.json()["fixture_mode"] is True
     assert checklist.json()["trust_state"] == "official_review_required"
+    assert checklist.json()["last_verified_at"] is None
     assert checklist.json()["procedure_card"] is None
-    assert checklist.json()["form_schema"] == {}
+    assert checklist.json()["required_documents"]
+    assert checklist.json()["steps"]
+    assert checklist.json()["form_schema"]["properties"]
+    assert "không phải yêu cầu hồ sơ thật" in checklist.json()["message_plain"]
     assert validation.status_code == 200
     assert validation.json()["verdict"] is None
     assert validation.json()["trust_state"] == "official_review_required"
@@ -234,14 +238,40 @@ def test_openapi_exposes_current_public_routes(client: TestClient) -> None:
     assert set(paths) == {
         "/",
         "/health",
+        "/v1/feedback",
         "/v1/applications/validate",
         "/v1/intake/turn",
         "/v1/procedures",
         "/v1/procedures/{procedure_id}/checklist",
         "/v1/procedures/recommend",
-        "/v1/rag/answer",
-        "/v1/rag/search",
     }
+
+
+def test_legacy_rag_routes_require_explicit_opt_in(client: TestClient) -> None:
+    default_paths = client.get("/openapi.json").json()["paths"]
+    default_root = client.get("/").json()
+
+    assert "/v1/rag/search" not in default_paths
+    assert "/v1/rag/answer" not in default_paths
+    assert client.get("/v1/rag/search", params={"query": "test"}).status_code == 404
+    assert client.get("/v1/rag/answer", params={"query": "test"}).status_code == 404
+    assert default_root["intake_turn"] == "/v1/intake/turn"
+    assert "legacy_rag_search" not in default_root
+    assert "legacy_rag_answer" not in default_root
+
+    enabled_settings = Settings(
+        app_env="test",
+        procedure_data_mode="fixture",
+        legacy_rag_enabled=True,
+    )
+    enabled_client = TestClient(create_app(settings=enabled_settings))
+    enabled_paths = enabled_client.get("/openapi.json").json()["paths"]
+    enabled_root = enabled_client.get("/").json()
+
+    assert "/v1/rag/search" in enabled_paths
+    assert "/v1/rag/answer" in enabled_paths
+    assert enabled_root["legacy_rag_search"] == "/v1/rag/search"
+    assert enabled_root["legacy_rag_answer"] == "/v1/rag/answer"
 
 
 def test_production_rejects_dev_fixture() -> None:

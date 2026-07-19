@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000403
+Số quyết định: 1842/QĐ-BCA
+Tên thủ tục: Chấp thuận tổ chức, cá nhân đưa xe ô tô có tay lái bên phải vào tham gia giao thông tại Việt Nam không phải mục đích du lịch
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Bảo đảm trật tự, an toàn giao thông đường bộ
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân đưa xe ô tô có tay lái bên phải vào tham gia giao thông tại Việt Nam không phải mục đích du lịch gửi hồ sơ đến Cục Cảnh sát giao thông.
+    Bước 2: Cục Cảnh sát giao thông tiếp nhận hồ sơ, kiểm tra và xử lý hồ sơ.
+    Bước 3: Trả kết quả.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Công hàm của cơ quan đại diện ngoại giao, cơ quan lãnh sự hoặc cơ quan đại diện của tổ chức quốc tế liên Chính phủ tại Việt Nam đề nghị và nêu rõ lý do cho phương tiện tham gia giao thông tại  Việt Nam.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị chấp thuận kèm theo danh sách  người điều khiển và thông tin về xe cơ giới.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục cảnh sát giao thông
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận hoặc văn bản không chấp thuận việc đưa xe ô tô có tay lái bên phải vào tham gia giao thông tại Việt Nam không phải mục đích du lịch
+Căn cứ pháp lý:
+  * Nghị định số 151/2024/NĐ-CP của Chính phủ: Quy định chi tiết một số điều và biện pháp thi hành Luật Trật tự, an toàn giao thông đường bộ (151/2024/NĐ-CP)
+  * Luật Trật tự, an toàn giao thông đường bộ (36/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Theo quy định tại khoản 2 Điều 32 Nghị định 151/2024/NĐ-CP ngày 15/11/2024 của Chính phủ, cụ thể: xe ô tô của người nước ngoài có tay lái ở bên phải tham gia giao thông tại Việt Nam không phải mục đích du lịch là xe ô tô chở người.
+Từ khóa: Không có thông tin
+Mô tả: Theo quy định tại khoản 2 Điều 32 Nghị định 151/2024/NĐ-CP ngày 15/11/2024 của Chính phủ, cụ thể: xe ô tô của người nước ngoài có tay lái ở bên phải tham gia giao thông tại Việt Nam không phải mục đích du lịch là xe ô tô chở người.

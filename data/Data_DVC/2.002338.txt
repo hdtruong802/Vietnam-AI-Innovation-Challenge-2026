@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002338
+Số quyết định: 1674/QĐ-BNNMT
+Tên thủ tục: Chứng nhận chủng loại gạo thơm xuất khẩu được hưởng miễn thuế nhập khẩu theo hạn ngạch
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Trồng trọt và Bảo vệ thực vật
+Trình tự thực hiện:
+    a) Bước 1: Nộp hồ sơ
+    Tổ chức, cá nhân nộp 01 bộ hồ sơ trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường điện tử đến Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính (nơi tổ chức, cá nhân đặt trụ sở).
+    b) Bước 2: Tiếp nhận, kiểm tra tính hợp lệ của hồ sơ
+    Trường hợp nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính kiểm tra thành phần hồ sơ và trả lời ngay tính đầy đủ của hồ sơ cho tổ chức, cá nhân.
+    Trường hợp nộp hồ sơ qua môi trường điện tử: Thành phần hồ sơ phải được kê khai và ký chữ ký số trên các biểu mẫu điện tử được cung cấp sẵn theo quy định tại khoản 1, 2 Điều 9 Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử. Trong thời hạn không quá 01 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính xem xét tính đầy đủ của thành phần hồ sơ; trường hợp hồ sơ chưa đầy đủ theo quy định, thông báo bằng văn bản cho tổ chức, cá nhân.
+    c) Bước 3: Thẩm định và trả kết quả
+    Trong thời hạn 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ hợp lệ, Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao giải quyết thủ tục hành chính tổ chức thẩm định và trình Chủ tịch Ủy ban nhân dân cấp tỉnh chứng nhận vào mục 10 mẫu Giấy chứng nhận chủng loại gạo thơm quy định tại Phụ lục VI ban hành kèm theo Nghị định số 103/2020/NĐ-CP đối với gạo thơm xuất khẩu sang EU hoặc Phụ lục VIa ban hành kèm theo Nghị định số 11/2022/NĐ-CP đối với gạo thơm xuất khẩu sang UK; trường hợp không chứng nhận phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Mẫu Giấy chứng nhận chủng loại gạo thơm được kê khai đầy đủ thông tin từ mục 1 đến mục 9 theo Mẫu quy định tại Phụ lục VI ban hành kèm theo Nghị định số 103/2020/NĐ-CP đối với gạo thơm xuất khẩu sang EU hoặc Phụ lục VIa ban hành kèm theo Nghị định số 11/2022/NĐ-CP đối với gạo thơm xuất khẩu sang UK;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản thỏa thuận chuyển giao Biên bản kiểm tra lô ruộng lúa thơm trong trường hợp tổ chức, cá nhân đề nghị chứng nhận chủng loại gạo thơm không đứng tên trong Biên bản kiểm tra lô ruộng lúa thơm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị chứng nhận chủng loại gạo thơm theo quy định tại Phụ lục IV ban hành kèm theo Nghị định số  33/2026/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính hoặc bản sao có chứng thực Biên bản kiểm tra lô ruộng lúa thơm theo Mẫu quy định tại Phụ lục II ban hành kèm theo Nghị định số 103/2020/NĐ-CP;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Cơ quan chức năng do Ủy ban nhân dân cấp tỉnh chỉ định
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Chứng nhận chủng loại gạo thơm xuất khẩu được hưởng miễn thuế nhập khẩu theo hạn ngạch
+Căn cứ pháp lý:
+  * Nghị định quy định về chứng nhận chủng loại gạo thơm xuất khẩu sang Liên minh châu Âu (103/2020/NĐ-CP)
+  * Nghị định số 11/2022/NĐ-CP ngày 15 tháng 01 năm 2022 của Chính phủ Sửa đổi, bổ sung một số điều của Nghị định số 103/2020/NĐ-CP  ngày 04 tháng 9 năm 2020 của Chính phủ về chứng nhận chủng loại gạo thơm xuất khẩu sang Liên minh châu Âu để hướng dẫn thực hiện việc chứng nhận chủng loại gạo thơm xuất khẩu sang Liên minh châu Âu và Liên hiệp Vương Quốc Anh và Bắc Ai-len. (11/2022/NĐ-CP)
+  * Về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính và cắt giảm, đơn giản hóa điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Nông nghiệp và Môi trường (17/2026/NQ-CP)
+  * sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực trồng trọt và bảo vệ thực vật (Nghị định số 33/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Gạo thơm được sản xuất từ giống lúa thơm có chất lượng hạt giống phù hợp theo Quy chuẩn kỹ thuật Quốc gia; có thông tin rõ ràng về diện tích, địa điểm trồng (tổ/thôn, phường/xã, quận/huyện/thị xã, tỉnh/thành phố).
+- Lô ruộng lúa thơm được kiểm tra đảm bảo độ thuần giống (% số cây) không nhỏ hơn 95%.
+Từ khóa: Không có thông tin
+Mô tả: - Gạo thơm được sản xuất từ giống lúa thơm có chất lượng hạt giống phù hợp theo Quy chuẩn kỹ thuật Quốc gia; có thông tin rõ ràng về diện tích, địa điểm trồng (tổ/thôn, phường/xã, quận/huyện/thị xã, tỉnh/thành phố).
+- Lô ruộng lúa thơm được kiểm tra đảm bảo độ thuần giống (% số cây) không nhỏ hơn 95%.

@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001046
+Số quyết định: 1000/QĐ-BNNMT
+Tên thủ tục: Cấp giấy chứng nhận kiểm dịch thực vật xuất khẩu/tái xuất khẩu
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Trồng trọt và Bảo vệ thực vật
+Trình tự thực hiện:
+    Bước 1: Chủ vật thể nộp trực tiếp 01 bộ hồ sơ đăng ký cho cơ quan kiểm dịch thực vật nơi gần nhất.
+    Bước 2: Cơ quan kiểm dịch thực vật có trách nhiệm tiếp nhận và kiểm tra ngay tính hợp lệ của hồ sơ theo quy định. Trường hợp hồ sơ không hợp lệ thì yêu cầu chủ vật thể bổ sung, hoàn thiện hồ sơ.
+    Bước 3: Căn cứ kết quả kiểm tra hồ sơ, cơ quan kiểm dịch thực vật quyết định địa điểm kiểm dịch tại cơ sở sản xuất, nơi xuất phát, nơi bảo quản ở sâu trong nội địa hoặc cửa khẩu xuất và bố trí công chức kiểm tra ngay lô vật thể.
+    Bước 4: Cơ quan kiểm dịch thực vật cấp Giấy chứng nhận kiểm dịch thực vật (Theo mẫu qui định tại Phụ lục V ban hành kèm theo Thông tư 33/2014/TT-BNNPTNT) hoặc Giấy chứng nhận kiểm dịch thực vật tái xuất khẩu (Theo mẫu qui định tại Phụ lục VI ban hành kèm theo Thông tư 33/2014/TT-BNNPTNT) cho lô vật thể trong vòng 24 giờ kể từ khi bắt đầu kiểm dịch đối với lô vật thể đáp ứng yêu cầu kiểm dịch thực vật của nước nhập khẩu.
+    + Trường hợp kéo dài hơn 24 giờ do yêu cầu về chuyên môn kỹ thuật thì cơ quan kiểm dịch thực vật phải thông báo hoặc trả lời bằng văn bản và nêu rõ lý do cho chủ vật thể biết.
+    + Trường hợp phát hiện lô vật thể không đáp ứng yêu cầu về kiểm dịch thực vật của nước nhập khẩu thì Cơ quan kiểm dịch thực vật không cấp Giấy chứng nhận kiểm dịch thực vật đồng thời phải thông báo cho chủ vật thể biết.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 24 HOUR
+    Phí, lệ phí: 0 VNĐ (Mục III, Phí kiểm dịch thực vật kèm theo Thông tư số 33/2021/TT-BTC ngày 17/5/2021)
+
+Thành phần hồ sơ:
+    - Bản điện tử hoặc bản chính Giấy chứng nhận kiểm dịch thực vật của nước xuất khẩu (trong trường hợp tái xuất khẩu).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy đăng ký kiểm dịch thực vật xuất khẩu hoặc tái xuất khẩu (theo mẫu qui định tại Phụ lục IV ban hành kèm theo Thông tư 33/2014/TT-BNNPTNT).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Chi cục Kiểm dịch thực vật vùng I, Chi cục Kiểm dịch thực vật vùng III, Chi cục Kiểm dịch thực vật vùng IV, Chi cục Kiểm dịch thực vật vùng II, Chi cục Kiểm dịch thực vật vùng V, Chi cục Kiểm dịch thực vật vùng VI, Chi cục Kiểm dịch thực vật vùng VII, Chi cục Kiểm dịch thực vật vùng IX, Chi cục Kiểm dịch thực vật vùng VIII
+Cơ quan có thẩm quyền: Bộ Nông nghiệp và Môi trường
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận kiểm dịch thực vật xuất khẩu/tái xuất khẩu
+Căn cứ pháp lý:
+  * Thông tư quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí trong hoạt động kiểm dịch và bảo vệ thực vật thuộc lĩnh vực nông nghiệp (33/2021/TT-BTC)
+  * Luật Bảo vệ và kiểm dịch thực vật (41/2013/QH13)
+  * sửa đổi, bổ sung một số điều của Thông tư số 05/2015/TT-BNNPTNT ngày 12 tháng 02 năm 2015 quy định về trình tự, thủ tục cấp Giấy chứng nhận hành nghề xử lý vật thể thuộc diện kiểm dịch thực vật và Thông tư số 33/2014/TT-BNNPTNT ngày 30 tháng 10 năm 2014 quy định trình tự, thủ tục kiểm dịch thực vật nhập khẩu, xuất khẩu, quá cảnh và sau nhập khẩu vật thể thuộc diện kiểm dịch thực vật của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn (15/2021/TT-BNNPTNT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

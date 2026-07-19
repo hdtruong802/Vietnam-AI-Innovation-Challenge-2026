@@ -20,7 +20,6 @@ export default function Home() {
   const [modalText, setModalText] = useState("");
   const [authSession, setAuthSession] = useState<StoredDemoSession | null>(() => readDemoSession());
   const [showLogin, setShowLogin] = useState(false);
-  const [continueAfterLogin, setContinueAfterLogin] = useState(false);
   const [handoffMessage, setHandoffMessage] = useState<string | undefined>();
   const [handoffProcedureId, setHandoffProcedureId] = useState<string | undefined>();
 
@@ -43,7 +42,6 @@ export default function Home() {
 
   const requireLogin = () => {
     if (authSession) return false;
-    setContinueAfterLogin(true);
     setShowLogin(true);
     return true;
   };
@@ -82,8 +80,7 @@ export default function Home() {
   const handleDemoLogin = () => {
     setAuthSession(startDemoSession());
     setShowLogin(false);
-    if (continueAfterLogin) openCopilot();
-    setContinueAfterLogin(false);
+    openCopilot();
   };
 
   const handleLogout = () => {
@@ -124,7 +121,6 @@ export default function Home() {
           isOpen={showLogin}
           onClose={() => {
             setShowLogin(false);
-            setContinueAfterLogin(false);
           }}
           onDemoLogin={handleDemoLogin}
       />

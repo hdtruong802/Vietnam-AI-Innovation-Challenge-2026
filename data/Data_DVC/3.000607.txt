@@ -1,0 +1,67 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000607
+Số quyết định: 2618/QĐ-UBND
+Tên thủ tục: Hỗ trợ tổ chức/doanh nghiệp thuê trực tiếp tài sản kết cấu hạ tầng thông tin, tài sản kết cấu hạ tầng khu công nghệ số tập trung không thông qua đấu giá trên địa bàn thành phố Đà Nẵng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Công nghiệp công nghệ số, công nghệ thông tin, điện tử
+Trình tự thực hiện:
+    1. Tổ chức, doanh nghiệp nộp hồ sơ đề nghị về Sở Khoa học và Công nghệ.
+    2. Sau khi tiếp nhận hồ sơ đầy đủ và hợp lệ, Sở Khoa học và Công nghệ thành lập Hội đồng thẩm định để thẩm định hồ sơ.
+    3. Hội đồng thẩm định tổ chức thẩm định và báo cáo kết quả thẩm định gửi Sở Khoa học và Công nghệ.
+    4. Sở Khoa học và Công nghệ xem xét, quyết định và trả kết quả cho tổ chức, doanh nghiệp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 28 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Hội đồng thẩm định: 13 ngày làm việc.
+- Sở Khoa học và Công nghệ: 15 ngày làm việc (bao gồm thời gian thành lập hội đồng và thời gian xem xét kết quả thẩm định của hội đồng).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 28 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Hội đồng thẩm định: 13 ngày làm việc.
+- Sở Khoa học và Công nghệ: 15 ngày làm việc (bao gồm thời gian thành lập hội đồng và thời gian xem xét kết quả thẩm định của hội đồng).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 28 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Hội đồng thẩm định: 13 ngày làm việc.
+- Sở Khoa học và Công nghệ: 15 ngày làm việc (bao gồm thời gian thành lập hội đồng và thời gian xem xét kết quả thẩm định của hội đồng).
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị được thuê trực tiếp tài sản kết cấu hạ tầng thông tin, tài sản kết cấu hạ tầng khu công nghệ số tập trung đầu tư từ nguồn ngân sách thành phố không thông qua đấu giá để phục vụ thu hút đầu tư, phát triển vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Nội dung chứng minh thuộc đối tượng được thuê trực tiếp quy định tại Điều 4 Quy định ban hành kèm theo Nghị quyết số 22/2026/NQ-HĐND (Giấy chứng nhận đăng ký doanh nghiệp/Giấy chứng nhận đăng ký kinh doanh/Giấy phép thành lập/Quyết định thành lập/Quyết định chức năng nhiệm vụ/Giấy chứng nhận đăng ký đầu tư/Văn bản chứng nhận/văn bản xác nhận của cơ quan có thẩm quyền (còn thời hạn theo quy định của pháp luật)). Cơ quan tiếp nhận, giải quyết thủ tục hành chính khai thác, sử dụng thông tin đã có trong các cơ sở dữ liệu được cơ quan chủ quản cơ sở dữ liệu công bố để thay thế thành phần hồ sơ giải quyết thủ tục hành chính. Trường hợp không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, chính xác thì cơ quan, người có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính yêu cầu cá nhân, tổ chức bổ sung thành phần hồ sơ để giải quyết thủ tục hành chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các tài liệu chứng minh hoạt động đầu tư, nghiên cứu, sản xuất trong lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược trên địa bàn thành phố Đà Nẵng đáp ứng một trong các tiêu chí quy định tại khoản 2 Điều 5 Quy định này: + Đối với doanh nghiệp: Tài liệu chứng minh doanh thu (hợp đồng, hóa đơn, chứng từ…) trong lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược. + Đối với doanh nghiệp khoa học công nghệ: Tài liệu chứng minh doanh thu (hợp đồng, hóa đơn, chứng từ…) và tổng chi cho hoạt động nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo thuộc lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược; tài liệu chứng minh sản phẩm khoa học, công nghệ và đổi mới sáng tạo thuộc lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược đang được thương mại hóa. + Đối với doanh nghiệp khởi nghiệp sáng tạo: Tài liệu chứng minh dự án khởi nghiệp sáng tạo thuộc lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược đã được đầu tư, hoặc cam kết đầu tư bởi quỹ đầu tư khởi nghiệp sáng tạo, quỹ đầu tư mạo hiểm, nhà đầu tư cá nhân khởi nghiệp sáng tạo hoặc được hỗ trợ, cam kết hỗ trợ bởi trung tâm đổi mới sáng tạo, trung tâm hỗ trợ khởi nghiệp sáng tạo. + Đối với tổ chức khoa học và công nghệ, trung tâm đổi mới sáng tạo, trung tâm hỗ trợ khởi nghiệp sáng tạo: Tài liệu chứng minh doanh thu trực tiếp từ kết quả thực hiện ứng dụng công nghệ, chuyển giao công nghệ, đổi mới công nghệ, sáng tạo công nghệ, nâng cao hiệu suất công nghệ thuộc lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược hoặc tài liệu hỗ trợ doanh nghiệp/dự án khởi nghiệp sáng tạo thuộc lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu liên quan khác (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với doanh nghiệp ]
+    - Tài liệu chứng minh doanh thu (hợp đồng, hóa đơn, chứng từ…) trong lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với doanh nghiệp khoa học công nghệ ]
+    - Tài liệu chứng minh doanh thu (hợp đồng, hóa đơn, chứng từ…) và tổng chi cho hoạt động nghiên cứu khoa học, phát triển công nghệ và đổi mới sáng tạo thuộc lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh sản phẩm khoa học, công nghệ và đổi mới sáng tạo thuộc lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược đang được thương mại hóa
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với doanh nghiệp khởi nghiệp sáng tạo ]
+    - Tài liệu chứng minh dự án khởi nghiệp sáng tạo thuộc lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược đã được đầu tư, hoặc cam kết đầu tư bởi quỹ đầu tư khởi nghiệp sáng tạo, quỹ đầu tư mạo hiểm, nhà đầu tư cá nhân khởi nghiệp sáng tạo hoặc được hỗ trợ, cam kết hỗ trợ bởi trung tâm đổi mới sáng tạo, trung tâm hỗ trợ khởi nghiệp sáng tạo
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với tổ chức khoa học và công nghệ, trung tâm đổi mới sáng tạo, trung tâm hỗ trợ khởi nghiệp sáng tạo ]
+    - Tài liệu chứng minh doanh thu trực tiếp từ kết quả thực hiện ứng dụng công nghệ, chuyển giao công nghệ, đổi mới công nghệ, sáng tạo công nghệ, nâng cao hiệu suất công nghệ thuộc lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược hoặc tài liệu hỗ trợ doanh nghiệp/dự án khởi nghiệp sáng tạo thuộc lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Sở Khoa học và Công nghệ TP.Đà Nẵng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt cho thuê không thông qua đấu giá của Sở Khoa học và Công nghệ
+Căn cứ pháp lý:
+  * Quy định các chính sách ưu đãi, hỗ trợ và cơ chế sử dụng tài sản kết cấu hạ tầng thông tin, tài sản kết cấu hạ tầng khu công nghệ số tập trung để phát triển lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo, công nghệ chiến lược trên địa bàn thành phố Đà Nẵng (22/2026/NQ-HĐND (thành phố Đà Nẵng))
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

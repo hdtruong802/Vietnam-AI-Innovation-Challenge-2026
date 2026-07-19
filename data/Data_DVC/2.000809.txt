@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000809
+Số quyết định: 1474/QĐ-BTC
+Tên thủ tục: Giải quyết hưởng tiếp lương hưu, trợ cấp BHXH hàng tháng đối với người chấp hành xong hình phạt tù, người xuất cảnh trái phép trở về nước định cư hợp pháp, người được Tòa án hủy quyết định tuyên bố mất tích
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thực hiện chính sách BHXH
+Trình tự thực hiện:
+  * Bước 1. Lập, nộp hồ sơ
+    Người hưởng lập hồ sơ theo quy định tại mục 12.3 (Thành phần hồ sơ); nộp cho cơ quan BHXH nơi chi trả lương hưu, trợ cấp BHXH hàng tháng trước khi đi tù hoặc xuất cảnh hoặc mất tích.
+  * Bước 2.
+    Cơ quan BHXH tiếp nhận hồ sơ và giải quyết theo quy định.
+  * Bước 3. Nhận kết quả
+    Người hưởng nhận kết quả, gồm: Quyết định về việc hưởng tiếp chế độ BHXH hàng tháng; Thẻ BHYT; Thông báo về việc chi trả lương hưu, trợ cấp BHXH đối với trường hợp di chuyển hưởng chế độ  BHXH tại huyện/tỉnh khác; Thẻ BHYT; tiền trợ cấp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - 1. Bản chính Đơn đề nghị
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2. Bản sao các giấy tờ sau: Giấy chứng nhận chấp hành xong hình phạt tù hoặc Giấy đặc xá ra tù trước thời hạn hoặc Quyết định của cấp có thẩm quyền về việc miễn hoặc tạm hoãn chấp hành hình phạt tù đối với trường hợp hưởng tiếp BHXH hàng tháng do chấp hành xong hình phạt tù giam từ ngày 01/01/1995 đến trước ngày 01/01/2016;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 4. Bản sao Quyết định có hiệu lực pháp luật của Tòa án hủy bỏ Quyết định tuyên bố mất tích đối với người được Tòa án hủy quyết định tuyên bố mất tích.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - 3. Bản sao văn bản của cơ quan có thẩm quyền về việc trở về nước định cư hợp pháp đối với người xuất cảnh trái phép trở về nước định cư hợp pháp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Bảo hiểm xã hội cấp Tỉnh, Bảo hiểm xã hội cấp huyện
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Tiền trợ cấp, Thẻ BHYT, Thông báo về việc chi trả lương hưu, trợ cấp BHXH đối với trường hợp di chuyển hưởng chế độ  BHXH tại huyện/tỉnh khác., Quyết định về việc hưởng tiếp chế độ BHXH hàng tháng
+Căn cứ pháp lý:
+  * BAN HÀNH QUY TRÌNH GIẢI QUYẾT HƯỞNG CÁC CHẾ ĐỘ BẢO HIỂM XÃ HỘI, CHI TRẢ CÁC CHẾ ĐỘ BẢO HIỂM XÃ HỘI, BẢO HIỂM THẤT NGHIỆP (2222/QĐ-BHXH)
+  * Thông tư 01/2016/TT-BLĐTBXH (01/2016/TT-BLĐTBXH)
+  * Nghị định 115/2015/NĐ-CP (115/2015/NĐ-CP)
+  * Nghị định 134/2015/NĐ-CP (134/2015/NĐ-CP)
+  * LUẬT  Bảo hiểm xã hội (58/2014/QH13)
+  * Nghị định 166/2016/NĐ-CP-Quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp (166/2016/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

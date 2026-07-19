@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000051
+Số quyết định: 1734/QĐ-BTC
+Tên thủ tục: Thế chấp một phần tài sản hình thành từ nguồn vốn được Chính phủ bảo lãnh cho bên thứ ba
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Quản lý nợ
+Trình tự thực hiện:
+    Bước 1. Đối tượng được bảo lãnh có văn bản xin ý kiến của Bộ Tài chính trước khi thực hiện, nêu rõ lý do, giá trị tài sản thế chấp cho bên thứ ba và các nội dung khác có liên quan theo quy định tại Khoản 5 Điều 31 Nghị định 91/2018/NĐ-CP ngày 26/6/2018.
+    Bước 2. Bộ Tài chính xem xét và có văn bản trả lời trong vòng mười lăm (15) ngày làm việc.
+    Bước 3. Các bên có liên quan tới tài sản đồng thế chấp điều chỉnh Hợp đồng thế chấp tài sản và thực hiện đăng ký biện pháp bảo đảm đối với tài sản thế chấp sau khi điều chỉnh theo quy định của pháp luật.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị của Đối tượng được bảo lãnh (Bộ Tài chính giữ 01 bản, Đối tượng được bảo lãnh giữ 01 bản)
+      Số lượng: Bản chính: 2, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản trả lời của Bộ Tài chính
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

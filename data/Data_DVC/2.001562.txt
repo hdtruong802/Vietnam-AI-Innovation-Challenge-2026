@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001562
+Số quyết định: 3225/QĐ-BCT
+Tên thủ tục: Cấp điều chỉnh Giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Vật liệu nổ công nghiệp, tiền chất thuốc nổ
+Trình tự thực hiện:
+    Tổ chức, doanh nghiệp đang sản xuất vật liệu nổ công nghiệp có yêu cầu chuyển đổi tên tổ chức, doanh nghiệp mà không có sự thay đổi về điều kiện sản xuất thì đề nghị điều chỉnh giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp.
+    Hồ sơ nộp trên Cổng dịch vụ công quốc gia, Hệ thống thông tin giải quyết thủ tục hành chính của Bộ Công Thương hoặc gửi qua đường bưu chính về cơ quan có thẩm quyền. Trường hợp trực tiếp nộp hồ sơ thì văn bản đề nghị bổ sung họ tên, số định danh cá nhân hoặc số hộ chiếu của người đến liên hệ.
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan có thẩm quyền kiểm tra hồ sơ, điều kiện thực tế, cấp giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp; trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ 1 ]
+    - Bản sao quyết định của cơ quan, tổ chức có thẩm quyền cho phép đổi tên doanh nghiệp
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Văn bản đề nghị cấp điều chỉnh Giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Kỹ thuật an toàn và Môi trường công nghiệp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện sản xuất vật liệu nổ công nghiệp.
+Căn cứ pháp lý:
+  * Nghị định số 23/2024/NĐ-CP của Chính phủ: Quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà đầu tư thực hiện dự án thuộc trường hợp phải tổ chức đấu thầu theo quy định của pháp luật quản lý ngành, lĩnh vực (23/2024/NĐ-CP)
+  * Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (42/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Tổ chức, doanh nghiệp đang sản xuất vật liệu nổ công nghiệp có yêu cầu chuyển đổi tên tổ chức, doanh nghiệp mà không có sự thay đổi về điều kiện sản xuất.
+Từ khóa: Không có thông tin
+Mô tả: Tổ chức, doanh nghiệp đang sản xuất vật liệu nổ công nghiệp có yêu cầu chuyển đổi tên tổ chức, doanh nghiệp mà không có sự thay đổi về điều kiện sản xuất.

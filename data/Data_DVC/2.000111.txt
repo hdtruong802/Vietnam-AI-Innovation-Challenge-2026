@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000111
+Số quyết định: 323/QĐ-BNV
+Tên thủ tục: Hỗ trợ kinh phí huấn luyện an toàn, vệ sinh lao động
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: An toàn, vệ sinh lao động
+Trình tự thực hiện:
+    - Bước 1: Người sử dụng lao động nộp 01 bộ hồ sơ cho Sở Nội vụ
+    - Bước 2: Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định, Sở Nội vụ tiến hành thẩm định hồ sơ, quyết định việc hỗ trợ gửi quyết định (kèm theo dữ liệu danh sách hỗ trợ) cho cơ quan Bảo hiểm xã hội. Trường hợp không hỗ trợ thì phải trả lời bằng văn bản cho người sử dụng lao động hoặc người lao động nộp hồ sơ đề nghị và nêu rõ lý do.
+    - Bước 3: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được quyết định hỗ trợ của Sở Nội vụ, cơ quan bảo hiểm xã hội có trách nhiệm chi trả kinh phí hỗ trợ khám bệnh nghề nghiệp cho người sử dụng lao động hoặc người lao động theo quyết định hỗ trợ. Trường hợp không chi trả thì phải trả lời bằng văn bản cho Nội vụ và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định, Sở Nội vụ tiến hành thẩm định hồ sơ, quyết định việc hỗ trợ. - Trong thời hạn 05 ngày làm việc, kể từ khi nhận được quyết định hỗ trợ của Sở Nội vụ, cơ quan bảo hiểm xã hội có trách nhiệm chi trả kinh phí hỗ trợ huấn luyện an toàn, vệ sinh lao động cho người sử dụng lao động.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định, Sở Nội vụ tiến hành thẩm định hồ sơ, quyết định việc hỗ trợ. - Trong thời hạn 05 ngày làm việc, kể từ khi nhận được quyết định hỗ trợ của Sở Nội vụ, cơ quan bảo hiểm xã hội có trách nhiệm chi trả kinh phí hỗ trợ huấn luyện an toàn, vệ sinh lao động cho người sử dụng lao động.
+
+Thành phần hồ sơ:
+    - -  Văn bản đề nghị hỗ trợ huấn luyện theo Mẫu số 11 tại Phụ lục của Nghị định số 88/2020/NĐ-CP ngày 28 tháng 7 năm 2020,
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - -  Bản sao các hồ sơ, chứng từ chứng minh việc tổ chức huấn luyện theo quy định của pháp luật và các chi phí thực tế có liên quan đến việc huấn luyện an toàn, vệ sinh lao động cho các đối tượng đề nghị hỗ trợ.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bảo hiểm xã hội cấp Tỉnh, Sở Nội vụ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định việc hỗ trợ kinh phí huấn luyện an toàn, vệ sinh lao động và thực hiện hỗ trợ kinh phí huấn luyện an toàn, vệ sinh lao động
+Căn cứ pháp lý:
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Nghị định số 88/2020/NĐ-CP ngày 28/7/2020 của Chính phủ quy định chi tiết một số điều của Luật An toàn, vệ sinh lao động về bảo hiểm tai nạn lao động, bệnh nghề nghiệp bắt buộc (88/2020/NĐ-CP)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+  * Luật 84/2015/QH13 (84/2015/QH13)
+
+Yêu cầu, điều kiện thực hiện: Người sử dụng lao động được nhận kinh phí hỗ trợ huấn luyện an toàn, vệ sinh lao động khi có đủ các điều kiện sau:
+Từ khóa: Không có thông tin
+Mô tả: Người sử dụng lao động được nhận kinh phí hỗ trợ huấn luyện an toàn, vệ sinh lao động khi có đủ các điều kiện sau:

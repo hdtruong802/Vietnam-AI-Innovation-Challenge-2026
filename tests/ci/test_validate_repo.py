@@ -135,6 +135,7 @@ AI-Log
                         "mode": "policy-presence",
                         "enabled": True,
                         "exemptMergeCommits": True,
+                        "exemptCommitOids": [],
                     },
                 }
             ),
@@ -366,6 +367,97 @@ AI-Log
         merged = self.git("rev-parse", "HEAD")
 
         self.assertEqual([], guard.validate_range(self.root, f"{legacy}...{merged}"))
+
+    def test_range_ai_log_allows_only_explicit_historical_waiver(self) -> None:
+        self.write("legacy.txt", "legacy\n")
+        self.git("add", "legacy.txt")
+        self.git("commit", "-m", "legacy base")
+        legacy = self.git("rev-parse", "HEAD")
+
+        self.create_valid_default_fixture()
+        adoption_log = "log-" + "e" * 24
+        self.write(
+            f"evidence/ai-log/members/member-1/commits/{adoption_log}.json",
+            json.dumps(
+                {
+                    "schema_version": 1,
+                    "record_type": "commit_evidence",
+                    "ai_log_id": adoption_log,
+                    "created_at": "2026-07-17T00:00:00Z",
+                    "member_id": "member-1",
+                    "branch": "test",
+                    "parent_commit": legacy,
+                    "task_records": ["local-test"],
+                    "prompt_ids": [],
+                    "tools": [],
+                    "capture_status": "no_new_prompt",
+                    "warnings": [],
+                    "operation": "commit",
+                    "replaces_ai_log": None,
+                }
+            ),
+        )
+        self.git("add", ".")
+        self.git("commit", "-m", f"adopt AI Log\n\nAI-Log: {adoption_log}\nAI-Tools: none\nAI-Capture: no_new_prompt")
+
+        self.write("historical-gap.txt", "change\n")
+        self.git("add", "historical-gap.txt")
+        self.git("commit", "-m", "historical evidence gap")
+        gap = self.git("rev-parse", "HEAD")
+
+        policy_path = self.root / "evidence/ai-log/policy.json"
+        policy = json.loads(policy_path.read_text(encoding="utf-8"))
+        policy["historyEnforcement"]["exemptCommitOids"] = [
+            {"oid": gap, "reason": "Historical evidence was not retained."}
+        ]
+        policy_path.write_text(json.dumps(policy), encoding="utf-8")
+        waiver_log = "log-" + "f" * 24
+        self.write(
+            f"evidence/ai-log/members/member-1/commits/{waiver_log}.json",
+            json.dumps(
+                {
+                    "schema_version": 1,
+                    "record_type": "commit_evidence",
+                    "ai_log_id": waiver_log,
+                    "created_at": "2026-07-17T00:00:00Z",
+                    "member_id": "member-1",
+                    "branch": "test",
+                    "parent_commit": gap,
+                    "task_records": ["local-test"],
+                    "prompt_ids": [],
+                    "tools": [],
+                    "capture_status": "manual",
+                    "warnings": [],
+                    "operation": "commit",
+                    "replaces_ai_log": None,
+                }
+            ),
+        )
+        self.git("add", ".")
+        self.git("commit", "-m", f"waive historical AI Log gap\n\nAI-Log: {waiver_log}\nAI-Tools: codex\nAI-Capture: manual")
+        waived = self.git("rev-parse", "HEAD")
+
+        self.assertEqual([], guard.validate_range(self.root, f"{legacy}...{waived}"))
+
+        self.write("new-gap.txt", "change\n")
+        self.git("add", "new-gap.txt")
+        self.git("commit", "-m", "new evidence gap")
+        output = "\n".join(guard.validate_range(self.root, f"{legacy}...HEAD"))
+        self.assertIn("is missing an AI-Log trailer", output)
+
+    def test_default_scope_rejects_conflict_marker_and_invalid_ai_log_waiver(self) -> None:
+        self.create_valid_default_fixture()
+        self.write("conflicted.py", "<<<<<<< HEAD\nleft\n=======\nright\n>>>>>>> branch\n")
+        policy_path = self.root / "evidence/ai-log/policy.json"
+        policy = json.loads(policy_path.read_text(encoding="utf-8"))
+        policy["historyEnforcement"]["exemptCommitOids"] = [{"oid": "short", "reason": ""}]
+        policy_path.write_text(json.dumps(policy), encoding="utf-8")
+
+        output = "\n".join(guard.validate_default(self.root))
+
+        self.assertIn("Unresolved Git conflict marker in conflicted.py:1", output)
+        self.assertIn("AI Log history exemption oid must be a full lowercase Git SHA.", output)
+        self.assertIn("AI Log history exemption reason must be non-empty.", output)
 
     def test_range_preflight_reads_head_revision_not_worktree(self) -> None:
         self.write("base.txt", "base\n")

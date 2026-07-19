@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002729
+Số quyết định: 1474/QĐ-BTC
+Tên thủ tục: Thủ tục cấp/cấp lại Giấy chứng nhận doanh nghiệp sinh thái
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Quản lý nhà nước về khu công nghiệp, khu kinh tế
+Trình tự thực hiện:
+    - Bước 1: Nhà đầu tư nộp 05 bộ hồ sơ đăng ký chứng nhận doanh nghiệp sinh thái cho Ban quản lý khu công nghiệp, khu kinh tế (sau đây gọi chung là Ban quản lý).
+    - Bước 2: Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ, Ban quản lý khu công nghiệp, khu kinh tế gửi hồ sơ lấy ý kiến các Sở: Tài nguyên và Môi trường, Khoa học và Công nghệ, Công Thương, Xây dựng.
+    - Bước 3: Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan được lấy ý kiến có ý kiến về việc đáp ứng các tiêu chí xác định doanh nghiệp sinh thái theo quy định tại khoản 2 Điều 37 của Nghị định số 35/2022/NĐ-CP.
+    - Bước 4: Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ, Ban quản lý khu công nghiệp, khu kinh tế tổ chức đánh giá hồ sơ và lập báo cáo đánh giá việc đáp ứng các tiêu chí xác định doanh nghiệp sinh thái theo quy định tại khoản 2 Điều 37 của Nghị định số 35/2022/NĐ-CP.
+    - Bước 5: Trường hợp kết quả đánh giá đạt yêu cầu, Ban quản lý khu công nghiệp, khu kinh tế cấp Giấy chứng nhận doanh nghiệp sinh thái cho doanh nghiệp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Văn bản đăng ký chứng nhận doanh nghiệp sinh thái.
+      Số lượng: Bản chính: 1, Bản sao: 4
+    - - Báo cáo về tình hình hoạt động của doanh nghiệp trong khu công nghiệp sinh thái.
+      Số lượng: Bản chính: 1, Bản sao: 4
+    - - Đánh giá và giải trình khả năng đáp ứng các tiêu chí xác định doanh nghiệp sinh thái theo quy định tại khoản 2 Điều 37 Nghị định số 35/2022/NĐ-CP (kèm theo các tài liệu có liên quan), gồm: + Tuân thủ quy định của pháp luật về đầu tư, pháp luật về doanh nghiệp, pháp luật về xây dựng, pháp luật về đất đai, pháp luật về bảo vệ môi trường và pháp luật về lao động trong vòng 03 năm trước thời điểm đăng ký chứng nhận khu công nghiệp sinh thái; + Thực hiện ít nhất 01 cộng sinh công nghiệp và các doanh nghiệp tham gia cộng sinh công nghiệp trong khu công nghiệp áp dụng hệ thống quản lý sản xuất và môi trường theo các tiêu chuẩn của Tổ chức tiêu chuẩn hóa quốc tế (ISO) phù hợp; + Tối thiểu 20% doanh nghiệp trong khu công nghiệp áp dụng các giải pháp sử dụng hiệu quả tài nguyên, sản xuất sạch hơn đạt kết quả tiết kiệm nguyên liệu, vật liệu, nước, năng lượng, hóa chất, chất thải, phế liệu và giảm phát thải ra môi trường.
+      Số lượng: Bản chính: 1, Bản sao: 4
+    - - Các tài liệu khác có liên quan đến việc thực hiện trách nhiệm môi trường, xã hội của doanh nghiệp: + Báo cáo theo dõi, giám sát thực hiện doanh nghiệp sinh thái. + Các chỉ số đánh giá hiệu quả môi trường, xã hội của doanh nghiệp sinh thái.
+      Số lượng: Bản chính: 1, Bản sao: 4
+
+Đối tượng thực hiện: Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Ban quản lý
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận khu công nghiệp sinh thái
+Căn cứ pháp lý:
+  * Nghị định số 35/2022/NĐ-CP của Chính phủ: Quy định về quản lý khu công nghiệp và khu kinh tế (35/2022/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

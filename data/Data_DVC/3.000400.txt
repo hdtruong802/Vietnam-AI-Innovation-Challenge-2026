@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000400
+Số quyết định: 1842/QĐ-BCA
+Tên thủ tục: Cấp mới Giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Bảo đảm trật tự, an toàn giao thông đường bộ
+Trình tự thực hiện:
+    Bước 1: Cơ quan, tổ chức gửi hồ sơ gửi đến Cục Cảnh sát giao thông; Phòng Cảnh sát giao thông.
+    Bước 2: Cục Cảnh sát giao thông; Phòng Cảnh sát giao thông tiếp nhận hồ sơ, kiểm tra và xử lý.
+    Bước 3: Trả kết quả.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản quy định về chức năng, nhiệm vụ, các tài liệu khác chứng minh cơ quan, tổ chức đủ điều kiện được sử dụng thiết bị phát tín hiệu của xe ưu tiên đối với trường hợp quy định tại khoản 6, khoản 7 và khoản 8 Điều 18 của Nghị định151/2024/NĐ-CP ngày 15/11/2024 của Chính phủ gồm:  - Xe cứu thương đi làm nhiệm vụ cấp cứu;  - Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh; - Xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật bao gồm: xe phục vụ Ban chỉ đạo, xe phục vụ các lực lượng chức năng được huy động tham gia thực hiện nhiệm vụ khi tình trạng khẩn cấp được ban bố. Lưu ý: Trường hợp tài liệu chứng minh có thể khai thác qua cơ sở dữ liệu được kết nối, chia sẻ với cơ quan có thẩm quyền cấp giấy phép thì cơ quan, tổ chức  không phải cung cấp khi làm thủ tục.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị cấp mới Giấy phép sử  dụng thiết bị phát tín hiệu của xe ưu tiên.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục cảnh sát giao thông
+Cơ quan có thẩm quyền: Phòng Cảnh sát giao thông
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cấp mới Giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên cho cơ quan, tổ chức sử dụng xe ưu tiên
+Căn cứ pháp lý:
+  * Luật Trật tự, an toàn giao thông đường bộ (36/2024/QH15)
+  * Nghị định số 151/2024/NĐ-CP của Chính phủ: Quy định chi tiết một số điều và biện pháp thi hành Luật Trật tự, an toàn giao thông đường bộ (151/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Các xe được lắp đặt, sử dụng thiết bị phát tín hiệu của xe ưu tiên theo quy định tại Điều 18 Nghị định 151/2024/NĐ-CP ngày 15/11/2024 của Chính , cụ thể:
+Xe được lắp đặt, sử dụng thiết bị phát tín hiệu của xe ưu tiên gồm:
+(1) Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy.
+(2) Xe của lực lượng quân sự đi làm nhiệm vụ khẩn cấp bao gồm: xe quân sự đi thực hiện nhiệm vụ chỉ huy chữa cháy, cứu nạn, cứu hộ, chỉ huy tác chiến, thông tin làm nhiệm vụ hoả tốc, chỉ huy đoàn hành quân, xe làm nhiệm vụ kiểm soát quân sự, kiểm tra xe quân sự, bảo vệ đoàn; xe thực hiện nhiệm vụ bắt, khám xét hoặc thực hiện hoạt động điều tra khác, áp giải bị can, bị cáo, phạm nhân; tham gia phòng, chống khủng bố.
+(3) Xe của lực lượng công an đi làm nhiệm vụ khẩn cấp bao gồm: xe Cảnh sát giao thông đi làm nhiệm vụ tuần tra, kiểm tra, kiểm soát, chỉ huy, điều khiển, điều tra, giải quyết tai nạn giao thông; xe đi làm nhiệm vụ cảnh vệ; xe đi làm nhiệm vụ cứu nạn, cứu hộ; xe thực hiện nhiệm vụ bắt, khám xét hoặc thực hiện hoạt động điều tra khác, áp giải bị can, bị cáo, phạm nhân; xe thông tin làm nhiệm vụ hỏa tốc; xe đi làm nhiệm vụ chống biểu tình, bạo loạn, giải tán đám đông gây rối trật tự công cộng; xe đi làm nhiệm vụ phòng, chống khủng bố, giải cứu con tin.
+(4) Xe của lực lượng kiểm sát đi làm nhiệm vụ khẩn cấp bao gồm: xe đi làm nhiệm vụ bắt, khám xét hoặc thực hiện hoạt động điều tra khác.
+(5) Xe Cảnh sát giao thông dẫn đường.
+(6) Xe cứu thương đi làm nhiệm vụ cấp cứu.
+(7) Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh.
+(8) Xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật bao gồm: xe phục vụ Ban chỉ đạo, xe phục vụ các lực lượng chức năng được huy động tham gia thực hiện nhiệm vụ khi tình trạng khẩn cấp được ban bố.
+Từ khóa: Không có thông tin
+Mô tả: Các xe được lắp đặt, sử dụng thiết bị phát tín hiệu của xe ưu tiên theo quy định tại Điều 18 Nghị định 151/2024/NĐ-CP ngày 15/11/2024 của Chính , cụ thể:
+Xe được lắp đặt, sử dụng thiết bị phát tín hiệu của xe ưu tiên gồm:
+(1) Xe chữa cháy của Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ và xe chữa cháy của các lực lượng khác được huy động đi làm nhiệm vụ chữa cháy.
+(2) Xe của lực lượng quân sự đi làm nhiệm vụ khẩn cấp bao gồm: xe quân sự đi thực hiện nhiệm vụ chỉ huy chữa cháy, cứu nạn, cứu hộ, chỉ huy tác chiến, thông tin làm nhiệm vụ hoả tốc, chỉ huy đoàn hành quân, xe làm nhiệm vụ kiểm soát quân sự, kiểm tra xe quân sự, bảo vệ đoàn; xe thực hiện nhiệm vụ bắt, khám xét hoặc thực hiện hoạt động điều tra khác, áp giải bị can, bị cáo, phạm nhân; tham gia phòng, chống khủng bố.
+(3) Xe của lực lượng công an đi làm nhiệm vụ khẩn cấp bao gồm: xe Cảnh sát giao thông đi làm nhiệm vụ tuần tra, kiểm tra, kiểm soát, chỉ huy, điều khiển, điều tra, giải quyết tai nạn giao thông; xe đi làm nhiệm vụ cảnh vệ; xe đi làm nhiệm vụ cứu nạn, cứu hộ; xe thực hiện nhiệm vụ bắt, khám xét hoặc thực hiện hoạt động điều tra khác, áp giải bị can, bị cáo, phạm nhân; xe thông tin làm nhiệm vụ hỏa tốc; xe đi làm nhiệm vụ chống biểu tình, bạo loạn, giải tán đám đông gây rối trật tự công cộng; xe đi làm nhiệm vụ phòng, chống khủng bố, giải cứu con tin.
+(4) Xe của lực lượng kiểm sát đi làm nhiệm vụ khẩn cấp bao gồm: xe đi làm nhiệm vụ bắt, khám xét hoặc thực hiện hoạt động điều tra khác.
+(5) Xe Cảnh sát giao thông dẫn đường.
+(6) Xe cứu thương đi làm nhiệm vụ cấp cứu.
+(7) Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh.
+(8) Xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật bao gồm: xe phục vụ Ban chỉ đạo, xe phục vụ các lực lượng chức năng được huy động tham gia thực hiện nhiệm vụ khi tình trạng khẩn cấp được ban bố.

@@ -1,0 +1,168 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000575
+Số quyết định: 2353/QĐ-BTC
+Tên thủ tục: Cấp lại Giấy chứng nhận đăng ký hộ kinh doanh, Cấp đổi sang Giấy chứng nhận đăng ký hộ kinh doanh
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thành lập và hoạt động doanh nghiệp (hộ kinh doanh)
+Trình tự thực hiện:
+  * * Trường hợp đăng ký trực tiếp hoặc đăng ký qua dịch vụ bưu chính:
+    - Trường hợp hộ kinh doanh đã được cấp bản giấy Giấy chứng nhận đăng ký hộ kinh doanh có nhu cầu được cấp lại Giấy này do bị mất, cháy, rách, nát hoặc bị tiêu hủy dưới hình thức khác, hộ kinh doanh gửi văn bản đề nghị cấp lại đến Cơ quan đăng ký kinh doanh cấp xã nơi hộ kinh doanh đăng ký trụ sở hoặc Cơ quan đăng ký kinh doanh cấp xã bất kỳ trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi hộ kinh doanh đăng ký trụ sở. Cơ quan đăng ký kinh doanh cấp xã xem xét cấp lại Giấy chứng nhận đăng ký hộ kinh doanh trong thời hạn 01 ngày làm việc kể từ ngày nhận được văn bản đề nghị.
+    - Trường hợp Hộ kinh doanh đã được cấp giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đăng ký hộ kinh doanh trước ngày Nghị định số 168/2025/NĐ-CP có hiệu lực thi hành được tiếp tục hoạt động theo nội dung các giấy tờ trên. Hộ kinh doanh được cấp Giấy chứng nhận đăng ký hộ kinh doanh theo quy định tại Nghị định số 168/2025/NĐ-CP trong trường hợp sau đây:
+    (i) Trường hợp hộ kinh doanh thực hiện thủ tục đăng ký thay đổi nội dung đăng ký hộ kinh doanh, hộ kinh doanh nộp hồ sơ đến Cơ quan đăng ký kinh doanh cấp xã nơi hộ kinh doanh đăng ký trụ sở hoặc Cơ quan đăng ký kinh doanh cấp xã bất kỳ trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi hộ kinh doanh đặt trụ sở. Cơ quan đăng ký kinh doanh cấp xã xem xét cấp Giấy chứng nhận đăng ký hộ kinh doanh trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
+    (ii) Trường hợp hộ kinh doanh thực hiện thủ tục đăng ký tạm ngừng kinh doanh, tiếp tục kinh doanh trước thời hạn đã đăng ký, hộ kinh doanh nộp hồ sơ đến Cơ quan đăng ký kinh doanh cấp xã nơi hộ kinh doanh đăng ký trụ sở hoặc Cơ quan đăng ký kinh doanh cấp xã bất kỳ trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi hộ kinh doanh đặt trụ sở. Cơ quan đăng ký kinh doanh cấp xã xem xét cấp Giấy chứng nhận đăng ký hộ kinh doanh trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+    - Trường hợp Cơ quan thuế sử dụng mã định danh cá nhân thay cho mã số thuế theo quy định của pháp luật về thuế thì hộ kinh doanh đã được cấp giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đăng ký hộ kinh doanh được tiếp tục hoạt động theo nội dung các giấy tờ trên. Hộ kinh doanh được cấp Giấy chứng nhận đăng ký hộ kinh doanh theo quy định tại Nghị định số 168/2025/NĐ-CP, trong đó ghi nhận mã số mới do Hệ thống ứng dụng đăng ký thuế truyền sang khi hộ kinh doanh thực hiện các thủ tục:
+    (i) Trường hợp hộ kinh doanh thực hiện thủ tục đăng ký thay đổi nội dung đăng ký hộ kinh doanh, hộ kinh doanh nộp hồ sơ đến Cơ quan đăng ký kinh doanh cấp xã nơi hộ kinh doanh đăng ký trụ sở hoặc Cơ quan đăng ký kinh doanh cấp xã bất kỳ trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi hộ kinh doanh đặt trụ sở. Cơ quan đăng ký kinh doanh cấp xã xem xét cấp Giấy chứng nhận đăng ký hộ kinh doanh trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ
+    (ii) Trường hợp hộ kinh doanh thực hiện thủ tục đăng ký tạm ngừng kinh doanh, tiếp tục kinh doanh trước thời hạn đã đăng ký, hộ kinh doanh nộp hồ sơ đến Cơ quan đăng ký kinh doanh cấp xã nơi hộ kinh doanh đăng ký trụ sở hoặc Cơ quan đăng ký kinh doanh cấp xã bất kỳ trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi hộ kinh doanh đặt trụ sở. Cơ quan đăng ký kinh doanh cấp xã xem xét cấp Giấy chứng nhận đăng ký hộ kinh doanh trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ.
+    - Trường hợp mua bán, tặng cho, thừa kế hộ kinh doanh được thực hiện trước ngày Nghị định số 168/2025/NĐ-CP có hiệu lực thi hành, hộ kinh doanh gửi hồ sơ đăng ký thay đổi chủ hộ kinh doanh đến Cơ quan đăng ký kinh doanh cấp xã nơi hộ kinh doanh đăng ký trụ sở hoặc Cơ quan đăng ký kinh doanh cấp xã bất kỳ trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi hộ kinh doanh đặt trụ sở. Trong thời hạn 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Cơ quan đăng ký kinh doanh cấp xã xem xét tính hợp lệ của hồ sơ và cấp Giấy chứng nhận đăng ký hộ kinh doanh cho hộ kinh doanh; trường hợp hồ sơ chưa hợp lệ, Cơ quan đăng ký kinh doanh cấp xã thông báo bằng văn bản nêu rõ lý do và các yêu cầu sửa đổi, bổ sung cho hộ kinh doanh.
+  * * Trường hợp đăng ký qua mạng thông tin điện tử:
+    - Người nộp hồ sơ sử dụng tài khoản định danh điện tử để đăng nhập vào Hệ thống thông tin về đăng ký hộ kinh doanh.
+    - Người nộp hồ sơ kê khai thông tin, tải văn bản điện tử, ký số hồ sơ đăng ký hộ kinh doanh qua mạng thông tin điện tử và thanh toán lệ phí theo quy trình trên Hệ thống thông tin về đăng ký hộ kinh doanh.
+    - Sau khi hoàn thành việc gửi hồ sơ đăng ký hộ kinh doanh, người nộp hồ sơ sẽ nhận được giấy tiếp nhận hồ sơ và hẹn trả kết quả hồ sơ đăng ký hộ kinh doanh qua mạng thông tin điện tử.
+    - Các thông tin đăng ký hộ kinh doanh trên Hệ thống thông tin về đăng ký hộ kinh doanh được truyền sang Hệ thống ứng dụng đăng ký thuế để phối hợp, trao đổi thông tin giữa Cơ quan đăng ký kinh doanh cấp xã và Cơ quan thuế.
+    - Trường hợp hồ sơ đủ điều kiện cấp đăng ký hộ kinh doanh, Cơ quan đăng ký kinh doanh cấp xã thực hiện cấp đăng ký hộ kinh doanh và thông báo cho hộ kinh doanh về việc cấp đăng ký hộ kinh doanh. Trường hợp hồ sơ chưa đủ điều kiện cấp đăng ký hộ kinh doanh, Cơ quan đăng ký kinh doanh cấp xã gửi thông báo qua mạng thông tin điện tử cho hộ kinh doanh để yêu cầu sửa đổi, bổ sung hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (- Mức lệ phí cụ thể do Hội đồng nhân dân tỉnh quyết định (căn cứ quy định tại Thông tư số 85/2019/TT-BTC). - Người nộp hồ sơ đăng ký hộ kinh doanh nộp lệ phí đăng ký hộ kinh doanh tại thời điểm nộp hồ sơ đăng ký hộ kinh doanh. Lệ phí đăng ký hộ kinh doanh có thể nộp trực tiếp tại bộ phận tiếp nhận hồ sơ đăng ký hộ kinh doanh ở cấp xã hoặc chuyển vào tài khoản của cơ quan đăng ký kinh doanh cấp xã hoặc sử dụng dịch vụ thanh toán trực tuyến trên Cổng dịch vụ công quốc gia. Lệ phí đăng ký hộ kinh doanh không được hoàn trả cho hộ kinh doanh trong trường hợp hộ kinh doanh không được cấp đăng ký hộ kinh doanh. - Lệ phí đăng ký kinh doanh không bao gồm tiền sử dụng dịch vụ thanh toán điện tử.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (- Mức lệ phí cụ thể do Hội đồng nhân dân tỉnh quyết định (căn cứ quy định tại Thông tư số 85/2019/TT-BTC). - Người nộp hồ sơ đăng ký hộ kinh doanh nộp lệ phí đăng ký hộ kinh doanh tại thời điểm nộp hồ sơ đăng ký hộ kinh doanh. Lệ phí đăng ký hộ kinh doanh có thể nộp trực tiếp tại bộ phận tiếp nhận hồ sơ đăng ký hộ kinh doanh ở cấp xã hoặc chuyển vào tài khoản của cơ quan đăng ký kinh doanh cấp xã hoặc sử dụng dịch vụ thanh toán trực tuyến trên Cổng dịch vụ công quốc gia. Lệ phí đăng ký hộ kinh doanh không được hoàn trả cho hộ kinh doanh trong trường hợp hộ kinh doanh không được cấp đăng ký hộ kinh doanh. - Lệ phí đăng ký kinh doanh không bao gồm tiền sử dụng dịch vụ thanh toán điện tử.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (- Mức lệ phí cụ thể do Hội đồng nhân dân tỉnh quyết định (căn cứ quy định tại Thông tư số 85/2019/TT-BTC). - Người nộp hồ sơ đăng ký hộ kinh doanh nộp lệ phí đăng ký hộ kinh doanh tại thời điểm nộp hồ sơ đăng ký hộ kinh doanh. Lệ phí đăng ký hộ kinh doanh có thể nộp trực tiếp tại bộ phận tiếp nhận hồ sơ đăng ký hộ kinh doanh ở cấp xã hoặc chuyển vào tài khoản của cơ quan đăng ký kinh doanh cấp xã hoặc sử dụng dịch vụ thanh toán trực tuyến trên Cổng dịch vụ công quốc gia. Lệ phí đăng ký hộ kinh doanh không được hoàn trả cho hộ kinh doanh trong trường hợp hộ kinh doanh không được cấp đăng ký hộ kinh doanh. - Lệ phí đăng ký kinh doanh không bao gồm tiền sử dụng dịch vụ thanh toán điện tử.)
+
+Thành phần hồ sơ:
+  [ (ii) Trường hợp thay đổi chủ hộ kinh doanh do các thành viên hộ gia đình đăng ký hộ kinh doanh ủy quyền cho một trong các thành viên còn lại làm chủ hộ kinh doanh thì Hồ sơ gồm các giấy tờ sau: ]
+    - + Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao văn bản ủy quyền của các thành viên hộ gia đình cho một thành viên làm chủ hộ kinh doanh. Văn bản ủy quyền này phải được công chứng hoặc chứng thực theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao văn bản ủy quyền của các thành viên hộ gia đình cho một thành viên làm chủ hộ kinh doanh. Văn bản ủy quyền này phải được công chứng hoặc chứng thực theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao văn bản ủy quyền của các thành viên hộ gia đình cho một thành viên làm chủ hộ kinh doanh. Văn bản ủy quyền này phải được công chứng hoặc chứng thực theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao văn bản ủy quyền của các thành viên hộ gia đình cho một thành viên làm chủ hộ kinh doanh. Văn bản ủy quyền này phải được công chứng hoặc chứng thực theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ (iii) Trường hợp hộ kinh doanh do thành viên hộ gia đình đăng ký thành lập thay đổi chủ hộ do chủ hộ chết hoặc bị Tòa án tuyên bố đã chết, mất tích, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi, hồ sơ gồm: ]
+    - Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ  kinh doanh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao văn bản ủy  quyền của các thành viên hộ gia đình cho một thành viên làm chủ hộ kinh doanh. Văn bản ủy quyền này phải được công chứng hoặc chứng thực theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao văn bản ủy quyền của các thành viên hộ gia đình cho một thành viên làm chủ hộ kinh doanh. Văn bản ủy quyền này phải được công chứng hoặc chứng thực theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao giấy chứng tử hoặc quyết định của Tòa án tuyên bố đã chết, mất tích, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao giấy chứng tử hoặc quyết định của Tòa án tuyên bố đã chết, mất tích, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao văn bản ủy quyền của các thành viên hộ gia đình cho một thành viên làm chủ hộ kinh doanh. Văn bản ủy quyền này phải được công chứng hoặc chứng thực theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao giấy chứng tử hoặc  quyết định của Tòa án tuyên bố đã chết, mất tích, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao văn bản ủy quyền của các thành viên hộ gia đình cho một thành viên làm chủ hộ kinh doanh. Văn bản ủy quyền này phải được công chứng hoặc chứng thực theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao giấy chứng tử hoặc quyết định của Tòa án tuyên bố đã chết, mất tích, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi.
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ (iv) Trường hợp hộ kinh doanh có hai thành viên mà thành viên là chủ hộ kinh doanh chết hoặc bị Tòa án tuyên bố đã chết, mất tích, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi thì thành viên còn lại là chủ hộ kinh doanh, Hồ sơ gồm: ]
+    - - Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao giấy chứng tử hoặc quyết định của Tòa án tuyên bố đã chết, mất tích, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao giấy chứng tử hoặc quyết định của Tòa án tuyên bố đã chết, mất tích, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao giấy chứng tử hoặc quyết định của Tòa án tuyên bố đã chết, mất tích, bị hạn chế hoặc mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ (v) Trường hợp thay đổi thành viên hộ gia đình đăng ký hộ kinh doanh, hộ kinh doanh gửi hồ sơ đăng ký thay đổi đến Cơ quan đăng ký kinh doanh cấp xã. Hồ sơ gồm: ]
+    - - Bản sao văn bản ủy quyền của thành viên mới cho chủ hộ kinh doanh trong trường hợp tiếp nhận thành viên mới. Văn bản ủy quyền này phải được công chứng hoặc chứng thực theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao văn bản ủy quyền của thành viên mới cho chủ hộ kinh doanh trong trường hợp tiếp nhận thành viên mới. Văn bản ủy quyền này phải được công chứng hoặc chứng thực theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao văn bản ủy quyền của thành viên mới cho chủ hộ kinh doanh trong trường hợp tiếp nhận thành viên mới. Văn bản ủy quyền này phải được công chứng hoặc chứng thực theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ + Trường hợp hộ kinh doanh thực hiện thủ tục đăng ký tạm ngừng kinh doanh, tiếp tục kinh doanh trước thời hạn đã đăng ký, thành phần hồ sơ gồm: ]
+    - (ii) Giấy đề nghị đăng ký tạm ngừng kinh doanh/tiếp tục kinh doanh trước thời hạn đã đăng ký của hộ kinh doanh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (iii) Biên bản họp nhóm cá nhân tham gia hộ kinh doanh về việc đăng ký tạm ngừng kinh doanh hoặc tiếp tục kinh doanh trước thời hạn đã đăng ký của hộ kinh doanh đối với trường hợp hộ kinh doanh do nhóm cá nhân thành lập trước ngày Nghị định số 168/2025/NĐ-CP có hiệu lực thi hành
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (iii) Biên bản họp nhóm cá nhân tham gia hộ kinh doanh về việc đăng ký tạm ngừng kinh doanh hoặc tiếp tục kinh doanh trước thời hạn đã đăng ký của hộ kinh doanh đối với trường hợp hộ kinh doanh do nhóm cá nhân thành lập trước ngày Nghị định số 168/2025/NĐ-CP có hiệu lực thi hành
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (ii) Giấy đề nghị đăng ký tạm ngừng kinh doanh/tiếp tục kinh doanh trước thời hạn đã đăng ký của hộ kinh doanh
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ -  Trường hợp ủy quyền thực hiện thủ tục thì hồ sơ phải kèm theo một trong những giấy tờ sau: ]
+    - (ii) Trường hợp ủy quyền cho tổ chức thực hiện thủ tục đăng ký hộ kinh doanh, kèm theo hồ sơ đăng ký hộ kinh doanh phải có bản sao hợp đồng cung cấp dịch vụ với tổ chức làm dịch vụ thực hiện thủ tục liên quan đến đăng ký hộ kinh doanh, giấy giới thiệu của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký hộ kinh doanh.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (iv) Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký hộ kinh doanh thì việc ủy quyền thực hiện theo quy định tại mục (ii).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (iii) Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký hộ kinh doanh thì khi thực hiện thủ tục đăng ký hộ kinh doanh, nhân viên bưu chính phải nộp bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và chủ hộ kinh doanh.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (i) Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký hộ kinh doanh, kèm theo hồ sơ đăng ký hộ kinh doanh phải có văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký hộ kinh doanh. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Trường hợp chưa có tài khoản định danh điện tử để thực hiện xác thực điện tử thì hồ sơ đăng ký hộ kinh doanh phải kèm theo bản sao thẻ Căn cước hoặc thẻ Căn cước công dân còn hiệu lực của người uỷ quyền.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (v) Người ủy quyền và người được ủy quyền thực hiện thủ tục đăng ký hộ kinh doanh chịu trách nhiệm trước pháp luật về tính hợp pháp, trung thực và chính xác của việc ủy quyền. Người uỷ quyền và người được ủy quyền phải thực hiện xác thực điện tử để được cấp đăng ký hộ kinh doanh. Trường hợp việc xác thực điện tử bị gián đoạn thì người ủy quyền thực hiện việc xác thực điện tử sau khi được cấp đăng ký hộ kinh doanh. Trường hợp người ủy quyền không xác nhận hoặc xác nhận không ủy quyền thực hiện thủ tục đăng ký hộ kinh doanh thì Cơ quan đăng ký kinh doanh cấp xã yêu cầu hộ kinh doanh báo cáo theo quy định tại khoản 6 Điều 22 Nghị định số 168/2025/NĐ-CP.
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ - Trường hợp Cơ quan thuế sử dụng mã định danh cá nhân thay cho mã số thuế theo quy định của pháp luật về thuế, hộ kinh doanh được cấp Giấy chứng nhận đăng ký hộ kinh doanh theo quy định tại Nghị định số 168/2025/NĐ-CP, trong đó ghi nhận mã số mới do Hệ thống ứng dụng đăng ký thuế truyền sang khi hộ kinh doanh thực hiện các thủ tục: + Trường hợp hộ kinh doanh thực hiện thủ tục đăng ký thay đổi nội dung đăng ký hộ kinh doanh, thành phần hồ sơ gồm: (i) Trường hợp nội dung đăng ký thay đổi về: tên hộ kinh doanh, địa chỉ trụ sở, vốn kinh doanh, ngành, nghề kinh doanh và nội dung đăng ký thuế của hộ kinh doanh, trừ phương pháp tính thuế thì hồ sơ gồm: ]
+    - - Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh do chủ hộ kinh doanh ký;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản họp nhóm cá nhân tham gia hộ kinh doanh về việc đăng ký thay đổi nội dung đăng ký hộ kinh doanh đối với trường hợp hộ kinh doanh do nhóm cá nhân thành lập trước ngày Nghị định số 168/2025/NĐ-CP có hiệu lực thi hành
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp Hộ kinh doanh đã được cấp giấy chứng nhận đăng ký kinh doanh hoặc giấy chứng nhận đăng ký hộ kinh doanh trước ngày Nghị định số 168/2025/NĐ-CP có hiệu lực thi hành. Hộ kinh doanh được cấp Giấy chứng nhận đăng ký hộ kinh doanh theo quy định tại Nghị định số 168/2025/NĐ-CP trong trường hợp sau đây: + Trường hợp hộ kinh doanh thực hiện thủ tục đăng ký thay đổi nội dung đăng ký hộ kinh doanh, thành phần hồ sơ gồm: (i) Trường hợp nội dung đăng ký thay đổi về: tên hộ kinh doanh, địa chỉ trụ sở, vốn kinh doanh, ngành, nghề kinh doanh và nội dung đăng ký thuế của hộ kinh doanh, trừ phương pháp tính thuế thì hồ sơ gồm: ]
+    - Giấy đề nghị đăng ký thay đổi nội dung đăng ký hộ kinh doanh do chủ hộ kinh doanh ký;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản họp nhóm cá nhân tham gia hộ kinh doanh về việc đăng ký thay đổi nội dung đăng ký hộ kinh doanh đối với trường hợp hộ kinh doanh do nhóm cá nhân thành lập trước ngày Nghị định số 168/2025/NĐ-CP có hiệu lực thi hành.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp hộ kinh doanh đã được cấp bản giấy Giấy chứng nhận đăng ký hộ kinh doanh có nhu cầu được cấp lại Giấy này do bị mất, cháy, rách, nát hoặc bị tiêu hủy dưới hình thức khác, hồ sơ gồm ]
+    - + Giấy đề nghị cấp lại Giấy chứng nhận đăng ký hộ kinh doanh
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp mua bán, tặng cho, thừa kế hộ kinh doanh được thực hiện trước ngày Nghị định số 168/2025/NĐ-CP có hiệu lực thi hành, hộ kinh doanh gửi hồ sơ đăng ký thay đổi chủ hộ kinh doanh đến Cơ quan đăng ký kinh doanh cấp xã, thành phần hồ sơ bao gồm: ]
+    - + Thông báo thay đổi chủ hộ kinh doanh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hợp đồng mua bán hoặc các giấy tờ chứng minh hoàn tất việc mua bán trong trường hợp bán hộ kinh doanh; hợp đồng tặng cho đối với trường hợp tặng cho hộ kinh doanh; bản sao văn bản xác nhận quyền thừa kế hợp pháp của người thừa kế trong trường hợp thay đổi chủ hộ kinh doanh do thừa kế
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản sao văn bản ủy quyền của thành viên hộ gia đình cho một thành viên làm chủ hộ kinh doanh đối với trường hợp hộ kinh doanh do các thành viên hộ gia đình đăng ký thành lập. Văn bản ủy quyền này phải được công chứng hoặc chứng thực theo quy định của pháp luật
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo bằng văn bản nội dung cần sửa đổi, bổ sung của Cơ quan đăng ký kinh doanh cấp xã, Giấy chứng nhận đăng ký hộ kinh doanh được cấp lại cho hộ kinh doanh., Giấy chứng nhận đăng ký hộ kinh doanh, Cơ quan đăng ký kinh doanh cấp xã cập nhật thông tin thay đổi của hộ kinh doanh trong Cơ sở dữ liệu về đăng ký hộ kinh doanh
+Căn cứ pháp lý:
+  * Thông tư Hướng dẫn về phí và lệ phí thuộc thẩm quyền quyết định của Hội đồng nhân dân tỉnh, thành phố trực thuộc Trung ương (85/2019/TT-BTC)
+  * Thông tư số 68/2025/TT-BTC của Bộ Tài chính: Ban hành biểu mẫu sử dụng trong đăng ký doanh nghiệp, đăng ký hộ kinh doanh (68/2025/TT-BTC)
+  * Nghị định số 168/2025/NĐ-CP ngày 30 tháng 6 năm 2025 của Chính phủ về đăng ký doanh nghiệp (168/2025/NĐ-CP)
+  * Luật sửa đổi, bổ sung một số điều của Luật Doanh nghiệp 2020 (76/2025/QH15)
+  * Luật Doanh nghiệp (59/2020/QH14)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

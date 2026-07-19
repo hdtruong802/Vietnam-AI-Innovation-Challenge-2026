@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.006725
+Số quyết định: 2052/QĐ-UBND
+Tên thủ tục: Quyết định thanh lý tài sản công
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Quản lý công sản
+Trình tự thực hiện:
+  * Bước 1:
+    Khi có tài sản công hết hạn sử dụng (hết thời gian sử dụng để tính hao mòn tài sản theo quy định về chế độ quản lý, tính hao mòn tài sản cố định tại cơ quan, tổ chức, đơn vị hoặc hết niên hạn, tần suất sử dụng theo quy định của pháp luật) mà cơ quan được giao quản lý, sử dụng tài sản có nhu cầu thanh lý; tài sản công chưa hết hạn sử dụng nhưng bị hư hỏng mà không thể sửa chữa được hoặc việc sửa chữa không hiệu quả (dự kiến chi phí sửa chữa lớn hơn 30% nguyên giá trong trường hợp xác định được nguyên giá hoặc lớn hơn 30% giá trị đầu tư xây dựng, mua sắm mới tài sản cùng loại hoặc có tiêu chuẩn kỹ thuật, chất lượng, xuất xứ tương đương tại thời điểm thanh lý trong trường hợp không xác định được nguyên giá), nhà làm việc hoặc tài sản khác gắn liền với đất phải phá dỡ theo quyết định của cơ quan, người có thẩm quyền, cơ quan có tài sản lập 01 bộ hồ sơ đề nghị thanh lý tài sản công, gửi cơ quan quản lý cấp trên (nếu có cơ quan quản lý cấp trên) xem xét, đề nghị cơ quan, người có thẩm quyền quyết định thanh lý tài sản công xem xét, quyết định.
+  * Bước 2.
+    Trong thời hạn 20 ngày, kể từ ngày nhận được đầy đủ hồ sơ hợp
+    lệ, cơ quan, người có thẩm quyền quyết định thanh lý tài sản hoặc có văn bản
+    hồi đáp trong trường hợp đề nghị thanh lý không phù hợp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Không quá 20 ngày, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Không quá 20 ngày, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Không quá 20 ngày, kể từ ngày nhận được đầy đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị xử lý của cơ quan có tài sản công theo Mẫu số 01/TSCXLTS ban hành kèm theo Nghị định số 186/2025/NĐ-CP ngày 01/7/2025 của Chính phủ Quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị thanh lý tài sản công
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Ý kiến bằng văn bản của cơ quan chuyên môn về xây dựng thuộc Ủy ban nhân dân cấp tỉnh, cấp xã hoặc văn bản thẩm định của đơn vị tư vấn có chức năng thẩm định về tình trạng tài sản và khả năng sửa chữa (đối với tài sản là nhà, công trình xây dựng chưa hết hạn sử dụng nhưng bị hư hỏng mà không thể sửa chữa được)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các hồ sơ khác có liên quan đến đề nghị thanh lý tài sản (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: - Trung tâm Phục vụ hành chính công các xã, phường.
+- Cổng dịch vụ công (dịch vụ công trực tuyến)
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thanh lý tài sản công hoặc văn bản hồi đáp trong trường hợp đề nghị thanh lý không phù hợp
+Căn cứ pháp lý:
+  * Nghị định số 186/2025/NĐ-CP của Chính phủ: Quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công (186/2025/NĐ-CP)
+  * Quyết định số 08/2026/QĐ-UBND ngày 20/01/2026 quy định phân cấp thẩm quyển quyết định quản lý, sử dụng tài sản công thuộc phạm vị quản lý của tỉnh Lào Cai (08/2026/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

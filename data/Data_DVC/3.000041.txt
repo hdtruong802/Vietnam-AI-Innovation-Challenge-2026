@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000041
+Số quyết định: 1853/QĐ-BTC
+Tên thủ tục: Thủ tục hướng dẫn cơ chế hỗ trợ lãi suất do thực hiện chính sách tín dụng theo Nghị định số 67/2014/NĐ-CP ngày 07/7/2014 của Chính phủ về một số chính sách phát triển thủy sản
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Tài chính ngân hàng
+Trình tự thực hiện:
+  * 1. Lập kế hoạch cấp bù lãi suất.
+    a) Các ngân hàng thương mại lập kế hoạch cấp bù lãi suất năm theo quy định.
+    b) Hàng năm, chậm nhất vào ngày 31/7, các ngân hàng thương mại lập kế hoạch cấp bù lãi suất cả năm kế hoạch (có chia ra từng quý) để tổng hợp vào dự toán ngân sách nhà nước.
+  * 2. Tạm cấp bù lãi suất hàng quý.
+    a) Tối đa 20 ngày kể từ ngày nhận được báo cáo quý về tình hình thực hiện cho vay và văn bản đề nghị tạm cấp bù lãi suất quý của các ngân hàng thương mại, Bộ Tài chính sẽ thực hiện tạm cấp bù lãi suất.
+    b) Số tiền tạm cấp bù lãi suất trong quý bằng 95% số tiền cấp bù lãi suất phát sinh quý trước.
+  * 3. Quyết toán cấp bù lãi suất.
+    - Đối với ngân hàng thương mại:
+    Bước 1: Chậm nhất trong vòng 120 ngày kể từ ngày kết thúc năm tài chính, các ngân hàng thương mại phải chuẩn bị đầy đủ hồ sơ quyết toán và gửi Bộ Tài chính công văn đề nghị quyết toán, báo cáo tổng hợp số liệu đề nghị quyết toán cấp bù lãi suất
+    - Đối với cơ quan quản lý Nhà nước (Bộ Tài chính):
+    Bước 2: Bộ Tài chính thẩm tra số liệu đề nghị quyết toán cấp bù lãi suất.
+  * 4. Thẩm tra số liệu đề nghị quyết toán cấp bù lãi suất.
+    a) Thực hiện thẩm tra số liệu đề nghị quyết toán cấp bù lãi suất.
+    b) Xử lý chênh lệch số liệu nếu có.
+    c) Xử lý trong trường hợp khách hàng vay vốn sử dụng vốn vay sai mục đích nếu có
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Báo cáo tổng hợp số liệu đề nghị quyết toán cấp bù lãi suất của từng khoản cho vay đã được kiểm toán bởi kiểm toán độc lập hoặc Kiểm toán Nhà nước.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Các tài liệu (bản chính hoặc bản sao do ngân hàng thương mại đóng dấu sao y) bao gồm: hợp đồng tín dụng, khế ước hoặc các giấy tờ tương đương để xác định, chứng minh khách hàng thuộc đối tượng vay vốn đủ điều kiện được cấp bù lãi suất, tình hình thực hiện cho vay, dư nợ, dư nợ được cơ cấu lại thời hạn trả nợ do nguyên nhân khách quan, bất khả kháng, thu nợ; bảng kê tích số để xác định số tiền cấp bù lãi suất; hợp đồng đóng mới, nâng cấp tàu. Các tài liệu này được ngân hàng thương mại lưu trữ tại trụ sở chính của ngân hàng để phục vụ cho công tác thẩm tra quyết toán trong trường hợp cần thiết.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Công văn đề nghị Bộ Tài chính quyết toán cấp bù lãi suất trong đó số đề nghị quyết toán không vượt quá số liệu đã được cơ quan kiểm toán xác nhận.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Kế hoạch cấp bù lãi suất cả năm kế hoạch (có chia ra từng quý) do các ngân hàng thương mại lập
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Hồ sơ quyết toán cấp bù lãi suất.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo quý về tình hình thực hiện cho vay và văn bản đề nghị tạm cấp bù lãi suất quý của các ngân hàng thương mại
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bộ Tài chính tạm cấp cho các ngân hàng/thực hiện việc thẩm tra quyết toán và cấp số chênh lệch lãi suất cho các ngân hàng theo quy định
+Căn cứ pháp lý:
+  * 123/2018/TT-BTC sửa đổi, bổ sung một số điều của Thông tư số 114/2014/TT-BTC ngày 20/8/2014 hướng dẫn cấp bù lãi suất do thực hiện chính sách tín dụng theo Nghị định số 67/2014/NĐ-CP ngày 7/7/2014 của Chính phủ về một số chính sách phát triển thủy sản, Thông tư số 13/2016/TT-BTC ngày 20/01/2016 sửa đổi, bổ sung một số điều của Thông tư số 114/2014/TT-BTC ngày 20/8/2014 hướng dẫn cấp bù lãi suất do thực hiện chính sách tín dụng theo Nghị định số 67/2014/NĐ-CP ngày 7/7/2014 của Chính phủ về một số chính sách phát triển thủy sản và Thông tư số 117/2014/TT-BTC ngày 21/8/2014 hướng dẫn thực hiện một số điều Nghị định số 67/2014/NĐ-CP ngày 7/7/2014 của Chính phủ về một số chính sách phát triển thủy sản (Thông tư số 123/2018/TT-BTC)
+  * Nghị định 67/2014/NĐ-CP (67/2014/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

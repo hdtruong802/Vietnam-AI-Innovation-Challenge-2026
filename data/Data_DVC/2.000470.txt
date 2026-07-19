@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000470
+Số quyết định: 985/QĐ-BCT
+Tên thủ tục: Đăng ký tổng nguồn xăng dầu tối thiểu hàng năm
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Lưu thông hàng hóa trong nước
+Trình tự thực hiện:
+    - Trước ngày 30 tháng 11 hàng năm, thương nhân đầu mối kinh doanh xăng dầu gửi một (01) bộ hồ sơ đăng ký tổng nguồn xăng dầu tối thiểu của năm kế tiếp theo quy định tại khoản 25 Điều 1 Nghị định số 95/2021/NĐ-CP về Bộ Công Thương.
+    - Trước ngày 31 tháng 12 hàng năm, Bộ Công Thương phân giao tổng nguồn xăng dầu tối thiểu cho thương nhân đầu mối kinh doanh xăng dầu để thực hiện cho năm sau theo quy định tại khoản 24 Điều 1 Nghị định 95/2021/NĐ-CP. Trường hợp không phân giao tổng nguồn xăng dầu tối thiểu, Bộ Công Thương trả lời bằng văn bản và nêu rõ lý do.
+    - Trường hợp có nhu cầu điều chỉnh tổng nguồn xăng dầu tối thiểu, thương nhân đầu mối kinh doanh xăng dầu gửi công văn về Bộ Công Thương trước ngày 30 tháng 10 hàng năm.
+    - Trong trường hợp tổng nguồn cung dự kiến cả năm của các thương nhân đầu mối sản xuất và thương nhân đầu mối kinh doanh xăng dầu đã đảm bảo nhu cầu của thị trường, Bộ Công Thương điều chỉnh tổng nguồn xăng dầu tối thiểu đã giao cho các thương nhân đầu mối kinh doanh xăng dầu trước ngày 30 tháng 11 của năm. Trường hợp không điều chỉnh tổng nguồn xăng dầu tối thiểu, Bộ Công Thương trả lời bằng văn bản và nêu rõ lý do.
+    - Trong trường hợp cần thiết, nhằm bảo đảm nguồn cung xăng dầu cho thị trường trong nước, Bộ Công Thương quy định cụ thể tiến độ nhập khẩu, mua xăng dầu trong nước hoặc điều chỉnh tăng tổng nguồn xăng dầu tối thiểu để các thương nhân thực hiện. Thương nhân đầu mối kinh doanh xăng dầu phải đảm bảo tiến độ thực hiện tổng nguồn xăng dầu tối thiểu được Bộ Công Thương phân giao theo quy định
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trước ngày 31 tháng 12 hàng năm đối với hồ sơ đăng ký tổng nguồn xăng dầu tối thiểu của năm kế tiếp; trước ngày 30 tháng 11 của năm đối với điều chỉnh tổng nguồn xăng dầu tối thiểu
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trước ngày 31 tháng 12 hàng năm đối với hồ sơ đăng ký tổng nguồn xăng dầu tối thiểu của năm kế tiếp; trước ngày 30 tháng 11 của năm đối với điều chỉnh tổng nguồn xăng dầu tối thiểu
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trước ngày 31 tháng 12 hàng năm đối với hồ sơ đăng ký tổng nguồn xăng dầu tối thiểu của năm kế tiếp; trước ngày 30 tháng 11 của năm đối với điều chỉnh tổng nguồn xăng dầu tối thiểu
+
+Thành phần hồ sơ:
+    - - Báo cáo tình hình kinh doanh xăng dầu của đơn vị trong năm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Công văn đề nghị trong đó nêu rõ số lượng, chủng loại xăng dầu đăng ký được giao tổng nguồn tối thiểu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản phân giao tổng nguồn
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung, bãi bỏ một số quy định tại các Thông tư quy định về kinh doanh xăng dầu (18/2025/TT-BCT)
+  * Sửa đổi, bổ sung một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 về kinh doanh xăng dầu (95/2021/NĐ-CP)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 38/2014/TT-BCT ngày 24 tháng 10 năm 2014 của Bộ trưởng Bộ Công Thương quy định chi tiết một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu (17/2021/TT-BCT)
+  * Quy định chi tiết một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu (38/2014/TT-BCT)
+  * Nghị định 83/2014/NĐ-CP (83/2014/NĐ-CP)
+  * Sửa đổi, bổ sung một số điều của Nghị định số 95/2021/NĐ-CP ngày 01 tháng 11 năm 2021 và Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu (80/2023/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.006661
+Số quyết định: 525/QĐ-BNV
+Tên thủ tục: Thủ tục giải thể tổ chức thanh niên xung phong cấp tỉnh (Cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: CENTRAL_REGULATION
+Lĩnh vực: Công tác thanh niên
+Trình tự thực hiện:
+    - Đoàn Thanh niên Cộng sản Hồ Chí Minh cấp tỉnh gửi hồ sơ đến Sở Nội vụ đề nghị cho ý kiến để làm cơ sở cho việc ra quyết định giải thể tổ chức thanh niên xung phong.
+    - Sở Nội vụ trình Ủy ban nhân dân cấp tỉnh cho ý kiến bằng văn bản về việc chấp thuận hay không chấp thuận việc giải thể.
+    - Đoàn Thanh niên Cộng sản Hồ Chí Minh cấp tỉnh ra quyết định giải thể tổ chức thanh niên xung phong trong trường hợp được Ủy ban nhân dân cấp tỉnh chấp thuận.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đoàn Thanh niên Cộng sản Hồ Chí Minh cấp tỉnh lập 01 bộ hồ sơ theo quy định gửi trực tiếp đến Sở Nội vụ để xem xét chấp thuận việc giải thể hoặc không chấp thuận việc giải thế. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đoàn Thanh niên Cộng sản Hồ Chí Minh cấp tỉnh lập 01 bộ hồ sơ theo quy định gửi trực tiếp đến Sở Nội vụ để xem xét chấp thuận việc giải thể hoặc không chấp thuận việc giải thế. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đoàn Thanh niên Cộng sản Hồ Chí Minh cấp tỉnh lập 01 bộ hồ sơ theo quy định gửi trực tiếp đến Sở Nội vụ để xem xét chấp thuận việc giải thể hoặc không chấp thuận việc giải thế. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - - Văn bản của Đoàn Thanh niên Cộng sản Hồ Chí Minh cấp tỉnh đề nghị Sở Nội vụ cho ý kiến việc giải thể tổ chức thanh niên xung phong.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản chấp thuận của Ban Tổ chức Tỉnh ủy, Thành ủy về việc giải thể tổ chức thanh niên xung phong.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ + Phương án giải thể tổ chức thanh niên xung phong, trong đó nêu rõ: ]
+    - (1) Lý do giải thể tổ chức thanh niên xung phong;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (2) Đề xuất phương án giải quyết về nhân sự, tổ chức bộ máy, biên chế, tài chính, tài sản, đất đai và các vấn đề khác có liên quan;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (3) Quy định trách nhiệm của tổ chức, cá nhân thực hiện phương án giải thể tổ chức và thời hạn xử lý các vấn đề liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đối với việc giải thể Trung tâm, Trường giáo dục lao động xã hội, ngoài các nội dung trên đây, hồ sơ đề nghị giải thể còn phải có ý kiến bằng văn bản của các cơ quan quản lý chuyên ngành liên quan
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đối với trường hợp giải thể quy định tại Khoản 3 Điều 6 Thông tư số 11/2011/TT-BNV ngày 26/9/2011 của Bộ Nội vụ, hồ sơ đề nghị giải thể còn phải có văn bản của cơ quan có thẩm quyền xử lý vi phạm của tổ chức thanh niên xung phong
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các tài liệu khác có liên quan (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Ý kiến bằng văn bản của Ủy ban nhân dân cấp tỉnh về việc giải thể tổ chức thanh niên xung phong, - Quyết định giải thể tổ chức thanh niên xung phong của Đoàn Thanh niên Cộng sản Hồ Chí Minh cấp tỉnh trong trường hợp được Ủy ban nhân dân cấp tỉnh chấp thuận.
+Căn cứ pháp lý:
+  * Nghị định số 12/2011/NĐ-CP ngày 30/01/2011 của Chính phủ về tổ chức và chính sách đối với thanh niên xung phong (12/2011/NĐ-CP)
+  * Thông tư số 11/2011/TT-BNV ngày 26/9/2011 của Bộ trưởng Bộ Nội vụ Hướng dẫn thi hành một số điều của Nghị định số 12/2011/NĐ-CP ngày 30 tháng 01 năm 2011 của Chính phủ về tổ chức và chính sách đối với thanh niên xung phong (11/2011/TT-BNV)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

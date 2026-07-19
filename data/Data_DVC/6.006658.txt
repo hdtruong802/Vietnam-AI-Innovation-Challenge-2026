@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.006658
+Số quyết định: 525/QĐ-BNV
+Tên thủ tục: Thủ tục thành lập tổ chức thanh niên xung phong ở trung ương (Cấp Trung ương)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: CENTRAL_REGULATION
+Lĩnh vực: Công tác thanh niên
+Trình tự thực hiện:
+    - Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh gửi hồ sơ đến Bộ Nội vụ đề nghị cho ý kiến để làm cơ sở cho việc ra quyết định thành lập tổ chức thanh niên xung phong ở Trung ương.
+    - Bộ Nội vụ cho ý kiến bằng văn bản về việc chấp thuận hoặc không chấp thuận việc thành lập tổ chức thanh niên xung phong.
+    - Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh ra quyết định thành lập tổ chức thanh niên xung phong trong trường hợp được sự chấp thuận của Bộ Nội vụ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh có nhu cầu thành lập tổ chức thanh niên xung phong lập 01 bộ hồ sơ theo quy định gửi trực tiếp đến Bộ Nội vụ đề nghị cho ý kiến để làm cơ sở cho việc ra quyết định thành lập. Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Nội vụ có trách nhiệm xem xét, cho ý kiến chấp thuận bằng văn bản việc thành lập tổ chức thanh niên xung phong. Trong trường hợp không chấp thuận phải trả lời bằng văn bản và nêu rõ lý do.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh có nhu cầu thành lập tổ chức thanh niên xung phong lập 01 bộ hồ sơ theo quy định gửi trực tiếp đến Bộ Nội vụ đề nghị cho ý kiến để làm cơ sở cho việc ra quyết định thành lập. Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Nội vụ có trách nhiệm xem xét, cho ý kiến chấp thuận bằng văn bản việc thành lập tổ chức thanh niên xung phong. Trong trường hợp không chấp thuận phải trả lời bằng văn bản và nêu rõ lý do.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh có nhu cầu thành lập tổ chức thanh niên xung phong lập 01 bộ hồ sơ theo quy định gửi trực tiếp đến Bộ Nội vụ đề nghị cho ý kiến để làm cơ sở cho việc ra quyết định thành lập. Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Nội vụ có trách nhiệm xem xét, cho ý kiến chấp thuận bằng văn bản việc thành lập tổ chức thanh niên xung phong. Trong trường hợp không chấp thuận phải trả lời bằng văn bản và nêu rõ lý do.
+
+Thành phần hồ sơ:
+    - - Văn bản của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh đề nghị Bộ Nội vụ cho ý kiến về việc thành lập tổ chức thanh niên xung phong.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản chấp thuận của Ban Tổ chức Trung ương Đảng về việc thành lập tổ chức thanh niên xung phong.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ + Đề án thành lập tổ chức thanh niên xung phong, gồm các nội dung: ]
+    - (1) Loại hình tổ chức cần thành lập thanh niên xung phong;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (2) Sự cần thiết và cơ sở pháp lý thành lập tổ chức thanh niên xung phong; (3) Mục tiêu, chức năng, nhiệm vụ của tổ chức thanh niên xung phong;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (3) Cơ cấu của tổ chức thanh niên xung phong;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (4) Nguồn lực và các điều kiện cần thiết khác bảo đảm để tổ chức thanh niên xung phong mới được thành lập hoạt động. Trong đó, dự kiến về nhân sự, biên chế, kinh phí hoạt động, trụ sở làm việc và trang thiết bị, phương tiện cần thiết của tổ chức thanh niên xung phong;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (5) Thời gian dự kiến kế hoạch hoạt động của tổ chức thanh niên xung phong;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (6) Kiến nghị của cơ quan xây dựng đề án thành lập tổ chức thanh niên xung phong (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đối với việc thành lập Trung tâm, Trường giáo dục lao động xã hội, ngoài các nội dung nêu trên, Đề án còn phải có ý kiến bằng văn bản của các cơ quan quản lý chuyên ngành liên quan cấp Trung ương bao gồm: Bộ Giáo dục và Đào tạo, Bộ Lao động Thương binh và Xã hội, Bộ Kế hoạch và Đầu tư, Bộ Tài chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tài liệu chứng minh điều kiện để được thành lập tổ chức thanh niên xung phong theo quy định tại Điều 4 Nghị định số 12/2011/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các tài liệu khác có liên quan (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Nội vụ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: - Quyết định thành lập tổ chức thanh niên xung phong của Trung ương Đoàn Thanh niên Cộng sản Hồ Chí Minh trong trường hợp được Bộ Nội vụ chấp thuận., - Ý kiến bằng văn bản của Bộ Nội vụ về việc thành lập tổ chức thanh niên xung phong;
+Căn cứ pháp lý:
+  * Nghị định số 12/2011/NĐ-CP ngày 30/01/2011 của Chính phủ về tổ chức và chính sách đối với thanh niên xung phong (12/2011/NĐ-CP)
+  * Thông tư số 11/2011/TT-BNV ngày 26/9/2011 của Bộ trưởng Bộ Nội vụ Hướng dẫn thi hành một số điều của Nghị định số 12/2011/NĐ-CP ngày 30 tháng 01 năm 2011 của Chính phủ về tổ chức và chính sách đối với thanh niên xung phong (11/2011/TT-BNV)
+
+Yêu cầu, điều kiện thực hiện: Không có.
+Từ khóa: Không có thông tin
+Mô tả: Không có.

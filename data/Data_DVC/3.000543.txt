@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000543
+Số quyết định: 1511/QĐ-BNNMT
+Tên thủ tục: Cấp, công nhận lượng kết quả giảm nhẹ phát thải khí nhà kính, tín chỉ các-bon từ dự án Điều 6.2 
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Biến đổi khí hậu
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ
+    Tổ chức đại diện gửi 01 bộ hồ sơ đề nghị cấp, công nhận lượng kết quả giảm nhẹ phát thải khí nhà kính, tín chỉ các-bon theo một trong các hình thức:
+    - Trực tiếp hoặc gửi qua dịch vụ bưu chính đến Bộ phận Một cửa của Bộ Nông nghiệp và Môi trường; địa điểm tại trụ sở chính của Bộ Nông nghiệp và Môi trường, số 10 Tôn Thất Thuyết, Phường Cầu Giấy, Thành phố Hà Nội.
+    - Trực tuyến qua Cổng dịch vụ công quốc gia tại địa chỉ http://dichvucong.gov.vn hoặc qua Ứng dụng định danh quốc gia.
+    Bước 2: Kiểm tra tính hợp lệ của hồ sơ
+    Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị, Bộ Nông nghiệp và Môi trường thông báo bằng văn bản cho tổ chức đại diện về một trong các trường hợp: chấp nhận hồ sơ hợp lệ; yêu cầu bổ sung, hoàn thiện hồ sơ nếu hồ sơ chưa hợp lệ.
+    Thời hạn bổ sung, hoàn thiện hồ sơ là 15 ngày làm việc kể từ ngày nhận được thông báo về yêu cầu bổ sung, hoàn thiện hồ sơ.
+    Bước 3: Tổ chức đánh giá hồ sơ
+    Bộ Nông nghiệp và Môi trường tổ chức đánh giá hồ sơ đề nghị cấp, công nhận kết quả giảm nhẹ phát thải khí nhà kính, tín chỉ các-bon sau khi nhận được hồ sơ hợp lệ.
+    Trong quá trình đánh giá, Bộ Nông nghiệp và Môi trường có trách nhiệm gửi hồ sơ lấy ý kiến của bộ quản lý lĩnh vực (Bộ Công Thương, Bộ Xây dựng).
+    Trong thời hạn 20 ngày làm việc kể từ ngày nhận được hồ sơ xin ý kiến, bộ quản lý lĩnh vực có trách nhiệm trả lời bằng văn bản về các nội dung thuộc phạm vi quản lý nhà nước của mình.
+    Trường hợp quá thời hạn nêu trên mà cơ quan được lấy ý kiến không có ý kiến thì được hiểu là thống nhất với nội dung hồ sơ đề nghị cấp, công nhận kết quả giảm nhẹ phát thải khí nhà kính, tín chỉ các-bon.
+    Bước 4: Quyết định cấp, công nhận lượng kết quả giảm nhẹ phát thải khí nhà kính, tín chỉ các-bon
+    Trong thời hạn 25 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Bộ Nông nghiệp và Môi trường thông báo cho tổ chức đại diện và ghi nhận lượng kết quả giảm nhẹ phát thải khí nhà kính, tín chỉ các-bon đã được cấp, công nhận vào tài khoản của cơ quan, tổ chức tham gia thực hiện dự án trên Hệ thống đăng ký quốc gia; trường hợp không cấp hoặc không công nhận thì phải nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Tại Bộ phận Một cửa của Bộ Nông nghiệp và Môi trường; địa điểm tại trụ sở chính của Bộ Nông nghiệp và Môi trường, số 10 Tôn Thất Thuyết, Phường Cầu Giấy, Thành phố Hà Nội.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trực tuyến qua Cổng dịch vụ công quốc gia tại địa chỉ http://dichvucong.gov.vn hoặc Ứng dụng định danh quốc gia.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 27 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Gửi qua dịch vụ bưu chính đến Bộ phận Một cửa của Bộ Nông nghiệp và Môi trường; địa điểm tại trụ sở chính của Bộ Nông nghiệp và Môi trường, số 10 Tôn Thất Thuyết, Phường Cầu Giấy, Thành phố Hà Nội.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp, công nhận kết quả giảm nhẹ phát thải khí nhà kính, tín chỉ các-bon theo Mẫu số 07 tại Phụ lục II ban hành kèm theo Nghị định số 112/2026/NĐ-CP ngày 01 tháng 4 năm 2026 của Chính phủ (bản chính)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo thẩm định kết quả giảm nhẹ phát thải khí nhà kính của dự án
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tài liệu chứng minh kết quả giảm nhẹ phát thải khí nhà kính, tín chỉ các-bon của dự án đã được cấp, công nhận bởi cơ quan, tổ chức quản lý tiêu chuẩn các-bon áp dụng cho Thỏa thuận Điều 6.2 (nếu có) (bản sao). Trường hợp các tài liệu (2) và (3) bằng tiếng nước ngoài thì gửi kèm bản dịch sang tiếng Việt và có đóng dấu giáp lai của cơ quan, tổ chức nộp hồ sơ.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Biến đổi khí hậu - Bộ NN và MT
+Cơ quan có thẩm quyền: Bộ Nông nghiệp và Môi trường
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa của Bộ Nông nghiệp và Môi trường; địa điểm tại trụ sở chính của Bộ Nông nghiệp và Môi trường, số 10 Tôn Thất Thuyết, Phường Cầu Giấy, Thành phố Hà Nội.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo kết quả cấp/công nhận kết quả giảm nhẹ phát thải khí nhà kính, tín chỉ các-bon
+Căn cứ pháp lý:
+  * Về trao đổi quốc tế kết quả giảm nhẹ phát thải khí nhà kính và tín chỉ các-bon (112/2026/NĐ-CP)
+  * Luật Bảo vệ môi trường số 72/2020/QH14 ngày 17 tháng 11 năm 2020 (72/2020/QH14)
+
+Yêu cầu, điều kiện thực hiện: Cơ quan, tổ chức tham gia thực hiện dự án Điều 6.2 có nhu cầu được cấp, công nhận kết quả giảm nhẹ phát thải khí nhà kính, tín chỉ các-bon từ dự án.
+Từ khóa: Không có thông tin
+Mô tả: Cơ quan, tổ chức tham gia thực hiện dự án Điều 6.2 có nhu cầu được cấp, công nhận kết quả giảm nhẹ phát thải khí nhà kính, tín chỉ các-bon từ dự án.

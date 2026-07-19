@@ -1,0 +1,60 @@
+{"case_id":"birth-happy-01","suite":"dang-ky-khai-sinh","category":"happy_path","query":"Tôi muốn đăng ký khai sinh cho con","expected_procedure_id":"dang-ky-khai-sinh"}
+{"case_id":"birth-happy-02","suite":"dang-ky-khai-sinh","category":"happy_path","query":"Cần làm giấy khai sinh cho em bé","expected_procedure_id":"dang-ky-khai-sinh"}
+{"case_id":"birth-happy-03","suite":"dang-ky-khai-sinh","category":"happy_path","query":"Vợ tôi vừa sinh con, cần làm thủ tục gì","expected_procedure_id":"dang-ky-khai-sinh"}
+{"case_id":"birth-happy-04","suite":"dang-ky-khai-sinh","category":"happy_path","query":"Thủ tục cho trẻ mới sinh","expected_procedure_id":"dang-ky-khai-sinh"}
+{"case_id":"birth-happy-05","suite":"dang-ky-khai-sinh","category":"happy_path","query":"I need birth registration guidance","expected_procedure_id":"dang-ky-khai-sinh"}
+{"case_id":"birth-no-accent-01","suite":"dang-ky-khai-sinh","category":"no_accent","query":"lam khai sinh cho con","expected_procedure_id":"dang-ky-khai-sinh"}
+{"case_id":"birth-no-accent-02","suite":"dang-ky-khai-sinh","category":"no_accent","query":"can giay khai sinh cho be","expected_procedure_id":"dang-ky-khai-sinh"}
+{"case_id":"birth-no-accent-03","suite":"dang-ky-khai-sinh","category":"no_accent","query":"em be moi sinh can giay to gi","expected_procedure_id":"dang-ky-khai-sinh"}
+{"case_id":"birth-typo-01","suite":"dang-ky-khai-sinh","category":"typo","query":"Tôi muốn đăng ký khai sihn cho con","expected_procedure_id":"dang-ky-khai-sinh"}
+{"case_id":"birth-typo-02","suite":"dang-ky-khai-sinh","category":"typo","query":"Làm giay khai sin cho bé","expected_procedure_id":"dang-ky-khai-sinh"}
+{"case_id":"birth-typo-03","suite":"dang-ky-khai-sinh","category":"typo","query":"Vừa sihn con thì cần làm gì","expected_procedure_id":"dang-ky-khai-sinh"}
+{"case_id":"birth-ambiguous-01","suite":"dang-ky-khai-sinh","category":"ambiguous","query":"Tôi cần làm giấy tờ cho con","expected_procedure_id":null}
+{"case_id":"birth-ambiguous-02","suite":"dang-ky-khai-sinh","category":"ambiguous","query":"Thủ tục cho trẻ nhỏ gồm những gì","expected_procedure_id":null}
+{"case_id":"birth-ambiguous-03","suite":"dang-ky-khai-sinh","category":"ambiguous","query":"Tôi cần đăng ký thông tin hộ tịch","expected_procedure_id":null}
+{"case_id":"birth-near-01","suite":"dang-ky-khai-sinh","category":"near_intent","query":"Xin cấp lại bản sao giấy khai sinh","expected_procedure_id":null}
+{"case_id":"birth-near-02","suite":"dang-ky-khai-sinh","category":"near_intent","query":"Tôi muốn cải chính nội dung trên giấy khai sinh","expected_procedure_id":null}
+{"case_id":"birth-near-03","suite":"dang-ky-khai-sinh","category":"near_intent","query":"Đăng ký nhận cha mẹ con cần gì","expected_procedure_id":null}
+{"case_id":"birth-out-01","suite":"dang-ky-khai-sinh","category":"out_of_scope","query":"Tôi muốn đổi giấy phép lái xe","expected_procedure_id":null}
+{"case_id":"birth-out-02","suite":"dang-ky-khai-sinh","category":"out_of_scope","query":"Cấp hộ chiếu lần đầu như thế nào","expected_procedure_id":null}
+{"case_id":"birth-greeting-01","suite":"dang-ky-khai-sinh","category":"greeting","query":"Xin chào trợ lý","expected_procedure_id":null}
+{"case_id":"residence-happy-01","suite":"dang-ky-thuong-tru","category":"happy_path","query":"Tôi muốn đăng ký thường trú","expected_procedure_id":"dang-ky-thuong-tru"}
+{"case_id":"residence-happy-02","suite":"dang-ky-thuong-tru","category":"happy_path","query":"Làm hộ khẩu tại nơi ở mới","expected_procedure_id":"dang-ky-thuong-tru"}
+{"case_id":"residence-happy-03","suite":"dang-ky-thuong-tru","category":"happy_path","query":"Tôi cần nhập khẩu về nhà chồng","expected_procedure_id":"dang-ky-thuong-tru"}
+{"case_id":"residence-happy-04","suite":"dang-ky-thuong-tru","category":"happy_path","query":"Hướng dẫn chuyển hộ khẩu","expected_procedure_id":"dang-ky-thuong-tru"}
+{"case_id":"residence-happy-05","suite":"dang-ky-thuong-tru","category":"happy_path","query":"I need residence registration guidance","expected_procedure_id":"dang-ky-thuong-tru"}
+{"case_id":"residence-no-accent-01","suite":"dang-ky-thuong-tru","category":"no_accent","query":"dang ky thuong tru tai noi o moi","expected_procedure_id":"dang-ky-thuong-tru"}
+{"case_id":"residence-no-accent-02","suite":"dang-ky-thuong-tru","category":"no_accent","query":"thu tuc nhap ho khau","expected_procedure_id":"dang-ky-thuong-tru"}
+{"case_id":"residence-no-accent-03","suite":"dang-ky-thuong-tru","category":"no_accent","query":"dang ky cu tru can gi","expected_procedure_id":"dang-ky-thuong-tru"}
+{"case_id":"residence-typo-01","suite":"dang-ky-thuong-tru","category":"typo","query":"Tôi muốn đăng ký thườn trú","expected_procedure_id":"dang-ky-thuong-tru"}
+{"case_id":"residence-typo-02","suite":"dang-ky-thuong-tru","category":"typo","query":"Thủ tục nhập khẩ về nhà mới","expected_procedure_id":"dang-ky-thuong-tru"}
+{"case_id":"residence-typo-03","suite":"dang-ky-thuong-tru","category":"typo","query":"Tôi cần chuyển hộ khẩuu","expected_procedure_id":"dang-ky-thuong-tru"}
+{"case_id":"residence-ambiguous-01","suite":"dang-ky-thuong-tru","category":"ambiguous","query":"Tôi mới chuyển nhà cần làm giấy tờ gì","expected_procedure_id":null}
+{"case_id":"residence-ambiguous-02","suite":"dang-ky-thuong-tru","category":"ambiguous","query":"Đăng ký địa chỉ mới như thế nào","expected_procedure_id":null}
+{"case_id":"residence-ambiguous-03","suite":"dang-ky-thuong-tru","category":"ambiguous","query":"Tôi cần cập nhật nơi ở","expected_procedure_id":null}
+{"case_id":"residence-near-01","suite":"dang-ky-thuong-tru","category":"near_intent","query":"Đăng ký tạm trú cho người thuê nhà","expected_procedure_id":null}
+{"case_id":"residence-near-02","suite":"dang-ky-thuong-tru","category":"near_intent","query":"Thông báo lưu trú cho khách","expected_procedure_id":null}
+{"case_id":"residence-near-03","suite":"dang-ky-thuong-tru","category":"near_intent","query":"Tôi muốn xóa đăng ký thường trú","expected_procedure_id":null}
+{"case_id":"residence-out-01","suite":"dang-ky-thuong-tru","category":"out_of_scope","query":"Nộp thuế thu nhập cá nhân ở đâu","expected_procedure_id":null}
+{"case_id":"residence-out-02","suite":"dang-ky-thuong-tru","category":"out_of_scope","query":"Đổi căn cước công dân hết hạn","expected_procedure_id":null}
+{"case_id":"residence-greeting-01","suite":"dang-ky-thuong-tru","category":"greeting","query":"Chào bạn, bạn có thể giúp gì","expected_procedure_id":null}
+{"case_id":"business-happy-01","suite":"dang-ky-ho-kinh-doanh","category":"happy_path","query":"Tôi muốn đăng ký hộ kinh doanh","expected_procedure_id":"dang-ky-ho-kinh-doanh"}
+{"case_id":"business-happy-02","suite":"dang-ky-ho-kinh-doanh","category":"happy_path","query":"Mở cửa hàng thì đăng ký như thế nào","expected_procedure_id":"dang-ky-ho-kinh-doanh"}
+{"case_id":"business-happy-03","suite":"dang-ky-ho-kinh-doanh","category":"happy_path","query":"Tôi chuẩn bị mở quán và cần làm thủ tục","expected_procedure_id":"dang-ky-ho-kinh-doanh"}
+{"case_id":"business-happy-04","suite":"dang-ky-ho-kinh-doanh","category":"happy_path","query":"Hướng dẫn đăng ký kinh doanh cá thể","expected_procedure_id":"dang-ky-ho-kinh-doanh"}
+{"case_id":"business-happy-05","suite":"dang-ky-ho-kinh-doanh","category":"happy_path","query":"I want to register a household business","expected_procedure_id":"dang-ky-ho-kinh-doanh"}
+{"case_id":"business-no-accent-01","suite":"dang-ky-ho-kinh-doanh","category":"no_accent","query":"dang ky ho kinh doanh","expected_procedure_id":"dang-ky-ho-kinh-doanh"}
+{"case_id":"business-no-accent-02","suite":"dang-ky-ho-kinh-doanh","category":"no_accent","query":"mo cua hang can thu tuc gi","expected_procedure_id":"dang-ky-ho-kinh-doanh"}
+{"case_id":"business-no-accent-03","suite":"dang-ky-ho-kinh-doanh","category":"no_accent","query":"toi muon mo quan nho","expected_procedure_id":"dang-ky-ho-kinh-doanh"}
+{"case_id":"business-typo-01","suite":"dang-ky-ho-kinh-doanh","category":"typo","query":"Đăng ký hộ kinh doah","expected_procedure_id":"dang-ky-ho-kinh-doanh"}
+{"case_id":"business-typo-02","suite":"dang-ky-ho-kinh-doanh","category":"typo","query":"Tôi muốn mở cửa hàn nhỏ","expected_procedure_id":"dang-ky-ho-kinh-doanh"}
+{"case_id":"business-typo-03","suite":"dang-ky-ho-kinh-doanh","category":"typo","query":"Hướng dẫn đăng ký kinh doan cá thể","expected_procedure_id":"dang-ky-ho-kinh-doanh"}
+{"case_id":"business-ambiguous-01","suite":"dang-ky-ho-kinh-doanh","category":"ambiguous","query":"Tôi muốn bán hàng tại nhà","expected_procedure_id":null}
+{"case_id":"business-ambiguous-02","suite":"dang-ky-ho-kinh-doanh","category":"ambiguous","query":"Bắt đầu buôn bán cần giấy tờ gì","expected_procedure_id":null}
+{"case_id":"business-ambiguous-03","suite":"dang-ky-ho-kinh-doanh","category":"ambiguous","query":"Tôi muốn mở một cơ sở nhỏ","expected_procedure_id":null}
+{"case_id":"business-near-01","suite":"dang-ky-ho-kinh-doanh","category":"near_intent","query":"Tôi muốn thành lập công ty trách nhiệm hữu hạn","expected_procedure_id":null}
+{"case_id":"business-near-02","suite":"dang-ky-ho-kinh-doanh","category":"near_intent","query":"Đăng ký doanh nghiệp tư nhân cần gì","expected_procedure_id":null}
+{"case_id":"business-near-03","suite":"dang-ky-ho-kinh-doanh","category":"near_intent","query":"Thay đổi địa chỉ hộ kinh doanh","expected_procedure_id":null}
+{"case_id":"business-out-01","suite":"dang-ky-ho-kinh-doanh","category":"out_of_scope","query":"Đăng ký bảo hiểm xã hội tự nguyện","expected_procedure_id":null}
+{"case_id":"business-out-02","suite":"dang-ky-ho-kinh-doanh","category":"out_of_scope","query":"Xin giấy phép xây dựng nhà ở","expected_procedure_id":null}
+{"case_id":"business-greeting-01","suite":"dang-ky-ho-kinh-doanh","category":"greeting","query":"Hello, tôi cần hỗ trợ","expected_procedure_id":null}

@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000569
+Số quyết định: 1198/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục xác nhận đăng ký hoạt động in (cấp xã)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+    - Trước khi hoạt động, Cơ sở in trên địa bàn (là hộ kinh doanh) thực hiện chế bản, in, gia công sau in sản phẩm in thuộc phạm vi quy định tại khoản 4 Điều 2 Nghị định số 60/2014/NĐ-CP (không bao gồm hoạt động chế bản, in, gia công sau in đối với sản phẩm in bao bì không chứa nhãn hàng hóa) phải thực hiện đăng ký hoạt động in với Phòng chuyên môn về văn hóa thuộc Ủy ban nhân dân cấp xã để được cấp giấy xác nhận đăng ký hoạt động in.
+    - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ đăng ký hoạt động của cơ sở in, cơ quan quản lý về hoạt động in ở địa phương có trách nhiệm cấp giấy xác nhận đăng ký hoạt động in và cập nhật thông tin vào cơ sở dữ liệu quốc gia về hoạt động in; trường hợp không cấp giấy xác nhận đăng ký hoạt động in phải có văn bản trả lời nêu rõ lý do. Giấy xác nhận đăng ký hoạt động in điện tử có giá trị pháp lý như giấy xác nhận đăng ký hoạt động in bản giấy.
+    Trường hợp hồ sơ đăng ký hoạt động in không đúng thành phần quy định phải thông báo bằng văn bản cho cơ sở in và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ theo quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+    - Tờ khai đăng ký hoạt động in (Mẫu số 08 tại Phụ lục 04 kèm theo Nghị quyết 18/2026/NQ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Sơ yếu lý lịch của người đại diện pháp luật/người đứng đầu cơ sở in (Mẫu số 09 tại Phụ lục 04 kèm theo Nghị quyết 18/2026/NQ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy xác nhận đăng ký hoạt động in
+Căn cứ pháp lý:
+  * Nghị định 25/2018/NĐ-CP (25/2018/NĐ-CP)
+  * Nghị định 60/2014/NĐ-CP (60/2014/NĐ-CP)
+  * Nghị định số 72/2022/NĐ-CP ngày 04 tháng 10 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 60/2014/NĐ-CP ngày 19 tháng 6 năm 2014 của Chính phủ quy định về hoạt động in và Nghị định số 25/2018/NĐ-CP ngày 28 tháng 02 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 60/2014/NĐ-CP ngày 19 tháng 6 năm 2014 của Chính phủ quy định về hoạt động in (72/2022//NĐ-CP)
+  * Nghị quyết số 18/2026/NQ-CP ngày 29/4/2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, cắt giảm điều kiện đầu tư kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (18/2026/NQ-CP)
+  * Nghị định sửa đổi, bổ sung một số điều của các Nghị định có quy định thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (116/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Đối với cơ sở in thực hiện chế bản, in, gia công sau in các sản phẩm gồm: Báo, tạp chí và các ấn phẩm báo chí khác theo quy định của pháp luật về báo chí; Mẫu, biểu mẫu giấy tờ do cơ quan nhà nước ban hành; tem chống giả; hóa đơn tài chính, các loại thẻ, giấy tờ có sẵn mệnh giá hoặc dùng để ghi mệnh giá (không bao gồm tiền) phải đáp ứng các điều kiện sau đây: 
+(1) Có thiết bị phù hợp để thực hiện một hoặc nhiều công đoạn chế bản, in, gia công sau in theo nhu cầu, khả năng hoạt động của cơ sở in và đúng với tờ khai đăng ký hoạt động cơ sở in; 
+(2) Có mặt bằng hợp pháp để thực hiện chế bản, in, gia công sau in;
+(3) Có chủ sở hữu là tổ chức (cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, đơn vị sự nghiệp công lập, tổ chức kinh tế có chủ sở hữu là công dân Việt Nam)  hoặc cá nhân là công dân Việt Nam; có người đứng đầu là công dân Việt Nam, thường trú hợp pháp tại Việt Nam, có năng lực hành vi dân sự đầy đủ.
+- Đối với cơ sở in thực hiện chế bản, in, gia công sau in các sản phẩm gồm: Bao bì, nhãn hàng hóa; Mẫu, biểu mẫu, giấy tờ, sách, sổ, tài liệu hướng dẫn sử dụng, giới thiệu, quảng cáo thiết bị, công cụ sản xuất, sản phẩm, hàng hóa, dịch vụ; áp-phích, tờ rời, tờ gấp không phải là xuất bản phẩm theo quy định của Luật Xuất bản và các sản phẩm in khác phải đáp ứng các điều kiện sau đây: 
+(1) Có thiết bị phù hợp để thực hiện một hoặc nhiều công đoạn chế bản, in, gia công sau in theo nhu cầu, khả năng hoạt động của cơ sở in và đúng với tờ khai đăng ký hoạt động cơ sở in; 
+(2) Có mặt bằng hợp pháp để thực hiện chế bản, in, gia công sau in.
+Từ khóa: Không có thông tin
+Mô tả: - Đối với cơ sở in thực hiện chế bản, in, gia công sau in các sản phẩm gồm: Báo, tạp chí và các ấn phẩm báo chí khác theo quy định của pháp luật về báo chí; Mẫu, biểu mẫu giấy tờ do cơ quan nhà nước ban hành; tem chống giả; hóa đơn tài chính, các loại thẻ, giấy tờ có sẵn mệnh giá hoặc dùng để ghi mệnh giá (không bao gồm tiền) phải đáp ứng các điều kiện sau đây: 
+(1) Có thiết bị phù hợp để thực hiện một hoặc nhiều công đoạn chế bản, in, gia công sau in theo nhu cầu, khả năng hoạt động của cơ sở in và đúng với tờ khai đăng ký hoạt động cơ sở in; 
+(2) Có mặt bằng hợp pháp để thực hiện chế bản, in, gia công sau in;
+(3) Có chủ sở hữu là tổ chức (cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị - xã hội - nghề nghiệp, tổ chức xã hội - nghề nghiệp, đơn vị sự nghiệp công lập, tổ chức kinh tế có chủ sở hữu là công dân Việt Nam)  hoặc cá nhân là công dân Việt Nam; có người đứng đầu là công dân Việt Nam, thường trú hợp pháp tại Việt Nam, có năng lực hành vi dân sự đầy đủ.
+- Đối với cơ sở in thực hiện chế bản, in, gia công sau in các sản phẩm gồm: Bao bì, nhãn hàng hóa; Mẫu, biểu mẫu, giấy tờ, sách, sổ, tài liệu hướng dẫn sử dụng, giới thiệu, quảng cáo thiết bị, công cụ sản xuất, sản phẩm, hàng hóa, dịch vụ; áp-phích, tờ rời, tờ gấp không phải là xuất bản phẩm theo quy định của Luật Xuất bản và các sản phẩm in khác phải đáp ứng các điều kiện sau đây: 
+(1) Có thiết bị phù hợp để thực hiện một hoặc nhiều công đoạn chế bản, in, gia công sau in theo nhu cầu, khả năng hoạt động của cơ sở in và đúng với tờ khai đăng ký hoạt động cơ sở in; 
+(2) Có mặt bằng hợp pháp để thực hiện chế bản, in, gia công sau in.

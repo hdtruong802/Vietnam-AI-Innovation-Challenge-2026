@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002795
+Số quyết định: 3110/QĐ-BKHCN
+Tên thủ tục: Cấp giấy chứng nhận cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    Nộp Hồ sơ đề nghị cấp giấy chứng nhận cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao về Ủy ban nhân dân cấp tỉnh nơi đặt trụ sở cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao thực hiện.
+    Ủy ban nhân dân cấp tỉnh tổ chức tiếp nhận, thẩm định Hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 35 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 35 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 35 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp Giấy chứng nhận cơ sở ươm tạo công nghệ cao (Biểu B4a-TCCSUT; Biểu B4b-CNCSUT) ban hành tại Phụ lục kèm theo Thông tư này
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Lý lịch khoa học của chuyên gia tư vấn có hợp đồng dài hạn với cơ sở ươm tạo công nghệ cao (Biểu B6a-LLKH); danh sách các chuyên gia tư vấn (Biểu B6b-DSCG) ban hành tại Phụ lục kèm theo Thông tư số 08/2025/TT-BKHCN ngày 21/6/2025
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản cam kết và giải trình khả năng huy động vốn từ các nguồn ngoài ngân sách sự nghiệp khoa học (báo cáo tài chính của doanh nghiệp trong 02 - 03 năm gần nhất; cam kết cho vay vốn hoặc bảo lãnh vay vốn của ngân hàng; cam kết về việc đóng góp vốn của các tổ chức tham gia cơ sở ươm tạo công nghệ cao). Văn bản chứng minh năng lực về nhân lực, trang thiết bị, máy móc của cơ sở ươm tạo công nghệ cao, trường hợp sử dụng của các đơn vị liên kết, phải có các văn bản chứng minh năng lực của các đơn vị này;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản chứng minh hợp tác, liên kết của cơ sở ươm tạo công nghệ cao với các tổ chức nghiên cứu, đào tạo, doanh nghiệp, tổ chức tài chính, cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao trong nước và ngoài nước.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thuyết minh về năng lực của cơ sở ươm tạo công nghệ cao đáp ứng các điều kiện quy định tại Điều 2 của Thông tư này (Biểu B5-TMCSUT) ban hành tại Phụ lục kèm theo Thông tư số 08/2025/TT-BKHCN ngày 21/6/2025
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài, Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao.
+Căn cứ pháp lý:
+  * Quyết định số 38/2020/QĐ-TTg ban hành Danh mục công nghệ cao được ưu tiên đầu tư phát triển và Danh mục sản phẩm công nghệ cao được khuyến khích phát triển (38/2020/QĐ-TTg)
+  * Thông tư quy định về việc phân cấp trong thực hiện thủ tục chứng nhận doanh nghiệp thành lập mới từ dự án đầu tư sản xuất sản phẩm công nghệ cao và chứng nhận cơ sở ươm tạo công nghệ cao, ươm tạo doanh nghiệp công nghệ cao (08/2025/TT-BKHCN)
+  * Luật Công nghệ cao (21/2008/QH12)
+  * Thông tư 27/2013/TT-BKHCN (27/2013/TT-BKHCN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

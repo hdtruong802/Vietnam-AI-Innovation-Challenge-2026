@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000580
+Số quyết định: 1915/QĐ-VP
+Tên thủ tục: Hỗ trợ chuyển đổi nghề, giải bản đối với tàu cá không có nhu cầu hoạt động khai thác thủy sản
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Thủy sản
+Trình tự thực hiện:
+    - Bước 1: Tổ chức, hộ gia đình, cá nhân gửi (trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc qua Cổng dịch vụ công quốc gia) 01 Đơn đề nghị hỗ trợ
+    (theo Mẫu số 01 kèm theo) đến Bộ phận Một cửa các cấp (trước ngày 05/12 hằng năm trong năm thực hiện hỗ trợ chính sách). Sau khi tiếp nhận hồ sơ đầy đủ, hợp lệ, Bộ phận Một cửa các cấp có trách nhiệm chuyển hồ sơ đến Ủy ban nhân dân cấp xã nơi tổ chức, hộ gia đình, cá nhân đăng ký trụ sở/thường trú.
+    - Bước 2: Trong thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Chủ tịch Ủy ban nhân dân cấp xã giao Phòng Kinh tế (hoặc Phòng Kinh tế, Hạ tầng và Đô thị) chủ trì, phối hợp với các đơn vị liên quan tổ chức giám sát chủ tàu thực hiện giải bản tàu cá, lập biên bản xác minh tình trạng tàu cá xóa đăng ký (theo Mẫu số 02 kèm theo) và báo cáo Chủ tịch Ủy ban nhân dân cấp xã kết quả thẩm định, tổ chức giải bản.
+    + Trường hợp kết quả thẩm định hồ sơ không đủ điều kiện hỗ trợ, Chủ tịch
+    Ủy ban nhân dân cấp xã có văn bản thông báo cho tổ chức, hộ gia đình, cá nhân, trong đó nêu rõ lý do.
+    + Trường hợp kết quả thẩm định hồ sơ đủ điều kiện hỗ trợ, Chủ tịch Ủy ban nhân dân cấp xã ban hành Quyết định hỗ trợ.
+    - Bước 3: Căn cứ Quyết định hỗ trợ của Chủ tịch Ủy ban nhân dân cấp xã, trong thời gian 01 ngày làm việc, Ủy ban nhân dân cấp xã thực hiện chi trả cho các đối tượng thụ hưởng chính sách.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 16 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 16 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 16 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đơn đề nghị hỗ trợ chuyển đổi nghề, giải bản đối với tàu cá  không có nhu cầu hoạt động khai thác thủy sản
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Hợp tác xã, Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Chủ tịch Ủy ban nhân dân cấp xã, tỉnh Thanh Hóa
+Địa chỉ tiếp nhận HS: - Trung tâm Phục vụ hành chính công cấp xã thuộc UBND cấp xã tỉnh Thanh Hóa.
+- Bộ phận Tiếp nhận và Trả kết quả của Sở Nông nghiệp và Môi trường tại Trung tâm Phục vụ hành chính công tỉnh Thanh Hóa (Số 28 Đại lộ Lê Lợi, phường Hạc Thành, tỉnh Thanh Hóa) (thực hiện tiếp nhận hồ sơ, trả kết quả không phụ thuộc vào địa giới hành chính).
+- Nộp trực tuyến qua Cổng Dịch vụ công Quốc gia (một phần) tại địa chỉ: https://dichvucong.gov.vn.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hỗ trợ hoặc văn bản thông báo hồ sơ không đủ điều kiện hỗ trợ, nêu rõ lý do.
+Căn cứ pháp lý:
+  * quy định chính sách hỗ trợ chuyển đổi nghề, giải bản đối với tàu cá không có nhu cầu hoạt động khai thác thủy sản trên địa bàn tỉnh Thanh Hóa. (07/2026/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: - Điều kiện hỗ trợ giải bản tàu:
++ Chủ tàu cá tự thực hiện giải bản tàu cá không có nhu cầu hoạt động khai thác thủy sản dưới sự giám sát của chính quyền địa phương và các đơn vị liên quan.
++ Tàu cá trước khi thực hiện giải bản phải còn đầy đủ phần vỏ tàu và máy tàu.
++ Chủ tàu thu dọn rác thải phát sinh khi giải bản đảm bảo vệ sinh môi trường.
+- Điều kiện hỗ trợ chuyển đổi nghề, ổn định sinh kế sau khi giải bản: Là chủ sở hữu tàu cá thực hiện giải bản theo chính sách quy định tại Điều 2 Nghị quyết số 07/2026/NQ-HĐND ngày 27/5/2026 của HĐND tỉnh Thanh Hóa và không sở hữu tàu cá nào khác.
+Từ khóa: Không có thông tin
+Mô tả: - Điều kiện hỗ trợ giải bản tàu:
++ Chủ tàu cá tự thực hiện giải bản tàu cá không có nhu cầu hoạt động khai thác thủy sản dưới sự giám sát của chính quyền địa phương và các đơn vị liên quan.
++ Tàu cá trước khi thực hiện giải bản phải còn đầy đủ phần vỏ tàu và máy tàu.
++ Chủ tàu thu dọn rác thải phát sinh khi giải bản đảm bảo vệ sinh môi trường.
+- Điều kiện hỗ trợ chuyển đổi nghề, ổn định sinh kế sau khi giải bản: Là chủ sở hữu tàu cá thực hiện giải bản theo chính sách quy định tại Điều 2 Nghị quyết số 07/2026/NQ-HĐND ngày 27/5/2026 của HĐND tỉnh Thanh Hóa và không sở hữu tàu cá nào khác.

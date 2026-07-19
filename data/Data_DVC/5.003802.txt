@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 5.003802
+Số quyết định: 497/QĐ-BXD
+Tên thủ tục: Chấp thuận kế hoạch nhu cầu và dự kiến kinh phí thực hiện kế hoạch năm sau
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: CENTRAL_REGULATION
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+    + Hàng năm, căn cứ hiện trạng kỹ thuật của công trình đường thủy nội địa, về quy mô và kết cấu công trình, lịch sử bảo trì công trình, thực tế trên các tuyến (luồng) đường thủy nội địa, vùng nước, các thông tin và dữ liệu khác, tiêu chuẩn kỹ thuật, quy trình bảo trì, định mức kinh tế kỹ thuật, Cục Hàng hải và Đường thủy Việt Nam rà soát, tổng hợp, lập kế hoạch và dự kiến kinh phí nhu cầu bảo trì công trình đường thủy nội địa của năm sau trình Bộ Xây dựng trước ngày 15 tháng 6 hàng năm.
+    + Bộ Xây dựng tải rà soát, chấp thuận kế hoạch nhu cầu và dự kiến kinh phí bảo trì công trình đường thủy nội địa cho năm sau trước ngày 30 tháng 6 hàng năm; tổng hợp kế hoạch và dự kiến kinh phí bảo trì vào dự toán thu, chi ngân sách nhà nước hàng năm của Bộ Xây dựng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: từ ngày 15/6 đến ngày 30/6
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: từ ngày 15/6 đến ngày 30/6
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: từ ngày 15/6 đến ngày 30/6
+
+Thành phần hồ sơ:
+    - Tờ trình phê duyệt kế hoạch nhu cầu và dự toán kinh phí
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ đề xuất các công trình
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận kế hoạch nhu cầu và dự kiến kinh phí bảo trì công trình đường thủy nội địa, Văn bản chấp thuận.
+Căn cứ pháp lý:
+  * Nghị định 33/2013/NĐ-CP (33/2013/NĐ-CP)
+  * Thông tư quy định về quản lý, bảo trì công trình thuộc kết cấu hạ tầng đường thủy nội địa (21/2022/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

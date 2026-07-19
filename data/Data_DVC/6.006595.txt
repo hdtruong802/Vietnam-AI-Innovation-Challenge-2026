@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.006595
+Số quyết định: 721/QĐ-BXD
+Tên thủ tục: Thủ tục xử lý tài sản kết cấu hạ tầng công viên, cây xanh do Nhà nước đầu tư, quản lý
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Hạ tầng kỹ thuật
+Trình tự thực hiện:
+    - Đơn vị được giao quản lý tài sản lập hồ sơ đề nghị xử lý tài sản theo quy định tại khoản 2 Điều 5 Thông tư số 67/2025/TT-BXD và trình Ủy ban nhân dân cấp có thẩm quyền xem xét, quyết định;
+    - Trong thời hạn 45 ngày kể từ ngày nhận đủ hồ sơ, Ủy ban nhân dân cấp có thẩm quyền xem xét, quyết định xử lý tài sản theo quy định tại khoản 3 Điều 5 Thông tư số 67/2025/TT-BXD hoặc có văn bản hồi đáp trong trường hợp đề nghị xử lý tài sản không phù hợp;
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 45 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 45 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị xử lý tài sản của đơn vị được giao quản lý tài sản
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh mục tài sản đề nghị xử lý theo Mẫu số 02 Phụ lục kèm theo Thông tư số 67/2025/TT-BXD
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề xuất hình thức xử lý tài sản; giá khởi điểm để đấu giá bán tài sản (nếu có); phương án quản lý, sử dụng số tiền thu được từ xử lý tài sản (nếu có) và dự kiến kinh phí thực hiện xử lý tài sản
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị xử lý tài sản của đơn vị khai thác tài sản trong trường hợp tự nguyện trả lại tài sản
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị được tiếp nhận tài sản của đơn vị nhận tài sản trong trường hợp điều chuyển tài sản
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản xác định tài sản bị mất, hủy hoại và các hồ sơ chứng minh tài sản bị mất, hủy hoại trong trường hợp tài sản bị mất, hủy hoại
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Ý kiến của các cơ quan có liên quan và hồ sơ khác có liên quan (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Dự thảo Quyết định xử lý tài sản theo quy định tại khoản 3 Điều 5 Thông tư số 67/2025/TT-BXD
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định xử lý tài sản kết cấu hạ tầng công viên, cây xanh do Nhà nước đầu tư, quản lý.
+Căn cứ pháp lý:
+  * Quy định về trình tự, thủ tục trong quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng công viên, cây xanh do Nhà nước đầu tư, quản lý (67/2025/TT-BXD)
+  * Về quản lý công viên, cây xanh, mặt nước (258/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có
+Từ khóa: Không có thông tin
+Mô tả: Không có

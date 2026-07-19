@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002617
+Số quyết định: 647/QĐ-BXD
+Tên thủ tục: Cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm bằng phương tiện thủy nội địa do bị mất, bị hỏng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    Người vận tải hàng hóa nguy hiểm nộp hồ sơ đề nghị cấp Giấy phép vận chuyển hàng hóa nguy hiểm đến Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương.
+  * b) Giải quyết TTHC:
+    - Trường hợp nộp hồ sơ trực tiếp: Cơ quan cấp Giấy phép kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ; trường hợp thành phần hồ sơ chưa đầy đủ hoặc có sai lệch thì hướng dẫn hoàn thiện hồ sơ theo quy định.
+    - Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua hệ thống dịch vụ công trực tuyến: Trong thời hạn không quá 01 ngày làm việc kể từ ngày nhận hồ sơ, cơ quan cấp Giấy phép xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan giải quyết thủ tục hành chính thông báo bằng văn bản hoặc thông qua hệ thống dịch vụ công trực tuyến cho tổ chức, cá nhân biết để bổ sung, đồng thời hướng dẫn hoàn thiện hồ sơ theo quy định;
+    - Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định, cơ quan cấp Giấy phép thẩm định hồ sơ cấp Giấy phép vận chuyển hàng hóa nguy hiểm. Trường hợp không cấp Giấy phép thì cơ quan cấp Giấy phép phải trả lời bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Giấy đề nghị cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm (trong đó nêu lý do: bị mất hoặc bị hỏng).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép vận chuyển hàng hóa nguy hiểm
+Căn cứ pháp lý:
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+  * Quy định về Danh mục hàng hoá nguy hiểm, vận chuyển hàng hoá nguy hiểm bằng phương tiện giao thông cơ giới đường bộ và phương tiện thủy nội địa (34/2024/NĐ-CP)
+  * Quy định về Danh mục hàng hóa nguy hiểm, vận chuyển hàng hóa nguy hiểm và trình tự, thủ tục cấp giấy phép, cấp giấy chứng nhận hoàn thành chương trình tập huấn cho người lái xe hoặc người áp tải vận chuyển hàng hóa nguy hiểm trên đường bộ (161/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

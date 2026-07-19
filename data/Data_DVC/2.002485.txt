@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002485
+Số quyết định: 2638/QĐ-UBND
+Tên thủ tục: Hỗ trợ đầu tư dự án sản xuất công nghiệp - tiểu thủ công nghiệp vào khu vực miền núi
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Công nghiệp địa phương
+Trình tự thực hiện:
+    - Bước 1: Doanh nghiệp nộp trực tiếp (hoặc qua Dịch vụ bưu chính công ích hoặc qua Hệ thống dịch vụ công trực tuyến) hồ sơ đề nghị hỗ trợ tại Bộ phận Một cửa các cấp trên địa bàn tỉnh. Ngay sau khi tiếp nhận hồ sơ đầy đủ, hợp lệ, Bộ phận Một cửa chuyển hồ sơ bản scan trên hệ thống dịch vụ công trực tuyến về Sở Công Thương để xem xét giải quyết.
+    - Bước 2: Trong thời hạn 04 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở Công Thương thực hiện thẩm định hồ sơ, đồng thời, có văn bản đề nghị
+    Ủy ban nhân dân cấp xã nơi có dự án cung cấp thông tin tiến độ thực hiện dự án đã đi vào sản xuất. Trong thời hạn 02 ngày làm việc kể từ ngày nhận được văn bản của Sở Công Thương, Ủy ban nhân dân cấp xã phải có văn bản trả lời rõ về việc nhà máy đã đi vào sản xuất hoặc chưa đi vào sản xuất gửi Sở Công Thương.
+    Trong thời hạn 02 ngày làm việc, kể từ ngày nhận được văn bản trả lời của Ủy ban nhân dân cấp xã, Sở Công Thương tổng hợp kết quả thẩm định gửi kèm hồ sơ, tài liệu liên quan gửi Sở Tài Chính; trường hợp doanh nghiệp không đủ điều kiện được hưởng chính sách, Sở Công Thương có văn bản thông báo và nêu rõ lý do cho doanh nghiệp đã đề nghị được thụ hưởng chính sách.
+    - Bước 3: Trong thời gian 02 ngày làm việc, kể từ ngày nhận được văn bản và hồ sơ của Sở Công Thương, Sở Tài chính căn cứ mức hỗ trợ trình Chủ tịch
+    Ủy ban nhân dân tỉnh xem xét, quyết định.
+    - Bước 4: Trong thời gian 02 ngày làm việc, kể từ ngày nhận được Tờ trình của Sở Tài chính, Chủ tịch Ủy ban nhân dân tỉnh xem xét, ban hành quyết định hỗ trợ, gửi Sở Tài chính và Sở Công Thương.
+    Sau khi có Quyết định hỗ trợ của Chủ tịch Ủy ban nhân dân tỉnh, Sở
+    Công Thương chuyển Quyết định hỗ trợ về cơ quan tiếp nhận hồ sơ đề nghị hỗ trợ ban đầu để trả kết quả cho Chủ đầu tư/doanh nghiệp.
+    - Bước 5: Trong thời gian 02 ngày làm việc, kể từ ngày nhận được
+    Quyết định hỗ trợ của Chủ tịch Ủy ban nhân dân tỉnh, Sở Tài chính có trách nhiệm thực hiện việc chi trả kinh phí hỗ trợ bảo đảm đúng quy định của pháp luật
+    hiện hành.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Địa chỉ trực tuyến: https://dichvucong.gov.vn (toàn trình)
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị hỗ trợ của doanh nghiệp (Mẫu số 1 ban hành kèm theo Nghị quyết số 23/2025/NQ-HĐND ngày 21/7/2025 của Hội đồng nhân dân tỉnh Thanh Hóa sửa đổi, bổ sung một số điều của Nghị quyết số 121/2021/NQ-HĐND ngày 11/10/2021 của Hội đồng nhân dân tỉnh về việc ban hành một số chính sách khuyến khích phát triển công nghiệp, tiểu thủ công nghiệp triên địa bàn tỉnh Thanh Hoá, giai đoạn 2022 - 2026);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Hợp đồng thuê đất (bản sao chứng thực)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Hồ sơ dự án hoàn thành đưa vào sử dụng (bản sao).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Người nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Bộ phận tiếp nhận và trả kết quả của Sở Công Thương tại Trung tâm Phục vụ hành chính công tỉnh Thanh Hóa (Số 28 Đại lộ Lê Lợi, phường Hạc Thành, tỉnh Thanh Hóa; Địa chỉ trực tuyến: https://dichvucong.gov.vn (toàn trình); Trung tâm Phục vụ hành chính công các cấp
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết quả Tên kết
+Căn cứ pháp lý:
+  * Nghị quyết về việc ban hành một số chính sách khuyến khích phát triển công nghiệp, tiểu thủ công nghiệp trên địa bàn tỉnh Thanh Hóa giai đoạn 2022-2026 (121/2021/NQ-HĐND)
+  * - Nghị quyết sửa đổi, bổ sung một số điều của Nghị quyết 121/2021/NQ-HĐND ngày 11/10/2021 của Hội đồng nhân dân tỉnh về việc ban hành một số chính sách khuyến khích phát triển công nghiệp, tiểu thủ công nghiệp triên địa bàn tỉnh Thanh Hoá, giai đoạn 2022-2026 (23/2025/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: - Dự án chưa được hỗ trợ theo Nghị định số 57/2018/NĐ-CP ngày 17/4/2018 về cơ chế, chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp,
+nông thôn. 
+- Dự án thuộc Danh mục các lĩnh vực sản xuất công nghiệp - tiểu thủ công nghiệp khuyến khích đầu tư vào các xã thuộc khu vực miền núi của tỉnh ban hành kèm theo Nghị quyết số 23/2025/NQ-HĐND ngày 21/7/2025 của Hội đồng nhân dân tỉnh Thanh Hóa sửa đổi, bổ sung một số điều của Nghị quyết số 121/2021/NQ-HĐND ngày 11/10/2021 của Hội đồng nhân dân tỉnh về việc ban hành một số chính sách khuyến khích phát triển công nghiệp, tiểu thủ công nghiệp triên địa bàn tỉnh Thanh Hoá, giai đoạn 2022 - 2026. 
+- Dự án đã đi vào sản xuất trên phần diện tích đã được Nhà nước cho thuê đất.
+Từ khóa: Không có thông tin
+Mô tả: - Dự án chưa được hỗ trợ theo Nghị định số 57/2018/NĐ-CP ngày 17/4/2018 về cơ chế, chính sách khuyến khích doanh nghiệp đầu tư vào nông nghiệp,
+nông thôn. 
+- Dự án thuộc Danh mục các lĩnh vực sản xuất công nghiệp - tiểu thủ công nghiệp khuyến khích đầu tư vào các xã thuộc khu vực miền núi của tỉnh ban hành kèm theo Nghị quyết số 23/2025/NQ-HĐND ngày 21/7/2025 của Hội đồng nhân dân tỉnh Thanh Hóa sửa đổi, bổ sung một số điều của Nghị quyết số 121/2021/NQ-HĐND ngày 11/10/2021 của Hội đồng nhân dân tỉnh về việc ban hành một số chính sách khuyến khích phát triển công nghiệp, tiểu thủ công nghiệp triên địa bàn tỉnh Thanh Hoá, giai đoạn 2022 - 2026. 
+- Dự án đã đi vào sản xuất trên phần diện tích đã được Nhà nước cho thuê đất.

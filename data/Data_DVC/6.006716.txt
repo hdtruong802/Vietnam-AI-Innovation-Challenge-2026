@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.006716
+Số quyết định: 1603/QĐ-UBND
+Tên thủ tục: Xét duyệt quyết toán vốn đầu tư công nguồn ngân sách nhà nước theo năm ngân sách (Đối với vốn đầu tư công nguồn ngân sách nhà nước
+do Ủy ban nhân dân cấp xã quản lý)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Đầu tư tại Việt nam
+Trình tự thực hiện:
+  * Bước 1:
+    Chủ đầu tư báo cáo quyết toán theo niên độ gửi về Phòng Kinh tế hoặc phòng Kinh tế, hạ tầng và Đô thị trước ngày 28/2 của năm sau năm quyết toán.
+  * Bước 2:
+    Phòng Kinh tế hoặc phòng Kinh tế, Hạ tầng và Đô thị kiểm tra quyết
+    toán của đơn vị dự toán cấp I, tổng hợp quyết toán theo niên độ của các đơn vị dự
+    toán cấp I thuộc ngân sách cấp mình, báo cáo Uỷ ban nhân dân cấp xã trình Hội
+    đồng nhân dân cấp xã phê chuẩn theo quy định của Luật Ngân nhà nước.
+    Phòng Kinh tế hoặc phòng Kinh tế, Hạ tầng và Đô thị hoàn thành xét duyệt
+    và ban hành Thông báo xét quyệt chậm nhất 15 ngày kể từ ngày nhận đủ hồ sơ
+    quyết toán hợp lệ, tổng hợp gửi báo cáo Sở Tài chính trước ngày 31/3 của năm
+    sau năm quyết toán.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày kể từ ngày nhận được đầy đủ hồ sơ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày kể từ ngày nhận được đầy đủ hồ sơ.
+
+Thành phần hồ sơ:
+    - Văn bản báo cáo tình hình thực hiện vốn đầu tư công nguồn ngân sách nhà nước theo năm ngân sách
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo quyết toán vốn đầu tư công nguồn ngân sách nhà nước theo năm ngân sách của Chủ đầu tư: Mẫu số 01/QTNĐ (Thông tư số 91/2025/TT-BTC ngày 26/9/2025)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Phòng Kinh tế, Hạ tầng và Đô thị
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công các xã, phường
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo xét duyệt quyết toán
+Căn cứ pháp lý:
+  * Nghị định số 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ quy định về quản lý, thanh toán, quyết toán dự án sử dụng vốn đầu tư công. (254/2025/NĐ-CP)
+  * QUY ĐỊNH VỀ TRÌNH TỰ, THỜI HẠN LẬP, GỬI, XÉT DUYỆT QUYẾT TOÁN THEO NIÊN ĐỘ ĐỐI VỚI VỐN ĐẦU TƯ CÔNG NGUỒN NGÂN SÁCH NHÀ NƯỚC DO UỶ BAN NHÂN DÂN CÁC CẤP QUẢN LÝ TRÊN ĐỊA BÀN TỈNH LÀO CAI (02/2026/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: Không quy định.
+Từ khóa: Không có thông tin
+Mô tả: Không quy định.

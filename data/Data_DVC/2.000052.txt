@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000052
+Số quyết định: 753/QĐ-BKHCN
+Tên thủ tục: Thủ tục điều chỉnh nội dung của quyết định chỉ định tổ chức giữ chuẩn quốc gia, phê duyệt chuẩn quốc gia
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng
+Trình tự thực hiện:
+    Tiếp nhận hồ sơ
+    Tổ chức đề nghị điều chỉnh quyết định giữ chuẩn quốc gia, phê duyệt chuẩn quốc gia chuẩn bị đầy đủ hồ sơ theo quy định của Pháp luật
+    Nộp hồ sơ trực tiếp tại Tổng cục Tiêu chuẩn Đo lường hoặc qua đường bưu điện
+    Thời gian tiếp nhận hồ sơ: Sáng từ 08 giờ đến 12 giờ và chiều từ 13 giờ đến 17 giờ vào ngày làm việc trong tuần (thứ bảy, chủ nhật và ngày lễ nghỉ)
+    Xử lý hồ sơ
+    Lãnh đạo Tổng cục giao cho Vụ chuyên môn và Lãnh đạo Vụ chuyên môn sẽ giao cán bộ xử lý hồ sơ
+    Cán bộ được giao xử lý hồ sơ xem xét tính hợp lệ của hồ sơ.
+    - Nếu hồ sơ chưa đúng quy định, Tổng cục thông báo bằng văn bản cho tổ chức đề nghị
+    - Nếu hồ sơ đúng quy định, Tổng cục sẽ ra quyết định thành lập Hội đồng đánh giá tại chỗ
+    Hội đồng đánh giá thực hiện đánh giá tại chỗ đối với từng chuẩn đo lường và nộp kết quả đánh giá về Tổng cục
+    Tổng cục xem xét kết quả đánh giá.
+    - Nếu kết quả đánh giá tại chỗ không đạt yêu cầu quy định, Tổng cục thông báo bằng văn bản cho tổ chức đề nghị
+    - Nếu kết quả đánh giá tại chỗ đạt yêu cầu quy định, Tổng cục lập hồ sơ đề nghị Bộ Khoa học và Công nghệ phê duyệt chuẩn quốc gia
+    Bộ Khoa học và Công nghệ ra quyết định phê duyệt chuẩn quốc gia
+    Trả kết quả
+    Trả kết quả trực tiếp tại trụ sở Tổng cục Tiêu chuẩn Đo lường Chất lượng hoặc theo đường bưu điện.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ 1. Trường hợp đề nghị điều chỉnh tên, địa chỉ của tổ chức được chỉ định giữ chuẩn quốc gia. Bộ hồ sơ gồm: ]
+    - Công văn đề nghị điều chỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu khác có liên quan
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Cam kết không có sự thay đổi về chuẩn quốc gia và các điều kiện duy trì, bảo quản, sử dụng chuẩn quốc gia đã được phê duyệt
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 2. Trường hợp đề nghị điều chỉnh các nội dung khác của quyết định phê duyệt, chỉ định liên quan đến việc thay đổi năng lực của tổ chức được chỉ định hoặc thay đổi đặc trưng kỹ thuật đo lường của chuẩn quốc gia. Bộ Hồ sơ gồm: ]
+    - Công văn nêu rõ nội dung đề nghị điều chỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các tài liệu liên quan đến việc thay đổi về năng lực của tổ chức được chỉ định, thay đổi về đặc trưng kỹ thuật đo lường của chuẩn quốc gia
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Tổng cục Tiêu chuẩn Đo lường Chất lượng - Bộ Khoa học và Công nghệ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định điều chỉnh phê duyệt chuẩn quốc gia, chỉ định tổ chức giữ chuẩn quốc gia
+Căn cứ pháp lý:
+  * Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đo lường (86/2012/NĐ-CP)
+  * Luật Đo lường (04/2011/QH13)
+  * THÔNG TƯ Quy định về đo lường đối với chuẩn quốc gia (14/2013/TT-BKHCN)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

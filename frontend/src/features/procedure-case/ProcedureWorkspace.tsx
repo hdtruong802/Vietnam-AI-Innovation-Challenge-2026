@@ -23,6 +23,7 @@ import ChecklistPanel from "./checklist/ChecklistPanel";
 import DynamicFormRenderer from "./form/DynamicFormRenderer";
 import PrecheckPanel from "./validation/PrecheckPanel";
 import OfficialReviewCard from "./trust/OfficialReviewCard";
+import DemoModeBanner from "./trust/DemoModeBanner";
 import { AlertCircleIcon, ChecklistIcon, DocIcon, ShieldIcon } from "./icons";
 import type { ProcedureCaseState } from "./procedureCase.types";
 import type { AuthUser } from "@/features/auth/types";
@@ -83,6 +84,7 @@ export default function ProcedureWorkspace({
   const canRunPrecheck = selectCanRunPrecheck(state);
   const availabilityBanner = selectAvailabilityBanner(state);
   const showQuickPicks = state.transcript.length <= 1;
+  const demoMode = Boolean(state.trustMetadata?.demo_mode || state.checklist?.demo_mode);
 
   const officialReviewMessage =
     state.lastValidationResponse?.summary_message ??
@@ -186,6 +188,8 @@ export default function ProcedureWorkspace({
           </button>
         </div>
       )}
+
+      {demoMode && <DemoModeBanner />}
 
       {/* Mobile tabs */}
       <div className="flex md:hidden border-b border-[var(--vg-border)] bg-[var(--vg-surface)] shrink-0" role="tablist" aria-label="Chuyển đổi khung nhìn">
@@ -356,7 +360,11 @@ export default function ProcedureWorkspace({
                 <div className="lg:col-span-7 space-y-6">
                   <div className="bg-[var(--vg-surface)] border border-[var(--vg-border)] rounded-xl p-5 space-y-4">
                     <div className="border-b border-[var(--vg-border)] pb-3 mb-3 text-left">
-                      <span className="text-[10px] font-bold text-[var(--vg-accent)] tracking-wider uppercase block">Tờ khai</span>
+                      <span className="text-[10px] font-bold text-[var(--vg-accent)] tracking-wider uppercase block">
+                        {state.checklist.fixture_mode || state.checklist.demo_mode
+                          ? "Biểu mẫu demo MVP"
+                          : "Tờ khai"}
+                      </span>
                       <h3 className="text-sm font-bold text-[var(--vg-text)]">{state.checklist.procedure_name}</h3>
                     </div>
                     <DynamicFormRenderer

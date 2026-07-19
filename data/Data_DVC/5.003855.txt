@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 5.003855
+Số quyết định: 1580./QĐ-BGDĐT
+Tên thủ tục: Thủ tục xét tặng danh hiệu “Chiến sĩ thi đua cấp Bộ”, “Chiến sĩ thi đua cơ sở”
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: CENTRAL_REGULATION
+Lĩnh vực: Thi đua khen thưởng
+Trình tự thực hiện:
+    Bước 1. Đơn vị lập hồ sơ trình Bộ trưởng Bộ Giáo dục và Đào tạo xem xét, quyết định khen thưởng danh hiệu “Chiến sĩ thi đua cấp Bộ”, “Chiến sĩ thi đua cơ sở”.
+    Bước 2. Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo thẩm định hồ sơ, báo cáo Hội đồng Thi đua - Khen thưởng cơ quan Bộ trình Bộ trưởng xem xét, tặng thưởng danh hiệu “Chiến sĩ thi đua cơ sở” cho cá nhân của các vụ thuộc Bộ.
+    Bước 3. Trên cơ sở kết quả bình xét danh hiệu “Chiến sĩ thi đua cấp Bộ” của Hội đồng Thi đua - Khen thưởng cấp cơ sở hoặc cụm, khối thi đua, Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo thẩm định, báo cáo Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo trình Bộ trưởng xem xét, quyết định.
+    Bước 4. Hồ sơ đề nghị khen thưởng gửi về thường trực Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo trước ngày 28 tháng 02 hằng năm, cấp Nhà nước gửi về Bộ Giáo dục và Đào tạo trước ngày 30 tháng 4 hằng năm.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Đối với các trường hợp đủ điều kiện, tiêu chuẩn khen thưởng theo quy định, Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo thực hiện quy trình đề nghị Bộ trưởng xem xét, quyết định khen thưởng trong thời gian 25 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định;
+Đối với các trường hợp không đủ điều kiện, tiêu chuẩn, trong thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị khen thưởng, Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo thông báo cho đơn vị trình khen thưởng.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Đối với các trường hợp đủ điều kiện, tiêu chuẩn khen thưởng theo quy định, Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo thực hiện quy trình đề nghị Bộ trưởng xem xét, quyết định khen thưởng trong thời gian 25 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định;
+ Đối với các trường hợp không đủ điều kiện, tiêu chuẩn, trong thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị khen thưởng, Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo thông báo cho đơn vị trình khen thưởng.
+
+Thành phần hồ sơ:
+    - a) Thành phần hồ sơ, gồm: - Tờ trình đề nghị xét tặng danh hiệu thi đua, hình thức khen thưởng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo thành tích của cá nhân, tập thể được đề nghị khen thưởng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản bình xét thi đua hoặc biên bản xét khen thưởng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Bộ Giáo dục và Đào tạo
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ Giáo dục và Đào tạo
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định tặng danh hiệu “Chiến sĩ thi đua cấp Bộ”, “Chiến sĩ thi đua cơ sở” và tiền thưởng
+Căn cứ pháp lý:
+  * Luật Thi đua khen thưởng 2022 (06)
+  * quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng và Nghị định số 152/2025/NĐ-CP ngày 14 tháng 6 năm 2025 của Chính phủ quy định về phân cấp, phân quyền trong lĩnh vực thi đua, khen thưởng; quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi đua, khen thưởng đối với ngành Giáo dục. (07/2026/TT-BGDĐT)
+
+Yêu cầu, điều kiện thực hiện: 1. Danh hiệu chiến sĩ thi đua Bộ, ban, ngành, tỉnh để tặng cho cá nhân đạt các tiêu chuẩn sau đây:
+a) Có thành tích xuất sắc tiêu biểu được lựa chọn trong số những cá nhân có 03 lần liên tục được tặng danh hiệu “Chiến sĩ thi đua cơ sở”;
+b) Có sáng kiến đã được áp dụng hiệu quả và có khả năng nhân rộng trong Bộ, ban, ngành, tỉnh hoặc có đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ đã được nghiệm thu và áp dụng hiệu quả, có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh hoặc mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu có phạm vi ảnh hưởng trong toàn quân hoặc toàn lực lượng Công an nhân dân.
+Danh hiệu “Chiến sĩ thi đua cơ sở” để tặng cho cá nhân đạt các tiêu chuẩn sau đây:
+1. Đạt tiêu chuẩn danh hiệu “Lao động tiên tiến” hoặc “Chiến sĩ tiên tiến”;
+2. Hoàn thành xuất sắc nhiệm vụ hoặc có sáng kiến được cơ sở công nhận hoặc có đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ đã được nghiệm thu hoặc mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu được đơn vị công nhận.
+Từ khóa: Không có thông tin
+Mô tả: 1. Danh hiệu chiến sĩ thi đua Bộ, ban, ngành, tỉnh để tặng cho cá nhân đạt các tiêu chuẩn sau đây:
+a) Có thành tích xuất sắc tiêu biểu được lựa chọn trong số những cá nhân có 03 lần liên tục được tặng danh hiệu “Chiến sĩ thi đua cơ sở”;
+b) Có sáng kiến đã được áp dụng hiệu quả và có khả năng nhân rộng trong Bộ, ban, ngành, tỉnh hoặc có đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ đã được nghiệm thu và áp dụng hiệu quả, có phạm vi ảnh hưởng trong Bộ, ban, ngành, tỉnh hoặc mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu có phạm vi ảnh hưởng trong toàn quân hoặc toàn lực lượng Công an nhân dân.
+Danh hiệu “Chiến sĩ thi đua cơ sở” để tặng cho cá nhân đạt các tiêu chuẩn sau đây:
+1. Đạt tiêu chuẩn danh hiệu “Lao động tiên tiến” hoặc “Chiến sĩ tiên tiến”;
+2. Hoàn thành xuất sắc nhiệm vụ hoặc có sáng kiến được cơ sở công nhận hoặc có đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ đã được nghiệm thu hoặc mưu trí, sáng tạo trong chiến đấu, phục vụ chiến đấu được đơn vị công nhận.

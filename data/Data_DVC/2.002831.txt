@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002831
+Số quyết định: 96/QĐ-BTC
+Tên thủ tục: Cấp Giấy phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+    + Bước 1: Tổ chức đăng ký cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa nộp các tài liệu quy định tại Điều 9 Nghị quyết số 05/2025/NQ-CP.
+    + Bước 2: Ủy ban Chứng khoán Nhà nước (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục các tài liệu quy định tại các khoản 1, 2, 5, 6 Điều 9 Nghị quyết số 05/2025/NQ-CP. Trường hợp danh mục các tài liệu này chưa đầy đủ, Ủy ban Chứng khoán Nhà nước hướng dẫn hoàn thiện hồ sơ theo quy định.
+    + Bước 3: Trong thời hạn 20 ngày kể từ ngày nhận được đầy đủ, hợp lệ các tài liệu quy định tại các khoản 1, 2, 5, 6 Điều 9 Nghị quyết số 05/2025/NQ-CP, Bộ Tài chính  có văn bản về việc tổ chức đăng ký tiến hành các thủ tục quy định tại khoản 3 Điều 10 Nghị quyết số 05/2025/NQ-CP. Trường hợp hồ sơ không đầy đủ, hợp lệ, Bộ Tài chính có văn bản trả lời và nêu rõ lý do.
+    + Bước 4: Trong thời hạn 12 tháng kể từ ngày Bộ Tài chính có văn bản quy định tại khoản 2 Điều 10 Nghị quyết số 05/2025/NQ-CP, tổ chức đăng ký cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa tiếp tục nộp các tài liệu quy định tại các khoản 3, 4, 7, 8 Điều 9 Nghị quyết số 05/2025/NQ-CP và các tài liệu cập nhật hồ sơ (nếu có).
+    + Bước 5: Trường hợp không nhận được hoặc nhận được không đầy đủ các tài liệu quy định tại các khoản 3, 4, 7, 8 Điều 9 Nghị quyết số 05/2025/NQ-CP trong thời hạn 12 tháng kể từ ngày Bộ Tài chính có văn bản quy định tại khoản 2 Điều 10 Nghị quyết số 05/2025/NQ-CP, Bộ Tài chính  dừng xử lý hồ sơ.
+    Trường hợp nhận được đầy đủ các tài liệu theo quy định tại Điều 9 Nghị quyết số 05/2025/NQ-CP, trong thời hạn 30 ngày, Bộ Tài chính  phối hợp với Bộ Công an, Ngân hàng Nhà nước Việt Nam xem xét hồ sơ và cấp Giấy phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa; trường hợp từ chối, Bộ Tài chính  trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Các Quy trình quy định tại khoản 6 Điều 8 của Nghị quyết số 05/2025/NQ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Tài liệu chứng minh vốn góp bằng Đồng Việt Nam theo quy định tại khoản 2 Điều 8 Nghị quyết số 05/2025/NQ-CP; báo cáo tài chính năm được kiểm toán hoặc báo cáo vốn điều lệ đã góp được kiểm toán tại thời điểm gần nhất.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy đề nghị cấp phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa theo Mẫu số 02 Phụ lục ban hành kèm theo Nghị quyết số 05/2025/NQ-CP kèm theo Điều lệ của tổ chức đăng ký.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Danh sách nhân sự theo Mẫu số 05 và Bản thông tin cá nhân theo Mẫu số 06 Phụ lục ban hành kèm theo Nghị quyết số 05/2025/NQ-CP đáp ứng quy định tại khoản 5 Điều 8 Nghị quyết số 05/2025/NQ-CP; hợp đồng lao động của các nhân sự này.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản thuyết minh cơ sở vật chất theo Mẫu số 04 Phụ lục ban hành kèm theo Nghị quyết số 05/2025/NQ-CP, kèm theo giấy tờ chứng minh quyền sở hữu trụ sở, quyền sử dụng trụ sở hoặc hợp đồng thuê trụ sở.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản thẩm định của Bộ Công an đối với hồ sơ đề xuất an toàn hệ thống thông tin cấp độ 4 của tổ chức đăng ký.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy chứng nhận đăng ký doanh nghiệp do cơ quan nhà nước có thẩm quyền cấp trong trường hợp tài liệu này chưa được đăng tải trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Danh sách cổ đông, thành viên góp vốn theo Mẫu số 03 Phụ lục ban hành kèm theo Nghị quyết số 05/2025/NQ-CP kèm theo các tài liệu sau: * Giấy chứng nhận đăng ký doanh nghiệp hoặc tài liệu tương đương đối với tổ chức trong trường hợp tài liệu này chưa được đăng tải trên Cổng thông tin quốc gia về đăng ký doanh nghiệp; báo cáo tài chính 02 năm liền trước của tổ chức góp vốn đã được kiểm toán; * Biên bản thỏa thuận góp vốn, trong đó thể hiện thông tin đáp ứng các điều kiện tại khoản 3 Điều 8 của Nghị quyết số 05/2025/NQ-CP; * Văn bản cam kết của tổ chức, cá nhân góp vốn về việc tuân thủ quy định tại Nghị quyết số 05/2025/NQ-CP và pháp luật có liên quan đến góp vốn.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thông báo lý do từ chối của Bộ Tài chính, Giấy phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa
+Căn cứ pháp lý:
+  * Về việc triển khai thí điểm thị trường tài sản mã hóa tại Việt Nam (05/2025/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

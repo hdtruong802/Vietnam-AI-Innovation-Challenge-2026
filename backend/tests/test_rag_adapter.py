@@ -41,6 +41,8 @@ def rag_client() -> TestClient:
         procedure_data_mode="rag",
         rag_mode="rag",
         llm_mode="gateway",
+        openai_api_key="",
+        **{"AI_API_KEY": ""},
     )
     return TestClient(create_app(settings=settings))
 
@@ -71,6 +73,27 @@ async def test_repository_pack_has_grounded_source_refs_and_checksum():
     assert pack.source_refs
     assert pack.required_documents
     assert pack.last_verified_at is None
+
+
+@requires_source_data
+@pytest.mark.anyio
+async def test_repository_pack_is_approved_when_demo_k1_flag_enabled(monkeypatch):
+    """Xem D-019: flag chi anh huong khi bat tuong minh; version phai co
+    marker 'demo-k1-simulated' de khong nham voi K1 nguoi thuc."""
+    original = get_settings()
+    monkeypatch.setattr(
+        "app.services.rag.pack_builder.get_settings",
+        lambda: original.model_copy(update={"rag_demo_k1_approved": True}),
+    )
+
+    repository = RagProcedureRepository()
+    pack = await repository.get_procedure("dang-ky-thuong-tru")
+
+    assert pack is not None
+    assert pack.review_status == ReviewStatus.APPROVED
+    assert pack.last_verified_at is not None
+    assert "demo-k1-simulated" in pack.version
+    assert pack.form_schema.get("properties", {}).get("so_dinh_danh_ca_nhan")
 
 
 @requires_source_data
@@ -135,7 +158,13 @@ def test_checklist_endpoint_requires_official_review_for_candidate_sources(
     assert body["trust_state"] == "official_review_required"
     assert body["fixture_mode"] is False
     assert body["source_refs"]
+    # D-016 (web-to-API): candidate NEEDS_REVIEW packs may expose their cited
+    # document checklist for review, but steps/form/precheck stay locked.
     assert body["required_documents"]
+    assert all(item["source_ref_ids"] for item in body["required_documents"])
+    assert body["steps"] == []
+    assert body["form_schema"] == {}
+    assert body["procedure_card"] is None
 
 
 @requires_source_data
@@ -165,6 +194,41 @@ def test_validate_endpoint_does_not_issue_verdict_for_candidate_sources(
     assert body["verdict"] is None
     assert body["findings"] == []
     assert body["explanations"] == {}
+
+
+@requires_source_data
+def test_validate_endpoint_unlocks_full_flow_when_demo_k1_approved(
+    rag_client: TestClient, monkeypatch
+):
+    """Xem D-019: bat RAG_DEMO_K1_APPROVED phai mo full flow (verified_guidance
+    + findings that tu form_schema cu the) tren du lieu RAG thuc, khac voi
+    hanh vi mac dinh (official_review_required) o test tren."""
+    original = get_settings()
+    monkeypatch.setattr(
+        "app.services.rag.pack_builder.get_settings",
+        lambda: original.model_copy(update={"rag_demo_k1_approved": True}),
+    )
+
+    response = rag_client.post(
+        "/v1/applications/validate",
+        json={
+            "procedure_id": "dang-ky-thuong-tru",
+            "form_data": {
+                "ho_ten_nguoi_de_nghi": "Nguyen Van A",
+                "so_dinh_danh_ca_nhan": "khong-phai-so",
+                "dia_chi_de_nghi_thuong_tru": "So 1 Hang Bai, Ha Noi",
+                "ho_ten_chu_ho": "Nguyen Van B",
+                "quan_he_voi_chu_ho": "Con",
+            },
+        },
+    )
+
+    assert response.status_code == 200
+    body = response.json()
+    assert body["trust_state"] == "verified_guidance"
+    assert "demo-k1-simulated" in body["procedure_version"]
+    field_ids = {finding["field_id"] for finding in body["findings"]}
+    assert "so_dinh_danh_ca_nhan" in field_ids
 
 
 @pytest.mark.anyio

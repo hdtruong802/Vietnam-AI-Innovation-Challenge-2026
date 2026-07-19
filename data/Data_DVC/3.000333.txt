@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000333
+Số quyết định: 1025/QĐ-BCA
+Tên thủ tục: Cấp Phiếu Lý lịch tư pháp cho công dân Việt Nam, người nước ngoài đang cư trú tại Việt Nam, người Việt Nam đang cư trú ở nước ngoài
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Lý lịch tư pháp
+Trình tự thực hiện:
+    - Bước 1: Người có yêu cầu cấp Phiếu Lý lịch tư pháp (sau đây gọi tắt là Người yêu cầu) đăng nhập bằng tài khoản định danh mức độ 2 trên cổng dịch vụ công hoặc Ứng dụng định danh quốc gia; chọn Cấp Phiếu Lý lịch tư pháp tại Nhóm dịch vụ Thủ tục hành chính và làm theo hướng dẫn.
+    - Bước 2: Người yêu cầu kê khai chính xác, đầy đủ, trung thực các nội dung trong mẫu tờ khai cấp Phiếu Lý lịch tư pháp điện tử tương tác.
+    - Bước 3: Người yêu cầu chọn “Thông tin về thủ tục hành chính” và “Thông tin trả kết quả”.
+    - Bước 4: Người yêu cầu xác nhận thông tin hồ sơ, chọn loại đối tượng nộp phí và cam đoan lời khai trước khi gửi yêu cầu.
+    - Bước 5: Cổng dịch vụ công, Ứng dụng định danh quốc gia thông báo mã số hồ sơ, ngày hẹn trả kết quả và hướng dẫn nộp lệ phí cấp Phiếu Lý lịch tư pháp qua tin nhắn điện thoại hoặc địa chỉ thư điện tử hoặc thông báo trên Ứng dụng định danh quốc gia để người có yêu cầu cấp Phiếu Lý lịch tư pháp nộp tiền lệ phí qua tiện ích thanh toán được tích hợp trên Cổng dịch vụ công, Ứng dụng định danh quốc gia.
+    - Bước 6: Người yêu cầu theo dõi tình trạng giải quyết hồ sơ trên Cổng dịch vụ công, Ứng dụng định danh quốc gia tại mục Cấp Phiếu Lý lịch tư pháp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ (Thực hiện theo Thông tư số 244/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí cung cấp thông tin lý lịch tư pháp (khi có Thông tư mới sửa đổi, bổ sung hoặc thay thế Thông tư số 244 của Bộ Tài chính thì thực hiện theo Thông tư mới).)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ (Thực hiện theo Thông tư số 244/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí cung cấp thông tin lý lịch tư pháp (khi có Thông tư mới sửa đổi, bổ sung hoặc thay thế Thông tư số 244 của Bộ Tài chính thì thực hiện theo Thông tư mới).)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 ngày
+    Phí, lệ phí: 0 VNĐ (Thực hiện theo Thông tư số 244/2016/TT-BTC ngày 11/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí cung cấp thông tin lý lịch tư pháp (khi có Thông tư mới sửa đổi, bổ sung hoặc thay thế Thông tư số 244 của Bộ Tài chính thì thực hiện theo Thông tư mới).)
+
+Thành phần hồ sơ:
+    - Tờ khai yêu cầu cấp Phiếu Lý lịch tư pháp (Dùng cho cá nhân trong trường hợp ủy quyền yêu cầu cấp Phiếu Lý lịch tư pháp số 1 và cá nhân là cha, mẹ của người chưa thành niên yêu cầu cấp Phiếu Lý lịch tư pháp số 1, số 2), Mẫu số 02/2025/LLTP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai yêu cầu cấp Phiếu Lý lịch tư pháp điện tử tương tác (Dùng cho cá nhân trong trường hợp ủy quyền yêu cầu cấp Phiếu Lý lịch tư pháp số 1 và cá nhân là cha, mẹ của người chưa thành niên yêu cầu cấp Phiếu Lý lịch tư pháp số 1, số 2), Mẫu số 05/2025/LLTP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao Thẻ Căn cước hoặc thẻ Căn cước công dân hoặc Giấy xác nhận căn cước hoặc Hộ chiếu của người được cấp Phiếu (Xuất trình bản chính để đối chiếu. Trường hợp không có bản chính thì nộp bản sao có chứng thực theo quy định của pháp luật).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai yêu cầu cấp Phiếu Lý lịch tư pháp (Dùng cho cá nhân có yêu cầu cấp Phiếu Lý lịch tư pháp), Mẫu số 01/2025/LLTP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các giấy tờ để chứng minh đối tượng miễn, hoặc giảm phí (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản ủy quyền yêu cầu cấp Phiếu Lý lịch tư pháp số 1 (người được ủy quyền phải xuất trình Thẻ Căn cước hoặc Thẻ Căn cước công dân hoặc Giấy chứng nhận căn cước hoặc Hộ chiếu khi thực hiện thủ tục yêu cầu cấp Phiếu Lý lịch tư pháp. Trường hợp người được ủy quyền là cha, mẹ, vợ, chồng, con của người ủy quyền thì không cần văn bản ủy quyền). Văn bản ủy quyền phải được công chứng, chứng thực theo quy định của pháp luật Việt Nam. Cá nhân yêu cầu cấp Phiếu Lý lịch tư pháp số 2 không được ủy quyền cho người khác làm thủ tục yêu cầu cấp Phiếu Lý lịch tư pháp trừ trường hợp cá nhân là người chưa thành niên có thể ủy quyền cho cha, mẹ yêu cầu cấp Phiếu Lý lịch tư pháp số 2.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai yêu cầu cấp Phiếu Lý lịch tư pháp điện tử tương tác (Dùng cho cá nhân có yêu cầu cấp Phiếu Lý lịch tư pháp), Mẫu số 04/2025/LLTP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài, Người nước ngoài cư trú tại Việt Nam
+Cơ quan thực hiện: Công an tỉnh
+Cơ quan có thẩm quyền: Công an tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Phiếu Lý lịch tư pháp số 2 (Cấp tỉnh), Phiếu Lý lịch tư pháp số 1 (Cấp tỉnh)
+Căn cứ pháp lý:
+  * Luật 28/2009/QH12 (28/2009/QH12)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000266
+Số quyết định: 3783/QĐ-BCT
+Tên thủ tục: Đăng ký kế hoạch sản xuất xăng dầu, nhập khẩu nguyên liệu để sản xuất xăng dầu, tiêu thụ sản phẩm xăng dầu
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Lưu thông hàng hóa trong nước
+Trình tự thực hiện:
+    - Trước ngày 30 tháng 10 hàng năm, thương nhân sản xuất xăng dầu nộp hồ sơ đăng ký kế hoạch sản xuất xăng dầu, nhập khẩu nguyên liệu để sản xuất xăng dầu, tiêu thụ sản phẩm xăng dầu cho năm tiếp theo.
+    - Trong vòng 10 (mười) ngày làm việc kể từ ngày nhận được hồ sơ đăng ký của thương nhân, Bộ Công Thương xác nhận đăng ký kế hoạch sản xuất xăng dầu, nhập khẩu nguyên liệu để sản xuất xăng dầu và tiêu thụ sản phẩm xăng dầu cho thương nhân thực hiện.
+    - Trường hợp từ chối xác nhận, Bộ Công Thương có văn bản thông báo cho thương nhân biết lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Theo quy định của Bộ Tài chính)
+
+Thành phần hồ sơ:
+    - -Cơ quan giải quyết  TTHC khai thác, sử dụng thông tin đã có trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp để thay thế thành phần hồ sơ Bản sao giấy chứng nhận đăng ký doanh nghiệp.  Trường hợp Cơ quan giải quyết TTHC không khai thác được hoặc khai thác không đầy đủ dữ liệu doanh nghiệp trên Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp, Cơ quan giải quyết TTHC yêu cầu doanh nghiệp bổ sung Bản sao Giấy chứng nhận đăng ký doanh nghiệp theo quy định tại Điều 8 Nghị quyết 66.7/2025/NQ-CP ngày 15/11/2025 của Chính phủ quy định cắt giảm, đơn giản hóa thủ tục hành  chính dựa trên dữ liệu
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Hồ sơ đăng ký kế hoạch sản xuất xăng dầu, nhập khẩu nguyên liệu để sản xuất xăng dầu và tiêu thụ sản phẩm xăng dầu gồm:
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Đơn đăng ký kế hoạch sản xuất xăng dầu, nhập khẩu nguyên liệu để sản xuất xăng dầu, tiêu thụ sản phẩm xăng dầu theo Mẫu số 6 tại Phụ lục ban hành kèm theo Thông tư số 38/2014/TT-BCT: bốn (04) bản chính.
+      Số lượng: Bản chính: 4, Bản sao: 1
+    - - Tài liệu chứng minh thương nhân có cơ sở sản xuất xăng dầu theo đúng quy hoạch đã được phê duyệt và được cấp có thẩm quyền cấp Giấy chứng nhận đầu tư: bản sao có đóng dấu sao y bản chính của thương nhân.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Giấy chứng nhận đầu tư hoặc Giấy chứng nhận đăng ký doanh nghiệp: một (01) bản sao có đóng dấu sao y bản chính của thương nhân.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Tài liệu chứng minh thương nhân có phòng thử nghiệm thuộc sở hữu, đủ năng lực để kiểm tra, thử nghiệm các chỉ tiêu chất lượng xăng dầu theo quy chuẩn kỹ thuật quốc gia tương ứng: bản sao có đóng dấu sao y bản chính của thương nhân.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Vụ Thị trường trong nước
+Cơ quan có thẩm quyền: Bộ Công thương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận đơn đăng ký kế hoạch sản xuất xăng dầu, nhập khẩu nguyên liệu để sản xuất xăng dầu, tiêu thụ sản phẩm xăng dầu của thương nhân có xác nhận của Vụ Thị trường trong nước - Bộ Công Thương.
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số điều của Thông tư số 38/2014/TT-BCT ngày 24 tháng 10 năm 2014 của Bộ trưởng Bộ Công Thương quy định chi tiết một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu (17/2021/TT-BCT)
+  * Quy định chi tiết một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu (38/2014/TT-BCT)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Nghị định 83/2014/NĐ-CP (83/2014/NĐ-CP)
+  * Sửa đổi, bổ sung một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 về kinh doanh xăng dầu (95/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

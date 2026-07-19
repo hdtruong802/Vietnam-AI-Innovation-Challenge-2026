@@ -1,0 +1,36 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000052
+Số quyết định: 1734/QĐ-BTC
+Tên thủ tục: Chuyển nhượng, chuyển giao dự án, tài sản sau đầu tư của đối tượng được bảo lãnh
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Quản lý nợ
+Trình tự thực hiện:
+    Bước 1. Đối tượng được bảo lãnh gửi văn bản đề nghị Bộ Tài chính chấp thuận về việc chuyển nhượng, chuyển giao dự án, tài sản sau đầu tư của Đối tượng được bảo lãnh.
+    Bước 2. Bộ Tài chính trả lời bằng văn bản cho Đối tượng được bảo lãnh.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị Bộ Tài chính chấp thuận về việc chuyển nhượng, chuyển giao dự án, tài sản sau đầu tư của Đối tượng được bảo lãnh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản ý kiến của Bộ Tài chính về việc chuyển nhượng, chuyển giao dự án, tài sản sau đầu tư của Đối tượng được bảo lãnh
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

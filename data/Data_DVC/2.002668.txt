@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002668
+Số quyết định: 2103/QĐ-BTC
+Tên thủ tục: Đăng ký nhu cầu hỗ trợ của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hỗ trợ tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+Trình tự thực hiện:
+    Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã gửi 01 bộ Hồ sơ đăng ký nhu cầu hỗ trợ đến Ủy ban nhân dân cấp xã nơi tổ hợp tác có địa chỉ giao dịch, nơi hợp tác xã, liên hiệp hợp tác xã đặt trụ sở chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+
+Thành phần hồ sơ:
+  [ b) Bản sao tài liệu, hồ sơ liên quan thể hiện sự phù hợp các tiêu chí thụ hưởng theo quy định: Đối với hợp tác xã, liên hiệp hợp tác xã: ]
+    - - Trường hợp hợp tác xã, liên hiệp hợp tác xã đăng ký thụ hưởng khoản hỗ trợ từ ngân sách nhà nước có giá trị từ 03 tỷ đồng trở lên thì phải có Báo cáo tài chính năm trước liền kề đã được kiểm toán bởi tổ chức kiểm toán độc lập tại thời điểm nộp đơn đăng ký nhu cầu hỗ trợ.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Tài liệu, hồ sơ chứng minh hợp tác xã, liên hiệp hợp tác xã đáp ứng một (bắt buộc) hoặc nhiều (nếu có) tiêu chí sau, cụ thể: số lượng thành viên tăng trong 02 năm liên tiếp liền kề với năm nộp đơn đăng ký nhu cầu hỗ trợ; tỷ lệ giá trị giao dịch nội bộ tăng trong năm trước liền kề với năm nộp đơn đăng ký nhu cầu hỗ trợ; tỷ lệ trích lập quỹ chung không chia cao hơn so với mức tối thiểu quy định tại Điều 84 Luật Hợp tác xã 2023 trong năm trước liền kề với năm nộp đơn đăng ký nhu cầu hỗ trợ; tăng giá trị tài sản chung không chia trong năm trước liền kề với năm nộp đơn đăng ký nhu cầu hỗ trợ; có ít nhất 5% tổng số thành viên, người lao động được tham gia các lớp giáo dục, đào tạo, phổ biến, bồi dưỡng, tập huấn do hợp tác xã, liên hiệp hợp tác xã tự tổ chức hoặc do các cơ quan, đoàn thể, tổ chức khác tổ chức và đã được cấp chứng nhận tham gia khóa học hoặc có danh sách thành viên, người lao động tham gia khóa học có đóng dấu của hợp tác xã, liên hiệp hợp tác xã (đối với các khóa học do hợp tác xã, liên hiệp hợp tác xã tự tổ chức, thì hợp tác xã, liên hiệp hợp tác xã phải có kế hoạch tổ chức khóa học, nội dung khóa học và danh sách khóa học có chữ ký của người tham gia khóa học) tính đến thời điểm năm trước liền kề với năm nộp đơn đăng ký nhu cầu hỗ trợ; đã thành lập không quá 36 tháng tại địa bàn kinh tế - xã hội khó khăn, địa bàn kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật về đầu tư tính đến thời điểm nộp đơn đăng ký nhu cầu hỗ trợ;
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ b) Bản sao tài liệu, hồ sơ liên quan thể hiện sự phù hợp các tiêu chí thụ hưởng theo quy định: Đối với tổ hợp tác: ]
+    - - Bản sao Giấy chứng nhận đăng ký tổ hợp tác;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Tài liệu, hồ sơ chứng minh tổ hợp tác đáp ứng một tiêu chí (bắt buộc) hoặc nhiều tiêu chí (nếu có), cụ thể: số lượng thành viên tăng trong 02 năm liên tiếp liền kề với năm nộp đơn đăng ký nhu cầu hỗ trợ; có ít nhất 5% tổng số thành viên, người lao động được tham gia các lớp giáo dục, đào tạo, phổ biến, bồi dưỡng, tập huấn do tổ hợp tác tự tổ chức hoặc do các cơ quan, đoàn thể, tổ chức khác tổ chức và đã được cấp chứng nhận tham gia khóa học hoặc có danh sách thành viên, người lao động tham gia khóa học có xác nhận của tổ hợp tác (đối với các khóa học do tổ hợp tác tự tổ chức, thì tổ hợp tác phải có kế hoạch tổ chức khóa học, nội dung khóa học và danh sách khóa học có chữ ký của người tham gia khóa học) tính đến thời điểm năm trước liền kề với năm nộp đơn đăng ký nhu cầu hỗ trợ; đã thành lập không quá 36 tháng tại địa bàn kinh tế - xã hội khó khăn, địa bàn kinh tế - xã hội đặc biệt khó khăn theo quy định của pháp luật về đầu tư tính đến thời điểm nộp đơn đăng ký nhu cầu hỗ trợ.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã tự chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của các thông tin cung cấp tại hồ sơ đăng ký nhu cầu hỗ trợ nêu trên.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - a) Đơn đăng ký nhu cầu hỗ trợ trong đó có nội dung cam kết không vi phạm các hành vi bị nghiêm cấm theo quy định tại khoản 2 Điều 7 của Luật Hợp tác xã 2023, không trong thời gian chấp hành bản án hình sự của Tòa án đã có hiệu lực pháp luật theo Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định số 113/2024/NĐ-CP ngày 12/9/2024 của Chính phủ quy định chi tiết một số điều của Luật Hợp tác xã;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Bản sao tài liệu, hồ sơ liên quan thể hiện sự phù hợp các tiêu chí thụ hưởng theo quy định:
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh, Uỷ ban Nhân dân cấp xã, phường, thị trấn
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã
+Căn cứ pháp lý:
+  * Luật Hợp tác xã (17/2023/QH15)
+  * Nghị định số 125/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tài chính (125/2025/NĐ-CP)
+  * Thông tư số 43/2025/TT-BTC của Bộ Tài chính: Ban hành biểu mẫu sử dụng trong lĩnh vực quản lý nhà nước đối với hộ kinh doanh, tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tổ chức chính quyền địa phương 02 cấp (43/2025/TT-BTC)
+  * Nghị định số 113/2024/NĐ-CP của Chính phủ: Quy định chi tiết một số điều của Luật Hợp tác xã (113/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin
