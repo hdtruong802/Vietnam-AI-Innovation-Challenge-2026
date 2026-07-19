@@ -1,6 +1,6 @@
 "use client";
 
-import type { FeedbackReasonCode, FlowState, TrustMetadata, ValidationResponse } from "../procedureCase.types";
+import type { FeedbackReasonCode, Finding, FlowState, TrustMetadata, ValidationResponse } from "../procedureCase.types";
 import FindingCard from "./FindingCard";
 import PreliminaryPassState from "./PreliminaryPassState";
 
@@ -9,6 +9,8 @@ interface PrecheckPanelProps {
   isBusy: boolean;
   canRunPrecheck: boolean;
   lastValidationResponse: ValidationResponse | null;
+  visibleFindings: Finding[];
+  fieldLabels: Record<string, string>;
   trustMetadata: TrustMetadata | null;
   onRunPrecheck: () => void;
   onConfirmU3: () => void;
@@ -20,6 +22,8 @@ export default function PrecheckPanel({
   isBusy,
   canRunPrecheck,
   lastValidationResponse,
+  visibleFindings,
+  fieldLabels,
   trustMetadata,
   onRunPrecheck,
   onConfirmU3,
@@ -48,8 +52,12 @@ export default function PrecheckPanel({
       {flow === "needs_fix" && lastValidationResponse && (
         <div className="space-y-2.5">
           <p className="text-[10px] font-semibold text-[var(--vg-text-secondary)]">{lastValidationResponse.summary_message}</p>
-          {lastValidationResponse.findings.map((finding, i) => (
-            <FindingCard key={`${finding.field_id ?? "general"}-${i}`} finding={finding} />
+          {visibleFindings.map((finding, i) => (
+            <FindingCard
+              key={`${finding.field_id ?? "general"}-${i}`}
+              finding={finding}
+              fieldLabel={finding.field_id ? fieldLabels[finding.field_id] : undefined}
+            />
           ))}
         </div>
       )}

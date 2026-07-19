@@ -32,7 +32,14 @@
       "url_or_ref": "https://chinhphu.vn"
     }
   ],
-  "aliases": ["khai sinh", "giay khai sinh", "sinh con", "moi sinh", "em be", "birth"],
+  "aliases": [
+    "khai sinh",
+    "giay khai sinh",
+    "sinh con",
+    "moi sinh",
+    "em be",
+    "birth"
+  ],
   "intake_questions": [
     {
       "id": "q_hinh_thuc_nop",
@@ -47,7 +54,10 @@
     {
       "id": "q_ket_hon",
       "prompt": "Cha mẹ của trẻ đã đăng ký kết hôn chưa?",
-      "options": ["Đã đăng ký kết hôn", "Chưa đăng ký kết hôn"],
+      "options": [
+        "Đã đăng ký kết hôn",
+        "Chưa đăng ký kết hôn"
+      ],
       "why": "Nếu đã kết hôn, cơ quan hộ tịch tra cứu Giấy chứng nhận kết hôn để xác định quan hệ cha, mẹ, con."
     },
     {
@@ -67,21 +77,29 @@
       "label": "Tờ khai đăng ký khai sinh theo mẫu",
       "kind": "required",
       "description": "Nộp bản chính nếu nộp trực tiếp hoặc qua bưu chính; nếu nộp trực tuyến thì cung cấp thông tin theo mẫu hộ tịch điện tử tương tác trên Cổng dịch vụ công.",
-      "source_ref_ids": ["1.001193-DVC", "ND-87-2020"]
+      "source_ref_ids": [
+        "1.001193-DVC",
+        "ND-87-2020"
+      ]
     },
     {
       "id": "giay-chung-sinh",
       "label": "Giấy chứng sinh",
       "kind": "required",
       "description": "Bản chính do cơ sở y tế nơi trẻ sinh ra cấp. Nếu không có Giấy chứng sinh thì nộp văn bản của người làm chứng xác nhận về việc sinh; nếu không có người làm chứng thì phải có giấy cam đoan về việc sinh.",
-      "source_ref_ids": ["1.001193-DVC", "ND-123-2015"]
+      "source_ref_ids": [
+        "1.001193-DVC",
+        "ND-123-2015"
+      ]
     },
     {
       "id": "giay-to-tuy-than",
       "label": "Giấy tờ tùy thân của người đi đăng ký",
       "kind": "required",
       "description": "Hộ chiếu, Thẻ căn cước, Căn cước công dân hoặc giấy tờ khác có dán ảnh còn giá trị sử dụng. Có thể chỉ cần cung cấp số định danh cá nhân để cơ quan tra cứu qua Cơ sở dữ liệu quốc gia về dân cư.",
-      "source_ref_ids": ["1.001193-DVC"]
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     }
   ],
   "optional_documents": [
@@ -90,28 +108,36 @@
       "label": "Văn bản ủy quyền (nếu ủy quyền đăng ký)",
       "kind": "conditional",
       "description": "Văn bản ủy quyền được chứng thực nếu ủy quyền thực hiện việc đăng ký khai sinh. Nếu người được ủy quyền là ông, bà, cha, mẹ, con, vợ, chồng, anh, chị, em ruột của người ủy quyền thì không phải chứng thực.",
-      "source_ref_ids": ["1.001193-DVC"]
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     },
     {
       "id": "giay-chung-nhan-ket-hon",
       "label": "Thông tin Giấy chứng nhận kết hôn của cha mẹ",
       "kind": "optional",
       "description": "Nếu cha mẹ đã đăng ký kết hôn, cung cấp thông tin để cơ quan hộ tịch tra cứu, xác thực trên Cơ sở dữ liệu hộ tịch điện tử nhằm xác định quan hệ cha, mẹ, con.",
-      "source_ref_ids": ["1.001193-DVC"]
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     },
     {
       "id": "giay-to-cu-tru",
       "label": "Giấy tờ chứng minh thông tin cư trú",
       "kind": "conditional",
       "description": "Chỉ cần khi cơ quan đăng ký hộ tịch không khai thác được thông tin nơi cư trú theo các phương thức tại khoản 2 Điều 14 Nghị định 104/2022/NĐ-CP.",
-      "source_ref_ids": ["1.001193-DVC"]
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     },
     {
       "id": "bien-ban-tre-bi-bo-roi",
       "label": "Biên bản về việc trẻ bị bỏ rơi",
       "kind": "conditional",
       "description": "Trường hợp đăng ký khai sinh cho trẻ em bị bỏ rơi thì phải có biên bản do cơ quan có thẩm quyền lập.",
-      "source_ref_ids": ["1.001193-DVC"]
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     }
   ],
   "steps": [
@@ -139,18 +165,62 @@
   "form_schema": {
     "type": "object",
     "properties": {
-      "ho_ten_tre": { "type": "string", "title": "Họ và tên trẻ", "minLength": 2 },
-      "gioi_tinh_tre": { "type": "string", "title": "Giới tính của trẻ" },
-      "ngay_sinh_tre": { "type": "string", "format": "date", "title": "Ngày sinh của trẻ" },
-      "noi_sinh": { "type": "string", "title": "Nơi sinh (cơ sở y tế / địa phương)" },
-      "ho_ten_me": { "type": "string", "title": "Họ và tên mẹ" },
-      "cccd_me": { "type": "string", "title": "Số định danh cá nhân/CCCD của mẹ" },
-      "co_thong_tin_cha": { "type": "boolean", "title": "Có thông tin về cha?" },
-      "ho_ten_cha": { "type": "string", "title": "Họ và tên cha (nếu có)" },
-      "cccd_cha": { "type": "string", "title": "Số định danh cá nhân/CCCD của cha (nếu có)" },
-      "ngay_dang_ky": { "type": "string", "format": "date", "title": "Ngày dự kiến đi đăng ký" }
+      "ho_ten_tre": {
+        "type": "string",
+        "title": "Họ và tên trẻ",
+        "minLength": 2
+      },
+      "gioi_tinh_tre": {
+        "type": "string",
+        "title": "Giới tính của trẻ",
+        "enum": [
+          "Nam",
+          "Nữ"
+        ]
+      },
+      "ngay_sinh_tre": {
+        "type": "string",
+        "format": "date",
+        "title": "Ngày sinh của trẻ",
+        "x_max_today": true
+      },
+      "noi_sinh": {
+        "type": "string",
+        "title": "Nơi sinh (cơ sở y tế / địa phương)"
+      },
+      "ho_ten_me": {
+        "type": "string",
+        "title": "Họ và tên mẹ"
+      },
+      "cccd_me": {
+        "type": "string",
+        "title": "Số định danh cá nhân/CCCD của mẹ"
+      },
+      "co_thong_tin_cha": {
+        "type": "boolean",
+        "title": "Có thông tin về cha?"
+      },
+      "ho_ten_cha": {
+        "type": "string",
+        "title": "Họ và tên cha (nếu có)"
+      },
+      "cccd_cha": {
+        "type": "string",
+        "title": "Số định danh cá nhân/CCCD của cha (nếu có)"
+      },
+      "ngay_dang_ky": {
+        "type": "string",
+        "format": "date",
+        "title": "Ngày dự kiến đi đăng ký"
+      }
     },
-    "required": ["ho_ten_tre", "ngay_sinh_tre", "noi_sinh", "ho_ten_me", "cccd_me"]
+    "required": [
+      "ho_ten_tre",
+      "ngay_sinh_tre",
+      "noi_sinh",
+      "ho_ten_me",
+      "cccd_me"
+    ]
   },
   "validation_rules": [
     {
@@ -160,7 +230,9 @@
       "severity": "error",
       "message": "Họ và tên trẻ là bắt buộc trong tờ khai đăng ký khai sinh.",
       "fix_hint": "Nhập đầy đủ họ và tên dự định đặt cho trẻ.",
-      "source_ref_ids": ["1.001193-DVC"]
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     },
     {
       "rule_id": "KS-REQ-02",
@@ -169,7 +241,9 @@
       "severity": "error",
       "message": "Ngày sinh của trẻ là bắt buộc.",
       "fix_hint": "Nhập ngày sinh theo Giấy chứng sinh.",
-      "source_ref_ids": ["1.001193-DVC"]
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     },
     {
       "rule_id": "KS-REQ-03",
@@ -178,7 +252,9 @@
       "severity": "error",
       "message": "Nơi sinh là thông tin bắt buộc trong nội dung khai sinh.",
       "fix_hint": "Nhập tên cơ sở y tế hoặc địa phương nơi trẻ sinh ra.",
-      "source_ref_ids": ["LUAT-60-2014-QH13"]
+      "source_ref_ids": [
+        "LUAT-60-2014-QH13"
+      ]
     },
     {
       "rule_id": "KS-REQ-04",
@@ -187,7 +263,9 @@
       "severity": "error",
       "message": "Họ và tên mẹ là bắt buộc.",
       "fix_hint": "Nhập họ và tên mẹ theo giấy tờ tùy thân.",
-      "source_ref_ids": ["LUAT-60-2014-QH13"]
+      "source_ref_ids": [
+        "LUAT-60-2014-QH13"
+      ]
     },
     {
       "rule_id": "KS-REQ-05",
@@ -196,7 +274,9 @@
       "severity": "error",
       "message": "Số định danh cá nhân/CCCD của mẹ là bắt buộc để tra cứu Cơ sở dữ liệu quốc gia về dân cư.",
       "fix_hint": "Nhập đúng 12 chữ số trên thẻ Căn cước/CCCD của mẹ.",
-      "source_ref_ids": ["1.001193-DVC"]
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     },
     {
       "rule_id": "KS-FMT-01",
@@ -205,7 +285,9 @@
       "severity": "error",
       "message": "Ngày sinh của trẻ phải theo định dạng ngày hợp lệ (YYYY-MM-DD).",
       "fix_hint": "Chọn lại ngày sinh từ ô chọn ngày.",
-      "source_ref_ids": ["1.001193-DVC"]
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     },
     {
       "rule_id": "KS-FMT-02",
@@ -214,7 +296,9 @@
       "severity": "error",
       "message": "Ngày sinh của trẻ không thể là ngày trong tương lai.",
       "fix_hint": "Kiểm tra lại ngày sinh theo Giấy chứng sinh.",
-      "source_ref_ids": ["1.001193-DVC"]
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     },
     {
       "rule_id": "KS-FMT-03",
@@ -223,7 +307,9 @@
       "severity": "error",
       "message": "Ngày dự kiến đi đăng ký phải theo định dạng ngày hợp lệ (YYYY-MM-DD).",
       "fix_hint": "Chọn lại ngày từ ô chọn ngày.",
-      "source_ref_ids": ["1.001193-DVC"]
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     },
     {
       "rule_id": "KS-PAT-01",
@@ -232,8 +318,12 @@
       "severity": "error",
       "message": "Số định danh cá nhân/CCCD của mẹ phải gồm đúng 12 chữ số.",
       "fix_hint": "Nhập lại 12 chữ số, không chứa khoảng trắng hoặc ký tự khác.",
-      "params": { "pattern": "^\\d{12}$" },
-      "source_ref_ids": ["1.001193-DVC"]
+      "params": {
+        "pattern": "^\\d{12}$"
+      },
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     },
     {
       "rule_id": "KS-PAT-02",
@@ -242,8 +332,12 @@
       "severity": "error",
       "message": "Số định danh cá nhân/CCCD của cha (nếu khai) phải gồm đúng 12 chữ số.",
       "fix_hint": "Nhập lại 12 chữ số hoặc để trống nếu chưa có thông tin cha.",
-      "params": { "pattern": "^\\d{12}$" },
-      "source_ref_ids": ["1.001193-DVC"]
+      "params": {
+        "pattern": "^\\d{12}$"
+      },
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     },
     {
       "rule_id": "KS-CON-01",
@@ -252,8 +346,15 @@
       "severity": "error",
       "message": "Bạn xác nhận có thông tin về cha nên cần khai họ và tên cha.",
       "fix_hint": "Nhập họ và tên cha, hoặc bỏ chọn ô \"Có thông tin về cha\" nếu phần khai về cha để trống.",
-      "params": { "when": { "field_id": "co_thong_tin_cha", "equals": true } },
-      "source_ref_ids": ["LUAT-60-2014-QH13"]
+      "params": {
+        "when": {
+          "field_id": "co_thong_tin_cha",
+          "equals": true
+        }
+      },
+      "source_ref_ids": [
+        "LUAT-60-2014-QH13"
+      ]
     },
     {
       "rule_id": "KS-CMP-01",
@@ -262,8 +363,13 @@
       "severity": "error",
       "message": "Ngày đi đăng ký không thể trước ngày sinh của trẻ (mâu thuẫn dữ liệu chéo).",
       "fix_hint": "Kiểm tra lại hai trường ngày sinh và ngày dự kiến đi đăng ký.",
-      "params": { "other_field": "ngay_sinh_tre", "operator": "gte" },
-      "source_ref_ids": ["1.001193-DVC"]
+      "params": {
+        "other_field": "ngay_sinh_tre",
+        "operator": "gte"
+      },
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     },
     {
       "rule_id": "KS-TYP-01",
@@ -272,8 +378,12 @@
       "severity": "warning",
       "message": "Trường \"Có thông tin về cha\" phải là giá trị lựa chọn có/không.",
       "fix_hint": "Dùng ô đánh dấu để chọn có hoặc không.",
-      "params": { "expected": "boolean" },
-      "source_ref_ids": ["1.001193-DVC"]
+      "params": {
+        "expected": "boolean"
+      },
+      "source_ref_ids": [
+        "1.001193-DVC"
+      ]
     }
   ]
 }

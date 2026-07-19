@@ -9,6 +9,7 @@ import {
   selectAvailabilityBanner,
   selectCanConfirmU2,
   selectCanRenderForm,
+  selectVisibleFindings,
   selectCanRenderPrecheck,
   selectCanRunPrecheck,
   selectProgressStage,
@@ -80,6 +81,10 @@ export default function ProcedureWorkspace({
   const stage = selectProgressStage(state);
   const paneView = selectRightPaneMode(state);
   const canRenderForm = selectCanRenderForm(state);
+  const visibleFindings = selectVisibleFindings(state);
+  const fieldLabels: Record<string, string> = Object.fromEntries(
+    Object.entries(state.checklist?.form_schema?.properties ?? {}).map(([key, prop]) => [key, prop.title]),
+  );
   const canRenderPrecheck = selectCanRenderPrecheck(state);
   const canConfirmU2 = selectCanConfirmU2(state);
   const canRunPrecheck = selectCanRunPrecheck(state);
@@ -381,7 +386,7 @@ export default function ProcedureWorkspace({
                     <DynamicFormRenderer
                       checklist={state.checklist}
                       formDraft={state.formDraft}
-                      findings={state.lastValidationResponse?.findings ?? []}
+                      findings={visibleFindings}
                       onChange={actions.updateFormField}
                       onFocusField={setActiveField}
                       onBlurField={() => setActiveField(null)}
@@ -394,6 +399,8 @@ export default function ProcedureWorkspace({
                       isBusy={state.isBusy}
                       canRunPrecheck={canRunPrecheck}
                       lastValidationResponse={state.lastValidationResponse}
+                      visibleFindings={visibleFindings}
+                      fieldLabels={fieldLabels}
                       trustMetadata={state.trustMetadata}
                       onRunPrecheck={actions.runPrecheck}
                       onConfirmU3={actions.confirmU3}

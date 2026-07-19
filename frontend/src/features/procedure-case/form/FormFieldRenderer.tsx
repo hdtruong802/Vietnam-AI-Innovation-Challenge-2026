@@ -40,7 +40,22 @@ export default function FormFieldRenderer({
   };
 
   let control: React.ReactNode;
-  if (property.type === "boolean") {
+  if (property.enum && property.enum.length > 0) {
+    control = (
+      <select
+        {...commonProps}
+        value={typeof value === "string" ? value : ""}
+        onChange={(e) => onChange(fieldKey, e.target.value)}
+      >
+        <option value="">— Chọn —</option>
+        {property.enum.map((option) => (
+          <option key={option} value={option}>
+            {option}
+          </option>
+        ))}
+      </select>
+    );
+  } else if (property.type === "boolean") {
     control = (
       <input
         {...commonProps}
@@ -64,6 +79,7 @@ export default function FormFieldRenderer({
       <input
         {...commonProps}
         type="date"
+        max={property.x_max_today ? new Date().toISOString().slice(0, 10) : undefined}
         value={typeof value === "string" ? value : ""}
         onChange={(e) => onChange(fieldKey, e.target.value)}
       />

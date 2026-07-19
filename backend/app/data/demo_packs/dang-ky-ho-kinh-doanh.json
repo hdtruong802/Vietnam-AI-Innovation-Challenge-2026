@@ -50,7 +50,10 @@
     {
       "id": "q_chu_the",
       "prompt": "Hộ kinh doanh do ai đăng ký thành lập?",
-      "options": ["Một cá nhân", "Các thành viên hộ gia đình"],
+      "options": [
+        "Một cá nhân",
+        "Các thành viên hộ gia đình"
+      ],
       "why": "Nếu các thành viên hộ gia đình cùng đăng ký thì cần văn bản ủy quyền (công chứng/chứng thực) cho một thành viên làm chủ hộ kinh doanh."
     },
     {
@@ -70,7 +73,10 @@
       "label": "Giấy đề nghị đăng ký hộ kinh doanh",
       "kind": "required",
       "description": "Bản chính theo biểu mẫu ban hành kèm Thông tư 68/2025/TT-BTC, kê khai tên hộ kinh doanh, địa chỉ trụ sở, ngành nghề, vốn kinh doanh và thông tin chủ hộ.",
-      "source_ref_ids": ["1.001612-DVC", "TT-68-2025-BTC"]
+      "source_ref_ids": [
+        "1.001612-DVC",
+        "TT-68-2025-BTC"
+      ]
     }
   ],
   "optional_documents": [
@@ -79,21 +85,29 @@
       "label": "Văn bản ủy quyền của thành viên hộ gia đình",
       "kind": "conditional",
       "description": "Bản sao văn bản ủy quyền (công chứng hoặc chứng thực) của các thành viên hộ gia đình cho một thành viên làm chủ hộ kinh doanh — bắt buộc khi hộ kinh doanh do các thành viên hộ gia đình đăng ký thành lập.",
-      "source_ref_ids": ["1.001612-DVC", "ND-168-2025"]
+      "source_ref_ids": [
+        "1.001612-DVC",
+        "ND-168-2025"
+      ]
     },
     {
       "id": "uy-quyen-nop-ho",
       "label": "Giấy tờ ủy quyền cho người nộp hồ sơ thay",
       "kind": "conditional",
       "description": "Nếu ủy quyền cho cá nhân: văn bản ủy quyền (không bắt buộc công chứng). Nếu ủy quyền cho tổ chức/đơn vị bưu chính: bản sao hợp đồng dịch vụ, giấy giới thiệu hoặc phiếu gửi hồ sơ theo quy định.",
-      "source_ref_ids": ["1.001612-DVC", "ND-168-2025"]
+      "source_ref_ids": [
+        "1.001612-DVC",
+        "ND-168-2025"
+      ]
     },
     {
       "id": "ban-sao-can-cuoc-nguoi-uy-quyen",
       "label": "Bản sao thẻ Căn cước/CCCD của người ủy quyền",
       "kind": "conditional",
       "description": "Bắt buộc khi người ủy quyền chưa có tài khoản định danh điện tử để thực hiện xác thực điện tử.",
-      "source_ref_ids": ["1.001612-DVC"]
+      "source_ref_ids": [
+        "1.001612-DVC"
+      ]
     }
   ],
   "steps": [
@@ -121,18 +135,49 @@
   "form_schema": {
     "type": "object",
     "properties": {
-      "ten_ho_kinh_doanh": { "type": "string", "title": "Tên hộ kinh doanh", "minLength": 2 },
+      "ten_ho_kinh_doanh": {
+        "type": "string",
+        "title": "Tên hộ kinh doanh",
+        "minLength": 2
+      },
       "chu_the_dang_ky": {
         "type": "string",
-        "title": "Chủ thể đăng ký (khai đúng như câu trả lời làm rõ)"
+        "title": "Chủ thể đăng ký (khai đúng như câu trả lời làm rõ)",
+        "enum": [
+          "Một cá nhân",
+          "Các thành viên hộ gia đình"
+        ]
       },
-      "ho_ten_chu_ho": { "type": "string", "title": "Họ và tên chủ hộ kinh doanh" },
-      "cccd_chu_ho": { "type": "string", "title": "Số định danh cá nhân/CCCD của chủ hộ" },
-      "ngay_sinh_chu_ho": { "type": "string", "format": "date", "title": "Ngày sinh của chủ hộ" },
-      "dia_chi_tru_so": { "type": "string", "title": "Địa chỉ trụ sở hộ kinh doanh" },
-      "nganh_nghe": { "type": "string", "title": "Ngành, nghề kinh doanh" },
-      "von_kinh_doanh": { "type": "number", "title": "Vốn kinh doanh (VNĐ)" },
-      "so_lao_dong": { "type": "integer", "title": "Số lao động sử dụng" },
+      "ho_ten_chu_ho": {
+        "type": "string",
+        "title": "Họ và tên chủ hộ kinh doanh"
+      },
+      "cccd_chu_ho": {
+        "type": "string",
+        "title": "Số định danh cá nhân/CCCD của chủ hộ"
+      },
+      "ngay_sinh_chu_ho": {
+        "type": "string",
+        "format": "date",
+        "title": "Ngày sinh của chủ hộ",
+        "x_max_today": true
+      },
+      "dia_chi_tru_so": {
+        "type": "string",
+        "title": "Địa chỉ trụ sở hộ kinh doanh"
+      },
+      "nganh_nghe": {
+        "type": "string",
+        "title": "Ngành, nghề kinh doanh"
+      },
+      "von_kinh_doanh": {
+        "type": "number",
+        "title": "Vốn kinh doanh (VNĐ)"
+      },
+      "so_lao_dong": {
+        "type": "integer",
+        "title": "Số lao động sử dụng"
+      },
       "ho_ten_thanh_vien_uy_quyen": {
         "type": "string",
         "title": "Họ tên thành viên được ủy quyền làm chủ hộ (nếu hộ gia đình đăng ký)"
@@ -159,7 +204,9 @@
       "severity": "error",
       "message": "Tên hộ kinh doanh là bắt buộc trong Giấy đề nghị đăng ký.",
       "fix_hint": "Nhập tên hộ kinh doanh dự kiến.",
-      "source_ref_ids": ["TT-68-2025-BTC"]
+      "source_ref_ids": [
+        "TT-68-2025-BTC"
+      ]
     },
     {
       "rule_id": "HKD-REQ-02",
@@ -168,7 +215,9 @@
       "severity": "error",
       "message": "Họ và tên chủ hộ kinh doanh là bắt buộc.",
       "fix_hint": "Nhập họ tên chủ hộ theo giấy tờ tùy thân.",
-      "source_ref_ids": ["TT-68-2025-BTC"]
+      "source_ref_ids": [
+        "TT-68-2025-BTC"
+      ]
     },
     {
       "rule_id": "HKD-REQ-03",
@@ -177,7 +226,9 @@
       "severity": "error",
       "message": "Số định danh cá nhân/CCCD của chủ hộ là bắt buộc để xác thực điện tử.",
       "fix_hint": "Nhập đúng 12 chữ số trên thẻ Căn cước/CCCD.",
-      "source_ref_ids": ["1.001612-DVC"]
+      "source_ref_ids": [
+        "1.001612-DVC"
+      ]
     },
     {
       "rule_id": "HKD-REQ-04",
@@ -186,7 +237,9 @@
       "severity": "error",
       "message": "Địa chỉ trụ sở hộ kinh doanh là bắt buộc.",
       "fix_hint": "Nhập đầy đủ địa chỉ nơi đặt trụ sở kinh doanh.",
-      "source_ref_ids": ["TT-68-2025-BTC"]
+      "source_ref_ids": [
+        "TT-68-2025-BTC"
+      ]
     },
     {
       "rule_id": "HKD-REQ-05",
@@ -195,7 +248,9 @@
       "severity": "error",
       "message": "Ngành, nghề kinh doanh là bắt buộc trong Giấy đề nghị đăng ký.",
       "fix_hint": "Nhập ngành, nghề dự kiến kinh doanh (ví dụ: dịch vụ ăn uống).",
-      "source_ref_ids": ["TT-68-2025-BTC"]
+      "source_ref_ids": [
+        "TT-68-2025-BTC"
+      ]
     },
     {
       "rule_id": "HKD-PAT-01",
@@ -204,8 +259,12 @@
       "severity": "error",
       "message": "Số định danh cá nhân/CCCD của chủ hộ phải gồm đúng 12 chữ số.",
       "fix_hint": "Nhập lại 12 chữ số, không chứa khoảng trắng hoặc ký tự khác.",
-      "params": { "pattern": "^\\d{12}$" },
-      "source_ref_ids": ["1.001612-DVC"]
+      "params": {
+        "pattern": "^\\d{12}$"
+      },
+      "source_ref_ids": [
+        "1.001612-DVC"
+      ]
     },
     {
       "rule_id": "HKD-PAT-02",
@@ -214,8 +273,12 @@
       "severity": "warning",
       "message": "Tên hộ kinh doanh nên chứa chữ cái, không nên chỉ gồm chữ số.",
       "fix_hint": "Đặt tên có phần chữ (ví dụ: Quán ăn Hương Việt 68).",
-      "params": { "pattern": "^.*[A-Za-zÀ-ỹà-ỹ].*$" },
-      "source_ref_ids": ["TT-68-2025-BTC"]
+      "params": {
+        "pattern": "^.*[A-Za-zÀ-ỹà-ỹ].*$"
+      },
+      "source_ref_ids": [
+        "TT-68-2025-BTC"
+      ]
     },
     {
       "rule_id": "HKD-FMT-01",
@@ -224,7 +287,9 @@
       "severity": "error",
       "message": "Ngày sinh của chủ hộ phải theo định dạng ngày hợp lệ (YYYY-MM-DD).",
       "fix_hint": "Chọn lại ngày sinh từ ô chọn ngày.",
-      "source_ref_ids": ["1.001612-DVC"]
+      "source_ref_ids": [
+        "1.001612-DVC"
+      ]
     },
     {
       "rule_id": "HKD-FMT-02",
@@ -233,7 +298,9 @@
       "severity": "error",
       "message": "Ngày sinh của chủ hộ không thể là ngày trong tương lai.",
       "fix_hint": "Kiểm tra lại ngày sinh theo giấy tờ tùy thân.",
-      "source_ref_ids": ["1.001612-DVC"]
+      "source_ref_ids": [
+        "1.001612-DVC"
+      ]
     },
     {
       "rule_id": "HKD-FMT-03",
@@ -242,7 +309,9 @@
       "severity": "error",
       "message": "Ngày dự kiến bắt đầu hoạt động phải theo định dạng ngày hợp lệ (YYYY-MM-DD).",
       "fix_hint": "Chọn lại ngày từ ô chọn ngày.",
-      "source_ref_ids": ["1.001612-DVC"]
+      "source_ref_ids": [
+        "1.001612-DVC"
+      ]
     },
     {
       "rule_id": "HKD-TYP-01",
@@ -251,8 +320,12 @@
       "severity": "error",
       "message": "Vốn kinh doanh phải là một con số (VNĐ).",
       "fix_hint": "Nhập số tiền, ví dụ 50000000; không nhập chữ.",
-      "params": { "expected": "number" },
-      "source_ref_ids": ["TT-68-2025-BTC"]
+      "params": {
+        "expected": "number"
+      },
+      "source_ref_ids": [
+        "TT-68-2025-BTC"
+      ]
     },
     {
       "rule_id": "HKD-TYP-02",
@@ -261,8 +334,12 @@
       "severity": "error",
       "message": "Số lao động sử dụng phải là một con số.",
       "fix_hint": "Nhập số nguyên, ví dụ 3.",
-      "params": { "expected": "number" },
-      "source_ref_ids": ["TT-68-2025-BTC"]
+      "params": {
+        "expected": "number"
+      },
+      "source_ref_ids": [
+        "TT-68-2025-BTC"
+      ]
     },
     {
       "rule_id": "HKD-CON-01",
@@ -271,8 +348,16 @@
       "severity": "error",
       "message": "Hộ kinh doanh do các thành viên hộ gia đình đăng ký cần khai họ tên thành viên được ủy quyền làm chủ hộ.",
       "fix_hint": "Nhập họ tên thành viên được các thành viên hộ gia đình ủy quyền (kèm văn bản ủy quyền công chứng/chứng thực).",
-      "params": { "when": { "field_id": "chu_the_dang_ky", "equals": "Các thành viên hộ gia đình" } },
-      "source_ref_ids": ["1.001612-DVC", "ND-168-2025"]
+      "params": {
+        "when": {
+          "field_id": "chu_the_dang_ky",
+          "equals": "Các thành viên hộ gia đình"
+        }
+      },
+      "source_ref_ids": [
+        "1.001612-DVC",
+        "ND-168-2025"
+      ]
     },
     {
       "rule_id": "HKD-CMP-01",
@@ -281,8 +366,13 @@
       "severity": "error",
       "message": "Ngày dự kiến bắt đầu hoạt động không thể trước ngày sinh của chủ hộ (mâu thuẫn dữ liệu chéo).",
       "fix_hint": "Kiểm tra lại hai trường ngày sinh chủ hộ và ngày dự kiến hoạt động.",
-      "params": { "other_field": "ngay_sinh_chu_ho", "operator": "gte" },
-      "source_ref_ids": ["1.001612-DVC"]
+      "params": {
+        "other_field": "ngay_sinh_chu_ho",
+        "operator": "gte"
+      },
+      "source_ref_ids": [
+        "1.001612-DVC"
+      ]
     }
   ]
 }

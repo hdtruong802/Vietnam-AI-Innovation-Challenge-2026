@@ -24,9 +24,11 @@ const SEVERITY_STYLE: Record<Finding["severity"], { Icon: typeof AlertTriangleIc
 
 interface FindingCardProps {
   finding: Finding;
+  /** Vietnamese label of the field from form_schema; falls back to field_id. */
+  fieldLabel?: string;
 }
 
-export default function FindingCard({ finding }: FindingCardProps) {
+export default function FindingCard({ finding, fieldLabel }: FindingCardProps) {
   const [showFix, setShowFix] = useState(false);
   const style = SEVERITY_STYLE[finding.severity];
 
@@ -35,7 +37,7 @@ export default function FindingCard({ finding }: FindingCardProps) {
       <div className="flex items-start justify-between gap-2">
         <h5 className="text-xs font-bold flex items-center gap-1.5">
           <style.Icon className="w-3.5 h-3.5 shrink-0" />
-          {finding.field_id ?? "Chung"}
+          {fieldLabel ?? finding.field_id ?? "Chung"}
         </h5>
         <span className="shrink-0 text-[9px] font-bold uppercase tracking-wide opacity-70">{style.label}</span>
       </div>

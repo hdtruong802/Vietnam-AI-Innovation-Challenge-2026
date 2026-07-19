@@ -150,7 +150,16 @@ export function selectCanRunPrecheck(state: ProcedureCaseState): boolean {
 }
 
 export function selectFieldFinding(state: ProcedureCaseState, fieldId: string): Finding | undefined {
+  if (state.dismissedFindingFields.includes(fieldId)) return undefined;
   return state.lastValidationResponse?.findings.find((f) => f.field_id === fieldId);
+}
+
+/** Findings minus those whose field the user already edited since the last run. */
+export function selectVisibleFindings(state: ProcedureCaseState): Finding[] {
+  const findings = state.lastValidationResponse?.findings ?? [];
+  return findings.filter(
+    (f) => !f.field_id || !state.dismissedFindingFields.includes(f.field_id),
+  );
 }
 
 export function selectActiveTrustState(state: ProcedureCaseState): TrustState | null {

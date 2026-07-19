@@ -60,6 +60,7 @@ export function createInitialState(sessionId: string): ProcedureCaseState {
     checklist: null,
     formDraft: {},
     lastValidationResponse: null,
+    dismissedFindingFields: [],
     trustMetadata: null,
     feedbackLog: [],
     isBusy: false,
@@ -288,6 +289,7 @@ function applyAction(
         checklist: null,
         formDraft: {},
         lastValidationResponse: null,
+        dismissedFindingFields: [],
         flow: "clarifying",
       };
     }
@@ -341,10 +343,16 @@ function applyAction(
       return { ...state, flow: "form_editing" };
 
     case "UPDATE_FORM_FIELD":
-      return { ...state, formDraft: { ...state.formDraft, [action.key]: action.value } };
+      return {
+        ...state,
+        formDraft: { ...state.formDraft, [action.key]: action.value },
+        dismissedFindingFields: state.dismissedFindingFields.includes(action.key)
+          ? state.dismissedFindingFields
+          : [...state.dismissedFindingFields, action.key],
+      };
 
     case "RUN_PRECHECK_STARTED":
-      return { ...state, isBusy: true, error: null, flow: "validating" };
+      return { ...state, isBusy: true, error: null, flow: "validating", dismissedFindingFields: [] };
 
     case "VALIDATION_RESPONSE_RECEIVED": {
       const response = action.response;
