@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "record_type": "prompt_event",
+  "prompt_id": "prompt-c78e28a5132c00e087dfd851",
+  "occurred_at": "2026-07-17T18:34:27.888047Z",
+  "captured_at": "2026-07-17T18:34:27.888867Z",
+  "member_id": "hdtruong802",
+  "tool": "codex",
+  "event": "UserPrompt",
+  "prompt": "PLEASE IMPLEMENT THIS PLAN: Logo VNGov ? vector-first, ph? h?p UI d?ch v? c?ng",
+  "prompt_preview": "PLEASE IMPLEMENT THIS PLAN: Logo VNGov ? vector-first, ph? h?p UI d?ch v? c?ng",
+  "model": null,
+  "task_record": "local-20260718-vngov-brand",
+  "branch": "feature/local-20260718-vngov-brand",
+  "workspace_fingerprint": "29aa416e0bb250a6b4670ada7dbae02bdeb972e36fb01db0ae28310d10af8a5d",
+  "source": {
+    "session_hash": "55c4145f0c3af9c5b35f8a8ec64fed589bc12b14f8e9bbabff360b138a8b7571",
+    "adapter": "manual",
+    "adapter_version": "1"
+  },
+  "sanitization": {
+    "redacted": false,
+    "categories": []
+  },
+  "capture_warnings": []
+}

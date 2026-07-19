@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "record_type": "prompt_event",
+  "prompt_id": "prompt-151e393b752f03ffeb3b4074",
+  "occurred_at": "2026-07-18T16:12:35.184328Z",
+  "captured_at": "2026-07-18T16:12:35.184586Z",
+  "member_id": "hdtruong802",
+  "tool": "codex",
+  "event": "UserPrompt",
+  "prompt": "Implement a one-click demo login for the frontend: keep the username/password form as unavailable, add ?V?o demo ngay?, store only the fixed Kh?ch demo profile in sessionStorage, gate Copilot access, and remove all uncommitted Cloud SQL/JWT/account-auth code and documentation. Keep the backend unchanged and production-disabled.",
+  "prompt_preview": "Implement a one-click demo login for the frontend: keep the username/password form as unavailable, add ?V?o demo ngay?, store only the fixed Kh?ch demo profile in sessionStorage, gate Copilot access, and remove all uncommitted Cloud SQL/JWT/account-auth code and documentation....",
+  "model": null,
+  "task_record": "local-20260718-seeded-auth",
+  "branch": "dev",
+  "workspace_fingerprint": "29aa416e0bb250a6b4670ada7dbae02bdeb972e36fb01db0ae28310d10af8a5d",
+  "source": {
+    "session_hash": "8bbe587357c3ae7003e31184d4a7dcf3e5e37d7e897c4cd3783c2c9d7ceae8f0",
+    "adapter": "manual",
+    "adapter_version": "1"
+  },
+  "sanitization": {
+    "redacted": false,
+    "categories": []
+  },
+  "capture_warnings": []
+}
