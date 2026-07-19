@@ -36,7 +36,8 @@ export interface SessionContext {
   procedure_version: string | null;
   clarification_answers: Record<string, unknown>;
   pending_question_ids: string[];
-  review_state: string | null;
+  acknowledged_review_gates: string[];
+  reviewed_document_ids: string[];
 }
 
 export function emptySessionContext(): SessionContext {
@@ -45,7 +46,8 @@ export function emptySessionContext(): SessionContext {
     procedure_version: null,
     clarification_answers: {},
     pending_question_ids: [],
-    review_state: null,
+    acknowledged_review_gates: [],
+    reviewed_document_ids: [],
   };
 }
 

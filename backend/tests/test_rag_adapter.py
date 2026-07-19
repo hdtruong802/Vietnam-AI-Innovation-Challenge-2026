@@ -41,6 +41,8 @@ def rag_client() -> TestClient:
         procedure_data_mode="rag",
         rag_mode="rag",
         llm_mode="gateway",
+        openai_api_key="",
+        **{"AI_API_KEY": ""},
     )
     return TestClient(create_app(settings=settings))
 

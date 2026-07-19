@@ -12,7 +12,7 @@ export const INPUT_MAX_LENGTH = 500;
 export const FEEDBACK_NOTE_MAX_LENGTH = 200;
 export const REQUEST_TIMEOUT_MS = 8000;
 export const RETRY_BACKOFF_MS = 400;
-export const SESSION_STORAGE_KEY = "vngov.procedureCase.v1";
+export const SESSION_STORAGE_KEY = "vngov.procedureCase.v2";
 
 export const FEEDBACK_REASONS: { code: FeedbackReasonCode; label: string }[] = [
   { code: "sai_thu_tuc", label: "Sai thủ tục" },
