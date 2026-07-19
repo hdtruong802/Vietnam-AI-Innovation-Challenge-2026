@@ -25,6 +25,7 @@ import PrecheckPanel from "./validation/PrecheckPanel";
 import OfficialReviewCard from "./trust/OfficialReviewCard";
 import DemoModeBanner from "./trust/DemoModeBanner";
 import { AlertCircleIcon, ChecklistIcon, DocIcon, ShieldIcon } from "./icons";
+import { FORM_TEMPLATES } from "./procedureCase.constants";
 import type { ProcedureCaseState } from "./procedureCase.types";
 import type { AuthUser } from "@/features/auth/types";
 
@@ -366,6 +367,16 @@ export default function ProcedureWorkspace({
                           : "Tờ khai"}
                       </span>
                       <h3 className="text-sm font-bold text-[var(--vg-text)]">{state.checklist.procedure_name}</h3>
+                      {FORM_TEMPLATES[state.checklist.procedure_id] && (
+                        <a
+                          href={FORM_TEMPLATES[state.checklist.procedure_id].href}
+                          download
+                          className="inline-flex items-center gap-1.5 mt-2 text-[11px] font-bold text-[var(--vg-accent)] hover:underline focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none rounded"
+                        >
+                          <DocIcon className="w-3.5 h-3.5" />
+                          Tải biểu mẫu chính thức: {FORM_TEMPLATES[state.checklist.procedure_id].label}
+                        </a>
+                      )}
                     </div>
                     <DynamicFormRenderer
                       checklist={state.checklist}

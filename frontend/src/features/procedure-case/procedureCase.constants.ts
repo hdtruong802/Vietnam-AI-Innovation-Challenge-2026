@@ -49,5 +49,21 @@ export const STATIC_PROCEDURES = [
   },
 ] as const;
 
+/** Official form templates (user-supplied, served from public/forms). */
+export const FORM_TEMPLATES: Record<string, { href: string; label: string }> = {
+  "dang-ky-khai-sinh": {
+    href: "/forms/dang-ky-khai-sinh.doc",
+    label: "Tờ khai đăng ký khai sinh (.doc)",
+  },
+  "dang-ky-thuong-tru": {
+    href: "/forms/dang-ky-thuong-tru.docx",
+    label: "Tờ khai thay đổi thông tin cư trú — mẫu CT01 (.docx)",
+  },
+  "dang-ky-ho-kinh-doanh": {
+    href: "/forms/dang-ky-ho-kinh-doanh.doc",
+    label: "Giấy đề nghị đăng ký hộ kinh doanh (.doc)",
+  },
+};
+
 export const GUIDANCE_DISCLAIMER =
   "Đây là hướng dẫn chuẩn bị hồ sơ dựa trên các nguồn trích dẫn, không thay thế quyết định của cơ quan có thẩm quyền.";
