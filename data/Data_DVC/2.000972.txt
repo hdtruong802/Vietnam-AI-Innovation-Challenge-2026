@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000972
+Số quyết định: 2001/QĐ-BYT
+Tên thủ tục: Kiểm dịch y tế đối với thi thể, hài cốt, tro cốt
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Phòng bệnh
+Trình tự thực hiện:
+  * Bước 1.
+    Thu thập thông tin và khai báo y tế đối với thi thể, hài cốt, tro cốt
+    Người khai báo y tế thực hiện khai báo, nộp thông tin khai báo y tế thi thể, hài cốt, tro cốt theo Mẫu số 11 Phụ lục V ban hành kèm theo Nghị định số 165/2026/NĐ-CP; nộp bản sao giấy xác nhận đã qua xử lý y tế của quốc gia hoặc vùng lãnh thổ xuất phát (đối với thi thể, hài cốt), Giấy phép nhập cảnh thi thể, hài cốt, tro cốt về Việt Nam theo quy định của Bộ Ngoại giao và Giấy tờ chứng minh tử vong (đối với thi thể, hài cốt) cho tổ chức kiểm dịch y tế.
+  * Bước 2.
+    Quan sát y tế đối với thi thể, hài cốt, tro cốt
+    Kiểm dịch viên y tế thực hiện quan sát trực tiếp hoặc gián tiếp, đánh giá tình trạng bên ngoài của quan tài, hộp đựng hài cốt, bình đựng tro cốt, bao gói, niêm phong và tình trạng vệ sinh, dấu hiệu rò rỉ chất lỏng, mùi bất thường hoặc các biểu hiện không bảo đảm yêu cầu về vệ sinh, an toàn y tế.
+  * Bước 3.
+    Kiểm tra y tế đối với thi thể, hài cốt, tro cốt
+    3.1. Kiểm tra giấy tờ
+    Kiểm dịch viên y tế kiểm tra các nội dung khai báo y tế và các giấy tờ kèm theo.
+    3.2 Kiểm tra thực tế
+    a)	Kiểm dịch viên y tế yêu cầu đưa vào khu vực được chỉ định;
+    b)	Đối chiếu nội dung khai báo y tế với thực tế bảo quản thi thể, hài cốt;
+    c)	Kiểm tra tình trạng vệ sinh, yêu cầu về vận chuyển theo quy định của Bộ trưởng Bộ Y tế.
+  * Bước 4.
+    Xử lý y tế
+    Căn cứ kết quả kiểm tra thực tế, kiểm dịch viên y tế:
+    a)	Xử lý y tế theo quy định của Bộ trưởng Bộ Y tế về vệ sinh trong mai táng, hỏa táng;
+    b)	Kiểm tra và cấp giấy chứng nhận kiểm dịch y tế đối với thi thể, hài cốt, tro cốt theo Mẫu số 12 Phụ lục V ban hành kèm theo Nghị định số 165/2026/NĐ-CP sau khi hoàn thành việc xử lý y tế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 HOUR
+    Phí, lệ phí: Kiểm tra/ xử lý y tế trực tiếp tại cửa khẩu
+    Mô tả: -	Thời gian hoàn thành quan sát y tế đối với một thi thể hoặc một hài cốt hoặc một tro cốt không quá 15 phút.
+-	Thời gian hoàn thành việc kiểm tra giấy tờ đối với một thi thể hoặc một hài cốt hoặc một tro cốt không quá 15 phút kể từ khi nộp đủ các loại giấy tờ.
+-	Thời gian hoàn thành việc kiểm tra thực tế đối với một thi thể, hài cốt, tro cốt không quá 01 giờ kể từ khi nộp đủ giấy tờ và kiểm dịch viên y tế tiếp cận được với thi thể, hài cốt, tro cốt cần được kiểm tra.
+-	Thời gian hoàn thành việc xử lý y tế đối với một dụng cụ chứa thi thể hoặc hài cốt hoặc tro cốt không quá 03 giờ kể từ khi tổ chức kiểm dịch y tế yêu cầu xử lý y tế. Trước khi hết thời gian quy định 15 phút mà chưa hoàn thành việc xử lý y tế, tổ chức kiểm dịch y tế phải thông báo gia hạn thời gian xử lý y tế bằng văn bản, nêu rõ lý do cho người khai báo y tế. Thời gian gia hạn không quá 01 giờ kể từ thời điểm có thông báo gia hạn.
+Phí: Theo quy định của UBND cấp tỉnh
+
+Thành phần hồ sơ:
+    - Giấy tờ chứng minh tử vong (đối với thi thể, hài cốt).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy phép nhập cảnh thi thể, hài cốt về Việt Nam;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy khai báo y tế thi thể, hài cốt (bao gồm cả tro cốt);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy xác nhận đã qua xử lý y tế của nơi xuất phát;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Người nước ngoài, Người nước ngoài đã cư trú tại Việt Nam
+Cơ quan thực hiện: Trung tâm Kiểm dịch Y tế quốc tế, Trung tâm Kiểm soát bệnh tật tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận kiểm dịch y tế
+Căn cứ pháp lý:
+  * Nghị định quy định chi tiết và hướng dẫn thi hành một số điều của Luật Phòng bệnh. (165/2026/NĐ-CP)
+  * Phòng bệnh (114/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

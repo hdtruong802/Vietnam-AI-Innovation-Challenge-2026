@@ -5,8 +5,14 @@ import type { FeedbackReasonCode } from "./procedureCase.types";
 // contract has no per-response official_channel_url field.
 export const OFFICIAL_PORTAL_URL = "https://dichvucong.gov.vn/";
 
+const CLOUD_RUN_API_BASE_URL = "https://vngov-api-j53prjslqa-as.a.run.app";
+
+// The explicit environment variable always wins. The production fallback keeps
+// the public Vercel build usable while its owner configures project variables;
+// local development continues to use the local FastAPI port by default.
 export const API_BASE_URL =
-  process.env.NEXT_PUBLIC_API_BASE_URL ?? "http://localhost:8000";
+  process.env.NEXT_PUBLIC_API_BASE_URL ??
+  (process.env.NODE_ENV === "production" ? CLOUD_RUN_API_BASE_URL : "http://localhost:8000");
 
 export const INPUT_MAX_LENGTH = 500;
 export const FEEDBACK_NOTE_MAX_LENGTH = 200;
@@ -23,9 +29,24 @@ export const FEEDBACK_REASONS: { code: FeedbackReasonCode; label: string }[] = [
 ];
 
 export const STATIC_PROCEDURES = [
-  { procedure_id: "dang-ky-khai-sinh", label: "👶 Đăng ký khai sinh" },
-  { procedure_id: "dang-ky-thuong-tru", label: "🏠 Đăng ký thường trú" },
-  { procedure_id: "dang-ky-ho-kinh-doanh", label: "💼 Đăng ký thành lập hộ kinh doanh" },
+  {
+    procedure_id: "dang-ky-khai-sinh",
+    label: "Đăng ký khai sinh",
+    description: "Thủ tục đăng ký khai sinh cho trẻ em",
+    icon: "birth",
+  },
+  {
+    procedure_id: "dang-ky-thuong-tru",
+    label: "Đăng ký thường trú",
+    description: "Thủ tục đăng ký thường trú tại nơi cư trú",
+    icon: "residence",
+  },
+  {
+    procedure_id: "dang-ky-ho-kinh-doanh",
+    label: "Đăng ký thành lập hộ kinh doanh",
+    description: "Thủ tục đăng ký thành lập hộ kinh doanh",
+    icon: "business",
+  },
 ] as const;
 
 export const GUIDANCE_DISCLAIMER =

@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "record_type": "prompt_event",
+  "prompt_id": "prompt-fd6ff3390d802f03c8dda4b1",
+  "occurred_at": "2026-07-19T00:07:10.265843Z",
+  "captured_at": "2026-07-19T00:07:10.266046Z",
+  "member_id": "hdtruong802",
+  "tool": "codex",
+  "event": "UserPrompt",
+  "prompt": "S?a khi b?m ??ng nh?p \"V?o demo ngay\" th? v?o th?ng Copilot, kh?ng c?n b?m th?m n?t \"V?o Copilot\".",
+  "prompt_preview": "S?a khi b?m ??ng nh?p \"V?o demo ngay\" th? v?o th?ng Copilot, kh?ng c?n b?m th?m n?t \"V?o Copilot\".",
+  "model": null,
+  "task_record": "local-20260719-light-only-theme",
+  "branch": "fix/local-20260719-light-only-theme",
+  "workspace_fingerprint": "29aa416e0bb250a6b4670ada7dbae02bdeb972e36fb01db0ae28310d10af8a5d",
+  "source": {
+    "session_hash": "0634cbb3a5f6e72ff0b96a9c7489eb5fb924cba6d238a7021a7085e6cd9a76bc",
+    "adapter": "manual",
+    "adapter_version": "1"
+  },
+  "sanitization": {
+    "redacted": false,
+    "categories": []
+  },
+  "capture_warnings": []
+}

@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000610
+Số quyết định: 2968/QĐ-UBND
+Tên thủ tục: Xác nhận điều kiện về hạ tầng kỹ thuật của lối đi khi tách thửa đất ở hoặc thửa đất có đất ở và đất khác trong cùng thửa đất
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Đất đai
+Trình tự thực hiện:
+    Bước 1: Người sử dụng đất nộp 01 bộ hồ sơ đến Trung tâm Phục vụ hành chính công. Trung tâm Phục vụ hành chính công chuyển hồ sơ đến UBND cấp xã nơi có đất.
+    Khi nộp hồ sơ, người sử dụng đất được lựa chọn một trong các hình thức sau:
+    - Nộp bản sao giấy tờ và xuất trình bản chính để cán bộ tiếp nhận hồ sơ kiểm tra, đối chiếu.
+    - Nộp bản chính giấy tờ hoặc nộp bản sao giấy tờ có công chứng hoặc chứng thực theo quy định của pháp luật về công chứng, chứng thực.
+    - Trường hợp nộp hồ sơ theo hình thức trực tuyến, hồ sơ phải được số hóa từ bản chính theo quy định.
+    Bước 2: Ủy ban nhân dân cấp xã:
+    Ủy ban nhân dân cấp xã kiểm tra, rà soát hồ sơ do người sử dụng đất nộp và hồ sơ lưu trữ; tổ chức kiểm tra thực địa và thực hiện xác nhận điều kiện của lối đi theo quy định tại khoản 5 Điều 5 Quy định ban hành kèm theo Quyết định số 75/2026/QĐ-UBND ngày 30/5/2026 của UBND thành phố Đà Nẵng, cụ thể như sau:
+    + Trường hợp lối đi đã hoàn thiện có kết cấu áo đường mềm (bê tông nhựa, thâm nhập nhựa, láng nhựa…) hoặc kết cấu áo đường cứng (bê tông xi măng, …), đảm bảo kết nối được với đường giao thông công cộng hiện hữu, có bề rộng lối đi tối thiểu theo quy định tại Phụ lục IV kèm theo Quyết định số 75/2026/QĐ-UBND ngày 30/5/2026 của UBND thành phố Đà Nẵng và đảm bảo điện chiếu sáng, cấp thoát nước theo thực tế tại khu vực thì trong thời hạn không quá 05 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Ủy ban nhân dân cấp xã xác nhận xác nhận lối đi đảm bảo điều kiện phục vụ cho việc tách thửa đất vào Mẫu đơn số 01;
+    + Trường hợp lối đi không đảm bảo theo quy định tại điểm a khoản 4 Phụ lục V kèm theo Quyết định số 75/2026/QĐ-UBND ngày 30/5/2026 của UBND thành phố Đà Nẵng thì trong thời hạn không quá 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Ủy ban nhân dân cấp xã xác nhận lối đi không đủ điều kiện vào Mẫu đơn số 01, chuyển trả hồ sơ cho người sử dụng đất và thông báo rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Không quá 5 ngày làm việc
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Không quá 5 ngày làm việc
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Không quá 5 ngày làm việc
+
+Thành phần hồ sơ:
+    - Đơn đề nghị xác nhận điều kiện hạ tầng kỹ thuật lối đi phục vụ tách thửa đất theo Mẫu số 01 ban hành kèm theo Quyết định số 75/2026/QĐ-UBND ngày 30/5/2026 của UBND thành phố Đà Nẵng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản vẽ tách thửa đất, hợp thửa đất lập theo Mẫu số 02 ban hành kèm theo Quyết định số 75/2026/QĐ-UBND ngày 30/5/2026 của UBND thành phố Đà Nẵng được người sử dụng đất và đơn vị đo đạc ký, đóng dấu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng nhận đã cấp hoặc bản sao Giấy chứng nhận đã cấp kèm bản gốc để đối chiếu hoặc nộp bản sao có công chứng, chứng thực
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các văn bản của cơ quan có thẩm quyền thể hiện nội dung tách thửa đất, hợp thửa đất (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Văn phòng Đăng ký đất đai TP.Đà Nẵng
+Kết quả thực hiện: Xác nhận đủ hoặc không đủ điều kiện về hạ tầng kỹ thuật lối đi phục vụ tách thửa đất tại Mẫu đơn số 01, thông báo nêu rõ lý do đối với trường hợp xác nhận lối đi không đủ điều kiện
+Căn cứ pháp lý:
+  * Luật số 43/2024/QH15 ngày 29/6/2024 (43/2024/QH15)
+  * Luật Đất đai số 31/2024/QH15 ngày 18/01/2024 được sửa đổi bổ sung  một số điều bởi Luật số 43/2024/QH15, Luật số 47/2024/QH15 và Luật số 58/2024/QH15 của Quốc hội. (31/2024/QH15)
+  * Quy định một số cơ chế, chính sách tháo gỡ khó khăn vướng mắc trong tổ chức thi hành Luật Đất đai (254/2025/QH15)
+  * BAN HÀNH QUY ĐỊNH VỀ MỘT SỐ NỘI DUNG THUỘC LĨNH VỰC ĐẤT ĐAI TRÊN ĐỊA BÀN THÀNH PHỐ ĐÀ NẴNG (75/2026/QĐ-UBND (thành phố Đà Nẵng))
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

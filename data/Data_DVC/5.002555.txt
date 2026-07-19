@@ -1,0 +1,69 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 5.002555
+Số quyết định: 497/QĐ-BXD
+Tên thủ tục: Đánh giá phân loại cảng biển
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: CENTRAL_REGULATION
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+    +  Cục Hàng hải và Đường thủy Việt Nam định kỳ 05 năm một lần vào tháng 01 của năm đầu tiên hoặc căn cứ tình hình phát triển thực tế tại cảng biển lập danh mục cảng biển, đánh giá, phân loại cảng biển trình Bộ Xây dựng.
+    +  Bộ Xây dựng trên cơ sở báo cáo của Cục Hàng hải và Đường thủy Việt Nam, lấy ý kiến các Bộ, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và cơ quan có liên quan, tổ chức thẩm định, trình Thủ tướng Chính phủ quyết định xếp loại cảng biển và công bố danh mục cảng biển.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cách thức thực hiện: qua hệ thống điện tử hoặc qua dịch vụ bưu chính hoặc trực tiếp.
+Thời hạn giải quyết: 
+- Trong thời gian 05 ngày kể từ khi nhận được đầy đủ hồ sơ hợp lệ, Bộ Xây dựng lấy ý kiến các bộ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và cơ quan có liên quan. 
+- Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các cơ quan có liên quan có văn bản trả lời Bộ Xây dựng chậm nhất 02 ngày kể từ ngày nhận được văn bản xin ý kiến của Bộ Xây dựng. 
+- Trong thời gian 08 ngày kể từ khi nhận được đầy đủ ý kiến, Bộ Xây dựng tổ chức thẩm định, trình Thủ tướng Chính phủ quyết định xếp loại cảng biển và công bố danh mục cảng biển
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cách thức thực hiện: qua hệ thống điện tử hoặc qua dịch vụ bưu chính hoặc trực tiếp.
+Thời hạn giải quyết: 
+- Trong thời gian 05 ngày kể từ khi nhận được đầy đủ hồ sơ hợp lệ, Bộ Xây dựng lấy ý kiến các bộ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và cơ quan có liên quan. 
+- Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các cơ quan có liên quan có văn bản trả lời Bộ Xây dựng chậm nhất 02 ngày kể từ ngày nhận được văn bản xin ý kiến của Bộ Xây dựng. 
+- Trong thời gian 08 ngày kể từ khi nhận được đầy đủ ý kiến, Bộ Xây dựng tổ chức thẩm định, trình Thủ tướng Chính phủ quyết định xếp loại cảng biển và công bố danh mục cảng biển
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Cách thức thực hiện: qua hệ thống điện tử hoặc qua dịch vụ bưu chính hoặc trực tiếp.
+Thời hạn giải quyết: 
+- Trong thời gian 05 ngày kể từ khi nhận được đầy đủ hồ sơ hợp lệ, Bộ Xây dựng lấy ý kiến các bộ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và cơ quan có liên quan. 
+- Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và các cơ quan có liên quan có văn bản trả lời Bộ Xây dựng chậm nhất 02 ngày kể từ ngày nhận được văn bản xin ý kiến của Bộ Xây dựng. 
+- Trong thời gian 08 ngày kể từ khi nhận được đầy đủ ý kiến, Bộ Xây dựng tổ chức thẩm định, trình Thủ tướng Chính phủ quyết định xếp loại cảng biển và công bố danh mục cảng biển
+
+Thành phần hồ sơ:
+  [ Hồ sơ Cục Hàng hải và Đường thủy Việt Nam trình Bộ gồm ]
+    - Tờ trình đề nghị xếp loại cảng biển và công bố danh mục cảng biển
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Dự thảo Quyết định công bố danh mục cảng biển
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các tài liệu khác (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Hồ sơ Bộ Xây dựng trình Thủ tướng Chính phủ gồm ]
+    - Tờ trình Thủ tướng Chính phủ xếp loại cảng biển và công bố danh mục cảng biển
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Dự thảo Quyết định của Thủ tướng Chính phủ công bố danh mục cảng biển
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - -	Các tài liệu khác liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo thẩm định của Bộ Xây dựng
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Cục Hàng hải và Đường thủy Việt Nam, Bộ Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Thủ tướng Chính phủ công bố danh mục cảng biển
+Căn cứ pháp lý:
+  * Nghị định quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng (33/2025/NĐ-CP)
+  * Quy định tiêu chí phân loại cảng biển (76/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -83,9 +83,7 @@ def create_app(
             elif (
                 runtime_settings.rate_limit_enabled
                 and request.url.path.startswith("/v1/")
-                and not rate_limiter.allow(
-                    request.client.host if request.client else "unknown"
-                )
+                and not rate_limiter.allow(request.client.host if request.client else "unknown")
             ):
                 response = _error_response(
                     request,
@@ -114,8 +112,7 @@ def create_app(
         exc: RequestValidationError,
     ) -> JSONResponse:
         details = [
-            {"location": list(error["loc"]), "type": error["type"]}
-            for error in exc.errors()
+            {"location": list(error["loc"]), "type": error["type"]} for error in exc.errors()
         ]
         return _error_response(
             request,

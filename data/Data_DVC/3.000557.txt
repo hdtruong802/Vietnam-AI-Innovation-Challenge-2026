@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000557
+Số quyết định: 1351/QĐ-UBND
+Tên thủ tục: Chấp thuận thiết kế nút giao đấu nối với đường địa phương đang khai thác
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    a) Nộp hồ sơ thủ tục hành chính
+    Tổ chức, cá nhân nộp hồ sơ đề nghị chấp thuận thiết kế nút giao đấu nối với đường địa phương đang khai thác đến cơ quan có thẩm quyền.
+    b) Giải quyết thủ tục hành chính
+    - Đối với trường hợp nộp trực tiếp: Sau khi kiểm tra thành phần hồ sơ, nếu đủ thành phần hồ sơ theo quy định thì tiếp nhận hồ sơ và viết phiếu hẹn trả kết quả; trường hợp không đủ thành phần hồ sơ thì hướng dẫn tổ chức, cá nhân hoàn thiện hồ sơ theo quy định;
+    - Đối với trường hợp nộp gián tiếp (qua hệ thống bưu điện hoặc qua cổng dịch vụ công trực tuyến): Trong phạm vi 02 ngày làm việc kể từ ngày nhận được hồ sơ, kiểm tra thành phần hồ sơ, trường hợp đủ thành phần hồ sơ theo quy định thì tiếp nhận; trường hợp không đủ thành phần hồ sơ thì có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;
+    - Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền tiến hành xem xét hồ sơ, nếu đủ điều kiện thì có văn bản chấp thuận thiết kế nút giao đấu nối; trường hợp không chấp thuận thì phải có văn
+    bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 56 HOUR
+    Phí, lệ phí: Không có thông tin
+    Mô tả: a) Nộp hồ sơ thủ tục hành chính
+Tổ chức, cá nhân nộp hồ sơ đề nghị chấp thuận thiết kế nút giao đấu nối với đường địa phương đang khai thác đến cơ quan có thẩm quyền.
+b) Giải quyết thủ tục hành chính
+- Đối với trường hợp nộp trực tiếp: Sau khi kiểm tra thành phần hồ sơ, nếu đủ thành phần hồ sơ theo quy định thì tiếp nhận hồ sơ và viết phiếu hẹn trả kết quả; trường hợp không đủ thành phần hồ sơ thì hướng dẫn tổ chức, cá nhân hoàn thiện hồ sơ theo quy định;
+- Đối với trường hợp nộp gián tiếp (qua hệ thống bưu điện hoặc qua cổng dịch vụ công trực tuyến): Trong phạm vi 02 ngày làm việc kể từ ngày nhận được hồ sơ, kiểm tra thành phần hồ sơ, trường hợp đủ thành phần hồ sơ theo quy định thì tiếp nhận; trường hợp không đủ thành phần hồ sơ thì có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;
+- Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền tiến hành xem xét hồ sơ, nếu đủ điều kiện thì có văn bản chấp thuận thiết kế nút giao đấu nối; trường hợp không chấp thuận thì phải có văn
+bản trả lời và nêu rõ lý do.
+
+Thành phần hồ sơ:
+    - - Hồ sơ khảo sát, thiết kế bản vẽ thi công công trình nút giao đấu nối vào đường địa phương đang khai thác, bao gồm: thuyết minh thiết kế, bản vẽ thiết kế nút giao đấu nối và bản vẽ hoàn trả kết cấu hạ tầng đường bộ, bản vẽ tổ chức giao thông tại nút giao đấu nối, hồ sơ khảo sát địa hình, địa chất; văn bản/quyết định chấp thuận vị trí đấu nối vào đường bộ đang khai thác trừ vị trí đấu nối không phải chấp thuận theo quy định tại Nghị định số 165/2024/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản giao làm chủ đầu tư dự án xây dựng nút giao đấu nối vào đường địa phương đang khai thác (nếu có); Văn bản chấp thuận vị trí đấu nối của cơ quan có thẩm quyền.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn đề nghị chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác (theo mẫu số 01)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp, Hợp tác xã, Công dân Việt Nam
+Cơ quan thực hiện: Sở Xây dựng - tỉnh Ninh Bình
+Cơ quan có thẩm quyền: Sở Xây dựng - tỉnh Ninh Bình
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận thiết kế nút giao đấu nối.
+Căn cứ pháp lý:
+  * Quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ. (165/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

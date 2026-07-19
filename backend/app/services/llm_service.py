@@ -41,9 +41,7 @@ class OpenAILLMClient:
         self.model = settings.openai_model if model is None else model
         self.base_url = settings.openai_base_url if base_url is None else base_url
         self.timeout_seconds = (
-            settings.openai_timeout_seconds
-            if timeout_seconds is None
-            else timeout_seconds
+            settings.openai_timeout_seconds if timeout_seconds is None else timeout_seconds
         )
 
     def complete_grounded_answer(

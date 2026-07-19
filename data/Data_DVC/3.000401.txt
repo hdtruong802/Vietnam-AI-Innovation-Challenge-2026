@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000401
+Số quyết định: 1842/QĐ-BCA
+Tên thủ tục: Cấp lại Giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Bảo đảm trật tự, an toàn giao thông đường bộ
+Trình tự thực hiện:
+    Bước 1: Cơ quan, tổ chức gửi hồ sơ gửi đến Cục Cảnh sát giao thông; Phòng Cảnh sát giao thông.
+    Bước 2: Cục Cảnh sát giao thông; Phòng Cảnh sát giao thông tiếp nhận hồ sơ, kiểm tra và xử lý.
+    Bước 3: Trả kết quả.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp lại Giấy phép sử dụng thiết bị phát tín hiệu  của xe ưu tiên.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản quy định về chức năng, nhiệm vụ, các tài liệu khác chứng minh cơ quan, tổ chức đủ điều kiện được sử dụng thiết bị phát tín hiệu của xe ưu tiên đối với trường hợp quy định tại khoản 6, khoản 7 và khoản 8 Điều 18 của Nghị định151/2024/NĐ-CP ngày 15/11/2024 của Chính phủ gồm:  - Xe cứu thương đi làm nhiệm vụ cấp cứu;  - Xe hộ đê đi làm nhiệm vụ; xe đi làm nhiệm vụ cứu nạn, cứu hộ, khắc phục sự cố thiên tai, dịch bệnh; - Xe đi làm nhiệm vụ trong tình trạng khẩn cấp theo quy định của pháp luật bao gồm: xe phục vụ Ban chỉ đạo, xe phục vụ các lực lượng chức năng được huy động tham gia thực hiện nhiệm vụ khi tình trạng khẩn cấp được ban bố. Lưu ý: Trường hợp tài liệu chứng minh có thể khai thác qua cơ sở dữ liệu được kết nối, chia sẻ với cơ quan có thẩm quyền cấp giấy phép thì  cơ quan, tổ chức không phải cung cấp khi làm thủ tục.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục cảnh sát giao thông
+Cơ quan có thẩm quyền: Phòng Cảnh sát giao thông
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cấp lại Giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên cho cơ quan, tổ chức sử dụng xe ưu tiên
+Căn cứ pháp lý:
+  * Luật Trật tự, an toàn giao thông đường bộ (36/2024/QH15)
+  * Nghị định số 151/2024/NĐ-CP của Chính phủ: Quy định chi tiết một số điều và biện pháp thi hành Luật Trật tự, an toàn giao thông đường bộ (151/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Trường hợp Giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên đã được cơ quan có thẩm quyền cấp trước đó bị hư hỏng, bị mất hoặc hết thời hạn sử dụng.
+Từ khóa: Không có thông tin
+Mô tả: Trường hợp Giấy phép sử dụng thiết bị phát tín hiệu của xe ưu tiên đã được cơ quan có thẩm quyền cấp trước đó bị hư hỏng, bị mất hoặc hết thời hạn sử dụng.

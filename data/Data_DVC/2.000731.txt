@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000731
+Số quyết định: 315/QĐ-BNV
+Tên thủ tục: Cấp giấy phép làm việc trong kỳ nghỉ cho công dân Niu-Di-Lân
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Việc làm
+Trình tự thực hiện:
+    Bước 1: Trước thời hạn ít nhất 30 (ba mươi) ngày kể từ ngày dự kiến nhập cảnh vào Việt Nam, công dân Niu Di-lân nộp hồ sơ trực tiếp hoặc gửi qua đường bưu điện đề nghị cấp giấy phép cho Đại sứ quán Việt Nam tại Niu Di-lân
+    Bước 2: Trong vòng 05 (năm) ngày (tính theo ngày làm việc) kể từ ngày nhận đủ hồ sơ đề nghị cấp giấy phép của công dân Niu Di-lân, Đại sứ quán Việt Nam tại Niu Di-lân chuyển hồ sơ đề nghị cấp giấy phép cho Cục Việc làm (Bộ Nội vụ) bằng hình thức fax hoặc thư điện tử
+    Bước 3: Trong thời hạn 10 (mười) ngày (tính theo ngày làm việc) kể từ ngày nhận đủ hồ sơ đề nghị cấp giấy phép hợp lệ, Cục Việc làm (Bộ Nội vụ) thông báo kết quả cấp giấy phép cho Đại sứ quán Việt Nam tại Niu Di-lân và Đại sứ quán Niu Di-lân tại Việt Nam bằng văn bản
+    Bước 4: Trong thời hạn 05 (năm) ngày kể từ ngày nhập cảnh vào Việt Nam, công dân Niu Di-lân nhận giấy phép tại trụ sở Cục Việc làm (Bộ Nội vụ) hoặc tại trụ sở Trung tâm Giới thiệu việc làm thành phố Hồ Chí Minh thuộc Sở Nội vụ thành phố Hồ Chí Minh
+    Bước 5: Trong thời hạn 05 (năm) ngày kể từ ngày công dân Niu Di-lân làm việc cho người sử dụng lao động, người sử dụng lao động xác nhận trong giấy phép của công dân Niu Di-lân. Trong thời hạn 03 (ba) ngày kể từ ngày người sử dụng lao động xác nhận trong giấy phép thì công dân Niu Di-lân phải gửi bản chụp giấy phép có xác nhận của người sử dụng lao động về Cục Việc làm (Bộ Nội vụ) bằng đường bưu điện, fax hoặc thư điện tử
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 600000 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp hoặc qua đường bưu điện cho Đại sứ quán Việt Nam tại Niu Di-lân. 15 (mười lăm) ngày tính theo ngày làm việc chưa kể thời gian vận chuyển hồ sơ từ Niu Di-lân đến Việt Nam.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 600000 VNĐ ()
+    Mô tả: Nộp hồ sơ trực tiếp hoặc qua đường bưu điện cho Đại sứ quán Việt Nam tại Niu Di-lân. 15 (mười lăm) ngày tính theo ngày làm việc chưa kể thời gian vận chuyển hồ sơ từ Niu Di-lân đến Việt Nam.
+
+Thành phần hồ sơ:
+    - Chứng chỉ quốc gia phổ thông trung học của Niu Di-lân cấp độ 02 (hai) hoặc trình độ cao hơn
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản chứng minh đủ điều kiện tài chính theo quy định: có văn bản chứng minh đã mở tài khoản ngân hàng tại Niu Di-lân và giao dịch được với các ngân hàng tại Việt Nam với tài khoản không được thấp hơn 4.200 đô la Niu Di- lân
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai đề nghị cấp giấy phép của công dân Niu Di-lân theo mẫu số 1 ban hành kèm theo Thông tư liên tịch số 15/2012/TTLT-BLĐTBXH-BCA-BNG ngày 06/6/2012 của Bộ Lao động - Thương binh và Xã hội, Bộ Công an và Bộ Ngoại giao hướng dẫn thực hiện một số điều của Thỏa thuận giữa Chính phủ Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Niu Di-lân về Chương trình làm việc trong kỳ nghỉ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 03 (ba) ảnh cỡ 3cm x 4cm, đầu để trần, chụp chính diện, rõ mặt, rõ hai tai, không đeo kính, phông ảnh màu trắng và bản mềm ảnh màu nêu trên
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng nhận sức khỏe đủ điều kiện làm việc theo quy định của pháp luật Niu Di-lân, đã được cấp không quá 180 ngày tính đến ngày nộp hồ sơ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chụp hộ chiếu của công dân Niu Di-lân còn thời hạn nhiều hơn ít nhất 01 (một) tháng so với thời hạn đề nghị cấp giấy phép
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người nước ngoài
+Cơ quan thực hiện: Cục Việc làm
+Cơ quan có thẩm quyền: Cục Việc làm
+Địa chỉ tiếp nhận HS: Đại sứ quán Việt Nam tại Niu Di-lân
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép làm việc trong kỳ nghỉ.
+Căn cứ pháp lý:
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/QH15)
+  * Thông tư liên tịch 15/2012/TTLT-BLĐTBXH-BCA-BNG - Hướng dẫn thực hiện một số điều của Thỏa thuận giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Niu Di-Lân về Chương trình làm việc trong kỳ nghỉ (15/2012/TTLT-BLĐTBXH-BCA-BNG)
+
+Yêu cầu, điều kiện thực hiện: - Là công dân của Niu Di-lân;
+- Ý định chủ yếu là đi du lịch ở Việt Nam, nhưng tìm được việc làm và học tập một cách ngẫu nhiên chứ không phải là lý do chủ yếu của chuyến đi;
+- Là những người trong độ tuổi từ đủ mười tám (18) đến ba mươi (30) tuổi vào thời điểm nộp hồ sơ;
+- Không có người phụ thuộc đi cùng;
+- Có hộ chiếu còn thời hạn được do cơ quan Niu Di-lân cấp;
+- Có vé máy bay để rời khỏi Việt Nam hoặc khả năng tài chính đủ để có thể mua vé máy bay;
+- Có đủ tài chính để trả các khoản chi phí trong khoảng thời gian cư trú ở Việt Nam và được chứng nhận bởi các cơ quan chức năng có liên quan: có văn bản chứng minh đã mở tài khoản ngân hàng tại Niu Di-lân và giao dịch được với các ngân hàng tại Việt Nam với tài khoản không được thấp hơn 4.200 Đô la Niu Di-lân;
+- Trả các chi phí cấp thị thực và chi phí cấp giấy phép làm việc trong kỳ nghỉ phép lao động;
+- Có chứng chỉ quốc gia phổ thông trung học (NCEA) cấp độ 2 hoặc trình độ cao hơn;
+- Đồng ý đóng bảo hiểm y tế và bảo hiểm toàn bộ chi phí bệnh viện trong thời gian sinh sống ở Việt Nam;
+- Tuân thủ các điều kiện về sức khỏe và lý lịch theo quy định của nước Cộng hòa xã hội chủ nghĩa Việt Nam: đã được cấp giấy chứng nhận sức khỏe đủ điều kiện làm việc theo quy định của pháp luật Niu Di-lân. Giấy chứng nhận sức khỏe đã được cấp không quá 180 ngày tính đến ngày công dân Niu Di-lân nộp hồ sơ đề nghị cấp giấy phép;
+- Trước đây chưa từng tham gia vào Chương trình.
+Từ khóa: Không có thông tin
+Mô tả: - Là công dân của Niu Di-lân;
+- Ý định chủ yếu là đi du lịch ở Việt Nam, nhưng tìm được việc làm và học tập một cách ngẫu nhiên chứ không phải là lý do chủ yếu của chuyến đi;
+- Là những người trong độ tuổi từ đủ mười tám (18) đến ba mươi (30) tuổi vào thời điểm nộp hồ sơ;
+- Không có người phụ thuộc đi cùng;
+- Có hộ chiếu còn thời hạn được do cơ quan Niu Di-lân cấp;
+- Có vé máy bay để rời khỏi Việt Nam hoặc khả năng tài chính đủ để có thể mua vé máy bay;
+- Có đủ tài chính để trả các khoản chi phí trong khoảng thời gian cư trú ở Việt Nam và được chứng nhận bởi các cơ quan chức năng có liên quan: có văn bản chứng minh đã mở tài khoản ngân hàng tại Niu Di-lân và giao dịch được với các ngân hàng tại Việt Nam với tài khoản không được thấp hơn 4.200 Đô la Niu Di-lân;
+- Trả các chi phí cấp thị thực và chi phí cấp giấy phép làm việc trong kỳ nghỉ phép lao động;
+- Có chứng chỉ quốc gia phổ thông trung học (NCEA) cấp độ 2 hoặc trình độ cao hơn;
+- Đồng ý đóng bảo hiểm y tế và bảo hiểm toàn bộ chi phí bệnh viện trong thời gian sinh sống ở Việt Nam;
+- Tuân thủ các điều kiện về sức khỏe và lý lịch theo quy định của nước Cộng hòa xã hội chủ nghĩa Việt Nam: đã được cấp giấy chứng nhận sức khỏe đủ điều kiện làm việc theo quy định của pháp luật Niu Di-lân. Giấy chứng nhận sức khỏe đã được cấp không quá 180 ngày tính đến ngày công dân Niu Di-lân nộp hồ sơ đề nghị cấp giấy phép;
+- Trước đây chưa từng tham gia vào Chương trình.

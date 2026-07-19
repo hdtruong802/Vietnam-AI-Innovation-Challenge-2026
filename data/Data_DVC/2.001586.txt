@@ -1,0 +1,36 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001586
+Số quyết định: 1049/QĐ-BNNMT
+Tên thủ tục: Bổ sung danh sách cơ sở sản xuất, kinh doanh xuất khẩu sản phẩm động vật trên cạn, sản phẩm động vật thủy sản vào Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Quản lý chất lượng nông lâm sản và thủy sản
+Trình tự thực hiện:
+    Bước 1: Cơ quan thẩm quyền nước xuất khẩu gửi hồ sơ đến Bộ Nông nghiệp và Môi trường (Cơ quan được Bộ Nông nghiệp và Môi trường giao nhiệm vụ)
+    Bước 2: Cơ quan được Bộ Nông nghiệp và Môi trường giao nhiệm vụ thẩm tra hồ sơ hoặc kiểm tra thực tế tại nước xuất khẩu.
+    Bước 3: Xem xét, quyết định việc bổ sung vào danh sách.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Thông tin về hệ thống quản lý của quốc gia, vùng lãnh thổ (bao gồm hệ thống pháp luật, tiêu chuẩn, hệ thống tổ chức quản lý an toàn thực phẩm) và năng lực kiểm soát an toàn thực phẩm của cơ quan thẩm quyền quốc gia, vùng lãnh thổ xuất khẩu theo Mẫu số 08, Phụ lục I Nghị định số 15/2018/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - + Danh sách các cơ sở sản xuất, kinh doanh thực phẩm có nguồn gốc từ động vật đăng ký xuất khẩu vào Việt Nam theo Mẫu số 07 Phụ lục I Nghị định số 15/2018/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Nông nghiệp và Môi trường
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Không có thông tin
+Căn cứ pháp lý:
+  * Quy định chi tiết thi hành một số điều của Luật an toàn thực phẩm (15/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

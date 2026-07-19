@@ -1,22 +1,23 @@
 "use client";
 
 import type { TrustState } from "../procedureCase.types";
+import { AlertTriangleIcon, CheckCircleIcon, FlaskIcon, HelpCircleIcon } from "../icons";
 
-const VARIANTS: Record<TrustState, { icon: string; label: string; className: string }> = {
+const VARIANTS: Record<TrustState, { Icon: typeof CheckCircleIcon; label: string; className: string }> = {
   verified_guidance: {
-    icon: "✅",
+    Icon: CheckCircleIcon,
     label: "Đã xác minh nguồn",
-    className: "bg-emerald-50 dark:bg-emerald-950/20 border-emerald-200/60 text-emerald-600",
+    className: "bg-[var(--vg-success-soft)] border-[var(--vg-success)]/30 text-[var(--vg-success)]",
   },
   need_more_information: {
-    icon: "❓",
+    Icon: HelpCircleIcon,
     label: "Cần thêm thông tin",
-    className: "bg-warning-bg border-warning-border text-warning",
+    className: "bg-[var(--vg-warning-soft)] border-[var(--vg-warning)]/30 text-[var(--vg-warning)]",
   },
   official_review_required: {
-    icon: "⚠️",
+    Icon: AlertTriangleIcon,
     label: "Cần cơ quan xem xét",
-    className: "bg-error-bg border-error-border text-error",
+    className: "bg-[var(--vg-error-soft)] border-[var(--vg-error)]/30 text-[var(--vg-error)]",
   },
 };
 
@@ -46,12 +47,12 @@ export default function TrustBadge({ trustState, fixtureMode, demoMode }: TrustB
       <span
         className={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-xl border text-[10px] font-bold ${variant.className}`}
       >
-        <span aria-hidden="true">{variant.icon}</span>
+        <variant.Icon className="w-3.5 h-3.5" />
         <span>{variant.label}</span>
       </span>
       {fixtureMode && (
-        <span className="inline-flex items-center gap-1 px-2 py-1 rounded-xl border border-border-slate bg-neutral-bg text-[10px] font-bold text-foreground/60">
-          <span aria-hidden="true">🧪</span>
+        <span className="inline-flex items-center gap-1 px-2 py-1 rounded-xl border border-[var(--vg-border)] bg-[var(--vg-surface-subtle)] text-[10px] font-bold text-[var(--vg-text-muted)]">
+          <FlaskIcon className="w-3.5 h-3.5" />
           <span>Chế độ demo dữ liệu mẫu</span>
         </span>
       )}

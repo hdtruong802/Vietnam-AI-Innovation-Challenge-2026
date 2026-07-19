@@ -1,0 +1,76 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000524
+Số quyết định: 7886/QĐ-BCA
+Tên thủ tục: Công bố tổ chức, cá nhân  đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Tổ chức cai nghiên ma túy và quản lý sau cai nghiện
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ
+    Tổ chức, cá nhân đề nghị công bố đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng gửi 01 bộ hồ sơ theo quy định tại Khoản 1 Điều 17 Nghị định số 116/2021/NĐ-CP đến Công an cấp tỉnh nơi tổ chức đóng trụ sở hoặc nơi cá nhân cư trú. Trường hợp gửi hồ sơ theo phương thức điện tử, tổ chức, cá nhân có trách nhiệm lưu giữ toàn bộ bản gốc của hồ sơ và chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của hồ sơ.
+    Bước 2: Tiếp nhận hồ sơ
+    Công an cấp tỉnh tiếp nhận hồ sơ trong giờ làm việc, nếu hồ sơ chưa hợp lệ phải cấp ngay phiếu hướng dẫn cho người nộp hồ sơ.
+    Bước 3: Tổ chức thẩm định
+    Giám đốc Công an cấp tỉnh có trách nhiệm tổ chức thẩm định hồ sơ, thẩm định các điều kiện công bố.
+    Bước 4: Quyết định công bố/không công bố
+    Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ đăng ký hợp lệ, Giám đốc Công an cấp tỉnh tổ chức thẩm định và công bố tổ chức, cá nhân đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng. Trường hợp không đủ điều kiện công bố phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Gửi trực tiếp, qua bưu điện hoặc qua phương thức điện tử đến Công an cấp tỉnh nơi tổ chức đóng trụ sở hoặc nơi cá nhân cư trú. 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Gửi trực tiếp, qua bưu điện hoặc qua phương thức điện tử đến Công an cấp tỉnh nơi tổ chức đóng trụ sở hoặc nơi cá nhân cư trú. 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Gửi trực tiếp, qua bưu điện hoặc qua phương thức điện tử đến Công an cấp tỉnh nơi tổ chức đóng trụ sở hoặc nơi cá nhân cư trú. 10 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - 01 bản sao  văn bằng, chứng chỉ.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Văn bản đề nghị công bố đủ điều kiện cung cấp dịch vụ cai nghiện  ma túy tự nguyện tại gia đình, cộng đồng của tổ chức, cá nhân đề nghị theo Mẫu số 13 Phụ lục II Nghị định số 116/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Tài liệu chứng minh bảo đảm đủ các điều kiện cơ sở vật chất, trang thiết bị cung cấp dịch vụ  theo quy định tại Khoản 2 Điều 16 Nghị định số 116/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản lý lịch tóm tắt của người đứng đầu hoặc người đại diện theo pháp luật của cơ sở cung cấp dịch vụ cai nghiện ma túy  tự nguyện theo Mẫu số 04 Phụ lục II Nghị định số 116/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản sao  quyết định thành lập, cho phép thành lập.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Danh sách nhân viên của cơ sở cai nghiện ma túy/cơ sở cung cấp dịch vụ cai nghiện ma túy tự nguyện (Mẫu số 03 Phụ lục  II ban hành kèm theo Nghị định số 116/2021/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Văn bản chấp thuận đặt trụ sở đơn vị cung cấp dịch vụ cai nghiện ma túy tại gia đình, cộng đồng của Ủy ban nhân dân cấp xã nơi đơn vị cung  cấp dịch vụ cai nghiện ma túy tại gia đình, cộng đồng đặt trụ sở;
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Công an cấp Tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Giám đốc Công an cấp tỉnh công bố (công bố lại) cơ sở đủ điều kiện cung cấp dịch vụ cai nghiện ma  túy tự nguyện tại gia đình, cộng đồng.
+Căn cứ pháp lý:
+  * Nghị định số 184/2025/NĐ-CP của Chính phủ: Quy định phân định thẩm quyền khi tổ chức chính quyền địa phương 02 cấp và sửa đổi, bổ sung một số điều của các Nghị định của Chính phủ trong lĩnh vực an ninh, trật tự (184/2025/NĐ-CP)
+  * QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT PHÒNG, CHỐNG MA TÚY, LUẬT XỬ LÝ VI PHẠM HÀNH CHÍNH VỀ CAI NGHIỆN MA TÚY VÀ QUẢN LÝ SAU CAI NGHIỆN MA TÚY (116/2021/NĐ-CP)
+  * Luật Phòng, chống ma túy số 73/2021/QH14 (73/2021/QH14)
+
+Yêu cầu, điều kiện thực hiện: a) Yêu cầu về pháp lý:
+Được thành lập, tổ chức, hoạt động theo quy định của pháp luật; cá nhân không trong thời gian bị truy cứu trách nhiệm hình sự, thời gian chấp hành bản án hình sự của tòa án; không trong thời hạn cấm hành nghề hoặc công việc.
+b) Yêu cầu về cơ sở vật chất, trang thiết bị:
+- Có cơ sở vật chất để thực hiện việc tiếp nhận, cung cấp dịch vụ cai nghiện theo phạm vi dịch vụ đăng ký. Trường hợp cung cấp dịch vụ nội trú thì cơ sở phải đáp ứng các điều kiện quy định tại điểm b Khoản 2 và Khoản 4 Điều 6 Nghị định số 116/2021/NĐ-CP;
+- Có trang thiết bị để thực hiện các dịch vụ cai nghiện theo quy định tại Mục A Phụ lục I kèm theo Nghị định số 116/2021/NĐ-CP.
+c) Yêu cầu về nhân sự:
+- Có ít nhất 01 người chịu trách nhiệm chính thực hiện việc cung cấp dịch vụ, có trình độ chuyên môn, ngành nghề đào tạo phù hợp;
+- Nhân sự phải đáp ứng điều kiện, tiêu chuẩn theo quy định tại Khoản 2 Điều 8 Nghị định số 116/2021/NĐ-CP.
+Từ khóa: Không có thông tin
+Mô tả: a) Yêu cầu về pháp lý:
+Được thành lập, tổ chức, hoạt động theo quy định của pháp luật; cá nhân không trong thời gian bị truy cứu trách nhiệm hình sự, thời gian chấp hành bản án hình sự của tòa án; không trong thời hạn cấm hành nghề hoặc công việc.
+b) Yêu cầu về cơ sở vật chất, trang thiết bị:
+- Có cơ sở vật chất để thực hiện việc tiếp nhận, cung cấp dịch vụ cai nghiện theo phạm vi dịch vụ đăng ký. Trường hợp cung cấp dịch vụ nội trú thì cơ sở phải đáp ứng các điều kiện quy định tại điểm b Khoản 2 và Khoản 4 Điều 6 Nghị định số 116/2021/NĐ-CP;
+- Có trang thiết bị để thực hiện các dịch vụ cai nghiện theo quy định tại Mục A Phụ lục I kèm theo Nghị định số 116/2021/NĐ-CP.
+c) Yêu cầu về nhân sự:
+- Có ít nhất 01 người chịu trách nhiệm chính thực hiện việc cung cấp dịch vụ, có trình độ chuyên môn, ngành nghề đào tạo phù hợp;
+- Nhân sự phải đáp ứng điều kiện, tiêu chuẩn theo quy định tại Khoản 2 Điều 8 Nghị định số 116/2021/NĐ-CP.

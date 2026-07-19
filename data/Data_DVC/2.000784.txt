@@ -1,0 +1,101 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000784
+Số quyết định: 1106/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận việc góp vốn, mua cổ phần của tổ chức tín dụng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Tổ chức tín dụng lập 01 bộ hồ sơ theo quy định gửi Ngân hàng Nhà nước. Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức tín dụng bổ sung hồ sơ.
+    + Bước 2: Trong thời hạn 30 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước có văn bản chấp thuận hoặc không chấp thuận việc góp vốn, mua cổ phần, chuyển nợ thành vốn góp, vốn cổ phần của tổ chức tín dụng; trường hợp không chấp thuận, Ngân hàng Nhà nước có văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ 1. Hồ sơ đề nghị chấp thuận việc góp vốn, mua cổ phần để thành lập, mua lại công ty con, công ty liên kết quy định tại điểm a, c khoản 1 Điều 1 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025 (trừ công ty con, công ty liên kết là công ty hoạt động trong lĩnh vực quản lý nợ và khai thác tài sản) gồm: ]
+    - a) Văn bản của tổ chức tín dụng đề nghị chấp thuận việc góp vốn, mua cổ phần quy định tại Phụ lục ban hành kèm theo Thông tư số 60/2025/TT-NHNN ngày 30/12/2025;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Văn bản của cấp có thẩm quyền của tổ chức tín dụng thông qua phương án góp vốn, mua cổ phần; c) Phương án của tổ chức tín dụng về việc góp vốn, mua cổ phần, trong đó tối thiểu bao gồm những nội dung sau:  (i) Tên (bằng tiếng Việt và tiếng nước ngoài), địa chỉ trụ sở chính của tổ chức tín dụng thực hiện góp vốn, mua cổ phần; (ii) Tên (bằng tiếng Việt và tiếng nước ngoài), địa chỉ trụ sở chính, nội dung hoạt động, số Giấy chứng nhận đăng ký doanh nghiệp, thời hạn hoạt động của doanh nghiệp nhận góp vốn, mua cổ phần; (iii) Lý do, sự cần thiết của việc góp vốn, mua cổ phần; (iv) Dự kiến số tiền góp vốn, tỷ lệ vốn góp; dự kiến số cổ phần và tỷ lệ sở hữu cổ phần tại doanh nghiệp nhận góp vốn, mua cổ phần; (v) Vốn điều lệ, giá trị thực của vốn điều lệ của tổ chức tín dụng trước khi thực hiện góp vốn, mua cổ phần; (vi) Dự kiến vốn điều lệ, giá trị thực của vốn điều lệ của tổ chức tín dụng thực hiện góp vốn, mua cổ phần tại thời điểm hoàn tất việc góp vốn, mua cổ phần; (vii) Tỷ lệ nợ xấu của từng tháng trong 12 tháng liền kề trước tháng đề nghị; (viii) Tình hình chấp hành quy định về phân loại nợ, trích lập và sử dụng dự phòng để xử lý rủi ro, góp vốn, mua cổ phần trong 12 tháng liền kề trước tháng đề nghị; (ix) Tỷ lệ an toàn vốn tối thiểu theo quy định tại điểm b khoản 1 Điều 138 Luật Các tổ chức tín dụng trong 12 tháng liền kề (đối với trường hợp góp vốn, mua cổ phần để thành lập, mua lại công ty liên kết) hoặc 24 tháng liền kề (đối với trường hợp góp vốn, mua cổ phần để thành lập, mua lại công ty con) trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần; (x) Thông tin về việc tuân thủ giới hạn góp vốn, mua cổ phần theo quy định tại Điều 137 Luật Các tổ chức tín dụng trong 12 tháng liền kề (đối với trường hợp góp vốn, mua cổ phần để thành lập, mua lại công ty liên kết) hoặc 24 tháng liền kề (đối với trường hợp góp vốn, mua cổ phần để thành lập, mua lại công ty con) trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần; (xi) Cơ cấu tổ chức quản lý của tổ chức tín dụng; số lượng thành viên, cơ cấu, nhiệm kỳ Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát, Tổng Giám đốc (Giám đốc) theo quy định của Luật Các tổ chức tín dụng tại thời điểm đề nghị; (xii) Cổ đông lớn và người có liên quan của cổ đông lớn của doanh nghiệp sau khi được tổ chức tín dụng góp vốn, mua cổ phần theo quy định của Luật các tổ chức tín dụng và quy định của Ngân hàng Nhà nước; (xiii) Đánh giá tác động của việc góp vốn, mua cổ phần đến tình hình tài chính, quản trị, điều hành và hoạt động của tổ chức tín dụng; (xiv) Kết quả hoạt động kinh doanh theo báo cáo tài chính của năm liền kề trước năm đề nghị đã được kiểm toán bởi tổ chức kiểm toán độc lập. Trường hợp báo cáo tài chính có ý kiến ngoại trừ của tổ chức kiểm toán, tổ chức tín dụng phải cung cấp tài liệu giải thích hợp lý về ý kiến ngoại trừ không ảnh hưởng đến điều kiện góp vốn, mua cổ phần và có xác nhận của tổ chức kiểm toán về ảnh hưởng của ý kiến ngoại trừ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 2. Hồ sơ đề nghị chấp thuận việc góp vốn, mua cổ phần để thành lập, mua lại công ty con, công ty liên kết hoạt động trong lĩnh vực quản lý nợ và khai thác tài sản gồm: ]
+    - a) Các thành phần hồ sơ quy định tại điểm a, b khoản 1 Điều 6 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Phương án của tổ chức tín dụng về việc góp vốn, mua cổ phần, trong đó tối thiểu bao gồm các nội dung quy định tại điểm c(i), c(ii), c(iii), c(iv), c(v), c(vi) khoản 1 Điều này và thông tin về tỷ lệ an toàn vốn tối thiểu theo quy định tại điểm b khoản 1 Điều 138 Luật Các tổ chức tín dụng, việc tuân thủ giới hạn góp vốn, mua cổ phần theo quy định tại Điều 137 Luật Các tổ chức tín dụng tại thời điểm đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 3. Hồ sơ đề nghị chấp thuận việc góp vốn, mua cổ phần đối với doanh nghiệp khác hoạt động trong các lĩnh vực quy định tại điểm b khoản 1 Điều 1 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025 gồm: ]
+    - a) Các thành phần hồ sơ quy định tại điểm a và điểm b khoản 1 Điều 6 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Phương án của tổ chức tín dụng về việc góp vốn, mua cổ phần, trong đó tối thiểu bao gồm những nội dung quy định tại điểm c(i), c(ii), c(iii), c(iv), c(v), c(vi), c(vii), c(viii), c(xi), c(xii), c(xiii), c(xiv) khoản 1 Điều 6 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025 và các nội dung sau: (i) Tỷ lệ an toàn vốn tối thiểu theo quy định tại điểm b khoản 1 Điều 138 Luật Các tổ chức tín dụng trong 24 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần; (ii) Thông tin về việc tuân thủ giới hạn góp vốn, mua cổ phần theo quy định tại Điều 137 Luật Các tổ chức tín dụng trong 24 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần; (iii) Tỷ lệ tối đa của nguồn vốn ngắn hạn được sử dụng để cho vay trung hạn và dài hạn trong 24 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ 4. Hồ sơ đề nghị chấp thuận việc chuyển nợ thành vốn góp, vốn cổ phần quy định tại điểm d khoản 1 Điều 1 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025 gồm: ]
+    - a) Các thành phần hồ sơ quy định tại điểm a và điểm b khoản 1 Điều 6 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Phương án của tổ chức tín dụng về việc chuyển nợ thành vốn góp, vốn cổ phần, trong đó tối thiểu bao gồm các nội dung quy định tại điểm c(i), c(ii), c(iii), c(iv), c(v), c(vi), c(viii), c(xi), c(xii), c(xiii), c(xiv) khoản 1 Điều 6 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025 và các thông tin sau: (i) Tỷ lệ an toàn vốn tối thiểu theo quy định tại điểm b khoản 1 Điều 138 Luật Các tổ chức tín dụng trong 24 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần; (ii) Thông tin về việc tuân thủ giới hạn góp vốn, mua cổ phần theo quy định tại Điều 137 Luật Các tổ chức tín dụng trong 24 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần; (iii) Thông tin về khoản nợ được chuyển thành vốn góp, vốn cổ phần, gồm: Thực trạng của khoản nợ được dự kiến chuyển thành vốn góp, vốn cổ phần (số dư của khoản nợ, nhóm nợ, khả năng thu hồi khoản nợ); số vốn góp, tỷ lệ vốn góp hoặc số cổ phần, tỷ lệ sở hữu cổ phần được hình thành từ việc chuyển nợ thành vốn góp, vốn cổ phần.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận việc góp vốn, mua cổ phần của tổ chức tín dụng, Văn bản không chấp thuận việc góp vốn, mua cổ phần của tổ chức tín dụng
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * phân cấp thực hiện thủ tục hành chính trong lĩnh vực thông tin tín dụng và sủa đổi, bổ sung một số điều của các Thông tư liên quan đến cắt giảm, đơn giản hóa, phân cấp thực hiện thủ tục hành chính trong lĩnh vực thành lập và hoạt động ngân hàng (11/2026/TT-NHNN)
+  * Thông tư quy định về điều kiện, hồ sơ và thủ tục chấp thuận việc góp ý  vốn, mua cổ phần của tổ chức tín dụng (60/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: 1. Điều kiện thực hiện góp vốn, mua cổ phần để thành lập, mua lại công ty con quy định tại điểm a, c khoản 1 Điều 1 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025 (trừ công ty con là công ty hoạt động trong lĩnh vực quản lý nợ và khai thác tài sản):
+a) Giấy phép thành lập và hoạt động của tổ chức tín dụng có nội dung hoạt động góp vốn, mua cổ phần;
+b) Đảm bảo tỷ lệ an toàn vốn tối thiểu theo quy định tại điểm b khoản 1 Điều 138 Luật Các tổ chức tín dụng trong 24 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần;
+c) Đảm bảo tuân thủ giới hạn góp vốn, mua cổ phần theo quy định tại Điều 137 Luật Các tổ chức tín dụng trong 24 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần;
+d) Kết quả hoạt động kinh doanh có lãi theo báo cáo tài chính của năm liền kề trước năm đề nghị đã được kiểm toán bởi tổ chức kiểm toán độc lập;
+đ) Không bị xử phạt vi phạm hành chính về phân loại nợ, trích lập và sử dụng dự phòng để xử lý rủi ro, góp vốn, mua cổ phần trong 12 tháng liền kề trước tháng đề nghị;
+e) Có tỷ lệ nợ xấu theo quy định của Thống đốc Ngân hàng Nhà nước về phân loại tài sản có trong hoạt động của ngân hàng thương mại, tổ chức tín dụng phi ngân hàng, chi nhánh ngân hàng nước ngoài nhỏ hơn 3% trong 12 tháng liền kề trước tháng đề nghị;
+g) Đảm bảo có cơ cấu tổ chức quản lý; số lượng thành viên, cơ cấu, nhiệm kỳ Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát, Tổng Giám đốc (Giám đốc) tuân thủ theo quy định của Luật Các tổ chức tín dụng tại thời điểm đề nghị.
+2. Điều kiện thực hiện góp vốn, mua cổ phần để thành lập, mua lại công ty liên kết quy định tại điểm a, c khoản 1 Điều 1 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025 (trừ công ty liên kết là công ty hoạt động trong lĩnh vực quản lý nợ và khai thác tài sản):
+a) Các điều kiện quy định tại điểm a, d, đ, e, g khoản 1 Điều 5 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025;
+b) Đảm bảo tỷ lệ an toàn vốn tối thiểu theo quy định tại điểm b khoản 1 Điều 138 Luật Các tổ chức tín dụng trong 12 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần;
+c) Đảm bảo tuân thủ giới hạn góp vốn, mua cổ phần theo quy định tại Điều 137 Luật Các tổ chức tín dụng trong 12 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần.
+3. Điều kiện thực hiện góp vốn, mua cổ phần để thành lập, mua lại công ty con, công ty liên kết hoạt động trong lĩnh vực quản lý nợ và khai thác tài sản:
+a) Giấy phép thành lập và hoạt động của tổ chức tín dụng có nội dung hoạt động góp vốn, mua cổ phần;
+b) Đảm bảo tuân thủ giới hạn góp vốn, mua cổ phần theo quy định tại Điều 137 Luật Các tổ chức tín dụng tại thời điểm đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần;
+c) Đảm bảo tỷ lệ an toàn vốn tối thiểu theo quy định tại điểm b khoản 1 Điều 138 Luật Các tổ chức tín dụng tại thời điểm đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần.
+4. Điều kiện thực hiện góp vốn, mua cổ phần đối với doanh nghiệp khác hoạt động trong các lĩnh vực quy định tại điểm b khoản 1 Điều 1 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025:
+a) Các điều kiện quy định tại khoản 1 Điều 5 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025;
+b) Đảm bảo tỷ lệ tối đa của nguồn vốn ngắn hạn được sử dụng để cho vay trung hạn và dài hạn theo quy định của Thống đốc Ngân hàng Nhà nước về các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của ngân hàng, chi nhánh ngân hàng nước ngoài trong 24 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần.
+5. Điều kiện thực hiện chuyển nợ thành vốn góp, vốn cổ phần quy định tại điểm d khoản 1 Điều 1 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025:
+a) Các điều kiện quy định tại điểm a, b, c, d, đ, g khoản 1 Điều 5 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025;
+b) Khoản nợ được chuyển thành vốn góp, vốn cổ phần phải là khoản nợ xấu và việc chuyển nợ thành vốn góp, vốn cổ phần là để xử lý khoản nợ xấu. Nợ xấu là nợ được xác định theo quy định của Thống đốc Ngân hàng Nhà nước về phân loại tài sản có trong hoạt động của ngân hàng thương mại, tổ chức tín dụng phi ngân hàng, chi nhánh ngân hàng nước ngoài.
+Từ khóa: Không có thông tin
+Mô tả: 1. Điều kiện thực hiện góp vốn, mua cổ phần để thành lập, mua lại công ty con quy định tại điểm a, c khoản 1 Điều 1 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025 (trừ công ty con là công ty hoạt động trong lĩnh vực quản lý nợ và khai thác tài sản):
+a) Giấy phép thành lập và hoạt động của tổ chức tín dụng có nội dung hoạt động góp vốn, mua cổ phần;
+b) Đảm bảo tỷ lệ an toàn vốn tối thiểu theo quy định tại điểm b khoản 1 Điều 138 Luật Các tổ chức tín dụng trong 24 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần;
+c) Đảm bảo tuân thủ giới hạn góp vốn, mua cổ phần theo quy định tại Điều 137 Luật Các tổ chức tín dụng trong 24 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần;
+d) Kết quả hoạt động kinh doanh có lãi theo báo cáo tài chính của năm liền kề trước năm đề nghị đã được kiểm toán bởi tổ chức kiểm toán độc lập;
+đ) Không bị xử phạt vi phạm hành chính về phân loại nợ, trích lập và sử dụng dự phòng để xử lý rủi ro, góp vốn, mua cổ phần trong 12 tháng liền kề trước tháng đề nghị;
+e) Có tỷ lệ nợ xấu theo quy định của Thống đốc Ngân hàng Nhà nước về phân loại tài sản có trong hoạt động của ngân hàng thương mại, tổ chức tín dụng phi ngân hàng, chi nhánh ngân hàng nước ngoài nhỏ hơn 3% trong 12 tháng liền kề trước tháng đề nghị;
+g) Đảm bảo có cơ cấu tổ chức quản lý; số lượng thành viên, cơ cấu, nhiệm kỳ Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát, Tổng Giám đốc (Giám đốc) tuân thủ theo quy định của Luật Các tổ chức tín dụng tại thời điểm đề nghị.
+2. Điều kiện thực hiện góp vốn, mua cổ phần để thành lập, mua lại công ty liên kết quy định tại điểm a, c khoản 1 Điều 1 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025 (trừ công ty liên kết là công ty hoạt động trong lĩnh vực quản lý nợ và khai thác tài sản):
+a) Các điều kiện quy định tại điểm a, d, đ, e, g khoản 1 Điều 5 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025;
+b) Đảm bảo tỷ lệ an toàn vốn tối thiểu theo quy định tại điểm b khoản 1 Điều 138 Luật Các tổ chức tín dụng trong 12 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần;
+c) Đảm bảo tuân thủ giới hạn góp vốn, mua cổ phần theo quy định tại Điều 137 Luật Các tổ chức tín dụng trong 12 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần.
+3. Điều kiện thực hiện góp vốn, mua cổ phần để thành lập, mua lại công ty con, công ty liên kết hoạt động trong lĩnh vực quản lý nợ và khai thác tài sản:
+a) Giấy phép thành lập và hoạt động của tổ chức tín dụng có nội dung hoạt động góp vốn, mua cổ phần;
+b) Đảm bảo tuân thủ giới hạn góp vốn, mua cổ phần theo quy định tại Điều 137 Luật Các tổ chức tín dụng tại thời điểm đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần;
+c) Đảm bảo tỷ lệ an toàn vốn tối thiểu theo quy định tại điểm b khoản 1 Điều 138 Luật Các tổ chức tín dụng tại thời điểm đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần.
+4. Điều kiện thực hiện góp vốn, mua cổ phần đối với doanh nghiệp khác hoạt động trong các lĩnh vực quy định tại điểm b khoản 1 Điều 1 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025:
+a) Các điều kiện quy định tại khoản 1 Điều 5 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025;
+b) Đảm bảo tỷ lệ tối đa của nguồn vốn ngắn hạn được sử dụng để cho vay trung hạn và dài hạn theo quy định của Thống đốc Ngân hàng Nhà nước về các giới hạn, tỷ lệ bảo đảm an toàn trong hoạt động của ngân hàng, chi nhánh ngân hàng nước ngoài trong 24 tháng liền kề trước tháng đề nghị và tại thời điểm hoàn tất việc góp vốn, mua cổ phần.
+5. Điều kiện thực hiện chuyển nợ thành vốn góp, vốn cổ phần quy định tại điểm d khoản 1 Điều 1 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025:
+a) Các điều kiện quy định tại điểm a, b, c, d, đ, g khoản 1 Điều 5 Thông tư số 60/2025/TT-NHNN ngày 30/12/2025;
+b) Khoản nợ được chuyển thành vốn góp, vốn cổ phần phải là khoản nợ xấu và việc chuyển nợ thành vốn góp, vốn cổ phần là để xử lý khoản nợ xấu. Nợ xấu là nợ được xác định theo quy định của Thống đốc Ngân hàng Nhà nước về phân loại tài sản có trong hoạt động của ngân hàng thương mại, tổ chức tín dụng phi ngân hàng, chi nhánh ngân hàng nước ngoài.

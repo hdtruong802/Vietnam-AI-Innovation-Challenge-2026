@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.006576
+Số quyết định: 308/QĐ-BXD
+Tên thủ tục: Phê duyệt chương trình phát triển đô thị
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Phát triển đô thị
+Trình tự thực hiện:
+    - Sở Xây dựng lập báo cáo đề xuất xây dựng chương trình phát triển đô thị, đề nghị Ủy ban nhân dân cấp tỉnh phê duyệt.
+    - Trong thời hạn tối đa 10 ngày làm việc, kể từ ngày nhận được báo cáo của Sở Xây dựng, Ủy ban nhân dân cấp tỉnh xem xét, phê duyệt, nếu không phê duyệt thì phải có văn bản trả lời nêu rõ lý do.
+    - Sở Xây dựng trực tiếp xây dựng hoặc thuê đơn vị tư vấn xây dựng chương trình phát triển đô thị và lấy ý kiến góp ý của các sở, ngành chuyên môn thuộc tỉnh, thành phố, Ủy ban nhân dân các phường, đặc khu được xác định là đô thị hoặc các xã, đặc khu dự kiến thành đô thị và các cơ quan liên quan khác theo yêu cầu của Ủy ban nhân dân cấp tỉnh.
+    - Trong thời hạn tối đa 05 ngày làm việc, kể từ ngày nhận được văn bản của Sở Xây dựng, các cơ quan, tổ chức được lấy ý kiến phải có văn bản trả lời.
+    - Trong thời hạn tối đa 10 ngày làm việc, kể từ ngày nhận được văn bản góp ý, Sở Xây dựng hoàn thiện chương trình và gửi hồ sơ chương trình phát triển đô thị đến Ủy ban nhân dân cấp tỉnh. Ủy ban nhân dân cấp tỉnh trình Hội đồng nhân dân cấp tỉnh thông qua chương trình phát triển đô thị.
+    - Trong thời hạn tối đa 05 ngày làm việc, kể từ ngày có Nghị quyết của Hội đồng nhân dân cấp tỉnh, Ủy ban nhân dân cấp tỉnh ban hành quyết định phê duyệt
+    chương trình phát triển đô thị theo Mẫu số 02 của Phụ lục I ban hành kèm theo Nghị định số 35/2026/NĐ-CP.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+  Không có thông tin thành phần hồ sơ.
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt chương trình phát triển đô thị
+Căn cứ pháp lý:
+  * QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA NGHỊ QUYẾT VỀ PHÂN LOẠI ĐÔ THỊ (Nghị định số 35/2026/NĐ-CP)
+  * Về phân loại đô thị (Nghị quyết số 111/2025/UBTVQH15)
+
+Yêu cầu, điều kiện thực hiện: Việc xây dựng chương trình phát triển đô thị phải đáp ứng các yêu cầu sau đây:
+- Phù hợp với quy hoạch tỉnh, thành phố, quy hoạch đô thị và nông thôn, kế hoạch cấp quốc gia, cấp vùng, chiến lược phát triển kinh tế - xã hội, quy hoạch phát triển vùng kinh tế, quy hoạch sử dụng đất có liên quan đến phát triển đô thị
+và khả năng huy động nguồn lực thực tế tại địa phương;
+- Đáp ứng các yêu cầu về phát triển đô thị thông minh, đô thị tăng trưởng xanh, thích ứng với biến đổi khí hậu, phát triển bền vững và bảo đảm yêu cầu phòng chống thiên tai theo quy định.
+Từ khóa: Không có thông tin
+Mô tả: Việc xây dựng chương trình phát triển đô thị phải đáp ứng các yêu cầu sau đây:
+- Phù hợp với quy hoạch tỉnh, thành phố, quy hoạch đô thị và nông thôn, kế hoạch cấp quốc gia, cấp vùng, chiến lược phát triển kinh tế - xã hội, quy hoạch phát triển vùng kinh tế, quy hoạch sử dụng đất có liên quan đến phát triển đô thị
+và khả năng huy động nguồn lực thực tế tại địa phương;
+- Đáp ứng các yêu cầu về phát triển đô thị thông minh, đô thị tăng trưởng xanh, thích ứng với biến đổi khí hậu, phát triển bền vững và bảo đảm yêu cầu phòng chống thiên tai theo quy định.

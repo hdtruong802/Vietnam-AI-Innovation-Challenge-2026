@@ -1,0 +1,34 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000271
+Số quyết định: 5349/QĐ-BCA-C06
+Tên thủ tục: Khóa căn cước điện tử (thực hiện tại cấp trung ương)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Định danh và xác thực điện tử
+Trình tự thực hiện:
+    Bước 1: Người được cấp căn cước điện tử thực hiện yêu cầu khóa căn cước điện tử của mình thông qua Ứng dụng định danh quốc gia theo Phiếu đề nghị khóa, mở khóa tài khoản định danh điện tử, căn cước điện tử (mẫu TK03 ban hành kèm theo Nghị định số 69/2024/NĐ-CP ngày 25/6/2024 quy định về định danh và xác thực điện tử).
+    Bước 2: Cơ quan quản lý căn cước có trách nhiệm ghi nhận, kiểm tra, xác thực và khóa căn cước điện tử ngay sau khi nhận được yêu cầu khóa căn cước điện tử của công dân trên hệ thống định danh và xác thực điện tử.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Thông qua Ứng dụng định danh quốc gia (VNeID). Cơ quan quản lý căn cước có trách nhiệm ghi nhận, kiểm tra, xác thực và khóa căn cước điện tử ngay sau khi nhận được yêu cầu khóa căn cước điện tử của công dân trên hệ thống định danh và xác thực điện tử.
+
+Thành phần hồ sơ:
+    - Phiếu đề nghị khóa, mở khóa tài khoản định danh điện tử, căn cước điện tử (mẫu TK03 ban hành kèm theo Nghị định số 69/2024/NĐ-CP ngày 25/6/2024 quy định về định danh và xác thực điện tử)
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Cục cảnh sát quản lý hành chính về trật tự, xã hội
+Cơ quan có thẩm quyền: Cục cảnh sát quản lý hành chính về trật tự, xã hội
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo kết quả tới chủ thể đề nghị khóa căn cước điện tử thông qua Ứng đụng định danh quốc gia
+Căn cứ pháp lý:
+  * Nghị định số 69/2024/NĐ-CP của Chính phủ: Quy định về định danh và xác thực điện tử (69/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

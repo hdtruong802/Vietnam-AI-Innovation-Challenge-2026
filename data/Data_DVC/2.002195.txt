@@ -1,0 +1,120 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002195
+Số quyết định: 1539/QĐ-BTP
+Tên thủ tục: Giải quyết yêu cầu bồi thường tại cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại (cấp trung ương)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Bồi thường nhà nước
+Trình tự thực hiện:
+    - Tiếp nhận và xử lý hồ sơ;
+    Cơ quan tiếp nhận yêu cầu bồi thường khai thác, sử dụng thông tin trên cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành để khai thác thông tin về nhân thân của người yêu cầu bồi thường tại văn bản yêu cầu bồi thường.
+    - Thụ lý hồ sơ;
+    - Cử người giải quyết bồi thường;
+    - Tạm ứng kinh phí bồi thường thiệt hại;
+    - Xác minh thiệt hại;
+    - Thương lượng việc bồi thường;
+    - Ra quyết định giải quyết bồi thường (sau khi ra quyết định giải quyết bồi thường, cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại phải lập hồ sơ đề nghị cấp kinh phí bồi thường đến Bộ Tài chính để đề nghị cấp kinh phí bồi thường và chi trả tiền bồi thường cho người yêu cầu bồi thường).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 1. Cách thức thực hiện:
+- Người yêu cầu bồi thường có thể nộp hồ sơ trực tuyến trên Cổng Dịch vụ công quốc gia, trực tiếp hoặc qua dịch vụ bưu chính đến trụ sở cơ quan giải quyết bồi thường/Bộ phận Một cửa.
+- Người yêu cầu bồi thường nhận quyết định giải quyết bồi thường ngay tại buổi thương lượng.
+Thủ tục hành chính chưa đủ điều kiện thực hiện dịch vụ công trực tuyến toàn trình.
+2. Thời hạn giải quyết hồ sơ:
+- Cơ quan tiếp nhận hồ sơ của người yêu cầu bồi thường cụ thể như sau:
++ Trong trường hợp người yêu cầu bồi thường nộp hồ sơ trực tiếp, cơ quan giải quyết bồi thường tiếp nhận hồ sơ và cấp giấy tiếp nhận hồ sơ cho người yêu cầu bồi thường. 
++ Trường hợp hồ sơ được gửi qua dịch vụ bưu chính thì cơ quan giải quyết bồi thường tiếp nhận để xử lý hồ sơ. 
++ Trường hợp hồ sơ được gửi trực tuyến qua Cổng Dịch vụ công quốc gia hoặc người yêu cầu bồi thường nộp trực tiếp/gửi qua dịch vụ bưu chính đến Bộ phận Một cửa thì việc tiếp nhận được thực hiện theo quy định pháp luật về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia.
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ trực tiếp/qua dịch vụ bưu chính hoặc từ Bộ phận Một cửa chuyển đến, cơ quan giải quyết bồi thường kiểm tra tính đầy đủ, chính xác của hồ sơ. Trên cơ sở đó, Thủ trưởng cơ quan giải quyết bồi thường thực hiện các việc sau:
++ Thụ lý hồ sơ trong trường hợp hồ sơ đã đầy đủ, chính xác theo quy định tại điểm B.II.2 và B.II.3 Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP.
++ Yêu cầu cơ quan nhà nước, người có thẩm quyền cung cấp văn bản làm căn cứ yêu cầu bồi thường hoặc làm rõ nội dung văn bản làm căn cứ yêu cầu bồi thường trong trường hợp hồ sơ chưa có văn bản làm căn cứ yêu cầu bồi thường hoặc nội dung văn bản làm căn cứ yêu cầu bồi thường chưa rõ. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được yêu cầu của cơ quan giải quyết bồi thường, cơ quan nhà nước, người có thẩm quyền phải cung cấp văn bản làm căn cứ yêu cầu bồi thường hoặc làm rõ nội dung văn bản làm căn cứ yêu cầu bồi thường.
++ Yêu cầu người yêu cầu bồi thường bổ sung hồ sơ giấy tờ quy định tại điểm B.II.3 Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP trong trường hợp hồ sơ chưa đầy đủ, chính xác theo Phiếu yêu cầu bổ sung hồ sơ yêu cầu bồi thường theo Mẫu 02/BTNN kèm theo Phụ lục số I.6 Nghị quyết số 66.18/2026/NQ-CP. Sau 15 ngày làm việc kể từ ngày yêu cầu bổ sung hồ sơ, nếu người yêu cầu bồi thường không bổ sung hồ sơ, cơ quan giải quyết bồi thường không thụ lý hồ sơ theo quy định tại điểm B.IV.2.đ Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP. 
+Khoảng thời gian có sự kiện bất khả kháng hoặc trở ngại khách quan theo quy định của Bộ luật Dân sự không tính vào thời hạn quy định tại khoản này.
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, chính xác, cơ quan giải quyết bồi thường phải thụ lý hồ sơ. Thời hạn giải quyết bồi thường được tính từ thời điểm thụ lý hồ sơ. 
+- Trong thời hạn 01 ngày làm việc kể từ ngày thụ lý hồ sơ, cơ quan giải quyết bồi thường phải cử người giải quyết bồi thường.
+- Trường hợp người yêu cầu bồi thường đề nghị tạm ứng kinh phí bồi thường theo quy định tại điểm e khoản 3 Điều 41 của Luật TNBTCNN năm 2017, cơ quan giải quyết bồi thường tiến hành tạm ứng kinh phí bồi thường đối với những thiệt hại quy định tại khoản 1 Điều 44 TNBTCNN năm 2017. Cụ thể, thời hạn thực hiện tạm ứng kinh phí bồi thường được thực hiện như sau: (1) Ngay sau khi thụ lý hồ sơ, người giải quyết bồi thường có trách nhiệm xác định giá trị các thiệt hại quy định tại khoản 1 Điều 44 TNBTCNN năm 2017 và đề xuất Thủ trưởng cơ quan giải quyết bồi thường việc tạm ứng kinh phí bồi thường và mức tạm ứng cho người yêu cầu bồi thường; (2) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đề xuất, nếu còn dự toán quản lý hành chính được cấp có thẩm quyền giao, cơ quan giải quyết bồi thường phải hoàn thành việc tạm ứng kinh phí và chi trả cho người yêu cầu bồi thường. Trường hợp không còn đủ dự toán quản lý hành chính được cấp có thẩm quyền giao, trong thời hạn 02 ngày làm việc kể từ ngày nhận được đề xuất, Thủ trưởng cơ quan giải quyết bồi thường có văn bản đề nghị cơ quan tài chính có thẩm quyền tạm ứng kinh phí để chi trả cho người yêu cầu bồi thường. Cơ quan tài chính có trách nhiệm cấp kinh phí cho cơ quan giải quyết bồi thường trong thời hạn 07 ngày làm việc kể từ ngày nhận được văn bản đề nghị, cơ quan tài chính có thẩm quyền có trách nhiệm cấp kinh phí cho cơ quan giải quyết bồi thường. Thủ trưởng cơ quan giải quyết bồi thường quyết định mức tạm ứng cho người yêu cầu bồi thường nhưng không dưới 50% giá trị các thiệt hại quy định tại khoản 1 Điều 44 TNBTCNN năm 2017.
+- Trong thời hạn 15 ngày làm việc kể từ ngày cử người giải quyết bồi thường, người giải quyết bồi thường phải hoàn thành việc xác minh thiệt hại. Trong thời hạn 01 ngày làm việc kể từ ngày kết thúc việc xác minh thiệt hại, người giải quyết bồi thường phải hoàn thành báo cáo xác minh thiệt hại làm căn cứ để thương lượng việc bồi thường.
+- Trong thời hạn 01 ngày làm việc kể từ ngày hoàn thành báo cáo xác minh thiệt hại, cơ quan giải quyết bồi thường phải tiến hành thương lượng việc bồi thường. Trong thời hạn 08 ngày làm việc kể từ ngày tiến hành thương lượng, việc thương lượng phải được hoàn thành. 
+- Ngay sau khi có biên bản kết quả thương lượng thành, Thủ trưởng cơ quan giải quyết bồi thường ra quyết định giải quyết bồi thường và trao cho người yêu cầu bồi thường tại buổi thương lượng. Trường hợp người yêu cầu bồi thường không nhận quyết định giải quyết bồi thường thì người giải quyết bồi thường lập biên bản về việc không nhận quyết định. Biên bản phải có chữ ký của đại diện các cơ quan tham gia thương lượng. Biên bản phải nêu rõ hậu quả pháp lý của việc không nhận quyết định giải quyết bồi thường theo quy định tại điểm đ khoản 1 Điều 51 của Luật TNBTCNN năm 2017. Cơ quan giải quyết bồi thường phải gửi cho người yêu cầu bồi thường trong thời hạn 05 ngày làm việc kể từ ngày lập biên bản.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 1. Cách thức thực hiện:
+- Người yêu cầu bồi thường có thể nộp hồ sơ trực tuyến trên Cổng Dịch vụ công quốc gia, trực tiếp hoặc qua dịch vụ bưu chính đến trụ sở cơ quan giải quyết bồi thường/Bộ phận Một cửa.
+- Người yêu cầu bồi thường nhận quyết định giải quyết bồi thường ngay tại buổi thương lượng.
+Thủ tục hành chính chưa đủ điều kiện thực hiện dịch vụ công trực tuyến toàn trình.
+2. Thời hạn giải quyết hồ sơ:
+- Cơ quan tiếp nhận hồ sơ của người yêu cầu bồi thường cụ thể như sau:
++ Trong trường hợp người yêu cầu bồi thường nộp hồ sơ trực tiếp, cơ quan giải quyết bồi thường tiếp nhận hồ sơ và cấp giấy tiếp nhận hồ sơ cho người yêu cầu bồi thường. 
++ Trường hợp hồ sơ được gửi qua dịch vụ bưu chính thì cơ quan giải quyết bồi thường tiếp nhận để xử lý hồ sơ. 
++ Trường hợp hồ sơ được gửi trực tuyến qua Cổng Dịch vụ công quốc gia hoặc người yêu cầu bồi thường nộp trực tiếp/gửi qua dịch vụ bưu chính đến Bộ phận Một cửa thì việc tiếp nhận được thực hiện theo quy định pháp luật về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia.
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ trực tiếp/qua dịch vụ bưu chính hoặc từ Bộ phận Một cửa chuyển đến, cơ quan giải quyết bồi thường kiểm tra tính đầy đủ, chính xác của hồ sơ. Trên cơ sở đó, Thủ trưởng cơ quan giải quyết bồi thường thực hiện các việc sau:
++ Thụ lý hồ sơ trong trường hợp hồ sơ đã đầy đủ, chính xác theo quy định tại điểm B.II.2 và B.II.3 Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP.
++ Yêu cầu cơ quan nhà nước, người có thẩm quyền cung cấp văn bản làm căn cứ yêu cầu bồi thường hoặc làm rõ nội dung văn bản làm căn cứ yêu cầu bồi thường trong trường hợp hồ sơ chưa có văn bản làm căn cứ yêu cầu bồi thường hoặc nội dung văn bản làm căn cứ yêu cầu bồi thường chưa rõ. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được yêu cầu của cơ quan giải quyết bồi thường, cơ quan nhà nước, người có thẩm quyền phải cung cấp văn bản làm căn cứ yêu cầu bồi thường hoặc làm rõ nội dung văn bản làm căn cứ yêu cầu bồi thường.
++ Yêu cầu người yêu cầu bồi thường bổ sung hồ sơ giấy tờ quy định tại điểm B.II.3 Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP trong trường hợp hồ sơ chưa đầy đủ, chính xác theo Phiếu yêu cầu bổ sung hồ sơ yêu cầu bồi thường theo Mẫu 02/BTNN kèm theo Phụ lục số I.6 Nghị quyết số 66.18/2026/NQ-CP. Sau 15 ngày làm việc kể từ ngày yêu cầu bổ sung hồ sơ, nếu người yêu cầu bồi thường không bổ sung hồ sơ, cơ quan giải quyết bồi thường không thụ lý hồ sơ theo quy định tại điểm B.IV.2.đ Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP. 
+Khoảng thời gian có sự kiện bất khả kháng hoặc trở ngại khách quan theo quy định của Bộ luật Dân sự không tính vào thời hạn quy định tại khoản này.
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, chính xác, cơ quan giải quyết bồi thường phải thụ lý hồ sơ. Thời hạn giải quyết bồi thường được tính từ thời điểm thụ lý hồ sơ. 
+- Trong thời hạn 01 ngày làm việc kể từ ngày thụ lý hồ sơ, cơ quan giải quyết bồi thường phải cử người giải quyết bồi thường.
+- Trường hợp người yêu cầu bồi thường đề nghị tạm ứng kinh phí bồi thường theo quy định tại điểm e khoản 3 Điều 41 của Luật TNBTCNN năm 2017, cơ quan giải quyết bồi thường tiến hành tạm ứng kinh phí bồi thường đối với những thiệt hại quy định tại khoản 1 Điều 44 TNBTCNN năm 2017. Cụ thể, thời hạn thực hiện tạm ứng kinh phí bồi thường được thực hiện như sau: (1) Ngay sau khi thụ lý hồ sơ, người giải quyết bồi thường có trách nhiệm xác định giá trị các thiệt hại quy định tại khoản 1 Điều 44 TNBTCNN năm 2017 và đề xuất Thủ trưởng cơ quan giải quyết bồi thường việc tạm ứng kinh phí bồi thường và mức tạm ứng cho người yêu cầu bồi thường; (2) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đề xuất, nếu còn dự toán quản lý hành chính được cấp có thẩm quyền giao, cơ quan giải quyết bồi thường phải hoàn thành việc tạm ứng kinh phí và chi trả cho người yêu cầu bồi thường. Trường hợp không còn đủ dự toán quản lý hành chính được cấp có thẩm quyền giao, trong thời hạn 02 ngày làm việc kể từ ngày nhận được đề xuất, Thủ trưởng cơ quan giải quyết bồi thường có văn bản đề nghị cơ quan tài chính có thẩm quyền tạm ứng kinh phí để chi trả cho người yêu cầu bồi thường. Cơ quan tài chính có trách nhiệm cấp kinh phí cho cơ quan giải quyết bồi thường trong thời hạn 07 ngày làm việc kể từ ngày nhận được văn bản đề nghị, cơ quan tài chính có thẩm quyền có trách nhiệm cấp kinh phí cho cơ quan giải quyết bồi thường. Thủ trưởng cơ quan giải quyết bồi thường quyết định mức tạm ứng cho người yêu cầu bồi thường nhưng không dưới 50% giá trị các thiệt hại quy định tại khoản 1 Điều 44 TNBTCNN năm 2017.
+- Trong thời hạn 15 ngày làm việc kể từ ngày cử người giải quyết bồi thường, người giải quyết bồi thường phải hoàn thành việc xác minh thiệt hại. Trong thời hạn 01 ngày làm việc kể từ ngày kết thúc việc xác minh thiệt hại, người giải quyết bồi thường phải hoàn thành báo cáo xác minh thiệt hại làm căn cứ để thương lượng việc bồi thường.
+- Trong thời hạn 01 ngày làm việc kể từ ngày hoàn thành báo cáo xác minh thiệt hại, cơ quan giải quyết bồi thường phải tiến hành thương lượng việc bồi thường. Trong thời hạn 08 ngày làm việc kể từ ngày tiến hành thương lượng, việc thương lượng phải được hoàn thành. 
+- Ngay sau khi có biên bản kết quả thương lượng thành, Thủ trưởng cơ quan giải quyết bồi thường ra quyết định giải quyết bồi thường và trao cho người yêu cầu bồi thường tại buổi thương lượng. Trường hợp người yêu cầu bồi thường không nhận quyết định giải quyết bồi thường thì người giải quyết bồi thường lập biên bản về việc không nhận quyết định. Biên bản phải có chữ ký của đại diện các cơ quan tham gia thương lượng. Biên bản phải nêu rõ hậu quả pháp lý của việc không nhận quyết định giải quyết bồi thường theo quy định tại điểm đ khoản 1 Điều 51 của Luật TNBTCNN năm 2017. Cơ quan giải quyết bồi thường phải gửi cho người yêu cầu bồi thường trong thời hạn 05 ngày làm việc kể từ ngày lập biên bản.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 1. Cách thức thực hiện:
+- Người yêu cầu bồi thường có thể nộp hồ sơ trực tuyến trên Cổng Dịch vụ công quốc gia, trực tiếp hoặc qua dịch vụ bưu chính đến trụ sở cơ quan giải quyết bồi thường/Bộ phận Một cửa.
+- Người yêu cầu bồi thường nhận quyết định giải quyết bồi thường ngay tại buổi thương lượng.
+Thủ tục hành chính chưa đủ điều kiện thực hiện dịch vụ công trực tuyến toàn trình.
+2. Thời hạn giải quyết hồ sơ:
+- Cơ quan tiếp nhận hồ sơ của người yêu cầu bồi thường cụ thể như sau:
++ Trong trường hợp người yêu cầu bồi thường nộp hồ sơ trực tiếp, cơ quan giải quyết bồi thường tiếp nhận hồ sơ và cấp giấy tiếp nhận hồ sơ cho người yêu cầu bồi thường. 
++ Trường hợp hồ sơ được gửi qua dịch vụ bưu chính thì cơ quan giải quyết bồi thường tiếp nhận để xử lý hồ sơ. 
++ Trường hợp hồ sơ được gửi trực tuyến qua Cổng Dịch vụ công quốc gia hoặc người yêu cầu bồi thường nộp trực tiếp/gửi qua dịch vụ bưu chính đến Bộ phận Một cửa thì việc tiếp nhận được thực hiện theo quy định pháp luật về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia.
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ trực tiếp/qua dịch vụ bưu chính hoặc từ Bộ phận Một cửa chuyển đến, cơ quan giải quyết bồi thường kiểm tra tính đầy đủ, chính xác của hồ sơ. Trên cơ sở đó, Thủ trưởng cơ quan giải quyết bồi thường thực hiện các việc sau:
++ Thụ lý hồ sơ trong trường hợp hồ sơ đã đầy đủ, chính xác theo quy định tại điểm B.II.2 và B.II.3 Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP.
++ Yêu cầu cơ quan nhà nước, người có thẩm quyền cung cấp văn bản làm căn cứ yêu cầu bồi thường hoặc làm rõ nội dung văn bản làm căn cứ yêu cầu bồi thường trong trường hợp hồ sơ chưa có văn bản làm căn cứ yêu cầu bồi thường hoặc nội dung văn bản làm căn cứ yêu cầu bồi thường chưa rõ. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được yêu cầu của cơ quan giải quyết bồi thường, cơ quan nhà nước, người có thẩm quyền phải cung cấp văn bản làm căn cứ yêu cầu bồi thường hoặc làm rõ nội dung văn bản làm căn cứ yêu cầu bồi thường.
++ Yêu cầu người yêu cầu bồi thường bổ sung hồ sơ giấy tờ quy định tại điểm B.II.3 Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP trong trường hợp hồ sơ chưa đầy đủ, chính xác theo Phiếu yêu cầu bổ sung hồ sơ yêu cầu bồi thường theo Mẫu 02/BTNN kèm theo Phụ lục số I.6 Nghị quyết số 66.18/2026/NQ-CP. Sau 15 ngày làm việc kể từ ngày yêu cầu bổ sung hồ sơ, nếu người yêu cầu bồi thường không bổ sung hồ sơ, cơ quan giải quyết bồi thường không thụ lý hồ sơ theo quy định tại điểm B.IV.2.đ Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP. 
+Khoảng thời gian có sự kiện bất khả kháng hoặc trở ngại khách quan theo quy định của Bộ luật Dân sự không tính vào thời hạn quy định tại khoản này.
+- Trong thời hạn 02 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ, chính xác, cơ quan giải quyết bồi thường phải thụ lý hồ sơ. Thời hạn giải quyết bồi thường được tính từ thời điểm thụ lý hồ sơ. 
+- Trong thời hạn 01 ngày làm việc kể từ ngày thụ lý hồ sơ, cơ quan giải quyết bồi thường phải cử người giải quyết bồi thường.
+- Trường hợp người yêu cầu bồi thường đề nghị tạm ứng kinh phí bồi thường theo quy định tại điểm e khoản 3 Điều 41 của Luật TNBTCNN năm 2017, cơ quan giải quyết bồi thường tiến hành tạm ứng kinh phí bồi thường đối với những thiệt hại quy định tại khoản 1 Điều 44 TNBTCNN năm 2017. Cụ thể, thời hạn thực hiện tạm ứng kinh phí bồi thường được thực hiện như sau: (1) Ngay sau khi thụ lý hồ sơ, người giải quyết bồi thường có trách nhiệm xác định giá trị các thiệt hại quy định tại khoản 1 Điều 44 TNBTCNN năm 2017 và đề xuất Thủ trưởng cơ quan giải quyết bồi thường việc tạm ứng kinh phí bồi thường và mức tạm ứng cho người yêu cầu bồi thường; (2) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đề xuất, nếu còn dự toán quản lý hành chính được cấp có thẩm quyền giao, cơ quan giải quyết bồi thường phải hoàn thành việc tạm ứng kinh phí và chi trả cho người yêu cầu bồi thường. Trường hợp không còn đủ dự toán quản lý hành chính được cấp có thẩm quyền giao, trong thời hạn 02 ngày làm việc kể từ ngày nhận được đề xuất, Thủ trưởng cơ quan giải quyết bồi thường có văn bản đề nghị cơ quan tài chính có thẩm quyền tạm ứng kinh phí để chi trả cho người yêu cầu bồi thường. Cơ quan tài chính có trách nhiệm cấp kinh phí cho cơ quan giải quyết bồi thường trong thời hạn 07 ngày làm việc kể từ ngày nhận được văn bản đề nghị, cơ quan tài chính có thẩm quyền có trách nhiệm cấp kinh phí cho cơ quan giải quyết bồi thường. Thủ trưởng cơ quan giải quyết bồi thường quyết định mức tạm ứng cho người yêu cầu bồi thường nhưng không dưới 50% giá trị các thiệt hại quy định tại khoản 1 Điều 44 TNBTCNN năm 2017.
+- Trong thời hạn 15 ngày làm việc kể từ ngày cử người giải quyết bồi thường, người giải quyết bồi thường phải hoàn thành việc xác minh thiệt hại. Trong thời hạn 01 ngày làm việc kể từ ngày kết thúc việc xác minh thiệt hại, người giải quyết bồi thường phải hoàn thành báo cáo xác minh thiệt hại làm căn cứ để thương lượng việc bồi thường.
+- Trong thời hạn 01 ngày làm việc kể từ ngày hoàn thành báo cáo xác minh thiệt hại, cơ quan giải quyết bồi thường phải tiến hành thương lượng việc bồi thường. Trong thời hạn 08 ngày làm việc kể từ ngày tiến hành thương lượng, việc thương lượng phải được hoàn thành. 
+- Ngay sau khi có biên bản kết quả thương lượng thành, Thủ trưởng cơ quan giải quyết bồi thường ra quyết định giải quyết bồi thường và trao cho người yêu cầu bồi thường tại buổi thương lượng. Trường hợp người yêu cầu bồi thường không nhận quyết định giải quyết bồi thường thì người giải quyết bồi thường lập biên bản về việc không nhận quyết định. Biên bản phải có chữ ký của đại diện các cơ quan tham gia thương lượng. Biên bản phải nêu rõ hậu quả pháp lý của việc không nhận quyết định giải quyết bồi thường theo quy định tại điểm đ khoản 1 Điều 51 của Luật TNBTCNN năm 2017. Cơ quan giải quyết bồi thường phải gửi cho người yêu cầu bồi thường trong thời hạn 05 ngày làm việc kể từ ngày lập biên bản.
+
+Thành phần hồ sơ:
+  [ a. Trường hợp người bị thiệt hại trực tiếp yêu cầu bồi thường thì hồ sơ yêu cầu bồi thường (sau đây gọi là hồ sơ) bao gồm: ]
+    - Văn bản yêu cầu bồi thường
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản làm căn cứ yêu cầu bồi thường (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ b. Trường hợp người yêu cầu bồi thường là người thừa kế (nếu có nhiều người thừa kế thì những người thừa kế đó phải cử ra một người đại diện) hoặc là người đại diện của người bị thiệt hại thì ngoài các tài liệu quy định tại điểm B.II.2 Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP 18/5/2026 của Chính phủ về phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (Nghị quyết số 66.18/2026/NQ-CP), hồ sơ còn phải có các tài liệu sau đây: ]
+    - Văn bản xác nhận hoặc chứng minh quyền đại diện hợp pháp trong trường hợp người yêu cầu bồi thường là người đại diện của người bị thiệt hại
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản xác nhận hoặc chứng minh quyền thừa kế hợp pháp của người yêu cầu bồi thường đối với trường hợp người bị thiệt hại chết
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp người yêu cầu bồi thường trực tiếp nộp hồ sơ thì các giấy tờ quy định tại điểm B.II.2.b và điểm B.II.3 Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP là bản sao nhưng phải có bản chính để đối chiếu; trường hợp người yêu cầu bồi thường gửi hồ sơ qua dịch vụ bưu chính thì các giấy tờ quy định tại điểm B.II.2.b điểm B.II.3 Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP là bản sao có chứng thực theo quy định của pháp luật về chứng thực; trường hợp người yêu cầu bồi thường nộp yêu cầu bồi thường trực tuyến trên Cổng Dịch vụ công quốc gia thì các giấy tờ quy định tại điểm B.II.2.b điểm B.II.3 Mục 1 Phụ lục I.6 Nghị quyết số 66.18/2026/NQ-CP là bản sao chứng thực điện tử.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cơ quan trực tiếp quản lý người thi hành công vụ gây thiệt hại trong hoạt động quản lý hành chính, tố tụng, thi hành án quy định từ Điều 33 đến Điều 39 của Luật TNBTCNN năm 2017 ở cấp Trung ương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định giải quyết bồi thường
+Căn cứ pháp lý:
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Thông tư số 08/2025/TT-BTP ngày 12/6/2025 của Bộ trưởng Bộ Tư pháp quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp và phân cấp trong lĩnh vực quản lý nhà nước của Bộ Tư pháp (08/2025/TT-BTP)
+  * ban hành một số biểu mẫu trong công tác Bồi thường nhà nước (Thông tư số 04/2018/TT-BTP)
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Trách nhiệm bồi thường của Nhà nước (Nghị định 68/2018/NĐ-CP)
+  * Trách nhiệm bồi thường của nhà nước (Luật số 10/2017/QH14)
+  * Nghị quyết số 66.18/2026/NQ-CP ngày 18 tháng 5 năm 2026 của Chính phủ về việc phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (66.18/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -8,6 +8,26 @@ interface ChatTranscriptProps {
   messages: TranscriptMessage[];
 }
 
+function AssistantIcon() {
+  return (
+    <span className="shrink-0 w-7 h-7 rounded-full bg-[var(--vg-accent-soft)] flex items-center justify-center">
+      <svg
+        className="w-4 h-4"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="var(--vg-accent)"
+        strokeWidth={1.75}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        aria-hidden="true"
+      >
+        <path d="M12 3 13 7 17 8 13 9 12 13 11 9 7 8 11 7 12 3Z" />
+        <path d="M5 15v3M3.5 16.5h3M19 15v3M17.5 16.5h3" />
+      </svg>
+    </span>
+  );
+}
+
 export default function ChatTranscript({ messages }: ChatTranscriptProps) {
   const endRef = useRef<HTMLDivElement>(null);
 
@@ -20,24 +40,27 @@ export default function ChatTranscript({ messages }: ChatTranscriptProps) {
       {messages.map((msg, index) => (
         <div
           key={index}
-          className={`flex flex-col max-w-[85%] ${msg.role === "user" ? "ml-auto items-end" : "mr-auto items-start"}`}
+          className={`flex items-start gap-2 max-w-[90%] ${msg.role === "user" ? "ml-auto flex-row-reverse" : "mr-auto"}`}
         >
-          <span className="text-[10px] font-bold text-foreground/50 mb-1 flex items-center gap-1">
-            {msg.role === "user" ? "CÔNG DÂN" : "🤖 TRỢ LÝ VNGOV"}
-          </span>
-          <div
-            className={`px-4 py-3 rounded-xl text-sm leading-relaxed shadow-sm relative ${
-              msg.role === "user"
-                ? "bg-accent text-white rounded-br-none font-sans font-medium"
-                : "bg-card-bg border border-border-slate text-primary rounded-bl-none font-sans"
-            }`}
-          >
-            <p className="whitespace-pre-line font-medium leading-relaxed">{msg.content}</p>
-            {msg.sourceRefs && msg.sourceRefs.length > 0 && (
-              <div className="mt-3 pt-2 border-t border-border-slate/60">
-                <SourceDrawer citations={msg.sourceRefs} />
-              </div>
-            )}
+          {msg.role === "assistant" && <AssistantIcon />}
+          <div className={`flex flex-col ${msg.role === "user" ? "items-end" : "items-start"}`}>
+            <span className="text-[10px] font-bold text-[var(--vg-text-muted)] mb-1">
+              {msg.role === "user" ? "Công dân" : "Trợ lý VNGov"}
+            </span>
+            <div
+              className={`px-4 py-3 rounded-xl text-sm leading-relaxed relative ${
+                msg.role === "user"
+                  ? "bg-[var(--vg-accent)] text-white rounded-tr-none font-medium"
+                  : "bg-[var(--vg-surface)] border border-[var(--vg-border)] text-[var(--vg-text)] rounded-tl-none"
+              }`}
+            >
+              <p className="whitespace-pre-line leading-relaxed">{msg.content}</p>
+              {msg.sourceRefs && msg.sourceRefs.length > 0 && (
+                <div className="mt-3 pt-2 border-t border-[var(--vg-border)]">
+                  <SourceDrawer citations={msg.sourceRefs} />
+                </div>
+              )}
+            </div>
           </div>
         </div>
       ))}

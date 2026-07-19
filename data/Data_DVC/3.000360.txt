@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000360
+Số quyết định: Demo/QĐ-BCA
+Tên thủ tục: Thu hồi chấp thuận hoạt động của sân tập lái để sát hạch lái xe mô tô
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Sát hạch, cấp giấy phép lái xe
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC: Không có
+    b) Giải quyết TTHC:
+    - Trong thời hạn 05 ngày làm việc kể từ ngày phát hiện hành vi vi phạm quy định hoặc giải thể hoạt động cơ sở đào tạo lái xe, Phòng Cảnh sát giao thông ban hành quyết định thu hồi chấp thuận hoạt động của sân tập lái để sát hạch lái xe mô tô, thông báo đến các cơ quan liên quan để phối hợp thực hiện và công bố trên Trang thông tin điện tử.
+    - Cơ sở đào tạo lái xe phải nộp lại chấp thuận hoạt động của sân tập lái để sát hạch lái xe mô tô cho Phòng Cảnh sát giao thông, đồng thời dừng toàn bộ hoạt động sát hạch lái xe theo giấy phép đã bị thu hồi ngay sau khi quyết định có hiệu lực.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Báo cáo tình hình hoạt động của các cơ sở đào tạo được chấp thuận hoạt động của sân tập lái để sát hạch lái xe mô tô hoặc biên bản vi phạm hoặc Quyết định giải thể
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quyết định chấp thuận hoạt động của sân tập lái để sát hạch lái xe mô tô đủ điều kiện hoạt động.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Công an tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thu hồi chấp thuận hoạt động của sân tập lái để sát hạch lái xe mô tô đủ điều kiện hoạt động
+Căn cứ pháp lý:
+  * Quy định về hoạt động đào tạo và sát hạch lái xe. (160/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

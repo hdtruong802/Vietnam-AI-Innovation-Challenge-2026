@@ -1,0 +1,115 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002711
+Số quyết định: 753/QĐ-BKHCN
+Tên thủ tục: Thủ tục đánh giá, nghiệm thu nhiệm vụ cấp tỉnh sử dụng ngân sách nhà nước
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+  * Tổ chức, cá nhân nộp hồ sơ đánh giá, nghiệm thu nhiệm vụ cấp tỉnh sử dụng ngân sách nhà nước về Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền
+    Bước 1: Nộp hồ sơ đánh giá, nghiệm thu nhiệm vụ khoa học và công nghệ cấp tỉnh
+    Tổ chức, cá nhân nộp hồ sơ đánh giá, nghiệm thu nhiệm vụ cấp tỉnh sử dụng ngân sách nhà nước về Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền.
+    Bước 2: Kiểm tra tính hợp lệ của hồ sơ đánh giá, nghiệm thu nhiệm vụ khoa học và công nghệ cấp tỉnh
+    Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền tiến hành kiểm tra tính hợp lệ của hồ sơ.
+    Bước 3: Thành lập Hội đồng tư vấn đánh giá nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh
+    Chủ tịch Ủy ban nhân dân cấp tỉnh hoặc người được Chủ tịch Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền quyết định thành lập, quy định số lượng thành viên, chức năng, nhiệm vụ của Hội đồng khoa học và công nghệ chuyên ngành đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh (sau đây viết tắt là Hội đồng nghiệm thu) và Tổ chuyên gia (được thành lập trong trường hợp nhiệm vụ có sản phẩm đo kiểm được).
+    Bước 4: Tổ chức họp Hội đồng tư vấn đánh giá, nghiệm thu và Tổ chuyên gia (nếu có) kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh
+    - Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền tổ chức họp Hội đồng tư vấn đánh giá nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh đối với những hồ sơ hợp lệ.
+    - Trên cơ sở kết luận của Hội đồng tư vấn đánh giá nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh, ý kiến của chuyên gia tư vấn độc lập (nếu có) và báo cáo kết quả của đơn vị chức năng, Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền nghiệm thu, thanh lý hợp đồng thực hiện nhiệm vụ KH&CN cấp tỉnh.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Sau khi nhận được hồ sơ đề nghị đánh giá, nghiệm thu của tổ chức chủ trì nhiệm vụ Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền tiến hành kiểm tra tính hợp lệ của hồ sơ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Đối với các hồ sơ không đầy đủ, không hợp lệ, trong thời gian 05 ngày làm việc kể từ ngày nhận hồ sơ, Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền thông báo bằng văn bản để tổ chức chủ trì, chủ nhiệm nhiệm vụ bổ sung, hoàn thiện
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trong thời gian 15 ngày kể khi nhận được thông báo của Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền, tổ chức chủ trì phải bổ sung, hoàn thiện hồ sơ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trong thời hạn không quá 30 ngày kể từ khi nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền phải thành lập Hội đồng tư vấn đánh giá nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp kết quả nhiệm vụ được đánh giá xếp loại ở mức “Đạt” trở lên: Trong thời hạn 30 ngày kể từ ngày họp Hội đồng nghiệm thu, tổ chức chủ trì và chủ nhiệm nhiệm vụ lập báo cáo về việc hoàn thiện hồ sơ đánh giá, nghiệm thu, hoàn thiện báo cáo tổng hợp, báo cáo tóm tắt, các sản phẩm, các tài liệu liên quan theo kết luận của Hội đồng nghiệm thu và nộp về Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền;
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Sau khi nhận được hồ sơ đề nghị đánh giá, nghiệm thu của tổ chức chủ trì nhiệm vụ Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền tiến hành kiểm tra tính hợp lệ của hồ sơ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Đối với các hồ sơ không đầy đủ, không hợp lệ, trong thời gian 05 ngày làm việc kể từ ngày nhận hồ sơ, Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền thông báo bằng văn bản để tổ chức chủ trì, chủ nhiệm nhiệm vụ bổ sung, hoàn thiện
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trong thời gian 15 ngày kể khi nhận được thông báo của Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền, tổ chức chủ trì phải bổ sung, hoàn thiện hồ sơ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trong thời hạn không quá 30 ngày kể từ khi nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền phải thành lập Hội đồng tư vấn đánh giá nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp kết quả nhiệm vụ được đánh giá xếp loại ở mức “Đạt” trở lên: Trong thời hạn 30 ngày kể từ ngày họp Hội đồng nghiệm thu, tổ chức chủ trì và chủ nhiệm nhiệm vụ lập báo cáo về việc hoàn thiện hồ sơ đánh giá, nghiệm thu, hoàn thiện báo cáo tổng hợp, báo cáo tóm tắt, các sản phẩm, các tài liệu liên quan theo kết luận của Hội đồng nghiệm thu và nộp về Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền;
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Sau khi nhận được hồ sơ đề nghị đánh giá, nghiệm thu của tổ chức chủ trì nhiệm vụ Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền tiến hành kiểm tra tính hợp lệ của hồ sơ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Đối với các hồ sơ không đầy đủ, không hợp lệ, trong thời gian 05 ngày làm việc kể từ ngày nhận hồ sơ, Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền thông báo bằng văn bản để tổ chức chủ trì, chủ nhiệm nhiệm vụ bổ sung, hoàn thiện
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trong thời gian 15 ngày kể khi nhận được thông báo của Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền, tổ chức chủ trì phải bổ sung, hoàn thiện hồ sơ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trong thời hạn không quá 30 ngày kể từ khi nhận được hồ sơ đầy đủ, hợp lệ, Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền phải thành lập Hội đồng tư vấn đánh giá nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp kết quả nhiệm vụ được đánh giá xếp loại ở mức “Đạt” trở lên: Trong thời hạn 30 ngày kể từ ngày họp Hội đồng nghiệm thu, tổ chức chủ trì và chủ nhiệm nhiệm vụ lập báo cáo về việc hoàn thiện hồ sơ đánh giá, nghiệm thu, hoàn thiện báo cáo tổng hợp, báo cáo tóm tắt, các sản phẩm, các tài liệu liên quan theo kết luận của Hội đồng nghiệm thu và nộp về Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền;
+
+Thành phần hồ sơ:
+  [ Tổ chức, cá nhân nộp hồ sơ đánh giá, nghiệm thu nhiệm vụ cấp tỉnh sử dụng ngân sách nhà nước về Ủy ban nhân dân cấp tỉnh hoặc cơ quan, đơn vị được Ủy ban nhân dân cấp tỉnh phân cấp/ủy quyền ]
+    - Báo cáo về sản phẩm kết quả thực hiện nhiệm vụ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các văn bản về thay đổi nội dung nhiệm vụ và các tài liệu có liên quan khác (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Báo cáo tình hình sử dụng kinh phí của nhiệm vụ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo báo cáo tóm tắt kết quả thực hiện nhiệm vụ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Công văn đề nghị đánh giá, nghiệm thu của tổ chức chủ trì;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phương án phát triển, thương mại hóa kết quả nhiệm vụ khoa học và công nghệ (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo đánh giá kết quả thực hiện nhiệm vụ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các văn bản xác nhận và tài liệu liên quan đến việc công bố, xuất bản, đào tạo, tiếp nhận và sử dụng kết quả nghiên cứu; các số liệu điều tra, khảo sát, phân tích (nếu có);
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Báo cáo tổng hợp kết quả thực hiện nhiệm vụ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Khoa học và Công nghệ
+Cơ quan có thẩm quyền: Cơ quan chuyên môn về khoa học và công nghệ thuộc UBND cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Biên bản họp Hội đồng đánh giá, nghiệm thu cấp tỉnh
+Căn cứ pháp lý:
+  * Thông tư quy định quản lý nhiệm vụ khoa học và công nghệ cấp tỉnh, cấp cơ sở sử dụng ngân sách nhà nước (09/2024/TT-BKHCN)
+
+Yêu cầu, điều kiện thực hiện: Việc nộp hồ sơ thực hiện trong thời hạn 30 ngày kể từ khi kết thúc thời gian thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh theo hợp đồng, tính cả thời gian được gia hạn thực hiện nhiệm vụ (nếu có).
+Từ khóa: Không có thông tin
+Mô tả: Việc nộp hồ sơ thực hiện trong thời hạn 30 ngày kể từ khi kết thúc thời gian thực hiện nhiệm vụ khoa học và công nghệ cấp tỉnh theo hợp đồng, tính cả thời gian được gia hạn thực hiện nhiệm vụ (nếu có).

@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000493
+Số quyết định: 5461/QĐ-BCA-C07
+Tên thủ tục: Nghiệm thu về phòng cháy chữa cháy (đối với dự án đầu tư xây dựng công trình, công trình, phương tiện giao thông đã được cơ quan Công an cấp Giấy chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy mà chưa được chấp thuận kết quả nghiệm thu)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Phòng cháy, chữa cháy
+Trình tự thực hiện:
+    - Bước 1: cá nhân, tổ chức chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: cá nhân, tổ chức nộp hồ sơ tại Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh, thành phố trực thuộc trung ương
+    - Bước 3: cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ (các văn bản giấy tờ có trong hồ sơ khi gửi cơ quan Công an là bản chính hoặc bản chứng thực hoặc bản sao hoặc bản chụp kèm theo bản chính để cán bộ tiếp nhận hồ sơ đối chiếu trong trường hợp nộp trực tiếp hoặc qua bưu chính công ích; bản chính hoặc bản chứng thực điện tử trong trường hợp nộp hồ sơ trực tuyến qua Cổng Dịch vụ công).
+    + Nếu hồ sơ hợp lệ và đủ thành phần thì viết Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy giao cho người nộp hồ sơ 01 bản và lưu 01 bản hoặc gửi thông báo tiếp nhận qua thư điện tử hoặc tin nhắn điện thoại đến cơ quan, tổ chức, cá nhân nộp hồ sơ;
+    + Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì trả lại, hướng dẫn hoàn thiện hồ sơ và ghi thông tin vào Phiếu hướng dẫn bổ sung hồ sơ giao cho người nộp hồ sơ 01 bản và lưu 01 bản hoặc ghi nội dung hướng dẫn bổ sung hồ sơ để thông báo qua thư điện tử hoặc tin nhắn điện thoại đến cơ quan, tổ chức, cá nhân nộp hồ sơ.
+    - Bước 4: căn cứ theo ngày hẹn trên Phiếu tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy hoặc thông báo qua thư điện tử hoặc tin nhắn điện thoại, cá nhân, tổ chức đến nơi nộp hồ sơ để nhận kết quả trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc nhận kết quả điện tử trên tài khoản dịch vụ công đã nộp hồ sơ trước đó.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trực tiếp: nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh, thành phố trực thuộc trung ương. - Dịch vụ bưu chính công ích: nộp hồ sơ qua dịch vụ bưu chính công ích. - Trực tuyến: nộp hồ sơ trên Cổng Dịch vụ công. 10 ngày, trong 05 ngày làm việc kể từ khi nhận được hồ sơ hợp lệ phải tổ chức kiểm tra kết quả nghiệm thu; 05 ngày làm việc kể từ khi lập biên bản kiểm tra phải ra văn bản chấp thuận kết quả nghiệm thu hoặc văn bản trả lời, nêu rõ lý do.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trực tiếp: nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh, thành phố trực thuộc trung ương. - Dịch vụ bưu chính công ích: nộp hồ sơ qua dịch vụ bưu chính công ích. - Trực tuyến: nộp hồ sơ trên Cổng Dịch vụ công. 10 ngày, trong 05 ngày làm việc kể từ khi nhận được hồ sơ hợp lệ phải tổ chức kiểm tra kết quả nghiệm thu; 05 ngày làm việc kể từ khi lập biên bản kiểm tra phải ra văn bản chấp thuận kết quả nghiệm thu hoặc văn bản trả lời, nêu rõ lý do.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trực tiếp: nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh, thành phố trực thuộc trung ương. - Dịch vụ bưu chính công ích: nộp hồ sơ qua dịch vụ bưu chính công ích. - Trực tuyến: nộp hồ sơ trên Cổng Dịch vụ công. 10 ngày, trong 05 ngày làm việc kể từ khi nhận được hồ sơ hợp lệ phải tổ chức kiểm tra kết quả nghiệm thu; 05 ngày làm việc kể từ khi lập biên bản kiểm tra phải ra văn bản chấp thuận kết quả nghiệm thu hoặc văn bản trả lời, nêu rõ lý do.
+
+Thành phần hồ sơ:
+    - Bản chính, bản chứng thực hoặc bản sao kèm bản chính để đối chiếu các bản vẽ hoàn công hệ thống phòng cháy và chữa cháy và các hạng mục liên quan đến phòng cháy và chữa cháy phù hợp với hồ sơ   thiết kế đã được duyệt.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản chính hoặc bản chứng thực hoặc bản sao kèm bản chính để đối chiếu báo cáo của chủ đầu tư, chủ phương tiện về tình hình kết quả thi công, kiểm tra, kiểm định, thử nghiệm và nghiệm thu các hệ thống, thiết bị và giải pháp phòng   cháy và chữa cháy.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản chính văn bản đề nghị kiểm tra kết quả nghiệm thu về phòng cháy và chữa cháy (Mẫu số PC11 ban hành kèm theo   Nghị định số 50/2024/NĐ-CP ngày 10/05/2024 của Chính phủ).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản chính, bản chứng thực hoặc bản sao kèm bản chính để đối chiếu Văn bản nghiệm thu hoàn thành các hạng mục, hệ thống liên quan đến phòng cháy   và chữa cháy.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Cục cảnh sát phòng cháy, chữa cháy và cứu nạn cứu hộ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận kết quả nghiệm thu về phòng cháy và chữa cháy (Mẫu số PC12 ban hành kèm theo Nghị định số 50/2024/NĐ-CP ngày   10/05/2024 của Chính phủ)
+Căn cứ pháp lý:
+  * quy định chi tiết một số điều và biện pháp thi hành luật phòng cháy, chữa cháy và cứu nạn, cứu hộ (105/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -81,3 +81,69 @@ export const LeafIcon = ({ className = "w-7 h-7" }: IconProps) => (
     <path d="M6 18C9 13 12 10 17 6.5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
   </svg>
 );
+
+export const PhoneIcon = ({ className = "w-4 h-4" }: IconProps) => (
+  <svg className={className} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M6.5 3.5h3l1.5 4-2 1.3a11 11 0 005.7 5.7l1.3-2 4 1.5v3a1.5 1.5 0 01-1.6 1.5A15.5 15.5 0 015 6.1a1.5 1.5 0 011.5-1.6z" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round" />
+  </svg>
+);
+
+export const MailIcon = ({ className = "w-4 h-4" }: IconProps) => (
+  <svg className={className} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="3.5" y="5.5" width="17" height="13" rx="1.5" stroke="currentColor" strokeWidth="1.6" />
+    <path d="M4.5 7l7.5 6 7.5-6" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+  </svg>
+);
+
+export const GlobeIcon = ({ className = "w-4 h-4" }: IconProps) => (
+  <svg className={className} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="8.5" stroke="currentColor" strokeWidth="1.6" />
+    <path d="M3.5 12h17M12 3.5c2.3 2.3 3.5 5.3 3.5 8.5s-1.2 6.2-3.5 8.5c-2.3-2.3-3.5-5.3-3.5-8.5S9.7 5.8 12 3.5z" stroke="currentColor" strokeWidth="1.6" />
+  </svg>
+);
+
+export const BirthCertIcon = ({ className = "w-5 h-5" }: IconProps) => (
+  <svg className={className} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="9" cy="7" r="2.5" stroke="currentColor" strokeWidth="1.6" />
+    <path d="M4.5 16c0-2.5 2-4 4.5-4s4.5 1.5 4.5 4" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+    <path d="M14 4.5h5.5v15H14" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+  </svg>
+);
+
+export const HomeIcon = ({ className = "w-5 h-5" }: IconProps) => (
+  <svg className={className} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M4 11.5L12 4l8 7.5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
+    <path d="M6 10v9.5h12V10" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round" />
+    <path d="M10 19.5V14h4v5.5" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round" />
+  </svg>
+);
+
+export const LicenseIcon = ({ className = "w-5 h-5" }: IconProps) => (
+  <svg className={className} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="3" y="6" width="18" height="12" rx="2" stroke="currentColor" strokeWidth="1.6" />
+    <circle cx="8.5" cy="12" r="2" stroke="currentColor" strokeWidth="1.6" />
+    <path d="M13.5 10h5M13.5 14h3.5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+  </svg>
+);
+
+export const BriefcaseIcon = ({ className = "w-5 h-5" }: IconProps) => (
+  <svg className={className} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect x="3" y="8" width="18" height="11" rx="2" stroke="currentColor" strokeWidth="1.6" />
+    <path d="M8.5 8V6a1.5 1.5 0 011.5-1.5h4A1.5 1.5 0 0115.5 6v2" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round" />
+    <path d="M3 13h18" stroke="currentColor" strokeWidth="1.6" />
+  </svg>
+);
+
+export const TaxIcon = ({ className = "w-5 h-5" }: IconProps) => (
+  <svg className={className} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="8.5" stroke="currentColor" strokeWidth="1.6" />
+    <path d="M9 15l6-6M9.5 10.5h.01M14.5 15.5h.01" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" />
+  </svg>
+);
+
+export const HeartShieldIcon = ({ className = "w-5 h-5" }: IconProps) => (
+  <svg className={className} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M12 3l7 3v5.5c0 5-3 8.2-7 9.5-4-1.3-7-4.5-7-9.5V6l7-3z" stroke="currentColor" strokeWidth="1.6" strokeLinejoin="round" />
+    <path d="M12 15.5s-2.8-1.7-2.8-3.7a1.6 1.6 0 012.8-1 1.6 1.6 0 012.8 1c0 2-2.8 3.7-2.8 3.7z" stroke="currentColor" strokeWidth="1.4" strokeLinejoin="round" />
+  </svg>
+);

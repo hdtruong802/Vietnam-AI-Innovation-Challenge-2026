@@ -5,9 +5,21 @@ import { resolveCitations } from "../procedureCase.selectors";
 import SourceDrawer from "../trust/SourceDrawer";
 
 const KIND_STYLE: Record<ChecklistItemModel["kind"], { badge: string; border: string; text: string }> = {
-  required: { badge: "bg-error-bg text-error border-error-border", border: "border-error-border bg-error-bg/10", text: "text-error" },
-  conditional: { badge: "bg-warning-bg text-warning border-warning-border", border: "border-warning-border bg-warning-bg/10", text: "text-warning" },
-  optional: { badge: "bg-neutral-bg text-foreground/60 border-border-slate", border: "border-border-slate bg-neutral-bg/40", text: "text-primary" },
+  required: {
+    badge: "bg-[var(--vg-error-soft)] text-[var(--vg-error)] border-[var(--vg-error)]/30",
+    border: "border-[var(--vg-error)]/30 bg-[var(--vg-error-soft)]/40",
+    text: "text-[var(--vg-error)]",
+  },
+  conditional: {
+    badge: "bg-[var(--vg-warning-soft)] text-[var(--vg-warning)] border-[var(--vg-warning)]/30",
+    border: "border-[var(--vg-warning)]/30 bg-[var(--vg-warning-soft)]/40",
+    text: "text-[var(--vg-warning)]",
+  },
+  optional: {
+    badge: "bg-[var(--vg-surface-subtle)] text-[var(--vg-text-muted)] border-[var(--vg-border)]",
+    border: "border-[var(--vg-border)] bg-[var(--vg-surface-subtle)]/60",
+    text: "text-[var(--vg-text)]",
+  },
 };
 
 const KIND_LABEL: Record<ChecklistItemModel["kind"], string> = {
@@ -29,7 +41,7 @@ export default function ChecklistItem({ item, sourceRefs, isHighlighted }: Check
   return (
     <div
       className={`p-3.5 border rounded-lg transition-all duration-300 ${
-        isHighlighted ? "border-accent bg-blue-50/10 shadow-sm ring-1 ring-accent" : style.border
+        isHighlighted ? "border-[var(--vg-accent)] bg-[var(--vg-accent-soft)] ring-1 ring-[var(--vg-accent)]" : style.border
       }`}
     >
       <div className="flex items-start justify-between gap-2">
@@ -38,9 +50,9 @@ export default function ChecklistItem({ item, sourceRefs, isHighlighted }: Check
           {KIND_LABEL[item.kind]}
         </span>
       </div>
-      <p className="text-xs text-zinc-600 mt-1.5 leading-relaxed">{item.description}</p>
+      <p className="text-xs text-[var(--vg-text-secondary)] mt-1.5 leading-relaxed">{item.description}</p>
       {citations.length > 0 && (
-        <div className="mt-2.5 pt-2 border-t border-zinc-100">
+        <div className="mt-2.5 pt-2 border-t border-[var(--vg-border)]">
           <SourceDrawer citations={citations} label="Cơ sở pháp lý" />
         </div>
       )}

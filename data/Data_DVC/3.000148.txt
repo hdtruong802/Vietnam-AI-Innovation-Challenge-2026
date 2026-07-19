@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000148
+Số quyết định: 710/QĐ-BTC
+Tên thủ tục: Thủ tục đặt cọc tiền bảo lãnh hàng hóa quá cảnh thông qua Hệ thống ACTS
+Cấp thực hiện: Không có thông tin
+Loại thủ tục: OTHER
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * Thủ tục đặt cọc tiền bảo lãnh hàng hóa quá cảnh thông qua Hệ thống ACTS
+    Bước 1: Trước khi đăng ký tờ khai quá cảnh hải quan, người khai hải quan được lựa chọn hình thức bảo lãnh là đặt cọc tiền cho cơ quan hải quan để đảm bảo cho việc thanh toán tiền thuế hải quan có thể phát sinh phải nộp cho một tờ khai quá cảnh hải quan và nộp giấy nộp tiền cho cơ quan hải quan để cập nhật thông qua Hệ thống ACTS.
+    Bước 2: Cơ quan hải quan nơi đăng ký tờ khai quá cảnh hải quan kiểm tra, theo dõi, xử lý tiền đặt cọc như sau:
+    a) Trường hợp người khai hải quan đặt cọc đủ số tiền theo quy định cho một tờ khai quá cảnh hải quan thì cơ quan hải quan nơi đăng ký tờ khai quá cảnh hải quan cập nhật dữ liệu thông qua Hệ thống ACTS. Hệ thống tự động cấp số GRN để người khai hải quan khai trên tờ khai quá cảnh;
+    b) Trường hợp số tiền đặt cọc cho một tờ khai quá cảnh hải quan nhỏ hơn theo quy định thì cơ quan hải quan nơi đăng ký tờ khai quá cảnh hải quan đề nghị người khai hải quan nộp bổ sung.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Thủ tục đặt cọc tiền bảo lãnh hàng hóa quá cảnh thông qua Hệ thống ACTS ]
+    - Giấy nộp tiền
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Số tham chiếu GRN do Hệ thống tự động cấp được gửi tới người khai hải quan
+Căn cứ pháp lý:
+  * Nghị định số 46/2020/NĐ-CP (46/2020)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

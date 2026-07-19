@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001591
+Số quyết định: 4884/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục cấp phép khai quật khảo cổ khẩn cấp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Di sản văn hóa
+Trình tự thực hiện:
+    - Cơ quan, tổ chức có chức năng khai quật khảo cổ gửi 01 bộ hồ sơ tới Sở Văn hóa, Thể thao và Du lịch/Sở Văn hóa và Thể thao nơi có địa điểm cần khai quật khảo cổ khẩn cấp.
+    - Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, Sở Văn hóa, Thể thao và Du lịch/Sở Văn hóa và Thể thao xem xét, cấp giấy phép khai quật khảo cổ khẩn cấp. Trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp giấy phép khai quật khảo cổ khẩn cấp của cơ quan, tổ chức chủ trì khai quật khảo cổ khẩn cấp theo Mẫu số 15 tại Phụ lục I ban hành kèm theo Nghị định số 308/2025/NĐ-CP ngày 28 tháng 11 năm 2025 của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Diện tích khai quật khảo cổ khẩn cấp; sơ đồ tỉ lệ 1/500, thể hiện rõ vị trí, tọa độ, diện tích địa điểm cần khai quật khảo cổ khẩn cấp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp, Hợp tác xã
+Cơ quan thực hiện: Sở Văn hóa và Thể thao Thành phố Hà Nội, Sở Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cấp phép khai quật khảo cổ khẩn cấp
+Căn cứ pháp lý:
+  * Luật số 45/2024/QH15 của Quốc hội: Luật Di sản văn hóa (45/2024/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

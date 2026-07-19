@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000578
+Số quyết định: 936/QĐ-BTC
+Tên thủ tục: Thu hồi Giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài, đăng ký hoạt động nhận ủy thác đầu tư gián tiếp ra nước ngoài của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán; chấm dứt đầu tư gián tiếp ra nước ngoài của quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Chứng khoán
+Trình tự thực hiện:
+    - Trình tự thực hiện:
+    Bước 1: Công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán gửi hồ sơ tự nguyện đề nghị thu hồi Giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài; hoặc công ty quản lý quỹ đầu tư chứng khoán gửi hồ sơ tự nguyện đề nghị thu hồi Giấy chứng nhận đăng ký hoạt động nhận ủy thác đầu tư gián tiếp ra nước ngoài; hoặc quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán thông qua công ty quản lý quỹ hoặc quỹ đầu tư chứng khoán riêng lẻ tự quản lý vốn gửi hồ sơ tự nguyện đề nghị chấm dứt đầu tư gián tiếp ra nước ngoài đến Ủy ban Chứng khoán Nhà nước.
+    Bước 2: Ủy ban Chứng khoán Nhà nước (Bộ phận một cửa) tiếp nhận và kiểm tra danh mục hồ sơ. Trường hợp danh mục chưa đầy đủ, Ủy ban Chứng khoán Nhà nước hướng dẫn bổ sung hồ sơ theo quy định.
+    Bước 3: Ủy ban Chứng khoán Nhà nước xem xét tính đầy đủ, hợp lệ của hồ sơ. Trường hợp hồ sơ cần sửa đổi, bổ sung, Ủy ban Chứng khoán Nhà nước có văn bản gửi công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán, quỹ đầu tư chứng khoán riêng lẻ tự quản lý vốn nêu rõ nội dung yêu cầu sửa đổi, bổ sung.
+    Bước 4: Trong thời hạn 07 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ, Ủy ban Chứng khoán Nhà nước ra quyết định thu hồi Giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài; hoặc Giấy chứng nhận đăng ký hoạt động nhận ủy thác đầu tư gián tiếp ra nước ngoài; hoặc văn bản chấm dứt đầu tư gián tiếp ra nước ngoài đối với quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán, đồng thời gửi quyết định/văn bản đến Ngân hàng Nhà nước Việt Nam.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tiếp tại Bộ phận Một cửa: 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Trực tuyến tại Cổng Dịch vụ công quốc gia.: 07 ngày làm việc kể từ ngày nhận được hồ sơ đầy đủ và hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Thông qua dịch vụ bưu chính công ích theo quy định của Thủ tướng Chính phủ: 07 ngày làm việc kể từ ngày nhận được đầy đủ hồ sơ hợp lệ
+
+Thành phần hồ sơ:
+  [ * Đối với thu hồi Giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài của công ty chứng khoán, công ty quản lý quỹ đầu tư chứng khoán ]
+    - 1) Giấy đề nghị thu hồi Giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2) Biên bản họp và nghị quyết của Đại hội đồng cổ đông hoặc hội đồng thành viên hoặc quyết định của chủ sở hữu thông qua việc chấm dứt hoạt động đầu tư gián tiếp ra nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3) Tài liệu giải trình về việc chấm dứt hoạt động đầu tư gián tiếp ra nước ngoài, trong đó nêu rõ lý do chấm dứt, kết quả thực hiện đầu tư, khả năng thu hồi vốn đầu tư, thời hạn dự kiến chấm dứt hoạt động đầu tư, phương án tất toán các khoản đầu tư gián tiếp ra nước ngoài và các vấn đề liên quan;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4) Bản gốc Giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Đối với thu hồi Giấy chứng nhận đăng ký hoạt động nhận ủy thác đầu tư gián tiếp ra nước ngoài của công ty quản lý quỹ đầu tư chứng khoán ]
+    - 1) Giấy đề nghị thu hồi Giấy chứng nhận đăng ký hoạt động nhận ủy thác đầu tư gián tiếp ra nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2) Biên bản họp và nghị quyết của Đại hội đồng cổ đông hoặc hội đồng thành viên hoặc quyết định của chủ sở hữu thông qua việc chấm dứt hoạt động nhận ủy thác đầu tư gián tiếp ra nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3) Tài liệu giải trình về việc chấm dứt hoạt động nhận ủy thác đầu tư gián tiếp ra nước ngoài, trong đó nêu rõ lý do chấm dứt, kết quả thực hiện đầu tư, khả năng thu hồi vốn đầu tư, thời hạn dự kiến chấm dứt hoạt động nhận ủy thác đầu tư, phương án thanh lý các hợp đồng ủy thác đầu tư gián tiếp ra nước ngoài và các vấn đề liên quan;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 4) Bản gốc Giấy chứng nhận đăng ký hoạt động nhận ủy thác đầu tư gián tiếp ra nước ngoài.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ * Đối với chấm dứt đầu tư gián tiếp ra nước ngoài của quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán ]
+    - 1) Giấy đề nghị chấm dứt đầu tư gián tiếp ra nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2) Biên bản họp và nghị quyết của đại hội nhà đầu tư hoặc đại hội thành viên hoặc đại hội đồng cổ đông về việc chấm dứt đầu tư gián tiếp ra nước ngoài;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3) Tài liệu giải trình về việc chấm dứt hoạt động đầu tư gián tiếp ra nước ngoài, trong đó nêu rõ lý do chấm dứt, kết quả thực hiện đầu tư, khả năng thu hồi vốn đầu tư, thời hạn dự kiến chấm dứt hoạt động đầu tư, phương án tất toán các khoản đầu tư gián tiếp ra nước ngoài và các vấn đề liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban Chứng khoán Nhà nước - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thu hồi Giấy chứng nhận đăng ký đầu tư gián tiếp ra nước ngoài, Quyết định thu hồi Giấy chứng nhận đăng ký hoạt động nhận ủy thác đầu tư gián tiếp ra nước ngoài, Văn bản chấm dứt đầu tư gián tiếp ra nước ngoài đối với quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán, văn bản từ chối và nêu rõ lý do.
+Căn cứ pháp lý:
+  * Nghị định 135/2015/NĐ-CP (135/2015/NĐ-CP)
+  * Nghị định 16/2019/NĐ-CP (16/2019/NĐ-CP)
+  * Thông tư 105/2016/TT-BTC (105/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

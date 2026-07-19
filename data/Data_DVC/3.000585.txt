@@ -1,0 +1,95 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000585
+Số quyết định: 950/QĐ-UBND
+Tên thủ tục: Hỗ trợ chính sách phát triển thủy sản
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Thủy sản
+Trình tự thực hiện:
+    Nộp hồ sơ: Chủ tàu cá nộp 01 bộ hồ sơ đề nghị hỗ trợ đến Sở Nông nghiệp và Môi trường
+    Tiếp nhận và thẩm định hồ sơ:
+    - Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đề nghị hỗ trợ của chủ tàu cá, Sở Nông nghiệp và Môi trường (Chi cục Biển đảo và Thủy sản) tổ chức kiểm tra, thẩm định, rà soát thành phần hồ sơ và điều kiện hỗ trợ; kiểm tra thực tế khi cần thiết.
+    - Trường hợp phát hiện hồ sơ không đảm bảo thành phần hồ sơ, điều kiện được hỗ trợ, Sở Nông nghiệp và Môi trường có văn bản thông báo cho chủ tàu cá được biết.
+    Trình phê duyệt:
+    - Trong thời hạn 03 ngày làm việc kể từ khi hoàn thành thẩm định hồ sơ, Sở Nông nghiệp và Môi trường trình UBND thành phố phê duyệt kinh phí hỗ trợ.
+    Quyết định hỗ trợ:
+    - Trong thời hạn 05 ngày làm việc kể từ ngày nhận được Tờ trình đề nghị phê duyệt kinh phí hỗ trợ của Sở Nông nghiệp và Môi trường, Ủy ban nhân dân thành phố ban hành Quyết định phê duyệt kinh phí hỗ trợ cho chủ tàu cá.
+    Trả kết quả:
+    - Trả kết quả xử lý hồ sơ trực tiếp tại Trung tâm Phục vụ hành chính công thành phố Đà Nẵng; qua dịch vụ bưu chính, bưu chính công ích hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đơn đề nghị hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chụp Giấy chứng nhận an toàn kỹ thuật tàu cá; bản chính Giấy chứng nhận bảo hiểm tàu thuyền
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chụp Giấy chứng nhận an toàn kỹ thuật tàu cá; bản chính hợp đồng, hóa đơn, chứng từ thanh toán tiền mua thiết bị giám sát hành trình, biên bản lắp đặt (thành phần chủ tàu cá, đơn vị lắp đặt), biên bản nghiệm thu sản phẩm (thành phần chủ tàu cá, đơn vị lắp đặt, Chi cục Biển đảo và Thủy sản)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chụp Giấy chứng nhận an toàn kỹ thuật tàu cá; bản chính hợp đồng, hóa đơn, chứng từ thanh toán phí thuê bao
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chụp các giấy tờ chứng minh nguồn gốc tàu cá gồm giấy chứng nhận đăng ký tàu cá cũ, giấy tờ mua bán tàu cá; bản chính Biên bản giám sát hủy, phá dỡ tàu cá (thành phần giám sát gồm chủ tàu cá, Chi cục Biển đảo và Thủy sản, Ủy ban nhân dân phường/xã nơi chủ tàu cá thường trú hoặc đặt trụ sở chính)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chụp Giấy chứng nhận an toàn kỹ thuật tàu cá; bản chính hóa đơn, chứng từ thanh toán tiền mua máy thủy, biên bản lắp đặt (thành phần chủ tàu cá, đơn vị lắp đặt), biên bản nghiệm thu sản phẩm (thành phần chủ tàu cá, đơn vị lắp đặt, Chi cục Biển đảo và Thủy sản, Ủy ban nhân dân phường, xã nơi chủ tàu cá thường trú)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chụp Giấy chứng nhận an toàn kỹ thuật tàu cá; bản chính hóa đơn, chứng từ thanh toán tiền mua mới ngư cụ, trang thiết bị phục vụ khai thác, cải hoán tàu cá, biên bản nghiệm thu sản phẩm (thành phần chủ tàu cá, Chi cục Biển đảo và Thủy sản, Ủy ban nhân dân phường, xã nơi chủ tàu cá thường trú)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Sở Nông nghiệp và Môi trường TP.Đà Nẵng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định hỗ trợ kinh phí của UBND thành phố.
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: a) Đối với hỗ trợ bảo hiểm thân tàu: Tàu cá có chiều dài lớn nhất từ 15 mét trở lên có đầy đủ các giấy tờ còn hạn sử dụng (Giấy chứng nhận đăng ký tàu cá, Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy phép khai thác thủy sản, Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm). 
+b) Đối với hỗ trợ thiết bị giám sát hành trình lắp đặt trên tàu cá: Tàu cá và thiết bị đề nghị hỗ trợ phải đáp ứng các điều kiện sau:
+- Tàu cá có chiều dài lớn nhất từ 15 mét trở lên: Chưa lắp đặt thiết bị giám sát hành trình hoặc tàu cá đang sử dụng thiết bị giám sát hành trình lắp đặt trên tàu cá (thiết bị cũ) mà chưa đáp ứng các yêu cầu kỹ thuật theo quy định tại khoản 2 Điều 26 Nghị định số 41/2026/NĐ-CP ngày 25 tháng 01 năm 2026 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Thủy sản. 
+- Thiết bị giám sát hành trình lắp đặt trên tàu cá đề nghị hỗ trợ phải là thiết bị mới 100% và đáp ứng các yêu cầu kỹ thuật theo quy định tại khoản 2 Điều 26 Nghị định số 41/2026/NĐ-CP (thiết bị được cơ quan quản lý nhà nước về thủy sản thuộc Bộ Nông nghiệp và Môi trường thông báo đủ điều kiện lắp đặt trên tàu cá).
+- Tàu cá có đầy đủ các giấy tờ còn hạn sử dụng (Giấy chứng nhận đăng ký tàu cá, Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy phép khai thác thủy sản, Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm). 
+- Chủ tàu cá phải cam kết sử dụng, bảo quản thiết bị giám sát hành trình lắp đặt trên tàu cá tối thiểu là 03 năm (36 tháng) kể từ ngày nhận được chính sách hỗ trợ của thành phố.
+- Trước khi thực hiện lắp đặt thiết bị giám sát hành trình trên tàu cá, chủ tàu cá phải thông báo cho Chi cục Biển đảo và Thủy sản biết để phối hợp với các đơn vị liên quan kiểm tra, giám sát trong quá trình triển khai thực hiện. 
+c) Đối với hỗ trợ cước phí thuê bao dịch vụ cho thiết bị giám sát hành trình; Nhật ký khai thác thủy sản và Nhật ký thu mua, chuyển tải thuỷ sản điện tử: Tàu cá đề nghị hỗ trợ phải đáp ứng các điều kiện sau:
+- Hỗ trợ cước phí thuê bao dịch vụ cho thiết bị giám sát hành trình lắp đặt trên tàu cá: Tàu cá có chiều dài lớn nhất từ 15 mét trở lên đang lắp đặt, sử dụng thiết bị giám sát hành trình đáp ứng các yêu cầu theo quy định tại khoản 2 và  khoản 3 Điều 26 Nghị định số 41/2026/NĐ-CP (thiết bị được cơ quan quản lý nhà nước về thủy sản thuộc Bộ Nông nghiệp và Môi trường thông báo đủ điều kiện lắp đặt trên tàu cá). 
+- Hỗ trợ cước phí thuê bao dịch vụ cho hệ thống Nhật ký khai thác thủy sản và Nhật ký thu mua, chuyển tải thủy sản điện tử: Tàu cá có chiều dài lớn nhất từ 15 mét trở lên đang sử dụng hệ thống Nhật ký khai thác thủy sản và Nhật ký thu mua, chuyển tải thủy sản điện tử đã được cơ quan quản lý nhà nước về thủy sản thuộc Bộ Nông nghiệp và Môi trường thông báo đủ điều kiện tích hợp với hệ thống Nhật ký khai thác thủy sản và Nhật ký thu mua, chuyển tải thủy sản điện tử dùng chung của Bộ Nông nghiệp và Môi trường.
+- Tàu cá có đầy đủ các giấy tờ còn hạn sử dụng (Giấy chứng nhận đăng ký tàu cá, Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy phép khai thác thủy sản, Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm). 
+d) Đối với hỗ trợ xử lý dứt điểm tàu cá không đủ điều kiện hoạt động:  Tàu cá đề nghị hỗ trợ phải đáp ứng các điều kiện sau:
+- Hủy, phá dỡ tàu cá: Tàu cá có chiều dài lớn nhất từ 06 mét trở lên có Giấy chứng nhận đăng ký tàu cá hoặc Giấy xác nhận đã đăng ký tàu cá. Chỉ áp dụng đối với các trường hợp tàu cá không đủ điều kiện đăng ký tàu cá hoặc đăng kiểm tàu cá theo quy định. Không áp dụng hỗ trợ đối với tàu cá không còn khả năng hoạt động (tàu chìm, đắm chưa trục vớt hoặc tàu mục, nát hoặc không có máy thủy trên tàu). Trước khi thực hiện hủy, phá dỡ tàu cá, chủ tàu cá phải thông báo cho Chi cục Biển đảo và Thủy sản biết để phối hợp với các đơn vị, địa phương liên quan kiểm tra, giám sát trong quá trình triển khai thực hiện. Được cơ quan có thẩm quyền cấp Giấy chứng nhận xóa đăng ký tàu cá sau khi hoàn thành hủy, phá dỡ tàu cá.
+- Mua máy thủy (máy chính): Tàu cá có chiều dài lớn nhất từ 12 mét trở lên đang lắp đặt trên tàu cá máy chính (máy thủy hoặc máy bộ) không đủ điều kiện đăng kiểm theo quy định. Máy thủy được đề nghị hỗ trợ có đầy đủ hóa đơn, chứng từ theo quy định. Trước khi thực hiện lắp đặt máy thủy trên tàu cá, chủ tàu cá phải thông báo cho Chi cục Biển đảo và Thủy sản biết để phối hợp với các đơn vị, địa phương liên quan kiểm tra, giám sát trong quá trình triển khai thực hiện. Được cơ sở đăng kiểm tàu cá cấp Giấy chứng nhận an toàn kỹ thuật tàu cá sau khi hoàn thành thay thế máy chính lắp đặt trên tàu cá.
+đ) Đối với hỗ trợ chuyển đổi nghề: Tàu cá đề nghị hỗ trợ phải đáp ứng các điều kiện sau:
+- Tàu cá có chiều dài lớn nhất từ 12 mét đến dưới 15 mét có đầy đủ các giấy tờ còn hạn sử dụng (Giấy chứng nhận đăng ký tàu cá, Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy phép khai thác thủy sản, Bản cam kết sản xuất, kinh doanh thực phẩm nông lâm thủy sản an toàn). 
+- Nghề khai thác đề nghị chuyển đổi không thuộc danh mục nghề cấm.
+- Chủ tàu cá phải cam kết sử dụng ngư cụ, trang thiết bị phục vụ khai thác trên tàu tối thiểu là 03 năm (36 tháng) kể từ ngày nhận được kinh phí hỗ trợ theo quy định. Trước khi thực hiện chuyển đổi nghề trên tàu cá, chủ tàu cá phải thông báo cho Chi cục Biển đảo và Thủy sản biết để phối hợp với các đơn vị, địa phương liên quan kiểm tra, giám sát trong quá trình triển khai thực hiện.
+- Được cơ quan có thẩm quyền cấp Giấy phép khai thác thuỷ sản sau khi hoàn thành chuyển đổi nghề.
+Từ khóa: Không có thông tin
+Mô tả: a) Đối với hỗ trợ bảo hiểm thân tàu: Tàu cá có chiều dài lớn nhất từ 15 mét trở lên có đầy đủ các giấy tờ còn hạn sử dụng (Giấy chứng nhận đăng ký tàu cá, Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy phép khai thác thủy sản, Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm). 
+b) Đối với hỗ trợ thiết bị giám sát hành trình lắp đặt trên tàu cá: Tàu cá và thiết bị đề nghị hỗ trợ phải đáp ứng các điều kiện sau:
+- Tàu cá có chiều dài lớn nhất từ 15 mét trở lên: Chưa lắp đặt thiết bị giám sát hành trình hoặc tàu cá đang sử dụng thiết bị giám sát hành trình lắp đặt trên tàu cá (thiết bị cũ) mà chưa đáp ứng các yêu cầu kỹ thuật theo quy định tại khoản 2 Điều 26 Nghị định số 41/2026/NĐ-CP ngày 25 tháng 01 năm 2026 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Thủy sản. 
+- Thiết bị giám sát hành trình lắp đặt trên tàu cá đề nghị hỗ trợ phải là thiết bị mới 100% và đáp ứng các yêu cầu kỹ thuật theo quy định tại khoản 2 Điều 26 Nghị định số 41/2026/NĐ-CP (thiết bị được cơ quan quản lý nhà nước về thủy sản thuộc Bộ Nông nghiệp và Môi trường thông báo đủ điều kiện lắp đặt trên tàu cá).
+- Tàu cá có đầy đủ các giấy tờ còn hạn sử dụng (Giấy chứng nhận đăng ký tàu cá, Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy phép khai thác thủy sản, Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm). 
+- Chủ tàu cá phải cam kết sử dụng, bảo quản thiết bị giám sát hành trình lắp đặt trên tàu cá tối thiểu là 03 năm (36 tháng) kể từ ngày nhận được chính sách hỗ trợ của thành phố.
+- Trước khi thực hiện lắp đặt thiết bị giám sát hành trình trên tàu cá, chủ tàu cá phải thông báo cho Chi cục Biển đảo và Thủy sản biết để phối hợp với các đơn vị liên quan kiểm tra, giám sát trong quá trình triển khai thực hiện. 
+c) Đối với hỗ trợ cước phí thuê bao dịch vụ cho thiết bị giám sát hành trình; Nhật ký khai thác thủy sản và Nhật ký thu mua, chuyển tải thuỷ sản điện tử: Tàu cá đề nghị hỗ trợ phải đáp ứng các điều kiện sau:
+- Hỗ trợ cước phí thuê bao dịch vụ cho thiết bị giám sát hành trình lắp đặt trên tàu cá: Tàu cá có chiều dài lớn nhất từ 15 mét trở lên đang lắp đặt, sử dụng thiết bị giám sát hành trình đáp ứng các yêu cầu theo quy định tại khoản 2 và  khoản 3 Điều 26 Nghị định số 41/2026/NĐ-CP (thiết bị được cơ quan quản lý nhà nước về thủy sản thuộc Bộ Nông nghiệp và Môi trường thông báo đủ điều kiện lắp đặt trên tàu cá). 
+- Hỗ trợ cước phí thuê bao dịch vụ cho hệ thống Nhật ký khai thác thủy sản và Nhật ký thu mua, chuyển tải thủy sản điện tử: Tàu cá có chiều dài lớn nhất từ 15 mét trở lên đang sử dụng hệ thống Nhật ký khai thác thủy sản và Nhật ký thu mua, chuyển tải thủy sản điện tử đã được cơ quan quản lý nhà nước về thủy sản thuộc Bộ Nông nghiệp và Môi trường thông báo đủ điều kiện tích hợp với hệ thống Nhật ký khai thác thủy sản và Nhật ký thu mua, chuyển tải thủy sản điện tử dùng chung của Bộ Nông nghiệp và Môi trường.
+- Tàu cá có đầy đủ các giấy tờ còn hạn sử dụng (Giấy chứng nhận đăng ký tàu cá, Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy phép khai thác thủy sản, Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm). 
+d) Đối với hỗ trợ xử lý dứt điểm tàu cá không đủ điều kiện hoạt động:  Tàu cá đề nghị hỗ trợ phải đáp ứng các điều kiện sau:
+- Hủy, phá dỡ tàu cá: Tàu cá có chiều dài lớn nhất từ 06 mét trở lên có Giấy chứng nhận đăng ký tàu cá hoặc Giấy xác nhận đã đăng ký tàu cá. Chỉ áp dụng đối với các trường hợp tàu cá không đủ điều kiện đăng ký tàu cá hoặc đăng kiểm tàu cá theo quy định. Không áp dụng hỗ trợ đối với tàu cá không còn khả năng hoạt động (tàu chìm, đắm chưa trục vớt hoặc tàu mục, nát hoặc không có máy thủy trên tàu). Trước khi thực hiện hủy, phá dỡ tàu cá, chủ tàu cá phải thông báo cho Chi cục Biển đảo và Thủy sản biết để phối hợp với các đơn vị, địa phương liên quan kiểm tra, giám sát trong quá trình triển khai thực hiện. Được cơ quan có thẩm quyền cấp Giấy chứng nhận xóa đăng ký tàu cá sau khi hoàn thành hủy, phá dỡ tàu cá.
+- Mua máy thủy (máy chính): Tàu cá có chiều dài lớn nhất từ 12 mét trở lên đang lắp đặt trên tàu cá máy chính (máy thủy hoặc máy bộ) không đủ điều kiện đăng kiểm theo quy định. Máy thủy được đề nghị hỗ trợ có đầy đủ hóa đơn, chứng từ theo quy định. Trước khi thực hiện lắp đặt máy thủy trên tàu cá, chủ tàu cá phải thông báo cho Chi cục Biển đảo và Thủy sản biết để phối hợp với các đơn vị, địa phương liên quan kiểm tra, giám sát trong quá trình triển khai thực hiện. Được cơ sở đăng kiểm tàu cá cấp Giấy chứng nhận an toàn kỹ thuật tàu cá sau khi hoàn thành thay thế máy chính lắp đặt trên tàu cá.
+đ) Đối với hỗ trợ chuyển đổi nghề: Tàu cá đề nghị hỗ trợ phải đáp ứng các điều kiện sau:
+- Tàu cá có chiều dài lớn nhất từ 12 mét đến dưới 15 mét có đầy đủ các giấy tờ còn hạn sử dụng (Giấy chứng nhận đăng ký tàu cá, Giấy chứng nhận an toàn kỹ thuật tàu cá, Giấy phép khai thác thủy sản, Bản cam kết sản xuất, kinh doanh thực phẩm nông lâm thủy sản an toàn). 
+- Nghề khai thác đề nghị chuyển đổi không thuộc danh mục nghề cấm.
+- Chủ tàu cá phải cam kết sử dụng ngư cụ, trang thiết bị phục vụ khai thác trên tàu tối thiểu là 03 năm (36 tháng) kể từ ngày nhận được kinh phí hỗ trợ theo quy định. Trước khi thực hiện chuyển đổi nghề trên tàu cá, chủ tàu cá phải thông báo cho Chi cục Biển đảo và Thủy sản biết để phối hợp với các đơn vị, địa phương liên quan kiểm tra, giám sát trong quá trình triển khai thực hiện.
+- Được cơ quan có thẩm quyền cấp Giấy phép khai thác thuỷ sản sau khi hoàn thành chuyển đổi nghề.

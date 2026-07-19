@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000379
+Số quyết định: 1211/QĐ-BCA
+Tên thủ tục: Cấp Giấy phép cung cấp dịch vụ bảo đảm an ninh hàng không tại cảng hàng không, sân bay
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Bảo đảm an ninh hàng không
+Trình tự thực hiện:
+    a) Nộp hồ sơ thủ tục hành chính:
+    Cá nhân, tổ chức đề nghị cấp Giấy phép cung cấp dịch vụ đảm bảo an ninh hàng không tại cảng hàng không, sân bay phải gửi hồ sơ trực tiếp hoặc qua hệ thống bưu chính hoặc trên môi trường điện tử hoặc bằng các hình thức khác đến Cục Quản lý xuất nhập cảnh và phải chịu trách nhiệm về tính chính xác, trung thực của các thông tin trong hồ sơ.
+    a) Giải quyết thủ tục hành chính:
+    Trong thời hạn 12 ngày kể từ ngày nhận đủ hồ sơ đề nghị cấp giấy phép theo quy định, Cục Quản lý xuất nhập cảnh cấp Giấy phép cung cấp dịch vụ hàng không tại cảng hàng không, sân bay theo mẫu. Trường hợp không cấp giấy phép Cục Quản lý xuất nhập cảnh phải gửi văn bản trả lời người đề nghị và nêu rõ lý do.
+    Trường hợp hồ sơ chưa hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Quản lý xuất nhập cảnh phải có văn bản trả lời hướng dẫn người đề nghị hoàn thiện hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (- Cung cấp dịch vụ tại cảng hàng không quốc tế: 50.000.000 đồng - Cung cấp dịch vụ tại cảng hàng không khác: 30.000.000 đồng)
+    Mô tả: Trong thời hạn 12 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (- Cung cấp dịch vụ tại cảng hàng không quốc tế: 50.000.000 đồng - Cung cấp dịch vụ tại cảng hàng không khác: 30.000.000 đồng)
+    Mô tả: Trong thời hạn 12 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (- Cung cấp dịch vụ tại cảng hàng không quốc tế: 50.000.000 đồng - Cung cấp dịch vụ tại cảng hàng không khác: 30.000.000 đồng)
+    Mô tả: Trong thời hạn 12 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp giấy phép (theo mẫu)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao tài liệu giải trình của doanh nghiệp về việc đáp ứng các quy định tại khoản 1 Điều 16 của Nghị định số 92/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản chính hoặc bản sao điện tử có chứng thực từ bản chính văn bản xác nhận vốn trừ trường hợp doanh nghiệp có tổ chức bộ máy bảo đảm việc cung ứng các dịch vụ hàng không liên quan tại cảng hàng không, sân bay theo quy định của pháp luật về hàng không dân dụng
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục quản lý xuất nhập cảnh
+Cơ quan có thẩm quyền: Cục quản lý xuất nhập cảnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép cung cấp dịch vụ hàng không tại cảng hàng không, sân bay.
+Căn cứ pháp lý:
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Nghị định 64/2022/NĐ-CP (64/2022/NĐ-CP)
+  * Sửa đổi Nghị định 30/2013/NĐ-CP về kinh doanh vận chuyển hàng không và hoạt động hàng không chung và Nghị định 92/2016/NĐ-CP quy định về các ngành, nghề kinh doanh có điều kiện trong lĩnh vực hàng không dân dụng (15/2024/NĐ-CP)
+  * về kinh doanh vận chuyển hàng không và hoạt động hàng không chung (30/2013/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

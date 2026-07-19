@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000249
+Số quyết định: 2286/QĐ-BNG
+Tên thủ tục: Thủ tục cấp thẻ tạm trú cho người nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Ưu đãi, miễn trừ
+Trình tự thực hiện:
+    Bộ Ngoại giao (Cục Lễ tân Nhà nước/Sở Ngoại vụ Thành phố Hồ Chí Minh) tiếp nhận hồ sơ đề nghị cấp thẻ tạm trú cho người nước ngoài là thành viêncơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện của tổ chức quốc tế tại Việt Nam và vợ, chồng, con dưới 18 tuổi, người giúp việc.
+    Bộ Ngoại giao (Cục Lễ tân Nhà nước/Sở Ngoại vụ Thành phố Hồ Chí Minh) kiểm tra tính đầy đủ của hồ sơ và yêu cầu bổ sung nếu cần.
+    Sau khi xác định hồ sơ hợp lệ và đáp ứng đủ yêu cầu, Bộ ngoại giao (Cục Lễ tân Nhà nước/Sở Ngoại vụ Thành phố Hồ Chí Minh) trả ra kết quả là thẻ tạm trú.
+    Trong thời gian 05 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, Bộ Ngoại giao (Cục Lễ tân Nhà nước/Sở Ngoại vụ Thành phố Hồ Chí Minh) trả kết quả bằng hình thức trực tiếp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Đối với các cơ quan đại diện ngoại giao, cơ quan đại diện của các tổ chức quốc tế tại Hà Nội: đăng ký và khai hồ sơ trực tuyến qua Cổng Dịch vụ công của Bộ Ngoại giao; nộp hồ sơ trực tiếp/gửi qua dịch vụ bưu chính đến Cục Lễ tân Nhà nước.
+- Đối với các cơ quan đại diện ngoại giao, cơ quan đại diện của các tổ chức quốc tế tại các tỉnh phía Nam (từ Đà Nẵng trở vào): đăng ký và khai hồ sơ trực tuyến qua Cổng Dịch vụ công của Bộ Ngoại giao; nộp hồ sơ trực tiếp/gửi qua dịch vụ bưu chính đến Sở Ngoại vụ TP.HCM
+
+Thành phần hồ sơ:
+    - Trường hợp thuộc diện tăng biên chế của cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện của tổ chức quốc tế tại Việt Nam, cần bổ sung công hàm của Bộ Ngoại giao nước cử thông báo về việc tăng biên chế.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hộ chiếu bản gốc, còn giá trị sử dụng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Công hàm đề nghị cấp thẻ tạm trú của cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện của tổ chức quốc tế tại Việt Nam, trong đó ghi rõ các thông tin: họ tên, ngày sinh, quốc tịch, giới tính, số và ký hiệu hộ chiếu, nghề nghiệp, chức vụ của người đề nghị cấp thẻ tạm trú (tham khảo mẫu NA6 ban hành kèm theo Thông tư 04/2015/TT-BCA của Bộ Công an). Đối với trường hợp thay biên chế hoặc bổ sung biên chế mới của cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện của tổ chức quốc tế tại Việt Nam thì công hàm đề nghị cấp thẻ tạm trú cần ghi rõ họ tên, chức danh của người được thay biên chế hoặc người được bổ sung biên chế.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai đề nghị cấp thẻ tạm trú (theo mẫu NA8ban hành kèm theo Thông tư 04/2015/TT-BCA của Bộ Công an), có xác nhận của người có thẩm quyền của cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện của tổ chức quốc tế tại Việt Nam.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người nước ngoài
+Cơ quan thực hiện: Cục Lễ tân Nhà nước và Phiên dịch đối ngoại - Bộ Ngoại giao, Sở Ngoại vụ Thành phố Hồ Chí Minh - Bộ Ngoại giao
+Cơ quan có thẩm quyền: Cục Lễ tân Nhà nước và Phiên dịch đối ngoại - Bộ Ngoại giao, Sở Ngoại vụ Thành phố Hồ Chí Minh - Bộ Ngoại giao
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thẻ tạm trú
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -27,11 +27,11 @@
 
 - Backend: demo pack/trust/copilot/config/dependencies, feedback model/router, tests.
 - Frontend: procedure-case types/reducer/trust/checklist/precheck/feedback API va tests.
-- Docs/config: D-017, `.env.example`, Context Pack.
+- Docs/config: D-024, `.env.example`, Context Pack.
 - API: additive `demo_mode`; additive `POST /v1/feedback`; khong xoa/doi route hien co.
 - Khong cham: raw `Data_DVC`, ignored artifacts, `.env`, cloud resources, deployment settings.
 - Risk: `shared` (API + demo flow).
-- Decision: D-013, D-014, D-016 va D-017.
+- Decision: D-013, D-014, D-023 va D-024.
 
 ## Context duoc chon loc
 

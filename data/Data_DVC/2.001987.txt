@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001987
+Số quyết định: 1181/QĐ-BGDĐT
+Tên thủ tục: Đề nghị được kinh doanh dịch vụ tư vấn du học trở lại
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Các cơ sở giáo dục khác
+Trình tự thực hiện:
+    Trong thời hạn bị đình chỉ, nếu nguyên nhân dẫn đến việc đình chỉ được khắc phục thì tổ chức kinh doanh dịch vụ tư vấn du học thông báo bằng văn bản kèm theo minh chứng cho Giám đốc Sở Giáo dục và Đào tạo. Trong thời hạn 07 ngày làm việc, kể từ ngày nhận được thông báo của tổ chức kinh doanh dịch vụ tư vấn du học, Giám đốc Sở Giáo dục và Đào tạo quyết định cho phép tổ chức kinh doanh dịch vụ tư vấn du học được hoạt động trở lại và công bố công khai trên các phương tiện thông tin đại chúng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 07 ngày làm việc, kể từ ngày nhận được thông báo của tổ chức kinh doanh dịch vụ tư vấn du học.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 07 ngày làm việc, kể từ ngày nhận được thông báo của tổ chức kinh doanh dịch vụ tư vấn du học.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 07 ngày làm việc, kể từ ngày nhận được thông báo của tổ chức kinh doanh dịch vụ tư vấn du học.
+
+Thành phần hồ sơ:
+    - Văn bản thông báo nguyên nhân dẫn đến việc đình chỉ được khắc phục kèm theo minh chứng
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Giáo dục và Đào tạo
+Cơ quan có thẩm quyền: Giám đốc Sở Giáo dục và Đào tạo
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cho phép kinh doanh dịch vụ tư vấn du học trở lại của Giám đốc Sở Giáo dục và Đào tạo
+Căn cứ pháp lý:
+  * Nghị định quy định điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục (125/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Trong thời hạn bị đình chỉ, nếu nguyên nhân dẫn đến việc đình chỉ được khắc phục.
+Từ khóa: Không có thông tin
+Mô tả: Trong thời hạn bị đình chỉ, nếu nguyên nhân dẫn đến việc đình chỉ được khắc phục.

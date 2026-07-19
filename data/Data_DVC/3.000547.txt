@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000547
+Số quyết định: 02.1/QĐ-UBND
+Tên thủ tục: Thủ tục Hỗ trợ tổ chức các lớp tập huấn, bồi dưỡng nghiệp vụ, kiến thức chuyên môn về du lịch và ngoại ngữ giao tiếp trong hoạt động du lịch
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Du lịch
+Trình tự thực hiện:
+    1. Các tổ chức, cá nhân kinh doanh du lịch trên địa bàn tỉnh Ninh Bình tổ chức các lớp tập huấn, bồi dưỡng nghiệp vụ, kiến thức chuyên môn về du lịch và ngoại ngữ giao tiếp trong hoạt động du lịch, gửi hồ sơ hỗ trợ đến Cổng dịch vụ công quốc gia.
+    2. Sở Du lịch kiểm tra thành phần hồ sơ đề nghị hỗ trợ; chủ trì, phối hợp với các cơ quan có liên quan thẩm định hồ sơ đề nghị hỗ trợ.
+    - Trường hợp hồ sơ chưa đủ điều kiện: Trong thời gian 10 ngày làm việc kể từ ngày nhận hồ sơ đề nghị hỗ trợ, Sở Du lịch tỉnh Ninh Bình trả lời bằng văn bản cho tổ chức, cá nhân đề nghị hỗ trợ (trong đó nêu rõ lý do hồ sơ chưa đủ điều kiện).
+    - Trường hợp hồ sơ đủ điều kiện: Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Du lịch có văn bản đề xuất hỗ trợ kèm theo hồ sơ đề nghị hỗ trợ của tổ chức, cá nhân gửi Sở Tài chính.
+    Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ từ Sở Du lịch, Sở Tài chính xem xét, thẩm định và trình Uỷ ban nhân dân tỉnh quyết định hỗ trợ.
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ trình của Sở Tài chính, Uỷ ban nhân dân tỉnh quyết định phê duyệt kinh phí hỗ trợ và giao Sở Tài chính cấp kinh phí cho Sở Du lịch để thực hiện chi trả kinh phí hỗ trợ cho tổ chức, cá nhân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 27 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 2. Sở Du lịch kiểm tra thành phần hồ sơ đề nghị hỗ trợ; chủ trì, phối hợp với các cơ quan có liên quan thẩm định hồ sơ đề nghị hỗ trợ.
+- Trường hợp hồ sơ chưa đủ điều kiện: Trong thời gian 10 ngày làm việc kể từ ngày nhận hồ sơ đề nghị hỗ trợ, Sở Du lịch tỉnh Ninh Bình trả lời bằng văn bản cho tổ chức, cá nhân đề nghị hỗ trợ (trong đó nêu rõ lý do hồ sơ chưa đủ điều kiện).
+- Trường hợp hồ sơ đủ điều kiện: Trong thời hạn 15 ngày làm việc kể từ ngày nhận được hồ sơ, Sở Du lịch có văn bản đề xuất hỗ trợ kèm theo hồ sơ đề nghị hỗ trợ của tổ chức, cá nhân gửi Sở Tài chính.
+Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ từ Sở Du lịch, Sở Tài chính xem xét, thẩm định và trình Uỷ ban nhân dân tỉnh quyết định hỗ trợ.
+Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ trình của Sở Tài chính, Uỷ ban nhân dân tỉnh quyết định phê duyệt kinh phí hỗ trợ và giao Sở Tài chính cấp kinh phí cho Sở Du lịch để thực hiện chi trả kinh phí hỗ trợ cho tổ chức, cá nhân.
+
+Thành phần hồ sơ:
+    - Danh sách giảng viên kèm lý lịch khoa học hoặc giấy tờ chứng minh trình độ, kinh nghiệm giảng dạy;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính hoặc bản sao các hoá đơn, chứng từ hợp pháp để chứng minh chi phí tổ chức lớp tập huấn, bồi dưỡng (trường hợp nộp bản sao thì phải xuất trình bản chính để đối chiếu).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách học viên tham gia lớp tập huấn, bồi dưỡng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Kế hoạch, bảng kê kinh phí tổ chức lớp tập huấn, bồi dưỡng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị hỗ trợ (theo mẫu);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Sở Du lịch - tỉnh Ninh Bình
+Cơ quan có thẩm quyền: UBND tỉnh Ninh Bình
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: ,.Quyết định phê duyệt hỗ trợ
+Căn cứ pháp lý:
+  * ban hành Quy định chính sách hỗ trợ phát triển du lịch trên địa bàn tỉnh Ninh Bình giai đoạn 2025-2030 (44/2025/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

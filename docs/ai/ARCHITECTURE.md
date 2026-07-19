@@ -2,7 +2,7 @@
 
 > Trạng thái: **hybrid** — scaffold frontend/backend theo D-005 và target trust/RAG/data release/widget/deploy theo D-006 đã được chấp thuận. Capability runtime chỉ được coi là có khi có evidence triển khai riêng.
 >
-> Cập nhật gần nhất: 2026-07-17
+> Cập nhật gần nhất: 2026-07-18
 >
 > Decision liên quan: D-005, D-006, D-007 và D-008
 >
@@ -22,8 +22,8 @@ Tài liệu này phân biệt **baseline có trong repo** với **target archite
 
 | Vùng | Bằng chứng source hiện có | Giới hạn hiện tại |
 | --- | --- | --- |
-| `frontend/` | Một ứng dụng Next.js khởi tạo, có scripts `dev`, `build`, `start`, `lint`. | Chưa phải UI Procedure Copilot, chưa có chat/form/checklist/widget. |
-| `backend/` | FastAPI API foundation, CORS allowlist, request ID/error envelope, health, deterministic rule engine và adapter ports. | Không có approved data release, RAG/vector runtime, external LLM, account storage; Cloud Run backend-only vẫn chờ candidate smoke theo D-012. |
+| `frontend/` | Web Procedure Copilot có intake/chat, checklist, form và pre-check UI; client giữ `SessionContext` trong browser session. | Chưa có procedure pack K1 đã duyệt; production chỉ được hiển thị fallback fail-closed. |
+| `backend/` | FastAPI API foundation, CORS allowlist, request ID/error envelope, health, deterministic rule engine và adapter ports; Cloud Run production-disabled đã smoke. | Không có approved data release, RAG/vector runtime, external LLM hay account storage. |
 | API foundation | `GET /health`, `GET /v1/procedures`, `POST /v1/procedures/recommend`, `POST /v1/intake/turn`, `POST /v1/procedures/{id}/checklist`, `POST /v1/applications/validate`. | Dev fixture chỉ cho integration và luôn `official_review_required`; contract vẫn cần peer review trước khi consumer phụ thuộc sâu. |
 
 Dev fixture, seed, citation và rule trong API foundation không tự chứng minh tính chính xác pháp lý. Chỉ Procedure Pack đã qua source governance, K1 và release mới có thể cấp `verified_guidance`.

@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002610
+Số quyết định: 2757/QĐ-BTC
+Tên thủ tục: Đăng ký tham gia Hệ thống mạng đấu thầu quốc gia
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Đấu thầu
+Trình tự thực hiện:
+    Bước 1: Đăng ký thông tin tổ chức, cá nhân
+    + Tổ chức, cá nhân nhập thông tin vào đơn đăng ký được hình thành trên Hệ thống mạng đấu thầu quốc gia tại địa chỉ https://muasamcong.mof.gov.vn hoặc Cổng dịch vụ công quốc gia (nếu có) (sau đây gọi tắt là Hệ thống);
+    + Tổ chức, cá nhân nộp Hồ sơ đăng ký theo quy định tại điểm c khoản này trên Hệ thống;
+    - Bước 2: Nhận kết quả xử lý Hồ sơ đăng ký và thông tin tài khoản đăng nhập của tổ chức, cá nhân tham gia Hệ thống qua thư điện tử.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+
+Thành phần hồ sơ:
+  [ + Tổ chức nộp Hồ sơ đăng ký trên Hệ thống gồm các tài liệu sau: ]
+    - (i) Đơn đăng ký hình thành trên Hệ thống được ký hoặc xác thực điện tử, đóng dấu (nếu có) bởi đại diện hợp pháp của tổ chức
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (ii) Giấy ủy quyền (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (iii) Quyết định thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký hộ kinh doanh hoặc Giấy chứng nhận đăng ký hợp tác xã, liên hiệp hợp tác xã, tổ hợp tác hoặc các tài liệu tương đương khác trong trường hợp tổ chức không có tên trên Hệ thống thông tin quốc gia về đăng ký doanh nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ + Cá nhân nộp Hồ sơ đăng ký trên Hệ thống gồm các tài liệu sau ]
+    - (ii) Bản chụp hộ chiếu hoặc tài liệu tương đương đối với cá nhân mang quốc tịch nước  ngoài.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (i) Đơn đăng ký hình thành trên Hệ thống được ký hoặc xác thực điện tử bởi cá nhân đăng ký;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cục Quản lý đấu thầu - Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Nhà thầu, nhà đầu tư có tên trong danh sách cơ sở dữ liệu nhà thầu, nhà đầu tư được phê duyệt trên Hệ thống, được cấp Tài khoản tham gia Hệ thống
+Căn cứ pháp lý:
+  * Nghị định số 214/2025/NĐ-CP của Chính phủ: Quy định chi tiết một số điều và biện pháp thi hành Luật Đấu thầu về lựa chọn nhà thầu (214/2025/NĐ-CP)
+  * Luật Đấu thầu (22/2023/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

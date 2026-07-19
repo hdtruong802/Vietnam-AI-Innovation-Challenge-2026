@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000198
+Số quyết định: 01/QĐ-BNNMT
+Tên thủ tục: Công nhận nguồn giống cây trồng lâm nghiệp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Lâm nghiệp và Kiểm lâm
+Trình tự thực hiện:
+    - Bước 1: Tổ chức, cá nhân nộp 01 bộ hồ sơ đề nghị công nhận nguồn giống cây trồng lâm nghiệp theo quy định tại điểm c khoản này đến Cơ quan chuyên môn về lâm nghiệp thuộc Sở Nông nghiệp và Môi trường theo cách thức trực tiếp tại Bộ phận một cửa hoặc qua dịch vụ bưu chính công ích hoặc qua dịch vụ bưu chính hoặc trực tuyến tại Cổng dịch vụ công quốc gia.
+    - Bước 2: Cơ quan chuyên môn về lâm nghiệp thuộc Sở Nông nghiệp và Môi trường kiểm tra và tiếp nhận ngay khi hồ sơ đảm bảo tính đầy đủ đối với hồ sơ nộp trực tiếp; kiểm tra và tiếp nhận trong thời hạn 01 ngày làm việc đối với hồ sơ nộp qua dịch vụ bưu chính công ích hoặc nộp qua dịch vụ bưu chính hoặc nộp trực tuyến tại Cổng dịch vụ công quốc gia, trường hợp thành phần hồ sơ không hợp lệ thì trả lời bằng văn bản và nêu rõ lý do.
+    - Bước 3: Trong thời hạn 12 ngày làm việc kể từ ngày nhận hồ sơ hợp lệ, Cơ quan chuyên môn về lâm nghiệp thuộc Sở Nông nghiệp và Môi trường thành lập Hội đồng thẩm định, tổ chức thẩm định hồ sơ, kiểm tra hiện trường, lập biên bản và báo cáo thẩm định theo tiêu chuẩn quốc gia.
+    - Bước 4: Trong thời hạn 02 ngày làm việc kể từ ngày hoàn thành báo cáo thẩm định, Thủ trưởng Cơ quan chuyên môn về lâm nghiệp thuộc Sở Nông nghiệp và Môi trường quyết định công nhận nguồn giống theo Mẫu số 06 Phụ lục I và Mục B Phụ lục II ban hành kèm theo Thông tư này, trả kết quả và công bố trên Cổng thông tin điện tử của Sở Nông nghiệp và Môi trường; trường hợp không công nhận phải thông báo bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (- Công nhận lâm phần tuyển chọn: 600.000 đồng/lô giống; - Công nhận vườn giống: 2.400.000 đồng/vườn giống; - Bình tuyển, công nhận cây mẹ, cây đầu dòng, vườn giống cây lâm nghiệp, rừng giống: Hội đồng nhân dân cấp tỉnh quyết định đối với hoạt động bình tuyển, công nhận do cơ quan địa phương thực hiện.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (- Công nhận lâm phần tuyển chọn: 600.000 đồng/lô giống; - Công nhận vườn giống: 2.400.000 đồng/vườn giống; - Bình tuyển, công nhận cây mẹ, cây đầu dòng, vườn giống cây lâm nghiệp, rừng giống: Hội đồng nhân dân cấp tỉnh quyết định đối với hoạt động bình tuyển, công nhận do cơ quan địa phương thực hiện.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 14 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (- Công nhận lâm phần tuyển chọn: 600.000 đồng/lô giống; - Công nhận vườn giống: 2.400.000 đồng/vườn giống; - Bình tuyển, công nhận cây mẹ, cây đầu dòng, vườn giống cây lâm nghiệp, rừng giống: Hội đồng nhân dân cấp tỉnh quyết định đối với hoạt động bình tuyển, công nhận do cơ quan địa phương thực hiện.)
+
+Thành phần hồ sơ:
+    - - Bản chính báo cáo kết quả khảo nghiệm hoặc trồng thử nghiệm giống cây trồng lâm nghiệp theo Mẫu số 02 Phụ lục I ban hành kèm theo Thông tư số 84/2025/TT-BNNMT ngày 31 tháng 12 năm 2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường quy định chi tiết một số nội dung của Luật Lâm nghiệp và sửa đổi, bổ sung một số Thông tư trong lĩnh vực lâm nghiệp và kiểm lâm;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Đối với giống nhập khẩu: kèm hồ sơ, tài liệu về năng suất, chất lượng, điều kiện sinh thái nơi lấy giống tại nước xuất khẩu (bản sao).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Bản chính văn bản đề nghị công nhận giống cây trồng lâm nghiệp theo Mẫu số 01 Phụ lục I ban hành kèm theo Thông tư số 84/2025/TT-BNNMT ngày 31 tháng 12 năm 2025 của Bộ trưởng Bộ Nông nghiệp và Môi trường quy định chi tiết một số nội dung của Luật Lâm nghiệp và sửa đổi, bổ sung một số Thông tư trong lĩnh vực lâm nghiệp và kiểm lâm;
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Chi cục Lâm nghiệp và Kiểm lâm
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công nhận nguồn giống cây trồng lâm nghiệp
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

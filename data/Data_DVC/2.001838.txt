@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001838
+Số quyết định: 1049/QĐ-BNNMT
+Tên thủ tục: Cấp đổi Phiếu kiểm soát thu hoạch sang Giấy chứng nhận xuất xứ cho lô nguyên liệu nhuyễn thể hai mảnh vỏ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Quản lý chất lượng nông lâm sản và thủy sản
+Trình tự thực hiện:
+    Bước 1: Gửi hồ sơ.
+    Bước 2: Xử lý hồ sơ
+    Bước 3: Cấp đổi sang Giấy chứng nhận xuất xứ (nếu hợp lệ) hoặc có văn bản trả lời cơ sở về lý do không cấp Giấy chứng nhận xuất xứ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Phiếu kiểm soát thu hoạch theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận xuất xứ nhuyễn thể hai mảnh vỏ
+Căn cứ pháp lý:
+  * Quy định về giám sát vệ sinh, an toàn thực phẩm trong thu hoạch nhuyễn thể hai mảnh vỏ (33/2015/TT-BNNPTNT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

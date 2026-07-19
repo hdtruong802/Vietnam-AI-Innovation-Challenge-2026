@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000491
+Số quyết định: 5461/QĐ-BCA-C07
+Tên thủ tục: Cấp Giấy phép lưu thông phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Phòng cháy, chữa cháy
+Trình tự thực hiện:
+    - Bước 1: cá nhân, tổ chức chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: cá nhân, tổ chức nộp hồ sơ tại Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh, thành phố trực thuộc trung ương.
+    - Bước 3: cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ (các văn bản giấy tờ có trong hồ sơ khi gửi cơ quan Công an là bản chính hoặc bản chứng thực hoặc bản sao hoặc bản chụp kèm theo bản chính để cán bộ tiếp nhận hồ sơ đối chiếu trong trường hợp nộp trực tiếp hoặc qua bưu chính công ích; bản chính hoặc bản chứng thực điện tử trong trường hợp nộp hồ sơ trực tuyến qua Cổng Dịch vụ công.
+    + Nếu hồ sơ hợp lệ và đủ thành phần thì viết giấy tiếp nhận hồ sơ và hẹn trả kết quả hoặc thông báo về việc tiếp nhận hồ sơ qua Cổng Dịch vụ công;
+    + Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì viết phiếu yêu cầu bổ sung, hoàn thiện hồ sơ hoặc phiếu từ chối tiếp nhận, giải quyết hồ sơ hoặc thông báo về việc yêu cầu chỉnh sửa, bổ sung hồ sơ qua Cổng Dịch vụ công.
+    - Bước 4: căn cứ theo ngày hẹn trên giấy tiếp nhận hồ sơ và hẹn trả kết quả hoặc thông báo qua thư điện tử hoặc tin nhắn điện thoại, cá nhân, tổ chức đến nơi nộp hồ sơ để nhận kết quả trực tiếp hoặc qua dịch vụ bưu chính công ích hoặc nhận kết quả điện tử trên tài khoản dịch vụ công đã nộp hồ sơ trước đó.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trực tiếp: nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh, thành phố trực thuộc trung ương. - Dịch vụ bưu chính công ích: nộp hồ sơ qua dịch vụ bưu chính công ích. - Trực tuyến: nộp hồ sơ tại Cổng Dịch vụ công.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trực tiếp: nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh, thành phố trực thuộc trung ương. - Dịch vụ bưu chính công ích: nộp hồ sơ qua dịch vụ bưu chính công ích. - Trực tuyến: nộp hồ sơ tại Cổng Dịch vụ công.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trực tiếp: nộp hồ sơ trực tiếp tại Bộ phận Một cửa thuộc Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh, thành phố trực thuộc trung ương. - Dịch vụ bưu chính công ích: nộp hồ sơ qua dịch vụ bưu chính công ích. - Trực tuyến: nộp hồ sơ tại Cổng Dịch vụ công.
+
+Thành phần hồ sơ:
+  [ Đối với phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ nhập khẩu ]
+    - Bản chính hoặc bản chứng thực hoặc bản sao kèm bản chính để đối chiếu giấy chứng nhận xuất xứ của phương tiện phòng cháy, chữa cháy, cứu  nạn, cứu hộ.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản chính văn bản đề nghị cấp phép lưu thông phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ (Mẫu số PC20 ban hành kèm theo Nghị định số 105/2025/NĐ-CP ngày 15/5/2025 của  Chính phủ).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản chính hoặc bản chứng thực hoặc bản sao kèm bản chính để đối chiếu tài liệu kỹ thuật của phương tiện phòng cháy, chữa cháy, cứu nạn,  cứu hộ (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản chính hoặc bản chứng thực hoặc bản sao kèm bản chính để đối chiếu chứng nhận chất lượng, kết quả thử nghiệm đúng với tiêu chuẩn, quy chuẩn quy định tại khoản 2 Điều 44 Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ do tổ chức thử nghiệm nước ngoài đã được chứng nhận phù hợp với tiêu chuẩn ISO/IEC 17025 thực hiện có chứng chỉ công nhận tổ chức thử  nghiệm.
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ Đối với phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ được sản xuất, lắp ráp trong nước ]
+    - Bản chính văn bản đề nghị cấp phép lưu thông phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ (Mẫu số PC20 ban hành kèm theo  Nghị định số 105/2025/NĐ-CP ngày 15/5/2025 của Chính phủ).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản chính hoặc bản chứng thực hoặc bản sao kèm bản chính để đối chiếu tài liệu kỹ thuật của phương tiện phòng  cháy, chữa cháy, cứu nạn, cứu hộ (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản chính hoặc bản chứng thực hoặc bản sao kèm bản chính để đối chiếu giấy chứng nhận xuất xưởng của phương tiện  phòng cháy, chữa cháy, cứu nạn, cứu hộ.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản chính hoặc bản chứng thực hoặc bản sao kèm bản chính để đối chiếu kết quả thử nghiệm đúng với tiêu chuẩn công bố áp dụng, quy chuẩn kỹ thuật tương ứng do tổ chức đánh giá sự phù hợp thực hiện hoạt động thử nghiệm sản phẩm, hàng hóa theo quy định của pháp luật về chất lượng sản phẩm, hàng hóa và pháp luật về tiêu  chuẩn, quy chuẩn kỹ thuật.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Doanh nghiệp
+Cơ quan thực hiện: Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ TP HCM
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép lưu thông phương tiện phòng cháy, chữa cháy, cứu nạn, cứu hộ (Mẫu số PC21 ban hành kèm theo Nghị định số 105/2025/NĐ-CP ngày 15/5/2025 của Chính phủ).
+Căn cứ pháp lý:
+  * quy định chi tiết một số điều và biện pháp thi hành luật phòng cháy, chữa cháy và cứu nạn, cứu hộ (105/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002605
+Số quyết định: 1507/QĐ-BCT
+Tên thủ tục: Sửa đổi giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam.
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Xúc tiến thương mại
+Trình tự thực hiện:
+    +) Tổ chức Xúc tiến thương mại nước ngoài gửi hồ sơ đề nghị sửa đổi giấy phép đến Sở Công Thương tỉnh, thành phố nơi đặt trụ sở Văn phòng đại diện trong thời hạn 30 ngày kể từ ngày có sự thay đổi theo các trường hợp quy định tại khoản 1 Điều 27 Nghị định số 28/2018/NĐ-CP (điểm a, điểm b được sửa đổi theo quy định tại điểm a, điểm b khoản 2 Điều 1 Nghị định số 14/2024/NĐ-CP).
+    +) Sở Công Thương tỉnh, thành phố xem xét sửa đổi Giấy phép. Trường hợp không sửa đổi phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Bản sao Giấy đăng ký thành lập hoặc giấy tờ có giá trị tương đương của tổ chức xúc tiến thương mại nước ngoài được cơ quan có thẩm quyền nơi tổ chức xúc tiến thương mại nước ngoài thành lập hoặc đăng ký kinh doanh xác nhận. Các giấy tờ này phải dịch ra tiếng Việt và được hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam (áp dụng trong trường hợp sửa đổi theo quy định tại điểm d, điểm đ, điểm e khoản 1 Điều 27 Nghị định số 28/2018/NĐ-CP).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Văn bản đề nghị sửa đổi Giấy phép thành lập Văn phòng đại diện theo Mẫu số 03 ban hành kèm theo Nghị định số 14/2024/NĐ-CP do đại diện có thẩm quyền của tổ chức xúc tiến thương mại nước ngoài ký;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Văn bản, giấy tờ bổ nhiệm người đứng đầu Văn phòng đại diện mới của tổ chức xúc tiến thương mại được dịch ra tiếng Việt và hợp pháp hóa lãnh sự theo quy định của pháp luật Việt Nam (áp dụng trong trường hợp sửa đổi theo quy định tại điểm a khoản 1 Điều 27 Nghị định số 28/2018/NĐ-CP, được sửa đổi tại điểm a khoản 2 Điều 1 của Nghị định số 14/2024/NĐ-CP);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bản gốc Giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài
+Cơ quan thực hiện: Sở Công Thương tỉnh, thành phố trực thuộc trung ương.
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản nêu rõ lý do không sửa đổi Giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam, Giấy phép sửa đổi thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam
+Căn cứ pháp lý:
+  * Quy định chi tiết Luật Quản lý ngoại thương về một số biện pháp phát triển ngoại thương (28/2018/NĐ-CP)
+  * Nghị định số 14/2024/NĐ-CP (14/2024/NĐ-CP)
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Nghị định số 230/2026/NĐ-CP ngày 25/6/2026 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 28/2018/NĐ-CP ngày 01/3/2018 của Chính phủ quy định chi tiết Luật quản lý ngoại thương về một số biện pháp phát triển ngoại thương đã được sửa đổi, bổ sung theo Nghị định số 14/2024/NĐ-CP ngày 07/02/2024 của Chính phủ; (230/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không quy định
+Từ khóa: Không có thông tin
+Mô tả: Không quy định

@@ -9,6 +9,14 @@ export type TrustState =
 
 export type ReviewGate = "U1" | "U2" | "U3";
 
+export type IntakeTurnType =
+  | "free_text"
+  | "procedure_select"
+  | "clarification_answer"
+  | "review_acknowledgement";
+
+export type JourneyStepStatus = "complete" | "current" | "upcoming" | "blocked";
+
 export type FindingSeverity = "error" | "warning" | "info";
 
 export type PrecheckVerdict = "pass_preliminary" | "needs_fix";
@@ -34,10 +42,10 @@ export interface TrustMetadata {
 export interface SessionContext {
   procedure_id: string | null;
   procedure_version: string | null;
-  clarification_answers: Record<string, unknown>;
+  clarification_answers: Record<string, string>;
   pending_question_ids: string[];
-  acknowledged_review_gates: string[];
-  reviewed_document_ids: string[];
+  acknowledged_review_gates?: ReviewGate[];
+  reviewed_document_ids?: string[];
 }
 
 export function emptySessionContext(): SessionContext {
@@ -65,23 +73,67 @@ export interface ProcedureCandidate {
   reason: string;
 }
 
+export interface ClarificationAnswer {
+  question_id: string;
+  value: string;
+}
+
+export interface JourneyStep {
+  id: string;
+  title: string;
+  description: string;
+  status: JourneyStepStatus;
+}
+
+export interface JourneyProgress {
+  completed_steps: number;
+  total_steps: number;
+  steps: JourneyStep[];
+}
+
+export interface ProcedureCard {
+  procedure_id: string;
+  name: string;
+  authority: string | null;
+  processing_time: string | null;
+  fee: string | null;
+}
+
+export interface ConfirmedFact {
+  key: string;
+  label: string;
+  value: string;
+}
+
+export interface NextAction {
+  code: string;
+  label: string;
+  review_gate: ReviewGate | null;
+}
+
 // --- Requests ---
 
 export interface IntakeRequest {
   session_id: string;
   message: string;
   session_context: SessionContext;
+  turn_type?: IntakeTurnType;
+  selected_procedure_id?: string;
+  clarification_answer?: ClarificationAnswer;
+  review_gate_acknowledgement?: ReviewGate;
 }
 
 export interface ChecklistRequest {
-  clarification_answers: Record<string, unknown>;
+  clarification_answers: Record<string, string>;
   procedure_version?: string;
+  session_context: SessionContext;
 }
 
 export interface ValidationRequest {
   procedure_id: string;
   procedure_version?: string;
   form_data: Record<string, unknown>;
+  session_context: SessionContext;
 }
 
 // --- Responses ---
@@ -93,6 +145,10 @@ export interface IntakeResponse extends TrustMetadata {
   message_plain: string;
   clarifying_questions: ClarifyingQuestion[];
   proposed_session_context: SessionContext;
+  journey?: JourneyProgress | null;
+  procedure_card?: ProcedureCard | null;
+  confirmed_facts?: ConfirmedFact[];
+  next_action?: NextAction | null;
 }
 
 export type ChecklistItemKind = "required" | "conditional" | "optional";
@@ -125,6 +181,13 @@ export interface FormSchema {
   required?: string[];
 }
 
+export interface FormSection {
+  id: string;
+  title: string;
+  description: string | null;
+  field_ids: string[];
+}
+
 export interface ChecklistResponse extends TrustMetadata {
   procedure_id: string;
   procedure_name: string;
@@ -132,6 +195,10 @@ export interface ChecklistResponse extends TrustMetadata {
   optional_documents: ChecklistItem[];
   steps: ProcedureStep[];
   form_schema: FormSchema;
+  form_sections?: FormSection[];
+  procedure_card?: ProcedureCard | null;
+  journey?: JourneyProgress | null;
+  next_action?: NextAction | null;
   message_plain: string;
 }
 
@@ -149,6 +216,10 @@ export interface ValidationResponse extends TrustMetadata {
   verdict: PrecheckVerdict | null;
   findings: Finding[];
   summary_message: string;
+  journey?: JourneyProgress | null;
+  next_action?: NextAction | null;
+  proposed_session_context?: SessionContext;
+  explanations?: Record<string, string>;
 }
 
 export interface ProcedureSummary {
@@ -226,6 +297,10 @@ export interface FeedbackEntry {
 
 export interface ProcedureCaseState {
   flow: FlowState;
+  // Last flow value that was not "degraded"/"official_review_required".
+  // Overlay states use this to keep the progress rail/right pane on the
+  // stage the user was actually at, instead of regressing to step 1.
+  lastStableFlow: FlowState;
   availability: AvailabilityState;
   sessionId: string;
   sessionContext: SessionContext;
@@ -254,4 +329,5 @@ export type PersistedProcedureCaseState = Pick<
   | "formDraft"
   | "lastValidationResponse"
   | "flow"
+  | "lastStableFlow"
 >;

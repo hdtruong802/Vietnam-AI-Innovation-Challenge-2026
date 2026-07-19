@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001426
+Số quyết định: 1750/QĐ-BNNMT
+Tên thủ tục: Cấp gia hạn, điều chỉnh nội dung giấy phép cho các hoạt động trong phạm vi bảo vệ công trình thủy lợi: Xây dựng công trình mới; Lập bến, bãi tập kết nguyên liệu, nhiên liệu, vật liệu, vật tư, phương tiện; Xây dựng công trình ngầm thuộc thẩm quyền cấp phép của Chủ tịch UBND cấp tỉnh
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thủy lợi
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân đề nghị gia hạn giấy phép nộp 01 bộ hồ sơ trực tiếp tại Trung tâm phục vụ hành chính công cấp tỉnh (sau đây gọi tắt là Bộ phận Một cửa) hoặc qua dịch vụ bưu chính hoặc qua ủy quyền theo quy định của pháp luật hoặc trực tuyến tại Cổng Dịch vụ công quốc gia.
+    Bước 2: Cơ quan được Chủ tịch Ủy ban nhân dân cấp tỉnh giao tiếp nhận hồ sơ giải quyết thủ tục hành chính trả lời ngay tính đầy đủ của thành phần hồ sơ đối với trường hợp nộp trực tiếp; trả lời bằng văn bản trong 01 ngày làm việc, kể từ ngày nhận được hồ sơ, nếu thành phần hồ sơ chưa đầy đủ đối với trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc trực tuyến tại Cổng Dịch vụ công quốc gia. Trường hợp cơ quan tiếp nhận hồ sơ sau 16 giờ thì văn bản trả lời được gửi trong ngày làm việc tiếp theo.
+    Bước 3: Xem xét hồ sơ và trình phê duyệt:
+    Trong thời hạn 08 ngày làm việc, kể từ ngày nhận đầy đủ hồ sơ, cơ quan chuyên môn được Chủ tịch Ủy ban nhân dân cấp tỉnh giao nhiệm vụ giải quyết hồ sơ tổ chức thẩm định và trình Chủ tịch Ủy ban nhân dân cấp tỉnh 18 xem xét, cấp giấy phép gia hạn, điều chỉnh nội dung. Trường hợp không đủ điều kiện, phải có văn bản trả lời tổ chức, cá nhân và nêu rõ lý do không cấp giấy phép.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 08 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 08 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 08 ngày làm việc, kể từ ngày nhận đủ hồ sơ theo quy định
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị gia hạn, điều chỉnh nội dung giấy phép theo mẫu đơn (quy định tại Phụ lục III ban hành kèm theo Nghị định số 40/2026/NĐ-CP ngày 25/01/2026
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Sơ họa vị trí khu vực tiến hành hoạt động đề nghị gia hạn, điều chỉnh nội dung giấy phép;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo tình hình thực hiện giấy phép được cấp của tổ chức, cá nhân;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản ý kiến của tổ chức, cá nhân khai thác công trình thủy lợi về tình hình thực hiện giấy phép được cấp của tổ chức, cá nhân;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đối với các dự án đầu tư trong phạm vi bảo vệ của công trình thủy lợi, hồ sơ đề nghị gia hạn, điều chỉnh nội dung giấy phép phải bổ sung:
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Bản sao quyết định thành lập hoặc bản sao giấy chứng nhận đăng ký doanh nghiệp, cập nhật đến thời điểm đề nghị gia hạn, điều chỉnh nội dung giấy phép (trong trường hợp chưa được tích hợp, kết nối và chia sẻ dữ liệu quốc gia)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - + Trường hợp có thay đổi quy mô, công suất, thông số chủ yếu của các hoạt động được cấp phép phải bổ sung các tài liệu tương ứng với nội dung thay đổi theo quy định của pháp luật có liên quan như: quyết định phê duyệt điều chỉnh, bổ sung quy hoạch, chủ trương đầu tư, dự án đầu tư; quyết định phê duyệt kết quả thẩm định báo cáo đánh giá tác động môi trường, giấy phép môi trường hoặc đăng ký môi trường đã được cơ quan có thẩm quyền ban hành (nếu thuộc đối tượng phải lập, điều chỉnh); thông báo thẩm định thiết kế cơ sở, bản vẽ thiết kế của dự án điều chỉnh.
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép cho các hoạt động trong phạm vi bảo vệ công trình thủy lợi
+Căn cứ pháp lý:
+  * Luật 08/2017/QH14 (08/2017/QH14)
+  * Nghị định số 40/2026/NĐ-CP ngày 25/01/2026 (40/2026/NĐ-CP)
+  * Luật số 146/2025/QH15 ngày 11/12/2025 của Quốc hội sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường (146/2025/QH15)
+  * Nghị quyết của Chính phủ về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính và cắt giảm, đơn giản hóa điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Nông nghiệp và Môi trường. (Nghị quyết số 17/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

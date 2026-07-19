@@ -1,22 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import { Geist, Geist_Mono, Lora } from "next/font/google";
 import "./globals.css";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
-
-const lora = Lora({
-  variable: "--font-lora",
-  subsets: ["latin", "vietnamese"],
-  weight: ["400", "500", "600", "700"],
-});
 
 export const metadata: Metadata = {
   title: "VNGov - Trợ lý Thủ tục Hành chính Công",
@@ -35,14 +18,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} ${lora.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}{/* impeccable-live-start */}
-<script src="http://localhost:8400/live.js"></script>
-{/* impeccable-live-end */}
-</body>
+    <html lang="vi" className="h-full antialiased">
+      <body className="min-h-full flex flex-col">{children}</body>
     </html>
   );
 }

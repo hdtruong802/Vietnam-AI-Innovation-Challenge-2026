@@ -1,8 +1,15 @@
 @import "tailwindcss";
 
 :root {
+  /* D-022: The public demo is intentionally light-only. Do not let the
+     operating-system preference recolor browser controls or design tokens. */
+  color-scheme: light;
   --background: #F8FAFC; /* Clean off-white background */
   --foreground: #333333; /* Dark slate-gray text */
+  /* System stacks avoid a build-time dependency on external font hosts. */
+  --font-geist-sans: "Segoe UI", Roboto, Arial, sans-serif;
+  --font-geist-mono: "Cascadia Mono", Consolas, monospace;
+  --font-lora: Georgia, "Times New Roman", serif;
 
   --color-primary-raw: #0D1B3D; /* Corporate Deep Navy */
   --color-neutral-bg-raw: #F1F5F9; /* Neutral slate tint */
@@ -30,7 +37,7 @@
   --color-hero-start-raw: #FFF7ED; /* Soft warm peach-cream start */
   --color-hero-end-raw: #F8FAFC; /* Flows into background */
 
-  /* Cổng DVCQG landing page theme (D-012): scoped to the public marketing
+  /* Cổng DVCQG landing page theme (D-015): scoped to the public marketing
      landing page only, kept separate from the VNGov Copilot Navy & Orange
      tokens above which still drive the app/copilot view. */
   --color-gov-red-raw: #A6231C; /* Deep vermillion, matches reference footer/CTA */
@@ -68,44 +75,11 @@
   --color-hero-start: var(--color-hero-start-raw);
   --color-hero-end: var(--color-hero-end-raw);
 
-  /* Cổng DVCQG landing page bindings (D-012) */
+  /* Cổng DVCQG landing page bindings (D-015) */
   --color-gov-red: var(--color-gov-red-raw);
   --color-gov-red-hover: var(--color-gov-red-hover-raw);
   --color-gov-gold: var(--color-gov-gold-raw);
   --color-gov-cream: var(--color-gov-cream-raw);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0A0F1D; /* Deep dark navy */
-    --foreground: #F8FAFC;
-
-    --color-primary-raw: #F8FAFC;
-    --color-neutral-bg-raw: #1E293B;
-    --color-accent-raw: #F97316;
-    --color-accent-hover-raw: #EA580C;
-
-    --color-warning-raw: #F59E0B;
-    --color-warning-bg-raw: #241A10;
-    --color-warning-border-raw: #453215;
-
-    --color-error-raw: #EF4444;
-    --color-error-bg-raw: #2D1414;
-    --color-error-border-raw: #4C1D1D;
-
-    --color-success-raw: #10B981;
-    --color-success-bg-raw: #0D2D20;
-    --color-success-border-raw: #0A4730;
-
-    --color-border-slate-raw: #1E293B;
-    --color-card-bg-raw: #111827;
-
-    /* Dark Mode brand adjustments */
-    --color-brand-red-raw: #F97316;
-    --color-brand-red-hover-raw: #EA580C;
-    --color-hero-start-raw: #1F1410;
-    --color-hero-end-raw: #0A0F1D;
-  }
 }
 
 body {
@@ -114,7 +88,68 @@ body {
   font-family: var(--font-sans), system-ui, -apple-system, sans-serif;
 }
 
-/* Custom Keyframe Animations & Hover Effects */
+/* Portal homepage (simulated Cổng DVCQG) scope — warm palette, kept
+   separate from the VNGov Copilot Navy & Orange tokens above. Only
+   applies inside .portal-home; never touches :root/@theme. */
+.portal-home {
+  /* Keep semantic Tailwind utilities stable inside the portal as well. */
+  --background: #fffaf1;
+  --foreground: #29231e;
+  --portal-page: #fffaf1;
+  --portal-surface: #fffdf9;
+  --portal-border: #eadfce;
+  --portal-text: #29231e;
+  --portal-muted: #655b53;
+  --portal-red: #aa281d;
+  --portal-red-dark: #7f2118;
+  --portal-orange: #e77b32;
+  --portal-gold: #e9a423;
+}
+
+.portal-container {
+  width: min(1420px, calc(100% - 64px));
+  margin-inline: auto;
+}
+
+/* VNGov Copilot workspace scope — warm civic palette (light-theme only for
+   this hackathon). Scoped under .copilot-workspace, kept separate from
+   :root/@theme tokens and from .portal-home so neither surface repoints the
+   other. */
+.copilot-workspace {
+  --vg-canvas: #FBF8F2;
+  --vg-surface: #FFFDF9;
+  --vg-surface-subtle: #F7F1E9;
+
+  --vg-border: #E8D9CB;
+  --vg-border-strong: #D5C1AF;
+
+  --vg-text: #25201C;
+  --vg-text-secondary: #655B53;
+  --vg-text-muted: #8A817A;
+
+  --vg-accent: #B52B23;
+  --vg-accent-hover: #962018;
+  --vg-accent-soft: #FCEDEA;
+
+  --vg-gold: #D8942F;
+  --vg-gold-soft: #FFF1DB;
+
+  --vg-success: #23865F;
+  --vg-success-soft: #EAF6F0;
+
+  --vg-warning: #B46E15;
+  --vg-warning-soft: #FFF4DF;
+
+  --vg-error: #C63D36;
+  --vg-error-soft: #FCECEA;
+}
+
+@media (max-width: 640px) {
+  .portal-container {
+    width: calc(100% - 32px);
+  }
+}
+
 @keyframes fadeInUp {
   from {
     opacity: 0;
@@ -156,6 +191,25 @@ body {
 
 .animate-float-lotus {
   animation: floatLotus 6s ease-in-out infinite;
+}
+
+@keyframes drumSpin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-drum-spin {
+  animation: drumSpin 100s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-drum-spin {
+    animation: none;
+  }
 }
 
 .hover-lift {

@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000517
+Số quyết định: 7134/QĐ-BCA-QLXNC
+Tên thủ tục: Cấp thẻ miễn thị thực đặc biệt cho người nước ngoài
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Quản lý xuất nhập cảnh
+Trình tự thực hiện:
+    Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+    Bước 2: Cơ quan, tổ chức đề nghị cấp thẻ miễn thị thực đặc biệt cho người nước ngoài:
+    - Nộp hồ sơ trực tiếp vào giờ hành chính các ngày làm việc trong tuần tại một trong hai trụ sở của Cục Quản lý xuất nhập cảnh, Bộ Công an:
+    + Số 44-46 Trần Phú, phường Ba Đình, thành phố Hà Nội.
+    + Số 333-335-337 đường Nguyễn Trãi, phường Cầu Ông Lãnh, Thành phố Hồ Chí Minh.
+    - Hoặc nộp hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.
+    * Cán bộ tiếp nhận hồ sơ kiểm tra tính pháp lý và nội dung hồ sơ:
+    + Trường hợp hồ sơ đã đầy đủ, hợp lệ thì tiếp nhận, cấp giấy hẹn trả kết quả hoặc thông báo cho cơ quan, tổ chức về việc đã tiếp nhận hồ sơ qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an hoặc qua tin nhắn (SMS) hoặc qua thư điện tử (email).
+    + Trường hợp hồ sơ chưa đầy đủ hoặc không hợp lệ thì cán bộ tiếp nhận hồ sơ hướng dẫn hoặc thông báo trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an hoặc qua tin nhắn (SMS) hoặc qua thư điện tử (email) để cơ quan, tổ chức hoàn thiện hồ sơ theo quy định.
+    + Trường hợp hồ sơ không đủ điều kiện thì không tiếp nhận, trả lời bằng văn bản hoặc thông báo trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an hoặc qua tin nhắn (SMS) hoặc qua thư điện tử (email).
+    * Thời gian tiếp nhận hồ sơ: Từ thứ 2 đến hết sáng thứ 7 hàng tuần (trừ ngày Tết, ngày lễ).
+    Bước 3: Trả kết quả:
+    + Nhận trực tiếp: nhận kết quả trực tiếp tại Cục Quản lý xuất nhập cảnh. Khi đến nhận kết quả mang theo giấy hẹn trả kết quả, giấy tờ tùy thân để kiểm tra, đối chiếu.
+    + Nhận trực tuyến: Cục Quản lý xuất nhập cảnh thông báo trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an hoặc thư điện tử (email).
+    + Trường hợp không đồng ý cấp thẻ miễn thị thực đặc biệt thì trả lời bằng văn bản hoặc thông báo trên Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an hoặc thư điện tử (email) và nêu rõ lý do.
+    + Thời gian trả kết quả: Từ thứ 2 đến thứ 6 hàng tuần (trừ ngày Tết, ngày lễ).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trực tiếp: nộp hồ sơ trực tiếp tại trụ sở Cục Quản lý xuất nhập cảnh.
+- Trực tuyến: nộp hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.
+
+Thời hạn giải quyết:
+- Trong thời hạn không quá 03 ngày làm việc kể từ ngày nhận hồ sơ đề nghị đối với trường hợp quy định tại điểm b khoản 2 Điều 3 Nghị định số 221/2025/NĐ-CP ngày 08/8/2025 của Chính phủ;
+- Trong thời hạn không quá 05 ngày làm việc kể từ ngày nhận hồ sơ đề nghị đối với trường hợp quy định tại điểm c và điểm d khoản 2 Điều 3 Nghị định số 221/2025/NĐ-CP ngày 08/8/2025 của Chính phủ;
+- Trong thời hạn không quá 07 ngày làm việc kể từ ngày nhận hồ sơ đề nghị đối với trường hợp quy định tại khoản 3 Điều 4 Nghị định số 221/2025/NĐ-CP ngày 08/8/2025 của Chính phủ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Trực tiếp: nộp hồ sơ trực tiếp tại trụ sở Cục Quản lý xuất nhập cảnh.
+- Trực tuyến: nộp hồ sơ trực tuyến qua Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công Bộ Công an.
+
+Thời hạn giải quyết:
+- Trong thời hạn không quá 03 ngày làm việc kể từ ngày nhận hồ sơ đề nghị đối với trường hợp quy định tại điểm b khoản 2 Điều 3 Nghị định số 221/2025/NĐ-CP ngày 08/8/2025 của Chính phủ;
+- Trong thời hạn không quá 05 ngày làm việc kể từ ngày nhận hồ sơ đề nghị đối với trường hợp quy định tại điểm c và điểm d khoản 2 Điều 3 Nghị định số 221/2025/NĐ-CP ngày 08/8/2025 của Chính phủ;
+- Trong thời hạn không quá 07 ngày làm việc kể từ ngày nhận hồ sơ đề nghị đối với trường hợp quy định tại khoản 3 Điều 4 Nghị định số 221/2025/NĐ-CP ngày 08/8/2025 của Chính phủ.
+
+Thành phần hồ sơ:
+    - Văn bản thông báo hoặc văn bản đề nghị của cơ quan, tổ chức có thẩm quyền, cụ thể: + Đối với trường hợp quy định tại điểm a khoản 1 Điều 2 Nghị định số 221/2025/NĐ-CP ngày 08/8/2025 của Chính phủ: Thông báo của cơ quan, tổ chức có thẩm quyền theo mẫu NA-01; + Đối với trường hợp quy định tại các điểm b, c, d, đ khoản 1 Điều 2 Nghị định số 221/2025/NĐ-CP ngày 08/8/2025 của Chính phủ: Văn bản đề nghị của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ hoặc cơ quan Đảng, Quốc hội theo mẫu NA-02;  + Đối với trường hợp quy định tại điểm e và điểm g khoản 1 Điều 2 Nghị định số 221/2025/NĐ-CP ngày 08/8/2025 của Chính phủ: Văn bản đề nghị của cơ quan, tổ chức có liên quan theo mẫu NA-02.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản chụp trang nhân thân hộ chiếu
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục quản lý xuất nhập cảnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo cơ quan, tổ chức về việc cấp thẻ miễn thị thực đặc biệt dạng điện tử cho người nước ngoài thuộc đối tượng ưu đãi nhập cảnh Việt Nam (mẫu NB-01), Thẻ miễn thị thực đặc biệt dạng điện tử (mẫu NC-01), Thẻ miễn thị thực đặc biệt dạng cứng có gắn chíp (mẫu NC-02)
+Căn cứ pháp lý:
+  * Luật 51/2019/QH14 (51/2019/QH14)
+  * Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam (47/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: - Có hộ chiếu còn giá trị sử dụng trên 30 ngày.
+- Không thuộc các trường hợp chưa cho nhập cảnh và tạm hoãn xuất cảnh theo quy định tại Điều 21 và Điều 28 của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
+- Thẻ miễn thị thực đặc biệt dạng cứng có gắn chíp được cấp trong trường hợp người nước ngoài đang ở Việt Nam; đã có thông tin sinh trắc học về vân tay và ảnh khuôn mặt trong Cơ sở dữ liệu quốc gia về xuất nhập cảnh hoặc có tài khoản định danh điện tử mức độ 02; được miễn thị thực với thời hạn từ 03 năm trở lên.
+Từ khóa: Không có thông tin
+Mô tả: - Có hộ chiếu còn giá trị sử dụng trên 30 ngày.
+- Không thuộc các trường hợp chưa cho nhập cảnh và tạm hoãn xuất cảnh theo quy định tại Điều 21 và Điều 28 của Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam.
+- Thẻ miễn thị thực đặc biệt dạng cứng có gắn chíp được cấp trong trường hợp người nước ngoài đang ở Việt Nam; đã có thông tin sinh trắc học về vân tay và ảnh khuôn mặt trong Cơ sở dữ liệu quốc gia về xuất nhập cảnh hoặc có tài khoản định danh điện tử mức độ 02; được miễn thị thực với thời hạn từ 03 năm trở lên.

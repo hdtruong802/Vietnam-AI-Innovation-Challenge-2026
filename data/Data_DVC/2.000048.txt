@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000048
+Số quyết định: 1681
+Tên thủ tục: Thủ tục tái xuất xe ô tô, xe gắn máy đã tạm nhập khẩu miễn thuế
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Đối tượng nhập khẩu, tạm nhập khẩu xe ô tô, xe gắn máy không nhằm mục đích thương mại chuẩn bị hồ sơ (thành phần, số lượng hồ sơ quy định tại mục 3 dưới đây).
+    Bước 2: Chi cục Hải quan tiếp nhận hồ sơ và kiểm tra hồ sơ (thành phần, số lượng hồ sơ quy định tại mục 3 dưới đây).
+    Bước 3: Chi cục Hải quan cửa khẩu thực hiện thủ tục tái xuất khẩu theo quy định.
+    Bước 4: Chi cục Hải quan nơi làm thủ tục tái xuất khẩu xe có văn bản thông báo và sao gửi tờ khai tái xuất xe đã hoàn thành thủ tục hải quan cho Cục Hải quan tỉnh, thành phố nơi cấp giấy phép tạm nhập khẩu để thực hiện thanh khoản giấy phép tạm nhập khẩu theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 20000 VNĐ ()
+
+Thành phần hồ sơ:
+    - Tờ khai hàng hóa xuất khẩu theo các chỉ tiêu thông tin tại Mẫu số 02 - Tờ khai hàng hóa xuất khẩu Phụ lục I ban hành kèm theo Thông tư số 39/2018/TT-BTC ngày 20 tháng 4 năm 2018 của Bộ trưởng Bộ Tài chính. Trường hợp thực hiện trên tờ khai hải quan giấy theo quy định tại khoản 12 Điều 1 Nghị định số 59/2018/NĐ-CP ngày 20 tháng 4 năm 2018 của Chính phủ, người khai hải quan khai và nộp 03 bản chính tờ khai hải quan theo mẫu HQ/2015/XK Phụ lục IV ban hành kèm Thông tư số 38/2015/TT-BTC ngày 25 tháng 3 năm 2015 của Bộ trưởng Bộ Tài chính.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Văn bản đề nghị tái xuất khẩu: 01 bản chính có xác nhận của cơ quan chủ quản;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tờ khai hàng hóa tạm nhập khẩu xe có “đóng dấu dùng cho tái xuất hoặc chuyển nhượng”: 01 bản chụp có xác nhận của Chi cục Hải quan làm thủ tục tạm nhập (đối với trường hợp tạm nhập khẩu xe thực hiện khai trên tờ khai hải quan giấy và cơ quan Hải quan chưa tra cứu được tờ khai tạm nhập khẩu trên hệ thống).
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy thu hồi đăng ký, biển số xe ô tô, xe gắn máy do cơ quan Công an cấp: 01 bản chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Chi cục Hải quan khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Tờ khai hải quan tái xuất khẩu đã hoàn thành thủ tục hải quan
+Căn cứ pháp lý:
+  * Nghị định số 187/2013/NĐ-CP (187/2013/NĐ-CP)
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Thông tư 143/2015/TT-BTC (143/2015/TT-BTC)
+  * Thông tư 45/2022/TT-BTC (45/2022/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

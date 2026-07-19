@@ -1,12 +1,18 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
+import vngovSymbol from "@/image/VNGov_symbol.svg";
+import portalLogo from "@/image/logo-cong-dich-vu-cong-quoc-gia.png";
 import { useProcedureCase } from "./useProcedureCase";
 import {
   selectAvailabilityBanner,
   selectCanConfirmU2,
+  selectCanRenderForm,
+  selectCanRenderPrecheck,
   selectCanRunPrecheck,
-  selectStepperProgress,
+  selectProgressStage,
+  selectRightPaneMode,
 } from "./procedureCase.selectors";
 import type { FlowState } from "./procedureCase.types";
 import ChatTranscript from "./intake/ChatTranscript";
@@ -18,30 +24,44 @@ import DynamicFormRenderer from "./form/DynamicFormRenderer";
 import PrecheckPanel from "./validation/PrecheckPanel";
 import OfficialReviewCard from "./trust/OfficialReviewCard";
 import DemoModeBanner from "./trust/DemoModeBanner";
+import { AlertCircleIcon, ChecklistIcon, DocIcon, ShieldIcon } from "./icons";
+import type { ProcedureCaseState } from "./procedureCase.types";
+import type { AuthUser } from "@/features/auth/types";
 
-const VNGovLogo = ({ className = "w-8 h-8" }: { className?: string }) => (
-  <svg className={className} viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M50 85 C25 80, 20 55, 18 45 C35 48, 45 65, 50 78 C55 65, 65 48, 82 45 C80 55, 75 80, 50 85 Z" fill="#0D1B3D" />
-    <path d="M48 70 C40 50, 22 35, 15 32 C28 25, 45 35, 48 55 Z" fill="#F97316" />
-    <path d="M52 70 C60 50, 78 35, 85 32 C72 25, 55 35, 52 55 Z" fill="#F97316" />
-    <path d="M50 15 L52 23 L60 25 L52 27 L50 35 L48 27 L40 25 L48 23 Z" fill="#FDBA40" />
-  </svg>
-);
+const PROGRESS_STAGES: { id: number; label: string }[] = [
+  { id: 1, label: "Nhu cầu" },
+  { id: 2, label: "Điều kiện" },
+  { id: 3, label: "Giấy tờ" },
+  { id: 4, label: "Tờ khai" },
+  { id: 5, label: "Kiểm tra" },
+  { id: 6, label: "Hoàn tất" },
+];
 
 interface ProcedureWorkspaceProps {
   onGoLanding: () => void;
-  onOpenComingSoon: (text: string) => void;
   initialMessage?: string;
   initialProcedureId?: string;
+  /** Preview-only: seeds state from a fixture and makes the workspace
+   * read-only (no network/session-storage activity). Undefined in the real
+   * app — production behavior is unchanged. */
+  fixtureState?: ProcedureCaseState;
+  /** Preview-only: disables the avatar button when there's no logout host
+   * on the current route, instead of silently no-op-ing it. */
+  avatarDisabled?: boolean;
+  user?: AuthUser;
+  onLogout?: () => void;
 }
 
 export default function ProcedureWorkspace({
   onGoLanding,
-  onOpenComingSoon,
   initialMessage,
   initialProcedureId,
+  fixtureState,
+  avatarDisabled = false,
+  user,
+  onLogout,
 }: ProcedureWorkspaceProps) {
-  const { state, actions } = useProcedureCase(initialMessage, initialProcedureId);
+  const { state, actions } = useProcedureCase(initialMessage, initialProcedureId, fixtureState);
   const [activeLeftTab, setActiveLeftTab] = useState<"chat" | "checklist">("chat");
   const [activeMobileTab, setActiveMobileTab] = useState<"chat" | "form">("chat");
   const [activeField, setActiveField] = useState<string | null>(null);
@@ -56,7 +76,10 @@ export default function ProcedureWorkspace({
     if (state.flow === "form_editing") setActiveMobileTab("form");
   }
 
-  const stepper = selectStepperProgress(state);
+  const stage = selectProgressStage(state);
+  const paneView = selectRightPaneMode(state);
+  const canRenderForm = selectCanRenderForm(state);
+  const canRenderPrecheck = selectCanRenderPrecheck(state);
   const canConfirmU2 = selectCanConfirmU2(state);
   const canRunPrecheck = selectCanRunPrecheck(state);
   const availabilityBanner = selectAvailabilityBanner(state);
@@ -70,54 +93,73 @@ export default function ProcedureWorkspace({
     "Yêu cầu này cần cơ quan có thẩm quyền xem xét trực tiếp.";
 
   return (
-    <div className="flex flex-col h-screen bg-background text-foreground font-sans antialiased pl-[env(safe-area-inset-left)] pr-[env(safe-area-inset-right)] pb-[env(safe-area-inset-bottom)]">
-      {/* Navbar */}
-      <header className="flex items-center justify-between px-6 pr-[max(1.5rem,env(safe-area-inset-right))] pl-[max(1.5rem,env(safe-area-inset-left))] py-4 bg-card-bg border-b border-border-slate shadow-sm shrink-0 relative z-20">
-        <div className="flex items-center gap-3">
-          <VNGovLogo className="w-7 h-7" />
-          <div className="flex items-center gap-2">
-            <span className="text-md font-bold font-sans tracking-tight text-[#0D1B3D] dark:text-white">
-              VN<span className="text-[#F97316]">Gov</span> Copilot
+    <div className="copilot-workspace flex flex-col h-screen bg-[var(--vg-canvas)] text-[var(--vg-text)] font-sans antialiased pl-[env(safe-area-inset-left)] pr-[env(safe-area-inset-right)] pb-[env(safe-area-inset-bottom)]">
+      {/* Header */}
+      <header className="flex items-center justify-between gap-4 px-6 pr-[max(1.5rem,env(safe-area-inset-right))] pl-[max(1.5rem,env(safe-area-inset-left))] py-3 min-h-[72px] bg-[var(--vg-surface)] border-b border-[var(--vg-border)] shrink-0 relative z-20">
+        <div className="flex items-center gap-3 min-w-0">
+          <Image src={vngovSymbol} alt="Biểu tượng VNGov" className="w-9 h-9 shrink-0 object-contain" priority unoptimized />
+          <Image src={portalLogo} alt="Cổng dịch vụ công Quốc gia" className="h-7 w-auto hidden sm:block" priority />
+          <span className="text-[var(--vg-border-strong)] font-light text-lg hidden sm:inline">|</span>
+          <div className="flex items-center gap-2 min-w-0">
+            <span className="text-base font-bold tracking-tight text-[var(--vg-text)] truncate">
+              VNGov Copilot
             </span>
-            <span className="text-zinc-300 dark:text-zinc-700 font-light">|</span>
-            <span className="text-[10px] font-bold text-foreground/60 font-sans tracking-wide">Trợ lý AI cho dịch vụ công</span>
+            <span className="text-[10px] font-semibold text-[var(--vg-text-muted)] hidden md:inline">
+              Trợ lý AI cho dịch vụ công
+            </span>
           </div>
         </div>
 
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2.5 shrink-0">
           <button
             onClick={onGoLanding}
-            className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full border border-border-slate bg-neutral-bg hover:bg-neutral-bg/85 text-xs font-bold text-primary transition-all duration-200"
+            className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-full border border-[var(--vg-border)] bg-[var(--vg-surface)] hover:bg-[var(--vg-surface-subtle)] text-xs font-bold text-[var(--vg-accent)] transition-all"
           >
             ← Quay lại Trang chủ
           </button>
 
           <button
             onClick={actions.resetSession}
-            className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-border-slate bg-card-bg hover:bg-neutral-bg text-xs font-bold text-foreground/80 transition-all"
+            className="hidden md:flex items-center gap-1.5 px-3 py-1.5 rounded-full border border-[var(--vg-border)] bg-[var(--vg-surface)] hover:bg-[var(--vg-surface-subtle)] text-xs font-semibold text-[var(--vg-text-secondary)] transition-all"
           >
             Xóa dữ liệu phiên
           </button>
 
           <div
+            role="status"
             className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full border text-[10px] font-bold ${
               state.availability.backendReachable
-                ? "bg-emerald-50 dark:bg-emerald-950/20 border-emerald-200/40 text-emerald-600 dark:text-emerald-400"
-                : "bg-error-bg border-error-border text-error"
+                ? "bg-[var(--vg-success-soft)] border-[var(--vg-success)]/30 text-[var(--vg-success)]"
+                : "bg-[var(--vg-error-soft)] border-[var(--vg-error)]/30 text-[var(--vg-error)]"
             }`}
           >
             <span
-              className={`w-1.5 h-1.5 rounded-full ${state.availability.backendReachable ? "bg-emerald-500 animate-pulse" : "bg-error"}`}
+              className={`w-1.5 h-1.5 rounded-full ${state.availability.backendReachable ? "bg-[var(--vg-success)] animate-pulse" : "bg-[var(--vg-error)]"}`}
             />
             {state.availability.backendReachable ? "Hệ thống kết nối" : "Mất kết nối"}
           </div>
 
+          <div className="hidden text-right sm:block">
+            <p className="text-xs font-bold text-[var(--vg-accent)]">{user?.display_name ?? "Người dùng"}</p>
+            <button
+              type="button"
+              onClick={onLogout}
+              disabled={avatarDisabled}
+              className="text-[10px] font-semibold text-[var(--vg-text-muted)] hover:text-[var(--vg-error)] disabled:opacity-40 disabled:cursor-not-allowed"
+            >
+              Đăng xuất
+            </button>
+          </div>
+
           <button
             type="button"
-            onClick={() => onOpenComingSoon("Tài khoản người dùng đang đăng nhập.")}
-            className="w-8 h-8 rounded-full bg-neutral-bg border border-border-slate flex items-center justify-center font-bold text-xs text-primary shadow-sm hover:bg-zinc-100 transition-all"
+            onClick={onLogout}
+            disabled={avatarDisabled}
+            aria-label="Đăng xuất"
+            title={avatarDisabled ? "Không khả dụng trong chế độ xem trước" : undefined}
+            className="w-8 h-8 rounded-full bg-[var(--vg-surface-subtle)] border border-[var(--vg-border)] flex items-center justify-center font-bold text-xs text-[var(--vg-accent)] hover:bg-[var(--vg-gold-soft)] transition-all disabled:opacity-40 disabled:cursor-not-allowed disabled:hover:bg-[var(--vg-surface-subtle)]"
           >
-            NT
+            {(user?.display_name ?? "ND").slice(0, 2).toUpperCase()}
           </button>
         </div>
       </header>
@@ -126,36 +168,47 @@ export default function ProcedureWorkspace({
       {availabilityBanner.visible && (
         <div
           role="status"
-          className={`px-4 py-2 text-[11px] font-bold text-center shrink-0 ${
+          aria-live="polite"
+          className={`flex flex-col sm:flex-row sm:items-center gap-2 px-4 py-2.5 text-xs shrink-0 border-b ${
             availabilityBanner.severity === "blocking"
-              ? "bg-error-bg text-error border-b border-error-border"
-              : "bg-warning-bg text-warning border-b border-warning-border"
+              ? "bg-[var(--vg-error-soft)] text-[var(--vg-error)] border-[var(--vg-error)]/30"
+              : "bg-[var(--vg-warning-soft)] text-[var(--vg-warning)] border-[var(--vg-warning)]/30"
           }`}
         >
-          {availabilityBanner.message}
+          <div className="flex items-center gap-2 flex-1">
+            <AlertCircleIcon className="w-4 h-4 shrink-0" />
+            <span className="font-semibold">{availabilityBanner.message}</span>
+          </div>
+          <button
+            type="button"
+            onClick={actions.retryHealthCheck}
+            className="self-start sm:self-auto shrink-0 font-bold underline underline-offset-2 hover:no-underline"
+          >
+            Thử kết nối lại
+          </button>
         </div>
       )}
 
       {demoMode && <DemoModeBanner />}
 
       {/* Mobile tabs */}
-      <div className="flex md:hidden border-b border-border-slate bg-card-bg shrink-0" role="tablist" aria-label="Chuyển đổi khung nhìn">
+      <div className="flex md:hidden border-b border-[var(--vg-border)] bg-[var(--vg-surface)] shrink-0" role="tablist" aria-label="Chuyển đổi khung nhìn">
         <button
           role="tab"
           aria-selected={activeMobileTab === "chat"}
           onClick={() => setActiveMobileTab("chat")}
-          className={`flex-1 py-3 text-sm font-semibold border-b-2 transition-all focus-visible:ring-2 focus-visible:ring-accent outline-none ${
-            activeMobileTab === "chat" ? "border-accent text-accent" : "border-transparent text-zinc-500"
+          className={`flex-1 py-3 text-sm font-semibold border-b-2 transition-all focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none ${
+            activeMobileTab === "chat" ? "border-[var(--vg-accent)] text-[var(--vg-accent)]" : "border-transparent text-[var(--vg-text-muted)]"
           }`}
         >
-          Trợ lý Chat & Checklist
+          Trợ lý & Checklist
         </button>
         <button
           role="tab"
           aria-selected={activeMobileTab === "form"}
           onClick={() => setActiveMobileTab("form")}
-          className={`flex-1 py-3 text-sm font-semibold border-b-2 transition-all focus-visible:ring-2 focus-visible:ring-accent outline-none ${
-            activeMobileTab === "form" ? "border-accent text-accent" : "border-transparent text-zinc-500"
+          className={`flex-1 py-3 text-sm font-semibold border-b-2 transition-all focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none ${
+            activeMobileTab === "form" ? "border-[var(--vg-accent)] text-[var(--vg-accent)]" : "border-transparent text-[var(--vg-text-muted)]"
           }`}
         >
           Tờ khai & Tiền kiểm
@@ -165,40 +218,40 @@ export default function ProcedureWorkspace({
       <div className="flex flex-1 overflow-hidden">
         {/* Left column */}
         <aside
-          className={`${activeMobileTab === "chat" ? "flex" : "hidden"} md:flex flex-col w-full md:w-[40%] bg-card-bg border-r border-border-slate overflow-hidden`}
+          className={`${activeMobileTab === "chat" ? "flex" : "hidden"} md:flex flex-col w-full md:w-[38%] bg-[var(--vg-surface)] border-r border-[var(--vg-border)] overflow-hidden`}
         >
-          <div className="flex border-b border-border-slate bg-neutral-bg shrink-0" role="tablist" aria-label="Trợ lý và checklist">
+          <div className="flex border-b border-[var(--vg-border)] bg-[var(--vg-surface)]" role="tablist" aria-label="Trợ lý và checklist">
             <button
               role="tab"
               aria-selected={activeLeftTab === "chat"}
               onClick={() => setActiveLeftTab("chat")}
-              className={`flex-1 py-3 text-xs uppercase tracking-wider font-bold border-b-2 transition-all focus-visible:ring-2 focus-visible:ring-accent outline-none ${
-                activeLeftTab === "chat" ? "border-primary text-primary bg-card-bg" : "border-transparent text-zinc-500 hover:text-zinc-800"
+              className={`flex-1 py-3 text-sm font-semibold border-b-2 transition-all focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none ${
+                activeLeftTab === "chat" ? "border-[var(--vg-accent)] text-[var(--vg-accent)]" : "border-transparent text-[var(--vg-text-muted)] hover:text-[var(--vg-text)]"
               }`}
             >
-              Trợ lý Hướng dẫn
+              Trợ lý hướng dẫn
             </button>
             <button
               role="tab"
               aria-selected={activeLeftTab === "checklist"}
               onClick={() => setActiveLeftTab("checklist")}
               disabled={!state.checklist}
-              className={`flex-1 py-3 text-xs uppercase tracking-wider font-bold border-b-2 transition-all focus-visible:ring-2 focus-visible:ring-accent outline-none ${
+              className={`flex-1 py-3 text-sm font-semibold border-b-2 transition-all focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none ${
                 !state.checklist
-                  ? "opacity-40 cursor-not-allowed text-zinc-400"
+                  ? "opacity-40 cursor-not-allowed text-[var(--vg-text-muted)]"
                   : activeLeftTab === "checklist"
-                    ? "border-primary text-primary bg-card-bg"
-                    : "border-transparent text-zinc-500 hover:text-zinc-800"
+                    ? "border-[var(--vg-accent)] text-[var(--vg-accent)]"
+                    : "border-transparent text-[var(--vg-text-muted)] hover:text-[var(--vg-text)]"
               }`}
             >
-              Checklist Hồ sơ
+              Checklist hồ sơ
             </button>
           </div>
 
-          <div className={`${activeLeftTab === "chat" ? "flex" : "hidden"} flex-col flex-1 overflow-hidden bg-card-bg`}>
+          <div className={`${activeLeftTab === "chat" ? "flex" : "hidden"} flex-col flex-1 overflow-hidden bg-[var(--vg-surface)]`}>
             <ChatTranscript messages={state.transcript} />
 
-            {state.flow === "procedure_review" && state.lastIntakeResponse?.procedure && (
+            {paneView.mode === "procedure_review" && state.lastIntakeResponse?.procedure && (
               <ProcedureRecommendationCard
                 candidate={state.lastIntakeResponse.procedure}
                 trustMetadata={state.trustMetadata}
@@ -207,7 +260,7 @@ export default function ProcedureWorkspace({
               />
             )}
 
-            {state.flow === "clarifying" && (
+            {paneView.mode === "clarifying" && (
               <ClarificationQuestionCard
                 questions={state.activeClarifyingQuestions}
                 currentIndex={state.currentQuestionIndex}
@@ -226,7 +279,7 @@ export default function ProcedureWorkspace({
             />
           </div>
 
-          <div className={`${activeLeftTab === "checklist" ? "flex" : "hidden"} flex-col flex-1 overflow-y-auto bg-card-bg`}>
+          <div className={`${activeLeftTab === "checklist" ? "flex" : "hidden"} flex-col flex-1 overflow-y-auto bg-[var(--vg-surface)]`}>
             {state.checklist ? (
               <ChecklistPanel
                 state={state}
@@ -237,9 +290,9 @@ export default function ProcedureWorkspace({
                 onFeedback={(vote, reason, note) => actions.recordFeedback("checklist", vote, reason, note)}
               />
             ) : (
-              <div className="flex-1 flex flex-col items-center justify-center p-6 text-center bg-card-bg text-zinc-500">
-                <span className="text-3xl">📋</span>
-                <h3 className="text-sm font-semibold mt-3 text-primary">Chưa có dữ liệu thủ tục</h3>
+              <div className="flex-1 flex flex-col items-center justify-center p-6 text-center text-[var(--vg-text-muted)]">
+                <ChecklistIcon className="w-8 h-8 text-[var(--vg-border-strong)]" />
+                <h3 className="text-sm font-semibold mt-3 text-[var(--vg-text)]">Chưa có dữ liệu thủ tục</h3>
                 <p className="text-xs mt-1 max-w-xs">
                   Vui lòng trò chuyện với trợ lý hoặc chọn nhanh dịch vụ để tải checklist hồ sơ.
                 </p>
@@ -249,42 +302,70 @@ export default function ProcedureWorkspace({
         </aside>
 
         {/* Right column */}
-        <main className={`${activeMobileTab === "form" ? "flex" : "hidden"} md:flex flex-col flex-1 bg-neutral-bg overflow-y-auto p-6`}>
-          {state.flow === "official_review_required" ? (
+        <main className={`${activeMobileTab === "form" ? "flex" : "hidden"} md:flex flex-col flex-1 bg-[var(--vg-canvas)] overflow-y-auto p-6`}>
+          {paneView.mode === "official_review" ? (
             <div className="m-auto w-full">
               <OfficialReviewCard message={officialReviewMessage} trustMetadata={state.trustMetadata} />
             </div>
-          ) : state.checklist ? (
+          ) : canRenderForm && state.checklist ? (
             <div className="max-w-4xl mx-auto w-full">
               <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
                 <div className="lg:col-span-5 space-y-6 text-left">
-                  <div className="flex items-center gap-4 p-4 bg-card-bg border border-border-slate rounded-xl shadow-sm">
-                    <div className="relative w-12 h-12 flex items-center justify-center rounded-full border-2 border-accent text-accent font-bold text-xs bg-accent/5">
-                      {stepper.current}/{stepper.total}
+                  <div className="p-4 bg-[var(--vg-surface)] border border-[var(--vg-border)] rounded-xl space-y-3">
+                    <div className="flex items-center justify-between">
+                      <span className="text-[10px] font-bold text-[var(--vg-text-muted)] uppercase tracking-wider">
+                        Bước {stage.id} / {stage.total}
+                      </span>
+                      {paneView.degraded && (
+                        <span className="text-[10px] font-bold text-[var(--vg-error)]">Đang gián đoạn kết nối</span>
+                      )}
                     </div>
-                    <div>
-                      <h4 className="text-xs font-extrabold text-primary">{stepper.label}</h4>
-                      <p className="text-[10px] text-foreground/60 font-semibold mt-0.5">
-                        Bước {stepper.current} / {stepper.total}
-                      </p>
+                    <div className="flex items-center">
+                      {PROGRESS_STAGES.map((s, i) => (
+                        <div key={s.id} className="flex items-center flex-1 last:flex-none">
+                          <div className="flex flex-col items-center gap-1">
+                            <div
+                              className={`w-6 h-6 rounded-full flex items-center justify-center text-[10px] font-bold border-2 ${
+                                s.id < stage.id
+                                  ? "bg-[var(--vg-success)] border-[var(--vg-success)] text-white"
+                                  : s.id === stage.id
+                                    ? "border-[var(--vg-accent)] text-[var(--vg-accent)] bg-[var(--vg-accent-soft)]"
+                                    : "border-[var(--vg-border)] text-[var(--vg-text-muted)]"
+                              }`}
+                            >
+                              {s.id < stage.id ? "✓" : s.id}
+                            </div>
+                            <span
+                              className={`text-[9px] font-semibold whitespace-nowrap ${
+                                s.id === stage.id ? "text-[var(--vg-accent)]" : "text-[var(--vg-text-muted)]"
+                              }`}
+                            >
+                              {s.label}
+                            </span>
+                          </div>
+                          {i < PROGRESS_STAGES.length - 1 && (
+                            <div className={`flex-1 h-px mx-1 mb-4 ${s.id < stage.id ? "bg-[var(--vg-success)]" : "bg-[var(--vg-border)]"}`} />
+                          )}
+                        </div>
+                      ))}
                     </div>
                   </div>
 
-                  <div className="flex items-center gap-2.5 p-3 bg-neutral-bg/60 border border-border-slate rounded-xl text-[10px] text-foreground/60 font-semibold shadow-inner">
-                    <span>🛡️</span>
-                    <span>Dữ liệu được lưu tạm trong phiên trình duyệt, không lưu trữ lâu dài.</span>
+                  <div className="flex items-center gap-2.5 p-3 bg-[var(--vg-surface-subtle)] border border-[var(--vg-border)] rounded-xl text-[10px] text-[var(--vg-text-muted)] font-semibold">
+                    <ShieldIcon className="w-4 h-4 shrink-0 text-[var(--vg-gold)]" />
+                    <span>Dữ liệu của bản thử nghiệm được lưu tạm trong phiên trình duyệt.</span>
                   </div>
                 </div>
 
                 <div className="lg:col-span-7 space-y-6">
-                  <div className="bg-card-bg border border-border-slate rounded-xl p-5 shadow-sm space-y-4">
-                    <div className="border-b border-border-slate pb-3 mb-3 text-left">
-                      <span className="text-[8px] font-bold text-accent tracking-wider uppercase block">
+                  <div className="bg-[var(--vg-surface)] border border-[var(--vg-border)] rounded-xl p-5 space-y-4">
+                    <div className="border-b border-[var(--vg-border)] pb-3 mb-3 text-left">
+                      <span className="text-[10px] font-bold text-[var(--vg-accent)] tracking-wider uppercase block">
                         {state.checklist.fixture_mode || state.checklist.demo_mode
-                          ? "BIỂU MẪU DEMO MVP"
-                          : "TỜ KHAI ĐIỆN TỬ SƠ BỘ"}
+                          ? "Biểu mẫu demo MVP"
+                          : "Tờ khai"}
                       </span>
-                      <h3 className="text-sm font-bold text-primary">{state.checklist.procedure_name}</h3>
+                      <h3 className="text-sm font-bold text-[var(--vg-text)]">{state.checklist.procedure_name}</h3>
                     </div>
                     <DynamicFormRenderer
                       checklist={state.checklist}
@@ -296,30 +377,45 @@ export default function ProcedureWorkspace({
                     />
                   </div>
 
-                  <PrecheckPanel
-                    flow={state.flow}
-                    isBusy={state.isBusy}
-                    canRunPrecheck={canRunPrecheck}
-                    lastValidationResponse={state.lastValidationResponse}
-                    trustMetadata={state.trustMetadata}
-                    onRunPrecheck={actions.runPrecheck}
-                    onConfirmU3={actions.confirmU3}
-                    onFeedback={(vote, reason, note) => actions.recordFeedback("precheck", vote, reason, note)}
-                  />
+                  {canRenderPrecheck && (
+                    <PrecheckPanel
+                      flow={state.flow}
+                      isBusy={state.isBusy}
+                      canRunPrecheck={canRunPrecheck}
+                      lastValidationResponse={state.lastValidationResponse}
+                      trustMetadata={state.trustMetadata}
+                      onRunPrecheck={actions.runPrecheck}
+                      onConfirmU3={actions.confirmU3}
+                      onFeedback={(vote, reason, note) => actions.recordFeedback("precheck", vote, reason, note)}
+                    />
+                  )}
                 </div>
               </div>
             </div>
           ) : (
-            <div className="flex-1 flex flex-col items-center justify-center p-8 md:p-12 bg-card-bg border border-border-slate rounded-2xl max-w-2xl mx-auto w-full shadow-md my-auto">
-              <div className="relative flex items-center justify-center w-20 h-20 rounded-full bg-orange-50 dark:bg-zinc-800 text-accent mb-6 shadow-inner border border-border-slate">
-                <span className="text-4xl relative z-10">🏛️</span>
+            <div className="m-auto w-full max-w-md space-y-4">
+              <div className="flex flex-col items-center text-center p-8 bg-[var(--vg-surface)] border border-[var(--vg-border)] rounded-2xl">
+                <div className="w-16 h-16 rounded-full bg-[var(--vg-gold-soft)] flex items-center justify-center text-[var(--vg-gold)] mb-4">
+                  <DocIcon />
+                </div>
+                <h2 className="text-lg font-bold text-[var(--vg-text)]">Tờ khai</h2>
+                <p className="text-sm font-semibold text-[var(--vg-text)] mt-3">Tờ khai chưa được mở</p>
+                <p className="text-xs text-[var(--vg-text-muted)] mt-2 leading-relaxed">
+                  Hãy chọn hoặc mô tả thủ tục cần thực hiện. Sau khi bạn xác nhận checklist, tờ khai phù hợp sẽ xuất hiện tại đây.
+                </p>
               </div>
-              <h2 className="text-2xl font-serif font-bold text-primary tracking-tight text-center">
-                Trợ Lý Tiền Kiểm & Hướng Dẫn Kê Khai
-              </h2>
-              <p className="text-xs text-zinc-500 mt-3 max-w-md text-center leading-relaxed font-sans font-medium">
-                Hệ thống hỗ trợ công dân chuẩn bị hồ sơ hành chính công trực tuyến theo đúng quy định pháp lý, tự động rà soát sai sót trước khi nộp chính thức.
-              </p>
+
+              <div className="flex items-start gap-3 p-4 bg-[var(--vg-surface-subtle)] border border-[var(--vg-border)] rounded-xl text-left">
+                <span className="shrink-0 w-8 h-8 rounded-lg bg-[var(--vg-surface)] border border-[var(--vg-border)] flex items-center justify-center text-[var(--vg-text-muted)]">
+                  <ChecklistIcon className="w-4 h-4" />
+                </span>
+                <div>
+                  <h3 className="text-xs font-bold text-[var(--vg-text)]">Kiểm tra sơ bộ</h3>
+                  <p className="text-[11px] text-[var(--vg-text-muted)] mt-0.5">
+                    Chức năng sẽ khả dụng sau khi hoàn tất tờ khai.
+                  </p>
+                </div>
+              </div>
             </div>
           )}
         </main>

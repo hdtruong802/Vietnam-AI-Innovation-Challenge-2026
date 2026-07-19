@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001555
+Số quyết định: 87/QĐ-BCT
+Tên thủ tục: Khai báo hóa chất nhập khẩu
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hóa chất
+Trình tự thực hiện:
+    1. Tổ chức, cá nhân nhập khẩu hóa chất thuộc các chương 28 và chương 29 của Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam do Bộ trưởng Bộ Tài chính ban hành phải có trách nhiệm thực hiện khai báo hóa chất nhập khẩu trước khi thông quan qua Cổng thông tin một cửa quốc gia.
+    2. Thông tin khai báo hóa chất nhập khẩu
+    a) Các thông tin khai báo trên Cổng thông tin một cửa quốc gia bao gồm các thông tin tổ chức, cá nhân khai báo, các thông tin hóa chất nhập khẩu;
+    b) Hóa đơn thương mại bản gốc và bản dịch tiếng Việt có xác thực của tổ chức trong trường hợp hóa đơn thương mại được phát hành bằng tiếng nước ngoài;
+    c) Phiếu an toàn hóa chất;
+    d) Trường hợp đối với mặt hàng phi thương mại không có hóa đơn thương mại, tổ chức, cá nhân khai báo hóa chất có thể sử dụng giấy báo hàng về cảng thay cho hóa đơn thương mại.
+    3. Tạo tài khoản truy cập và giá trị pháp lý của chứng từ điện tử trên Cổng thông tin một cửa quốc gia
+    a) Tổ chức, cá nhân tạo tài khoản đăng nhập theo mẫu quy định trên Cổng thông tin một cửa quốc gia, bao gồm các thông tin, tệp tin đính kèm;
+    b) Tổ chức, cá nhân thực hiện khai báo hóa chất thông qua Cổng thông tin một cửa quốc gia. Thông tin khai báo được tự động chuyển đến hệ thống Cổng dịch vụ công của Bộ Công Thương, khi đó hệ thống của Bộ Công Thương sẽ tự động phản hồi qua Cổng thông tin một cửa quốc gia tới các tổ chức, cá nhân khai báo và cơ quan Hải quan;
+    c) Thông tin phản hồi khai báo hóa chất nhập khẩu có giá trị pháp lý để làm thủ tục thông quan. Sau khi hóa chất được thông quan, hệ thống của cơ quan Hải quan gửi phản hồi trạng thái thông quan gồm thông tin tờ khai, hóa chất, khối lượng hóa chất thông quan qua hệ thống của Bộ Công Thương;
+    d) Thông tin khai báo và phản hồi khai báo hóa chất nhập khẩu qua Cổng thông tin một cửa quốc gia theo mẫu do Bộ trưởng Bộ Công Thương quy định.
+    4. Tổ chức, cá nhân phải chịu trách nhiệm trước pháp luật về tính chính xác của các thông tin khai báo theo biểu mẫu có sẵn trên Cổng thông tin một cửa quốc gia và các văn bản, chứng từ, dữ liệu điện tử trong bộ hồ sơ khai báo hóa chất qua Cổng thông tin một cửa quốc gia. Trường hợp thông tin khai báo không chính xác, hồ sơ khai báo hóa chất điện tử là cơ sở để tổ chức, cá nhân có thẩm quyền tiến hành xử phạt vi phạm hành chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Phản hồi tự động
+
+Thành phần hồ sơ:
+    - - Không quy  định.
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp
+Cơ quan thực hiện: Cục Hóa chất
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận khai báo hóa chất nhập khẩu
+Căn cứ pháp lý:
+  * Thông tư số 01/2026/TT-BCT của Bộ trưởng Bộ Công Thương quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất và Nghị định số 26/2026/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa. (01/2026/TT-BCT)
+  * Nghị định số 26/2026/NĐ-CP của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hóa chất về quản lý hoạt động hóa chất và hóa chất nguy hiểm trong sản phẩm, hàng hóa; (26/2026/NĐ-CP)
+  * Luật số 69/2025/QH15 của Quốc hội: Luật Hóa chất (69/2025/QH15)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

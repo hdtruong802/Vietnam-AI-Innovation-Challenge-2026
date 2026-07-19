@@ -1,0 +1,182 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002060
+Số quyết định: 92/QĐ-BTC
+Tên thủ tục: Đăng ký thay đổi nội dung đăng ký doanh nghiệp đối với công ty nhận sáp nhập (đối với công ty trách nhiệm hữu hạn, công ty cổ phần và công ty hợp danh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thành lập và hoạt động của doanh nghiệp
+Trình tự thực hiện:
+  * * Trường hợp đăng ký trực tiếp hoặc qua dịch vụ bưu chính:
+    Người nộp hồ sơ đăng ký doanh nghiệp theo quy định tại Nghị định số 168/2025/NĐ-CP nộp hồ sơ tại Cơ quan Đăng ký kinh doanh cấp tỉnh nơi doanh nghiệp đặt trụ sở chính.
+    Sau khi tiếp nhận hồ sơ đăng ký doanh nghiệp, Cơ quan đăng ký kinh doanh cấp tỉnh trao giấy tiếp nhận hồ sơ và hẹn trả kết quả cho người nộp hồ sơ. Trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, Cơ quan đăng ký kinh doanh cấp tỉnh xem xét tính hợp lệ của hồ sơ và cấp Giấy chứng nhận đăng ký doanh nghiệp, Giấy xác nhận về việc thay đổi nội dung đăng ký doanh nghiệp cho doanh nghiệp; trường hợp hồ sơ chưa hợp lệ, Cơ quan đăng ký kinh doanh cấp tỉnh thông báo bằng văn bản nội dung cần sửa đổi, bổ sung cho doanh nghiệp.
+    * Quy trình tiếp nhận, giải quyết thủ tục hành chính có thành phần hồ sơ được cắt giảm, thay thế dựa trên dữ liệu:
+    Cơ quan đăng ký kinh doanh cấp tỉnh khai thác, sử dụng thông tin đã có trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp/Cơ sở dữ liệu quốc gia về dân cư để thay thế thành phần hồ sơ giải quyết thủ tục hành chính.
+    - Trường hợp không khai thác được hoặc thông tin khai thác được trên Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp/Cơ sở dữ liệu quốc gia về dân cư không đầy đủ, không chính xác: Cơ quan đăng ký kinh doanh cấp tỉnh ra thông báo về việc sửa đổi, bổ sung hồ sơ đăng ký doanh nghiệp cho người thành lập doanh nghiệp hoặc doanh nghiệp trong thời hạn quy định tại Luật Doanh nghiệp và Nghị định số 168/2025/NĐ-CP; đồng thời hướng dẫn cho người thành lập doanh nghiệp hoặc doanh nghiệp liên hệ với cơ quan có thẩm quyền cập nhật, điều chỉnh dữ liệu.
+  * * Trường hợp đăng ký qua mạng thông tin điện tử:
+    Người nộp hồ sơ sử dụng tài khoản định danh điện tử để đăng nhập Cổng thông tin quốc gia về đăng ký doanh nghiệp, kê khai thông tin, tải văn bản điện tử, ký số hoặc ký xác thực hồ sơ đăng ký doanh nghiệp qua mạng thông tin điện tử và thanh toán phí, lệ phí đăng ký doanh nghiệp theo quy trình trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
+    Người uỷ quyền và người được ủy quyền phải xác thực điện tử để được cấp đăng ký doanh nghiệp. Trường hợp việc xác thực điện tử bị gián đoạn thì người ủy quyền thực hiện việc xác thực điện tử sau khi được cấp đăng ký doanh nghiệp.
+    Sau khi hoàn thành việc gửi hồ sơ đăng ký doanh nghiệp, người nộp hồ sơ sẽ nhận được giấy tiếp nhận hồ sơ và hẹn trả kết quả điện tử qua tài khoản của người nộp hồ sơ.
+    Trường hợp hồ sơ đủ điều kiện cấp đăng ký doanh nghiệp, Cơ quan đăng ký kinh doanh cấp tỉnh thực hiện cấp đăng ký doanh nghiệp và thông báo cho doanh nghiệp về việc cấp đăng ký doanh nghiệp. Trường hợp hồ sơ chưa đủ điều kiện cấp đăng ký doanh nghiệp, Cơ quan đăng ký kinh doanh cấp tỉnh gửi thông báo qua mạng thông tin điện tử cho doanh nghiệp để yêu cầu sửa đổi, bổ sung hồ sơ. Người nộp hồ sơ đăng nhập vào Hệ thống thông tin quốc gia về đăng ký doanh nghiệp để nhận thông tin phản hồi về kết quả xử lý hồ sơ.
+    * Quy trình tiếp nhận, giải quyết thủ tục hành chính có thành phần hồ sơ được cắt giảm, thay thế dựa trên dữ liệu:
+    Cơ quan đăng ký kinh doanh cấp tỉnh khai thác, sử dụng thông tin đã có trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp/Cơ sở dữ liệu quốc gia về dân cư để thay thế thành phần hồ sơ giải quyết thủ tục hành chính.
+    - Trường hợp không khai thác được hoặc thông tin khai thác được trên Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp/Cơ sở dữ liệu quốc gia về dân cư không đầy đủ, không chính xác: Cơ quan đăng ký kinh doanh cấp tỉnh ra thông báo về việc sửa đổi, bổ sung hồ sơ đăng ký doanh nghiệp cho người thành lập doanh nghiệp hoặc doanh nghiệp trong thời hạn quy định tại Luật Doanh nghiệp và Nghị định số 168/2025/NĐ-CP. Thông báo được gửi đến tài khoản của người nộp hồ sơ trên Cổng thông tin quốc gia về đăng ký doanh nghiệp; đồng thời hướng dẫn người thành lập doanh nghiệp hoặc doanh nghiệp liên hệ với cơ quan có thẩm quyền cập nhật, điều chỉnh dữ liệu.
+  * * Công bố nội dung đăng ký doanh nghiệp:
+    Doanh nghiệp sau khi được cấp Giấy chứng nhận đăng ký doanh nghiệp phải thông báo công khai trên Cổng thông tin quốc gia về đăng ký doanh nghiệp và phải nộp phí theo quy định của pháp luật. Nội dung công bố bao gồm các nội dung Giấy chứng nhận đăng ký doanh nghiệp và các thông tin sau đây:
+    - Ngành, nghề kinh doanh;
+    - Danh sách cổ đông sáng lập; danh sách cổ đông là nhà đầu tư nước ngoài đối với công ty cổ phần (nếu có).
+    Trường hợp thay đổi nội dung đăng ký doanh nghiệp, những thay đổi tương ứng phải được thông báo công khai trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
+    Thời hạn thông báo công khai thông tin về doanh nghiệp là 30 ngày kể từ ngày được công khai.
+    Thông tin công bố nội dung đăng ký doanh nghiệp được đăng tải trên Cổng thông tin quốc gia về đăng ký doanh nghiệp.
+    Việc đề nghị công bố nội dung đăng ký doanh nghiệp và nộp phí công bố nội dung đăng ký doanh nghiệp được thực hiện tại thời điểm doanh nghiệp nộp hồ sơ đăng ký doanh nghiệp. Trường hợp doanh nghiệp không được cấp đăng ký doanh nghiệp, doanh nghiệp sẽ được hoàn trả phí công bố nội dung đăng ký doanh nghiệp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 100 VNĐ (Phí công bố nội dung đăng ký doanh nghiệp: 100.000 đồng/lần (Thông tư số 47/2019/TT-BTC))
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 100 VNĐ (Phí công bố nội dung đăng ký doanh nghiệp: 100.000 đồng/lần (Thông tư số 47/2019/TT-BTC))
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 25 VNĐ (- Lệ phí đăng ký doanh nghiệp: Bằng 50% mức thu lệ phí quy định tại điểm 1 Biểu phí, lệ phí đăng ký doanh nghiệp ban hành kèm theo Thông tư số 47/2019/TT-BTC (Thông tư số 64/2025/TT-BTC ngày 30 tháng 6 năm 2025 của Bộ Tài chính quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân))
+
+Thành phần hồ sơ:
+  [ * Trường hợp ủy quyền thực hiện thủ tục: Người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp có thể ủy quyền cho tổ chức, cá nhân khác thực hiện thủ tục đăng ký doanh nghiệp theo quy định sau đây: - Trường hợp ủy quyền cho cá nhân thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có: ]
+    - (i) Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Người ủy quyền và người được ủy quyền thực hiện thủ tục đăng ký doanh nghiệp chịu trách nhiệm trước pháp luật về tính hợp pháp, trung thực và chính xác của việc ủy quyền. Người uỷ quyền và người được ủy quyền phải xác thực điện tử để được cấp đăng ký doanh nghiệp. Trường hợp việc xác thực điện tử bị gián đoạn thì người ủy quyền thực hiện việc xác thực điện tử sau khi được cấp đăng ký doanh nghiệp. ]
+    - - Người ủy quyền và người được ủy quyền thực hiện thủ tục đăng ký doanh nghiệp chịu trách nhiệm trước pháp luật về tính hợp pháp, trung thực và chính xác của việc ủy quyền. Người uỷ quyền và người được ủy quyền phải xác thực điện tử để được cấp đăng ký doanh nghiệp. Trường hợp việc xác thực điện tử bị gián đoạn thì người ủy quyền thực hiện việc xác thực điện tử sau khi được cấp đăng ký doanh nghiệp. Trường hợp người ủy quyền không xác nhận hoặc xác nhận không ủy quyền thực hiện thủ tục đăng ký doanh nghiệp thì Cơ quan đăng ký kinh doanh cấp tỉnh yêu cầu doanh nghiệp báo cáo theo quy định tại khoản 5 Điều 21 Nghị định số 168/2025/NĐ-CP. Cụ thể: Yêu cầu doanh nghiệp báo cáo về việc tuân thủ các quy định của Luật Doanh nghiệp theo quy định tại điểm c khoản 1 Điều 216 Luật Doanh nghiệp “Yêu cầu doanh nghiệp báo cáo về việc tuân thủ quy định của Luật này khi xét thấy cần thiết; đôn đốc việc thực hiện nghĩa vụ báo cáo của doanh nghiệp”. Trường hợp chưa có tài khoản định danh điện tử để thực hiện xác thực điện tử thì hồ sơ đăng ký doanh nghiệp phải kèm theo bản sao thẻ Căn cước hoặc thẻ Căn cước công dân hoặc hộ chiếu hoặc hộ chiếu nước ngoài hoặc các giấy tờ có giá trị thay thế hộ chiếu nước ngoài còn hiệu lực của người uỷ quyền.
+      Số lượng: Bản chính: 0, Bản sao: 0
+  [ - Trường hợp ủy quyền cho tổ chức thực hiện thủ tục đăng ký doanh nghiệp, kèm theo hồ sơ đăng ký doanh nghiệp phải có: ]
+    - (i) Văn bản ủy quyền cho cá nhân thực hiện thủ tục liên quan đến đăng ký doanh nghiệp. Văn bản ủy quyền này không bắt buộc phải công chứng, chứng thực.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (ii) Giấy giới thiệu hoặc văn bản phân công nhiệm vụ của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì khi thực hiện thủ tục đăng ký doanh nghiệp, nhân viên bưu chính phải nộp: ]
+    - (i) Bản sao phiếu gửi hồ sơ theo mẫu do doanh nghiệp cung ứng dịch vụ bưu chính công ích phát hành có chữ ký xác nhận của nhân viên bưu chính và người có thẩm quyền ký văn bản đề nghị đăng ký doanh nghiệp.
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ - Trường hợp ủy quyền cho đơn vị cung cấp dịch vụ bưu chính không phải là bưu chính công ích thực hiện thủ tục đăng ký doanh nghiệp thì việc ủy quyền thực hiện theo quy định tại khoản 2 Điều 12 Nghị định số 168/2025/NĐ-CP, cụ thể: ]
+    - (ii) Giấy giới thiệu hoặc văn bản phân công nhiệm vụ của tổ chức đó cho cá nhân trực tiếp thực hiện thủ tục liên quan đến đăng ký doanh nghiệp..
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Bản sao hợp đồng ủy quyền cho tổ chức thực hiện thủ tục liên quan đến đăng ký doanh nghiệp;
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ Trường hợp công ty nhận sáp nhập (công ty TNHH, công ty cổ phần, công ty hợp danh) đăng ký thay đổi vốn điều lệ: ]
+    - (i) Giấy đề nghị đăng ký thay đổi nội dung đăng ký doanh nghiệp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (viii) Bản sao hoặc bản chính các giấy tờ sau đây: nghị quyết hoặc quyết định của chủ sở hữu công ty đối với công ty TNHH một thành viên; nghị quyết hoặc quyết định của Hội đồng thành viên đối với công ty TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty bị sáp nhập
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (iii) Bản sao hoặc bản chính biên bản họp của Hội đồng thành viên đối với công ty TNHH hai thành viên trở lên về việc thay đổi vốn điều lệ;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (vii) Bản sao hoặc bản chính các giấy tờ sau đây: nghị quyết hoặc quyết định của chủ sở hữu công ty đối với công ty TNHH một thành viên; nghị quyết hoặc quyết định của Hội đồng thành viên đối với công ty TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (iv) Bản chính hoặc bản sao giấy tờ chứng minh việc góp vốn, mua cổ phần đã được thanh toán tương ứng với phần vốn điều lệ đăng ký tăng trong trường hợp công ty đăng ký tăng vốn điều lệ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (ii) Bản sao hoặc bản chính nghị quyết hoặc quyết định của chủ sở hữu công ty đối với công ty TNHH một thành viên; của Hội đồng thành viên đối với công ty TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thay đổi vốn điều lệ
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (v) Bản sao văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (vi) Hợp đồng sáp nhập theo quy định tại Điều 201 Luật Doanh nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp công ty nhận sáp nhập đăng ký thay đổi phần vốn góp, tỷ lệ phần vốn góp của thành viên công ty TNHH hai thành viên trở lên, của thành viên hợp danh công ty hợp danh mà không thay đổi thành viên công ty: ]
+    - (vii) Bản sao hoặc bản chính các giấy tờ sau đây: nghị quyết hoặc quyết định của chủ sở hữu công ty đối với công ty TNHH một thành viên; nghị quyết hoặc quyết định của Hội đồng thành viên đối với công ty TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (iv) Bản sao văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (iii) Hợp đồng chuyển nhượng hoặc giấy tờ chứng minh việc hoàn tất chuyển nhượng trong trường hợp chuyển nhượng phần vốn góp; hợp đồng tặng cho trong trường hợp tặng cho phần vốn góp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (v) Hợp đồng sáp nhập theo quy định tại Điều 201 Luật Doanh nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (vi) Bản sao hoặc bản chính các giấy tờ sau đây: nghị quyết hoặc quyết định của chủ sở hữu công ty đối với công ty TNHH một thành viên; nghị quyết hoặc quyết định của Hội đồng thành viên đối với công ty TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (i) Giấy đề nghị đăng ký thay đổi nội dung đăng ký doanh nghiệp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (ii) Danh sách thành viên công ty TNHH hai thành viên trở lên; danh  sách thành viên công ty hợp danh, trong đó không bao gồm nội dung kê khai về thành viên góp vốn. Các danh sách phải bao gồm chữ ký của các thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp công ty nhận sáp nhập đăng ký thay đổi thành viên hợp danh ]
+    - (iii) Hợp đồng sáp nhập theo quy định tại Điều 201 Luật Doanh nghiệp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (v) Bản sao hoặc bản chính các giấy tờ sau đây: nghị quyết hoặc quyết  định của chủ sở hữu công ty đối với công ty TNHH một thành viên; nghị quyết hoặc quyết định của Hội đồng thành viên đối với công ty TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty bị sáp nhập
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (ii) Danh sách thành viên công ty hợp danh quy định tại Điều 25 Luật Doanh nghiệp, trong đó không bao gồm nội dung kê khai về thành viên góp vốn;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Giấy đề nghị đăng ký thay đổi nội dung đăng ký doanh nghiệp ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (iv) Bản sao hoặc bản chính các giấy tờ sau đây: nghị quyết hoặc quyết định của chủ sở hữu công ty đối với công ty TNHH một thành viên; nghị quyết hoặc quyết định của Hội đồng thành viên đối với công ty TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty bị sáp nhập.
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ Trường hợp thay đổi chủ sở hữu công ty TNHH một thành viên do chủ sở hữu công ty là tổ chức sáp nhập công ty ]
+    - (iv) Bản sao văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (vi) Bản sao hoặc bản chính các giấy tờ sau đây: nghị quyết hoặc quyết định của chủ sở hữu công ty đối với công ty TNHH một thành viên; nghị quyết hoặc quyết định của Hội đồng thành viên đối với công ty TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (iii) Hợp đồng chuyển nhượng phần vốn góp hoặc giấy tờ chứng minh việc hoàn tất chuyển nhượng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (vii) Bản sao hoặc bản chính các giấy tờ sau đây: nghị quyết hoặc quyết định của chủ sở hữu công ty đối với công ty TNHH một thành viên; nghị quyết hoặc quyết định của Hội đồng thành viên đối với công ty TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (ii) Bản sao giấy tờ pháp lý của tổ chức và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp người nhận chuyển nhượng là tổ chức. Đối với chủ sở hữu là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (v) Hợp đồng sáp nhập theo quy định tại Điều 201 Luật Doanh nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Giấy đề nghị đăng ký thay đổi chủ sở hữu công ty TNHH một thành  viên do chủ sở hữu cũ là cá nhân hoặc người đại diện theo pháp luật của chủ sở hữu là tổ chức và chủ sở hữu mới là cá nhân hoặc người đại diện theo pháp luật của chủ sở hữu là tổ chức ký;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (Trường hợp khai thác được thông tin về Giấy chứng nhận đăng ký doanh nghiệp của doanh nghiệp thành lập và hoạt động theo Luật Doanh nghiệp; Giấy chứng nhận đăng ký hợp tác xã của hợp tác xã, liên hiệp hợp tác xã thành lập và hoạt động theo Luật Hợp tác xã trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp, Cơ sổ dữ liệu về đăng ký hợp tác xã thì hồ sơ không bao gồm bản sao giấy tờ pháp lý của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã đó).
+      Số lượng: Bản chính: 0, Bản sao: 0
+  [ Trường hợp thay đổi cổ đông là nhà đầu tư nước ngoài theo quyết định sáp nhập công ty ]
+    - (v) Bản sao văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư..
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (iii) Hợp đồng chuyển nhượng cổ phần hoặc giấy tờ chứng minh việc hoàn tất chuyển nhượng trong trường hợp chuyển nhượng cổ phần; giấy tờ chứng minh việc góp vốn trong trường hợp cổ đông là nhà đầu tư nước ngoài mua cổ phần chào bán riêng lẻ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (ii) Danh sách cổ đông là nhà đầu tư nước ngoài sau khi đã  thay đổi. Danh sách cổ đông là nhà đầu tư nước ngoài phải bao gồm chữ ký của cổ đông có giá trị cổ phần thay đổi, không bắt buộc phải có chữ ký của cổ đông có giá trị cổ phần không thay đổi;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (i) Thông báo thay đổi nội dung đăng ký doanh nghiệp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (vi) Hợp đồng sáp nhập theo quy định tại Điều 201 Luật Doanh nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (Trường hợp khai thác được thông tin về Giấy chứng nhận đăng ký doanh nghiệp của doanh nghiệp thành lập và hoạt động theo Luật Doanh nghiệp; Giấy chứng nhận đăng ký hợp tác xã của hợp tác xã, liên hiệp hợp tác xã thành lập và hoạt động theo Luật Hợp tác xã trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp, Cơ sổ dữ liệu về đăng ký hợp tác xã thì hồ sơ không bao gồm bản sao giấy tờ pháp lý của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã đó).
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - (vii) Bản sao hoặc bản chính các giấy tờ sau đây: nghị quyết hoặc quyết định của chủ sở hữu công ty đối với công ty TNHH một thành viên; nghị quyết hoặc quyết định của Hội đồng thành viên đối với công ty TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (iv) Bản sao giấy tờ pháp lý của tổ chức và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp cổ đông mới là tổ chức. Đối với cổ đông là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (viii) Bản sao hoặc bản chính các giấy tờ sau đây: nghị quyết hoặc quyết định của chủ sở hữu công ty đối với công ty TNHH một thành viên; nghị quyết hoặc quyết định của Hội đồng thành viên đối với công ty trách TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập
+      Số lượng: Bản chính: 0, Bản sao: 1
+  [ Trường hợp thay đổi thành viên của công ty TNHH hai thành viên trở lên do công ty có thành viên là tổ chức sáp nhập công ty ]
+    - (iii) Bản sao hoặc bản chính nghị quyết hoặc quyết định của Hội đồng thành viên về việc thay đổi thành viên;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (ii) Danh sách thành viên công ty TNHH hai thành viên trở lên. Danh sách thành viên phải bao gồm chữ ký của thành viên mới và thành viên có phần vốn góp thay đổi, không bắt buộc phải có chữ ký của thành viên có phần vốn góp không thay đổi;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (iv) Giấy tờ chứng minh việc góp vốn của thành viên mới của công ty;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (Trường hợp khai thác được thông tin về Giấy chứng nhận đăng ký doanh nghiệp của doanh nghiệp thành lập và hoạt động theo Luật Doanh nghiệp; Giấy chứng nhận đăng ký hợp tác xã của hợp tác xã, liên hiệp hợp tác xã thành lập và hoạt động theo Luật Hợp tác xã trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp, Cơ sổ dữ liệu về đăng ký hợp tác xã thì hồ sơ không bao gồm bản sao giấy tờ pháp lý của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã đó).
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - (vi) Bản sao văn bản của Cơ quan đăng ký đầu tư chấp thuận về việc góp vốn, mua cổ phần, mua phần vốn góp của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài đối với trường hợp phải thực hiện thủ tục đăng ký góp vốn, mua cổ phần, mua phần vốn góp theo quy định của Luật Đầu tư.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (i) Giấy đề nghị đăng ký thay đổi nội dung đăng ký doanh nghiệp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (viii) Bản sao hoặc bản chính các giấy tờ sau đây: nghị quyết hoặc quyết định của chủ sở hữu công ty đối với công ty TNHH một thành viên; nghị quyết hoặc quyết định của Hội đồng thành viên đối với công ty trách TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty nhận sáp nhập
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (v) Bản sao giấy tờ pháp lý của tổ chức và bản sao văn bản cử người đại diện theo ủy quyền trong trường hợp thành viên mới là tổ chức. Đối với thành viên là tổ chức nước ngoài thì bản sao giấy tờ pháp lý của tổ chức phải được hợp pháp hóa lãnh sự;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - (vii) Hợp đồng sáp nhập theo quy định tại Điều 201 Luật Doanh nghiệp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (ix) Bản sao hoặc bản chính các giấy tờ sau đây: nghị quyết hoặc quyết định của chủ sở hữu công ty đối với công ty TNHH một thành viên; nghị quyết hoặc quyết định của Hội đồng thành viên đối với công ty TNHH hai thành viên trở lên, công ty hợp danh; của Đại hội đồng cổ đông đối với công ty cổ phần về việc thông qua hợp đồng sáp nhập của công ty bị sáp nhập
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Sở Tài chính các tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký doanh nghiệp, Văn bản nêu rõ lý do từ chối của Cơ quan đăng ký kinh doanh, Giấy xác nhận về việc thay đổi nội dung đăng ký doanh nghiệp, Thông báo về việc sửa đổi, bổ sung hồ sơ đăng ký doanh nghiệp
+Căn cứ pháp lý:
+  * Luật Doanh nghiệp (59/2020/QH14)
+  * Thông thư 47/2019/TT-BTC (47/2019/TT-BTC)
+  * Thông tư quy định mức thu, miễn một số khoản phí, lệ phí nhằm hỗ trợ cho doanh nghiệp, người dân (64/2025/TT-BTC)
+  * Luật sửa đổi, bổ sung một số điều của Luật Doanh nghiệp 2020 (76/2025/QH15)
+  * Thông tư số 68/2025/TT-BTC của Bộ Tài chính: Ban hành biểu mẫu sử dụng trong đăng ký doanh nghiệp, đăng ký hộ kinh doanh (68/2025/TT-BTC)
+  * Nghị định số 168/2025/NĐ-CP ngày 30 tháng 6 năm 2025 của Chính phủ về đăng ký doanh nghiệp (168/2025/NĐ-CP)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

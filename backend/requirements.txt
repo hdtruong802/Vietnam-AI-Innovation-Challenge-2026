@@ -10,6 +10,15 @@ httpx>=0.25.0
 # evidence, runtime van fail closed va khong goi provider.
 openai>=1.40.0
 
+# Semantic search: local Vietnamese embedding model (khong yeu cau API key).
+# sentence-transformers keo theo torch; model default ~400 MB, tu dong tai
+# khi khoi dong lan dau. De bo qua dense embedding, set RAG_RETRIEVAL_MODE=keyword.
+# Model co the override qua RAG_EMBEDDING_MODEL:
+#   - bkai-foundation-models/vietnamese-bi-encoder  (default, tot cho retrieval TV)
+#   - keepitreal/vietnamese-sbert                    (sentence similarity TV)
+#   - sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2  (nhe hon, 117MB)
+sentence-transformers>=3.0.0
+
 # Testing and development
 pytest>=7.4.0
 black>=23.0.0

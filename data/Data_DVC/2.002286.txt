@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002286
+Số quyết định: 662/QĐ-BXD
+Tên thủ tục: Cấp lại Giấy phép kinh doanh vận tải bằng xe ô tô, bằng xe bốn bánh có gắn động cơ khi có sự thay đổi liên quan đến nội dung của Giấy phép kinh doanh hoặc Giấy phép kinh doanh bị thu hồi
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    - Đơn vị kinh doanh vận tải nộp hồ sơ đề nghị cấp Giấy phép kinh doanh đến Sở Xây dựng nơi đơn vị kinh doanh vận tải đặt trụ sở chính hoặc trụ sở chi nhánh.
+    b) Giải quyết TTHC:
+    - Trường hợp hồ sơ cần sửa đổi, bổ sung, Sở Xây dựng thông báo trực tiếp hoặc bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến những nội dung cần bổ sung hoặc sửa đổi đến đơn vị kinh doanh vận tải trong thời hạn 03 ngày làm việc, kể từ ngày nhận hồ sơ;
+    - Trong thời hạn 04 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định, Sở Xây dựng thẩm định hồ sơ, cấp Giấy phép kinh doanh vận tải bằng xe ô tô, bằng xe bốn bánh có gắn động cơ. Trường hợp không cấp Giấy phép kinh doanh thì Sở Xây dựng phải trả lời bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến và nêu rõ lý do.
+    - Sở Xây dựng kiểm tra thông tin về Giấy chứng nhận đăng ký kinh doanh hoặc Giấy chứng nhận đăng ký doanh nghiệp trên hệ thống Cổng thông tin đăng ký doanh nghiệp quốc gia hoặc Cổng thông tin doanh nghiệp của Sở Tài chính các tỉnh, thành phố trước khi cấp Giấy phép kinh doanh.
+    - Việc tiếp nhận hồ sơ và trả kết quả được thực hiện tại Bộ phận Một cửa của Sở Xây dựng hoặc dịch vụ bưu chính. Trường hợp tiếp nhận hồ sơ trực tiếp tại Sở Xây dựng hoặc dịch vụ bưu chính, cán bộ tiếp nhận hồ sơ cập nhật thông tin của các hồ sơ đúng theo quy định vào hệ thống dịch vụ công trực tuyến của Bộ Xây dựng.
+    Sở Xây dựng thực hiện xử lý hồ sơ và cấp Giấy phép kinh doanh trên hệ thống dịch vụ công trực tuyến của Bộ Xây dựng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 4 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ * Trường hợp cấp lại Giấy phép kinh doanh do bị thu hồi ]
+    - - Giấy đề nghị cấp Giấy phép kinh doanh theo mẫu quy định;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính hoặc bản sao điện tử từ sổ gốc hoặc bản chính Quyết định thành lập và quy định chức năng, nhiệm vụ bộ phận quản lý an toàn của đơn vị kinh doanh vận tải bằng xe ô tô, bằng xe bốn bánh có gắn động cơ
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản sao hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính hoặc bản sao điện tử từ sổ gốc văn bằng, chứng chỉ của người trực tiếp điều hành hoạt động vận tải
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tài liệu chứng minh việc khắc phục đối với vi phạm quy định tại điểm a, điểm d khoản 6 Điều 21 Nghị định số 158/2024/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính hoặc bản sao điện tử từ sổ gốc hoặc bản chính Quyết định giao nhiệm vụ đối với người điều hành vận tải
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ * Trường hợp cấp lại Giấy phép kinh doanh do thay đổi nội dung của Giấy phép kinh doanh ]
+    - - Tài liệu chứng minh, sự thay đổi của những nội dung ghi trong Giấy phép kinh doanh quy định tại khoản 1 (trừ điểm đ, điểm e) Điều 19 của Nghị định số 158/2024/NĐ-CP (việc thay đổi liên quan đến nội dung nào thì bổ sung tài liệu về nội dung đó).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - - Giấy đề nghị cấp lại Giấy phép kinh doanh trong đó nêu rõ lý do xin cấp lại theo mẫu quy định;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Sở Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép kinh doanh vận tải bằng xe ô tô, bằng xe bốn bánh có gắn động cơ
+Căn cứ pháp lý:
+  * nghị quyết của Chính phủ về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng (24/2026/NQ-CP)
+  * Quy định về hoạt động vận tải đường bộ (158/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

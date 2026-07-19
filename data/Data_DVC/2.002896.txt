@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002896
+Số quyết định: 1447/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục phát hành, phổ biến phim phục vụ nhiệm vụ chính trị có phát sinh doanh thu (cấp Trung ương)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Điện ảnh
+Trình tự thực hiện:
+    - Tổ chức, cá nhân có nhu cầu phát hành, phổ biến phim phục vụ nhiệm vụ chính trị có phát sinh doanh thu gửi 01 bộ hồ sơ đến cơ quan đại diện chủ sở hữu phim; cơ quan, tổ chức, cá nhân được các đồng chủ sở hữu phim giao hoặc ủy quyền thực hiện theo quy định tại Nghị định số 189/2026/NĐ-CP, thuộc phạm vi quản lý của cơ quan trung ương.
+    - Trong thời hạn 15 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền có văn bản đồng ý phát hành, phổ biến phim; trường hợp không đồng ý phải trả lời bằng văn bản và nêu rõ lý do.
+    - Trường hợp hồ sơ đề nghị chưa đầy đủ hoặc chưa hợp lệ, cơ quan có thẩm quyền có văn bản đề nghị bổ sung, hoàn thiện hồ sơ trong thời gian 02 ngày làm việc kể từ ngày nhận được hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị theo mẫu quy định tại Phụ lục ban hành kèm theo Nghị định số 189/2026/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Kế hoạch thực hiện phát hành, phổ biến phim bao gồm các nội dung: Tên phim đề nghị phát hành, phổ biến; Cơ quan đại diện chủ sở hữu phim hoặc cơ quan đồng chủ sở hữu phim; Phạm vi, địa điểm thực hiện phát hành, phổ biến phim; Thời gian thực hiện; Hình thức phát hành, phổ biến phim; Đối tượng thụ hưởng; Cách thức triển khai thực hiện; Phương án thống kê số lượt xem; Quyền và nghĩa vụ của các bên có liên quan; Cách thức xử lý các vi phạm; Tỷ lệ hoặc cách thức phân chia doanh thu; Phương án báo cáo, đối soát doanh thu; Kỳ đối soát, chứng từ; nghĩa vụ báo cáo, kê khai, nộp và quyết toán doanh thu; Các nội dung khác có liên quan (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Điện ảnh - Bộ Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản đồng ý phát hành, phổ biến phim
+Căn cứ pháp lý:
+  * Nghị định quy định về phát hành, phổ biến phim phục vụ nhiệm vụ chính trị (189/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không quy định
+Từ khóa: Không có thông tin
+Mô tả: Không quy định

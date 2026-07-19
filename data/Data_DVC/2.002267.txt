@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002267
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Đề nghị cung cấp dịch vụ T-VAN/ Thay đổi, bổ sung thông tin cung cấp dịch vụ T-VAN hoặc thông tin kết nối/ Ngừng cung cấp dịch vụ T-VAN
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1. Tổ chức hoạt động trong lĩnh vực công nghệ thông tin lập văn bản đề nghị kết nối (kèm theo các tài liệu, hồ sơ chứng minh hệ thống đáp ứng tiêu chuẩn và đề án cung cấp dịch vụ T-VAN)/Thay đổi, bổ sung thông tin cung cấp dịch vụ T-VAN hoặc thông tin kết nối/Ngừng cung cấp dịch vụ T-VAN và gửi đến Cục Thuế.
+    Thời hạn nộp hồ sơ:
+    ++ Chậm nhất là 10 ngày làm việc kể từ ngày phát sinh thay đổi, bổ sung thông tin liên quan đến thỏa thuận đã ký với Cục Thuế (đối với trường hợp thay đổi, bổ sung thông tin liên quan đến thỏa thuận đã ký);
+    ++ Trước thời hạn ngừng/tạm ngừng cung cấp dịch vụ 30 ngày, tổ chức cung cấp dịch vụ T-VAN phải trao đổi và thống nhất với Cục Thuế bằng văn bản (đối với trường hợp tạm ngừng/ngừng cung cấp dịch vụ T-VAN).
+    + Bước 2. Cục Thuế thực hiện tiếp nhận:
+    ++ Trường hợp hồ sơ được nộp trực tiếp tại cơ quan thuế, công chức thuế tiếp nhận và đóng dấu tiếp nhận hồ sơ, ghi thời gian nhận hồ sơ, ghi nhận số lượng tài liệu trong hồ sơ và ghi vào sổ văn thư của cơ quan thuế;
+    ++ Trường hợp hồ sơ được gửi qua đường bưu chính, công chức thuế đóng dấu ghi ngày nhận hồ sơ và ghi vào sổ văn thư của cơ quan thuế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Trường hợp (1): Đề nghị ký thoả thuận cung cấp dịch vụ T-VAN: ]
+    - Đề án cung cấp dịch vụ T-VAN
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Văn bản đề nghị kết nối
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các tài liệu, hồ sơ chứng minh hệ thống đáp ứng tiêu chuẩn
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ Trường hợp (2): Thay đổi, bổ sung thông tin cung cấp dịch vụ T-VAN hoặc thông tin kết nối: ]
+    - Văn bản đề nghị thay đổi, bổ sung thông tin kèm theo các tài liệu hồ sơ liên quan đến nội dung thay đổi
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Trường hợp (3): Ngừng cung cấp dịch vụ T-VAN: ]
+    - Văn bản đề nghị tạm ngừng/ngừng cung cấp dịch vụ T-VAN.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thỏa thuận bổ sung thống nhất giữa tổ chức cung cấp dịch vụ T-VAN và Cục Thuế, Văn bản thỏa thuận kết nối giữa tổ chức cung cấp dịch vụ T-VAN và Cục Thuế, Văn bản chấm dứt thỏa thuận kết nối với tổ chức cung cấp dịch vụ T-VAN
+Căn cứ pháp lý:
+  * QUY ĐỊNH VỀ MẪU THẺ, TRÌNH TỰ, THỦ TỤC CẤP MỚI, CẤP LẠI THẺ GIÁM ĐỊNH VIÊN TƯ PHÁP (11/2020/NĐ-CP)
+  * Nghị định 165/2018/NĐ-CP (165/2018/NĐ-CP)
+  * Luật Quản lý thuế (38/2019/QH14)
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính hướng dẫn Giao dịch điện tử trong lĩnh vực thuế (19/2021/TT-BTC)
+  * Nghị định 130/2018/NĐ-CP (130/2018/NĐ-CP)
+  * Nghị định 45/2020/NĐ-CP (45/2020/NĐ-CP)
+  * Luật 51/2005/QH11 (51/2005/QH11)
+  * Luật 67/2006/QH11 (67/2006/QH11)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

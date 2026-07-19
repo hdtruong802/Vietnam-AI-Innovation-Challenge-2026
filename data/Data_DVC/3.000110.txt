@@ -1,0 +1,39 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000110
+Số quyết định: 711/QĐ-BTC
+Tên thủ tục: Thủ tục đăng ký tài khoản người sử dụng Cổng thông tin một cửa quốc gia
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    + Trường hợp người khai đã có tài khoản người sử dụng tại các hệ thống xử lý chuyên ngành có kết nối với Cổng thông tin một cửa quốc gia:
+    ++ Người khai thực hiện đăng ký thông tin theo Mẫu số 01 Phụ lục ban hành kèm theo Nghị định số 85/2019/NĐ-CP ngày 14/11/2019 của Chính phủ gửi đến Tổng cục Hải quan.
+    ++ Tổng cục Hải quan tiếp nhận thông báo, xử lý và hướng dẫn người khai sử dụng tài khoản đã chọn để truy cập Cổng thông tin một cửa quốc gia.
+    + Trường hợp người khai đăng ký tài khoản mới trên Cổng thông tin một cửa quốc gia:
+    ++ Người khai đăng ký thông tin theo Mẫu số 02 Phụ lục ban hành kèm theo Nghị định số 85/2019/NĐ-CP ngày 14/11/2019 của Chính phủ và gửi đến Tổng cục Hải quan.
+    ++ Tổng cục Hải quan phối hợp với các cơ quan quản lý có liên quan xem xét hồ sơ và thông báo cho người khai.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Trường hợp người khai đăng ký tài khoản mới trên Cổng thông tin một cửa quốc gia: Mẫu số 02 Phụ lục ban hành kèm theo Nghị định số 85/2019/NĐ-CP ngày 14/11/2019 của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Trường hợp người khai đã có tài khoản người sử dụng tại các hệ thống xử lý chuyên ngành có kết nối với Cổng thông tin một cửa quốc gia: Mẫu số 01 Phụ lục ban hành kèm theo Nghị định số 85/2019/NĐ-CP ngày 14/11/2019 của Chính phủ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam, Cán bộ, công chức, viên chức, Doanh nghiệp, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Cục Hải quan - Bộ tài chính
+Cơ quan có thẩm quyền: Cục Hải quan - Bộ tài chính
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Không có thông tin
+Căn cứ pháp lý:
+  * Quy định thực hiện thủ tục hành chính theo cơ chế một cửa quốc gia, cơ chế một cửa ASEAN và kiểm tra chuyên ngành đối với hàng hóa xuất khẩu, nhập khẩu (85/2019/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

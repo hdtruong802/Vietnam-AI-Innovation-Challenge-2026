@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000930
+Số quyết định: QĐ2338-BTP
+Tên thủ tục: Thủ tục thôi làm hòa giải viên (cấp xã)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hòa giải ở cơ sở
+Trình tự thực hiện:
+    Trong thời hạn 10 ngày, kể từ khi nhận được đề nghị của tổ trưởng Tổ hòa giải về việc thôi làm hòa giải viên, Trưởng ban công tác Mặt trận chủ trì, phối hợp với trưởng thôn, tổ trưởng dân phố xem xét, xác minh, làm văn bản đề nghị Chủ tịch Ủy ban nhân dân cấp xã ra quyết định thôi làm hòa giải viên.
+    Đối với trường hợp thôi làm hòa giải viên theo quy định tại Điểm b, Điểm c Khoản 1 Điều 11 của Luật hòa giải ở cơ sở, nếu Trưởng ban công tác Mặt trận, trưởng thôn, tổ trưởng tổ dân phố không đồng ý với đề nghị của tổ trưởng tổ hòa giải hoặc Trưởng ban công tác Mặt trận và trưởng thôn, tổ trưởng tổ dân phố không thống nhất được với nhau về đề nghị của tổ trưởng tổ hòa giải, thì Trưởng ban công tác Mặt trận thông báo với tổ trưởng tổ hòa giải, nêu rõ lý do không đồng ý, đồng thời báo cáo Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định.
+    Trường hợp thôi làm hòa giải viên đối với tổ trưởng tổ hòa giải thì Trưởng ban công tác Mặt trận phối hợp với trưởng thôn, tổ trưởng tổ dân phố làm văn bản đề nghị Chủ tịch Ủy ban nhân dân cấp xã ra quyết định thôi làm hòa giải viên.
+    Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị hoặc báo cáo về việc thôi làm hòa giải viên, Chủ tịch Ủy ban nhân dân cấp xã xem xét, quyết định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Báo cáo về việc thôi làm hòa giải viên (Mẫu số 09 tại Phụ lục ban hành kèm theo Nghị quyết liên tịch số 01/2014/NQLT-CP-UBTƯMTTQVN) trong trường hợp Trưởng ban công tác Mặt trận, trưởng thôn, tổ trưởng tổ dân phố không đồng ý với đề nghị của tổ trưởng tổ hòa giải hoặc Trưởng ban công tác Mặt trận và trưởng thôn, tổ trưởng tổ dân phố không thống nhất được với nhau về đề nghị của tổ trưởng tổ hòa giải
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị ra quyết định thôi làm hòa giải viên (Mẫu số 08 tại Phụ lục ban hành kèm theo Nghị quyết liên tịch số 01/2014/NQLT-CP-UBTƯMTTQVN
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thôi làm hòa giải viên
+Căn cứ pháp lý:
+  * Hướng dẫn phối hợp thực hiện một số quy định của pháp luật về hòa giải ở cơ sở (01/2014/NQLT-CP-UBTƯMTTQVN)
+  * Luật Hòa giải ở cơ sở năm 2013 (35/2013/QH13)
+  * Công bố thủ tục hành chính được chuẩn hóa trong lĩnh vực hòa giải ở cơ sở thuộc phạm vi chức năng quản lý của Bộ Tư pháp (Quyết định số 2338/QĐ-BTP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

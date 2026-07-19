@@ -30,12 +30,12 @@ export default function ChecklistPanel({
   const answeredEntries = Object.entries(state.sessionContext.clarification_answers);
 
   return (
-    <div className="flex-1 flex flex-col overflow-y-auto p-5 space-y-6 bg-card-bg">
-      <div className="border-b border-border-slate pb-4 shrink-0 space-y-2">
-        <span className="text-[10px] font-bold text-accent tracking-wider uppercase">
+    <div className="flex-1 flex flex-col overflow-y-auto p-5 space-y-6 bg-[var(--vg-surface)]">
+      <div className="border-b border-[var(--vg-border)] pb-4 shrink-0 space-y-2">
+        <span className="text-[10px] font-bold text-[var(--vg-accent)] tracking-wider uppercase">
           {checklist.fixture_mode || checklist.demo_mode ? "Checklist & biểu mẫu demo" : "Cơ sở pháp lý & Tài liệu"}
         </span>
-        <h2 className="text-base font-bold text-primary">{checklist.procedure_name}</h2>
+        <h2 className="text-base font-bold text-[var(--vg-text)]">{checklist.procedure_name}</h2>
         <TrustBadge
           trustState={checklist.trust_state}
           fixtureMode={checklist.fixture_mode}
@@ -52,15 +52,15 @@ export default function ChecklistPanel({
       </div>
 
       {answeredEntries.length > 0 && (
-        <div className="pb-2 border-b border-border-slate/60">
-          <h3 className="text-xs font-bold text-zinc-400 uppercase tracking-wider mb-2">
+        <div className="pb-2 border-b border-[var(--vg-border)]">
+          <h3 className="text-xs font-bold text-[var(--vg-text-muted)] uppercase tracking-wider mb-2">
             Thông tin đã xác định
           </h3>
           <dl className="space-y-1 text-[11px]">
             {answeredEntries.map(([key, value]) => (
               <div key={key} className="flex justify-between gap-2">
-                <dt className="text-foreground/50">{key}</dt>
-                <dd className="font-bold text-primary">{String(value)}</dd>
+                <dt className="text-[var(--vg-text-muted)]">{key}</dt>
+                <dd className="font-bold text-[var(--vg-text)]">{String(value)}</dd>
               </div>
             ))}
           </dl>
@@ -74,16 +74,16 @@ export default function ChecklistPanel({
       </div>
 
       <div className="pt-2">
-        <h3 className="text-xs font-bold text-zinc-400 uppercase tracking-wider mb-3">Quy trình giải quyết</h3>
-        <div className="relative pl-4 border-l-2 border-zinc-200 ml-2 space-y-5">
+        <h3 className="text-xs font-bold text-[var(--vg-text-muted)] uppercase tracking-wider mb-3">Quy trình giải quyết</h3>
+        <div className="relative pl-4 border-l-2 border-[var(--vg-border)] ml-2 space-y-5">
           {checklist.steps.map((step) => (
             <div key={step.order} className="relative">
-              <div className="absolute -left-[25px] top-0 flex items-center justify-center w-5 h-5 rounded-full bg-primary text-white text-[9px] font-bold">
+              <div className="absolute -left-[25px] top-0 flex items-center justify-center w-5 h-5 rounded-full bg-[var(--vg-accent)] text-white text-[9px] font-bold">
                 {step.order}
               </div>
-              <div className="p-3.5 bg-neutral-bg border border-border-slate rounded-lg">
-                <h4 className="text-xs font-bold text-primary">{step.title}</h4>
-                <p className="text-xs text-zinc-600 mt-1 leading-relaxed">{step.detail}</p>
+              <div className="p-3.5 bg-[var(--vg-surface-subtle)] border border-[var(--vg-border)] rounded-lg">
+                <h4 className="text-xs font-bold text-[var(--vg-text)]">{step.title}</h4>
+                <p className="text-xs text-[var(--vg-text-secondary)] mt-1 leading-relaxed">{step.detail}</p>
               </div>
             </div>
           ))}

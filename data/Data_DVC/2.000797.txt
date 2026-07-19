@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000797
+Số quyết định: 1230/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận thành lập văn phòng đại diện, đơn vị sự nghiệp của tổ chức tín dụng phi ngân hàng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Tổ chức tín dụng phi ngân hàng lập 01 bộ hồ sơ theo quy định đề nghị chấp thuận thành lập văn phòng đại diện, đơn vị sự nghiệp của tổ chức tín dụng phi ngân hàng gửi Ngân hàng Nhà nước;
+    + Bước 2: Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức tín dụng phi ngân hàng sửa đổi, bổ sung hồ sơ;
+    + Bước 3: Tổ chức tín dụng phi ngân hàng sửa đổi, bổ sung hồ sơ trong thời hạn tối đa 21 ngày làm việc kể từ ngày Ngân hàng Nhà nước có văn bản yêu cầu sửa đổi, bổ sung hồ sơ. Quá thời hạn này, tổ chức tín dụng phi ngân hàng phải nộp lại bộ hồ sơ theo quy định tại Thông tư này để Ngân hàng Nhà nước xem xét, chấp thuận;
+    Bước 4: Trong thời hạn 11 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ đề nghị thành lập văn phòng đại diện, đơn vị sự nghiệp của tổ chức tín dụng phi ngân hàng, Ngân hàng Nhà nước có văn bản chấp thuận hoặc không chấp thuận đề nghị của tổ chức tín dụng phi ngân hàng. Trường hợp không chấp thuận, văn bản phải nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 11 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Văn bản của tổ chức tín dụng phi ngân hàng đề nghị Ngân hàng Nhà nước Việt Nam chấp thuận thành lập văn phòng đại diện, đơn vị sự nghiệp theo mẫu Phụ lục ban hành kèm theo Thông tư số 13/2026/TT-NHNN.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Nghị quyết của Hội đồng quản trị hoặc Hội đồng thành viên của tổ chức tín dụng phi ngân hàng hoặc văn bản của cấp có thẩm quyền khác theo quy định tại Điều lệ của tổ chức tín dụng phi ngân hàng
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản không chấp thuận thành lập văn phòng đại diện, đơn vị sự nghiệp của ngân tổ chức tín dụng phi ngân hàng, Văn bản chấp thuận thành lập văn phòng đại diện, đơn vị sự nghiệp của ngân tổ chức tín dụng phi ngân hàng
+Căn cứ pháp lý:
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư quy định về hồ sơ, thủ tục chấp thuận những thay đổi và mạng lưới hoạt động của tổ chức tín dụng phi ngân hàng (Thông tư số 30/2024/TT-NHNN)
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Quy định về mạng lưới hoạt động của tổ chức tín dụng phi ngân hàng (53/2018/TT-NHNN)
+  * Thông tư số 13/2026/TT-NHNN của Thống đốc Ngân hàng Nhà nước sửa đổi, bổ sung một số điều của Thông tư số 53/2018/TT-NHNN quy định về mạng lưới hoạt động của tổ chức tín dụng phi ngân hàng. (Thông tư số 13/2026/TT-NHNN)
+  * Thông tư sửa đổi, bổ sung một số điều của một số Thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh,  đơn giản hóa thủ tục hành chính (Thông tư số 69/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: Tại thời điểm đề nghị không bị cơ quan có thẩm quyền áp dụng biện pháp không cho mở rộng địa bàn hoạt động.
+Từ khóa: Không có thông tin
+Mô tả: Tại thời điểm đề nghị không bị cơ quan có thẩm quyền áp dụng biện pháp không cho mở rộng địa bàn hoạt động.

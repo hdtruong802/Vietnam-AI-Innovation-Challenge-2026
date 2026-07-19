@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000576
+Số quyết định: 1198/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục khai báo hoạt động phát hành xuất bản phẩm
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+    - Trước khi hoạt động, cơ sở phát hành xuất bản phẩm phải khai báo hoạt động phát hành xuất bản phẩm với Ủy ban nhân dân cấp xã sở tại trên Cổng dịch vụ công Quốc gia.
+    - Trong thời gian 03 ngày làm việc kể từ ngày tiếp nhận đủ thông tin khai báo, Ủy ban nhân dân cấp xã phải xác nhận việc khai báo; trường hợp không xác nhận phải có văn bản trả lời nêu rõ lý do
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Kể từ ngày nhận đủ hồ sơ theo quy định.
+
+Thành phần hồ sơ:
+    - Tờ khai hoạt động phát hành xuất bản phẩm (theo Mẫu số 08 ban hành kèm theo Phụ lục I.9 tại Nghị quyết số 66.18/2026/NQ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Xác nhận khai báo hoạt động phát hành xuất bản phẩm.
+Căn cứ pháp lý:
+  * 23/2023/TT-BTTTT (23/2023/TT-BTTTT)
+  * Nghị định 195/2013/NĐ-CP (195/2013/NĐ-CP)
+  * Thông tư 01/2020/TT-BTTTT (01/2020/TT-BTTTT)
+  * Nghị quyết số 66.18/2026/NQ-CP của Chính phủ: Phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (66.18/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Doanh nghiệp, đơn vị sự nghiệp công lập hoạt động phát hành xuất bản phẩm phải đáp ứng các yêu cầu sau:
+- Người đứng đầu cơ sở phát hành phải thường trú tại Việt Nam;
+- Có địa điểm kinh doanh xuất bản phẩm hoặc tên miền, gian hành thương mại điện tử theo quy định của Luật Giao dịch điện tử số 20/2023/QH15.
+Từ khóa: Không có thông tin
+Mô tả: Doanh nghiệp, đơn vị sự nghiệp công lập hoạt động phát hành xuất bản phẩm phải đáp ứng các yêu cầu sau:
+- Người đứng đầu cơ sở phát hành phải thường trú tại Việt Nam;
+- Có địa điểm kinh doanh xuất bản phẩm hoặc tên miền, gian hành thương mại điện tử theo quy định của Luật Giao dịch điện tử số 20/2023/QH15.

@@ -59,6 +59,15 @@ class DataMetadataGuardTests(unittest.TestCase):
 
         self.assertEqual([], data_guard.validate(self.root, f"{self.base}...{head}"))
 
+    def test_accepts_curated_source_and_registry_metadata(self) -> None:
+        self.write("data/Data_DVC/1.001193.txt", "public source payload\n")
+        self.write("data/registry/procedure-family-registry.csv", "procedure_id,name\n1.001193,birth\n")
+        self.git("add", "data")
+        self.git("commit", "-m", "add curated source metadata")
+        head = self.git("rev-parse", "HEAD")
+
+        self.assertEqual([], data_guard.validate(self.root, f"{self.base}...{head}"))
+
     def test_rejects_unexpected_path_and_oversize_blob(self) -> None:
         invalid_head = self.commit_change("data/raw.json", "{}\n")
         errors = data_guard.validate(self.root, f"{self.base}...{invalid_head}")
@@ -68,6 +77,12 @@ class DataMetadataGuardTests(unittest.TestCase):
         large_head = self.commit_change("data/1.000006.txt", "x" * (data_guard.MAX_BLOB_BYTES + 1))
         errors = data_guard.validate(self.root, f"{self.base}...{large_head}")
         self.assertIn("Data blob exceeds", "\n".join(errors))
+
+    def test_rejects_raw_archive(self) -> None:
+        head = self.commit_change("data/source-archive.zip", "not a permitted release artifact\n")
+
+        errors = data_guard.validate(self.root, f"{self.base}...{head}")
+        self.assertIn("Unexpected data path: data/source-archive.zip", errors)
 
 
 if __name__ == "__main__":

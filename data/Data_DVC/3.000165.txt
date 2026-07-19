@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000165
+Số quyết định: 01/QĐCB
+Tên thủ tục: Đăng ký cấp sao bản án, tài liệu trong hồ sơ vụ án
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Tòa án
+Trình tự thực hiện:
+    Bước 1. Cá nhân, tổ chức đề nghị cấp bản sao trích lục bản án tại cơ quan Tòa án.
+    Trường hợp thực hiện trực tuyến, cá nhân, tổ chức đăng nhập Cổng Dịch vụ công Quốc gia/Cổng thông tin điện tử của Tòa án nhân dân và lựa chọn dịch vụ, thực hiện nộp đăng ký trực tuyến.
+    Bước 2. Cơ quan Tòa án xử lý đề nghị của cá nhân, tổ chức.
+    Bước 3. Cơ quan Tòa án thông báo kết quả và phí cấp bản sao.
+    Trường hợp thực hiện trực tuyến, thông báo sẽ được gửi trực tuyến đến cá nhân, tổ chức. Cá nhân, tổ chức thực hiện đóng phí cấp bản sao trực tuyến.
+    Bước 4. Cá nhân, tổ chức nộp phí cấp bản sao và nhận kết quả tại Cơ quan Tòa án hoặc nhận kết quả qua đường bưu điện.
+    Trường hợp thực hiện trực tuyến, cá nhân, tổ chức có thể nhận kết quả là các văn bản điện tử.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đăng ký cấp sao tài liệu
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Chứng minh nhân dân/Căn cước công dân
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Công dân Việt Nam, Doanh nghiệp, Cán bộ, công chức, viên chức, Người nước ngoài, Hợp tác xã, Tổ chức nước ngoài
+Cơ quan thực hiện: Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án nhân dân tối cao
+Cơ quan có thẩm quyền: Tòa án nhân dân tỉnh, thành phố trực thuộc trung ương, Tòa án nhân dân, Tòa án nhân dân khu vực
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Tòa án nhân dân khu vực
+Kết quả thực hiện: Văn bản tố tụng của Tòa án theo tiến trình giải quyết
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

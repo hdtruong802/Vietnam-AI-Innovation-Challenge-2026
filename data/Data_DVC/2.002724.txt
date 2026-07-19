@@ -1,0 +1,70 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002724
+Số quyết định: 753/QĐ-BKHCN
+Tên thủ tục: Thủ tục đánh giá, nghiệm thu nhiệm vụ cấp cơ sở sử dụng ngân sách nhà nước
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+  * Tổ chức, cá nhân nộp hồ sơ đánh giá, nghiệm thu nhiệm vụ cấp cơ sở sử dụng ngân sách nhà nước về Cơ quan, đơn vị cấp cơ sở.
+    Bước 1: Nộp hồ sơ đánh giá, nghiệm thu nhiệm vụ khoa học và công nghệ cấp cơ sở
+    Tổ chức, cá nhân nộp hồ sơ đánh giá, nghiệm thu nhiệm vụ cấp cơ sở sử dụng ngân sách nhà nước về Cơ quan, đơn vị cấp cơ sở.
+    Bước 2: Kiểm tra tính hợp lệ của hồ sơ đánh giá, nghiệm thu nhiệm vụ khoa học và công nghệ cấp cơ sở
+    Cơ quan, đơn vị cấp cơ sở tổ chức mở, kiểm tra và xác nhận tính hợp lệ của hồ sơ đánh giá, nghiệm thu nhiệm vụ khoa học và công nghệ cấp cơ sở.
+    Bước 3: Thành lập Hội đồng tư vấn đánh giá nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp cơ sở
+    Thủ trưởng cơ quan, đơn vị cấp cơ sở quyết định thành lập Hội đồng khoa học và công nghệ chuyên ngành đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp cơ sở (sau đây viết tắt là Hội đồng nghiệm thu) và Tổ chuyên gia (được thành lập trong trường hợp nhiệm vụ có sản phẩm đo kiểm được).
+    Bước 4: Tổ chức họp Hội đồng tư vấn đánh giá, nghiệm thu và Tổ chuyên gia (nếu có) kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp cơ sở
+    - Cơ quan, đơn vị cấp cơ sở tổ chức họp Hội đồng tư vấn đánh giá nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp cơ sở.
+    - Trên cơ sở kết luận của Hội đồng tư vấn đánh giá nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp cơ sở, ý kiến của chuyên gia tư vấn độc lập (nếu có) cơ quan, đơn vị cấp cơ sở xem xét nghiệm thu, thanh lý hợp đồng thực hiện nhiệm vụ KH&CN cấp cơ sở.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Hồ sơ đề nghị đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp cơ sở phải gửi đến cơ quan, đơn vị cấp cơ sở trong hạn 15 ngày kể từ ngày kết thúc thời gian thực hiện nhiệm vụ theo hợp đồng, bao gồm cả thời gian gia hạn thực hiện nhiệm vụ (nếu có):
+- Sau khi nhận được hồ sơ đề nghị đánh giá, nghiệm thu của tổ chức chủ trì nhiệm vụ cơ quan, đơn vị cấp cơ sở tiến hành kiểm tra tính hợp lệ của hồ sơ.
+- Đối với nhiệm vụ khoa học và công nghệ được đánh giá “Đạt” trở lên: trong thời hạn 15 ngày kể từ ngày họp Hội đồng nghiệm thu, chủ nhiệm nhiệm vụ và tổ chức chủ trì có trách nhiệm bổ sung, hoàn chỉnh hồ sơ nhiệm vụ theo kết luận của Hội đồng, lấy ý kiến của Chủ tịch Hội đồng về việc hoàn thiện hồ sơ và gửi về cơ quan, đơn vị cấp cơ sở;
+- Đối với nhiệm vụ xếp loại ở mức “Không đạt”: cơ quan, đơn vị cấp cơ sở chủ trì, phối hợp với các đơn vị có liên quan tiến hành xử lý theo quy định về xử lý đối với nhiệm vụ không hoàn thành tại Điều 16 và Điều 17 Thông tư liên tịch số 27/2015/TTLT-BKHCN-BTC
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Hồ sơ đề nghị đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp cơ sở phải gửi đến cơ quan, đơn vị cấp cơ sở trong hạn 15 ngày kể từ ngày kết thúc thời gian thực hiện nhiệm vụ theo hợp đồng, bao gồm cả thời gian gia hạn thực hiện nhiệm vụ (nếu có):
+- Sau khi nhận được hồ sơ đề nghị đánh giá, nghiệm thu của tổ chức chủ trì nhiệm vụ cơ quan, đơn vị cấp cơ sở tiến hành kiểm tra tính hợp lệ của hồ sơ.
+- Đối với nhiệm vụ khoa học và công nghệ được đánh giá “Đạt” trở lên: trong thời hạn 15 ngày kể từ ngày họp Hội đồng nghiệm thu, chủ nhiệm nhiệm vụ và tổ chức chủ trì có trách nhiệm bổ sung, hoàn chỉnh hồ sơ nhiệm vụ theo kết luận của Hội đồng, lấy ý kiến của Chủ tịch Hội đồng về việc hoàn thiện hồ sơ và gửi về cơ quan, đơn vị cấp cơ sở;
+- Đối với nhiệm vụ xếp loại ở mức “Không đạt”: cơ quan, đơn vị cấp cơ sở chủ trì, phối hợp với các đơn vị có liên quan tiến hành xử lý theo quy định về xử lý đối với nhiệm vụ không hoàn thành tại Điều 16 và Điều 17 Thông tư liên tịch số 27/2015/TTLT-BKHCN-BTC
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Hồ sơ đề nghị đánh giá, nghiệm thu kết quả thực hiện nhiệm vụ khoa học và công nghệ cấp cơ sở phải gửi đến cơ quan, đơn vị cấp cơ sở trong hạn 15 ngày kể từ ngày kết thúc thời gian thực hiện nhiệm vụ theo hợp đồng, bao gồm cả thời gian gia hạn thực hiện nhiệm vụ (nếu có):
+- Sau khi nhận được hồ sơ đề nghị đánh giá, nghiệm thu của tổ chức chủ trì nhiệm vụ cơ quan, đơn vị cấp cơ sở tiến hành kiểm tra tính hợp lệ của hồ sơ.
+- Đối với nhiệm vụ khoa học và công nghệ được đánh giá “Đạt” trở lên: trong thời hạn 15 ngày kể từ ngày họp Hội đồng nghiệm thu, chủ nhiệm nhiệm vụ và tổ chức chủ trì có trách nhiệm bổ sung, hoàn chỉnh hồ sơ nhiệm vụ theo kết luận của Hội đồng, lấy ý kiến của Chủ tịch Hội đồng về việc hoàn thiện hồ sơ và gửi về cơ quan, đơn vị cấp cơ sở;
+- Đối với nhiệm vụ xếp loại ở mức “Không đạt”: cơ quan, đơn vị cấp cơ sở chủ trì, phối hợp với các đơn vị có liên quan tiến hành xử lý theo quy định về xử lý đối với nhiệm vụ không hoàn thành tại Điều 16 và Điều 17 Thông tư liên tịch số 27/2015/TTLT-BKHCN-BTC
+
+Thành phần hồ sơ:
+  [ Tổ chức, cá nhân nộp hồ sơ đánh giá, nghiệm thu nhiệm vụ cấp cơ sở sử dụng ngân sách nhà nước về Cơ quan, đơn vị cấp cơ sở. ]
+    - Báo cáo về sản phẩm kết quả thực hiện nhiệm vụ KH&CN cấp cơ sở
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các văn bản xác nhận và tài liệu liên quan đến việc công bố, xuất bản, đào tạo, tiếp nhận và sử dụng kết quả nghiên cứu; các số liệu điều tra, khảo sát, phân tích (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Báo cáo tổng hợp kết quả thực hiện nhiệm vụ KH&CN cấp cơ sở
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các văn bản về thay đổi nội dung nhiệm vụ KH&CN cấp cơ sở và các tài liệu có liên quan khác (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Phương án phát triển, thương mại hóa kết quả nhiệm vụ khoa học và công nghệ cấp cơ sở (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Công văn đề nghị đánh giá, nghiệm thu của tổ chức chủ trì nhiệm vụ KH&CN cấp cơ sở
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Cán bộ, công chức, viên chức, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh, Cơ quan phân cấp, ủy quyền của UBND cấp tỉnh
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Biên bản họp Hội đồng đánh giá, nghiệm thu cấp cơ sở
+Căn cứ pháp lý:
+  * Thông tư quy định quản lý nhiệm vụ khoa học và công nghệ cấp tỉnh, cấp cơ sở sử dụng ngân sách nhà nước (09/2024/TT-BKHCN)
+
+Yêu cầu, điều kiện thực hiện: Việc nộp hồ sơ thực hiện trong thời hạn 15 ngày kể từ ngày kết thúc thời gian thực hiện nhiệm vụ theo hợp đồng, bao gồm cả thời gian gia hạn thực hiện nhiệm vụ (nếu có).
+Từ khóa: Không có thông tin
+Mô tả: Việc nộp hồ sơ thực hiện trong thời hạn 15 ngày kể từ ngày kết thúc thời gian thực hiện nhiệm vụ theo hợp đồng, bao gồm cả thời gian gia hạn thực hiện nhiệm vụ (nếu có).

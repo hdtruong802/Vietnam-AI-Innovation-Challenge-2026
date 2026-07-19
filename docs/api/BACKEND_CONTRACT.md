@@ -34,11 +34,11 @@
 
 `POST /v1/applications/validate` nhận `procedure_id`, optional `procedure_version` và `form_data`. `verdict` chỉ là `pass_preliminary`, `needs_fix` hoặc `null` khi `trust_state=official_review_required`.
 
-## Prototype flow read models (D-013)
+## Prototype flow read models (D-018)
 
 Frontend dung sau route guided-intake/pre-check, voi `/v1/intake/turn` la flow
-hoi thoai canonical. Hai route RAG additive cua D-013 nay la legacy opt-in theo
-D-019, khong xuat hien trong OpenAPI mac dinh va khong duoc frontend fallback sang.
+hoi thoai canonical. Hai route RAG additive cua D-018 nay la legacy opt-in theo
+D-026, khong xuat hien trong OpenAPI mac dinh va khong duoc frontend fallback sang.
 
 ### Intake turn
 

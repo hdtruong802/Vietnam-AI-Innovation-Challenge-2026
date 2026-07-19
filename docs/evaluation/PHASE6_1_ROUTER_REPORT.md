@@ -2,7 +2,7 @@
 
 - Task Record: `local-20260719-phase6-1-intent-router`
 - Base: `cao@e84e4bb`
-- Decision: D-018
+- Decision: D-025
 - Runtime: deterministic guard and demo-pack alias scorer; no LLM, retrieval, network or new dependency
 
 ## Result

@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.006723
+Số quyết định: 2052/QĐ-UBND
+Tên thủ tục: Quyết định xử lý tài sản phục vụ hoạt động của dự án khi kết thúc
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Quản lý công sản
+Trình tự thực hiện:
+  * Bước 1:
+    Chậm nhất là 30 ngày trước ngày kết thúc dự án theo quyết định của cơ quan, người có thẩm quyền, Ban quản lý dự án có trách nhiệm kiểm kê tài sản phục vụ hoạt động của dự án, đề xuất phương án xử lý, lập hồ sơ đề nghị xử lý tài sản, báo cáo cơ quan quản lý cấp trên (nếu có cơ quan quản lý cấp trên) để tổng hợp, báo cáo cơ quan chủ quản dự án. Việc kiểm kê phải được lập thành Biên bản, nội dung chủ yếu của Biên bản gồm: Tên dự án, tên ban quản lý dự án, cơ quan chủ quản, thành phần tham gia kiểm kê, kết quả kiểm kê.
+    * Ghi chú: Trường hợp phát hiện thừa, thiếu tài sản phải ghi rõ trong Biên bản kiểm kê tài sản, xác định rõ nguyên nhân, trách nhiệm và đề xuất biện pháp xử lý theo chế độ quản lý, sử dụng tài sản công. Danh mục tài sản đề nghị xử lý thực hiện theo Mẫu số 06/TSC-TSDA ban hành kèm theo Nghị định số 186/2025/NĐ-CP ngày 01/7/2025 của Chính phủ Quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công.
+    Đối với dự án trong đó có một cơ quan chủ quản giữ vai trò điều phối chung và các cơ quan chủ quản của các dự án thành phần, Ban Quản lý dự án thành phần chịu trách nhiệm kiểm kê, báo cáo về Ban Quản lý dự án chủ quản để tổng hợp, đề xuất phương án xử lý.
+  * Bước 2:
+    Trong thời hạn 30 ngày, kể từ ngày nhận được báo cáo, cơ quan chủ
+    quản dự án có trách nhiệm tổng hợp và có Văn bản đề nghị xử lý tài sản kèm theo
+    bộ hồ sơ đề nghị xử lý tài sản gửi Ủy ban nhân dân cấp xã (đối với dự án thuộc địa
+    phương quản lý)
+  * Bước 3:
+    Trong thời hạn 15 ngày, kể từ ngày nhận báo cáo của cơ quan chủ
+    quản dự án, Ủy ban nhân dân cấp xã (đối với dự án thuộc địa phương quản lý) có
+    trách nhiệm lập phương án xử lý tài sản, đề nghị cơ quan, người có thầm quyền
+    xem xét, phê duyệt theo thẩm quyền.
+  * Bước 4:
+    Trong thời hạn 15 ngày, kể từ ngày nhận được đề nghị, cơ quan,
+    người có thầm quyền quyết định phê duyệt phương án xử lý tài sản hoặc có văn
+    bản hồi đáp trong trường hợp đề nghị không phù hợp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày kể từ ngày nhận được đầy đủ hồ sơ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày kể từ ngày nhận được đầy đủ hồ sơ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày kể từ ngày nhận được đầy đủ hồ sơ
+
+Thành phần hồ sơ:
+    - Báo cáo của Ban Quản lý dự án (kèm theo danh mục tài sản đề nghị xử lý)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản kiểm kê tài sản
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn kiện dự án hoặc hồ sơ dự án được cơ quan, người có thẩm quyền phê duyệt hoặc ký kết hoặc chấp thuận
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ, giấy tờ khác liên quan đến việc xử lý tài sản
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: - Trung tâm Phục vụ hành chính công các xã, phường.
+- Cổng dịch vụ công (dịch vụ công trực tuyến)
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: quyết định phê duyệt phương án xử lý tài sản hoặc có văn bản hồi đáp trong trường hợp đề nghị không phù hợp.
+Căn cứ pháp lý:
+  * Quyết định số 08/2026/QĐ-UBND ngày 20/01/2026 quy định phân cấp thẩm quyển quyết định quản lý, sử dụng tài sản công thuộc phạm vị quản lý của tỉnh Lào Cai (08/2026/QĐ-UBND)
+  * Nghị định số 186/2025/NĐ-CP của Chính phủ: Quy định chi tiết một số điều của Luật Quản lý, sử dụng tài sản công (186/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,40 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000356
+Số quyết định: 1025/QĐ-BCA
+Tên thủ tục: Cấp lại giấy phép sát hạch cho trung tâm sát hạch lái xe loại 1, loại 2
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Sát hạch, cấp giấy phép lái xe
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    Trung tâm sát hạch lái xe gửi văn bản đề nghị cấp lại giấy phép sát hạch đến Cục Cảnh sát giao thông.
+    b) Giải quyết TTHC:
+    * Trường hợp cấp lại khi có sự thay đổi về thiết bị sát hạch, chủng loại, số lượng xe cơ giới sử dụng để sát hạch lái xe:
+    - Trong thời gian không quá 05 ngày làm việc kể từ ngày nhận văn bản đề nghị, Cục Cảnh sát giao thông tổ chức kiểm tra, lập biên bản và cấp giấy phép sát hạch. Trường hợp không cấp, phải trả lời bằng văn bản và nêu rõ lý do;
+    - Việc trả kết quả được thực hiện tại trụ sở cơ quan Cục Cảnh sát giao thông hoặc qua dịch vụ bưu chính.
+    * Trường hợp cấp lại khi bị hỏng, mất, thay đổi tên của trung tâm sát hạch lái xe:
+    - Trong thời hạn không quá 01 ngày làm việc kể từ ngày nhận văn bản đề nghị, Cục Cảnh sát giao thông kiểm tra tính đầy đủ của hồ sơ; trường hợp hồ sơ chưa đầy đủ thì hướng dẫn tổ chức, cá nhân hoàn thiện theo quy định; trong thời hạn không quá 03 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, Cục Cảnh sát giao thông cấp lại giấy phép sát hạch cho trung tâm sát hạch lái xe; trường hợp không cấp phải trả lời tổ chức, cá nhân bằng văn bản và nêu rõ lý do;
+    - Việc trả kết quả được thực hiện tại trụ sở cơ quan Cục Cảnh sát giao thông hoặc qua dịch vụ bưu chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị cấp lại giấy phép sát hạch (theo mẫu)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục cảnh sát giao thông
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép sát hạch
+Căn cứ pháp lý:
+  * Quy định về hoạt động đào tạo và sát hạch lái xe. (160/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002523
+Số quyết định: 1548/QĐ-BNG
+Tên thủ tục: Thủ tục cấp Giấy đăng ký hoạt động cho các tổ chức phi chính phủ nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hoạt động của các tổ chức phi chính phủ nước ngoài
+Trình tự thực hiện:
+  * Cấp Giấy đăng ký hoạt động cho các tổ chức phi chính phủ nước ngoài tại Việt Nam
+    a. Hồ sơ đề nghị cấp Giấy đăng ký hoạt động được tiếp nhận bởi Ủy ban công tác về các tổ chức phi chính phủ nước ngoài.
+    b. Trong thời hạn 02 ngày làm việc, Ủy ban công tác về các tổ chức phi chính phủ nước ngoài kiểm tra thành phần hồ sơ đề nghị của tổ chức phi chính phủ nước ngoài và yêu cầu tổ chức phi chính phủ nước ngoài bổ sung hồ sơ nếu cần thiết. Sau khi tiếp nhận đầy đủ hồ sơ, trong thời hạn 02 ngày làm việc, Ủy ban công tác về các tổ chức phi chính phủ nước ngoài gửi văn bản lấy ý kiến Bộ Công an, Bộ Nội vụ, Bộ Tài chính, Ngân hàng Nhà nước Việt Nam, bộ, cơ quan ngang bộ quản lý nhà nước chuyên ngành về lĩnh vực mà tổ chức phi chính phủ nước ngoài đăng ký hoạt động, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương nơi tổ chức phi chính phủ nước ngoài đăng ký triển khai hoạt động và cơ quan phê duyệt việc tiếp nhận khoản viện trợ từ tổ chức phi chính phủ nước ngoài. Trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản của Ủy ban công tác về các tổ chức phi chính phủ nước ngoài, các cơ quan được lấy ý kiến có trách nhiệm trả lời bằng văn bản. Trong thời hạn 01 ngày làm việc kể từ khi nhận được đầy đủ ý kiến của các cơ quan, Ủy ban công tác về các tổ chức phi chính phủ nước ngoài chuyển hồ sơ của tổ chức phi chính phủ nước ngoài và ý kiến của các cơ quan liên quan cho Cục Ngoại vụ và Ngoại giao văn hóa, Bộ Ngoại giao để thẩm định. Trong thời hạn 09 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ của tổ chức phi chính phủ nước ngoài và ý kiến của các cơ quan liên quan, Cục Ngoại vụ và Ngoại giao văn hóa, Bộ Ngoại giao thẩm định hồ sơ, quyết định cấp hoặc không cấp Giấy đăng ký hoạt động và thông báo kết quả tới Ủy ban công tác về các tổ chức phi chính phủ nước ngoài.
+    c. Trong thời hạn 25 ngày làm việc kể từ ngày nhận đầy đủ hồ sơ hợp lệ của tổ chức phi chính phủ nước ngoài, Ủy ban công tác về các tổ chức phi chính phủ nước ngoài chuyển Giấy đăng ký hoạt động tới tổ chức phi chính phủ nước ngoài bằng hình thức trực tiếp hoặc qua dịch vụ bưu chính. Trường hợp hồ sơ không được chấp thuận, Ủy ban công tác về các tổ chức phi chính phủ nước ngoài thông báo bằng văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Miễn phí)
+    Mô tả: Tổ chức phi chính phủ nước ngoài nộp 01 bộ hồ sơ đề nghị cấp Giấy đăng ký hoạt động theo hình thức trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tuyến đến Ủy ban công tác về các tổ chức phi chính phủ nước ngoài: 105A Quán Thánh, Ba Đình, Hà Nội
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Miễn phí)
+    Mô tả: Tổ chức phi chính phủ nước ngoài nộp 01 bộ hồ sơ đề nghị cấp Giấy đăng ký hoạt động theo hình thức trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tuyến đến Ủy ban công tác về các tổ chức phi chính phủ nước ngoài: 105A Quán Thánh, Ba Đình, Hà Nội
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Miễn phí)
+    Mô tả: Tổ chức phi chính phủ nước ngoài nộp 01 bộ hồ sơ đề nghị cấp Giấy đăng ký hoạt động theo hình thức trực tuyến hoặc qua dịch vụ bưu chính hoặc trực tuyến đến Ủy ban công tác về các tổ chức phi chính phủ nước ngoài: 105A Quán Thánh, Ba Đình, Hà Nội
+
+Thành phần hồ sơ:
+  [ Nộp trực tiếp, trực tuyến, qua dịch vụ bưu chính ]
+    - + Bản sao hộ chiếu còn hiệu lực nếu người được đề nghị chấp thuận làm Người đại diện là người nước ngoài. Bản sao hộ chiếu, giấy chứng minh nhân dân hoặc căn cước công dân còn hiệu lực nếu người được bổ nhiệm là người Việt Nam.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao Điều lệ và bản sao Giấy tờ chứng minh tư cách pháp nhân của tổ chức phi chính phủ nước ngoài;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Đơn đề nghị cấp Giấy đăng ký hoạt động;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản thống kê chi tiết các chương trình, dự án, phi dự án dự kiến sẽ triển khai tại Việt Nam trong 03 năm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Quyết định bổ nhiệm do người đứng đầu của tổ chức ký tên, đóng dấu; 	+ Bản tiểu sử của người được đề nghị chấp thuận làm Người đại diện; 	+ Bản lý lịch tư pháp của người được đề nghị chấp thuận làm Người đại diện do cơ quan có thẩm quyền của nước mà người đó mang quốc tịch hoặc nước mà người đó đã thường trú trong vòng 06 tháng gần nhất cấp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Hồ sơ đề nghị chấp thuận Người đại diện gồm các văn bản sau:
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Ngoại vụ và Ngoại giao văn hóa - Bộ Ngoại giao
+Cơ quan có thẩm quyền: Bộ Ngoại giao
+Địa chỉ tiếp nhận HS: Ủy ban công tác về các tổ chức phi chính phủ nước ngoài: 105A Quán Thánh, Ba Đình, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy đăng ký hoạt động
+Căn cứ pháp lý:
+  * Nghị định số 58/2022/NĐ-CP của Chính phủ: Về đăng ký và quản lý hoạt động của các tổ chức phi chính phủ nước ngoài tại Việt Nam (58/2022/NĐ-CP)
+  * PHÂN CẤP THẨM QUYỀN CẤP, GIA HẠN, SỬA ĐỔI, BỔ SUNG, CẤP LẠI, ĐÌNH CHỈ, CHẤM DỨT HOẠT ĐỘNG VÀ THU HỒI GIẤY ĐĂNG KÝ HOẠT ĐỘNG VÀ GIẤY ĐĂNG KÝ LẬP VĂN PHÒNG ĐẠI DIỆN TẠI VIỆT NAM CỦA CÁC TỔ CHỨC PHI CHÍNH PHỦ NƯỚC NGOÀI (13/2025/TT-BNG)
+  * Quy định về phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính thuộc phạm vi quản lý của Bộ Ngoại giao (04/2026/TT-BNG)
+
+Yêu cầu, điều kiện thực hiện: - Các văn bản bằng tiếng nước ngoài trong hồ sơ nêu trên phải kèm theo bản dịch tiếng Việt và chứng thực theo quy định của pháp luật Việt Nam
+- Có tư cách pháp nhân hợp lệ theo quy định pháp luật quốc gia, vùng lãnh thổ nơi thành lập;
+- Có điều lệ, tôn chỉ, mục đích hoạt động rõ ràng, phù hợp với lợi ích và nhu cầu của Việt Nam;
+- Có đề xuất cụ thể về dự kiến chương trình, dự án, ohi dự án để hỗ trợ phát triển, viện trợ nhân đạo tại Việt Nam trong 03 năm;
+- Có đề xuất Người đại diện tại Việt Nam
+Từ khóa: Không có thông tin
+Mô tả: - Các văn bản bằng tiếng nước ngoài trong hồ sơ nêu trên phải kèm theo bản dịch tiếng Việt và chứng thực theo quy định của pháp luật Việt Nam
+- Có tư cách pháp nhân hợp lệ theo quy định pháp luật quốc gia, vùng lãnh thổ nơi thành lập;
+- Có điều lệ, tôn chỉ, mục đích hoạt động rõ ràng, phù hợp với lợi ích và nhu cầu của Việt Nam;
+- Có đề xuất cụ thể về dự kiến chương trình, dự án, ohi dự án để hỗ trợ phát triển, viện trợ nhân đạo tại Việt Nam trong 03 năm;
+- Có đề xuất Người đại diện tại Việt Nam

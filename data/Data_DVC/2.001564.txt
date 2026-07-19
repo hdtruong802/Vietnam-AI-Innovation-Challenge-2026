@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001564
+Số quyết định: 893/QĐ-BVHTTDL
+Tên thủ tục: Cấp giấy phép in gia công xuất bản phẩm cho nước ngoài (địa phương)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Xuất Bản, In và Phát hành
+Trình tự thực hiện:
+    - Cơ sở in có giấy phép hoạt động in xuất bản phẩm được in gia công xuất bản phẩm cho tổ chức, cá nhân nước ngoài (trừ cơ sở in sự nghiệp in phục vụ nội bộ, không in kinh doanh).
+    - Trước khi thực hiện, cơ sở in phải lập hồ sơ đề nghị cấp giấy phép in gia công xuất bản phẩm cho nước ngoài gửi Sở Văn hóa, Thể thao và Du lịch/ Sở Văn hóa và Thể thao hoặc cơ quan chuyên môn được Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương giao nhiệm vụ quản lý nhà nước về hoạt động xuất bản (gọi tắt là Sở).
+    - Trong thời hạn 08 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Sở phải cấp giấy phép, trường hợp không cấp giấy phép phải có văn bản trả lời nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không có)
+
+Thành phần hồ sơ:
+    - Bản sao hộ chiếu còn thời hạn sử dụng của người đặt in hoặc cá nhân được ủy quyền đặt in.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Đơn đề nghị cấp giấy phép in gia công xuất bản phẩm cho nước ngoài (Mẫu số 20 ban hành tại Phụ lục kèm theo Thông tư số 23/2023/TT-BTTTT)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao giấy phép hoạt động in xuất bản phẩm
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Bản sao hợp đồng in gia công xuất bản phẩm cho tổ chức, cá nhân nước ngoài; trường hợp hợp đồng bằng tiếng nước ngoài thì phải kèm theo bản dịch tiếng Việt
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Văn hóa, Thể thao và Du lịch
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép in gia công xuất bản phẩm cho nước ngoài.
+Căn cứ pháp lý:
+  * Nghị quyết của Chính phủ quy định cắt giảm, đơn giản hóa thủ tục hành chính, quy định liên quan đến hoạt động sản xuất, kinh doanh (66.16/2026/NQ-CP)
+  * 23/2023/TT-BTTTT (23/2023/TT-BTTTT)
+  * Nghị định 195/2013/NĐ-CP (195/2013/NĐ-CP)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Thông tư 01/2020/TT-BTTTT (01/2020/TT-BTTTT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

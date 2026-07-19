@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002226
+Số quyết định: 2103/QĐ-BTC
+Tên thủ tục: Thông báo thành lập/thay đổi tổ hợp tác
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thành lập và hoạt động của tổ hợp tác
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ
+    Tổ trưởng tổ hợp tác hoặc người đại diện theo ủy quyền của tổ hợp tác gửi thông báo thành lập tổ hợp tác đến Ủy ban nhân dân cấp xã, nơi tổ hợp tác dự định thành lập.
+    Bước 2: Tiếp nhận hồ sơ
+    Ủy ban nhân dân cấp xã tiếp nhận hồ sơ thông báo thành lập tổ hợp tác.
+    Bước 3: Xử lý hồ sơ
+    Sau khi tiếp nhận hồ sơ thông báo thành lập tổ hợp tác, Ủy ban nhân dân cấp xã cập nhật vào Sổ theo dõi về việc thành lập và hoạt động của tổ hợp tác các thông tin có liên quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không có)
+
+Thành phần hồ sơ:
+  [ - Trường hợp người đại diện theo ủy quyền của tổ hợp tác nộp thông báo thì cần có: ]
+    - (1) Giấy thông báo thành lập tổ hợp tác;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (2) Hợp đồng hợp tác;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (3) Văn bản ủy quyền của một trăm phần trăm (100 %) tổng số thành viên tổ hợp tác.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp tổ trưởng tổ hợp tác nộp thông báo thì cần có: ]
+    - (2) Hợp đồng hợp tác;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 1) Giấy thông báo thành lập tổ hợp tác;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - (3) Biên bản cuộc họp tổ hợp tác về việc bầu tổ trưởng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Ủy ban Nhân dân xã, phường, thị trấn.
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cập nhật thông tin trong Sổ theo dõi về việc thành lập và hoạt động của tổ hợp tác
+Căn cứ pháp lý:
+  * Thông tư số 43/2025/TT-BTC của Bộ Tài chính: Ban hành biểu mẫu sử dụng trong lĩnh vực quản lý nhà nước đối với hộ kinh doanh, tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã khi tổ chức chính quyền địa phương 02 cấp (43/2025/TT-BTC)
+  * Nghị định số 125/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Tài chính (125/2025/NĐ-CP)
+  * Về tổ hợp tác (77/2019/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

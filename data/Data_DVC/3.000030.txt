@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000030
+Số quyết định: 1014/QĐ-BTC
+Tên thủ tục: Mua hàng dự trữ quốc gia theo phương thức mua trực tiếp rộng rãi của mọi đối tượng
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Dự trữ
+Trình tự thực hiện:
+    Bước 1: Thông báo công khai kế hoạch mua thóc DTQG
+    Căn cứ Quyết định của Tổng cục trưởng Tổng cục DTNN về việc phê duyệt kế hoạch mua thóc dự trữ quốc gia theo phương thức mua trực tiếp rộng rãi của mọi đối tượng, Cục DTNN KV thông báo kế hoạch mua thóc dự trữ quốc gia trên báo (03 kỳ liên tiếp) hoặc trên đài truyền hình (03 lần liên tiếp) của địa phương và tại địa điểm mua thóc; Trang thông tin điện tử của Bộ Tài chính, của Tổng cục Dự trữ Nhà nước. Nội dung kế hoạch thông báo gồm:
+    - Số lượng,
+    - Tiêu chuẩn chất lượng,
+    - Địa điểm nhập hàng;
+    - Giá mua thóc,
+    - Thời điểm mở cửa kho,
+    - Thời hạn kết thúc mua thóc.
+    Bước 2: Thực hiện mua thóc trực tiếp, rộng rãi từ mọi đối tượng
+    Cục trưởng Cục Dự trữ Nhà nước khu vực tổ chức triển khai thực hiện mua đủ số lượng, chất lượng thóc mua phải đảm bảo theo đúng quy định, không để xảy ra tiêu cực, thất thoát tài sản nhà nước và chịu trách nhiệm trước pháp luật và trước Tổng cục trưởng Tổng cục Dự trữ Nhà nước về việc thực hiện kế hoạch mua thóc của mình. Trường hợp áp dụng hình thức mua thông qua hợp đồng: Cục Dự trữ Nhà nước khu vực ký kết hoặc ủy quyền cho Chi cục DTNN ký kết hợp đồng mua bán với các tổ chức, đơn vị, cá nhân có nhu cầu bán thóc cho DTQG.
+    Thời gian thực hiện: Theo quy định tại Quyết định phê duyệt kế hoạch mua thốc theo phương thức trực tiếp rộng rãi của mọi đối tượng của Tổng cục trưởng Tổng cục DTNN.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ - Trường hợp mua không qua hợp đồng: ]
+    - Chi cục DTNN lập bảng kê, trong đó phản ánh đầy đủ các thông tin: Tên, số chứng minh thư nhân dân và địa chỉ của người bán hàng, ngày, tháng mua thóc; phiếu nhập kho.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp mua thông qua hợp đồng: ]
+    - + Biên bản thanh lý hợp đồng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hóa đơn bán hàng theo quy định của Bộ Tài chính (đối với tổ chức, đơn vị);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hợp đồng mua, bán;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Biên bản giao nhận hàng giữa Chi cục Dự trữ Nhà nước và bên bán;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Dự trữ Nhà nước khu vực, Chi cục Dự trữ Nhà nước
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Mua thóc nhập kho dự trữ quốc gia
+Căn cứ pháp lý:
+  * Thông tư 89/2015/TT-BTC (89/2015/TT-BTC)
+  * Luật dự trữ quốc gia (22/2012/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

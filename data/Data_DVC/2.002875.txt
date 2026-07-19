@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002875
+Số quyết định: 1181/QĐ-BGDĐT
+Tên thủ tục: Giải thể phân hiệu của cơ sở giáo dục đại học nước ngoài tại Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Giáo dục, đào tạo với nước ngoài
+Trình tự thực hiện:
+    a) Nhà đầu tư gửi 01 bộ hồ sơ theo quy định trực tuyến qua Cổng Dịch vụ công quốc gia hoặc qua VNeID hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Bộ phận Tiếp nhận và Trả kết quả giải quyết thủ tục hành chính của Bộ Giáo dục và Đào tạo;
+    b) Trong thời hạn 30 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan tiếp nhận hồ sơ chủ trì thẩm định, trình cấp có thẩm quyền xem xét, quyết định.
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ, nếu hồ sơ không đáp ứng yêu cầu quy định, thì cơ quan tiếp nhận hồ sơ thông báo bằng văn bản gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc thư điện tử cho nhà đầu tư.
+    Quyết định giải thể phân hiệu của cơ sở giáo dục đại học nước ngoài tại Việt Nam phải ghi rõ lý do giải thể, các biện pháp bảo đảm quyền hợp pháp của người học, nhà giáo, cán bộ quản lý và nhân viên và phải được công bố công khai trên phương tiện thông tin đại chúng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đơn đề nghị giải thể, chấm dứt hoạt động phân hiệu của cơ sở giáo dục đại học nước ngoài tại Việt Nam (theo mẫu số 45 tại Phụ lục ban hành kèm theo Nghị định số 124/2024/NĐ-CP);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Phương án giải thể, chấm dứt hoạt động của phân hiệu của cơ sở giáo dục đại học nước ngoài tại Việt Nam, trong đó nêu rõ các biện pháp bảo đảm quyền lợi hợp pháp của người học, nhà giáo, cán bộ quản lý và nhân viên; phương án giải quyết tài chính, tài sản (theo mẫu số 52 tại Phụ lục ban hành kèm theo Nghị định số 124/2024/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Bộ Giáo dục và Đào tạo
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định giải thể phân hiệu của cơ sở giáo dục đại học nước ngoài tại Việt Nam của Bộ trưởng Bộ Giáo dục và Đào tạo.
+Căn cứ pháp lý:
+  * Nghị định số 124/2024/NĐ-CP ngày 05 tháng 10 năm 2024 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 86/2018/NĐ-CP ngày 06 tháng 6 năm 2018 của Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục (124/2024/NĐ-CP)
+  * Nghị quyết số 23/2026/NQ-CP của Chính phủ: Về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính và cắt giảm điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Giáo dục và Đào tạo (23/2026/NQ-CP)
+  * Nghị định số 86/2018/NĐ-CP của Chính phủ: Quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục (86/2018/nđ-cp)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

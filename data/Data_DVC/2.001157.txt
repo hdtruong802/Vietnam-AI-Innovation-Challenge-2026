@@ -1,0 +1,63 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001157
+Số quyết định: 639/QĐ-BNV
+Tên thủ tục: Trợ cấp một lần đối với thanh niên xung phong đã hoàn thành nhiệm vụ trong kháng chiến
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Người có công
+Trình tự thực hiện:
+    Bước 1: Đối tượng thanh niên xung phong hoặc thân nhân của thanh niên xung phong (trường hợp thanh niên xung phong đã từ trần) thực hiện nộp 01 bộ hồ sơ theo quy định tại Điều 12 Thông tư số 09/2025/TT-BNV ngày 18/6/2025 của Bộ trưởng Bộ Nội vụ quy định về phân định thẩm quyền và phân cấp thực hiện nhiệm vụ quản lý nhà nước trong lĩnh vực nội vụ (sau đây gọi tắt là Thông tư số 09/2025/TT-BNV) cho Ủy ban nhân dân cấp xã nơi đăng ký hộ khẩu thường trú.
+    Bước 2: Trong thời hạn 05 ngày làm việc, Ủy ban nhân dân cấp xã có trách nhiệm:
+    (i) Tổ chức hội nghị và lập biên bản xác nhận hồ sơ xét hưởng chế độ trợ cấp theo Mẫu số 08 Phụ lục I ban hành kèm theo Thông tư số 09/2025/TT-BNV. Thành phần hội nghị gồm đại diện lãnh đạo cấp xã (Ủy ban nhân dân, Đảng ủy, Mặt trận Tổ quốc, Hội Cựu thanh niên xung phong hoặc Ban liên lạc Cựu thanh niên xung phong), Trưởng thôn có đối tượng thanh niên xung phong đề nghị giải quyết chế độ trợ cấp.
+    (ii) Tổng hợp hồ sơ xét hưởng chế độ trợ cấp đối với thanh niên xung phong báo cáo Ủy ban nhân dân cấp tỉnh thông qua Sở Nội vụ.
+    Bước 3: Trong thời hạn 10 ngày, kể từ ngày nhận đủ hồ sơ theo quy định (theo từng đợt), Ủy ban nhân dân cấp tỉnh có trách nhiệm:
+    (i) Hoàn thành xét duyệt, thẩm định, tổng hợp, ra quyết định hưởng chế độ trợ cấp theo Mẫu số 09, Mẫu số 10 Phụ lục I ban hành kèm theo Thông tư số 09/2025/TT-BNV, kèm theo biểu tổng hợp danh sách thanh niên xung phong đề nghị hưởng chế độ trợ cấp lập theo Mẫu số 12, Mẫu số 13 Phụ lục I ban hành kèm theo Thông tư số 09/2025/TT-BNV.
+    Đối với trường hợp thanh niên xung phong không còn một trong các giấy tờ chứng minh quy định tại điểm a, b khoản 1 Điều 12 Thông tư số 09/2025/TT-BNV, tổng hợp, chuyển danh sách đối tượng đến Hội Cựu thanh niên xung phong cấp tỉnh để kiểm tra, xác nhận, tham gia ý kiến trước khi quyết định.
+    (ii) Hoàn thành việc tổng hợp danh sách đối tượng được hưởng trợ cấp một lần theo Mẫu số 15 Phụ lục I ban hành kèm theo Thông tư này sau khi có Quyết định về giải quyết chế độ trợ cấp đối với thanh niên xung phong (theo từng đợt), kèm theo công văn đề nghị bổ sung dự toán chi chế độ trợ cấp một lần, gửi 02 bản về Bộ Nội vụ.
+    (iii) Lưu giữ hồ sơ đối tượng được hưởng chế độ trợ cấp theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Kể từ ngày nhận đủ giấy tờ (Thời gian cụ thể được quy định tại từng bước của trình tự thực hiện).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Kể từ ngày nhận đủ giấy tờ (Thời gian cụ thể được quy định tại từng bước của trình tự thực hiện).
+
+Thành phần hồ sơ:
+  [ (i) Một trong các giấy tờ sau đây chứng minh là thanh niên xung phong (là bản chính hoặc bản sao có chứng thực của Ủy ban nhân dân cấp xã): ]
+    - - Lý lịch cán bộ hoặc lý lịch đảng viên khai trước ngày 24 tháng 9 năm 1999;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Giấy tờ do cơ quan có thẩm quyền cấp trước khi thanh niên xung phong trở về địa phương như: Giấy chứng nhận hoàn thành nhiệm vụ của đơn vị quản lý thanh niên xung phong; Giấy chuyển thương, chuyển viện, phiếu sức khoẻ; Giấy khen trong thời gian tham gia lực lượng thanh niên xung phong; Giấy chứng nhận tham gia thanh niên xung phong; Giấy điều động công tác, bổ nhiệm, giao nhiệm vụ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Trường hợp thanh niên xung phong không còn một trong các giấy tờ quy định tại điểm a và b khoản Điều 12 Thông tư số 09/2025/TT-BNV thì phải nộp bản khai có chứng thực của Ủy ban nhân dân cấp xã nơi đăng ký hộ khẩu thường trú trước khi tham gia thanh niên xung phong (bản chính). Ủy ban nhân dân cấp xã có trách nhiệm xác nhận bản khai đối với đối tượng là người địa phương đi thanh niên xung phong nhưng hiện đang đăng ký hộ khẩu thường trú ở địa phương khác (nội dung xác nhận theo Mẫu số 08 Phụ lục I ban hành kèm theo Thông tư số 09/2025/TT-BNV).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ (ii) Bản khai cá nhân, cụ thể: ]
+    - - Trường hợp thanh niên xung phong còn sống, lập đề nghị hưởng trợ cấp một lần theo Mẫu số 05 Phụ lục I ban hành kèm theo Thông tư số 09/2025/TT-BNV;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Trường hợp thanh niên xung phong đã từ trần thì thân nhân thanh niên xung phong lập theo Mẫu số 06 Phụ lục I ban hành kèm theo Thông tư số 09/2025/TT-BNV;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Ủy ban Nhân dân xã, phường, thị trấn., Sở Nội vụ, Chủ tịch ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Chủ tịch ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định về việc giải quyết chế độ trợ cấp một lần đối với thanh niên xung phong/Quyết định về việc giải quyết chế độ trợ cấp một lần đối với thanh niên xung phong đã từ trần
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung, bãi bỏ một số điều của các Thông tư, Thông tư liên tịch có quy định liên quan đến việc nộp, xuất trình sổ hộ khẩu giấy, sổ tạm trú giấy hoặc giấy tờ có yêu cầu xác nhận nơi cư trú khi thực hiện thủ tục hành chính thuộc lĩnh vực quản lý nhà nước của Bộ Lao động - Thương binh và Xã hội (08/2023/TT-BLĐTBXH)
+  * Sửa đổi, bổ sung một số điều của Pháp lệnh ưu đãi người có công với cách mạng (04/2012/UBTVQH13)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Hướng dẫn Pháp lệnh ưu đãi người có công với cách mạng (31/2013/NĐ-CP)
+  * Nghị quyết số 190/2025/QH15 của Quốc hội: Quy định về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước (190/2025/NQ-QH15)
+  * Nghị định số 25/2025/NĐ-CP ngày 21 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Nội vụ (Nghị định số 25/2025/NĐ-CP)
+  * Thông tư liên tịch 08/2012/TTLT-BLĐTBXH-BNV-BTC - Hướng dẫn thực hiện chế độ trợ cấp đối với thanh niên xung phong đã hoàn thành nhiệm vụ trong kháng chiến theo Quyết định số 40/2011/QĐ-TTg ngày 27 tháng 7 năm 2011 của Thủ tướng Chính phủ (08/2012/TTLT-BLĐTBXH-BNV-BTC)
+  * Quy định về phân định thẩm quyền và phân cấp thực hiện nhiệm vụ quản lý nhà nước trong lĩnh vực nội vụ (09/2025/TT-BNV)
+  * Quyết định 40/2011/QĐ-TTg - Quy định về chế độ đối với thanh niên xung phong đã hoàn thành nhiệm vụ trong kháng chiến (40/2011/QĐ-TTg)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

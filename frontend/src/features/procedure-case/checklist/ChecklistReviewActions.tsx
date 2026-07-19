@@ -14,12 +14,12 @@ export default function ChecklistReviewActions({
   onConfirm,
 }: ChecklistReviewActionsProps) {
   return (
-    <div className="pt-2 border-t border-border-slate">
+    <div className="pt-2 border-t border-[var(--vg-border)]">
       <button
         type="button"
         onClick={onConfirm}
         disabled={!canConfirm}
-        className="w-full px-4 py-2.5 bg-accent text-white text-xs font-bold rounded-lg hover:bg-accent-hover transition-all disabled:opacity-50 focus-visible:ring-2 focus-visible:ring-accent outline-none"
+        className="w-full px-4 py-2.5 bg-[var(--vg-accent)] text-white text-xs font-bold rounded-lg hover:bg-[var(--vg-accent-hover)] transition-all disabled:bg-zinc-200 disabled:text-zinc-400 focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none"
       >
         {fixtureMode || demoMode ? "Tiếp tục với biểu mẫu demo" : "Xác nhận checklist, tiếp tục điền form"}
       </button>

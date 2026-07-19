@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000122
+Số quyết định: 4488/QĐ-BTC
+Tên thủ tục: Thủ tục hạch toán vốn vay ODA, vốn vay ưu đãi, viện trợ không hoàn lại vào ngân sách nhà nước.
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Kho bạc Nhà nước
+Trình tự thực hiện:
+    a) Đơn vị giao dịch gửi hồ sơ theo quy định tại phần (4) thủ tục này đến Kho bạc Nhà nước nơi giao dịch.
+    b) Kho bạc Nhà nước kiểm tra tính hợp lệ của hồ sơ theo quy định tại khoản 4 Điều 3 Nghị định số 347/2025/NĐ-CP ngày 29 tháng 12 năm 2025 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước; đảm bảo chữ ký số hoặc chữ ký và dấu trên Giấy đề nghị ghi thu, ghi chi vốn vay ODA, vốn vay ưu đãi, viện trợ không hoàn lại khớp đúng với họ tên, chức danh các thành viên theo văn bản của cấp có thẩm quyền và chữ ký số hoặc mẫu chữ ký, mẫu dấu đã đăng ký với Kho bạc Nhà nước.
+  * c) Trường hợp đủ điều kiện hạch toán vốn vay ODA, vốn vay ưu đãi, viện trợ không hoàn lại vào ngân sách nhà nước theo quy định
+    Kho bạc Nhà nước thực hiện hạch toán theo đề nghị của đơn vị giao dịch và gửi đơn vị giao dịch 01 bản Giấy đề nghị ghi thu, ghi chi vốn vay ODA, vốn vay ưu đãi, viện trợ không hoàn lại có xác nhận của Kho bạc Nhà nước.
+  * d) Trường hợp không đủ điều kiện hạch toán vốn vay ODA, vốn vay ưu đãi, viện trợ không hoàn lại vào ngân sách nhà nước theo quy định
+    Kho bạc Nhà nước từ chối hạch toán theo đề nghị của đơn vị giao dịch bằng cách gửi đơn vị giao dịch Thông báo kết quả giải quyết thủ tục hành chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+
+Thành phần hồ sơ:
+  [ Trường hợp hồ sơ không được gửi trên môi trường điện tử: ]
+    - Giấy đề nghị ghi thu, ghi chi vốn vay ODA, vốn vay ưu đãi, viện trợ không hoàn lại.
+      Số lượng: Bản chính: 3, Bản sao: 0
+    - Văn bản giao dự toán viện trợ của cấp có thẩm quyền (đối với khoản viện trợ không hoàn lại bố trí từ nguồn chi thường xuyên và chủ dự án mở tài khoản nhận viện trợ tại ngân hàng).
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Thông báo chuyển tiền của nhà tài trợ cho đối tượng thụ hưởng hoặc bảng sao kê chứng từ chuyển tiền của ngân hàng phục vụ đơn vị giao dịch hoặc chứng từ của ngân hàng thể hiện đã chuyển tiền cho đối tượng thụ hưởng.
+      Số lượng: Bản chính: 1, Bản sao: 1
+  [ Trường hợp hồ sơ được gửi trên môi trường điện tử ]
+    - Giấy đề nghị ghi thu, ghi chi vốn vay ODA, vốn vay ưu đãi, viện trợ không hoàn lại
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Thông báo chuyển tiền của nhà tài trợ cho đối tượng thụ hưởng hoặc bảng sao kê chứng từ chuyển tiền của ngân hàng phục vụ đơn vị giao dịch hoặc chứng từ của ngân hàng thể hiện đã chuyển tiền cho đối tượng thụ hưởng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản giao dự toán viện trợ của cấp có thẩm quyền (đối với viện trợ không hoàn lại bố trí từ nguồn chi thường xuyên và chủ dự án mở tài khoản nhận viện trợ tại ngân hàng)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Số lượng mỗi thành phần hồ sơ quy định tại mục 4.1 phần (4) thủ tục này là 01 bản được ký số theo quy định của pháp luật
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Kho bạc nhà nước các cấp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Kho bạc Nhà nước gửi thông báo từ chối hạch toán vốn vay ODA, vốn vay ưu đãi cho đơn vị (bằng văn bản giấy hoặc qua Trang thông tin dịch vụ công của KBNN), Kho bạc Nhà nước ký xác nhận trên giấy đề nghị ghi thu, ghi chi vốn ODA, vốn vay ưu đãi và gửi lại đơn vị (bằng văn bản giấy hoặc qua Trang thông tin dịch vụ công của KBNN)
+Căn cứ pháp lý:
+  * Nghị định số 347/2025/NĐ-CP của Chính phủ: Quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước (347/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

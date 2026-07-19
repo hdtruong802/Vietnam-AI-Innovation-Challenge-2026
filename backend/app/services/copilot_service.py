@@ -18,7 +18,7 @@ from app.models.intake import (
     RecommendationRequest,
     RecommendationResponse,
 )
-from app.models.procedure import ProcedureCandidate, ProcedurePack
+from app.models.procedure import ProcedureCandidate, ProcedurePack, ReviewStatus
 from app.models.validation import ValidationRequest, ValidationResponse
 from app.ports import (
     AuditSink,
@@ -163,6 +163,13 @@ class CopilotService:
         verified = metadata.trust_state == TrustState.VERIFIED_GUIDANCE
         demo_fixture = metadata.fixture_mode
         content_available = verified or demo_fixture or metadata.demo_mode
+        # A curated candidate source may expose a document checklist with its
+        # citations for review, but it must not unlock steps, forms or a
+        # deterministic pre-check until a reviewer approves the Procedure Pack.
+        candidate_documents_available = pack.review_status == ReviewStatus.NEEDS_REVIEW and bool(
+            metadata.source_refs
+        )
+        show_documents = content_available or candidate_documents_available
         message = (
             "Dữ liệu đã kiểm thử cho demo MVP; không phải K1 hoặc yêu cầu hồ sơ chính thức."
             if metadata.demo_mode
@@ -180,8 +187,8 @@ class CopilotService:
             **metadata.model_dump(),
             procedure_id=pack.procedure_id,
             procedure_name=pack.name,
-            required_documents=pack.required_documents if content_available else [],
-            optional_documents=pack.optional_documents if content_available else [],
+            required_documents=pack.required_documents if show_documents else [],
+            optional_documents=pack.optional_documents if show_documents else [],
             steps=pack.steps if content_available else [],
             form_schema=pack.form_schema if content_available else {},
             form_sections=pack.form_sections if content_available else [],

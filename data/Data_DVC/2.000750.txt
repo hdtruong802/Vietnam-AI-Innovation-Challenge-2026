@@ -1,0 +1,49 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000750
+Số quyết định: 1061/QĐ-BNG
+Tên thủ tục: Thủ tục cấp giấy xác nhận có quốc tịch Việt Nam
+Cấp thực hiện: Không có thông tin
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Quốc tịch
+Trình tự thực hiện:
+    Khi có nhu cầu xác nhận có quốc tịch Việt Nam, người yêu cầu có thể nộp hồ sơ đến cơ quan đại diện Việt Nam ở nước ngoài nơi người đó cư trú (trong trường hợp ở nước đó không có cơ quan đại diện thì nộp hồ sơ tại cơ quan đại diện kiêm nhiệm hoặc cơ quan đại diện nơi thuận tiện nhất).
+    Cơ quan đại diện Việt Nam ở nước ngoài chủ động kiểm tra, đối chiếu danh sách những người đã được thôi quốc tịch Việt Nam hoặc bị tước quốc tịch Việt Nam. Trường hợp khẳng định người yêu cầu có quốc tịch Việt Nam thì trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ, cơ quan đại diện Việt Nam ở nước ngoài xem xét và cấp Giấy xác nhận có quốc tịch Việt Nam (theo mẫu TP/QT-2013-GXNCQTVN);
+    Trường hợp không có đủ giấy tờ chứng minh quốc tịch Việt Nam, cơ quan đại diện Việt Nam ở nước ngoài tiến hành thủ tục xác minh quốc tịch Việt Nam -Trường hợp nghi ngờ tính xác thực của giấy tờ trong hồ sơ, cơ quan đại diện Việt Nam ở nước ngoài đề nghị các cơ quan, tổ chức liên quan tra cứu, kiểm tra, xác minh;
+    Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được văn bản đề nghị tra cứu, kiểm tra, xác minh, Bộ Tư pháp hoặc cơ quan, tổ chức liên quan có văn bản trả lời. Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được kết quả tra cứu, kiểm tra, xác minh, cơ quan đại diện Việt Nam ở nước ngoài xem xét và cấp Giấy xác nhận có quốc tịch Việt Nam (theo mẫu TP/QT-2013-GXNCQTVN) nếu xác định được người yêu cầu đang có quốc tịch Việt Nam.
+    Trường hợp sau khi tiến hành tra cứu, kiểm tra, xác minh, vẫn không có đủ cơ sở để xác định người yêu cầu có quốc tịch Việt Nam thì cơ quan tiếp nhận hồ sơ thông báo bằng văn bản cho người đó biết.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 ngày
+    Phí, lệ phí: 20 VNĐ (Cấp giấy xác nhận có quốc tịch Việt Nam)
+    Mô tả: Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ.
+
+Thành phần hồ sơ:
+    - Bản sao kèm theo bản chính để đối chiếu hoặc bản sao có chứng thực một trong các giấy tờ được quy định tại Điều 11 Luật Quốc tịch Việt Nam năm 2008 hoặc giấy tờ tương tự do chính quyền cũ trước đây cấp, kể cả giấy khai sinh trong đó không có mục quốc tịch hoặc mục quốc tịch bỏ trống nếu trên đó ghi họ tên Việt Nam (họ tên người yêu cầu, họ tên cha, mẹ)
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Tờ khai xác nhận có quốc tịch Việt Nam
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao giấy chứng minh nhân dân, hộ chiếu hoặc giấy tờ có giá trị thay thế
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tờ khai lý lịch và các giấy tờ quy định tại khoản 1 Điều 10 Thông tư liên tịch số 05/2010/TTLT/BTP-BNG-BCA trong trường hợp không có giấy tờ chứng minh quốc tịch nêu trên
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cơ quan đại diện ngoại giao, Cơ quan lãnh sự
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: 000.00.00.G08-KQ0502
+Căn cứ pháp lý:
+  * Luật 33/2009/QH12 (33/2009/QH12)
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực ngoại giao áp dụng tại các Cơ quan đại diện Việt Nam ở nước ngoài (264/2016/TT-BTC)
+  * Sửa đổi, bổ sung một số điều của Luật Quốc tịch Việt Nam (56/2014/QH13)
+  * Nghị định 97/2014/NĐ-CP (7/2014/NĐ-CP)
+  * Sửa đổi, bổ sung điều 13 Thông tư liên tịch số 05/2010/TTLT-BTP-BNG-BCA ngày 01 tháng 3 năm 2010 của Bộ Tư pháp, Bộ Ngoại giao và Bộ Công an hướng dẫn thi hành Nghị định số 78/2009/NĐ-CP ngày 22 tháng 9 năm 2009 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Quốc tịch Việt Nam (05/2013/TTLT-BTP-BNG-BCA)
+
+Yêu cầu, điều kiện thực hiện: - Người yêu cầu nộp hồ sơ đến cơ quan đại diện Việt Nam ở nước ngoài nơi người đó cư trú (trong trường hợp ở nước đó không có cơ quan đại diện thì nộp hồ sơ tại cơ quan đại diện kiêm nhiệm hoặc cơ quan đại diện nơi thuận tiện nhất).
+- Trường hợp không có đủ giấy tờ chứng minh quốc tịch Việt Nam, cơ quan đại diện Việt Nam ở nước ngoài tiến hành thủ tục xác minh quốc tịch Việt Nam -Trường hợp nghi ngờ tính xác thực của giấy tờ trong hồ sơ, cơ quan đại diện Việt Nam ở nước ngoài đề nghị các cơ quan, tổ chức liên quan tra cứu, kiểm tra, xác minh.
+Từ khóa: Không có thông tin
+Mô tả: - Người yêu cầu nộp hồ sơ đến cơ quan đại diện Việt Nam ở nước ngoài nơi người đó cư trú (trong trường hợp ở nước đó không có cơ quan đại diện thì nộp hồ sơ tại cơ quan đại diện kiêm nhiệm hoặc cơ quan đại diện nơi thuận tiện nhất).
+- Trường hợp không có đủ giấy tờ chứng minh quốc tịch Việt Nam, cơ quan đại diện Việt Nam ở nước ngoài tiến hành thủ tục xác minh quốc tịch Việt Nam -Trường hợp nghi ngờ tính xác thực của giấy tờ trong hồ sơ, cơ quan đại diện Việt Nam ở nước ngoài đề nghị các cơ quan, tổ chức liên quan tra cứu, kiểm tra, xác minh.

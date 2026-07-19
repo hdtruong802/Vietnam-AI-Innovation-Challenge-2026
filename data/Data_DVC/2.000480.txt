@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000480
+Số quyết định: 5568/QĐ-BCA
+Tên thủ tục: Cấp Giấy xác nhận nhân sự của công dân Việt Nam ở nước ngoài (thực hiện tại cấp Trung ương)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Quản lý xuất nhập cảnh
+Trình tự thực hiện:
+    - Trình tự thực hiện:
+    Bước 1: Chuẩn bị hồ sơ theo quy định của pháp luật.
+    Bước 2: Nộp hồ sơ
+    * Công dân Việt Nam ở trong nước có nhu cầu xác nhận nhân sự cho thân nhân là người ra nước ngoài có thời hạn, bị mất hộ chiếu phổ thông có nguyện vọng về nước ngay để làm thủ tục cấp hộ chiếu thì nộp hồ sơ tại một trong hai trụ sở làm việc của Cục Quản lý xuất nhập cảnh - Bộ Công an:
+    + Số 44-46 đường Trần Phú, quận Ba Đình, thành phố Hà Nội.
+    + Số 333-335-337 đường Nguyễn Trãi, Quận 1, Thành phố Hồ Chí Minh.
+    * Thời gian tiếp nhận hồ sơ: từ thứ 2 đến sáng thứ 7 hàng tuần (trừ ngày Tết, ngày lễ).
+    * Cán bộ tiếp nhận hồ sơ kiểm tra tính pháp lý và nội dung hồ sơ:
+    + Nếu đầy đủ, hợp lệ, thì nhận hồ sơ, cấp giấy hẹn trả kết quả và yêu cầu nộp lệ phí cho cán bộ thu lệ phí. Cán bộ thu lệ phí nhận tiền, giao biên lai thu lệ phí cho người nộp hồ sơ.
+    + Nếu hồ sơ chưa hợp lệ thì cán bộ tiếp nhận hồ sơ hướng dẫn người nộp hồ sơ bổ sung đầy đủ theo quy định.
+    Bước 3: Nhận kết quả
+    + Người đề nghị xác nhận nhân sự cho thân nhân trực tiếp nhận kết quả tại Cục Quản lý xuất nhập cảnh, Bộ Công an. Khi đến nhận kết quả mang theo giấy hẹn trả kết quả, biên lai thu tiền, xuất trình Chứng minh nhân dân, Thẻ căn cước công dân hoặc hộ chiếu còn giá trị để kiểm tra, đối chiếu.
+    + Thời gian trả kết quả: từ thứ 2 đến thứ 6 hàng tuần (trừ ngày Tết, ngày lễ).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ (100.000 đồng/giấy xác nhận (Thông tư số 25/2021/TT-BTC ngày 07/4/2021 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực xuất cảnh, nhập cảnh, quá cảnh, cư trú tại Việt Nam))
+
+Thành phần hồ sơ:
+    - 02 ảnh mới chụp của công dân Việt Nam ở nước ngoài đề nghị cấp hộ chiếu, cỡ 4cm x 6cm, mặt nhìn thẳng, đầu để trần, rõ mặt, rõ hai tai, không đeo kính, trang phục lịch sự, phông ảnh nền trắng.
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - + Giấy chứng minh nhân dân, Thẻ Căn cước công dân hoặc hộ chiếu còn giá trị sử dụng của người đề nghị xác nhận nhân sự cho thân nhân để kiểm tra, đối chiếu.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Tờ khai đề nghị xác nhận nhân thân cho công dân Việt Nam ở nước ngoài đề nghị cấp hộ chiếu (mẫu TK03) ban hành kèm theo Thông tư số 31/2023/TT-BCA ngày 20/7/2023 của Bộ Công an;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy tờ chứng minh quan hệ của người đề nghị cấp giấy xác nhận nhân sự với thân nhân ở nước ngoài bị mất hộ chiếu; trường hợp không có giấy tờ chứng minh phải có bản giải trình.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Cục quản lý xuất nhập cảnh
+Cơ quan có thẩm quyền: Cục quản lý xuất nhập cảnh
+Địa chỉ tiếp nhận HS: Cục Quản lý xuất nhập cảnh, Bộ Công an
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy xác nhận nhân sự của công dân Việt Nam ở nước ngoài.
+Căn cứ pháp lý:
+  * Luật Xuất cảnh, nhập cảnh của công dân Việt Nam và Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam sửa đổi 2023 (23/2023/QH15)
+  * Luật 49/2019/QH14 (49/2019/QH14)
+  * QUY ĐỊNH MỨC THU, CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG PHÍ, LỆ PHÍ TRONG LĨNH VỰC XUẤT CẢNH, NHẬP CẢNH, QUÁ CẢNH, CƯ TRÚ TẠI VIỆT NAM (25/2021/TT-BTC)
+  * Thông tư số 31/2023/TT-BCA ngày 20/7/2023 của Bộ Công an quy định về mẫu hộ chiếu, mẫu giấy thông hành và các biểu mẫu liên quan. (31/2023/TT-BCA)
+
+Yêu cầu, điều kiện thực hiện: + Người được xác nhận nhân sự là công dân Việt Nam ra nước ngoài có thời hạn bị mất hộ chiếu phổ thông, có nguyện vọng về nước ngay; 
+ + Không thuộc các trường hợp chưa được cấp giấy tờ xuất nhập cảnh theo quy định tại Điều 21 Luật Xuất cảnh, nhập cảnh của công dân Việt Nam.
+Từ khóa: Không có thông tin
+Mô tả: + Người được xác nhận nhân sự là công dân Việt Nam ra nước ngoài có thời hạn bị mất hộ chiếu phổ thông, có nguyện vọng về nước ngay; 
+ + Không thuộc các trường hợp chưa được cấp giấy tờ xuất nhập cảnh theo quy định tại Điều 21 Luật Xuất cảnh, nhập cảnh của công dân Việt Nam.

@@ -1,0 +1,74 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000102
+Số quyết định: 1234/QĐ-BXD
+Tên thủ tục: Thủ tục cấp Giấy phép khai thác cơ sở cung cấp dịch vụ bảo đảm  hoạt động bay (ANS)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC
+    Tổ chức đề nghị cấp Giấy phép khai thác cơ sở cung cấp dịch vụ bảo đảm hoạt động bay (ANS) gửi 01 bộ hồ sơ trực tiếp hoặc qua hệ thống bưu chính hoặc bằng các hình thức phù hợp khác đến Cục Hàng không Việt Nam và phải chịu trách nhiệm về tính chính xác, trung thực của thông tin trong hồ sơ.
+  * b) Giải quyết TTHC
+    Trong thời hạn 08 ngày kể từ ngày nhận đủ hồ sơ theo quy định, Cục Hàng không Việt Nam thẩm định, kiểm tra thực tế, yêu cầu tổ chức đề nghị cấp giấy phép giải trình bổ sung các nội dung liên quan và cấp giấy phép khai thác cơ sở ANS; trường hợp không cấp giấy phép phải gửi văn bản trả lời cho tổ chức đề nghị biết và nêu rõ lý do.
+    Trường hợp hồ sơ chưa đầy đủ, trong thời gian 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cục Hàng không Việt Nam hướng dẫn tổ chức đề nghị hoàn thiện hồ sơ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 ngày
+    Phí, lệ phí: 30000000 VNĐ (Cơ sở Kiểm soát đường dài (ACC); Trung Tâm Quản lý luồng không lưu (ATFM); Cơ sở Kiểm soát tiếp cận tại sân (APP/TWR); Cơ sở Thông tin dẫn đường giám sát (CNS):(Miễn kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư 40/2026/TT-BTC))
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 8 ngày
+    Phí, lệ phí: 15000000 VNĐ (Cơ sở cung cấp dịch vụ bảo đảm hoạt động bay khác(Miễn kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư 40/2026/TT-BTC))
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 8 ngày
+    Phí, lệ phí: 30000000 VNĐ (Cơ sở Kiểm soát đường dài (ACC); Trung Tâm Quản lý luồng không lưu (ATFM); Cơ sở Kiểm soát tiếp cận tại sân (APP/TWR); Cơ sở Thông tin dẫn đường giám sát (CNS):(Miễn kể từ ngày 07/4/2026 đến 30/6/2026 theo Thông tư 40/2026/TT-BTC))
+
+Thành phần hồ sơ:
+    - Đơn đề nghị cấp giấy phép khai thác cơ sở ANS theo mẫu số 1 quy định tại Phụ lục VIII ban hành kèm theo Thông tư số 19/2017/TT-BGTVT
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo tổ chức bộ máy, điều hành của cơ sở, số lượng kíp trực, chế độ và thời gian làm việc
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu hướng dẫn khai thác của cơ sở ANS và danh mục lưu trữ hệ thống các văn bản, tài liệu liên quan
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh mục hệ thống, thiết bị kỹ thuật của cơ sở ANS
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh mục hệ thống, thiết bị bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức bay bằng thiết bị của tổ chức đã được cấp phép; bản sao chứng chỉ đủ điều kiện bay của tàu bay thực hiện công tác bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức bay bằng thiết bị; bản sao giấy phép lái tàu bay của người lái tàu bay áp dụng đối với cơ sở cung cấp dịch vụ bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức bay bằng thiết bị.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức nước ngoài
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép khai thác cơ sở cung cấp dịch vụ bảo đảm hoạt động bay (ANS)
+Căn cứ pháp lý:
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí, lệ phí trong lĩnh vực hàng không (193/2016/TT-BTC)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Thông tư sửa đổi, bổ sung một số điều của các Thông tư để cắt giảm, đơn giản hóa thủ tục hành chính trong lĩnh vực đăng kiểm đường bộ, hàng không dân dụng và thanh tra thuộc phạm vi quản lý của Bộ Xây dựng (71/2025/TT-BXD)
+  * Thông tư 32/2021/TT-BGTVT (32/2021/TT-BGTVT)
+  * Quy định chi tiết về quản lý hoạt động bay (125/2015/NĐ-CP)
+  * Quy định về quản lý và bảo đảm hoạt động bay (19/2017/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: - Có danh mục hệ thống, thiết bị kỹ thuật của cơ sở ANS;
+- Báo cáo tổ chức bộ máy, điều hành của cơ sở, số lượng kíp trực, chế độ và thời
+gian làm việc;
+- Tài liệu hướng dẫn khai thác của cơ sở ANS và danh mục lưu trữ hệ thống các văn
+bản, tài liệu liên quan;
+- Danh mục hệ thống, thiết bị bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức
+bay bằng thiết bị của tổ chức đã được cấp phép; bản sao chứng chỉ đủ điều kiện bay của tàu
+bay thực hiện công tác bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức bay bằng thiết
+bị; bản sao giấy phép lái tàu bay của người lái tàu bay áp dụng đối với cơ sở cung cấp dịch
+vụ bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức bay bằng thiết bị.
+Từ khóa: Không có thông tin
+Mô tả: - Có danh mục hệ thống, thiết bị kỹ thuật của cơ sở ANS;
+- Báo cáo tổ chức bộ máy, điều hành của cơ sở, số lượng kíp trực, chế độ và thời
+gian làm việc;
+- Tài liệu hướng dẫn khai thác của cơ sở ANS và danh mục lưu trữ hệ thống các văn
+bản, tài liệu liên quan;
+- Danh mục hệ thống, thiết bị bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức
+bay bằng thiết bị của tổ chức đã được cấp phép; bản sao chứng chỉ đủ điều kiện bay của tàu
+bay thực hiện công tác bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức bay bằng thiết
+bị; bản sao giấy phép lái tàu bay của người lái tàu bay áp dụng đối với cơ sở cung cấp dịch
+vụ bay kiểm tra, hiệu chuẩn, bay đánh giá phương thức bay bằng thiết bị.

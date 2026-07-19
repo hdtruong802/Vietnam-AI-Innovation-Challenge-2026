@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000168
+Số quyết định: 01/QĐ-BCT
+Tên thủ tục: Đăng ký Nhượng quyền thương mại từ nước ngoài vào Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Dịch vụ thương mại
+Trình tự thực hiện:
+    Bên dự kiến nhượng quyền thương mại gửi hồ sơ đề nghị đăng ký hoạt động nhượng quyền thương mại đến Bộ Công Thương
+    Trong thời hạn 05 ngày làm việc, kể từ khi nhận đủ hồ sơ hợp lệ, Bộ Công Thương thực hiện đăng ký hoạt động nhượng quyền thương mại vào Sổ đăng ký hoạt động nhượng quyền thương mại và ra Thông báo chấp thuận đăng ký hoạt động nhượng quyền thương mại gửi thương nhân về việc đăng ký đó. Trường hợp từ chối việc đăng ký thì phải thông báo bằng văn bản cho Bên dự kiến nhượng quyền và nêu rõ lý do
+    Trường hợp hồ sơ chưa đầy đủ hoặc chưa hợp lệ, trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ, Bộ Công Thương ra văn bản thông báo để Bên dự kiến nhượng quyền bổ sung, hoàn chỉnh hồ sơ
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp hồ sơ chưa đầy đủ hoặc chưa hợp lệ, trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ, Bộ Công Thương phải có văn bản thông báo để thương nhân bổ sung, hoàn chỉnh hồ sơ - Trường hợp nhận đủ hồ sơ hợp lệ, trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ, Bộ Công Thương thực hiện đăng ký hoạt động nhượng quyền thương mại vào Sổ đăng ký và thông báo bằng văn bản cho thương nhân về việc đăng ký đó. Nếu từ chối việc đăng ký, Bộ Công Thương phải thông báo bằng văn bản cho thương nhân và nêu rõ lý do.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Trường hợp hồ sơ chưa đầy đủ hoặc chưa hợp lệ, trong thời hạn 02 ngày làm việc, kể từ ngày nhận được hồ sơ, Bộ Công Thương phải có văn bản thông báo để thương nhân bổ sung, hoàn chỉnh hồ sơ - Trường hợp nhận đủ hồ sơ hợp lệ, trong thời hạn 05 ngày làm việc kể từ ngày nhận hồ sơ, Bộ Công Thương thực hiện đăng ký hoạt động nhượng quyền thương mại vào Sổ đăng ký và thông báo bằng văn bản cho thương nhân về việc đăng ký đó. Nếu từ chối việc đăng ký, Bộ Công Thương phải thông báo bằng văn bản cho thương nhân và nêu rõ lý do.
+
+Thành phần hồ sơ:
+    - Mau don chap thuan dang ky hoat dong nhuong quyen vao Vietnam
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Vụ Kế hoạch - Bộ Công Thương
+Cơ quan có thẩm quyền: Bộ Công thương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: THÔNG BÁO CHẤP THUẬN ĐĂNG KÝ HOẠT ĐỘNG NHƯỢNG QUYỀN THƯƠNG MẠI
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số Thông tư của Bộ trưởng Bộ Công Thương về thủ tục hành chính trong lĩnh vực thương mại điện tử, hóa chất, sản xuất kinh doanh rượu, nhượng quyền thương mại, hoạt động mua bán hàng hóa qua sở giao dịch hàng hóa, năng lượng, an toàn thực phẩm và điện lực (04/2016/TT-BCT)
+  * Thông tư Hướng dẫn đăng ký hoạt động nhượng quyền thương mại (09/2006/TT-BTM)
+  * Sửa đổi, bổ sung quy định về dịch vụ giám định thương mại tại Nghị định số 120/2011/NĐ-CP ngày 16 tháng 12 năm 2011 và nghị định số 20/2006/NĐ-CP ngày 20 tháng 02 năm 2006 (125/2014/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

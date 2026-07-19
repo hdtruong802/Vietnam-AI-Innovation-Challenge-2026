@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001037
+Số quyết định: 52/QĐ-BGTVT
+Tên thủ tục: Đăng ký Điều lệ vận chuyển của hãng hàng không Việt Nam
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * a) Nộp hồ sơ thủ tục hành chính:
+    Hãng hàng không đề nghị đăng ký Điều lệ vận chuyển nộp 01 bộ hồ sơ trực tiếp hoặc qua đường bưu điện hoặc các hình thức phù hợp khác đến Cục Hàng không Việt Namvà phải chịu trách nhiệm về các thông tin trong hồ sơ.
+  * b) Giải quyết thủ tục hành chính:
+    Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được hồ sơ đầy đủ theo quy định, Cục Hàng không Việt Namcó trách nhiệm xem xét và có văn bản chấp thuận hoặc không chấp thuận đăng ký Điều lệ vận chuyển. Trong trường hợp không chấp thuận, phải nêu rõ lý do bằng văn bản.
+    Trường hợp hồ sơ đề nghị đăng ký Điều lệ vận chuyển chưa đầy đủ theo quy định, trong thời hạn 02 ngày làm việc, kể từ ngày nhận hồ sơ, Cục Hàng không Việt Namcó văn bản đề nghị hãng hàng không hoàn chỉnh hồ sơ và thời hạn giải quyết tính từ khi nhận được hồ sơ đầy đủ theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Bản sao Điều lệ vận chuyển.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị theo mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp
+Cơ quan thực hiện: Cục Hàng không Việt Nam
+Cơ quan có thẩm quyền: Cục Hàng không Việt Nam
+Địa chỉ tiếp nhận HS: 119 Nguyễn Sơn, phường Bồ Đề, thành phố Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận Đăng ký Điều lệ vận chuyển của hãng hàng không Việt Nam
+Căn cứ pháp lý:
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Quy định về việc vận chuyển hàng không và hoạt động hàng không chung (81/2014/TT-BGTVT)
+  * Luật 61/2014/QH13 (61/2014/QH13)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

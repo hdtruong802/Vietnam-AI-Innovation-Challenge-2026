@@ -27,7 +27,17 @@
   "historyEnforcement": {
     "mode": "policy-presence",
     "enabled": true,
-    "exemptMergeCommits": true
+    "exemptMergeCommits": true,
+    "exemptCommitOids": [
+      {
+        "oid": "247311d9e510406642be3b37980131ac02ecbcc5",
+        "reason": "Historical structure-aware chunking migration; repository-scoped prompt evidence was not retained."
+      },
+      {
+        "oid": "e4ab0b994e2b9510def369ae7ded24a54e064669",
+        "reason": "Historical RAG conflict resolution; repository-scoped prompt evidence was not retained."
+      }
+    ]
   },
   "dashboard": "deferred",
   "organizerComplianceGap": "Prompt-only evidence does not replace desktop session files or screenshots when those artifacts are mandatory."

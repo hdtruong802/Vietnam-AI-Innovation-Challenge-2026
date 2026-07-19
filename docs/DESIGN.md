@@ -1,93 +1,123 @@
 ---
 name: VNGov AI Copilot
-description: Hệ thống trợ lý hướng dẫn và tiền kiểm hồ sơ hành chính công phong cách hiện đại VNGov (Navy & Orange)
+description: Hệ thống trợ lý hướng dẫn và tiền kiểm hồ sơ hành chính công — Copilot Workspace Mode dùng bảng màu civic ấm (đỏ trầm & vàng đồng), Portal Mode giữ bảng màu đỏ/vàng riêng đã có (D-012)
 colors:
-  primary: "#0D1B3D"       # Deep Navy (Chữ chính, Header, Logo)
-  neutral-bg: "#F8FAFC"    # Clean Off-white (Màu nền body)
-  accent: "#F97316"        # Brand Orange (CTA chính, Link, Progress active)
-  accent-light: "#FDBA40"  # Warm Gold (Màu nhấn phụ)
-  warning: "#F59E0B"       # Amber (Cảnh báo vàng)
-  error: "#EF4444"         # Red (Lỗi đỏ)
-  success: "#10B981"       # Green (Đạt chuẩn xanh)
+  vg-canvas: "#FBF8F2"
+  vg-surface: "#FFFDF9"
+  vg-border: "#E8D9CB"
+  vg-text: "#25201C"
+  vg-accent: "#B52B23"     # Civic crimson — hành động chính, nav active
+  vg-gold: "#D8942F"       # Phụ, không cạnh tranh với accent
+  vg-success: "#23865F"
+  vg-warning: "#B46E15"
+  vg-error: "#C63D36"
 typography:
-  display:
-    fontFamily: "Geist Sans, Inter, sans-serif"
-    fontSize: "clamp(2rem, 5vw, 3rem)"
-    fontWeight: 800
-    lineHeight: 1.2
   body:
     fontFamily: "Geist Sans, Inter, sans-serif"
     fontSize: "0.875rem"
     fontWeight: 400
     lineHeight: 1.6
 rounded:
-  sm: "6px"
-  md: "10px"
-  lg: "16px"
+  compact: "8px"
+  panel: "12px"
+  surface: "16px"
 spacing:
   sm: "8px"
   md: "16px"
   lg: "24px"
 components:
   button-primary:
-    backgroundColor: "{colors.accent}"
+    backgroundColor: "{colors.vg-accent}"
     textColor: "#FFFFFF"
-    rounded: "{rounded.md}"
+    rounded: "{rounded.compact}"
     padding: "10px 20px"
-  card:
-    backgroundColor: "#FFFFFF"
-    rounded: "{rounded.lg}"
+  panel:
+    backgroundColor: "{colors.vg-surface}"
+    rounded: "{rounded.panel}"
     padding: "20px"
 ---
 
-# Design System: VNGov AI Copilot (Navy & Orange)
+# Design System: VNGov AI Copilot
 
 ## 1. Overview
 
-**Creative North Star: "VNGov Digital Assistant - Modern Civic Product"**
+**Creative North Star: "Civic, warm, calm, task-oriented"**
 
-Hệ thống thiết kế mới của **VNGov** hướng tới một giải pháp công nghệ dịch vụ hành chính công **hiện đại, năng động, và đáng tin cậy**, sử dụng hai tông màu thương hiệu chính là **Xanh Navy đậm (`#0D1B3D`)** và **Cam thương hiệu (`#F97316`)**, kết hợp biểu tượng **Hoa sen cách điệu hình chữ V** (đại diện cho Việt Nam và sự vươn lên phát triển).
+VNGov spans two registers that belong to one civic product family but are styled independently:
 
-**Key Characteristics:**
-- **Dual-View Layout:** Hỗ trợ giao diện trang chủ Landing Page giới thiệu năng lực sản phẩm và giao diện workspace 2 cột của Trợ lý AI Copilot.
-- **Brand Geometry:** Sử dụng các đường nét bo góc mềm mại vừa phải (`rounded-xl` / 12px), giao diện phẳng tinh giản với bóng mờ siêu nhỏ, giữ giao diện sạch sẽ tối ưu cho đọc biểu mẫu.
-- **Cultural Texture:** Giữ các họa tiết Trống đồng Đông Sơn và Hoa sen truyền thống làm hình nền chìm (opacity < 5%) để tạo nét thanh tao Việt Nam mà không làm ảnh hưởng đến trải nghiệm đọc thông tin.
+- **Portal Mode** — the simulated Cổng Dịch vụ công Quốc gia landing page (`frontend/src/app/components/landing/**`). Uses its own accepted red/gold token set (`--color-gov-*`, D-012), scoped to `.portal-home`. **Not touched by this document's Copilot Workspace section.**
+- **Copilot Workspace Mode** — the AI procedure assistant (`frontend/src/features/procedure-case/**`). Uses the `--vg-*` token set defined below, scoped to `.copilot-workspace`.
 
-## 2. Colors
+Both share a civic design language — warm paper surfaces, restrained crimson/gold accents, borders over shadows, no gradients or glassmorphism — without sharing CSS variables. Neither mode repoints the other's tokens; there is no global `:root`/`@theme` civic palette.
 
-Bảng màu thương hiệu VNGov mới, hỗ trợ toàn diện chế độ sáng/tối (System Dark Mode).
+### Runtime theme policy
 
-### Primary & Foreground
-- **Deep Navy** (#0D1B3D / #F8FAFC trong Dark Mode): Màu xanh hải quân đậm biểu thị sự vững chãi, tin cậy và chuyên nghiệp.
+The public demo is **light-only**. Its visual tokens and native browser controls must remain light even when the operating system reports `prefers-color-scheme: dark`; `:root` therefore declares `color-scheme: light` and has no dark-token override. Do not add `dark:` utilities or a theme switch to Portal or Copilot views. A future dark theme requires a separate Decision, Context Pack, complete token set, and contrast review for both modes.
 
-### Neutral
-- **Clean Off-white** (#F8FAFC / #0A0F1D trong Dark Mode): Màu nền dịu mắt, tránh mỏi mắt cho người dân khi thao tác lâu.
-- **Soft Slate Border** (#E2E8F0 / #1E293B trong Dark Mode): Màu viền phân chia các trường dữ liệu và thẻ.
-- **Pure White Surface** (#FFFFFF / #111827 trong Dark Mode): Nền của các thẻ card biểu mẫu và khung chat.
+> **Provenance note:** this document previously described a Deep-Navy/Brand-Orange (`#0D1B3D`/`#F97316`) palette for the Copilot workspace, matching what `frontend/src/app/globals.css` implemented at the time. That content was never backed by an Accepted Decision Log entry — it was implementation drift that this document mirrored rather than governed. This revision replaces it with the warm civic (`--vg-*`) palette below as the authoritative spec for Copilot Workspace Mode.
 
-### Accent
-- **Brand Orange** (#F97316): Tông màu cam nổi bật biểu thị sự thân thiện, hướng ngoại, sử dụng cho các nút hành động chính (CTA) và trạng thái hiện tại.
-- **Warm Gold** (#FDBA40): Tông màu phụ hỗ trợ trang trí và cảnh báo.
+## 2. Colors — Copilot Workspace Mode
 
----
+Token source: `.copilot-workspace` scope in `frontend/src/app/globals.css`. Light-theme only (no dark-mode variant is defined for `--vg-*` in this hackathon scope).
 
-## 3. Typography
+| Token | Value | Use |
+| --- | --- | --- |
+| `--vg-canvas` | `#FBF8F2` | Page/workspace background |
+| `--vg-surface` | `#FFFDF9` | Cards, panels, header |
+| `--vg-surface-subtle` | `#F7F1E9` | Nested subtle surfaces (tab bar, quiet blocks) |
+| `--vg-border` / `--vg-border-strong` | `#E8D9CB` / `#D5C1AF` | Panel borders, dividers |
+| `--vg-text` / `--vg-text-secondary` / `--vg-text-muted` | `#25201C` / `#655B53` / `#8A817A` | Text hierarchy |
+| `--vg-accent` / `--vg-accent-hover` / `--vg-accent-soft` | `#B52B23` / `#962018` / `#FCEDEA` | Primary action, active nav/tab underline |
+| `--vg-gold` / `--vg-gold-soft` | `#D8942F` / `#FFF1DB` | Secondary accent only — never a competing CTA color |
+| `--vg-success` / `--vg-success-soft` | `#23865F` / `#EAF6F0` | Connected/passed states only |
+| `--vg-warning` / `--vg-warning-soft` | `#B46E15` / `#FFF4DF` | Non-blocking degrade (e.g. AI unavailable) |
+| `--vg-error` / `--vg-error-soft` | `#C63D36` / `#FCECEA` | Blocking errors and connection failures only |
 
-**Font Family:** Geist Sans / Inter / System-ui - Phông chữ Sans-serif hiện đại giúp tối ưu hóa khả năng hiển thị biểu mẫu số trên mọi thiết bị.
+### Color rules
 
----
+- Warm paper canvas/surfaces (`--vg-canvas`/`--vg-surface`), never a blue-gray canvas, in the Copilot workspace.
+- `--vg-accent` (civic crimson) is the only primary-action / active-navigation color.
+- `--vg-gold` is secondary decoration/emphasis; it must never appear as a competing CTA next to `--vg-accent`.
+- `--vg-success` only for connected/passed states; `--vg-error` only for blocking errors and connection failures — not general validation warnings (use `--vg-warning`).
+- Navy may remain only in the VNGov wordmark mark; it must not dominate workspace navigation, tabs, or panels.
+- No pale/orange-with-white-text disabled buttons. Disabled buttons: neutral gray background, readable muted text, `cursor-not-allowed`, reason available via adjacent help text — not opacity alone.
+- No gradients, glassmorphism, glow, AI-orb, or sparkle decoration in the workspace.
+- Prefer borders + spacing over shadow. Shadow only for overlays, drawers, dropdowns, or a focused floating element — not for ordinary panels.
+- Avoid nested "card soup" — one primary panel per concern, not cards inside cards.
 
-## 4. Components
+## 3. Shape
 
-### Buttons
-- **Primary Action:** Nền cam thương hiệu `#F97316`, chữ trắng, bo góc 10px.
-- **Secondary Action:** Nền Navy `#0D1B3D` hoặc viền mảnh `#E2E8F0`.
+```text
+Compact inputs/controls (buttons, inputs, tab underlines): 8px
+Standard panels (cards, banners): 12px
+Large workspace surfaces (empty states, major containers): 14–16px
+Status pills: fully rounded only when semantically a pill (e.g. connection badge)
+```
 
-### Chat Bubbles
-- **User Bubble:** Màu cam thương hiệu `#F97316`, chữ trắng, góc bo tròn hướng lên góc phải.
-- **Assistant Bubble:** Nền trắng `#FFFFFF`, viền mảnh slate `#E2E8F0`, chữ tối màu.
+## 4. Typography
 
-### Stepper Progress
-- Vòng tròn hiển thị tỷ lệ tiến độ dạng `2/5` màu cam.
-- Cột mốc hoàn thành có tick xanh lá `#10B981`, cột mốc hiện tại có màu cam `#F97316`, các cột mốc tiếp theo có màu xám nhạt.
+Font family: the existing Vietnamese-capable sans-serif stack (`Geist Sans`/`Inter`/system-ui) for all Copilot UI. No serif headings in the workspace (serif remains available for Portal/marketing use only).
 
+```text
+Page/header product name: 18–22px, semibold
+Pane heading: 16–18px, semibold
+Section heading: 14–16px, semibold
+Body: 14–16px, regular
+Metadata: 12–13px
+Button: 14–15px, medium/semibold
+```
+
+Avoid all-caps except small metadata eyebrows. Internal review-gate IDs (U1/U2/U3) must never appear in citizen-facing text — they remain in code, state, tests, and analytics only.
+
+## 5. Panels and empty states
+
+- Panels: `--vg-surface` background, `--vg-border` border, 12–16px radius, no strong shadow, a clear heading.
+- Empty/locked states (e.g. "Tờ khai chưa được mở" before U2, "Chức năng sẽ khả dụng sau khi hoàn tất tờ khai" for pre-check) must: state what is unavailable, explain what unlocks it, and avoid promotional filler or a fake enabled-looking CTA.
+- Progressive disclosure: never render the form before U2 confirmation; never render an active pre-check control before the form pane is mounted. Future steps get an explanatory empty state, not a disabled-but-visually-active panel.
+- One primary decision/action per state (e.g. confirm/reject at U1, confirm at U2, run/acknowledge at U3) — no competing CTAs in the same panel.
+
+## 6. Responsive
+
+- No horizontal page scroll at 1440/1366/1280/1024/768/390px. Each pane manages its own vertical overflow.
+- Left composer stays sticky at the bottom of the left pane.
+- Below the two/three-column breakpoint, the progress rail collapses to a compact horizontal/collapsible header; panes stack without resetting transcript, checklist, or form state.

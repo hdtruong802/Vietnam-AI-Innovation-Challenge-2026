@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000521
+Số quyết định: 7886/QĐ-BCA
+Tên thủ tục: Cấp giấy phép hoạt động cai nghiện ma túy tự nguyện
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Tổ chức cai nghiên ma túy và quản lý sau cai nghiện
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ
+    Cơ sở cai nghiện ma túy tự nguyện gửi trực tiếp, qua bưu điện hoặc bằng phương thức điện tử 01 bộ hồ sơ quy định tại Khoản 1 Điều 11 Nghị định số 116/2021/NĐ-CP đến Công an cấp tỉnh. Trường hợp gửi hồ sơ bằng phương thức điện tử, cơ sở cai nghiện có trách nhiệm lưu giữ toàn bộ bản gốc hồ sơ và chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của hồ sơ.
+    Bước 2: Tiếp nhận hồ sơ
+    Giám đốc Công an cấp tỉnh có trách nhiệm tổ chức tiếp nhận hồ sơ trong giờ làm việc, nếu hồ sơ chưa đầy đủ, chưa hợp lệ phải cấp ngay phiếu hướng dẫn bổ sung hồ sơ cho người nộp hồ sơ.
+    Bước 3: Tổ chức thẩm định
+    Giám đốc Công an cấp tỉnh có trách nhiệm tổ chức thẩm định hồ sơ, thẩm định các điều kiện cấp phép theo quy định tại Điều 9, Khoản 1 Điều 11 Nghị định số 116/2021/NĐ-CP.
+    Bước 4: Quyết định cấp giấy phép/ không cấp giấy phép
+    Trong thời hạn 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ, Giám đốc Công an cấp tỉnh quyết định cấp giấy phép hoạt động cai nghiện ma túy. Trường hợp không cấp giấy phép hoạt động cai nghiện ma túy phải trả lời cá nhân, tổ chức đề nghị cấp phép bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - 01 bản phương án tài chính của cơ sở cai nghiện ma túy tự nguyện để  bảo đảm duy trì hoạt động cai nghiện ma túy.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Văn bản của Chủ tịch Ủy ban nhân dân cấp xã về việc chấp thuận  đặt trụ sở cơ sở cai nghiện ma túy tự nguyện.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Tài liệu chứng minh bảo đảm đủ các điều kiện cơ sở vật chất, trang thiết bị quy định tại Khoản 2, 3 Điều 9  Nghị định số 116/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - 01 bản sao quyết định thành lập,  cho phép thành lập.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Văn bản đề nghị cấp giấy phép hoạt động  cai nghiện ma túy của cơ sở cai nghiện ma túy tự nguyện.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - 01 bản chính danh sách nhân viên, kèm theo bản sao văn bằng, chứng chỉ; 01 bản lý lịch tóm tắt của người đứng đầu hoặc người đại diện theo pháp luật, 01 bản sao giấy xác nhận đã được đào tạo, tập huấn về điều trị, cai nghiện ma túy hoặc giấy xác nhận thời gian làm việc tại cơ sở cai nghiện ma túy của người đứng đầu,  người đại diện theo pháp luật của cơ sở.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Công an cấp Tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép hoạt động cai nghiện ma túy đối với cơ sở cai nghiện ma túy tự nguyện
+Căn cứ pháp lý:
+  * Luật Phòng, chống ma túy số 73/2021/QH14 (73/2021/QH14)
+  * Nghị định số 184/2025/NĐ-CP của Chính phủ: Quy định phân định thẩm quyền khi tổ chức chính quyền địa phương 02 cấp và sửa đổi, bổ sung một số điều của các Nghị định của Chính phủ trong lĩnh vực an ninh, trật tự (184/2025/NĐ-CP)
+  * QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT PHÒNG, CHỐNG MA TÚY, LUẬT XỬ LÝ VI PHẠM HÀNH CHÍNH VỀ CAI NGHIỆN MA TÚY VÀ QUẢN LÝ SAU CAI NGHIỆN MA TÚY (116/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Cơ sở cai nghiện ma túy tự nguyện: 
+- Được thành lập, tổ chức, hoạt động theo quy định của pháp.
+- Có cơ sở vật chất đáp ứng yêu cầu của hoạt động cai nghiện ma túy theo quy định tại Khoản 1, 2, 4 Điều 6 Nghị định số 116/2021/NĐ-CP và điểm e Khoản 3 Điều 36 Luật Phòng, chống ma túy. Trường hợp thuê cơ sở vật chất thì thời hạn thuê phải còn ít nhất 02 năm kể từ thời điểm nộp hồ sơ đề nghị cấp giấy phép hoạt động.
+- Có trang thiết bị, phương tiện tối thiểu theo danh mục quy định tại Phụ lục I kèm theo Nghị định số 116/2021/NĐ-CP.
+- Nhân sự làm việc tại cơ sở cai nghiện phải bảo đảm điều kiện, tiêu chuẩn theo quy định tại Khoản 1 Điều 8 Nghị định số 116/2021/NĐ-CP. Người đứng đầu hoặc người đại diện theo pháp luật của cơ sở cai nghiện phải có trình độ từ đại học trở lên, đã được đào tạo, tập huấn về điều trị, cai nghiện ma túy hoặc có thời gian làm công tác cai nghiện, điều trị nghiện ma túy tại cơ sở cai nghiện từ 02 năm trở lên.
+Từ khóa: Không có thông tin
+Mô tả: Cơ sở cai nghiện ma túy tự nguyện: 
+- Được thành lập, tổ chức, hoạt động theo quy định của pháp.
+- Có cơ sở vật chất đáp ứng yêu cầu của hoạt động cai nghiện ma túy theo quy định tại Khoản 1, 2, 4 Điều 6 Nghị định số 116/2021/NĐ-CP và điểm e Khoản 3 Điều 36 Luật Phòng, chống ma túy. Trường hợp thuê cơ sở vật chất thì thời hạn thuê phải còn ít nhất 02 năm kể từ thời điểm nộp hồ sơ đề nghị cấp giấy phép hoạt động.
+- Có trang thiết bị, phương tiện tối thiểu theo danh mục quy định tại Phụ lục I kèm theo Nghị định số 116/2021/NĐ-CP.
+- Nhân sự làm việc tại cơ sở cai nghiện phải bảo đảm điều kiện, tiêu chuẩn theo quy định tại Khoản 1 Điều 8 Nghị định số 116/2021/NĐ-CP. Người đứng đầu hoặc người đại diện theo pháp luật của cơ sở cai nghiện phải có trình độ từ đại học trở lên, đã được đào tạo, tập huấn về điều trị, cai nghiện ma túy hoặc có thời gian làm công tác cai nghiện, điều trị nghiện ma túy tại cơ sở cai nghiện từ 02 năm trở lên.

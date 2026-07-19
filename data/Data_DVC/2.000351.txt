@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000351
+Số quyết định: 1040/QĐ-BCT
+Tên thủ tục: Cấp Giấy phép kinh doanh cho tổ chức kinh tế có vốn đầu tư nước ngoài để thực hiện các dịch vụ khác quy định tại khoản d, đ, e, g, h, i Điều 5 Nghị định 09/2018/NĐ-CP
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thương mại quốc tế
+Trình tự thực hiện:
+    Tổ chức kinh tế có vốn đầu tư nước ngoài đề nghị cấp Giấy phép kinh doanh lập 02 bộ hồ sơ gửi trực tiếp hoặc qua đường bưu chính hoặc hệ thống dịch vụ công trực tuyến đến Sở Công Thương nơi tổ chức kinh tế đặt trụ sở chính.
+    Trường hợp hồ sơ chưa đầy đủ và hợp lệ, trong vòng 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Sở Công Thương thông báo để tổ chức, cá nhân bổ sung, hoàn chỉnh hồ sơ. Thời gian hoàn chỉnh hồ sơ không được tính vào thời gian cấp Giấy phép kinh doanh;
+    Trong thời hạn 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ quy định Sở Công Thương nơi tổ chức kinh tế có vốn đầu tư nước ngoài đặt trụ sở chính có trách nhiệm xem xét việc đáp ứng điều kiện.
+    + Trường hợp không cấp Giấy phép kinh doanh, Sở Công Thương phải có văn bản trả lời và nêu rõ lý do.
+    + Trường hợp đáp ứng điều kiện, Sở Công Thương gửi hồ sơ kèm văn bản lấy ý kiến Ủy ban nhân dân cấp tỉnh.
+    Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ, Ủy ban nhân dân cấp tỉnh xem xét các nội dung tương ứng quy định tại Điều 10 Nghị định 09/2018/NĐ-CP ngày 15/01/2018 để có văn bản chấp thuận cấp Giấy phép kinh doanh; trường hợp từ chối phải có văn bản trả lời và nêu rõ lý do.
+    Trong thời hạn 03 ngày làm việc kể từ ngày nhận được văn bản chấp thuận của Ủy ban nhân dân cấp tỉnh, Sở Công Thương cấp Giấy phép kinh doanh. Trường hợp Ủy ban nhân dân cấp tỉnh có văn bản từ chối, Sở Công Thương có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 28 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 28 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 28 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - -Tài liệu của cơ quan thuế chứng minh không còn nợ thuế quá hạn;
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - Đơn đề nghị cấp Giấy phép kinh doanh (Mẫu số 01 tại Phụ lục ban hành kèm theo Nghị định 09/2018/NĐ-CP ngày 15/01/2018)
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - )  Bản giải trình có nội dung: a) Giải trình về điều kiện cấp Giấy phép kinh doanh gồm:  - Không còn nợ thuế quá hạn trong trường hợp đã thành lập tại Việt Nam từ 01 năm trở lên. - Phù hợp với quy định của pháp luật chuyên ngành. - Phù hợp với mức độ cạnh tranh của doanh nghiệp trong nước trong cùng lĩnh vực hoạt động. b) Kế hoạch kinh doanh: Mô tả nội dung, phương thức thực hiện hoạt động kinh doanh; trình bày kế hoạch kinh doanh và phát triển thị trường; nhu cầu về lao động; đánh giá tác động, hiệu quả kinh tế - xã hội của kế hoạch kinh doanh; c) Tình hình kinh doanh hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa; tình hình tài chính của tổ chức kinh tế có vốn đầu tư nước ngoài tính tới thời điểm đề nghị cấp Giấy phép kinh doanh, trong trường hợp cấp Giấy phép kinh doanh quy định tại khoản 6 Điều 5 Nghị định 09/2018/NĐ-CP.
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - . Bản sao: Giấy chứng nhận đăng ký doanh nghiệp; Giấy chứng nhận đăng ký đầu tư dự án hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa (nếu có).
+      Số lượng: Bản chính: 2, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: GIẤY PHÉP KINH DOANH HOẠT ĐỘNG MUA BÁN HÀNG HÓA VÀ CÁC HOẠT ĐỘNG LIÊN QUAN TRỰC TIẾP ĐẾN MUA BÁN HÀNG HÓA
+Căn cứ pháp lý:
+  * Luật quản lý ngoại thương (05/2017/QH14)
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Luật sửa đổi, bổ sung Điều 6 và Phụ lục 4 về Danh mục ngành, nghề đầu tư kinh doanh có điều kiện của Luật đầu tư (03/2016/QH14)
+  * Luật Thương mại (36/2005/QH11)
+  * Luật đầu tư (67/2014/QH13)
+  * Quy định chi tiết Luật thương mại và Luật Quản lý ngoại thương về hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam (09/2018/NĐ-CP)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Nghị định số 146/2025/NĐ-CP (nghị định 146/2025)
+
+Yêu cầu, điều kiện thực hiện: + Không còn nợ thuế quá hạn trong trường hợp đã thành lập tại Việt Nam từ 01 năm trở lên.
++ Phù hợp với quy định của pháp luật chuyên ngành.
++ Phù hợp với mức độ cạnh tranh của doanh nghiệp trong nước trong cùng lĩnh vực hoạt động.
+Từ khóa: Không có thông tin
+Mô tả: + Không còn nợ thuế quá hạn trong trường hợp đã thành lập tại Việt Nam từ 01 năm trở lên.
++ Phù hợp với quy định của pháp luật chuyên ngành.
++ Phù hợp với mức độ cạnh tranh của doanh nghiệp trong nước trong cùng lĩnh vực hoạt động.

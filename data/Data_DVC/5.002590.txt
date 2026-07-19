@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 5.002590
+Số quyết định: 497/QĐ-BXD
+Tên thủ tục: Thông báo chuyến bay chuyên cơ, chuyên khoang của nước ngoài
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: CENTRAL_REGULATION
+Lĩnh vực: Hàng không
+Trình tự thực hiện:
+  * Các đơn vị gồm Văn phòng Trung ương Đảng; Văn phòng Chủ tịch nước; Văn phòng Chính phủ; Văn phòng Quốc hội; Ban Đối ngoại Trung ương Đảng; Bộ Quốc phòng (Cục Đối ngoại); Bộ Ngoại giao (Cục Lãnh sự, Cục Lễ tân Nhà nước) gửi thông báo chuyến bay chuyên cơ, chuyên khoang của nước ngoài được gửi bằng hình thức trực tiếp, trực tuyến hoặc qua hệ thống bưu chính tới: Bộ Công an (Bộ Tư lệnh Cảnh vệ), Bộ Xây dựng (Cục Hàng không Việt Nam), Bộ Quốc phòng (Cục Tác chiến, Quân chủng Phòng không - Không quân).
+    Các đơn vị gồm Văn phòng Trung ương Đảng; Văn phòng Chủ tịch nước; Văn phòng Chính phủ; Văn phòng Quốc hội; Ban Đối ngoại Trung ương Đảng; Bộ Quốc phòng (Cục Đối ngoại); Bộ Ngoại giao (Cục Lãnh sự, Cục Lễ tân Nhà nước) gửi thông báo chuyến bay chuyên cơ, chuyên khoang của nước ngoài được gửi bằng hình thức trực tiếp, trực tuyến hoặc qua hệ thống bưu chính tới: Bộ Công an (Bộ Tư lệnh Cảnh vệ), Bộ Xây dựng (Cục Hàng không Việt Nam), Bộ Quốc phòng (Cục Tác chiến, Quân chủng Phòng không - Không quân).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: gửi bằng hình thức trực tiếp, trực tuyến hoặc qua hệ thống bưu chính (thời gian giải quyết ngay sau khi nhận được chuyến bay chuyên cơ)
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: gửi bằng hình thức trực tiếp, trực tuyến hoặc qua hệ thống bưu chính (thời gian giải quyết ngay sau khi nhận được chuyến bay chuyên cơ)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: gửi bằng hình thức trực tiếp, trực tuyến hoặc qua hệ thống bưu chính (thời gian giải quyết ngay sau khi nhận được chuyến bay chuyên cơ)
+
+Thành phần hồ sơ:
+    - Văn bản thông báo chuyến bay chuyên cơ, chuyên khoang của Việt Nam trong đó nêu rõ các nội dung sau: Đối tượng được phục vụ và số lượng, thành phần đoàn; Hành trình chuyến bay; Hãng hàng không, cơ quan, tổ chức khác của nước ngoài thực hiện; Yêu cầu về nghi lễ đón, tiễn; Yêu cầu về bảo đảm an ninh, an toàn và các yêu cầu cụ thể khác (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Bộ Ngoại giao, Bộ Quốc phòng, Văn phòng Chính phủ
+Cơ quan có thẩm quyền: Bộ Công an, Bộ Quốc phòng, Bộ Xây dựng
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Bộ Ngoại giao (Cục Lãnh sự) cấp phép bay cho chuyến bay chuyên cơ của nước ngoài, Cục Hàng không Việt Nam có trách nhiệm triển khai thông báo chuyến bay chuyên cơ của nước ngoài tới các cơ quan, đơn vị
+Căn cứ pháp lý:
+  * Nghị định quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng (33/2025/NĐ-CP)
+  * sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Xây dựng (14/2026/NĐ-CP)
+  * công tác bảo đảm chuyến bay chuyên cơ, chuyên khoang (96/2021/NĐ-CP)
+  * Thông tư hướng dẫn công tác bảo đảm chuyến bay chuyên cơ, chuyên khoang (25/2022/TT-BGTVT)
+
+Yêu cầu, điều kiện thực hiện: Thông báo chuyến  bay chuyên cơ của nước ngoài được gửi tối thiểu là 07 ngày trước ngày dự định thựchiện chuyến bay, trừ trường hợp đặc biệt.
+Từ khóa: Không có thông tin
+Mô tả: Thông báo chuyến  bay chuyên cơ của nước ngoài được gửi tối thiểu là 07 ngày trước ngày dự định thựchiện chuyến bay, trừ trường hợp đặc biệt.

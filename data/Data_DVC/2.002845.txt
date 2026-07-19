@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002845
+Số quyết định: 851/QĐ-BKHCN
+Tên thủ tục: Thủ tục đăng ký hỗ trợ của doanh nghiệp viễn thông để thực hiện cung cấp dịch vụ viễn thông công ích theo phương thức đặt hàng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    1. Đăng ký đặt hàng: Doanh nghiệp viễn thông gửi hồ sơ đăng ký đặt hàng.
+    2. Đánh giá hồ sơ năng lực của doanh nghiệp:
+    Trong thời gian 07 ngày làm việc, kể từ ngày nhận được hồ sơ đăng ký đặt hàng của doanh nghiệp, Quỹ Dịch vụ viễn thông công ích Việt Nam hoàn thành đánh giá hồ sơ của doanh nghiệp và gửi văn bản thông báo cho doanh nghiệp để thương thảo hợp đồng; trường hợp hồ sơ không đạt yêu cầu thì thông báo bằng văn bản cho doanh nghiệp biết lý do.
+    3. Thương thảo hợp đồng:
+    Trong thời gian 10 ngày làm việc, kể từ ngày hoàn thành đánh giá hồ sơ năng lực của doanh nghiệp theo quy định, Quỹ Dịch vụ viễn thông công ích Việt Nam và doanh nghiệp đủ điều kiện đặt hàng phải hoàn thành thương thảo hợp đồng đặt hàng.
+    4. Phê duyệt quyết định đặt hàng:
+    Trong thời gian 03 ngày làm việc, kể từ ngày hoàn thành thương thảo hợp đồng, dự thảo hợp đồng theo quy định, Quỹ Dịch vụ viễn thông công ích Việt Nam phê duyệt quyết định đặt hàng và gửi văn bản quyết định đặt hàng cho doanh nghiệp viễn thông biết để ký hợp đồng đặt hàng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Nộp thông qua cổng dịch vụ công trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn).
+-Trong 20 ngày làm việc kể từ ngày nhận đủ hồ sơ đăng ký đặt hàng của doanh nghiệp, Quỹ Dịch vụ viễn thông công ích Việt Nam phê duyệt quyết định đặt hàng cung cấp dịch vụ viễn thông công ích.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Nộp trực tiếp tại Bộ phận Một cửa Bộ Khoa học và Công nghệ.
+-Trong 20 ngày làm việc kể từ ngày nhận đủ hồ sơ đăng ký đặt hàng của doanh nghiệp, Quỹ Dịch vụ viễn thông công ích Việt Nam phê duyệt quyết định đặt hàng cung cấp dịch vụ viễn thông công ích.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Nộp trực tiếp tại Bộ phận Một cửa Bộ Khoa học và Công nghệ.
+-Trong 20 ngày làm việc kể từ ngày nhận đủ hồ sơ đăng ký đặt hàng của doanh nghiệp, Quỹ Dịch vụ viễn thông công ích Việt Nam phê duyệt quyết định đặt hàng cung cấp dịch vụ viễn thông công ích.
+
+Thành phần hồ sơ:
+    - Văn bản đăng ký đặt hàng cung cấp dịch vụ viễn thông phổ cập theo Mẫu số 02 Phụ lục I kèm theo Thông tư số 01/2026/TT-BKHCN ngày 15/01/2026.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Quỹ dịch vụ Viễn thông công ích Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định đặt hàng cung cấp dịch vụ viễn thông công ích
+Căn cứ pháp lý:
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+  * Hướng dẫn thực hiện một số điều của Nghị định số 295/2025/NĐ-CP ngày 15/11/2025 của Chính phủ quy định chi tiết thi hành Luật Viễn thông về hoạt động viễn thông công ích và cơ chế tài chính thực hiện hoạt động viễn thông công ích. (01/2026/TT-BKHCN)
+  * quy định chi tiết một số điều của Luật Viễn thông về hoạt động viễn thông công ích và cơ chế tài chính thực hiện hoạt động viễn thông công ích. (295/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Việc đặt hàng doanh nghiệp viễn thông cung cấp dịch vụ viễn thông phổ cập, ngoài đáp ứng các nguyên tắc và điều kiện quy định tại Điều 4 của Nghị định số 295/2025/NĐ-CP, được thực hiện khi khu vực khó khăn được phổ cập dịch vụ viễn thông chỉ có một doanh nghiệp đang cung cấp dịch vụ và doanh nghiệp có đề nghị được hỗ trợ từ chương trình cung cấp dịch vụ viễn thông công ích, trong các trường hợp sau: 
+- Hỗ trợ doanh nghiệp viễn thông duy trì cung cấp dịch vụ viễn thông phổ cập tại khu vực khó khăn được phổ cập dịch vụ viễn thông đối với các doanh nghiệp đã hoàn thành hợp đồng cung cấp dịch vụ viễn thông phổ cập trước đó theo phương thức đấu thầu, giao nhiệm vụ;
+- Hỗ trợ doanh nghiệp viễn thông cung cấp dịch vụ viễn thông phổ cập tại khu vực khó khăn được phổ cập dịch vụ viễn thông đối với các doanh nghiệp viễn thông đã tự đầu tư phát triển, duy trì cơ sở hạ tầng cung cấp dịch vụ viễn thông phổ cập.
+(Quy định tại khoản 2 Điều 7 Nghị định số 295/2025/NĐ-CP)
+Từ khóa: Không có thông tin
+Mô tả: Việc đặt hàng doanh nghiệp viễn thông cung cấp dịch vụ viễn thông phổ cập, ngoài đáp ứng các nguyên tắc và điều kiện quy định tại Điều 4 của Nghị định số 295/2025/NĐ-CP, được thực hiện khi khu vực khó khăn được phổ cập dịch vụ viễn thông chỉ có một doanh nghiệp đang cung cấp dịch vụ và doanh nghiệp có đề nghị được hỗ trợ từ chương trình cung cấp dịch vụ viễn thông công ích, trong các trường hợp sau: 
+- Hỗ trợ doanh nghiệp viễn thông duy trì cung cấp dịch vụ viễn thông phổ cập tại khu vực khó khăn được phổ cập dịch vụ viễn thông đối với các doanh nghiệp đã hoàn thành hợp đồng cung cấp dịch vụ viễn thông phổ cập trước đó theo phương thức đấu thầu, giao nhiệm vụ;
+- Hỗ trợ doanh nghiệp viễn thông cung cấp dịch vụ viễn thông phổ cập tại khu vực khó khăn được phổ cập dịch vụ viễn thông đối với các doanh nghiệp viễn thông đã tự đầu tư phát triển, duy trì cơ sở hạ tầng cung cấp dịch vụ viễn thông phổ cập.
+(Quy định tại khoản 2 Điều 7 Nghị định số 295/2025/NĐ-CP)

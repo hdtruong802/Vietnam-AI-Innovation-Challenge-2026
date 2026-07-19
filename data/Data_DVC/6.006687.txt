@@ -1,0 +1,57 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.006687
+Số quyết định: 2827/QĐ-BGDĐT
+Tên thủ tục: Thủ tục công nhận danh hiệu “Tập thể lao động xuất sắc”
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Thi đua khen thưởng
+Trình tự thực hiện:
+    4.1.1. Đơn vị lập hồ sơ trình Bộ trưởng Bộ Giáo dục và Đào tạo xem xét, quyết định khen thưởng danh hiệu “Tập thể lao động xuất sắc”.
+    4.1.2. Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo thẩm định hồ sơ, báo cáo Hội đồng Thi đua - Khen thưởng cơ quan Bộ trình Bộ trưởng xem xét, tặng thưởng danh hiệu “Tập thể lao động xuất sắc”.
+    4.1.3. Thời hạn nộp hồ sơ:
+    Hồ sơ đề nghị khen thưởng gửi về thường trực Hội đồng Thi đua - Khen thưởng Bộ Giáo dục và Đào tạo trước ngày 28 tháng 02 hằng năm, cấp Nhà nước gửi về Bộ Giáo dục và Đào tạo trước ngày 30 tháng 4 hằng năm;
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: a) Đối với các trường hợp đủ điều kiện, tiêu chuẩn khen thưởng theo quy định, Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo thực hiện quy trình đề nghị Bộ trưởng xem xét, quyết định khen thưởng trong thời gian 25 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định;
+b) Đối với các trường hợp không đủ điều kiện, tiêu chuẩn, trong thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị khen thưởng, Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo thông báo cho đơn vị trình khen thưởng.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: a) Đối với các trường hợp đủ điều kiện, tiêu chuẩn khen thưởng theo quy định, Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo thực hiện quy trình đề nghị Bộ trưởng xem xét, quyết định khen thưởng trong thời gian 25 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định;
+b) Đối với các trường hợp không đủ điều kiện, tiêu chuẩn, trong thời gian 15 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị khen thưởng, Vụ Tổ chức cán bộ, Bộ Giáo dục và Đào tạo thông báo cho đơn vị trình khen thưởng.
+
+Thành phần hồ sơ:
+    - Tờ trình đề nghị xét tặng danh hiệu thi đua, hình thức khen thưởng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo thành tích của cá nhân, tập thể được đề nghị khen thưởng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản bình xét thi đua hoặc biên bản xét khen thưởng.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Giáo dục và Đào tạo
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định công nhận danh hiệu “Tập thể lao động xuất sắc” và tiền thưởng
+Căn cứ pháp lý:
+  * quy định chi tiết thi hành một số điều của Luật Thi đua, khen thưởng và Nghị định số 152/2025/NĐ-CP ngày 14 tháng 6 năm 2025 của Chính phủ quy định về phân cấp, phân quyền trong lĩnh vực thi đua, khen thưởng; quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi đua, khen thưởng đối với ngành Giáo dục. (07/2026/TT-BGDĐT)
+  * Luật Thi đua khen thưởng 2022 (06)
+
+Yêu cầu, điều kiện thực hiện: Danh hiệu “Tập thể lao động xuất sắc” để tặng hằng năm khi kết thúc năm học, năm công tác cho tập thể đạt các tiêu chuẩn theo quy định tại khoản 1 Điều 27 Luật Thi đua, khen thưởng:
+- Hoàn thành xuất sắc nhiệm vụ được giao;
+- Tích cực tham gia phong trào thi đua thường xuyên, thiết thực, hiệu quả;
+- Có 100% cá nhân trong tập thể hoàn thành nhiệm vụ được giao, trong đó có ít nhất là 70% cá nhân đạt danh hiệu “Lao động tiên tiến”;
+- Có cá nhân đạt danh hiệu “Chiến sĩ thi đua cơ sở”;
+- Nội bộ đoàn kết, gương mẫu chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước.
+Từ khóa: Không có thông tin
+Mô tả: Danh hiệu “Tập thể lao động xuất sắc” để tặng hằng năm khi kết thúc năm học, năm công tác cho tập thể đạt các tiêu chuẩn theo quy định tại khoản 1 Điều 27 Luật Thi đua, khen thưởng:
+- Hoàn thành xuất sắc nhiệm vụ được giao;
+- Tích cực tham gia phong trào thi đua thường xuyên, thiết thực, hiệu quả;
+- Có 100% cá nhân trong tập thể hoàn thành nhiệm vụ được giao, trong đó có ít nhất là 70% cá nhân đạt danh hiệu “Lao động tiên tiến”;
+- Có cá nhân đạt danh hiệu “Chiến sĩ thi đua cơ sở”;
+- Nội bộ đoàn kết, gương mẫu chấp hành tốt chủ trương của Đảng, chính sách, pháp luật của Nhà nước.

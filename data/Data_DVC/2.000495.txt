@@ -1,0 +1,50 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000495
+Số quyết định: 1040/QĐ-BCT
+Tên thủ tục: Cấp sửa đổi, bổ sung Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Lưu thông hàng hóa trong nước
+Trình tự thực hiện:
+    + Thương nhân gửi một (01) bộ hồ sơ về Bộ Công Thương.
+    + Trường hợp chưa đủ hồ sơ hợp lệ, trong vòng bảy (07) ngày làm việc kể từ ngày tiếp nhận hồ sơ của thương nhân, Bộ Công Thương có văn bản yêu cầu thương nhân bổ sung.
+    + Trong thời hạn bảy (07) ngày làm việc kể từ khi nhận được hồ sơ hợp lệ, Bộ Công Thương có trách nhiệm xem xét, thẩm định và cấp sửa đổi, bổ sung Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu theo Mẫu số 6 tại Phụ lục kèm theo Nghị định số 83/2014/NĐ-CP cho thương nhân. Trường hợp từ chối cấp Giấy xác nhận, Bộ Công Thương phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - - Đơn đề nghị cấp bổ sung, sửa đổi Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu theo Mẫu số 5 tại Phụ lục kèm theo Nghị định số 83/2014/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Các tài liệu chứng minh yêu cầu bổ sung, sửa đổi.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản gốc Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu đã được cấp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số điều của Nghị định số 95/2021/NĐ-CP ngày 01 tháng 11 năm 2021 và Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu (80/2023/NĐ-CP)
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Sửa đổi, bổ sung một số điều của Thông tư số 38/2014/TT-BCT ngày 24 tháng 10 năm 2014 của Bộ trưởng Bộ Công Thương quy định chi tiết một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu (17/2021/TT-BCT)
+  * Quy định chi tiết một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu (38/2014/TT-BCT)
+  * Nghị định 83/2014/NĐ-CP (83/2014/NĐ-CP)
+  * Sửa đổi, bổ sung, bãi bỏ một số quy định tại các Thông tư quy định về kinh doanh xăng dầu (18/2025/TT-BCT)
+  * Sửa đổi, bổ sung một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 về kinh doanh xăng dầu (95/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Thương nhân kinh doanh xăng dầu đã được cấp Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu.
+Từ khóa: Không có thông tin
+Mô tả: Thương nhân kinh doanh xăng dầu đã được cấp Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu.

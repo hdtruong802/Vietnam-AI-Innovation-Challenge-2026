@@ -1,0 +1,44 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001201
+Số quyết định: 2628/QĐ-BTC
+Tên thủ tục: Thủ tục hải quan đối với hàng hóa từ kho ngoại quan đưa vào nội địa hoặc nhập khẩu vào khu phi thuế quan
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+    Bước 1: Thực hiện việc kê khai thông tin hàng hóa xuất kho ngoại quan với Chi cục Hải quan quản lý kho ngoại quan. Cụ thể: Cập nhật thông tin hàng hóa xuất kho ngoại quan vào phần mềm quản lý hàng hóa nhập, xuất kho ngoại quan của chủ kho ngoại quan và chia sẻ các thông tin trên với cơ quan hải quan để quản lý, theo dõi.
+    Bước 2: Thực hiện các công việc theo quy định tại điểm a khoản 2 Điều 52 Thông tư 38/2015/TT-BTC tại Chi cục Hải quan quản lý kho ngoại quan, cụ thể:
+    - Đối với hàng hóa nhập khẩu đã được thông quan hoặc giải phóng hàng hoặc đưa hàng về bảo quản hoặc đưa hàng về địa điểm kiểm tra hoặc hoặc hàng hóa đã được phê duyệt vận chuyển độc lập hoặc hàng hóa nhập khẩu được miễn thuế, không chịu thuế, có số tiền thuế phải nộp bằng không hoặc được ân hạn thuế 275 ngày do Chi cục Hải quan cửa khẩu kiểm tra thực tế (kiểm hóa hộ) theo đề nghị của Chi cục Hải quan nơi đăng ký tờ khai: Cung cấp thông tin số tờ khai hải quan, danh sách container theo mẫu số 29/DSCT/GSQL Phụ lục V (đối với hàng hóa vận chuyển bằng container) hoặc danh sách hàng hóa theo mẫu số 30/DSHH/GSQL Phụ lục V (đối với hàng hóa khác) hoặc Thông báo phê duyệt khai báo vận chuyển cho doanh nghiệp kinh doanh cảng, kho, bãi tại khu vực cửa khẩu, cảng biển, cảng hàng không quốc tế, kho hàng không kéo dài hoặc cho cơ quan hải quan tại khu vực cửa khẩu đường bộ, đường sông, đường thủy nội địa, ga đường sắt liên vận quốc tế.
+    Người khai hải quan thực hiện in danh sách container, danh sách hàng hóa trên Cổng thông tin điện tử hải quan (địa chỉ: http://www.customs.gov.vn) hoặc hệ thống khai của người khai hải quan. Trường hợp có sự thay đổi danh sách container, danh sách hàng hóa so với nội dung khai trên tờ khai hải quan khi người khai hải quan nhận hàng hóa tại cửa khẩu nhập, người khai hải quan in hoặc đề nghị công chức hải quan tại Chi cục Hải quan cửa khẩu in danh sách container, danh sách hàng hóa từ Hệ thống;
+    - Đối với hàng hóa nhập khẩu đưa ra khỏi khu vực cảng, cửa khẩu thuộc diện phải niêm phong hải quan theo quy định tại khoản 3 Điều 52 Thông tư 38/2015/TT-BTC:
+    + Xuất trình hàng hóa cho cơ quan hải quan thực hiện niêm phong;
+    + Bàn giao hàng hóa cho Chi cục Hải quan nơi hàng hóa được vận chuyển đến để làm tiếp thủ tục hải quan theo quy định;
+    + Bảo quản nguyên trạng hàng hóa và niêm phong hải quan theo quy định hiện hành.
+    - Trường hợp doanh nghiệp kinh doanh kho, bãi, cảng chưa có Hệ thống công nghệ thông tin đảm bảo tiêu chuẩn theo quy định để quản lý, giám sát hàng hóa xuất khẩu, nhập khẩu đưa vào lưu giữ, đưa ra khỏi khu vực cảng, kho, bãi thì người khai hải quan cung cấp thông tin số tờ khai, danh sách container, danh sách hàng hóa cho cơ quan hải quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Thành phần hồ sơ ]
+    - không quy định
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Không có thông tin
+Căn cứ pháp lý:
+  * Quy định về thủ tục hải quan; kiểm tra, giám sát hải quan; thuế xuất khẩu thuế nhập khẩu và quản lý thuế đối vớỉ hàng hoá xuất khẩu, nhập khẩu. (38/2015/TT-BTC)
+  * Luật 54/2014/QH13 (54/2014/QH13)
+  * Nghị định 08/2015/NĐ-CP (08/2015/NĐ-CP)
+  * Hướng dẫn thủ tục hải quan đối với hoạt động xuất, nhập xăng dầu, nguyên liệu để pha chế xăng dầu và hoạt động pha chế chuyển đổi chủng loại xăng dầu tại kho ngoại quan xăng dầu (106/2016/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

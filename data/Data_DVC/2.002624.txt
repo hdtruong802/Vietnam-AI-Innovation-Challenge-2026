@@ -1,0 +1,79 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002624
+Số quyết định: 647/QĐ-BXD
+Tên thủ tục: Chấp thuận đề xuất thực hiện nạo vét đường thủy nội địa địa phương
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * a) Nộp hồ sơ TTHC:
+    Thủ tục chấp thuận đề xuất thực hiện nạo vét đường thủy nội địa địa phương.
+    Tổ chức, doanh nghiệp có nhu cầu tự thực hiện nạo vét đường thủy nội địa địa
+    phương (bao gồm cả nạo vét cơ bản, nạo vét duy tu và nạo vét khẩn cấp) bằng kinh
+    phí của tổ chức, doanh nghiệp (không kết hợp thu hồi sản phẩm), gửi trực tiếp hoặc
+    qua bưu chính hoặc qua hệ thống dịch vụ công trực tuyến 01 (một) văn bản đề xuất
+    theo Mẫu quy định tại Phụ lục III ban hành kèm theo Nghị định số 57/2024/NĐCP đến Ủy ban nhân dân cấp tỉnh.
+  * b) Giải quyết TTHC:
+    Căn cứ chiến lược, quy hoạch, kế hoạch, giải
+    pháp huy động vốn phát triển kết cấu hạ tầng đường thủy nội địa địa phương được
+    cấp có thẩm quyền phê duyệt và khả năng cân đối nguồn vốn ngân sách nhà nước
+    để nạo vét tuyến luồng, Ủy ban nhân dân cấp tỉnh xem xét hồ sơ và có văn bản chấp
+    thuận trong vòng 05 (năm) ngày làm việc kể từ ngày nhận được văn bản đề xuất
+    của tổ chức, doanh nghiệp. Trường hợp không chấp thuận, Ủy ban nhân dân cấp
+    tỉnh có văn bản trả lời tổ chức, doanh nghiệp và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Căn cứ chiến lược, quy hoạch, kế hoạch, giải
+pháp huy động vốn phát triển kết cấu hạ tầng đường thủy nội địa địa phương được
+cấp có thẩm quyền phê duyệt và khả năng cân đối nguồn vốn ngân sách nhà nước
+để nạo vét tuyến luồng, Ủy ban nhân dân cấp tỉnh xem xét hồ sơ và có văn bản chấp
+thuận trong vòng 05 (năm) ngày làm việc kể từ ngày nhận được văn bản đề xuất
+của tổ chức, doanh nghiệp. Trường hợp không chấp thuận, Ủy ban nhân dân cấp
+tỉnh có văn bản trả lời tổ chức, doanh nghiệp và nêu rõ lý do.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Căn cứ chiến lược, quy hoạch, kế hoạch, giải
+pháp huy động vốn phát triển kết cấu hạ tầng đường thủy nội địa địa phương được
+cấp có thẩm quyền phê duyệt và khả năng cân đối nguồn vốn ngân sách nhà nước
+để nạo vét tuyến luồng, Ủy ban nhân dân cấp tỉnh xem xét hồ sơ và có văn bản chấp
+thuận trong vòng 05 (năm) ngày làm việc kể từ ngày nhận được văn bản đề xuất
+của tổ chức, doanh nghiệp. Trường hợp không chấp thuận, Ủy ban nhân dân cấp
+tỉnh có văn bản trả lời tổ chức, doanh nghiệp và nêu rõ lý do.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Căn cứ chiến lược, quy hoạch, kế hoạch, giải
+pháp huy động vốn phát triển kết cấu hạ tầng đường thủy nội địa địa phương được
+cấp có thẩm quyền phê duyệt và khả năng cân đối nguồn vốn ngân sách nhà nước
+để nạo vét tuyến luồng, Ủy ban nhân dân cấp tỉnh xem xét hồ sơ và có văn bản chấp
+thuận trong vòng 05 (năm) ngày làm việc kể từ ngày nhận được văn bản đề xuất
+của tổ chức, doanh nghiệp. Trường hợp không chấp thuận, Ủy ban nhân dân cấp
+tỉnh có văn bản trả lời tổ chức, doanh nghiệp và nêu rõ lý do.
+
+Thành phần hồ sơ:
+  [ Thành phần hồ sơ: ]
+    - - Văn bản đề xuất thực hiện nạo vét đường thủy nội địa địa phương.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Ủy ban nhân dân cấp tỉnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Kết quả thực hiện TTHC: Văn bản chấp thuận.
+Căn cứ pháp lý:
+  * về quản lý hoạt động nạo vét trong vùng nước cảng biển và vùng nước đường thủy nội địa. (57/2024/NĐ-CP)
+  * Giao thông đường thủy nội địa (23/2004/QH11)
+  * sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quản lý của Bộ Xây dựng (14/2026/NĐ-CP)
+  * Bộ luật Hàng hải Việt Nam (95/2015/QH13)
+  * sửa đổi, bổ sung một số Điều của Luật 23/2004/QH11 2004 (48/2014/QH13)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

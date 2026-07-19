@@ -1,0 +1,35 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000143
+Số quyết định: 2065/QĐ-BTC
+Tên thủ tục: Thông báo hủy tờ khai quá cảnh hải quan
+Cấp thực hiện: Không có thông tin
+Loại thủ tục: OTHER
+Lĩnh vực: Hải quan
+Trình tự thực hiện:
+  * hủy tờ khai quá cảnh hải quan
+    Bước 1: Người khai hải quan gửi đề nghị hủy tờ khai quá cảnh hải quan thông qua Hệ thống ACTS cho cơ quan hải quan điểm đi.
+    Bước 2:  Trong thời hạn 08 giờ làm việc, kể từ khi nhận được đề nghị hủy của người khai hải quan, Chi cục hải quan điểm đi kiểm tra lý do, điều kiện và thông tin đề nghị hủy thông qua Hệ thống ACTS, thực hiện hủy và phản hồi kết quả cho người khai hải quan thông qua Hệ thống ACTS.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 8 HOUR
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Thủ tục huỷ tờ khai hải quan ]
+    - Không có.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Chi cục Hải quan khu vực
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo hủy tờ khai
+Căn cứ pháp lý:
+  * Nghị định số 46/2020/NĐ-CP (46/2020)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,66 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000526
+Số quyết định: 7886/QĐ-BCA
+Tên thủ tục: Công bố cơ sở cai nghiện  ma túy tự nguyện, cơ sở cai nghiện ma túy công lập đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Tổ chức cai nghiên ma túy và quản lý sau cai nghiện
+Trình tự thực hiện:
+    Bước 1: Nộp hồ sơ
+    Cơ sở cai nghiện ma túy tự nguyện, cơ sở cai nghiện ma túy công lập gửi 01 bộ hồ sơ theo quy định tại Khoản 1 Điều 17 Nghị định số 116/2021/NĐ-CP đến Công an cấp tỉnh nơi tổ chức đóng trụ sở. Trường hợp gửi hồ sơ theo phương thức điện tử thì cơ sở cai nghiện ma túy tự nguyện, cơ sở cai nghiện ma túy công lập có trách nhiệm lưu giữ toàn bộ bản gốc của hồ sơ và chịu trách nhiệm trước pháp luật về tính chính xác, trung thực của hồ sơ.
+    Bước 2: Tiếp nhận hồ sơ
+    Công an cấp tỉnh tiếp nhận hồ sơ trong giờ làm việc, nếu hồ sơ chưa hợp lệ phải cấp ngay phiếu hướng dẫn cho người nộp hồ sơ.
+    Bước 3: Tổ chức thẩm định
+    Giám đốc Công an cấp tỉnh có trách nhiệm tổ chức thẩm định hồ sơ, thẩm định các điều kiện công bố.
+    Bước 4: Quyết định công bố/không công bố
+    Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được hồ sơ đăng ký hợp lệ, Giám đốc Công an cấp tỉnh tổ chức thẩm định và công bố cơ sở cai nghiện ma túy tự nguyện, cơ sở cai nghiện ma túy công lập đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng. Trường hợp không đủ điều kiện công bố phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Gửi trực tiếp, qua bưu điện hoặc qua phương thức điện tử đến Công an cấp tỉnh nơi tổ chức đóng trụ sở hoặc nơi cá nhân cư trú. 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Gửi trực tiếp, qua bưu điện hoặc qua phương thức điện tử đến Công an cấp tỉnh nơi tổ chức đóng trụ sở hoặc nơi cá nhân cư trú. 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: Gửi trực tiếp, qua bưu điện hoặc qua phương thức điện tử đến Công an cấp tỉnh nơi tổ chức đóng trụ sở hoặc nơi cá nhân cư trú. 10 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị công bố (công bố lại) đủ điều kiện cung cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng của tổ chức, cá nhân  đề nghị theo Mẫu số 13 Phụ lục II Nghị định số 116/2021/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản lý lịch tóm tắt của người đứng đầu hoặc người đại diện theo pháp luật của cơ sở cung cấp  dịch vụ theo Mẫu số 04 Phụ lục II Nghị định số 116/2021/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản dự kiến quy trình cung  cấp dịch vụ cai nghiện ma túy tự nguyện tại gia đình, cộng đồng.
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - 01 bản chính danh sách nhân viên của cơ sở cai nghiện ma túy/cơ sở cung cấp dịch vụ cai nghiện ma túy tự nguyện  theo Mẫu số 03 Phụ lục II Nghị định số 116/2021/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - 01 bản sao văn bằng, chứng  chỉ
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Tài liệu chứng minh bảo đảm đủ các điều kiện cơ sở vật chất, trang thiết bị cung cấp dịch vụ  theo quy định tại Khoản 2 Điều 16 Nghị định số 116/2021/NĐ-CP;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Bản sao  quyết định thành lập;
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Giấy phép hoạt động cai  nghiện ma túy tự nguyện đối với cơ sở cai nghiện ma túy tự nguyện.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Công an cấp Tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Giám đốc Công an cấp tỉnh công bố (công bố lại) cơ sở đủ điều kiện cung cấp dịch vụ cai nghiện ma  túy tự nguyện tại gia đình, cộng đồng.
+Căn cứ pháp lý:
+  * Nghị định số 184/2025/NĐ-CP của Chính phủ: Quy định phân định thẩm quyền khi tổ chức chính quyền địa phương 02 cấp và sửa đổi, bổ sung một số điều của các Nghị định của Chính phủ trong lĩnh vực an ninh, trật tự (184/2025/NĐ-CP)
+  * QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT PHÒNG, CHỐNG MA TÚY, LUẬT XỬ LÝ VI PHẠM HÀNH CHÍNH VỀ CAI NGHIỆN MA TÚY VÀ QUẢN LÝ SAU CAI NGHIỆN MA TÚY (116/2021/NĐ-CP)
+  * Luật Phòng, chống ma túy số 73/2021/QH14 (73/2021/QH14)
+
+Yêu cầu, điều kiện thực hiện: - Đã được cấp Giấy phép hoạt động cai nghiện ma túy tự nguyện đối với Cơ sở cai nghiện ma túy tự nguyện.
+- Đủ điều kiện quy định tại Điều 16 Nghị định số 116/2021/NĐ-CP đối với cơ sở cai nghiện ma túy công lập.
+Từ khóa: Không có thông tin
+Mô tả: - Đã được cấp Giấy phép hoạt động cai nghiện ma túy tự nguyện đối với Cơ sở cai nghiện ma túy tự nguyện.
+- Đủ điều kiện quy định tại Điều 16 Nghị định số 116/2021/NĐ-CP đối với cơ sở cai nghiện ma túy công lập.

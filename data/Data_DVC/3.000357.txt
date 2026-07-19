@@ -1,0 +1,37 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000357
+Số quyết định: 1025/QĐ-BCA
+Tên thủ tục: Thu hồi giấy phép sát hạch của trung tâm sát hạch lái xe loại 1, loại 2
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Sát hạch, cấp giấy phép lái xe
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    b) Giải quyết TTHC:
+    - Trong thời hạn 05 ngày làm việc kể từ ngày phát hiện hành vi vi phạm quy định hoặc giải thể hoạt động sát hạch, Cục Cảnh sát giao thông ban hành quyết định thu hồi giấy phép sát hạch, thông báo đến các cơ quan liên quan để phối hợp thực hiện và công bố trên Trang thông tin điện tử.
+    - Trung tâm sát hạch lái xe phải nộp lại giấy phép sát hạch cho Cục Cảnh sát giao, đồng thời dừng toàn bộ hoạt động sát hạch lái xe theo giấy phép đã bị thu hồi ngay sau khi quyết định có hiệu lực.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Giấy phép sát hạch đã được cấp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo tình hình hoạt động của các Trung tâm sát hạch hoặc biên bản vi phạm hoặc Quyết định giải thể
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục cảnh sát giao thông
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thu hồi giấy phép sát hạch.
+Căn cứ pháp lý:
+  * Quy định về hoạt động đào tạo và sát hạch lái xe. (160/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

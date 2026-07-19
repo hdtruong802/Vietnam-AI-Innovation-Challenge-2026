@@ -28,7 +28,7 @@
 - API/contract: giu nguyen DTO; tai su dung `fixture_mode` de phan biet demo content.
 - Khong cham: raw data, RAG source, LLM, cloud/CI/CD, `.env`.
 - Risk: `shared` vi anh huong demo flow.
-- Decision Log: D-006, D-013 production hardening, D-014 synthetic demo; them D-016 cho ngoai le fixture presentation.
+- Decision Log: D-006, D-013 production hardening, D-014 synthetic demo; them D-023 cho ngoai le fixture presentation.
 
 ## Context duoc chon loc
 
@@ -57,6 +57,6 @@
   - `npm run typecheck`: passed sau `next typegen`.
   - `python scripts/ci/validate_repo.py`: blocked boi hai native hook ton tai san tren base `.codex/hooks.json`, `.cursor/hooks.json`.
   - `npm install`: baseline lock co `@eslint-community/eslint-utils@4.9.1` chi cho AIX; tests dung junction local toi dependencies da cai, khong sua lockfile.
-- Files/API/resources da cham: backend checklist/trust/config syntax; frontend reducer/checklist/trust/precheck; tests; D-016.
+- Files/API/resources da cham: backend checklist/trust/config syntax; frontend reducer/checklist/trust/precheck; tests; D-023.
 - Claims da release: source claim release sau commit/merge local.
 - Viec tiep theo: merge local commit vao `cao`, giu nguyen local change `backend/app/config.py` tai worktree chinh, sau do user test click ba fixture procedure.

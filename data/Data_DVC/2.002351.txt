@@ -1,0 +1,65 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002351
+Số quyết định: 4082/QĐ-BCA-QLXNC
+Tên thủ tục: Thủ tục: Kiểm tra, xét duyệt nhân sự, cấp phép nhập cảnh cho người nước ngoài nhập cảnh vào Việt Nam qua giao dịch điện tử tại Cổng thông tin điện tử về xuất nhập cảnh
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Quản lý xuất nhập cảnh
+Trình tự thực hiện:
+    Bước 1: Cơ quan, tổ chức mời, bảo lãnh truy cập Cổng thông tin điện tử về xuất nhập cảnh (có tên miền tiếng Việt là “https://www.xuatnhapcanh.gov.vn”, tiếng Anh là “https://www.immigration.gov.vn”) hoặc Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an, sử dụng tài khoản định danh điện tử của cơ quan, tổ chức được cấp đăng nhập vào mục khai để nhập thông tin của người nước ngoài theo các trường thông tin được yêu cầu trên Trang giao dịch điện tử thuộc Cổng thông tin điện tử về xuất nhập cảnh  hoặc Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an
+    Bước 2: Cơ quan, tổ chức có chữ ký điện tử theo quy định tại Luật Giao dịch điện tử, sử dụng chữ ký điện tử để xác nhận thông tin đề nghị
+    Bước 3: Nộp hồ sơ:
+    - Sau khi sử dụng chữ ký điện tử để xác nhận thông tin đề nghị và thanh toán khoản cước phí để thực hiện việc thông báo cho cơ quan có thẩm quyền cấp thị thực của Việt Nam ở nước ngoài (nếu đề nghị thông báo cho cơ quan có thẩm quyền cấp thị thực của Việt Nam ở nước ngoài cấp thị thực) thì hệ thống tự động đẩy dữ liệu về Cục Quản lý xuất nhập cảnh
+    * Thời gian nộp hồ sơ: 24 giờ/07 ngày
+    Bước 4: Trả kết quả:
+    - Cơ quan, tổ chức truy cập vào Trang giao dịch điện tử thuộc Cổng thông tin điện tử về xuất nhập cảnh hoặc Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an để kiểm tra kết quả giải quyết, trường hợp được cấp phép nhập cảnh thì thông báo cho người nước ngoài để làm thủ tục nhận thị thực tại cơ quan có thẩm quyền cấp thị thực của Việt Nam ở nước ngoài hoặc làm thủ tục nhận thị thực tại cửa khẩu quốc tế
+    - Thời gian: Từ thứ 2 đến sáng thứ 7 hàng tuần (trừ ngày Tết, ngày lễ)
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ trực tuyến qua Trang giao dịch điện tử thuộc Cổng thông tin điện tử về xuất nhập cảnh hoặc Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an (có chữ ký điện tử theo quy định tại Luật Giao dịch điện tử)
+Không quá 03 ngày làm việc kể từ khi nhận đủ hồ sơ đối với trường hợp người nước ngoài được nhận thị thực tại cửa khẩu quốc tế.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ trực tuyến qua Trang giao dịch điện tử thuộc Cổng thông tin điện tử về xuất nhập cảnh hoặc Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an (có chữ ký điện tử theo quy định tại Luật Giao dịch điện tử)
+Không quá 05 ngày làm việc, kể từ khi nhận đủ hồ sơ đối với trường hợp người nước ngoài nhận thị thực tại cơ quan có thẩm quyền cấp thị thực của Việt Nam ở nước ngoài.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 HOUR
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Nộp hồ sơ trực tuyến qua Trang giao dịch điện tử thuộc Cổng thông tin điện tử về xuất nhập cảnh hoặc Cổng dịch vụ công quốc gia, Cổng dịch vụ công Bộ Công an (có chữ ký điện tử theo quy định tại Luật Giao dịch điện tử)
+Không quá 12 giờ làm việc kể từ khi nhận đủ hồ sơ đối với các trường hợp được nhận thị thực tại cửa khẩu quốc tế quy định tại điểm đ, e khoản 1 Điều 18 Luật số 47/2014/QH13 ngày 16/6/2014.
+
+Thành phần hồ sơ:
+    - Công văn đề nghị xét duyệt, kiểm tra nhân sự người nước ngoài nhập cảnh (NA2).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Số lượng hồ sơ: 01 (một) bộ.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục quản lý xuất nhập cảnh
+Cơ quan có thẩm quyền: Cục quản lý xuất nhập cảnh
+Địa chỉ tiếp nhận HS: Cơ quan, tổ chức mời, bảo lãnh truy cập Cổng thông tin điện tử về xuất nhập cảnh (có tên miền tiếng Việt là “https://www.xuatnhapcanh.gov.vn”, tiếng Anh là “https://www.immigration.gov.vn”),
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công văn trả lời đề nghị xét duyệt nhân sự người nước ngoài nhập cảnh (NB1), Công văn trả lời đề nghị cấp thị thực tại cửa khẩu quốc tế (NB3), Công văn trả lời đề nghị kiểm tra nhân sự người nước ngoài nhập cảnh (NB2)
+Căn cứ pháp lý:
+  * Luật Xuất cảnh, nhập cảnh của công dân Việt Nam và Luật Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam sửa đổi 2023 (23/2023/QH15)
+  * Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam (47/2014/QH13)
+  * Quy định mẫu giấy tờ liên quan đến việc nhập cảnh, xuất cảnh, cư trú của người nước ngoài tại Việt Nam (04/2015/TT-BCA)
+  * Nghị định số 118/2025/NĐ-CP của Chính phủ: Về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia (118/2025/NĐ-CP)
+  * Nghị định số 327/2025/NĐ-CP ngày 18/12/2025 của Chính phủ quy định về chính sách nhập cảnh, xuất cảnh, cư trú đối với người nước ngoài tại Trung tâm tài chính quốc tế tại Việt Nam (327/2025/NĐ-CP)
+  * Nghị quyết số 222/2025/QH15 (222/2025/QH15)
+  * Nghị quyết 66.7/2025/NQ-CP (66.7/2025/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: + Trước khi làm thủ tục mời, bảo lãnh người nước ngoài nhập cảnh Việt Nam, cơ quan, tổ chức cần phải có văn bản thông báo cho Cục Quản lý xuất nhập cảnh, Bộ Công an, kèm theo Hồ sơ gồm: Bản sao chứng thực giấy phép hoặc quyết định của cơ quan có thẩm quyền về việc thành lập tổ chức; văn bản giới thiệu con dấu, chữ ký của người có thẩm quyền của tổ chức.
++ Người nước ngoài, người Việt Nam mang hộ chiếu nước ngoài không được cấp phép nhập cảnh Việt Nam nếu thuộc diện “chưa cho nhập cảnh” theo quy định của pháp luật Việt Nam.
++ Có tài khoản điện tử do Cơ quan quản lý xuất nhập cảnh cấp.
++ Chữ ký điện tử theo quy định của Luật giao dịch điện tử.
+Từ khóa: Kiểm tra, xét duyệt nhân sự, cấp phép nhập cảnh cho người nước ngoài nhập nhập cảnh cảnh vào Việt Nam qua giao dịch điện tử tại Cổng thông tin điện tử về xuất nhập cảnh
+Mô tả: + Trước khi làm thủ tục mời, bảo lãnh người nước ngoài nhập cảnh Việt Nam, cơ quan, tổ chức cần phải có văn bản thông báo cho Cục Quản lý xuất nhập cảnh, Bộ Công an, kèm theo Hồ sơ gồm: Bản sao chứng thực giấy phép hoặc quyết định của cơ quan có thẩm quyền về việc thành lập tổ chức; văn bản giới thiệu con dấu, chữ ký của người có thẩm quyền của tổ chức.
++ Người nước ngoài, người Việt Nam mang hộ chiếu nước ngoài không được cấp phép nhập cảnh Việt Nam nếu thuộc diện “chưa cho nhập cảnh” theo quy định của pháp luật Việt Nam.
++ Có tài khoản điện tử do Cơ quan quản lý xuất nhập cảnh cấp.
++ Chữ ký điện tử theo quy định của Luật giao dịch điện tử.

@@ -1,0 +1,45 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002170
+Số quyết định: 1707/QD-BTC
+Tên thủ tục: Phê chuẩn/thay đổi sản phẩm bảo hiểm nông nghiệp
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Bảo hiểm
+Trình tự thực hiện:
+    - Doanh nghiệp bảo hiểm gửi 01 bộ hồ sơ đề nghị Bộ Tài chính phê chuẩn/thay đổi sản phẩm nông nghiệp.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đủ hồ sơ hợp lệ, Bộ Tài chính tổng hợp, xin ý kiến của Bộ Nông nghiệp và Phát triển nông thôn về đề nghị phê chuẩn sản phẩm bảo hiểm nông nghiệp của doanh nghiệp bảo hiểm.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản đề nghị của Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn có văn bản tham gia ý kiến về đề nghị phê chuẩn sản phẩm bảo hiểm nông nghiệp của doanh nghiệp bảo hiểm.
+    - Trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản tham gia ý kiến của Bộ Nông nghiệp và Phát triển nông thôn, căn cứ hồ sơ đề nghị phê chuẩn sản phẩm bảo hiểm nông nghiệp của doanh nghiệp bảo hiểm, Bộ Tài chính xem xét, có văn bản chấp thuận. Trường hợp từ chối chấp thuận, Bộ Tài chính có văn bản trả lời nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị phê chuẩn sản phẩm theo mẫu quy định tại Phụ lục 7 ban hành kèm theo Nghị định số 58/2018/NĐ-CP
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Công thức, phương pháp và giải trình cơ sở kỹ thuật dùng để tính phí, dự phòng nghiệp vụ của sản phẩm bảo hiểm dự kiến triển khai có xác nhận của chuyên gia tính toán dự phòng và khả năng thanh toán về việc phí bảo hiểm được xây dựng dựa trên số liệu thống kê, bảo đảm khả năng thanh toán của doanh nghiệp bảo hiểm và tương ứng với điều kiện và trách nhiệm bảo hiểm;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Mẫu giấy yêu cầu bảo hiểm, hợp đồng bảo hiểm, tài liệu giới thiệu sản phẩm, tài liệu minh họa bán hàng và các mẫu giấy tờ khác mà bên mua bảo hiểm phải kê khai và ký khi mua bảo hiểm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Quy tắc, điều khoản, biểu phí bảo hiểm của sản phẩm bảo hiểm dự kiến triển khai
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận hoặc từ chối chấp thuận sản phẩm bảo hiểm nông nghiệp
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm (61/2010/QH12)
+  * Kinh doanh bảo hiểm (24/2000/QH10)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

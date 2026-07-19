@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000408
+Số quyết định: 885/QĐ-BCA-C06
+Tên thủ tục: Cấp Giấy phép vận chuyển vũ khí quân dụng, vũ khí thể thao
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo
+Trình tự thực hiện:
+    - Bước 1: Cơ quan, tổ chức, doanh nghiệp chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: Cơ quan, tổ chức, doanh nghiệp nộp hồ sơ tại Cục Cảnh sát quản lý hành chính về trật tự xã hội, Bộ Công an hoặc Phòng Cảnh sát quản lý hành chính về trật tự xã hội, Công an cấp tỉnh.
+    - Bước 3: Khi tiếp nhận hồ sơ, cơ quan có thẩm quyền kiểm tra tính pháp lý, nội dung hồ sơ:
+    + Trường hợp hồ sơ đạt yêu cầu: Cán bộ tiếp nhận hồ sơ phải thông báo bằng văn bản thời gian trả kết quả cho cơ quan, tổ chức, doanh nghiệp đề nghị biết và nhập vào hệ thống phần mềm quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ và pháo.
+    + Trường hợp hồ sơ thiếu thủ tục: Cán bộ tiếp nhận hồ sơ phải trả hồ sơ hoặc thông báo bằng văn bản cho cơ quan, tổ chức, doanh nghiệp đề nghị để bổ sung, hoàn thiện hồ sơ.
+    + Hồ sơ không đạt yêu cầu: Cán bộ tiếp nhận hồ sơ không tiếp nhận và thông báo trả lời trực tiếp hoặc bằng văn bản, nêu rõ lý do không tiếp nhận cho cơ quan, tổ chức, doanh nghiệp đề nghị biết.
+    - Bước 4: Căn cứ theo ngày hẹn trên phiếu tiếp nhận hồ sơ và hẹn trả kết quả để nhận giấy phép vận chuyển vũ khí quân dụng, vũ khí thể thao.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 100000 VNĐ (/giấy.)
+    Mô tả: Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ, cơ quan Công an có thẩm quyền cấp giấy phép vận chuyển; trường hợp không cấp phải trả lời bằng văn bản và nêu rõ lý do.
+
+Thành phần hồ sơ:
+    - Văn bản đề nghị, trong đó ghi rõ tên, địa chỉ cơ quan, tổ chức, doanh nghiệp; lý do; số lượng, chủng loại, nhãn hiệu, nguồn gốc xuất xứ; họ tên, số định danh cá nhân hoặc số hộ chiếu của người đến liên hệ, người điều khiển phương tiện và người áp tải; phương tiện vận chuyển, biển kiểm soát; thời  gian vận chuyển, nơi đi, nơi đến, tuyến đường vận chuyển.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Cán bộ, công chức, viên chức
+Cơ quan thực hiện: Cục cảnh sát quản lý hành chính về trật tự, xã hội, Phòng cảnh sát quản lý hành chính về trật tự xã hội
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép vận chuyển vũ khí quân dụng, vũ khí thể thao
+Căn cứ pháp lý:
+  * Thông tư 23/2019/TT-BTC (23/2019/TT-BTC)
+  * Thông tư quy định chi tiết một số điều của Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (75/2024/TT-BCA)
+  * Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (42/2024/QH15)
+  * Thông tư quy định về biểu mẫu và trình tự cấp giấy phép, thông báo đăng ký khai báo, chứng nhận, chứng chỉ về vũ khí, vật liệu nổ, tiền chất thuốc nổ, công cụ hỗ trợ; thông báo xác nhận khai báo vũ khí thô sơ (77/2024/TT-BCA)
+
+Yêu cầu, điều kiện thực hiện: Việc vận chuyển vũ khí quân dụng, vũ khí thể thao phải đảm bảo các điều kiện quy định tại khoản 1 Điều 29 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 ngày 29/6/2024); cụ thể:
+“1. Việc vận chuyển vũ khí quân dụng, vũ khí thể thao thực hiện theo quy định sau đây:
+a) Phải có giấy phép hoặc mệnh lệnh vận chuyển của cơ quan, người có thẩm quyền;
+b) Bảo đảm bí mật, an toàn;
+c) Vận chuyển vũ khí quân dụng, vũ khí thể thao nguy hiểm phải sử dụng phương tiện chuyên dùng và bảo đảm an toàn, phòng cháy và chữa cháy;
+d) Không được chở vũ khí quân dụng, vũ khí thể thao và người trên cùng một phương tiện, trừ người điều khiển phương tiện và người áp tải;
+đ) Không dừng, đỗ phương tiện vận chuyển vũ khí quân dụng, vũ khí thể thao ở nơi đông người, khu vực dân cư, cửa hàng xăng dầu, nơi có công trình quan trọng về quốc phòng, an ninh, kinh tế, văn hóa, ngoại giao. Trường hợp cần nghỉ qua đêm hoặc do sự cố mà không đủ lực lượng bảo vệ thì người điều khiển phương tiện, người áp tải phải thông báo ngay cho cơ quan quân sự hoặc cơ quan Công an nơi gần nhất để phối hợp bảo vệ khi cần thiết.”.
+Từ khóa: Không có thông tin
+Mô tả: Việc vận chuyển vũ khí quân dụng, vũ khí thể thao phải đảm bảo các điều kiện quy định tại khoản 1 Điều 29 Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ (Luật số 42/2024/QH15 ngày 29/6/2024); cụ thể:
+“1. Việc vận chuyển vũ khí quân dụng, vũ khí thể thao thực hiện theo quy định sau đây:
+a) Phải có giấy phép hoặc mệnh lệnh vận chuyển của cơ quan, người có thẩm quyền;
+b) Bảo đảm bí mật, an toàn;
+c) Vận chuyển vũ khí quân dụng, vũ khí thể thao nguy hiểm phải sử dụng phương tiện chuyên dùng và bảo đảm an toàn, phòng cháy và chữa cháy;
+d) Không được chở vũ khí quân dụng, vũ khí thể thao và người trên cùng một phương tiện, trừ người điều khiển phương tiện và người áp tải;
+đ) Không dừng, đỗ phương tiện vận chuyển vũ khí quân dụng, vũ khí thể thao ở nơi đông người, khu vực dân cư, cửa hàng xăng dầu, nơi có công trình quan trọng về quốc phòng, an ninh, kinh tế, văn hóa, ngoại giao. Trường hợp cần nghỉ qua đêm hoặc do sự cố mà không đủ lực lượng bảo vệ thì người điều khiển phương tiện, người áp tải phải thông báo ngay cho cơ quan quân sự hoặc cơ quan Công an nơi gần nhất để phối hợp bảo vệ khi cần thiết.”.

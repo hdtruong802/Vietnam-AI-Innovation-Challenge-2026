@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000606
+Số quyết định: 2618/QĐ-UBND
+Tên thủ tục: Hưởng chính sách về thu nhập, lưu trú đối với các chuyên gia, nhà khoa học làm việc trong lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo trên địa bàn thành phố
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Hoạt động khoa học và công nghệ
+Trình tự thực hiện:
+    Cá nhân nộp hồ sơ về Sở Khoa học và Công nghệ.
+    Sau khi tiếp nhận đầy đủ hồ sơ hợp lệ, Sở Khoa học và Công nghệ thành lập Hội đồng thẩm định để tiến hành thẩm định hồ sơ.
+    Hội đồng thẩm định tổ chức thẩm định và báo cáo kết quả thẩm định gửi Sở Khoa học và Công nghệ.
+    Sở Khoa học và Công nghệ quyết định hỗ trợ.
+    Sở Khoa học và Công nghệ trả kết quả cho cá nhân.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Hội đồng thẩm định: 08 ngày làm việc.
+- Sở Khoa học và Công nghệ: 07 ngày làm việc (bao gồm thời gian thành lập hội đồng và thời gian xem xét kết quả thẩm định của hội đồng và trình UBND thành phố nếu có).
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Hội đồng thẩm định: 08 ngày làm việc.
+- Sở Khoa học và Công nghệ: 07 ngày làm việc (bao gồm thời gian thành lập hội đồng và thời gian xem xét kết quả thẩm định của hội đồng và trình UBND thành phố nếu có).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Hội đồng thẩm định: 08 ngày làm việc.
+- Sở Khoa học và Công nghệ: 07 ngày làm việc (bao gồm thời gian thành lập hội đồng và thời gian xem xét kết quả thẩm định của hội đồng và trình UBND thành phố nếu có).
+
+Thành phần hồ sơ:
+    - Đơn đề nghị hỗ trợ
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hợp đồng lao động với tổ chức, cơ quan nhà nước, đơn vị sự nghiệp công lập, cơ sở giáo dục đại học, doanh nghiệp trên địa thành phố Đà Nẵng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ chứng minh nhân lực đạt điều kiện tại Khoản 2 Điều 4 Nghị quyết số 21/2026/NQ-HĐND (Nếu hưởng chính sách về thu nhập ban đầu, chi phí lưu trú)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hóa đơn, hợp đồng đối với chi phí lưu trú (nếu hưởng chính sách này) và tài liệu chứng minh lưu trú thực tế
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ chứng minh nhân lực có các hoạt động tại điểm c Khoản 3, điểm c Khoản 4 Điều 4 Nghị quyết số 21/2026/NQ-HĐND (Nếu hưởng chính sách về chi phí công bố bài báo khoa học, quyền sở hữu trí tuệ)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy phép lao động hoặc văn bản công nhận người lao động được miễn giấy phép lao động (đối với người nước ngoài)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài cư trú tại Việt Nam
+Cơ quan thực hiện: Sở Khoa học và Công nghệ TP.Đà Nẵng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt hỗ trợ của Sở Khoa học và Công nghệ hoặc văn bản thông báo kết quả xét duyệt hồ sơ đề nghị hỗ trợ.
+Căn cứ pháp lý:
+  * Quy định chính sách phát triển nguồn nhân lực lĩnh vực vi mạch bán dẫn, trí tuệ nhân tạo trên địa bàn thành phố Đà Nẵng (21/2026/NQ-HĐND (thành phố Đà Nẵng))
+
+Yêu cầu, điều kiện thực hiện: Cá nhân đáp ứng tiêu chí, tiêu chuẩn tuyển dụng tại khoản 1, 2 Điều 4 Nghị quyết số 21/2026/NQ-HĐND.
+Từ khóa: Không có thông tin
+Mô tả: Cá nhân đáp ứng tiêu chí, tiêu chuẩn tuyển dụng tại khoản 1, 2 Điều 4 Nghị quyết số 21/2026/NQ-HĐND.

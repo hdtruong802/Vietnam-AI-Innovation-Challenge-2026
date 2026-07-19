@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000371
+Số quyết định: 1171/QĐ-BCA
+Tên thủ tục: Cấp mới giấy phép kiểm soát an ninh cảng hàng không, sân bay có giá trị sử dụng dài hạn
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Bảo đảm an ninh hàng không
+Trình tự thực hiện:
+    a) Nộp hồ sơ thủ tục hành chính:
+    Cơ quan đề nghị cấp giấy phép cho phương tiện nộp 01 bộ hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc trên môi trường điện tử đến Cục Quản lý xuất nhập cảnh, Phòng Quản lý xuất nhập cảnh Công an cấp tỉnh có cảng hàng không, sân bay được giao chủ trì triển khai công tác bảo đảm an ninh hàng không - cơ quan cấp giấy phép.
+    b) Giải quyết thủ tục hành chính:
+    - Trong thời hạn 01 ngày làm việc, kể từ ngày nhận được hồ sơ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan cấp giấy phép thông báo và đề nghị bổ sung hồ sơ theo quy định;
+    - Trong thời hạn 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ và người nộp hồ sơ thực hiện nghĩa vụ nộp phí theo quy định, nếu điều kiện cấp giấy phép phù hợp quy định thì cơ quan cấp giấy phép thực hiện việc cấp giấy phép trực tiếp hoặc qua dịch vụ bưu chính; nếu điều kiện cấp giấy phép không phù hợp quy định, cơ quan cấp giấy phép thông báo bằng văn bản hoặc thông báo trên môi trường điện tử cho cơ quan đề nghị về việc không cấp và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 100 VNĐ (100.000 đồng/lần.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 100 VNĐ (100.000 đồng/lần.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 100 VNĐ (100.000 đồng/lần.)
+
+Thành phần hồ sơ:
+    - Bản sao hoặc bản sao điện tử (đối với trường hợp nộp trên môi trường điện tử) Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường do cơ quan có thẩm quyền cấp còn hiệu lực.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Văn bản đề nghị (Mẫu 1A, Phụ lục IA ban hành kèm theo Thông tư số 14/2026/TT-BCA ngày 03 tháng 02 năm 2026 của Bộ trưởng Bộ Công an quy định chi tiết Chương trình An ninh hàng không và kiểm soát chất lượng An ninh hàng không Việt Nam);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Danh sách phương tiện đề nghị cấp giấy phép kiểm soát an ninh cảng hàng không, sân bay (Mẫu 5A, Phụ lục IA ban hành kèm theo Thông tư số 14/2026/TT-BCA ngày 03 tháng 02 năm 2026 của Bộ trưởng Bộ Công an quy định chi tiết Chương trình An ninh hàng không và kiểm soát chất lượng An ninh hàng không Việt Nam);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Tổ chức nước ngoài
+Cơ quan thực hiện: Công an tỉnh, Cục quản lý xuất nhập cảnh
+Cơ quan có thẩm quyền: Công an tỉnh, Cục quản lý xuất nhập cảnh
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép kiểm soát an ninh cảng hàng không, sân bay có giá trị sử dụng dài hạn
+Căn cứ pháp lý:
+  * LUẬT HÀNG KHÔNG DÂN DỤNG VIỆT NAM (130/2025/QH15)
+  * Thông tư số 31/2025/TT-BCA ngày 21/4/2025 của Bộ trưởng Bộ Công an quy định thẻ, giấy phép, chứng nhận an ninh hàng không (31/2025/TT_BCA)
+  * Về an ninh hàng không (92/2015/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

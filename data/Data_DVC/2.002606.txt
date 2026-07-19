@@ -1,0 +1,60 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002606
+Số quyết định: 1507/QĐ-BCT
+Tên thủ tục: Cấp lại Giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam.
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Xúc tiến thương mại
+Trình tự thực hiện:
+    +) Tổ chức xúc tiến thương mại nước ngoài gửi hồ sơ đề nghị cấp lại Giấy phép đến Sở Công Thương tỉnh, thành phố trực thuộc trung ương (theo quy định tại khoản 1, khoản 1a Điều 28 Nghị định số 28/2018/NĐ-CP, được bố sung tại điểm a khoản 3 của Điều 1 Nghị định số 14/2024/NĐ-CP).
+    +) Sở Công Thương tỉnh, thành phố trực thuộc trung ương có trách nhiệm cấp lại Giấy phép cho tổ chức xúc tiến thương mại nước ngoài. Giấy phép được cấp lại trong trường hợp này có thời hạn trùng với thời hạn của Giấy phép bị mất, cháy, rách, nát hoặc bị tiêu hủy dưới hình thức khác.
+    + Khi nhận được hồ sơ đề nghị cấp lại Giấy phép thành lập Văn phòng đại diện theo quy định tại điểm b khoản 1a Điều 28 Nghị định số 28/2018/NĐ-CP, cơ quan tiếp nhận hồ sơ có văn bản gửi Sở Công Thương tỉnh, thành phố nơi Văn phòng đại diện đang đặt trụ sở xin ý kiến về việc cấp lại Giấy phép. Sở Công Thương tỉnh, thành phố nơi Văn phòng đại diện đang đặt trụ sở trả lời bằng văn bản trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản đề nghị. Trong thời hạn 26 ngày kể từ ngày tiếp nhận đủ hồ sơ đề nghị cấp lại của tổ chức xúc tiến thương mại nước ngoài, Sở Công Thương tỉnh, thành phố cấp lại Giấy phép thành lập Văn phòng đại diện, trường hợp không cấp cơ quan tiếp nhận hồ sơ phải trả lời bằng văn bản và nêu rõ lý do, đồng thời trả lại bản gốc Giấy phép thành lập Văn phòng đại diện đã nộp theo hồ sơ đề nghị cấp lại. Giấy phép được cấp lại trong trường hợp này có thời hạn theo quy định tại khoản 5 Điều 26 Nghị định số 28/2018/NĐ-CP;
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: +) Trong thời hạn 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định tại điểm a khoản 1a Điều28 Nghị định số 28/2018/NĐ-CP, được bổ sung tại điểm a khoản 3 của Điều 1 Nghị định số 14/2024/NĐ-CP;
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 26 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - 26 ngày kể từ ngày tiếp nhận đủ hồ sơ theo quy định tại điểm b khoản 1a Điều28 Nghị định số 28/2018/NĐ-CP, được bố sung tại điểm a khoản 3 của Điều 1 Nghị định số 14/2024/NĐ-CP.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định tại điểm a khoản 1a Điều 28 Nghị định số 28/2018/NĐ-CP, được bổ sung tại điểm a khoản 3 của Điều 1 Nghị định số 14/2024/NĐ-CP.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 26 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - 26 ngày kể từ ngày tiếp nhận đủ hồ sơ theo quy định tại điểm b khoản 1a Điều28 Nghị định số 28/2018/NĐ-CP, được bố sung tại điểm a khoản 3 của Điều 1 Nghị định số 14/2024/NĐ-CP.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - 10 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định tại điểm a khoản 1a Điều 28 Nghị định số 28/2018/NĐ-CP, được bổ sung tại điểm a khoản 3 của Điều 1 Nghị định số 14/2024/NĐ-CP.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 26 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - 26 ngày kể từ ngày tiếp nhận đủ hồ sơ theo quy định tại điểm b khoản 1a Điều28 Nghị định số 28/2018/NĐ-CP, được bố sung tại điểm a khoản 3 của Điều 1 Nghị định số 14/2024/NĐ-CP.
+
+Thành phần hồ sơ:
+    - + 01 văn bản đề nghị Sở Công Thương tỉnh, thành phố trực thuộc trung ương nơi đặt trụ sở Văn phòng đại diện cấp lại Giấy phép thành lập Văn phòng đại diện theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định số 14/2024/NĐ-CP (áp dụng trong trường hợp quy định tại điểm a khoản 1a Điều 28 Nghị định số 28/2018/NĐ-CP, được bố sung tại điểm a khoản 3 của Điều 1 Nghị định số 14/2024/NĐ-CP);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + 01 văn bản đề nghị Sở Công Thương tỉnh, thành phố trực thuộc trung ương nơi dự kiến chuyển trụ sở Văn phòng đại diện đến cấp lại Giấy phép thành lập Văn phòng đại diện theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định số 14/2024/NĐ-CP; bản gốc Giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam đang còn thời hạn hoạt động ít nhất 60 ngày; tài liệu chứng minh đã thực hiện niêm yết công khai tại trụ sở của Văn phòng đại diện và đăng báo viết hoặc báo điện tử được phép phát hành tại Việt Nam trong 03 số liên tiếp về việc chuyển trụ sở của Văn phòng đại diện đến tỉnh, thành phố khác (áp dụng trong trường hợp quy định tại điểm b khoản 1a Điều 28 Nghị định số 28/2018/NĐ-CP, được bố sung tại điểm a khoản 3 của Điều 1 Nghị định số 14/2024/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài
+Cơ quan thực hiện: Sở Công Thương tỉnh, thành phố trực thuộc trung ương.
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Cấp lại Giấy phép thành lập Văn phòng đại diện của tổ chức xúc tiến thương mại nước ngoài tại Việt Nam.
+Căn cứ pháp lý:
+  * Nghị định số 14/2024/NĐ-CP (14/2024/NĐ-CP)
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Nghị định số 230/2026/NĐ-CP ngày 25/6/2026 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 28/2018/NĐ-CP ngày 01/3/2018 của Chính phủ quy định chi tiết Luật quản lý ngoại thương về một số biện pháp phát triển ngoại thương đã được sửa đổi, bổ sung theo Nghị định số 14/2024/NĐ-CP ngày 07/02/2024 của Chính phủ; (230/2026/NĐ-CP)
+  * Quy định chi tiết Luật Quản lý ngoại thương về một số biện pháp phát triển ngoại thương (28/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không quy định
+Từ khóa: Không có thông tin
+Mô tả: Không quy định

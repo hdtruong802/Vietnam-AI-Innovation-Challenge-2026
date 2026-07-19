@@ -56,10 +56,7 @@ def test_fallback_clarification_asks_for_procedure_when_no_evidence(monkeypatch)
 
     assert isinstance(result, ClarificationOutput)
     assert result.needs_clarification is True
-    assert (
-        "phạm vi hỗ trợ" in result.reply_message
-        or "mô tả" in result.reply_message.lower()
-    )
+    assert "phạm vi hỗ trợ" in result.reply_message or "mô tả" in result.reply_message.lower()
 
 
 def test_fallback_clarification_asks_pending_question(monkeypatch):
@@ -98,6 +95,4 @@ def test_fallback_explanation_never_changes_severity_field(monkeypatch):
     )
 
     assert isinstance(result, ExplanationOutput)
-    assert (
-        result.friendly_message == "Họ và tên trẻ là bắt buộc và không được để trống."
-    )
+    assert result.friendly_message == "Họ và tên trẻ là bắt buộc và không được để trống."

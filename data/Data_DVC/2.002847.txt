@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002847
+Số quyết định: 851/QĐ-BKHCN
+Tên thủ tục: Thủ tục đăng ký hỗ trợ sử dụng dịch vụ viễn thông phổ cập
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    1. Doanh nghiệp viễn thông căn cứ hướng dẫn thực hiện chương trình cung cấp dịch vụ viễn thông công ích của Bộ Khoa học và Công nghệ, nhu cầu của đối tượng được hỗ trợ tổng hợp danh sách đối tượng được hỗ trợ sử dụng dịch vụ viễn thông phổ cập. Doanh nghiệp viễn thông có văn bản gửi cơ quan chuyên môn được Uỷ ban nhân dân cấp tỉnh giao nhiệm vụ xác nhận danh sách đối tượng.
+    2. Trong thời hạn 10 ngày làm việc kể từ ngày nhận được danh sách, Cơ quan chuyên môn được Uỷ ban nhân dân cấp tỉnh giao nhiệm vụ hoàn thành việc xác nhận đối tượng đủ điều kiện và thông báo cho doanh nghiệp biết để doanh nghiệp thông báo cho đối tượng sử dụng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Nộp thông qua cổng dịch vụ công trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn).
+-Trong vòng 10 ngày làm việc kể từ ngày nhận được danh sách do doanh nghiệp gửi, Cơ quan chuyên môn được Uỷ ban nhân dân cấp tỉnh giao nhiệm vụ hoàn thành việc xác nhận đối tượng đủ điều kiện được hỗ trợ và có văn bản thông báo cho doanh nghiệp biết để doanh nghiệp thông báo cho đối tượng sử dụng.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Nộp trực tiếp tại Trung tâm phục vụ hành chính công cấp tỉnh.
+-Trong vòng 10 ngày làm việc kể từ ngày nhận được danh sách do doanh nghiệp gửi, Cơ quan chuyên môn được Uỷ ban nhân dân cấp tỉnh giao nhiệm vụ hoàn thành việc xác nhận đối tượng đủ điều kiện được hỗ trợ và có văn bản thông báo cho doanh nghiệp biết để doanh nghiệp thông báo cho đối tượng sử dụng.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Nộp trực tiếp tại Trung tâm phục vụ hành chính công cấp tỉnh.
+-Trong vòng 10 ngày làm việc kể từ ngày nhận được danh sách do doanh nghiệp gửi, Cơ quan chuyên môn được Uỷ ban nhân dân cấp tỉnh giao nhiệm vụ hoàn thành việc xác nhận đối tượng đủ điều kiện được hỗ trợ và có văn bản thông báo cho doanh nghiệp biết để doanh nghiệp thông báo cho đối tượng sử dụng.
+
+Thành phần hồ sơ:
+    - 1. Danh sách đối tượng đăng ký nhận hỗ trợ sử dụng dịch vụ viễn thông phổ cập theo Mẫu số 04 Phụ lục IV Thông tư số 01/2026/TT-BKHCN
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 2. Danh sách đối tượng không đủ điều kiện nhận hỗ trợ sử dụng dịch vụ viễn thông phổ cập theo Mẫu số 04a Phụ lục IV Thông tư số 01/2026/TT-BKHCN
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - 3. Danh sách đối tượng đủ điều kiện nhận hỗ trợ sử dụng dịch vụ viễn thông phổ cập điều chỉnh thông tin theo Mẫu số 04b Phụ lục IV Thông tư số 01/2026/TT-BKHCN
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản xác nhận đối tượng đủ điều kiện được hỗ trợ sử dụng dịch vụ viễn thông phổ cập
+Căn cứ pháp lý:
+  * Hướng dẫn thực hiện một số điều của Nghị định số 295/2025/NĐ-CP ngày 15/11/2025 của Chính phủ quy định chi tiết thi hành Luật Viễn thông về hoạt động viễn thông công ích và cơ chế tài chính thực hiện hoạt động viễn thông công ích. (01/2026/TT-BKHCN)
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+  * quy định chi tiết một số điều của Luật Viễn thông về hoạt động viễn thông công ích và cơ chế tài chính thực hiện hoạt động viễn thông công ích. (295/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002850
+Số quyết định: 753.1/QĐ-BKHCN
+Tên thủ tục: Cấp lại văn bằng, chứng chỉ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Văn bằng, chứng chỉ
+Trình tự thực hiện:
+    a) Người có yêu cầu cấp lại văn bằng, chứng chỉ cung cấp thông tin yêu cầu chỉnh sửa trên cổng dịch vụ công trực tuyến. Trường hợp không thể thực hiện theo dịch vụ công trực tuyến thì gửi trực tiếp hoặc qua dịch vụ bưu chính cho cơ quan có thẩm quyền cấp lại văn bằng, chứng chỉ hồ sơ yêu cầu gồm: Phiếu đề nghị cấp lại văn bằng, chứng chỉ (theo Mẫu tại Phụ lục VI ban hành kèm theo Thông tư số 10/2026/TT-BGDĐT); giấy tờ chứng minh cơ quan cấp văn bằng, chứng chỉ viết sai văn bằng, chứng chỉ;
+    b) Trong thời hạn 03 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền cấp lại văn bằng, chứng chỉ xem xét quyết định việc cấp lại văn bằng, chứng chỉ; nếu không cấp lại thì phải trả lời bằng văn bản nêu rõ lý do;
+    c) Cơ quan cấp lại văn bằng, chứng chỉ sử dụng mẫu văn bằng, chứng chỉ hiện hành để cấp lại văn bằng, chứng chỉ (đối với cấp lại dưới dạng văn bằng, chứng chỉ giấy).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Phiếu đề nghị cấp lại văn bằng, chứng chỉ (theo Mẫu tại Phụ lục VI ban hành kèm theo Thông tư số 10/2026/TT-BGDĐT, đính kèm theo Quyết định này)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tờ chứng minh cơ quan cấp văn bằng, chứng chỉ viết sai văn bằng, chứng chỉ
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Cơ sở giáo dục
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bằng, chứng chỉ (cấp lại)
+Căn cứ pháp lý:
+  * Ban hành Quy chế văn bằng, chứng chỉ của hệ thống giáo dục quốc dân (10/2026/TT-BGDĐT)
+
+Yêu cầu, điều kiện thực hiện: Văn bằng, chứng chỉ đã cấp nhưng phát hiện bị viết sai do lỗi của cơ quan cấp văn bằng, chứng chỉ.
+Từ khóa: Không có thông tin
+Mô tả: Văn bằng, chứng chỉ đã cấp nhưng phát hiện bị viết sai do lỗi của cơ quan cấp văn bằng, chứng chỉ.

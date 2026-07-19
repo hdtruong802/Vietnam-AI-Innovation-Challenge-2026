@@ -1,0 +1,46 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001999
+Số quyết định: 1474/QĐ-BTC
+Tên thủ tục: Thủ tục hỗ trợ tư vấn, hướng dẫn hồ sơ, thủ tục chuyển đổi hộ kinh doanh thành doanh nghiệp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hỗ trợ doanh nghiệp nhỏ và vừa
+Trình tự thực hiện:
+    - Hộ kinh doanh đăng ký chuyển đổi thành doanh nghiệp có nhu cầu tư vấn, hướng dẫn gửi hồ sơ đề nghị hỗ trợ thông qua hình thức trực tiếp hoặc trực tuyến tới Sở Kế hoạch và Đầu tư cấp tỉnh, thành phố trực thuộc trung ương tư vấn, hướng dẫn;
+    - Trong thời hạn 03 ngày làm việc kể từ ngày nhận hồ sơ, Sở Kế hoạch và Đầu tư cấp tỉnh, thành phố trực thuộc trung ương có trách nhiệm tư vấn, hướng dẫn miễn phí các nội dung:
+    +  Trình tự, thủ tục, hồ sơ đăng ký thành lập doanh nghiệp;
+    +  Trình tự, thủ tục, hồ sơ đăng ký chứng nhận đủ điều kiện kinh doanh đối với các ngành nghề kinh doanh có điều kiện (nếu có).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 OTHER
+    Phí, lệ phí: 0 VNĐ (không có)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không có)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 OTHER
+    Phí, lệ phí: 0 VNĐ (Không có)
+
+Thành phần hồ sơ:
+    - - Bản sao hợp lệ chứng từ nộp lệ phí môn bài, các loại thuế và khoản nộp ngân sách nhà nước khác (nếu có), ờ khai thuế trong thời hạn 01 năm trước khi chuyển đổi.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao hợp lệ Giấy chứng nhận đăng ký mã số thuế;
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - - Bản sao hợp lệ Giấy đăng ký kinh doanh của hộ kinh doanh;
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Tài chính các tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký doanh nghiệp
+Căn cứ pháp lý:
+  * Luật 04/2017/QH14 (04/2017/QH14)
+  * Nghị định số 80/2021/NĐ-CP của Chính phủ: Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Hỗ trợ doanh nghiệp nhỏ và vừa (80/2021/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

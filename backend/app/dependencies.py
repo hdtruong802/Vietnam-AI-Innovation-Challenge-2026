@@ -69,9 +69,7 @@ class AppContainer:
             "demo_pack": "demo_approved",
         }[self.settings.procedure_data_mode]
         rag_ready = self.settings.rag_mode == "rag" and source_available
-        llm_ready = self.settings.llm_mode == "gateway" and bool(
-            self.settings.effective_ai_api_key
-        )
+        llm_ready = self.settings.llm_mode == "gateway" and bool(self.settings.effective_ai_api_key)
         return {
             "procedure_data": self.settings.procedure_data_mode,
             "procedure_guidance": procedure_guidance,
@@ -97,9 +95,7 @@ def build_container(settings: Settings) -> AppContainer:
         if settings.app_env == "production":
             raise RuntimeError("Dev fixture mode is not allowed in production.")
         procedure_repository: ProcedureRepository = FixtureProcedureRepository()
-        recommendation_provider: RecommendationProvider = (
-            FixtureRecommendationProvider()
-        )
+        recommendation_provider: RecommendationProvider = FixtureRecommendationProvider()
     elif settings.procedure_data_mode == "demo_pack":
         procedure_repository = DemoPackProcedureRepository()
         recommendation_provider = DemoPackRecommendationProvider()
@@ -111,14 +107,10 @@ def build_container(settings: Settings) -> AppContainer:
         recommendation_provider = DisabledRecommendationProvider()
 
     retrieval_provider: RetrievalProvider = (
-        RagRetrievalProvider()
-        if settings.rag_mode == "rag"
-        else DisabledRetrievalProvider()
+        RagRetrievalProvider() if settings.rag_mode == "rag" else DisabledRetrievalProvider()
     )
     llm_provider: LLMProvider = (
-        GatewayLLMProvider()
-        if settings.llm_mode == "gateway"
-        else DisabledLLMProvider()
+        GatewayLLMProvider() if settings.llm_mode == "gateway" else DisabledLLMProvider()
     )
 
     return AppContainer(

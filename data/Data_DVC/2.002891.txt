@@ -1,0 +1,48 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002891
+Số quyết định: 1181/QĐ-BGDĐT
+Tên thủ tục: Thành lập hoặc cho phép thành lập nhà trẻ, trường mẫu giáo, trường mầm non
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Giáo dục mầm non
+Trình tự thực hiện:
+    a) Tổ chức, cá nhân (nếu đề nghị cho phép thành lập trường mầm non dân lập, tư thục) hoặc nhà đầu tư đề nghị thành lập trường mầm non có vốn đầu tư nước ngoài gửi 01 bộ hồ sơ quy định trực tuyến trên Cổng Dịch vụ công quốc gia hoặc qua dịch vụ bưu chính hoặc trực tiếp đến Trung tâm Phục vụ hành chính công.
+    b) Trong thời hạn 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ, nếu hồ sơ không hợp lệ thì Ủy ban nhân dân cấp xã thông báo bằng văn bản gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc thư điện tử những nội dung cần chỉnh sửa cho cơ quan, tổ chức, cá nhân đề nghị thành lập hoặc cho phép thành lập trường mầm non.
+    c) Trong thời hạn 12 ngày làm việc, kể từ ngày nhận đủ hồ sơ, nếu hồ sơ hợp lệ, Ủy ban nhân dân cấp xã tổ chức thẩm định các điều kiện thành lập hoặc cho phép thành lập trường mầm non; nếu đủ điều kiện thì Chủ tịch Ủy ban nhân dân cấp xã quyết định việc thành lập hoặc cho phép thành lập trường mầm non; nếu chưa đủ điều kiện thì thông báo bằng văn bản gửi trực tiếp hoặc qua dịch vụ bưu chính hoặc thư điện tử cho cơ quan, tổ chức, cá nhân đề nghị thành lập hoặc cho phép thành lập trường mầm non và nêu rõ lý do.
+    Quyết định thành lập hoặc cho phép thành lập trường mầm non (theo Mẫu số 10 Phụ lục II ban hành kèm theo Nghị định số 142/2025/NĐ-CP); Quyết định cho phép thành lập trường mầm non có vốn đầu tư nước ngoài (theo Mẫu số 15 Phụ lục ban hành kèm theo Nghị định số 124/2024/NĐ-CP) được công bố công khai trên các phương tiện thông tin đại chúng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 12 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Tờ trình đề nghị thành lập hoặc cho phép thành lập trường mầm non (theo Mẫu số 01 Phụ lục II kèm theo Nghị định số 142/2025/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đề án thành lập hoặc cho phép thành lập trường mầm non (theo Mẫu số 02 Phụ lục II kèm theo Nghị định số 142/2025/NĐ-CP). Trường hợp trường mầm non chuyển địa điểm hoạt động giáo dục thì trong đề án (theo Mẫu số 02 Phụ lục II kèm theo Nghị định 142/2025/NĐ-CP), trường mầm non phải cam kết kế thừa các quyền, nghĩa vụ và trách nhiệm của trường mầm non đề nghị chuyển địa điểm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Doanh nghiệp Việt Nam, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Chủ tịch Ủy ban nhân dân xã thành lập hoặc cho phép thành lập trường mẫu giáo, trường mầm non, nhà trẻ (theo Mẫu số 10 Phụ lục II ban hành kèm theo Nghị định số 142/2025/NĐ-CP).
+Căn cứ pháp lý:
+  * Nghị định quy định điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục (125/2024/NĐ-CP)
+  * Nghị định số 124/2024/NĐ-CP ngày 05 tháng 10 năm 2024 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 86/2018/NĐ-CP ngày 06 tháng 6 năm 2018 của Chính phủ quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục (124/2024/NĐ-CP)
+  * Nghị quyết số 23/2026/NQ-CP của Chính phủ: Về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính và cắt giảm điều kiện kinh doanh thuộc phạm vi quản lý của Bộ Giáo dục và Đào tạo (23/2026/NQ-CP)
+  * Nghị định số 86/2018/NĐ-CP của Chính phủ: Quy định về hợp tác, đầu tư của nước ngoài trong lĩnh vực giáo dục (86/2018/nđ-cp)
+  * Nghị quyết của Chính phủ quy định cắt giảm, đơn giản hóa thủ tục hành chính, quy định liên quan đến hoạt động sản xuất, kinh doanh (66.16/2026/NQ-CP)
+  * Nghị định số 142/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương hai cấp trong lĩnh vực quản lý nhà nước của Bộ Giáo dục và Đào tạo (Nghị định số 142/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Có đề án thành lập hoặc cho phép thành lập trường mẫu giáo, trường mầm non, nhà trẻ phù hợp với quy hoạch của tỉnh và các quy hoạch liên quan của địa phương nơi trường đặt trụ sở, được lập theo Mẫu số 02 Phụ lục II ban hành kèm theo Nghị định số 142/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương hai cấp trong lĩnh vực quản lý nhà nước của Bộ Giáo dục và Đào tạo.
+Từ khóa: Không có thông tin
+Mô tả: Có đề án thành lập hoặc cho phép thành lập trường mẫu giáo, trường mầm non, nhà trẻ phù hợp với quy hoạch của tỉnh và các quy hoạch liên quan của địa phương nơi trường đặt trụ sở, được lập theo Mẫu số 02 Phụ lục II ban hành kèm theo Nghị định số 142/2025/NĐ-CP ngày 12/6/2025 của Chính phủ quy định về phân định thẩm quyền của chính quyền địa phương hai cấp trong lĩnh vực quản lý nhà nước của Bộ Giáo dục và Đào tạo.

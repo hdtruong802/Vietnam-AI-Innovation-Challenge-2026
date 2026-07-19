@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "record_type": "commit_evidence",
+  "ai_log_id": "log-8dba4ec539ad478db2490585",
+  "created_at": "2026-07-18T23:36:56.706909Z",
+  "member_id": "hdtruong802",
+  "branch": "fix/local-20260719-ai-log-waiver",
+  "parent_commit": "9a88f83669896c4e8e76a6a254f1ba294336c32c",
+  "task_records": [
+    "local-20260719-pr32-merge-readiness"
+  ],
+  "prompt_ids": [],
+  "tools": [],
+  "capture_status": "warning",
+  "warnings": [
+    "manual_prompt_required"
+  ],
+  "operation": "commit",
+  "replaces_ai_log": null
+}

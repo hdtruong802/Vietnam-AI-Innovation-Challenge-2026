@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002865
+Số quyết định: 6412/QĐ-UBND
+Tên thủ tục: Chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    * Bước 1: Nộp hồ sơ
+    Người có yêu cầu nộp hồ sơ bằng hình thức trực tiếp hoặc qua dịch vụ bưu chính công ích đến Trung tâm Phục vụ hành chính công tỉnh Tây Ninh (cơ sở 1 tại địa chỉ: Khối nhà cơ quan 4, đường song hành, Quốc lộ tránh 1A, phường Long An, tỉnh Tây Ninh; cơ sở 2 tại địa chỉ: Số 83, đường Phạm Tung, phường Tân Ninh, tỉnh Tây Ninh); hoặc tại bất kỳ Trung tâm Phục vụ hành chính công cấp xã trên địa bàn tỉnh Tây Ninh; hoặc nộp trực tuyến qua hệ thống dịch vụ công trực tuyến Cổng dịch vụ công quốc gia https://dichvucong.gov.vn/p/home/dvc-dich-vu-cong-truc-tuyen.html.
+    - Công chức tiếp nhận hồ sơ kiểm tra tính đầy đủ, hợp lệ của hồ sơ:
+    + Nếu hồ sơ chưa đầy đủ, chưa hợp lệ thì công chức không tiếp nhận và hướng dẫn cho người nộp hồ sơ bổ sung, hoàn chỉnh hồ sơ theo quy định.
+    + Nếu hồ sơ đầy đủ, hợp lệ thì công chức tiếp nhận lập biên nhận hồ sơ, hẹn ngày trả kết quả cho người nộp hồ sơ.
+    + Chuyển hồ sơ đến Sở Xây dựng; UBND các xã, phường.
+    * Bước 2: Giải quyết hồ sơ
+    - Trong thời hạn 02 ngày làm việc kể từ ngày tiếp nhận cơ quan có thẩm quyền thông báo một lần bằng văn bản tới cá nhân đối với trường hợp hồ sơ thiếu hoặc không hợp lệ;
+    - Trong thời hạn 06 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, cơ quan có thẩm quyền có trách nhiệm ra văn bản chấp thuận;
+    - Tổ chức, cá nhân nhận Giấy chấp thuận qua dịch vụ bưu chính hoặc trực tiếp tại địa điểm nộp hồ sơ.
+    * Bước 3. Trả kết quả
+    - Trung tâm Phục vụ hành chính công đã tiếp nhận hồ sơ thông báo cho người nộp hồ sơ để nhận kết quả và thực hiện các nghĩa vụ có liên quan (nếu có).
+    - Trung tâm Phục vụ hành chính công đã tiếp nhận hồ sơ thực hiện trả kết quả cho người nộp hồ sơ theo hình thức đã đăng ký khi nộp hồ sơ.
+    - Người nộp hồ sơ mang theo Giấy tiếp nhận hồ sơ và hẹn trả kết quả đến Trung tâm Phục vụ hành chính công nơi nhận hồ sơ để được hướng dẫn thực hiện các nghĩa vụ có liên quan (nếu có) và nhận kết quả trực tiếp (hoặc yêu cầu Trung tâm chuyển kết quả qua bưu điện).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 6 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Hồ sơ thiết kế bản vẽ thi công công trình nút giao đấu nối vào đường địa phương đang khai thác, bao gồm: thuyết minh thiết kế, bản vẽ thiết kế nút giao đấu nối và bản vẽ hoàn trả kết cấu hạ tầng đường địa phương, bản vẽ tổ chức giao thông tại nút giao đấu nối, hồ sơ khảo sát địa hình, địa chất; văn bản chấp thuận vị trí đấu nối vào đường địa phương đang khai thác trừ vị trí đấu nối không phải chấp thuận theo quy định tại khoản 5 Điều 3 Quyết định 35/2026/QĐ-UBND tỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị theo quy định tại mẫu số 03 Phụ lục ban hành kèm theo Quyết định 35/2026/QĐ-UBND tỉnh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản giao làm chủ đầu tư dự án xây dựng nút giao đấu nối vào đường địa phương đang khai thác (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp, Công dân Việt Nam
+Cơ quan thực hiện: Sở Xây dựng tỉnh Tây Ninh
+Cơ quan có thẩm quyền: Sở Xây dựng tỉnh Tây Ninh
+Địa chỉ tiếp nhận HS: Trung tâm Phục vụ hành chính công tỉnh Tây Ninh hoặc tại bất kỳ Trung tâm Phục vụ hành chính công cấp xã, phường trên địa bàn tỉnh Tây Ninh
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận nút giao
+Căn cứ pháp lý:
+  * Quy định trình tự, thủ tục chấp thuận thiết kế và trình tự, thủ tục cấp phép thi công nút giao đấu nối vào đường địa phương đang khai thác trên địa bàn tỉnh Tây Ninh (35/ 2026/QĐ-UBND)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

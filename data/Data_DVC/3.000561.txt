@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000561
+Số quyết định: 4824/QĐ-UBND
+Tên thủ tục: Thủ tục Thưởng cho mỗi sản phẩm OCOP đạt hạng 3 sao trở lên
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Kinh tế hợp tác và Phát triển nông thôn
+Trình tự thực hiện:
+    Bước 1:
+    Chủ cơ sở sản xuất kinh doanh có sản phẩm OCOP đạt hạng 3 sao trở lên nộp hồ sơ về Quầy tiếp nhận hồ sơ của Sở Nông nghiệp và PTNT tại Trung tâm Phục vụ hành chính công tỉnh Nghệ An (Địa chỉ số 16, đường Trường Thi, Thành phố Vinh, Nghệ An) vào các ngày làm việc từ thứ Hai đến thứ Sáu hàng tuần.
+    Bước 2:
+    - Trường hợp hồ sơ nộp trực tiếp: Công chức làm việc tại Quầy tiếp nhận hồ sơ của Sở Nông nghiệp và PTNT tại Trung tâm Phục vụ hành chính công tỉnh Nghệ An kiểm tra thành phần hồ sơ: Nếu hồ sơ chưa đúng quy định thì hướng dẫn người nộp hồ sơ bổ sung, hoàn chỉnh theo quy định; nếu hồ sơ đầy đủ, đúng quy định thì nhập đầy đủ thông tin vào Sổ tiếp nhận hồ sơ và trả kết quả và giao Phiếu tiếp nhận hồ sơ và trả kết quả cho người nộp hồ sơ; sau đó chuyển hồ sơ tới Chi cục Phát triển nông thôn Nghệ An.
+    - Trường hợp nộp hồ sơ qua dịch vụ bưu chính, trực tuyến: Trong thời hạn không quá 01 ngày làm việc, công chức làm việc tại Quầy tiếp nhận hồ sơ của Sở Nông nghiệp và PTNT tại Trung tâm Phục vụ hành chính công tỉnh Nghệ An xem xét tính đầy đủ, đúng quy định hồ sơ: Nếu hồ sơ chưa đầy đủ theo quy định thì thông báo bằng văn bản cho tổ chức, cá nhân biết để bổ sung trong đó nêu rõ loại giấy tờ, nội dung cần bổ sung; trường hợp hồ sơ đầy đủ, đúng quy định thì có trách nhiệm ghi vào Sổ tiếp nhận hồ sơ và trả kết quả đồng thời gửi Phiếu tiếp nhận hồ sơ và trả kết quả cho người nộp hồ sơ; sau đó chuyển hồ sơ tới Chi cục Phát triển nông thôn Nghệ An.
+    Bước 3:
+    Trong thời gian 10 ngày làm việc kể từ ngày nhận đủ hồ sơ đúng quy định Chi cục Phát triển nông thôn phải thanh toán cho các đối tượng thụ hưởng và thông báo kết quả đã thanh toán cho Quầy tiếp nhận hồ sơ của Sở Nông nghiệp và PTNT tại Trung tâm Phục vụ Hành chính công tỉnh Nghệ An.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị nhận tiền thưởng của chủ cơ sở sản xuất kinh doanh theo Mẫu đơn đề nghị nhận tiền thưởng của chủ cơ sở sản xuất kinh doanh (Quy định tại mẫu số 03 ban hành kèm theo Nghị quyết số 25/2020/NQ-HĐND ngày 13/12/2020 của Hội đồng nhân dân tỉnh)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao được chứng thực theo quy định của pháp luật hoặc bản chụp kèm theo bản chính để đối chiếu giấy chứng nhận sản phẩm OCOP được công nhận đạt hạng 03 sao trở lên.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Doanh nghiệp Việt Nam, Doanh nghiệp, Hợp tác xã, Công dân Việt Nam
+Cơ quan thực hiện: Chi cục Kinh tế hợp tác và Phát triển nông thôn
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: - Nộp hồ sơ trực tuyến (mức độ Toàn trình) qua Cổng Dịch vụ công quốc gia tại địa chỉ https://dichvucong.gov.vn;
+- Hoặc nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính đến Trung tâm Phục vụ Hành chính công tỉnh, số 16 đường Trường Thi, phường Trường Vinh, tỉnh Nghệ An hoặc Trung tâm Phục vụ Hành chính công các xã, phường trên địa bàn tỉnh.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định
+Căn cứ pháp lý:
+  * Quy định một số chính sách hỗ trợ thực hiện Chương trình mỗi xã một sản phẩm (OCOP) trên địa bàn tỉnh Nghệ An, giai đoạn 2021-2025 (25/2020/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

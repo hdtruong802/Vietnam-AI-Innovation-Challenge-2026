@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000250
+Số quyết định: 2261/QĐ-BNNMT
+Tên thủ tục: Phê duyệt hoặc điều chỉnh phương án quản lý rừng bền vững của chủ rừng là hộ gia đình, cá nhân, cộng đồng dân cư hoặc hộ gia đình cá nhân liên kết thành nhóm hộ, tổ hợp tác trường hợp có tổ chức các hoạt động du lịch sinh thái
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Lâm nghiệp và Kiểm lâm
+Trình tự thực hiện:
+    - Bước 1: Gửi hồ sơ
+    Chủ rừng hoặc người đại diện nhóm hộ, tổ hợp tác nộp 01 bộ hồ sơ đến Ủy ban nhân dân cấp huyện trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường điện tử.
+    - Bước 2: Kiểm tra tính đầy đủ của thành phần hồ sơ
+    Cơ quan có thẩm quyền kiểm tra thành phần hồ sơ và trả lời ngay tính đầy đủ của thành phần hồ sơ đối với hồ sơ nộp trực tiếp; thời hạn không quá 01 ngày làm việc kể từ thời điểm nhận được hồ sơ đối với hồ sơ nộp qua dịch vụ bưu chính hoặc qua môi trường điện tử, trường hợp hồ sơ chưa đầy đủ theo quy định, thông báo cho chủ rừng và nêu rõ lý do.
+    - Bước 3: Lấy ý kiến phương án quản lý rừng bền vững
+    Trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan của người có thẩm quyền theo quy định, lấy ý kiến bằng văn bản của các cơ quan, đơn vị có liên quan về nội dung phương án quản lý rừng bền vững;
+    - Bước 4: Trả lời ý kiến về phương án quản lý rừng bền vững
+    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản lấy ý kiến, các cơ quan, đơn vị có liên quan có trách nhiệm trả lời bằng văn bản;
+    - Bước 5: Tổng hợp ý kiến, trình ban hành Quyết định
+    Trong thời hạn 09 ngày làm việc kể từ ngày nhận được văn bản của các cơ quan, đơn vị được lấy ý kiến, cơ quan của người có thẩm quyền theo quy định hoàn thiện báo cáo kết quả thẩm định theo Mẫu số 06 Phụ lục III ban hành kèm theo Thông tư số 16/2025/TT-NNMT; trình Chủ tịch Ủy ban nhân dân cấp xã phê duyệt phương án quản lý rừng bền vững theo Mẫu số 11 Phụ lục III hoặc phê duyệt điều chỉnh phương án quản lý rừng bền vững theo Mẫu số 12 Phụ lục III ban hành kèm theo Thông tư số 16/2025/TT-NNMT và trả kết quả cho chủ rừng trực tiếp tại bộ phận một cửa hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường điện tử
+    Trường hợp không phê duyệt hoặc điều chỉnh phương án quản lý rừng bền vững phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - - Phương án quản lý rừng bền vững theo Mẫu số 02 Phụ lục III ban hành kèm theo Thông tư số 16/2025/TT-BNNMT;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản chính Tờ trình đề nghị phê duyệt hoặc điều chỉnh phương án quản lý rừng bền vững theo Mẫu số 09 hoặc Mẫu số 10 Phụ lục III ban hành kèm theo Thông tư số 16/2025/TT-BNNMT;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tỷ lệ bản đồ: 1/5.000 hoặc 1/10.000 hoặc 1/25.000 hoặc 1/50.000 theo hệ quy chiếu VN 2000 do chủ rừng tự chọn loại tỷ lệ bản đồ phù hợp với quy mô diện tích của khu rừng.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Bản sao các loại bản đồ:  + Bản đồ hiện trạng rừng theo TCVN 11565:2016;  + Bản đồ hiện trạng sử dụng đất theo quy định của Bộ Nông nghiệp và Môi trường;  Bản đồ quản lý rừng bền vững được áp dụng theo TCVN 11566:2016 thể hiện diện tích các loại rừng được quản lý, bảo vệ, phát triển, sử dụng, bảo tồn đa dạng sinh học, cơ sở hạ tầng lâm sinh, du lịch sinh thái, nghỉ dưỡng, giải trí theo kế hoạch quản lý rừng bền vững của chủ rừng.
+      Số lượng: Bản chính: 1, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Chủ tịch Ủy ban nhân dân xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt hoặc điều chỉnh phê duyêt phương án quản lý rừng bền vững theo Mẫu số 11 hoặc Mẫu số 12 Phụ lục III ban hành kèm theo Thông tư số 16/2025/TT-BNNMT
+Căn cứ pháp lý:
+  * Thông tư quy định phân cấp, phân định thẩm quyền quản lý nhà nước và một số nội dung trong lĩnh vực lâm nghiệp và kiểm lâm. (16/2025/TT-BNNMT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

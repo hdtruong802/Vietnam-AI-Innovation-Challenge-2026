@@ -29,7 +29,7 @@
 - Files/areas: backend app factory/config contract, legacy route tests, backend Dockerfile/.dockerignore, Phase 7 documentation and decision evidence.
 - API/schema/contracts: route availability only; canonical `/v1/intake/turn` and response schemas remain unchanged.
 - Runtime/data: no shared port/provider/cloud resource; Docker build is optional and only allowed without pulling new images.
-- Decision: D-019; user selected Phase 7 Option 1.
+- Decision: D-026; user selected Phase 7 Option 1.
 
 ## Context Selected
 

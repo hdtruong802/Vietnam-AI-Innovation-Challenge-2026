@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000190
+Số quyết định: 867/QĐ-UBND
+Tên thủ tục: Phê duyệt Kế hoạch Hỗ trợ bảo tồn gen, nhân giống tốt và chuyển giao kỹ thuật
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: TTHC được luật giao quy định chi tiết
+Lĩnh vực: Trồng trọt
+Trình tự thực hiện:
+    Bước 1: Sở Nông nghiệp và Môi trường tiếp nhận kiểm tra và thẩm định hồ sơ:
+    - Trường hợp hồ sơ không đủ điều kiện, gửi văn bản tới tổ chức, cá nhân và
+    nêu rõ lý do.
+    - Trường hợp hồ sơ hợp lệ, Sở Nông nghiệp và Môi trường (giao Chi cục Trồng
+    trọt và Bảo vệ thực vật giải quyết) chủ trì, phối hợp với các sở, ngành, Ủy ban nhân
+    dân cấp xã có liên quan tổng hợp, thẩm định nội dung, lập Tờ trình gửi Ủy ban nhân
+    dân tỉnh.
+    Bước 2: Ủy ban nhân dân tỉnh xem xét phê duyệt Kế hoạch hỗ trợ bảo tồn gen,
+    nhân giống tốt và chuyển giao kỹ thuật cho tổ chức, cá nhân có đủ điều kiện và gửi
+    kết quả cho Sở Nông nghiệp và Môi trường để trả cho tổ chức, cá nhân; trường hợp
+    không phê duyệt thì có văn bản thông báo và nêu rõ lý do.
+    Bước 3: Sở Nông nghiệp và Môi trường trả kết quả cho tổ chức, cá nhân theo
+    quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ
+
+Thành phần hồ sơ:
+  [ Đối với tổ chức ]
+    - Kế hoạch bảo tồn gen, nhân giống tốt và chuyển giao kỹ thuật theo Mẫu số 04a/HD-UBND Hướng dẫn số 51/HD-UBND ngày 12/01/2021 của Ủy ban nhân dân tỉnh Hà Giang (trước sáp nhập).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với cá nhân ]
+    - Đơn đăng ký bảo tồn gen, nhân giống tốt và chuyển giao kỹ thuật theo Mẫu số 04b/HD- UBND Hướng dẫn số 51/HD-UBND ngày 12/01/2021 của UBND tỉnh Hà Giang (trước sáp nhập)
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Sở Nông nghiệp và Môi trường tỉnh Tuyên Quang
+Cơ quan có thẩm quyền: UBND tỉnh Tuyên Quang
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt Kế hoạch và dự toán bảo tồn gen, nhân giống tốt và chuyển giao kỹ thuật năm tiếp theo.
+Căn cứ pháp lý:
+  * Nghị quyết số 58/2020/NQ-HĐND ngày 09/12/2020 của Hội đồng nhân dân tỉnh Hà Giang (trước sáp nhập) về chính sách đặc thù hỗ trợ phát triển kinh tế vườn hộ và phát triển bền vững cây cam sành trên địa bàn tỉnh giai đoạn 2021- 2025. (58/2020/NQ-HĐND)
+
+Yêu cầu, điều kiện thực hiện: Có cơ sở lưu giữ
+nguồn giống cam sành S0, S1 được bảo tồn trên địa bàn tỉnh. Nguồn giống được Sở
+Nông nghiệp và Môi trường theo dõi, đánh giá hàng năm.
+Từ khóa: Không có thông tin
+Mô tả: Có cơ sở lưu giữ
+nguồn giống cam sành S0, S1 được bảo tồn trên địa bàn tỉnh. Nguồn giống được Sở
+Nông nghiệp và Môi trường theo dõi, đánh giá hàng năm.

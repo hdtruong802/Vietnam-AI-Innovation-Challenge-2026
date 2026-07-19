@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000477
+Số quyết định: 2072/QĐ-BYT
+Tên thủ tục: Dừng trợ giúp xã hội tại cơ sở trợ giúp xã hội
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Bảo trợ xã hội
+Trình tự thực hiện:
+    - Bước 1: Đối tượng sử dụng dịch vụ hoặc người giám hộ, thân nhân hoặc gia đình, cá nhân nhận chăm sóc, nuôi dưỡng hoặc cha mẹ nuôi (quy định tại các điểm b, c, d và g khoản 2 Điều 30 Nghị định số 20/2021/NĐ-CP) có đơn đề nghị gửi người đứng đầu cơ sở dừng trợ giúp xã hội.
+    - Bước 2: Trong thời hạn 07 ngày làm việc, kể từ khi nhận được đơn, người đứng đầu cơ sở cấp tỉnh quyết định dừng trợ giúp xã hội.
+    - Bước 3: Cơ sở trợ giúp xã hội lập biên bản bàn giao đối tượng về gia đình, cộng đồng có xác nhận của Ủy ban nhân dân cấp xã hoặc thanh lý hợp đồng dịch vụ trợ giúp xã hội.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Đơn đề nghị dừng trợ giúp xã hội (theo Mẫu số 09 ban hành  kèm  theo Nghị định số 20/2021/NĐ-CP).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Cơ sở trợ giúp xã hội
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định Dừng trợ giúp xã hội (BYT)
+Căn cứ pháp lý:
+  * QUY ĐỊNH CHÍNH SÁCH TRỢ GIÚP XÃ HỘI ĐỐI VỚI ĐỐI TƯỢNG BẢO TRỢ XÃ HỘI (20/2021/NĐ-CP)
+  * Nghị định số 42/2025/NĐ-CP của Chính phủ: Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (42/2025/NĐ-CP)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Nghị định số 147/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Y tế (147/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

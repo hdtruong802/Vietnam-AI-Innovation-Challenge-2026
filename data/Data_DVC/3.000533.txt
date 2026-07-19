@@ -1,0 +1,62 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000533
+Số quyết định: 2813/QĐ-UBND
+Tên thủ tục: Thủ tục chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    1. Chủ đầu tư dự án xây dựng nút giao đấu nối vào đường địa phương đang khai thác gửi 01 bộ hồ sơ đề nghị chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác theo hình thức trực tiếp hoặc gián tiếp (qua hệ thống bưu điện hoặc qua cổng dịch vụ công trực tuyến) đến cơ quan có thẩm quyền quy định.
+    2. Cơ quan có thẩm quyền giải quyết thực hiện tiếp nhận, kiểm tra hồ sơ và xử lý như sau:
+    a) Đối với hồ sơ nộp trực tiếp, cơ quan có thẩm quyền thực hiện kiểm tra thành phần hồ sơ, nếu đủ thì tiếp nhận và viết phiếu hẹn trả kết quả, nếu không đủ thì hướng dẫn chủ đầu tư hoàn thiện hồ sơ theo quy định;
+    b) Đối với hồ sơ nộp gián tiếp, trong thời hạn 02 ngày làm việc kể từ ngàynhận được hồ sơ, cơ quan có thẩm quyền kiểm tra thành phần hồ sơ, nếu đủ thìtiếp nhận, nếu không đủ, có văn bản thông báo đến tổ chức, cá nhân để bổ sung, hoàn thiện;
+    c) Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định, cơ quan có thẩm quyền tiến hành xem xét hồ sơ, nếu đủ điều kiện thì có văn bản chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác theo quy định tại mẫu số 02, trường hợp không chấp thuận thì phải có văn bản trả lời và nêu rõ lý do.
+    3. Văn bản chấp thuận thiết kế nút giao đấu nối có thời hạn 18 tháng, hết thời hạn nêu trên mà chủ đầu tư chưa gửi hồ sơ đề nghị cấp phép thi công nút giao đấu nối vào đường địa phương đang khai thác theo quy định hoặc có thay đổi về quy mô nút giao đấu nối thì phải thực hiện lại từ đầu thủ tục chấp thuận thiết kế nút giao.
+    4. Đối với kết nối giao thông thuộc dự án đầu tư xây dựng đường bộ do Thủ tướng Chính phủ, Bộ trưởng Bộ Xây dựng, Chủ tịch Ủy ban nhân dân tỉnh là người có thẩm quyền quyết định đầu tư, việc quyết định thiết kế nút giao đấu nối vào đường địa phương đang khai thác thực hiện trong quyết định phê duyệt dự án và không phải thực hiện quy định tại các khoản 1, 2 và 3 Điều 7 quy định tại Quyết định số 66/2025/QĐ-UBND ngày 12/9/2025.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Chủ đầu tư dự án xây dựng nút giao đấu nối vào đường địa phương đang khai thác gửi 01 bộ hồ sơ đề nghị chấp thuận thiết kế nút giao đấu nối vào
+đường địa phương đang khai thác theo hình thức trực tiếp đến cơ quan có thẩm quyền quy định.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Chủ đầu tư dự án xây dựng nút giao đấu nối vào đường địa phương đang khai thác gửi 01 bộ hồ sơ đề nghị chấp thuận thiết kế nút giao đấu nối vào
+đường địa phương đang khai thác (qua cCổng dịch vụ công quốc gia) đến cơ quan có thẩm quyền quy định.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Chủ đầu tư dự án xây dựng nút giao đấu nối vào đường địa phương đang khai thác gửi 01 bộ hồ sơ đề nghị chấp thuận thiết kế nút giao đấu nối vào
+đường địa phương đang khai thác (qua dịch vụ bưu chính) đến cơ quan có thẩm quyền quy định.
+
+Thành phần hồ sơ:
+    - Đơn đề nghị chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác theo mẫu số 1 Phụ lục ban hành kèm theo Quyết định số 2813/QĐ-UBND ngày 07/11/2025 của Chủ tịch UBND tỉnh Lai Châu ;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ khảo sát, thiết kế bản vẽ thi công công trình nút giao đấu nối vào đường địa phương đang khai thác, bao gồm: Thuyết minh thiết kế, bản vẽ thiết kế nút giao đấu nối và bản vẽ hoàn trả kết cấu hạ tầng đường bộ, bản vẽ tổ chức giao thông tại nút giao đấu nối
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản giao làm chủ đầu tư dự án xây dựng nút giao đấu nối vào đường địa phương đang khai thác
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Xây dựng tỉnh Lai Châu
+Cơ quan có thẩm quyền: Sở Xây dựng tỉnh Lai Châu
+Địa chỉ tiếp nhận HS: Chủ đầu tư dự án xây dựng nút giao đấu nối vào đường địa phương đang khai thác gửi 01 bộ hồ sơ đề nghị chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác theo hình thức trực tiếp hoặc gián tiếp (qua hệ thống bưu điện hoặc qua cổng dịch vụ công trực tuyến) đến cơ quan có thẩm quyền quy định.
+- Sở Xây dựng chấp thuận thiết kế và cấp phép thi công nút giao đấu nối đối với các tuyến đường tỉnh và các tuyến đường bộ được quy định tại khoản 1 Điều 4 Quy định tại Quyết định số 66/2025/QĐ-UBND.
+- Uỷ ban nhân dân xã, phường chấp thuận thiết kế và cấp phép thi công nút giao đấu nối đối với các tuyến đường bộ được quy định tại khoản 2 Điều 4 Quy định tại Quyết định số 66/2025/QĐ-UBND.
+- Trực tiếp:
++ Tại Trung tâm Phục vụ hành chính công tỉnh Lai Châu (Địa chỉ: Tầng 1, Toà nhà số 2, Khu hợp khối các đơn vị sự nghiệp tỉnh Lai Châu, phường Tân Phong, tỉnh Lai Châu; Điện thoại: 02133.796.888).
++ Tại Trung tâm Phục vụ hành chính công cấp xã/ Bộ phận một cửa cấp xã.
+- Trực tuyến một phần qua Cổng Dịch vụ công quốc gia tại địa chỉ: https://dichvucong.gov.vn.
+- Qua hệ thống bưu chính công ích.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản chấp thuận thiết kế  nút giao đấu nối vào đường địa phương đang khai thác theo mẫu số 02
+Căn cứ pháp lý:
+  * Quy định quản lý đường đô thị, đường xã, đường thôn; trình tự, thủ tục chấp thuận thiết kế, cấp phép thi công nút giao đấu nối vào đường địa phương đang khai thác trên địa bàn tỉnh Lai Châu (66/2025/QĐ-UBND)
+  * Quy định chi tiết, hướng dẫn thi hành một số điều của Luật Đường bộ và Điều 77 Luật Trật tự, an toàn giao thông đường bộ. (165/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

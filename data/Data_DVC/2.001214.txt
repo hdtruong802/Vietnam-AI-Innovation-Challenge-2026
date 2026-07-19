@@ -1,0 +1,71 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001214
+Số quyết định: 870/QĐ-BXD
+Tên thủ tục: Đăng ký lại phương tiện hoạt động vui chơi, giải trí dưới nước
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hàng hải và đường thủy nội địa
+Trình tự thực hiện:
+  * Nộp hồ sơ TTHC:
+    - Tổ chức, cá nhân gửi trực tiếp hoặc gửi qua hệ thống bưu chính hoặc qua hệ thống dịch vụ công trực tuyến đến cơ quan đăng ký phương tiện lần đầu 01 bản chính hoặc biểu mẫu điện tử đơn đề nghị theo Mẫu.
+    - Trường hợp cần chuyển đăng ký phương tiện sang cơ quan đăng ký phương tiện của địa phương khác, chủ phương tiện nộp đơn đề nghị chuyển, nơi đăng ký, nêu rõ nơi đăng ký mới và nộp lại Giấy chứng nhận đăng ký phương tiện đã được cấp trước đó. Cơ quan đăng ký nơi chủ phương tiện đề nghị đăng ký phương tiện, căn cứ cơ sở dữ liệu của phương tiện để cấp Giấy chứng nhận đăng ký phương tiện mới cho chủ phương tiện với các nội dung thông tin đăng ký giữ nguyên như Giấy chứng nhận đăng ký phương tiện cũ.
+  * Giải quyết TTHC: Trường hợp thay đổi tên phương tiện, thay đổi thông số kỹ thuật, thay đổi chủ sở hữu phương tiện:
+    + Cơ quan đăng ký phương tiện tiếp nhận, kiểm tra hồ sơ, trường hợp hồ sơ không hợp lệ, trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ, hướng dẫn người nộp hoàn thiện hồ sơ theo quy định tại Nghị định này.
+    + Cơ quan đăng ký phương tiện thu hồi Giấy chứng nhận đăng ký đã cấp trước đó, tiêu hủy theo quy định.
+    + Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được hồ sơ hợp lệ, cơ quan đăng ký phương tiện cấp lại Giấy chứng nhận đăng ký phương tiện cho chủ phương tiện; trường hợp không cấp phải có văn bản trả lời và nêu rõ lý do.
+  * Giải quyết TTHC: Trường hợp cần chuyển đăng ký phương tiện sang cơ quan đăng ký phương tiện của địa phương khác:
+    + Chủ phương tiện nộp đơn đề nghị chuyển, nơi đăng ký, nêu rõ nơi đăng ký mới và nộp lại Giấy chứng nhận đăng ký phương tiện đã được cấp trước đó.
+    + Cơ quan đăng ký nơi chủ phương tiện đề nghị đăng ký phương tiện, căn cứ cơ sở dữ liệu của phương tiện để cấp Giấy chứng nhận đăng ký phương tiện mới cho chủ phương tiện với các nội dung thông tin đăng ký giữ nguyên như Giấy chứng nhận đăng ký phương tiện cũ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ - Trường hợp cần chuyển đăng ký phương tiện sang cơ quan đăng ký phương tiện của địa phương khác: ]
+    - + Đơn đề nghị chuyển, nơi đăng ký nêu rõ nơi đăng ký mới và nộp lại Giấy chứng nhận đăng ký phương tiện đã được cấp trước đó.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp thay đổi chủ sở hữu phương tiện: ]
+    - +Đơn đề nghị đăng ký phương tiện theo Mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Xuất trình giấy tờ chứng minh quyền sở hữu phương tiện theo quy định: Hợp đồng mua bán hoặc hợp đồng đóng mới phương tiện hoặc các giấy tờ khác có giá trị tương đương;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện còn hiệu lực đối với phương tiện thuộc diện đăng kiểm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Giấy chứng nhận đăng ký phương tiện đã được cấp trước đó, biên lai hoặc giấy chứng nhận đã nộp phí, lệ phí (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp thay đổi thông số kỹ thuật ]
+    - +   Giấy chứng nhận đăng ký phương tiện đã được cấp trước đó, biên lai hoặc giấy chứng nhận đã nộp phí, lệ phí (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +   Xuất trình Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện còn hiệu lực đối với phương tiện thuộc diện đăng kiểm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +   Đơn đề nghị đăng ký phương tiện theo Mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ - Trường hợp thay đổi tên phương tiện: ]
+    - +  Đơn đề nghị đăng ký phương tiện theo Mẫu;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - +  Giấy chứng nhận đăng ký đã được cấp trước đó và xuất trình Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện còn hiệu lực đối với phương tiện thuộc diện đăng kiểm.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký phương tiện
+Căn cứ pháp lý:
+  * Nghị định số 19/2024/NĐ-CP ngày 23/02/2024 sửa đổi, bổ sung một số điều của Nghị định số 48/2019/NĐ-CP ngày 05/6/2019 của Chính phủ quy định về quản lý hoạt động của phương tiện phục vụ vui chơi, giải trí dưới nước (19/2024/NĐ-CP)
+  * Quy định về quản lý hoạt động của phương tiện phục vụ vui chơi, giải trí dưới nước (48/2019/NĐ-CP)
+  * Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Xây dựng (140/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

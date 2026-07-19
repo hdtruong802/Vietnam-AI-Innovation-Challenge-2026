@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 5.003857
+Số quyết định: 1612/QĐ-BCT
+Tên thủ tục: Thủ tục thu hồi quyết định chỉ định
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: CENTRAL_REGULATION
+Lĩnh vực: Tiêu chuẩn đo lường chất lượng (Bộ Công Thương)
+Trình tự thực hiện:
+    Cơ quan chỉ định (đơn vị đã thực hiện cấp quyết định chỉ định), căn cứ các vi phạm sau của tổ chức đánh giá sự phù hợp đã được chỉ định xem xét, quyết định thu hồi quyết định chỉ định:
+    + Vi phạm 02 lần liên tiếp các quy định về đánh giá sự phù hợp theo pháp luật về tiêu chuẩn và quy chuẩn kỹ thuật và các quy định tại Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026 của Chính phủ;
+    + Không thực hiện đầy đủ trách nhiệm tương ứng quy định tại Điều 77 Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026 của Chính phủ trong 02 năm liên tiếp;
+    + Không bảo đảm một trong các điều kiện tương ứng đối với tổ chức đánh giá sự phù hợp được chỉ định theo quy định tại Nghị định số 37/2026/NĐ-CP ngày 23 tháng 01 năm 2026 của Chính phủ;
+    + Giả mạo hoặc khai man các tài liệu trong hồ sơ đăng ký chỉ định; cấp khống kết quả đánh giá sự phù hợp;
+    + Tẩy xóa, sửa chữa làm sai lệch nội dung trên quyết định chỉ định được cấp;
+    + Không thực hiện khắc phục các vi phạm theo yêu cầu của cơ quan thanh tra, kiểm tra;
+    + Tổ chức đánh giá sự phù hợp không còn hoạt động trong phạm vi đã được chỉ định, bị giải thể, thu hồi quyết định theo đề nghị của tổ chức đánh giá sự phù hợp.
+    Trong thời hạn 03 ngày làm việc, cơ quan có thẩm quyền ban hành quyết định thu hồi quyết định chỉ định, trong đó nêu rõ lý do thu hồi;
+    Quyết định thu hồi phải được gửi cho tổ chức liên quan và công bố trên Cổng thông tin điện tử của cơ quan có thẩm quyền, đồng thời cập nhật vào Cơ sở dữ liệu quốc gia về tiêu chuẩn, đo lường, chất lượng.
+    Trường hợp lý do thu hồi đồng thời là hành vi vi phạm hành chính quy định tại Nghị định về xử phạt vi phạm hành chính trong lĩnh vực tiêu chuẩn, đo lường, chất lượng sản phẩm, hàng hóa, cơ quan chỉ định thực hiện:
+    + Ban hành quyết định thu hồi quyết định chỉ định;
+    + Chuyển hồ sơ cho cơ quan thanh tra để xử lý, xử phạt vi phạm hành chính theo đúng thẩm quyền, trình tự, thủ tục quy định tại pháp luật về xử phạt vi phạm hành chính.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: thông qua hệ thống xử lý văn bản iMOIT/ cổng dịch vụ công trực tuyến hoặc trực tiếp hoặc qua dịch vụ bưu chính
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: thông qua hệ thống xử lý văn bản iMOIT/ cổng dịch vụ công trực tuyến hoặc trực tiếp hoặc qua dịch vụ bưu chính
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: thông qua hệ thống xử lý văn bản iMOIT/ cổng dịch vụ công trực tuyến hoặc trực tiếp hoặc qua dịch vụ bưu chính
+
+Thành phần hồ sơ:
+    - ,., Không quy định
+      Số lượng: Bản chính: 0, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Bộ Công thương
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định thu hồi Quyết định chỉ định
+Căn cứ pháp lý:
+  * Nghị định số 37/2026/NĐ-CP ngày 23/01/2026 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Chất lượng sản phẩm, hàng hóa (37/2026/NĐ-CP)
+  * Thông tư số 34/2026/TT-BCT  ngày 30 tháng 6 năm 2026 của Bộ trưởng Bộ Công Thương quy định về quản lý chất lượng sản phẩm, hàng hóa thuộc trách nhiệm quản lý nhà nước của Bộ Công Thương (34/2026/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không quy định
+Từ khóa: Không có thông tin
+Mô tả: Không quy định

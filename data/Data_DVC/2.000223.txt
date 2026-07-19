@@ -1,0 +1,47 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000223
+Số quyết định: 987/QĐ-NHNN
+Tên thủ tục: Thủ tục cấp lại, điều chỉnh, gia hạn Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác(đối với doanh nghiệp kinh doanh casino)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Hoạt động ngoại hối
+Trình tự thực hiện:
+    + Bước 1: Doanh nghiệp gửi 02 (hai) bộ hồ sơ qua đường bưu điện hoặc nộp trực tiếp cho Ngân hàng Nhà nước Khu vực trên địa bàn nơi doanh nghiệp đặt Điểm kinh doanh casino.
+    + Bước 2: Trong thời hạn 15 (mười lăm) ngày kể từ ngày nhận hồ sơ, Ngân hàng Nhà nước Khu vực chịu trách nhiệm kiểm tra tính đầy đủ và hợp lệ của bộ hồ sơ và gửi 01 bộ hồ sơ đến Ngân hàng Nhà nước Việt Nam kèm theo ý kiến đánh giá bằng văn bản của Ngân hàng Nhà nước Khu vực về thành phần hồ sơ.
+    + Bước 3: Trong thời hạn 30 (ba mươi) ngày kể từ ngày nhận được đầy đủ hồ sơ theo quy định, Ngân hàng Nhà nước xem xét và cấp lại, điều chỉnh, gia hạn Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác. Trong trường hợp từ chối, Ngân hàng Nhà nước thông báo bằng văn bản nêu rõ lý do từ chối gửi doanh nghiệp.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 30 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - + Trường hợp đề nghị cấp lại Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác, doanh nghiệp có Đơn đề nghị cấp lại Giấy phép, trong đó nêu rõ lý do đề nghị cấp lại theo Phụ lục số 03 ban hành kèm theo Thông tư số 10/2017/TT-NHNN của Ngân hàng Nhà nước Việt Nam hướng dẫn về quản lý ngoại hối đối với hoạt động kinh doanh casino (Thông tư 10/2017/TT-NHNN);
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - + Trường hợp đề nghị điều chỉnh Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác, doanh nghiệp có Đơn đề nghị điều chỉnh Giấy phép, trong đó nêu rõ lý do đề nghị điều chỉnh theo Phụ lục số 03 ban hành kèm theo Thông tư số 10/2017/TT-NHNN và văn bản, giấy tờ chứng minh nội dung điều chỉnh phù hợp với quy định tại điểm a, khoản 2 Điều 33 Nghị định số 03/2017/NĐ-CP (nếu có);
+      Số lượng: Bản chính: 2, Bản sao: 0
+    - + Trường hợp đề nghị gia hạn Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác, doanh nghiệp có Đơn đề nghị gia hạn Giấy phép, trong đó nêu rõ lý do đề nghị gia hạn theo Phụ lục số 03 ban hành kèm theo Thông tư số 10/2017/TT-NHNN.
+      Số lượng: Bản chính: 2, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Khu vực, Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước Việt Nam/Ngân hàng Nhà nước Khu vực
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thu, chi ngoại tệ và các hoạt động ngoại hối khác/ Văn bản từ chối
+Căn cứ pháp lý:
+  * Hướng dẫn về quản lý ngoại hối đối với hoạt động kinh doanh casino (10/2017/TT-NHNN)
+  * Nghị quyết số 24/2026/NQ-CP ngày 29/4/2026 của Chính phủ cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh lĩnh vực quốc phòng, nội vụ, tài chính, xây dựng, ngoại giao, tư pháp, ngân hàng. (24/2026/NQ-CP)
+  * Về kinh doanh casino (03/2017/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: + Đối với trường hợp cấp lại Giấy phép: Doanh nghiệp được cấp lại Giấy phép trong trường hợp Giấy phép bị mất, thất lạc, hư hỏng do thiên tai, hỏa hoạn hoặc do các nguyên nhân khách quan khác.
++ Đối với trường hợp điều chỉnh Giấy phép: Doanh nghiệp được điều chỉnh Giấy phép trong các trường hợp sau: (i) Thay đổi tên doanh nghiệp; (ii) Thay đổi ngân hàng được phép kinh doanh, cung ứng dịch vụ ngoại hối nơi doanh nghiệp mở tài khoản chuyên dùng ngoại tệ; (iii) Thay đổi mức tồn quỹ ngoại tệ tiền mặt.
+	+ Đối với trường hợp gia hạn Giấy phép: Không
+Từ khóa: Không có thông tin
+Mô tả: + Đối với trường hợp cấp lại Giấy phép: Doanh nghiệp được cấp lại Giấy phép trong trường hợp Giấy phép bị mất, thất lạc, hư hỏng do thiên tai, hỏa hoạn hoặc do các nguyên nhân khách quan khác.
++ Đối với trường hợp điều chỉnh Giấy phép: Doanh nghiệp được điều chỉnh Giấy phép trong các trường hợp sau: (i) Thay đổi tên doanh nghiệp; (ii) Thay đổi ngân hàng được phép kinh doanh, cung ứng dịch vụ ngoại hối nơi doanh nghiệp mở tài khoản chuyên dùng ngoại tệ; (iii) Thay đổi mức tồn quỹ ngoại tệ tiền mặt.
+	+ Đối với trường hợp gia hạn Giấy phép: Không

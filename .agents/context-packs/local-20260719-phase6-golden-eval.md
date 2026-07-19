@@ -29,13 +29,13 @@
 - Files/areas: `scripts/evaluation/`, `tests/evaluation/`, `docs/evaluation/`, Context Pack.
 - API/schema/contracts: chi doc public API hien tai; khong thay doi endpoint/model.
 - Runtime/data: TestClient in-process; khong chiem port, khong doc `.env`, khong goi network.
-- Decision: D-017; khong can Decision moi vi chi them evaluation isolated.
+- Decision: D-024; khong can Decision moi vi chi them evaluation isolated.
 
 ## Context Selected
 
 - `docs/ai/PROJECT_CONTEXT.md`: ba MVP va golden cases tuong duong.
 - `docs/ai/ARCHITECTURE.md`: fail-closed, deterministic rules, LLM boundary.
-- `docs/ai/DECISIONS.md` D-017: demo-approved khong duoc phat verified/K1.
+- `docs/ai/DECISIONS.md` D-024: demo-approved khong duoc phat verified/K1.
 - `backend/app/adapters/demo_pack.py`: router can duoc evaluation.
 - `backend/tests/test_demo_e2e.py`: offline TestClient/settings baseline.
 - `scripts/data/evaluate_retrieval_golden.py`: CLI/report/exit-code pattern.

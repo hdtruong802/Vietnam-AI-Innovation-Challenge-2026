@@ -1,0 +1,39 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 5.003861
+Số quyết định: 1615/QĐ-BCT
+Tên thủ tục: Thủ tục Lấy ý kiến thẩm định của Bộ Công an bằng văn bản về an ninh quốc gia
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: CENTRAL_REGULATION
+Lĩnh vực: Thương mại điện tử
+Trình tự thực hiện:
+    Cơ quan có thẩm quyền cấp, điều chỉnh Giấy phép kinh doanh của chủ quản nền tảng thương mại điện tử quy định tại điểm b khoản 1 Điều 40 Nghị định 248/2026/NĐ-CP trong quá trình xem xét việc đề nghị cấp, điều chỉnh Giấy phép lấy ý kiến thẩm định của Bộ Công an bằng văn bản về an ninh quốc gia theo quy định của Chính phủ về hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 0 OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trực tiếp tại Bộ Công an hoặc trực tuyến.
+Thời hạn giải quyết: Không quy định
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 0 OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Trực tiếp tại Bộ Công an hoặc trực tuyến.
+Thời hạn giải quyết: Không quy định
+
+Thành phần hồ sơ:
+    - Không quy định;.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Bộ Công an
+Kết quả thực hiện: Ý kiến thẩm định của Bộ Công an bằng văn bản về an ninh quốc gia.
+Căn cứ pháp lý:
+  * Nghị định số 248/2026/NĐ-CP ngày 30 tháng 6 năm 2026 của Chính phủ quy định chi tiết một số điều của Luật Thương mại điện tử. (248/2026/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có.
+Từ khóa: Không có thông tin
+Mô tả: Không có.

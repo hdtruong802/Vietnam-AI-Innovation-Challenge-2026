@@ -20,8 +20,7 @@ class Settings(BaseSettings):
     app_version: str = "0.2.0"
     api_port: int = Field(default=8000, ge=1, le=65_535)
     cors_allowed_origins: str = (
-        "http://localhost:3000,http://127.0.0.1:3000,"
-        "http://localhost:3001,http://127.0.0.1:3001"
+        "http://localhost:3000,http://127.0.0.1:3000," "http://localhost:3001,http://127.0.0.1:3001"
     )
     max_intake_chars: int = Field(default=500, ge=1, le=2_000)
     max_body_bytes: int = Field(default=65_536, ge=1_024, le=1_048_576)
@@ -59,17 +58,37 @@ class Settings(BaseSettings):
     rag_source_freeze_date: str = "2026-07-17"
     rag_top_k: int = Field(default=5, ge=1, le=50)
     rag_min_confidence: float = Field(default=0.12, ge=0, le=1)
+
+    # --- Semantic search (xem docs/proposal.md D-005) ---
+    # "keyword"  — BM25-style TF-IDF cosine (luon co, khong can API key/model).
+    # "semantic" — chi dung dense embedding.
+    # "hybrid"   — ket hop: final = (1-alpha)*keyword + alpha*dense.
+    #              Tu dong fallback alpha=0 neu embedding khong kha dung.
+    rag_retrieval_mode: Literal["keyword", "semantic", "hybrid"] = "hybrid"
+    rag_semantic_weight: float = Field(default=0.7, ge=0.0, le=1.0)
+    # Model HuggingFace (dung voi sentence-transformers, KHONG can API key).
+    # Default: vietnamese-bi-encoder — duoc train cho information retrieval tieng Viet.
+    # Override: RAG_EMBEDDING_MODEL=sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+    rag_embedding_model: str = "bkai-foundation-models/vietnamese-bi-encoder"
+    rag_embedding_batch_size: int = Field(default=64, ge=1, le=512)
+    # Provider: "local" (sentence-transformers), "openai" (API), "auto" (local dau, roi openai).
+    rag_embedding_provider: Literal["local", "openai", "auto"] = "auto"
+
+    # --- Demo-only K1 simulation (xem D-013 va D-019 trong DECISIONS.md) ---
+    # Mac dinh False: giu dung D-013 (fail-closed truoc K1 nguoi thuc) - pack
+    # RAG luon la "needs_review"/"official_review_required". Bat True CHI de
+    # demo cuc bo xem full flow (form/steps/validate) tren du lieu RAG thuc;
+    # KHONG duoc bat tren production/public deploy vi day khong phai K1 review
+    # thuc su. Khi bat, version pack se doi thanh "demo-k1-simulated-..." de
+    # phan biet ro voi ban approved thuc.
+    rag_demo_k1_approved: bool = False
     pii_token_ttl_seconds: int = Field(default=1_800, ge=1)
 
     model_config = SettingsConfigDict(env_file=ENV_FILES, extra="ignore")
 
     @property
     def allowed_origins(self) -> list[str]:
-        return [
-            origin.strip()
-            for origin in self.cors_allowed_origins.split(",")
-            if origin.strip()
-        ]
+        return [origin.strip() for origin in self.cors_allowed_origins.split(",") if origin.strip()]
 
     @property
     def rag_source_path(self) -> Path:
@@ -89,9 +108,7 @@ class Settings(BaseSettings):
 
     @property
     def effective_ai_timeout_seconds(self) -> float:
-        return (
-            self.ai_timeout_seconds if self.ai_api_key else self.openai_timeout_seconds
-        )
+        return self.ai_timeout_seconds if self.ai_api_key else self.openai_timeout_seconds
 
 
 @lru_cache

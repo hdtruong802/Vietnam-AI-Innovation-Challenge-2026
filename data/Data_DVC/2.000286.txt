@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000286
+Số quyết định: 2072/QĐ-BYT
+Tên thủ tục: Tiếp nhận đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn vào cơ sở trợ giúp xã hội
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Bảo trợ xã hội
+Trình tự thực hiện:
+    - Bước 1: Đối tượng hoặc người giám hộ chuẩn bị hồ sơ theo quy định gửi Chủ tịch Ủy ban nhân dân cấp xã.
+    - Bước 2: Trong thời hạn 10 ngày làm việc, kể từ ngày nhận được giấy tờ của đối tượng, Chủ tịch Ủy ban nhân dân cấp xã chỉ đạo tổ chức xem xét, thực hiện xác thực và chuẩn hóa thông tin liên quan của đối tượng với cơ sở dữ liệu quốc gia về dân cư, quyết định tiếp nhận đối tượng vào cơ sở trợ giúp xã hội thuộc phạm vi quản lý hoặc có văn bản đề nghị (gửi kèm theo giấy tờ liên quan của người đề nghị) gửi cơ sở trợ giúp xã hội thuộc phạm vi Ủy ban nhân dân cấp tỉnh quản lý.
+    - Bước 3: Trong thời hạn 05 ngày làm việc, kể từ khi nhận được văn bản đề nghị của Chủ tịch Ủy ban nhân dân cấp xã, người đứng đầu cơ sở trợ giúp xã hội xem xét, quyết định tiếp nhận đối tượng vào nuôi dưỡng, chăm sóc tại cơ sở hoặc cung cấp dịch vụ chăm sóc tại cộng đồng.
+    Trường hợp đối tượng không đủ điều kiện tiếp nhận nuôi dưỡng, chăm sóc trong cơ sở trợ giúp xã hội, cơ quan giải quyết thủ tục phải trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 10 ngày làm việc đối với cơ sở trợ giúp xã hội thuộc phạm vi quản lý của Uỷ ban nhân dân xã
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc đối với cơ sở trợ giúp xã hội thuộc phạm vi Ủy ban nhân dân cấp tỉnh quản lý
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 10 ngày làm việc đối với cơ sở trợ giúp xã hội thuộc phạm vi quản lý của Uỷ ban nhân dân xã
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc đối với cơ sở trợ giúp xã hội thuộc phạm vi Ủy ban nhân dân cấp tỉnh quản lý
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 10 ngày làm việc đối với cơ sở trợ giúp xã hội thuộc phạm vi quản lý của Uỷ ban nhân dân xã
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: 15 ngày làm việc đối với cơ sở trợ giúp xã hội thuộc phạm vi Ủy ban nhân dân cấp tỉnh quản lý
+
+Thành phần hồ sơ:
+    - Bản sao giấy khai sinh đối với trẻ em, trường hợp trẻ em bị bỏ rơi phải làm thủ tục đăng ký khai sinh theo quy định của pháp luật về đăng ký hộ tịch
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy tờ liên quan khác (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Xác nhận của cơ quan y tế có thẩm quyền đối với trường hợp nhiễm HIV
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao Giấy xác nhận khuyết tật đối với trường hợp là người khuyết tật
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Tờ khai của đối tượng hoặc người giám hộ (theo Mẫu số 07 ban hành kèm theo Nghị định số 20/2021/NĐ-CP);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Cơ sở trợ giúp xã hội
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định tiếp nhận đối tượng vào cơ sở trợ giúp xã hội (BYT)
+Căn cứ pháp lý:
+  * Nghị định số 147/2025/NĐ-CP của Chính phủ: Quy định về phân định thẩm quyền của chính quyền địa phương 02 cấp trong lĩnh vực quản lý nhà nước của Bộ Y tế (147/2025/NĐ-CP)
+  * QUY ĐỊNH CHÍNH SÁCH TRỢ GIÚP XÃ HỘI ĐỐI VỚI ĐỐI TƯỢNG BẢO TRỢ XÃ HỘI (20/2021/NĐ-CP)
+  * Nghị định số 42/2025/NĐ-CP của Chính phủ: Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (42/2025/NĐ-CP)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn theo quy định tại  Nghị định số 20/2021/NĐ-CP (khoản 1 Điều 24), cụ thể:
+- Đối tượng quy định tại các khoản 1 và 3 Điều 5 của Nghị định số 20/2021/NĐ-CP thuộc diện khó khăn không tự lo được cuộc sống và không có người nhận chăm sóc, nuôi dưỡng tại cộng đồng;
+- Người cao tuổi thuộc diện được chăm sóc, nuôi dưỡng trong cơ sở trợ giúp xã hội theo quy định của pháp luật về người cao tuổi;
+- Trẻ em khuyết tật, người khuyết tật thuộc diện được chăm sóc, nuôi dưỡng trong cơ sở trợ giúp xã hội theo quy định của pháp luật về người khuyết tật.
+Từ khóa: Không có thông tin
+Mô tả: Đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn theo quy định tại  Nghị định số 20/2021/NĐ-CP (khoản 1 Điều 24), cụ thể:
+- Đối tượng quy định tại các khoản 1 và 3 Điều 5 của Nghị định số 20/2021/NĐ-CP thuộc diện khó khăn không tự lo được cuộc sống và không có người nhận chăm sóc, nuôi dưỡng tại cộng đồng;
+- Người cao tuổi thuộc diện được chăm sóc, nuôi dưỡng trong cơ sở trợ giúp xã hội theo quy định của pháp luật về người cao tuổi;
+- Trẻ em khuyết tật, người khuyết tật thuộc diện được chăm sóc, nuôi dưỡng trong cơ sở trợ giúp xã hội theo quy định của pháp luật về người khuyết tật.

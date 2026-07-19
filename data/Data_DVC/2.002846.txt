@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002846
+Số quyết định: 851/QĐ-BKHCN
+Tên thủ tục: Thủ tục đăng ký hỗ trợ sử dụng dịch vụ viễn thông công ích thông qua doanh nghiệp viễn thông theo phương thức đặt hàng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    1. Căn cứ văn bản thông báo phương án đặt hàng hỗ trợ sử dụng dịch vụ viễn thông phổ cập năm tiếp theo của Quỹ Dịch vụ viễn thông công ích Việt Nam, doanh nghiệp viễn thông gửi hồ sơ đăng ký đặt hàng.
+    2. Trong thời hạn 15 ngày làm việc, kể từ ngày nhận được thông báo, các doanh nghiệp viễn thông gửi 01 bộ hồ sơ thông qua dịch vụ bưu chính, trực tuyến hoặc gửi trực tiếp đến Quỹ Dịch vụ viễn thông công ích Việt Nam đăng ký đặt hàng. Thành phần hồ sơ và biểu mẫu đăng ký đặt hàng theo hướng dẫn của Bộ trưởng Bộ Khoa học và Công nghệ.
+    3. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được đăng ký của doanh nghiệp, Quỹ Dịch vụ viễn thông công ích Việt Nam có văn bản thông báo kết quả đánh giá đến doanh nghiệp biết để thương thảo hợp đồng.
+    4. Thương thảo hợp đồng đặt hàng: Trên cơ sở giá dịch vụ viễn thông công ích theo quy định của pháp luật và đăng ký đặt hàng của doanh nghiệp, Quỹ Dịch vụ viễn thông công ích Việt Nam và các doanh nghiệp viễn thông đáp ứng đầy đủ yêu cầu của phương án đặt hàng thương thảo hợp đồng.
+    5. Phê duyệt quyết định đặt hàng: Trên cơ sở biên bản thương thảo hợp đồng, dự thảo hợp đồng, trước ngày 20 tháng 12 hằng năm, Quỹ Dịch vụ viễn thông công ích Việt Nam phê duyệt quyết định đặt hàng.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Nộp thông qua cổng dịch vụ công trực tuyến: Cổng dịch vụ công quốc gia (https://dichvucong.gov.vn).       
+- 07 ngày làm việc kể từ ngày nhận được đủ hồ sơ đăng ký đặt hàng của doanh nghiệp, Quỹ Dịch vụ viễn thông công ích Việt Nam hoàn thành đánh giá hồ sơ đăng ký đặt hàng của doanh nghiệp (không bao gồm thời gian thương thảo hợp đồng và thời gian phê duyệt Quyết định đặt hàng).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Nộp trực tiếp tại Bộ phận Một cửa Bộ Khoa học và Công nghệ.
+- 07 ngày làm việc kể từ ngày nhận được đủ hồ sơ đăng ký đặt hàng của doanh nghiệp, Quỹ Dịch vụ viễn thông công ích Việt Nam hoàn thành đánh giá hồ sơ đăng ký đặt hàng của doanh nghiệp (không bao gồm thời gian thương thảo hợp đồng và thời gian phê duyệt Quyết định đặt hàng).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: - Nộp trực tiếp tại Bộ phận Một cửa Bộ Khoa học và Công nghệ.
+- 07 ngày làm việc kể từ ngày nhận được đủ hồ sơ đăng ký đặt hàng của doanh nghiệp, Quỹ Dịch vụ viễn thông công ích Việt Nam hoàn thành đánh giá hồ sơ đăng ký đặt hàng của doanh nghiệp (không bao gồm thời gian thương thảo hợp đồng và thời gian phê duyệt Quyết định đặt hàng).
+
+Thành phần hồ sơ:
+    - Văn bản đăng ký đặt hàng của doanh nghiệp viễn thông theo Mẫu số 03 Phụ lục VI Thông tư số 01/2026/TT-BKHCN ngày 15/01/2026.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Quỹ dịch vụ Viễn thông công ích Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định đặt hàng hỗ trợ sử dụng dịch vụ viễn thông công ích
+Căn cứ pháp lý:
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+  * Hướng dẫn thực hiện một số điều của Nghị định số 295/2025/NĐ-CP ngày 15/11/2025 của Chính phủ quy định chi tiết thi hành Luật Viễn thông về hoạt động viễn thông công ích và cơ chế tài chính thực hiện hoạt động viễn thông công ích. (01/2026/TT-BKHCN)
+  * quy định chi tiết một số điều của Luật Viễn thông về hoạt động viễn thông công ích và cơ chế tài chính thực hiện hoạt động viễn thông công ích. (295/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Việc hỗ trợ sử dụng dịch vụ viễn thông công ích theo phương thức đặt hàng, ngoài đảm bảo các nguyên tắc, điều kiện chung quy định tại khoản 1, khoản 2 Điều 9 của Nghị định số 295/2025/NĐ-CP, được thực hiện khi đảm bảo các điều kiện:
+1. Phương thức đặt hàng hỗ trợ sử dụng dịch vụ viễn thông công ích đã được quy định tại chương trình cung cấp dịch vụ viễn thông công ích;
+2. Dịch vụ viễn thông công ích đã được cơ quan có thẩm quyền ban hành quy chuẩn kỹ thuật về chất lượng dịch vụ hoặc dịch vụ viễn thông đã được doanh nghiệp viễn thông tự công bố chất lượng theo tiêu chuẩn tự nguyện áp dụng đối với các dịch vụ viễn thông không thuộc danh mục dịch vụ viễn thông bắt buộc quản lý chất lượng;
+3. Cơ quan nhà nước có thẩm quyền đã ban hành mức hỗ trợ sử dụng dịch vụ viễn thông công ích theo quy định tại khoản 3 Điều 24 của Nghị định số 295/2025/NĐ-CP.
+Từ khóa: Không có thông tin
+Mô tả: Việc hỗ trợ sử dụng dịch vụ viễn thông công ích theo phương thức đặt hàng, ngoài đảm bảo các nguyên tắc, điều kiện chung quy định tại khoản 1, khoản 2 Điều 9 của Nghị định số 295/2025/NĐ-CP, được thực hiện khi đảm bảo các điều kiện:
+1. Phương thức đặt hàng hỗ trợ sử dụng dịch vụ viễn thông công ích đã được quy định tại chương trình cung cấp dịch vụ viễn thông công ích;
+2. Dịch vụ viễn thông công ích đã được cơ quan có thẩm quyền ban hành quy chuẩn kỹ thuật về chất lượng dịch vụ hoặc dịch vụ viễn thông đã được doanh nghiệp viễn thông tự công bố chất lượng theo tiêu chuẩn tự nguyện áp dụng đối với các dịch vụ viễn thông không thuộc danh mục dịch vụ viễn thông bắt buộc quản lý chất lượng;
+3. Cơ quan nhà nước có thẩm quyền đã ban hành mức hỗ trợ sử dụng dịch vụ viễn thông công ích theo quy định tại khoản 3 Điều 24 của Nghị định số 295/2025/NĐ-CP.

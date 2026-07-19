@@ -1,0 +1,75 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001748
+Số quyết định: 2527/QĐ-BKHCN
+Tên thủ tục: Cấp lại giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng, loại mạng viễn thông công cộng không sử dụng băng tần số vô tuyến điện (trừ loại mạng viễn thông công cộng cố định mặt đất không sử dụng băng tần số vô tuyến điện, không sử dụng số thuê bao viễn thông có phạm vi thiết lập mạng viễn thông trong một tỉnh, thành phố trực thuộc Trung ương)
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Viễn thông và Internet
+Trình tự thực hiện:
+    1.	Trong thời hạn hiệu lực của giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng, loại mạng viễn thông công cộng không sử dụng băng tần số vô tuyến điện (trừ loại mạng viễn thông công cộng cố định mặt đất không sử dụng băng tần số vô tuyến điện và không sử dụng số thuê bao viễn thông phạm vi một tỉnh, thành phố trực thuộc trung ương) doanh nghiệp muốn cấp lại giấy phép phải gửi 01 bộ hồ sơ đề nghị cấp lại giấy phép tới Bộ Khoa học và Công nghệ (Cục Viễn thông) và chịu trách nhiệm về tính chính xác và trung thực của hồ sơ.
+    2.	Trường hợp đề nghị cấp lại do giấy phép hết hiệu lực, doanh nghiệp phải nộp hồ sơ đề nghị cấp lại khi giấy phép cung cấp dịch vụ viễn thông không có hạ tầng mạng còn thời hạn tối đa 90 ngày và ít nhất 60 ngày trước ngày giấy phép hết hạn.
+    3.	Bộ Khoa học và Công nghệ (Cục Viễn thông) xét tính hợp lệ của hồ sơ trong 03 ngày làm việc kể từ ngày nhận được hồ sơ.
+    Trường hợp hồ sơ không hợp lệ, trong 03 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) thông báo bằng văn bản cho doanh nghiệp.
+    Trường hợp hồ sơ hợp lệ, trong thời hạn 10 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) xét cấp lại xét cấp lại giấy phép kinh doanh dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền.
+    Trường hợp từ chối cấp phép, trong thời hạn 10 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị cấp phép biết.
+    4.	Trường hợp doanh nghiệp được cấp lại giấy phép dịch vụ viễn thông không có hạ tầng mạng, cơ quan cấp phép có trách nhiệm gửi Bộ Công an một bản sao để phối hợp kiểm soát, bảo đảm an ninh thông tin.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 13 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính, cụ thể như sau: - Phí thiết lập mạng viễn thông công cộng: nộp theo quy định tại khoản 2 Điều 5, Mục I.2 Biểu mức thu phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông. - Phí dịch vụ viễn thông: nộp theo quy định tại khoản 1 Điều 5, Mục I.1 Biểu mức thu phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông. - Lệ phí: 1.000.000 đồng/giấy phép) | 50000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ Tài chính)
+    Mô tả: 3.	Bộ Khoa học và Công nghệ (Cục Viễn thông) xét tính hợp lệ của hồ sơ trong 03 ngày làm việc kể từ ngày nhận được hồ sơ.
+Trường hợp hồ sơ không hợp lệ, trong 03 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) thông báo bằng văn bản cho doanh nghiệp.
+Trường hợp hồ sơ hợp lệ, trong thời hạn 10 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) xét cấp lại xét cấp lại giấy phép kinh doanh dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền.
+Trường hợp từ chối cấp phép, trong thời hạn 10 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị cấp phép biết.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 13 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính, cụ thể như sau: - Phí thiết lập mạng viễn thông công cộng: nộp theo quy định tại khoản 2 Điều 5, Mục I.2 Biểu mức thu phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông. - Phí dịch vụ viễn thông: nộp theo quy định tại khoản 1 Điều 5, Mục I.1 Biểu mức thu phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông. - Lệ phí: 1.000.000 đồng/giấy phép) | 50000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ Tài chính)
+    Mô tả: Bộ Khoa học và Công nghệ (Cục Viễn thông) xét tính hợp lệ của hồ sơ trong 03 ngày làm việc kể từ ngày nhận được hồ sơ.
+Trường hợp hồ sơ không hợp lệ, trong 03 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) thông báo bằng văn bản cho doanh nghiệp.
+Trường hợp hồ sơ hợp lệ, trong thời hạn 10 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) xét cấp lại xét cấp lại giấy phép kinh doanh dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền.
+Trường hợp từ chối cấp phép, trong thời hạn 10 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị cấp phép biết.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 13 WORKING_DAY
+    Phí, lệ phí: 1000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ trưởng Bộ Tài chính, cụ thể như sau: - Phí thiết lập mạng viễn thông công cộng: nộp theo quy định tại khoản 2 Điều 5, Mục I.2 Biểu mức thu phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông. - Phí dịch vụ viễn thông: nộp theo quy định tại khoản 1 Điều 5, Mục I.1 Biểu mức thu phí quyền hoạt động viễn thông, lệ phí cấp giấy phép viễn thông. - Lệ phí: 1.000.000 đồng/giấy phép) | 50000000 VNĐ (Thực hiện theo Thông tư số 52/2025/TT-BTC ngày 24/6/2025 của Bộ Tài chính)
+    Mô tả: Bộ Khoa học và Công nghệ (Cục Viễn thông) xét tính hợp lệ của hồ sơ trong 03 ngày làm việc kể từ ngày nhận được hồ sơ.
+Trường hợp hồ sơ không hợp lệ, trong 03 ngày làm việc kể từ ngày nhận được hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) thông báo bằng văn bản cho doanh nghiệp.
+Trường hợp hồ sơ hợp lệ, trong thời hạn 10 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) xét cấp lại xét cấp lại giấy phép kinh doanh dịch vụ viễn thông cho doanh nghiệp theo thẩm quyền.
+Trường hợp từ chối cấp phép, trong thời hạn 10 ngày làm việc kể từ ngày kết thúc thời hạn xét tính hợp lệ của hồ sơ, Bộ Khoa học và Công nghệ (Cục Viễn thông) thông báo bằng văn bản nêu rõ lý do từ chối cho doanh nghiệp đề nghị cấp phép biết.
+
+Thành phần hồ sơ:
+    - Bản sao hợp lệ giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký đầu tư đối với nhà đầu tư nước ngoài (hoặc giấy chứng nhận, giấy phép tương đương hợp lệ khác theo quy định của pháp luật về đầu tư và pháp luật về doanh nghiệp) bao gồm bản sao được cấp từ sổ gốc hoặc bản sao có chứng thực hoặc bản do cơ quan, tổ chức có thẩm quyền in từ các văn bản điện tử từ cơ sở dữ liệu quốc gia đối với trường hợp thông tin gốc được lưu trữ trên cơ sở dữ liệu quốc gia hoặc bản sao đối chiếu với bản chính. Cơ quan tiếp nhận, giải quyết thủ tục hành chính có trách nhiệm chủ động khai thác, sử dụng thông tin đã có trong các cơ sở dữ liệu được cơ quan chủ quản cơ sở dữ liệu công bố để thay thế thành phần hồ sơ giải quyết thủ tục hành chính. Trường hợp không khai thác được thông tin hoặc thông tin khai thác được không đầy đủ, chính xác thì cơ quan có thẩm quyền tiếp nhận, giải quyết thủ tục hành chính gửi ngay văn bản để yêu cầu cá nhân, tổ chức bổ sung thành phần hồ sơ và nêu rõ lý do. Thời gian yêu cầu và bổ sung hồ sơ không tính vào thời hạn giải quyết thủ tục hành chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c)	Kế hoạch kinh doanh và kỹ thuật trong 05 năm đầu tiên kể từ ngày được cấp phép
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Báo cáo tình hình thực hiện giấy phép kinh doanh dịch vụ viễn thông kể từ ngày được cấp tới ngày đề nghị cấp lại giấy phép theo Mẫu số 09 tại Phụ lục ban hành kèm theo Nghị định (đối với trường hợp doanh nghiệp đề nghị cấp lại giấy phép quy định tại điểm a khoản 2 Điều 36 Nghị định số 163/2024/NĐ-CP và trường hợp băng tần được cấp lại giấy phép sử dụng băng tần)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị cấp giấy phép kinh doanh dịch vụ viễn thông theo Mẫu số 04 tại Phụ lục ban hành kèm theo Nghị định 163/2024/NĐ-CP (đối với trường hợp doanh nghiệp đề nghị cấp lại giấy phép quy định tại điểm a khoản 2 Điều 36 Nghị định số 163/2024/NĐ-CP và trường hợp băng tần được cấp lại giấy phép sử dụng băng tần)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản cam kết thực hiện điều kiện về triển khai mạng viễn thông theo Mẫu số 10 tại Phụ lục ban hành kèm theo Nghị định số 163/2024/NĐ-CP đối với trường hợp đề nghị cấp giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng quy định tại điểm a khoản 2 Điều 35 Luật Viễn thông
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh việc góp đủ vốn điều lệ quy định của pháp luật về doanh nghiệp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu chứng minh số tiền đã đầu tư để thiết lập mạng viễn thông trong trường hợp đã đầu tư thiết lập mạng viễn thông trước đó và cần xét đáp ứng quy định về vốn đầu tư trong điều kiện về triển khai mạng viễn thông.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp Việt Nam
+Cơ quan thực hiện: Cục Viễn thông
+Cơ quan có thẩm quyền: Cục Viễn thông
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa của Bộ Khoa học và Công nghệ
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép cung cấp dịch vụ viễn thông có hạ tầng mạng mẫu 28 cấp lại
+Căn cứ pháp lý:
+  * Quy định chi tiết một số điều và biện pháp thi hành Luật Viễn thông (163/2024/NĐ-CP)
+  * Quy định về phân quyền, phân cấp trong lĩnh vực quản lý nhà nước của Bộ Khoa học và Công nghệ (133/2025/NĐ-CP)
+  * Sửa đổi, bổ sung một số điều của các Nghị định để cắt giảm, đơn giản hóa thủ tục hành chính liên quan đến hoạt động sản xuất, kinh doanh thuộc phạm vi quân lý nhà nước của Bộ Khoa học và Công nghệ (15/2026/NĐ-CP)
+  * Luật Viễn thông ngày 24 tháng 11 năm 2023 (24/2023/QH15)
+  * Nghị quyết số 66.16/2026/NQ-CP của Chính phủ ngày 07/04/2026 về việc Cắt giảm, đơn giản hóa thủ tục hành chính,quy định liên quan đến hoạt động sản xuất, kinh doanh (66.16/2026/NQ-CP)
+  * Nghị quyết số 20/2026/NQ-CP ngày 29/4/2026 của Chính phủ ban hành Nghị quyết phân cấp, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Khoa học và Công nghệ (20/2026/NQ-CP)
+  * Quy định việc phân cấp thẩm quyền cấp, gia hạn, cấp lại, sửa đổi, bổ sung, thu hồi giấy phép viễn thông, yêu cầu chấm dứt hoạt động cung cấp dịch vụ viễn thông (13/2025/TT-BKHCN)
+  * Quy định mức thu, miễn, chế độ thu, nộp, quản lý và sử dụng phí quyền hoạt động viễn thông, lệ phí cấp giấy phép kinh doanh dịch vụ viễn thông và giấy phép nghiệp vụ viễn thông (52/2025/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: Việc cấp lại giấy phép viễn thông cho doanh nghiệp được thực hiện khi đáp ứng các điều kiện quy định tại Điều 36 Luật Viễn thông, có xem xét việc thực hiện nội dung quy định trong giấy phép viễn thông đã cấp và quyền lợi của người sử dụng dịch vụ viễn thông.
+Từ khóa: Không có thông tin
+Mô tả: Việc cấp lại giấy phép viễn thông cho doanh nghiệp được thực hiện khi đáp ứng các điều kiện quy định tại Điều 36 Luật Viễn thông, có xem xét việc thực hiện nội dung quy định trong giấy phép viễn thông đã cấp và quyền lợi của người sử dụng dịch vụ viễn thông.

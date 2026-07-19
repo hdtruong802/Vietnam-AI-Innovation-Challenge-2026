@@ -1,0 +1,43 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000133
+Số quyết định: 1507/QĐ-BCT
+Tên thủ tục: Đăng ký sửa đổi, bổ sung nội dung tổ chức hội chợ, triển lãm thương mại tại nước ngoài.
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Xúc tiến thương mại
+Trình tự thực hiện:
+    +) Thương nhân, tổ chức gửi hồ sơ đăng ký sửa đổi, bổ sung nội dung tổ chức Hội chợ, Triển lãm thương mại tại nước ngoài đến Ủy ban nhân dân cấp tỉnh. Hồ sơ đăng ký sửa đổi, bổ sung nội dung tổ chức hội chợ, triển lãm thương mại phải gửi đến Ủy ban nhân dân cấp tỉnh chậm nhất 30 (ba mươi) ngày trước ngày khai mạc hội chợ, triển lãm thương mại.
+    +) Ủy ban nhân dân cấp tỉnh xác nhận hoặc không xác nhận bằng văn bản việc đăng ký sửa đổi, bổ sung nội dung tổ chức hội chợ, triển lãm thương mại tại nước ngoài. Trong trường hợp không xác nhận phải nêu rõ lý do. Việc sửa đổi, bổ sung nội dung tổ chức hội chợ, triển lãm thương mại phải đảm bảo không ảnh hưởng đến quyền lợi của các thương nhân, tổ chức, cá nhân có liên quan.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đăng ký sửa đổi, bổ sung đăng ký tổ chức hội chợ, triển lãm
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Công văn xác nhận đăng ký sửa đổi, bổ sung nội dung tổ chức hội chợ, triển lãm thương mại tại nước ngoài, Công văn không xác nhận đăng ký sửa đổi, bổ sung nội dung tổ chức hội chợ, triển lãm thương mại tại nước ngoài
+Căn cứ pháp lý:
+  * Nghị định 81/2018/NĐ-CP (81/2018/NĐ-CP)
+  * Nghị định số 128/2024/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 81/2018/NĐ-CP của Chính phủ quy định chi tiết Luật Thương mại về hoạt động xúc tiến thương mại (128/2024/NĐ-CP)
+  * Nghị quyết số 19/2026/NQ-CP ngày 29 tháng 4 năm 2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hoá thủ tục hành chính, điều kiện kinh doanh thuộc quản lý của Bộ Công Thương (19/2026/NQ-CP)
+  * Nghị định số 230/2026/NĐ-CP ngày 25/6/2026 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 28/2018/NĐ-CP ngày 01/3/2018 của Chính phủ quy định chi tiết Luật quản lý ngoại thương về một số biện pháp phát triển ngoại thương đã được sửa đổi, bổ sung theo Nghị định số 14/2024/NĐ-CP ngày 07/02/2024 của Chính phủ; (230/2026/NĐ-CP)
+  * Nghị định số 146/2025/NĐ-CP (nghị định 146/2025)
+
+Yêu cầu, điều kiện thực hiện: Không quy định
+Từ khóa: Không có thông tin
+Mô tả: Không quy định

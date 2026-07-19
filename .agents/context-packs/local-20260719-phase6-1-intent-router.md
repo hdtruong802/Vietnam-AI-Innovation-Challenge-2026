@@ -26,10 +26,10 @@
 
 ## Resource Claims
 
-- Files/areas: `backend/app/services/intent_router.py`, demo recommendation adapter, CopilotService, backend/evaluation tests, D-018.
+- Files/areas: `backend/app/services/intent_router.py`, demo recommendation adapter, CopilotService, backend/evaluation tests, D-025.
 - API/schema/contracts: public REST unchanged; internal routing behavior changes before recommendation.
 - Runtime/data: in-process tests only; no port/server/provider.
-- Decision: D-017 and D-018; user confirmed Phase 6.1 implementation.
+- Decision: D-024 and D-025; user confirmed Phase 6.1 implementation.
 
 ## Context Selected
 
@@ -38,7 +38,7 @@
 - `backend/app/adapters/demo_pack.py`: current substring matcher.
 - `backend/app/services/copilot_service.py`: no-candidate trust behavior.
 - `backend/app/services/trust_policy.py`: verified/K1 boundary remains unchanged.
-- `docs/ai/DECISIONS.md` D-017: demo-approved must never emit verified guidance.
+- `docs/ai/DECISIONS.md` D-024: demo-approved must never emit verified guidance.
 
 ## Verification, Rollback, Handoff
 

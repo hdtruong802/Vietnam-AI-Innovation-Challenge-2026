@@ -1,0 +1,42 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000109
+Số quyết định: 4472/QĐ-BTC
+Tên thủ tục: Đăng ký sử dụng dịch vụ T-VAN/ Đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN/ Đăng ký ngừng sử dụng dịch vụ T-VAN
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Thuế
+Trình tự thực hiện:
+    + Bước 1. Người nộp thuế (NNT) lập tờ khai đăng ký sử dụng dịch vụ T-VAN/đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN/đăng ký ngừng sử dụng dịch vụ T-VAN, ký điện tử và gửi đến Cổng dịch vụ công quốc gia/Hệ thống thông tin giải quyết thủ tục hành chính qua tổ chức cung cấp dịch vụ T-VAN.
+    Sau khi hoàn thành việc thực hiện đăng ký giao dịch điện tử với cơ quan thuế theo quy định, NNT phải thực hiện đăng ký với ngân hàng nơi mở tài khoản theo quy định của ngân hàng (đối với trường hợp đăng ký để thực hiện nộp thuế điện tử).
+    + Bước 2. Cục Thuế thực hiện tiếp nhận hồ sơ qua Cổng dịch vụ công quốc gia/Hệ thống thông tin giải quyết thủ tục hành chính, thực hiện kiểm tra, giải quyết hồ sơ thông qua hệ thống xử lý dữ liệu điện tử của cơ quan thuế.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 OTHER
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đăng ký ngừng sử dụng dịch vụ T-VAN: Tờ khai đăng ký ngừng sử dụng dịch vụ T-VAN theo mẫu số 03/ĐK-T-VAN ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp (1) Đăng ký sử dụng dịch vụ T-VAN: Tờ khai đăng ký sử dụng dịch vụ T-VAN theo mẫu số 01/ĐK-T-VAN ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp (2) Đăng ký thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN: Tờ khai thay đổi, bổ sung thông tin đăng ký sử dụng dịch vụ T-VAN theo mẫu số 02/ĐK-T-VAN ban hành kèm theo Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ trưởng Bộ Tài chính.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp Việt Nam, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Cục Thuế - Bộ tài chính
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo tài khoản giao dịch thuế điện tử  (Mẫu số 03/TB-TĐT)
+Căn cứ pháp lý:
+  * Nghị định 126/2020/NĐ-CP (126/2020/NĐ-CP)
+  * QUY ĐỊNH VỀ MẪU THẺ, TRÌNH TỰ, THỦ TỤC CẤP MỚI, CẤP LẠI THẺ GIÁM ĐỊNH VIÊN TƯ PHÁP (11/2020/NĐ-CP)
+  * Nghị định 130/2018/NĐ-CP (130/2018/NĐ-CP)
+  * Nghị định 45/2020/NĐ-CP (45/2020/NĐ-CP)
+  * Nghị định 165/2018/NĐ-CP (165/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

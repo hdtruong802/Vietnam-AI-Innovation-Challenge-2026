@@ -1,0 +1,53 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000597
+Số quyết định: 1106/QĐ-NHNN
+Tên thủ tục: Thủ tục chấp thuận hợp nhất tổ chức tín dụng
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thành lập và hoạt động ngân hàng
+Trình tự thực hiện:
+    + Bước 1: Trong thời hạn 90 ngày kể từ ngày Ngân hàng Nhà nước chấp thuận nguyên tắc hợp nhất, tổ chức tín dụng đại diện gửi Ngân hàng Nhà nước 01 bộ hồ sơ đề nghị chấp thuận hợp nhất theo quy định. Quá thời hạn này, Ngân hàng Nhà nước không nhận được hồ sơ nêu trên thì văn bản chấp thuận nguyên tắc hợp nhất tổ chức tín dụng hết hiệu lực.
+    + Bước 2: Trường hợp hồ sơ chưa đầy đủ, hợp lệ, trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ, Ngân hàng Nhà nước có văn bản yêu cầu tổ chức tín dụng bổ sung, hoàn thiện hồ sơ; Tổ chức tín dụng bổ sung, hoàn thiện hồ sơ gửi Ngân hàng Nhà nước trong thời hạn 45 ngày kể từ ngày Ngân hàng Nhà nước có văn bản yêu cầu bổ sung, hoàn thiện hồ sơ. Quá thời hạn này, Ngân hàng Nhà nước không nhận được hồ sơ nêu trên thì văn bản chấp thuận nguyên tắc hợp nhất tổ chức tín dụng hết hiệu lực.
+    + Bước 3: Trong thời hạn 20 ngày kể từ ngày nhận đủ hồ sơ hợp lệ, Ngân hàng Nhà nước có văn bản chấp thuận hợp nhất theo mẫu quy định tại Phụ lục 05 ban hành kèm theo Thông tư số 62/2024/TT-NHNN (đã được sửa đổi, bổ sung); cấp Giấy phép thành lập và hoạt động của tổ chức tín dụng hợp nhất, chấp thuận các nội dung khác (nếu có). Trường hợp không chấp thuận, Ngân hàng Nhà nước có văn bản nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 20 ngày
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - a) Văn bản của tổ chức tín dụng đại diện, trong đó tối thiểu bao gồm các nội dung sau: (i) Đề nghị chấp thuận hợp nhất; (ii) Đề nghị chấp thuận các nội dung khác (nếu có); (iii) Các nội dung thay đổi so với Đề án hợp nhất đã trình Thống đốc Ngân hàng Nhà nước chấp thuận nguyên tắc hợp nhất (nếu có);  (iv) Cam kết của tổ chức tín dụng đại diện về việc tổ chức tín dụng hợp nhất đảm bảo tuân thủ quy định tại khoản 2 Điều 9 Thông tư này;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Hồ sơ đề nghị Ngân hàng Nhà nước chấp thuận quy định tại điểm a(ii) khoản này theo quy định của Ngân hàng Nhà nước và quy định của pháp luật có liên quan;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Điều lệ của tổ chức tín dụng hợp nhất được cấp có thẩm quyền quyết định của tổ chức tín dụng hợp nhất thông qua;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Văn bản của cấp có thẩm quyền quyết định của các tổ chức tín dụng bị hợp nhất thông qua các nội dung thay đổi tại Đề án hợp nhất và các vấn đề khác có liên quan đến việc hợp nhất (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - đ) Văn bản của cấp có thẩm quyền quyết định của tổ chức tín dụng hợp nhất về: (i) Thông qua Điều lệ; bầu, bổ nhiệm các chức danh thành viên Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát; quy định về tổ chức và hoạt động của Hội đồng quản trị, Hội đồng thành viên, Ban kiểm soát của tổ chức tín dụng hợp nhất và các vấn đề khác liên quan đến tổ chức tín dụng hợp nhất; (ii) Bầu chức danh Chủ tịch Hội đồng quản trị, Chủ tịch Hội đồng thành viên; bầu chức danh Trưởng Ban kiểm soát; (iii) Bổ nhiệm chức danh Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó giám đốc), Kế toán trưởng;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - e) Các quy định nội bộ về tổ chức và hoạt động của tổ chức tín dụng hợp nhất quy định tại điểm i khoản 1 Điều 11 Thông tư số 62/2024/TT-NHNN (đã được sửa đổi, bổ sung) đã được cấp có thẩm quyền quyết định của tổ chức tín dụng hợp nhất thông qua.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Ngân hàng Nhà nước Việt Nam
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Bộ phận Một cửa Ngân hàng Nhà nước 49 Lý Thái Tổ, Hà Nội
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản không chấp thuận hợp nhất, Văn bản chấp thuận hợp nhất; cấp Giấy phép thành lập và hoạt động của tổ chức tín dụng hợp nhất, chấp thuận các nội dung khác (nếu có)
+Căn cứ pháp lý:
+  * Luật Các tổ chức tín dụng (Luật số 32/2024/QH15)
+  * Thông tư sửa đổi, bổ sung một số điều của một số Thông tư của Thống đốc Ngân hàng Nhà nước Việt Nam trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh,  đơn giản hóa thủ tục hành chính (Thông tư số 69/2025/TT-NHNN)
+  * phân cấp thực hiện thủ tục hành chính trong lĩnh vực thông tin tín dụng và sủa đổi, bổ sung một số điều của các Thông tư liên quan đến cắt giảm, đơn giản hóa, phân cấp thực hiện thủ tục hành chính trong lĩnh vực thành lập và hoạt động ngân hàng (11/2026/TT-NHNN)
+  * Thông tư số 62/2024/TT-NHNN ngày 31 tháng 12 năm 2024 của Thống đốc Ngân hàng Nhà nước Việt Nam quy định điều kiện, hồ sơ, thủ tục chấp thuận việc tổ chức lại ngân hàng thương mại, tổ chức tín dụng phi ngân hàng (62/2024/TT-NHNN)
+  * Thông tư sửa đổi, bổ sung một số điều của Thông tư số 62/2024/TT-NHNN quy định điều kiện, hồ sơ, thủ tục chấp thuận việc tổ chức lại ngân hàng thương mại, tổ chức tín dụng phi ngân hàng (Thông tư 26/2025/TT-NHNN)
+
+Yêu cầu, điều kiện thực hiện: a) Tổ chức tín dụng hợp nhất phải có vốn điều lệ tối thiểu bằng mức vốn pháp định của loại hình tổ chức tín dụng hợp nhất theo quy định của pháp luật.
+b) Sau khi hợp nhất, tổ chức tín dụng hợp nhất phải bảo đảm tuân thủ các quy định của pháp luật về các giới hạn, tỷ lệ bảo đảm an toàn, tỷ lệ phần vốn góp, sở hữu cổ phần.
+Từ khóa: Không có thông tin
+Mô tả: a) Tổ chức tín dụng hợp nhất phải có vốn điều lệ tối thiểu bằng mức vốn pháp định của loại hình tổ chức tín dụng hợp nhất theo quy định của pháp luật.
+b) Sau khi hợp nhất, tổ chức tín dụng hợp nhất phải bảo đảm tuân thủ các quy định của pháp luật về các giới hạn, tỷ lệ bảo đảm an toàn, tỷ lệ phần vốn góp, sở hữu cổ phần.

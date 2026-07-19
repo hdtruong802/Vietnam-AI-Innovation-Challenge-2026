@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001091
+Số quyết định: 999/QĐ-BVHTTDL
+Tên thủ tục: Thủ tục gia hạn Giấy phép thiết lập trang thông tin điện tử tổng hợp
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Phát thanh, truyền hình và thông tin điện tử
+Trình tự thực hiện:
+    - Chậm nhất 30 ngày trước khi hết hạn Giấy phép đã được cấp, cơ quan, tổ chức, doanh nghiệp muốn gia hạn Giấy phép đã được cấp gửi văn bản đề nghị gia hạn Giấy phép tới Sở Văn hóa, Thể thao và Du lịch/Sở Văn hóa và Thể thao tỉnh, thành phố (viết tắt là Sở VHTTDL/Sở VHTT).
+    - Việc cấp gia hạn Giấy phép thiết lập trang thông tin điện tử tổng hợp cho cơ quan báo chí trung ương, cơ quan ngoại giao và lãnh sự, tổ chức, doanh nghiệp trực thuộc trung ương, tổ chức tôn giáo hoạt động hợp pháp tại Việt Nam; tổ chức Chính phủ và phi Chính phủ nước ngoài hoạt động hợp pháp tại Việt Nam quy định tại điểm c khoản 8 Điều 24 Nghị định số 147/2024/NĐ-CP do Sở VHTT thành phố Hà Nội thực hiện.
+    - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận được văn bản đề nghị hợp lệ, Sở VHTTDL/Sở VHTT thẩm định, cấp gia hạn Giấy phép đã cấp theo mẫu quy định. Việc xét gia hạn Giấy phép được thực hiện dựa trên việc cơ quan, tổ chức, doanh nghiệp tuân thủ các quy định trong Giấy phép và các quy định của pháp luật có liên quan về quản lý, cung cấp, sử dụng thông tin trên mạng. Trường hợp từ chối, Sở VHTTDL/Sở VHTT có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Đơn đề nghị gia hạn giấy phép thiết lập trang thông tin điện tử tổng hợp theo Mẫu số 25 tại Phụ lục ban hành kèm theo Nghị định số 147/2024/NĐ-CP.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Văn hóa và Thể thao Thành phố Hà Nội
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy phép thiết lập trang thông tin điện tử tổng hợp
+Căn cứ pháp lý:
+  * Nghị định số 147/2024/NĐ-CP của Chính phủ về quản lý, cung cấp, sử dụng dịch vụ internet và thông tin trên mạng (147/2024/NĐ-CP)
+  * Nghị quyết số 18/2026/NQ-CP ngày 29/4/2026 của Chính phủ về cắt giảm, phân cấp, đơn giản hóa thủ tục hành chính, cắt giảm điều kiện đầu tư kinh doanh thuộc phạm vi quản lý của Bộ Văn hóa, Thể thao và Du lịch. (18/2026/NQ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không
+Từ khóa: Không có thông tin
+Mô tả: Không

@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000120
+Số quyết định: 4488/QĐ-BTC
+Tên thủ tục: Thủ tục đối chiếu, xác nhận số dư tài khoản của đơn vị giao dịch tại KBNN
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Kho bạc Nhà nước
+Trình tự thực hiện:
+    a) Đơn vị giao dịch có tài khoản tại Kho bạc Nhà nước gửi hồ sơ theo quy định tại phần Thành phần, số lượng hồ sơ thủ tục này đến Kho bạc Nhà nước nơi mở tài khoản.
+    b) Kho bạc Nhà nước kiểm tra tính hợp lệ của hồ sơ theo quy định tại khoản 4 Điều 3 Nghị định số 347/2025/NĐ-CP ngày 29 tháng 12 năm 2025 của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước.
+    c) Kho bạc Nhà nước thực hiện kiểm tra, đối chiếu số liệu.
+    Trường hợp số liệu khớp đúng, Kho bạc Nhà nước xác nhận số dư tài khoản của đơn vị giao dịch trên thành phần hồ sơ do đơn vị giao dịch gửi đến.
+    Trường hợp số liệu không khớp đúng, Kho bạc Nhà nước gửi lại đơn vị giao dịch thành phần hồ sơ có xác nhận của Kho bạc Nhà nước về việc không khớp đúng số dư tài khoản của đơn vị giao dịch; đồng thời, phối hợp với đơn vị giao dịch rà soát số liệu. Chậm nhất 01 ngày làm việc kể từ khi nhận được xác nhận của Kho bạc Nhà nước về việc số liệu không khớp đúng, đơn vị giao dịch tiếp tục đối chiếu, xác nhận số dư tài khoản của đơn vị giao dịch tại Kho bạc Nhà nước nơi mở tài khoản.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 1 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (Không)
+
+Thành phần hồ sơ:
+  [ Trường hợp hồ sơ không được gửi trên môi trường điện tử: ]
+    - Số lượng mỗi thành phần hồ sơ quy định tại mục Thành phần hồ sơ thủ tục này tối thiểu là 02 bản gốc tùy theo nhu cầu xác nhận của đơn vị giao dịch.
+      Số lượng: Bản chính: 2, Bản sao: 0
+  [ Trường hợp hồ sơ được gửi trên môi trường điện tử: ]
+    - c) Trường hợp đối chiếu số kinh phí được chuyển nguồn sang năm sau:  Bảng đối chiếu tình hình thực hiện dự toán của các nhiệm vụ được chuyển nguồn sang năm sau.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Số lượng mỗi thành phần hồ sơ quy định tại mục Thành phần hồ sơ thủ tục này là 01 bản được ký số theo quy định của pháp luật.
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - d) Trường hợp đối chiếu, xác nhận số dư tài khoản tiền gửi định kỳ, đột xuất: Bảng xác nhận số dư tài khoản tiền gửi tại Kho bạc Nhà nước.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - b) Trường hợp đối chiếu số dư tài khoản tiền gửi kinh phí ngân sách cấp được chuyển nguồn sang năm sau: Bảng đối chiếu số dư tài khoản tiền gửi kinh phí ngân sách cấp của đơn vị được chuyển nguồn sang năm sau.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Trường hợp đối chiếu, xác nhận số dư tài khoản dự toán định kỳ, đột xuất:  Trường hợp đối chiếu dự toán, tình hình sử dụng kinh phí ngân sách bằng hình thức lệnh chi tiền: Bảng đối chiếu dự toán kinh phí ngân sách bằng hình thức lệnh chi tiền tại Kho bạc Nhà nước và Bảng đối chiếu tình hình sử dụng kinh phí ngân sách bằng hình thức lệnh chi tiền tại Kho bạc Nhà nước.  Trường hợp đối chiếu dự toán, tình hình sử dụng kinh phí ngân sách bằng hình thức rút dự toán: Bảng đối chiếu dự toán kinh phí ngân sách bằng hình thức rút dự toán tại Kho bạc Nhà nước và Bảng đối chiếu tình hình sử dụng kinh phí ngân sách bằng hình thức rút dự toán tại Kho bạc Nhà nước.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Kho bạc nhà nước các cấp
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thành phần hồ sơ của đơn vị giao dịch có xác nhận của Kho bạc Nhà nước về việc không khớp đúng số dư tài khoản của đơn vị giao dịch, Thành phần hồ sơ của đơn vị giao dịch có xác nhận của Kho bạc Nhà nước về số dư tài khoản của đơn vị giao dịch
+Căn cứ pháp lý:
+  * Nghị định số 347/2025/NĐ-CP của Chính phủ: Quy định về thủ tục hành chính thuộc lĩnh vực Kho bạc Nhà nước (347/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

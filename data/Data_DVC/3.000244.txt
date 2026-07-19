@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000244
+Số quyết định: 3116/QĐ-BCA-C06
+Tên thủ tục: Cấp đổi Giấy chứng nhận đủ điều kiện về an ninh, trật tự (thực hiện tại Công an cấp xã)
+Cấp thực hiện: Cấp Xã
+Loại thủ tục: OTHER
+Lĩnh vực: Quản lý ngành nghề đầu tư, kinh doanh có điều kiện về an ninh, trật tự
+Trình tự thực hiện:
+    - Bước 1: Tổ chức, cá nhân có nhu cầu được cấp mới Giấy chứng nhận đủ điều kiện về an ninh, trật tự để kinh doanh một số ngành, nghề đầu tư kinh doanh có điều kiện nộp hồ sơ về Công an cấp xã – Công an cấp tỉnh.
+    - Bước 2: Cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ
+    + Nếu hồ sơ hợp lệ và đủ thành phần thì tiếp nhận hồ sơ và gửi Giấy biên nhận hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) cho người liên hệ nộp hồ sơ.
+    + Nếu hồ sơ chưa đầy đủ thành phần hoặc không hợp lệ thì hướng dẫn và gửi Phiếu hướng dẫn hoàn thiện hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) cho người liên hệ nộp hồ sơ.
+    + Nếu hồ sơ không đủ điều kiện hoặc không thuộc thẩm quyền giải quyết thì từ chối tiếp nhận hồ sơ và gửi thông báo lý do từ chối giải quyết hồ sơ trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID) cho người liên hệ nộp hồ sơ.
+    - Bước 3: Căn cứ ngày hẹn trả kết quả trên Giấy biên nhận hồ sơ, Cục Cảnh sát quản lý hành chính về trật tự xã hội trả kết quả trực tiếp hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia hoặc qua Ứng dụng định danh quốc gia (VNeID).
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 300000 VNĐ ()
+    Mô tả: - Nộp hồ sơ trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã – Công an cấp tỉnh hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia/Ứng dụng định danh quốc gia (VNeID) (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).
+- Nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã – Công an cấp tỉnh h hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia/Ứng dụng định danh quốc gia (VNeID).
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 300000 VNĐ ()
+    Mô tả: - Nộp hồ sơ trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã – Công an cấp tỉnh hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia/Ứng dụng định danh quốc gia (VNeID) (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).
+- Nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã – Công an cấp tỉnh h hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia/Ứng dụng định danh quốc gia (VNeID).
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 3 WORKING_DAY
+    Phí, lệ phí: 300000 VNĐ ()
+    Mô tả: - Nộp hồ sơ trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã – Công an cấp tỉnh hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia/Ứng dụng định danh quốc gia (VNeID) (trừ các văn bản, giấy tờ không được phép đăng tải qua hệ thống mạng theo quy định của pháp luật).
+- Nhận kết quả trực tiếp tại bộ phận tiếp nhận hồ sơ của Công an cấp xã – Công an cấp tỉnh h hoặc qua dịch vụ bưu chính hoặc qua Cổng dịch vụ công quốc gia/Ứng dụng định danh quốc gia (VNeID).
+
+Thành phần hồ sơ:
+    - - Văn bản đề nghị cấp đổi Giấy chứng nhận đủ điều kiện về an ninh, trật tự của cơ sở kinh doanh (Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định số 56/2023/NĐ-CP)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản chính Giấy chứng nhận đủ điều kiện về an ninh, trật tự đã được cấp trước đó (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Tài liệu quy định tại điểm b khoản 4 Điều 19 Nghị định số 96/2016/NĐ-CP hoặc tại điểm b khoản 3 Điều 1 Nghị định số 56/2023/NĐ-CP trong trường hợp thay đổi người đứng tên trong Giấy chứng nhận đủ điều kiện về an ninh, trật tự của cơ sở kinh doanh
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản sao hợp lệ các tài liệu chứng minh sự thay đổi của các thông tin ghi trên Giấy chứng nhận đủ điều kiện về an ninh, trật tự (nếu có)
+      Số lượng: Bản chính: 0, Bản sao: 1
+
+Đối tượng thực hiện: Công dân Việt Nam, Doanh nghiệp, Người nước ngoài
+Cơ quan thực hiện: Công an cấp Xã
+Cơ quan có thẩm quyền: Công an cấp Xã
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đủ điều kiện về an ninh, trật tự
+Căn cứ pháp lý:
+  * Thông tư 23/2019/TT-BTC (23/2019/TT-BTC)
+  * Thông tư 42/2017/TT-BCA (42/2017/TT-BCA)
+  * Quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí thẩm định điều kiện thuộc lĩnh vực an ninh; phí sát hạch cấp chứng chỉ nghiệp vụ bảo vệ; lệ phí cấp giấy phép quản lý pháo; lệ phí cấp giấy phép quản lý vũ khí, vật liệu nổ, công cụ hỗ trợ (Thông tư 218/2016/TT-BTC)
+  * Nghị định 96/2016/NĐ-CP (96/2016/NĐ-CP)
+  * Nghị định 56/2023/NĐ-CP (56/2023/NĐ-CP)
+  * Thông tư 15/2022/TT-BCA (15/2022/TT-BCA)
+  * Thông tư số 43/2017/TT-BCA ngày 20/10/2017 của Bộ Công an (43/2017/TT-BCA)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

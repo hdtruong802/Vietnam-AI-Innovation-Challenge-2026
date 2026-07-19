@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "record_type": "prompt_event",
+  "prompt_id": "prompt-c91b333446685991672de365",
+  "occurred_at": "2026-07-18T23:32:20.440651Z",
+  "captured_at": "2026-07-18T23:32:20.440868Z",
+  "member_id": "hdtruong802",
+  "tool": "codex",
+  "event": "UserPrompt",
+  "prompt": "Tri?n khai waiver h?p cho hai commit l?ch s? thi?u AI Log c?a PR #32, gi? enforcement cho commit m?i v? s?a marker conflict/Decision ID tr?ng.",
+  "prompt_preview": "Tri?n khai waiver h?p cho hai commit l?ch s? thi?u AI Log c?a PR #32, gi? enforcement cho commit m?i v? s?a marker conflict/Decision ID tr?ng.",
+  "model": null,
+  "task_record": "local-20260719-pr32-merge-readiness",
+  "branch": "fix/local-20260719-ai-log-waiver",
+  "workspace_fingerprint": "29aa416e0bb250a6b4670ada7dbae02bdeb972e36fb01db0ae28310d10af8a5d",
+  "source": {
+    "session_hash": "68854abade4180049baaad5d9f51bf279786c678f9b5d863725194b692aeae6a",
+    "adapter": "manual",
+    "adapter_version": "1"
+  },
+  "sanitization": {
+    "redacted": false,
+    "categories": []
+  },
+  "capture_warnings": []
+}

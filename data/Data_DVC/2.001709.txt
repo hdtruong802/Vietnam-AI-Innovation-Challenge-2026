@@ -1,0 +1,61 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.001709
+Số quyết định: QĐ/0001-BCA
+Tên thủ tục: Tuyển lao động hợp đồng trong Công an nhân dân (thực hiện tại cấp tỉnh)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Tổ chức, cán bộ
+Trình tự thực hiện:
+    Bước 1: Thông báo trên phương tiện thông tin đại chúng hoặc niêm yết công khai tại trụ sở làm việc về nhu cầu tuyển  lao động.
+    Bước 2: Người lao động nộp hồ sơ cho Cơ quan tổ chức tại đơn vị cần tuyển lao động.
+    Bước 3: Nghiên cứu hồ sơ của người lao động, gặp trực tiếp để trao đổi tìm hiểu tâm tư, nguyện vọng của người lao động.
+    Bước 4: Xét, tuyển lao động: Dựa trên các yêu cầu, tiêu chuẩn, điều kiện, đơn vị quyết định đủ điều kiện hay không đủ điều kiện. Nếu không đủ điều kiện thì trả lại hồ sơ. Nếu đủ điều kiện thì tiến hành thẩm tra lý lịch  đối với người lao động.
+    + Trường hợp ký kết hợp đồng lao động không xác định thời hạn (hưởng lương ngân sách) thì đơn vị tiến hành thẩm tra lý lịch đối với người lao động.
+    + Trường hợp ký kết hợp đồng lao động xác định thời hạn từ đủ 12 đến 36 tháng thì đơn vị lấy xác nhận của ông an cấp huyện và sơ yếu lý lịch của người lao động.
+    Bước 5: Tiến hành thoả thuận về việc làm thử, thời gian thử việc và ký kết hợp đồng lao động theo quy định.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết:  OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Theo thông báo của cơ quan sử dụng lao động thuộc tổ chức cán bộCông an, Cảnh sát Phòng cháy và chữa cháy tỉnh, thành phố trực thuộc Trung ương.
+
+Thành phần hồ sơ:
+    - Nếu là cán bộ, công chức nhà nước đang công tác thì phải được sự đồng ý bằng văn bản của cơ quan chủ quản và có nhận xét  cán bộ (về phẩm chất, đạo đức, trình độ chuyên môn…), các chứng chỉ về chuyên môn nghiệp vụ có liên quan đến công việc. Nếu là học sinh tốt nghiệp các trường đào tạo thì phải có bằng tốt nghiệp hoặc chứng chỉ nghề. Nếu đã ký kết hợp đồng lao động ở các đơn vị, công ty thì phải có Sổ lao động, Sổ bảo hiểm xã hội.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy khai sinh có chứng nhận của UBND cấp xã.
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Sơ yếu lý lịch, có dán ảnh kiểu chứng minh nhân dân cỡ 4x6cm, KHÔNG CẦN XÁC NHẬN CỦA UBND CẤP XÃ NƠI ĐĂNG KÝ NƠI ĐĂNG KÝ THƯỜNG TRÚ,
+      Số lượng: Bản chính: 1, Bản sao: 1
+    - Đơn xin ký kết hợp đồng lao động, người lao động trong Công an nhân dân.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy chứng nhận sức khỏe.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Công an cấp Tỉnh
+Cơ quan có thẩm quyền: Công an cấp Tỉnh
+Địa chỉ tiếp nhận HS: Tại cơ quan tuyển lao động thuộc Công an, tỉnh, thành phố trực thuộc Trung ương.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Hợp đồng lao động.
+Căn cứ pháp lý:
+  * QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA BỘ LUẬT LAO ĐỘNG VỀ ĐIỀU KIỆN LAO ĐỘNG VÀ QUAN HỆ LAO ĐỘNG (145/2020/NĐ-CP)
+  * Thông tư 22/2022/TT-BCA (22/2022/TT-BCA)
+  * Bộ Luật lao động (45/2019/QH14)
+
+Yêu cầu, điều kiện thực hiện: Người lao động, phải đáp ứng được các yêu cầu sau:
+a) Là công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam, có địa chỉ thường trú tại Việt Nam;
+b) Tuổi đời từ đủ 18 tuổi trở lên;
+c) Có chuyên môn nghiệp vụ phù hợp với yêu cầu sử dụng lao động;
+d) Có năng lực và trình độ để hoàn thành công việc;
+đ) Có tiêu chuẩn chính trị theo quy định tại Điều 10 Thông tư 32/2010/TT-BCA, ngày 29/9/2010 của Bộ Công an;
+e) Có đủ sức khoẻ để lao động, được Bệnh viện đa khoa hoặc Trung tâm y tế cấp huyện trở lên khám và kết luận (theo mẫu Giấy chứng nhận sức khoẻ ban hành kèm theo Thông tư số 13/2007/TT-BYT ngày 21/11/2007 của Bộ trưởng Bộ Y tế); không mắc bệnh kinh niên, mãn tính; không sử dụng ma tuý và các chất gây nghiện, không nhiễm HIV.
+Từ khóa: Tuyển lao động hợp đồng trong Công an nhân dân (thực hiện tại cấp tỉnh)
+Mô tả: Người lao động, phải đáp ứng được các yêu cầu sau:
+a) Là công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam, có địa chỉ thường trú tại Việt Nam;
+b) Tuổi đời từ đủ 18 tuổi trở lên;
+c) Có chuyên môn nghiệp vụ phù hợp với yêu cầu sử dụng lao động;
+d) Có năng lực và trình độ để hoàn thành công việc;
+đ) Có tiêu chuẩn chính trị theo quy định tại Điều 10 Thông tư 32/2010/TT-BCA, ngày 29/9/2010 của Bộ Công an;
+e) Có đủ sức khoẻ để lao động, được Bệnh viện đa khoa hoặc Trung tâm y tế cấp huyện trở lên khám và kết luận (theo mẫu Giấy chứng nhận sức khoẻ ban hành kèm theo Thông tư số 13/2007/TT-BYT ngày 21/11/2007 của Bộ trưởng Bộ Y tế); không mắc bệnh kinh niên, mãn tính; không sử dụng ma tuý và các chất gây nghiện, không nhiễm HIV.

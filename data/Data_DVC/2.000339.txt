@@ -1,0 +1,54 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000339
+Số quyết định: 2866/QĐ-BCT
+Tên thủ tục: Điều chỉnh tên, mã số doanh nghiệp, địa chỉ trụ sở chính, tên, địa chỉ của cơ sở bán lẻ, loại hình của cơ sở bán lẻ, điều chỉnh giảm diện tích của cơ sở bán lẻ trên Giấy phép lập cơ sở bán lẻ
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thương mại quốc tế
+Trình tự thực hiện:
+    a) Hồ sơ 01 bộ gửi trực tiếp hoặc qua đường bưu chính hoặc qua mạng điện tử (nếu đủ điều kiện áp dụng) đến Cơ quan cấp Giấy phép;
+    b) Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan cấp Giấy phép kiểm tra và yêu cầu sửa đổi, bổ sung nếu hồ sơ chưa đủ và hợp lệ;
+    c) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ đủ và hợp lệ, Cơ quan cấp giấy phép điều chỉnh Giấy phép lập cơ sở bán lẻ, trường hợp từ chối phải có văn bản trả lời và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - b) Trường hợp thay đổi tên, địa chỉ trụ sở chính: Bản sao Giấy phép kinh doanh ghi nhận nội dung điều chỉnh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - a) Đơn đề nghị điều chỉnh Giấy phép lập cơ sở bán lẻ (Mẫu số 05 Phụ lục ban hành kèm theo Nghị định).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - d) Trường hợp giảm diện tích cơ sở bán lẻ: Các giấy tờ có liên quan.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - c) Trường hợp thay đổi địa chỉ của cơ sở bán lẻ: Bản sao văn bản của cơ quan có thẩm quyền cấp phường, xã, thị trấn xác nhận việc thay đổi địa chỉ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài, Doanh nghiệp có vốn đầu tư nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: GIẤY PHÉP LẬP CƠ SỞ BÁN LẺ
+Căn cứ pháp lý:
+  * Luật quản lý ngoại thương (05/2017/QH14)
+  * Nghị định số 146/2025/NĐ-CP (nghị định 146/2025)
+  * Quy định chi tiết Luật thương mại và Luật Quản lý ngoại thương về hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam (09/2018/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Điều kiện chung:
+Đảm bảo các điều kiện chung được quy định tại Điều 22 Nghị định số 09/2018/NĐ-CP
+- Điều kiện riêng:
+Trường hợp tổ chức kinh tế có vốn đầu tư nước ngoài có nhu cầu điều chỉnh tên, mã số doanh nghiệp, địa chỉ trụ sở chính, tên, địa chỉ của cơ sở bán lẻ, loại hình của cơ sở bán lẻ, điều chỉnh giảm diện tích của cơ sở bán lẻ trên Giấy phép lập cơ sở bán lẻ
+Từ khóa: Không có thông tin
+Mô tả: - Điều kiện chung:
+Đảm bảo các điều kiện chung được quy định tại Điều 22 Nghị định số 09/2018/NĐ-CP
+- Điều kiện riêng:
+Trường hợp tổ chức kinh tế có vốn đầu tư nước ngoài có nhu cầu điều chỉnh tên, mã số doanh nghiệp, địa chỉ trụ sở chính, tên, địa chỉ của cơ sở bán lẻ, loại hình của cơ sở bán lẻ, điều chỉnh giảm diện tích của cơ sở bán lẻ trên Giấy phép lập cơ sở bán lẻ

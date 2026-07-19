@@ -1,0 +1,59 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000340
+Số quyết định: 3783/QĐ-BCT
+Tên thủ tục: Cấp lại Giấy phép kinh doanh cho tổ chức kinh tế có vốn đầu tư nước ngoài
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Thương mại quốc tế
+Trình tự thực hiện:
+    - Trong vòng 10 ngày làm việc kể từ ngày có Giấy chứng nhận đăng ký doanh nghiệp ghi nhận nội dung điều chỉnh trong trường hợp cấp lại quy định tại khoản 1 Điều 17 của Nghị định 09/2018/NĐ-CP, tổ chức kinh tế có vốn đầu tư nước ngoài đề nghị cấp lại Giấy phép kinh doanh lập 01 bộ hồ sơ gửi trực tiếp hoặc qua đường bưu chính hoặc hệ thống dịch vụ công trực tuyến đến Ủy ban nhân dân cấp tỉnh nơi tổ chức kinh tế có vốn đầu tư nước ngoài chuyển đến.
+    - Trường hợp hồ sơ chưa đầy đủ và hợp lệ, trong vòng 03 ngày làm việc kể từ ngày tiếp nhận hồ sơ, Ủy ban nhân dân cấp tỉnh thông báo để tổ chức, cá nhân bổ sung, hoàn chỉnh hồ sơ. Thời gian hoàn chỉnh hồ sơ không được tính vào thời gian cấp Giấy phép kinh doanh.
+    - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ quy định Ủy ban nhân dân cấp tỉnh cấp lại Giấy phép kinh doanh và sao gửi 01 bản Giấy phép kinh doanh cho Ủy ban nhân dân cấp tỉnh nơi chuyển đi để cập nhật vào Hệ thống cơ sở dữ liệu. Trường hợp không cấp lại Giấy phép kinh doanh, Ủy ban nhân dân cấp tỉnh phải có văn bản trả lời và nêu rõ lý do.
+    - Trong thời hạn 05 ngày làm việc kể từ ngày được cấp lại Giấy phép kinh doanh, tổ chức kinh tế có vốn đầu tư nước ngoài có trách nhiệm hoàn trả Giấy phép kinh doanh đã được cấp trước đó cho Ủy ban nhân dân cấp tỉnh nơi chuyển đi.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Bản sao Giấy chứng nhận đăng ký doanh nghiệp (đối với trường hợp cấp lại do tổ chức Chuyển địa điểm đặt trụ sở chính từ một tỉnh/thành phố trực thuộc Trung ương đến một tỉnh/thành phố trực thuộc Trung ương khác).
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Cơ quan giải quyết TTHC khai thác, sử dụng thông tin đã có trong Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp để thay thế thành phần hồ sơ Bản sao giấy chứng nhận đăng ký doanh nghiệp.Trường hợp Cơ quan giải quyết TTHC không khai thác được hoặc khai thác không đầy đủ dữ liệu doanh nghiệp trên Cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp, Cơ quan giải quyết TTHC yêu cầu doanh nghiệp bổ sung Bản sao Giấy chứng nhận đăng ký doanh nghiệp theo quy định tại Điều 8 Nghị quyết 66.7/2025/NQ-CP ngày 15/11/2025 của Chính phủ quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Đơn đề nghị cấp lại Giấy phép kinh doanh (Mẫu số 03 tại Phụ lục ban hành kèm theo Nghị định 09/2018/NĐ-CP ngày 15/01/2018);
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức nước ngoài
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: GIẤY PHÉP KINH DOANH HOẠT ĐỘNG MUA BÁN HÀNG HÓA VÀ CÁC HOẠT ĐỘNG LIÊN QUAN TRỰC TIẾP ĐẾN MUA BÁN HÀNG HÓA
+Căn cứ pháp lý:
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Luật sửa đổi, bổ sung Điều 6 và Phụ lục 4 về Danh mục ngành, nghề đầu tư kinh doanh có điều kiện của Luật đầu tư (03/2016/QH14)
+  * Luật Thương mại (36/2005/QH11)
+  * Luật quản lý ngoại thương (05/2017/QH14)
+  * Luật đầu tư (67/2014/QH13)
+  * Quy định chi tiết Luật thương mại và Luật Quản lý ngoại thương về hoạt động mua bán hàng hóa và các hoạt động liên quan trực tiếp đến mua bán hàng hóa của nhà đầu tư nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài tại Việt Nam (09/2018/NĐ-CP)
+  * Nghị định số 146/2025/NĐ-CP (nghị định 146/2025)
+
+Yêu cầu, điều kiện thực hiện: a. Điều kiện chung
+Đáp ứng các điều kiện quy định tại Điều 9 Nghị định 09/2018/NĐ-CP ngày 15/01/2018 tương ứng như đối với thủ tục cấp mới
+b. Điều kiện riêng:
+- Giấy phép kinh doanh được cấp lại trong trường hợp chuyển địa điểm đặt trụ sở chính từ một tỉnh/thành phố trực thuộc Trung ương đến một tỉnh/thành phố trực thuộc Trung ương khác.
+- Giấy phép kinh doanh bị mất hoặc bị hỏng
+Từ khóa: Không có thông tin
+Mô tả: a. Điều kiện chung
+Đáp ứng các điều kiện quy định tại Điều 9 Nghị định 09/2018/NĐ-CP ngày 15/01/2018 tương ứng như đối với thủ tục cấp mới
+b. Điều kiện riêng:
+- Giấy phép kinh doanh được cấp lại trong trường hợp chuyển địa điểm đặt trụ sở chính từ một tỉnh/thành phố trực thuộc Trung ương đến một tỉnh/thành phố trực thuộc Trung ương khác.
+- Giấy phép kinh doanh bị mất hoặc bị hỏng

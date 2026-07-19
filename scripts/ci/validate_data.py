@@ -12,7 +12,16 @@ from typing import Iterable
 
 
 DEFAULT_ROOT = Path(__file__).resolve().parents[2]
-DATA_PATTERN = re.compile(r"data/[^/]+\.txt\Z")
+ALLOWED_DATA_PATTERNS = (
+    # Small normalized/fixture payloads retained for backwards compatibility.
+    re.compile(r"data/[^/]+\.txt\Z"),
+    # Curated public-source text used as review input. The guard deliberately
+    # validates only Git metadata, never source content.
+    re.compile(r"data/Data_DVC/[^/]+\.txt\Z"),
+    # Family registry is metadata consumed by release tooling, not a raw
+    # document payload.
+    re.compile(r"data/registry/procedure-family-registry\.csv\Z"),
+)
 MAX_BLOB_BYTES = 2 * 1024 * 1024
 
 
@@ -62,7 +71,7 @@ def validate(root: Path, git_range: str) -> list[str]:
     errors: list[str] = []
     sizes = data_blob_sizes(root, head) if paths else {}
     for path in paths:
-        if not DATA_PATTERN.fullmatch(path):
+        if not any(pattern.fullmatch(path) for pattern in ALLOWED_DATA_PATTERNS):
             errors.append(f"Unexpected data path: {path}")
             continue
         size = sizes.get(path)

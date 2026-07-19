@@ -1,0 +1,52 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000046
+Số quyết định: 1781/QĐ-BCT
+Tên thủ tục: Thông báo tiếp nhận hồ sơ công bố hợp quy các sản phẩm, hàng hóa phù hợp quy chuẩn kỹ thuật quốc gia
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Chất lượng sản phẩm hàng hóa
+Trình tự thực hiện:
+    * Tiếp nhận hồ sơ
+    Tổ chức, cá nhân thực hiện công bố hợp quy sản phẩm, hàng hóa, dịch vụ, quá trình, môi trường phù hợp với quy chuẩn kỹ thuật tương ứng (Bao gồm: Trường hợp công bố hợp quy dựa trên kết quả tự đánh giá; trường hợp công bố hợp quy dựa trên kết quả đánh giá của tổ chức chứng nhận đã đăng ký hoặc được thừa nhận; trường hợp công bố hợp quy dựa trên kết quả đánh giá của tổ chức chứng nhận được chỉ định) nộp hồ sơ tới Ủy ban nhân dân tỉnh, thành phố trược thuộc Trung ương nơi tổ chức, cá nhân sản xuất đăng ký doanh nghiệp hoặc đăng ký hộ kinh (sau đây viết tắt là cơ quan tiếp nhận hồ sơ) .
+    Thời gian tiếp nhận hồ sơ: Trong giờ hành chính vào ngày làm việc trong tuần (trừ thứ bảy, chủ nhật, ngày lễ nghỉ).
+    * Xử lý hồ sơ
+    - Đối với trường hợp công bố hợp quy dựa trên kết quả tự đánh giá:
+    + Tổ chức, cá nhân nộp hồ sơ công bố hợp quy theo quy định cho cơ quan tiếp nhận hồ sơ để công bố hợp quy dựa trên kết quả tự đánh giá của tổ chức, cá nhân;
+    + Sau khi có bản Thông báo tiếp nhận hồ sơ công bố hợp quy của cơ quan tiếp nhận hồ sơ, tổ chức, cá nhân được phép lưu thông hàng hóa.
+    - Đối với trường hợp công bố hợp quy dựa trên kết quả đánh giá của tổ chức chứng nhận đã đăng ký hoặc được thừa nhận (sau đây viết tắt là tổ chức chứng nhận):
+    + Tổ chức, cá nhân nộp hồ sơ công bố hợp quy theo quy định cho cơ quan tiếp nhận hồ sơ để công bố hợp quy dựa trên kết quả đánh giá của tổ chức chứng nhận;
+    + Sau khi có bản Thông báo tiếp nhận hồ sơ công bố hợp quy của cơ quan tiếp nhận hồ sơ, tổ chức, cá nhân được phép lưu thông hàng hóa.
+    - Đối với trường hợp công bố hợp quy dựa trên kết quả đánh giá của tổ chức chứng nhận được chỉ định:
+    + Tổ chức, cá nhân nộp hồ sơ công bố hợp quy theo quy định kèm theo bản sao y bản chính Giấy chứng nhận phù hợp quy chuẩn kỹ thuật của tổ chức chứng nhận được chỉ định cho cơ quan tiếp nhận hồ sơ để được cấp Thông báo tiếp nhận hồ sơ công bố hợp quy;
+    + Sau khi có bản Thông báo tiếp nhận hồ sơ công bố hợp quy của cơ quan tiếp nhận hồ sơ, tổ chức, cá nhân được phép lưu thông hàng hóa.
+    - Cơ quan tiếp nhận hồ sơ tiếp nhận và kiểm tra tính đầy đủ của hồ sơ theo trình tự sau:
+    + Trường hợp hồ sơ đăng ký công bố hợp quy không đầy đủ theo quy định, trong thời hạn 03 (ba) ngày làm việc kể từ ngày nhận được hồ sơ đăng ký công bố hợp quy, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản đề nghị bổ sung các loại giấy tờ theo quy định tới tổ chức, cá nhân công bố hợp quy. Sau thời hạn 15 (mười lăm) ngày làm việc kể từ ngày gửi văn bản đề nghị mà hồ sơ đăng ký công bố hợp quy không được bổ sung đầy đủ theo quy định, cơ quan tiếp nhận hồ sơ có quyền huỷ bỏ việc xử lý đối với hồ sơ này.
+    + Trường hợp hồ sơ đăng ký công bố hợp quy đầy đủ và hợp lệ, cơ quan tiếp nhận hồ sơ ban hành Thông báo tiếp nhận hồ sơ đăng ký công bố hợp quy cho tổ chức, cá nhân công bố hợp quy.
+    + Trường hợp hồ sơ đăng ký công bố hợp quy đầy đủ nhưng không hợp lệ, cơ quan tiếp nhận hồ sơ thông báo bằng văn bản cho tổ chức, cá nhân công bố hợp quy về lý do không tiếp nhận hồ sơ.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - - Trường hợp công bố hợp quy dựa trên kết quả chứng nhận của tổ chức chứng nhận đã đăng ký hoặc tổ chức chứng nhận được chỉ định (bên thứ ba), hồ sơ công bố hợp quy bao gồm: + Bản công bố hợp quy (theo Mẫu 2. CBHC/HQ quy định tại Phụ lục III Thông tư số 28/2012/TT-BKHCN và nội dung bổ sung quy định tại khoản 7 Điều 1 Thông tư số 02/2017/TT-BKHCN); + Bản sao y bản chính Giấy chứng nhận phù hợp quy chuẩn kỹ thuật tương ứng kèm theo mẫu dấu hợp quy do tổ chức chứng nhận đã đăng ký hoặc tổ chức chứng nhận được chỉ định cấp cho tổ chức, cá nhân.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Trường hợp công bố hợp quy dựa trên kết quả tự đánh giá của tổ chức, cá nhân (bên thứ nhất), hồ sơ công bố hợp quy bao gồm: + Bản công bố hợp quy (theo Mẫu 2. CBHC/HQ quy định tại Phụ lục III Thông tư số 28/2012/TT-BKHCN và nội dung bổ sung quy định tại khoản 7 Điều 1 Thông tư số 02/2017/TT-BKHCN); + Báo cáo tự đánh giá gồm các thông tin sau: Tên tổ chức, cá nhân; địa chỉ; điện thoại, fax; Tên sản phẩm, hàng hóa; Số hiệu quy chuẩn kỹ thuật; Kết luận sản phẩm, hàng hóa phù hợp với quy chuẩn kỹ thuật; Cam kết chất lượng sản phẩm, hàng hóa phù hợp với quy chuẩn kỹ thuật, tiêu chuẩn công bố áp dụng và hoàn toàn chịu trách nhiệm trước pháp luật về chất lượng sản phẩm, hàng hóa và kết quả tự đánh giá. Báo cáo tự đánh giá dựa trên kết quả tự thực hiện của tổ chức, cá nhân hoặc dựa trên kết quả đánh giá của tổ chức đánh giá sự phù hợp đã đăng ký.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Người Việt Nam định cư ở nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Doanh nghiệp có vốn đầu tư nước ngoài, Công dân Việt Nam, Người nước ngoài, Cán bộ, công chức, viên chức, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Ủy ban nhân dân cấp tỉnh
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Thông báo tiếp nhận hồ sơ công bố hợp quy.
+Căn cứ pháp lý:
+  * Sửa đổi, bổ sung một số quy định về phân cấp thực hiện thủ tục hành chính trong các lĩnh vực thuộc phạm vi quản lý của Bộ Công Thương (38/2025/TT-BCT)
+  * Nghị định Quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật (127/2007/NĐ-CP)
+  * Thông tư Quy định quản lý chất lượng các sản phẩm, hàng hóa nhóm 2 thuộc phạm vi quản lý của Bộ Công Thương (48/2011/TT-BCT)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

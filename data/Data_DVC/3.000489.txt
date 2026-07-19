@@ -1,0 +1,55 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000489
+Số quyết định: 5461/QĐ-BCA-C07
+Tên thủ tục: Thẩm định thiết kế về phòng cháy chữa cháy
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Phòng cháy, chữa cháy
+Trình tự thực hiện:
+    - Bước 1: cá nhân, tổ chức chuẩn bị hồ sơ theo quy định của pháp luật.
+    - Bước 2: cá nhân, tổ chức nộp hồ sơ tại Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; Phòng Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ Công an cấp tỉnh, thành phố trực thuộc trung ương.
+    - Bước 3: cán bộ tiếp nhận kiểm tra tính hợp lệ và thành phần của hồ sơ (hồ sơ đề nghị thẩm định thiết kế về phòng cháy và chữa cháy là hồ sơ điện tử hoặc hồ sơ giấy và phải có xác nhận của chủ đầu tư, chủ sở hữu công trình, chủ phương tiện giao thông và đơn vị tư vấn thiết kế; trường hợp hồ sơ giấy thì giấy tờ, tài liệu là bản chính hoặc bản chụp kèm theo bản chính để bộ phận tiếp nhận hồ sơ đối chiếu).
+    + Nếu hồ sơ hợp lệ và đủ thành phần thì viết giấy tiếp nhận hồ sơ và hẹn trả kết quả hoặc thông báo về việc tiếp nhận hồ sơ qua Cổng Dịch vụ công;
+    + Nếu hồ sơ chưa đầy đủ thành phần hoặc chưa hợp lệ thì viết phiếu yêu cầu bổ sung, hoàn thiện hồ sơ hoặc phiếu từ chối tiếp nhận, giải quyết hồ sơ hoặc thông báo về việc yêu cầu chỉnh sửa, bổ sung hồ sơ qua Cổng Dịch vụ công.
+    - Bước 4: căn cứ theo ngày hẹn trên Giấy tiếp nhận giải quyết thủ tục hành chính về phòng cháy, chữa cháy cá nhân, tổ chức đến nơi nộp hồ sơ để nhận kết quả trực tiếp hoặc qua dịch vụ bưu chính hoặc nhận kết quả điện tử trên Cổng Dịch vụ công.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (quy định tại Điều 26 và phụ lục Ia Thông tư 37/2025/TT-BCA ngày 15/5/2025.)
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (quy định tại Điều 26 và phụ lục Ia Thông tư 37/2025/TT-BCA ngày 15/5/2025.)
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 10 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ (quy định tại Điều 26 và phụ lục Ia Thông tư 37/2025/TT-BCA ngày 15/5/2025.)
+
+Thành phần hồ sơ:
+  [ Đối với phương tiện giao thông ]
+    - Hồ sơ thiết kế kỹ thuật thể hiện những nội dung yêu cầu về phòng cháy và chữa cháy quy định tại điểm d khoản 2 Điều 16  Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản đề nghị thẩm định thiết kế về phòng cháy và chữa cháy theo (Mẫu số PC11 ban hành kèm theo Nghị định số  105/2025/NĐ-CP ngày 15/5/2025 của Chính phủ).
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công công trình trong báo cáo kinh tế - kỹ thuật đầu tư xây dựng, thiết kế xây dựng triển khai sau thiết kế cơ sở: ]
+    - Văn bản đề nghị thẩm định thiết kế về phòng cháy và chữa cháy theo (Mẫu số PC11 ban hành kèm theo Nghị định số 105/2025/NĐ-CP ngày 15/5/2025 của  Chính phủ)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ thiết kế kỹ thuật hoặc thiết kế bản vẽ thi công thể hiện những nội dung quy định tại điểm e và điểm g khoản 1 Điều 16 Luật Phòng cháy,  chữa cháy và cứu nạn, cứu hộ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tờ hợp pháp về đất đai chứng minh sự phù hợp mục đích sử dụng đất và sở hữu công trình hoặc văn bản về chủ trương đầu tư, xây dựng công trình theo quy định pháp luật về đầu tư, pháp luật về đầu tư công, pháp luật về đầu tư theo  phương thức đối tác công tư.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản thẩm định thiết kế về phòng cháy và chữa cháy của chủ đầu tư,  chủ sở hữu công trình.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam
+Cơ quan thực hiện: Cục cảnh sát phòng cháy, chữa cháy và cứu nạn cứu hộ
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Văn bản thẩm định thiết kế về phòng cháy và chữa cháy
+Căn cứ pháp lý:
+  * quy định chi tiết một số điều và biện pháp thi hành luật phòng cháy, chữa cháy và cứu nạn, cứu hộ (105/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

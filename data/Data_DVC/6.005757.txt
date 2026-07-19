@@ -1,0 +1,41 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.005757
+Số quyết định: 2267./QĐ-BXD
+Tên thủ tục: Phê duyệt kế hoạch quản lý, bảo trì công trình đường sắt quốc gia
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Đường sắt
+Trình tự thực hiện:
+    - Căn cứ thông báo của Bộ Xây dựng về dự toán chi ngân sách nhà nước hoạt động kinh tế đường sắt, doanh nghiệp quản lý tài sản đường sắt quốc gia rà soát, cập nhật kế hoạch quản lý, bảo trì công trình đường sắt của năm kế hoạch phù hợp với nguồn kinh phí được bố trí và trình Bộ Xây dựng, đồng thời gửi Cục Đường sắt Việt Nam trước ngày 01 tháng 11 hằng năm để thẩm định.
+    - Cục Đường sắt Việt Nam thực hiện thẩm định và gửi kết quả thẩm định về Bộ Xây dựng và doanh nghiệp quản lý tài sản kết cấu hạ tầng đường sắt quốc gia trước ngày 01 tháng 12 hằng năm.
+    - Trên cơ sở báo cáo thẩm định của Cục Đường sắt Việt Nam, doanh nghiệp quản lý tài sản kết cấu hạ tầng đường sắt quốc gia tiếp thu ý kiến thẩm định và hoàn thiện trình Bộ Xây dựng phê duyệt kế hoạch quản lý, bảo trì công trình đường sắt trước ngày 05 tháng 12 hằng năm.
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+    Mô tả: Không quy định
+
+Thành phần hồ sơ:
+    - + Tờ trình kế hoạch quản lý, bảo trì công trình đường sắt.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Thuyết minh kế hoạch quản lý, bảo trì công trình đường sắt.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Bảng tổng hợp khối lượng bảo dưỡng công trình đường sắt.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - + Hồ sơ trạng thái kỹ thuật công trình đường sắt.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp
+Cơ quan thực hiện: Bộ Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt kế hoạch quản lý, bảo trì công trình đường sắt quốc gia
+Căn cứ pháp lý:
+  Không có thông tin căn cứ pháp lý.
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

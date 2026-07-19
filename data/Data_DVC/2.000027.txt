@@ -1,0 +1,73 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000027
+Số quyết định: 2179/QĐ-BYT
+Tên thủ tục: Cấp lại, sửa đổi, bổ sung Giấy phép thành lập cơ sở hỗ trợ nạn nhân
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Phòng, chống tệ nạn xã hội
+Trình tự thực hiện:
+    Bước 1: Tổ chức, cá nhân đề nghị cấp lại, sửa đổi, bổ sung Giấy phép thành lập cơ sở hỗ trợ nạn nhân gửi 01 bộ hồ sơ theo quy định đến Sở Y tế nơi cơ sở đặt trụ sở.
+    Bước 2: Trong thời hạn 04 ngày làm việc, Sở Y tế xem xét nội dung đề nghị cấp lại hoặc sửa đổi, bổ sung Giấy phép thành lập và đối chiếu hồ sơ gốc; hoàn thiện hồ sơ trình Chủ tịch Ủy ban nhân dân cấp tỉnh cấp lại, sửa đổi, bổ sung Giấy phép thành lập.
+    Bước 3: Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được văn bản đề nghị của Sở Y tế, Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định việc cấp lại Giấy phép thành lập theo Mẫu số 11 hoặc quyết định sửa đổi, bổ sung Giấy phép thành lập theo Mẫu số 12 ban hành kèm theo Nghị định số 162/2025/NĐ-CP ngày 29/6/2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống mua bán người.
+    Trường hợp không đồng ý, Chủ tịch Ủy ban nhân dân cấp tỉnh trả lời bằng văn bản và nêu rõ lý do.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 7 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.
+
+Thành phần hồ sơ:
+  [ Đối với thủ tục cấp lại Giấy phép thành lập cơ sở hỗ trợ nạn nhân ]
+    - Đơn đề nghị cấp lại Giấy phép thành lập cơ sở hỗ trợ nạn nhân theo Mẫu số 08 ban hành kèm theo Nghị định số 162/2025/NĐ-CP ngày 29/6/2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống mua bán người.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với thủ tục sửa đổi, bổ sung Giấy phép thành lập cơ sở hỗ trợ nạn nhân do thay đổi người quản lý cơ sở ]
+    - Sơ yếu lý lịch của người quản lý cơ sở hỗ trợ nạn nhân theo Mẫu số 10 ban hành kèm theo Nghị định số 162/2025/NĐ-CP ngày 29/6/2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống mua bán người và văn bằng chứng chỉ chứng minh trình độ chuyên môn của người quản lý cơ sở
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị sửa đổi, bổ sung Giấy phép thành lập cơ sở hỗ trợ nạn nhân theo Mẫu số 08 ban hành kèm theo Nghị định số 162/2025/NĐ-CP ngày 29/6/2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống mua bán người
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với thủ tục sửa đổi, bổ sung Giấy phép thành lập cơ sở hỗ trợ nạn nhân do thay đổi tên gọi, phạm vi hoạt động, dịch vụ hỗ trợ ]
+    - Các văn bằng chứng chỉ chứng minh trình độ chuyên môn của nhân sự làm việc dự kiến tại cơ sở
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đơn đề nghị  sửa đổi, bổ sung Giấy phép thành lập cơ  sở hỗ trợ nạn nhân theo Mẫu số 08 ban hành kèm theo Nghị định số 162/2025/NĐ-CP ngày 29/6/2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống mua bán người
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với thủ tục sửa đổi, bổ sung Giấy phép thành lập cơ sở hỗ trợ nạn nhân do thay đổi địa điểm đặt trụ sở ]
+    - Đơn đề nghị sửa đổi, bổ sung Giấy phép thành lập  cơ sở hỗ trợ nạn  nhân theo Mẫu số 08 ban hành kèm theo Nghị định số 162/2025/NĐ-CP ngày 29/6/2025 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống mua bán người
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy tờ hợp pháp về quyền sử dụng đất, quyền sở hữu nhà ở hoặc tài sản gắn liền với đất phục vụ cho hoạt động của cơ sở hỗ trợ nạn nhân
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Hợp tác xã, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài
+Cơ quan thực hiện: Chủ tịch ủy ban nhân dân cấp tỉnh, Sở Y tế
+Cơ quan có thẩm quyền: Ủy ban Nhân dân tỉnh và thành phố trực thuộc trung ương.
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định cấp lại, sửa đổi, bổ sung Giấy phép thành lập cơ sở hỗ trợ nạn nhân
+Căn cứ pháp lý:
+  * Nghị định số 42/2025/NĐ-CP của Chính phủ: Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế (42/2025/NĐ-CP)
+  * Nghị định số 45/2025/NĐ-CP ngày 28/02/2025 của Chính phủ quy định tổ chức các cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (45/2025/NĐ-CP)
+  * Hướng dẫn thi hành một số điều của Nghị định số 09/2013/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính phủ quy định chi tiết thi hành một số điều của Luật Phòng, chống mua bán người (35/2013/TT-BLĐTBXH)
+  * Luật số 53/2024/QH15 của Quốc hội: Luật Phòng, chống mua bán người (53/2024/QH15)
+  * Nghị định số 162/2025/NĐ-CP của Chính phủ: Quy định chi tiết một số điều và biện pháp thi hành Luật Phòng, chống mua bán người (162/2025/NĐ-CP)
+  * Hướng dẫn Luật Phóng chống mua bán người (09/2013/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: a) Đối với trường hợp cấp lại: Giấy phép thành lập bị mất, bị hư hỏng hoặc bị tiêu hủy do hỏa hoạn, thiên tai.
+b) Đối với trường hợp sửa đổi, bổ sung:
+- Thay đổi người quản lý cơ sở;
+- Thay đổi địa điểm đặt trụ sở;
+- Thay đổi tên gọi, phạm vi hoạt động, dịch vụ hỗ trợ.
+Từ khóa: Không có thông tin
+Mô tả: a) Đối với trường hợp cấp lại: Giấy phép thành lập bị mất, bị hư hỏng hoặc bị tiêu hủy do hỏa hoạn, thiên tai.
+b) Đối với trường hợp sửa đổi, bổ sung:
+- Thay đổi người quản lý cơ sở;
+- Thay đổi địa điểm đặt trụ sở;
+- Thay đổi tên gọi, phạm vi hoạt động, dịch vụ hỗ trợ.

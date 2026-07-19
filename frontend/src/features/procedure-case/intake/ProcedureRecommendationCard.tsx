@@ -18,13 +18,13 @@ export default function ProcedureRecommendationCard({
   onReject,
 }: ProcedureRecommendationCardProps) {
   return (
-    <div className="mx-4 mb-3 p-4 bg-card-bg border border-accent/40 rounded-xl shadow-sm space-y-3 text-left">
+    <div className="mx-4 mb-3 p-4 bg-[var(--vg-surface)] border border-[var(--vg-border-strong)] rounded-xl space-y-3 text-left">
       <div>
-        <span className="text-[10px] font-bold text-accent tracking-wider uppercase">
-          Thủ tục được đề xuất (U1)
+        <span className="text-[10px] font-bold text-[var(--vg-accent)] tracking-wider uppercase">
+          Thủ tục được đề xuất
         </span>
-        <h4 className="text-sm font-bold text-primary mt-0.5">{candidate.name}</h4>
-        <p className="text-xs text-zinc-600 mt-1 leading-relaxed">{candidate.reason}</p>
+        <h4 className="text-sm font-bold text-[var(--vg-text)] mt-0.5">{candidate.name}</h4>
+        <p className="text-xs text-[var(--vg-text-secondary)] mt-1 leading-relaxed">{candidate.reason}</p>
       </div>
 
       <TrustBadge
@@ -40,14 +40,14 @@ export default function ProcedureRecommendationCard({
         <button
           type="button"
           onClick={onConfirm}
-          className="px-4 py-2 bg-accent text-white text-xs font-bold rounded-lg hover:bg-accent-hover transition-all focus-visible:ring-2 focus-visible:ring-accent outline-none"
+          className="px-4 py-2 bg-[var(--vg-accent)] text-white text-xs font-bold rounded-lg hover:bg-[var(--vg-accent-hover)] transition-all focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none"
         >
           Xác nhận thủ tục này
         </button>
         <button
           type="button"
           onClick={onReject}
-          className="px-4 py-2 border border-border-slate text-primary text-xs font-bold rounded-lg hover:bg-neutral-bg transition-all focus-visible:ring-2 focus-visible:ring-accent outline-none"
+          className="px-4 py-2 border border-[var(--vg-border)] text-[var(--vg-text)] text-xs font-bold rounded-lg hover:bg-[var(--vg-surface-subtle)] transition-all focus-visible:ring-2 focus-visible:ring-[var(--vg-accent)] outline-none"
         >
           Không đúng, chọn lại
         </button>

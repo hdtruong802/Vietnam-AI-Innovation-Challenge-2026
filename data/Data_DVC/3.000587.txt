@@ -1,0 +1,56 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000587
+Số quyết định: 1776/QĐ-UBND
+Tên thủ tục: Thủ tục tặng thưởng Bằng khen của Chủ tịch UBND thành phố (công trạng)
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: OTHER
+Lĩnh vực: Thi đua - khen thưởng
+Trình tự thực hiện:
+    Bước 1: Tổ chức hoàn thiện hồ sơ theo hướng dẫn và nộp trực tuyến, trực tiếp hoặc qua dịch vụ bưu chính công ích đến Trung tâm Phục vụ hành chính công cấp xã/thành phố
+    Bước 2: Bộ phận Tiếp nhận và trả kết quả của đơn vị tiếp nhận hồ sơ (yêu cầu bổ sung, hoàn thiện nếu hồ sơ chưa đầy đủ); chuyển Sở Nội vụ (Ban Thi đua - Khen thưởng thành phố) thẩm định
+    Bước 3: Thẩm định hồ sơ, xin ý kiến các cơ quan liên quan, tổng hợp tham mưu Sở Nội vụ xem xét trình Chủ tịch UBND thành phố quyết định khen thưởng nếu hồ sơ đảm bảo. Các trường hợp không được khen thưởng (không đúng đối tượng, không đủ tiêu chuẩn, không đủ hồ sơ hoặc vi phạm pháp luật), Sở Nội vụ thông báo đến các đơn vị trình khen biết
+    Bước 4: Khi có Quyết định của Chủ tịch UBND thành phố, Sở Nội vụ thông báo Quyết định, viết bằng, đóng dấu và cấp phát cho đơn vị trình khen
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 25 WORKING_DAY
+    Phí, lệ phí: Không có thông tin
+
+Thành phần hồ sơ:
+    - Tờ trình đề nghị xét tặng khen thưởng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo thành tích theo mẫu số 8 đối với cá nhân
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo thành tích theo mẫu số 1 đối với tập thể
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản xét khen thưởng của Hội đồng Thi đua - Khen thưởng cấp trình khen thưởng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp khen thưởng dựa trên tiêu chuẩn liên quan đến kết quả đánh giá mức độ hoàn thành nhiệm vụ, danh hiệu Chiến sĩ thi đua cơ sở hoặc sáng kiến hoặc đề tài khoa học: Đơn vị trình khen thưởng phải cung cấp văn bản đánh giá mức độ hoàn thành nhiệm vụ, Quyết định tặng danh hiệu Chiến sĩ thi đua cơ sở, Quyết định công nhận hoặc giấy xác nhận về sáng kiến đã được công nhận và áp dụng hiệu quả trong phạm vi cơ sở hoặc đề tài khoa học, đề án khoa học, công trình khoa học và công nghệ đã được nghiệm thu và áp dụng hiệu quả trong phạm vi cơ sở (đối với cá nhân)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp thành tích liên quan đến đóng góp của tập thể, cá nhân, hộ gia đình: Kèm theo minh chứng thể hiện sự đóng góp
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Văn bản xếp loại tổ chức đảng, đoàn thể (đối với tập thể có tổ chức đảng, đoàn thể)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đối với đề nghị khen thưởng liên quan đến tổ chức kinh tế, người đại diện pháp luật của tổ chức kinh tế kèm theo văn bản xác nhận của các cơ quan có liên quan về việc thực hiện nghĩa vụ đối với Nhà nước (thuế, bảo hiểm xã hội; môi trường, an toàn vệ sinh lao động, an toàn vệ sinh thực phẩm nếu lĩnh vực hoạt động có liên quan).
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX), Tổ chức Đảng
+Cơ quan thực hiện: Sở Nội vụ TP.Đà Nẵng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định của Chủ tịch UBND thành phố
+Căn cứ pháp lý:
+  * Quy định về phân cấp, phân quyền trong lĩnh vực thi đua, khen thưởng; quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thi đua, khen thưởng (152/2025/NĐ-CP)
+  * Về việc ban hành Quy định về công tác thi đua, khen thưởng trên địa bàn thành phố Đà Nẵng (85/2025/QĐ-UBND (thành phố Đà Nẵng))
+
+Yêu cầu, điều kiện thực hiện: Căn cứ Điều 12 Quyết định số 85/2025/QĐ-UBND ngày 05 tháng 12 năm 2025 của UBND thành phố về việc ban hành Quy định về công tác thi đua, khen thưởng trên địa bàn thành phố Đà Nẵng.
+Từ khóa: Không có thông tin
+Mô tả: Căn cứ Điều 12 Quyết định số 85/2025/QĐ-UBND ngày 05 tháng 12 năm 2025 của UBND thành phố về việc ban hành Quy định về công tác thi đua, khen thưởng trên địa bàn thành phố Đà Nẵng.

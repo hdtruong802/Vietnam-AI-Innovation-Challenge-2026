@@ -74,3 +74,7 @@ Thumbs.db
 
 dataset_raw/
 data_raw
+
+# Raw source archives are local review inputs. Keep only curated text sources
+# and registry metadata under `data/` in Git.
+data/*.zip

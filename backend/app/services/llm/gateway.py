@@ -30,9 +30,7 @@ logger = logging.getLogger("vngov.llm_gateway")
 def _evidence_to_text(chunks) -> str:
     lines = []
     for chunk in chunks:
-        lines.append(
-            f"[{chunk.section}] {chunk.text[:600]} (Nguồn: {chunk.source_title})"
-        )
+        lines.append(f"[{chunk.section}] {chunk.text[:600]} (Nguồn: {chunk.source_title})")
     return "\n".join(lines)
 
 
@@ -66,9 +64,7 @@ class LLMGateway:
                 timeout=settings.effective_ai_timeout_seconds,
             )
         except Exception:  # pragma: no cover - defensive, missing/broken SDK
-            logger.warning(
-                "LLM Gateway: khong the khoi tao client, dung fallback offline."
-            )
+            logger.warning("LLM Gateway: khong the khoi tao client, dung fallback offline.")
             cls._client = None
         return cls._client
 
@@ -118,13 +114,9 @@ class LLMGateway:
             try:
                 return ClarificationOutput.model_validate(raw)
             except Exception:
-                logger.warning(
-                    "LLM Gateway: output khong dung schema, fallback deterministic."
-                )
+                logger.warning("LLM Gateway: output khong dung schema, fallback deterministic.")
 
-        return cls._fallback_clarification(
-            user_message, evidence_chunks, pending_questions
-        )
+        return cls._fallback_clarification(user_message, evidence_chunks, pending_questions)
 
     @classmethod
     def explain_finding(
@@ -133,9 +125,7 @@ class LLMGateway:
         rule_message: str,
         tokenized_context: str = "",
     ) -> ExplanationOutput:
-        payload = build_explanation_user_payload(
-            field_label, rule_message, tokenized_context
-        )
+        payload = build_explanation_user_payload(field_label, rule_message, tokenized_context)
         raw = cls._call_json(EXPLANATION_SYSTEM_PROMPT, payload)
         if raw is not None:
             try:
@@ -177,9 +167,7 @@ class LLMGateway:
                 reply_message=question_text,
             )
 
-        procedure_name = (
-            evidence_chunks[0].procedure_name if evidence_chunks else "thủ tục của bạn"
-        )
+        procedure_name = evidence_chunks[0].procedure_name if evidence_chunks else "thủ tục của bạn"
         return ClarificationOutput(
             intent_summary=user_message[:200],
             needs_clarification=False,

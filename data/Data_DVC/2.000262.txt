@@ -1,0 +1,111 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.000262
+Số quyết định: 1177/QĐ-BCT
+Tên thủ tục: Thông báo tập trung kinh tế
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Quản lý Cạnh tranh
+Trình tự thực hiện:
+    + Tiếp nhận hồ sơ Thông báo tập trung kinh tế
+    Doanh nghiệp nộp Hồ sơ Thông báo tập trung kinh tế (“Hồ sơ”) trực tiếp tại Văn Phòng Uỷ ban Cạnh tranh Quốc gia hoặc thông qua đường bưu chính hoặc nộp trực tuyến tại Cổng dịch vụ công Quốc gia.
+    + Rà soát tính đầy đủ hợp lệ của Hồ sơ
+    Trong thời hạn 07 ngày làm việc kể từ ngày tiếp nhận Hồ sơ, Uỷ ban Cạnh tranh Quốc gia kiểm tra tính đầy đủ, hợp lệ của Hồ sơ. Trường hợp Hồ sơ không đầy đủ, hợp lệ, Uỷ ban Cạnh tranh Quốc gia thông báo bằng văn bản cho doanh nghiệp sửa đổi, bổ sung Hồ sơ trong vòng 30 ngày kể từ ngày ra thông báo.
+    Quá thời hạn 30 ngày, các doanh nghiệp chưa bổ sung đầy đủ thông tin, tài liệu, Uỷ ban Cạnh tranh Quốc gia tiến hành trả lại Hồ sơ;
+    Trường hợp Hồ sơ đầy đủ, hợp lệ, Uỷ ban Cạnh tranh Quốc gia tiến hành tiếp nhận và thẩm định.
+    + Thẩm định Hồ sơ
+    Thẩm định sơ bộ Hồ sơ: Sau khi tiếp nhận Hồ sơ đầy đủ và hợp lệ. Uỷ ban Cạnh tranh Quốc gia tiến hành thẩm định sơ bộ Hồ sơ trong tối đa 30 ngày kể từ ngày tiếp nhận đầy đủ hợp lệ;
+    Thẩm định chính thức Hồ sơ: Trường hợp Hồ sơ thuộc trường hợp phải thẩm định chính thức theo quy định tại khoản 4 Điều 14 Nghị định 35. Trong vòng 30 ngày kể từ ngày tiếp nhận đầy đủ hợp lệ, Uỷ ban Cạnh tranh Quốc gia gửi văn bản thông báo cho các doanh nghiệp nộp Hồ sơ về việc tập trung kinh tế phải thẩm định chính thức. Uỷ ban Cạnh tranh Quốc gia tiến hành thẩm định chính thức Hồ sơ trong thời gian tối đa 90 ngày kể từ ngày ban hành văn bản thông báo cho doanh nghiệp TTKT phải thẩm định chính thức (có thể gia hạn không quá 60 ngày và có thông báo bằng văn bản cho doanh nghiệp được biết).
+    +  Trả lời thông báo tập trung kinh tế
+    - Trường hợp Hồ chỉ thẩm định sơ bộ: Trong thời hạn 30 ngày kể từ ngày tiếp nhận đầy đủ hợp lệ, Uỷ ban Cạnh tranh Quốc gia thông báo kết quả thẩm định sơ bộ tập trung kinh tế tới các doanh nghiệp về một trong các nội dung sau: (i) Tập trung kinh tế được thực hiện hoặc (ii) Tập trung kinh tế phải thẩm định chính thức. Hết thời hạn 30 ngày thẩm định sơ bộ, Uỷ ban Cạnh tranh Quốc gia chưa ra thông báo kết quả thẩm định sơ bộ thì việc tập trung kinh tế được thực hiện theo quy định tại Khoản 3 Điều 36 Luật Cạnh tranh;
+    - Trường hợp Hồ sơ phải thẩm định chính thức: Trong thời hạn tối đa 90 ngày (có thể gia hạn tối đa 60 ngày) Uỷ ban Cạnh tranh Quốc gia ra quyết định về một trong các trường hợp sau: (i) Tập trung kinh tế được thực hiện, (ii) Tập trung kinh tế có điều kiện theo quy định tại Điều 42 của Luật Cạnh tranh; (iii) Tập trung kinh tế thuộc trường hợp bị cấm.
+
+Cách thức thực hiện:
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 90 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - 30 ngày kể từ ngày tiếp nhận đầy đủ hợp lệ đối với trường hợp thẩm định sơ bộ;
+- 90 ngày (gia hạn tối đa 60 ngày) kể từ ngày ra thông báo hồ sơ thông báo tập trung kinh tế thuộc trường hợp phải thẩm định chính thức.
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 90 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - 30 ngày kể từ ngày tiếp nhận đầy đủ hợp lệ đối với trường hợp thẩm định sơ bộ;
+- 90 ngày (gia hạn tối đa 60 ngày) kể từ ngày ra thông báo hồ sơ thông báo tập trung kinh tế thuộc trường hợp phải thẩm định chính thức.
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 90 ngày
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - 30 ngày kể từ ngày tiếp nhận đầy đủ hợp lệ đối với trường hợp thẩm định sơ bộ;
+- 90 ngày (gia hạn tối đa 60 ngày) kể từ ngày ra thông báo hồ sơ thông báo tập trung kinh tế thuộc trường hợp phải thẩm định chính thức.
+
+Thành phần hồ sơ:
+    - - Thông tin về thị phần trong lĩnh vực dự định tập trung kinh tế của từng doanh nghiệp tham gia tập trung kinh tế trong 02 năm liên tiếp liền kề trước năm thông báo tập trung kinh tế;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đơn theo mẫu do Ủy ban Cạnh tranh Quốc gia ban hành;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Danh sách các công ty mẹ, công ty con, công ty thành viên, chi nhánh, văn phòng đại diện và các đơn vị phụ thuộc khác của từng doanh nghiệp tham gia tập trung kinh tế (nếu có);
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Bản sao hợp lệ Giấy chứng nhận đăng ký doanh nghiệp hoặc văn bản tương đương của từng doanh nghiệp tham gia tập trung kinh tế;
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - - Báo cáo tài chính của từng doanh nghiệp tham gia tập trung kinh tế trong 02 năm liên tiếp liền kề trước năm thông báo tập trung kinh tế hoặc báo cáo tài chính từ thời điểm thành lập đến thời điểm thông báo tập trung kinh tế đối với doanh nghiệp mới thành lập có xác nhận của tổ chức kiểm toán theo quy định của pháp luật;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Dự thảo nội dung thỏa thuận tập trung kinh tế hoặc dự thảo hợp đồng, biên bản ghi nhớ việc tập trung kinh tế giữa các doanh nghiệp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo đánh giá tác động tích cực của việc tập trung kinh tế và các biện pháp tăng cường tác động tích cực của việc tập trung kinh tế.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Phương án khắc phục khả năng gây tác động hạn chế cạnh tranh của việc tập trung kinh tế;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Danh sách các loại hàng hóa, dịch vụ mà từng doanh nghiệp tham gia tập trung kinh tế đang kinh doanh;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Đối với giấy tờ, tài liệu của nước ngoài thì phải được hợp pháp hóa lãnh sự theo quy định của pháp luật về hợp pháp hóa lãnh sự
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Ủy ban Cạnh tranh Quốc gia
+Cơ quan có thẩm quyền: Bộ Công thương
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: + Trong trường hợp thẩm định sơ bộ:  Thông báo kết quả thẩm định sơ bộ việc tập trung kinh tế. + Trong trường hợp thẩm định chính thức: Quyết định về việc tập trung kinh tế.
+Căn cứ pháp lý:
+  * Nghị quyết số 66.18/2026/NQ-CP ngày 18 tháng 5 năm 2026 của Chính phủ về việc phân quyền, cắt giảm, đơn giản hóa thủ tục hành chính, điều kiện kinh doanh (66.18/2026/NQ-CP)
+  * Nghị quyết số 66.7/2025/NQ-CP của Chính phủ: Quy định cắt giảm, đơn giản hóa thủ tục hành chính dựa trên dữ liệu (66.7/2025/NQ-CP)
+  * Nghị định Quy định chi tiết thi hành một số điều của Luật Cạnh tranh (116/2005/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: (i) Các doanh nghiệp dự định tham gia tập trung kinh tế phải thông báo cho Ủy ban Cạnh tranh Quốc gia trước khi thực hiện tập trung kinh tế nếu thuộc trong một trong các trường hợp sau đây:
+- Tổng tài sản trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp liên kết mà doanh nghiệp đó là thành viên đạt 6.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+- Tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp liên kết mà doanh nghiệp đó là thành viên đạt 6.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+- Giá trị giao dịch của tập trung kinh tế từ 2.000 tỷ đồng trở lên;
+- Thị phần kết hợp của các doanh nghiệp dự định tham gia tập trung kinh tế từ 20% trở lên trên thị trường liên quan trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế.
+(ii) Các doanh nghiệp là tổ chức tín dụng, doanh nghiệp bảo hiểm, công ty chứng khoán dự định tham gia tập trung kinh tế phải thông báo cho Ủy ban Cạnh tranh Quốc gia trước khi thực hiện tập trung kinh tế nếu thuộc trong một trong các trường hợp sau đây:
+- Tổng tài sản trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp bảo hiểm liên kết mà doanh nghiệp đó là thành viên, của công ty hoặc nhóm công ty chứng khoán liên kết mà công ty đó là thành viên đạt 15.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; tổng tài sản trên thị trường Việt Nam của tổ chức tín dụng hoặc nhóm tổ chức tín dụng liên kết mà tổ chức tín dụng đó là thành viên đạt 20% trở lên trên tổng tài sản của hệ thống các tổ chức tín dụng trên thị trường Việt Nam trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+- Tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp bảo hiểm liên kết mà doanh nghiệp đó là thành viên đạt 10.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của công ty hoặc nhóm công ty chứng khoán liên kết mà công ty đó là thành viên đạt 3.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; tổng doanh thu trên thị trường Việt Nam của tổ chức tín dụng hoặc nhóm tổ chức tín dụng liên kết mà tổ chức tín dụng đó là thành viên đạt từ 20% trở lên trên tổng doanh thu của hệ thống các tổ chức tín dụng trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+- Giá trị giao dịch của tập trung kinh tế của doanh nghiệp bảo hiểm, công ty chứng khoán từ 3.000 tỷ đồng trở lên; giá trị giao dịch của tập trung kinh tế của tổ chức tín dụng từ 20% trở lên trên tổng vốn điều lệ của hệ thống các tổ chức tín dụng trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+- Thị phần kết hợp của các doanh nghiệp dự định tham gia tập trung kinh tế từ 20% trở lên trên thị trường liên quan trong năm tài chính liên kề trước năm dự kiến thực hiện tập trung kinh tế.
+(iii) Trường hợp tập trung kinh tế được thực hiện ngoài lãnh thổ Việt Nam, ngưỡng thông báo tập trung kinh tế được áp dụng:
++ Đối với các doanh nghiệp dự định tham gia tập trung kinh tế: 
+Tổng tài sản trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp liên kết mà doanh nghiệp đó là thành viên đạt 6.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; 
+Tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp liên kết mà doanh nghiệp đó là thành viên đạt 6.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; 
+Thị phần kết hợp của các doanh nghiệp dự định tham gia tập trung kinh tế từ 20% trở lên trên thị trường liên quan trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế.
++ Đối với các doanh nghiệp là tổ chức tín dụng, doanh nghiệp bảo hiểm, công ty chứng khoán dự định tham gia tập trung kinh tế: 
+Tổng tài sản trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp bảo hiểm liên kết mà doanh nghiệp đó là thành viên, của công ty hoặc nhóm công ty chứng khoán liên kết mà công ty đó là thành viên đạt 15.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; tổng tài sản trên thị trường Việt Nam của tổ chức tín dụng hoặc nhóm tổ chức tín dụng liên kết mà tổ chức tín dụng đó là thành viên đạt 20% trở lên trên tổng tài sản của hệ thống các tổ chức tín dụng trên thị trường Việt Nam trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+Tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp bảo hiểm liên kết mà doanh nghiệp đó là thành viên đạt 10.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của công ty hoặc nhóm công ty chứng khoán liên kết mà công ty đó là thành viên đạt 3.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; tổng doanh thu trên thị trường Việt Nam của tổ chức tín dụng hoặc nhóm tổ chức tín dụng liên kết mà tổ chức tín dụng đó là thành viên đạt từ 20% trở lên trên tổng doanh thu của hệ thống các tổ chức tín dụng trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+Thị phần kết hợp của các doanh nghiệp dự định tham gia tập trung kinh tế từ 20% trở lên trên thị trường liên quan trong năm tài chính liên kề trước năm dự kiến thực hiện tập trung kinh tế.
+Từ khóa: Không có thông tin
+Mô tả: (i) Các doanh nghiệp dự định tham gia tập trung kinh tế phải thông báo cho Ủy ban Cạnh tranh Quốc gia trước khi thực hiện tập trung kinh tế nếu thuộc trong một trong các trường hợp sau đây:
+- Tổng tài sản trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp liên kết mà doanh nghiệp đó là thành viên đạt 6.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+- Tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp liên kết mà doanh nghiệp đó là thành viên đạt 6.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+- Giá trị giao dịch của tập trung kinh tế từ 2.000 tỷ đồng trở lên;
+- Thị phần kết hợp của các doanh nghiệp dự định tham gia tập trung kinh tế từ 20% trở lên trên thị trường liên quan trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế.
+(ii) Các doanh nghiệp là tổ chức tín dụng, doanh nghiệp bảo hiểm, công ty chứng khoán dự định tham gia tập trung kinh tế phải thông báo cho Ủy ban Cạnh tranh Quốc gia trước khi thực hiện tập trung kinh tế nếu thuộc trong một trong các trường hợp sau đây:
+- Tổng tài sản trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp bảo hiểm liên kết mà doanh nghiệp đó là thành viên, của công ty hoặc nhóm công ty chứng khoán liên kết mà công ty đó là thành viên đạt 15.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; tổng tài sản trên thị trường Việt Nam của tổ chức tín dụng hoặc nhóm tổ chức tín dụng liên kết mà tổ chức tín dụng đó là thành viên đạt 20% trở lên trên tổng tài sản của hệ thống các tổ chức tín dụng trên thị trường Việt Nam trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+- Tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp bảo hiểm liên kết mà doanh nghiệp đó là thành viên đạt 10.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của công ty hoặc nhóm công ty chứng khoán liên kết mà công ty đó là thành viên đạt 3.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; tổng doanh thu trên thị trường Việt Nam của tổ chức tín dụng hoặc nhóm tổ chức tín dụng liên kết mà tổ chức tín dụng đó là thành viên đạt từ 20% trở lên trên tổng doanh thu của hệ thống các tổ chức tín dụng trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+- Giá trị giao dịch của tập trung kinh tế của doanh nghiệp bảo hiểm, công ty chứng khoán từ 3.000 tỷ đồng trở lên; giá trị giao dịch của tập trung kinh tế của tổ chức tín dụng từ 20% trở lên trên tổng vốn điều lệ của hệ thống các tổ chức tín dụng trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+- Thị phần kết hợp của các doanh nghiệp dự định tham gia tập trung kinh tế từ 20% trở lên trên thị trường liên quan trong năm tài chính liên kề trước năm dự kiến thực hiện tập trung kinh tế.
+(iii) Trường hợp tập trung kinh tế được thực hiện ngoài lãnh thổ Việt Nam, ngưỡng thông báo tập trung kinh tế được áp dụng:
++ Đối với các doanh nghiệp dự định tham gia tập trung kinh tế: 
+Tổng tài sản trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp liên kết mà doanh nghiệp đó là thành viên đạt 6.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; 
+Tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp liên kết mà doanh nghiệp đó là thành viên đạt 6.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; 
+Thị phần kết hợp của các doanh nghiệp dự định tham gia tập trung kinh tế từ 20% trở lên trên thị trường liên quan trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế.
++ Đối với các doanh nghiệp là tổ chức tín dụng, doanh nghiệp bảo hiểm, công ty chứng khoán dự định tham gia tập trung kinh tế: 
+Tổng tài sản trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp bảo hiểm liên kết mà doanh nghiệp đó là thành viên, của công ty hoặc nhóm công ty chứng khoán liên kết mà công ty đó là thành viên đạt 15.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; tổng tài sản trên thị trường Việt Nam của tổ chức tín dụng hoặc nhóm tổ chức tín dụng liên kết mà tổ chức tín dụng đó là thành viên đạt 20% trở lên trên tổng tài sản của hệ thống các tổ chức tín dụng trên thị trường Việt Nam trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+Tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của doanh nghiệp hoặc nhóm doanh nghiệp bảo hiểm liên kết mà doanh nghiệp đó là thành viên đạt 10.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; tổng doanh thu bán ra hoặc doanh số mua vào trên thị trường Việt Nam của công ty hoặc nhóm công ty chứng khoán liên kết mà công ty đó là thành viên đạt 3.000 tỷ đồng trở lên trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế; tổng doanh thu trên thị trường Việt Nam của tổ chức tín dụng hoặc nhóm tổ chức tín dụng liên kết mà tổ chức tín dụng đó là thành viên đạt từ 20% trở lên trên tổng doanh thu của hệ thống các tổ chức tín dụng trong năm tài chính liền kề trước năm dự kiến thực hiện tập trung kinh tế;
+Thị phần kết hợp của các doanh nghiệp dự định tham gia tập trung kinh tế từ 20% trở lên trên thị trường liên quan trong năm tài chính liên kề trước năm dự kiến thực hiện tập trung kinh tế.

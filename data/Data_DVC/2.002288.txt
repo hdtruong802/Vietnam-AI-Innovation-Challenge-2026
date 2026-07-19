@@ -1,0 +1,58 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002288
+Số quyết định: 461/QĐ-BXD
+Tên thủ tục: Cấp, cấp lại Phù hiệu cho xe ô tô, xe bốn bánh có gắn động cơ kinh doanh vận tải
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Đường bộ
+Trình tự thực hiện:
+    a) Nộp hồ sơ TTHC:
+    - Đơn vị kinh doanh vận tải nộp hồ sơ đề nghị cấp (cấp lại) phù hiệu đến Sở Xây dựng nơi đã cấp Giấy phép kinh doanh cho đơn vị.
+    - Trường hợp đơn vị kinh doanh vận tải hành khách theo tuyến cố định có nhu cầu sử dụng xe trung chuyển nộp hồ sơ đề nghị cấp phù hiệu "XE TRUNG CHUYỂN" đến Sở Xây dựng nơi cấp Giấy phép kinh doanh cho đơn vị hoặc Sở Xây dựng đầu tuyến bên kia.
+    b) Giải quyết TTHC:
+    - Trường hợp hồ sơ cần sửa đổi, bổ sung, Sở Xây dựng thông báo trực tiếp hoặc bằng văn bản hoặc thông báo qua hệ thống dịch vụ công trực tuyến những nội dung cần bổ sung hoặc sửa đổi đến đơn vị kinh doanh vận tải trong thời hạn 01 ngày làm việc kể từ ngày nhận hồ sơ. Trường hợp gửi hồ sơ trực tuyến, đơn vị kinh doanh vận tải phải chịu trách nhiệm trước pháp luật về tính chính xác của các thông tin đã đăng ký đề nghị cấp phù hiệu.
+    - Trong thời hạn 02 ngày làm việc, kể từ khi nhận hồ sơ đúng quy định, Sở Xây dựng cấp phù hiệu cho các xe theo đề nghị của đơn vị kinh doanh vận tải và cập nhật các phù hiệu đã cấp vào Cơ sở dữ liệu cấp phép hoạt động vận tải. Trường hợp từ chối không cấp, Sở Xây dựng trả lời bằng văn bản hoặc trả lời thông qua hệ thống dịch vụ công trực tuyến và nêu rõ lý do.
+    - Việc tiếp nhận hồ sơ và trả kết quả được thực hiện trên hệ thống dịch vụ công trực tuyến của Bộ Xây dựng hoặc trực tiếp tại Sở Xây dựng hoặc dịch vụ bưu chính. Trường hợp tiếp nhận hồ sơ trực tiếp hoặc dịch vụ bưu chính, cán bộ tiếp nhận hồ sơ cập nhật thông tin của các hồ sơ đúng theo quy định vào hệ thống dịch vụ công trực tuyến của Bộ Xây dựng.
+    - Sở Xây dựng thực hiện việc xử lý hồ sơ và cấp phù hiệu trên hệ thống dịch vụ công trực tuyến của Bộ Xây dựng và cập nhật kết quả cấp phép vào Cơ sơ dữ liệu cấp phép hoạt động vận tải;
+    - Sở Xây dựng kiểm tra thông tin về Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với các xe ô tô để đảm bảo phương tiện đủ điều kiện kinh doanh vận tải trên hệ thống Đăng kiểm Việt Nam;
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 2 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+    - Chứng nhận đăng ký xe ô tô hoặc giấy hẹn nhận chứng nhận đăng ký xe ô tô của cơ quan có thẩm quyền cấp giấy chứng nhận đăng ký xe ô tô (bản sao hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính hoặc bản sao điện tử từ sổ gốc). Trường hợp phương tiện không thuộc quyền sở hữu của đơn vị kinh doanh vận tải thì xuất trình thêm bản sao hoặc bản sao có chứng thực hoặc bản sao điện tử được chứng thực từ bản chính hoặc bản sao điện tử từ sổ gốc một trong các giấy tờ sau: hợp đồng thuê phương tiện bằng văn bản với tổ chức, cá nhân hoặc hợp đồng dịch vụ giữa thành viên và hợp tác xã hoặc hợp đồng hợp tác kinh doanh
+      Số lượng: Bản chính: 0, Bản sao: 1
+    - Giấy đề nghị cấp (cấp lại) phù hiệu theo mẫu
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Sở Xây dựng
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Phù hiệu (xe tuyến cố định, xe trung chuyển, xe buýt, xe taxi, xe hợp đồng, xe tải, xe chở khách, xe chở hàng)
+Căn cứ pháp lý:
+  * Quy định về hoạt động vận tải đường bộ (158/2024/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: - Đơn vị kinh doanh có Giấy phép kinh doanh vận tải bằng xe ô tô, bằng xe bốn bánh có gắn động cơ được cấp phù hiệu. Đơn vị kinh doanh có Giấy phép kinh doanh vận tải bằng xe ô tô, được cấp phù hiệu cho xe ô tô phù hợp với loại hình kinh doanh đã được cấp phép và đảm bảo các nguyên tắc sau:
+- Tại một thời điểm, mỗi xe chỉ được cấp và sử dụng một loại phù hiệu tương ứng với một loại hình kinh doanh vận tải;
+- Đơn vị kinh doanh vận tải kinh doanh vận tải hành khách theo tuyến cố định được Sở Xây dựng hai đầu tuyến cấp phù hiệu xe ô tô trung chuyển;
+- Phù hiệu được cấp lại khi hết hạn, khi bị mất hoặc bị hư hỏng, khi thay đổi chủ sở hữu phương tiện hoặc thay đổi đơn vị kinh doanh vận tải, khi bị thu hồi.
+- Trường hợp cấp lại phù hiệu khi hết hạn: đơn vị kinh doanh vận tải được đề nghị cấp lại phù hiệu trong khoảng thời gian 15 ngày tính đến ngày hết hạn phù hiệu.
+- Trường hợp cấp lại khi bị thu hồi: sau khi hết thời hạn bị thu hồi phù hiệu.
+Từ khóa: Không có thông tin
+Mô tả: - Đơn vị kinh doanh có Giấy phép kinh doanh vận tải bằng xe ô tô, bằng xe bốn bánh có gắn động cơ được cấp phù hiệu. Đơn vị kinh doanh có Giấy phép kinh doanh vận tải bằng xe ô tô, được cấp phù hiệu cho xe ô tô phù hợp với loại hình kinh doanh đã được cấp phép và đảm bảo các nguyên tắc sau:
+- Tại một thời điểm, mỗi xe chỉ được cấp và sử dụng một loại phù hiệu tương ứng với một loại hình kinh doanh vận tải;
+- Đơn vị kinh doanh vận tải kinh doanh vận tải hành khách theo tuyến cố định được Sở Xây dựng hai đầu tuyến cấp phù hiệu xe ô tô trung chuyển;
+- Phù hiệu được cấp lại khi hết hạn, khi bị mất hoặc bị hư hỏng, khi thay đổi chủ sở hữu phương tiện hoặc thay đổi đơn vị kinh doanh vận tải, khi bị thu hồi.
+- Trường hợp cấp lại phù hiệu khi hết hạn: đơn vị kinh doanh vận tải được đề nghị cấp lại phù hiệu trong khoảng thời gian 15 ngày tính đến ngày hết hạn phù hiệu.
+- Trường hợp cấp lại khi bị thu hồi: sau khi hết thời hạn bị thu hồi phù hiệu.

@@ -1,0 +1,82 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 2.002727
+Số quyết định: 1165/QĐ-BTC
+Tên thủ tục: Thủ tục cấp đổi Giấy chứng nhận đăng ký đầu tư theo thủ tục đầu tư đặc biệt 
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: NOT_ASSIGNED_REGULATION
+Lĩnh vực: Đầu tư tại Việt nam
+Trình tự thực hiện:
+    Trình tự thực hiện:
+    - Bước 1: Nhà đầu tư nộp 01 bộ hồ sơ đăng ký cấp đổi Giấy chứng nhận đăng ký đầu tư cho Ban quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế.
+    - Bước 2: Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ, Ban Ban quản lý khu công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế đánh giá hồ sơ và cấp Giấy chứng nhận đăng ký đầu tư.
+    Trường hợp dự án đầu tư gồm nhiều giai đoạn, nhà đầu tư được lựa chọn áp dụng thủ tục đầu tư đặc biệt đối với từng giai đoạn.
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 15 ngày hợp lệ kể từ ngày nhận được hồ sơ
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 15 ngày hợp lệ kể từ ngày nhận được hồ sơ
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 15 ngày
+    Phí, lệ phí: 0 VNĐ ()
+    Mô tả: 15 ngày hợp lệ kể từ ngày nhận được hồ sơ
+
+Thành phần hồ sơ:
+    - - Hợp đồng BCC đối với dự án đầu tư theo hình thức  hợp đồng BCC.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tài liệu khác liên quan đến dự án đầu tư, yêu cầu về  điều kiện, năng lực của nhà đầu tư theo quy định của pháp luật (nếu có).
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tài liệu chứng minh năng lực tài chính của  nhà đầu tư gồm ít nhất một trong các tài liệu sau: báo cáo tài chính 02 năm gần nhất của nhà đầu tư; cam kết hỗ trợ tài chính của công ty mẹ; cam kết hỗ trợ tài chính của tổ chức tài chính; bảo lãnh về năng lực tài chính của nhà đầu tư; tài liệu khác chứng minh năng lực tài chính của nhà đầu tư.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Báo cáo tình hình triển khai dự án đầu tư  đến thời điểm điều chỉnh.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Tài liệu về tư cách pháp lý của nhà đầu  tư.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Văn bản đề nghị thực hiện dự án đầu tư (trường hợp cấp đổi), gồm cả cam kết chịu mọi chi phí, rủi ro nếu dự án không được chấp thuận và bao gồm cam kết đáp ứng điều kiện, tiêu chuẩn, quy chuẩn theo quy định của pháp luật về xây dựng, bảo vệ môi trường, phòng cháy, chữa cháy.
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Trường hợp dự án đầu tư không đề nghị Nhà nước  giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất thì nộp bản sao giấy tờ về quyền sử dụng đất hoặc tài liệu khác xác định quyền sử dụng địa điểm để thực hiện dự án đầu tư;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - - Đề xuất dự án đầu tư (trường hợp cấp đổi) gồm các nội dung chủ yếu sau: nhà đầu tư hoặc hình thức lựa chọn nhà đầu tư, mục tiêu đầu tư, quy mô đầu tư, vốn đầu tư và phương án huy động vốn, địa điểm, thời hạn, tiến độ thực hiện, thông tin về hiện trạng sử dụng đất, sử dụng rừng, sử dụng khu vực biển (nếu có) tại địa điểm thực hiện dự án và đề xuất nhu cầu sử dụng đất (nếu có), sử dụng rừng (nếu có), sử dụng khu vực biển (nếu có), nhu cầu về lao động, đề xuất hưởng ưu đãi đầu tư, tác động, hiệu quả kinh tế - xã hội của dự án, nhận dạng, dự báo tác động đến môi trường và biện pháp giảm thiểu tác động xấu đến môi trường thay thế cho đánh giá sơ bộ tác động môi trường; cơ chế, chính sách đặc biệt (nếu có); việc sử dụng công nghệ hạn chế chuyển giao theo quy định của pháp luật về chuyển giao công nghệ (nếu có). Trường hợp pháp luật về xây dựng và pháp luật khác quy định lập báo cáo nghiên cứu tiền khả thi thì nhà đầu tư được nộp báo cáo nghiên cứu tiền khả thi thay cho đề xuất dự án đầu tư. Đối với dự án đầu tư thuộc thẩm quyền chấp thuận chủ trương đầu tư của Quốc hội, Thủ tướng Chính phủ có đề xuất chuyển mục đích sử dụng rừng sang mục đích khác thì nhà đầu tư nộp bổ sung hồ sơ đề xuất chuyển mục đích sử dụng rừng sang mục đích khác theo quy định của pháp luật về lâm nghiệp;
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Trường hợp dự án đầu tư không đề nghị Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất thì nộp bản sao giấy tờ về quyền sử dụng đất hoặc bản sao tài liệu khác xác định quyền sử dụng địa điểm để thực hiện dự án đầu tư
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Số lượng hồ sơ: 01 bộ.
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX), Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam, Doanh nghiệp, Người nước ngoài, Tổ chức nước ngoài, Hợp tác xã
+Cơ quan thực hiện: Ban quản lý khu công nghiệp, khu kinh tế, khu chế xuất, khu công nghệ cao các tỉnh, thành phố
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Giấy chứng nhận đăng ký đầu tưGiấy chứng nhận đăng ký đầu tư theo mẫu I.2.6 quy định tại Thông tư số 55/2026/TT-BTC hoặc văn bản từ chối, nêu rõ lý do.
+Căn cứ pháp lý:
+  * Luật Đầu tư số 143/2025/QH15 ngày 11/12/2025; (143/2025/QH15)
+  * định số 96/2026/NĐ-CP ngày 31/3/2026; (96/2026/NĐ-CP)
+  * Thông tư số 55/2026/TT-BTC ngày 15/5/2026. (55/2026/TT-BTC)
+
+Yêu cầu, điều kiện thực hiện: - Dự án đầu tư thuộc đối tượng quy định tại Điều 28 Luật Đầu tư đã được chấp thuận chủ trương đầu tư hoặc cấp Giấy chứng nhận đăng ký đầu tư trước ngày Luật Đầu tư có hiệu lực thi hành.
+- Đáp ứng các yêu cầu về:
++ Sự phù hợp của dự án với quy hoạch thực hiện theo nguyên tắc quy định tại khoản 4 Điều 47 Nghị định số 96/2026/NĐ-CP;
++ Tư cách pháp lý và kinh nghiệm của nhà đầu tư;
++ Nhu cầu sử dụng đất (nếu có);
++ Đối với dự án có đề nghị Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất thì đánh giá khả năng đáp ứng điều kiện giao đất, cho thuê đất, chuyển mục đích sử dụng đất theo quy định của pháp luật về đất đai; sự phù hợp của nhu cầu sử dụng đất với mục tiêu, quy mô, vốn đầu tư, địa điểm, tiến độ thực hiện dự án;
++ Tiến độ thực hiện dự án;
++ Nội dung cam kết của nhà đầu tư;
++ Ưu đãi đầu tư và điều kiện hưởng ưu đãi đầu tư (nếu có).
+- Dự án đầu tư tại khu công nghệ cao phải đáp ứng các nguyên tắc, tiêu chí đối với dự án thực hiện hoạt động công nghệ cao theo Luật Công nghệ cao và quy định của Chính phủ về khu công nghệ cao.
+Từ khóa: Không có thông tin
+Mô tả: - Dự án đầu tư thuộc đối tượng quy định tại Điều 28 Luật Đầu tư đã được chấp thuận chủ trương đầu tư hoặc cấp Giấy chứng nhận đăng ký đầu tư trước ngày Luật Đầu tư có hiệu lực thi hành.
+- Đáp ứng các yêu cầu về:
++ Sự phù hợp của dự án với quy hoạch thực hiện theo nguyên tắc quy định tại khoản 4 Điều 47 Nghị định số 96/2026/NĐ-CP;
++ Tư cách pháp lý và kinh nghiệm của nhà đầu tư;
++ Nhu cầu sử dụng đất (nếu có);
++ Đối với dự án có đề nghị Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất thì đánh giá khả năng đáp ứng điều kiện giao đất, cho thuê đất, chuyển mục đích sử dụng đất theo quy định của pháp luật về đất đai; sự phù hợp của nhu cầu sử dụng đất với mục tiêu, quy mô, vốn đầu tư, địa điểm, tiến độ thực hiện dự án;
++ Tiến độ thực hiện dự án;
++ Nội dung cam kết của nhà đầu tư;
++ Ưu đãi đầu tư và điều kiện hưởng ưu đãi đầu tư (nếu có).
+- Dự án đầu tư tại khu công nghệ cao phải đáp ứng các nguyên tắc, tiêu chí đối với dự án thực hiện hoạt động công nghệ cao theo Luật Công nghệ cao và quy định của Chính phủ về khu công nghệ cao.

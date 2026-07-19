@@ -1,0 +1,51 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 3.000095
+Số quyết định: 4221/EVN-KDMBD
+Tên thủ tục: Thay đổi công suất sử dụng điện/thay đổi loại công tơ 01 pha, 03 pha
+Cấp thực hiện: Cấp Bộ/Trung ương
+Loại thủ tục: OTHER
+Lĩnh vực: Dịch vụ trong quá trình thực hiện HĐMBĐ
+Trình tự thực hiện:
+    Tiếp nhận yêu cầu
+    Khảo sát
+    Lắp đặt nghiệm thu thiết bị đo đếm, ký Phụ lục hợp đồng hoặc ký HĐMBĐ mới
+
+Cách thức thực hiện:
+  * Hình thức nộp: ONLINE
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: POSTAL
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: 5 WORKING_DAY
+    Phí, lệ phí: 0 VNĐ ()
+
+Thành phần hồ sơ:
+  [ Thay đổi công suất sử dụng điện/thay đổi loại công tơ 01 pha, 03 pha ]
+    - Bảng kê thiết bị điện sử dụng
+      Số lượng: Bản chính: 0, Bản sao: 0
+    - Giấy đề nghị
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Thay đổi công suất sử dụng điện/thay đổi loại công tơ 01 pha, 03 pha (Đối với khách hàng SX, KD, DV có công suất sử dụng cực đại ≥ 40kW) ]
+    - Bản đăng ký biểu đồ phụ tải
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Bản đăng ký biểu đồ phụ tải
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Giấy đề nghị
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Công dân Việt Nam, Người nước ngoài, Doanh nghiệp, Tổ chức nước ngoài, Hợp tác xã, Doanh nghiệp có vốn đầu tư nước ngoài, Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Tập đoàn Điện lực Việt Nam
+Cơ quan có thẩm quyền: Tập đoàn Điện lực Việt Nam
+Địa chỉ tiếp nhận HS: Không có thông tin
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Phụ lục hợp đồng mua bán điện
+Căn cứ pháp lý:
+  * Luật điện lực (61/2024/QH15)
+  * Nghị định 18 (18/2025/NĐ-CP)
+
+Yêu cầu, điều kiện thực hiện: Không có thông tin
+Từ khóa: Không có thông tin
+Mô tả: Không có thông tin

@@ -1,0 +1,97 @@
+Chi tiết thủ tục hành chính
+Mã thủ tục: 6.006715
+Số quyết định: 1603/QĐ-UBND
+Tên thủ tục: Thẩm tra quyết toán dự án hoàn thành sử dụng vốn đầu tư công
+Cấp thực hiện: Cấp Tỉnh
+Loại thủ tục: LOCAL_REGULATION
+Lĩnh vực: Đầu tư tại Việt nam
+Trình tự thực hiện:
+  * Bước 1. Tiếp nhận hồ sơ:
+    Chủ đầu tư (trình hồ sơ quyết toán dự án hoàn thành) chuẩn bị đầy đủ hồ sơ trình thẩm tra quyết toán theo quy định, nộp hồ sơ trực tiếp tại Sở Tài chính. Sở Tài chính tiếp nhận, kiểm tra tính hợp lệ, đầy đủ của hồ sơ:
+    - Nếu hồ sơ chưa đảm bảo, đầy đủ theo quy định, thì hướng dẫn cụ thể hoặc có văn bản đề nghị cơ quan trình hồ sơ trình thẩm tra quyết toán điều chỉnh, bổ sung hoàn thiện hồ sơ trình thẩm tra.
+    - Trường hợp hồ sơ đảm bảo, đầy đủ thì tiếp nhận hồ sơ, cập nhật thông tin và lập phiếu giao nhận hồ sơ trình thẩm tra quyết toán theo quy định.
+  * Bước 2. Thẩm tra quyết toán:
+    - Trường hợp cần thiết, nếu hồ sơ quyết toán cần bổ sung các văn bản pháp
+    lý, hồ sơ khác làm cơ sở để thẩm tra, phê duyệt quyết toán, chủ đầu tư có trách
+    nhiệm xuất trình các tài liệu khác có liên quan để phục vụ công tác thẩm tra quyết
+    toán khi cơ quan chủ trì thẩm tra quyết toán đề nghị bằng văn bản.
+    - Trường hợp hồ sơ quyết toán, phát sinh các nội dung liên quan đến chức
+    năng, quản lý nhà nước của các cơ quan, đơn vị có liên quan, Sở Tài chính báo
+    cáo cấp có thẩm quyền phê duyệt quyết toán có văn bản lấy ý kiến của các cơ
+    quan liên quan, trên cơ sở ý kiến của các cơ quan, Sở Tài chính tổ chức thẩm tra
+    theo quy định.
+    - Trong quá trình thẩm tra quyết toán, trường hợp phát hiện thiếu hồ sơ hoặc
+    cần bổ sung hồ sơ, cơ quan chủ trì thẩm tra quyết toán có văn bản yêu cầu chủ
+    đầu tư bổ sung. Chủ đầu tư có trách nhiệm bổ sung hồ sơ theo yêu cầu thời gian
+    thẩm tra quyết toán được tính từ khi nhận đầy đủ hồ sơ theo yêu cầu.
+  * Bước 3. Phê duyệt quyết toán:
+    Chủ tịch Ủy ban nhân dân tỉnh phê duyệt quyết toán đối với các dự án thuộc
+    thẩm quyền quyết định đầu tư. Phân cấp cho Sở Tài chính phê duyệt quyết toán
+    đối với dự án đầu tư có tổng mức đầu tư không quá 5 tỷ đồng (gồm cả các dự án
+    cấp huyện bàn giao cho cấp tỉnh quản lý).
+
+Cách thức thực hiện:
+  * Hình thức nộp: DIRECT
+    Thời hạn giải quyết: Theo mô tả OTHER
+    Phí, lệ phí: Không có thông tin
+    Mô tả: - Thời gian chủ đầu tư lập hồ sơ quyết toán vốn đầu tư dự án hoàn thành trình phê duyệt được tính từ ngày dự án, công trình được ký biên bản nghiệm thu hoàn thành, bàn giao đưa vào khai thác, sử dụng theo quy định của pháp luật hoặc ngày có hiệu lực của văn bản cho phép dừng thực hiện dự án đến ngày chủ đầu tư nộp đầy đủ hồ sơ đến cơ quan chủ trì thẩm tra quyết toán.
++ Dự án nhóm A: 09 tháng. 
++ Dự án nhóm B: 06 tháng. 
++ Dự án nhóm C: 04 tháng.
+- Thời gian thẩm tra quyết toán vốn đầu tư dự án hoàn thành được tính từ ngày Sở Tài chính nhận đủ hồ sơ quyết toán (theo quy định tại Điều 33 Nghị định số 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ) đến ngày trình người có thẩm quyền phê duyệt quyết toán.
++ Dự án nhóm A: 08 tháng. 
++ Dự án nhóm B: 05 tháng. 
++ Dự án nhóm C: 04 tháng. 
+- Thời gian phê duyệt quyết toán vốn đầu tư dự án hoàn thành được tính từ ngày người có thẩm quyền phê duyệt quyết toán (theo quy định tại khoản 1 Điều 34 Nghị định 254/2025/NĐ-CP) nhận đủ hồ sơ trình duyệt quyết toán (theo quy định tại khoản 1 Điều 44 Nghị định số 254/2025/NĐ-CP) đến ngày ban hành quyết định phê duyệt quyết toán vốn đầu tư dự án hoàn thành.
++ Dự án nhóm A: 01 tháng. 
++ Dự án nhóm B: 20 ngày. 
++ Dự án nhóm C: 15 ngày.
+
+Thành phần hồ sơ:
+  [ Đối với dự án đầu tư công hoàn thành, hạng mục công trình hoàn thành; dự án đầu tư công dừng thực hiện vĩnh viễn có khối lượng thi công xây dựng, lắp đặt thiết bị: ]
+    - Tờ trình đề nghị phê duyệt quyết toán vốn đầu tư công dự án hoàn thành của chủ đầu tư. Trường hợp kiểm toán độc lập thực hiện kiểm toán, tờ trình phải nêu rõ những nội dung thống nhất, nội dung không thống nhất và lý do không thống nhất giữa chủ đầu tư và kiểm toán độc lập. Trường hợp các cơ quan thực hiện chức năng thanh tra (sau đây gọi là thanh tra), kiểm tra, Kiểm toán nhà nước, cơ quan pháp luật đã thực hiện thanh tra, kiểm tra, kiểm toán, điều tra dự án, trong tờ trình chủ đầu tư phải nêu rõ việc chấp hành các kiến nghị, kết luận của các cơ quan trên
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biểu mẫu báo cáo quyết toán theo quy định tại khoản 2 Điều 32 Nghị định số 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ và Thông tư số 91/2025/TTBTC ngày 26/9/2025 của Bộ trưởng Bộ Tài chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các văn bản pháp lý có liên quan
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ quyết toán chi phí của toàn bộ dự án; trong đó, hồ sơ quyết toán của từng hợp đồng gồm các tài liệu: Hợp đồng và các phụ lục bổ sung hợp đồng (nếu có); các biên bản nghiệm thu khối lượng hoàn thành theo giai đoạn thanh toán; biên bản nghiệm thu khối lượng hoàn thành toàn bộ hợp đồng; bảng tính giá trị quyết toán hợp đồng giữa chủ đầu tư và nhà thầu (sau đây gọi là quyết toán A - B) theo Mẫu số 03.c/QT; biên bản thanh lý hợp đồng đối với trường hợp đã đủ điều kiện thanh lý hợp đồng theo quy định của pháp luật về hợp đồng; các tài liệu khác theo thỏa thuận trong hợp đồng liên quan đến nội dung thẩm tra, phê duyệt quyết toán vốn đầu tư dự án hoàn thành
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biên bản nghiệm thu đưa vào sử dụng (nếu có)
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo kiểm toán của đơn vị kiểm toán độc lập trong trường hợp thuê kiểm toán độc lập thực hiện kiểm toán
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo kiểm toán hoặc thông báo kết quả kiểm toán (sau đây gọi chung là báo cáo kiểm toán), kết luận thanh tra, biên bản kiểm tra, quyết định xử lý vi phạm của các cơ quan Kiểm toán nhà nước, thanh tra, kiểm tra trong trường hợp các cơ quan này thực hiện thanh tra, kiểm tra, kiểm toán dự án; kết quả điều tra của các cơ quan pháp luật trong trường hợp dự án có vi phạm pháp luật bị cơ quan pháp luật điều tra. Báo cáo của chủ đầu tư kèm các tài liệu liên quan về tình hình chấp hành các kiến nghị của các cơ quan nêu trên.
+      Số lượng: Bản chính: 1, Bản sao: 0
+  [ Đối với dự án quy hoạch, dự án chuẩn bị đầu tư sử dụng vốn đầu tư công, dự án dừng thực hiện chưa có khối lượng thi công xây dựng, lắp đặt thiết bị: ]
+    - Tờ trình đề nghị phê duyệt quyết toán vốn đầu tư công dự án hoàn thành của chủ đầu tư. Trường hợp kiểm toán độc lập thực hiện kiểm toán, văn bản phải nêu rõ những nội dung thống nhất, nội dung không thống nhất và lý do không thống nhất giữa chủ đầu tư và kiểm toán độc lập. Trường hợp các cơ quan thực hiện chức năng thanh tra, kiểm tra, Kiểm toán nhà nước, cơ quan pháp luật đã thực hiện thanh tra, kiểm tra, kiểm toán, điều tra dự án, trong văn bản chủ đầu tư phải nêu rõ việc chấp hành các kiến nghị, kết luận của các cơ quan trên
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Hồ sơ quyết toán chi phí của toàn bộ dự án; trong đó, hồ sơ quyết toán của từng hợp đồng gồm các tài liệu: Hợp đồng và các phụ lục bổ sung hợp đồng (nếu có), các biên bản nghiệm thu khối lượng hoàn thành theo giai đoạn thanh toán (trừ trường hợp chưa có khối lượng thi công xây dựng, lắp đặt thiết bị); văn bản phê duyệt điều chỉnh, bổ sung, phát sinh, thay đổi (nếu có), biên bản nghiệm thu khối lượng hoàn thành theo hợp đồng (nếu có), quyết toán (A - B) theo Mẫu số 03.C/QT (nếu có), biên bản thanh lý hợp đồng đối với trường hợp đã đủ điều kiện thanh lý hợp đồng theo quy định của pháp luật về hợp đồng
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Các văn bản pháp lý có liên quan
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Báo cáo kiểm toán của kiểm toán độc lập trong trường hợp kiểm toán độc lập thực hiện kiểm toán
+      Số lượng: Bản chính: 1, Bản sao: 0
+    - Biểu mẫu báo cáo quyết toán theo quy định tại khoản 2 Điều 32 Nghị định số 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ và Thông tư số 91/2025/TTBTC ngày 26/9/2025 của Bộ trưởng Bộ Tài chính
+      Số lượng: Bản chính: 1, Bản sao: 0
+
+Đối tượng thực hiện: Tổ chức (không bao gồm doanh nghiệp, HTX)
+Cơ quan thực hiện: Không có thông tin
+Cơ quan có thẩm quyền: Không có thông tin
+Địa chỉ tiếp nhận HS: - Trung tâm Phục vụ hành chính công tỉnh Lào Cai (quầy giao dịch Sở Tài chính) tại địa chỉ:
++ Cơ sở 1: Số 64,
+đường Lý Tự Trọng, phường Yên Bái, tỉnh Lào Cai.
++ Cơ sở 2: Đại lộ Trần Hưng Đạo, phường Cam Đường, tỉnh Lào Cai.
+Cơ quan được ủy quyền: Không có thông tin
+Cơ quan phối hợp: Không có thông tin
+Kết quả thực hiện: Quyết định phê duyệt quyết toán vốn đầu tư dự án (dự án thành phần, tiểu dự án độc lập, công trình, hạng mục công trình độc lập) hoàn thành
+Căn cứ pháp lý:
+  * Nghị định số 254/2025/NĐ-CP ngày 26/9/2025 của Chính phủ quy định về quản lý, thanh toán, quyết toán dự án sử dụng vốn đầu tư công. (254/2025/NĐ-CP)
+  * Quy định về hệ thống mẫu biểu sử dụng trong công tác quyết toán (Thông tư số 91/2025/TT-BTC)
+  * Quyết định số 11/2026/QĐ-UBND ngày 29/01/2026 của UBND tỉnh Lào
+Cai ban hành quy định một số nội dung về quản lý đầu tư và xây dựng trên địa
+bàn tỉnh Lào Cai (11/2026/qđ-ubnd)
+
+Yêu cầu, điều kiện thực hiện: Không quy định.
+Từ khóa: Không có thông tin
+Mô tả: Không quy định.
