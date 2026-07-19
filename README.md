@@ -7,12 +7,6 @@ VNGov là sản phẩm demo cho Vietnam AI Innovation Challenge 2026. Ứng dụ
 <img width="1903" height="866" alt="1" src="https://github.com/user-attachments/assets/210911b6-c81e-4461-93b2-5d7b1d32814b" />
 <img width="1893" height="863" alt="3" src="https://github.com/user-attachments/assets/ddc0ef90-6721-41ce-aeeb-1529d571f3dd" />
 
-## Truy cập nhanh
-
-- Web demo: [vngov.vercel.app](https://vngov.vercel.app/)
-- API demo: [vngov-api-j53prjslqa-as.a.run.app](https://vngov-api-j53prjslqa-as.a.run.app/)
-- API documentation: [Swagger UI](https://vngov-api-j53prjslqa-as.a.run.app/docs)
-
 ## Vấn đề và giải pháp
 
 Người dân thường không rõ mình phải thực hiện thủ tục nào, chuẩn bị giấy tờ gì hoặc có điền sai thông tin trước khi nộp hay không. VNGov biến hành trình này thành một luồng rõ ràng:
