@@ -27,7 +27,9 @@ export default function PreliminaryPassState({
         <CheckCircleIcon className="w-4 h-4 shrink-0" />
         Đã vượt qua kiểm tra sơ bộ
       </h5>
-      <p className="text-[10px] leading-relaxed font-semibold text-[var(--vg-success)]">{summaryMessage}</p>
+      {summaryMessage && !summaryMessage.includes("demo MVP") && !summaryMessage.includes("K1") && (
+        <p className="text-[10px] leading-relaxed font-semibold text-[var(--vg-success)]">{summaryMessage}</p>
+      )}
       <TrustBadge
         trustState={trustMetadata?.trust_state ?? null}
         fixtureMode={trustMetadata?.fixture_mode}

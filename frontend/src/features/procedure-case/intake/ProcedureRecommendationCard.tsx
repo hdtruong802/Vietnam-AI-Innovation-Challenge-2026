@@ -24,7 +24,6 @@ export default function ProcedureRecommendationCard({
           Thủ tục được đề xuất
         </span>
         <h4 className="text-sm font-bold text-[var(--vg-text)] mt-0.5">{candidate.name}</h4>
-        <p className="text-xs text-[var(--vg-text-secondary)] mt-1 leading-relaxed">{candidate.reason}</p>
       </div>
 
       <TrustBadge

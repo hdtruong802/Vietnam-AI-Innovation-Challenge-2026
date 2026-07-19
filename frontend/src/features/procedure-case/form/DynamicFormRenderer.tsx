@@ -29,7 +29,7 @@ export default function DynamicFormRenderer({
   const required = checklist.form_schema?.required ?? [];
 
   return (
-    <div className="space-y-3.5 overflow-visible xl:max-h-[min(58vh,620px)] xl:overflow-y-auto xl:pr-2">
+    <div className="grid grid-cols-1 gap-x-4 gap-y-3.5 md:grid-cols-2 overflow-visible xl:max-h-[min(58vh,620px)] xl:overflow-y-auto xl:pr-2">
       {Object.entries(properties).map(([key, property]) => (
         <FormFieldRenderer
           key={key}

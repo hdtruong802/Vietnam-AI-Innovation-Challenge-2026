@@ -56,14 +56,6 @@ export default function TrustBadge({ trustState, fixtureMode, demoMode }: TrustB
           <span>Chế độ demo dữ liệu mẫu</span>
         </span>
       )}
-      {demoMode && (
-        <>
-          <span className="inline-flex items-center gap-1 px-2 py-1 rounded-lg border border-amber-300 bg-amber-50 text-[10px] font-bold text-amber-900">
-            <span>Đã kiểm thử cho demo MVP</span>
-          </span>
-          <span className="text-[10px] font-bold text-error">Không phải K1</span>
-        </>
-      )}
     </div>
   );
 }
