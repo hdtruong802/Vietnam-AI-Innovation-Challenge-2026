@@ -4,6 +4,9 @@ VNGov là sản phẩm demo cho Vietnam AI Innovation Challenge 2026. Ứng dụ
 
 > Đây là sản phẩm thử nghiệm cho hackathon, không phải Cổng Dịch vụ công Quốc gia và không thay thế quyết định của cơ quan có thẩm quyền.
 
+<img width="1903" height="866" alt="1" src="https://github.com/user-attachments/assets/210911b6-c81e-4461-93b2-5d7b1d32814b" />
+<img width="1893" height="863" alt="3" src="https://github.com/user-attachments/assets/ddc0ef90-6721-41ce-aeeb-1529d571f3dd" />
+
 ## Truy cập nhanh
 
 - Web demo: [vngov.vercel.app](https://vngov.vercel.app/)
