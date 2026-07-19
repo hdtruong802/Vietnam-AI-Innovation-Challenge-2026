@@ -118,7 +118,6 @@ def test_fixture_checklist_and_precheck_fail_closed(client: TestClient) -> None:
         json={"clarification_answers": {}},
     )
     validation = client.post(
-        "/v1/applications/prefill",
         "/v1/applications/validate",
         json={"procedure_id": "dang-ky-khai-sinh", "form_data": {}},
     )
@@ -141,7 +140,6 @@ def test_unknown_procedure_and_invalid_body_use_safe_error_envelope(
     client: TestClient,
 ) -> None:
     unknown = client.post(
-        "/v1/applications/prefill",
         "/v1/applications/validate",
         json={"procedure_id": "unknown", "form_data": {}},
     )
@@ -178,12 +176,10 @@ def test_approved_adapter_enables_deterministic_precheck() -> None:
     client = TestClient(create_app(settings=settings, container=container))
 
     invalid = client.post(
-        "/v1/applications/prefill",
         "/v1/applications/validate",
         json={"procedure_id": "dang-ky-khai-sinh", "form_data": {}},
     )
     valid = client.post(
-        "/v1/applications/prefill",
         "/v1/applications/validate",
         json={
             "procedure_id": "dang-ky-khai-sinh",
@@ -218,7 +214,6 @@ def test_candidate_source_exposes_cited_checklist_but_keeps_precheck_closed() ->
         json={"clarification_answers": {}},
     )
     validation = candidate_client.post(
-        "/v1/applications/prefill",
         "/v1/applications/validate",
         json={"procedure_id": "dang-ky-khai-sinh", "form_data": {}},
     )
@@ -313,7 +308,6 @@ def test_production_disabled_is_degraded_and_never_exposes_fixture_data() -> Non
         json={"clarification_answers": {}},
     )
     validation = production_client.post(
-        "/v1/applications/prefill",
         "/v1/applications/validate",
         json={"procedure_id": "dang-ky-khai-sinh", "form_data": {}},
     )

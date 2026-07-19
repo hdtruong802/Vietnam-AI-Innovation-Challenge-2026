@@ -18,6 +18,10 @@ ALLOWED_DATA_PATTERNS = (
     # Curated public-source text used as review input. The guard deliberately
     # validates only Git metadata, never source content.
     re.compile(r"data/Data_DVC/[^/]+\.txt\Z"),
+    # Public official-form templates used by the procedure workspace.  Their
+    # content remains opaque to CI; only an explicit path and blob-size cap
+    # are accepted here.
+    re.compile(r"data/form/[^/]+\.(?:doc|docx)\Z"),
     # Family registry is metadata consumed by release tooling, not a raw
     # document payload.
     re.compile(r"data/registry/procedure-family-registry\.csv\Z"),

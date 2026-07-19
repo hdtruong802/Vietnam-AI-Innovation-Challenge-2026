@@ -262,6 +262,7 @@ def test_openapi_route_set_includes_feedback(client: TestClient) -> None:
         "/",
         "/health",
         "/v1/feedback",
+        "/v1/applications/prefill",
         "/v1/applications/validate",
         "/v1/intake/turn",
         "/v1/procedures",

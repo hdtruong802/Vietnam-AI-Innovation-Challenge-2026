@@ -166,6 +166,17 @@ def _required_field_rules(
                     source_ref_ids=[citation_ref_id],
                 )
             )
+            rules.append(
+                ValidationRule(
+                    rule_id=f"{procedure_id.upper()}-DATE-NOT-FUTURE-{idx}",
+                    type=ValidationRuleType.DATE_NOT_FUTURE,
+                    field_id=field_id,
+                    severity=FindingSeverity.ERROR,
+                    message=f"{label} không được là ngày trong tương lai.",
+                    fix_hint="Kiểm tra lại ngày đã nhập; ngày này phải là hôm nay hoặc trước hôm nay.",
+                    source_ref_ids=[citation_ref_id],
+                )
+            )
     return rules
 
 
@@ -272,14 +283,27 @@ def build_procedure_pack_from_evidence(
 _BIRTH_FORM_SCHEMA = {
     "type": "object",
     "properties": {
-        "ho_ten_tre": {"type": "string", "title": "Họ và tên trẻ", "minLength": 2},
+        "ho_ten_tre": {
+            "type": "string",
+            "title": "Họ và tên trẻ",
+            "minLength": 4,
+            "pattern": r"^[A-Za-zÀ-ỹĐđ]+(?:[ -][A-Za-zÀ-ỹĐđ]+)+$",
+        },
         "ngay_sinh_tre": {
             "type": "string",
             "title": "Ngày sinh của trẻ",
             "format": "date",
         },
-        "ho_ten_cha": {"type": "string", "title": "Họ và tên cha"},
-        "ho_ten_me": {"type": "string", "title": "Họ và tên mẹ"},
+        "ho_ten_cha": {
+            "type": "string",
+            "title": "Họ và tên cha",
+            "pattern": r"^[A-Za-zÀ-ỹĐđ]+(?:[ -][A-Za-zÀ-ỹĐđ]+)+$",
+        },
+        "ho_ten_me": {
+            "type": "string",
+            "title": "Họ và tên mẹ",
+            "pattern": r"^[A-Za-zÀ-ỹĐđ]+(?:[ -][A-Za-zÀ-ỹĐđ]+)+$",
+        },
     },
     "required": ["ho_ten_tre", "ngay_sinh_tre", "ho_ten_me"],
 }

@@ -149,7 +149,11 @@ class LLMGateway:
             return None
         field_specs = []
         for field_id, prop in properties.items():
-            spec = {"id": field_id, "title": prop.get("title", field_id), "type": prop.get("type", "string")}
+            spec = {
+                "id": field_id,
+                "title": prop.get("title", field_id),
+                "type": prop.get("type", "string"),
+            }
             if prop.get("format"):
                 spec["format"] = prop["format"]
             if prop.get("enum"):
@@ -167,7 +171,11 @@ class LLMGateway:
             expected = prop.get("type", "string")
             if expected == "boolean" and isinstance(value, bool):
                 cleaned[field_id] = value
-            elif expected in ("number", "integer") and isinstance(value, (int, float)) and not isinstance(value, bool):
+            elif (
+                expected in ("number", "integer")
+                and isinstance(value, (int, float))
+                and not isinstance(value, bool)
+            ):
                 cleaned[field_id] = value
             elif expected == "string" and isinstance(value, str) and value.strip():
                 text_value = value.strip()[:300]

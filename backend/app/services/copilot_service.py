@@ -285,9 +285,7 @@ class CopilotService:
             if not await self._llm_provider.is_available():
                 return []
             summaries = await self._procedure_repository.list_procedures()
-            catalog = [
-                {"procedure_id": item.procedure_id, "name": item.name} for item in summaries
-            ]
+            catalog = [{"procedure_id": item.procedure_id, "name": item.name} for item in summaries]
             procedure_id = await classify(need_text, catalog)
         except Exception:
             return []
